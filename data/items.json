@@ -1,12 +1,75 @@
 [
   {
+    "description": "Plugin for AI coding agents - Claude Code, Cursor, Codex CLI, Gemini CLI - that injects archetype-aware code conventions",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:19:35Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "Deterministic compiler for cost-aware prompt optimization.",
+    "id": "faraa2m/promptc",
+    "language": "TypeScript",
+    "name": "faraa2m/promptc",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:19:33Z",
+    "url": "https://github.com/faraa2m/promptc"
+  },
+  {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 3,
+    "updated_at": "2026-05-24T15:19:31Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "AI coding agent framework \u2014 portable, stage-gated harness for Claude Code, Codex, and OpenCode",
+    "id": "appautomaton/automaton",
+    "language": "JavaScript",
+    "name": "appautomaton/automaton",
+    "stars": 7,
+    "updated_at": "2026-05-24T15:18:54Z",
+    "url": "https://github.com/appautomaton/automaton"
+  },
+  {
+    "description": "LLM cost calculator, token counter, latency benchmark, CI guardrail, MCP server, and VS Code/Cursor extension.",
+    "id": "faraa2m/tokenometer",
+    "language": "TypeScript",
+    "name": "faraa2m/tokenometer",
+    "stars": 1,
+    "updated_at": "2026-05-24T15:18:20Z",
+    "url": "https://github.com/faraa2m/tokenometer"
+  },
+  {
     "description": "Curated Custom GPT configurations, system prompts, knowledge files and documentation.",
     "id": "adrianweidig/custom-gpts",
     "language": "\u2014",
     "name": "adrianweidig/custom-gpts",
     "stars": 1,
-    "updated_at": "2026-05-24T15:15:20Z",
+    "updated_at": "2026-05-24T15:17:08Z",
     "url": "https://github.com/adrianweidig/custom-gpts"
+  },
+  {
+    "description": "\u9762\u5411\u6240\u6709\u521b\u610f\u4f5c\u54c1\u7684\u901a\u7528\u63d0\u793a\u8bcd\u5de5\u5177\u2014\u2014\u89c6\u9891\u3001\u56fe\u7247\u3001\u6d77\u62a5\u3001\u5e7b\u706f\u7247\u3001\u5c01\u9762\u3002\u505a\u9009\u62e9\u9898\u5c31\u80fd\u51fa\u4e13\u4e1a prompt\uff0c\u96f6\u586b\u7a7a\u3001\u96f6\u8d39\u7528\u3001\u96f6\u767b\u5f55\u3002A universal prompt-building tool for all creative outputs",
+    "id": "prompt-tools/controllable-prompt-guide",
+    "language": "TypeScript",
+    "name": "prompt-tools/controllable-prompt-guide",
+    "stars": 3,
+    "updated_at": "2026-05-24T15:16:33Z",
+    "url": "https://github.com/prompt-tools/controllable-prompt-guide"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:15:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Build high-quality software faster with AI-driven lifecycle management.",
@@ -36,13 +99,13 @@
     "url": "https://github.com/eddielueng/gptimage"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic sear",
+    "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:11:12Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1333,
+    "updated_at": "2026-05-24T15:10:38Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "Multi-perspective code review council for Claude Code. 3 advisors by default, 10 agents in deep mode (Opus + Codex). Evi",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "automl/promptolution",
     "stars": 134,
-    "updated_at": "2026-05-24T15:08:49Z",
+    "updated_at": "2026-05-24T15:17:52Z",
     "url": "https://github.com/automl/promptolution"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/FURUYAN1234/story-maker"
   },
   {
-    "description": "LLM cost calculator, token counter, latency benchmark, CI guardrail, MCP server, and VS Code/Cursor extension.",
-    "id": "faraa2m/tokenometer",
-    "language": "TypeScript",
-    "name": "faraa2m/tokenometer",
-    "stars": 1,
-    "updated_at": "2026-05-24T14:57:15Z",
-    "url": "https://github.com/faraa2m/tokenometer"
-  },
-  {
     "description": "Taskflow Support Intelligence",
     "id": "priyanka-manoj/Text-Analysis-LLM-Taskflow",
     "language": "Jupyter Notebook",
@@ -196,15 +250,6 @@
     "stars": 15,
     "updated_at": "2026-05-24T14:47:22Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic sear",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1332,
-    "updated_at": "2026-05-24T15:10:38Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "Community-maintained catalog of AI agent skills \u2014 structured, searchable and integrated with the OpenModels ecosystem.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T14:34:32Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:34:26Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:34:25Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:34:22Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:34:22Z",
-    "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:34:05Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
   }
 ]
