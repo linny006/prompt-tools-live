@@ -1,5 +1,77 @@
 [
   {
+    "description": " Markdown-only \"Second Brain\" convention for AI coding agents \u2014 one folder,   one contract, so every agent recovers the ",
+    "id": "chatchai98/Agent-SWI",
+    "language": "PowerShell",
+    "name": "chatchai98/Agent-SWI",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:27:51Z",
+    "url": "https://github.com/chatchai98/Agent-SWI"
+  },
+  {
+    "description": "Free AI/ML course with 950+ Jupyter notebooks \u2014 Python, deep learning, LLMs, RAG, agents, prompt engineering, fine-tunin",
+    "id": "PavanMudigonda/zero-to-ai",
+    "language": "Jupyter Notebook",
+    "name": "PavanMudigonda/zero-to-ai",
+    "stars": 20,
+    "updated_at": "2026-05-24T15:25:15Z",
+    "url": "https://github.com/PavanMudigonda/zero-to-ai"
+  },
+  {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 3,
+    "updated_at": "2026-05-24T15:23:39Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:20:58Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:20:38Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "yuragi \u2014 LLM Confidence Fragility Analyzer. Perturbation-driven hallucination detection with workshop-grade real benchma",
+    "id": "hinanohart/yuragi",
+    "language": "Python",
+    "name": "hinanohart/yuragi",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:22:02Z",
+    "url": "https://github.com/hinanohart/yuragi"
+  },
+  {
+    "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 5,
+    "updated_at": "2026-05-24T15:27:52Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:19:51Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Plugin for AI coding agents - Claude Code, Cursor, Codex CLI, Gemini CLI - that injects archetype-aware code conventions",
     "id": "crisnahine/chameleon",
     "language": "Python",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T15:19:33Z",
     "url": "https://github.com/faraa2m/promptc"
-  },
-  {
-    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
-    "id": "zigrivers/scaffold",
-    "language": "TypeScript",
-    "name": "zigrivers/scaffold",
-    "stars": 3,
-    "updated_at": "2026-05-24T15:19:31Z",
-    "url": "https://github.com/zigrivers/scaffold"
   },
   {
     "description": "AI coding agent framework \u2014 portable, stage-gated harness for Claude Code, Codex, and OpenCode",
@@ -50,7 +113,7 @@
     "language": "\u2014",
     "name": "adrianweidig/custom-gpts",
     "stars": 1,
-    "updated_at": "2026-05-24T15:17:08Z",
+    "updated_at": "2026-05-24T15:30:18Z",
     "url": "https://github.com/adrianweidig/custom-gpts"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-05-24T15:16:33Z",
     "url": "https://github.com/prompt-tools/controllable-prompt-guide"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:15:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Build high-quality software faster with AI-driven lifecycle management.",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "event4u-app/agent-config",
     "stars": 5,
-    "updated_at": "2026-05-24T15:13:35Z",
+    "updated_at": "2026-05-24T15:23:57Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "Zandereins/hydra",
     "stars": 0,
-    "updated_at": "2026-05-24T15:09:47Z",
+    "updated_at": "2026-05-24T15:26:14Z",
     "url": "https://github.com/Zandereins/hydra"
   },
   {
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21548,
-    "updated_at": "2026-05-24T15:06:20Z",
+    "updated_at": "2026-05-24T15:29:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T15:05:27Z",
     "url": "https://github.com/Pukujan/litigation-prompt-engineering"
-  },
-  {
-    "description": " Markdown-only \"Second Brain\" convention for AI coding agents \u2014 one folder,   one contract, so every agent recovers the ",
-    "id": "chatchai98/Agent-SWI",
-    "language": "PowerShell",
-    "name": "chatchai98/Agent-SWI",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:03:12Z",
-    "url": "https://github.com/chatchai98/Agent-SWI"
   },
   {
     "description": "Pain-weighted hybrid memory for LLM agents. FTS5 + sqlite-vec + RRF + KG. MIT, open source. Published benchmarks.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T14:35:09Z",
     "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 1,
-    "updated_at": "2026-05-24T14:35:08Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 1,
-    "updated_at": "2026-05-24T14:35:01Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Generate production-ready UGC video ad prompts for Higgsfield AI Marketing Studio from your reference images and product",
-    "id": "carreras66848657/claude-skill-ugc-prompt",
-    "language": "\u2014",
-    "name": "carreras66848657/claude-skill-ugc-prompt",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:34:43Z",
-    "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:34:36Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:34:32Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
   }
 ]
