@@ -1,5 +1,50 @@
 [
   {
+    "description": "Curated Custom GPT configurations, system prompts, knowledge files and documentation.",
+    "id": "adrianweidig/custom-gpts",
+    "language": "\u2014",
+    "name": "adrianweidig/custom-gpts",
+    "stars": 1,
+    "updated_at": "2026-05-24T15:15:20Z",
+    "url": "https://github.com/adrianweidig/custom-gpts"
+  },
+  {
+    "description": "Build high-quality software faster with AI-driven lifecycle management.",
+    "id": "markhazleton/devspark",
+    "language": "Python",
+    "name": "markhazleton/devspark",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:13:24Z",
+    "url": "https://github.com/markhazleton/devspark"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
+    "id": "event4u-app/agent-config",
+    "language": "Python",
+    "name": "event4u-app/agent-config",
+    "stars": 5,
+    "updated_at": "2026-05-24T15:13:35Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c370+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+    "id": "eddielueng/gptimage",
+    "language": "JavaScript",
+    "name": "eddielueng/gptimage",
+    "stars": 1,
+    "updated_at": "2026-05-24T15:11:41Z",
+    "url": "https://github.com/eddielueng/gptimage"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:11:12Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Multi-perspective code review council for Claude Code. 3 advisors by default, 10 agents in deep mode (Opus + Codex). Evi",
     "id": "Zandereins/hydra",
     "language": "Python",
@@ -18,13 +63,13 @@
     "url": "https://github.com/automl/promptolution"
   },
   {
-    "description": "Curated Custom GPT configurations, system prompts, knowledge files and documentation.",
-    "id": "adrianweidig/custom-gpts",
-    "language": "\u2014",
-    "name": "adrianweidig/custom-gpts",
-    "stars": 1,
-    "updated_at": "2026-05-24T15:11:09Z",
-    "url": "https://github.com/adrianweidig/custom-gpts"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21548,
+    "updated_at": "2026-05-24T15:06:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T14:57:08Z",
     "url": "https://github.com/priyanka-manoj/Text-Analysis-LLM-Taskflow"
-  },
-  {
-    "description": "Build high-quality software faster with AI-driven lifecycle management.",
-    "id": "markhazleton/devspark",
-    "language": "Python",
-    "name": "markhazleton/devspark",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:55:42Z",
-    "url": "https://github.com/markhazleton/devspark"
   },
   {
     "description": "Developed a scalable pipeline using Python to crawl jobs from platforms like Greenhouse, Lever, and Workday, normalize d",
@@ -214,15 +250,6 @@
     "stars": 25,
     "updated_at": "2026-05-24T14:41:39Z",
     "url": "https://github.com/leeex1/Quillan-Ronin"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
-    "id": "event4u-app/agent-config",
-    "language": "Python",
-    "name": "event4u-app/agent-config",
-    "stars": 5,
-    "updated_at": "2026-05-24T15:01:22Z",
-    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T14:34:05Z",
     "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:33:36Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:33:27Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:33:14Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
   }
 ]
