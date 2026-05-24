@@ -1,12 +1,75 @@
 [
   {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:15:16Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "Rigorous LLM research in two layers: a multi-agent dialectic synthesis prompt + an agent-loadable research skill. Hierar",
+    "id": "weijia-89/palamedes",
+    "language": "JavaScript",
+    "name": "weijia-89/palamedes",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:14:58Z",
+    "url": "https://github.com/weijia-89/palamedes"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-05-24T16:11:48Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "\u5168\u57df\u6df1\u5ea6\u5206\u6790\u6846\u67b6-Profound Cognition",
+    "id": "llootupsl/profound-cognition",
+    "language": "PowerShell",
+    "name": "llootupsl/profound-cognition",
+    "stars": 1,
+    "updated_at": "2026-05-24T16:10:25Z",
+    "url": "https://github.com/llootupsl/profound-cognition"
+  },
+  {
+    "description": "\ud83e\udde0 Learn how to design large-scale AI systems. Prep for the AI system design interview. RAG, agents, vector DBs, evals, c",
+    "id": "vishwasvijayabaskar-code/ai-system-design-primer",
+    "language": "\u2014",
+    "name": "vishwasvijayabaskar-code/ai-system-design-primer",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:09:38Z",
+    "url": "https://github.com/vishwasvijayabaskar-code/ai-system-design-primer"
+  },
+  {
     "description": "Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready).",
     "id": "charlieviettq/awesome-agent-skill",
     "language": "Python",
     "name": "charlieviettq/awesome-agent-skill",
     "stars": 6,
-    "updated_at": "2026-05-24T15:57:31Z",
+    "updated_at": "2026-05-24T16:07:34Z",
     "url": "https://github.com/charlieviettq/awesome-agent-skill"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21548,
+    "updated_at": "2026-05-24T16:06:25Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "140+ specialized AI agent skills for Claude Code / Codex CLI / Antigravity CLI (agy) \u2014 prompt engineering assets coverin",
@@ -131,7 +194,7 @@
     "language": "PowerShell",
     "name": "kostiantyn-matsebora/ginee",
     "stars": 0,
-    "updated_at": "2026-05-24T15:45:45Z",
+    "updated_at": "2026-05-24T16:14:27Z",
     "url": "https://github.com/kostiantyn-matsebora/ginee"
   },
   {
@@ -144,20 +207,11 @@
     "url": "https://github.com/sanjayrkshetty/claude-code-best-practices"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Multi-perspective code review council for Claude Code. 3 advisors by default, 10 agents in deep mode (Opus + Codex). Evi",
     "id": "Zandereins/hydra",
     "language": "Python",
     "name": "Zandereins/hydra",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-24T15:44:11Z",
     "url": "https://github.com/Zandereins/hydra"
   },
@@ -261,15 +315,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21548,
-    "updated_at": "2026-05-24T15:53:29Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic sear",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
@@ -329,7 +374,7 @@
     "language": "Jupyter Notebook",
     "name": "PavanMudigonda/zero-to-ai",
     "stars": 20,
-    "updated_at": "2026-05-24T15:25:15Z",
+    "updated_at": "2026-05-24T16:14:53Z",
     "url": "https://github.com/PavanMudigonda/zero-to-ai"
   },
   {
@@ -338,7 +383,7 @@
     "language": "TypeScript",
     "name": "zigrivers/scaffold",
     "stars": 3,
-    "updated_at": "2026-05-24T15:54:41Z",
+    "updated_at": "2026-05-24T16:08:14Z",
     "url": "https://github.com/zigrivers/scaffold"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-05-24T15:16:33Z",
     "url": "https://github.com/prompt-tools/controllable-prompt-guide"
-  },
-  {
-    "description": "Build high-quality software faster with AI-driven lifecycle management.",
-    "id": "markhazleton/devspark",
-    "language": "Python",
-    "name": "markhazleton/devspark",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:13:24Z",
-    "url": "https://github.com/markhazleton/devspark"
-  },
-  {
-    "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c370+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
-    "id": "eddielueng/gptimage",
-    "language": "JavaScript",
-    "name": "eddielueng/gptimage",
-    "stars": 1,
-    "updated_at": "2026-05-24T15:11:41Z",
-    "url": "https://github.com/eddielueng/gptimage"
-  },
-  {
-    "description": "A unified, modular framework for prompt optimization",
-    "id": "automl/promptolution",
-    "language": "Python",
-    "name": "automl/promptolution",
-    "stars": 134,
-    "updated_at": "2026-05-24T15:17:52Z",
-    "url": "https://github.com/automl/promptolution"
-  },
-  {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 2,
-    "updated_at": "2026-05-24T15:05:42Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
-    "description": "Reference platform for litigation document AI pipelines: modular monolith, versioned prompts, golden evals, and agent-sc",
-    "id": "Pukujan/litigation-prompt-engineering",
-    "language": "JavaScript",
-    "name": "Pukujan/litigation-prompt-engineering",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:05:27Z",
-    "url": "https://github.com/Pukujan/litigation-prompt-engineering"
   }
 ]
