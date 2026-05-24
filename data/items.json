@@ -1,21 +1,39 @@
 [
   {
-    "description": "Codex-native Intent-Driven Development template for OpenSpec with /opsx commands, Codex Goal hand-offs, ADRs, C4, Gherki",
-    "id": "AlekseiSeleznev/intent-driven-codex",
-    "language": "Shell",
-    "name": "AlekseiSeleznev/intent-driven-codex",
-    "stars": 0,
-    "updated_at": "2026-05-24T19:59:40Z",
-    "url": "https://github.com/AlekseiSeleznev/intent-driven-codex"
+    "description": "Inspect your MCP tool setup - see context weight, token usage, server dominance, and tool overlaps before your agent run",
+    "id": "nishantmodak/tare-mcp",
+    "language": "TypeScript",
+    "name": "nishantmodak/tare-mcp",
+    "stars": 3,
+    "updated_at": "2026-05-24T20:14:14Z",
+    "url": "https://github.com/nishantmodak/tare-mcp"
   },
   {
-    "description": "Curated Custom GPT configurations, system prompts, knowledge files and documentation.",
-    "id": "adrianweidig/custom-gpts",
+    "description": "Prompture is an API-first library for requesting structured JSON output from LLMs (or any structure), validating it agai",
+    "id": "jhd3197/Prompture",
     "language": "Python",
-    "name": "adrianweidig/custom-gpts",
-    "stars": 1,
-    "updated_at": "2026-05-24T19:59:36Z",
-    "url": "https://github.com/adrianweidig/custom-gpts"
+    "name": "jhd3197/Prompture",
+    "stars": 9,
+    "updated_at": "2026-05-24T20:13:54Z",
+    "url": "https://github.com/jhd3197/Prompture"
+  },
+  {
+    "description": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic sear",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1335,
+    "updated_at": "2026-05-24T20:12:54Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Portable, version-controlled Claude Code configuration \u2014 structured engineering workflows with problem definition, syste",
+    "id": "chriscantu/claude-config",
+    "language": "TypeScript",
+    "name": "chriscantu/claude-config",
+    "stars": 0,
+    "updated_at": "2026-05-24T20:11:53Z",
+    "url": "https://github.com/chriscantu/claude-config"
   },
   {
     "description": "Adaptive Optimization Framework 2.0 - recursive meta-cognitive optimization across domains. Source-available under BUSL ",
@@ -23,8 +41,116 @@
     "language": "TypeScript",
     "name": "Kuonirad/MCOP-Framework-2.0",
     "stars": 1,
-    "updated_at": "2026-05-24T19:58:31Z",
+    "updated_at": "2026-05-24T20:13:29Z",
     "url": "https://github.com/Kuonirad/MCOP-Framework-2.0"
+  },
+  {
+    "description": "Curated Custom GPT configurations, system prompts, knowledge files and documentation.",
+    "id": "adrianweidig/custom-gpts",
+    "language": "Python",
+    "name": "adrianweidig/custom-gpts",
+    "stars": 1,
+    "updated_at": "2026-05-24T20:09:00Z",
+    "url": "https://github.com/adrianweidig/custom-gpts"
+  },
+  {
+    "description": "Self-hosted AI evaluation framework \u2014 run prompts across Claude, GPT-4o, and Gemini in parallel with 4 scoring methods, ",
+    "id": "Danultimate/evalify",
+    "language": "JavaScript",
+    "name": "Danultimate/evalify",
+    "stars": 0,
+    "updated_at": "2026-05-24T20:08:39Z",
+    "url": "https://github.com/Danultimate/evalify"
+  },
+  {
+    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
+    "id": "Paulessus/odin-gemini-mcp-bridge",
+    "language": "HTML",
+    "name": "Paulessus/odin-gemini-mcp-bridge",
+    "stars": 0,
+    "updated_at": "2026-05-24T20:06:40Z",
+    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
+  },
+  {
+    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
+    "id": "ai-boost/awesome-prompts",
+    "language": "\u2014",
+    "name": "ai-boost/awesome-prompts",
+    "stars": 7984,
+    "updated_at": "2026-05-24T20:06:00Z",
+    "url": "https://github.com/ai-boost/awesome-prompts"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-05-24T20:05:05Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 0,
+    "updated_at": "2026-05-24T20:04:28Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9813,
+    "updated_at": "2026-05-24T20:05:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Shell",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-05-24T20:03:38Z",
+    "url": "https://github.com/l4ci/hv-skills"
+  },
+  {
+    "description": "Global CLAUDE.md: Framework-agnostic guidelines for disciplined LLM coding inspired by Karpathy & Bernstein",
+    "id": "zeljkoavramovic/karpathy-bernstein-avramovic",
+    "language": "HTML",
+    "name": "zeljkoavramovic/karpathy-bernstein-avramovic",
+    "stars": 2,
+    "updated_at": "2026-05-24T20:01:12Z",
+    "url": "https://github.com/zeljkoavramovic/karpathy-bernstein-avramovic"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-05-24T20:00:59Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-24T20:00:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Codex-native Intent-Driven Development template for OpenSpec with /opsx commands, Codex Goal hand-offs, ADRs, C4, Gherki",
+    "id": "AlekseiSeleznev/intent-driven-codex",
+    "language": "Shell",
+    "name": "AlekseiSeleznev/intent-driven-codex",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:59:40Z",
+    "url": "https://github.com/AlekseiSeleznev/intent-driven-codex"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -63,31 +189,13 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Inspect your MCP tool setup - see context weight, token usage, server dominance, and tool overlaps before your agent run",
-    "id": "nishantmodak/tare-mcp",
-    "language": "TypeScript",
-    "name": "nishantmodak/tare-mcp",
-    "stars": 3,
-    "updated_at": "2026-05-24T19:56:10Z",
-    "url": "https://github.com/nishantmodak/tare-mcp"
-  },
-  {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
     "id": "ekayaprod/jules-agent-roster",
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 1,
-    "updated_at": "2026-05-24T19:58:16Z",
+    "updated_at": "2026-05-24T20:02:50Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
-    "id": "jeb-maker/lagent-quotidien",
-    "language": "HTML",
-    "name": "jeb-maker/lagent-quotidien",
-    "stars": 0,
-    "updated_at": "2026-05-24T19:53:23Z",
-    "url": "https://github.com/jeb-maker/lagent-quotidien"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -117,15 +225,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-24T19:50:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83d\udc51 MUNDO \u2014 THE EMPEROR. Ultimate AI learning engine for Claude Code & Hermes Agent. Self-evolving skill system with Three",
     "id": "LiHongwei-cn/lihongwei-cn",
     "language": "HTML",
@@ -133,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T19:49:53Z",
     "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "Global CLAUDE.md: Framework-agnostic guidelines for disciplined LLM coding inspired by Karpathy & Bernstein",
-    "id": "zeljkoavramovic/karpathy-bernstein-avramovic",
-    "language": "HTML",
-    "name": "zeljkoavramovic/karpathy-bernstein-avramovic",
-    "stars": 2,
-    "updated_at": "2026-05-24T19:48:20Z",
-    "url": "https://github.com/zeljkoavramovic/karpathy-bernstein-avramovic"
   },
   {
     "description": "A tool that compiles messy natural language prompts into a structured intermediate representation (IR) and optionally se",
@@ -266,7 +356,7 @@
     "language": "Python",
     "name": "gowtham0992/redline",
     "stars": 0,
-    "updated_at": "2026-05-24T19:30:21Z",
+    "updated_at": "2026-05-24T20:14:51Z",
     "url": "https://github.com/gowtham0992/redline"
   },
   {
@@ -302,7 +392,7 @@
     "language": "TypeScript",
     "name": "zigrivers/scaffold",
     "stars": 3,
-    "updated_at": "2026-05-24T19:57:07Z",
+    "updated_at": "2026-05-24T20:15:08Z",
     "url": "https://github.com/zigrivers/scaffold"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T19:07:53Z",
     "url": "https://github.com/gabrielmahia/east-africa-prompt-library"
-  },
-  {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 139,
-    "updated_at": "2026-05-24T19:03:46Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "El puente definitivo entre tu proyecto y los LLMs de alto contexto. CodeBlast empaqueta miles de archivos en un solo pay",
-    "id": "FrkL81/CodeBlast",
-    "language": "C#",
-    "name": "FrkL81/CodeBlast",
-    "stars": 2,
-    "updated_at": "2026-05-24T19:26:35Z",
-    "url": "https://github.com/FrkL81/CodeBlast"
-  },
-  {
-    "description": "A four-stage AI prompting methodology for investment analysis. ROLE / FILTER / RISK / VERDICT.",
-    "id": "ctrlcursor/prompt-stack",
-    "language": "\u2014",
-    "name": "ctrlcursor/prompt-stack",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:58:20Z",
-    "url": "https://github.com/ctrlcursor/prompt-stack"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:57:34Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
-    "id": "Rickardserrulate236/portfolio-dumper",
-    "language": "HTML",
-    "name": "Rickardserrulate236/portfolio-dumper",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:57:14Z",
-    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser.",
-    "id": "Opsn5528/vibe-coding-claude-md",
-    "language": "HTML",
-    "name": "Opsn5528/vibe-coding-claude-md",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:57:11Z",
-    "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 48,
-    "updated_at": "2026-05-24T18:56:24Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:56:23Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Automate social media accounts using an AI agent that navigates live web pages to perform tasks like liking posts and wr",
-    "id": "Dusty-plumcot781/locoagent",
-    "language": "\u2014",
-    "name": "Dusty-plumcot781/locoagent",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:56:20Z",
-    "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:55:33Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
   }
 ]
