@@ -1,12 +1,156 @@
 [
   {
-    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
-    "id": "recodeee/cue",
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
     "language": "TypeScript",
-    "name": "recodeee/cue",
+    "name": "zigrivers/scaffold",
+    "stars": 3,
+    "updated_at": "2026-05-24T01:10:41Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "Reproducible instruction manifest generator powered by local LLMs via Ollama. 173 prompt engineering techniques across 1",
+    "id": "TFD-42/Pro-Prompt",
+    "language": "Python",
+    "name": "TFD-42/Pro-Prompt",
+    "stars": 0,
+    "updated_at": "2026-05-24T01:10:24Z",
+    "url": "https://github.com/TFD-42/Pro-Prompt"
+  },
+  {
+    "description": "Do coding-agent preambles change LLM code quality? Yes on alignment-dependent craft (error handling, edge cases, naming,",
+    "id": "chris-santiago/llm-preamble",
+    "language": "Python",
+    "name": "chris-santiago/llm-preamble",
+    "stars": 0,
+    "updated_at": "2026-05-24T01:09:30Z",
+    "url": "https://github.com/chris-santiago/llm-preamble"
+  },
+  {
+    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
+    "id": "FURUYAN1234/nano-banana-pro",
+    "language": "Python",
+    "name": "FURUYAN1234/nano-banana-pro",
+    "stars": 7,
+    "updated_at": "2026-05-24T01:07:39Z",
+    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
+  },
+  {
+    "description": "Pain-weighted hybrid memory for LLM agents. FTS5 + sqlite-vec + RRF + KG. MIT, open source. Published benchmarks.",
+    "id": "totobusnello/memoria-nox",
+    "language": "TypeScript",
+    "name": "totobusnello/memoria-nox",
+    "stars": 0,
+    "updated_at": "2026-05-24T01:06:45Z",
+    "url": "https://github.com/totobusnello/memoria-nox"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 2,
+    "updated_at": "2026-05-24T01:06:48Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "Claude Code plugin for Google Antigravity CLI (agy) \u2014 the official replacement for gemini-cli (deprecated 18 Jun 2026). ",
+    "id": "MarcosNahuel/antigravity-plugin-cc",
+    "language": "\u2014",
+    "name": "MarcosNahuel/antigravity-plugin-cc",
+    "stars": 0,
+    "updated_at": "2026-05-24T01:04:27Z",
+    "url": "https://github.com/MarcosNahuel/antigravity-plugin-cc"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 15,
+    "updated_at": "2026-05-24T01:02:57Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Caderno tem\u00e1tico sobre Engenharia de Prompts e IA Generativa utilizando NotebookLM, IA e curadoria de fontes abertas.",
+    "id": "MarcosAntonioSoares/engenharia-prompts-ia-generativa",
+    "language": "\u2014",
+    "name": "MarcosAntonioSoares/engenharia-prompts-ia-generativa",
+    "stars": 0,
+    "updated_at": "2026-05-24T01:01:31Z",
+    "url": "https://github.com/MarcosAntonioSoares/engenharia-prompts-ia-generativa"
+  },
+  {
+    "description": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic sear",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1331,
+    "updated_at": "2026-05-24T01:06:42Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5",
+    "id": "EgoAlpha/prompt-in-context-learning",
+    "language": "Jupyter Notebook",
+    "name": "EgoAlpha/prompt-in-context-learning",
+    "stars": 2235,
+    "updated_at": "2026-05-24T01:00:03Z",
+    "url": "https://github.com/EgoAlpha/prompt-in-context-learning"
+  },
+  {
+    "description": "A native desktop Integrated Productivity Environment (IPE) for local AI models",
+    "id": "ekorbia/ekorbia-desktop",
+    "language": "JavaScript",
+    "name": "ekorbia/ekorbia-desktop",
+    "stars": 0,
+    "updated_at": "2026-05-24T00:52:41Z",
+    "url": "https://github.com/ekorbia/ekorbia-desktop"
+  },
+  {
+    "description": "Vellum \u2014 LLM platform for evaluation, deployment, monitoring",
+    "id": "api-evangelist/vellum",
+    "language": "\u2014",
+    "name": "api-evangelist/vellum",
+    "stars": 0,
+    "updated_at": "2026-05-24T00:50:03Z",
+    "url": "https://github.com/api-evangelist/vellum"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 12,
+    "updated_at": "2026-05-24T00:46:39Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-05-24T00:45:38Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-24T00:45:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "recodeeai/cue",
+    "language": "TypeScript",
+    "name": "recodeeai/cue",
     "stars": 1,
     "updated_at": "2026-05-24T00:44:09Z",
-    "url": "https://github.com/recodeee/cue"
+    "url": "https://github.com/recodeeai/cue"
   },
   {
     "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
@@ -27,24 +171,6 @@
     "url": "https://github.com/jmagly/aiwg"
   },
   {
-    "description": "Caderno tem\u00e1tico sobre Engenharia de Prompts e IA Generativa utilizando NotebookLM, IA e curadoria de fontes abertas.",
-    "id": "MarcosAntonioSoares/engenharia-prompts-ia-generativa",
-    "language": "\u2014",
-    "name": "MarcosAntonioSoares/engenharia-prompts-ia-generativa",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:43:18Z",
-    "url": "https://github.com/MarcosAntonioSoares/engenharia-prompts-ia-generativa"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "Python",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 7,
-    "updated_at": "2026-05-24T00:43:07Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
     "description": "An open-source, multi-agent AI framework for Playwright test automation \u2014 featuring a 2D pixel-art office, live SSE tele",
     "id": "MyNameIsEdi/open-qa",
     "language": "TypeScript",
@@ -61,42 +187,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T00:42:24Z",
     "url": "https://github.com/XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 15,
-    "updated_at": "2026-05-24T00:41:55Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-05-24T00:40:20Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 2,
-    "updated_at": "2026-05-24T00:38:03Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 12,
-    "updated_at": "2026-05-24T00:37:38Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
     "description": "An AI coach that takes you from overwhelmed to a finished project. Learn AI. Build It. Ship It.",
@@ -144,13 +234,13 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "Pain-weighted hybrid memory for LLM agents. FTS5 + sqlite-vec + RRF + KG. MIT, open source. Published benchmarks.",
-    "id": "totobusnello/memoria-nox",
-    "language": "TypeScript",
-    "name": "totobusnello/memoria-nox",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:36:15Z",
-    "url": "https://github.com/totobusnello/memoria-nox"
+    "description": "Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant",
+    "id": "asgeirtj/system_prompts_leaks",
+    "language": "\u2014",
+    "name": "asgeirtj/system_prompts_leaks",
+    "stars": 40673,
+    "updated_at": "2026-05-24T00:22:04Z",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
   {
     "description": "A CLAUDE.md to direct AI codegen well \u2014 hypothesis before help, scoped prompts, validate before accepting, reject workin",
@@ -284,7 +374,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 16,
-    "updated_at": "2026-05-24T00:35:50Z",
+    "updated_at": "2026-05-24T01:03:20Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T00:04:52Z",
     "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:04:35Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:04:34Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:04:19Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Open Source Prompt Manager for ChatGPT, Supports 19 LLMs & some cool features!  ",
-    "id": "jonathanbertholet/promptmanager",
-    "language": "JavaScript",
-    "name": "jonathanbertholet/promptmanager",
-    "stars": 83,
-    "updated_at": "2026-05-24T00:04:13Z",
-    "url": "https://github.com/jonathanbertholet/promptmanager"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:04:02Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 1,
-    "updated_at": "2026-05-24T00:03:41Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:03:40Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Generate production-ready UGC video ad prompts for Higgsfield AI Marketing Studio from your reference images and product",
-    "id": "carreras66848657/claude-skill-ugc-prompt",
-    "language": "\u2014",
-    "name": "carreras66848657/claude-skill-ugc-prompt",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:03:22Z",
-    "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 1,
-    "updated_at": "2026-05-24T00:03:19Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:03:16Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
   }
 ]
