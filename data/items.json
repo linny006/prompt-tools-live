@@ -1,11 +1,83 @@
 [
   {
+    "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
+    "id": "jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness",
+    "language": "\u2014",
+    "name": "jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness",
+    "stars": 820,
+    "updated_at": "2026-05-25T01:45:08Z",
+    "url": "https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness"
+  },
+  {
+    "description": "74 production-ready Claude Code skills and 7 specialized agents for engineering, DevOps, product workflows, UI, deployme",
+    "id": "majiayu000/claude-arsenal",
+    "language": "Python",
+    "name": "majiayu000/claude-arsenal",
+    "stars": 62,
+    "updated_at": "2026-05-25T01:43:01Z",
+    "url": "https://github.com/majiayu000/claude-arsenal"
+  },
+  {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "TypeScript",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 1,
+    "updated_at": "2026-05-25T01:42:58Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
+    "id": "event4u-app/agent-config",
+    "language": "Python",
+    "name": "event4u-app/agent-config",
+    "stars": 5,
+    "updated_at": "2026-05-25T01:42:56Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 50 qu",
+    "id": "ather-techie/rag-interview-questions",
+    "language": "\u2014",
+    "name": "ather-techie/rag-interview-questions",
+    "stars": 14,
+    "updated_at": "2026-05-25T01:38:57Z",
+    "url": "https://github.com/ather-techie/rag-interview-questions"
+  },
+  {
+    "description": "Framework-agnostic, provider-agnostic context-window packer for LLM chat history",
+    "id": "Mrrobi/convopack",
+    "language": "Python",
+    "name": "Mrrobi/convopack",
+    "stars": 0,
+    "updated_at": "2026-05-25T01:37:40Z",
+    "url": "https://github.com/Mrrobi/convopack"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-05-25T01:37:09Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-25T01:36:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 5,
-    "updated_at": "2026-05-25T01:35:53Z",
+    "updated_at": "2026-05-25T01:45:09Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -13,7 +85,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 33736,
+    "stars": 33737,
     "updated_at": "2026-05-25T01:34:55Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -153,15 +225,6 @@
     "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Generate production-ready UGC video ad prompts for Higgsfield AI Marketing Studio from your reference images and product",
     "id": "carreras66848657/claude-skill-ugc-prompt",
     "language": "\u2014",
@@ -297,15 +360,6 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "Framework-agnostic, provider-agnostic context-window packer for LLM chat history",
-    "id": "Mrrobi/convopack",
-    "language": "Python",
-    "name": "Mrrobi/convopack",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:28:51Z",
-    "url": "https://github.com/Mrrobi/convopack"
-  },
-  {
     "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
     "id": "fatinzark-stack/Claude-for-Word-Desktop",
     "language": "JavaScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T01:27:19Z",
     "url": "https://github.com/Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy"
-  },
-  {
-    "description": "Track public technical updates, architecture notes, and development benchmarks for the Happy Horse 1.0 AI video generati",
-    "id": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "language": "\u2014",
-    "name": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:27:16Z",
-    "url": "https://github.com/Waldoncockeyed9421/Happy-Horse-1.0"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 1,
-    "updated_at": "2026-05-25T01:26:49Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Catalog physical media collections into portable knowledge bases for LLM context windows to improve AI awareness of your",
-    "id": "Bennyvibrionic5714/llmbrary",
-    "language": "Python",
-    "name": "Bennyvibrionic5714/llmbrary",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:26:42Z",
-    "url": "https://github.com/Bennyvibrionic5714/llmbrary"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:26:28Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Standardize AI agent behavior across IDEs and CLI tools using a single configuration file to reduce token usage and buil",
-    "id": "opticalmaserpreachment710/agents-evolution",
-    "language": "PowerShell",
-    "name": "opticalmaserpreachment710/agents-evolution",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:26:23Z",
-    "url": "https://github.com/opticalmaserpreachment710/agents-evolution"
-  },
-  {
-    "description": "Optimize development performance by stripping away unnecessary abstractions and focusing on raw code execution.",
-    "id": "Ricarddefensive803/caveman-skill",
-    "language": "\u2014",
-    "name": "Ricarddefensive803/caveman-skill",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:26:19Z",
-    "url": "https://github.com/Ricarddefensive803/caveman-skill"
   }
 ]
