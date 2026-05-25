@@ -1,5 +1,239 @@
 [
   {
+    "description": "",
+    "id": "valenciakeithdonnel/awesome-gemini-ai",
+    "language": "\u2014",
+    "name": "valenciakeithdonnel/awesome-gemini-ai",
+    "stars": 2,
+    "updated_at": "2026-05-25T22:44:56Z",
+    "url": "https://github.com/valenciakeithdonnel/awesome-gemini-ai"
+  },
+  {
+    "description": "\ud83c\udf1f Explore creative prompts for Google's Gemini 3, designed to harness its Deep Think, multimodal understanding, and long",
+    "id": "Feezah/gemini3-starter-prompts",
+    "language": "\u2014",
+    "name": "Feezah/gemini3-starter-prompts",
+    "stars": 1,
+    "updated_at": "2026-05-25T22:44:54Z",
+    "url": "https://github.com/Feezah/gemini3-starter-prompts"
+  },
+  {
+    "description": "\ud83d\ude80 Convert your project structure into a single text file for LLMs, simplifying your development workflow and enhancing p",
+    "id": "Projectcafetechnolgoies/RepoToPrompt",
+    "language": "\u2014",
+    "name": "Projectcafetechnolgoies/RepoToPrompt",
+    "stars": 1,
+    "updated_at": "2026-05-25T22:44:44Z",
+    "url": "https://github.com/Projectcafetechnolgoies/RepoToPrompt"
+  },
+  {
+    "description": "\ud83d\udcca Explore how Shannon entropy and mutual information can quantify prompt quality in generative AI systems across various",
+    "id": "kadirovjr/prompt-entropy-experiment",
+    "language": "Jupyter Notebook",
+    "name": "kadirovjr/prompt-entropy-experiment",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:44:38Z",
+    "url": "https://github.com/kadirovjr/prompt-entropy-experiment"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build and explore multi-agent workflows in LangChain with a user-friendly UI for deep research and monitoring AI agen",
+    "id": "Ba592/langchain-deepresearch",
+    "language": "Python",
+    "name": "Ba592/langchain-deepresearch",
+    "stars": 1,
+    "updated_at": "2026-05-25T22:43:08Z",
+    "url": "https://github.com/Ba592/langchain-deepresearch"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:43:04Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Learn to write prompts that actually work \u2014 interactive wizard that teaches the 5 blocks of a great AI prompt",
+    "id": "dabhiram13/Prompt-Playground-Application",
+    "language": "HTML",
+    "name": "dabhiram13/Prompt-Playground-Application",
+    "stars": 2,
+    "updated_at": "2026-05-25T22:43:02Z",
+    "url": "https://github.com/dabhiram13/Prompt-Playground-Application"
+  },
+  {
+    "description": "\ud83e\uddea Evaluate uncensored LLMs for offensive security with targeted questions and clear criteria to ensure effectiveness in ",
+    "id": "lpr021/redteam-ai-benchmark",
+    "language": "Python",
+    "name": "lpr021/redteam-ai-benchmark",
+    "stars": 1,
+    "updated_at": "2026-05-25T22:42:55Z",
+    "url": "https://github.com/lpr021/redteam-ai-benchmark"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 27898,
+    "updated_at": "2026-05-25T22:39:43Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\udcca Automate time series analysis and forecasting with an interactive AI agent that delivers tailored reports for both tec",
+    "id": "Koushik2004great/Agentic-Time-Series-Analysis-Reporting---Forecasting",
+    "language": "Python",
+    "name": "Koushik2004great/Agentic-Time-Series-Analysis-Reporting---Forecasting",
+    "stars": 1,
+    "updated_at": "2026-05-25T22:38:52Z",
+    "url": "https://github.com/Koushik2004great/Agentic-Time-Series-Analysis-Reporting---Forecasting"
+  },
+  {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 3,
+    "updated_at": "2026-05-25T22:38:31Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "\ud83e\udd16 Analyze emotions and sarcasm in real-time with an AI therapy chatbot, providing empathetic responses and tracking emot",
+    "id": "solar-thermopsis805/therapeutic-llm",
+    "language": "TypeScript",
+    "name": "solar-thermopsis805/therapeutic-llm",
+    "stars": 1,
+    "updated_at": "2026-05-25T22:37:27Z",
+    "url": "https://github.com/solar-thermopsis805/therapeutic-llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:37:05Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze the mathematical reasoning abilities of the Mistral-7B model using diverse prompting techniques on multi-step ",
+    "id": "wolfenix/llm-math-reasoning-analysis",
+    "language": "HTML",
+    "name": "wolfenix/llm-math-reasoning-analysis",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:36:32Z",
+    "url": "https://github.com/wolfenix/llm-math-reasoning-analysis"
+  },
+  {
+    "description": "Multi-platform AI assistant skills and workflows. Serious engineering. Also fun.",
+    "id": "axiomantic/spellbook",
+    "language": "Python",
+    "name": "axiomantic/spellbook",
+    "stars": 6,
+    "updated_at": "2026-05-25T22:37:01Z",
+    "url": "https://github.com/axiomantic/spellbook"
+  },
+  {
+    "description": "",
+    "id": "meezy496/FREE-AI-RESOURCES",
+    "language": "\u2014",
+    "name": "meezy496/FREE-AI-RESOURCES",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:35:17Z",
+    "url": "https://github.com/meezy496/FREE-AI-RESOURCES"
+  },
+  {
+    "description": "Open-source AI chatbot for job applicants. Embed on your portfolio site, let recruiters ask questions about you. Built w",
+    "id": "derheissenberg/applicaiton",
+    "language": "TypeScript",
+    "name": "derheissenberg/applicaiton",
+    "stars": 1,
+    "updated_at": "2026-05-25T22:34:25Z",
+    "url": "https://github.com/derheissenberg/applicaiton"
+  },
+  {
+    "description": "",
+    "id": "Genitoruniversityofparis959/Readable.ai",
+    "language": "\u2014",
+    "name": "Genitoruniversityofparis959/Readable.ai",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:34:09Z",
+    "url": "https://github.com/Genitoruniversityofparis959/Readable.ai"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:34:07Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "\u2728 Explore essential resources and techniques for effective prompt engineering with Large Language Models, enhancing your",
+    "id": "hungf1511/awesome-prompt-engineering",
+    "language": "\u2014",
+    "name": "hungf1511/awesome-prompt-engineering",
+    "stars": 5,
+    "updated_at": "2026-05-25T22:33:51Z",
+    "url": "https://github.com/hungf1511/awesome-prompt-engineering"
+  },
+  {
+    "description": "SANCTIS is a cognitive architecture that gives LLMs structured tools to organize their own reasoning, maintain long-hori",
+    "id": "Umbraflamma/SANCTIS-cognitive-architecture",
+    "language": "\u2014",
+    "name": "Umbraflamma/SANCTIS-cognitive-architecture",
+    "stars": 15,
+    "updated_at": "2026-05-25T22:33:29Z",
+    "url": "https://github.com/Umbraflamma/SANCTIS-cognitive-architecture"
+  },
+  {
+    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
+    "id": "Paulessus/odin-gemini-mcp-bridge",
+    "language": "HTML",
+    "name": "Paulessus/odin-gemini-mcp-bridge",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:32:40Z",
+    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:31:36Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "\ud83d\udcdd Explore Amazon Bedrock's Converse API with this Jupyter notebook, featuring practical examples for text generation and",
+    "id": "bohemiaseparate909/aws-bedrock-learning-notebook",
+    "language": "Jupyter Notebook",
+    "name": "bohemiaseparate909/aws-bedrock-learning-notebook",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:31:31Z",
+    "url": "https://github.com/bohemiaseparate909/aws-bedrock-learning-notebook"
+  },
+  {
+    "description": "Call LLMs and AI agents from Org-mode ai block.",
+    "id": "Anoncheg1/emacs-oai",
+    "language": "Emacs Lisp",
+    "name": "Anoncheg1/emacs-oai",
+    "stars": 9,
+    "updated_at": "2026-05-25T22:31:07Z",
+    "url": "https://github.com/Anoncheg1/emacs-oai"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udfa5 Master AI video generation with curated prompts, techniques, and storytelling resources for seamless cinematic creatio",
     "id": "dpresseddud/awesome-ai-video-prompts",
     "language": "\u2014",
@@ -61,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-05-25T22:26:23Z",
     "url": "https://github.com/mtsalhudarowokele/PrismIA"
-  },
-  {
-    "description": "SANCTIS is a cognitive architecture that gives LLMs structured tools to organize their own reasoning, maintain long-hori",
-    "id": "Umbraflamma/SANCTIS-cognitive-architecture",
-    "language": "\u2014",
-    "name": "Umbraflamma/SANCTIS-cognitive-architecture",
-    "stars": 15,
-    "updated_at": "2026-05-25T22:22:34Z",
-    "url": "https://github.com/Umbraflamma/SANCTIS-cognitive-architecture"
   },
   {
     "description": "\ud83e\udd16 Generate code and tests for multiple languages using AI with this Python command-line tool, streamlining your developm",
@@ -140,7 +365,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 2491,
-    "updated_at": "2026-05-25T22:18:02Z",
+    "updated_at": "2026-05-25T22:44:30Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -171,24 +396,6 @@
     "url": "https://github.com/Merveil22/spotify-playlist-dating-redflag-analysis"
   },
   {
-    "description": "Learn to write prompts that actually work \u2014 interactive wizard that teaches the 5 blocks of a great AI prompt",
-    "id": "dabhiram13/Prompt-Playground-Application",
-    "language": "TypeScript",
-    "name": "dabhiram13/Prompt-Playground-Application",
-    "stars": 2,
-    "updated_at": "2026-05-25T22:15:59Z",
-    "url": "https://github.com/dabhiram13/Prompt-Playground-Application"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-25T22:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83c\udf7d\ufe0f Generate unique restaurant names and creative menus for any cuisine effortlessly with LangChain and Google Gemini.",
     "id": "fahimalambhuiyan7/langchain-restaurant-ai",
     "language": "Jupyter Notebook",
@@ -216,15 +423,6 @@
     "url": "https://github.com/ZZZEPOCHE/k0-orbital-satellite-governance-application"
   },
   {
-    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
-    "id": "zigrivers/scaffold",
-    "language": "TypeScript",
-    "name": "zigrivers/scaffold",
-    "stars": 3,
-    "updated_at": "2026-05-25T22:26:06Z",
-    "url": "https://github.com/zigrivers/scaffold"
-  },
-  {
     "description": "\ud83d\udd0d Optimize and manage prompts, agents, and templates with ContextForge, an AI-powered platform for seamless collaboratio",
     "id": "vishu570/contextforge",
     "language": "TypeScript",
@@ -250,203 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T22:10:41Z",
     "url": "https://github.com/Ibrahim-opps/research-mentor-summit"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-05-25T22:10:40Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-05-25T22:10:38Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "\ud83d\udcda Build and train your own GPT-like Large Language Model from scratch with clear guidance and real code examples.",
-    "id": "Lamorati92/LLMs-from-scratch",
-    "language": "Jupyter Notebook",
-    "name": "Lamorati92/LLMs-from-scratch",
-    "stars": 2,
-    "updated_at": "2026-05-25T22:10:33Z",
-    "url": "https://github.com/Lamorati92/LLMs-from-scratch"
-  },
-  {
-    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
-    "id": "synaptiai/synapti-marketplace",
-    "language": "Shell",
-    "name": "synaptiai/synapti-marketplace",
-    "stars": 4,
-    "updated_at": "2026-05-25T22:10:01Z",
-    "url": "https://github.com/synaptiai/synapti-marketplace"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21590,
-    "updated_at": "2026-05-25T22:09:59Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Build a stable, machine-readable kernel for Neurosyn Soul using Extrapolated Data Techniques (EDT) in a single JSON O",
-    "id": "imhabibbd/Neurosyn-Aeon",
-    "language": "\u2014",
-    "name": "imhabibbd/Neurosyn-Aeon",
-    "stars": 1,
-    "updated_at": "2026-05-25T22:09:52Z",
-    "url": "https://github.com/imhabibbd/Neurosyn-Aeon"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-05-25T22:09:05Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-05-25T22:09:00Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-05-25T22:08:38Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "A native desktop Integrated Chat and Productivity Environment for local AI models",
-    "id": "ekorbia/ekorbia-desktop",
-    "language": "JavaScript",
-    "name": "ekorbia/ekorbia-desktop",
-    "stars": 1,
-    "updated_at": "2026-05-25T22:08:32Z",
-    "url": "https://github.com/ekorbia/ekorbia-desktop"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 3,
-    "updated_at": "2026-05-25T22:08:31Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Shared instructions, workflows, conventions, and memory for AI agents \u2014 across teams,  projects, and functions.",
-    "id": "fahadyaqub/agents-workbench",
-    "language": "JavaScript",
-    "name": "fahadyaqub/agents-workbench",
-    "stars": 0,
-    "updated_at": "2026-05-25T22:08:09Z",
-    "url": "https://github.com/fahadyaqub/agents-workbench"
-  },
-  {
-    "description": "A fleet of specialized AI agents \u2014 each one a neurotype, each one a specialist. Installs in one command.",
-    "id": "emb715/neurodiveragents",
-    "language": "HTML",
-    "name": "emb715/neurodiveragents",
-    "stars": 2,
-    "updated_at": "2026-05-25T22:08:18Z",
-    "url": "https://github.com/emb715/neurodiveragents"
-  },
-  {
-    "description": "\ud83c\udfa8 Enhance text-to-image models efficiently with PromptEnhancer, utilizing chain-of-thought prompt rewriting for better o",
-    "id": "Bhaumi/PromptEnhancer",
-    "language": "Python",
-    "name": "Bhaumi/PromptEnhancer",
-    "stars": 0,
-    "updated_at": "2026-05-25T22:08:00Z",
-    "url": "https://github.com/Bhaumi/PromptEnhancer"
-  },
-  {
-    "description": "",
-    "id": "RafaelC22V/agentic-ai-mentorship-program",
-    "language": "\u2014",
-    "name": "RafaelC22V/agentic-ai-mentorship-program",
-    "stars": 0,
-    "updated_at": "2026-05-25T22:07:40Z",
-    "url": "https://github.com/RafaelC22V/agentic-ai-mentorship-program"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Refine and organize your OpenAI Codex CLI prompts effortlessly, using SQLite for fast search and a user-friendly inte",
-    "id": "Rchrdgt/codex-prompt-refinery",
-    "language": "Python",
-    "name": "Rchrdgt/codex-prompt-refinery",
-    "stars": 1,
-    "updated_at": "2026-05-25T22:07:28Z",
-    "url": "https://github.com/Rchrdgt/codex-prompt-refinery"
-  },
-  {
-    "description": "\ud83c\udf93 Enhance learning with a tailored tutoring prompt system for Large Language Models, promoting active engagement and per",
-    "id": "R-Dilipkumar/llm-study-mode-prompt",
-    "language": "\u2014",
-    "name": "R-Dilipkumar/llm-study-mode-prompt",
-    "stars": 1,
-    "updated_at": "2026-05-25T22:07:19Z",
-    "url": "https://github.com/R-Dilipkumar/llm-study-mode-prompt"
-  },
-  {
-    "description": "Harness-agnostic SKILL modules for AI coding agents \u2014 mutation-oriented code analysis and contract-as-seam GitHub issue ",
-    "id": "edshav/skills",
-    "language": "JavaScript",
-    "name": "edshav/skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T22:06:58Z",
-    "url": "https://github.com/edshav/skills"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI software projects with a structured methodology that tackles code bloat and inconsistencies for efficien",
-    "id": "setner111/Disciplined-AI-Software-Development",
-    "language": "Python",
-    "name": "setner111/Disciplined-AI-Software-Development",
-    "stars": 1,
-    "updated_at": "2026-05-25T22:06:30Z",
-    "url": "https://github.com/setner111/Disciplined-AI-Software-Development"
-  },
-  {
-    "description": "LLM-powered transaction classification system with a structured evaluation framework benchmarking Claude API against a r",
-    "id": "Tarun-B-12/transaction-classifier-ai",
-    "language": "Python",
-    "name": "Tarun-B-12/transaction-classifier-ai",
-    "stars": 0,
-    "updated_at": "2026-05-25T22:06:26Z",
-    "url": "https://github.com/Tarun-B-12/transaction-classifier-ai"
-  },
-  {
-    "description": "\ud83d\udd04 Enable seamless AI conversations with a universal file format that saves and transfers your chat history across platfo",
-    "id": "AFRATUL1/AI-dropin-spec",
-    "language": "\u2014",
-    "name": "AFRATUL1/AI-dropin-spec",
-    "stars": 0,
-    "updated_at": "2026-05-25T22:05:57Z",
-    "url": "https://github.com/AFRATUL1/AI-dropin-spec"
-  },
-  {
-    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
-    "id": "mrwogu/promptscript",
-    "language": "TypeScript",
-    "name": "mrwogu/promptscript",
-    "stars": 8,
-    "updated_at": "2026-05-25T22:05:55Z",
-    "url": "https://github.com/mrwogu/promptscript"
   }
 ]
