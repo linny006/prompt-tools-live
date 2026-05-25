@@ -1,5 +1,176 @@
 [
   {
+    "description": "A dual-agent framework leveraging left-brain logic (structured coding, syntax validation, debugging) and right-brain int",
+    "id": "sleeplesshan/dual-brain",
+    "language": "\u2014",
+    "name": "sleeplesshan/dual-brain",
+    "stars": 2,
+    "updated_at": "2026-05-25T16:00:10Z",
+    "url": "https://github.com/sleeplesshan/dual-brain"
+  },
+  {
+    "description": "Agent-centric memory architecture for long-running AI companions: continuity, routing, safety boundaries, and self-revie",
+    "id": "GSL-R/arona-soul-agent-memory",
+    "language": "\u2014",
+    "name": "GSL-R/arona-soul-agent-memory",
+    "stars": 0,
+    "updated_at": "2026-05-25T15:59:43Z",
+    "url": "https://github.com/GSL-R/arona-soul-agent-memory"
+  },
+  {
+    "description": "Portable design system skill for Claude Code, Cursor, Codex, ChatGPT, Windsurf, Copilot, and AI coding agents.",
+    "id": "staurus86/global-design-skill",
+    "language": "Python",
+    "name": "staurus86/global-design-skill",
+    "stars": 0,
+    "updated_at": "2026-05-25T15:59:07Z",
+    "url": "https://github.com/staurus86/global-design-skill"
+  },
+  {
+    "description": "LLM cost calculator, token counter, latency benchmark, CI guardrail, MCP server, and VS Code/Cursor extension.",
+    "id": "faraa2m/tokenometer",
+    "language": "TypeScript",
+    "name": "faraa2m/tokenometer",
+    "stars": 1,
+    "updated_at": "2026-05-25T15:59:03Z",
+    "url": "https://github.com/faraa2m/tokenometer"
+  },
+  {
+    "description": "Lightweight AI memory layer \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices.",
+    "id": "lulin70/carrymem",
+    "language": "Python",
+    "name": "lulin70/carrymem",
+    "stars": 2,
+    "updated_at": "2026-05-25T15:56:48Z",
+    "url": "https://github.com/lulin70/carrymem"
+  },
+  {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 3,
+    "updated_at": "2026-05-25T15:55:09Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "Reproducible instruction manifest generator powered by local LLMs via Ollama. 173 prompt engineering techniques across 1",
+    "id": "TFD-42/Pro-Prompt",
+    "language": "Python",
+    "name": "TFD-42/Pro-Prompt",
+    "stars": 0,
+    "updated_at": "2026-05-25T15:54:49Z",
+    "url": "https://github.com/TFD-42/Pro-Prompt"
+  },
+  {
+    "description": "A template for building a persona-driven LLM agent on QQ groups (OneBot v11). JSON output protocol, character-whitelist ",
+    "id": "qiankangwang/onebot-llm-agent",
+    "language": "Python",
+    "name": "qiankangwang/onebot-llm-agent",
+    "stars": 0,
+    "updated_at": "2026-05-25T15:53:41Z",
+    "url": "https://github.com/qiankangwang/onebot-llm-agent"
+  },
+  {
+    "description": "AI Config Generator",
+    "id": "aicgen/aicgen",
+    "language": "TypeScript",
+    "name": "aicgen/aicgen",
+    "stars": 3,
+    "updated_at": "2026-05-25T15:53:09Z",
+    "url": "https://github.com/aicgen/aicgen"
+  },
+  {
+    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
+    "id": "teguhimanulloh47/pirate-talk-for-claude",
+    "language": "HTML",
+    "name": "teguhimanulloh47/pirate-talk-for-claude",
+    "stars": 0,
+    "updated_at": "2026-05-25T15:53:08Z",
+    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
+  },
+  {
+    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
+    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "language": "HTML",
+    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "stars": 0,
+    "updated_at": "2026-05-25T15:52:05Z",
+    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
+  },
+  {
+    "description": "React/Vite production workflow for prompt-based media planning and Supabase-backed project state",
+    "id": "hthmkt12/prompt-media-pro",
+    "language": "Python",
+    "name": "hthmkt12/prompt-media-pro",
+    "stars": 0,
+    "updated_at": "2026-05-25T15:50:22Z",
+    "url": "https://github.com/hthmkt12/prompt-media-pro"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21582,
+    "updated_at": "2026-05-25T15:51:35Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-05-25T15:49:20Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3268,
+    "updated_at": "2026-05-25T15:58:14Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
+    "id": "5uprem4/ai-skill-vault",
+    "language": "HTML",
+    "name": "5uprem4/ai-skill-vault",
+    "stars": 0,
+    "updated_at": "2026-05-25T15:47:38Z",
+    "url": "https://github.com/5uprem4/ai-skill-vault"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19374,
+    "updated_at": "2026-05-25T15:53:12Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "An AI software engineering team that behaves like a real one. Drops into your project, self-onboards, and gets to work.",
+    "id": "kostiantyn-matsebora/ginee",
+    "language": "PowerShell",
+    "name": "kostiantyn-matsebora/ginee",
+    "stars": 0,
+    "updated_at": "2026-05-25T15:46:01Z",
+    "url": "https://github.com/kostiantyn-matsebora/ginee"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-25T15:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
     "id": "herreravalenz6620/context-compression",
     "language": "Python",
@@ -16,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T15:42:56Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "React/Vite production workflow for prompt-based media planning and Supabase-backed project state",
-    "id": "hthmkt12/prompt-media-pro",
-    "language": "Python",
-    "name": "hthmkt12/prompt-media-pro",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:42:44Z",
-    "url": "https://github.com/hthmkt12/prompt-media-pro"
   },
   {
     "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
@@ -135,15 +297,6 @@
     "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19374,
-    "updated_at": "2026-05-25T15:40:00Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
     "id": "quiescencycommonrush642/goal-prompt-builder",
     "language": "\u2014",
@@ -243,6 +396,15 @@
     "url": "https://github.com/Imrananti4462/openless"
   },
   {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4157,
+    "updated_at": "2026-05-25T15:38:32Z",
+    "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
     "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
     "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
     "language": "\u2014",
@@ -286,167 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T15:37:34Z",
     "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:37:16Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Multi-version LLM prompt evaluation workbench. Side-by-side comparison, flip matrix, state-vector drilling.",
-    "id": "Looperswag/llm-eval-studio",
-    "language": "TypeScript",
-    "name": "Looperswag/llm-eval-studio",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:37:06Z",
-    "url": "https://github.com/Looperswag/llm-eval-studio"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:36:47Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:36:45Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 1,
-    "updated_at": "2026-05-25T15:36:45Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Connect Last9 observability data to Cursor via MCP to debug production logs, metrics, and traces directly in your editor",
-    "id": "Christianly-bar1265/cursor-plugin",
-    "language": "\u2014",
-    "name": "Christianly-bar1265/cursor-plugin",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:36:15Z",
-    "url": "https://github.com/Christianly-bar1265/cursor-plugin"
-  },
-  {
-    "description": "A curated collection of reusable AI skills, prompts, and agent configurations. Portable across AI coding assistants and ",
-    "id": "anthril/official-claude-plugins",
-    "language": "Shell",
-    "name": "anthril/official-claude-plugins",
-    "stars": 3,
-    "updated_at": "2026-05-25T15:36:01Z",
-    "url": "https://github.com/anthril/official-claude-plugins"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:35:57Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Analyze Justin Sun\u2019s cognitive operating system by processing thousands of his tweets, interviews, and publications to e",
-    "id": "Emanuelam6674/sun-skill",
-    "language": "\u2014",
-    "name": "Emanuelam6674/sun-skill",
-    "stars": 1,
-    "updated_at": "2026-05-25T15:35:56Z",
-    "url": "https://github.com/Emanuelam6674/sun-skill"
-  },
-  {
-    "description": "Store Prometheus metrics in ClickHouse with native support for PromQL queries. Simplify long-term storage without managi",
-    "id": "Namandla0101/PromClick",
-    "language": "\u2014",
-    "name": "Namandla0101/PromClick",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:35:50Z",
-    "url": "https://github.com/Namandla0101/PromClick"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:35:25Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "Automate AI research workflows using Claude Code skills to manage project progress, perform rigorous algorithm reviews, ",
-    "id": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "language": "\u2014",
-    "name": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:35:13Z",
-    "url": "https://github.com/Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy"
-  },
-  {
-    "description": "Track public technical updates, architecture notes, and development benchmarks for the Happy Horse 1.0 AI video generati",
-    "id": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "language": "\u2014",
-    "name": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:35:09Z",
-    "url": "https://github.com/Waldoncockeyed9421/Happy-Horse-1.0"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:35:04Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 1,
-    "updated_at": "2026-05-25T15:34:46Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:34:42Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Catalog physical media collections into portable knowledge bases for LLM context windows to improve AI awareness of your",
-    "id": "Bennyvibrionic5714/llmbrary",
-    "language": "Python",
-    "name": "Bennyvibrionic5714/llmbrary",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:34:36Z",
-    "url": "https://github.com/Bennyvibrionic5714/llmbrary"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:34:17Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
   }
 ]
