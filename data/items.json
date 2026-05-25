@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI support ticket triage agent with DeepSeek/OpenAI providers, Pydantic validation, and golden-fixture evaluation.",
+    "id": "m-ahmed417/ai-agents-portfolio-2",
+    "language": "Python",
+    "name": "m-ahmed417/ai-agents-portfolio-2",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:44:56Z",
+    "url": "https://github.com/m-ahmed417/ai-agents-portfolio-2"
+  },
+  {
+    "description": "One prompt to create a global agent-awake command that prevents Mac, Windows, or Linux sleep and lock-screen interruptio",
+    "id": "AyoParadis/agent-awake",
+    "language": "\u2014",
+    "name": "AyoParadis/agent-awake",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:44:38Z",
+    "url": "https://github.com/AyoParadis/agent-awake"
+  },
+  {
+    "description": "HR-Verhaltensanalyse durch LLM - HR behavior analysis through LLM",
+    "id": "c1972/cognipass",
+    "language": "\u2014",
+    "name": "c1972/cognipass",
+    "stars": 1,
+    "updated_at": "2026-05-25T20:43:52Z",
+    "url": "https://github.com/c1972/cognipass"
+  },
+  {
+    "description": "Git-based Prompt Lifecycle Management",
+    "id": "promptLM/promptlm-app",
+    "language": "Java",
+    "name": "promptLM/promptlm-app",
+    "stars": 1,
+    "updated_at": "2026-05-25T20:45:02Z",
+    "url": "https://github.com/promptLM/promptlm-app"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:41:17Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "Samix2026/saudi-legal-ai-framework",
     "stars": 18,
-    "updated_at": "2026-05-25T20:40:01Z",
+    "updated_at": "2026-05-25T20:45:09Z",
     "url": "https://github.com/Samix2026/saudi-legal-ai-framework"
   },
   {
@@ -50,7 +95,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3268,
-    "updated_at": "2026-05-25T20:39:52Z",
+    "updated_at": "2026-05-25T20:42:43Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "zigrivers/scaffold",
     "stars": 3,
-    "updated_at": "2026-05-25T20:36:16Z",
+    "updated_at": "2026-05-25T20:42:33Z",
     "url": "https://github.com/zigrivers/scaffold"
   },
   {
@@ -90,6 +135,15 @@
     "url": "https://github.com/derheissenberg/applicaiton"
   },
   {
+    "description": "Autonomous product delivery prompts for OpenAI Codex + oh-my-codex: Ultragoal, Team, Ralph, UltraQA workflows.",
+    "id": "SomeMedic/omx-prompts",
+    "language": "\u2014",
+    "name": "SomeMedic/omx-prompts",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:32:13Z",
+    "url": "https://github.com/SomeMedic/omx-prompts"
+  },
+  {
     "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
     "id": "adrianwedd/cv",
     "language": "Python",
@@ -97,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-05-25T20:32:07Z",
     "url": "https://github.com/adrianwedd/cv"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Agent-centric memory architecture for long-running AI companions: continuity, routing, safety boundaries, and self-revie",
@@ -229,7 +274,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 27896,
+    "stars": 27897,
     "updated_at": "2026-05-25T20:21:43Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T20:19:09Z",
     "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:19:05Z",
-    "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:18:52Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:18:26Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:18:20Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:18:03Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
   }
 ]
