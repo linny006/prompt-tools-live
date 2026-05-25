@@ -1,12 +1,21 @@
 [
   {
-    "description": "Pain-weighted hybrid memory for LLM agents. FTS5 + sqlite-vec + RRF + KG. MIT, open source. Published benchmarks.",
-    "id": "totobusnello/memoria-nox",
-    "language": "TypeScript",
-    "name": "totobusnello/memoria-nox",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:59:54Z",
-    "url": "https://github.com/totobusnello/memoria-nox"
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26093,
+    "updated_at": "2026-05-25T02:14:20Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 1,
+    "updated_at": "2026-05-25T02:11:00Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
     "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
@@ -14,8 +23,143 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 706,
-    "updated_at": "2026-05-25T02:00:11Z",
+    "updated_at": "2026-05-25T02:11:54Z",
     "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
+    "id": "rmdhananjay/contextual-memory-map",
+    "language": "HTML",
+    "name": "rmdhananjay/contextual-memory-map",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:09:37Z",
+    "url": "https://github.com/rmdhananjay/contextual-memory-map"
+  },
+  {
+    "description": "\ud83d\udc1f Suanfish Design System \u2014 33 specialized AI design agents across 7 tiers with REJECT mechanism. Multi-agent design lang",
+    "id": "SuanFishXYY/suanfish-design-system",
+    "language": "CSS",
+    "name": "SuanFishXYY/suanfish-design-system",
+    "stars": 5,
+    "updated_at": "2026-05-25T02:09:17Z",
+    "url": "https://github.com/SuanFishXYY/suanfish-design-system"
+  },
+  {
+    "description": "Free AI/ML course with 950+ Jupyter notebooks \u2014 Python, deep learning, LLMs, RAG, agents, prompt engineering, fine-tunin",
+    "id": "PavanMudigonda/zero-to-ai",
+    "language": "Jupyter Notebook",
+    "name": "PavanMudigonda/zero-to-ai",
+    "stars": 21,
+    "updated_at": "2026-05-25T02:08:42Z",
+    "url": "https://github.com/PavanMudigonda/zero-to-ai"
+  },
+  {
+    "description": "Make your AI assistant think critically: catch hallucinations, challenge assumptions, resist sycophancy. A cognitive arc",
+    "id": "fabioc-aloha/Alex_ACT_Edition",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_ACT_Edition",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:08:08Z",
+    "url": "https://github.com/fabioc-aloha/Alex_ACT_Edition"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 47,
+    "updated_at": "2026-05-25T02:07:30Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "A practical system for learning how to learn, distilled from history's greatest polymaths and modern cognitive science.",
+    "id": "HermeticOrmus/meta-learning",
+    "language": "\u2014",
+    "name": "HermeticOrmus/meta-learning",
+    "stars": 1,
+    "updated_at": "2026-05-25T02:04:08Z",
+    "url": "https://github.com/HermeticOrmus/meta-learning"
+  },
+  {
+    "description": "Categorical foundations for AI meta-prompting with proven correctness and measurable quality improvements (100% on Game ",
+    "id": "HermeticOrmus/ormus-meta-prompting",
+    "language": "Python",
+    "name": "HermeticOrmus/ormus-meta-prompting",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:03:29Z",
+    "url": "https://github.com/HermeticOrmus/ormus-meta-prompting"
+  },
+  {
+    "description": "A CLAUDE.md to direct AI codegen well \u2014 hypothesis before help, scoped prompts, validate before accepting, reject workin",
+    "id": "HermeticOrmus/vibe-engineer-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/vibe-engineer-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:03:10Z",
+    "url": "https://github.com/HermeticOrmus/vibe-engineer-skills"
+  },
+  {
+    "description": "A CLAUDE.md that strips AI theater and ideological bias \u2014 no hedging, no disclaimers, no moralizing, no woke framing. Tr",
+    "id": "HermeticOrmus/unwoke-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/unwoke-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:03:08Z",
+    "url": "https://github.com/HermeticOrmus/unwoke-skills"
+  },
+  {
+    "description": "A CLAUDE.md for shell-safety discipline \u2014 set -euo pipefail boilerplate, proper quoting, array usage, error handling, an",
+    "id": "HermeticOrmus/shell-safety-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/shell-safety-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:03:00Z",
+    "url": "https://github.com/HermeticOrmus/shell-safety-skills"
+  },
+  {
+    "description": "A CLAUDE.md for the RIPER methodology \u2014 Research, Innovate, Plan, Execute, Review. Five-phase systematic development wor",
+    "id": "HermeticOrmus/riper-workflow-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/riper-workflow-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:02:55Z",
+    "url": "https://github.com/HermeticOrmus/riper-workflow-skills"
+  },
+  {
+    "description": "A CLAUDE.md that strips AI-slop from markdown \u2014 no em dashes, no marketing fluff, no emoji bullets, sentence case headin",
+    "id": "HermeticOrmus/markdown-discipline-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/markdown-discipline-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:02:46Z",
+    "url": "https://github.com/HermeticOrmus/markdown-discipline-skills"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 21,
+    "updated_at": "2026-05-25T02:01:38Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Pain-weighted hybrid memory for LLM agents. FTS5 + sqlite-vec + RRF + KG. MIT, open source. Published benchmarks.",
+    "id": "totobusnello/memoria-nox",
+    "language": "TypeScript",
+    "name": "totobusnello/memoria-nox",
+    "stars": 0,
+    "updated_at": "2026-05-25T01:59:54Z",
+    "url": "https://github.com/totobusnello/memoria-nox"
   },
   {
     "description": "An open-source, multi-agent AI framework for Playwright test automation \u2014 featuring a 2D pixel-art office, live SSE tele",
@@ -86,7 +230,7 @@
     "language": "TypeScript",
     "name": "zigrivers/scaffold",
     "stars": 3,
-    "updated_at": "2026-05-25T01:50:41Z",
+    "updated_at": "2026-05-25T02:03:56Z",
     "url": "https://github.com/zigrivers/scaffold"
   },
   {
@@ -99,24 +243,6 @@
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26092,
-    "updated_at": "2026-05-25T01:48:49Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Make your AI assistant think critically: catch hallucinations, challenge assumptions, resist sycophancy. A cognitive arc",
-    "id": "fabioc-aloha/Alex_ACT_Edition",
-    "language": "JavaScript",
-    "name": "fabioc-aloha/Alex_ACT_Edition",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:47:36Z",
-    "url": "https://github.com/fabioc-aloha/Alex_ACT_Edition"
-  },
-  {
     "description": "AI engineering learning notes \u2014 Claude Code 6-layer architecture, LangChain, RAG, and hands-on projects",
     "id": "zengtianli/learn",
     "language": "\u2014",
@@ -126,15 +252,6 @@
     "url": "https://github.com/zengtianli/learn"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:45:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
     "id": "jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness",
     "language": "\u2014",
@@ -142,6 +259,15 @@
     "stars": 820,
     "updated_at": "2026-05-25T01:45:08Z",
     "url": "https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness"
+  },
+  {
+    "description": "Field-tested patterns for running AI coding agents across many repos \u2014 a planner that can't commit, an executor that can",
+    "id": "steampunkfarms/ai-dev-governance",
+    "language": "\u2014",
+    "name": "steampunkfarms/ai-dev-governance",
+    "stars": 0,
+    "updated_at": "2026-05-25T01:44:17Z",
+    "url": "https://github.com/steampunkfarms/ai-dev-governance"
   },
   {
     "description": "74 production-ready Claude Code skills and 7 specialized agents for engineering, DevOps, product workflows, UI, deployme",
@@ -193,7 +319,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 33738,
+    "stars": 33739,
     "updated_at": "2026-05-25T01:34:55Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -214,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T01:33:34Z",
     "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "Free AI/ML course with 950+ Jupyter notebooks \u2014 Python, deep learning, LLMs, RAG, agents, prompt engineering, fine-tunin",
-    "id": "PavanMudigonda/zero-to-ai",
-    "language": "Jupyter Notebook",
-    "name": "PavanMudigonda/zero-to-ai",
-    "stars": 21,
-    "updated_at": "2026-05-25T01:33:06Z",
-    "url": "https://github.com/PavanMudigonda/zero-to-ai"
   },
   {
     "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-25T01:30:33Z",
     "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Generate production-ready UGC video ad prompts for Higgsfield AI Marketing Studio from your reference images and product",
-    "id": "carreras66848657/claude-skill-ugc-prompt",
-    "language": "\u2014",
-    "name": "carreras66848657/claude-skill-ugc-prompt",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:30:24Z",
-    "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:30:21Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:30:11Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:30:11Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:30:08Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 139,
-    "updated_at": "2026-05-25T01:30:07Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:30:07Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:30:02Z",
-    "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for",
-    "id": "TomasHer/prompting-blueprints",
-    "language": "HTML",
-    "name": "TomasHer/prompting-blueprints",
-    "stars": 10,
-    "updated_at": "2026-05-25T01:30:20Z",
-    "url": "https://github.com/TomasHer/prompting-blueprints"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:29:51Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:29:27Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:29:27Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
-    "id": "Paulessus/odin-gemini-mcp-bridge",
-    "language": "HTML",
-    "name": "Paulessus/odin-gemini-mcp-bridge",
-    "stars": 0,
-    "updated_at": "2026-05-25T01:29:20Z",
-    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
   }
 ]
