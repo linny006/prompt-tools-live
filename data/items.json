@@ -1,12 +1,48 @@
 [
   {
+    "description": "Coordination protocol for AI-collaborative work \u2014 bridge artifacts that keep a thinking AI, an implementing AI, and a hu",
+    "id": "moranbickel/Three-Body-Protocol",
+    "language": "\u2014",
+    "name": "moranbickel/Three-Body-Protocol",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:45:16Z",
+    "url": "https://github.com/moranbickel/Three-Body-Protocol"
+  },
+  {
+    "description": "A protocol for attesting AI-generated commits to a verifiable audit chain \u2014 intent registration, bundle authoring, audit",
+    "id": "moranbickel/CSAE",
+    "language": "Shell",
+    "name": "moranbickel/CSAE",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:45:11Z",
+    "url": "https://github.com/moranbickel/CSAE"
+  },
+  {
+    "description": "Adversarial AI review with structured verdicts \u2014 C/I/M defect taxonomy, numerical pass floor, single- and cross-model au",
+    "id": "moranbickel/Russian-Judge",
+    "language": "\u2014",
+    "name": "moranbickel/Russian-Judge",
+    "stars": 1,
+    "updated_at": "2026-05-26T18:45:06Z",
+    "url": "https://github.com/moranbickel/Russian-Judge"
+  },
+  {
     "description": "Make your AI assistant think critically: catch hallucinations, challenge assumptions, resist sycophancy. A cognitive arc",
     "id": "fabioc-aloha/Alex_ACT_Edition",
     "language": "JavaScript",
     "name": "fabioc-aloha/Alex_ACT_Edition",
     "stars": 0,
-    "updated_at": "2026-05-26T18:35:29Z",
+    "updated_at": "2026-05-26T18:44:21Z",
     "url": "https://github.com/fabioc-aloha/Alex_ACT_Edition"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 17,
+    "updated_at": "2026-05-26T18:44:07Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Agent Package Manager",
@@ -14,17 +50,17 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 2564,
-    "updated_at": "2026-05-26T18:35:03Z",
+    "updated_at": "2026-05-26T18:43:48Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
-    "description": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel diverge",
-    "id": "UditAkhourii/adhd",
-    "language": "TypeScript",
-    "name": "UditAkhourii/adhd",
-    "stars": 141,
-    "updated_at": "2026-05-26T18:33:03Z",
-    "url": "https://github.com/UditAkhourii/adhd"
+    "description": "Production-ready FastAPI backend for a conversational AI system that generates creative content using intent classificat",
+    "id": "Yashsh101/vizzy-chat-ai-backend",
+    "language": "Python",
+    "name": "Yashsh101/vizzy-chat-ai-backend",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:40:33Z",
+    "url": "https://github.com/Yashsh101/vizzy-chat-ai-backend"
   },
   {
     "description": "Kabeeri Vibe Developer Framework \u2014 A meta-framework for AI-driven software development and vibe developers.",
@@ -32,7 +68,7 @@
     "language": "JavaScript",
     "name": "adsalmohandis-blip/kabeeri.vdf",
     "stars": 0,
-    "updated_at": "2026-05-26T18:32:57Z",
+    "updated_at": "2026-05-26T18:40:30Z",
     "url": "https://github.com/adsalmohandis-blip/kabeeri.vdf"
   },
   {
@@ -41,8 +77,53 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 0,
-    "updated_at": "2026-05-26T18:32:35Z",
+    "updated_at": "2026-05-26T18:40:01Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Learn Claude Code Internals 2026: Tools, Permissions & Streaming Pipeline",
+    "id": "Danielking101/study-claude-code-architecture",
+    "language": "HTML",
+    "name": "Danielking101/study-claude-code-architecture",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:39:42Z",
+    "url": "https://github.com/Danielking101/study-claude-code-architecture"
+  },
+  {
+    "description": "Portable design system skill for Claude Code, Cursor, Codex, ChatGPT, Windsurf, and Copilot \u2014 with MCP server and self-l",
+    "id": "staurus86/global-design-skill",
+    "language": "Python",
+    "name": "staurus86/global-design-skill",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:39:31Z",
+    "url": "https://github.com/staurus86/global-design-skill"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:38:50Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:38:47Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Codex-first GSD: spec-driven development, context engineering, and verified AI coding workflows for OpenAI Codex.",
+    "id": "Oisinwang/get-shit-done-codex",
+    "language": "JavaScript",
+    "name": "Oisinwang/get-shit-done-codex",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:38:12Z",
+    "url": "https://github.com/Oisinwang/get-shit-done-codex"
   },
   {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
@@ -50,8 +131,17 @@
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 0,
-    "updated_at": "2026-05-26T18:30:37Z",
+    "updated_at": "2026-05-26T18:36:49Z",
     "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel diverge",
+    "id": "UditAkhourii/adhd",
+    "language": "TypeScript",
+    "name": "UditAkhourii/adhd",
+    "stars": 142,
+    "updated_at": "2026-05-26T18:33:03Z",
+    "url": "https://github.com/UditAkhourii/adhd"
   },
   {
     "description": "A holy, minimalist CLI toolkit and MCP server designed exclusively for LLM coding agents.",
@@ -79,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T18:28:52Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Codex-first GSD: spec-driven development, context engineering, and verified AI coding workflows for OpenAI Codex.",
-    "id": "Oisinwang/get-shit-done-codex",
-    "language": "JavaScript",
-    "name": "Oisinwang/get-shit-done-codex",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:28:18Z",
-    "url": "https://github.com/Oisinwang/get-shit-done-codex"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T18:26:48Z",
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Portable design system skill for Claude Code, Cursor, Codex, ChatGPT, Windsurf, and Copilot \u2014 with MCP server and self-l",
-    "id": "staurus86/global-design-skill",
-    "language": "Python",
-    "name": "staurus86/global-design-skill",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:24:10Z",
-    "url": "https://github.com/staurus86/global-design-skill"
   },
   {
     "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
@@ -178,15 +250,6 @@
     "stars": 21620,
     "updated_at": "2026-05-26T18:18:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 17,
-    "updated_at": "2026-05-26T18:18:00Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "This repository serves as the comprehensive workspace for Quarter 4 academic endeavors, encompassing assignments, techni",
@@ -385,68 +448,5 @@
     "stars": 12,
     "updated_at": "2026-05-26T17:51:44Z",
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "\ud83e\udda5 An AI-native, structural CSS framework built for backend developers. Stop writing CSS: download the dynamic markdown s",
-    "id": "asideia/lazy-css",
-    "language": "HTML",
-    "name": "asideia/lazy-css",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:50:55Z",
-    "url": "https://github.com/asideia/lazy-css"
-  },
-  {
-    "description": "AI-assisted desktop development cockpit for orchestration, build analysis, prompt workflows, and runtime ecosystem tooli",
-    "id": "kcxrhea-bit/KCxStudioCompanion",
-    "language": "TypeScript",
-    "name": "kcxrhea-bit/KCxStudioCompanion",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:50:13Z",
-    "url": "https://github.com/kcxrhea-bit/KCxStudioCompanion"
-  },
-  {
-    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
-    "id": "Supervertaler/Supervertaler-Workbench",
-    "language": "Python",
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 38,
-    "updated_at": "2026-05-26T17:49:08Z",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
-  },
-  {
-    "description": "Engineering workflows for AI coding agents or flesh engineers.",
-    "id": "franklioxygen/agent-workflows",
-    "language": "Python",
-    "name": "franklioxygen/agent-workflows",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:48:49Z",
-    "url": "https://github.com/franklioxygen/agent-workflows"
-  },
-  {
-    "description": "\u82cf\u683c\u62c9\u5e95\u5bf9\u8bdd\u4f53\u5199\u4f5c Claude Skill \u2014 \u4e00\u53e5\u300e\u628a X \u5199\u6210\u82cf\u683c\u62c9\u5e95\u5bf9\u8bdd\u300f\u2192 \u4fe1\u5f92\u9648\u8bcd + \u82cf\u683c\u62c9\u5e95\u5c42\u5c42\u8ffd\u95ee + \u53cd\u8f6c + aporia \u6536\u5c3e,\u4e03\u6761\u94c1\u5f8b(\u4fe1\u5f92\u6709\u7259/\u82cf\u683c\u62c9\u5e95\u4e0d\u8ba4\u9519/\u4e0d\u8bb8\u72ec\u767d/\u7ed3\u8bba reframe/\u53bb AI \u8154)+ \u67cf",
-    "id": "A-cat-with-carrots/socratic-dialogue",
-    "language": "HTML",
-    "name": "A-cat-with-carrots/socratic-dialogue",
-    "stars": 1,
-    "updated_at": "2026-05-26T17:47:24Z",
-    "url": "https://github.com/A-cat-with-carrots/socratic-dialogue"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:40:51Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Coordination protocol for running multiple AI coding sessions on one repo without divergence. Third of six methodology p",
-    "id": "moranbickel/Peer-Worker-Convergence",
-    "language": "Shell",
-    "name": "moranbickel/Peer-Worker-Convergence",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:40:51Z",
-    "url": "https://github.com/moranbickel/Peer-Worker-Convergence"
   }
 ]
