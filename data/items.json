@@ -1,12 +1,102 @@
 [
   {
+    "description": "Open-source prompt version control for AI teams. Git-style history, automated evals, one-click rollback for LLM prompts.",
+    "id": "PromptMatrix/promptmatrix.github.io",
+    "language": "Python",
+    "name": "PromptMatrix/promptmatrix.github.io",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:29:01Z",
+    "url": "https://github.com/PromptMatrix/promptmatrix.github.io"
+  },
+  {
     "description": "Universal prompt engineering framework for critical AI validation",
     "id": "fabriciopsouza/metacognition-framework",
-    "language": "HTML",
+    "language": "PowerShell",
     "name": "fabriciopsouza/metacognition-framework",
     "stars": 0,
-    "updated_at": "2026-05-26T03:15:18Z",
+    "updated_at": "2026-05-26T03:26:55Z",
     "url": "https://github.com/fabriciopsouza/metacognition-framework"
+  },
+  {
+    "description": "\u7528 Harness \u5de5\u7a0b\u505a\u79d1\u7814\u7684 starter kit \u00b7 A starter kit for doing research with AI harnesses \u00b7 \u914d\u5957 75-min talk on AI for research, h",
+    "id": "IanLiYi1996/ai-research-harness",
+    "language": "HTML",
+    "name": "IanLiYi1996/ai-research-harness",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:25:13Z",
+    "url": "https://github.com/IanLiYi1996/ai-research-harness"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21595,
+    "updated_at": "2026-05-26T03:28:48Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A Claude skill that turns raw material into persuasive presentation outlines. Story and narrative architecture \u2014 not des",
+    "id": "marcusnelson/powerpoint-keynote-skill",
+    "language": "\u2014",
+    "name": "marcusnelson/powerpoint-keynote-skill",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:23:53Z",
+    "url": "https://github.com/marcusnelson/powerpoint-keynote-skill"
+  },
+  {
+    "description": "Plugin for AI coding agents - Claude Code, Cursor, Codex CLI, Gemini CLI - that injects archetype-aware code conventions",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:23:23Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "A reusable AI learning skill for mastering almost any subject through project-driven learning, mastery checks, and autho",
+    "id": "read2017/learn-anything-with-AI",
+    "language": "\u2014",
+    "name": "read2017/learn-anything-with-AI",
+    "stars": 34,
+    "updated_at": "2026-05-26T03:17:26Z",
+    "url": "https://github.com/read2017/learn-anything-with-AI"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:17:09Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "\u2702\ufe0f Surgical, safe updates for AI skill files \u2014 Edit-only protocol with before/after verification. No unintended rewrites",
+    "id": "darian-deng/agent-skills",
+    "language": "Python",
+    "name": "darian-deng/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:16:55Z",
+    "url": "https://github.com/darian-deng/agent-skills"
+  },
+  {
+    "description": "Local-first AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history acros",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:15:54Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "asgard-ai-platform/skills",
     "stars": 204,
-    "updated_at": "2026-05-26T03:11:12Z",
+    "updated_at": "2026-05-26T03:23:19Z",
     "url": "https://github.com/asgard-ai-platform/skills"
   },
   {
@@ -54,15 +144,6 @@
     "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21594,
-    "updated_at": "2026-05-26T03:12:23Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Automate social media accounts using an AI agent that navigates live web pages to perform tasks like liking posts and wr",
     "id": "Dusty-plumcot781/locoagent",
     "language": "\u2014",
@@ -70,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T03:08:28Z",
     "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "\u2702\ufe0f Surgical, safe updates for AI skill files \u2014 Edit-only protocol with before/after verification. No unintended rewrites",
-    "id": "darian-deng/agent-skills",
-    "language": "Python",
-    "name": "darian-deng/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:08:27Z",
-    "url": "https://github.com/darian-deng/agent-skills"
   },
   {
     "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
@@ -167,7 +239,7 @@
     "language": "Python",
     "name": "chopratejas/headroom",
     "stars": 2018,
-    "updated_at": "2026-05-26T03:12:23Z",
+    "updated_at": "2026-05-26T03:25:38Z",
     "url": "https://github.com/chopratejas/headroom"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T03:02:30Z",
     "url": "https://github.com/Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy"
-  },
-  {
-    "description": "Track public technical updates, architecture notes, and development benchmarks for the Happy Horse 1.0 AI video generati",
-    "id": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "language": "\u2014",
-    "name": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:02:30Z",
-    "url": "https://github.com/Waldoncockeyed9421/Happy-Horse-1.0"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:02:19Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Prompt testing and optimization CLI, test variants, score outputs, find optimal prompts. Zero dependencies.",
-    "id": "penggarislucu/llm-prompt-lab",
-    "language": "JavaScript",
-    "name": "penggarislucu/llm-prompt-lab",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:02:15Z",
-    "url": "https://github.com/penggarislucu/llm-prompt-lab"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:02:06Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Catalog physical media collections into portable knowledge bases for LLM context windows to improve AI awareness of your",
-    "id": "Bennyvibrionic5714/llmbrary",
-    "language": "Python",
-    "name": "Bennyvibrionic5714/llmbrary",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:02:02Z",
-    "url": "https://github.com/Bennyvibrionic5714/llmbrary"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:01:38Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Reduce AI token usage by 65 percent. This Claude Code skill trims filler and pleasantries while keeping technical conten",
-    "id": "salvageable-mutualfund57/caveman-distillate",
-    "language": "\u2014",
-    "name": "salvageable-mutualfund57/caveman-distillate",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:01:36Z",
-    "url": "https://github.com/salvageable-mutualfund57/caveman-distillate"
-  },
-  {
-    "description": "Organize AI conversations into clean, structured threads to refine context and improve model output quality.",
-    "id": "Robertmyerkesextremist950/metaprompt",
-    "language": "HTML",
-    "name": "Robertmyerkesextremist950/metaprompt",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:01:35Z",
-    "url": "https://github.com/Robertmyerkesextremist950/metaprompt"
   }
 ]
