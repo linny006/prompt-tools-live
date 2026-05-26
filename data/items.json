@@ -1,5 +1,59 @@
 [
   {
+    "description": "Make your AI assistant think critically: catch hallucinations, challenge assumptions, resist sycophancy. A cognitive arc",
+    "id": "fabioc-aloha/Alex_ACT_Edition",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_ACT_Edition",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:35:29Z",
+    "url": "https://github.com/fabioc-aloha/Alex_ACT_Edition"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2564,
+    "updated_at": "2026-05-26T18:35:03Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel diverge",
+    "id": "UditAkhourii/adhd",
+    "language": "TypeScript",
+    "name": "UditAkhourii/adhd",
+    "stars": 141,
+    "updated_at": "2026-05-26T18:33:03Z",
+    "url": "https://github.com/UditAkhourii/adhd"
+  },
+  {
+    "description": "Kabeeri Vibe Developer Framework \u2014 A meta-framework for AI-driven software development and vibe developers.",
+    "id": "adsalmohandis-blip/kabeeri.vdf",
+    "language": "JavaScript",
+    "name": "adsalmohandis-blip/kabeeri.vdf",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:32:57Z",
+    "url": "https://github.com/adsalmohandis-blip/kabeeri.vdf"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:32:35Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:30:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A holy, minimalist CLI toolkit and MCP server designed exclusively for LLM coding agents.",
     "id": "oeo/monkdev",
     "language": "TypeScript",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T18:28:18Z",
     "url": "https://github.com/Oisinwang/get-shit-done-codex"
-  },
-  {
-    "description": "Make your AI assistant think critically: catch hallucinations, challenge assumptions, resist sycophancy. A cognitive arc",
-    "id": "fabioc-aloha/Alex_ACT_Edition",
-    "language": "JavaScript",
-    "name": "fabioc-aloha/Alex_ACT_Edition",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:27:47Z",
-    "url": "https://github.com/fabioc-aloha/Alex_ACT_Edition"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -99,15 +144,6 @@
     "url": "https://github.com/wesleysimplicio/simplicio-cli"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:23:49Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -135,13 +171,13 @@
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   },
   {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 2564,
-    "updated_at": "2026-05-26T18:19:25Z",
-    "url": "https://github.com/microsoft/apm"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21620,
+    "updated_at": "2026-05-26T18:18:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -160,15 +196,6 @@
     "stars": 16,
     "updated_at": "2026-05-26T18:16:40Z",
     "url": "https://github.com/DanielHashmi/Q4_learning"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:15:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
@@ -270,15 +297,6 @@
     "url": "https://github.com/AltairaLabs/promptpack-spec"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21619,
-    "updated_at": "2026-05-26T18:18:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "GitHub repo \u5c55\u793a\u5c42\u7ba1\u5bb6 Claude Skill \u2014 \u4e00\u53e5\u300e\u6309 X \u98ce\u683c\u5199 README\u300f\u6216\u300e\u628a\u8fd9\u4e2a\u63a8\u5230 GitHub\u300f \u2192 \u4e09\u4ef6\u5957(README 17 \u6bb5\u91cd\u5199 / \u516c\u5f0f\u5316 100 \u5b57\u63cf\u8ff0 / 6 \u7c7b 10-15 \u4e2a topic",
     "id": "A-cat-with-carrots/ai-github-skill",
     "language": "\u2014",
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 709,
-    "updated_at": "2026-05-26T18:25:34Z",
+    "updated_at": "2026-05-26T18:32:40Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T17:40:51Z",
     "url": "https://github.com/moranbickel/Peer-Worker-Convergence"
-  },
-  {
-    "description": "Coordination protocol for AI-collaborative work \u2014 bridge artifacts that keep a thinking AI, an implementing AI, and a hu",
-    "id": "moranbickel/Three-Body-Protocol",
-    "language": "\u2014",
-    "name": "moranbickel/Three-Body-Protocol",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:14:36Z",
-    "url": "https://github.com/moranbickel/Three-Body-Protocol"
-  },
-  {
-    "description": "A protocol for attesting AI-generated commits to a verifiable audit chain \u2014 intent registration, bundle authoring, audit",
-    "id": "moranbickel/CSAE",
-    "language": "Shell",
-    "name": "moranbickel/CSAE",
-    "stars": 0,
-    "updated_at": "2026-05-26T18:11:35Z",
-    "url": "https://github.com/moranbickel/CSAE"
   }
 ]
