@@ -1,5 +1,77 @@
 [
   {
+    "description": "Copy/paste library of 29 analytical prompt templates and output templates for AI-assisted financial-crime, compliance, b",
+    "id": "maxmoran23/analyst-toolkit",
+    "language": "HTML",
+    "name": "maxmoran23/analyst-toolkit",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:48:36Z",
+    "url": "https://github.com/maxmoran23/analyst-toolkit"
+  },
+  {
+    "description": "Lightweight Codex plugin for turning ambiguous requests into reviewable /goal-ready workflows.",
+    "id": "jaehoonE7877/threadex",
+    "language": "Python",
+    "name": "jaehoonE7877/threadex",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:48:14Z",
+    "url": "https://github.com/jaehoonE7877/threadex"
+  },
+  {
+    "description": "Find what your AI agent gets wrong \u2014 before you have a rubric. Qualitative eval for PMs.",
+    "id": "aws-samples/sample-GEDD",
+    "language": "Python",
+    "name": "aws-samples/sample-GEDD",
+    "stars": 1,
+    "updated_at": "2026-05-26T01:47:25Z",
+    "url": "https://github.com/aws-samples/sample-GEDD"
+  },
+  {
+    "description": "\ud83d\udcd8 Summarize speeches and documents swiftly with advanced techniques using LangChain and Groq's fast Llama models for eff",
+    "id": "arq105/llm-speech-summarization",
+    "language": "Jupyter Notebook",
+    "name": "arq105/llm-speech-summarization",
+    "stars": 1,
+    "updated_at": "2026-05-26T01:47:22Z",
+    "url": "https://github.com/arq105/llm-speech-summarization"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:47:18Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "\ud83d\udcda Access bilingual notes for Andrew Ng's 2025 Deep Learning & ChatGPT Prompt Engineering, featuring detailed cases and p",
+    "id": "declan71/Andrew-Ng-Deep-Learning-2025-Bilingual-Notes",
+    "language": "\u2014",
+    "name": "declan71/Andrew-Ng-Deep-Learning-2025-Bilingual-Notes",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:47:17Z",
+    "url": "https://github.com/declan71/Andrew-Ng-Deep-Learning-2025-Bilingual-Notes"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:47:06Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-26T01:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83d\udcca Transform research papers into professional slides and posters seamlessly and quickly with Paper2Slides, saving you va",
     "id": "pchi123/Paper2Slides",
     "language": "Python",
@@ -90,15 +162,6 @@
     "url": "https://github.com/chojondocho/vowline"
   },
   {
-    "description": "Find what your AI agent gets wrong \u2014 before you have a rubric. Qualitative eval for PMs.",
-    "id": "aws-samples/sample-GEDD",
-    "language": "Python",
-    "name": "aws-samples/sample-GEDD",
-    "stars": 1,
-    "updated_at": "2026-05-26T01:41:40Z",
-    "url": "https://github.com/aws-samples/sample-GEDD"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Streamline your development with effective prompts for code reviews, migrations, documentation, and performance optim",
     "id": "matixblocks/prompts-dev",
     "language": "\u2014",
@@ -149,7 +212,7 @@
     "language": "TypeScript",
     "name": "zigrivers/scaffold",
     "stars": 3,
-    "updated_at": "2026-05-26T01:38:29Z",
+    "updated_at": "2026-05-26T01:47:55Z",
     "url": "https://github.com/zigrivers/scaffold"
   },
   {
@@ -324,15 +387,6 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-26T01:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83d\udcca Automate time series analysis and forecasting with an interactive AI agent that delivers tailored reports for both tec",
     "id": "Koushik2004great/Agentic-Time-Series-Analysis-Reporting---Forecasting",
     "language": "Python",
@@ -364,7 +418,7 @@
     "id": "appautomaton/automaton",
     "language": "JavaScript",
     "name": "appautomaton/automaton",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-05-26T01:28:08Z",
     "url": "https://github.com/appautomaton/automaton"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T01:25:32Z",
     "url": "https://github.com/meezy496/FREE-AI-RESOURCES"
-  },
-  {
-    "description": "\u2728 Explore essential resources and techniques for effective prompt engineering with Large Language Models, enhancing your",
-    "id": "hungf1511/awesome-prompt-engineering",
-    "language": "\u2014",
-    "name": "hungf1511/awesome-prompt-engineering",
-    "stars": 5,
-    "updated_at": "2026-05-26T01:24:58Z",
-    "url": "https://github.com/hungf1511/awesome-prompt-engineering"
-  },
-  {
-    "description": "",
-    "id": "Genitoruniversityofparis959/Readable.ai",
-    "language": "\u2014",
-    "name": "Genitoruniversityofparis959/Readable.ai",
-    "stars": 0,
-    "updated_at": "2026-05-26T01:24:31Z",
-    "url": "https://github.com/Genitoruniversityofparis959/Readable.ai"
-  },
-  {
-    "description": "\ud83d\udcdd Explore Amazon Bedrock's Converse API with this Jupyter notebook, featuring practical examples for text generation and",
-    "id": "bohemiaseparate909/aws-bedrock-learning-notebook",
-    "language": "Jupyter Notebook",
-    "name": "bohemiaseparate909/aws-bedrock-learning-notebook",
-    "stars": 0,
-    "updated_at": "2026-05-26T01:22:59Z",
-    "url": "https://github.com/bohemiaseparate909/aws-bedrock-learning-notebook"
-  },
-  {
-    "description": "Access Claude Code's free tier for AI-powered terminal assistance",
-    "id": "channelfireforge/claude-code-free-helper",
-    "language": "\u2014",
-    "name": "channelfireforge/claude-code-free-helper",
-    "stars": 0,
-    "updated_at": "2026-05-26T01:22:45Z",
-    "url": "https://github.com/channelfireforge/claude-code-free-helper"
-  },
-  {
-    "description": "\ud83c\udfa5 Master AI video generation with curated prompts, techniques, and storytelling resources for seamless cinematic creatio",
-    "id": "dpresseddud/awesome-ai-video-prompts",
-    "language": "\u2014",
-    "name": "dpresseddud/awesome-ai-video-prompts",
-    "stars": 5,
-    "updated_at": "2026-05-26T01:19:35Z",
-    "url": "https://github.com/dpresseddud/awesome-ai-video-prompts"
-  },
-  {
-    "description": "",
-    "id": "TheEspresso/prompt-engineering",
-    "language": "\u2014",
-    "name": "TheEspresso/prompt-engineering",
-    "stars": 1,
-    "updated_at": "2026-05-26T01:18:49Z",
-    "url": "https://github.com/TheEspresso/prompt-engineering"
   }
 ]
