@@ -1,5 +1,50 @@
 [
   {
+    "description": "Reusable Codex/Claude-style skill folders for repeatable AI workflows.",
+    "id": "jqaisystems/jqai-ai-skills",
+    "language": "HTML",
+    "name": "jqaisystems/jqai-ai-skills",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:17:32Z",
+    "url": "https://github.com/jqaisystems/jqai-ai-skills"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 15,
+    "updated_at": "2026-05-27T10:17:15Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:16:55Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Public case studies for internal AI systems built to run JQ AI SYSTEMS studio operations.",
+    "id": "jqaisystems/jqai-internal-systems",
+    "language": "\u2014",
+    "name": "jqaisystems/jqai-internal-systems",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:16:40Z",
+    "url": "https://github.com/jqaisystems/jqai-internal-systems"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:15:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Claude Code\u306e\u305f\u3081\u306e\u9ad8\u54c1\u8cea\u30d7\u30ed\u30f3\u30d7\u30c8\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u30fb\u30d9\u30b9\u30c8\u30d7\u30e9\u30af\u30c6\u30a3\u30b9\u96c6",
     "id": "KazuyaMurayama/claude-code-prompt",
     "language": "\u2014",
@@ -9,20 +54,20 @@
     "url": "https://github.com/KazuyaMurayama/claude-code-prompt"
   },
   {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 15,
-    "updated_at": "2026-05-27T10:15:09Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:15:29Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
   },
   {
     "description": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel diverge",
     "id": "UditAkhourii/adhd",
     "language": "TypeScript",
     "name": "UditAkhourii/adhd",
-    "stars": 233,
+    "stars": 234,
     "updated_at": "2026-05-27T10:14:56Z",
     "url": "https://github.com/UditAkhourii/adhd"
   },
@@ -86,17 +131,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28044,
-    "updated_at": "2026-05-27T10:14:02Z",
+    "updated_at": "2026-05-27T10:17:03Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Reusable Codex/Claude-style skill folders for repeatable AI workflows.",
-    "id": "jqaisystems/jqai-ai-skills",
-    "language": "HTML",
-    "name": "jqaisystems/jqai-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:09:22Z",
-    "url": "https://github.com/jqaisystems/jqai-ai-skills"
   },
   {
     "description": "Lighthouse for Claude prompts - estimate tokens, recommend models, refine prompts before you send.",
@@ -288,15 +324,6 @@
     "url": "https://github.com/mightyhuman101/seedance2-skill"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:00:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83d\udee0 Improve your AI prompts with Reprompter to get clearer, more accurate responses from large language models.",
     "id": "tutayworks/reprompter",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:56:00Z",
     "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Enhance code quality with structured reviews, focusing on architecture, security, performance, and code hygiene for r",
-    "id": "mj9733246-cloud/code-review-expert",
-    "language": "\u2014",
-    "name": "mj9733246-cloud/code-review-expert",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:55:51Z",
-    "url": "https://github.com/mj9733246-cloud/code-review-expert"
-  },
-  {
-    "description": "\ud83d\udd27 Access GitHub Copilot seamlessly from your taskbar with auto-context insights, enhancing your workflow in a native Win",
-    "id": "marcelgundelach284-ai/ghcopilot-taskbar-gui",
-    "language": "C#",
-    "name": "marcelgundelach284-ai/ghcopilot-taskbar-gui",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:55:28Z",
-    "url": "https://github.com/marcelgundelach284-ai/ghcopilot-taskbar-gui"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Streamline AI-assisted code reviews for Linux kernel and systemd development with easy-to-use prompts and commands.",
-    "id": "lingngngng/review-prompts",
-    "language": "Python",
-    "name": "lingngngng/review-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:55:28Z",
-    "url": "https://github.com/lingngngng/review-prompts"
   }
 ]
