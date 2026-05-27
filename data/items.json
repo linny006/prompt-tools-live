@@ -1,5 +1,104 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26131,
+    "updated_at": "2026-05-27T01:15:26Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Coordinated pipeline of small, specialized models. Production AI without large LLMs.",
+    "id": "msm-core/msm-ai",
+    "language": "TypeScript",
+    "name": "msm-core/msm-ai",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:13:37Z",
+    "url": "https://github.com/msm-core/msm-ai"
+  },
+  {
+    "description": "AI-powered resume and JD matcher using Claude API + sentence-transformers. Live demo, open source.",
+    "id": "nurbolsultanov/resume-matcher",
+    "language": "Python",
+    "name": "nurbolsultanov/resume-matcher",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:12:32Z",
+    "url": "https://github.com/nurbolsultanov/resume-matcher"
+  },
+  {
+    "description": "Codex-first GSD: spec-driven development, context engineering, and verified AI coding workflows for OpenAI Codex.",
+    "id": "Oisinwang/get-shit-done-codex",
+    "language": "JavaScript",
+    "name": "Oisinwang/get-shit-done-codex",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:12:09Z",
+    "url": "https://github.com/Oisinwang/get-shit-done-codex"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 33882,
+    "updated_at": "2026-05-27T01:10:39Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 3,
+    "updated_at": "2026-05-27T01:09:30Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "A Claude Code plugin that grades your collaboration with AI across 9 dimensions in 3 categories \u2014 with a free-form AI di",
+    "id": "LeifDiao/claude-radar",
+    "language": "\u2014",
+    "name": "LeifDiao/claude-radar",
+    "stars": 7,
+    "updated_at": "2026-05-27T01:09:11Z",
+    "url": "https://github.com/LeifDiao/claude-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21627,
+    "updated_at": "2026-05-27T01:11:33Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 8,
+    "updated_at": "2026-05-27T01:05:46Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "Make your AI assistant think critically: catch hallucinations, challenge assumptions, resist sycophancy. A cognitive arc",
+    "id": "fabioc-aloha/Alex_ACT_Edition",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_ACT_Edition",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:01:12Z",
+    "url": "https://github.com/fabioc-aloha/Alex_ACT_Edition"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T01:00:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
     "id": "archubbuck/workspace-architect",
     "language": "Python",
@@ -18,29 +117,11 @@
     "url": "https://github.com/EgoAlpha/prompt-in-context-learning"
   },
   {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 8,
-    "updated_at": "2026-05-27T00:58:57Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
-  },
-  {
-    "description": "AI-powered resume and JD matcher using Claude API + sentence-transformers. Live demo, open source.",
-    "id": "nurbolsultanov/resume-matcher",
-    "language": "Python",
-    "name": "nurbolsultanov/resume-matcher",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:58:02Z",
-    "url": "https://github.com/nurbolsultanov/resume-matcher"
-  },
-  {
     "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
     "id": "cclank/lanshu-awesome-ai-video-kit",
     "language": "HTML",
     "name": "cclank/lanshu-awesome-ai-video-kit",
-    "stars": 128,
+    "stars": 130,
     "updated_at": "2026-05-27T00:54:55Z",
     "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit"
   },
@@ -63,15 +144,6 @@
     "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
-    "description": "Coordinated pipeline of small, specialized models. Production AI without large LLMs.",
-    "id": "msm-core/msm-ai",
-    "language": "TypeScript",
-    "name": "msm-core/msm-ai",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:47:48Z",
-    "url": "https://github.com/msm-core/msm-ai"
-  },
-  {
     "description": "Static security scanner for AI prompts, MCP configs, and agent workflows. Zero LLM calls. Local-first. OWASP LLM Top 10 ",
     "id": "meghal86/promptsonar",
     "language": "TypeScript",
@@ -81,24 +153,6 @@
     "url": "https://github.com/meghal86/promptsonar"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
-    "id": "zigrivers/scaffold",
-    "language": "TypeScript",
-    "name": "zigrivers/scaffold",
-    "stars": 3,
-    "updated_at": "2026-05-27T00:58:00Z",
-    "url": "https://github.com/zigrivers/scaffold"
-  },
-  {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
@@ -106,15 +160,6 @@
     "stars": 4160,
     "updated_at": "2026-05-27T00:45:24Z",
     "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "Python",
-    "name": "github/awesome-copilot",
-    "stars": 33881,
-    "updated_at": "2026-05-27T00:59:17Z",
-    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "Stage 1 of the Daktus CDSS pipeline: skill-based context harness that transforms a clinical briefing into a validated, E",
@@ -180,15 +225,6 @@
     "url": "https://github.com/FURUYAN1234/nano-banana-pro"
   },
   {
-    "description": "A Claude Code plugin that grades your collaboration with AI across 9 dimensions in 3 categories \u2014 with a free-form AI di",
-    "id": "LeifDiao/claude-radar",
-    "language": "\u2014",
-    "name": "LeifDiao/claude-radar",
-    "stars": 7,
-    "updated_at": "2026-05-27T00:27:55Z",
-    "url": "https://github.com/LeifDiao/claude-radar"
-  },
-  {
     "description": "Fleet-analyze a directory of prompt-provenance docs. Counts by approval state; flags approved-without-evaluations / no-r",
     "id": "mizcausevic-dev/prompt-provenance-fleet-summary",
     "language": "TypeScript",
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 711,
-    "updated_at": "2026-05-27T00:59:46Z",
+    "updated_at": "2026-05-27T01:02:25Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T00:11:21Z",
     "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:11:15Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:11:07Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:11:06Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-27T00:11:05Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
   }
 ]
