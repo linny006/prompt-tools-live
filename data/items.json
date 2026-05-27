@@ -1,5 +1,158 @@
 [
   {
+    "description": "Citation-gated tax verification on Claude. Four-layer knowledge base. Caught a $19,000 state income tax error that filin",
+    "id": "mitwilli-create/tax-verification-agent",
+    "language": "\u2014",
+    "name": "mitwilli-create/tax-verification-agent",
+    "stars": 1,
+    "updated_at": "2026-05-27T14:14:24Z",
+    "url": "https://github.com/mitwilli-create/tax-verification-agent"
+  },
+  {
+    "description": "Six-axis voice scoring, dual-persona routing, QA gates. 99% stylistic fidelity at VP-scale deployment. Calibrated on 6.9",
+    "id": "mitwilli-create/voice-os",
+    "language": "\u2014",
+    "name": "mitwilli-create/voice-os",
+    "stars": 1,
+    "updated_at": "2026-05-27T14:14:17Z",
+    "url": "https://github.com/mitwilli-create/voice-os"
+  },
+  {
+    "description": "~160 ops hrs/year recaptured across a 1,000-engineer org. Autonomous triage + revision + escalation for internal comms i",
+    "id": "mitwilli-create/comms-triage-agent",
+    "language": "JavaScript",
+    "name": "mitwilli-create/comms-triage-agent",
+    "stars": 1,
+    "updated_at": "2026-05-27T14:14:10Z",
+    "url": "https://github.com/mitwilli-create/comms-triage-agent"
+  },
+  {
+    "description": "Plugin for AI coding agents - Claude Code, Cursor, Codex CLI, Gemini CLI - that injects archetype-aware code conventions",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:12:43Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "329 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 320+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 16317,
+    "updated_at": "2026-05-27T14:11:33Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "description": "Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready).",
+    "id": "charlieviettq/awesome-agent-skill",
+    "language": "Python",
+    "name": "charlieviettq/awesome-agent-skill",
+    "stars": 14,
+    "updated_at": "2026-05-27T14:09:27Z",
+    "url": "https://github.com/charlieviettq/awesome-agent-skill"
+  },
+  {
+    "description": "Community skills for Claude Code: token optimization, productivity workflows, and development best practices. All skills",
+    "id": "valorisa/Claude-Skills",
+    "language": "Python",
+    "name": "valorisa/Claude-Skills",
+    "stars": 2,
+    "updated_at": "2026-05-27T14:09:06Z",
+    "url": "https://github.com/valorisa/Claude-Skills"
+  },
+  {
+    "description": "Codex-first GSD: spec-driven development, context engineering, and verified AI coding workflows for OpenAI Codex.",
+    "id": "Oisinwang/get-shit-done-codex",
+    "language": "JavaScript",
+    "name": "Oisinwang/get-shit-done-codex",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:08:25Z",
+    "url": "https://github.com/Oisinwang/get-shit-done-codex"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
+    "id": "event4u-app/agent-config",
+    "language": "Python",
+    "name": "event4u-app/agent-config",
+    "stars": 5,
+    "updated_at": "2026-05-27T14:14:13Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19383,
+    "updated_at": "2026-05-27T14:12:55Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
+    "id": "Paulessus/odin-gemini-mcp-bridge",
+    "language": "HTML",
+    "name": "Paulessus/odin-gemini-mcp-bridge",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:04:44Z",
+    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 17,
+    "updated_at": "2026-05-27T14:13:33Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "promptc \u2014 a prompt-compiler / interceptor for the Claude CLI. (The apex plugin built from analyzing it now lives at gith",
+    "id": "voidtraces/Promptc",
+    "language": "HTML",
+    "name": "voidtraces/Promptc",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:02:39Z",
+    "url": "https://github.com/voidtraces/Promptc"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:02:22Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 49,
+    "updated_at": "2026-05-27T14:01:09Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:00:47Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28059,
+    "updated_at": "2026-05-27T14:00:33Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -27,42 +180,6 @@
     "url": "https://github.com/FURUYAN1234/nano-banana-pro"
   },
   {
-    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
-    "id": "event4u-app/agent-config",
-    "language": "Python",
-    "name": "event4u-app/agent-config",
-    "stars": 5,
-    "updated_at": "2026-05-27T13:57:30Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28058,
-    "updated_at": "2026-05-27T14:00:33Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:55:07Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready).",
-    "id": "charlieviettq/awesome-agent-skill",
-    "language": "Python",
-    "name": "charlieviettq/awesome-agent-skill",
-    "stars": 14,
-    "updated_at": "2026-05-27T13:55:03Z",
-    "url": "https://github.com/charlieviettq/awesome-agent-skill"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -77,7 +194,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 3773,
-    "updated_at": "2026-05-27T13:54:21Z",
+    "updated_at": "2026-05-27T14:10:57Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -99,15 +216,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Codex-first GSD: spec-driven development, context engineering, and verified AI coding workflows for OpenAI Codex.",
-    "id": "Oisinwang/get-shit-done-codex",
-    "language": "JavaScript",
-    "name": "Oisinwang/get-shit-done-codex",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:53:49Z",
-    "url": "https://github.com/Oisinwang/get-shit-done-codex"
-  },
-  {
     "description": "AI Agent Ops framework for Claude Code \u2014 independent evaluator, adversarial review, and pre-commit quality gate for AI-g",
     "id": "TeamSPWK/nova",
     "language": "Shell",
@@ -115,6 +223,15 @@
     "stars": 1,
     "updated_at": "2026-05-27T13:53:13Z",
     "url": "https://github.com/TeamSPWK/nova"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9867,
+    "updated_at": "2026-05-27T13:52:48Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Prompt, skill, and technology-direction reconciliation guidance for turning mismatched requirements, overlapping skills,",
@@ -135,31 +252,13 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "Plugin for AI coding agents - Claude Code, Cursor, Codex CLI, Gemini CLI - that injects archetype-aware code conventions",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:51:24Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
     "description": "Agent Package Manager",
     "id": "microsoft/apm",
     "language": "Python",
     "name": "microsoft/apm",
-    "stars": 2635,
+    "stars": 2636,
     "updated_at": "2026-05-27T13:50:48Z",
     "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9866,
-    "updated_at": "2026-05-27T13:52:48Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
@@ -216,29 +315,11 @@
     "url": "https://github.com/vassiliylakhonin/gulf-middle-east-hybrid-intelligence-skill"
   },
   {
-    "description": "apex \u2014 a Claude Code plugin that turns a rough request into an elite, grounded, human-gated prompt. Plus the graphify an",
-    "id": "voidtraces/Promptc",
-    "language": "HTML",
-    "name": "voidtraces/Promptc",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:46:24Z",
-    "url": "https://github.com/voidtraces/Promptc"
-  },
-  {
-    "description": "Community skills for Claude Code: token optimization, productivity workflows, and development best practices. All skills",
-    "id": "valorisa/Claude-Skills",
-    "language": "Shell",
-    "name": "valorisa/Claude-Skills",
-    "stars": 2,
-    "updated_at": "2026-05-27T13:45:07Z",
-    "url": "https://github.com/valorisa/Claude-Skills"
-  },
-  {
     "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
     "id": "Supervertaler/Supervertaler-Workbench",
     "language": "Python",
     "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 38,
+    "stars": 39,
     "updated_at": "2026-05-27T13:45:00Z",
     "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
   },
@@ -288,21 +369,12 @@
     "url": "https://github.com/dukeluo/awesome-awesome-ai"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 17,
-    "updated_at": "2026-05-27T13:40:07Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
     "id": "zigrivers/scaffold",
     "language": "TypeScript",
     "name": "zigrivers/scaffold",
     "stars": 3,
-    "updated_at": "2026-05-27T13:53:13Z",
+    "updated_at": "2026-05-27T14:06:58Z",
     "url": "https://github.com/zigrivers/scaffold"
   },
   {
@@ -374,79 +446,7 @@
     "language": "PowerShell",
     "name": "kostiantyn-matsebora/ginee",
     "stars": 0,
-    "updated_at": "2026-05-27T13:57:05Z",
+    "updated_at": "2026-05-27T14:14:38Z",
     "url": "https://github.com/kostiantyn-matsebora/ginee"
-  },
-  {
-    "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
-    "id": "fabioc-aloha/Alex_Skill_Mall",
-    "language": "Python",
-    "name": "fabioc-aloha/Alex_Skill_Mall",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:20:17Z",
-    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19384,
-    "updated_at": "2026-05-27T14:00:09Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Practical protocols and markdown templates for safer AI-assisted / vibe coding projects: Starter, Hardening, Architectur",
-    "id": "Gudvin82/vibe-coding-protocols",
-    "language": "Markdown",
-    "name": "Gudvin82/vibe-coding-protocols",
-    "stars": 1,
-    "updated_at": "2026-05-27T13:17:51Z",
-    "url": "https://github.com/Gudvin82/vibe-coding-protocols"
-  },
-  {
-    "description": "\ud83c\udfa8 AI Image Prompt Generator with 5000+ prompts in 18 languages. Create perfect prompts fin your native language. \u6781\u7b80\u7684\u56fe\u50cf\u63d0\u793a",
-    "id": "rockbenben/img-prompt",
-    "language": "TypeScript",
-    "name": "rockbenben/img-prompt",
-    "stars": 324,
-    "updated_at": "2026-05-27T13:18:20Z",
-    "url": "https://github.com/rockbenben/img-prompt"
-  },
-  {
-    "description": "An experimental development kit for agent skills & prompts",
-    "id": "Yeseh/skillet",
-    "language": "Rust",
-    "name": "Yeseh/skillet",
-    "stars": 2,
-    "updated_at": "2026-05-27T13:16:15Z",
-    "url": "https://github.com/Yeseh/skillet"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 49,
-    "updated_at": "2026-05-27T13:14:52Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "AGENTS.md instruction files for Claude Code & OpenCode \u2014 install per-project, project-specific overrides in docs/EXTRA.m",
-    "id": "gmrdad82/agents",
-    "language": "Shell",
-    "name": "gmrdad82/agents",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:12:32Z",
-    "url": "https://github.com/gmrdad82/agents"
-  },
-  {
-    "description": "React/Vite production workflow for prompt-based media planning and Supabase-backed project state",
-    "id": "hthmkt12/prompt-media-pro",
-    "language": "Python",
-    "name": "hthmkt12/prompt-media-pro",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:12:07Z",
-    "url": "https://github.com/hthmkt12/prompt-media-pro"
   }
 ]
