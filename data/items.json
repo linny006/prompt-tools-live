@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83c\udfa5 Generate precise video prompts for Jimeng Seedance 2.0 using structured patterns, templates, and AI agent compatibilit",
+    "id": "mightyhuman101/seedance2-skill",
+    "language": "\u2014",
+    "name": "mightyhuman101/seedance2-skill",
+    "stars": 3,
+    "updated_at": "2026-05-27T06:00:42Z",
+    "url": "https://github.com/mightyhuman101/seedance2-skill"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate Codex AI sub-agents and team workflows with shared boards, strict file control, and reusable prompts for p",
+    "id": "hkahl828-max/codex-team-orchestrator-kit",
+    "language": "PowerShell",
+    "name": "hkahl828-max/codex-team-orchestrator-kit",
+    "stars": 0,
+    "updated_at": "2026-05-27T06:00:41Z",
+    "url": "https://github.com/hkahl828-max/codex-team-orchestrator-kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T06:00:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83e\udd16 Build and streamline developer workflows with 15 AI-powered, local-first tools designed for open source projects and e",
     "id": "monaty1/devflow-ai",
     "language": "TypeScript",
@@ -16,6 +43,15 @@
     "stars": 2,
     "updated_at": "2026-05-27T06:00:22Z",
     "url": "https://github.com/NatsuDownBad/ctxpack"
+  },
+  {
+    "description": "\ud83d\udee0 Improve your AI prompts with Reprompter to get clearer, more accurate responses from large language models.",
+    "id": "tutayworks/reprompter",
+    "language": "JavaScript",
+    "name": "tutayworks/reprompter",
+    "stars": 0,
+    "updated_at": "2026-05-27T06:00:22Z",
+    "url": "https://github.com/tutayworks/reprompter"
   },
   {
     "description": "\ud83e\udd16 Provide 70+ ready-to-use, platform-agnostic AI agent skills for improving tasks like code review, security, and data a",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T05:46:04Z",
     "url": "https://github.com/sportixIndia/LBOS-LCAS-LP-Contradiction-tracker"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Protect LLM applications with PromptShields, a robust security framework designed to prevent prompt injection, jailbr",
-    "id": "LoonMORTI/promptshield",
-    "language": "Python",
-    "name": "LoonMORTI/promptshield",
-    "stars": 0,
-    "updated_at": "2026-05-27T05:45:42Z",
-    "url": "https://github.com/LoonMORTI/promptshield"
-  },
-  {
-    "description": "\ud83d\ude80 Generate personalized newsletters effortlessly with Button2Beehiiv, an automated content pipeline powered by AI agents",
-    "id": "Raevin99/button2beehiiv",
-    "language": "Python",
-    "name": "Raevin99/button2beehiiv",
-    "stars": 0,
-    "updated_at": "2026-05-27T05:45:31Z",
-    "url": "https://github.com/Raevin99/button2beehiiv"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance AI collaboration with these five reusable skills, fostering effective teamwork in software development while m",
-    "id": "JoaoVyttorFelix/lightweight-ai-development-agent-skills",
-    "language": "\u2014",
-    "name": "JoaoVyttorFelix/lightweight-ai-development-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-05-27T05:45:28Z",
-    "url": "https://github.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T05:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   }
 ]
