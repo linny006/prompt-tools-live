@@ -1,12 +1,66 @@
 [
   {
-    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
-    "id": "jeb-maker/lagent-quotidien",
-    "language": "HTML",
-    "name": "jeb-maker/lagent-quotidien",
+    "description": "Solar Pro2 prompt engineering pipeline for Korean text modernization in the MixUP Upstage promptathon.",
+    "id": "ho323/mixup-upstage-korean-modernization",
+    "language": "Python",
+    "name": "ho323/mixup-upstage-korean-modernization",
     "stars": 0,
-    "updated_at": "2026-05-27T07:00:08Z",
-    "url": "https://github.com/jeb-maker/lagent-quotidien"
+    "updated_at": "2026-05-27T07:14:25Z",
+    "url": "https://github.com/ho323/mixup-upstage-korean-modernization"
+  },
+  {
+    "description": "A.I. Sorcery",
+    "id": "4ndr0666/gpt",
+    "language": "Python",
+    "name": "4ndr0666/gpt",
+    "stars": 11,
+    "updated_at": "2026-05-27T07:13:18Z",
+    "url": "https://github.com/4ndr0666/gpt"
+  },
+  {
+    "description": "An AI software engineering team that behaves like a real one. Drops into your project, self-onboards, and gets to work.",
+    "id": "kostiantyn-matsebora/ginee",
+    "language": "PowerShell",
+    "name": "kostiantyn-matsebora/ginee",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:12:59Z",
+    "url": "https://github.com/kostiantyn-matsebora/ginee"
+  },
+  {
+    "description": "HiAPI GitHub organization profile",
+    "id": "HiAPIAI/.github",
+    "language": "\u2014",
+    "name": "HiAPIAI/.github",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:11:29Z",
+    "url": "https://github.com/HiAPIAI/.github"
+  },
+  {
+    "description": "Awesome Seedance 2.0 video prompt gallery \u2014 163 real video examples with OpenAI-compatible HiAPI requests. Built for AI ",
+    "id": "HiAPIAI/awesome-seedance-2-0-prompts",
+    "language": "JavaScript",
+    "name": "HiAPIAI/awesome-seedance-2-0-prompts",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:11:23Z",
+    "url": "https://github.com/HiAPIAI/awesome-seedance-2-0-prompts"
+  },
+  {
+    "description": "HiAPI GPT Image 2 image generation skill \u2014 text-to-image for Claude Code, Codex, OpenClaw, and Cursor agents. OpenAI-com",
+    "id": "HiAPIAI/hiapi-gpt-image-2-skill",
+    "language": "JavaScript",
+    "name": "HiAPIAI/hiapi-gpt-image-2-skill",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:11:20Z",
+    "url": "https://github.com/HiAPIAI/hiapi-gpt-image-2-skill"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:10:32Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Codex-first GSD: spec-driven development, context engineering, and verified AI coding workflows for OpenAI Codex.",
@@ -14,8 +68,107 @@
     "language": "JavaScript",
     "name": "Oisinwang/get-shit-done-codex",
     "stars": 0,
-    "updated_at": "2026-05-27T06:59:36Z",
+    "updated_at": "2026-05-27T07:10:02Z",
     "url": "https://github.com/Oisinwang/get-shit-done-codex"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 48,
+    "updated_at": "2026-05-27T07:09:44Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Examples of prompts for Microsoft Copilot",
+    "id": "pnp/copilot-prompts",
+    "language": "\u2014",
+    "name": "pnp/copilot-prompts",
+    "stars": 601,
+    "updated_at": "2026-05-27T07:09:04Z",
+    "url": "https://github.com/pnp/copilot-prompts"
+  },
+  {
+    "description": "\ud83d\udd25 Curated collection of high-quality AI coding agent skills for Codex & Claude Code | \u7cbe\u9009 AI \u7f16\u7a0b\u52a9\u624b\u6280\u80fd\u96c6",
+    "id": "gtskevin/awesome-vibe-skills",
+    "language": "Shell",
+    "name": "gtskevin/awesome-vibe-skills",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:07:47Z",
+    "url": "https://github.com/gtskevin/awesome-vibe-skills"
+  },
+  {
+    "description": "agentic harness for qwen3.5 with context size of 16384 tokens with a focus on context management(WIP)",
+    "id": "tmijieux/ai-chat",
+    "language": "Python",
+    "name": "tmijieux/ai-chat",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:07:43Z",
+    "url": "https://github.com/tmijieux/ai-chat"
+  },
+  {
+    "description": "Lighthouse for Claude prompts - estimate tokens, recommend models, refine prompts before you send.",
+    "id": "ctok-cli/ctok",
+    "language": "TypeScript",
+    "name": "ctok-cli/ctok",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:06:38Z",
+    "url": "https://github.com/ctok-cli/ctok"
+  },
+  {
+    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
+    "id": "FURUYAN1234/nano-banana-pro",
+    "language": "Python",
+    "name": "FURUYAN1234/nano-banana-pro",
+    "stars": 8,
+    "updated_at": "2026-05-27T07:03:11Z",
+    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
+  },
+  {
+    "description": "Open-source harness distillation: frontier teachers improve prompts, tools, validators, skills, and runtime policies aro",
+    "id": "JarvisPei/HarnessForge",
+    "language": "Python",
+    "name": "JarvisPei/HarnessForge",
+    "stars": 1,
+    "updated_at": "2026-05-27T07:02:08Z",
+    "url": "https://github.com/JarvisPei/HarnessForge"
+  },
+  {
+    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
+    "id": "5uprem4/ai-skill-vault",
+    "language": "HTML",
+    "name": "5uprem4/ai-skill-vault",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:01:48Z",
+    "url": "https://github.com/5uprem4/ai-skill-vault"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21637,
+    "updated_at": "2026-05-27T07:01:25Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 0,
+    "updated_at": "2026-05-27T07:00:08Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
   },
   {
     "description": "LLM\u5bfe\u8a71\u30ed\u30b0\u3001\u9031\u6b21\u30d6\u30ed\u30b0\u3001Zenn\u8a18\u4e8b\u3001\u30d7\u30ed\u30f3\u30d7\u30c8\u8cc7\u7523\u3001\u81ea\u52d5\u5316\u30b9\u30af\u30ea\u30d7\u30c8\u3092\u7ba1\u7406 / Workspace for LLM logs, weekly blogs, Zenn articles, prompts, and automation ",
@@ -43,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T06:58:46Z",
     "url": "https://github.com/codelifterr/prompt-evaluation-case-studies"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 48,
-    "updated_at": "2026-05-27T06:58:27Z",
-    "url": "https://github.com/terrylica/cc-skills"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -133,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T06:56:03Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:55:48Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "HiAPI Video Prompt Generator skill \u2014 turn briefs, links, and research topics into directed video prompts for Seedance 2.",
@@ -313,140 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T06:46:32Z",
     "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 1,
-    "updated_at": "2026-05-27T06:46:29Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 1,
-    "updated_at": "2026-05-27T06:46:10Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Generate production-ready UGC video ad prompts for Higgsfield AI Marketing Studio from your reference images and product",
-    "id": "carreras66848657/claude-skill-ugc-prompt",
-    "language": "\u2014",
-    "name": "carreras66848657/claude-skill-ugc-prompt",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:46:08Z",
-    "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:46:01Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:45:56Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:45:51Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:45:50Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:45:48Z",
-    "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:45:45Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Plugin for AI coding agents - Claude Code, Cursor, Codex CLI, Gemini CLI - that injects archetype-aware code conventions",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:45:45Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:45:35Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:45:07Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:44:58Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "Python",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 8,
-    "updated_at": "2026-05-27T06:44:49Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
   }
 ]
