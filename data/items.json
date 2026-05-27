@@ -1,5 +1,140 @@
 [
   {
+    "description": "Tiny local loop runner for oh-my-pi sessions, with templated prompts, pause/resume, and agent-controlled halt/notify com",
+    "id": "bmanturner/agentflow",
+    "language": "Rust",
+    "name": "bmanturner/agentflow",
+    "stars": 1,
+    "updated_at": "2026-05-27T22:29:26Z",
+    "url": "https://github.com/bmanturner/agentflow"
+  },
+  {
+    "description": "Prompt-evaluation toolkit: run golden-case prompts, route models, track cost, and leaderboard.",
+    "id": "catalinatan/gen-alpha-mcp",
+    "language": "Python",
+    "name": "catalinatan/gen-alpha-mcp",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:29:20Z",
+    "url": "https://github.com/catalinatan/gen-alpha-mcp"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:27:02Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:27:01Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
+    "id": "tech-guru254/spec-weaver",
+    "language": "HTML",
+    "name": "tech-guru254/spec-weaver",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:26:47Z",
+    "url": "https://github.com/tech-guru254/spec-weaver"
+  },
+  {
+    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
+    "id": "kodancrash-oss/prompt-weaver-framework",
+    "language": "HTML",
+    "name": "kodancrash-oss/prompt-weaver-framework",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:26:32Z",
+    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:25:37Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
+    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
+    "language": "HTML",
+    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:25:23Z",
+    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:25:21Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "AI automation systems for studios, consultants, and small teams.",
+    "id": "jqaisystems/jqaisystems",
+    "language": "\u2014",
+    "name": "jqaisystems/jqaisystems",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:25:17Z",
+    "url": "https://github.com/jqaisystems/jqaisystems"
+  },
+  {
+    "description": "Public case studies for internal AI systems built to run JQ AI SYSTEMS studio operations.",
+    "id": "jqaisystems/jqai-internal-systems",
+    "language": "\u2014",
+    "name": "jqaisystems/jqai-internal-systems",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:25:17Z",
+    "url": "https://github.com/jqaisystems/jqai-internal-systems"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9867,
+    "updated_at": "2026-05-27T22:25:08Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 38,
+    "updated_at": "2026-05-27T22:23:59Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+  },
+  {
+    "description": "213 AI agent skills with self-improving meta-skills \u2014 auto-evolve, auto-learn, auto-improve. World's largest open-source",
+    "id": "oyi77/1ai-skills",
+    "language": "Python",
+    "name": "oyi77/1ai-skills",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:23:01Z",
+    "url": "https://github.com/oyi77/1ai-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Agent Package Manager",
     "id": "microsoft/apm",
     "language": "Python",
@@ -36,15 +171,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
   {
-    "description": "213 AI agent skills with self-improving meta-skills \u2014 auto-evolve, auto-learn, auto-improve. World's largest open-source",
-    "id": "oyi77/1ai-skills",
-    "language": "Python",
-    "name": "oyi77/1ai-skills",
-    "stars": 0,
-    "updated_at": "2026-05-27T22:12:19Z",
-    "url": "https://github.com/oyi77/1ai-skills"
-  },
-  {
     "description": "Smart JSON-to-TOON conversion with pragmatic auto-gating for LLM prompts",
     "id": "andrii-su/datoon",
     "language": "Python",
@@ -70,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T22:00:42Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T22:00:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
-    "id": "Supervertaler/Supervertaler-Workbench",
-    "language": "Python",
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 38,
-    "updated_at": "2026-05-27T21:59:19Z",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -266,7 +374,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28076,
-    "updated_at": "2026-05-27T21:38:55Z",
+    "updated_at": "2026-05-27T22:30:17Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -293,7 +401,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21661,
-    "updated_at": "2026-05-27T22:01:02Z",
+    "updated_at": "2026-05-27T22:21:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -324,15 +432,6 @@
     "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9867,
-    "updated_at": "2026-05-27T22:14:54Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "A structured workflow system for AI coding agents - harness engineering, execution loop, skills, hooks, and a learning l",
     "id": "blundergoat/goat-flow",
     "language": "TypeScript",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T21:24:42Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:24:33Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser.",
-    "id": "Opsn5528/vibe-coding-claude-md",
-    "language": "HTML",
-    "name": "Opsn5528/vibe-coding-claude-md",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:24:15Z",
-    "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
-  },
-  {
-    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
-    "id": "Rickardserrulate236/portfolio-dumper",
-    "language": "HTML",
-    "name": "Rickardserrulate236/portfolio-dumper",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:24:12Z",
-    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:23:36Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Automate social media accounts using an AI agent that navigates live web pages to perform tasks like liking posts and wr",
-    "id": "Dusty-plumcot781/locoagent",
-    "language": "\u2014",
-    "name": "Dusty-plumcot781/locoagent",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:23:28Z",
-    "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:22:54Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:22:45Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:22:28Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:22:13Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:22:03Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:21:55Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
   }
 ]
