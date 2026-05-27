@@ -1,5 +1,104 @@
 [
   {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:14:03Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "\ud83d\udc51 MUNDO \u2014 THE EMPEROR. Ultimate AI learning engine for Claude Code & Hermes Agent. Self-evolving skill system with Three",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 2,
+    "updated_at": "2026-05-27T11:11:50Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Cross-agent toolkit for prompts and coding-agent skills",
+    "id": "sungjunlee/craftkit",
+    "language": "JavaScript",
+    "name": "sungjunlee/craftkit",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:11:00Z",
+    "url": "https://github.com/sungjunlee/craftkit"
+  },
+  {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 3,
+    "updated_at": "2026-05-27T11:07:00Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "Lighthouse for Claude prompts - estimate tokens, recommend models, refine prompts before you send.",
+    "id": "ctok-cli/ctok",
+    "language": "TypeScript",
+    "name": "ctok-cli/ctok",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:05:23Z",
+    "url": "https://github.com/ctok-cli/ctok"
+  },
+  {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "HTML",
+    "name": "Open-Less/openless",
+    "stars": 1713,
+    "updated_at": "2026-05-27T11:05:50Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3269,
+    "updated_at": "2026-05-27T11:14:53Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:02:05Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 7,
+    "updated_at": "2026-05-27T11:15:03Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready tem",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "TypeScript",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 4519,
+    "updated_at": "2026-05-27T11:00:37Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:00:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Codex-first GSD: spec-driven development, context engineering, and verified AI coding workflows for OpenAI Codex.",
     "id": "Oisinwang/get-shit-done-codex",
     "language": "JavaScript",
@@ -13,7 +112,7 @@
     "id": "UditAkhourii/adhd",
     "language": "TypeScript",
     "name": "UditAkhourii/adhd",
-    "stars": 239,
+    "stars": 242,
     "updated_at": "2026-05-27T10:59:00Z",
     "url": "https://github.com/UditAkhourii/adhd"
   },
@@ -22,7 +121,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "\u2014",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 40813,
+    "stars": 40814,
     "updated_at": "2026-05-27T10:58:51Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -36,21 +135,12 @@
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
-    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
-    "id": "zigrivers/scaffold",
-    "language": "TypeScript",
-    "name": "zigrivers/scaffold",
-    "stars": 3,
-    "updated_at": "2026-05-27T10:58:06Z",
-    "url": "https://github.com/zigrivers/scaffold"
-  },
-  {
     "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28049,
-    "updated_at": "2026-05-27T10:58:04Z",
+    "updated_at": "2026-05-27T11:14:14Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -79,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T10:56:39Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:56:18Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Cross-check Claude's answer with a second AI before you trust it. Catches blind spots one model can't see alone.",
@@ -124,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T10:55:19Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "\ud83d\udc51 MUNDO \u2014 THE EMPEROR. Ultimate AI learning engine for Claude Code & Hermes Agent. Self-evolving skill system with Three",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 2,
-    "updated_at": "2026-05-27T10:54:51Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3269,
-    "updated_at": "2026-05-27T10:57:09Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
@@ -189,15 +252,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:45:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
     "id": "Paulessus/odin-gemini-mcp-bridge",
     "language": "HTML",
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 2633,
-    "updated_at": "2026-05-27T10:52:31Z",
+    "updated_at": "2026-05-27T11:10:10Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "Muizzkolapo/agent-actions",
     "stars": 7,
-    "updated_at": "2026-05-27T11:00:00Z",
+    "updated_at": "2026-05-27T11:11:32Z",
     "url": "https://github.com/Muizzkolapo/agent-actions"
   },
   {
@@ -257,7 +311,7 @@
     "language": "Python",
     "name": "kunalsuri/prompt-engineering-playbook",
     "stars": 8,
-    "updated_at": "2026-05-27T10:44:04Z",
+    "updated_at": "2026-05-27T11:00:41Z",
     "url": "https://github.com/kunalsuri/prompt-engineering-playbook"
   },
   {
@@ -328,7 +382,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 22516,
+    "stars": 22522,
     "updated_at": "2026-05-27T10:23:09Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -369,15 +423,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready tem",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "TypeScript",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 4519,
-    "updated_at": "2026-05-27T10:17:38Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
     "id": "dimitardamjan7-a11y/spec-flow-framework",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T10:16:55Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Public case studies for internal AI systems built to run JQ AI SYSTEMS studio operations.",
-    "id": "jqaisystems/jqai-internal-systems",
-    "language": "\u2014",
-    "name": "jqaisystems/jqai-internal-systems",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:16:40Z",
-    "url": "https://github.com/jqaisystems/jqai-internal-systems"
-  },
-  {
-    "description": "Claude Code\u306e\u305f\u3081\u306e\u9ad8\u54c1\u8cea\u30d7\u30ed\u30f3\u30d7\u30c8\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u30fb\u30d9\u30b9\u30c8\u30d7\u30e9\u30af\u30c6\u30a3\u30b9\u96c6",
-    "id": "KazuyaMurayama/claude-code-prompt",
-    "language": "\u2014",
-    "name": "KazuyaMurayama/claude-code-prompt",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:15:31Z",
-    "url": "https://github.com/KazuyaMurayama/claude-code-prompt"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:15:29Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Multi-agent debate, red-team, evidence checking and judge skills for Claude Code, OpenAI Codex, Hermes Agent, OpenClaw a",
-    "id": "zhjai/agent-arena",
-    "language": "\u2014",
-    "name": "zhjai/agent-arena",
-    "stars": 3,
-    "updated_at": "2026-05-27T10:11:06Z",
-    "url": "https://github.com/zhjai/agent-arena"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19384,
-    "updated_at": "2026-05-27T10:44:46Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
