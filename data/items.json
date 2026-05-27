@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "shaneliuyx/agent-development-curriculum",
     "stars": 2,
-    "updated_at": "2026-05-27T15:29:06Z",
+    "updated_at": "2026-05-27T15:42:59Z",
     "url": "https://github.com/shaneliuyx/agent-development-curriculum"
+  },
+  {
+    "description": "A tiny agent-agnostic operating profile for direct, state-aware, logic-preserving agent work.",
+    "id": "zaler23/precision-guided-clarity",
+    "language": "\u2014",
+    "name": "zaler23/precision-guided-clarity",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:42:20Z",
+    "url": "https://github.com/zaler23/precision-guided-clarity"
+  },
+  {
+    "description": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel diverge",
+    "id": "UditAkhourii/adhd",
+    "language": "TypeScript",
+    "name": "UditAkhourii/adhd",
+    "stars": 280,
+    "updated_at": "2026-05-27T15:42:02Z",
+    "url": "https://github.com/UditAkhourii/adhd"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 17,
+    "updated_at": "2026-05-27T15:41:39Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
+    "id": "FURUYAN1234/nano-banana-pro",
+    "language": "Python",
+    "name": "FURUYAN1234/nano-banana-pro",
+    "stars": 8,
+    "updated_at": "2026-05-27T15:41:09Z",
+    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28061,
+    "updated_at": "2026-05-27T15:44:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:33:24Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:30:48Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -31,7 +94,7 @@
     "id": "IBM/mcp-context-forge",
     "language": "Python",
     "name": "IBM/mcp-context-forge",
-    "stars": 3775,
+    "stars": 3776,
     "updated_at": "2026-05-27T15:25:51Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21654,
-    "updated_at": "2026-05-27T15:24:19Z",
+    "updated_at": "2026-05-27T15:33:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -76,7 +139,7 @@
     "id": "microsoft/apm",
     "language": "Python",
     "name": "microsoft/apm",
-    "stars": 2636,
+    "stars": 2639,
     "updated_at": "2026-05-27T15:20:58Z",
     "url": "https://github.com/microsoft/apm"
   },
@@ -112,35 +175,17 @@
     "id": "Prompthon-IO/agent-systems-handbook",
     "language": "MDX",
     "name": "Prompthon-IO/agent-systems-handbook",
-    "stars": 201,
+    "stars": 202,
     "updated_at": "2026-05-27T15:17:39Z",
     "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "Python",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 8,
-    "updated_at": "2026-05-27T15:28:09Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:15:44Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19382,
-    "updated_at": "2026-05-27T15:15:37Z",
+    "stars": 19383,
+    "updated_at": "2026-05-27T15:44:40Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9867,
-    "updated_at": "2026-05-27T15:23:54Z",
+    "updated_at": "2026-05-27T15:35:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/faeton/multicooker"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28060,
-    "updated_at": "2026-05-27T15:23:56Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
     "id": "SoliEstre/EstreGenesis",
     "language": "JavaScript",
@@ -306,15 +342,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 17,
-    "updated_at": "2026-05-27T14:49:03Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
     "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
     "language": "TypeScript",
@@ -322,6 +349,15 @@
     "stars": 21,
     "updated_at": "2026-05-27T14:48:48Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 38,
+    "updated_at": "2026-05-27T14:43:59Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
   },
   {
     "description": "A manual-first, approval-gated AI workflow harness for Claude Code, Codex, and Cursor. (\uacc4\ud68d\u00b7\uc2b9\uc778\u00b7\uac80\uc99d\u00b7\uae30\ub85d\uc73c\ub85c \uc774\uc5b4\uc9c0\ub294 AI \uac1c\ubc1c \ud558\ub124\uc2a4)",
@@ -340,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T14:39:07Z",
     "url": "https://github.com/blkboxcustom/kiss-keep-it-simple-skill"
-  },
-  {
-    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
-    "id": "Supervertaler/Supervertaler-Workbench",
-    "language": "Python",
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 39,
-    "updated_at": "2026-05-27T14:43:59Z",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
   },
   {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
@@ -392,7 +419,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 1,
-    "updated_at": "2026-05-27T15:15:28Z",
+    "updated_at": "2026-05-27T15:40:14Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T14:26:08Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:25:32Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:24:04Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Codex-first GSD: spec-driven development, context engineering, and verified AI coding workflows for OpenAI Codex.",
-    "id": "Oisinwang/get-shit-done-codex",
-    "language": "JavaScript",
-    "name": "Oisinwang/get-shit-done-codex",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:23:09Z",
-    "url": "https://github.com/Oisinwang/get-shit-done-codex"
   }
 ]
