@@ -1,10 +1,82 @@
 [
   {
+    "description": "Portable intent alignment skill for ambiguous high-expectation agent requests",
+    "id": "handlecusion/nah-mean",
+    "language": "Shell",
+    "name": "handlecusion/nah-mean",
+    "stars": 0,
+    "updated_at": "2026-05-28T04:29:06Z",
+    "url": "https://github.com/handlecusion/nah-mean"
+  },
+  {
+    "description": "A floating desktop widget that transforms raw user intent into production-grade, structured prompts using LLMs and promp",
+    "id": "Dream-Pixels-Forge/prompter",
+    "language": "TypeScript",
+    "name": "Dream-Pixels-Forge/prompter",
+    "stars": 0,
+    "updated_at": "2026-05-28T04:28:52Z",
+    "url": "https://github.com/Dream-Pixels-Forge/prompter"
+  },
+  {
+    "description": "The 7 Laws of AI Agent Discipline for Claude Code. Stops your agent from skipping research, claiming 'done' without veri",
+    "id": "naimkatiman/continuous-improvement",
+    "language": "JavaScript",
+    "name": "naimkatiman/continuous-improvement",
+    "stars": 4,
+    "updated_at": "2026-05-28T04:24:08Z",
+    "url": "https://github.com/naimkatiman/continuous-improvement"
+  },
+  {
+    "description": "12-week, project-driven Obsidian curriculum: cloud/infra engineer \u2192 AI Agent/LLM engineer. Companion narrative + intervi",
+    "id": "shaneliuyx/agent-development-curriculum",
+    "language": "Python",
+    "name": "shaneliuyx/agent-development-curriculum",
+    "stars": 2,
+    "updated_at": "2026-05-28T04:23:00Z",
+    "url": "https://github.com/shaneliuyx/agent-development-curriculum"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 0,
+    "updated_at": "2026-05-28T04:22:10Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-05-28T04:21:41Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21665,
+    "updated_at": "2026-05-28T04:23:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-28T04:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Drop-in prompt-caching fixes for the LLM agent harness you use. Point your AI coding agent at this repo and it ships the",
     "id": "OnlyTerp/prompt-cache-skills",
     "language": "Python",
     "name": "OnlyTerp/prompt-cache-skills",
-    "stars": 0,
+    "stars": 2,
     "updated_at": "2026-05-28T04:13:47Z",
     "url": "https://github.com/OnlyTerp/prompt-cache-skills"
   },
@@ -18,21 +90,12 @@
     "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
   },
   {
-    "description": "A floating desktop widget that transforms raw user intent into production-grade, structured prompts using LLMs and promp",
-    "id": "Dream-Pixels-Forge/prompter",
-    "language": "TypeScript",
-    "name": "Dream-Pixels-Forge/prompter",
-    "stars": 0,
-    "updated_at": "2026-05-28T04:12:57Z",
-    "url": "https://github.com/Dream-Pixels-Forge/prompter"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26153,
-    "updated_at": "2026-05-28T04:12:53Z",
+    "updated_at": "2026-05-28T04:22:00Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/cite",
     "stars": 1339,
-    "updated_at": "2026-05-28T04:12:44Z",
+    "updated_at": "2026-05-28T04:21:00Z",
     "url": "https://github.com/Open-Source-Legal/cite"
   },
   {
@@ -86,26 +149,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28094,
-    "updated_at": "2026-05-28T04:06:43Z",
+    "updated_at": "2026-05-28T04:23:51Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "12-week, project-driven Obsidian curriculum: cloud/infra engineer \u2192 AI Agent/LLM engineer. Companion narrative + intervi",
-    "id": "shaneliuyx/agent-development-curriculum",
-    "language": "Python",
-    "name": "shaneliuyx/agent-development-curriculum",
-    "stars": 2,
-    "updated_at": "2026-05-28T04:04:31Z",
-    "url": "https://github.com/shaneliuyx/agent-development-curriculum"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-28T04:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "RIPER-5, spec-driven, context memory self-improving agent harness for Claude Code & Codex \u2014 12 specialist agents, 31 ski",
@@ -198,6 +243,15 @@
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   },
   {
+    "description": "21 Lessons, Get Started Building with Generative AI ",
+    "id": "microsoft/generative-ai-for-beginners",
+    "language": "Jupyter Notebook",
+    "name": "microsoft/generative-ai-for-beginners",
+    "stars": 111453,
+    "updated_at": "2026-05-28T03:44:34Z",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
     "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
     "id": "SHENG5411/grimoire-of-tools",
     "language": "HTML",
@@ -277,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T03:29:47Z",
     "url": "https://github.com/nripankadas07/ai-toolkit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21665,
-    "updated_at": "2026-05-28T04:11:26Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T03:24:31Z",
     "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 1,
-    "updated_at": "2026-05-28T03:24:23Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 1,
-    "updated_at": "2026-05-28T03:24:11Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Generate production-ready UGC video ad prompts for Higgsfield AI Marketing Studio from your reference images and product",
-    "id": "carreras66848657/claude-skill-ugc-prompt",
-    "language": "\u2014",
-    "name": "carreras66848657/claude-skill-ugc-prompt",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:24:09Z",
-    "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:24:02Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-28T03:24:00Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
   }
 ]
