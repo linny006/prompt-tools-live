@@ -1,21 +1,12 @@
 [
   {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
+    "description": "1270 production-ready AI agent skills with self-evolving meta-skills \u2014 779 cybersecurity, SEO, trading, marketing, autom",
+    "id": "oyi77/1ai-skills",
     "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 2,
-    "updated_at": "2026-05-28T13:29:27Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
-    "description": "Bifrost v1.4.0 \u2014 Harness Engineering para qualquer runtime de IA",
-    "id": "JRoberto1/Bifrost_Harness-Engineering",
-    "language": "Markdown",
-    "name": "JRoberto1/Bifrost_Harness-Engineering",
+    "name": "oyi77/1ai-skills",
     "stars": 0,
-    "updated_at": "2026-05-28T13:29:13Z",
-    "url": "https://github.com/JRoberto1/Bifrost_Harness-Engineering"
+    "updated_at": "2026-05-28T13:45:14Z",
+    "url": "https://github.com/oyi77/1ai-skills"
   },
   {
     "description": "Full-cycle AI orchestrator with structured QA \u2014 ISO 25010, ISTQB, IEEE 829. Works with Claude Code, Copilot CLI, Gemini ",
@@ -23,8 +14,44 @@
     "language": "Shell",
     "name": "Thitic9203/helix",
     "stars": 0,
-    "updated_at": "2026-05-28T13:29:10Z",
+    "updated_at": "2026-05-28T13:44:58Z",
     "url": "https://github.com/Thitic9203/helix"
+  },
+  {
+    "description": "Bifrost v1.4.0 \u2014 Harness Engineering para qualquer runtime de IA",
+    "id": "JRoberto1/Bifrost_Harness-Engineering",
+    "language": "Markdown",
+    "name": "JRoberto1/Bifrost_Harness-Engineering",
+    "stars": 0,
+    "updated_at": "2026-05-28T13:43:55Z",
+    "url": "https://github.com/JRoberto1/Bifrost_Harness-Engineering"
+  },
+  {
+    "description": "promptvc is a developer-first CLI tool that brings version control to LLM prompts, treating them like real code. It enab",
+    "id": "uayushdubey/prompt-version-control",
+    "language": "Python",
+    "name": "uayushdubey/prompt-version-control",
+    "stars": 1,
+    "updated_at": "2026-05-28T13:42:24Z",
+    "url": "https://github.com/uayushdubey/prompt-version-control"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 2,
+    "updated_at": "2026-05-28T13:45:31Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 3783,
+    "updated_at": "2026-05-28T13:41:57Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
@@ -32,8 +59,62 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28134,
-    "updated_at": "2026-05-28T13:28:18Z",
+    "updated_at": "2026-05-28T13:41:15Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI Workflow Builder -- visual drag-and-drop tool to chain prompts into flowcharts. Build, connect, and export AI prompt ",
+    "id": "theluckystrike/claudflow.com",
+    "language": "HTML",
+    "name": "theluckystrike/claudflow.com",
+    "stars": 0,
+    "updated_at": "2026-05-28T13:36:15Z",
+    "url": "https://github.com/theluckystrike/claudflow.com"
+  },
+  {
+    "description": "\u26a1 13 production-grade skills for Claude Code \u00b7 db-whisperer, auth-architect, obs-guardian + 10 more \u00b7 Zero config \u00b7 MIT",
+    "id": "mturac/hermes-supercode-skills",
+    "language": "JavaScript",
+    "name": "mturac/hermes-supercode-skills",
+    "stars": 1,
+    "updated_at": "2026-05-28T13:32:40Z",
+    "url": "https://github.com/mturac/hermes-supercode-skills"
+  },
+  {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "HTML",
+    "name": "Open-Less/openless",
+    "stars": 1732,
+    "updated_at": "2026-05-28T13:31:56Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Open-source LLM observability + agent reliability platform. Drop-in proxy for OpenAI/Anthropic with traces, evals, ro",
+    "id": "Siddharthpatni/Sentinel",
+    "language": "Python",
+    "name": "Siddharthpatni/Sentinel",
+    "stars": 0,
+    "updated_at": "2026-05-28T13:31:49Z",
+    "url": "https://github.com/Siddharthpatni/Sentinel"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-28T13:30:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A 5-stage AI skill that helps students shape significant, future-relevant research topics \u2014 built with Claude",
+    "id": "tgao0987/research-topic-architect",
+    "language": "\u2014",
+    "name": "tgao0987/research-topic-architect",
+    "stars": 0,
+    "updated_at": "2026-05-28T13:30:23Z",
+    "url": "https://github.com/tgao0987/research-topic-architect"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T13:27:46Z",
     "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
-  },
-  {
-    "description": "1270 production-ready AI agent skills with self-evolving meta-skills \u2014 779 cybersecurity, SEO, trading, marketing, autom",
-    "id": "oyi77/1ai-skills",
-    "language": "Python",
-    "name": "oyi77/1ai-skills",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:27:46Z",
-    "url": "https://github.com/oyi77/1ai-skills"
   },
   {
     "description": "\u5f3a\u76f4\u6027\u810a\u67f1\u708e\u4e13\u79d1\u95ee\u8bca\u667a\u80fd\u4f53 \u00b7 SHAP+LIME+SPA \u4e09\u5c42\u5f52\u56e0",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-28T13:18:50Z",
     "url": "https://github.com/gaofeng21cn/redcube-ai"
-  },
-  {
-    "description": "Learn how to build code agents with 18 chapters of patterns, code samples, and production lessons from real systems like",
-    "id": "Unknowingdrymoglossum212/Code-Agents-Playbook",
-    "language": "Python",
-    "name": "Unknowingdrymoglossum212/Code-Agents-Playbook",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:18:25Z",
-    "url": "https://github.com/Unknowingdrymoglossum212/Code-Agents-Playbook"
-  },
-  {
-    "description": "Discover Claude Code tips, best practices, and cheatsheet guidance from 17 repos in one no-install resource with 176 con",
-    "id": "Canserberro/ultra-instinct-claude-code",
-    "language": "\u2014",
-    "name": "Canserberro/ultra-instinct-claude-code",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:18:23Z",
-    "url": "https://github.com/Canserberro/ultra-instinct-claude-code"
-  },
-  {
-    "description": "Build production-grade Claude prompts with rules from Claude Code source for structured, high-quality LLM prompt generat",
-    "id": "beenak4035/claude-prompt-forge",
-    "language": "\u2014",
-    "name": "beenak4035/claude-prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:18:20Z",
-    "url": "https://github.com/beenak4035/claude-prompt-forge"
-  },
-  {
-    "description": "Make AI-generated prose sound human. 29-pattern catalog + 8-rule operating system + 8-dimension scoring rubric. Works wi",
-    "id": "apurvrdx1/tagore",
-    "language": "Shell",
-    "name": "apurvrdx1/tagore",
-    "stars": 37,
-    "updated_at": "2026-05-28T13:17:46Z",
-    "url": "https://github.com/apurvrdx1/tagore"
-  },
-  {
-    "description": "Explore and compare 45+ system prompts across models with a live gallery, research paper, and open dataset for prompt an",
-    "id": "pinchhitterequatorialcurrent101/System-Prompt-Open",
-    "language": "HTML",
-    "name": "pinchhitterequatorialcurrent101/System-Prompt-Open",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:17:44Z",
-    "url": "https://github.com/pinchhitterequatorialcurrent101/System-Prompt-Open"
-  },
-  {
-    "description": "Explore Claude Code source code to learn how Anthropic\u2019s CLI harness works, from tools and permissions to context and st",
-    "id": "Raflimoon/learn-real-claude-code",
-    "language": "TypeScript",
-    "name": "Raflimoon/learn-real-claude-code",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:17:33Z",
-    "url": "https://github.com/Raflimoon/learn-real-claude-code"
-  },
-  {
-    "description": "Analyze Claude Code source leaks with a deep module-by-module TypeScript CLI architecture breakdown and subsystem insigh",
-    "id": "diagrammatical-ogalala16/claude-code-source-analysis",
-    "language": "\u2014",
-    "name": "diagrammatical-ogalala16/claude-code-source-analysis",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:17:29Z",
-    "url": "https://github.com/diagrammatical-ogalala16/claude-code-source-analysis"
-  },
-  {
-    "description": "Explore Claude Code CLI source, docs, and tools for TypeScript and Bun development",
-    "id": "Isometrical-selection572/claude_code_cli",
-    "language": "TypeScript",
-    "name": "Isometrical-selection572/claude_code_cli",
-    "stars": 0,
-    "updated_at": "2026-05-28T13:17:26Z",
-    "url": "https://github.com/Isometrical-selection572/claude_code_cli"
   }
 ]
