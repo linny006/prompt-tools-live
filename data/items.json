@@ -1,5 +1,68 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21683,
+    "updated_at": "2026-05-28T16:45:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c470+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+    "id": "freestylefly/awesome-gpt-image-2",
+    "language": "JavaScript",
+    "name": "freestylefly/awesome-gpt-image-2",
+    "stars": 6676,
+    "updated_at": "2026-05-28T16:40:46Z",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "description": "Universal LLM Prompt Node for ComfyUI \u2014 Dual VLLM pipeline with Vision + Text models for prompt generation, image analys",
+    "id": "kapustacool-lgtm/UniversalLLM",
+    "language": "Python",
+    "name": "kapustacool-lgtm/UniversalLLM",
+    "stars": 0,
+    "updated_at": "2026-05-28T16:39:01Z",
+    "url": "https://github.com/kapustacool-lgtm/UniversalLLM"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-05-28T16:34:14Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Open-source LLM observability + agent reliability platform. Drop-in proxy for OpenAI/Anthropic with traces, evals, ro",
+    "id": "Siddharthpatni/Sentinel",
+    "language": "Python",
+    "name": "Siddharthpatni/Sentinel",
+    "stars": 0,
+    "updated_at": "2026-05-28T16:33:24Z",
+    "url": "https://github.com/Siddharthpatni/Sentinel"
+  },
+  {
+    "description": "\u0625\u0637\u0627\u0631 \u0645\u0641\u062a\u0648\u062d \u0627\u0644\u0645\u0635\u062f\u0631 \u0644\u062a\u0643\u064a\u064a\u0641 \u0645\u0633\u0627\u0639\u062f\u0627\u062a \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0648\u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a \u0645\u0639 \u0627\u0644\u0628\u064a\u0626\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629. Open-source framewor",
+    "id": "Samix2026/saudi-legal-ai-framework",
+    "language": "HTML",
+    "name": "Samix2026/saudi-legal-ai-framework",
+    "stars": 27,
+    "updated_at": "2026-05-28T16:33:18Z",
+    "url": "https://github.com/Samix2026/saudi-legal-ai-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-28T16:30:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Evaluator-grounded autonomous prompt evolution. Genetic algorithms + runtime validation + meta-evolution to evolve promp",
     "id": "NullLabTests/grounded_evolution",
     "language": "Python",
@@ -7,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T16:28:32Z",
     "url": "https://github.com/NullLabTests/grounded_evolution"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21683,
-    "updated_at": "2026-05-28T16:28:34Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9882,
-    "updated_at": "2026-05-28T16:27:48Z",
+    "updated_at": "2026-05-28T16:45:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 719,
-    "updated_at": "2026-05-28T16:20:54Z",
+    "updated_at": "2026-05-28T16:45:17Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T16:15:55Z",
     "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:15:43Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Portable AI skills by Anders Hybertz \u2014 reusable prompt units for engineering, design, and tooling",
@@ -403,50 +448,5 @@
     "stars": 1527,
     "updated_at": "2026-05-28T16:11:46Z",
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:11:43Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "AI automation systems for studios, consultants, and small teams.",
-    "id": "jqaisystems/jqaisystems",
-    "language": "\u2014",
-    "name": "jqaisystems/jqaisystems",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:11:20Z",
-    "url": "https://github.com/jqaisystems/jqaisystems"
-  },
-  {
-    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4232,
-    "updated_at": "2026-05-28T16:11:13Z",
-    "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:11:10Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 0,
-    "updated_at": "2026-05-28T16:11:07Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
   }
 ]
