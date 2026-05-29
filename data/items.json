@@ -1,12 +1,129 @@
 [
   {
-    "description": "Universal prompt engineering framework for critical AI validation",
-    "id": "fabriciopsouza/metacognition-framework",
-    "language": "PowerShell",
-    "name": "fabriciopsouza/metacognition-framework",
+    "description": "\ubbf8\uc138 \ub2e8\uc11c\uac00 LLM \ucd94\ub860\uc744 \ud754\ub4dc\ub294\uac00 \u2014 \ud734\uba74 \u00b7 Do minimal prompt cues steer LLM reasoning? Dormant pilot (semantic flooding refuted; solve/b",
+    "id": "jumincho/minimal-cue-llm-reasoning",
+    "language": "Python",
+    "name": "jumincho/minimal-cue-llm-reasoning",
     "stars": 0,
-    "updated_at": "2026-05-29T05:14:08Z",
-    "url": "https://github.com/fabriciopsouza/metacognition-framework"
+    "updated_at": "2026-05-29T05:27:53Z",
+    "url": "https://github.com/jumincho/minimal-cue-llm-reasoning"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 722,
+    "updated_at": "2026-05-29T05:27:47Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Portable AI skills by Anders Hybertz \u2014 reusable prompt units for engineering, design, and tooling",
+    "id": "jeckyl2010/skills",
+    "language": "Python",
+    "name": "jeckyl2010/skills",
+    "stars": 1,
+    "updated_at": "2026-05-29T05:27:07Z",
+    "url": "https://github.com/jeckyl2010/skills"
+  },
+  {
+    "description": "Universal AI dev team workflow system for Claude Code \u2014 18 specialist agents, lazy-load rules, parallel-safe by path/con",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 1,
+    "updated_at": "2026-05-29T05:26:19Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Production-ready skills for AI coding agents. 13 skills, 9 agents, harness hooks & quality gates (signed optional for lo",
+    "id": "jvalin17/agent-toolkit",
+    "language": "Python",
+    "name": "jvalin17/agent-toolkit",
+    "stars": 2,
+    "updated_at": "2026-05-29T05:25:12Z",
+    "url": "https://github.com/jvalin17/agent-toolkit"
+  },
+  {
+    "description": "\ud83d\udcac 1,300+ AI personas for LLMs and agents.",
+    "id": "KudoAI/ai-personas",
+    "language": "Python",
+    "name": "KudoAI/ai-personas",
+    "stars": 26,
+    "updated_at": "2026-05-29T05:27:13Z",
+    "url": "https://github.com/KudoAI/ai-personas"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12267,
+    "updated_at": "2026-05-29T05:24:13Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Gstack for PMs -> PM Toolkit for AI Era. ",
+    "id": "RyanAlberts/pmstack",
+    "language": "Python",
+    "name": "RyanAlberts/pmstack",
+    "stars": 1,
+    "updated_at": "2026-05-29T05:24:03Z",
+    "url": "https://github.com/RyanAlberts/pmstack"
+  },
+  {
+    "description": "Plugin for AI coding agents - Claude Code, Cursor, Codex CLI, Gemini CLI - that injects archetype-aware code conventions",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 0,
+    "updated_at": "2026-05-29T05:28:01Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "15 production-grade Claude Code skills that turn it into a full-stack engineering agent \u2014 design, code, test, secure, sh",
+    "id": "ashishkumar14/fullstack-agent-skills",
+    "language": "Shell",
+    "name": "ashishkumar14/fullstack-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-05-29T05:23:25Z",
+    "url": "https://github.com/ashishkumar14/fullstack-agent-skills"
+  },
+  {
+    "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
+    "id": "dgenio/contextweaver",
+    "language": "Python",
+    "name": "dgenio/contextweaver",
+    "stars": 5,
+    "updated_at": "2026-05-29T05:22:20Z",
+    "url": "https://github.com/dgenio/contextweaver"
+  },
+  {
+    "description": "A Codex CLI plugin that grades how you collaborate with Codex across 9 dimensions in 3 categories \u2014 your Codex model wri",
+    "id": "LeifDiao/codex-radar",
+    "language": "\u2014",
+    "name": "LeifDiao/codex-radar",
+    "stars": 2,
+    "updated_at": "2026-05-29T05:21:13Z",
+    "url": "https://github.com/LeifDiao/codex-radar"
+  },
+  {
+    "description": "APEX \u2014 Context-engineered pipeline framework for coding agents. Multi-agent, stateful, falsifiable, scale-adaptive, non-",
+    "id": "davidel8698-stack/apex",
+    "language": "Shell",
+    "name": "davidel8698-stack/apex",
+    "stars": 0,
+    "updated_at": "2026-05-29T05:20:09Z",
+    "url": "https://github.com/davidel8698-stack/apex"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 2,
+    "updated_at": "2026-05-29T05:19:08Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
   },
   {
     "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
@@ -14,8 +131,44 @@
     "language": "TypeScript",
     "name": "zxpmail/ReqForge",
     "stars": 7,
-    "updated_at": "2026-05-29T05:12:59Z",
+    "updated_at": "2026-05-29T05:18:50Z",
     "url": "https://github.com/zxpmail/ReqForge"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-05-29T05:18:22Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
+    "id": "lulin70/carrymem",
+    "language": "Python",
+    "name": "lulin70/carrymem",
+    "stars": 2,
+    "updated_at": "2026-05-29T05:16:59Z",
+    "url": "https://github.com/lulin70/carrymem"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-29T05:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Universal prompt engineering framework for critical AI validation",
+    "id": "fabriciopsouza/metacognition-framework",
+    "language": "PowerShell",
+    "name": "fabriciopsouza/metacognition-framework",
+    "stars": 0,
+    "updated_at": "2026-05-29T05:14:08Z",
+    "url": "https://github.com/fabriciopsouza/metacognition-framework"
   },
   {
     "description": "\ud83c\udfdb\ufe0f Manage your life with a 1,400-year-old governance framework. 15 AI agents with separation of powers \u2014 Three Departmen",
@@ -140,17 +293,8 @@
     "language": "TypeScript",
     "name": "zigrivers/scaffold",
     "stars": 3,
-    "updated_at": "2026-05-29T05:07:26Z",
+    "updated_at": "2026-05-29T05:21:39Z",
     "url": "https://github.com/zigrivers/scaffold"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-29T05:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -166,7 +310,7 @@
     "id": "freestylefly/awesome-gpt-image-2",
     "language": "JavaScript",
     "name": "freestylefly/awesome-gpt-image-2",
-    "stars": 6700,
+    "stars": 6702,
     "updated_at": "2026-05-29T04:58:03Z",
     "url": "https://github.com/freestylefly/awesome-gpt-image-2"
   },
@@ -239,7 +383,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9889,
-    "updated_at": "2026-05-29T05:12:31Z",
+    "updated_at": "2026-05-29T05:16:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -275,7 +419,7 @@
     "language": "JavaScript",
     "name": "alwyndsouza/agile-story-skills",
     "stars": 0,
-    "updated_at": "2026-05-29T04:47:23Z",
+    "updated_at": "2026-05-29T05:19:02Z",
     "url": "https://github.com/alwyndsouza/agile-story-skills"
   },
   {
@@ -304,149 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T04:43:09Z",
     "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:42:28Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Portable AI skills by Anders Hybertz \u2014 reusable prompt units for engineering, design, and tooling",
-    "id": "jeckyl2010/skills",
-    "language": "Python",
-    "name": "jeckyl2010/skills",
-    "stars": 1,
-    "updated_at": "2026-05-29T04:41:56Z",
-    "url": "https://github.com/jeckyl2010/skills"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21695,
-    "updated_at": "2026-05-29T04:41:52Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ubbf8\uc138 \ub2e8\uc11c\uac00 LLM \ucd94\ub860\uc744 \ud754\ub4dc\ub294\uac00 \u2014 \ud734\uba74 \u00b7 Do minimal prompt cues steer LLM reasoning? Dormant pilot (semantic flooding refuted; solve/b",
-    "id": "jumincho/minimal-cue-llm-reasoning",
-    "language": "Python",
-    "name": "jumincho/minimal-cue-llm-reasoning",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:41:15Z",
-    "url": "https://github.com/jumincho/minimal-cue-llm-reasoning"
-  },
-  {
-    "description": "A Claude Code plugin that grades your collaboration with AI across 9 dimensions in 3 categories \u2014 with a free-form AI di",
-    "id": "LeifDiao/claude-radar",
-    "language": "\u2014",
-    "name": "LeifDiao/claude-radar",
-    "stars": 7,
-    "updated_at": "2026-05-29T04:40:40Z",
-    "url": "https://github.com/LeifDiao/claude-radar"
-  },
-  {
-    "description": "ArifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA architecture: Architect \u00b7 Auditor \u00b7 Agent. Built for t",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 43,
-    "updated_at": "2026-05-29T04:39:53Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-05-29T04:38:40Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:37:56Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:36:17Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:36:16Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser.",
-    "id": "Opsn5528/vibe-coding-claude-md",
-    "language": "HTML",
-    "name": "Opsn5528/vibe-coding-claude-md",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:35:52Z",
-    "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
-  },
-  {
-    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
-    "id": "Rickardserrulate236/portfolio-dumper",
-    "language": "HTML",
-    "name": "Rickardserrulate236/portfolio-dumper",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:35:52Z",
-    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:35:12Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:35:08Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Automate social media accounts using an AI agent that navigates live web pages to perform tasks like liking posts and wr",
-    "id": "Dusty-plumcot781/locoagent",
-    "language": "\u2014",
-    "name": "Dusty-plumcot781/locoagent",
-    "stars": 0,
-    "updated_at": "2026-05-29T04:35:06Z",
-    "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 15,
-    "updated_at": "2026-05-29T04:34:40Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   }
 ]
