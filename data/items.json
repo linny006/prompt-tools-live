@@ -1,5 +1,86 @@
 [
   {
+    "description": "SLIM v2.0 Claude Code plugin",
+    "id": "nagandla-sasidhar/slim-claude-plugin",
+    "language": "\u2014",
+    "name": "nagandla-sasidhar/slim-claude-plugin",
+    "stars": 0,
+    "updated_at": "2026-05-30T06:14:09Z",
+    "url": "https://github.com/nagandla-sasidhar/slim-claude-plugin"
+  },
+  {
+    "description": "",
+    "id": "nagandla-sasidhar/slim",
+    "language": "HTML",
+    "name": "nagandla-sasidhar/slim",
+    "stars": 0,
+    "updated_at": "2026-05-30T06:13:37Z",
+    "url": "https://github.com/nagandla-sasidhar/slim"
+  },
+  {
+    "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
+    "id": "hilmifawwazsaad/DidYouKnow",
+    "language": "TypeScript",
+    "name": "hilmifawwazsaad/DidYouKnow",
+    "stars": 0,
+    "updated_at": "2026-05-30T06:12:54Z",
+    "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 3,
+    "updated_at": "2026-05-30T06:03:53Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "TypeScript",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 1,
+    "updated_at": "2026-05-30T06:02:13Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
+    "id": "LouisLau-art/multi-agent-skills-catalog",
+    "language": "Python",
+    "name": "LouisLau-art/multi-agent-skills-catalog",
+    "stars": 1,
+    "updated_at": "2026-05-30T06:01:14Z",
+    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
+  },
+  {
+    "description": "Portable AI skills by Anders Hybertz \u2014 reusable prompt units for engineering, design, and tooling",
+    "id": "jeckyl2010/skills",
+    "language": "Python",
+    "name": "jeckyl2010/skills",
+    "stars": 1,
+    "updated_at": "2026-05-30T06:00:39Z",
+    "url": "https://github.com/jeckyl2010/skills"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 4,
+    "updated_at": "2026-05-30T06:00:33Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-30T06:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
     "id": "pranavkafle/serpapi-mcp-catalog",
     "language": "Python",
@@ -54,15 +135,6 @@
     "url": "https://github.com/robertomarchioro/prompt-a-porter"
   },
   {
-    "description": "Portable AI skills by Anders Hybertz \u2014 reusable prompt units for engineering, design, and tooling",
-    "id": "jeckyl2010/skills",
-    "language": "Python",
-    "name": "jeckyl2010/skills",
-    "stars": 1,
-    "updated_at": "2026-05-30T05:54:00Z",
-    "url": "https://github.com/jeckyl2010/skills"
-  },
-  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -81,22 +153,13 @@
     "url": "https://github.com/flexigpt/flexigpt-app"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Stop burning tokens. Single binary that makes Claude Code/Cursor 70\u201390% cheaper. Token-efficient code nav + memory + RAG",
-    "id": "ncmonx/icm-graph",
+    "id": "ncmonx/icemage",
     "language": "Python",
-    "name": "ncmonx/icm-graph",
+    "name": "ncmonx/icemage",
     "stars": 2,
     "updated_at": "2026-05-30T05:42:00Z",
-    "url": "https://github.com/ncmonx/icm-graph"
+    "url": "https://github.com/ncmonx/icemage"
   },
   {
     "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
@@ -243,15 +306,6 @@
     "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
   },
   {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 4,
-    "updated_at": "2026-05-30T05:27:51Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
     "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
     "id": "syncretismdeposit560/TypeAnything",
     "language": "PowerShell",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T05:26:02Z",
     "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:25:39Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:25:35Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:25:18Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:24:52Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 1,
-    "updated_at": "2026-05-30T05:24:46Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:24:43Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
   }
 ]
