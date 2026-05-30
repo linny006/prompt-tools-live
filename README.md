@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-05-30 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 2 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-05-30 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 3 | [kesslernity/awesome-copilot-studio-agents](https://github.com/kesslernity/awesome-copilot-studio-agents) | 353 | — | 2026-05-30 | 78 paste-ready declarative agents for Microsoft 365 Copilot. No coding. No Azure. Deploy in minutes. |
-| 4 | [kesslernity/awesome-microsoft-copilot-prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) | 379 | — | 2026-05-30 | The definitive Microsoft 365 Copilot prompt library for business teams. 400+ prompts for Office apps, Copilot Studio, se |
-| 5 | [kesslernity/awesome-copilot-chat-agents](https://github.com/kesslernity/awesome-copilot-chat-agents) | 11 | — | 2026-05-30 | 52 ready-to-deploy Microsoft Copilot Chat agents — paste the instruction block into Copilot Studio and you're live. Writ |
-| 6 | [LerianStudio/ring](https://github.com/LerianStudio/ring) | 190 | HTML | 2026-05-30 | 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systemat |
-| 7 | [jmagly/aiwg](https://github.com/jmagly/aiwg) | 141 | TypeScript | 2026-05-30 | Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo |
-| 8 | [jqaisystems/jqaisystems](https://github.com/jqaisystems/jqaisystems) | 0 | — | 2026-05-30 | AI automation systems for studios, consultants, and small teams. |
-| 9 | [daanmt/agente-daktus-content](https://github.com/daanmt/agente-daktus-content) | 1 | Python | 2026-05-30 | Stage 1 of the Daktus CDSS pipeline: skill-based context harness that transforms a clinical briefing into a validated, E |
-| 10 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 0 | Python | 2026-05-30 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 0 | Python | 2026-05-30 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-05-30 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 3 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-05-30 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 4 | [kesslernity/awesome-copilot-studio-agents](https://github.com/kesslernity/awesome-copilot-studio-agents) | 353 | — | 2026-05-30 | 78 paste-ready declarative agents for Microsoft 365 Copilot. No coding. No Azure. Deploy in minutes. |
+| 5 | [kesslernity/awesome-microsoft-copilot-prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) | 379 | — | 2026-05-30 | The definitive Microsoft 365 Copilot prompt library for business teams. 400+ prompts for Office apps, Copilot Studio, se |
+| 6 | [kesslernity/awesome-copilot-chat-agents](https://github.com/kesslernity/awesome-copilot-chat-agents) | 11 | — | 2026-05-30 | 52 ready-to-deploy Microsoft Copilot Chat agents — paste the instruction block into Copilot Studio and you're live. Writ |
+| 7 | [LerianStudio/ring](https://github.com/LerianStudio/ring) | 190 | HTML | 2026-05-30 | 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systemat |
+| 8 | [jmagly/aiwg](https://github.com/jmagly/aiwg) | 141 | TypeScript | 2026-05-30 | Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo |
+| 9 | [jqaisystems/jqaisystems](https://github.com/jqaisystems/jqaisystems) | 0 | — | 2026-05-30 | AI automation systems for studios, consultants, and small teams. |
+| 10 | [daanmt/agente-daktus-content](https://github.com/daanmt/agente-daktus-content) | 1 | Python | 2026-05-30 | Stage 1 of the Daktus CDSS pipeline: skill-based context harness that transforms a clinical briefing into a validated, E |
 | 11 | [asideia/lazy-css](https://github.com/asideia/lazy-css) | 0 | HTML | 2026-05-30 | 🦥 An AI-native, structural CSS framework built for backend developers. Stop writing CSS: download the dynamic markdown s |
 | 12 | [fxbodin/toon-conversion](https://github.com/fxbodin/toon-conversion) | 0 | Python | 2026-05-30 | Skill Claude pour decider et executer la conversion JSON <-> TOON (Token-Oriented Object Notation) |
 | 13 | [jqaisystems/jqai-ai-skills](https://github.com/jqaisystems/jqai-ai-skills) | 1 | HTML | 2026-05-30 | Reusable Codex/Claude-style AI skill folders for safe publishing, research briefs, case studies, outreach workflows, Ets |
