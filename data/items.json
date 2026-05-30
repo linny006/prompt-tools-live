@@ -1,11 +1,110 @@
 [
   {
+    "description": "vibestack is a portable skill pack for AI coding agents. Slash commands like /office-hours, /ship, /investigate, /tdd, /",
+    "id": "timurgaleev/vibestack",
+    "language": "TypeScript",
+    "name": "timurgaleev/vibestack",
+    "stars": 13,
+    "updated_at": "2026-05-30T18:59:03Z",
+    "url": "https://github.com/timurgaleev/vibestack"
+  },
+  {
+    "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+    "id": "majiayu000/spellbook",
+    "language": "Python",
+    "name": "majiayu000/spellbook",
+    "stars": 137,
+    "updated_at": "2026-05-30T18:57:17Z",
+    "url": "https://github.com/majiayu000/spellbook"
+  },
+  {
+    "description": "Background-capable Claude Code wrapper with async workflows, session management, and multi-host orchestration. Telegram ",
+    "id": "danimoya/Claude-B",
+    "language": "TypeScript",
+    "name": "danimoya/Claude-B",
+    "stars": 3,
+    "updated_at": "2026-05-30T18:55:33Z",
+    "url": "https://github.com/danimoya/Claude-B"
+  },
+  {
+    "description": "AI automation systems for studios, consultants, and small teams.",
+    "id": "jqaisystems/jqaisystems",
+    "language": "\u2014",
+    "name": "jqaisystems/jqaisystems",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:55:16Z",
+    "url": "https://github.com/jqaisystems/jqaisystems"
+  },
+  {
+    "description": "Spec-locked, mission-control protocol for autonomous AI software engineering (Docs-Driven Development).\u201d Suggested topic",
+    "id": "Ahmad-Ez/docs-to-code",
+    "language": "\u2014",
+    "name": "Ahmad-Ez/docs-to-code",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:55:01Z",
+    "url": "https://github.com/Ahmad-Ez/docs-to-code"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:53:12Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Reusable Codex/Claude-style AI skill folders for safe publishing, research briefs, case studies, outreach workflows, Ets",
+    "id": "jqaisystems/jqai-ai-skills",
+    "language": "HTML",
+    "name": "jqaisystems/jqai-ai-skills",
+    "stars": 1,
+    "updated_at": "2026-05-30T18:52:41Z",
+    "url": "https://github.com/jqaisystems/jqai-ai-skills"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:50:52Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Universal prompt engineering framework for critical AI validation",
+    "id": "fabriciopsouza/metacognition-framework",
+    "language": "PowerShell",
+    "name": "fabriciopsouza/metacognition-framework",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:48:49Z",
+    "url": "https://github.com/fabriciopsouza/metacognition-framework"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 0,
+    "updated_at": "2026-05-30T18:46:46Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21724,
+    "updated_at": "2026-05-30T18:46:09Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
     "id": "linny006/prompt-tools-live",
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 0,
-    "updated_at": "2026-05-30T18:45:27Z",
+    "updated_at": "2026-05-30T18:45:57Z",
     "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
@@ -72,15 +171,6 @@
     "url": "https://github.com/jmagly/aiwg"
   },
   {
-    "description": "AI automation systems for studios, consultants, and small teams.",
-    "id": "jqaisystems/jqaisystems",
-    "language": "\u2014",
-    "name": "jqaisystems/jqaisystems",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:30:41Z",
-    "url": "https://github.com/jqaisystems/jqaisystems"
-  },
-  {
     "description": "Stage 1 of the Daktus CDSS pipeline: skill-based context harness that transforms a clinical briefing into a validated, E",
     "id": "daanmt/agente-daktus-content",
     "language": "Python",
@@ -106,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T18:29:13Z",
     "url": "https://github.com/fxbodin/toon-conversion"
-  },
-  {
-    "description": "Reusable Codex/Claude-style AI skill folders for safe publishing, research briefs, case studies, outreach workflows, Ets",
-    "id": "jqaisystems/jqai-ai-skills",
-    "language": "HTML",
-    "name": "jqaisystems/jqai-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-05-30T18:28:43Z",
-    "url": "https://github.com/jqaisystems/jqai-ai-skills"
   },
   {
     "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
@@ -169,15 +250,6 @@
     "stars": 238,
     "updated_at": "2026-05-30T18:12:38Z",
     "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21723,
-    "updated_at": "2026-05-30T18:39:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T18:02:08Z",
     "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:02:07Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:02:06Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:02:05Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:02:02Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:01:56Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Structured decision-making for Claude Code: a /method command, an auto-triggering methodology-driven-thinking skill, and",
-    "id": "gagharutyunyan1993/methodology-toolkit",
-    "language": "JavaScript",
-    "name": "gagharutyunyan1993/methodology-toolkit",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:01:55Z",
-    "url": "https://github.com/gagharutyunyan1993/methodology-toolkit"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:01:17Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:01:12Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
   }
 ]
