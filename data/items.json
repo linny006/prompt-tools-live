@@ -1,12 +1,39 @@
 [
   {
-    "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
-    "id": "Prompthon-IO/agent-systems-handbook",
-    "language": "MDX",
-    "name": "Prompthon-IO/agent-systems-handbook",
-    "stars": 236,
-    "updated_at": "2026-05-30T12:28:40Z",
-    "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
+    "description": "Production ready. AI Agent Workflow System for Claude Code",
+    "id": "ngocsangyem/MeowKit",
+    "language": "TypeScript",
+    "name": "ngocsangyem/MeowKit",
+    "stars": 14,
+    "updated_at": "2026-05-30T12:43:54Z",
+    "url": "https://github.com/ngocsangyem/MeowKit"
+  },
+  {
+    "description": "Multi-perspective code review council for Claude Code. 3 advisors by default, 10 agents in deep mode (Opus + Codex). Evi",
+    "id": "Zandereins/hydra",
+    "language": "Python",
+    "name": "Zandereins/hydra",
+    "stars": 2,
+    "updated_at": "2026-05-30T12:42:58Z",
+    "url": "https://github.com/Zandereins/hydra"
+  },
+  {
+    "description": "Run several LLM agents on the same task in parallel docker sandboxes, then have other LLMs judge them. Uses your Claude ",
+    "id": "faeton/multicooker",
+    "language": "Python",
+    "name": "faeton/multicooker",
+    "stars": 0,
+    "updated_at": "2026-05-30T12:42:40Z",
+    "url": "https://github.com/faeton/multicooker"
+  },
+  {
+    "description": "82 Claude-Code-Subagents \u00b7 16 vendored Skills \u00b7 /agileteam v3 \u00b7 Defense-in-Depth Gates \u00b7 Self-Developing Agent Loop",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 2,
+    "updated_at": "2026-05-30T12:42:13Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
     "description": "A dual-agent framework leveraging left-brain logic (structured coding, syntax validation, debugging) and right-brain int",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "sleeplesshan/dual-brain",
     "stars": 6,
-    "updated_at": "2026-05-30T12:27:34Z",
+    "updated_at": "2026-05-30T12:37:25Z",
     "url": "https://github.com/sleeplesshan/dual-brain"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 2,
+    "updated_at": "2026-05-30T12:36:22Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Active context management for Claude Code. Companion practical tool to the Sculptor paper (arXiv:2508.04664, ICLR 2026).",
+    "id": "Mor-Li/sculptor",
+    "language": "Python",
+    "name": "Mor-Li/sculptor",
+    "stars": 3,
+    "updated_at": "2026-05-30T12:35:40Z",
+    "url": "https://github.com/Mor-Li/sculptor"
   },
   {
     "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
@@ -23,8 +68,44 @@
     "language": "Python",
     "name": "wesleysimplicio/simplicio-dev-cli",
     "stars": 11,
-    "updated_at": "2026-05-30T12:26:39Z",
+    "updated_at": "2026-05-30T12:35:29Z",
     "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "Medical Writer's AI Toolkit \u2014 33 expert prompts for pharma medical writing as MCP tools",
+    "id": "pubspro/medwriter-mcp",
+    "language": "Python",
+    "name": "pubspro/medwriter-mcp",
+    "stars": 0,
+    "updated_at": "2026-05-30T12:33:03Z",
+    "url": "https://github.com/pubspro/medwriter-mcp"
+  },
+  {
+    "description": "AI automation systems for studios, consultants, and small teams.",
+    "id": "jqaisystems/jqaisystems",
+    "language": "\u2014",
+    "name": "jqaisystems/jqaisystems",
+    "stars": 0,
+    "updated_at": "2026-05-30T12:30:48Z",
+    "url": "https://github.com/jqaisystems/jqaisystems"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-30T12:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent",
+    "id": "Prompthon-IO/agent-systems-handbook",
+    "language": "MDX",
+    "name": "Prompthon-IO/agent-systems-handbook",
+    "stars": 236,
+    "updated_at": "2026-05-30T12:28:40Z",
+    "url": "https://github.com/Prompthon-IO/agent-systems-handbook"
   },
   {
     "description": "Reusable Codex/Claude-style AI skill folders for safe publishing, research briefs, case studies, outreach workflows, Ets",
@@ -63,20 +144,11 @@
     "url": "https://github.com/MartiniArt/awesome-seedance-2-prompt"
   },
   {
-    "description": "82 Claude-Code-Subagents \u00b7 16 vendored Skills \u00b7 /agileteam v3 \u00b7 Defense-in-Depth Gates \u00b7 Self-Developing Agent Loop",
-    "id": "DYAI2025/Plumbline",
-    "language": "HTML",
-    "name": "DYAI2025/Plumbline",
-    "stars": 2,
-    "updated_at": "2026-05-30T12:21:38Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12306,
+    "stars": 12307,
     "updated_at": "2026-05-30T12:20:59Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
@@ -88,6 +160,15 @@
     "stars": 1,
     "updated_at": "2026-05-30T12:20:42Z",
     "url": "https://github.com/jeckyl2010/skills"
+  },
+  {
+    "description": "",
+    "id": "eluckydog/you-as-expert-activator-repo",
+    "language": "Python",
+    "name": "eluckydog/you-as-expert-activator-repo",
+    "stars": 0,
+    "updated_at": "2026-05-30T12:17:54Z",
+    "url": "https://github.com/eluckydog/you-as-expert-activator-repo"
   },
   {
     "description": "Codex-native Intent-Driven Development template for OpenSpec with /opsx, Matt grill-with-docs gates, mandatory TDD, Proj",
@@ -106,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T12:17:07Z",
     "url": "https://github.com/kengyit/techpulse-daily"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-30T12:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -171,15 +243,6 @@
     "url": "https://github.com/acipaaa/context-llm-chunks"
   },
   {
-    "description": "Production ready. AI Agent Workflow System for Claude Code",
-    "id": "ngocsangyem/MeowKit",
-    "language": "TypeScript",
-    "name": "ngocsangyem/MeowKit",
-    "stars": 14,
-    "updated_at": "2026-05-30T12:05:58Z",
-    "url": "https://github.com/ngocsangyem/MeowKit"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -207,15 +270,6 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "Medical Writer's AI Toolkit \u2014 33 expert prompts for pharma medical writing as MCP tools",
-    "id": "pubspro/medwriter-mcp",
-    "language": "Python",
-    "name": "pubspro/medwriter-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-30T12:00:58Z",
-    "url": "https://github.com/pubspro/medwriter-mcp"
-  },
-  {
     "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
     "id": "rmdhananjay/contextual-memory-map",
     "language": "HTML",
@@ -232,15 +286,6 @@
     "stars": 7,
     "updated_at": "2026-05-30T11:58:26Z",
     "url": "https://github.com/zxpmail/ReqForge"
-  },
-  {
-    "description": "Active context management for Claude Code. Companion practical tool to the Sculptor paper (arXiv:2508.04664, ICLR 2026).",
-    "id": "Mor-Li/sculptor",
-    "language": "Python",
-    "name": "Mor-Li/sculptor",
-    "stars": 3,
-    "updated_at": "2026-05-30T11:57:40Z",
-    "url": "https://github.com/Mor-Li/sculptor"
   },
   {
     "description": "A tiny agent-agnostic operating profile for direct, state-aware, logic-preserving agent work.",
@@ -351,15 +396,6 @@
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
-    "description": "AI automation systems for studios, consultants, and small teams.",
-    "id": "jqaisystems/jqaisystems",
-    "language": "\u2014",
-    "name": "jqaisystems/jqaisystems",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:46:00Z",
-    "url": "https://github.com/jqaisystems/jqaisystems"
-  },
-  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T11:42:30Z",
     "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:41:58Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Automate social media accounts using an AI agent that navigates live web pages to perform tasks like liking posts and wr",
-    "id": "Dusty-plumcot781/locoagent",
-    "language": "\u2014",
-    "name": "Dusty-plumcot781/locoagent",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:41:47Z",
-    "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:41:04Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-05-30T11:40:42Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
   }
 ]
