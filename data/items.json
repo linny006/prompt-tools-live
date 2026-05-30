@@ -1,12 +1,93 @@
 [
   {
+    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
+    "id": "pranavkafle/serpapi-mcp-catalog",
+    "language": "Python",
+    "name": "pranavkafle/serpapi-mcp-catalog",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:56:36Z",
+    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:56:35Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Active context management for Claude Code. Companion practical tool to the Sculptor paper (arXiv:2508.04664, ICLR 2026).",
+    "id": "Mor-Li/sculptor",
+    "language": "Python",
+    "name": "Mor-Li/sculptor",
+    "stars": 1,
+    "updated_at": "2026-05-30T05:56:16Z",
+    "url": "https://github.com/Mor-Li/sculptor"
+  },
+  {
+    "description": "Markdown that steers an LLM is code. Genesis is the architectural layer for designing multi-agent, multi-skill systems -",
+    "id": "danielmeppiel/genesis",
+    "language": "Python",
+    "name": "danielmeppiel/genesis",
+    "stars": 27,
+    "updated_at": "2026-05-30T05:55:54Z",
+    "url": "https://github.com/danielmeppiel/genesis"
+  },
+  {
+    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
+    "id": "lulin70/carrymem",
+    "language": "Python",
+    "name": "lulin70/carrymem",
+    "stars": 2,
+    "updated_at": "2026-05-30T05:55:44Z",
+    "url": "https://github.com/lulin70/carrymem"
+  },
+  {
     "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
     "id": "robertomarchioro/prompt-a-porter",
     "language": "Rust",
     "name": "robertomarchioro/prompt-a-porter",
     "stars": 0,
-    "updated_at": "2026-05-30T05:42:55Z",
+    "updated_at": "2026-05-30T05:54:30Z",
     "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "Portable AI skills by Anders Hybertz \u2014 reusable prompt units for engineering, design, and tooling",
+    "id": "jeckyl2010/skills",
+    "language": "Python",
+    "name": "jeckyl2010/skills",
+    "stars": 1,
+    "updated_at": "2026-05-30T05:54:00Z",
+    "url": "https://github.com/jeckyl2010/skills"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 15,
+    "updated_at": "2026-05-30T05:51:44Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 2,
+    "updated_at": "2026-05-30T05:48:25Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Stop burning tokens. Single binary that makes Claude Code/Cursor 70\u201390% cheaper. Token-efficient code nav + memory + RAG",
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T05:41:14Z",
     "url": "https://github.com/rmdhananjay/contextual-memory-map"
-  },
-  {
-    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
-    "id": "lulin70/carrymem",
-    "language": "Python",
-    "name": "lulin70/carrymem",
-    "stars": 2,
-    "updated_at": "2026-05-30T05:41:00Z",
-    "url": "https://github.com/lulin70/carrymem"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/cite",
     "stars": 1341,
-    "updated_at": "2026-05-30T05:44:41Z",
+    "updated_at": "2026-05-30T05:47:50Z",
     "url": "https://github.com/Open-Source-Legal/cite"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T05:30:59Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:30:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -248,7 +311,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3274,
-    "updated_at": "2026-05-30T05:44:19Z",
+    "updated_at": "2026-05-30T05:48:47Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T05:24:43Z",
     "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready).",
-    "id": "charlieviettq/awesome-agent-skill",
-    "language": "Python",
-    "name": "charlieviettq/awesome-agent-skill",
-    "stars": 15,
-    "updated_at": "2026-05-30T05:24:30Z",
-    "url": "https://github.com/charlieviettq/awesome-agent-skill"
-  },
-  {
-    "description": "Connect Last9 observability data to Cursor via MCP to debug production logs, metrics, and traces directly in your editor",
-    "id": "Christianly-bar1265/cursor-plugin",
-    "language": "\u2014",
-    "name": "Christianly-bar1265/cursor-plugin",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:24:15Z",
-    "url": "https://github.com/Christianly-bar1265/cursor-plugin"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:24:06Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Analyze Justin Sun\u2019s cognitive operating system by processing thousands of his tweets, interviews, and publications to e",
-    "id": "Emanuelam6674/sun-skill",
-    "language": "\u2014",
-    "name": "Emanuelam6674/sun-skill",
-    "stars": 1,
-    "updated_at": "2026-05-30T05:23:57Z",
-    "url": "https://github.com/Emanuelam6674/sun-skill"
-  },
-  {
-    "description": "Store Prometheus metrics in ClickHouse with native support for PromQL queries. Simplify long-term storage without managi",
-    "id": "Namandla0101/PromClick",
-    "language": "\u2014",
-    "name": "Namandla0101/PromClick",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:23:56Z",
-    "url": "https://github.com/Namandla0101/PromClick"
-  },
-  {
-    "description": "Automate AI research workflows using Claude Code skills to manage project progress, perform rigorous algorithm reviews, ",
-    "id": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "language": "\u2014",
-    "name": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:23:31Z",
-    "url": "https://github.com/Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:23:30Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
   }
 ]
