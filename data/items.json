@@ -1,5 +1,104 @@
 [
   {
+    "description": "Universal engineering kernel and reusable skill for agent-led repositories",
+    "id": "alexxety/agent-engineering-kernel",
+    "language": "Python",
+    "name": "alexxety/agent-engineering-kernel",
+    "stars": 1,
+    "updated_at": "2026-05-31T00:59:50Z",
+    "url": "https://github.com/alexxety/agent-engineering-kernel"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f Manage your life with a 1,400-year-old governance framework. 15 AI agents with separation of powers \u2014 Three Departmen",
+    "id": "jasonhnd/life_OS",
+    "language": "Makefile",
+    "name": "jasonhnd/life_OS",
+    "stars": 3,
+    "updated_at": "2026-05-31T01:00:04Z",
+    "url": "https://github.com/jasonhnd/life_OS"
+  },
+  {
+    "description": "Stage 1 of the Daktus CDSS pipeline: skill-based context harness that transforms a clinical briefing into a validated, E",
+    "id": "daanmt/agente-daktus-content",
+    "language": "Python",
+    "name": "daanmt/agente-daktus-content",
+    "stars": 1,
+    "updated_at": "2026-05-31T00:57:12Z",
+    "url": "https://github.com/daanmt/agente-daktus-content"
+  },
+  {
+    "description": "Full-stack prompt workspace for Claude Code and Codex with ASP.NET Core, React, PostgreSQL and SignalR.",
+    "id": "psielta/gerenciamento-de-tarefas-definidas-por-prompt",
+    "language": "C#",
+    "name": "psielta/gerenciamento-de-tarefas-definidas-por-prompt",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:56:35Z",
+    "url": "https://github.com/psielta/gerenciamento-de-tarefas-definidas-por-prompt"
+  },
+  {
+    "description": "Capture, diff, and replay LLM prompts for reproducible debugging across OpenAI, Mistral, Google, Ollama",
+    "id": "kaytherne/prompt-snapshot",
+    "language": "JavaScript",
+    "name": "kaytherne/prompt-snapshot",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:54:53Z",
+    "url": "https://github.com/kaytherne/prompt-snapshot"
+  },
+  {
+    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
+    "id": "Open-Source-Legal/cite",
+    "language": "Python",
+    "name": "Open-Source-Legal/cite",
+    "stars": 1341,
+    "updated_at": "2026-05-31T00:57:11Z",
+    "url": "https://github.com/Open-Source-Legal/cite"
+  },
+  {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 3,
+    "updated_at": "2026-05-31T00:54:01Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "ComfyUI custom nodes for structured prompt libraries, portable workflows, and LoRA metadata composition.",
+    "id": "2223290690z-hue/comfyui-prompt-library-nodes",
+    "language": "Python",
+    "name": "2223290690z-hue/comfyui-prompt-library-nodes",
+    "stars": 1,
+    "updated_at": "2026-05-31T00:49:45Z",
+    "url": "https://github.com/2223290690z-hue/comfyui-prompt-library-nodes"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 12,
+    "updated_at": "2026-05-31T00:49:15Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:45:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Full-stack AI fitness OS \u2014 React, Supabase, Claude API, Cloudflare Workers. Raw workout notes \u2192 one tap \u2192 structured DB ",
+    "id": "T00f-io/ghost-panther-dashboard",
+    "language": "JavaScript",
+    "name": "T00f-io/ghost-panther-dashboard",
+    "stars": 1,
+    "updated_at": "2026-05-31T00:42:53Z",
+    "url": "https://github.com/T00f-io/ghost-panther-dashboard"
+  },
+  {
     "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
     "id": "SoliEstre/EstreGenesis",
     "language": "JavaScript",
@@ -54,15 +153,6 @@
     "url": "https://github.com/MartiniArt/awesome-seedance-2-prompt"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Quillan-Ronin - Achieved A.G.I. architected A Stateful Reasoning Engine on Universal BitNet 1.58-bit logic and a 9B EGGR",
     "id": "leeex1/Quillan-Ronin",
     "language": "Python",
@@ -77,7 +167,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 1,
-    "updated_at": "2026-05-31T00:35:28Z",
+    "updated_at": "2026-05-31T00:58:08Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -151,15 +241,6 @@
     "stars": 38,
     "updated_at": "2026-05-31T00:18:32Z",
     "url": "https://github.com/hermes-labs-ai/lintlang"
-  },
-  {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 12,
-    "updated_at": "2026-05-31T00:18:28Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
     "description": "Static prompt audit CLI for LLM system prompts: contradictions, coverage gaps, priority ambiguities, and edge-case check",
@@ -250,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-05-31T00:14:47Z",
     "url": "https://github.com/handlecusion/nah-mean"
-  },
-  {
-    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
-    "id": "zigrivers/scaffold",
-    "language": "TypeScript",
-    "name": "zigrivers/scaffold",
-    "stars": 3,
-    "updated_at": "2026-05-31T00:36:10Z",
-    "url": "https://github.com/zigrivers/scaffold"
   },
   {
     "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T00:11:52Z",
     "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:11:49Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:11:49Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:11:46Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:11:44Z",
-    "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:11:43Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:11:32Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:11:06Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:11:04Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
   }
 ]
