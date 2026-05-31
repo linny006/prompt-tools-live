@@ -1,12 +1,48 @@
 [
   {
-    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
-    "id": "zigrivers/scaffold",
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
     "language": "TypeScript",
-    "name": "zigrivers/scaffold",
-    "stars": 3,
-    "updated_at": "2026-05-31T03:43:02Z",
-    "url": "https://github.com/zigrivers/scaffold"
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-05-31T03:58:03Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Pause your AI agent. Ask a human. Resume with their answer. Open source human-in-the-loop (HITL) library for production ",
+    "id": "awaithumans/awaithumans-human-in-the-loop-ai-agents",
+    "language": "Python",
+    "name": "awaithumans/awaithumans-human-in-the-loop-ai-agents",
+    "stars": 13,
+    "updated_at": "2026-05-31T03:57:30Z",
+    "url": "https://github.com/awaithumans/awaithumans-human-in-the-loop-ai-agents"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-05-31T03:57:23Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "Local-first inference control layer for small LLMs. Inline plan-then-answer scaffolding (lite/two_pass/direct) for more ",
+    "id": "hermes-labs-ai/quickthink",
+    "language": "Python",
+    "name": "hermes-labs-ai/quickthink",
+    "stars": 0,
+    "updated_at": "2026-05-31T03:55:54Z",
+    "url": "https://github.com/hermes-labs-ai/quickthink"
+  },
+  {
+    "description": "30 \u5c81\u4e0d\u61c2\u4ee3\u7801\u7684\u666e\u901a\u4eba\uff0c\u7528 Claude Code \u8dd1\u51fa\u8d85\u8d8a\u5b98\u65b9\u7684\u65b9\u6cd5\u8bba \u00b7 \u666e\u901a\u4eba\u7528 AI \u5b9e\u6218\u8d44\u6599\u7ad9",
+    "id": "wutuobangai/wutuobangai-beyond-cc",
+    "language": "Shell",
+    "name": "wutuobangai/wutuobangai-beyond-cc",
+    "stars": 0,
+    "updated_at": "2026-05-31T03:55:42Z",
+    "url": "https://github.com/wutuobangai/wutuobangai-beyond-cc"
   },
   {
     "description": "Token-efficient context/memory/graph CLI for AI coding agents. 1203/1203 tests, 40 MCP tools, Apache-2.0.",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "ncmonx/icemage",
     "stars": 2,
-    "updated_at": "2026-05-31T03:41:17Z",
+    "updated_at": "2026-05-31T03:50:41Z",
     "url": "https://github.com/ncmonx/icemage"
+  },
+  {
+    "description": "Static linter for AI agent configs, tool descriptions, and system prompts with zero-LLM CI gating",
+    "id": "hermes-labs-ai/lintlang",
+    "language": "Python",
+    "name": "hermes-labs-ai/lintlang",
+    "stars": 38,
+    "updated_at": "2026-05-31T03:47:37Z",
+    "url": "https://github.com/hermes-labs-ai/lintlang"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-31T03:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 3,
+    "updated_at": "2026-05-31T03:57:12Z",
+    "url": "https://github.com/zigrivers/scaffold"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -256,7 +319,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 24593,
+    "stars": 24603,
     "updated_at": "2026-05-31T03:34:51Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T03:32:51Z",
     "url": "https://github.com/Bennyvibrionic5714/llmbrary"
-  },
-  {
-    "description": "Universal prompt engineering framework for critical AI validation",
-    "id": "fabriciopsouza/metacognition-framework",
-    "language": "PowerShell",
-    "name": "fabriciopsouza/metacognition-framework",
-    "stars": 0,
-    "updated_at": "2026-05-31T03:32:43Z",
-    "url": "https://github.com/fabriciopsouza/metacognition-framework"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 0,
-    "updated_at": "2026-05-31T03:32:31Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Standardize AI agent behavior across IDEs and CLI tools using a single configuration file to reduce token usage and buil",
-    "id": "opticalmaserpreachment710/agents-evolution",
-    "language": "PowerShell",
-    "name": "opticalmaserpreachment710/agents-evolution",
-    "stars": 0,
-    "updated_at": "2026-05-31T03:32:30Z",
-    "url": "https://github.com/opticalmaserpreachment710/agents-evolution"
-  },
-  {
-    "description": "Optimize development performance by stripping away unnecessary abstractions and focusing on raw code execution.",
-    "id": "Ricarddefensive803/caveman-skill",
-    "language": "\u2014",
-    "name": "Ricarddefensive803/caveman-skill",
-    "stars": 0,
-    "updated_at": "2026-05-31T03:32:25Z",
-    "url": "https://github.com/Ricarddefensive803/caveman-skill"
-  },
-  {
-    "description": "Organize AI conversations into clean, structured threads to refine context and improve model output quality.",
-    "id": "Robertmyerkesextremist950/metaprompt",
-    "language": "HTML",
-    "name": "Robertmyerkesextremist950/metaprompt",
-    "stars": 0,
-    "updated_at": "2026-05-31T03:32:20Z",
-    "url": "https://github.com/Robertmyerkesextremist950/metaprompt"
-  },
-  {
-    "description": "Archive 126+ iterative Suno AI music prompts with structural metatags, style descriptions, and engineering notes for imp",
-    "id": "Defectlameness737/suno-lab",
-    "language": "\u2014",
-    "name": "Defectlameness737/suno-lab",
-    "stars": 0,
-    "updated_at": "2026-05-31T03:32:17Z",
-    "url": "https://github.com/Defectlameness737/suno-lab"
-  },
-  {
-    "description": "Create high-quality images and art from text prompts using this local desktop application for digital artists and develo",
-    "id": "Delcinetimberframed513/Image-AI-Generator-2026",
-    "language": "\u2014",
-    "name": "Delcinetimberframed513/Image-AI-Generator-2026",
-    "stars": 1,
-    "updated_at": "2026-05-31T03:32:17Z",
-    "url": "https://github.com/Delcinetimberframed513/Image-AI-Generator-2026"
   }
 ]
