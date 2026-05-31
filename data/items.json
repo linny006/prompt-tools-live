@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u4e2d\u6587 AI \u5f00\u53d1\u8005\u5de5\u5177\u5b9e\u8df5\u6a21\u677f\u5e93\uff1aPR review\u3001issue triage\u3001\u6d4b\u8bd5\u751f\u6210\u3001\u6587\u6863\u7ef4\u62a4\u3001release \u548c\u5de5\u5177\u8bc4\u4f30\u5de5\u4f5c\u6d41\u3002",
+    "id": "ONEISALL7/ai-devtools-cn",
+    "language": "JavaScript",
+    "name": "ONEISALL7/ai-devtools-cn",
+    "stars": 2,
+    "updated_at": "2026-05-31T16:45:55Z",
+    "url": "https://github.com/ONEISALL7/ai-devtools-cn"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-05-31T16:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -23,7 +41,7 @@
     "language": "TypeScript",
     "name": "zigrivers/scaffold",
     "stars": 3,
-    "updated_at": "2026-05-31T16:44:25Z",
+    "updated_at": "2026-05-31T16:45:58Z",
     "url": "https://github.com/zigrivers/scaffold"
   },
   {
@@ -41,7 +59,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3274,
-    "updated_at": "2026-05-31T16:43:56Z",
+    "updated_at": "2026-05-31T16:45:33Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 9,
     "updated_at": "2026-05-31T16:42:46Z",
     "url": "https://github.com/joansongjr/investor-harness"
-  },
-  {
-    "description": "\u4e2d\u6587 AI \u5f00\u53d1\u8005\u5de5\u5177\u5b9e\u8df5\u6a21\u677f\u5e93\uff1aPR review\u3001issue triage\u3001\u6d4b\u8bd5\u751f\u6210\u3001\u6587\u6863\u7ef4\u62a4\u3001release \u548c\u5de5\u5177\u8bc4\u4f30\u5de5\u4f5c\u6d41\u3002",
-    "id": "ONEISALL7/ai-devtools-cn",
-    "language": "JavaScript",
-    "name": "ONEISALL7/ai-devtools-cn",
-    "stars": 2,
-    "updated_at": "2026-05-31T16:45:11Z",
-    "url": "https://github.com/ONEISALL7/ai-devtools-cn"
   },
   {
     "description": "Teach an LLM to talk like a person \u2014 not sound like one. v1.1.0 skill for opencode, tuned against 100 cases + verified b",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T16:36:00Z",
     "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Store Prometheus metrics in ClickHouse with native support for PromQL queries. Simplify long-term storage without managi",
-    "id": "Namandla0101/PromClick",
-    "language": "\u2014",
-    "name": "Namandla0101/PromClick",
-    "stars": 0,
-    "updated_at": "2026-05-31T16:35:59Z",
-    "url": "https://github.com/Namandla0101/PromClick"
   }
 ]
