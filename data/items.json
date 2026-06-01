@@ -1,5 +1,77 @@
 [
   {
+    "description": "Constitution-driven governance framework for AI agents.  2,500+ universal standards, self-evolving knowledge base,  and ",
+    "id": "hiroyuki-miyauchi/axiarch",
+    "language": "Shell",
+    "name": "hiroyuki-miyauchi/axiarch",
+    "stars": 1,
+    "updated_at": "2026-06-01T15:44:37Z",
+    "url": "https://github.com/hiroyuki-miyauchi/axiarch"
+  },
+  {
+    "description": "Portable design system skill for Claude Code, Cursor, Codex, ChatGPT, Windsurf, and Copilot \u2014 with MCP server and self-l",
+    "id": "staurus86/global-design-skill",
+    "language": "Python",
+    "name": "staurus86/global-design-skill",
+    "stars": 0,
+    "updated_at": "2026-06-01T15:41:36Z",
+    "url": "https://github.com/staurus86/global-design-skill"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28317,
+    "updated_at": "2026-06-01T15:37:49Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 3,
+    "updated_at": "2026-06-01T15:37:39Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "Lumina is an AI-powered automation framework that analyzes videos and audio to generate Playwright test scripts. It merg",
+    "id": "PiyushMishra318/lumina",
+    "language": "Python",
+    "name": "PiyushMishra318/lumina",
+    "stars": 0,
+    "updated_at": "2026-06-01T15:33:18Z",
+    "url": "https://github.com/PiyushMishra318/lumina"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9942,
+    "updated_at": "2026-06-01T15:32:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T15:30:44Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 5,
+    "updated_at": "2026-06-01T15:30:04Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
     "description": "\u7e41\u9ad4\u4e2d\u6587\u5beb\u4f5c skill \u5de5\u5177\u93c8 for Claude Code\uff1ahumanizer-tw\uff08\u53bb AI \u5473\uff09+ good-writing-zh\uff08\u7bc0\u594f\u6253\u78e8\uff1aPG\uff0f\u4f59\u5149\u4e2d\uff0f\u738b\u9f0e\u921e + \u6280\u8853\u6587\u4ef6\u4fdd\u5b88\u6a21\u5f0f\uff09+ fable-econ\uff0ffable-exp",
     "id": "aeopress/writing-skills.TW",
     "language": "\u2014",
@@ -9,20 +81,38 @@
     "url": "https://github.com/aeopress/writing-skills.TW"
   },
   {
-    "description": "Portable design system skill for Claude Code, Cursor, Codex, ChatGPT, Windsurf, and Copilot \u2014 with MCP server and self-l",
-    "id": "staurus86/global-design-skill",
+    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
+    "id": "event4u-app/agent-config",
     "language": "Python",
-    "name": "staurus86/global-design-skill",
-    "stars": 0,
-    "updated_at": "2026-06-01T15:22:38Z",
-    "url": "https://github.com/staurus86/global-design-skill"
+    "name": "event4u-app/agent-config",
+    "stars": 6,
+    "updated_at": "2026-06-01T15:26:39Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "The canonical standard for building production-grade agentic products \u2014 autonomy ladder, composition patterns, the 7-lay",
+    "id": "Moai-Team-LLC/agentic-product-standard",
+    "language": "Shell",
+    "name": "Moai-Team-LLC/agentic-product-standard",
+    "stars": 6,
+    "updated_at": "2026-06-01T15:24:44Z",
+    "url": "https://github.com/Moai-Team-LLC/agentic-product-standard"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2716,
+    "updated_at": "2026-06-01T15:21:41Z",
+    "url": "https://github.com/microsoft/apm"
   },
   {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 7611,
+    "stars": 7610,
     "updated_at": "2026-06-01T15:21:15Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -45,49 +135,31 @@
     "url": "https://github.com/AI4Finance-Foundation/FinGPT"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-01T15:15:41Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
+    "name": "XederaBills/llm-powered-data-analysis",
     "stars": 0,
-    "updated_at": "2026-06-01T15:15:40Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "updated_at": "2026-06-01T15:14:41Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
   },
   {
     "description": "\ud83c\udfad 211 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 16 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 18 \u4e2a\u90e8\u95e8\u3002\u542b 46 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
     "id": "jnMetaCode/agency-agents-zh",
     "language": "Shell",
     "name": "jnMetaCode/agency-agents-zh",
-    "stars": 13524,
+    "stars": 13525,
     "updated_at": "2026-06-01T15:14:31Z",
     "url": "https://github.com/jnMetaCode/agency-agents-zh"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28316,
-    "updated_at": "2026-06-01T15:26:54Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The canonical standard for building production-grade agentic products \u2014 autonomy ladder, composition patterns, the 7-lay",
-    "id": "Moai-Team-LLC/agentic-product-standard",
-    "language": "Shell",
-    "name": "Moai-Team-LLC/agentic-product-standard",
-    "stars": 5,
-    "updated_at": "2026-06-01T15:24:44Z",
-    "url": "https://github.com/Moai-Team-LLC/agentic-product-standard"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 2716,
-    "updated_at": "2026-06-01T15:21:41Z",
-    "url": "https://github.com/microsoft/apm"
   },
   {
     "description": "AI agents for growth marketing \u2014 built from real fintech campaigns. Prompts + Python.",
@@ -99,12 +171,30 @@
     "url": "https://github.com/thaolst/ai-growth-agents-for-marketers"
   },
   {
+    "description": "The largest universal agent skill library - 500+ production-ready skills across 14 categories. Supports 13 platforms inc",
+    "id": "badhope/AI-SKILL",
+    "language": "Python",
+    "name": "badhope/AI-SKILL",
+    "stars": 10,
+    "updated_at": "2026-06-01T15:05:36Z",
+    "url": "https://github.com/badhope/AI-SKILL"
+  },
+  {
+    "description": "\ud83c\udf70 PromptLayer - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.",
+    "id": "MagnivOrg/prompt-layer-library",
+    "language": "Python",
+    "name": "MagnivOrg/prompt-layer-library",
+    "stars": 765,
+    "updated_at": "2026-06-01T15:05:19Z",
+    "url": "https://github.com/MagnivOrg/prompt-layer-library"
+  },
+  {
     "description": "A tool that compiles messy natural language prompts into a structured intermediate representation (IR) and optionally se",
     "id": "madara88645/Compiler",
     "language": "Python",
     "name": "madara88645/Compiler",
     "stars": 24,
-    "updated_at": "2026-06-01T15:30:29Z",
+    "updated_at": "2026-06-01T15:43:52Z",
     "url": "https://github.com/madara88645/Compiler"
   },
   {
@@ -160,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T14:57:59Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 5,
-    "updated_at": "2026-06-01T15:30:04Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
   },
   {
     "description": "Um motor de RPG de mesa bare-metal e ass\u00edncrono projetado para mestrar 'Vampiro: A M\u00e1scara 5\u00aa Edi\u00e7\u00e3o' com intelig\u00eancia l",
@@ -232,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T14:47:20Z",
     "url": "https://github.com/DemchaAV/graphcompose-ai-flow"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 3,
-    "updated_at": "2026-06-01T15:06:47Z",
-    "url": "https://github.com/danlex/suno-lab"
   },
   {
     "description": "AI skills for Claude Code, Cursor, VS Code Copilot, Cline, and more",
@@ -351,15 +423,6 @@
     "url": "https://github.com/winchxyz/idea-to-build"
   },
   {
-    "description": "The largest universal agent skill library - 500+ production-ready skills across 14 categories. Supports 13 platforms inc",
-    "id": "badhope/AI-SKILL",
-    "language": "Python",
-    "name": "badhope/AI-SKILL",
-    "stars": 10,
-    "updated_at": "2026-06-01T15:05:36Z",
-    "url": "https://github.com/badhope/AI-SKILL"
-  },
-  {
     "description": "\u26a1 Semantic compression for IDE\u2194LLM communication. Save 80%+ tokens with radical glyphs. Supports OpenAI, Claude, VS Code",
     "id": "Neolambo/glyph-compress",
     "language": "JavaScript",
@@ -378,24 +441,6 @@
     "url": "https://github.com/ruca-radio/studioddx-landing"
   },
   {
-    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
-    "id": "event4u-app/agent-config",
-    "language": "Python",
-    "name": "event4u-app/agent-config",
-    "stars": 6,
-    "updated_at": "2026-06-01T15:26:39Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9941,
-    "updated_at": "2026-06-01T15:19:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
     "id": "vllm-project/semantic-router",
     "language": "Go",
@@ -403,50 +448,5 @@
     "stars": 4251,
     "updated_at": "2026-06-01T14:01:11Z",
     "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "agentic harness for qwen3.5 with context size of 16384 tokens with a focus on context management(WIP)",
-    "id": "tmijieux/ai-chat",
-    "language": "Python",
-    "name": "tmijieux/ai-chat",
-    "stars": 0,
-    "updated_at": "2026-06-01T14:01:00Z",
-    "url": "https://github.com/tmijieux/ai-chat"
-  },
-  {
-    "description": "\ud83e\udd16 Personal workspace for AI experiments and automations built using the Anthropic Claude API",
-    "id": "kishore-code-create/claude_ai_repo",
-    "language": "\u2014",
-    "name": "kishore-code-create/claude_ai_repo",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:59:46Z",
-    "url": "https://github.com/kishore-code-create/claude_ai_repo"
-  },
-  {
-    "description": "Are you using Claude Code to its full potential? This methodology \u2014 55 hooks, Evidence Policy, 14 agent teams \u2014 was buil",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 5,
-    "updated_at": "2026-06-01T15:12:26Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
-    "id": "MartiniArt/awesome-seedance-2-prompt",
-    "language": "Shell",
-    "name": "MartiniArt/awesome-seedance-2-prompt",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:57:16Z",
-    "url": "https://github.com/MartiniArt/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1276,
-    "updated_at": "2026-06-01T13:56:51Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   }
 ]
