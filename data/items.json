@@ -1,12 +1,102 @@
 [
   {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9948,
+    "updated_at": "2026-06-01T21:44:42Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build reliable AI agents and prompts using our open-source tools and models for effective AI engineering. Join the di",
+    "id": "olznra/system-prompts-and-models-of-ai-tools",
+    "language": "\u2014",
+    "name": "olznra/system-prompts-and-models-of-ai-tools",
+    "stars": 30,
+    "updated_at": "2026-06-01T21:44:12Z",
+    "url": "https://github.com/olznra/system-prompts-and-models-of-ai-tools"
+  },
+  {
+    "description": "\ud83c\udf7d\ufe0f Build AI systems with ease using ready-to-use code snippets and tutorials from the AI Cookbook for developers at all ",
+    "id": "hiimnew3190/ai-cookbook",
+    "language": "Python",
+    "name": "hiimnew3190/ai-cookbook",
+    "stars": 2,
+    "updated_at": "2026-06-01T21:44:04Z",
+    "url": "https://github.com/hiimnew3190/ai-cookbook"
+  },
+  {
+    "description": "Smart Summarizer is a powerful, AI-driven web application designed to automatically distill lengthy audio, video, YouTub",
+    "id": "fabrizio-ferrentino/smart_summarizer",
+    "language": "TypeScript",
+    "name": "fabrizio-ferrentino/smart_summarizer",
+    "stars": 2,
+    "updated_at": "2026-06-01T21:44:02Z",
+    "url": "https://github.com/fabrizio-ferrentino/smart_summarizer"
+  },
+  {
+    "description": "\ud83e\udd16 Automate code documentation with AI to enhance understanding and streamline your workflow, saving time on unfamiliar c",
+    "id": "Jimartskenya/ai-code-context",
+    "language": "TypeScript",
+    "name": "Jimartskenya/ai-code-context",
+    "stars": 2,
+    "updated_at": "2026-06-01T21:44:00Z",
+    "url": "https://github.com/Jimartskenya/ai-code-context"
+  },
+  {
+    "description": "\ud83e\udd16 Engage AI in dynamic debates with this customizable Python system, featuring unique personalities, original topics, an",
+    "id": "thucutos1fpt/Italian-AI-Debater",
+    "language": "Python",
+    "name": "thucutos1fpt/Italian-AI-Debater",
+    "stars": 1,
+    "updated_at": "2026-06-01T21:43:34Z",
+    "url": "https://github.com/thucutos1fpt/Italian-AI-Debater"
+  },
+  {
+    "description": "\ud83d\udd27 Develop robust, ethical AI software standards to enhance efficiency and quality in AI-assisted projects for developers",
+    "id": "gigantiumweb/ai-dev-standards-initiative",
+    "language": "\u2014",
+    "name": "gigantiumweb/ai-dev-standards-initiative",
     "stars": 0,
-    "updated_at": "2026-06-01T21:30:10Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+    "updated_at": "2026-06-01T21:42:58Z",
+    "url": "https://github.com/gigantiumweb/ai-dev-standards-initiative"
+  },
+  {
+    "description": "\ud83c\udf1e Manage Xeroderma Pigmentosum effectively with DermaFlow, an AI-driven web solution that provides proactive care and UV",
+    "id": "MarcoRamos016/AI-project",
+    "language": "HTML",
+    "name": "MarcoRamos016/AI-project",
+    "stars": 2,
+    "updated_at": "2026-06-01T21:42:11Z",
+    "url": "https://github.com/MarcoRamos016/AI-project"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Master LLMs by understanding core principles and patterns for effective prompt engineering, empowering you to build r",
+    "id": "RepublicOfBotv109/llm-engineering-cheatsheet",
+    "language": "\u2014",
+    "name": "RepublicOfBotv109/llm-engineering-cheatsheet",
+    "stars": 2,
+    "updated_at": "2026-06-01T21:42:02Z",
+    "url": "https://github.com/RepublicOfBotv109/llm-engineering-cheatsheet"
+  },
+  {
+    "description": "\ud83d\ude80 Simplify FLUX access with 4-bit models and CPU offloading, enabling powerful GPU utilization and prompt generation fro",
+    "id": "Rian-create/freeflux",
+    "language": "Python",
+    "name": "Rian-create/freeflux",
+    "stars": 1,
+    "updated_at": "2026-06-01T21:41:48Z",
+    "url": "https://github.com/Rian-create/freeflux"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Manage and reuse AI prompts from the command line with cueCLI for ChatGPT, Claude, and more\u2014simplifying your workflow",
+    "id": "tito1405/cueCLI",
+    "language": "JavaScript",
+    "name": "tito1405/cueCLI",
+    "stars": 3,
+    "updated_at": "2026-06-01T21:41:41Z",
+    "url": "https://github.com/tito1405/cueCLI"
   },
   {
     "description": "AI-native Product Management workflow: Custom Claude skills for spec writing, story creation, and architecture review",
@@ -14,8 +104,134 @@
     "language": "\u2014",
     "name": "JuanDRF2/claude-pm-skills",
     "stars": 0,
-    "updated_at": "2026-06-01T21:29:16Z",
+    "updated_at": "2026-06-01T21:41:22Z",
     "url": "https://github.com/JuanDRF2/claude-pm-skills"
+  },
+  {
+    "description": "\u2708\ufe0f Streamline your travel plans with the Travel Planner Agent, an AI-powered tool that organizes hotels, flights, and at",
+    "id": "Unna07/travel-planner-agent",
+    "language": "PHP",
+    "name": "Unna07/travel-planner-agent",
+    "stars": 2,
+    "updated_at": "2026-06-01T21:41:03Z",
+    "url": "https://github.com/Unna07/travel-planner-agent"
+  },
+  {
+    "description": "\ud83d\udd27 Discover and integrate AI tools easily with this Node.js registry, featuring a simple setup and ready-to-use component",
+    "id": "Coolfacts45/ai-tools-registry",
+    "language": "TypeScript",
+    "name": "Coolfacts45/ai-tools-registry",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:40:06Z",
+    "url": "https://github.com/Coolfacts45/ai-tools-registry"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 3,
+    "updated_at": "2026-06-01T21:38:13Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "\ud83d\udc19 AI Craft delivers structured workflow prompts for software development across AI platforms, with Claude AI workflows a",
+    "id": "R-cloud-git/ai-craft",
+    "language": "\u2014",
+    "name": "R-cloud-git/ai-craft",
+    "stars": 3,
+    "updated_at": "2026-06-01T21:38:01Z",
+    "url": "https://github.com/R-cloud-git/ai-craft"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 24,
+    "updated_at": "2026-06-01T21:37:34Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 39,
+    "updated_at": "2026-06-01T21:36:37Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+  },
+  {
+    "description": "Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai",
+    "id": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "language": "\u2014",
+    "name": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "stars": 3,
+    "updated_at": "2026-06-01T21:36:31Z",
+    "url": "https://github.com/KingFishyXMesa/fuzz2-producer-ai-angklungmann"
+  },
+  {
+    "description": "A plug-and-play framework for AI-assisted software development, enhancing context-aware collaboration in complex codebas",
+    "id": "MunnaXbadmash/ai-dev-assistant-framework",
+    "language": "\u2014",
+    "name": "MunnaXbadmash/ai-dev-assistant-framework",
+    "stars": 5,
+    "updated_at": "2026-06-01T21:36:12Z",
+    "url": "https://github.com/MunnaXbadmash/ai-dev-assistant-framework"
+  },
+  {
+    "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
+    "id": "Tymooh/GPT-DUEL-ARENA",
+    "language": "\u2014",
+    "name": "Tymooh/GPT-DUEL-ARENA",
+    "stars": 1,
+    "updated_at": "2026-06-01T21:34:32Z",
+    "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21784,
+    "updated_at": "2026-06-01T21:34:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "synapz is a research prototype exploring how large language models can adapt teaching content to different cognitive sty",
+    "id": "xmowgofficial/synapz",
+    "language": "Python",
+    "name": "xmowgofficial/synapz",
+    "stars": 4,
+    "updated_at": "2026-06-01T21:32:40Z",
+    "url": "https://github.com/xmowgofficial/synapz"
+  },
+  {
+    "description": "\ud83e\udd16 ACI - Sistema inteligente para fornecer informa\u00e7\u00f5es sobre servi\u00e7os sociais e outros recursos",
+    "id": "alexparjalex/agente-cidadao-inteligente",
+    "language": "Jupyter Notebook",
+    "name": "alexparjalex/agente-cidadao-inteligente",
+    "stars": 1,
+    "updated_at": "2026-06-01T21:32:08Z",
+    "url": "https://github.com/alexparjalex/agente-cidadao-inteligente"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:30:10Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
@@ -72,15 +288,6 @@
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9948,
-    "updated_at": "2026-06-01T21:24:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
     "id": "Kenny27lokku/prompt-integrity-validator",
     "language": "HTML",
@@ -135,15 +342,6 @@
     "url": "https://github.com/tech-guru254/spec-weaver"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T21:15:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A small, portable CLAUDE.md that makes long Claude Code sessions survive context compaction: write-state-to-disk, five-s",
     "id": "Poorna-Repos/claude-context-survival-kit",
     "language": "\u2014",
@@ -189,15 +387,6 @@
     "url": "https://github.com/bhupendra05/promptci"
   },
   {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 3,
-    "updated_at": "2026-06-01T21:06:02Z",
-    "url": "https://github.com/danlex/suno-lab"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -212,17 +401,8 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 732,
-    "updated_at": "2026-06-01T21:29:56Z",
+    "updated_at": "2026-06-01T21:44:40Z",
     "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "Smart Summarizer is a powerful, AI-driven web application designed to automatically distill lengthy audio, video, YouTub",
-    "id": "fabrizio-ferrentino/smart_summarizer",
-    "language": "TypeScript",
-    "name": "fabrizio-ferrentino/smart_summarizer",
-    "stars": 2,
-    "updated_at": "2026-06-01T21:05:21Z",
-    "url": "https://github.com/fabrizio-ferrentino/smart_summarizer"
   },
   {
     "description": "60 days. 60 prompts. 1 AI. Zero excuses. \u2014 My ABTalks Claude AI Challenge journey.",
@@ -268,185 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T20:56:20Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "A collection of utility scripts and tools that streamline my daily development workflow.",
-    "id": "FarzamMohammadi/dev-toolbox",
-    "language": "Python",
-    "name": "FarzamMohammadi/dev-toolbox",
-    "stars": 1,
-    "updated_at": "2026-06-01T20:53:49Z",
-    "url": "https://github.com/FarzamMohammadi/dev-toolbox"
-  },
-  {
-    "description": "Experimental AI-assisted workflow for turning visual references into maintainable GraphCompose Java templates. Companion",
-    "id": "DemchaAV/graphcompose-ai-flow",
-    "language": "Java",
-    "name": "DemchaAV/graphcompose-ai-flow",
-    "stars": 1,
-    "updated_at": "2026-06-01T20:53:23Z",
-    "url": "https://github.com/DemchaAV/graphcompose-ai-flow"
-  },
-  {
-    "description": "Typed building blocks for everything around your LLM call.",
-    "id": "use-crux/crux",
-    "language": "TypeScript",
-    "name": "use-crux/crux",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:54:20Z",
-    "url": "https://github.com/use-crux/crux"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:50:25Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
-    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "language": "HTML",
-    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:50:19Z",
-    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
-  },
-  {
-    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
-    "id": "Supervertaler/Supervertaler-Workbench",
-    "language": "Python",
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 39,
-    "updated_at": "2026-06-01T20:48:43Z",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
-  },
-  {
-    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
-    "id": "gaofeng21cn/redcube-ai",
-    "language": "TypeScript",
-    "name": "gaofeng21cn/redcube-ai",
-    "stars": 2,
-    "updated_at": "2026-06-01T20:43:10Z",
-    "url": "https://github.com/gaofeng21cn/redcube-ai"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-01T20:40:55Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:40:53Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1277,
-    "updated_at": "2026-06-01T20:38:09Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Here I share my preferred prompts for different AI tools",
-    "id": "ndamulelonemakh/ndamus-prompts",
-    "language": "Python",
-    "name": "ndamulelonemakh/ndamus-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:35:25Z",
-    "url": "https://github.com/ndamulelonemakh/ndamus-prompts"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21783,
-    "updated_at": "2026-06-01T21:30:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Midjourney is a leading AI image generation platform that creates stunning photorealistic and artistic images from text ",
-    "id": "EconomicCastle/Midjourney-2026-cracked",
-    "language": "\u2014",
-    "name": "EconomicCastle/Midjourney-2026-cracked",
-    "stars": 1,
-    "updated_at": "2026-06-01T20:32:54Z",
-    "url": "https://github.com/EconomicCastle/Midjourney-2026-cracked"
-  },
-  {
-    "description": "Core configurations, vector matrices, and algorithmic frameworks for raufayar.net - Optimizing for the Cyber-Culture and",
-    "id": "coreshiftglobal/net",
-    "language": "HTML",
-    "name": "coreshiftglobal/net",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:28:56Z",
-    "url": "https://github.com/coreshiftglobal/net"
-  },
-  {
-    "description": "Professional certifications and credentials earned throughout my career progression across data, analytics, AI, cybersec",
-    "id": "paulbeduosei/MY-CERTIFICATIONS-THROUGHOUT-MY-CAREER-PROGRESSION",
-    "language": "\u2014",
-    "name": "paulbeduosei/MY-CERTIFICATIONS-THROUGHOUT-MY-CAREER-PROGRESSION",
-    "stars": 1,
-    "updated_at": "2026-06-01T20:24:00Z",
-    "url": "https://github.com/paulbeduosei/MY-CERTIFICATIONS-THROUGHOUT-MY-CAREER-PROGRESSION"
-  },
-  {
-    "description": "LLM pipeline that generates technical reports with NotebookLM and auto-evaluates them with the Gemini API across four qu",
-    "id": "leo-statai/ai-generated-content-evaluator",
-    "language": "TeX",
-    "name": "leo-statai/ai-generated-content-evaluator",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:22:58Z",
-    "url": "https://github.com/leo-statai/ai-generated-content-evaluator"
-  },
-  {
-    "description": "\ud83c\udfc6 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cu",
-    "id": "fxMT-nx/El-Primor",
-    "language": "Makefile",
-    "name": "fxMT-nx/El-Primor",
-    "stars": 1,
-    "updated_at": "2026-06-01T20:22:54Z",
-    "url": "https://github.com/fxMT-nx/El-Primor"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
-    "id": "event4u-app/agent-config",
-    "language": "Python",
-    "name": "event4u-app/agent-config",
-    "stars": 6,
-    "updated_at": "2026-06-01T20:21:35Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
-    "id": "dgenio/contextweaver",
-    "language": "Python",
-    "name": "dgenio/contextweaver",
-    "stars": 6,
-    "updated_at": "2026-06-01T21:15:09Z",
-    "url": "https://github.com/dgenio/contextweaver"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 1,
-    "updated_at": "2026-06-01T20:19:28Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
   }
 ]
