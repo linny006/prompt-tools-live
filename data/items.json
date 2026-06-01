@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83c\udfad 211 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 16 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 18 \u4e2a\u90e8\u95e8\u3002\u542b 46 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
+    "id": "jnMetaCode/agency-agents-zh",
+    "language": "Shell",
+    "name": "jnMetaCode/agency-agents-zh",
+    "stars": 13522,
+    "updated_at": "2026-06-01T14:41:21Z",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh"
+  },
+  {
+    "description": "Evidence-first multi-agent debate skill: get a second opinion by pitting Codex \u00d7 Claude Code (or GLM/DeepSeek/Qwen) to i",
+    "id": "zhjai/agent-arena",
+    "language": "\u2014",
+    "name": "zhjai/agent-arena",
+    "stars": 24,
+    "updated_at": "2026-06-01T14:32:36Z",
+    "url": "https://github.com/zhjai/agent-arena"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:30:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 5,
+    "updated_at": "2026-06-01T14:41:10Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
     "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
     "id": "Supervertaler/Supervertaler-Workbench",
     "language": "Python",
@@ -18,13 +54,13 @@
     "url": "https://github.com/tanghua-git/skill-ai-prompt-architect"
   },
   {
-    "description": "\ud83c\udfad 211 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 16 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 18 \u4e2a\u90e8\u95e8\u3002\u542b 46 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
-    "id": "jnMetaCode/agency-agents-zh",
-    "language": "Shell",
-    "name": "jnMetaCode/agency-agents-zh",
-    "stars": 13522,
-    "updated_at": "2026-06-01T14:22:38Z",
-    "url": "https://github.com/jnMetaCode/agency-agents-zh"
+    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
+    "id": "AditthyaSS/iloveAgents",
+    "language": "JavaScript",
+    "name": "AditthyaSS/iloveAgents",
+    "stars": 84,
+    "updated_at": "2026-06-01T14:20:43Z",
+    "url": "https://github.com/AditthyaSS/iloveAgents"
   },
   {
     "description": "Universal multi-agent infrastructure for AI coding assistants. 25 specialist agents, 16 enforced workflow skills, and a ",
@@ -36,22 +72,31 @@
     "url": "https://github.com/RBraga01/a-team"
   },
   {
-    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
-    "id": "AditthyaSS/iloveAgents",
-    "language": "JavaScript",
-    "name": "AditthyaSS/iloveAgents",
-    "stars": 84,
-    "updated_at": "2026-06-01T14:20:43Z",
-    "url": "https://github.com/AditthyaSS/iloveAgents"
+    "description": "",
+    "id": "jpoindexter/theft-kit",
+    "language": "HTML",
+    "name": "jpoindexter/theft-kit",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:15:48Z",
+    "url": "https://github.com/jpoindexter/theft-kit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
+    "description": "Battle-tested CLAUDE.md & .cursorrules configs for Claude Code and Cursor. Make your AI coding agent act like a senior e",
+    "id": "devloadout/awesome-claude-code-configs",
+    "language": "\u2014",
+    "name": "devloadout/awesome-claude-code-configs",
     "stars": 0,
-    "updated_at": "2026-06-01T14:15:41Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "updated_at": "2026-06-01T14:15:31Z",
+    "url": "https://github.com/devloadout/awesome-claude-code-configs"
+  },
+  {
+    "description": "Comprehensive, production-tested guide to Claude Code (Anthropic CLI). 240+ proven patterns, 25 hook events, 59 chapters",
+    "id": "ytrofr/claude-code-guide",
+    "language": "Shell",
+    "name": "ytrofr/claude-code-guide",
+    "stars": 6,
+    "updated_at": "2026-06-01T14:14:56Z",
+    "url": "https://github.com/ytrofr/claude-code-guide"
   },
   {
     "description": "icmg: AI context graph CLI \u2014 memory, graphs, hooks, MCP. 1256/1256 tests, 28 MCP tools, Apache-2.0.",
@@ -61,6 +106,24 @@
     "stars": 3,
     "updated_at": "2026-06-01T14:14:37Z",
     "url": "https://github.com/ncmonx/icemage"
+  },
+  {
+    "description": "Detects and rewrites AI writing patterns in Korean, English, Chinese, and Japanese. Runs as a skill for Claude Code, Cod",
+    "id": "devswha/patina",
+    "language": "JavaScript",
+    "name": "devswha/patina",
+    "stars": 121,
+    "updated_at": "2026-06-01T14:14:28Z",
+    "url": "https://github.com/devswha/patina"
+  },
+  {
+    "description": "Turn a raw idea into a plan you can build. A multi-agent brainstorming methodology \u2014 isolated critique, fact-checking, a",
+    "id": "winchxyz/idea-to-build",
+    "language": "Shell",
+    "name": "winchxyz/idea-to-build",
+    "stars": 3,
+    "updated_at": "2026-06-01T14:13:49Z",
+    "url": "https://github.com/winchxyz/idea-to-build"
   },
   {
     "description": "The largest universal agent skill library - 500+ production-ready skills across 14 categories. Supports 13 platforms inc",
@@ -113,7 +176,7 @@
     "language": "\u2014",
     "name": "wukun2005-gif/ai-skills",
     "stars": 2,
-    "updated_at": "2026-06-01T14:03:10Z",
+    "updated_at": "2026-06-01T14:31:05Z",
     "url": "https://github.com/wukun2005-gif/ai-skills"
   },
   {
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "danlex/suno-lab",
     "stars": 3,
-    "updated_at": "2026-06-01T14:03:03Z",
+    "updated_at": "2026-06-01T14:31:27Z",
     "url": "https://github.com/danlex/suno-lab"
   },
   {
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9941,
-    "updated_at": "2026-06-01T14:01:26Z",
+    "updated_at": "2026-06-01T14:31:26Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -193,7 +256,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28312,
+    "stars": 28313,
     "updated_at": "2026-06-01T13:57:31Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T13:48:11Z",
     "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:47:56Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:47:56Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:47:55Z",
-    "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:47:54Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:47:51Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:47:35Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:46:59Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
   }
 ]
