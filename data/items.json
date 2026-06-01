@@ -1,5 +1,113 @@
 [
   {
+    "description": "43 composable skills that turn an AI coding agent into a product team \u2014 research, marketing, product, and meta-process. ",
+    "id": "hungv47/meta-skills",
+    "language": "TypeScript",
+    "name": "hungv47/meta-skills",
+    "stars": 10,
+    "updated_at": "2026-06-01T06:28:14Z",
+    "url": "https://github.com/hungv47/meta-skills"
+  },
+  {
+    "description": "Two lines of code to give your LLM eyes. One attribute.",
+    "id": "askable-ui/askable",
+    "language": "TypeScript",
+    "name": "askable-ui/askable",
+    "stars": 9,
+    "updated_at": "2026-06-01T06:28:00Z",
+    "url": "https://github.com/askable-ui/askable"
+  },
+  {
+    "description": "\u4e2d\u6587 AI \u5f00\u53d1\u8005\u5de5\u5177\u5b9e\u8df5\u6a21\u677f\u5e93\uff1aPR review\u3001issue triage\u3001\u6d4b\u8bd5\u751f\u6210\u3001\u6587\u6863\u7ef4\u62a4\u3001release \u548c\u5de5\u5177\u8bc4\u4f30\u5de5\u4f5c\u6d41\u3002",
+    "id": "ONEISALL7/ai-devtools-cn",
+    "language": "JavaScript",
+    "name": "ONEISALL7/ai-devtools-cn",
+    "stars": 3,
+    "updated_at": "2026-06-01T06:24:59Z",
+    "url": "https://github.com/ONEISALL7/ai-devtools-cn"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 15,
+    "updated_at": "2026-06-01T06:24:09Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21759,
+    "updated_at": "2026-06-01T06:28:45Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Multi-Objective Prompt Debugging for Realistic, Diverse, and Attribute-Controlled Synthetic Data Generation",
+    "id": "ApartsinProjects/PromptForge",
+    "language": "Python",
+    "name": "ApartsinProjects/PromptForge",
+    "stars": 0,
+    "updated_at": "2026-06-01T06:19:45Z",
+    "url": "https://github.com/ApartsinProjects/PromptForge"
+  },
+  {
+    "description": "Open-source AI operations toolkit for small education providers: prompts, schemas, LINE bot/CLI demos, evals, and privac",
+    "id": "ting07081010-ui/moosie-eduops-ai-kit",
+    "language": "JavaScript",
+    "name": "ting07081010-ui/moosie-eduops-ai-kit",
+    "stars": 1,
+    "updated_at": "2026-06-01T06:18:25Z",
+    "url": "https://github.com/ting07081010-ui/moosie-eduops-ai-kit"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26221,
+    "updated_at": "2026-06-01T06:18:47Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
+    "id": "herreravalenz6620/context-compression",
+    "language": "Python",
+    "name": "herreravalenz6620/context-compression",
+    "stars": 1,
+    "updated_at": "2026-06-01T06:16:30Z",
+    "url": "https://github.com/herreravalenz6620/context-compression"
+  },
+  {
+    "description": "Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser.",
+    "id": "Opsn5528/vibe-coding-claude-md",
+    "language": "HTML",
+    "name": "Opsn5528/vibe-coding-claude-md",
+    "stars": 1,
+    "updated_at": "2026-06-01T06:16:13Z",
+    "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
+  },
+  {
+    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
+    "id": "Rickardserrulate236/portfolio-dumper",
+    "language": "HTML",
+    "name": "Rickardserrulate236/portfolio-dumper",
+    "stars": 1,
+    "updated_at": "2026-06-01T06:16:09Z",
+    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T06:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
     "id": "ajayfastfooted329/claude-linkedin-post-creator",
     "language": "\u2014",
@@ -16,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T06:15:17Z",
     "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21758,
-    "updated_at": "2026-06-01T06:14:48Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
@@ -52,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T06:13:52Z",
     "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Two lines of code to give your LLM eyes. One attribute.",
-    "id": "askable-ui/askable",
-    "language": "TypeScript",
-    "name": "askable-ui/askable",
-    "stars": 9,
-    "updated_at": "2026-06-01T06:13:45Z",
-    "url": "https://github.com/askable-ui/askable"
   },
   {
     "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
@@ -178,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T06:12:08Z",
     "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 15,
-    "updated_at": "2026-06-01T06:12:03Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
     "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-01T06:08:22Z",
     "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Catalog physical media collections into portable knowledge bases for LLM context windows to improve AI awareness of your",
-    "id": "Bennyvibrionic5714/llmbrary",
-    "language": "Python",
-    "name": "Bennyvibrionic5714/llmbrary",
-    "stars": 0,
-    "updated_at": "2026-06-01T06:08:07Z",
-    "url": "https://github.com/Bennyvibrionic5714/llmbrary"
-  },
-  {
-    "description": "Optimize development performance by stripping away unnecessary abstractions and focusing on raw code execution.",
-    "id": "Ricarddefensive803/caveman-skill",
-    "language": "\u2014",
-    "name": "Ricarddefensive803/caveman-skill",
-    "stars": 1,
-    "updated_at": "2026-06-01T06:07:49Z",
-    "url": "https://github.com/Ricarddefensive803/caveman-skill"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 1,
-    "updated_at": "2026-06-01T06:07:48Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Standardize AI agent behavior across IDEs and CLI tools using a single configuration file to reduce token usage and buil",
-    "id": "opticalmaserpreachment710/agents-evolution",
-    "language": "PowerShell",
-    "name": "opticalmaserpreachment710/agents-evolution",
-    "stars": 1,
-    "updated_at": "2026-06-01T06:07:37Z",
-    "url": "https://github.com/opticalmaserpreachment710/agents-evolution"
-  },
-  {
-    "description": "Organize AI conversations into clean, structured threads to refine context and improve model output quality.",
-    "id": "Robertmyerkesextremist950/metaprompt",
-    "language": "HTML",
-    "name": "Robertmyerkesextremist950/metaprompt",
-    "stars": 1,
-    "updated_at": "2026-06-01T06:07:27Z",
-    "url": "https://github.com/Robertmyerkesextremist950/metaprompt"
-  },
-  {
-    "description": "Archive 126+ iterative Suno AI music prompts with structural metatags, style descriptions, and engineering notes for imp",
-    "id": "Defectlameness737/suno-lab",
-    "language": "\u2014",
-    "name": "Defectlameness737/suno-lab",
-    "stars": 0,
-    "updated_at": "2026-06-01T06:07:27Z",
-    "url": "https://github.com/Defectlameness737/suno-lab"
-  },
-  {
-    "description": "Create high-quality images and art from text prompts using this local desktop application for digital artists and develo",
-    "id": "Delcinetimberframed513/Image-AI-Generator-2026",
-    "language": "\u2014",
-    "name": "Delcinetimberframed513/Image-AI-Generator-2026",
-    "stars": 2,
-    "updated_at": "2026-06-01T06:07:27Z",
-    "url": "https://github.com/Delcinetimberframed513/Image-AI-Generator-2026"
-  },
-  {
-    "description": "Reverse-engineer your decision-making and communication patterns to create a reusable AI system prompt that captures you",
-    "id": "elhadidykhalid1601-droid/digital-twin-of-yourself",
-    "language": "\u2014",
-    "name": "elhadidykhalid1601-droid/digital-twin-of-yourself",
-    "stars": 3,
-    "updated_at": "2026-06-01T06:07:25Z",
-    "url": "https://github.com/elhadidykhalid1601-droid/digital-twin-of-yourself"
-  },
-  {
-    "description": "Reduce AI token usage by 65 percent. This Claude Code skill trims filler and pleasantries while keeping technical conten",
-    "id": "salvageable-mutualfund57/caveman-distillate",
-    "language": "\u2014",
-    "name": "salvageable-mutualfund57/caveman-distillate",
-    "stars": 1,
-    "updated_at": "2026-06-01T06:07:20Z",
-    "url": "https://github.com/salvageable-mutualfund57/caveman-distillate"
   }
 ]
