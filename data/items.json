@@ -1,5 +1,104 @@
 [
   {
+    "description": "Examples of prompts for Microsoft Copilot",
+    "id": "pnp/copilot-prompts",
+    "language": "\u2014",
+    "name": "pnp/copilot-prompts",
+    "stars": 606,
+    "updated_at": "2026-06-01T03:30:18Z",
+    "url": "https://github.com/pnp/copilot-prompts"
+  },
+  {
+    "description": "A hierarchical reference map of the AI engineering field \u2014 20 chapters, ~250 topics, each with What it is, where it's us",
+    "id": "matolks/AI-engineering",
+    "language": "HTML",
+    "name": "matolks/AI-engineering",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:26:33Z",
+    "url": "https://github.com/matolks/AI-engineering"
+  },
+  {
+    "description": "\u4e2d\u6587 AI \u5f00\u53d1\u8005\u5de5\u5177\u5b9e\u8df5\u6a21\u677f\u5e93\uff1aPR review\u3001issue triage\u3001\u6d4b\u8bd5\u751f\u6210\u3001\u6587\u6863\u7ef4\u62a4\u3001release \u548c\u5de5\u5177\u8bc4\u4f30\u5de5\u4f5c\u6d41\u3002",
+    "id": "ONEISALL7/ai-devtools-cn",
+    "language": "JavaScript",
+    "name": "ONEISALL7/ai-devtools-cn",
+    "stars": 3,
+    "updated_at": "2026-06-01T03:25:24Z",
+    "url": "https://github.com/ONEISALL7/ai-devtools-cn"
+  },
+  {
+    "description": "Local SQLite ledger for AI prompts, responses, outcomes, and dashboard exports.",
+    "id": "rzigante/promptledger",
+    "language": "Python",
+    "name": "rzigante/promptledger",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:24:52Z",
+    "url": "https://github.com/rzigante/promptledger"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 25205,
+    "updated_at": "2026-06-01T03:24:25Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 5,
+    "updated_at": "2026-06-01T03:23:51Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 11,
+    "updated_at": "2026-06-01T03:21:21Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "Awesome bilingual GPT Image 2 prompt gallery \u2014 118 real image examples with OpenAI-compatible HiAPI requests. Built for ",
+    "id": "HiAPIAI/awesome-gpt-image-2-prompts",
+    "language": "JavaScript",
+    "name": "HiAPIAI/awesome-gpt-image-2-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-01T03:20:08Z",
+    "url": "https://github.com/HiAPIAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "description": "CRUMB is the copy-paste AI handoff format. Switch AIs without losing the plot.",
+    "id": "XioAISolutions/crumb-format",
+    "language": "Python",
+    "name": "XioAISolutions/crumb-format",
+    "stars": 1,
+    "updated_at": "2026-06-01T03:18:00Z",
+    "url": "https://github.com/XioAISolutions/crumb-format"
+  },
+  {
+    "description": "Experimental SillyTavern extension for human intrusion and AI anomaly awareness in roleplay.",
+    "id": "xiaoke5211-star/vistr-tavern",
+    "language": "JavaScript",
+    "name": "xiaoke5211-star/vistr-tavern",
+    "stars": 3,
+    "updated_at": "2026-06-01T03:17:55Z",
+    "url": "https://github.com/xiaoke5211-star/vistr-tavern"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Unified OpenAI-compatible AI gateway for 10+ providers \u2014 with prompt workflows (Action/Template), quality monitoring, an",
     "id": "tripplemay/aigcgateway",
     "language": "TypeScript",
@@ -18,15 +117,6 @@
     "url": "https://github.com/ApolloEagle/smooth-brain"
   },
   {
-    "description": "\u4e2d\u6587 AI \u5f00\u53d1\u8005\u5de5\u5177\u5b9e\u8df5\u6a21\u677f\u5e93\uff1aPR review\u3001issue triage\u3001\u6d4b\u8bd5\u751f\u6210\u3001\u6587\u6863\u7ef4\u62a4\u3001release \u548c\u5de5\u5177\u8bc4\u4f30\u5de5\u4f5c\u6d41\u3002",
-    "id": "ONEISALL7/ai-devtools-cn",
-    "language": "JavaScript",
-    "name": "ONEISALL7/ai-devtools-cn",
-    "stars": 3,
-    "updated_at": "2026-06-01T03:14:27Z",
-    "url": "https://github.com/ONEISALL7/ai-devtools-cn"
-  },
-  {
     "description": "A Claude Code plugin that gives Claude a memory: it remembers your corrections, turns the repeated ones into principles,",
     "id": "WinterDDo/claude-skill-flywheel",
     "language": "Python",
@@ -34,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-01T03:10:46Z",
     "url": "https://github.com/WinterDDo/claude-skill-flywheel"
-  },
-  {
-    "description": "A hierarchical reference map of the AI engineering field \u2014 20 chapters, ~250 topics, each with What it is, where it's us",
-    "id": "matolks/AI-engineering",
-    "language": "HTML",
-    "name": "matolks/AI-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-01T03:08:17Z",
-    "url": "https://github.com/matolks/AI-engineering"
   },
   {
     "description": "A set of agentic CLI SKILLS.md files",
@@ -70,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-06-01T03:00:39Z",
     "url": "https://github.com/hoainho/iamhumans"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T03:00:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI animation storyboard and visual workflow studio for script generation, image/video generation, ComfyUI, and creator p",
@@ -113,7 +185,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21754,
-    "updated_at": "2026-06-01T03:13:28Z",
+    "updated_at": "2026-06-01T03:22:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -131,7 +203,7 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 6,
-    "updated_at": "2026-06-01T02:52:01Z",
+    "updated_at": "2026-06-01T03:29:12Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -178,15 +250,6 @@
     "stars": 8,
     "updated_at": "2026-06-01T02:48:14Z",
     "url": "https://github.com/hwl668/Scientific-learning-skills-"
-  },
-  {
-    "description": "Examples of prompts for Microsoft Copilot",
-    "id": "pnp/copilot-prompts",
-    "language": "\u2014",
-    "name": "pnp/copilot-prompts",
-    "stars": 606,
-    "updated_at": "2026-06-01T02:46:12Z",
-    "url": "https://github.com/pnp/copilot-prompts"
   },
   {
     "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
@@ -266,7 +329,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 2,
-    "updated_at": "2026-06-01T02:31:49Z",
+    "updated_at": "2026-06-01T03:23:01Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -277,15 +340,6 @@
     "stars": 49,
     "updated_at": "2026-06-01T02:30:06Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 5,
-    "updated_at": "2026-06-01T02:29:58Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
   },
   {
     "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
@@ -301,7 +355,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 3105,
+    "stars": 3111,
     "updated_at": "2026-06-01T02:29:11Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T02:24:56Z",
     "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:24:40Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:24:16Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-06-01T02:24:13Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Generate production-ready UGC video ad prompts for Higgsfield AI Marketing Studio from your reference images and product",
-    "id": "carreras66848657/claude-skill-ugc-prompt",
-    "language": "\u2014",
-    "name": "carreras66848657/claude-skill-ugc-prompt",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:23:56Z",
-    "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-01T02:23:52Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:23:48Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
   }
 ]
