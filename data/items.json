@@ -1,12 +1,57 @@
 [
   {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 39,
+    "updated_at": "2026-06-01T14:28:06Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+  },
+  {
+    "description": "AI\u7ed8\u753b\u63d0\u793a\u8bcd\u8bbe\u8ba1\u52a9\u624b\u6280\u80fd\u3002\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u751f\u6210\u9ad8\u8d28\u91cfAI\u7ed8\u753b\u63d0\u793a\u8bcd\uff0c\u57fa\u4e8e345\u7bc7\u77e5\u8bc6\u84b8\u998f\uff08Midjourney/Nano Banana/Gemini/\u5373\u68a6AI\u7b49\uff09\u3002AI prompt architect for OpenClaw - mult",
+    "id": "tanghua-git/skill-ai-prompt-architect",
+    "language": "\u2014",
+    "name": "tanghua-git/skill-ai-prompt-architect",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:27:37Z",
+    "url": "https://github.com/tanghua-git/skill-ai-prompt-architect"
+  },
+  {
     "description": "\ud83c\udfad 211 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 16 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 18 \u4e2a\u90e8\u95e8\u3002\u542b 46 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
     "id": "jnMetaCode/agency-agents-zh",
     "language": "Shell",
     "name": "jnMetaCode/agency-agents-zh",
-    "stars": 13520,
-    "updated_at": "2026-06-01T14:15:27Z",
+    "stars": 13522,
+    "updated_at": "2026-06-01T14:22:38Z",
     "url": "https://github.com/jnMetaCode/agency-agents-zh"
+  },
+  {
+    "description": "Universal multi-agent infrastructure for AI coding assistants. 25 specialist agents, 16 enforced workflow skills, and a ",
+    "id": "RBraga01/a-team",
+    "language": "JavaScript",
+    "name": "RBraga01/a-team",
+    "stars": 2,
+    "updated_at": "2026-06-01T14:17:47Z",
+    "url": "https://github.com/RBraga01/a-team"
+  },
+  {
+    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
+    "id": "AditthyaSS/iloveAgents",
+    "language": "JavaScript",
+    "name": "AditthyaSS/iloveAgents",
+    "stars": 84,
+    "updated_at": "2026-06-01T14:20:43Z",
+    "url": "https://github.com/AditthyaSS/iloveAgents"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:15:41Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "icmg: AI context graph CLI \u2014 memory, graphs, hooks, MCP. 1256/1256 tests, 28 MCP tools, Apache-2.0.",
@@ -18,11 +63,20 @@
     "url": "https://github.com/ncmonx/icemage"
   },
   {
+    "description": "The largest universal agent skill library - 500+ production-ready skills across 14 categories. Supports 13 platforms inc",
+    "id": "badhope/AI-SKILL",
+    "language": "Python",
+    "name": "badhope/AI-SKILL",
+    "stars": 10,
+    "updated_at": "2026-06-01T14:08:22Z",
+    "url": "https://github.com/badhope/AI-SKILL"
+  },
+  {
     "description": "Agent Package Manager",
     "id": "microsoft/apm",
     "language": "Python",
     "name": "microsoft/apm",
-    "stars": 2714,
+    "stars": 2715,
     "updated_at": "2026-06-01T14:08:07Z",
     "url": "https://github.com/microsoft/apm"
   },
@@ -63,6 +117,15 @@
     "url": "https://github.com/wukun2005-gif/ai-skills"
   },
   {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 3,
+    "updated_at": "2026-06-01T14:03:03Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
     "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
     "id": "event4u-app/agent-config",
     "language": "Python",
@@ -72,13 +135,31 @@
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
+    "name": "Arize-ai/phoenix",
+    "stars": 9941,
+    "updated_at": "2026-06-01T14:01:26Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4251,
+    "updated_at": "2026-06-01T14:01:11Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "agentic harness for qwen3.5 with context size of 16384 tokens with a focus on context management(WIP)",
+    "id": "tmijieux/ai-chat",
+    "language": "Python",
+    "name": "tmijieux/ai-chat",
     "stars": 0,
-    "updated_at": "2026-06-01T14:00:41Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "updated_at": "2026-06-01T14:01:00Z",
+    "url": "https://github.com/tmijieux/ai-chat"
   },
   {
     "description": "The canonical standard for building production-grade agentic products \u2014 autonomy ladder, composition patterns, the 7-lay",
@@ -97,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T13:59:46Z",
     "url": "https://github.com/kishore-code-create/claude_ai_repo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9940,
-    "updated_at": "2026-06-01T14:01:26Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Are you using Claude Code to its full potential? This methodology \u2014 55 hooks, Evidence Policy, 14 agent teams \u2014 was buil",
@@ -160,6 +232,15 @@
     "stars": 9,
     "updated_at": "2026-06-01T13:53:24Z",
     "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
+    "id": "herreravalenz6620/context-compression",
+    "language": "Python",
+    "name": "herreravalenz6620/context-compression",
+    "stars": 1,
+    "updated_at": "2026-06-01T13:52:46Z",
+    "url": "https://github.com/herreravalenz6620/context-compression"
   },
   {
     "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T13:46:59Z",
     "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:46:58Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
-    "id": "Supervertaler/Supervertaler-Workbench",
-    "language": "Python",
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 39,
-    "updated_at": "2026-06-01T14:04:48Z",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:46:32Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:46:03Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "v1.0 stable: architecture-first CLI for shipping software with continuity. Seven-phase workflow, six-role forge orchestr",
-    "id": "hrabanazviking/Viking-Code-Mythic-Engineering-CLI-Vibe-Coding",
-    "language": "Python",
-    "name": "hrabanazviking/Viking-Code-Mythic-Engineering-CLI-Vibe-Coding",
-    "stars": 3,
-    "updated_at": "2026-06-01T13:46:03Z",
-    "url": "https://github.com/hrabanazviking/Viking-Code-Mythic-Engineering-CLI-Vibe-Coding"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-06-01T13:45:58Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:45:57Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Connect Last9 observability data to Cursor via MCP to debug production logs, metrics, and traces directly in your editor",
-    "id": "Christianly-bar1265/cursor-plugin",
-    "language": "\u2014",
-    "name": "Christianly-bar1265/cursor-plugin",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:45:20Z",
-    "url": "https://github.com/Christianly-bar1265/cursor-plugin"
-  },
-  {
-    "description": "Experimental AI-assisted workflow for turning visual references into maintainable GraphCompose Java templates. Companion",
-    "id": "DemchaAV/graphcompose-ai-flow",
-    "language": "Java",
-    "name": "DemchaAV/graphcompose-ai-flow",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:45:20Z",
-    "url": "https://github.com/DemchaAV/graphcompose-ai-flow"
   }
 ]
