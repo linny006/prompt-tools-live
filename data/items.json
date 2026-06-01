@@ -1,5 +1,122 @@
 [
   {
+    "description": "WebUI-style prompt editor for ComfyUI / ComfyUI \u7684 WebUI \u5f0f\u63d0\u793a\u8bcd\u7f16\u8f91\u3001\u7ffb\u8bd1\u3001\u8865\u5168\u3001\u6536\u85cf\u548c LoRA \u6865\u63a5\u8282\u70b9",
+    "id": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge",
+    "language": "JavaScript",
+    "name": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge",
+    "stars": 6,
+    "updated_at": "2026-06-01T11:00:21Z",
+    "url": "https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-01T11:00:15Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
+    "id": "event4u-app/agent-config",
+    "language": "Python",
+    "name": "event4u-app/agent-config",
+    "stars": 6,
+    "updated_at": "2026-06-01T11:00:12Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26227,
+    "updated_at": "2026-06-01T10:59:28Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-01T10:59:25Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "",
+    "id": "FRancesco0004/Brain-freeze",
+    "language": "\u2014",
+    "name": "FRancesco0004/Brain-freeze",
+    "stars": 0,
+    "updated_at": "2026-06-01T10:58:36Z",
+    "url": "https://github.com/FRancesco0004/Brain-freeze"
+  },
+  {
+    "description": "Multi-Objective Prompt Debugging for Realistic, Diverse, and Attribute-Controlled Synthetic Data Generation",
+    "id": "ApartsinProjects/PromptForge",
+    "language": "Python",
+    "name": "ApartsinProjects/PromptForge",
+    "stars": 1,
+    "updated_at": "2026-06-01T10:56:07Z",
+    "url": "https://github.com/ApartsinProjects/PromptForge"
+  },
+  {
+    "description": "Experimental AI-assisted workflow for turning visual references into maintainable GraphCompose Java templates. Companion",
+    "id": "DemchaAV/graphcompose-ai-flow",
+    "language": "Java",
+    "name": "DemchaAV/graphcompose-ai-flow",
+    "stars": 0,
+    "updated_at": "2026-06-01T10:54:22Z",
+    "url": "https://github.com/DemchaAV/graphcompose-ai-flow"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19417,
+    "updated_at": "2026-06-01T10:58:20Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "icmg: AI context graph CLI \u2014 memory, graphs, hooks, MCP. 1256/1256 tests, 28 MCP tools, Apache-2.0.",
+    "id": "ncmonx/icemage",
+    "language": "C++",
+    "name": "ncmonx/icemage",
+    "stars": 3,
+    "updated_at": "2026-06-01T10:53:46Z",
+    "url": "https://github.com/ncmonx/icemage"
+  },
+  {
+    "description": "A curated collection of reusable AI skills, prompts, and agent configurations. Portable across AI coding assistants and ",
+    "id": "anthril/official-claude-plugins",
+    "language": "Shell",
+    "name": "anthril/official-claude-plugins",
+    "stars": 3,
+    "updated_at": "2026-06-01T10:52:00Z",
+    "url": "https://github.com/anthril/official-claude-plugins"
+  },
+  {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-06-01T10:50:18Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T10:45:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Local two-stage preflight validator for coding-agent dispatch prompts. Gate 1 checks prompt structure (9 criteria). Gate",
     "id": "Hailedllama-oss/two-gate-dispatch",
     "language": "Python",
@@ -23,7 +140,7 @@
     "language": "Python",
     "name": "madara88645/Compiler",
     "stars": 24,
-    "updated_at": "2026-06-01T10:42:31Z",
+    "updated_at": "2026-06-01T10:54:17Z",
     "url": "https://github.com/madara88645/Compiler"
   },
   {
@@ -32,17 +149,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3275,
-    "updated_at": "2026-06-01T10:45:21Z",
+    "updated_at": "2026-06-01T10:51:39Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Multi-Objective Prompt Debugging for Realistic, Diverse, and Attribute-Controlled Synthetic Data Generation",
-    "id": "ApartsinProjects/PromptForge",
-    "language": "Python",
-    "name": "ApartsinProjects/PromptForge",
-    "stars": 1,
-    "updated_at": "2026-06-01T10:41:01Z",
-    "url": "https://github.com/ApartsinProjects/PromptForge"
   },
   {
     "description": "30 \u5c81\u4e0d\u61c2\u4ee3\u7801\u7684\u666e\u901a\u4eba\uff0c\u7528 Claude Code \u8dd1\u51fa\u8d85\u8d8a\u5b98\u65b9\u7684\u65b9\u6cd5\u8bba \u00b7 \u666e\u901a\u4eba\u7528 AI \u5b9e\u6218\u8d44\u6599\u7ad9",
@@ -77,7 +185,7 @@
     "language": "JavaScript",
     "name": "ONEISALL7/ai-devtools-cn",
     "stars": 3,
-    "updated_at": "2026-06-01T10:36:06Z",
+    "updated_at": "2026-06-01T10:55:32Z",
     "url": "https://github.com/ONEISALL7/ai-devtools-cn"
   },
   {
@@ -115,15 +223,6 @@
     "stars": 106,
     "updated_at": "2026-06-01T10:31:21Z",
     "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T10:30:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -293,7 +392,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28305,
-    "updated_at": "2026-06-01T10:03:05Z",
+    "updated_at": "2026-06-01T10:59:49Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -310,7 +409,7 @@
     "id": "Open-Less/openless",
     "language": "HTML",
     "name": "Open-Less/openless",
-    "stars": 1987,
+    "stars": 1988,
     "updated_at": "2026-06-01T10:00:49Z",
     "url": "https://github.com/Open-Less/openless"
   },
@@ -333,15 +432,6 @@
     "url": "https://github.com/sanjayrkshetty/claude-code-best-practices"
   },
   {
-    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
-    "id": "event4u-app/agent-config",
-    "language": "Python",
-    "name": "event4u-app/agent-config",
-    "stars": 6,
-    "updated_at": "2026-06-01T10:21:59Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "Prompt diagnosis judgment \u2014 identify why a prompt failed (task mixing, goal ambiguity, context gap), not just suggest fo",
     "id": "aikdna/kdna-prompt_diagnosis",
     "language": "\u2014",
@@ -358,95 +448,5 @@
     "stars": 12343,
     "updated_at": "2026-06-01T09:45:16Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "From raw concept to finished deliverables. A collection of general-purpose autonomous methodologies that execute complex",
-    "id": "carbonshow/intent-fluid",
-    "language": "JavaScript",
-    "name": "carbonshow/intent-fluid",
-    "stars": 6,
-    "updated_at": "2026-06-01T09:44:10Z",
-    "url": "https://github.com/carbonshow/intent-fluid"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 6624,
-    "updated_at": "2026-06-01T10:45:25Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 3,
-    "updated_at": "2026-06-01T09:43:03Z",
-    "url": "https://github.com/danlex/suno-lab"
-  },
-  {
-    "description": "ArifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA architecture: Architect \u00b7 Auditor \u00b7 Agent. Built for t",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 44,
-    "updated_at": "2026-06-01T09:42:49Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19417,
-    "updated_at": "2026-06-01T10:41:34Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\u7167\u5996\u955c \u00b7 Mirror Skill \u2014 Identify gap, recommend optimal elimination, converge in multiple rounds. A single Claude Code Skil",
-    "id": "290963249/zhaoyaojing",
-    "language": "\u2014",
-    "name": "290963249/zhaoyaojing",
-    "stars": 2,
-    "updated_at": "2026-06-01T09:40:11Z",
-    "url": "https://github.com/290963249/zhaoyaojing"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 8,
-    "updated_at": "2026-06-01T09:40:03Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "Trinity AI\u534f\u4f5c\u6846\u67b6 \u2014 \u57fa\u4e8e\u51b3\u7b56\u8005-\u89c4\u5212\u8005-\u6267\u884c\u8005\u4e09\u5c42\u89d2\u8272\u5206\u79bb\u7684\u4eba\u673a\u534f\u4f5c\u7cfb\u7edf\u3002",
-    "id": "Buzhidao11145/Trinity-Collaboration-Framework",
-    "language": "\u2014",
-    "name": "Buzhidao11145/Trinity-Collaboration-Framework",
-    "stars": 2,
-    "updated_at": "2026-06-01T09:39:42Z",
-    "url": "https://github.com/Buzhidao11145/Trinity-Collaboration-Framework"
-  },
-  {
-    "description": "AI prompt management platform. Build, version, and share dynamic LLM prompts",
-    "id": "itsyasirkhandev/promptamist-rebuild",
-    "language": "TypeScript",
-    "name": "itsyasirkhandev/promptamist-rebuild",
-    "stars": 2,
-    "updated_at": "2026-06-01T09:39:18Z",
-    "url": "https://github.com/itsyasirkhandev/promptamist-rebuild"
-  },
-  {
-    "description": "AI-powered Android learning app with OpenAI GPT integration, quiz generation, flashcards, 7-day study plans, user profil",
-    "id": "Vamshi-Gollapelly/LLMLearningAssistant",
-    "language": "Java",
-    "name": "Vamshi-Gollapelly/LLMLearningAssistant",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:37:37Z",
-    "url": "https://github.com/Vamshi-Gollapelly/LLMLearningAssistant"
   }
 ]
