@@ -1,5 +1,158 @@
 [
   {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:44:53Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
+    "id": "T-Stephen/ai-mql-engine",
+    "language": "JavaScript",
+    "name": "T-Stephen/ai-mql-engine",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:44:51Z",
+    "url": "https://github.com/T-Stephen/ai-mql-engine"
+  },
+  {
+    "description": "A lightweight CLI tool that copies staged git diffs and custom rules to the clipboard for AI-assisted commit generation.",
+    "id": "0Crazy-0/gdiff",
+    "language": "Shell",
+    "name": "0Crazy-0/gdiff",
+    "stars": 1,
+    "updated_at": "2026-06-01T03:45:13Z",
+    "url": "https://github.com/0Crazy-0/gdiff"
+  },
+  {
+    "description": "\u4e2d\u6587 AI \u5f00\u53d1\u8005\u5de5\u5177\u5b9e\u8df5\u6a21\u677f\u5e93\uff1aPR review\u3001issue triage\u3001\u6d4b\u8bd5\u751f\u6210\u3001\u6587\u6863\u7ef4\u62a4\u3001release \u548c\u5de5\u5177\u8bc4\u4f30\u5de5\u4f5c\u6d41\u3002",
+    "id": "ONEISALL7/ai-devtools-cn",
+    "language": "JavaScript",
+    "name": "ONEISALL7/ai-devtools-cn",
+    "stars": 3,
+    "updated_at": "2026-06-01T03:44:33Z",
+    "url": "https://github.com/ONEISALL7/ai-devtools-cn"
+  },
+  {
+    "description": "stop AI from being so wordy",
+    "id": "ApolloEagle/smooth-brain",
+    "language": "JavaScript",
+    "name": "ApolloEagle/smooth-brain",
+    "stars": 1,
+    "updated_at": "2026-06-01T03:44:41Z",
+    "url": "https://github.com/ApolloEagle/smooth-brain"
+  },
+  {
+    "description": "\u6797\u900d\u9065AI \u2014 AI \u6559\u7a0b | Claude \u6559\u7a0b | Prompt \u5de5\u7a0b | \u9762\u5411\u4e2d\u6587\u7528\u6237\u7684 AI \u5b66\u4e60\u5e73\u53f0",
+    "id": "Createitv/lingxiaoyao-ai-academy",
+    "language": "TypeScript",
+    "name": "Createitv/lingxiaoyao-ai-academy",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:44:27Z",
+    "url": "https://github.com/Createitv/lingxiaoyao-ai-academy"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:41:03Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Hermes-first skill for turning vague goals, specs, and workflows into reviewable engineering-control loops",
+    "id": "fengluisobel/ask-dongfeng",
+    "language": "Python",
+    "name": "fengluisobel/ask-dongfeng",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:39:46Z",
+    "url": "https://github.com/fengluisobel/ask-dongfeng"
+  },
+  {
+    "description": "Unified OpenAI-compatible AI gateway for 10+ providers \u2014 with prompt workflows (Action/Template), quality monitoring, an",
+    "id": "tripplemay/aigcgateway",
+    "language": "TypeScript",
+    "name": "tripplemay/aigcgateway",
+    "stars": 2,
+    "updated_at": "2026-06-01T03:38:16Z",
+    "url": "https://github.com/tripplemay/aigcgateway"
+  },
+  {
+    "description": "A local web dashboard for Ollama. Chat with local LLMs, translate text, rewrite and summarize documents, and generate pr",
+    "id": "jaygaha/quillama",
+    "language": "Svelte",
+    "name": "jaygaha/quillama",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:36:29Z",
+    "url": "https://github.com/jaygaha/quillama"
+  },
+  {
+    "description": "End-to-end humanities writing assistant Claude Skill \u2014 11 modes from Socratic research-question sharpening through AI-us",
+    "id": "tizzy916/claude-skill-humanities-writing-companion",
+    "language": "Python",
+    "name": "tizzy916/claude-skill-humanities-writing-companion",
+    "stars": 6,
+    "updated_at": "2026-06-01T03:35:42Z",
+    "url": "https://github.com/tizzy916/claude-skill-humanities-writing-companion"
+  },
+  {
+    "description": "The 7 Laws of AI Agent Discipline for Claude Code. Stops your agent from skipping research, claiming 'done' without veri",
+    "id": "naimkatiman/continuous-improvement",
+    "language": "JavaScript",
+    "name": "naimkatiman/continuous-improvement",
+    "stars": 5,
+    "updated_at": "2026-06-01T03:35:20Z",
+    "url": "https://github.com/naimkatiman/continuous-improvement"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 12,
+    "updated_at": "2026-06-01T03:34:13Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 20,
+    "updated_at": "2026-06-01T03:33:51Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "\u6e05\u7b80\u7684\u4e2a\u4eba\u4e3b\u9875 / Profile - AI Agent \u5de5\u7a0b\u5e08 | \u56fd\u5b66\u7231\u597d\u8005",
+    "id": "qingjian0/qingjian0",
+    "language": "Python",
+    "name": "qingjian0/qingjian0",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:31:10Z",
+    "url": "https://github.com/qingjian0/qingjian0"
+  },
+  {
+    "description": "Turns your jargon into pillow talk. A Claude Code skill that rewrites complex content as a flirtatious monologue, sugges",
+    "id": "lazyfoxjumps/Rizz-Lord-Translator",
+    "language": "\u2014",
+    "name": "lazyfoxjumps/Rizz-Lord-Translator",
+    "stars": 1,
+    "updated_at": "2026-06-01T03:30:39Z",
+    "url": "https://github.com/lazyfoxjumps/Rizz-Lord-Translator"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Examples of prompts for Microsoft Copilot",
     "id": "pnp/copilot-prompts",
     "language": "\u2014",
@@ -13,18 +166,9 @@
     "id": "matolks/AI-engineering",
     "language": "HTML",
     "name": "matolks/AI-engineering",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-01T03:26:33Z",
     "url": "https://github.com/matolks/AI-engineering"
-  },
-  {
-    "description": "\u4e2d\u6587 AI \u5f00\u53d1\u8005\u5de5\u5177\u5b9e\u8df5\u6a21\u677f\u5e93\uff1aPR review\u3001issue triage\u3001\u6d4b\u8bd5\u751f\u6210\u3001\u6587\u6863\u7ef4\u62a4\u3001release \u548c\u5de5\u5177\u8bc4\u4f30\u5de5\u4f5c\u6d41\u3002",
-    "id": "ONEISALL7/ai-devtools-cn",
-    "language": "JavaScript",
-    "name": "ONEISALL7/ai-devtools-cn",
-    "stars": 3,
-    "updated_at": "2026-06-01T03:25:24Z",
-    "url": "https://github.com/ONEISALL7/ai-devtools-cn"
   },
   {
     "description": "Local SQLite ledger for AI prompts, responses, outcomes, and dashboard exports.",
@@ -40,7 +184,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 25205,
+    "stars": 25213,
     "updated_at": "2026-06-01T03:24:25Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -88,33 +232,6 @@
     "stars": 3,
     "updated_at": "2026-06-01T03:17:55Z",
     "url": "https://github.com/xiaoke5211-star/vistr-tavern"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T03:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Unified OpenAI-compatible AI gateway for 10+ providers \u2014 with prompt workflows (Action/Template), quality monitoring, an",
-    "id": "tripplemay/aigcgateway",
-    "language": "TypeScript",
-    "name": "tripplemay/aigcgateway",
-    "stars": 2,
-    "updated_at": "2026-06-01T03:15:07Z",
-    "url": "https://github.com/tripplemay/aigcgateway"
-  },
-  {
-    "description": "stop AI from being so wordy",
-    "id": "ApolloEagle/smooth-brain",
-    "language": "JavaScript",
-    "name": "ApolloEagle/smooth-brain",
-    "stars": 1,
-    "updated_at": "2026-06-01T03:14:45Z",
-    "url": "https://github.com/ApolloEagle/smooth-brain"
   },
   {
     "description": "A Claude Code plugin that gives Claude a memory: it remembers your corrections, turns the repeated ones into principles,",
@@ -185,7 +302,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21754,
-    "updated_at": "2026-06-01T03:22:32Z",
+    "updated_at": "2026-06-01T03:39:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -283,7 +400,7 @@
     "id": "Open-Less/openless",
     "language": "HTML",
     "name": "Open-Less/openless",
-    "stars": 1963,
+    "stars": 1964,
     "updated_at": "2026-06-01T02:36:46Z",
     "url": "https://github.com/Open-Less/openless"
   },
@@ -292,18 +409,9 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 6949,
+    "stars": 6950,
     "updated_at": "2026-06-01T02:36:46Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
-  },
-  {
-    "description": "The 7 Laws of AI Agent Discipline for Claude Code. Stops your agent from skipping research, claiming 'done' without veri",
-    "id": "naimkatiman/continuous-improvement",
-    "language": "JavaScript",
-    "name": "naimkatiman/continuous-improvement",
-    "stars": 5,
-    "updated_at": "2026-06-01T02:35:03Z",
-    "url": "https://github.com/naimkatiman/continuous-improvement"
   },
   {
     "description": "Social Dynamics Sandbox: an AI-powered dating simulator and chat analyzer built with Streamlit and Google Gemini. Train ",
@@ -340,113 +448,5 @@
     "stars": 49,
     "updated_at": "2026-06-01T02:30:06Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
-    "id": "ai-boost/awesome-prompts",
-    "language": "\u2014",
-    "name": "ai-boost/awesome-prompts",
-    "stars": 8085,
-    "updated_at": "2026-06-01T02:29:16Z",
-    "url": "https://github.com/ai-boost/awesome-prompts"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 3111,
-    "updated_at": "2026-06-01T02:29:11Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:27:59Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser.",
-    "id": "Opsn5528/vibe-coding-claude-md",
-    "language": "HTML",
-    "name": "Opsn5528/vibe-coding-claude-md",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:27:39Z",
-    "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
-  },
-  {
-    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
-    "id": "Rickardserrulate236/portfolio-dumper",
-    "language": "HTML",
-    "name": "Rickardserrulate236/portfolio-dumper",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:27:37Z",
-    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:26:52Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Automate social media accounts using an AI agent that navigates live web pages to perform tasks like liking posts and wr",
-    "id": "Dusty-plumcot781/locoagent",
-    "language": "\u2014",
-    "name": "Dusty-plumcot781/locoagent",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:26:43Z",
-    "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:26:08Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:25:49Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:25:35Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:24:57Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:24:56Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
   }
 ]
