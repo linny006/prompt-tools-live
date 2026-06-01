@@ -1,5 +1,113 @@
 [
   {
+    "description": "A small, portable CLAUDE.md that makes long Claude Code sessions survive context compaction: write-state-to-disk, five-s",
+    "id": "Poorna-Repos/claude-context-survival-kit",
+    "language": "\u2014",
+    "name": "Poorna-Repos/claude-context-survival-kit",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:14:11Z",
+    "url": "https://github.com/Poorna-Repos/claude-context-survival-kit"
+  },
+  {
+    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
+    "id": "adrianwedd/cv",
+    "language": "JavaScript",
+    "name": "adrianwedd/cv",
+    "stars": 4,
+    "updated_at": "2026-06-01T21:13:29Z",
+    "url": "https://github.com/adrianwedd/cv"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12359,
+    "updated_at": "2026-06-01T21:10:38Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "A collection of system prompts and AI kernels for use with large language models.",
+    "id": "thatoldfarm/system-prompt",
+    "language": "HTML",
+    "name": "thatoldfarm/system-prompt",
+    "stars": 5,
+    "updated_at": "2026-06-01T21:09:10Z",
+    "url": "https://github.com/thatoldfarm/system-prompt"
+  },
+  {
+    "description": "Test suite for LLM prompts \u2014 catch regressions before they hit production",
+    "id": "bhupendra05/promptci",
+    "language": "Python",
+    "name": "bhupendra05/promptci",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:08:22Z",
+    "url": "https://github.com/bhupendra05/promptci"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 3,
+    "updated_at": "2026-06-01T21:06:02Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:06:00Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 732,
+    "updated_at": "2026-06-01T21:11:43Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Smart Summarizer is a powerful, AI-driven web application designed to automatically distill lengthy audio, video, YouTub",
+    "id": "fabrizio-ferrentino/smart_summarizer",
+    "language": "TypeScript",
+    "name": "fabrizio-ferrentino/smart_summarizer",
+    "stars": 2,
+    "updated_at": "2026-06-01T21:05:21Z",
+    "url": "https://github.com/fabrizio-ferrentino/smart_summarizer"
+  },
+  {
+    "description": "60 days. 60 prompts. 1 AI. Zero excuses. \u2014 My ABTalks Claude AI Challenge journey.",
+    "id": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
+    "language": "\u2014",
+    "name": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
+    "stars": 1,
+    "updated_at": "2026-06-01T21:04:57Z",
+    "url": "https://github.com/devpal-singh-anand/ABTalks-60-Day-Claude-Challenge"
+  },
+  {
+    "description": "DARE is a structured methodology for AI-assisted software development. Four phases (Design \u2192 Architect \u2192 Review \u2192 Execut",
+    "id": "dewtech-technologies/dare-method",
+    "language": "TypeScript",
+    "name": "dewtech-technologies/dare-method",
+    "stars": 2,
+    "updated_at": "2026-06-01T21:04:45Z",
+    "url": "https://github.com/dewtech-technologies/dare-method"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T21:00:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A comprehensive suite of protocols, meta-prompts, and orchestration tools designed to streamline software development wo",
     "id": "J-StaR-Films-Studios/VibeCode-Protocol-Suite",
     "language": "HTML",
@@ -32,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9948,
-    "updated_at": "2026-06-01T20:53:53Z",
+    "updated_at": "2026-06-01T21:01:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -88,15 +196,6 @@
     "stars": 39,
     "updated_at": "2026-06-01T20:48:43Z",
     "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:45:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
@@ -158,17 +257,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21783,
-    "updated_at": "2026-06-01T21:00:12Z",
+    "updated_at": "2026-06-01T21:03:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 3,
-    "updated_at": "2026-06-01T20:34:50Z",
-    "url": "https://github.com/danlex/suno-lab"
   },
   {
     "description": "Midjourney is a leading AI image generation platform that creates stunning photorealistic and artistic images from text ",
@@ -230,7 +320,7 @@
     "language": "Python",
     "name": "dgenio/contextweaver",
     "stars": 6,
-    "updated_at": "2026-06-01T20:20:43Z",
+    "updated_at": "2026-06-01T21:15:09Z",
     "url": "https://github.com/dgenio/contextweaver"
   },
   {
@@ -268,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-06-01T20:17:58Z",
     "url": "https://github.com/Yeseh/skillet"
-  },
-  {
-    "description": "DARE is a structured methodology for AI-assisted software development. Four phases (Design \u2192 Architect \u2192 Review \u2192 Execut",
-    "id": "dewtech-technologies/dare-method",
-    "language": "TypeScript",
-    "name": "dewtech-technologies/dare-method",
-    "stars": 2,
-    "updated_at": "2026-06-01T20:16:17Z",
-    "url": "https://github.com/dewtech-technologies/dare-method"
   },
   {
     "description": "Installable, permission-bounded, multi-platform agent skills & subagents for Claude Code, Codex, Copilot & Gemini/Antigr",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T20:02:22Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Automate social media accounts using an AI agent that navigates live web pages to perform tasks like liking posts and wr",
-    "id": "Dusty-plumcot781/locoagent",
-    "language": "\u2014",
-    "name": "Dusty-plumcot781/locoagent",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:02:14Z",
-    "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-06-01T20:01:33Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:01:08Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:00:48Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-06-01T20:00:30Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-06-01T20:00:30Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-06-01T20:00:12Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-06-01T19:59:54Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 1,
-    "updated_at": "2026-06-01T19:59:50Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
   }
 ]
