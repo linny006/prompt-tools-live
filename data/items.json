@@ -1,21 +1,39 @@
 [
   {
+    "description": "Unified OpenAI-compatible AI gateway for 10+ providers \u2014 with prompt workflows (Action/Template), quality monitoring, an",
+    "id": "tripplemay/aigcgateway",
+    "language": "TypeScript",
+    "name": "tripplemay/aigcgateway",
+    "stars": 2,
+    "updated_at": "2026-06-01T03:15:07Z",
+    "url": "https://github.com/tripplemay/aigcgateway"
+  },
+  {
+    "description": "stop AI from being so wordy",
+    "id": "ApolloEagle/smooth-brain",
+    "language": "JavaScript",
+    "name": "ApolloEagle/smooth-brain",
+    "stars": 1,
+    "updated_at": "2026-06-01T03:14:45Z",
+    "url": "https://github.com/ApolloEagle/smooth-brain"
+  },
+  {
     "description": "\u4e2d\u6587 AI \u5f00\u53d1\u8005\u5de5\u5177\u5b9e\u8df5\u6a21\u677f\u5e93\uff1aPR review\u3001issue triage\u3001\u6d4b\u8bd5\u751f\u6210\u3001\u6587\u6863\u7ef4\u62a4\u3001release \u548c\u5de5\u5177\u8bc4\u4f30\u5de5\u4f5c\u6d41\u3002",
     "id": "ONEISALL7/ai-devtools-cn",
     "language": "JavaScript",
     "name": "ONEISALL7/ai-devtools-cn",
-    "stars": 2,
-    "updated_at": "2026-06-01T02:59:37Z",
+    "stars": 3,
+    "updated_at": "2026-06-01T03:14:27Z",
     "url": "https://github.com/ONEISALL7/ai-devtools-cn"
   },
   {
-    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
-    "id": "gufranco/claude-engineering-rules",
+    "description": "A Claude Code plugin that gives Claude a memory: it remembers your corrections, turns the repeated ones into principles,",
+    "id": "WinterDDo/claude-skill-flywheel",
     "language": "Python",
-    "name": "gufranco/claude-engineering-rules",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:58:55Z",
-    "url": "https://github.com/gufranco/claude-engineering-rules"
+    "name": "WinterDDo/claude-skill-flywheel",
+    "stars": 2,
+    "updated_at": "2026-06-01T03:10:46Z",
+    "url": "https://github.com/WinterDDo/claude-skill-flywheel"
   },
   {
     "description": "A hierarchical reference map of the AI engineering field \u2014 20 chapters, ~250 topics, each with What it is, where it's us",
@@ -23,8 +41,62 @@
     "language": "HTML",
     "name": "matolks/AI-engineering",
     "stars": 0,
-    "updated_at": "2026-06-01T02:56:45Z",
+    "updated_at": "2026-06-01T03:08:17Z",
     "url": "https://github.com/matolks/AI-engineering"
+  },
+  {
+    "description": "A set of agentic CLI SKILLS.md files",
+    "id": "rahulrajaram/rahulskills",
+    "language": "Python",
+    "name": "rahulrajaram/rahulskills",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:07:22Z",
+    "url": "https://github.com/rahulrajaram/rahulskills"
+  },
+  {
+    "description": "Local two-stage preflight validator for coding-agent dispatch prompts. Gate 1 checks prompt structure (9 criteria). Gate",
+    "id": "Hailedllama-oss/two-gate-dispatch",
+    "language": "Python",
+    "name": "Hailedllama-oss/two-gate-dispatch",
+    "stars": 1,
+    "updated_at": "2026-06-01T03:05:16Z",
+    "url": "https://github.com/Hailedllama-oss/two-gate-dispatch"
+  },
+  {
+    "description": "Teach an LLM to talk like a person \u2014 not sound like one. v1.1.0 skill for opencode, tuned against 100 cases + verified b",
+    "id": "hoainho/iamhumans",
+    "language": "Python",
+    "name": "hoainho/iamhumans",
+    "stars": 2,
+    "updated_at": "2026-06-01T03:00:39Z",
+    "url": "https://github.com/hoainho/iamhumans"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:00:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI animation storyboard and visual workflow studio for script generation, image/video generation, ComfyUI, and creator p",
+    "id": "pkp666/mjj-ai-studio",
+    "language": "HTML",
+    "name": "pkp666/mjj-ai-studio",
+    "stars": 1,
+    "updated_at": "2026-06-01T02:59:01Z",
+    "url": "https://github.com/pkp666/mjj-ai-studio"
+  },
+  {
+    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
+    "id": "gufranco/claude-engineering-rules",
+    "language": "Python",
+    "name": "gufranco/claude-engineering-rules",
+    "stars": 1,
+    "updated_at": "2026-06-01T02:58:55Z",
+    "url": "https://github.com/gufranco/claude-engineering-rules"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -36,20 +108,20 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Teach an LLM to talk like a person \u2014 not sound like one. v1.1.0 skill for opencode, tuned against 100 cases + verified b",
-    "id": "hoainho/iamhumans",
-    "language": "Python",
-    "name": "hoainho/iamhumans",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:54:43Z",
-    "url": "https://github.com/hoainho/iamhumans"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21754,
+    "updated_at": "2026-06-01T03:13:28Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A structured prompt that turns fuzzy side-project ideas into MVP plans before you write product code.",
     "id": "xuqinghuan675/idea-refiner",
     "language": "\u2014",
     "name": "xuqinghuan675/idea-refiner",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-01T02:53:52Z",
     "url": "https://github.com/xuqinghuan675/idea-refiner"
   },
@@ -58,18 +130,9 @@
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-06-01T02:52:01Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "stop AI from being so wordy",
-    "id": "ApolloEagle/smooth-brain",
-    "language": "Shell",
-    "name": "ApolloEagle/smooth-brain",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:51:35Z",
-    "url": "https://github.com/ApolloEagle/smooth-brain"
   },
   {
     "description": "Production ready system prompts for AI voice agents that book, qualify, and follow up. By James Hill (The AI Guy), found",
@@ -85,7 +148,7 @@
     "id": "290963249/zhaoyaojing",
     "language": "\u2014",
     "name": "290963249/zhaoyaojing",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-01T02:50:05Z",
     "url": "https://github.com/290963249/zhaoyaojing"
   },
@@ -94,7 +157,7 @@
     "id": "joansongjr/investor-harness",
     "language": "Shell",
     "name": "joansongjr/investor-harness",
-    "stars": 9,
+    "stars": 10,
     "updated_at": "2026-06-01T02:49:49Z",
     "url": "https://github.com/joansongjr/investor-harness"
   },
@@ -103,7 +166,7 @@
     "id": "wutuobangai/wutuobangai-beyond-cc",
     "language": "HTML",
     "name": "wutuobangai/wutuobangai-beyond-cc",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-01T02:48:47Z",
     "url": "https://github.com/wutuobangai/wutuobangai-beyond-cc"
   },
@@ -112,7 +175,7 @@
     "id": "hwl668/Scientific-learning-skills-",
     "language": "Python",
     "name": "hwl668/Scientific-learning-skills-",
-    "stars": 7,
+    "stars": 8,
     "updated_at": "2026-06-01T02:48:14Z",
     "url": "https://github.com/hwl668/Scientific-learning-skills-"
   },
@@ -121,7 +184,7 @@
     "id": "pnp/copilot-prompts",
     "language": "\u2014",
     "name": "pnp/copilot-prompts",
-    "stars": 605,
+    "stars": 606,
     "updated_at": "2026-06-01T02:46:12Z",
     "url": "https://github.com/pnp/copilot-prompts"
   },
@@ -135,31 +198,13 @@
     "url": "https://github.com/product-on-purpose/writing-style-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
     "id": "zxpmail/ReqForge",
     "language": "TypeScript",
     "name": "zxpmail/ReqForge",
-    "stars": 7,
+    "stars": 8,
     "updated_at": "2026-06-01T02:45:21Z",
     "url": "https://github.com/zxpmail/ReqForge"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21753,
-    "updated_at": "2026-06-01T02:54:50Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udfed AI Prompt Factory \u2014 23 premium ChatGPT & image prompts for PromptBase marketplace. $15 bundle.",
@@ -171,20 +216,11 @@
     "url": "https://github.com/ulnit/prompt-factory"
   },
   {
-    "description": "Unified OpenAI-compatible AI gateway for 10+ providers \u2014 with prompt workflows (Action/Template), quality monitoring, an",
-    "id": "tripplemay/aigcgateway",
-    "language": "TypeScript",
-    "name": "tripplemay/aigcgateway",
-    "stars": 2,
-    "updated_at": "2026-06-01T02:39:19Z",
-    "url": "https://github.com/tripplemay/aigcgateway"
-  },
-  {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
     "id": "Open-Less/openless",
     "language": "HTML",
     "name": "Open-Less/openless",
-    "stars": 1961,
+    "stars": 1963,
     "updated_at": "2026-06-01T02:36:46Z",
     "url": "https://github.com/Open-Less/openless"
   },
@@ -193,7 +229,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 6947,
+    "stars": 6949,
     "updated_at": "2026-06-01T02:36:46Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -202,7 +238,7 @@
     "id": "naimkatiman/continuous-improvement",
     "language": "JavaScript",
     "name": "naimkatiman/continuous-improvement",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-06-01T02:35:03Z",
     "url": "https://github.com/naimkatiman/continuous-improvement"
   },
@@ -229,7 +265,7 @@
     "id": "ekayaprod/jules-agent-roster",
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-01T02:31:49Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
@@ -265,7 +301,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 3093,
+    "stars": 3105,
     "updated_at": "2026-06-01T02:29:11Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T02:23:48Z",
     "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:23:39Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:23:39Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:23:36Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:23:34Z",
-    "url": "https://github.com/Imrananti4462/openless"
   }
 ]
