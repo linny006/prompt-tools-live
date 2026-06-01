@@ -1,12 +1,30 @@
 [
   {
-    "description": "43 composable skills that turn an AI coding agent into a product team \u2014 research, marketing, product, and meta-process. ",
-    "id": "hungv47/meta-skills",
-    "language": "TypeScript",
-    "name": "hungv47/meta-skills",
-    "stars": 10,
-    "updated_at": "2026-06-01T06:28:14Z",
-    "url": "https://github.com/hungv47/meta-skills"
+    "description": "Open-source AI operations toolkit for small education providers: prompts, schemas, LINE bot/CLI demos, evals, and privac",
+    "id": "ting07081010-ui/moosie-eduops-ai-kit",
+    "language": "JavaScript",
+    "name": "ting07081010-ui/moosie-eduops-ai-kit",
+    "stars": 1,
+    "updated_at": "2026-06-01T06:31:37Z",
+    "url": "https://github.com/ting07081010-ui/moosie-eduops-ai-kit"
+  },
+  {
+    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 1,
+    "updated_at": "2026-06-01T06:30:38Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T06:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Two lines of code to give your LLM eyes. One attribute.",
@@ -14,8 +32,17 @@
     "language": "TypeScript",
     "name": "askable-ui/askable",
     "stars": 9,
-    "updated_at": "2026-06-01T06:28:00Z",
+    "updated_at": "2026-06-01T06:30:24Z",
     "url": "https://github.com/askable-ui/askable"
+  },
+  {
+    "description": "43 composable skills that turn an AI coding agent into a product team \u2014 research, marketing, product, and meta-process. ",
+    "id": "hungv47/meta-skills",
+    "language": "TypeScript",
+    "name": "hungv47/meta-skills",
+    "stars": 10,
+    "updated_at": "2026-06-01T06:28:14Z",
+    "url": "https://github.com/hungv47/meta-skills"
   },
   {
     "description": "\u4e2d\u6587 AI \u5f00\u53d1\u8005\u5de5\u5177\u5b9e\u8df5\u6a21\u677f\u5e93\uff1aPR review\u3001issue triage\u3001\u6d4b\u8bd5\u751f\u6210\u3001\u6587\u6863\u7ef4\u62a4\u3001release \u548c\u5de5\u5177\u8bc4\u4f30\u5de5\u4f5c\u6d41\u3002",
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21759,
-    "updated_at": "2026-06-01T06:28:45Z",
+    "updated_at": "2026-06-01T06:31:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T06:19:45Z",
     "url": "https://github.com/ApartsinProjects/PromptForge"
-  },
-  {
-    "description": "Open-source AI operations toolkit for small education providers: prompts, schemas, LINE bot/CLI demos, evals, and privac",
-    "id": "ting07081010-ui/moosie-eduops-ai-kit",
-    "language": "JavaScript",
-    "name": "ting07081010-ui/moosie-eduops-ai-kit",
-    "stars": 1,
-    "updated_at": "2026-06-01T06:18:25Z",
-    "url": "https://github.com/ting07081010-ui/moosie-eduops-ai-kit"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -97,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T06:16:09Z",
     "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T06:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T06:08:29Z",
     "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 2,
-    "updated_at": "2026-06-01T06:08:22Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
   }
 ]
