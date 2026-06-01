@@ -1,5 +1,149 @@
 [
   {
+    "description": "\u4e2d\u6587 AI \u5f00\u53d1\u8005\u5de5\u5177\u5b9e\u8df5\u6a21\u677f\u5e93\uff1aPR review\u3001issue triage\u3001\u6d4b\u8bd5\u751f\u6210\u3001\u6587\u6863\u7ef4\u62a4\u3001release \u548c\u5de5\u5177\u8bc4\u4f30\u5de5\u4f5c\u6d41\u3002",
+    "id": "ONEISALL7/ai-devtools-cn",
+    "language": "JavaScript",
+    "name": "ONEISALL7/ai-devtools-cn",
+    "stars": 2,
+    "updated_at": "2026-06-01T02:59:37Z",
+    "url": "https://github.com/ONEISALL7/ai-devtools-cn"
+  },
+  {
+    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
+    "id": "gufranco/claude-engineering-rules",
+    "language": "Python",
+    "name": "gufranco/claude-engineering-rules",
+    "stars": 0,
+    "updated_at": "2026-06-01T02:58:55Z",
+    "url": "https://github.com/gufranco/claude-engineering-rules"
+  },
+  {
+    "description": "A hierarchical reference map of the AI engineering field \u2014 20 chapters, ~250 topics, each with What it is, where it's us",
+    "id": "matolks/AI-engineering",
+    "language": "HTML",
+    "name": "matolks/AI-engineering",
+    "stars": 0,
+    "updated_at": "2026-06-01T02:56:45Z",
+    "url": "https://github.com/matolks/AI-engineering"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26220,
+    "updated_at": "2026-06-01T02:55:48Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Teach an LLM to talk like a person \u2014 not sound like one. v1.1.0 skill for opencode, tuned against 100 cases + verified b",
+    "id": "hoainho/iamhumans",
+    "language": "Python",
+    "name": "hoainho/iamhumans",
+    "stars": 1,
+    "updated_at": "2026-06-01T02:54:43Z",
+    "url": "https://github.com/hoainho/iamhumans"
+  },
+  {
+    "description": "A structured prompt that turns fuzzy side-project ideas into MVP plans before you write product code.",
+    "id": "xuqinghuan675/idea-refiner",
+    "language": "\u2014",
+    "name": "xuqinghuan675/idea-refiner",
+    "stars": 1,
+    "updated_at": "2026-06-01T02:53:52Z",
+    "url": "https://github.com/xuqinghuan675/idea-refiner"
+  },
+  {
+    "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 5,
+    "updated_at": "2026-06-01T02:52:01Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "stop AI from being so wordy",
+    "id": "ApolloEagle/smooth-brain",
+    "language": "Shell",
+    "name": "ApolloEagle/smooth-brain",
+    "stars": 0,
+    "updated_at": "2026-06-01T02:51:35Z",
+    "url": "https://github.com/ApolloEagle/smooth-brain"
+  },
+  {
+    "description": "Production ready system prompts for AI voice agents that book, qualify, and follow up. By James Hill (The AI Guy), found",
+    "id": "jbrazy480/ai-voice-agent-prompts",
+    "language": "HTML",
+    "name": "jbrazy480/ai-voice-agent-prompts",
+    "stars": 1,
+    "updated_at": "2026-06-01T02:50:20Z",
+    "url": "https://github.com/jbrazy480/ai-voice-agent-prompts"
+  },
+  {
+    "description": "\u7167\u5996\u955c \u00b7 Mirror Skill \u2014 Identify gap, recommend optimal elimination, converge in multiple rounds. A single Claude Code Skil",
+    "id": "290963249/zhaoyaojing",
+    "language": "\u2014",
+    "name": "290963249/zhaoyaojing",
+    "stars": 1,
+    "updated_at": "2026-06-01T02:50:05Z",
+    "url": "https://github.com/290963249/zhaoyaojing"
+  },
+  {
+    "description": "Open prompt stack for public-market research. Cross-harness skill suite (Claude Code / Codex / OpenCode) for secondary-m",
+    "id": "joansongjr/investor-harness",
+    "language": "Shell",
+    "name": "joansongjr/investor-harness",
+    "stars": 9,
+    "updated_at": "2026-06-01T02:49:49Z",
+    "url": "https://github.com/joansongjr/investor-harness"
+  },
+  {
+    "description": "30 \u5c81\u4e0d\u61c2\u4ee3\u7801\u7684\u666e\u901a\u4eba\uff0c\u7528 Claude Code \u8dd1\u51fa\u8d85\u8d8a\u5b98\u65b9\u7684\u65b9\u6cd5\u8bba \u00b7 \u666e\u901a\u4eba\u7528 AI \u5b9e\u6218\u8d44\u6599\u7ad9",
+    "id": "wutuobangai/wutuobangai-beyond-cc",
+    "language": "HTML",
+    "name": "wutuobangai/wutuobangai-beyond-cc",
+    "stars": 0,
+    "updated_at": "2026-06-01T02:48:47Z",
+    "url": "https://github.com/wutuobangai/wutuobangai-beyond-cc"
+  },
+  {
+    "description": "Diagnosis-first Agent Skills that turn AI from answer machine into   learning tutor.",
+    "id": "hwl668/Scientific-learning-skills-",
+    "language": "Python",
+    "name": "hwl668/Scientific-learning-skills-",
+    "stars": 7,
+    "updated_at": "2026-06-01T02:48:14Z",
+    "url": "https://github.com/hwl668/Scientific-learning-skills-"
+  },
+  {
+    "description": "Examples of prompts for Microsoft Copilot",
+    "id": "pnp/copilot-prompts",
+    "language": "\u2014",
+    "name": "pnp/copilot-prompts",
+    "stars": 605,
+    "updated_at": "2026-06-01T02:46:12Z",
+    "url": "https://github.com/pnp/copilot-prompts"
+  },
+  {
+    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
+    "id": "product-on-purpose/writing-style-library",
+    "language": "Python",
+    "name": "product-on-purpose/writing-style-library",
+    "stars": 0,
+    "updated_at": "2026-06-01T02:46:08Z",
+    "url": "https://github.com/product-on-purpose/writing-style-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-01T02:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
     "id": "zxpmail/ReqForge",
     "language": "TypeScript",
@@ -9,21 +153,12 @@
     "url": "https://github.com/zxpmail/ReqForge"
   },
   {
-    "description": "\u4e2d\u6587 AI \u5f00\u53d1\u8005\u5de5\u5177\u5b9e\u8df5\u6a21\u677f\u5e93\uff1aPR review\u3001issue triage\u3001\u6d4b\u8bd5\u751f\u6210\u3001\u6587\u6863\u7ef4\u62a4\u3001release \u548c\u5de5\u5177\u8bc4\u4f30\u5de5\u4f5c\u6d41\u3002",
-    "id": "ONEISALL7/ai-devtools-cn",
-    "language": "JavaScript",
-    "name": "ONEISALL7/ai-devtools-cn",
-    "stars": 2,
-    "updated_at": "2026-06-01T02:45:09Z",
-    "url": "https://github.com/ONEISALL7/ai-devtools-cn"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21753,
-    "updated_at": "2026-06-01T02:44:45Z",
+    "updated_at": "2026-06-01T02:54:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -36,15 +171,6 @@
     "url": "https://github.com/ulnit/prompt-factory"
   },
   {
-    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
-    "id": "product-on-purpose/writing-style-library",
-    "language": "Python",
-    "name": "product-on-purpose/writing-style-library",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:42:14Z",
-    "url": "https://github.com/product-on-purpose/writing-style-library"
-  },
-  {
     "description": "Unified OpenAI-compatible AI gateway for 10+ providers \u2014 with prompt workflows (Action/Template), quality monitoring, an",
     "id": "tripplemay/aigcgateway",
     "language": "TypeScript",
@@ -52,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-06-01T02:39:19Z",
     "url": "https://github.com/tripplemay/aigcgateway"
-  },
-  {
-    "description": "Production ready system prompts for AI voice agents that book, qualify, and follow up. By James Hill (The AI Guy), found",
-    "id": "jbrazy480/ai-voice-agent-prompts",
-    "language": "HTML",
-    "name": "jbrazy480/ai-voice-agent-prompts",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:37:18Z",
-    "url": "https://github.com/jbrazy480/ai-voice-agent-prompts"
   },
   {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
@@ -76,7 +193,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 6946,
+    "stars": 6947,
     "updated_at": "2026-06-01T02:36:46Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -117,15 +234,6 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
     "id": "YouMind-OpenLab/awesome-seedream-4.5",
     "language": "TypeScript",
@@ -144,15 +252,6 @@
     "url": "https://github.com/SoliEstre/EstreGenesis"
   },
   {
-    "description": "Teach an LLM to talk like a person \u2014 not sound like one. v1.1.0 skill for opencode, tuned against 100 cases + verified b",
-    "id": "hoainho/iamhumans",
-    "language": "Python",
-    "name": "hoainho/iamhumans",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:29:34Z",
-    "url": "https://github.com/hoainho/iamhumans"
-  },
-  {
     "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
     "id": "ai-boost/awesome-prompts",
     "language": "\u2014",
@@ -166,7 +265,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 3087,
+    "stars": 3093,
     "updated_at": "2026-06-01T02:29:11Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -288,15 +387,6 @@
     "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26220,
-    "updated_at": "2026-06-01T02:24:12Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Generate production-ready UGC video ad prompts for Higgsfield AI Marketing Studio from your reference images and product",
     "id": "carreras66848657/claude-skill-ugc-prompt",
     "language": "\u2014",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T02:23:34Z",
     "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:23:31Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:23:15Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:22:53Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:22:48Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:22:33Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:21:52Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:21:51Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-06-01T02:21:48Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Connect Last9 observability data to Cursor via MCP to debug production logs, metrics, and traces directly in your editor",
-    "id": "Christianly-bar1265/cursor-plugin",
-    "language": "\u2014",
-    "name": "Christianly-bar1265/cursor-plugin",
-    "stars": 1,
-    "updated_at": "2026-06-01T02:21:20Z",
-    "url": "https://github.com/Christianly-bar1265/cursor-plugin"
-  },
-  {
-    "description": "Store Prometheus metrics in ClickHouse with native support for PromQL queries. Simplify long-term storage without managi",
-    "id": "Namandla0101/PromClick",
-    "language": "\u2014",
-    "name": "Namandla0101/PromClick",
-    "stars": 0,
-    "updated_at": "2026-06-01T02:21:12Z",
-    "url": "https://github.com/Namandla0101/PromClick"
   }
 ]
