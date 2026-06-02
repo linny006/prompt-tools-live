@@ -1,5 +1,158 @@
 [
   {
+    "description": "",
+    "id": "Gl00ria/AI_4_US",
+    "language": "\u2014",
+    "name": "Gl00ria/AI_4_US",
+    "stars": 0,
+    "updated_at": "2026-06-02T13:58:47Z",
+    "url": "https://github.com/Gl00ria/AI_4_US"
+  },
+  {
+    "description": "\ud83e\ude82 The missing context layer for AI editors. Drop a skill file, your AI instantly knows your stack, patterns & rules.",
+    "id": "sudarshanpjadhav/tokendrop",
+    "language": "\u2014",
+    "name": "sudarshanpjadhav/tokendrop",
+    "stars": 0,
+    "updated_at": "2026-06-02T13:58:30Z",
+    "url": "https://github.com/sudarshanpjadhav/tokendrop"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28372,
+    "updated_at": "2026-06-02T13:59:44Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Salesforce DX enterprise-grade AI context layer and agent skill for secure, token-efficient, and anti-hallucination deve",
+    "id": "rvaghela20/forcekit",
+    "language": "Python",
+    "name": "rvaghela20/forcekit",
+    "stars": 0,
+    "updated_at": "2026-06-02T13:57:56Z",
+    "url": "https://github.com/rvaghela20/forcekit"
+  },
+  {
+    "description": "AI session handoff manager for VS Code.",
+    "id": "Pain-Labs/Edo-Tensei",
+    "language": "TypeScript",
+    "name": "Pain-Labs/Edo-Tensei",
+    "stars": 2,
+    "updated_at": "2026-06-02T13:57:32Z",
+    "url": "https://github.com/Pain-Labs/Edo-Tensei"
+  },
+  {
+    "description": "Git-based Prompt Lifecycle Management",
+    "id": "promptLM/promptlm-app",
+    "language": "TypeScript",
+    "name": "promptLM/promptlm-app",
+    "stars": 2,
+    "updated_at": "2026-06-02T13:57:06Z",
+    "url": "https://github.com/promptLM/promptlm-app"
+  },
+  {
+    "description": "Multi-Objective Prompt Debugging for Realistic, Diverse, and Attribute-Controlled Synthetic Data Generation",
+    "id": "ApartsinProjects/PromptForge",
+    "language": "Python",
+    "name": "ApartsinProjects/PromptForge",
+    "stars": 1,
+    "updated_at": "2026-06-02T13:55:28Z",
+    "url": "https://github.com/ApartsinProjects/PromptForge"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 3,
+    "updated_at": "2026-06-02T13:53:31Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "\u8ba4\u77e5\u589e\u5f3a AI Skills\uff1a\u7ed3\u6784\u5316\u601d\u8003\u3001\u51b3\u7b56\u590d\u76d8\u3001\u8fa9\u8bba\u3001\u5199\u4f5c\u3001\u4ea7\u54c1\u3001\u8bbe\u8ba1\u4e0e\u5de5\u7a0b\u9886\u5bfc\uff0c\u652f\u6301 Codex / Claude Code / Gemini CLI",
+    "id": "ArchSightLabs/archsight-cognition",
+    "language": "JavaScript",
+    "name": "ArchSightLabs/archsight-cognition",
+    "stars": 3,
+    "updated_at": "2026-06-02T13:57:16Z",
+    "url": "https://github.com/ArchSightLabs/archsight-cognition"
+  },
+  {
+    "description": "A reciprocal playbook for low-drift human-AI pair programming: 6 prompt-shifts, 3 work-lanes, a drift-tell catalog",
+    "id": "gmrmk/ai-pairing-playbook",
+    "language": "\u2014",
+    "name": "gmrmk/ai-pairing-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-02T13:51:32Z",
+    "url": "https://github.com/gmrmk/ai-pairing-playbook"
+  },
+  {
+    "description": "Self-auditing dual-log memory for AI coding agents: fix log, insight log, attribution ledger, plus governance hooks",
+    "id": "gmrmk/dual-log-memory",
+    "language": "JavaScript",
+    "name": "gmrmk/dual-log-memory",
+    "stars": 0,
+    "updated_at": "2026-06-02T13:51:27Z",
+    "url": "https://github.com/gmrmk/dual-log-memory"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21805,
+    "updated_at": "2026-06-02T13:49:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Reusable Codex/Claude-style AI skill folders for safe publishing, research briefs, case studies, outreach workflows, Ets",
+    "id": "jqaisystems/jqai-ai-skills",
+    "language": "HTML",
+    "name": "jqaisystems/jqai-ai-skills",
+    "stars": 2,
+    "updated_at": "2026-06-02T13:47:24Z",
+    "url": "https://github.com/jqaisystems/jqai-ai-skills"
+  },
+  {
+    "description": "Linter for agent skill / rule files (Markdown + YAML frontmatter). Validates frontmatter, slug, description triggers, an",
+    "id": "drabekj/agent-skill-lint",
+    "language": "TypeScript",
+    "name": "drabekj/agent-skill-lint",
+    "stars": 0,
+    "updated_at": "2026-06-02T13:47:16Z",
+    "url": "https://github.com/drabekj/agent-skill-lint"
+  },
+  {
+    "description": "Multi-judge static quality scoring for LLM prompt libraries, with inter-judge agreement as a per-prompt confidence signa",
+    "id": "muasif80/prompt-quality-score",
+    "language": "Python",
+    "name": "muasif80/prompt-quality-score",
+    "stars": 0,
+    "updated_at": "2026-06-02T13:46:47Z",
+    "url": "https://github.com/muasif80/prompt-quality-score"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-02T13:45:46Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26252,
+    "updated_at": "2026-06-02T13:45:15Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
     "id": "Maxiesuggestive393/claude-code-cli",
     "language": "TypeScript",
@@ -76,7 +229,7 @@
     "id": "freestylefly/awesome-gpt-image-2",
     "language": "JavaScript",
     "name": "freestylefly/awesome-gpt-image-2",
-    "stars": 6893,
+    "stars": 6894,
     "updated_at": "2026-06-02T13:41:22Z",
     "url": "https://github.com/freestylefly/awesome-gpt-image-2"
   },
@@ -108,15 +261,6 @@
     "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
   },
   {
-    "description": "Multi-Objective Prompt Debugging for Realistic, Diverse, and Attribute-Controlled Synthetic Data Generation",
-    "id": "ApartsinProjects/PromptForge",
-    "language": "Python",
-    "name": "ApartsinProjects/PromptForge",
-    "stars": 1,
-    "updated_at": "2026-06-02T13:40:45Z",
-    "url": "https://github.com/ApartsinProjects/PromptForge"
-  },
-  {
     "description": "\ud83d\udc0c An open research project where anyone can forge AI values ",
     "id": "xiaojialove-DRP/the42post",
     "language": "JavaScript",
@@ -139,7 +283,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 26067,
+    "stars": 26079,
     "updated_at": "2026-06-02T13:40:07Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -211,7 +355,7 @@
     "id": "jnMetaCode/superpowers-zh",
     "language": "Shell",
     "name": "jnMetaCode/superpowers-zh",
-    "stars": 4482,
+    "stars": 4486,
     "updated_at": "2026-06-02T13:38:52Z",
     "url": "https://github.com/jnMetaCode/superpowers-zh"
   },
@@ -297,15 +441,6 @@
     "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
   },
   {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 3,
-    "updated_at": "2026-06-02T13:38:02Z",
-    "url": "https://github.com/danlex/suno-lab"
-  },
-  {
     "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
     "id": "fonscutup654/ELAI-DevKit",
     "language": "Python",
@@ -313,140 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T13:37:38Z",
     "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 1,
-    "updated_at": "2026-06-02T13:37:32Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-06-02T13:37:14Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-02T13:36:40Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-06-02T13:36:37Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-06-02T13:36:36Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "The largest universal agent skill library \u2014 production-ready skills with semantic search, vector embeddings, mobile-firs",
-    "id": "badhope/AI-SKILL",
-    "language": "Python",
-    "name": "badhope/AI-SKILL",
-    "stars": 10,
-    "updated_at": "2026-06-02T13:39:39Z",
-    "url": "https://github.com/badhope/AI-SKILL"
-  },
-  {
-    "description": "Connect Last9 observability data to Cursor via MCP to debug production logs, metrics, and traces directly in your editor",
-    "id": "Christianly-bar1265/cursor-plugin",
-    "language": "\u2014",
-    "name": "Christianly-bar1265/cursor-plugin",
-    "stars": 1,
-    "updated_at": "2026-06-02T13:36:04Z",
-    "url": "https://github.com/Christianly-bar1265/cursor-plugin"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-02T13:35:55Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "\u8ba4\u77e5\u589e\u5f3a AI Skills\uff1a\u7ed3\u6784\u5316\u601d\u8003\u3001\u51b3\u7b56\u590d\u76d8\u3001\u8fa9\u8bba\u3001\u5199\u4f5c\u3001\u4ea7\u54c1\u3001\u8bbe\u8ba1\u4e0e\u5de5\u7a0b\u9886\u5bfc\uff0c\u652f\u6301 Codex / Claude Code / Gemini CLI",
-    "id": "ArchSightLabs/archsight-cognition",
-    "language": "JavaScript",
-    "name": "ArchSightLabs/archsight-cognition",
-    "stars": 3,
-    "updated_at": "2026-06-02T13:35:46Z",
-    "url": "https://github.com/ArchSightLabs/archsight-cognition"
-  },
-  {
-    "description": "Analyze Justin Sun\u2019s cognitive operating system by processing thousands of his tweets, interviews, and publications to e",
-    "id": "Emanuelam6674/sun-skill",
-    "language": "\u2014",
-    "name": "Emanuelam6674/sun-skill",
-    "stars": 1,
-    "updated_at": "2026-06-02T13:35:39Z",
-    "url": "https://github.com/Emanuelam6674/sun-skill"
-  },
-  {
-    "description": "Store Prometheus metrics in ClickHouse with native support for PromQL queries. Simplify long-term storage without managi",
-    "id": "Namandla0101/PromClick",
-    "language": "\u2014",
-    "name": "Namandla0101/PromClick",
-    "stars": 0,
-    "updated_at": "2026-06-02T13:35:38Z",
-    "url": "https://github.com/Namandla0101/PromClick"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-06-02T13:35:14Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "Automate AI research workflows using Claude Code skills to manage project progress, perform rigorous algorithm reviews, ",
-    "id": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "language": "\u2014",
-    "name": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "stars": 0,
-    "updated_at": "2026-06-02T13:35:10Z",
-    "url": "https://github.com/Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy"
-  },
-  {
-    "description": "Track public technical updates, architecture notes, and development benchmarks for the Happy Horse 1.0 AI video generati",
-    "id": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "language": "\u2014",
-    "name": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "stars": 0,
-    "updated_at": "2026-06-02T13:35:01Z",
-    "url": "https://github.com/Waldoncockeyed9421/Happy-Horse-1.0"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-02T13:34:55Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
   }
 ]
