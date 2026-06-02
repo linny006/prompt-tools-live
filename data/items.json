@@ -1,12 +1,111 @@
 [
   {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
+    "description": "Ground design decisions in cited research, then verify every citation with a different model family before it becomes ca",
+    "id": "dogfood-lab/study-swarm",
     "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4172,
-    "updated_at": "2026-06-02T10:15:26Z",
-    "url": "https://github.com/Agenta-AI/agenta"
+    "name": "dogfood-lab/study-swarm",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:29:28Z",
+    "url": "https://github.com/dogfood-lab/study-swarm"
+  },
+  {
+    "description": "AI-powered restaurant name & menu generator using LangChain LCEL chains + Groq LLaMA 3.3 70B. Features a Streamlit web a",
+    "id": "Dominionai/langchain-groq-restaurant-agent",
+    "language": "Jupyter Notebook",
+    "name": "Dominionai/langchain-groq-restaurant-agent",
+    "stars": 1,
+    "updated_at": "2026-06-02T10:29:13Z",
+    "url": "https://github.com/Dominionai/langchain-groq-restaurant-agent"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:28:02Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "ArifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA architecture: Architect \u00b7 Auditor \u00b7 Agent. Built for t",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 45,
+    "updated_at": "2026-06-02T10:27:53Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 25989,
+    "updated_at": "2026-06-02T10:26:35Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
+    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "language": "HTML",
+    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:26:18Z",
+    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
+  },
+  {
+    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
+    "id": "Atheerameer/agentic-cli-blueprint-library",
+    "language": "HTML",
+    "name": "Atheerameer/agentic-cli-blueprint-library",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:25:20Z",
+    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
+  },
+  {
+    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
+    "id": "SHENG5411/grimoire-of-tools",
+    "language": "HTML",
+    "name": "SHENG5411/grimoire-of-tools",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:25:20Z",
+    "url": "https://github.com/SHENG5411/grimoire-of-tools"
+  },
+  {
+    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
+    "id": "Asir11/langgraph-agentic-workflows-tutorial",
+    "language": "HTML",
+    "name": "Asir11/langgraph-agentic-workflows-tutorial",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:24:58Z",
+    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
+  },
+  {
+    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
+    "id": "zxpmail/ReqForge",
+    "language": "JavaScript",
+    "name": "zxpmail/ReqForge",
+    "stars": 9,
+    "updated_at": "2026-06-02T10:22:25Z",
+    "url": "https://github.com/zxpmail/ReqForge"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26245,
+    "updated_at": "2026-06-02T10:22:09Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c470+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+    "id": "freestylefly/awesome-gpt-image-2",
+    "language": "JavaScript",
+    "name": "freestylefly/awesome-gpt-image-2",
+    "stars": 6887,
+    "updated_at": "2026-06-02T10:22:05Z",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
   },
   {
     "description": "v1.0 stable: architecture-first CLI for shipping software with continuity. Seven-phase workflow, six-role forge orchestr",
@@ -14,8 +113,17 @@
     "language": "Python",
     "name": "hrabanazviking/Viking-Code-Mythic-Engineering-CLI-Vibe-Coding",
     "stars": 3,
-    "updated_at": "2026-06-02T10:13:52Z",
+    "updated_at": "2026-06-02T10:21:35Z",
     "url": "https://github.com/hrabanazviking/Viking-Code-Mythic-Engineering-CLI-Vibe-Coding"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 12,
+    "updated_at": "2026-06-02T10:20:14Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
     "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
@@ -23,8 +131,53 @@
     "language": "Python",
     "name": "LiHongwei-cn/lihongwei-cn",
     "stars": 5,
-    "updated_at": "2026-06-02T10:13:42Z",
+    "updated_at": "2026-06-02T10:19:11Z",
     "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:17:20Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 15,
+    "updated_at": "2026-06-02T10:16:41Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-06-02T10:23:23Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4172,
+    "updated_at": "2026-06-02T10:29:02Z",
+    "url": "https://github.com/Agenta-AI/agenta"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -54,13 +207,13 @@
     "url": "https://github.com/jasonhnd/life_OS"
   },
   {
-    "description": "AI-powered restaurant name & menu generator using LangChain LCEL chains + Groq LLaMA 3.3 70B. Features a Streamlit web a",
-    "id": "Dominionai/langchain-groq-restaurant-agent",
-    "language": "Jupyter Notebook",
-    "name": "Dominionai/langchain-groq-restaurant-agent",
-    "stars": 1,
-    "updated_at": "2026-06-02T10:10:25Z",
-    "url": "https://github.com/Dominionai/langchain-groq-restaurant-agent"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19420,
+    "updated_at": "2026-06-02T10:21:45Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI-powered content extraction and prompt generation assistant built with Flask and Python.",
@@ -77,7 +230,7 @@
     "language": "Python",
     "name": "event4u-app/agent-config",
     "stars": 6,
-    "updated_at": "2026-06-02T10:06:58Z",
+    "updated_at": "2026-06-02T10:21:21Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -126,15 +279,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26245,
-    "updated_at": "2026-06-02T10:04:09Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Experimental AI-assisted workflow for turning visual references into maintainable GraphCompose Java templates. Companion",
     "id": "DemchaAV/graphcompose-ai-flow",
     "language": "Java",
@@ -162,33 +306,6 @@
     "url": "https://github.com/FURUYAN1234/story-maker"
   },
   {
-    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
-    "id": "zxpmail/ReqForge",
-    "language": "JavaScript",
-    "name": "zxpmail/ReqForge",
-    "stars": 9,
-    "updated_at": "2026-06-02T10:01:29Z",
-    "url": "https://github.com/zxpmail/ReqForge"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19419,
-    "updated_at": "2026-06-02T10:08:54Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-02T10:00:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The Developer\u2019s Guide to AI Systems, Prompt Engineering, and Context Engineering.",
     "id": "CodeByKhaleel/ContextCraft",
     "language": "TypeScript",
@@ -203,7 +320,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21801,
-    "updated_at": "2026-06-02T10:00:00Z",
+    "updated_at": "2026-06-02T10:23:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -225,31 +342,13 @@
     "url": "https://github.com/jqaisystems/jqai-ai-skills"
   },
   {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-06-02T10:13:40Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
     "description": "A tool that compiles messy natural language prompts into a structured intermediate representation (IR) and optionally se",
     "id": "madara88645/Compiler",
     "language": "Python",
     "name": "madara88645/Compiler",
     "stars": 24,
-    "updated_at": "2026-06-02T10:06:50Z",
+    "updated_at": "2026-06-02T10:22:07Z",
     "url": "https://github.com/madara88645/Compiler"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-02T10:11:26Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "AI data product portfolio for intelligent analytics, NL2SQL workflow, prompt evaluation, and AI product case studies.",
@@ -270,15 +369,6 @@
     "url": "https://github.com/luongs3/skill-atlas"
   },
   {
-    "description": "Ground design decisions in cited research, then verify every citation with a different model family before it becomes ca",
-    "id": "dogfood-lab/study-swarm",
-    "language": "\u2014",
-    "name": "dogfood-lab/study-swarm",
-    "stars": 0,
-    "updated_at": "2026-06-02T09:47:25Z",
-    "url": "https://github.com/dogfood-lab/study-swarm"
-  },
-  {
     "description": "Agent skills for agentic coding tools. Extremely opinionated. Updated (almost) daily.",
     "id": "JHostalek/dotclaude",
     "language": "Python",
@@ -293,7 +383,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28355,
-    "updated_at": "2026-06-02T10:03:24Z",
+    "updated_at": "2026-06-02T10:24:12Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -322,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T09:37:53Z",
     "url": "https://github.com/ykachala/promptforge"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 25986,
-    "updated_at": "2026-06-02T09:37:45Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T09:35:54Z",
     "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-06-02T09:35:07Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Automate social media accounts using an AI agent that navigates live web pages to perform tasks like liking posts and wr",
-    "id": "Dusty-plumcot781/locoagent",
-    "language": "\u2014",
-    "name": "Dusty-plumcot781/locoagent",
-    "stars": 0,
-    "updated_at": "2026-06-02T09:35:04Z",
-    "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "Kotlin + K8s tool for improving LLM prompts and UIs through live user feedback.",
-    "id": "Eignex/combo",
-    "language": "Kotlin",
-    "name": "Eignex/combo",
-    "stars": 7,
-    "updated_at": "2026-06-02T09:34:40Z",
-    "url": "https://github.com/Eignex/combo"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-06-02T09:34:21Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Manage, organize, and instantly access AI prompts and clipboard history directly within VS Code.",
-    "id": "winterdrive/vscode-quick-prompt",
-    "language": "TypeScript",
-    "name": "winterdrive/vscode-quick-prompt",
-    "stars": 3,
-    "updated_at": "2026-06-02T10:07:51Z",
-    "url": "https://github.com/winterdrive/vscode-quick-prompt"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-06-02T09:34:14Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-06-02T09:34:07Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-06-02T09:33:18Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-06-02T09:33:13Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
   }
 ]
