@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-02 21:29 UTC
+> ⏰ Last updated: 2026-06-02 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,16 +43,16 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [VisionaireLabs/Visionaire](https://github.com/VisionaireLabs/Visionaire) | 2 | TypeScript | 2026-06-02 | I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it |
-| 2 | [fxMT-nx/El-Primor](https://github.com/fxMT-nx/El-Primor) | 4 | JavaScript | 2026-06-02 | 🏆 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptación y aprendizaje de errores. Cu |
-| 3 | [Mavengence/interactive-courses](https://github.com/Mavengence/interactive-courses) | 3 | JavaScript | 2026-06-02 | Six interactive, zero-install courses on the modern data + AI stack: data engineering, data science, infrastructure, and |
-| 4 | [sbhooley/ainativelang](https://github.com/sbhooley/ainativelang) | 817 | Python | 2026-06-02 | AINL helps turn AI from "a smart conversation" into "a structured worker."  It is designed for teams building AI workflo |
-| 5 | [danlex/suno-lab](https://github.com/danlex/suno-lab) | 3 | Python | 2026-06-02 | 126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21812 | TypeScript | 2026-06-02 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 7 | [Tiinex/ai](https://github.com/Tiinex/ai) | 1 | PowerShell | 2026-06-02 | A portable scaffold for structuring human–AI collaboration, preserving context and reducing drift across sessions and to |
-| 8 | [chriscantu/claude-config](https://github.com/chriscantu/claude-config) | 0 | TypeScript | 2026-06-02 | Portable, version-controlled Claude Code configuration — structured engineering workflows with problem definition, syste |
-| 9 | [thc1006/ai-prompting-guide](https://github.com/thc1006/ai-prompting-guide) | 0 | JavaScript | 2026-06-02 | An open-source guide to mastering prompt engineering for generative AI. From basic frameworks to advanced applications l |
-| 10 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28386 | TypeScript | 2026-06-02 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
-| 11 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 0 | Python | 2026-06-02 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 0 | Python | 2026-06-02 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 3 | [fxMT-nx/El-Primor](https://github.com/fxMT-nx/El-Primor) | 4 | JavaScript | 2026-06-02 | 🏆 Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptación y aprendizaje de errores. Cu |
+| 4 | [Mavengence/interactive-courses](https://github.com/Mavengence/interactive-courses) | 3 | JavaScript | 2026-06-02 | Six interactive, zero-install courses on the modern data + AI stack: data engineering, data science, infrastructure, and |
+| 5 | [sbhooley/ainativelang](https://github.com/sbhooley/ainativelang) | 817 | Python | 2026-06-02 | AINL helps turn AI from "a smart conversation" into "a structured worker."  It is designed for teams building AI workflo |
+| 6 | [danlex/suno-lab](https://github.com/danlex/suno-lab) | 3 | Python | 2026-06-02 | 126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug |
+| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21812 | TypeScript | 2026-06-02 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 8 | [Tiinex/ai](https://github.com/Tiinex/ai) | 1 | PowerShell | 2026-06-02 | A portable scaffold for structuring human–AI collaboration, preserving context and reducing drift across sessions and to |
+| 9 | [chriscantu/claude-config](https://github.com/chriscantu/claude-config) | 0 | TypeScript | 2026-06-02 | Portable, version-controlled Claude Code configuration — structured engineering workflows with problem definition, syste |
+| 10 | [thc1006/ai-prompting-guide](https://github.com/thc1006/ai-prompting-guide) | 0 | JavaScript | 2026-06-02 | An open-source guide to mastering prompt engineering for generative AI. From basic frameworks to advanced applications l |
+| 11 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28386 | TypeScript | 2026-06-02 | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte |
 | 12 | [Gudvin82/vibe-coding-protocols](https://github.com/Gudvin82/vibe-coding-protocols) | 2 | Markdown | 2026-06-02 | Practical protocols and markdown templates for safer AI-assisted / vibe coding projects: Starter, Hardening, Architectur |
 | 13 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-06-02 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
 | 14 | [poojakira/docquery](https://github.com/poojakira/docquery) | 1 | Python | 2026-06-02 | RAG pipeline prototype for financial document Q&A: Qdrant retrieval, reranking, prompt versioning, Redis cache, FastAPI. |
