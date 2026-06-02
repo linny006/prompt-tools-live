@@ -1,12 +1,84 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-02T18:15:12Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-02T18:15:01Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2729,
+    "updated_at": "2026-06-02T18:14:39Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-02T18:14:33Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
     "description": "Lumina is an AI-powered automation framework that analyzes videos and audio to generate Playwright test scripts. It merg",
     "id": "PiyushMishra318/lumina",
     "language": "CSS",
     "name": "PiyushMishra318/lumina",
     "stars": 0,
-    "updated_at": "2026-06-02T17:59:28Z",
+    "updated_at": "2026-06-02T18:14:33Z",
     "url": "https://github.com/PiyushMishra318/lumina"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 20,
+    "updated_at": "2026-06-02T18:13:10Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "AI-powered restaurant name & menu generator using LangChain LCEL chains + Groq LLaMA 3.3 70B. Features a Streamlit web a",
+    "id": "Dominionai/langchain-groq-restaurant-agent",
+    "language": "Jupyter Notebook",
+    "name": "Dominionai/langchain-groq-restaurant-agent",
+    "stars": 1,
+    "updated_at": "2026-06-02T18:13:10Z",
+    "url": "https://github.com/Dominionai/langchain-groq-restaurant-agent"
+  },
+  {
+    "description": "Local prompt routing studio for structured AI workflows and execution handoff.",
+    "id": "MCamner/atlas-one",
+    "language": "JavaScript",
+    "name": "MCamner/atlas-one",
+    "stars": 1,
+    "updated_at": "2026-06-02T18:11:53Z",
+    "url": "https://github.com/MCamner/atlas-one"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-02T18:11:49Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
@@ -14,8 +86,71 @@
     "language": "Python",
     "name": "gufranco/claude-engineering-rules",
     "stars": 1,
-    "updated_at": "2026-06-02T17:58:53Z",
+    "updated_at": "2026-06-02T18:11:05Z",
     "url": "https://github.com/gufranco/claude-engineering-rules"
+  },
+  {
+    "description": "v1.0 stable: architecture-first CLI for shipping software with continuity. Seven-phase workflow, six-role forge orchestr",
+    "id": "hrabanazviking/Viking-Code-Mythic-Engineering-CLI-Vibe-Coding",
+    "language": "Python",
+    "name": "hrabanazviking/Viking-Code-Mythic-Engineering-CLI-Vibe-Coding",
+    "stars": 3,
+    "updated_at": "2026-06-02T18:10:08Z",
+    "url": "https://github.com/hrabanazviking/Viking-Code-Mythic-Engineering-CLI-Vibe-Coding"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 3,
+    "updated_at": "2026-06-02T18:08:38Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "Enterprise workforce intelligence platform featuring real-time analytics, AI-generated operational insights, SQL-based d",
+    "id": "Parinajain15/IntelliOpsAI",
+    "language": "HTML",
+    "name": "Parinajain15/IntelliOpsAI",
+    "stars": 1,
+    "updated_at": "2026-06-02T18:06:01Z",
+    "url": "https://github.com/Parinajain15/IntelliOpsAI"
+  },
+  {
+    "description": "\ud83d\udc0c An open research project where anyone can forge AI values ",
+    "id": "xiaojialove-DRP/the42post",
+    "language": "JavaScript",
+    "name": "xiaojialove-DRP/the42post",
+    "stars": 0,
+    "updated_at": "2026-06-02T18:03:43Z",
+    "url": "https://github.com/xiaojialove-DRP/the42post"
+  },
+  {
+    "description": "An open-source guide to mastering prompt engineering for generative AI. From basic frameworks to advanced applications l",
+    "id": "thc1006/ai-prompting-guide",
+    "language": "JavaScript",
+    "name": "thc1006/ai-prompting-guide",
+    "stars": 0,
+    "updated_at": "2026-06-02T18:06:41Z",
+    "url": "https://github.com/thc1006/ai-prompting-guide"
+  },
+  {
+    "description": "\u7c7b\u4e66\u5f0f AI Agent \u6280\u80fd\u5927\u5178 \u00b7 \u7cbe\u9009/\u4e2d\u6587\u5316/\u4e92\u89c1\u6210\u7f51\u7684 500+ \u5f00\u6e90\u6280\u80fd\uff0c\u53ef\u4f5c\u4e3a Claude Code \u63d2\u4ef6\u5e02\u573a\u4e00\u952e\u5b89\u88c5\u3002A curated, cross-referenced encyclopedia of 500+ ope",
+    "id": "findscripter/everything-skills",
+    "language": "JavaScript",
+    "name": "findscripter/everything-skills",
+    "stars": 0,
+    "updated_at": "2026-06-02T18:01:20Z",
+    "url": "https://github.com/findscripter/everything-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-02T18:00:49Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "ArifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA architecture: Architect \u00b7 Auditor \u00b7 Agent. Built for t",
@@ -59,17 +194,8 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 3805,
-    "updated_at": "2026-06-02T17:52:43Z",
+    "updated_at": "2026-06-02T18:08:04Z",
     "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:45:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "My personal collection of handcrafted AI agent skills \u2014 original prompting modules for code quality, knowledge explorati",
@@ -86,17 +212,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9966,
-    "updated_at": "2026-06-02T17:56:12Z",
+    "updated_at": "2026-06-02T18:03:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 3,
-    "updated_at": "2026-06-02T17:40:58Z",
-    "url": "https://github.com/danlex/suno-lab"
   },
   {
     "description": "The 7 Laws of AI Agent Discipline for Claude Code. Stops your agent from skipping research, claiming 'done' without veri",
@@ -113,17 +230,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3281,
-    "updated_at": "2026-06-02T17:56:50Z",
+    "updated_at": "2026-06-02T18:09:36Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:36:39Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Practices, protocols, and skills for AI-driven software development. 18 skills + 1 Bash safety hook for Claude Code, Cod",
@@ -180,15 +288,6 @@
     "url": "https://github.com/majiayu000/spellbook"
   },
   {
-    "description": "An open-source guide to mastering prompt engineering for generative AI. From basic frameworks to advanced applications l",
-    "id": "thc1006/ai-prompting-guide",
-    "language": "JavaScript",
-    "name": "thc1006/ai-prompting-guide",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:44:35Z",
-    "url": "https://github.com/thc1006/ai-prompting-guide"
-  },
-  {
     "description": "394 free, quality-tested Claude skills for TV producers, journalists, podcasters, YouTubers & media professionals.",
     "id": "ur-grue/autopunk-media-skills",
     "language": "Python",
@@ -205,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T17:20:47Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 20,
-    "updated_at": "2026-06-02T17:18:55Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -252,15 +342,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "\ud83d\udc0c An open research project where anyone can forge AI values ",
-    "id": "xiaojialove-DRP/the42post",
-    "language": "JavaScript",
-    "name": "xiaojialove-DRP/the42post",
-    "stars": 0,
-    "updated_at": "2026-06-02T17:09:59Z",
-    "url": "https://github.com/xiaojialove-DRP/the42post"
-  },
-  {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
     "id": "dimitardamjan7-a11y/spec-flow-framework",
     "language": "HTML",
@@ -275,7 +356,7 @@
     "language": "HTML",
     "name": "DYAI2025/Plumbline",
     "stars": 2,
-    "updated_at": "2026-06-02T17:08:19Z",
+    "updated_at": "2026-06-02T18:13:53Z",
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T16:50:38Z",
     "url": "https://github.com/sajjadhira/nextjs-ai-prompts-sharing-project"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:49:19Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:49:15Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "GitHub Action to sync, validate, generate, and diff AI IDE configuration files with LynxPrompt",
-    "id": "GeiserX/lynxprompt-action",
-    "language": "TypeScript",
-    "name": "GeiserX/lynxprompt-action",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:48:46Z",
-    "url": "https://github.com/GeiserX/lynxprompt-action"
-  },
-  {
-    "description": "Modular AI framework for TCG logic, featuring UROE v2 resolution engine, stress-proof edge-case handling, and dual-perso",
-    "id": "oKarismatic/UniversalTCGAIArchitecture",
-    "language": "\u2014",
-    "name": "oKarismatic/UniversalTCGAIArchitecture",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:48:43Z",
-    "url": "https://github.com/oKarismatic/UniversalTCGAIArchitecture"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:48:40Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:48:30Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:47:59Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
-    "id": "Rickardserrulate236/portfolio-dumper",
-    "language": "HTML",
-    "name": "Rickardserrulate236/portfolio-dumper",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:47:55Z",
-    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser.",
-    "id": "Opsn5528/vibe-coding-claude-md",
-    "language": "HTML",
-    "name": "Opsn5528/vibe-coding-claude-md",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:47:35Z",
-    "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
   }
 ]
