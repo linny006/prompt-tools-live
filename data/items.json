@@ -1,5 +1,167 @@
 [
   {
+    "description": "Codex-native adversarial engineering audit skill for GPT/Codex users",
+    "id": "Mezanur007/codex-senior-engineering-board",
+    "language": "PowerShell",
+    "name": "Mezanur007/codex-senior-engineering-board",
+    "stars": 2,
+    "updated_at": "2026-06-02T10:59:28Z",
+    "url": "https://github.com/Mezanur007/codex-senior-engineering-board"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 3,
+    "updated_at": "2026-06-02T10:58:58Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "AI-powered restaurant name & menu generator using LangChain LCEL chains + Groq LLaMA 3.3 70B. Features a Streamlit web a",
+    "id": "Dominionai/langchain-groq-restaurant-agent",
+    "language": "Jupyter Notebook",
+    "name": "Dominionai/langchain-groq-restaurant-agent",
+    "stars": 1,
+    "updated_at": "2026-06-02T10:58:31Z",
+    "url": "https://github.com/Dominionai/langchain-groq-restaurant-agent"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3278,
+    "updated_at": "2026-06-02T10:59:17Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Token-efficient context-graph CLI for AI coding agents (C++, single binary). 70-90% fewer tokens via graph + memory + fi",
+    "id": "ncmonx/icemage",
+    "language": "C++",
+    "name": "ncmonx/icemage",
+    "stars": 3,
+    "updated_at": "2026-06-02T10:54:23Z",
+    "url": "https://github.com/ncmonx/icemage"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21802,
+    "updated_at": "2026-06-02T10:59:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:52:11Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28359,
+    "updated_at": "2026-06-02T10:51:58Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 5,
+    "updated_at": "2026-06-02T10:51:01Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "v1.0 stable: architecture-first CLI for shipping software with continuity. Seven-phase workflow, six-role forge orchestr",
+    "id": "hrabanazviking/Viking-Code-Mythic-Engineering-CLI-Vibe-Coding",
+    "language": "Python",
+    "name": "hrabanazviking/Viking-Code-Mythic-Engineering-CLI-Vibe-Coding",
+    "stars": 3,
+    "updated_at": "2026-06-02T10:50:08Z",
+    "url": "https://github.com/hrabanazviking/Viking-Code-Mythic-Engineering-CLI-Vibe-Coding"
+  },
+  {
+    "description": "Harness-enforced AI business research skill for Claude Code and Codex Desktop",
+    "id": "Ericyoung-183/alpha-insights",
+    "language": "Python",
+    "name": "Ericyoung-183/alpha-insights",
+    "stars": 25,
+    "updated_at": "2026-06-02T10:49:53Z",
+    "url": "https://github.com/Ericyoung-183/alpha-insights"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
+    "id": "event4u-app/agent-config",
+    "language": "Python",
+    "name": "event4u-app/agent-config",
+    "stars": 6,
+    "updated_at": "2026-06-02T10:49:03Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor",
+    "id": "promptslab/Awesome-Prompt-Engineering",
+    "language": "TypeScript",
+    "name": "promptslab/Awesome-Prompt-Engineering",
+    "stars": 5994,
+    "updated_at": "2026-06-02T10:48:46Z",
+    "url": "https://github.com/promptslab/Awesome-Prompt-Engineering"
+  },
+  {
+    "description": "ArifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA architecture: Architect \u00b7 Auditor \u00b7 Agent. Built for t",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 45,
+    "updated_at": "2026-06-02T10:48:38Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 3801,
+    "updated_at": "2026-06-02T10:59:39Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "\ud83c\udff0 883+ Universal Agentic Skills for Claude Code, Gemini CLI, Cursor & More \u2014 Curated by Rootcastle Engineering & Innovat",
+    "id": "rootcastleco/rei-skills",
+    "language": "Python",
+    "name": "rootcastleco/rei-skills",
+    "stars": 5,
+    "updated_at": "2026-06-02T10:45:55Z",
+    "url": "https://github.com/rootcastleco/rei-skills"
+  },
+  {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 40,
+    "updated_at": "2026-06-02T10:45:54Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -14,7 +176,7 @@
     "language": "TypeScript",
     "name": "dogfood-lab/study-swarm",
     "stars": 0,
-    "updated_at": "2026-06-02T10:44:56Z",
+    "updated_at": "2026-06-02T10:45:43Z",
     "url": "https://github.com/dogfood-lab/study-swarm"
   },
   {
@@ -25,24 +187,6 @@
     "stars": 6624,
     "updated_at": "2026-06-02T10:44:40Z",
     "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Token-efficient context-graph CLI for AI coding agents (C++, single binary). 70-90% fewer tokens via graph + memory + fi",
-    "id": "ncmonx/icemage",
-    "language": "C++",
-    "name": "ncmonx/icemage",
-    "stars": 3,
-    "updated_at": "2026-06-02T10:44:01Z",
-    "url": "https://github.com/ncmonx/icemage"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 5,
-    "updated_at": "2026-06-02T10:43:18Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
   },
   {
     "description": "Deep reasoning engine rules designed for agents \u2014 activate deep reasoning potential, making agents smarter, more rigorou",
@@ -59,17 +203,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19421,
-    "updated_at": "2026-06-02T10:41:44Z",
+    "updated_at": "2026-06-02T10:58:08Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "v1.0 stable: architecture-first CLI for shipping software with continuity. Seven-phase workflow, six-role forge orchestr",
-    "id": "hrabanazviking/Viking-Code-Mythic-Engineering-CLI-Vibe-Coding",
-    "language": "Python",
-    "name": "hrabanazviking/Viking-Code-Mythic-Engineering-CLI-Vibe-Coding",
-    "stars": 3,
-    "updated_at": "2026-06-02T10:41:08Z",
-    "url": "https://github.com/hrabanazviking/Viking-Code-Mythic-Engineering-CLI-Vibe-Coding"
   },
   {
     "description": "Kotlin + K8s tool for improving LLM prompts and UIs through live user feedback.",
@@ -79,15 +214,6 @@
     "stars": 7,
     "updated_at": "2026-06-02T10:39:54Z",
     "url": "https://github.com/Eignex/combo"
-  },
-  {
-    "description": "AI-powered restaurant name & menu generator using LangChain LCEL chains + Groq LLaMA 3.3 70B. Features a Streamlit web a",
-    "id": "Dominionai/langchain-groq-restaurant-agent",
-    "language": "Jupyter Notebook",
-    "name": "Dominionai/langchain-groq-restaurant-agent",
-    "stars": 1,
-    "updated_at": "2026-06-02T10:38:25Z",
-    "url": "https://github.com/Dominionai/langchain-groq-restaurant-agent"
   },
   {
     "description": "AI automation systems for studios, consultants, and small teams.",
@@ -104,7 +230,7 @@
     "language": "JavaScript",
     "name": "thc1006/ai-prompting-guide",
     "stars": 0,
-    "updated_at": "2026-06-02T10:36:46Z",
+    "updated_at": "2026-06-02T10:54:25Z",
     "url": "https://github.com/thc1006/ai-prompting-guide"
   },
   {
@@ -126,6 +252,15 @@
     "url": "https://github.com/khushi1k4/TaskHub-AI-Powered-Product-Visual-Studio"
   },
   {
+    "description": "Code, instructions, and workflows from the AI SDLC blog series at dczerwinski.pl",
+    "id": "dczerwinskipl/ai-sdlc-from-scratch",
+    "language": "C#",
+    "name": "dczerwinskipl/ai-sdlc-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-06-02T10:33:32Z",
+    "url": "https://github.com/dczerwinskipl/ai-sdlc-from-scratch"
+  },
+  {
     "description": "Multi-agent orchestration for VS Code Copilot, Claude Code, OpenAI Codex and Cursor",
     "id": "Smithbox-ai/ControlFlow",
     "language": "JavaScript",
@@ -135,29 +270,11 @@
     "url": "https://github.com/Smithbox-ai/ControlFlow"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-02T10:30:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "ArifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA architecture: Architect \u00b7 Auditor \u00b7 Agent. Built for t",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 45,
-    "updated_at": "2026-06-02T10:27:53Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 25995,
+    "stars": 25996,
     "updated_at": "2026-06-02T10:26:35Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -198,15 +315,6 @@
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28358,
-    "updated_at": "2026-06-02T10:43:24Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
     "id": "zxpmail/ReqForge",
     "language": "JavaScript",
@@ -220,7 +328,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26247,
+    "stars": 26248,
     "updated_at": "2026-06-02T10:22:09Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -275,7 +383,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4172,
-    "updated_at": "2026-06-02T10:32:31Z",
+    "updated_at": "2026-06-02T10:46:11Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -315,15 +423,6 @@
     "url": "https://github.com/Crystal-DU/ai-content-assistant"
   },
   {
-    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
-    "id": "event4u-app/agent-config",
-    "language": "Python",
-    "name": "event4u-app/agent-config",
-    "stars": 6,
-    "updated_at": "2026-06-02T10:21:21Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "The largest universal agent skill library \u2014 production-ready skills with semantic search, vector embeddings, mobile-firs",
     "id": "badhope/AI-SKILL",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T10:05:55Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
-    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "language": "HTML",
-    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "stars": 0,
-    "updated_at": "2026-06-02T10:05:31Z",
-    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-06-02T10:05:25Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Experimental AI-assisted workflow for turning visual references into maintainable GraphCompose Java templates. Companion",
-    "id": "DemchaAV/graphcompose-ai-flow",
-    "language": "Java",
-    "name": "DemchaAV/graphcompose-ai-flow",
-    "stars": 2,
-    "updated_at": "2026-06-02T10:04:06Z",
-    "url": "https://github.com/DemchaAV/graphcompose-ai-flow"
-  },
-  {
-    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u6392\u76d8\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
-    "id": "Brhiza/mingyu",
-    "language": "TypeScript",
-    "name": "Brhiza/mingyu",
-    "stars": 106,
-    "updated_at": "2026-06-02T10:03:27Z",
-    "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
-    "description": "Autonomous AI Story Generator using Gemini API. Multi-axis randomization prevents repetitive plots. / Gemini API\u3092\u6d3b\u7528\u3057\u305f\u3001\u5b8c\u5168",
-    "id": "FURUYAN1234/story-maker",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/story-maker",
-    "stars": 3,
-    "updated_at": "2026-06-02T10:03:16Z",
-    "url": "https://github.com/FURUYAN1234/story-maker"
-  },
-  {
-    "description": "The Developer\u2019s Guide to AI Systems, Prompt Engineering, and Context Engineering.",
-    "id": "CodeByKhaleel/ContextCraft",
-    "language": "TypeScript",
-    "name": "CodeByKhaleel/ContextCraft",
-    "stars": 2,
-    "updated_at": "2026-06-02T10:00:30Z",
-    "url": "https://github.com/CodeByKhaleel/ContextCraft"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21801,
-    "updated_at": "2026-06-02T10:39:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
-    "id": "rmdhananjay/contextual-memory-map",
-    "language": "HTML",
-    "name": "rmdhananjay/contextual-memory-map",
-    "stars": 0,
-    "updated_at": "2026-06-02T09:59:42Z",
-    "url": "https://github.com/rmdhananjay/contextual-memory-map"
-  },
-  {
-    "description": "Reusable Codex/Claude-style AI skill folders for safe publishing, research briefs, case studies, outreach workflows, Ets",
-    "id": "jqaisystems/jqai-ai-skills",
-    "language": "HTML",
-    "name": "jqaisystems/jqai-ai-skills",
-    "stars": 2,
-    "updated_at": "2026-06-02T09:58:09Z",
-    "url": "https://github.com/jqaisystems/jqai-ai-skills"
-  },
-  {
-    "description": "A tool that compiles messy natural language prompts into a structured intermediate representation (IR) and optionally se",
-    "id": "madara88645/Compiler",
-    "language": "Python",
-    "name": "madara88645/Compiler",
-    "stars": 24,
-    "updated_at": "2026-06-02T10:22:07Z",
-    "url": "https://github.com/madara88645/Compiler"
-  },
-  {
-    "description": "AI data product portfolio for intelligent analytics, NL2SQL workflow, prompt evaluation, and AI product case studies.",
-    "id": "Leeli911/ai-data-product-portfolio",
-    "language": "Python",
-    "name": "Leeli911/ai-data-product-portfolio",
-    "stars": 0,
-    "updated_at": "2026-06-02T09:52:05Z",
-    "url": "https://github.com/Leeli911/ai-data-product-portfolio"
   }
 ]
