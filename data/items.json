@@ -1,12 +1,21 @@
 [
   {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "HTML",
-    "name": "DYAI2025/Plumbline",
+    "description": "ArifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA architecture: Architect \u00b7 Auditor \u00b7 Agent. Built for t",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 45,
+    "updated_at": "2026-06-02T17:13:03Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "My personal collection of handcrafted AI agent skills \u2014 original prompting modules for code quality, knowledge explorati",
+    "id": "unix2dos/skills",
+    "language": "Python",
+    "name": "unix2dos/skills",
     "stars": 2,
-    "updated_at": "2026-06-02T16:59:22Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
+    "updated_at": "2026-06-02T17:10:56Z",
+    "url": "https://github.com/unix2dos/skills"
   },
   {
     "description": "Portable agent skill library for Codex, Claude Code, and other AGENTS-aware tools. Covers eval loops, research, writing,",
@@ -14,8 +23,107 @@
     "language": "\u2014",
     "name": "mattdweigand-sketch/agent-skills",
     "stars": 0,
-    "updated_at": "2026-06-02T16:59:14Z",
+    "updated_at": "2026-06-02T17:10:26Z",
     "url": "https://github.com/mattdweigand-sketch/agent-skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-02T17:10:21Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "\ud83d\udc0c An open research project where anyone can forge AI values ",
+    "id": "xiaojialove-DRP/the42post",
+    "language": "JavaScript",
+    "name": "xiaojialove-DRP/the42post",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:09:59Z",
+    "url": "https://github.com/xiaojialove-DRP/the42post"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:09:56Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 3,
+    "updated_at": "2026-06-02T17:08:56Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "HTML",
+    "name": "DYAI2025/Plumbline",
+    "stars": 2,
+    "updated_at": "2026-06-02T17:08:19Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Illustrious & NoobAI Style Explorer - A fast, visual reference library for 16,000+ artist styles, optimized for Illustri",
+    "id": "ThetaCursed/Illustrious-NoobAI-Style-Explorer",
+    "language": "JavaScript",
+    "name": "ThetaCursed/Illustrious-NoobAI-Style-Explorer",
+    "stars": 70,
+    "updated_at": "2026-06-02T17:08:05Z",
+    "url": "https://github.com/ThetaCursed/Illustrious-NoobAI-Style-Explorer"
+  },
+  {
+    "description": "Codex skill for turning novels, scripts, and story worlds into interactive visual atlases.",
+    "id": "maikeliu86-coder/story-vista",
+    "language": "\u2014",
+    "name": "maikeliu86-coder/story-vista",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:07:39Z",
+    "url": "https://github.com/maikeliu86-coder/story-vista"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:05:26Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The system your AI agents are missing \u2014 synced instructions, workflow skills, hardened secrets, and autonomous loops acr",
+    "id": "arndvs/ctrlshft",
+    "language": "Shell",
+    "name": "arndvs/ctrlshft",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:03:05Z",
+    "url": "https://github.com/arndvs/ctrlshft"
+  },
+  {
+    "description": "Six evidence-disciplined research workflow skills for coding agents. Install with npx skills, direct download, or git cl",
+    "id": "SystemicVoid/agentic-research-skills",
+    "language": "\u2014",
+    "name": "SystemicVoid/agentic-research-skills",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:01:22Z",
+    "url": "https://github.com/SystemicVoid/agentic-research-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-02T17:00:41Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -54,15 +162,6 @@
     "url": "https://github.com/AIEngineering26/promptvm-cli"
   },
   {
-    "description": "Six evidence-disciplined research workflow skills for coding agents. Install with npx skills, direct download, or git cl",
-    "id": "SystemicVoid/agentic-research-skills",
-    "language": "\u2014",
-    "name": "SystemicVoid/agentic-research-skills",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:56:56Z",
-    "url": "https://github.com/SystemicVoid/agentic-research-skills"
-  },
-  {
     "description": "AI agent skills for legal and software engineering workflows designed for Claude, OpenAI Codex, and enterprise AI system",
     "id": "carlditzler/AI-Skills",
     "language": "Python",
@@ -70,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-06-02T16:56:33Z",
     "url": "https://github.com/carlditzler/AI-Skills"
-  },
-  {
-    "description": "Codex skill for turning novels, scripts, and story worlds into interactive visual atlases.",
-    "id": "maikeliu86-coder/story-vista",
-    "language": "\u2014",
-    "name": "maikeliu86-coder/story-vista",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:56:05Z",
-    "url": "https://github.com/maikeliu86-coder/story-vista"
   },
   {
     "description": "AHA (Aligned Human-AI): /aha is a single-door alignment kit with memory, typed questions, premortem critique, eval rubri",
@@ -97,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-06-02T16:54:21Z",
     "url": "https://github.com/ApartsinProjects/SynSmith"
-  },
-  {
-    "description": "ArifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA architecture: Architect \u00b7 Auditor \u00b7 Agent. Built for t",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 45,
-    "updated_at": "2026-06-02T16:51:38Z",
-    "url": "https://github.com/ariffazil/arifos"
   },
   {
     "description": "This is AI Prompts sharing project with Next.js. Users can save their prompts to this site and prompts are available to ",
@@ -239,7 +320,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9966,
-    "updated_at": "2026-06-02T16:58:27Z",
+    "updated_at": "2026-06-02T17:13:30Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -250,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T16:45:49Z",
     "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:45:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
@@ -365,7 +437,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 3804,
-    "updated_at": "2026-06-02T17:00:21Z",
+    "updated_at": "2026-06-02T17:08:07Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T16:43:35Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:43:32Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:43:25Z",
-    "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1282,
-    "updated_at": "2026-06-02T16:43:12Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:43:10Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 1555,
-    "updated_at": "2026-06-02T16:43:06Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:42:42Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:42:32Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-06-02T16:42:12Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
   }
 ]
