@@ -1,5 +1,95 @@
 [
   {
+    "description": "/scout \u2014 a Claude Code router that diagnoses your task and hands it to the right skill, agent, or built-in (no memorizin",
+    "id": "1337co/1337scout",
+    "language": "Shell",
+    "name": "1337co/1337scout",
+    "stars": 1,
+    "updated_at": "2026-06-03T08:28:52Z",
+    "url": "https://github.com/1337co/1337scout"
+  },
+  {
+    "description": "Multi-perspective code review council for Claude Code. 3 advisors by default, 10 agents in deep mode (Opus + Codex). Evi",
+    "id": "Zandereins/hydra",
+    "language": "Python",
+    "name": "Zandereins/hydra",
+    "stars": 2,
+    "updated_at": "2026-06-03T08:26:57Z",
+    "url": "https://github.com/Zandereins/hydra"
+  },
+  {
+    "description": "Curated GPT-Image-2 prompts for the OpenAI API \u2014 portraits, posters, UI mockups, game screenshots, character sheets, and",
+    "id": "Anil-matcha/Awesome-GPT-Image-2-API-Prompts",
+    "language": "Jupyter Notebook",
+    "name": "Anil-matcha/Awesome-GPT-Image-2-API-Prompts",
+    "stars": 47,
+    "updated_at": "2026-06-03T08:25:14Z",
+    "url": "https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts"
+  },
+  {
+    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
+    "id": "luongs3/skill-atlas",
+    "language": "Shell",
+    "name": "luongs3/skill-atlas",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:25:06Z",
+    "url": "https://github.com/luongs3/skill-atlas"
+  },
+  {
+    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
+    "id": "product-on-purpose/writing-style-catalog",
+    "language": "JavaScript",
+    "name": "product-on-purpose/writing-style-catalog",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:20:20Z",
+    "url": "https://github.com/product-on-purpose/writing-style-catalog"
+  },
+  {
+    "description": "Chrome extension for saving, compressing, and transferring AI conversation context across ChatGPT, Claude, Gemini, and C",
+    "id": "MaazzAlii/context-saver-extension",
+    "language": "JavaScript",
+    "name": "MaazzAlii/context-saver-extension",
+    "stars": 3,
+    "updated_at": "2026-06-03T08:18:24Z",
+    "url": "https://github.com/MaazzAlii/context-saver-extension"
+  },
+  {
+    "description": "A production-grade Kanban board application. Showcases engineering practices, decision-making and AI-assisted optimizati",
+    "id": "john-data-chen/next-dnd-starter-kit",
+    "language": "TypeScript",
+    "name": "john-data-chen/next-dnd-starter-kit",
+    "stars": 10,
+    "updated_at": "2026-06-03T08:17:54Z",
+    "url": "https://github.com/john-data-chen/next-dnd-starter-kit"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28418,
+    "updated_at": "2026-06-03T08:29:34Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source prompt and workflow toolkit for AI-powered real estate virtual staging, renovation visualization, and smart ",
+    "id": "meddigi/ai-virtual-staging-smart-interior-toolkit",
+    "language": "\u2014",
+    "name": "meddigi/ai-virtual-staging-smart-interior-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:16:11Z",
+    "url": "https://github.com/meddigi/ai-virtual-staging-smart-interior-toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:15:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
     "id": "SidharthKriplani/genai-systems-lab",
     "language": "JavaScript",
@@ -108,24 +198,6 @@
     "url": "https://github.com/Tiepbm/software-engineering-agent"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28415,
-    "updated_at": "2026-06-03T08:13:30Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T08:00:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Token-efficient context engine for AI coding agents. v2.0: Lean & Lossless Compaction governor + zoned profile/skill mem",
     "id": "ncmonx/icemage",
     "language": "C++",
@@ -216,15 +288,6 @@
     "url": "https://github.com/vllm-project/semantic-router"
   },
   {
-    "description": "/scout \u2014 a Claude Code router that diagnoses your task and hands it to the right skill, agent, or built-in (no memorizin",
-    "id": "1337co/1337scout",
-    "language": "Shell",
-    "name": "1337co/1337scout",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:41:51Z",
-    "url": "https://github.com/1337co/1337scout"
-  },
-  {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
     "id": "herreravalenz6620/context-compression",
     "language": "Python",
@@ -277,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:40:25Z",
     "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
-    "id": "luongs3/skill-atlas",
-    "language": "Shell",
-    "name": "luongs3/skill-atlas",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:40:08Z",
-    "url": "https://github.com/luongs3/skill-atlas"
   },
   {
     "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-03T07:37:22Z",
     "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:37:12Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:37:11Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 2739,
-    "updated_at": "2026-06-03T07:37:10Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:37:07Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:37:04Z",
-    "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:37:02Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
   }
 ]
