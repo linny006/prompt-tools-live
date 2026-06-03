@@ -1,12 +1,21 @@
 [
   {
-    "description": "Stop wasting Claude Code tokens. A local CLI that detects vague prompts, bloated context, and missing CLAUDE.md/.claudei",
-    "id": "rajesh1610-maker/claude-cost-guard",
-    "language": "TypeScript",
-    "name": "rajesh1610-maker/claude-cost-guard",
+    "description": "Refine your prompt before your AI coding agent runs it. A terminal prompt firewall for Claude Code & Codex \u2014 sharpens va",
+    "id": "ravistakumar/prr",
+    "language": "Go",
+    "name": "ravistakumar/prr",
     "stars": 0,
-    "updated_at": "2026-06-03T17:59:57Z",
-    "url": "https://github.com/rajesh1610-maker/claude-cost-guard"
+    "updated_at": "2026-06-03T18:11:14Z",
+    "url": "https://github.com/ravistakumar/prr"
+  },
+  {
+    "description": "Shared public skills developed by Skill Engineer",
+    "id": "Agent-Engineer-Master/skill-engineer",
+    "language": "Python",
+    "name": "Agent-Engineer-Master/skill-engineer",
+    "stars": 6,
+    "updated_at": "2026-06-03T18:09:30Z",
+    "url": "https://github.com/Agent-Engineer-Master/skill-engineer"
   },
   {
     "description": "(OpenCode + Obsidian) ^ Ntizar Mastermind - Multi-agent AI orchestration system with persistent memory, Ebbinghaus decay",
@@ -14,15 +23,87 @@
     "language": "CSS",
     "name": "Ntizar/NtizarBrainMasterMind",
     "stars": 2,
-    "updated_at": "2026-06-03T17:58:46Z",
+    "updated_at": "2026-06-03T18:09:24Z",
     "url": "https://github.com/Ntizar/NtizarBrainMasterMind"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 7692,
+    "updated_at": "2026-06-03T18:04:12Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "\u901a\u7528 AI Coding \u94c1\u5f8b CLAUDE.md \u6a21\u677f \u2014 11 \u6761 operational \u94c1\u5f8b, \u8de8\u9879\u76ee\u590d\u7528",
+    "id": "evan966890/ai-coding-ironrules",
+    "language": "Python",
+    "name": "evan966890/ai-coding-ironrules",
+    "stars": 1,
+    "updated_at": "2026-06-03T18:03:51Z",
+    "url": "https://github.com/evan966890/ai-coding-ironrules"
+  },
+  {
+    "description": "Turn vague ideas into precise AI prompts \u2014 instantly.",
+    "id": "AIHenryX/promptcraft",
+    "language": "Python",
+    "name": "AIHenryX/promptcraft",
+    "stars": 0,
+    "updated_at": "2026-06-03T18:03:22Z",
+    "url": "https://github.com/AIHenryX/promptcraft"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-06-03T18:03:00Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26279,
+    "updated_at": "2026-06-03T18:01:51Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T18:00:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Stop wasting Claude Code tokens. A local CLI that detects vague prompts, bloated context, and missing CLAUDE.md/.claudei",
+    "id": "rajesh1610-maker/claude-cost-guard",
+    "language": "TypeScript",
+    "name": "rajesh1610-maker/claude-cost-guard",
+    "stars": 0,
+    "updated_at": "2026-06-03T18:05:20Z",
+    "url": "https://github.com/rajesh1610-maker/claude-cost-guard"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21845,
+    "updated_at": "2026-06-03T18:13:38Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
     "id": "majiayu000/spellbook",
     "language": "Python",
     "name": "majiayu000/spellbook",
-    "stars": 158,
+    "stars": 159,
     "updated_at": "2026-06-03T17:58:38Z",
     "url": "https://github.com/majiayu000/spellbook"
   },
@@ -34,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-06-03T17:59:01Z",
     "url": "https://github.com/Gudvin82/vibe-coding-protocols"
-  },
-  {
-    "description": "\u901a\u7528 AI Coding \u94c1\u5f8b CLAUDE.md \u6a21\u677f \u2014 11 \u6761 operational \u94c1\u5f8b, \u8de8\u9879\u76ee\u590d\u7528",
-    "id": "evan966890/ai-coding-ironrules",
-    "language": "Python",
-    "name": "evan966890/ai-coding-ironrules",
-    "stars": 1,
-    "updated_at": "2026-06-03T17:56:34Z",
-    "url": "https://github.com/evan966890/ai-coding-ironrules"
   },
   {
     "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
@@ -90,15 +162,6 @@
     "url": "https://github.com/crisnahine/chameleon"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21844,
-    "updated_at": "2026-06-03T17:59:44Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Production-ready AI coding skills and agents for Claude Code, OpenCode, and Pi. Covers TDD, .NET, Python, Rust, edge AI,",
     "id": "michaelalber/ai-toolkit",
     "language": "Python",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T17:47:25Z",
     "url": "https://github.com/michaelalber/ai-toolkit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:45:40Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AINL helps turn AI from \"a smart conversation\" into \"a structured worker.\"  It is designed for teams building AI workflo",
@@ -148,7 +202,7 @@
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12389,
+    "stars": 12390,
     "updated_at": "2026-06-03T17:37:48Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
@@ -203,7 +257,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28443,
-    "updated_at": "2026-06-03T17:49:03Z",
+    "updated_at": "2026-06-03T18:13:49Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -297,15 +351,6 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "Refine your prompt before your AI coding agent runs it. A terminal prompt firewall for Claude Code & Codex \u2014 sharpens va",
-    "id": "ravistakumar/prr",
-    "language": "\u2014",
-    "name": "ravistakumar/prr",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:54:48Z",
-    "url": "https://github.com/ravistakumar/prr"
-  },
-  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -396,15 +441,6 @@
     "url": "https://github.com/NirDiamant/Prompt_Engineering"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26278,
-    "updated_at": "2026-06-03T17:02:08Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
     "id": "IBM/mcp-context-forge",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 3812,
     "updated_at": "2026-06-03T17:01:14Z",
     "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 9969,
-    "updated_at": "2026-06-03T17:00:23Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
-    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1617,
-    "updated_at": "2026-06-03T17:00:17Z",
-    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 1560,
-    "updated_at": "2026-06-03T16:59:35Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:55:16Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
   }
 ]
