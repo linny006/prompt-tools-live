@@ -1,5 +1,77 @@
 [
   {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-03T07:59:55Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28414,
+    "updated_at": "2026-06-03T07:58:52Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Token-efficient context engine for AI coding agents. v2.0: Lean & Lossless Compaction governor + zoned profile/skill mem",
+    "id": "ncmonx/icemage",
+    "language": "C++",
+    "name": "ncmonx/icemage",
+    "stars": 3,
+    "updated_at": "2026-06-03T07:56:54Z",
+    "url": "https://github.com/ncmonx/icemage"
+  },
+  {
+    "description": "The Developer\u2019s Guide to AI Systems, Prompt Engineering, and Context Engineering.",
+    "id": "CodeByKhaleel/ContextCraft",
+    "language": "TypeScript",
+    "name": "CodeByKhaleel/ContextCraft",
+    "stars": 2,
+    "updated_at": "2026-06-03T07:56:03Z",
+    "url": "https://github.com/CodeByKhaleel/ContextCraft"
+  },
+  {
+    "description": "\u7ed9 AI \u770b\u7684\u4e2a\u4eba\u54c1\u724c\u8bbe\u8ba1\u7cfb\u7edf\uff1a\u7528\u56fa\u5b9a\u7684\u914d\u8272/\u5b57\u4f53/\u5e03\u5c40\u89c4\u5219\uff0c\u8ba9 AI \u4ea7\u51fa\u98ce\u683c\u7edf\u4e00\u3001\u4e0d\u50cf AI \u7684 HTML \u9875\u9762\u4e0e\u5c0f\u7ea2\u4e66\u56fe\u6587\u5361\u7247\u3002",
+    "id": "SimonZH-2025/buyu-design-system",
+    "language": "HTML",
+    "name": "SimonZH-2025/buyu-design-system",
+    "stars": 0,
+    "updated_at": "2026-06-03T07:52:56Z",
+    "url": "https://github.com/SimonZH-2025/buyu-design-system"
+  },
+  {
+    "description": "AI methodology framework for solo coding with Claude Code. Rules, commands, sub-agents, structured backlog. No applicati",
+    "id": "Nicolas-Delahaie/ai-coding-template",
+    "language": "Shell",
+    "name": "Nicolas-Delahaie/ai-coding-template",
+    "stars": 0,
+    "updated_at": "2026-06-03T07:49:26Z",
+    "url": "https://github.com/Nicolas-Delahaie/ai-coding-template"
+  },
+  {
+    "description": "A simple web service with @promplate. Best practise for prompt engineering applications.",
+    "id": "promplate/demo",
+    "language": "Python",
+    "name": "promplate/demo",
+    "stars": 3,
+    "updated_at": "2026-06-03T07:55:22Z",
+    "url": "https://github.com/promplate/demo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T07:45:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
     "id": "Highlydeveloped-trowel635/context-graph-compressor",
     "language": "\u2014",
@@ -31,7 +103,7 @@
     "id": "vllm-project/semantic-router",
     "language": "Go",
     "name": "vllm-project/semantic-router",
-    "stars": 4259,
+    "stars": 4260,
     "updated_at": "2026-06-03T07:42:46Z",
     "url": "https://github.com/vllm-project/semantic-router"
   },
@@ -144,15 +216,6 @@
     "url": "https://github.com/syncretismdeposit560/TypeAnything"
   },
   {
-    "description": "\u7ed9 AI \u770b\u7684\u4e2a\u4eba\u54c1\u724c\u8bbe\u8ba1\u7cfb\u7edf\uff1a\u7528\u56fa\u5b9a\u7684\u914d\u8272/\u5b57\u4f53/\u5e03\u5c40\u89c4\u5219\uff0c\u8ba9 AI \u4ea7\u51fa\u98ce\u683c\u7edf\u4e00\u3001\u4e0d\u50cf AI \u7684 HTML \u9875\u9762\u4e0e\u5c0f\u7ea2\u4e66\u56fe\u6587\u5361\u7247\u3002",
-    "id": "SimonZH-2025/buyu-design-system",
-    "language": "HTML",
-    "name": "SimonZH-2025/buyu-design-system",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:38:42Z",
-    "url": "https://github.com/SimonZH-2025/buyu-design-system"
-  },
-  {
     "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
     "id": "Paranthropusdwarfchestnut642/claudesona",
     "language": "\u2014",
@@ -196,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-06-03T07:37:59Z",
     "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:37:52Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
@@ -365,7 +419,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4173,
-    "updated_at": "2026-06-03T07:36:45Z",
+    "updated_at": "2026-06-03T07:59:14Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:34:28Z",
     "url": "https://github.com/Namandla0101/PromClick"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:33:57Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "The Developer\u2019s Guide to AI Systems, Prompt Engineering, and Context Engineering.",
-    "id": "CodeByKhaleel/ContextCraft",
-    "language": "TypeScript",
-    "name": "CodeByKhaleel/ContextCraft",
-    "stars": 2,
-    "updated_at": "2026-06-03T07:33:55Z",
-    "url": "https://github.com/CodeByKhaleel/ContextCraft"
-  },
-  {
-    "description": "Automate AI research workflows using Claude Code skills to manage project progress, perform rigorous algorithm reviews, ",
-    "id": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "language": "\u2014",
-    "name": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:33:48Z",
-    "url": "https://github.com/Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy"
-  },
-  {
-    "description": "Track public technical updates, architecture notes, and development benchmarks for the Happy Horse 1.0 AI video generati",
-    "id": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "language": "\u2014",
-    "name": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:33:46Z",
-    "url": "https://github.com/Waldoncockeyed9421/Happy-Horse-1.0"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:33:37Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 2,
-    "updated_at": "2026-06-03T07:33:25Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
   }
 ]
