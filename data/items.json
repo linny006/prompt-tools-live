@@ -1,5 +1,95 @@
 [
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 10576,
+    "updated_at": "2026-06-04T06:29:03Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Prompt refinement and workflow orchestration for Codex: turn vague ideas into scoped goals, reviewable SPECs, validation",
+    "id": "Nam-Cheol/namba-ai",
+    "language": "Go",
+    "name": "Nam-Cheol/namba-ai",
+    "stars": 11,
+    "updated_at": "2026-06-04T06:28:20Z",
+    "url": "https://github.com/Nam-Cheol/namba-ai"
+  },
+  {
+    "description": "Curated Ideogram 4.0 prompts and image examples \u2014 typography, photorealistic portraits, product/UI mockups, and model co",
+    "id": "EvoLinkAI/awesome-ideogram-4.0-prompts",
+    "language": "\u2014",
+    "name": "EvoLinkAI/awesome-ideogram-4.0-prompts",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:26:55Z",
+    "url": "https://github.com/EvoLinkAI/awesome-ideogram-4.0-prompts"
+  },
+  {
+    "description": "Open-source harness distillation: frontier teachers improve prompts, tools, validators, skills, and runtime policies aro",
+    "id": "JarvisPei/HarnessForge",
+    "language": "Python",
+    "name": "JarvisPei/HarnessForge",
+    "stars": 1,
+    "updated_at": "2026-06-04T06:26:22Z",
+    "url": "https://github.com/JarvisPei/HarnessForge"
+  },
+  {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 4863,
+    "updated_at": "2026-06-04T06:26:17Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
+  },
+  {
+    "description": "\u7b2c\u4e00\u4e2a\u805a\u7126\"\u7b80\u5386\u6539\u5199\u8bda\u5b9e\u5ea6\"\u7684\u4e2d\u6587 LLM benchmark\uff1a20 \u771f\u5b9e\u8131\u654f\u7b80\u5386 \u00d7 3 \u6a21\u578b \u00d7 4 \u8bc4\u5206\u7ef4\u5ea6",
+    "id": "melody-ling-L/eval-resume",
+    "language": "HTML",
+    "name": "melody-ling-L/eval-resume",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:23:45Z",
+    "url": "https://github.com/melody-ling-L/eval-resume"
+  },
+  {
+    "description": "Git-style LLM prompt versioning & A/B testing platform \u2014 MLflow for prompts",
+    "id": "shaikn6/prompt-ops",
+    "language": "Python",
+    "name": "shaikn6/prompt-ops",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:23:01Z",
+    "url": "https://github.com/shaikn6/prompt-ops"
+  },
+  {
+    "description": "Curated prompts and image examples for Microsoft MAI-Image-2.5 and MAI-Image-2.5-Flash \u2014 portraits, illustration, poster",
+    "id": "EvoLinkAI/awesome-mai-image-2.5-prompts",
+    "language": "\u2014",
+    "name": "EvoLinkAI/awesome-mai-image-2.5-prompts",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:19:54Z",
+    "url": "https://github.com/EvoLinkAI/awesome-mai-image-2.5-prompts"
+  },
+  {
+    "description": "AI Agent Ops framework for Claude Code \u2014 independent evaluator, adversarial review, and pre-commit quality gate for AI-g",
+    "id": "TeamSPWK/nova",
+    "language": "Shell",
+    "name": "TeamSPWK/nova",
+    "stars": 2,
+    "updated_at": "2026-06-04T06:19:22Z",
+    "url": "https://github.com/TeamSPWK/nova"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy ",
     "id": "eljulians/skillfile",
     "language": "Rust",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T06:11:48Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 10542,
-    "updated_at": "2026-06-04T06:11:08Z",
-    "url": "https://github.com/chopratejas/headroom"
   },
   {
     "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
@@ -95,7 +176,7 @@
     "language": "JavaScript",
     "name": "AditthyaSS/iloveAgents",
     "stars": 87,
-    "updated_at": "2026-06-04T06:09:06Z",
+    "updated_at": "2026-06-04T06:15:31Z",
     "url": "https://github.com/AditthyaSS/iloveAgents"
   },
   {
@@ -151,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T06:07:45Z",
     "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "Curated prompts and image examples for Microsoft MAI-Image-2.5 and MAI-Image-2.5-Flash \u2014 portraits, illustration, poster",
-    "id": "EvoLinkAI/awesome-mai-image-2.5-prompts",
-    "language": "\u2014",
-    "name": "EvoLinkAI/awesome-mai-image-2.5-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:07:42Z",
-    "url": "https://github.com/EvoLinkAI/awesome-mai-image-2.5-prompts"
   },
   {
     "description": "Prompt optimizer and text rephraser for ChatGPT and Gemini \u2014 powered by Gemini, OpenAI, or Claude. Local-first, no backe",
@@ -223,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T06:05:48Z",
     "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Open-source harness distillation: frontier teachers improve prompts, tools, validators, skills, and runtime policies aro",
-    "id": "JarvisPei/HarnessForge",
-    "language": "Python",
-    "name": "JarvisPei/HarnessForge",
-    "stars": 1,
-    "updated_at": "2026-06-04T06:05:43Z",
-    "url": "https://github.com/JarvisPei/HarnessForge"
   },
   {
     "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-04T06:02:38Z",
     "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
-    "id": "Open-Source-Legal/cite",
-    "language": "Python",
-    "name": "Open-Source-Legal/cite",
-    "stars": 1343,
-    "updated_at": "2026-06-04T06:02:31Z",
-    "url": "https://github.com/Open-Source-Legal/cite"
-  },
-  {
-    "description": "Connect Last9 observability data to Cursor via MCP to debug production logs, metrics, and traces directly in your editor",
-    "id": "Christianly-bar1265/cursor-plugin",
-    "language": "\u2014",
-    "name": "Christianly-bar1265/cursor-plugin",
-    "stars": 1,
-    "updated_at": "2026-06-04T06:02:07Z",
-    "url": "https://github.com/Christianly-bar1265/cursor-plugin"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:01:57Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Store Prometheus metrics in ClickHouse with native support for PromQL queries. Simplify long-term storage without managi",
-    "id": "Namandla0101/PromClick",
-    "language": "\u2014",
-    "name": "Namandla0101/PromClick",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:01:46Z",
-    "url": "https://github.com/Namandla0101/PromClick"
-  },
-  {
-    "description": "Analyze Justin Sun\u2019s cognitive operating system by processing thousands of his tweets, interviews, and publications to e",
-    "id": "Emanuelam6674/sun-skill",
-    "language": "\u2014",
-    "name": "Emanuelam6674/sun-skill",
-    "stars": 1,
-    "updated_at": "2026-06-04T06:01:44Z",
-    "url": "https://github.com/Emanuelam6674/sun-skill"
-  },
-  {
-    "description": "Automate AI research workflows using Claude Code skills to manage project progress, perform rigorous algorithm reviews, ",
-    "id": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "language": "\u2014",
-    "name": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:01:21Z",
-    "url": "https://github.com/Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:01:16Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
   }
 ]
