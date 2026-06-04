@@ -1,5 +1,140 @@
 [
   {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 27092,
+    "updated_at": "2026-06-04T12:44:03Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Configuration governance for Claude Code. Bootstrap, audit, sync, and evolve .claude/ across projects.",
+    "id": "luiseiman/dotforge",
+    "language": "Shell",
+    "name": "luiseiman/dotforge",
+    "stars": 7,
+    "updated_at": "2026-06-04T12:43:58Z",
+    "url": "https://github.com/luiseiman/dotforge"
+  },
+  {
+    "description": "Product Build Gate (hplan) + 5 agent-PM lifecycle plugins \u2014 6 plugins, 43 skills, 18 commands for PMs who decide what, w",
+    "id": "kimsanguine/hplan",
+    "language": "HTML",
+    "name": "kimsanguine/hplan",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:43:28Z",
+    "url": "https://github.com/kimsanguine/hplan"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28495,
+    "updated_at": "2026-06-04T12:44:24Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:39:32Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:39:30Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "Your Ultimate Research Co-Pilot 2026 \u2013 Literature Review, Data Analysis & Manuscript Drafting",
+    "id": "Ibrahim-opps/research-mentor-summit",
+    "language": "HTML",
+    "name": "Ibrahim-opps/research-mentor-summit",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:39:14Z",
+    "url": "https://github.com/Ibrahim-opps/research-mentor-summit"
+  },
+  {
+    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
+    "id": "kodancrash-oss/prompt-weaver-framework",
+    "language": "HTML",
+    "name": "kodancrash-oss/prompt-weaver-framework",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:39:05Z",
+    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
+  },
+  {
+    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
+    "id": "tech-guru254/spec-weaver",
+    "language": "HTML",
+    "name": "tech-guru254/spec-weaver",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:38:51Z",
+    "url": "https://github.com/tech-guru254/spec-weaver"
+  },
+  {
+    "description": "Are you using Claude Code to its full potential? This methodology \u2014 55 hooks, Evidence Policy, 14 agent teams \u2014 was buil",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 5,
+    "updated_at": "2026-06-04T12:37:55Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
+    "id": "rmdhananjay/contextual-memory-map",
+    "language": "HTML",
+    "name": "rmdhananjay/contextual-memory-map",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:36:48Z",
+    "url": "https://github.com/rmdhananjay/contextual-memory-map"
+  },
+  {
+    "description": "Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant",
+    "id": "asgeirtj/system_prompts_leaks",
+    "language": "JavaScript",
+    "name": "asgeirtj/system_prompts_leaks",
+    "stars": 41236,
+    "updated_at": "2026-06-04T12:36:13Z",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "description": "ComfyUI custom node: rewrites a plain prompt into Ideogram 4's native structured JSON caption via the hosted magic-promp",
+    "id": "hardhant/ComfyUI-AliAn-Ideogram-Magic-Prompt",
+    "language": "Python",
+    "name": "hardhant/ComfyUI-AliAn-Ideogram-Magic-Prompt",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:32:26Z",
+    "url": "https://github.com/hardhant/ComfyUI-AliAn-Ideogram-Magic-Prompt"
+  },
+  {
+    "description": "Code, instructions, and workflows from the AI SDLC blog series at dczerwinski.pl",
+    "id": "dczerwinskipl/ai-sdlc-from-scratch",
+    "language": "C#",
+    "name": "dczerwinskipl/ai-sdlc-from-scratch",
+    "stars": 1,
+    "updated_at": "2026-06-04T12:31:36Z",
+    "url": "https://github.com/dczerwinskipl/ai-sdlc-from-scratch"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:30:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Programmable, position-aware context for LLM agents. Python library, no heavy dependencies in the core.",
     "id": "softmatsg/thulge-rampart-rel",
     "language": "Python",
@@ -9,15 +144,6 @@
     "url": "https://github.com/softmatsg/thulge-rampart-rel"
   },
   {
-    "description": "Are you using Claude Code to its full potential? This methodology \u2014 55 hooks, Evidence Policy, 14 agent teams \u2014 was buil",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 5,
-    "updated_at": "2026-06-04T12:25:22Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -25,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T12:23:28Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Configuration governance for Claude Code. Bootstrap, audit, sync, and evolve .claude/ across projects.",
-    "id": "luiseiman/dotforge",
-    "language": "Shell",
-    "name": "luiseiman/dotforge",
-    "stars": 7,
-    "updated_at": "2026-06-04T12:23:13Z",
-    "url": "https://github.com/luiseiman/dotforge"
   },
   {
     "description": "Claude Code skill that transforms vague prompts into structured, expert-level prompts using 7 research-backed   framewor",
@@ -72,6 +189,15 @@
     "url": "https://github.com/laubeing-droid/PRC-US-Legal-Semantic-Alignment-Framework"
   },
   {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "HTML",
+    "name": "Open-Less/openless",
+    "stars": 2103,
+    "updated_at": "2026-06-04T12:38:42Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -79,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T12:19:01Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Product Build Gate (hplan) + 5 agent-PM lifecycle plugins \u2014 6 plugins, 43 skills, 18 commands for PMs who decide what, w",
-    "id": "kimsanguine/hplan",
-    "language": "HTML",
-    "name": "kimsanguine/hplan",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:15:43Z",
-    "url": "https://github.com/kimsanguine/hplan"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:15:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -149,7 +257,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 3817,
-    "updated_at": "2026-06-04T12:11:04Z",
+    "updated_at": "2026-06-04T12:33:56Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -252,15 +360,6 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "ComfyUI custom node: rewrites a plain prompt into Ideogram 4's native structured JSON caption via the hosted magic-promp",
-    "id": "hardhant/ComfyUI-AliAn-Ideogram-Magic-Prompt",
-    "language": "Python",
-    "name": "hardhant/ComfyUI-AliAn-Ideogram-Magic-Prompt",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:57:47Z",
-    "url": "https://github.com/hardhant/ComfyUI-AliAn-Ideogram-Magic-Prompt"
-  },
-  {
     "description": "whatif is an open experiment runner for LLM behavior changes. whatif forks production traces, replays them    with a pro",
     "id": "victoralfred/whatifd",
     "language": "Python",
@@ -333,21 +432,12 @@
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
   },
   {
-    "description": "Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "JavaScript",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 41235,
-    "updated_at": "2026-06-04T11:53:15Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3286,
-    "updated_at": "2026-06-04T12:29:31Z",
+    "updated_at": "2026-06-04T12:43:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T11:51:01Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Understand any abstract concept through a carefully crafted fable \u2014 not by memorizing textbook definitions.",
-    "id": "hawkongz/concept-fable",
-    "language": "\u2014",
-    "name": "hawkongz/concept-fable",
-    "stars": 1,
-    "updated_at": "2026-06-04T11:50:44Z",
-    "url": "https://github.com/hawkongz/concept-fable"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 1,
-    "updated_at": "2026-06-04T11:48:05Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
-    "id": "ai-boost/awesome-prompts",
-    "language": "\u2014",
-    "name": "ai-boost/awesome-prompts",
-    "stars": 8119,
-    "updated_at": "2026-06-04T11:47:18Z",
-    "url": "https://github.com/ai-boost/awesome-prompts"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:46:29Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "A curated, verified CLAUDE.md best-practices template for Claude Code \u2014 refreshed regularly. Copy it into your project.",
-    "id": "sf1997-spec/state-of-claude-md",
-    "language": "\u2014",
-    "name": "sf1997-spec/state-of-claude-md",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:45:58Z",
-    "url": "https://github.com/sf1997-spec/state-of-claude-md"
-  },
-  {
-    "description": "Your AI Chief of Staff for startup operations. 48 skills to augment a CEO \u2014 strategy, sales, marketing, and metrics on a",
-    "id": "CodeAlive-AI/ceo-ai-os",
-    "language": "Shell",
-    "name": "CodeAlive-AI/ceo-ai-os",
-    "stars": 1,
-    "updated_at": "2026-06-04T11:45:19Z",
-    "url": "https://github.com/CodeAlive-AI/ceo-ai-os"
-  },
-  {
-    "description": "Recursive AI governance pipeline: Solver \u2192 Auditor \u2192 Reconstructor with pre-declared benchmark gates and correction logs",
-    "id": "RewriteReality-Labs/GBSE",
-    "language": "JavaScript",
-    "name": "RewriteReality-Labs/GBSE",
-    "stars": 1,
-    "updated_at": "2026-06-04T11:44:40Z",
-    "url": "https://github.com/RewriteReality-Labs/GBSE"
-  },
-  {
-    "description": "OpenCode fork for flexible System/Tone prompt control, token-saving pruning, and built-in Codex prompts.",
-    "id": "Krablante/opencodez",
-    "language": "TypeScript",
-    "name": "Krablante/opencodez",
-    "stars": 1,
-    "updated_at": "2026-06-04T11:41:08Z",
-    "url": "https://github.com/Krablante/opencodez"
-  },
-  {
-    "description": "A technical blueprint to reduce OpenAI/Claude API costs by 40%. Learn to strip conversational token bloat and refactor p",
-    "id": "RajashekarRamidi/llm-token-optimizer",
-    "language": "\u2014",
-    "name": "RajashekarRamidi/llm-token-optimizer",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:40:42Z",
-    "url": "https://github.com/RajashekarRamidi/llm-token-optimizer"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19431,
-    "updated_at": "2026-06-04T12:22:22Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
