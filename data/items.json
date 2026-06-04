@@ -1,11 +1,101 @@
 [
   {
+    "description": "Pain-weighted hybrid memory for LLM agents. FTS5 + sqlite-vec + RRF + KG. MIT, open source. Published benchmarks.",
+    "id": "totobusnello/memoria-nox",
+    "language": "TypeScript",
+    "name": "totobusnello/memoria-nox",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:25:25Z",
+    "url": "https://github.com/totobusnello/memoria-nox"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:25:22Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Spec first workflow for coding agents: choose the right model per task, use strong reasoning early, split work into smal",
+    "id": "arcayne/agentic-delivery-playbook",
+    "language": "HTML",
+    "name": "arcayne/agentic-delivery-playbook",
+    "stars": 8,
+    "updated_at": "2026-06-04T17:25:17Z",
+    "url": "https://github.com/arcayne/agentic-delivery-playbook"
+  },
+  {
+    "description": "Bootstrapper scripts for setting up an AI agent configs (Claude Code, Cursor, GitHub Copilot) in any new/existing projec",
+    "id": "AndrewChang-cpu/vibe-coding-configuration",
+    "language": "JavaScript",
+    "name": "AndrewChang-cpu/vibe-coding-configuration",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:25:16Z",
+    "url": "https://github.com/AndrewChang-cpu/vibe-coding-configuration"
+  },
+  {
+    "description": "Custom configuration for Claude Code that turns it into a disciplined engineering partner with structured workflows, str",
+    "id": "domengabrovsek/claude",
+    "language": "Shell",
+    "name": "domengabrovsek/claude",
+    "stars": 9,
+    "updated_at": "2026-06-04T17:23:54Z",
+    "url": "https://github.com/domengabrovsek/claude"
+  },
+  {
+    "description": "Open source prompt management for teams shipping AI features in production. Prompt versioning, A/B testing, conversion f",
+    "id": "xirukmfc/xr2",
+    "language": "TypeScript",
+    "name": "xirukmfc/xr2",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:21:04Z",
+    "url": "https://github.com/xirukmfc/xr2"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28505,
+    "updated_at": "2026-06-04T17:21:58Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:16:48Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19430,
+    "updated_at": "2026-06-04T17:23:56Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:15:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Are you using Claude Code to its full potential? This methodology \u2014 55 hooks, Evidence Policy, 14 agent teams \u2014 was buil",
     "id": "sergeeey/Claude-cod-top-2026",
     "language": "Python",
     "name": "sergeeey/Claude-cod-top-2026",
     "stars": 5,
-    "updated_at": "2026-06-04T17:15:21Z",
+    "updated_at": "2026-06-04T17:24:14Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
@@ -27,15 +117,6 @@
     "url": "https://github.com/devswha/patina"
   },
   {
-    "description": "Open source prompt management for teams shipping AI features in production. Prompt versioning, A/B testing, conversion f",
-    "id": "xirukmfc/xr2",
-    "language": "TypeScript",
-    "name": "xirukmfc/xr2",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:10:50Z",
-    "url": "https://github.com/xirukmfc/xr2"
-  },
-  {
     "description": "Open Symbolic AI Core Repository",
     "id": "OpenSymbolicAI/core-py",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T17:10:27Z",
     "url": "https://github.com/OpenSymbolicAI/core-py"
-  },
-  {
-    "description": "Custom configuration for Claude Code that turns it into a disciplined engineering partner with structured workflows, str",
-    "id": "domengabrovsek/claude",
-    "language": "Shell",
-    "name": "domengabrovsek/claude",
-    "stars": 9,
-    "updated_at": "2026-06-04T17:11:54Z",
-    "url": "https://github.com/domengabrovsek/claude"
   },
   {
     "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
@@ -63,24 +135,6 @@
     "url": "https://github.com/gaofeng21cn/redcube-ai"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:05:34Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:00:40Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
@@ -90,20 +144,11 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "Spec first workflow for coding agents: choose the right model per task, use strong reasoning early, split work into smal",
-    "id": "arcayne/agentic-delivery-playbook",
-    "language": "HTML",
-    "name": "arcayne/agentic-delivery-playbook",
-    "stars": 8,
-    "updated_at": "2026-06-04T16:58:43Z",
-    "url": "https://github.com/arcayne/agentic-delivery-playbook"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 11940,
+    "stars": 11957,
     "updated_at": "2026-06-04T16:56:42Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -347,7 +392,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3287,
-    "updated_at": "2026-06-04T17:14:37Z",
+    "updated_at": "2026-06-04T17:18:22Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T16:23:34Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Markdown for the AI era",
-    "id": "agentmark-ai/agentmark",
-    "language": "TypeScript",
-    "name": "agentmark-ai/agentmark",
-    "stars": 352,
-    "updated_at": "2026-06-04T16:49:26Z",
-    "url": "https://github.com/agentmark-ai/agentmark"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21884,
-    "updated_at": "2026-06-04T16:21:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 27187,
-    "updated_at": "2026-06-04T16:19:00Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 2750,
-    "updated_at": "2026-06-04T16:18:58Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "Personal intelli dashboard (Tauri + Rust + React) for discovering jobs, collabs, side hustles & community builds on X us",
-    "id": "p10ns11y/collab-finder",
-    "language": "TypeScript",
-    "name": "p10ns11y/collab-finder",
-    "stars": 1,
-    "updated_at": "2026-06-04T16:18:57Z",
-    "url": "https://github.com/p10ns11y/collab-finder"
   }
 ]
