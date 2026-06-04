@@ -1,28 +1,118 @@
 [
   {
+    "description": "AI agent skill for planning, drafting, revising, de-AI polishing, and managing long-form web novels with continuity and ",
+    "id": "HZ-KMNO/web-novel-writing-mainbrain-skill",
+    "language": "\u2014",
+    "name": "HZ-KMNO/web-novel-writing-mainbrain-skill",
+    "stars": 1,
+    "updated_at": "2026-06-04T07:45:02Z",
+    "url": "https://github.com/HZ-KMNO/web-novel-writing-mainbrain-skill"
+  },
+  {
+    "description": "\ud83d\udc69\u200d\ud83d\udcbb\u270d\ufe0f Prompt orchestration with stacks you familiar with, such as Vue.",
+    "id": "moeru-ai/velin",
+    "language": "TypeScript",
+    "name": "moeru-ai/velin",
+    "stars": 45,
+    "updated_at": "2026-06-04T07:44:43Z",
+    "url": "https://github.com/moeru-ai/velin"
+  },
+  {
+    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
+    "id": "zxpmail/ReqForge",
+    "language": "TypeScript",
+    "name": "zxpmail/ReqForge",
+    "stars": 9,
+    "updated_at": "2026-06-04T07:44:05Z",
+    "url": "https://github.com/zxpmail/ReqForge"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-04T07:42:53Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Custom configuration for Claude Code that turns it into a disciplined engineering partner with structured workflows, str",
+    "id": "domengabrovsek/claude",
+    "language": "Shell",
+    "name": "domengabrovsek/claude",
+    "stars": 9,
+    "updated_at": "2026-06-04T07:41:32Z",
+    "url": "https://github.com/domengabrovsek/claude"
+  },
+  {
+    "description": "AI agent skills for agile story writing, story splitting, problem framing, and sprint goal generation.",
+    "id": "alwyndsouza/agile-story-skills",
+    "language": "JavaScript",
+    "name": "alwyndsouza/agile-story-skills",
+    "stars": 0,
+    "updated_at": "2026-06-04T07:41:28Z",
+    "url": "https://github.com/alwyndsouza/agile-story-skills"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28478,
+    "updated_at": "2026-06-04T07:40:43Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "A minimalist self-reflection chat app inspired by the teachings of  the great philosopher Acharya Prashant.",
     "id": "shreya1510ss/EGO-SHREDDER",
     "language": "Python",
     "name": "shreya1510ss/EGO-SHREDDER",
     "stars": 0,
-    "updated_at": "2026-06-04T07:29:03Z",
+    "updated_at": "2026-06-04T07:37:50Z",
     "url": "https://github.com/shreya1510ss/EGO-SHREDDER"
+  },
+  {
+    "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 8,
+    "updated_at": "2026-06-04T07:37:46Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
     "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready tem",
     "id": "FlorianBruniaux/claude-code-ultimate-guide",
     "language": "TypeScript",
     "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 4684,
-    "updated_at": "2026-06-04T07:28:58Z",
+    "stars": 4685,
+    "updated_at": "2026-06-04T07:32:09Z",
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Production-ready skills for AI coding agents. 13 skills, 9 agents, harness hooks & quality gates (signed optional for lo",
+    "id": "jvalin17/agent-toolkit",
+    "language": "Python",
+    "name": "jvalin17/agent-toolkit",
+    "stars": 2,
+    "updated_at": "2026-06-04T07:30:54Z",
+    "url": "https://github.com/jvalin17/agent-toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T07:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 10748,
+    "stars": 10790,
     "updated_at": "2026-06-04T07:28:29Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -40,18 +130,9 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 26918,
+    "stars": 26925,
     "updated_at": "2026-06-04T07:28:00Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Enterprise workforce intelligence platform featuring real-time analytics, AI-generated operational insights, SQL-based d",
-    "id": "Parinajain15/IntelliOpsAI",
-    "language": "C#",
-    "name": "Parinajain15/IntelliOpsAI",
-    "stars": 1,
-    "updated_at": "2026-06-04T07:27:36Z",
-    "url": "https://github.com/Parinajain15/IntelliOpsAI"
   },
   {
     "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
@@ -79,15 +160,6 @@
     "stars": 179,
     "updated_at": "2026-06-04T07:23:53Z",
     "url": "https://github.com/majiayu000/spellbook"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-04T07:25:15Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Prompt A/B\u6d4b\u8bd5\u4e0e\u8bc4\u4f30\u6846\u67b6\u3002\u652f\u6301\u5bf9\u6bd4\u3001\u6279\u91cf\u6d4b\u8bd5\u3001\u6548\u679c\u91cf\u5316\u8bc4\u5206\uff0c\u5e2e\u52a9\u5f00\u53d1\u8005\u5feb\u901f\u8fed\u4ee3\u548c\u4f18\u5316 LLM \u63d0\u793a\u8bcd\u3002",
@@ -187,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T07:16:03Z",
     "url": "https://github.com/EvoLinkAI/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T07:15:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "VS Code & Cursor extension: one-click CLAUDE.md / AGENTS.md / .cursorrules generator, stack-aware. Make Claude Code, Cur",
@@ -385,68 +448,5 @@
     "stars": 11,
     "updated_at": "2026-06-04T06:34:35Z",
     "url": "https://github.com/Nam-Cheol/namba-ai"
-  },
-  {
-    "description": "Open-source harness distillation: frontier teachers improve prompts, tools, validators, skills, and runtime policies aro",
-    "id": "JarvisPei/HarnessForge",
-    "language": "Python",
-    "name": "JarvisPei/HarnessForge",
-    "stars": 1,
-    "updated_at": "2026-06-04T06:33:55Z",
-    "url": "https://github.com/JarvisPei/HarnessForge"
-  },
-  {
-    "description": "Git-style LLM prompt versioning & A/B testing platform \u2014 MLflow for prompts",
-    "id": "shaikn6/prompt-ops",
-    "language": "Python",
-    "name": "shaikn6/prompt-ops",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:23:01Z",
-    "url": "https://github.com/shaikn6/prompt-ops"
-  },
-  {
-    "description": "AI Agent Ops framework for Claude Code \u2014 independent evaluator, adversarial review, and pre-commit quality gate for AI-g",
-    "id": "TeamSPWK/nova",
-    "language": "Shell",
-    "name": "TeamSPWK/nova",
-    "stars": 2,
-    "updated_at": "2026-06-04T06:19:22Z",
-    "url": "https://github.com/TeamSPWK/nova"
-  },
-  {
-    "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy ",
-    "id": "eljulians/skillfile",
-    "language": "Rust",
-    "name": "eljulians/skillfile",
-    "stars": 131,
-    "updated_at": "2026-06-04T06:15:09Z",
-    "url": "https://github.com/eljulians/skillfile"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:11:48Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:11:02Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:10:51Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
   }
 ]
