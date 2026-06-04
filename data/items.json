@@ -1,21 +1,30 @@
 [
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
+    "description": "Production-tested agentic skills for Claude, Copilot, and the Agent SDK. Born in real businesses.",
+    "id": "taleshagn-horushub/thoth",
     "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 10576,
-    "updated_at": "2026-06-04T06:29:03Z",
-    "url": "https://github.com/chopratejas/headroom"
+    "name": "taleshagn-horushub/thoth",
+    "stars": 1,
+    "updated_at": "2026-06-04T06:43:35Z",
+    "url": "https://github.com/taleshagn-horushub/thoth"
   },
   {
-    "description": "Prompt refinement and workflow orchestration for Codex: turn vague ideas into scoped goals, reviewable SPECs, validation",
-    "id": "Nam-Cheol/namba-ai",
-    "language": "Go",
-    "name": "Nam-Cheol/namba-ai",
-    "stars": 11,
-    "updated_at": "2026-06-04T06:28:20Z",
-    "url": "https://github.com/Nam-Cheol/namba-ai"
+    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
+    "id": "AditthyaSS/iloveAgents",
+    "language": "JavaScript",
+    "name": "AditthyaSS/iloveAgents",
+    "stars": 87,
+    "updated_at": "2026-06-04T06:43:23Z",
+    "url": "https://github.com/AditthyaSS/iloveAgents"
+  },
+  {
+    "description": "",
+    "id": "whitejoce/prompt_test",
+    "language": "HTML",
+    "name": "whitejoce/prompt_test",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:43:15Z",
+    "url": "https://github.com/whitejoce/prompt_test"
   },
   {
     "description": "Curated Ideogram 4.0 prompts and image examples \u2014 typography, photorealistic portraits, product/UI mockups, and model co",
@@ -23,8 +32,44 @@
     "language": "\u2014",
     "name": "EvoLinkAI/awesome-ideogram-4.0-prompts",
     "stars": 0,
-    "updated_at": "2026-06-04T06:26:55Z",
+    "updated_at": "2026-06-04T06:39:02Z",
     "url": "https://github.com/EvoLinkAI/awesome-ideogram-4.0-prompts"
+  },
+  {
+    "description": "Curated prompts and image examples for Microsoft MAI-Image-2.5 and MAI-Image-2.5-Flash \u2014 portraits, illustration, poster",
+    "id": "EvoLinkAI/awesome-mai-image-2.5-prompts",
+    "language": "\u2014",
+    "name": "EvoLinkAI/awesome-mai-image-2.5-prompts",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:37:26Z",
+    "url": "https://github.com/EvoLinkAI/awesome-mai-image-2.5-prompts"
+  },
+  {
+    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
+    "id": "Kenny27lokku/prompt-integrity-validator",
+    "language": "HTML",
+    "name": "Kenny27lokku/prompt-integrity-validator",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:37:05Z",
+    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
+  },
+  {
+    "description": "Notebook-style doodle visuals for WeChat articles. \u9762\u5411\u5fae\u4fe1\u516c\u4f17\u53f7\u6587\u7ae0\u7684\u624b\u5e10\u6d82\u9e26\u98ce\u914d\u56fe\u6280\u80fd",
+    "id": "oneszc/inknote-wechat-illustrations",
+    "language": "\u2014",
+    "name": "oneszc/inknote-wechat-illustrations",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:37:59Z",
+    "url": "https://github.com/oneszc/inknote-wechat-illustrations"
+  },
+  {
+    "description": "Prompt refinement and workflow orchestration for Codex: turn vague ideas into scoped goals, reviewable SPECs, validation",
+    "id": "Nam-Cheol/namba-ai",
+    "language": "Go",
+    "name": "Nam-Cheol/namba-ai",
+    "stars": 11,
+    "updated_at": "2026-06-04T06:34:35Z",
+    "url": "https://github.com/Nam-Cheol/namba-ai"
   },
   {
     "description": "Open-source harness distillation: frontier teachers improve prompts, tools, validators, skills, and runtime policies aro",
@@ -32,8 +77,35 @@
     "language": "Python",
     "name": "JarvisPei/HarnessForge",
     "stars": 1,
-    "updated_at": "2026-06-04T06:26:22Z",
+    "updated_at": "2026-06-04T06:33:55Z",
     "url": "https://github.com/JarvisPei/HarnessForge"
+  },
+  {
+    "description": "Practical protocols and markdown templates for safer AI-assisted / vibe coding projects: Starter, Hardening, Architectur",
+    "id": "Gudvin82/vibe-coding-protocols",
+    "language": "Markdown",
+    "name": "Gudvin82/vibe-coding-protocols",
+    "stars": 2,
+    "updated_at": "2026-06-04T06:32:02Z",
+    "url": "https://github.com/Gudvin82/vibe-coding-protocols"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 10627,
+    "updated_at": "2026-06-04T06:29:03Z",
+    "url": "https://github.com/chopratejas/headroom"
   },
   {
     "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
@@ -63,15 +135,6 @@
     "url": "https://github.com/shaikn6/prompt-ops"
   },
   {
-    "description": "Curated prompts and image examples for Microsoft MAI-Image-2.5 and MAI-Image-2.5-Flash \u2014 portraits, illustration, poster",
-    "id": "EvoLinkAI/awesome-mai-image-2.5-prompts",
-    "language": "\u2014",
-    "name": "EvoLinkAI/awesome-mai-image-2.5-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:19:54Z",
-    "url": "https://github.com/EvoLinkAI/awesome-mai-image-2.5-prompts"
-  },
-  {
     "description": "AI Agent Ops framework for Claude Code \u2014 independent evaluator, adversarial review, and pre-commit quality gate for AI-g",
     "id": "TeamSPWK/nova",
     "language": "Shell",
@@ -79,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-06-04T06:19:22Z",
     "url": "https://github.com/TeamSPWK/nova"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy ",
@@ -160,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T06:10:27Z",
     "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "Production-tested agentic skills for Claude, Copilot, and the Agent SDK. Born in real businesses.",
-    "id": "taleshagn-horushub/thoth",
-    "language": "Python",
-    "name": "taleshagn-horushub/thoth",
-    "stars": 1,
-    "updated_at": "2026-06-04T06:09:40Z",
-    "url": "https://github.com/taleshagn-horushub/thoth"
-  },
-  {
-    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
-    "id": "AditthyaSS/iloveAgents",
-    "language": "JavaScript",
-    "name": "AditthyaSS/iloveAgents",
-    "stars": 87,
-    "updated_at": "2026-06-04T06:15:31Z",
-    "url": "https://github.com/AditthyaSS/iloveAgents"
   },
   {
     "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T06:03:39Z",
     "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-06-04T06:03:16Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-06-04T06:02:48Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-04T06:02:38Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-06-04T06:02:38Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
   }
 ]
