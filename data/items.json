@@ -1,12 +1,219 @@
 [
   {
+    "description": "\ud83d\udd27 Discover and integrate AI tools easily with this Node.js registry, featuring a simple setup and ready-to-use component",
+    "id": "Coolfacts45/ai-tools-registry",
+    "language": "TypeScript",
+    "name": "Coolfacts45/ai-tools-registry",
+    "stars": 0,
+    "updated_at": "2026-06-04T13:15:18Z",
+    "url": "https://github.com/Coolfacts45/ai-tools-registry"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-04T13:14:42Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Bootstrapper scripts for setting up an AI agent configs (Claude Code, Cursor, GitHub Copilot) in any new/existing projec",
+    "id": "AndrewChang-cpu/vibe-coding-configuration",
+    "language": "JavaScript",
+    "name": "AndrewChang-cpu/vibe-coding-configuration",
+    "stars": 0,
+    "updated_at": "2026-06-04T13:14:14Z",
+    "url": "https://github.com/AndrewChang-cpu/vibe-coding-configuration"
+  },
+  {
+    "description": "The largest universal agent skill library \u2014 production-ready skills with semantic search, vector embeddings, mobile-firs",
+    "id": "badhope/AI-SKILL",
+    "language": "Python",
+    "name": "badhope/AI-SKILL",
+    "stars": 11,
+    "updated_at": "2026-06-04T13:13:48Z",
+    "url": "https://github.com/badhope/AI-SKILL"
+  },
+  {
+    "description": "\ud83d\udc19 AI Craft delivers structured workflow prompts for software development across AI platforms, with Claude AI workflows a",
+    "id": "R-cloud-git/ai-craft",
+    "language": "\u2014",
+    "name": "R-cloud-git/ai-craft",
+    "stars": 3,
+    "updated_at": "2026-06-04T13:12:53Z",
+    "url": "https://github.com/R-cloud-git/ai-craft"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 27104,
+    "updated_at": "2026-06-04T13:12:27Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Computer Engineering Student @ DSEU | Lead Developer @ VS Gaming Studio | Building AI-Driven Web Solutions & Python Scri",
+    "id": "krishsharma-code/krishsharma-code",
+    "language": "\u2014",
+    "name": "krishsharma-code/krishsharma-code",
+    "stars": 1,
+    "updated_at": "2026-06-04T13:12:05Z",
+    "url": "https://github.com/krishsharma-code/krishsharma-code"
+  },
+  {
+    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
+    "id": "Nayjest/ai-microcore",
+    "language": "Python",
+    "name": "Nayjest/ai-microcore",
+    "stars": 107,
+    "updated_at": "2026-06-04T13:13:16Z",
+    "url": "https://github.com/Nayjest/ai-microcore"
+  },
+  {
+    "description": "Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai",
+    "id": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "language": "\u2014",
+    "name": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "stars": 3,
+    "updated_at": "2026-06-04T13:11:17Z",
+    "url": "https://github.com/KingFishyXMesa/fuzz2-producer-ai-angklungmann"
+  },
+  {
+    "description": "Product Build Gate (hplan) + 5 agent-PM lifecycle plugins \u2014 6 plugins, 43 skills, 18 commands for PMs who decide what, w",
+    "id": "kimsanguine/hplan",
+    "language": "HTML",
+    "name": "kimsanguine/hplan",
+    "stars": 0,
+    "updated_at": "2026-06-04T13:11:08Z",
+    "url": "https://github.com/kimsanguine/hplan"
+  },
+  {
+    "description": "A plug-and-play framework for AI-assisted software development, enhancing context-aware collaboration in complex codebas",
+    "id": "MunnaXbadmash/ai-dev-assistant-framework",
+    "language": "\u2014",
+    "name": "MunnaXbadmash/ai-dev-assistant-framework",
+    "stars": 5,
+    "updated_at": "2026-06-04T13:10:59Z",
+    "url": "https://github.com/MunnaXbadmash/ai-dev-assistant-framework"
+  },
+  {
+    "description": "A Gang of Four for AI Engineering \u2014 94 design patterns for LLM systems, grounded in transformer mechanics",
+    "id": "jlldavies/go4-llm-design-patterns",
+    "language": "Python",
+    "name": "jlldavies/go4-llm-design-patterns",
+    "stars": 1,
+    "updated_at": "2026-06-04T13:09:59Z",
+    "url": "https://github.com/jlldavies/go4-llm-design-patterns"
+  },
+  {
+    "description": "Your AI Chief of Staff for startup operations. 48 skills to augment a CEO \u2014 strategy, sales, marketing, and metrics on a",
+    "id": "CodeAlive-AI/ceo-ai-os",
+    "language": "Shell",
+    "name": "CodeAlive-AI/ceo-ai-os",
+    "stars": 1,
+    "updated_at": "2026-06-04T13:09:34Z",
+    "url": "https://github.com/CodeAlive-AI/ceo-ai-os"
+  },
+  {
+    "description": "ComfyUI custom node: rewrites a plain prompt into Ideogram 4's native structured JSON caption via the hosted magic-promp",
+    "id": "hardhant/ComfyUI-AliAn-Ideogram-Magic-Prompt",
+    "language": "Python",
+    "name": "hardhant/ComfyUI-AliAn-Ideogram-Magic-Prompt",
+    "stars": 0,
+    "updated_at": "2026-06-04T13:09:16Z",
+    "url": "https://github.com/hardhant/ComfyUI-AliAn-Ideogram-Magic-Prompt"
+  },
+  {
+    "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
+    "id": "Tymooh/GPT-DUEL-ARENA",
+    "language": "\u2014",
+    "name": "Tymooh/GPT-DUEL-ARENA",
+    "stars": 1,
+    "updated_at": "2026-06-04T13:09:08Z",
+    "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
+  },
+  {
+    "description": "synapz is a research prototype exploring how large language models can adapt teaching content to different cognitive sty",
+    "id": "xmowgofficial/synapz",
+    "language": "Python",
+    "name": "xmowgofficial/synapz",
+    "stars": 4,
+    "updated_at": "2026-06-04T13:07:06Z",
+    "url": "https://github.com/xmowgofficial/synapz"
+  },
+  {
+    "description": "\ud83e\udd16 ACI - Sistema inteligente para fornecer informa\u00e7\u00f5es sobre servi\u00e7os sociais e outros recursos",
+    "id": "alexparjalex/agente-cidadao-inteligente",
+    "language": "Jupyter Notebook",
+    "name": "alexparjalex/agente-cidadao-inteligente",
+    "stars": 1,
+    "updated_at": "2026-06-04T13:06:40Z",
+    "url": "https://github.com/alexparjalex/agente-cidadao-inteligente"
+  },
+  {
+    "description": "Production-grade AI agent governance framework implementing the PC2E pillars (Predict, Communicate, Explain) with four c",
+    "id": "thegeekybeng/pc2e-agent-governance",
+    "language": "\u2014",
+    "name": "thegeekybeng/pc2e-agent-governance",
+    "stars": 0,
+    "updated_at": "2026-06-04T13:04:46Z",
+    "url": "https://github.com/thegeekybeng/pc2e-agent-governance"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-04T13:03:14Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-04T13:02:28Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
     "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
     "id": "Open-Source-Legal/cite",
     "language": "Python",
     "name": "Open-Source-Legal/cite",
     "stars": 1343,
-    "updated_at": "2026-06-04T13:00:21Z",
+    "updated_at": "2026-06-04T13:02:22Z",
     "url": "https://github.com/Open-Source-Legal/cite"
+  },
+  {
+    "description": "whatif is an open experiment runner for LLM behavior changes. whatif forks production traces, replays them    with a pro",
+    "id": "victoralfred/whatifd",
+    "language": "Python",
+    "name": "victoralfred/whatifd",
+    "stars": 3,
+    "updated_at": "2026-06-04T13:02:17Z",
+    "url": "https://github.com/victoralfred/whatifd"
+  },
+  {
+    "description": "Portfolio of Sabiha Aamir, AI Content Creator and Prompt Engineer specializing in cinematic digital storytelling and AI-",
+    "id": "shirazkk/sabiha_portfolio",
+    "language": "TypeScript",
+    "name": "shirazkk/sabiha_portfolio",
+    "stars": 0,
+    "updated_at": "2026-06-04T13:00:53Z",
+    "url": "https://github.com/shirazkk/sabiha_portfolio"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T13:00:39Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
@@ -41,7 +248,7 @@
     "language": "TypeScript",
     "name": "Krablante/opencodez",
     "stars": 1,
-    "updated_at": "2026-06-04T12:56:44Z",
+    "updated_at": "2026-06-04T13:05:29Z",
     "url": "https://github.com/Krablante/opencodez"
   },
   {
@@ -72,6 +279,15 @@
     "url": "https://github.com/shadowquillapp/shadowquillapp"
   },
   {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28500,
+    "updated_at": "2026-06-04T12:48:58Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Are you using Claude Code to its full potential? This methodology \u2014 55 hooks, Evidence Policy, 14 agent teams \u2014 was buil",
     "id": "sergeeey/Claude-cod-top-2026",
     "language": "Python",
@@ -81,31 +297,13 @@
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28497,
-    "updated_at": "2026-06-04T12:48:58Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:45:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 27096,
-    "updated_at": "2026-06-04T12:44:03Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "HTML",
+    "name": "Open-Less/openless",
+    "stars": 2105,
+    "updated_at": "2026-06-04T12:45:50Z",
+    "url": "https://github.com/Open-Less/openless"
   },
   {
     "description": "Configuration governance for Claude Code. Bootstrap, audit, sync, and evolve .claude/ across projects.",
@@ -115,15 +313,6 @@
     "stars": 7,
     "updated_at": "2026-06-04T12:43:58Z",
     "url": "https://github.com/luiseiman/dotforge"
-  },
-  {
-    "description": "Product Build Gate (hplan) + 5 agent-PM lifecycle plugins \u2014 6 plugins, 43 skills, 18 commands for PMs who decide what, w",
-    "id": "kimsanguine/hplan",
-    "language": "HTML",
-    "name": "kimsanguine/hplan",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:43:28Z",
-    "url": "https://github.com/kimsanguine/hplan"
   },
   {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
@@ -184,18 +373,18 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 41236,
+    "stars": 41237,
     "updated_at": "2026-06-04T12:36:13Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
   {
-    "description": "ComfyUI custom node: rewrites a plain prompt into Ideogram 4's native structured JSON caption via the hosted magic-promp",
-    "id": "hardhant/ComfyUI-AliAn-Ideogram-Magic-Prompt",
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
     "language": "Python",
-    "name": "hardhant/ComfyUI-AliAn-Ideogram-Magic-Prompt",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:32:26Z",
-    "url": "https://github.com/hardhant/ComfyUI-AliAn-Ideogram-Magic-Prompt"
+    "name": "IBM/mcp-context-forge",
+    "stars": 3819,
+    "updated_at": "2026-06-04T13:13:43Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "Code, instructions, and workflows from the AI SDLC blog series at dczerwinski.pl",
@@ -259,194 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T12:21:56Z",
     "url": "https://github.com/laubeing-droid/PRC-US-Legal-Semantic-Alignment-Framework"
-  },
-  {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "HTML",
-    "name": "Open-Less/openless",
-    "stars": 2103,
-    "updated_at": "2026-06-04T12:45:50Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:19:01Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:15:14Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Hybrid adaptive memory system for Claude Code \u2014 Cheatsheet (positive patterns) + Immune (negative patterns)",
-    "id": "Mnemoclaw/immune",
-    "language": "HTML",
-    "name": "Mnemoclaw/immune",
-    "stars": 10,
-    "updated_at": "2026-06-04T12:14:37Z",
-    "url": "https://github.com/Mnemoclaw/immune"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:13:53Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Pain-weighted hybrid memory for LLM agents. FTS5 + sqlite-vec + RRF + KG. MIT, open source. Published benchmarks.",
-    "id": "totobusnello/memoria-nox",
-    "language": "TypeScript",
-    "name": "totobusnello/memoria-nox",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:13:37Z",
-    "url": "https://github.com/totobusnello/memoria-nox"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:11:48Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 3817,
-    "updated_at": "2026-06-04T12:33:56Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:10:13Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:09:29Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Standardized Claude Code bootstrap \u2014 drop-in .claude/ tree with a 19-agent adversarial review team, Ralph Loop, dev-flow",
-    "id": "shawnclybor/clybor-claude-tooling",
-    "language": "Shell",
-    "name": "shawnclybor/clybor-claude-tooling",
-    "stars": 5,
-    "updated_at": "2026-06-04T12:08:47Z",
-    "url": "https://github.com/shawnclybor/clybor-claude-tooling"
-  },
-  {
-    "description": "A minimalist self-reflection chat app inspired by the teachings of  the great philosopher Acharya Prashant.",
-    "id": "shreya1510ss/EGO-SHREDDER",
-    "language": "Python",
-    "name": "shreya1510ss/EGO-SHREDDER",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:06:27Z",
-    "url": "https://github.com/shreya1510ss/EGO-SHREDDER"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:05:41Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "OpenAI-compatible media generation gateway for AI Agents. Supports multi-provider image/video generation, model routing,",
-    "id": "ang77712829/AngeMedia-gateway",
-    "language": "Python",
-    "name": "ang77712829/AngeMedia-gateway",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:06:57Z",
-    "url": "https://github.com/ang77712829/AngeMedia-gateway"
-  },
-  {
-    "description": "ArifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA architecture: Architect \u00b7 Auditor \u00b7 Agent. Built for t",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 45,
-    "updated_at": "2026-06-04T12:02:11Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
-    "description": "Practical protocols and markdown templates for safer AI-assisted / vibe coding projects: Starter, Hardening, Architectur",
-    "id": "Gudvin82/vibe-coding-protocols",
-    "language": "Markdown",
-    "name": "Gudvin82/vibe-coding-protocols",
-    "stars": 2,
-    "updated_at": "2026-06-04T12:04:35Z",
-    "url": "https://github.com/Gudvin82/vibe-coding-protocols"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 37,
-    "updated_at": "2026-06-04T11:59:28Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
-    "id": "dgenio/contextweaver",
-    "language": "Python",
-    "name": "dgenio/contextweaver",
-    "stars": 6,
-    "updated_at": "2026-06-04T11:58:28Z",
-    "url": "https://github.com/dgenio/contextweaver"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-06-04T11:57:59Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "whatif is an open experiment runner for LLM behavior changes. whatif forks production traces, replays them    with a pro",
-    "id": "victoralfred/whatifd",
-    "language": "Python",
-    "name": "victoralfred/whatifd",
-    "stars": 3,
-    "updated_at": "2026-06-04T13:00:04Z",
-    "url": "https://github.com/victoralfred/whatifd"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:57:02Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
   }
 ]
