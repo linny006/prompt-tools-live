@@ -1,5 +1,59 @@
 [
   {
+    "description": "Reusable numbered-prompt chain runner for AI coding CLIs with provider adapters, resume, logs, and per-project state.",
+    "id": "usercopy-fault/ctrlBolt",
+    "language": "Python",
+    "name": "usercopy-fault/ctrlBolt",
+    "stars": 0,
+    "updated_at": "2026-06-04T03:15:19Z",
+    "url": "https://github.com/usercopy-fault/ctrlBolt"
+  },
+  {
+    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
+    "id": "Open-Source-Legal/cite",
+    "language": "Python",
+    "name": "Open-Source-Legal/cite",
+    "stars": 1343,
+    "updated_at": "2026-06-04T03:14:00Z",
+    "url": "https://github.com/Open-Source-Legal/cite"
+  },
+  {
+    "description": "Modular AI framework for TCG logic, featuring UROE v2 resolution engine, stress-proof edge-case handling, and dual-perso",
+    "id": "oKarismatic/UniversalTCGAIArchitecture",
+    "language": "\u2014",
+    "name": "oKarismatic/UniversalTCGAIArchitecture",
+    "stars": 1,
+    "updated_at": "2026-06-04T03:13:51Z",
+    "url": "https://github.com/oKarismatic/UniversalTCGAIArchitecture"
+  },
+  {
+    "description": "Unified Codex skill for prompt framing, question coaching, user style profiles, and skill routing",
+    "id": "HPSummer/question-to-prompt-pack",
+    "language": "Python",
+    "name": "HPSummer/question-to-prompt-pack",
+    "stars": 2,
+    "updated_at": "2026-06-04T03:04:41Z",
+    "url": "https://github.com/HPSummer/question-to-prompt-pack"
+  },
+  {
+    "description": "\u57fa\u4e8e Superpowers \u6539\u9020\u7684 Codex \u5168\u6d41\u7a0b\u5f00\u53d1 skill suite\uff0c\u4e00\u6b21\u5b89\u88c5\u5373\u53ef\u8986\u76d6\u89c4\u5212\u3001\u5b9e\u73b0\u3001\u8c03\u8bd5\u3001\u9a8c\u8bc1\u3001UI/UX\u3001Web QA\u3001MCP\u3001PR/CI \u4e0e\u4ee3\u7801\u8bc4\u5ba1\u3002",
+    "id": "rrhww/omni-superdev",
+    "language": "Python",
+    "name": "rrhww/omni-superdev",
+    "stars": 0,
+    "updated_at": "2026-06-04T03:01:58Z",
+    "url": "https://github.com/rrhww/omni-superdev"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T03:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
     "id": "fabioc-aloha/Alex_Skill_Mall",
     "language": "Python",
@@ -13,7 +67,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26285,
+    "stars": 26286,
     "updated_at": "2026-06-04T02:56:11Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -72,15 +126,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T02:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
     "id": "luongs3/skill-atlas",
     "language": "Shell",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T02:43:59Z",
     "url": "https://github.com/luongs3/skill-atlas"
-  },
-  {
-    "description": "Reusable numbered-prompt chain runner for AI coding CLIs with provider adapters, resume, logs, and per-project state.",
-    "id": "usercopy-fault/ctrlBolt",
-    "language": "Python",
-    "name": "usercopy-fault/ctrlBolt",
-    "stars": 0,
-    "updated_at": "2026-06-04T02:42:16Z",
-    "url": "https://github.com/usercopy-fault/ctrlBolt"
   },
   {
     "description": "A task-contract and verification-gate skill for coding agents.",
@@ -207,20 +243,11 @@
     "url": "https://github.com/badhope/AI-SKILL"
   },
   {
-    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
-    "id": "Open-Source-Legal/cite",
-    "language": "Python",
-    "name": "Open-Source-Legal/cite",
-    "stars": 1343,
-    "updated_at": "2026-06-04T02:33:23Z",
-    "url": "https://github.com/Open-Source-Legal/cite"
-  },
-  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 26776,
+    "stars": 26783,
     "updated_at": "2026-06-04T02:13:45Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -229,7 +256,7 @@
     "id": "K-Dense-AI/scientific-agents",
     "language": "\u2014",
     "name": "K-Dense-AI/scientific-agents",
-    "stars": 25,
+    "stars": 26,
     "updated_at": "2026-06-04T02:09:14Z",
     "url": "https://github.com/K-Dense-AI/scientific-agents"
   },
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T02:07:50Z",
     "url": "https://github.com/rajatthai/multi-agent-debate-engine"
-  },
-  {
-    "description": "Unified Codex skill for prompt framing, question coaching, user style profiles, and skill routing",
-    "id": "HPSummer/question-to-prompt-pack",
-    "language": "Python",
-    "name": "HPSummer/question-to-prompt-pack",
-    "stars": 2,
-    "updated_at": "2026-06-04T02:07:48Z",
-    "url": "https://github.com/HPSummer/question-to-prompt-pack"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -430,23 +448,5 @@
     "stars": 15,
     "updated_at": "2026-06-04T01:44:26Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:44:09Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:43:53Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
   }
 ]
