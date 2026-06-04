@@ -1,21 +1,48 @@
 [
   {
-    "description": "AI agent skill for planning, drafting, revising, de-AI polishing, and managing long-form web novels with continuity and ",
-    "id": "HZ-KMNO/web-novel-writing-mainbrain-skill",
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
-    "name": "HZ-KMNO/web-novel-writing-mainbrain-skill",
-    "stars": 1,
-    "updated_at": "2026-06-04T07:45:02Z",
-    "url": "https://github.com/HZ-KMNO/web-novel-writing-mainbrain-skill"
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 15,
+    "updated_at": "2026-06-04T07:58:25Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
-    "description": "\ud83d\udc69\u200d\ud83d\udcbb\u270d\ufe0f Prompt orchestration with stacks you familiar with, such as Vue.",
-    "id": "moeru-ai/velin",
+    "description": "Unified OpenAI-compatible AI gateway for 10+ providers \u2014 with prompt workflows (Action/Template), quality monitoring, an",
+    "id": "tripplemay/aigcgateway",
     "language": "TypeScript",
-    "name": "moeru-ai/velin",
-    "stars": 45,
-    "updated_at": "2026-06-04T07:44:43Z",
-    "url": "https://github.com/moeru-ai/velin"
+    "name": "tripplemay/aigcgateway",
+    "stars": 2,
+    "updated_at": "2026-06-04T07:57:11Z",
+    "url": "https://github.com/tripplemay/aigcgateway"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 10828,
+    "updated_at": "2026-06-04T07:56:28Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 4863,
+    "updated_at": "2026-06-04T07:56:14Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
+  },
+  {
+    "description": "Autonomous AI Story Generator using Gemini API. Multi-axis randomization prevents repetitive plots. / Gemini API\u3092\u6d3b\u7528\u3057\u305f\u3001\u5b8c\u5168",
+    "id": "FURUYAN1234/story-maker",
+    "language": "JavaScript",
+    "name": "FURUYAN1234/story-maker",
+    "stars": 3,
+    "updated_at": "2026-06-04T07:59:52Z",
+    "url": "https://github.com/FURUYAN1234/story-maker"
   },
   {
     "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
@@ -23,8 +50,107 @@
     "language": "TypeScript",
     "name": "zxpmail/ReqForge",
     "stars": 9,
-    "updated_at": "2026-06-04T07:44:05Z",
+    "updated_at": "2026-06-04T07:54:04Z",
     "url": "https://github.com/zxpmail/ReqForge"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 3,
+    "updated_at": "2026-06-04T07:53:17Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 6,
+    "updated_at": "2026-06-04T07:53:09Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Are you using Claude Code to its full potential? This methodology \u2014 55 hooks, Evidence Policy, 14 agent teams \u2014 was buil",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 5,
+    "updated_at": "2026-06-04T07:51:40Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19431,
+    "updated_at": "2026-06-04T07:55:06Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28479,
+    "updated_at": "2026-06-04T07:57:29Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Free online AI prompt generator for ChatGPT, Claude, and Midjourney. Optimize your AI interactions directly in your brow",
+    "id": "itsrkmahapatra/PromptForge",
+    "language": "HTML",
+    "name": "itsrkmahapatra/PromptForge",
+    "stars": 1,
+    "updated_at": "2026-06-04T07:46:46Z",
+    "url": "https://github.com/itsrkmahapatra/PromptForge"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 9975,
+    "updated_at": "2026-06-04T07:47:51Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "AI agent skill for curating web-novel writing tutorials and excellent novel case libraries.",
+    "id": "HZ-KMNO/web-novel-tutorial-curation-skill",
+    "language": "\u2014",
+    "name": "HZ-KMNO/web-novel-tutorial-curation-skill",
+    "stars": 1,
+    "updated_at": "2026-06-04T07:46:20Z",
+    "url": "https://github.com/HZ-KMNO/web-novel-tutorial-curation-skill"
+  },
+  {
+    "description": "\u7f51\u6587\u5c0f\u8bf4\u5199\u4f5c\u6307\u5bfcskill\uff1a\u7ae0\u7eb2\u3001\u4eba\u7269\u72ec\u7acb\u6027\u3001\u8fde\u7eed\u6027\u3001A/B/C\u7a3f\u3001\u4f18\u79c0\u6848\u4f8b\u65b9\u6cd5\u4e0e\u957f\u671f\u9879\u76ee\u7ba1\u7406\u3002",
+    "id": "HZ-KMNO/wangwen-xiaoshuo-xiezuo-zhidao-skill",
+    "language": "\u2014",
+    "name": "HZ-KMNO/wangwen-xiaoshuo-xiezuo-zhidao-skill",
+    "stars": 1,
+    "updated_at": "2026-06-04T07:45:44Z",
+    "url": "https://github.com/HZ-KMNO/wangwen-xiaoshuo-xiezuo-zhidao-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T07:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83d\udc69\u200d\ud83d\udcbb\u270d\ufe0f Prompt orchestration with stacks you familiar with, such as Vue.",
+    "id": "moeru-ai/velin",
+    "language": "TypeScript",
+    "name": "moeru-ai/velin",
+    "stars": 45,
+    "updated_at": "2026-06-04T07:56:20Z",
+    "url": "https://github.com/moeru-ai/velin"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -32,7 +158,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-04T07:42:53Z",
+    "updated_at": "2026-06-04T08:00:30Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -52,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T07:41:28Z",
     "url": "https://github.com/alwyndsouza/agile-story-skills"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28478,
-    "updated_at": "2026-06-04T07:40:43Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A minimalist self-reflection chat app inspired by the teachings of  the great philosopher Acharya Prashant.",
@@ -99,24 +216,6 @@
     "url": "https://github.com/jvalin17/agent-toolkit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T07:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 10790,
-    "updated_at": "2026-06-04T07:28:29Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
     "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
     "id": "ftvision/agent-prompt-observatory",
     "language": "Python",
@@ -130,7 +229,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 26925,
+    "stars": 26934,
     "updated_at": "2026-06-04T07:28:00Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -142,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T07:26:57Z",
     "url": "https://github.com/luongs3/skill-atlas"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 3,
-    "updated_at": "2026-06-04T07:25:40Z",
-    "url": "https://github.com/danlex/suno-lab"
   },
   {
     "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
@@ -279,15 +369,6 @@
     "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
   },
   {
-    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
-    "id": "Kiln-AI/Kiln",
-    "language": "Python",
-    "name": "Kiln-AI/Kiln",
-    "stars": 4863,
-    "updated_at": "2026-06-04T07:10:37Z",
-    "url": "https://github.com/Kiln-AI/Kiln"
-  },
-  {
     "description": "Production launch prompts and checklists for reviewing any product or app with Claude Code, Codex, and other coding agen",
     "id": "ashishkaloge/production-launch-prompts",
     "language": "JavaScript",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T06:51:37Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:51:31Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "A-share self-improving multi-agent quantitative research framework",
-    "id": "haphap/MOSAIC-Agents",
-    "language": "Python",
-    "name": "haphap/MOSAIC-Agents",
-    "stars": 1,
-    "updated_at": "2026-06-04T06:51:19Z",
-    "url": "https://github.com/haphap/MOSAIC-Agents"
-  },
-  {
-    "description": "Notebook-style doodle visuals for WeChat articles. \u9762\u5411\u5fae\u4fe1\u516c\u4f17\u53f7\u6587\u7ae0\u7684\u624b\u5e10\u6d82\u9e26\u98ce\u914d\u56fe\u6280\u80fd",
-    "id": "oneszc/inknote-wechat-illustrations",
-    "language": "\u2014",
-    "name": "oneszc/inknote-wechat-illustrations",
-    "stars": 1,
-    "updated_at": "2026-06-04T06:48:56Z",
-    "url": "https://github.com/oneszc/inknote-wechat-illustrations"
-  },
-  {
-    "description": "The largest universal agent skill library \u2014 production-ready skills with semantic search, vector embeddings, mobile-firs",
-    "id": "badhope/AI-SKILL",
-    "language": "Python",
-    "name": "badhope/AI-SKILL",
-    "stars": 11,
-    "updated_at": "2026-06-04T06:48:49Z",
-    "url": "https://github.com/badhope/AI-SKILL"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 15,
-    "updated_at": "2026-06-04T06:46:05Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Production-tested agentic skills for Claude, Copilot, and the Agent SDK. Born in real businesses.",
-    "id": "taleshagn-horushub/thoth",
-    "language": "Python",
-    "name": "taleshagn-horushub/thoth",
-    "stars": 1,
-    "updated_at": "2026-06-04T06:43:35Z",
-    "url": "https://github.com/taleshagn-horushub/thoth"
-  },
-  {
-    "description": "A collection of reusable AI Agent Skills for software engineering, architecture, code review, performance analysis, DevO",
-    "id": "brunovgprado/engineering-agent-skills",
-    "language": "\u2014",
-    "name": "brunovgprado/engineering-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:42:10Z",
-    "url": "https://github.com/brunovgprado/engineering-agent-skills"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:37:05Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Prompt refinement and workflow orchestration for Codex: turn vague ideas into scoped goals, reviewable SPECs, validation",
-    "id": "Nam-Cheol/namba-ai",
-    "language": "Go",
-    "name": "Nam-Cheol/namba-ai",
-    "stars": 11,
-    "updated_at": "2026-06-04T06:34:35Z",
-    "url": "https://github.com/Nam-Cheol/namba-ai"
   }
 ]
