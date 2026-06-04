@@ -1,5 +1,104 @@
 [
   {
+    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
+    "id": "luongs3/skill-atlas",
+    "language": "Shell",
+    "name": "luongs3/skill-atlas",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:43:59Z",
+    "url": "https://github.com/luongs3/skill-atlas"
+  },
+  {
+    "description": "Reusable numbered-prompt chain runner for AI coding CLIs with provider adapters, resume, logs, and per-project state.",
+    "id": "usercopy-fault/ctrlBolt",
+    "language": "Python",
+    "name": "usercopy-fault/ctrlBolt",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:42:16Z",
+    "url": "https://github.com/usercopy-fault/ctrlBolt"
+  },
+  {
+    "description": "A task-contract and verification-gate skill for coding agents.",
+    "id": "agent-contracts/agent-task-contract",
+    "language": "TypeScript",
+    "name": "agent-contracts/agent-task-contract",
+    "stars": 1,
+    "updated_at": "2026-06-04T02:43:09Z",
+    "url": "https://github.com/agent-contracts/agent-task-contract"
+  },
+  {
+    "description": "AI prompt management platform. Build, version, and share dynamic LLM prompts",
+    "id": "itsyasirkhandev/promptamist-rebuild",
+    "language": "TypeScript",
+    "name": "itsyasirkhandev/promptamist-rebuild",
+    "stars": 2,
+    "updated_at": "2026-06-04T02:40:17Z",
+    "url": "https://github.com/itsyasirkhandev/promptamist-rebuild"
+  },
+  {
+    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
+    "id": "YouMind-OpenLab/awesome-gpt-image-2",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-2",
+    "stars": 7055,
+    "updated_at": "2026-06-04T02:37:27Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
+  },
+  {
+    "description": "Claude Code \ubc14\uc774\ube0c\ucf54\ub529 \ud504\ub85c\uc81d\ud2b8\uc6a9 \ubcf4\uc548 \uac00\uc774\ub4dc\ub77c\uc778 | CLAUDE.md + \uce74\ud14c\uace0\ub9ac\ubcc4 \uc2dc\ud050\uc5b4 \ud504\ub86c\ud504\ud2b8",
+    "id": "theman001/vibe-security-for-claude",
+    "language": "\u2014",
+    "name": "theman001/vibe-security-for-claude",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:37:21Z",
+    "url": "https://github.com/theman001/vibe-security-for-claude"
+  },
+  {
+    "description": "Full-stack prompt workspace for Claude Code and Codex with ASP.NET Core, React, PostgreSQL and SignalR.",
+    "id": "psielta/gerenciamento-de-tarefas-definidas-por-prompt",
+    "language": "C#",
+    "name": "psielta/gerenciamento-de-tarefas-definidas-por-prompt",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:34:32Z",
+    "url": "https://github.com/psielta/gerenciamento-de-tarefas-definidas-por-prompt"
+  },
+  {
+    "description": "140+ specialized AI agent skills for Claude Code / Codex CLI / Antigravity CLI (agy) \u2014 prompt engineering assets coverin",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 46,
+    "updated_at": "2026-06-04T02:34:26Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 5,
+    "updated_at": "2026-06-04T02:32:47Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 50,
+    "updated_at": "2026-06-04T02:31:40Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T02:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
     "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
     "language": "TypeScript",
@@ -41,53 +140,17 @@
     "language": "Python",
     "name": "Open-Source-Legal/cite",
     "stars": 1343,
-    "updated_at": "2026-06-04T02:29:10Z",
+    "updated_at": "2026-06-04T02:33:23Z",
     "url": "https://github.com/Open-Source-Legal/cite"
-  },
-  {
-    "description": "A task-contract and verification-gate skill for coding agents.",
-    "id": "agent-contracts/agent-task-contract",
-    "language": "JavaScript",
-    "name": "agent-contracts/agent-task-contract",
-    "stars": 1,
-    "updated_at": "2026-06-04T02:22:37Z",
-    "url": "https://github.com/agent-contracts/agent-task-contract"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T02:15:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "AI prompt management platform. Build, version, and share dynamic LLM prompts",
-    "id": "itsyasirkhandev/promptamist-rebuild",
-    "language": "TypeScript",
-    "name": "itsyasirkhandev/promptamist-rebuild",
-    "stars": 2,
-    "updated_at": "2026-06-04T02:15:20Z",
-    "url": "https://github.com/itsyasirkhandev/promptamist-rebuild"
   },
   {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 26761,
+    "stars": 26771,
     "updated_at": "2026-06-04T02:13:45Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 5,
-    "updated_at": "2026-06-04T02:13:25Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
   },
   {
     "description": "Expert-thinking AGENTS.md profiles that teach AI agents to reason like senior scientists and engineers.",
@@ -117,21 +180,12 @@
     "url": "https://github.com/reaatech/prompt-version-control"
   },
   {
-    "description": "140+ specialized AI agent skills for Claude Code / Codex CLI / Antigravity CLI (agy) \u2014 prompt engineering assets coverin",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 46,
-    "updated_at": "2026-06-04T02:29:37Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
     "description": "Optimal context window packing as a resource allocation problem. Fit system prompts, history, RAG chunks, tool schemas, ",
     "id": "reaatech/context-window-planner",
     "language": "TypeScript",
     "name": "reaatech/context-window-planner",
     "stars": 0,
-    "updated_at": "2026-06-04T02:08:01Z",
+    "updated_at": "2026-06-04T02:32:01Z",
     "url": "https://github.com/reaatech/context-window-planner"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T01:42:59Z",
     "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-06-04T01:42:57Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-04T01:42:35Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Generate production-ready UGC video ad prompts for Higgsfield AI Marketing Studio from your reference images and product",
-    "id": "carreras66848657/claude-skill-ugc-prompt",
-    "language": "\u2014",
-    "name": "carreras66848657/claude-skill-ugc-prompt",
-    "stars": 1,
-    "updated_at": "2026-06-04T01:42:34Z",
-    "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:42:31Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-06-04T01:42:29Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-04T01:42:18Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
   }
 ]
