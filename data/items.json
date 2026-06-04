@@ -1,12 +1,102 @@
 [
   {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
+    "description": "Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai",
+    "id": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "language": "\u2014",
+    "name": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "stars": 3,
+    "updated_at": "2026-06-04T17:59:10Z",
+    "url": "https://github.com/KingFishyXMesa/fuzz2-producer-ai-angklungmann"
+  },
+  {
+    "description": "A plug-and-play framework for AI-assisted software development, enhancing context-aware collaboration in complex codebas",
+    "id": "MunnaXbadmash/ai-dev-assistant-framework",
+    "language": "\u2014",
+    "name": "MunnaXbadmash/ai-dev-assistant-framework",
+    "stars": 5,
+    "updated_at": "2026-06-04T17:58:51Z",
+    "url": "https://github.com/MunnaXbadmash/ai-dev-assistant-framework"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-04T17:44:14Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+    "updated_at": "2026-06-04T17:58:19Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 12009,
+    "updated_at": "2026-06-04T17:58:18Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
+    "id": "Tymooh/GPT-DUEL-ARENA",
+    "language": "\u2014",
+    "name": "Tymooh/GPT-DUEL-ARENA",
+    "stars": 1,
+    "updated_at": "2026-06-04T17:56:58Z",
+    "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
+  },
+  {
+    "description": "Pain-weighted hybrid memory for LLM agents. FTS5 + sqlite-vec + RRF + KG. MIT, open source. Published benchmarks.",
+    "id": "totobusnello/memoria-nox",
+    "language": "TypeScript",
+    "name": "totobusnello/memoria-nox",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:56:42Z",
+    "url": "https://github.com/totobusnello/memoria-nox"
+  },
+  {
+    "description": "synapz is a research prototype exploring how large language models can adapt teaching content to different cognitive sty",
+    "id": "xmowgofficial/synapz",
+    "language": "Python",
+    "name": "xmowgofficial/synapz",
+    "stars": 4,
+    "updated_at": "2026-06-04T17:55:07Z",
+    "url": "https://github.com/xmowgofficial/synapz"
+  },
+  {
+    "description": "\ud83e\udd16 ACI - Sistema inteligente para fornecer informa\u00e7\u00f5es sobre servi\u00e7os sociais e outros recursos",
+    "id": "alexparjalex/agente-cidadao-inteligente",
+    "language": "Jupyter Notebook",
+    "name": "alexparjalex/agente-cidadao-inteligente",
+    "stars": 1,
+    "updated_at": "2026-06-04T17:54:34Z",
+    "url": "https://github.com/alexparjalex/agente-cidadao-inteligente"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21884,
+    "updated_at": "2026-06-04T17:56:13Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-04T17:51:13Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:50:21Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
   },
   {
     "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
@@ -14,8 +104,44 @@
     "language": "Python",
     "name": "LiHongwei-cn/lihongwei-cn",
     "stars": 6,
-    "updated_at": "2026-06-04T17:44:02Z",
+    "updated_at": "2026-06-04T17:49:37Z",
     "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Research-backed AI prompt templates for software engineering workflows. Designed for Cursor IDE and Claude.",
+    "id": "ArangoGutierrez/promptsLibrary",
+    "language": "Shell",
+    "name": "ArangoGutierrez/promptsLibrary",
+    "stars": 8,
+    "updated_at": "2026-06-04T17:49:17Z",
+    "url": "https://github.com/ArangoGutierrez/promptsLibrary"
+  },
+  {
+    "description": "Personal intelli dashboard (Tauri + Rust + React) for discovering jobs, collabs, side hustles & community builds on X us",
+    "id": "p10ns11y/collab-finder",
+    "language": "TypeScript",
+    "name": "p10ns11y/collab-finder",
+    "stars": 1,
+    "updated_at": "2026-06-04T17:49:02Z",
+    "url": "https://github.com/p10ns11y/collab-finder"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:44:14Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -32,7 +158,7 @@
     "language": "Python",
     "name": "sergeeey/Claude-cod-top-2026",
     "stars": 5,
-    "updated_at": "2026-06-04T17:43:17Z",
+    "updated_at": "2026-06-04T18:00:09Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
@@ -43,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T17:42:05Z",
     "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "Pain-weighted hybrid memory for LLM agents. FTS5 + sqlite-vec + RRF + KG. MIT, open source. Published benchmarks.",
-    "id": "totobusnello/memoria-nox",
-    "language": "TypeScript",
-    "name": "totobusnello/memoria-nox",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:40:41Z",
-    "url": "https://github.com/totobusnello/memoria-nox"
   },
   {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
@@ -85,18 +202,9 @@
     "id": "ElephantVelocity36/female-portrait-director-427",
     "language": "Python",
     "name": "ElephantVelocity36/female-portrait-director-427",
-    "stars": 72,
+    "stars": 71,
     "updated_at": "2026-06-04T17:38:27Z",
     "url": "https://github.com/ElephantVelocity36/female-portrait-director-427"
-  },
-  {
-    "description": "Personal intelli dashboard (Tauri + Rust + React) for discovering jobs, collabs, side hustles & community builds on X us",
-    "id": "p10ns11y/collab-finder",
-    "language": "TypeScript",
-    "name": "p10ns11y/collab-finder",
-    "stars": 1,
-    "updated_at": "2026-06-04T17:38:13Z",
-    "url": "https://github.com/p10ns11y/collab-finder"
   },
   {
     "description": "Spec first workflow for coding agents: choose the right model per task, use strong reasoning early, split work into smal",
@@ -108,15 +216,6 @@
     "url": "https://github.com/arcayne/agentic-delivery-playbook"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 11990,
-    "updated_at": "2026-06-04T17:35:55Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
     "description": "Bootstrapper scripts for setting up an AI agent configs (Claude Code, Cursor, GitHub Copilot) in any new/existing projec",
     "id": "AndrewChang-cpu/vibe-coding-configuration",
     "language": "JavaScript",
@@ -126,12 +225,21 @@
     "url": "https://github.com/AndrewChang-cpu/vibe-coding-configuration"
   },
   {
+    "description": "Universal prompt/rule for concise, token-efficient AI agent responses.",
+    "id": "terasites-ltda/caveman-universal",
+    "language": "\u2014",
+    "name": "terasites-ltda/caveman-universal",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:34:26Z",
+    "url": "https://github.com/terasites-ltda/caveman-universal"
+  },
+  {
     "description": "Detects and rewrites AI writing patterns in Korean, English, Chinese, and Japanese. Runs as a skill for Claude Code, Cod",
     "id": "devswha/patina",
     "language": "JavaScript",
     "name": "devswha/patina",
     "stars": 142,
-    "updated_at": "2026-06-04T17:34:11Z",
+    "updated_at": "2026-06-04T17:46:07Z",
     "url": "https://github.com/devswha/patina"
   },
   {
@@ -148,18 +256,9 @@
     "id": "wshobson/agents",
     "language": "Python",
     "name": "wshobson/agents",
-    "stars": 36349,
+    "stars": 36351,
     "updated_at": "2026-06-04T17:30:42Z",
     "url": "https://github.com/wshobson/agents"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -198,13 +297,13 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:36:19Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2751,
+    "updated_at": "2026-06-04T17:17:14Z",
+    "url": "https://github.com/microsoft/apm"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -349,104 +448,5 @@
     "stars": 3821,
     "updated_at": "2026-06-04T17:02:10Z",
     "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "A meta-skill for AI agents: scaffolds new skills via structured interview, cookbook architecture, and cross-skill connec",
-    "id": "OctavianTocan/create-skill",
-    "language": "\u2014",
-    "name": "OctavianTocan/create-skill",
-    "stars": 1,
-    "updated_at": "2026-06-04T16:44:16Z",
-    "url": "https://github.com/OctavianTocan/create-skill"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:43:13Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Evals as code. Datasets, scorers, traces, regressions in one CLI. Python + DuckDB + FastAPI + HTMX viewer.",
-    "id": "sarmakska/ai-eval-runner",
-    "language": "Python",
-    "name": "sarmakska/ai-eval-runner",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:41:33Z",
-    "url": "https://github.com/sarmakska/ai-eval-runner"
-  },
-  {
-    "description": "Extracted system prompts from Anthropic - Claude Code, Claude Design, Opus 4.8, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinkin",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "JavaScript",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 41248,
-    "updated_at": "2026-06-04T16:40:50Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "A behavioral governance framework for GitHub Copilot agents \u2014 skills.md and instructions to make AI coding agents think ",
-    "id": "andreaswasita/copilot-agents-dojo",
-    "language": "TypeScript",
-    "name": "andreaswasita/copilot-agents-dojo",
-    "stars": 44,
-    "updated_at": "2026-06-04T16:40:33Z",
-    "url": "https://github.com/andreaswasita/copilot-agents-dojo"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-04T16:35:58Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:35:48Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Auto-inject 'critical rules' into every Claude Code turn via UserPromptSubmit hook. Tiny, auditable, MIT, fork-friendly.",
-    "id": "hinanohart/claude-rules-injector",
-    "language": "Shell",
-    "name": "hinanohart/claude-rules-injector",
-    "stars": 1,
-    "updated_at": "2026-06-04T16:33:06Z",
-    "url": "https://github.com/hinanohart/claude-rules-injector"
-  },
-  {
-    "description": "yuragi \u2014 LLM Confidence Fragility Analyzer. Perturbation-driven hallucination detection with workshop-grade real benchma",
-    "id": "hinanohart/yuragi",
-    "language": "Python",
-    "name": "hinanohart/yuragi",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:35:17Z",
-    "url": "https://github.com/hinanohart/yuragi"
-  },
-  {
-    "description": "Static lint for Claude Code memory directories. Catches frontmatter rot, oversized files, and stop-word noise before the",
-    "id": "hinanohart/claude-memory-lint",
-    "language": "Python",
-    "name": "hinanohart/claude-memory-lint",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:32:49Z",
-    "url": "https://github.com/hinanohart/claude-memory-lint"
-  },
-  {
-    "description": "Claude Code UserPromptSubmit hook that routes prompts to the right memory files instead of carpet-bombing context. Stops",
-    "id": "hinanohart/claude-memory-router",
-    "language": "Shell",
-    "name": "hinanohart/claude-memory-router",
-    "stars": 0,
-    "updated_at": "2026-06-04T16:32:44Z",
-    "url": "https://github.com/hinanohart/claude-memory-router"
   }
 ]
