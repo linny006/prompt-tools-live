@@ -1,12 +1,66 @@
 [
   {
-    "description": "A curated stash of always\u2011free dev tools\u2014perfect for developers who\u2019d rather debug for hours than pay a dollar.",
-    "id": "Shivansh7201/Free-Dev-Resources",
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28530,
+    "updated_at": "2026-06-05T07:44:33Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Council-5 AI paper review prompts: catch reviewer comments before reviewers do, with claims, citations, experiments, rep",
+    "id": "FanBroWell/AI-paper-reviewer",
+    "language": "\u2014",
+    "name": "FanBroWell/AI-paper-reviewer",
+    "stars": 2,
+    "updated_at": "2026-06-05T07:42:48Z",
+    "url": "https://github.com/FanBroWell/AI-paper-reviewer"
+  },
+  {
+    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
+    "id": "Shiyao-Huang/awesome-agent-evolution",
+    "language": "TeX",
+    "name": "Shiyao-Huang/awesome-agent-evolution",
+    "stars": 136,
+    "updated_at": "2026-06-05T07:42:12Z",
+    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
+  },
+  {
+    "description": "Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-comp",
+    "id": "mxyhi/ok-skills",
     "language": "HTML",
-    "name": "Shivansh7201/Free-Dev-Resources",
+    "name": "mxyhi/ok-skills",
+    "stars": 406,
+    "updated_at": "2026-06-05T07:41:51Z",
+    "url": "https://github.com/mxyhi/ok-skills"
+  },
+  {
+    "description": "Skills for AI coding agents to behave like senior developers \u2014 no more vibe-coded UI, fake tests, or silent assumptions.",
+    "id": "SpritexAI/hello-coder",
+    "language": "Python",
+    "name": "SpritexAI/hello-coder",
+    "stars": 1,
+    "updated_at": "2026-06-05T07:41:16Z",
+    "url": "https://github.com/SpritexAI/hello-coder"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
     "stars": 3,
-    "updated_at": "2026-06-05T07:30:09Z",
-    "url": "https://github.com/Shivansh7201/Free-Dev-Resources"
+    "updated_at": "2026-06-05T07:37:19Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
+    "id": "zxpmail/ReqForge",
+    "language": "JavaScript",
+    "name": "zxpmail/ReqForge",
+    "stars": 9,
+    "updated_at": "2026-06-05T07:36:54Z",
+    "url": "https://github.com/zxpmail/ReqForge"
   },
   {
     "description": "12-week, project-driven Obsidian curriculum: cloud/infra engineer \u2192 AI Agent/LLM engineer. Companion narrative + intervi",
@@ -14,8 +68,71 @@
     "language": "Python",
     "name": "shaneliuyx/agent-development-curriculum",
     "stars": 3,
-    "updated_at": "2026-06-05T07:29:57Z",
+    "updated_at": "2026-06-05T07:36:26Z",
     "url": "https://github.com/shaneliuyx/agent-development-curriculum"
+  },
+  {
+    "description": "Claude Code skill: force the main agent to dispatch heavy work to subagents, keep only start/end snapshots, prevent OOM ",
+    "id": "zYellow0826/task-snapshot",
+    "language": "\u2014",
+    "name": "zYellow0826/task-snapshot",
+    "stars": 0,
+    "updated_at": "2026-06-05T07:36:15Z",
+    "url": "https://github.com/zYellow0826/task-snapshot"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 27420,
+    "updated_at": "2026-06-05T07:36:00Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Local-first knowledge pipeline that distills Claude Code sessions into durable CLAUDE.md context \u2014 automatically.",
+    "id": "codespermuted/mojo",
+    "language": "Python",
+    "name": "codespermuted/mojo",
+    "stars": 1,
+    "updated_at": "2026-06-05T07:35:57Z",
+    "url": "https://github.com/codespermuted/mojo"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-05T07:34:41Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 20,
+    "updated_at": "2026-06-05T07:34:13Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T07:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A curated stash of always\u2011free dev tools\u2014perfect for developers who\u2019d rather debug for hours than pay a dollar.",
+    "id": "Shivansh7201/Free-Dev-Resources",
+    "language": "HTML",
+    "name": "Shivansh7201/Free-Dev-Resources",
+    "stars": 3,
+    "updated_at": "2026-06-05T07:30:09Z",
+    "url": "https://github.com/Shivansh7201/Free-Dev-Resources"
   },
   {
     "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
@@ -41,44 +158,8 @@
     "language": "Python",
     "name": "haphap/MOSAIC-Agents",
     "stars": 1,
-    "updated_at": "2026-06-05T07:28:14Z",
+    "updated_at": "2026-06-05T07:43:31Z",
     "url": "https://github.com/haphap/MOSAIC-Agents"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-06-05T07:27:06Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28529,
-    "updated_at": "2026-06-05T07:26:33Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
-    "id": "Shiyao-Huang/awesome-agent-evolution",
-    "language": "TeX",
-    "name": "Shiyao-Huang/awesome-agent-evolution",
-    "stars": 136,
-    "updated_at": "2026-06-05T07:24:40Z",
-    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
-  },
-  {
-    "description": "Claude Code skill: force the main agent to dispatch heavy work to subagents, keep only start/end snapshots, prevent OOM ",
-    "id": "zYellow0826/task-snapshot",
-    "language": "\u2014",
-    "name": "zYellow0826/task-snapshot",
-    "stars": 0,
-    "updated_at": "2026-06-05T07:24:20Z",
-    "url": "https://github.com/zYellow0826/task-snapshot"
   },
   {
     "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
@@ -99,24 +180,6 @@
     "url": "https://github.com/ftvision/agent-prompt-observatory"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T07:15:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
-    "id": "zxpmail/ReqForge",
-    "language": "JavaScript",
-    "name": "zxpmail/ReqForge",
-    "stars": 9,
-    "updated_at": "2026-06-05T07:15:05Z",
-    "url": "https://github.com/zxpmail/ReqForge"
-  },
-  {
     "description": "The largest universal agent skill library \u2014 production-ready skills with semantic search, vector embeddings, mobile-firs",
     "id": "badhope/AI-SKILL",
     "language": "Python",
@@ -130,7 +193,7 @@
     "id": "Zane456/clear-chinese",
     "language": "\u2014",
     "name": "Zane456/clear-chinese",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-05T07:10:54Z",
     "url": "https://github.com/Zane456/clear-chinese"
   },
@@ -288,15 +351,6 @@
     "url": "https://github.com/luongs3/skill-atlas"
   },
   {
-    "description": "Catch reviewer comments before reviewers do: AI paper review prompts for claims, citations, experiments, anonymity, repr",
-    "id": "FanBroWell/AI-paper-reviewer",
-    "language": "\u2014",
-    "name": "FanBroWell/AI-paper-reviewer",
-    "stars": 2,
-    "updated_at": "2026-06-05T06:49:18Z",
-    "url": "https://github.com/FanBroWell/AI-paper-reviewer"
-  },
-  {
     "description": "Call LLMs and AI agents from Org-mode ai block.",
     "id": "Anoncheg1/emacs-oai",
     "language": "Emacs Lisp",
@@ -322,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-06-05T06:49:16Z",
     "url": "https://github.com/Dannykkh/skill-olympus"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 27411,
-    "updated_at": "2026-06-05T06:47:25Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
@@ -391,7 +436,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26308,
+    "stars": 26309,
     "updated_at": "2026-06-05T06:35:21Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-05T06:35:09Z",
     "url": "https://github.com/AdiRishi/promptrc"
-  },
-  {
-    "description": "Practical protocols and markdown templates for safer AI-assisted / vibe coding projects: Starter, Hardening, Architectur",
-    "id": "Gudvin82/vibe-coding-protocols",
-    "language": "Python",
-    "name": "Gudvin82/vibe-coding-protocols",
-    "stars": 2,
-    "updated_at": "2026-06-05T06:35:17Z",
-    "url": "https://github.com/Gudvin82/vibe-coding-protocols"
-  },
-  {
-    "description": "Autonomous AI Story Generator using Gemini API. Multi-axis randomization prevents repetitive plots. / Gemini API\u3092\u6d3b\u7528\u3057\u305f\u3001\u5b8c\u5168",
-    "id": "FURUYAN1234/story-maker",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/story-maker",
-    "stars": 3,
-    "updated_at": "2026-06-05T06:30:20Z",
-    "url": "https://github.com/FURUYAN1234/story-maker"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 16,
-    "updated_at": "2026-06-05T06:26:07Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:24:59Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "handbook for learning agent",
-    "id": "wj-Mcat/agent-handbook",
-    "language": "TypeScript",
-    "name": "wj-Mcat/agent-handbook",
-    "stars": 5,
-    "updated_at": "2026-06-05T06:23:29Z",
-    "url": "https://github.com/wj-Mcat/agent-handbook"
   }
 ]
