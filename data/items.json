@@ -1,5 +1,95 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:44:42Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 14453,
+    "updated_at": "2026-06-05T22:45:11Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 34530,
+    "updated_at": "2026-06-05T22:43:44Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Evolving from a PoC tracking how authoritarian prompts trigger AI performance anxiety and loops into an ongoing, collabo",
+    "id": "OttoRenner/Gentle-Coding",
+    "language": "\u2014",
+    "name": "OttoRenner/Gentle-Coding",
+    "stars": 83,
+    "updated_at": "2026-06-05T22:39:45Z",
+    "url": "https://github.com/OttoRenner/Gentle-Coding"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 740,
+    "updated_at": "2026-06-05T22:40:01Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:37:46Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 155,
+    "updated_at": "2026-06-05T22:35:10Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Prompt Engineering skill for Claude Code \u2014 rewrites and optimizes prompts using proven techniques (Anthropic, OpenAI, Ge",
+    "id": "PhAlves23/prompt-engineering-skill",
+    "language": "Shell",
+    "name": "PhAlves23/prompt-engineering-skill",
+    "stars": 3,
+    "updated_at": "2026-06-05T22:33:14Z",
+    "url": "https://github.com/PhAlves23/prompt-engineering-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:30:24Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
     "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
     "id": "Highlydeveloped-trowel635/context-graph-compressor",
     "language": "\u2014",
@@ -52,24 +142,6 @@
     "stars": 3,
     "updated_at": "2026-06-05T22:28:44Z",
     "url": "https://github.com/studiomeyer-io/darwin-agents"
-  },
-  {
-    "description": "Prompt Engineering skill for Claude Code \u2014 rewrites and optimizes prompts using proven techniques (Anthropic, OpenAI, Ge",
-    "id": "PhAlves23/prompt-engineering-skill",
-    "language": "Shell",
-    "name": "PhAlves23/prompt-engineering-skill",
-    "stars": 3,
-    "updated_at": "2026-06-05T22:28:21Z",
-    "url": "https://github.com/PhAlves23/prompt-engineering-skill"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 14443,
-    "updated_at": "2026-06-05T22:28:45Z",
-    "url": "https://github.com/chopratejas/headroom"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -131,7 +203,7 @@
     "language": "TypeScript",
     "name": "john-data-chen/sveltekit-starter-kit",
     "stars": 0,
-    "updated_at": "2026-06-05T22:25:49Z",
+    "updated_at": "2026-06-05T22:42:26Z",
     "url": "https://github.com/john-data-chen/sveltekit-starter-kit"
   },
   {
@@ -297,15 +369,6 @@
     "url": "https://github.com/wendyneat563/atlas.llm"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:28:26Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
     "id": "Acuminate-conventionality909/aibti",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T22:20:25Z",
     "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "Automate AI research workflows using Claude Code skills to manage project progress, perform rigorous algorithm reviews, ",
-    "id": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "language": "\u2014",
-    "name": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:20:23Z",
-    "url": "https://github.com/Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy"
-  },
-  {
-    "description": "Pensado para estudiantes, dise\u00f1adores y principiantes que quieran crear experiencias visuales en el navegador. p5.js, pr",
-    "id": "juanfuent-es/p5-prompt-lab",
-    "language": "JavaScript",
-    "name": "juanfuent-es/p5-prompt-lab",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:20:20Z",
-    "url": "https://github.com/juanfuent-es/p5-prompt-lab"
-  },
-  {
-    "description": "Track public technical updates, architecture notes, and development benchmarks for the Happy Horse 1.0 AI video generati",
-    "id": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "language": "\u2014",
-    "name": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:20:16Z",
-    "url": "https://github.com/Waldoncockeyed9421/Happy-Horse-1.0"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:20:10Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 2,
-    "updated_at": "2026-06-05T22:19:59Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Catalog physical media collections into portable knowledge bases for LLM context windows to improve AI awareness of your",
-    "id": "Bennyvibrionic5714/llmbrary",
-    "language": "Python",
-    "name": "Bennyvibrionic5714/llmbrary",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:19:48Z",
-    "url": "https://github.com/Bennyvibrionic5714/llmbrary"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 1,
-    "updated_at": "2026-06-05T22:19:30Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
   }
 ]
