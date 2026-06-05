@@ -1,5 +1,104 @@
 [
   {
+    "description": "\u4e13\u4e1a\u7684 Seedance 2.0 AI \u89c6\u9891\u811a\u672c\u4e0e\u5206\u955c\u63d0\u793a\u8bcd\u751f\u6210 Claude Skill\uff1a\u628a\u6587\u7ae0/\u6545\u4e8b\u8f6c\u4e3a\u6807\u51c6\u5267\u672c\u3001\u8d44\u4ea7\u63d0\u793a\u8bcd\u4e0e\u5206\u955c\uff0c\u542b 10 \u6761\u94c1\u5f8b + 17 \u4e2a\u6a21\u677f\uff0c\u540c\u6b65\u706b\u5c71\u5f15\u64ce\u5b98\u65b9\u6307\u5357\u3002 | Professional Seedanc",
+    "id": "mantoufan/seedance-prompts-skill",
+    "language": "Shell",
+    "name": "mantoufan/seedance-prompts-skill",
+    "stars": 30,
+    "updated_at": "2026-06-05T18:44:14Z",
+    "url": "https://github.com/mantoufan/seedance-prompts-skill"
+  },
+  {
+    "description": "A directory of agent skills \u2014 a curated index of prompt templates, agent frameworks, RAG patterns, and tool-use recipes ",
+    "id": "badhope/AI-SKILL",
+    "language": "Python",
+    "name": "badhope/AI-SKILL",
+    "stars": 11,
+    "updated_at": "2026-06-05T18:43:46Z",
+    "url": "https://github.com/badhope/AI-SKILL"
+  },
+  {
+    "description": "Asset-based GPT Image workflow for generating high-quality magazine-style AI portraits from multi-angle character refere",
+    "id": "Oiawlm/gpt-magazine-portrait-workflow",
+    "language": "PowerShell",
+    "name": "Oiawlm/gpt-magazine-portrait-workflow",
+    "stars": 1,
+    "updated_at": "2026-06-05T18:43:37Z",
+    "url": "https://github.com/Oiawlm/gpt-magazine-portrait-workflow"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-06-05T18:42:05Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "An operating system for your Claude context \u2014 version-controlled files, a self-curating memory, and a /start\u2192/end sessio",
+    "id": "conorbronsdon/claude-context-os",
+    "language": "Shell",
+    "name": "conorbronsdon/claude-context-os",
+    "stars": 7,
+    "updated_at": "2026-06-05T18:41:23Z",
+    "url": "https://github.com/conorbronsdon/claude-context-os"
+  },
+  {
+    "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 6805,
+    "updated_at": "2026-06-05T18:40:21Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "Large Language Models for Data Imputation: A prompt engineering approach",
+    "id": "ArthurMangussi/LLMsImputation",
+    "language": "Python",
+    "name": "ArthurMangussi/LLMsImputation",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:39:53Z",
+    "url": "https://github.com/ArthurMangussi/LLMsImputation"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:38:16Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Reusable Codex skills, starting with budget-aware routing for cheaper bounded agents.",
+    "id": "coryparrry/codex-skills",
+    "language": "Python",
+    "name": "coryparrry/codex-skills",
+    "stars": 1,
+    "updated_at": "2026-06-05T18:36:16Z",
+    "url": "https://github.com/coryparrry/codex-skills"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 8,
+    "updated_at": "2026-06-05T18:35:10Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -14,17 +113,8 @@
     "language": "TypeScript",
     "name": "use-crux/crux",
     "stars": 0,
-    "updated_at": "2026-06-05T18:30:14Z",
+    "updated_at": "2026-06-05T18:36:17Z",
     "url": "https://github.com/use-crux/crux"
-  },
-  {
-    "description": "A directory of agent skills \u2014 a curated index of prompt templates, agent frameworks, RAG patterns, and tool-use recipes ",
-    "id": "badhope/AI-SKILL",
-    "language": "Python",
-    "name": "badhope/AI-SKILL",
-    "stars": 11,
-    "updated_at": "2026-06-05T18:30:09Z",
-    "url": "https://github.com/badhope/AI-SKILL"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -34,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T18:29:42Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "An operating system for your Claude context \u2014 version-controlled files, a self-curating memory, and a /start\u2192/end sessio",
-    "id": "conorbronsdon/claude-context-os",
-    "language": "Shell",
-    "name": "conorbronsdon/claude-context-os",
-    "stars": 7,
-    "updated_at": "2026-06-05T18:28:55Z",
-    "url": "https://github.com/conorbronsdon/claude-context-os"
   },
   {
     "description": "60 days. 60 prompts. 1 AI. Zero excuses. \u2014 My ABTalks Claude AI Challenge journey.",
@@ -68,7 +149,7 @@
     "language": "JavaScript",
     "name": "bijanp24/LLM-Workflow",
     "stars": 0,
-    "updated_at": "2026-06-05T18:26:27Z",
+    "updated_at": "2026-06-05T18:34:30Z",
     "url": "https://github.com/bijanp24/LLM-Workflow"
   },
   {
@@ -126,24 +207,6 @@
     "url": "https://github.com/dominikj111/model-workspace-protocol-tool"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-05T18:25:00Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T18:18:09Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
     "id": "Paulessus/odin-gemini-mcp-bridge",
     "language": "HTML",
@@ -162,15 +225,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-    "id": "kyegomez/swarms",
-    "language": "Python",
-    "name": "kyegomez/swarms",
-    "stars": 6805,
-    "updated_at": "2026-06-05T18:17:40Z",
-    "url": "https://github.com/kyegomez/swarms"
-  },
-  {
     "description": "A recursive AI logic engine that transforms raw, unstructured requirements into production-ready JSON/English blueprints",
     "id": "TimsTittus/Architecter",
     "language": "TypeScript",
@@ -185,7 +239,7 @@
     "language": "Python",
     "name": "olehsvyrydov/AI-development-team",
     "stars": 10,
-    "updated_at": "2026-06-05T18:29:23Z",
+    "updated_at": "2026-06-05T18:38:49Z",
     "url": "https://github.com/olehsvyrydov/AI-development-team"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-05T17:57:21Z",
     "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 140,
-    "updated_at": "2026-06-05T17:57:05Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:56:55Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3289,
-    "updated_at": "2026-06-05T17:56:54Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:56:50Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:56:46Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:56:11Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
   }
 ]
