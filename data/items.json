@@ -1,5 +1,122 @@
 [
   {
+    "description": "Evolving from a PoC tracking how authoritarian prompts trigger AI performance anxiety and loops into an ongoing, collabo",
+    "id": "OttoRenner/Gentle-Coding",
+    "language": "\u2014",
+    "name": "OttoRenner/Gentle-Coding",
+    "stars": 83,
+    "updated_at": "2026-06-05T19:29:41Z",
+    "url": "https://github.com/OttoRenner/Gentle-Coding"
+  },
+  {
+    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
+    "id": "rmdhananjay/contextual-memory-map",
+    "language": "HTML",
+    "name": "rmdhananjay/contextual-memory-map",
+    "stars": 0,
+    "updated_at": "2026-06-05T19:28:44Z",
+    "url": "https://github.com/rmdhananjay/contextual-memory-map"
+  },
+  {
+    "description": "Prompt engineering techniques that work in practice. Co-Dialectic: your AI coaches your prompts, you coach its answers. ",
+    "id": "Exponential-OS/prompt-engineering-in-action",
+    "language": "TypeScript",
+    "name": "Exponential-OS/prompt-engineering-in-action",
+    "stars": 8,
+    "updated_at": "2026-06-05T19:26:33Z",
+    "url": "https://github.com/Exponential-OS/prompt-engineering-in-action"
+  },
+  {
+    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
+    "id": "ai-boost/awesome-prompts",
+    "language": "\u2014",
+    "name": "ai-boost/awesome-prompts",
+    "stars": 8125,
+    "updated_at": "2026-06-05T19:25:04Z",
+    "url": "https://github.com/ai-boost/awesome-prompts"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-05T19:23:38Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Asset-based GPT Image workflow for generating high-quality magazine-style AI portraits from multi-angle character refere",
+    "id": "Oiawlm/gpt-magazine-portrait-workflow",
+    "language": "PowerShell",
+    "name": "Oiawlm/gpt-magazine-portrait-workflow",
+    "stars": 1,
+    "updated_at": "2026-06-05T19:21:57Z",
+    "url": "https://github.com/Oiawlm/gpt-magazine-portrait-workflow"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-06-05T19:20:50Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-05T19:20:41Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Multi-platform AI assistant skills and workflows. Serious engineering. Also fun.",
+    "id": "axiomantic/spellbook",
+    "language": "Python",
+    "name": "axiomantic/spellbook",
+    "stars": 6,
+    "updated_at": "2026-06-05T19:20:32Z",
+    "url": "https://github.com/axiomantic/spellbook"
+  },
+  {
+    "description": "Agent Skill that silently refines prompts for the currently running model",
+    "id": "Li-Bailiang/prompt-refine",
+    "language": "PowerShell",
+    "name": "Li-Bailiang/prompt-refine",
+    "stars": 1,
+    "updated_at": "2026-06-05T19:18:25Z",
+    "url": "https://github.com/Li-Bailiang/prompt-refine"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 143,
+    "updated_at": "2026-06-05T19:17:19Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Local-first enterprise RAG and agentic AI platform mapped to GCP Vertex AI, Gemini, Vector Search, Cloud Run, Cloud Logg",
+    "id": "Ibraheemolasupogit/gcp-enterprise-rag-agent-platform",
+    "language": "Python",
+    "name": "Ibraheemolasupogit/gcp-enterprise-rag-agent-platform",
+    "stars": 0,
+    "updated_at": "2026-06-05T19:15:56Z",
+    "url": "https://github.com/Ibraheemolasupogit/gcp-enterprise-rag-agent-platform"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T19:15:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
     "id": "jmagly/aiwg",
     "language": "TypeScript",
@@ -36,15 +153,6 @@
     "url": "https://github.com/TAKEOFF69/codex-skills-kit"
   },
   {
-    "description": "Local-first enterprise RAG and agentic AI platform mapped to GCP Vertex AI, Gemini, Vector Search, Cloud Run, Cloud Logg",
-    "id": "Ibraheemolasupogit/gcp-enterprise-rag-agent-platform",
-    "language": "Python",
-    "name": "Ibraheemolasupogit/gcp-enterprise-rag-agent-platform",
-    "stars": 0,
-    "updated_at": "2026-06-05T19:10:00Z",
-    "url": "https://github.com/Ibraheemolasupogit/gcp-enterprise-rag-agent-platform"
-  },
-  {
     "description": "15 production-grade Claude Code skills that turn it into a full-stack engineering agent \u2014 design, code, test, secure, sh",
     "id": "ak-ship/fullstack-agent-skills",
     "language": "Shell",
@@ -67,18 +175,9 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 9993,
-    "updated_at": "2026-06-05T19:01:44Z",
+    "stars": 9994,
+    "updated_at": "2026-06-05T19:18:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T19:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -88,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T18:59:43Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Agent Skill that silently refines prompts for the currently running model",
-    "id": "Li-Bailiang/prompt-refine",
-    "language": "PowerShell",
-    "name": "Li-Bailiang/prompt-refine",
-    "stars": 1,
-    "updated_at": "2026-06-05T18:59:13Z",
-    "url": "https://github.com/Li-Bailiang/prompt-refine"
   },
   {
     "description": "A plain-text prompt for LLMs that teaches the essence of elegant coding and testing\u2014save it to ~/.claude/CLAUDE.md.",
@@ -153,15 +243,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-05T19:11:48Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Generate expert-level LLM config files and skill packs from 6 plain-English questions. No account required.",
     "id": "trentjhn/configkit",
     "language": "JavaScript",
@@ -189,21 +270,12 @@
     "url": "https://github.com/badhope/AI-SKILL"
   },
   {
-    "description": "Asset-based GPT Image workflow for generating high-quality magazine-style AI portraits from multi-angle character refere",
-    "id": "Oiawlm/gpt-magazine-portrait-workflow",
-    "language": "PowerShell",
-    "name": "Oiawlm/gpt-magazine-portrait-workflow",
-    "stars": 1,
-    "updated_at": "2026-06-05T18:43:37Z",
-    "url": "https://github.com/Oiawlm/gpt-magazine-portrait-workflow"
-  },
-  {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
     "id": "ekayaprod/jules-agent-roster",
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 2,
-    "updated_at": "2026-06-05T18:55:08Z",
+    "updated_at": "2026-06-05T19:26:41Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-05T18:17:15Z",
     "url": "https://github.com/TimsTittus/Architecter"
-  },
-  {
-    "description": "An AI dev team in your editor \u2014 ~48 specialist agents and an enforced, proportional workflow with approval gates. Proces",
-    "id": "olehsvyrydov/AI-development-team",
-    "language": "Python",
-    "name": "olehsvyrydov/AI-development-team",
-    "stars": 10,
-    "updated_at": "2026-06-05T18:58:55Z",
-    "url": "https://github.com/olehsvyrydov/AI-development-team"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-06-05T18:15:47Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4178,
-    "updated_at": "2026-06-05T18:15:37Z",
-    "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-06-05T18:15:04Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-05T18:14:36Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1306,
-    "updated_at": "2026-06-05T18:13:02Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21928,
-    "updated_at": "2026-06-05T18:07:18Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "A premium AI prompt marketplace and directory. Discover, share, and monetize high-quality prompts for ChatGPT, Midjourne",
-    "id": "monildomadiya/promptking",
-    "language": "JavaScript",
-    "name": "monildomadiya/promptking",
-    "stars": 0,
-    "updated_at": "2026-06-05T18:05:29Z",
-    "url": "https://github.com/monildomadiya/promptking"
   }
 ]
