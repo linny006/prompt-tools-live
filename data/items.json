@@ -1,5 +1,122 @@
 [
   {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-05T23:55:38Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:54:46Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 740,
+    "updated_at": "2026-06-05T23:53:39Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:54:38Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 27680,
+    "updated_at": "2026-06-05T23:52:03Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 14480,
+    "updated_at": "2026-06-05T23:49:46Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 49,
+    "updated_at": "2026-06-05T23:48:31Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
+    "id": "mobcat40/ComfyUI-PromptChain",
+    "language": "Python",
+    "name": "mobcat40/ComfyUI-PromptChain",
+    "stars": 9,
+    "updated_at": "2026-06-05T23:48:24Z",
+    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
+  },
+  {
+    "description": "100 skills de especialista (\"Especialista em X\") em portugues para o Claude Code: desenvolvimento, dados/IA, arquitetura",
+    "id": "euwebertdefreitas/ai-skills-for-claude-code",
+    "language": "PowerShell",
+    "name": "euwebertdefreitas/ai-skills-for-claude-code",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:48:48Z",
+    "url": "https://github.com/euwebertdefreitas/ai-skills-for-claude-code"
+  },
+  {
+    "description": "AI Agent \u63d0\u793a\u8bcd/\u5de5\u4f5c\u6d41\u6a21\u677f\uff1acopy-paste recipes for ChatGPT, Claude Code, Cursor, Codex, Windsurf, code review, tests, docs, SQL, ",
+    "id": "kneeyard126/copy-paste-ai-agent-recipes",
+    "language": "Python",
+    "name": "kneeyard126/copy-paste-ai-agent-recipes",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:47:45Z",
+    "url": "https://github.com/kneeyard126/copy-paste-ai-agent-recipes"
+  },
+  {
+    "description": "Prompt linting, static risk scanning, testing, and CI tooling for AI-agent prompts \u2014 with SARIF output, schema validatio",
+    "id": "mylesagnew/promptgenie",
+    "language": "Python",
+    "name": "mylesagnew/promptgenie",
+    "stars": 1,
+    "updated_at": "2026-06-05T23:47:27Z",
+    "url": "https://github.com/mylesagnew/promptgenie"
+  },
+  {
+    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
+    "id": "ralphmoran/ticket-lens",
+    "language": "JavaScript",
+    "name": "ralphmoran/ticket-lens",
+    "stars": 1,
+    "updated_at": "2026-06-05T23:46:57Z",
+    "url": "https://github.com/ralphmoran/ticket-lens"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -9,31 +126,13 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
-    "id": "ralphmoran/ticket-lens",
-    "language": "JavaScript",
-    "name": "ralphmoran/ticket-lens",
-    "stars": 1,
-    "updated_at": "2026-06-05T23:42:04Z",
-    "url": "https://github.com/ralphmoran/ticket-lens"
-  },
-  {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
-    "stars": 160,
+    "stars": 161,
     "updated_at": "2026-06-05T23:41:59Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Secure prompt engineering CLI \u2014 generate, lint, scan, test, benchmark, and schema-validate AI-agent prompts with CI/CD i",
-    "id": "mylesagnew/promptgenie",
-    "language": "Python",
-    "name": "mylesagnew/promptgenie",
-    "stars": 1,
-    "updated_at": "2026-06-05T23:41:26Z",
-    "url": "https://github.com/mylesagnew/promptgenie"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -99,33 +198,6 @@
     "url": "https://github.com/naimkatiman/continuous-improvement"
   },
   {
-    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
-    "id": "mobcat40/ComfyUI-PromptChain",
-    "language": "Python",
-    "name": "mobcat40/ComfyUI-PromptChain",
-    "stars": 9,
-    "updated_at": "2026-06-05T23:30:55Z",
-    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T23:30:22Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-05T23:41:51Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T23:17:55Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 14478,
-    "updated_at": "2026-06-05T23:16:34Z",
-    "url": "https://github.com/chopratejas/headroom"
   },
   {
     "description": "An operating system for your Claude context \u2014 version-controlled files, a self-curating memory, and a /start\u2192/end sessio",
@@ -232,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T23:10:19Z",
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "100 skills de especialista (\"Especialista em X\") em portugues para o Claude Code: desenvolvimento, dados/IA, arquitetura",
-    "id": "euwebertdefreitas/ai-skills-for-claude-code",
-    "language": "PowerShell",
-    "name": "euwebertdefreitas/ai-skills-for-claude-code",
-    "stars": 0,
-    "updated_at": "2026-06-05T23:07:11Z",
-    "url": "https://github.com/euwebertdefreitas/ai-skills-for-claude-code"
   },
   {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T22:52:43Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 5,
-    "updated_at": "2026-06-05T22:48:21Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "Markdown for the AI era",
-    "id": "agentmark-ai/agentmark",
-    "language": "TypeScript",
-    "name": "agentmark-ai/agentmark",
-    "stars": 352,
-    "updated_at": "2026-06-05T22:48:19Z",
-    "url": "https://github.com/agentmark-ai/agentmark"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3290,
-    "updated_at": "2026-06-05T22:48:51Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "Python",
-    "name": "github/awesome-copilot",
-    "stars": 34530,
-    "updated_at": "2026-06-05T22:43:44Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "Evolving from a PoC tracking how authoritarian prompts trigger AI performance anxiety and loops into an ongoing, collabo",
-    "id": "OttoRenner/Gentle-Coding",
-    "language": "\u2014",
-    "name": "OttoRenner/Gentle-Coding",
-    "stars": 83,
-    "updated_at": "2026-06-05T22:39:45Z",
-    "url": "https://github.com/OttoRenner/Gentle-Coding"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 740,
-    "updated_at": "2026-06-05T23:35:13Z",
-    "url": "https://github.com/promptdriven/pdd"
   }
 ]
