@@ -1,5 +1,113 @@
 [
   {
+    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
+    "id": "pranavkafle/serpapi-mcp-catalog",
+    "language": "Python",
+    "name": "pranavkafle/serpapi-mcp-catalog",
+    "stars": 0,
+    "updated_at": "2026-06-05T06:44:25Z",
+    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
+  },
+  {
+    "description": "OpenAI-compatible media generation gateway for AI Agents. Supports multi-provider image/video generation, model routing,",
+    "id": "ang77712829/AngeMedia-gateway",
+    "language": "Python",
+    "name": "ang77712829/AngeMedia-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-05T06:43:30Z",
+    "url": "https://github.com/ang77712829/AngeMedia-gateway"
+  },
+  {
+    "description": "A-share self-improving multi-agent quantitative research framework",
+    "id": "haphap/MOSAIC-Agents",
+    "language": "Python",
+    "name": "haphap/MOSAIC-Agents",
+    "stars": 1,
+    "updated_at": "2026-06-05T06:42:07Z",
+    "url": "https://github.com/haphap/MOSAIC-Agents"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28520,
+    "updated_at": "2026-06-05T06:42:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fewer tokens. Better code. A local proxy for Claude Code that strips wasted boilerplate from every request \u2014 cheaper cal",
+    "id": "Harmenszoon/clawback",
+    "language": "Python",
+    "name": "Harmenszoon/clawback",
+    "stars": 0,
+    "updated_at": "2026-06-05T06:39:08Z",
+    "url": "https://github.com/Harmenszoon/clawback"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 27379,
+    "updated_at": "2026-06-05T06:37:49Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Chinese-first project baseline handoff kit for AI-assisted development.",
+    "id": "Lucy77m/BaseBrief",
+    "language": "JavaScript",
+    "name": "Lucy77m/BaseBrief",
+    "stars": 2,
+    "updated_at": "2026-06-05T06:37:17Z",
+    "url": "https://github.com/Lucy77m/BaseBrief"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26307,
+    "updated_at": "2026-06-05T06:35:21Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "A keyboard-first, local-first app for saving, organizing, searching, and reusing your best AI prompts.",
+    "id": "AdiRishi/promptrc",
+    "language": "TypeScript",
+    "name": "AdiRishi/promptrc",
+    "stars": 1,
+    "updated_at": "2026-06-05T06:35:09Z",
+    "url": "https://github.com/AdiRishi/promptrc"
+  },
+  {
+    "description": "Practical protocols and markdown templates for safer AI-assisted / vibe coding projects: Starter, Hardening, Architectur",
+    "id": "Gudvin82/vibe-coding-protocols",
+    "language": "Python",
+    "name": "Gudvin82/vibe-coding-protocols",
+    "stars": 2,
+    "updated_at": "2026-06-05T06:35:17Z",
+    "url": "https://github.com/Gudvin82/vibe-coding-protocols"
+  },
+  {
+    "description": "The largest universal agent skill library \u2014 production-ready skills with semantic search, vector embeddings, mobile-firs",
+    "id": "badhope/AI-SKILL",
+    "language": "Python",
+    "name": "badhope/AI-SKILL",
+    "stars": 11,
+    "updated_at": "2026-06-05T06:34:15Z",
+    "url": "https://github.com/badhope/AI-SKILL"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T06:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Promptfoo for LLM skills. Regression-test SKILL.md CI/CD, measurably improve skill quality, benchmark across Claude, GPT",
     "id": "iovsiann/skillfoo",
     "language": "\u2014",
@@ -16,24 +124,6 @@
     "stars": 3,
     "updated_at": "2026-06-05T06:30:20Z",
     "url": "https://github.com/FURUYAN1234/story-maker"
-  },
-  {
-    "description": "Fewer tokens. Better code. A local proxy for Claude Code that strips wasted boilerplate from every request \u2014 cheaper cal",
-    "id": "Harmenszoon/clawback",
-    "language": "Python",
-    "name": "Harmenszoon/clawback",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:28:43Z",
-    "url": "https://github.com/Harmenszoon/clawback"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28520,
-    "updated_at": "2026-06-05T06:27:37Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI paper reviewer prompts for NeurIPS, ICML, ICLR, AAAI, and KDD: strict academic writing, citation, reproducibility, an",
@@ -279,15 +369,6 @@
     "url": "https://github.com/Soumya7681/prompt-fixer"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
     "id": "Vivavenetian310/open-source-launch-skill",
     "language": "\u2014",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-05T06:14:43Z",
     "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 1,
-    "updated_at": "2026-06-05T06:14:43Z",
-    "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:14:29Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "HTML",
-    "name": "Open-Less/openless",
-    "stars": 2135,
-    "updated_at": "2026-06-05T06:14:02Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-06-05T06:14:01Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 1,
-    "updated_at": "2026-06-05T06:13:56Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-06-05T06:13:40Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-05T06:13:09Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-06-05T06:13:05Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-06-05T06:13:03Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
   }
 ]
