@@ -1,5 +1,104 @@
 [
   {
+    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
+    "id": "luongs3/skill-atlas",
+    "language": "HTML",
+    "name": "luongs3/skill-atlas",
+    "stars": 0,
+    "updated_at": "2026-06-05T06:50:22Z",
+    "url": "https://github.com/luongs3/skill-atlas"
+  },
+  {
+    "description": "Catch reviewer comments before reviewers do: AI paper review prompts for claims, citations, experiments, anonymity, repr",
+    "id": "FanBroWell/AI-paper-reviewer",
+    "language": "\u2014",
+    "name": "FanBroWell/AI-paper-reviewer",
+    "stars": 2,
+    "updated_at": "2026-06-05T06:49:18Z",
+    "url": "https://github.com/FanBroWell/AI-paper-reviewer"
+  },
+  {
+    "description": "Call LLMs and AI agents from Org-mode ai block.",
+    "id": "Anoncheg1/emacs-oai",
+    "language": "Emacs Lisp",
+    "name": "Anoncheg1/emacs-oai",
+    "stars": 9,
+    "updated_at": "2026-06-05T06:49:17Z",
+    "url": "https://github.com/Anoncheg1/emacs-oai"
+  },
+  {
+    "description": "High-performance CLI to prepare codebase for LLMs, automate reviews, and draft commits.",
+    "id": "uxname/kodu",
+    "language": "Python",
+    "name": "uxname/kodu",
+    "stars": 1,
+    "updated_at": "2026-06-05T06:49:09Z",
+    "url": "https://github.com/uxname/kodu"
+  },
+  {
+    "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CL",
+    "id": "Dannykkh/skill-olympus",
+    "language": "Python",
+    "name": "Dannykkh/skill-olympus",
+    "stars": 2,
+    "updated_at": "2026-06-05T06:49:16Z",
+    "url": "https://github.com/Dannykkh/skill-olympus"
+  },
+  {
+    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
+    "id": "Shiyao-Huang/awesome-agent-evolution",
+    "language": "TeX",
+    "name": "Shiyao-Huang/awesome-agent-evolution",
+    "stars": 136,
+    "updated_at": "2026-06-05T06:47:29Z",
+    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 27386,
+    "updated_at": "2026-06-05T06:47:25Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
+    "id": "LouisLau-art/multi-agent-skills-catalog",
+    "language": "Python",
+    "name": "LouisLau-art/multi-agent-skills-catalog",
+    "stars": 2,
+    "updated_at": "2026-06-05T06:46:51Z",
+    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
+  },
+  {
+    "description": "Fewer tokens. Better code. A local proxy for Claude Code that strips wasted boilerplate from every request \u2014 cheaper cal",
+    "id": "Harmenszoon/clawback",
+    "language": "Python",
+    "name": "Harmenszoon/clawback",
+    "stars": 0,
+    "updated_at": "2026-06-05T06:45:44Z",
+    "url": "https://github.com/Harmenszoon/clawback"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-05T06:45:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-06-05T06:45:30Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
     "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
     "id": "pranavkafle/serpapi-mcp-catalog",
     "language": "Python",
@@ -32,26 +131,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28520,
-    "updated_at": "2026-06-05T06:42:04Z",
+    "updated_at": "2026-06-05T06:42:06Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fewer tokens. Better code. A local proxy for Claude Code that strips wasted boilerplate from every request \u2014 cheaper cal",
-    "id": "Harmenszoon/clawback",
-    "language": "Python",
-    "name": "Harmenszoon/clawback",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:39:08Z",
-    "url": "https://github.com/Harmenszoon/clawback"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 27379,
-    "updated_at": "2026-06-05T06:37:49Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "Chinese-first project baseline handoff kit for AI-assisted development.",
@@ -99,15 +180,6 @@
     "url": "https://github.com/badhope/AI-SKILL"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Promptfoo for LLM skills. Regression-test SKILL.md CI/CD, measurably improve skill quality, benchmark across Claude, GPT",
     "id": "iovsiann/skillfoo",
     "language": "\u2014",
@@ -124,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-06-05T06:30:20Z",
     "url": "https://github.com/FURUYAN1234/story-maker"
-  },
-  {
-    "description": "AI paper reviewer prompts for NeurIPS, ICML, ICLR, AAAI, and KDD: strict academic writing, citation, reproducibility, an",
-    "id": "FanBroWell/AI-paper-reviewer",
-    "language": "\u2014",
-    "name": "FanBroWell/AI-paper-reviewer",
-    "stars": 2,
-    "updated_at": "2026-06-05T06:26:16Z",
-    "url": "https://github.com/FanBroWell/AI-paper-reviewer"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -187,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T06:21:28Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "High-performance CLI to prepare codebase for LLMs, automate reviews, and draft commits.",
-    "id": "uxname/kodu",
-    "language": "Python",
-    "name": "uxname/kodu",
-    "stars": 1,
-    "updated_at": "2026-06-05T06:21:16Z",
-    "url": "https://github.com/uxname/kodu"
   },
   {
     "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-05T06:15:04Z",
     "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Generate production-ready UGC video ad prompts for Higgsfield AI Marketing Studio from your reference images and product",
-    "id": "carreras66848657/claude-skill-ugc-prompt",
-    "language": "\u2014",
-    "name": "carreras66848657/claude-skill-ugc-prompt",
-    "stars": 1,
-    "updated_at": "2026-06-05T06:15:04Z",
-    "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:15:00Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-06-05T06:14:55Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:14:50Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:14:46Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 1,
-    "updated_at": "2026-06-05T06:14:43Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
   }
 ]
