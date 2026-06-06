@@ -1,5 +1,23 @@
 [
   {
+    "description": "Local prompt routing studio for structured AI workflows and execution handoff.",
+    "id": "MCamner/atlas-one",
+    "language": "JavaScript",
+    "name": "MCamner/atlas-one",
+    "stars": 1,
+    "updated_at": "2026-06-06T23:42:05Z",
+    "url": "https://github.com/MCamner/atlas-one"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:41:47Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Prompt operating system: routes each software task to a layered stack of behavioral rules, domain knowledge, skills, and",
     "id": "gthgomez/Babel",
     "language": "TypeScript",
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T23:30:31Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:30:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-06T23:21:46Z",
     "url": "https://github.com/Gudvin82/vibe-coding-protocols"
-  },
-  {
-    "description": "Analyze Justin Sun\u2019s cognitive operating system by processing thousands of his tweets, interviews, and publications to e",
-    "id": "Emanuelam6674/sun-skill",
-    "language": "\u2014",
-    "name": "Emanuelam6674/sun-skill",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:21:43Z",
-    "url": "https://github.com/Emanuelam6674/sun-skill"
   }
 ]
