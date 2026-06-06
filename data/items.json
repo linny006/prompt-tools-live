@@ -1,12 +1,102 @@
 [
   {
+    "description": "",
+    "id": "MinhKhoixyz/xyz-project-mapper",
+    "language": "JavaScript",
+    "name": "MinhKhoixyz/xyz-project-mapper",
+    "stars": 7,
+    "updated_at": "2026-06-06T06:15:16Z",
+    "url": "https://github.com/MinhKhoixyz/xyz-project-mapper"
+  },
+  {
+    "description": "TypeScript SDK for safe AI tasks, validated candidates, and human-reviewed app state changes",
+    "id": "dreamwars99/playable-ai",
+    "language": "TypeScript",
+    "name": "dreamwars99/playable-ai",
+    "stars": 3,
+    "updated_at": "2026-06-06T06:14:56Z",
+    "url": "https://github.com/dreamwars99/playable-ai"
+  },
+  {
+    "description": "The Linux OS for AI Agents \u2014 Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intell",
+    "id": "winstonkoh87/Athena-Public",
+    "language": "Python",
+    "name": "winstonkoh87/Athena-Public",
+    "stars": 498,
+    "updated_at": "2026-06-06T06:14:49Z",
+    "url": "https://github.com/winstonkoh87/Athena-Public"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:11:23Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 27753,
-    "updated_at": "2026-06-06T06:00:19Z",
+    "stars": 27755,
+    "updated_at": "2026-06-06T06:13:32Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
+    "id": "LouisLau-art/multi-agent-skills-catalog",
+    "language": "Python",
+    "name": "LouisLau-art/multi-agent-skills-catalog",
+    "stars": 2,
+    "updated_at": "2026-06-06T06:06:21Z",
+    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
+  },
+  {
+    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
+    "id": "zxpmail/ReqForge",
+    "language": "JavaScript",
+    "name": "zxpmail/ReqForge",
+    "stars": 9,
+    "updated_at": "2026-06-06T06:04:27Z",
+    "url": "https://github.com/zxpmail/ReqForge"
+  },
+  {
+    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
+    "id": "pranavkafle/serpapi-mcp-catalog",
+    "language": "Python",
+    "name": "pranavkafle/serpapi-mcp-catalog",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:03:21Z",
+    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
+  },
+  {
+    "description": "Multi-LLM Routing & Cost-Optimization Gateway - Intelligent prompt routing with semantic caching, fallback chains, and r",
+    "id": "leopardcodeai/aws-multi-llm-gateway-cost-analysis",
+    "language": "Python",
+    "name": "leopardcodeai/aws-multi-llm-gateway-cost-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:01:29Z",
+    "url": "https://github.com/leopardcodeai/aws-multi-llm-gateway-cost-analysis"
+  },
+  {
+    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
+    "id": "mobcat40/ComfyUI-PromptChain",
+    "language": "Python",
+    "name": "mobcat40/ComfyUI-PromptChain",
+    "stars": 9,
+    "updated_at": "2026-06-06T06:01:01Z",
+    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-06T06:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -27,15 +117,6 @@
     "url": "https://github.com/sommbc/harness-lab"
   },
   {
-    "description": "TypeScript SDK for turning interactive app state into AI tasks and human-reviewable candidates",
-    "id": "dreamwars99/playable-ai",
-    "language": "TypeScript",
-    "name": "dreamwars99/playable-ai",
-    "stars": 3,
-    "updated_at": "2026-06-06T05:56:40Z",
-    "url": "https://github.com/dreamwars99/playable-ai"
-  },
-  {
     "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
     "id": "lulin70/carrymem",
     "language": "Python",
@@ -54,6 +135,15 @@
     "url": "https://github.com/therohanparmar/t3-toon"
   },
   {
+    "description": "Context hygiene for serious ChatGPT users.",
+    "id": "sommbc/context-lab",
+    "language": "JavaScript",
+    "name": "sommbc/context-lab",
+    "stars": 0,
+    "updated_at": "2026-06-06T05:51:25Z",
+    "url": "https://github.com/sommbc/context-lab"
+  },
+  {
     "description": "301 open-source coding agent skills across 22 domains \u2014 methodology, judgment & gotchas packaged as Claude Agent Skills ",
     "id": "asgard-ai-platform/skills",
     "language": "Python",
@@ -63,15 +153,6 @@
     "url": "https://github.com/asgard-ai-platform/skills"
   },
   {
-    "description": "",
-    "id": "MinhKhoixyz/xyz-project-mapper",
-    "language": "JavaScript",
-    "name": "MinhKhoixyz/xyz-project-mapper",
-    "stars": 7,
-    "updated_at": "2026-06-06T05:49:38Z",
-    "url": "https://github.com/MinhKhoixyz/xyz-project-mapper"
-  },
-  {
     "description": "\u521b\u610f\u2192\u5b8c\u6574\u77ed\u5267\u5267\u672c\u2192Seedance 2.0 \u89c6\u9891\u63d0\u793a\u8bcd \u5168\u94fe\u8def Claude Skill\uff1a\u4e0a\u6e38\u5199 50-100 \u96c6\u77ed\u5267\u5267\u672c\uff0c\u4e0b\u6e38\u8f6c\u6807\u51c6\u5267\u672c/\u8d44\u4ea7/\u5206\u955c\uff1b\u542b 12 \u94c1\u5f8b + 17 \u6a21\u677f + \u89c6\u542c\u8bed\u8a00\u00b7\u53bbAI\u611f\u00b7\u4eba\u7269\u771f\u5b9e\u611f\u6280\u5de7\u5e93\u3002 | Ful",
     "id": "mantoufan/seedance-prompts-skill",
     "language": "Shell",
@@ -79,24 +160,6 @@
     "stars": 31,
     "updated_at": "2026-06-06T05:48:23Z",
     "url": "https://github.com/mantoufan/seedance-prompts-skill"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:45:52Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
-    "id": "zxpmail/ReqForge",
-    "language": "JavaScript",
-    "name": "zxpmail/ReqForge",
-    "stars": 9,
-    "updated_at": "2026-06-06T05:40:59Z",
-    "url": "https://github.com/zxpmail/ReqForge"
   },
   {
     "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
@@ -113,7 +176,7 @@
     "language": "Shell",
     "name": "Moai-Team-LLC/agentic-product-standard",
     "stars": 6,
-    "updated_at": "2026-06-06T05:40:02Z",
+    "updated_at": "2026-06-06T06:02:10Z",
     "url": "https://github.com/Moai-Team-LLC/agentic-product-standard"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "axiomantic/spellbook",
     "stars": 6,
-    "updated_at": "2026-06-06T05:32:12Z",
+    "updated_at": "2026-06-06T06:06:07Z",
     "url": "https://github.com/axiomantic/spellbook"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T05:20:14Z",
     "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:19:56Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-06-06T05:19:45Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:19:35Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-06-06T05:19:22Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "Python",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 2,
-    "updated_at": "2026-06-06T05:19:06Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 2,
-    "updated_at": "2026-06-06T05:18:55Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-06-06T05:18:54Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
   }
 ]
