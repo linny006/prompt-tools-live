@@ -1,12 +1,75 @@
 [
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 27753,
+    "updated_at": "2026-06-06T06:00:19Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 17,
+    "updated_at": "2026-06-06T05:58:08Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Local TypeScript CLI for inspectable AI prompt-harness workflows",
+    "id": "sommbc/harness-lab",
+    "language": "TypeScript",
+    "name": "sommbc/harness-lab",
     "stars": 0,
-    "updated_at": "2026-06-06T05:45:22Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "updated_at": "2026-06-06T05:56:39Z",
+    "url": "https://github.com/sommbc/harness-lab"
+  },
+  {
+    "description": "TypeScript SDK for turning interactive app state into AI tasks and human-reviewable candidates",
+    "id": "dreamwars99/playable-ai",
+    "language": "TypeScript",
+    "name": "dreamwars99/playable-ai",
+    "stars": 3,
+    "updated_at": "2026-06-06T05:56:40Z",
+    "url": "https://github.com/dreamwars99/playable-ai"
+  },
+  {
+    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
+    "id": "lulin70/carrymem",
+    "language": "Python",
+    "name": "lulin70/carrymem",
+    "stars": 3,
+    "updated_at": "2026-06-06T05:54:54Z",
+    "url": "https://github.com/lulin70/carrymem"
+  },
+  {
+    "description": "TOON for TYPO3 \u2014 a compact, human-readable, and token-efficient data format for AI prompts & LLM contexts. Perfect for C",
+    "id": "therohanparmar/t3-toon",
+    "language": "PHP",
+    "name": "therohanparmar/t3-toon",
+    "stars": 4,
+    "updated_at": "2026-06-06T05:53:33Z",
+    "url": "https://github.com/therohanparmar/t3-toon"
+  },
+  {
+    "description": "301 open-source coding agent skills across 22 domains \u2014 methodology, judgment & gotchas packaged as Claude Agent Skills ",
+    "id": "asgard-ai-platform/skills",
+    "language": "Python",
+    "name": "asgard-ai-platform/skills",
+    "stars": 208,
+    "updated_at": "2026-06-06T05:50:09Z",
+    "url": "https://github.com/asgard-ai-platform/skills"
+  },
+  {
+    "description": "",
+    "id": "MinhKhoixyz/xyz-project-mapper",
+    "language": "JavaScript",
+    "name": "MinhKhoixyz/xyz-project-mapper",
+    "stars": 7,
+    "updated_at": "2026-06-06T05:49:38Z",
+    "url": "https://github.com/MinhKhoixyz/xyz-project-mapper"
   },
   {
     "description": "\u521b\u610f\u2192\u5b8c\u6574\u77ed\u5267\u5267\u672c\u2192Seedance 2.0 \u89c6\u9891\u63d0\u793a\u8bcd \u5168\u94fe\u8def Claude Skill\uff1a\u4e0a\u6e38\u5199 50-100 \u96c6\u77ed\u5267\u5267\u672c\uff0c\u4e0b\u6e38\u8f6c\u6807\u51c6\u5267\u672c/\u8d44\u4ea7/\u5206\u955c\uff1b\u542b 12 \u94c1\u5f8b + 17 \u6a21\u677f + \u89c6\u542c\u8bed\u8a00\u00b7\u53bbAI\u611f\u00b7\u4eba\u7269\u771f\u5b9e\u611f\u6280\u5de7\u5e93\u3002 | Ful",
@@ -14,8 +77,17 @@
     "language": "Shell",
     "name": "mantoufan/seedance-prompts-skill",
     "stars": 31,
-    "updated_at": "2026-06-06T05:43:31Z",
+    "updated_at": "2026-06-06T05:48:23Z",
     "url": "https://github.com/mantoufan/seedance-prompts-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-06T05:45:52Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
@@ -70,15 +142,6 @@
     "stars": 8,
     "updated_at": "2026-06-06T05:37:56Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 27750,
-    "updated_at": "2026-06-06T05:36:29Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "TypeAnything \u00b7 \u795e\u4ed9\u9c7c\u4e2d\u6587\u8f93\u5165\u6cd5 \u2014 \u6253\u4e2d\u6587 \u2192 Enter \u2192\u300cEnglish / \u91d1\u878d\u5f0f / \u53e4\u6c49\u8bed / \u4efb\u610f\u300d\u5b9e\u65f6\u7ffb\u8bd1\u3002\u57fa\u4e8e Weasel TSF + librime fork\u3002",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-06T05:18:54Z",
     "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Generate production-ready UGC video ad prompts for Higgsfield AI Marketing Studio from your reference images and product",
-    "id": "carreras66848657/claude-skill-ugc-prompt",
-    "language": "\u2014",
-    "name": "carreras66848657/claude-skill-ugc-prompt",
-    "stars": 1,
-    "updated_at": "2026-06-06T05:18:34Z",
-    "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-06T05:18:33Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 1,
-    "updated_at": "2026-06-06T05:18:31Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-06-06T05:18:29Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:18:24Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:18:22Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:18:17Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
   }
 ]
