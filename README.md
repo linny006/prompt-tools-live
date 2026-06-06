@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-06 12:59 UTC
+> ⏰ Last updated: 2026-06-06 13:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-06 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 2 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 0 | HTML | 2026-06-06 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
-| 3 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-06-06 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 4 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-06-06 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 5 | [Resk-Security/Resk-LLM](https://github.com/Resk-Security/Resk-LLM) | 20 | Python | 2026-06-06 |     Resk is a robust Python library designed to enhance security and manage context when interacting with LLMs. It provi |
-| 6 | [syzkillall/comprehensive-thinking-skill](https://github.com/syzkillall/comprehensive-thinking-skill) | 2 | — | 2026-06-06 | A reasoning skill for AI agents to improve complex judgment, premise auditing, counterargument pressure, and verifiable  |
-| 7 | [itsrkmahapatra/PromptForge](https://github.com/itsrkmahapatra/PromptForge) | 1 | HTML | 2026-06-06 | Free online AI prompt generator for ChatGPT, Claude, and Midjourney. Optimize your AI interactions directly in your brow |
-| 8 | [cngonzo/ballast](https://github.com/cngonzo/ballast) | 1 | — | 2026-06-06 | Ballast for LLM agents: tiered evidence, gated actions, and an audit-trailed memory that keeps a model from drifting. |
-| 9 | [Adit-Jain-srm/skill-forge](https://github.com/Adit-Jain-srm/skill-forge) | 1 | JavaScript | 2026-06-06 | Self-improving intelligence amplifier: 16 behavioral AI agent skills + TF-IDF routing + SkillOpt self-improvement loop.  |
-| 10 | [dirjaker/llm_agent_interview](https://github.com/dirjaker/llm_agent_interview) | 2 | — | 2026-06-06 | LLM应用&Agent开发面试题全集：21个专题、380+道题、41000+行、覆盖Python/FastAPI/LangChain/CICD |
-| 11 | [HMLabs-dev/awesome-ai-for-beginners](https://github.com/HMLabs-dev/awesome-ai-for-beginners) | 0 | TypeScript | 2026-06-06 | A curated list of resources to understand and use AI without any technical background. |
-| 12 | [staurus86/global-design-skill](https://github.com/staurus86/global-design-skill) | 0 | Python | 2026-06-06 | Portable design system skill for Claude Code, Cursor, Codex, ChatGPT, Windsurf, and Copilot — with MCP server and self-l |
-| 13 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-06-06 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 14 | [andreaswasita/copilot-agents-dojo](https://github.com/andreaswasita/copilot-agents-dojo) | 44 | TypeScript | 2026-06-06 | A behavioral governance framework for GitHub Copilot agents — skills.md and instructions to make AI coding agents think  |
-| 15 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-06-06 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 16 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 0 | Python | 2026-06-06 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 0 | Python | 2026-06-06 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-06 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 3 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 0 | HTML | 2026-06-06 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
+| 4 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-06-06 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 5 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-06-06 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 6 | [Resk-Security/Resk-LLM](https://github.com/Resk-Security/Resk-LLM) | 20 | Python | 2026-06-06 |     Resk is a robust Python library designed to enhance security and manage context when interacting with LLMs. It provi |
+| 7 | [syzkillall/comprehensive-thinking-skill](https://github.com/syzkillall/comprehensive-thinking-skill) | 2 | — | 2026-06-06 | A reasoning skill for AI agents to improve complex judgment, premise auditing, counterargument pressure, and verifiable  |
+| 8 | [itsrkmahapatra/PromptForge](https://github.com/itsrkmahapatra/PromptForge) | 1 | HTML | 2026-06-06 | Free online AI prompt generator for ChatGPT, Claude, and Midjourney. Optimize your AI interactions directly in your brow |
+| 9 | [cngonzo/ballast](https://github.com/cngonzo/ballast) | 1 | — | 2026-06-06 | Ballast for LLM agents: tiered evidence, gated actions, and an audit-trailed memory that keeps a model from drifting. |
+| 10 | [Adit-Jain-srm/skill-forge](https://github.com/Adit-Jain-srm/skill-forge) | 1 | JavaScript | 2026-06-06 | Self-improving intelligence amplifier: 16 behavioral AI agent skills + TF-IDF routing + SkillOpt self-improvement loop.  |
+| 11 | [dirjaker/llm_agent_interview](https://github.com/dirjaker/llm_agent_interview) | 2 | — | 2026-06-06 | LLM应用&Agent开发面试题全集：21个专题、380+道题、41000+行、覆盖Python/FastAPI/LangChain/CICD |
+| 12 | [HMLabs-dev/awesome-ai-for-beginners](https://github.com/HMLabs-dev/awesome-ai-for-beginners) | 0 | TypeScript | 2026-06-06 | A curated list of resources to understand and use AI without any technical background. |
+| 13 | [staurus86/global-design-skill](https://github.com/staurus86/global-design-skill) | 0 | Python | 2026-06-06 | Portable design system skill for Claude Code, Cursor, Codex, ChatGPT, Windsurf, and Copilot — with MCP server and self-l |
+| 14 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-06-06 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 15 | [andreaswasita/copilot-agents-dojo](https://github.com/andreaswasita/copilot-agents-dojo) | 44 | TypeScript | 2026-06-06 | A behavioral governance framework for GitHub Copilot agents — skills.md and instructions to make AI coding agents think  |
+| 16 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-06-06 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
 | 17 | [Oiawlm/gpt-magazine-portrait-workflow](https://github.com/Oiawlm/gpt-magazine-portrait-workflow) | 1 | PowerShell | 2026-06-06 | Asset-based GPT Image workflow for generating high-quality magazine-style AI portraits from multi-angle character refere |
 | 18 | [masa-san-jp/logs-with-llm](https://github.com/masa-san-jp/logs-with-llm) | 1 | Python | 2026-06-06 | LLM対話ログ、週次ブログ、Zenn記事、プロンプト資産、自動化スクリプトを管理 / Workspace for LLM logs, weekly blogs, Zenn articles, prompts, and automation  |
 | 19 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3290 | TypeScript | 2026-06-06 | The platform for LLM evaluations and AI agent testing |
