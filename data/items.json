@@ -1,5 +1,104 @@
 [
   {
+    "description": "Vendor-agnostic AI skill for planning software systems using IFPUG Function Point Analysis",
+    "id": "adautomeira/fp-control",
+    "language": "\u2014",
+    "name": "adautomeira/fp-control",
+    "stars": 0,
+    "updated_at": "2026-06-07T00:42:51Z",
+    "url": "https://github.com/adautomeira/fp-control"
+  },
+  {
+    "description": "Turn a production incident into a structured 9-section LLM response (severity, root cause, mitigation, postmortem). Ship",
+    "id": "YanpengQi7/ai-reliability-copilot",
+    "language": "TypeScript",
+    "name": "YanpengQi7/ai-reliability-copilot",
+    "stars": 1,
+    "updated_at": "2026-06-07T00:41:48Z",
+    "url": "https://github.com/YanpengQi7/ai-reliability-copilot"
+  },
+  {
+    "description": "The recursive self-improvement loop for your skills (including itself) \u2014 runs a retro after every session and turns corr",
+    "id": "yungbose/upskill",
+    "language": "Python",
+    "name": "yungbose/upskill",
+    "stars": 0,
+    "updated_at": "2026-06-07T00:40:57Z",
+    "url": "https://github.com/yungbose/upskill"
+  },
+  {
+    "description": "Personal notes on coding with AI assistants \u2014 Java/Spring, Cursor, OpenCode, SourceCraft. Modules, exercises, templates,",
+    "id": "gzheyts/ai-tools",
+    "language": "\u2014",
+    "name": "gzheyts/ai-tools",
+    "stars": 0,
+    "updated_at": "2026-06-07T00:40:05Z",
+    "url": "https://github.com/gzheyts/ai-tools"
+  },
+  {
+    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
+    "id": "Open-Source-Legal/cite",
+    "language": "Python",
+    "name": "Open-Source-Legal/cite",
+    "stars": 1343,
+    "updated_at": "2026-06-07T00:44:53Z",
+    "url": "https://github.com/Open-Source-Legal/cite"
+  },
+  {
+    "description": "The 7 Laws of AI Agent Discipline for Claude Code. Stops your agent from skipping research, claiming 'done' without veri",
+    "id": "naimkatiman/continuous-improvement",
+    "language": "JavaScript",
+    "name": "naimkatiman/continuous-improvement",
+    "stars": 6,
+    "updated_at": "2026-06-07T00:37:00Z",
+    "url": "https://github.com/naimkatiman/continuous-improvement"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "MartiniArt/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "MartiniArt/awesome-seedance-2-prompt",
+    "stars": 0,
+    "updated_at": "2026-06-07T00:35:04Z",
+    "url": "https://github.com/MartiniArt/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 21960,
+    "updated_at": "2026-06-07T00:34:52Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Claude Code plugin that scaffolds a complete, multi-provider LLM chatbot web app from a single command",
+    "id": "Preetam3620/chatbot-creator-plugin",
+    "language": "Python",
+    "name": "Preetam3620/chatbot-creator-plugin",
+    "stars": 0,
+    "updated_at": "2026-06-07T00:34:06Z",
+    "url": "https://github.com/Preetam3620/chatbot-creator-plugin"
+  },
+  {
+    "description": "A Claude Code skill that scaffolds a complete, multi-provider LLM chatbot web app from a single command",
+    "id": "Preetam3620/chatbot-creator-skill",
+    "language": "Python",
+    "name": "Preetam3620/chatbot-creator-skill",
+    "stars": 0,
+    "updated_at": "2026-06-07T00:33:11Z",
+    "url": "https://github.com/Preetam3620/chatbot-creator-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-07T00:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 140 q",
     "id": "ather-techie/rag-interview-questions",
     "language": "\u2014",
@@ -13,7 +112,7 @@
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12419,
+    "stars": 12421,
     "updated_at": "2026-06-07T00:27:46Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
@@ -23,7 +122,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 2,
-    "updated_at": "2026-06-07T00:26:27Z",
+    "updated_at": "2026-06-07T00:37:35Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -36,31 +135,13 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Personal notes on coding with AI assistants \u2014 Java/Spring, Cursor, OpenCode, SourceCraft. Modules, exercises, templates,",
-    "id": "gzheyts/ai-tools",
-    "language": "\u2014",
-    "name": "gzheyts/ai-tools",
-    "stars": 0,
-    "updated_at": "2026-06-07T00:24:07Z",
-    "url": "https://github.com/gzheyts/ai-tools"
-  },
-  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 28087,
+    "stars": 28092,
     "updated_at": "2026-06-07T00:23:13Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "The 7 Laws of AI Agent Discipline for Claude Code. Stops your agent from skipping research, claiming 'done' without veri",
-    "id": "naimkatiman/continuous-improvement",
-    "language": "JavaScript",
-    "name": "naimkatiman/continuous-improvement",
-    "stars": 6,
-    "updated_at": "2026-06-07T00:28:41Z",
-    "url": "https://github.com/naimkatiman/continuous-improvement"
   },
   {
     "description": "Two lines of code to give your LLM eyes. One attribute.",
@@ -79,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T00:17:40Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-07T00:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21959,
-    "updated_at": "2026-06-07T00:19:39Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
@@ -248,7 +311,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 183,
-    "updated_at": "2026-06-06T23:51:50Z",
+    "updated_at": "2026-06-07T00:34:29Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -333,15 +396,6 @@
     "url": "https://github.com/Adit-Jain-srm/skill-forge"
   },
   {
-    "description": "Ground truth layer for humans and AI agents working together. Version control for knowledge. ",
-    "id": "Open-Source-Legal/cite",
-    "language": "Python",
-    "name": "Open-Source-Legal/cite",
-    "stars": 1343,
-    "updated_at": "2026-06-07T00:04:27Z",
-    "url": "https://github.com/Open-Source-Legal/cite"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T23:29:58Z",
     "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:29:51Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Deploy the full ChatGPT desktop build for Windows with GPT-5 integration, DALL-E 4, and code interpreter tools.",
-    "id": "vanth7067/chatgpt-gpt-5",
-    "language": "\u2014",
-    "name": "vanth7067/chatgpt-gpt-5",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:29:37Z",
-    "url": "https://github.com/vanth7067/chatgpt-gpt-5"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:29:27Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:29:22Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:28:17Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
-    "id": "Rickardserrulate236/portfolio-dumper",
-    "language": "HTML",
-    "name": "Rickardserrulate236/portfolio-dumper",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:27:55Z",
-    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
   }
 ]
