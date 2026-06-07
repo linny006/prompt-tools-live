@@ -1,5 +1,140 @@
 [
   {
+    "description": "Extracted system prompts from Anthropic - Claude Code, Claude Design, Opus 4.8, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinkin",
+    "id": "asgeirtj/system_prompts_leaks",
+    "language": "JavaScript",
+    "name": "asgeirtj/system_prompts_leaks",
+    "stars": 41355,
+    "updated_at": "2026-06-07T10:15:20Z",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "description": "AI Agent \u9762\u8bd5\u77e5\u8bc6\u5e93\uff1a\u8986\u76d6 LLM\u3001Prompt\u3001RAG\u3001MCP\u3001Tool Use\u3001Agent \u67b6\u6784\u3001Multi-Agent\u3001LangGraph\u3001Claude Code\u3001Codex CLI\u3001\u5de5\u7a0b\u5316\u8bc4\u4f30\u3001\u5b89\u5168\u4e0e\u6e90\u7801\u89e3\u6790\u3002",
+    "id": "yibo365/agent-camp",
+    "language": "CSS",
+    "name": "yibo365/agent-camp",
+    "stars": 12,
+    "updated_at": "2026-06-07T10:14:31Z",
+    "url": "https://github.com/yibo365/agent-camp"
+  },
+  {
+    "description": "AI \u5c0f\u7ea2\u4e66\u7a7f\u642d\u63d0\u793a\u8bcd\u5e93\uff0c\u9002\u5408\u5bf9\u955c\u81ea\u62cd\u3001\u8857\u62cd\u3001\u79cd\u8349\u5c01\u9762\u3001\u7a7f\u642d\u5408\u96c6\u548c\u670d\u88c5\u6c1b\u56f4\u56fe\u3002",
+    "id": "gpt-img-2/ai-xiaohongshu-chuanda-prompt-cookbook",
+    "language": "\u2014",
+    "name": "gpt-img-2/ai-xiaohongshu-chuanda-prompt-cookbook",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:12:57Z",
+    "url": "https://github.com/gpt-img-2/ai-xiaohongshu-chuanda-prompt-cookbook"
+  },
+  {
+    "description": "AI \u670d\u88c5\u7535\u5546\u4e3b\u56fe\u63d0\u793a\u8bcd\u5e93\uff0c\u9002\u5408\u6dd8\u5b9d\u4e3b\u56fe\u3001\u5546\u54c1\u5c55\u793a\u3001\u767d\u5e95\u56fe\u3001\u573a\u666f\u56fe\u3001\u8be6\u60c5\u9875\u548c\u670d\u88c5\u5e97\u4e0a\u65b0\u3002",
+    "id": "gpt-img-2/ai-fuzhuang-dianshang-zhutu-prompt-cookbook",
+    "language": "\u2014",
+    "name": "gpt-img-2/ai-fuzhuang-dianshang-zhutu-prompt-cookbook",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:12:55Z",
+    "url": "https://github.com/gpt-img-2/ai-fuzhuang-dianshang-zhutu-prompt-cookbook"
+  },
+  {
+    "description": "AI \u670d\u88c5\u6a21\u7279\u56fe\u63d0\u793a\u8bcd\u5e93\uff0c\u9002\u5408\u670d\u88c5\u4e0a\u8eab\u56fe\u3001\u6a21\u7279\u5c55\u793a\u3001Lookbook\u3001\u68da\u62cd\u3001\u8857\u62cd\u548c\u5e97\u94fa\u4e0a\u65b0\u3002",
+    "id": "gpt-img-2/ai-fuzhuang-mote-prompt-cookbook",
+    "language": "\u2014",
+    "name": "gpt-img-2/ai-fuzhuang-mote-prompt-cookbook",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:12:53Z",
+    "url": "https://github.com/gpt-img-2/ai-fuzhuang-mote-prompt-cookbook"
+  },
+  {
+    "description": "AI \u7ae5\u88c5\u63d0\u793a\u8bcd\u5e93\uff0c\u9002\u5408\u7ae5\u88c5\u6a21\u7279\u56fe\u3001\u7ae5\u88c5\u7535\u5546\u4e3b\u56fe\u3001\u5c0f\u7ea2\u4e66\u513f\u7ae5\u7a7f\u642d\u548c\u4eb2\u5b50\u56fe\u3002",
+    "id": "gpt-img-2/ai-tongzhuang-prompt-cookbook",
+    "language": "\u2014",
+    "name": "gpt-img-2/ai-tongzhuang-prompt-cookbook",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:12:50Z",
+    "url": "https://github.com/gpt-img-2/ai-tongzhuang-prompt-cookbook"
+  },
+  {
+    "description": "AI \u5973\u88c5\u63d0\u793a\u8bcd\u5e93\uff0c\u9002\u5408\u5973\u88c5\u6a21\u7279\u56fe\u3001\u6dd8\u5b9d\u4e3b\u56fe\u3001\u5c0f\u7ea2\u4e66\u7a7f\u642d\u3001\u5973\u88c5\u5e97\u4e0a\u65b0\u548c AI \u6362\u88c5\u3002",
+    "id": "gpt-img-2/ai-nvzhuang-prompt-cookbook",
+    "language": "\u2014",
+    "name": "gpt-img-2/ai-nvzhuang-prompt-cookbook",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:12:48Z",
+    "url": "https://github.com/gpt-img-2/ai-nvzhuang-prompt-cookbook"
+  },
+  {
+    "description": "AI \u7537\u88c5\u63d0\u793a\u8bcd\u5e93\uff0c\u9002\u5408\u7537\u88c5\u6a21\u7279\u56fe\u3001\u6dd8\u5b9d\u4e3b\u56fe\u3001\u5c0f\u7ea2\u4e66\u7a7f\u642d\u3001\u5546\u52a1\u901a\u52e4\u3001\u5de5\u88c5\u673a\u80fd\u548c\u7537\u88c5\u5e97\u4e0a\u65b0\u3002",
+    "id": "gpt-img-2/ai-nanzhuang-prompt-cookbook",
+    "language": "\u2014",
+    "name": "gpt-img-2/ai-nanzhuang-prompt-cookbook",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:12:46Z",
+    "url": "https://github.com/gpt-img-2/ai-nanzhuang-prompt-cookbook"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:10:53Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:10:33Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Codex Cost Router Skills - preflight task routing skills for Codex to reduce token waste, choose model tiers, reasoning ",
+    "id": "zx1160763849-hash/codex-cost-router-skills",
+    "language": "HTML",
+    "name": "zx1160763849-hash/codex-cost-router-skills",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:09:25Z",
+    "url": "https://github.com/zx1160763849-hash/codex-cost-router-skills"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3291,
+    "updated_at": "2026-06-07T10:13:25Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:06:27Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:03:08Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
     "id": "SoliEstre/EstreGenesis",
     "language": "JavaScript",
@@ -144,42 +279,6 @@
     "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
   },
   {
-    "description": "AI \u5c0f\u7ea2\u4e66\u7a7f\u642d\u63d0\u793a\u8bcd\u5e93\uff0c\u9002\u5408\u5bf9\u955c\u81ea\u62cd\u3001\u8857\u62cd\u3001\u79cd\u8349\u5c01\u9762\u3001\u7a7f\u642d\u5408\u96c6\u548c\u670d\u88c5\u6c1b\u56f4\u56fe\u3002",
-    "id": "gpt-img-2/ai-xiaohongshu-chuanda-prompt-cookbook",
-    "language": "\u2014",
-    "name": "gpt-img-2/ai-xiaohongshu-chuanda-prompt-cookbook",
-    "stars": 0,
-    "updated_at": "2026-06-07T09:53:24Z",
-    "url": "https://github.com/gpt-img-2/ai-xiaohongshu-chuanda-prompt-cookbook"
-  },
-  {
-    "description": "AI \u670d\u88c5\u7535\u5546\u4e3b\u56fe\u63d0\u793a\u8bcd\u5e93\uff0c\u9002\u5408\u6dd8\u5b9d\u4e3b\u56fe\u3001\u5546\u54c1\u5c55\u793a\u3001\u767d\u5e95\u56fe\u3001\u573a\u666f\u56fe\u3001\u8be6\u60c5\u9875\u548c\u670d\u88c5\u5e97\u4e0a\u65b0\u3002",
-    "id": "gpt-img-2/ai-fuzhuang-dianshang-zhutu-prompt-cookbook",
-    "language": "\u2014",
-    "name": "gpt-img-2/ai-fuzhuang-dianshang-zhutu-prompt-cookbook",
-    "stars": 0,
-    "updated_at": "2026-06-07T09:53:22Z",
-    "url": "https://github.com/gpt-img-2/ai-fuzhuang-dianshang-zhutu-prompt-cookbook"
-  },
-  {
-    "description": "AI \u670d\u88c5\u6a21\u7279\u56fe\u63d0\u793a\u8bcd\u5e93\uff0c\u9002\u5408\u670d\u88c5\u4e0a\u8eab\u56fe\u3001\u6a21\u7279\u5c55\u793a\u3001Lookbook\u3001\u68da\u62cd\u3001\u8857\u62cd\u548c\u5e97\u94fa\u4e0a\u65b0\u3002",
-    "id": "gpt-img-2/ai-fuzhuang-mote-prompt-cookbook",
-    "language": "\u2014",
-    "name": "gpt-img-2/ai-fuzhuang-mote-prompt-cookbook",
-    "stars": 0,
-    "updated_at": "2026-06-07T09:53:19Z",
-    "url": "https://github.com/gpt-img-2/ai-fuzhuang-mote-prompt-cookbook"
-  },
-  {
-    "description": "AI \u7ae5\u88c5\u63d0\u793a\u8bcd\u5e93\uff0c\u9002\u5408\u7ae5\u88c5\u6a21\u7279\u56fe\u3001\u7ae5\u88c5\u7535\u5546\u4e3b\u56fe\u3001\u5c0f\u7ea2\u4e66\u513f\u7ae5\u7a7f\u642d\u548c\u4eb2\u5b50\u56fe\u3002",
-    "id": "gpt-img-2/ai-tongzhuang-prompt-cookbook",
-    "language": "\u2014",
-    "name": "gpt-img-2/ai-tongzhuang-prompt-cookbook",
-    "stars": 0,
-    "updated_at": "2026-06-07T09:53:16Z",
-    "url": "https://github.com/gpt-img-2/ai-tongzhuang-prompt-cookbook"
-  },
-  {
     "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
     "id": "colortelevisiontubedavidhilbert296/filtrd",
     "language": "\u2014",
@@ -187,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T09:53:14Z",
     "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "AI \u5973\u88c5\u63d0\u793a\u8bcd\u5e93\uff0c\u9002\u5408\u5973\u88c5\u6a21\u7279\u56fe\u3001\u6dd8\u5b9d\u4e3b\u56fe\u3001\u5c0f\u7ea2\u4e66\u7a7f\u642d\u3001\u5973\u88c5\u5e97\u4e0a\u65b0\u548c AI \u6362\u88c5\u3002",
-    "id": "gpt-img-2/ai-nvzhuang-prompt-cookbook",
-    "language": "\u2014",
-    "name": "gpt-img-2/ai-nvzhuang-prompt-cookbook",
-    "stars": 0,
-    "updated_at": "2026-06-07T09:53:13Z",
-    "url": "https://github.com/gpt-img-2/ai-nvzhuang-prompt-cookbook"
   },
   {
     "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
@@ -279,15 +369,6 @@
     "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
   },
   {
-    "description": "AI \u7537\u88c5\u63d0\u793a\u8bcd\u5e93\uff0c\u9002\u5408\u7537\u88c5\u6a21\u7279\u56fe\u3001\u6dd8\u5b9d\u4e3b\u56fe\u3001\u5c0f\u7ea2\u4e66\u7a7f\u642d\u3001\u5546\u52a1\u901a\u52e4\u3001\u5de5\u88c5\u673a\u80fd\u548c\u7537\u88c5\u5e97\u4e0a\u65b0\u3002",
-    "id": "gpt-img-2/ai-nanzhuang-prompt-cookbook",
-    "language": "\u2014",
-    "name": "gpt-img-2/ai-nanzhuang-prompt-cookbook",
-    "stars": 0,
-    "updated_at": "2026-06-07T09:51:29Z",
-    "url": "https://github.com/gpt-img-2/ai-nanzhuang-prompt-cookbook"
-  },
-  {
     "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
     "id": "Lynnastretched449/ai-hiring-workflow-engine",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-07T09:50:22Z",
     "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 1,
-    "updated_at": "2026-06-07T09:50:15Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-06-07T09:49:58Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-07T09:49:47Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-07T09:49:31Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-06-07T09:49:27Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-06-07T09:49:26Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Connect Last9 observability data to Cursor via MCP to debug production logs, metrics, and traces directly in your editor",
-    "id": "Christianly-bar1265/cursor-plugin",
-    "language": "\u2014",
-    "name": "Christianly-bar1265/cursor-plugin",
-    "stars": 1,
-    "updated_at": "2026-06-07T09:49:07Z",
-    "url": "https://github.com/Christianly-bar1265/cursor-plugin"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-07T09:48:46Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Analyze Justin Sun\u2019s cognitive operating system by processing thousands of his tweets, interviews, and publications to e",
-    "id": "Emanuelam6674/sun-skill",
-    "language": "\u2014",
-    "name": "Emanuelam6674/sun-skill",
-    "stars": 1,
-    "updated_at": "2026-06-07T09:48:39Z",
-    "url": "https://github.com/Emanuelam6674/sun-skill"
   }
 ]
