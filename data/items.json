@@ -1,5 +1,176 @@
 [
   {
+    "description": "\u53ef\u81ea\u52a8\u4f18\u5316\u63d0\u793a\u3001\u514d\u8d39\u5f00\u6e90\u3001\u5168\u5e73\u53f0\u50bb\u74dc\u5f0f ChatGPT \u672c\u5730\u5ba2\u6237\u7aef\uff0c\u652f\u6301\u65ad\u70b9\u7eed\u804a\u3001\u4fee\u6539\u5386\u53f2\u5bf9\u8bdd\u3001\u672c\u5730\u804a\u5929\u8bb0\u5f55\u5b58\u50a8\u5bfc\u5165\u5bfc\u51fa\u3001\u6dfb\u52a0\u81ea\u5df1\u7684 apikey",
+    "id": "B1lli/BillyGPT",
+    "language": "Python",
+    "name": "B1lli/BillyGPT",
+    "stars": 391,
+    "updated_at": "2026-06-08T15:13:03Z",
+    "url": "https://github.com/B1lli/BillyGPT"
+  },
+  {
+    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4293,
+    "updated_at": "2026-06-08T15:15:01Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 4,
+    "updated_at": "2026-06-08T15:13:51Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
+    "id": "FoxsterDev/ai-research-hub",
+    "language": "Python",
+    "name": "FoxsterDev/ai-research-hub",
+    "stars": 3,
+    "updated_at": "2026-06-08T15:10:32Z",
+    "url": "https://github.com/FoxsterDev/ai-research-hub"
+  },
+  {
+    "description": "The recursive self-improvement loop for your skills (including itself) \u2014 runs a retro after every session and turns corr",
+    "id": "yungbose/upskill",
+    "language": "Python",
+    "name": "yungbose/upskill",
+    "stars": 3,
+    "updated_at": "2026-06-08T15:10:22Z",
+    "url": "https://github.com/yungbose/upskill"
+  },
+  {
+    "description": "Forge: a Chrome extension that turns a rough idea into a well-engineered prompt via Claude, with a visible self-improvin",
+    "id": "snehaguptanurix/promptforge",
+    "language": "JavaScript",
+    "name": "snehaguptanurix/promptforge",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:09:49Z",
+    "url": "https://github.com/snehaguptanurix/promptforge"
+  },
+  {
+    "description": "A template for building a persona-driven LLM agent on QQ groups (OneBot v11). JSON output protocol, character-whitelist ",
+    "id": "qiankangwang/onebot-llm-agent",
+    "language": "Python",
+    "name": "qiankangwang/onebot-llm-agent",
+    "stars": 6,
+    "updated_at": "2026-06-08T15:08:44Z",
+    "url": "https://github.com/qiankangwang/onebot-llm-agent"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
+    "id": "event4u-app/agent-config",
+    "language": "Python",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-06-08T15:08:44Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Research-backed AI prompt templates for software engineering workflows. Designed for Cursor IDE and Claude.",
+    "id": "ArangoGutierrez/promptsLibrary",
+    "language": "Shell",
+    "name": "ArangoGutierrez/promptsLibrary",
+    "stars": 9,
+    "updated_at": "2026-06-08T15:07:44Z",
+    "url": "https://github.com/ArangoGutierrez/promptsLibrary"
+  },
+  {
+    "description": "Agents config for development",
+    "id": "daochild/agents-config",
+    "language": "\u2014",
+    "name": "daochild/agents-config",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:07:08Z",
+    "url": "https://github.com/daochild/agents-config"
+  },
+  {
+    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u591a\u8d26\u53f7\u8f6e\u8be2\u3002An AI im",
+    "id": "kadevin/ilab-gpt-conjure",
+    "language": "Python",
+    "name": "kadevin/ilab-gpt-conjure",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:05:59Z",
+    "url": "https://github.com/kadevin/ilab-gpt-conjure"
+  },
+  {
+    "description": "OpenAI-compatible media generation gateway for AI Agents. Supports multi-provider image/video generation, model routing,",
+    "id": "ang77712829/AngeMedia-gateway",
+    "language": "Python",
+    "name": "ang77712829/AngeMedia-gateway",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:04:29Z",
+    "url": "https://github.com/ang77712829/AngeMedia-gateway"
+  },
+  {
+    "description": "Mystery AI Coach is a Discord AI assistant I built to help improve social confidence and communication skills. It learns",
+    "id": "Odin-the-4th/Mystery-AI-Coach",
+    "language": "Python",
+    "name": "Odin-the-4th/Mystery-AI-Coach",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:03:49Z",
+    "url": "https://github.com/Odin-the-4th/Mystery-AI-Coach"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:03:11Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Design template engine + narrative engine + media pipeline. 17 AI image platforms, 4 narrative models, HTMX Web UI, MCP ",
+    "id": "veawho/via54Design",
+    "language": "Go",
+    "name": "veawho/via54Design",
+    "stars": 1,
+    "updated_at": "2026-06-08T15:01:46Z",
+    "url": "https://github.com/veawho/via54Design"
+  },
+  {
+    "description": "\ud83d\udc0c An open research project where anyone can forge AI values ",
+    "id": "xiaojialove-DRP/the42post",
+    "language": "JavaScript",
+    "name": "xiaojialove-DRP/the42post",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:01:35Z",
+    "url": "https://github.com/xiaojialove-DRP/the42post"
+  },
+  {
+    "description": "Manage your team's Claude Code agents with role-based configs, A/B testing, and accuracy tracking. CLI-first.",
+    "id": "karibew/crewkit-cli",
+    "language": "\u2014",
+    "name": "karibew/crewkit-cli",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:01:15Z",
+    "url": "https://github.com/karibew/crewkit-cli"
+  },
+  {
+    "description": "A human\u2013AI collaboration framework that works with LLM nature, not around it \u2014 natural language and purpose make RAG and",
+    "id": "huidev2025/CSF",
+    "language": "HTML",
+    "name": "huidev2025/CSF",
+    "stars": 2,
+    "updated_at": "2026-06-08T15:00:54Z",
+    "url": "https://github.com/huidev2025/CSF"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:00:43Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Executable recipes for coding agents. Same task. Same quality. Any agent.",
     "id": "Vatsalc26/ReActions",
     "language": "JavaScript",
@@ -9,20 +180,29 @@
     "url": "https://github.com/Vatsalc26/ReActions"
   },
   {
-    "description": "Design template engine + narrative engine + media pipeline. 17 AI image platforms, 4 narrative models, HTMX Web UI, MCP ",
-    "id": "veawho/via54Design",
-    "language": "Go",
-    "name": "veawho/via54Design",
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-06-08T14:59:10Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
     "stars": 1,
-    "updated_at": "2026-06-08T14:57:54Z",
-    "url": "https://github.com/veawho/via54Design"
+    "updated_at": "2026-06-08T14:59:01Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 28896,
+    "stars": 28901,
     "updated_at": "2026-06-08T14:57:08Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -43,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T14:56:05Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
-    "id": "event4u-app/agent-config",
-    "language": "Python",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-06-08T14:53:29Z",
-    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "Production-Grade Autoresearch. Ideal for GPU kernels, ML model development, feature engineering, prompt engineering, and",
@@ -79,15 +250,6 @@
     "stars": 6,
     "updated_at": "2026-06-08T14:51:41Z",
     "url": "https://github.com/naimkatiman/continuous-improvement"
-  },
-  {
-    "description": "\ud83d\udc0c An open research project where anyone can forge AI values ",
-    "id": "xiaojialove-DRP/the42post",
-    "language": "JavaScript",
-    "name": "xiaojialove-DRP/the42post",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:51:11Z",
-    "url": "https://github.com/xiaojialove-DRP/the42post"
   },
   {
     "description": "JQ AI SYSTEMS profile: AI automation systems, reusable skills, public case studies, demos, and client-safe proof.",
@@ -133,15 +295,6 @@
     "stars": 11,
     "updated_at": "2026-06-08T14:45:48Z",
     "url": "https://github.com/productfoundry101/ai-evals-bootcamp"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:45:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -207,15 +360,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u591a\u8d26\u53f7\u8f6e\u8be2\u3002An AI im",
-    "id": "kadevin/ilab-gpt-conjure",
-    "language": "Python",
-    "name": "kadevin/ilab-gpt-conjure",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:55:01Z",
-    "url": "https://github.com/kadevin/ilab-gpt-conjure"
-  },
-  {
     "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
     "id": "kodancrash-oss/prompt-weaver-framework",
     "language": "HTML",
@@ -261,6 +405,15 @@
     "url": "https://github.com/aws-samples/sample-GEDD"
   },
   {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4184,
+    "updated_at": "2026-06-08T14:40:14Z",
+    "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
     "id": "IBM/mcp-context-forge",
     "language": "Python",
@@ -279,15 +432,6 @@
     "url": "https://github.com/monildomadiya/promptking"
   },
   {
-    "description": "OpenAI-compatible media generation gateway for AI Agents. Supports multi-provider image/video generation, model routing,",
-    "id": "ang77712829/AngeMedia-gateway",
-    "language": "Python",
-    "name": "ang77712829/AngeMedia-gateway",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:37:36Z",
-    "url": "https://github.com/ang77712829/AngeMedia-gateway"
-  },
-  {
     "description": "Alian\u00e7a \u2014 gerador de harness adaptativo e model-agnostic para LLMs (Markdown puro). Adapta-se \u00e0 persona, longevidade e r",
     "id": "Jonas0017/aAlianca",
     "language": "\u2014",
@@ -304,149 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T14:35:22Z",
     "url": "https://github.com/TexasBedouin/vibe-check"
-  },
-  {
-    "description": "Codex skill for plain-language completion summaries",
-    "id": "everydy/codex-skill-plain-language-closeout",
-    "language": "JavaScript",
-    "name": "everydy/codex-skill-plain-language-closeout",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:33:26Z",
-    "url": "https://github.com/everydy/codex-skill-plain-language-closeout"
-  },
-  {
-    "description": "A Codex skill for creating resumable checkpoints across long AI coding sessions",
-    "id": "everydy/codex-skill-checkpoint",
-    "language": "Shell",
-    "name": "everydy/codex-skill-checkpoint",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:33:26Z",
-    "url": "https://github.com/everydy/codex-skill-checkpoint"
-  },
-  {
-    "description": "A Codex skill for writing evidence-based implementation plans before editing code",
-    "id": "everydy/codex-skill-plan-first-implementation",
-    "language": "Python",
-    "name": "everydy/codex-skill-plan-first-implementation",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:33:26Z",
-    "url": "https://github.com/everydy/codex-skill-plan-first-implementation"
-  },
-  {
-    "description": "A Codex skill that turns messy requests into executable briefs before acting",
-    "id": "everydy/codex-skill-request-refiner",
-    "language": "\u2014",
-    "name": "everydy/codex-skill-request-refiner",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:33:26Z",
-    "url": "https://github.com/everydy/codex-skill-request-refiner"
-  },
-  {
-    "description": "A Codex skill for completing ambiguous multi-step tasks end to end with safe defaults and verification",
-    "id": "everydy/codex-skill-mission-completion-harness",
-    "language": "Shell",
-    "name": "everydy/codex-skill-mission-completion-harness",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:33:26Z",
-    "url": "https://github.com/everydy/codex-skill-mission-completion-harness"
-  },
-  {
-    "description": "Agent skill for reliable Stable Diffusion, LoRA, ControlNet, and multi-character prompt workflows.",
-    "id": "Edemckb/sd-prompt-forge",
-    "language": "Python",
-    "name": "Edemckb/sd-prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:32:31Z",
-    "url": "https://github.com/Edemckb/sd-prompt-forge"
-  },
-  {
-    "description": "Process-first bootstrap for Codex, Claude Code, and OpenCode with superpowers, role-based subagents, token-efficient wor",
-    "id": "hun99999/agent-bootstrap",
-    "language": "Python",
-    "name": "hun99999/agent-bootstrap",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:30:59Z",
-    "url": "https://github.com/hun99999/agent-bootstrap"
-  },
-  {
-    "description": "A human\u2013AI collaboration framework that works with LLM nature, not around it \u2014 natural language and purpose make RAG and",
-    "id": "huidev2025/CSF",
-    "language": "HTML",
-    "name": "huidev2025/CSF",
-    "stars": 1,
-    "updated_at": "2026-06-08T14:28:33Z",
-    "url": "https://github.com/huidev2025/CSF"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28684,
-    "updated_at": "2026-06-08T14:28:00Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-06-08T14:27:46Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "A small, file-first verification harness that turns an AI agent's \"I'm done\" claim into an auditable admission decision.",
-    "id": "BrianNguyen29/x-harness",
-    "language": "Go",
-    "name": "BrianNguyen29/x-harness",
-    "stars": 1,
-    "updated_at": "2026-06-08T14:27:30Z",
-    "url": "https://github.com/BrianNguyen29/x-harness"
-  },
-  {
-    "description": "A human-AI consensus protocol and engineering constraint specification, defining transparent traceable AI reasoning, ant",
-    "id": "husuting/human-ai-consensus",
-    "language": "\u2014",
-    "name": "husuting/human-ai-consensus",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:26:33Z",
-    "url": "https://github.com/husuting/human-ai-consensus"
-  },
-  {
-    "description": "Zero-skill cinema. Senior-director prompts on autopilot. A Claude Code Skill for high-quality AI image / video / music p",
-    "id": "Hao0321/ai-media-generator",
-    "language": "\u2014",
-    "name": "Hao0321/ai-media-generator",
-    "stars": 79,
-    "updated_at": "2026-06-08T14:25:02Z",
-    "url": "https://github.com/Hao0321/ai-media-generator"
-  },
-  {
-    "description": "Evidence-first decision gates for AI agents: independent challenge reviews, human checkpoints, and verification before h",
-    "id": "marcusliu-dev/agent-decision-gates",
-    "language": "PowerShell",
-    "name": "marcusliu-dev/agent-decision-gates",
-    "stars": 1,
-    "updated_at": "2026-06-08T14:24:54Z",
-    "url": "https://github.com/marcusliu-dev/agent-decision-gates"
-  },
-  {
-    "description": "Open-source harness distillation: frontier teachers improve prompts, tools, validators, skills, and runtime policies aro",
-    "id": "JarvisPei/HarnessForge",
-    "language": "Python",
-    "name": "JarvisPei/HarnessForge",
-    "stars": 1,
-    "updated_at": "2026-06-08T14:24:51Z",
-    "url": "https://github.com/JarvisPei/HarnessForge"
-  },
-  {
-    "description": "Advanced prompt engineering for journalists: A 4-week MOOC moving from chat interfaces to CLI tools",
-    "id": "jamditis/prompt-engineering-journalists",
-    "language": "HTML",
-    "name": "jamditis/prompt-engineering-journalists",
-    "stars": 4,
-    "updated_at": "2026-06-08T14:24:41Z",
-    "url": "https://github.com/jamditis/prompt-engineering-journalists"
   }
 ]
