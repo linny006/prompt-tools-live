@@ -1,5 +1,41 @@
 [
   {
+    "description": "Design template engine + narrative engine + media pipeline. 17 AI image platforms, 4 narrative models, HTMX Web UI, MCP ",
+    "id": "veawho/via54Design",
+    "language": "Go",
+    "name": "veawho/via54Design",
+    "stars": 1,
+    "updated_at": "2026-06-08T21:19:24Z",
+    "url": "https://github.com/veawho/via54Design"
+  },
+  {
+    "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
+    "id": "kochetkov-ma/claude-brewcode",
+    "language": "MDX",
+    "name": "kochetkov-ma/claude-brewcode",
+    "stars": 27,
+    "updated_at": "2026-06-08T21:18:07Z",
+    "url": "https://github.com/kochetkov-ma/claude-brewcode"
+  },
+  {
+    "description": "Deterministic code-context pipeline for debugging large codebases and AI-assisted workflows.",
+    "id": "johnsellin93/grab",
+    "language": "Shell",
+    "name": "johnsellin93/grab",
+    "stars": 3,
+    "updated_at": "2026-06-08T21:16:47Z",
+    "url": "https://github.com/johnsellin93/grab"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "By a 12-year product manager who builds 0-to-1: takes a beginner from a vague idea to a buildable plan, then guides the ",
     "id": "TexasBedouin/vibe-check",
     "language": "Shell",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 2789,
-    "updated_at": "2026-06-08T21:14:33Z",
+    "updated_at": "2026-06-08T21:18:51Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
     "id": "fonscutup654/ELAI-DevKit",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T20:59:22Z",
     "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
-    "id": "event4u-app/agent-config",
-    "language": "Python",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-06-08T21:10:17Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-06-08T20:58:59Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-06-08T20:58:58Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
   }
 ]
