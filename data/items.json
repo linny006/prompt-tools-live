@@ -1,12 +1,75 @@
 [
   {
+    "description": "A dotfiles repo that treats AI agent behavior as infrastructure",
+    "id": "pbierkortte/ai-runbook",
+    "language": "HTML",
+    "name": "pbierkortte/ai-runbook",
+    "stars": 3,
+    "updated_at": "2026-06-08T00:56:53Z",
+    "url": "https://github.com/pbierkortte/ai-runbook"
+  },
+  {
+    "description": "AI Agent Ops framework for Claude Code \u2014 independent evaluator, adversarial review, and pre-commit quality gate for AI-g",
+    "id": "TeamSPWK/nova",
+    "language": "Shell",
+    "name": "TeamSPWK/nova",
+    "stars": 2,
+    "updated_at": "2026-06-08T00:54:19Z",
+    "url": "https://github.com/TeamSPWK/nova"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-08T00:44:33Z",
+    "updated_at": "2026-06-08T00:51:52Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83d\ude80\ud83d\udcaaMaximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/\u4e2d\u6587/Espa\u00f1",
+    "id": "rockbenben/ChatGPT-Shortcut",
+    "language": "TypeScript",
+    "name": "rockbenben/ChatGPT-Shortcut",
+    "stars": 8524,
+    "updated_at": "2026-06-08T00:51:14Z",
+    "url": "https://github.com/rockbenben/ChatGPT-Shortcut"
+  },
+  {
+    "description": "An OpenCode skill that turns vague requests into reviewed, project-ready agent skills.",
+    "id": "schizo16/skillforge",
+    "language": "PowerShell",
+    "name": "schizo16/skillforge",
+    "stars": 0,
+    "updated_at": "2026-06-08T00:50:52Z",
+    "url": "https://github.com/schizo16/skillforge"
+  },
+  {
+    "description": "Multi-LLM, multi-tier prompt engineering benchmark for CNN-generated training pipelines on coffee leaf disease recogniti",
+    "id": "jorgeklz/paper-llm-rocole",
+    "language": "Python",
+    "name": "jorgeklz/paper-llm-rocole",
+    "stars": 0,
+    "updated_at": "2026-06-08T00:53:22Z",
+    "url": "https://github.com/jorgeklz/paper-llm-rocole"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 12,
+    "updated_at": "2026-06-08T00:46:24Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-08T00:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Evidence-first decision gates for AI agents: independent challenge reviews, human checkpoints, and verification before h",
@@ -16,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-08T00:43:09Z",
     "url": "https://github.com/marcusliu-dev/agent-decision-gates"
-  },
-  {
-    "description": "A dotfiles repo that treats AI agent behavior as infrastructure",
-    "id": "pbierkortte/ai-runbook",
-    "language": "HTML",
-    "name": "pbierkortte/ai-runbook",
-    "stars": 3,
-    "updated_at": "2026-06-08T00:42:44Z",
-    "url": "https://github.com/pbierkortte/ai-runbook"
   },
   {
     "description": "Markdown for the AI era",
@@ -45,15 +99,6 @@
     "url": "https://github.com/MartiniArt/awesome-seedance-2-prompt"
   },
   {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 12,
-    "updated_at": "2026-06-08T00:35:30Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -68,7 +113,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 2,
-    "updated_at": "2026-06-08T00:32:23Z",
+    "updated_at": "2026-06-08T00:53:46Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-06-08T00:34:04Z",
     "url": "https://github.com/mylesagnew/promptgenie"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-08T00:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Structured skill graph for LLM agents: routing, execution guidance, references, and reusable domain knowledge in JSON.",
@@ -203,7 +239,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 201,
-    "updated_at": "2026-06-08T00:38:15Z",
+    "updated_at": "2026-06-08T00:56:02Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 742,
-    "updated_at": "2026-06-08T00:38:11Z",
+    "updated_at": "2026-06-08T00:53:38Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T23:53:38Z",
     "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-06-07T23:53:37Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-06-07T23:53:34Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-07T23:53:30Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "DARE is a structured methodology for AI-assisted software development. Four phases (Design \u2192 Architect \u2192 Review \u2192 Execut",
-    "id": "dewtech-technologies/dare-method",
-    "language": "HTML",
-    "name": "dewtech-technologies/dare-method",
-    "stars": 2,
-    "updated_at": "2026-06-07T23:57:42Z",
-    "url": "https://github.com/dewtech-technologies/dare-method"
   }
 ]
