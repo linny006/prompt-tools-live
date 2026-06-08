@@ -1,12 +1,129 @@
 [
   {
+    "description": "Curated GPT-Image-2 prompt library with preview images, 1-click copy, and direct generate links. Supports multi-language",
+    "id": "SurgePix/awesome-gpt-image-2-free-prompts",
+    "language": "\u2014",
+    "name": "SurgePix/awesome-gpt-image-2-free-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-08T07:44:45Z",
+    "url": "https://github.com/SurgePix/awesome-gpt-image-2-free-prompts"
+  },
+  {
+    "description": "A premium AI prompt marketplace and directory. Discover, share, and monetize high-quality prompts for ChatGPT, Midjourne",
+    "id": "monildomadiya/promptking",
+    "language": "JavaScript",
+    "name": "monildomadiya/promptking",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:40:32Z",
+    "url": "https://github.com/monildomadiya/promptking"
+  },
+  {
+    "description": "A curated list of 250+ tools for Automated AI/ML - from hyperparameter optimization to autonomous AI agents.",
+    "id": "jbogocz/awesome-automated-ai",
+    "language": "TypeScript",
+    "name": "jbogocz/awesome-automated-ai",
+    "stars": 2,
+    "updated_at": "2026-06-08T07:40:05Z",
+    "url": "https://github.com/jbogocz/awesome-automated-ai"
+  },
+  {
+    "description": "Prompt riusabili e cheatsheet del libro \u00abClaude Code: la guida pratica\u00bb \u2014 dall'installazione al deploy AWS con skills, a",
+    "id": "hidran/claude-code-book-snippets",
+    "language": "\u2014",
+    "name": "hidran/claude-code-book-snippets",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:39:15Z",
+    "url": "https://github.com/hidran/claude-code-book-snippets"
+  },
+  {
+    "description": "Claude AI skill for cinematic Higgsfield AI prompts \u2014 20 sub-skills covering Cinema Studio 2.5/3.0/3.5, MCSLA formula, S",
+    "id": "OSideMedia/higgsfield-ai-prompt-skill",
+    "language": "Python",
+    "name": "OSideMedia/higgsfield-ai-prompt-skill",
+    "stars": 114,
+    "updated_at": "2026-06-08T07:38:11Z",
+    "url": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 3840,
+    "updated_at": "2026-06-08T07:37:50Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28659,
+    "updated_at": "2026-06-08T07:37:29Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cuan",
+    "id": "fxMT-nx/El-Primor",
+    "language": "JavaScript",
+    "name": "fxMT-nx/El-Primor",
+    "stars": 6,
+    "updated_at": "2026-06-08T07:36:51Z",
+    "url": "https://github.com/fxMT-nx/El-Primor"
+  },
+  {
+    "description": "Multi-agent AI workflow platform \u2014 coordinator-driven, 11 agents, 227 skills, 15 rules.",
+    "id": "ryan-nguyen-01/maestro",
+    "language": "Python",
+    "name": "ryan-nguyen-01/maestro",
+    "stars": 1,
+    "updated_at": "2026-06-08T07:36:39Z",
+    "url": "https://github.com/ryan-nguyen-01/maestro"
+  },
+  {
+    "description": "A template for building a persona-driven LLM agent on QQ groups (OneBot v11). JSON output protocol, character-whitelist ",
+    "id": "qiankangwang/onebot-llm-agent",
+    "language": "Python",
+    "name": "qiankangwang/onebot-llm-agent",
+    "stars": 6,
+    "updated_at": "2026-06-08T07:36:36Z",
+    "url": "https://github.com/qiankangwang/onebot-llm-agent"
+  },
+  {
+    "description": "The 7 Laws of AI Agent Discipline for Claude Code. Stops your agent from skipping research, claiming 'done' without veri",
+    "id": "naimkatiman/continuous-improvement",
+    "language": "JavaScript",
+    "name": "naimkatiman/continuous-improvement",
+    "stars": 6,
+    "updated_at": "2026-06-08T07:35:28Z",
+    "url": "https://github.com/naimkatiman/continuous-improvement"
+  },
+  {
+    "description": "Evidence-first decision gates for AI agents: independent challenge reviews, human checkpoints, and verification before h",
+    "id": "marcusliu-dev/agent-decision-gates",
+    "language": "PowerShell",
+    "name": "marcusliu-dev/agent-decision-gates",
+    "stars": 1,
+    "updated_at": "2026-06-08T07:34:43Z",
+    "url": "https://github.com/marcusliu-dev/agent-decision-gates"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19449,
-    "updated_at": "2026-06-08T07:30:17Z",
+    "stars": 19448,
+    "updated_at": "2026-06-08T07:37:35Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:30:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
@@ -63,15 +180,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "A premium AI prompt marketplace and directory. Discover, share, and monetize high-quality prompts for ChatGPT, Midjourne",
-    "id": "monildomadiya/promptking",
-    "language": "JavaScript",
-    "name": "monildomadiya/promptking",
-    "stars": 0,
-    "updated_at": "2026-06-08T07:20:29Z",
-    "url": "https://github.com/monildomadiya/promptking"
-  },
-  {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
     "id": "VisionaireLabs/Visionaire",
     "language": "TypeScript",
@@ -85,7 +193,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 17382,
+    "stars": 17394,
     "updated_at": "2026-06-08T07:20:05Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -126,15 +234,6 @@
     "url": "https://github.com/aiKunalBisht/Transcript-ai"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-08T07:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -142,24 +241,6 @@
     "stars": 17,
     "updated_at": "2026-06-08T07:15:29Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Evidence-first decision gates for AI agents: independent challenge reviews, human checkpoints, and verification before h",
-    "id": "marcusliu-dev/agent-decision-gates",
-    "language": "PowerShell",
-    "name": "marcusliu-dev/agent-decision-gates",
-    "stars": 1,
-    "updated_at": "2026-06-08T07:15:10Z",
-    "url": "https://github.com/marcusliu-dev/agent-decision-gates"
-  },
-  {
-    "description": "A template for building a persona-driven LLM agent on QQ groups (OneBot v11). JSON output protocol, character-whitelist ",
-    "id": "qiankangwang/onebot-llm-agent",
-    "language": "Python",
-    "name": "qiankangwang/onebot-llm-agent",
-    "stars": 6,
-    "updated_at": "2026-06-08T07:13:15Z",
-    "url": "https://github.com/qiankangwang/onebot-llm-agent"
   },
   {
     "description": "Token-efficient context engine for AI coding agents. v2.0: Lean & Lossless Compaction governor + zoned profile/skill mem",
@@ -176,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3292,
-    "updated_at": "2026-06-08T07:28:23Z",
+    "updated_at": "2026-06-08T07:41:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -243,15 +324,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 3839,
-    "updated_at": "2026-06-08T07:27:59Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
     "description": "This is a professional prompt builder for SeaArt / Stable Diffusion, specialized in NSFW content and Japanese subculture",
     "id": "tmhtdst0508-ux/KENZEN-SeaArt-Helper",
     "language": "\u2014",
@@ -268,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T07:06:56Z",
     "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
-  },
-  {
-    "description": "Multi-agent AI workflow platform \u2014 coordinator-driven, 11 agents, 227 skills, 15 rules.",
-    "id": "ryan-nguyen-01/maestro",
-    "language": "Python",
-    "name": "ryan-nguyen-01/maestro",
-    "stars": 1,
-    "updated_at": "2026-06-08T07:15:20Z",
-    "url": "https://github.com/ryan-nguyen-01/maestro"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -313,15 +376,6 @@
     "stars": 8,
     "updated_at": "2026-06-08T06:55:32Z",
     "url": "https://github.com/FanBroWell/AI-paper-reviewer"
-  },
-  {
-    "description": "\ud83e\udea2 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Inte",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28657,
-    "updated_at": "2026-06-08T06:52:43Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -391,62 +445,8 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 28710,
+    "stars": 28720,
     "updated_at": "2026-06-08T06:37:09Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 2,
-    "updated_at": "2026-06-08T06:36:43Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
-    "id": "ralphmoran/ticket-lens",
-    "language": "JavaScript",
-    "name": "ralphmoran/ticket-lens",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:36:15Z",
-    "url": "https://github.com/ralphmoran/ticket-lens"
-  },
-  {
-    "description": "Codex prompt pack for distilling legal workflows into reusable AI assets",
-    "id": "Mark1017520/legal-workflow-distiller",
-    "language": "\u2014",
-    "name": "Mark1017520/legal-workflow-distiller",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:35:47Z",
-    "url": "https://github.com/Mark1017520/legal-workflow-distiller"
-  },
-  {
-    "description": "Context engineering for AI Agents. Manage your LLM's context window with caching, compaction, summarization, and gracefu",
-    "id": "terminus-labs-ai/sr2",
-    "language": "Python",
-    "name": "terminus-labs-ai/sr2",
-    "stars": 3,
-    "updated_at": "2026-06-08T06:32:53Z",
-    "url": "https://github.com/terminus-labs-ai/sr2"
-  },
-  {
-    "description": "A lightweight anti-hallucination wrapper for LLMs using Chain-of-Verification.",
-    "id": "Muhtasim-Munif-Fahim/self-correct-agent",
-    "language": "Python",
-    "name": "Muhtasim-Munif-Fahim/self-correct-agent",
-    "stars": 4,
-    "updated_at": "2026-06-08T06:32:20Z",
-    "url": "https://github.com/Muhtasim-Munif-Fahim/self-correct-agent"
-  },
-  {
-    "description": "An AI-powered PDF chatbot that lets users upload documents and ask questions in natural language, providing accurate ans",
-    "id": "chethanakeshava/DocuChat-AI-Intelligent-Document-Assistant",
-    "language": "HTML",
-    "name": "chethanakeshava/DocuChat-AI-Intelligent-Document-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:27:26Z",
-    "url": "https://github.com/chethanakeshava/DocuChat-AI-Intelligent-Document-Assistant"
   }
 ]
