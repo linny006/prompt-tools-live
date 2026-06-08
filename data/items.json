@@ -1,12 +1,129 @@
 [
   {
-    "description": "\u53ef\u81ea\u52a8\u4f18\u5316\u63d0\u793a\u3001\u514d\u8d39\u5f00\u6e90\u3001\u5168\u5e73\u53f0\u50bb\u74dc\u5f0f ChatGPT \u672c\u5730\u5ba2\u6237\u7aef\uff0c\u652f\u6301\u65ad\u70b9\u7eed\u804a\u3001\u4fee\u6539\u5386\u53f2\u5bf9\u8bdd\u3001\u672c\u5730\u804a\u5929\u8bb0\u5f55\u5b58\u50a8\u5bfc\u5165\u5bfc\u51fa\u3001\u6dfb\u52a0\u81ea\u5df1\u7684 apikey",
+    "description": "A template for building a persona-driven LLM agent on QQ groups (OneBot v11). JSON output protocol, character-whitelist ",
+    "id": "qiankangwang/onebot-llm-agent",
+    "language": "Python",
+    "name": "qiankangwang/onebot-llm-agent",
+    "stars": 6,
+    "updated_at": "2026-06-08T15:28:22Z",
+    "url": "https://github.com/qiankangwang/onebot-llm-agent"
+  },
+  {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 4,
+    "updated_at": "2026-06-08T15:26:27Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
+    "id": "YouMind-OpenLab/awesome-gpt-image-2",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-2",
+    "stars": 7246,
+    "updated_at": "2026-06-08T15:26:09Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:25:14Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 20,
+    "updated_at": "2026-06-08T15:24:14Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "Zero-skill cinema. Senior-director prompts on autopilot. A Claude Code Skill for high-quality AI image / video / music p",
+    "id": "Hao0321/ai-media-generator",
+    "language": "\u2014",
+    "name": "Hao0321/ai-media-generator",
+    "stars": 79,
+    "updated_at": "2026-06-08T15:23:55Z",
+    "url": "https://github.com/Hao0321/ai-media-generator"
+  },
+  {
+    "description": "Maintenance-mode desktop ChatGPT client built with Flet, kept as a small open-source archive with smoke and startup chec",
     "id": "B1lli/BillyGPT",
     "language": "Python",
     "name": "B1lli/BillyGPT",
     "stars": 391,
-    "updated_at": "2026-06-08T15:13:03Z",
+    "updated_at": "2026-06-08T15:23:41Z",
     "url": "https://github.com/B1lli/BillyGPT"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 28906,
+    "updated_at": "2026-06-08T15:23:15Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 50,
+    "updated_at": "2026-06-08T15:22:52Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "LLM-based privacy risk classifier achieving 97% recall and 84% precision on a 10-service benchmark \u2014 ensemble design, it",
+    "id": "Jatin23K/TLDR-Shield",
+    "language": "JavaScript",
+    "name": "Jatin23K/TLDR-Shield",
+    "stars": 1,
+    "updated_at": "2026-06-08T15:22:31Z",
+    "url": "https://github.com/Jatin23K/TLDR-Shield"
+  },
+  {
+    "description": "Design template engine + narrative engine + media pipeline. 17 AI image platforms, 4 narrative models, HTMX Web UI, MCP ",
+    "id": "veawho/via54Design",
+    "language": "Go",
+    "name": "veawho/via54Design",
+    "stars": 1,
+    "updated_at": "2026-06-08T15:22:22Z",
+    "url": "https://github.com/veawho/via54Design"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 21,
+    "updated_at": "2026-06-08T15:20:36Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Codex skills for scientific infographics, research cover visuals, and publication-grade paper figures using ChatGPT imag",
+    "id": "2023Anita/scientific-visual-skills",
+    "language": "\u2014",
+    "name": "2023Anita/scientific-visual-skills",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:19:14Z",
+    "url": "https://github.com/2023Anita/scientific-visual-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-08T15:15:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
@@ -16,15 +133,6 @@
     "stars": 4293,
     "updated_at": "2026-06-08T15:15:01Z",
     "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
-    "id": "zigrivers/scaffold",
-    "language": "TypeScript",
-    "name": "zigrivers/scaffold",
-    "stars": 4,
-    "updated_at": "2026-06-08T15:13:51Z",
-    "url": "https://github.com/zigrivers/scaffold"
   },
   {
     "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
@@ -52,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T15:09:49Z",
     "url": "https://github.com/snehaguptanurix/promptforge"
-  },
-  {
-    "description": "A template for building a persona-driven LLM agent on QQ groups (OneBot v11). JSON output protocol, character-whitelist ",
-    "id": "qiankangwang/onebot-llm-agent",
-    "language": "Python",
-    "name": "qiankangwang/onebot-llm-agent",
-    "stars": 6,
-    "updated_at": "2026-06-08T15:08:44Z",
-    "url": "https://github.com/qiankangwang/onebot-llm-agent"
   },
   {
     "description": "Universal AI Agent OS \u2014 governed skills, rules, commands for developers, founders, creators, GTM, finance/ops",
@@ -112,7 +211,7 @@
     "id": "Odin-the-4th/Mystery-AI-Coach",
     "language": "Python",
     "name": "Odin-the-4th/Mystery-AI-Coach",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-08T15:03:49Z",
     "url": "https://github.com/Odin-the-4th/Mystery-AI-Coach"
   },
@@ -124,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T15:03:11Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Design template engine + narrative engine + media pipeline. 17 AI image platforms, 4 narrative models, HTMX Web UI, MCP ",
-    "id": "veawho/via54Design",
-    "language": "Go",
-    "name": "veawho/via54Design",
-    "stars": 1,
-    "updated_at": "2026-06-08T15:01:46Z",
-    "url": "https://github.com/veawho/via54Design"
   },
   {
     "description": "\ud83d\udc0c An open research project where anyone can forge AI values ",
@@ -162,15 +252,6 @@
     "url": "https://github.com/huidev2025/CSF"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-08T15:00:43Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Executable recipes for coding agents. Same task. Same quality. Any agent.",
     "id": "Vatsalc26/ReActions",
     "language": "JavaScript",
@@ -196,24 +277,6 @@
     "stars": 1,
     "updated_at": "2026-06-08T14:59:01Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 28901,
-    "updated_at": "2026-06-08T14:57:08Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:56:22Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
@@ -383,70 +446,7 @@
     "language": "Shell",
     "name": "kyungseo/ai-workflow-harness",
     "stars": 6,
-    "updated_at": "2026-06-08T14:50:57Z",
+    "updated_at": "2026-06-08T15:21:41Z",
     "url": "https://github.com/kyungseo/ai-workflow-harness"
-  },
-  {
-    "description": "Universal multi-agent infrastructure for AI coding assistants. 25 specialist agents, 16 enforced workflow skills, and a ",
-    "id": "RBraga01/a-team",
-    "language": "JavaScript",
-    "name": "RBraga01/a-team",
-    "stars": 5,
-    "updated_at": "2026-06-08T14:42:40Z",
-    "url": "https://github.com/RBraga01/a-team"
-  },
-  {
-    "description": "Find what your AI agent gets wrong \u2014 before you have a rubric. Qualitative eval for PMs.",
-    "id": "aws-samples/sample-GEDD",
-    "language": "Python",
-    "name": "aws-samples/sample-GEDD",
-    "stars": 2,
-    "updated_at": "2026-06-08T14:42:02Z",
-    "url": "https://github.com/aws-samples/sample-GEDD"
-  },
-  {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4184,
-    "updated_at": "2026-06-08T14:40:14Z",
-    "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 3847,
-    "updated_at": "2026-06-08T14:38:20Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "A premium AI prompt marketplace and directory. Discover, share, and monetize high-quality prompts for ChatGPT, Midjourne",
-    "id": "monildomadiya/promptking",
-    "language": "JavaScript",
-    "name": "monildomadiya/promptking",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:38:04Z",
-    "url": "https://github.com/monildomadiya/promptking"
-  },
-  {
-    "description": "Alian\u00e7a \u2014 gerador de harness adaptativo e model-agnostic para LLMs (Markdown puro). Adapta-se \u00e0 persona, longevidade e r",
-    "id": "Jonas0017/aAlianca",
-    "language": "\u2014",
-    "name": "Jonas0017/aAlianca",
-    "stars": 0,
-    "updated_at": "2026-06-08T14:35:49Z",
-    "url": "https://github.com/Jonas0017/aAlianca"
-  },
-  {
-    "description": "Takes a complete beginner from a vague app idea to a buildable plan, then guides them through building it: GitHub basics",
-    "id": "TexasBedouin/vibe-check",
-    "language": "\u2014",
-    "name": "TexasBedouin/vibe-check",
-    "stars": 1,
-    "updated_at": "2026-06-08T14:35:22Z",
-    "url": "https://github.com/TexasBedouin/vibe-check"
   }
 ]
