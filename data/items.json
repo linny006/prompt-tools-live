@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udd16 Simulate AI with go-llm, your unified Go SDK for various Large Language Models, enabling seamless application developm",
+    "id": "Tberke0/go-llm",
+    "language": "Go",
+    "name": "Tberke0/go-llm",
+    "stars": 1,
+    "updated_at": "2026-06-08T04:59:25Z",
+    "url": "https://github.com/Tberke0/go-llm"
+  },
+  {
+    "description": "Prompt engineering workbench \u2014 Chrome extension, desktop app, and web tool",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "HTML",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 2,
+    "updated_at": "2026-06-08T04:59:23Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "\ud83d\ude80 Orchestrate parallel Claude Code workers with persistent state and behavioral governance for efficient, autonomous cod",
+    "id": "AudiRamadyan/claude-swarm",
+    "language": "\u2014",
+    "name": "AudiRamadyan/claude-swarm",
+    "stars": 1,
+    "updated_at": "2026-06-08T04:59:17Z",
+    "url": "https://github.com/AudiRamadyan/claude-swarm"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI prompt management with this Python library for chaining prompts, ensuring validation, error handling, an",
+    "id": "Vt2103/ai-prompt-workflow-engine",
+    "language": "Python",
+    "name": "Vt2103/ai-prompt-workflow-engine",
+    "stars": 1,
+    "updated_at": "2026-06-08T04:59:07Z",
+    "url": "https://github.com/Vt2103/ai-prompt-workflow-engine"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-06-08T04:59:00Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-08T04:58:58Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A template language for composable LLM prompt engineering. Write prompts with variables, loops, conditionals, functions,",
+    "id": "dean0x/mdscript",
+    "language": "Rust",
+    "name": "dean0x/mdscript",
+    "stars": 2,
+    "updated_at": "2026-06-08T04:58:58Z",
+    "url": "https://github.com/dean0x/mdscript"
+  },
+  {
     "description": "\ud83d\ude80 Explore modular agent skills for dynamic AI development, enabling on-demand knowledge injection through standardized `",
     "id": "jrmapa/awesome-agent-skills",
     "language": "\u2014",
@@ -288,15 +351,6 @@
     "url": "https://github.com/matixblocks/prompts-dev"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-08T04:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83d\ude80 Enhance LLM output by enforcing brevity and clarity with a strict protocol for high information density in responses.",
     "id": "BOTNOIeiei/concise-response-protocol",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T04:54:33Z",
     "url": "https://github.com/areliw/mt-score-up-skill"
-  },
-  {
-    "description": "Evidence-first decision gates for AI agents: independent challenge reviews, human checkpoints, and verification before h",
-    "id": "marcusliu-dev/agent-decision-gates",
-    "language": "PowerShell",
-    "name": "marcusliu-dev/agent-decision-gates",
-    "stars": 1,
-    "updated_at": "2026-06-08T04:41:46Z",
-    "url": "https://github.com/marcusliu-dev/agent-decision-gates"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Explore hands-on notebooks to master LLMs, RAG, LangChain, CrewAI, and multi-agent systems for effective AI learning ",
-    "id": "jesfra929/agentic-ai-learning-series",
-    "language": "Jupyter Notebook",
-    "name": "jesfra929/agentic-ai-learning-series",
-    "stars": 3,
-    "updated_at": "2026-06-08T04:41:39Z",
-    "url": "https://github.com/jesfra929/agentic-ai-learning-series"
-  },
-  {
-    "description": "\ud83d\udd4c Provide AI-driven Islamic guidance with verified responses, ensuring users access authentic sources for their question",
-    "id": "Raj1003200/islamic-guidance-ai",
-    "language": "Python",
-    "name": "Raj1003200/islamic-guidance-ai",
-    "stars": 1,
-    "updated_at": "2026-06-08T04:41:36Z",
-    "url": "https://github.com/Raj1003200/islamic-guidance-ai"
-  },
-  {
-    "description": "Examples of prompts for Microsoft Copilot",
-    "id": "pnp/copilot-prompts",
-    "language": "\u2014",
-    "name": "pnp/copilot-prompts",
-    "stars": 613,
-    "updated_at": "2026-06-08T04:41:33Z",
-    "url": "https://github.com/pnp/copilot-prompts"
-  },
-  {
-    "description": "\ud83d\uddbc\ufe0f Master advanced techniques for Google's Nano Banana Pro to create stunning, professional-quality images up to 4K reso",
-    "id": "yug69/awesome-nano-banana-pro",
-    "language": "\u2014",
-    "name": "yug69/awesome-nano-banana-pro",
-    "stars": 5,
-    "updated_at": "2026-06-08T04:41:20Z",
-    "url": "https://github.com/yug69/awesome-nano-banana-pro"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 1607,
-    "updated_at": "2026-06-08T04:40:48Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
   }
 ]
