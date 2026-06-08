@@ -1,12 +1,30 @@
 [
   {
-    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
-    "id": "Supervertaler/Supervertaler-Workbench",
+    "description": "Context optimization for LLM apps. Ranks, dedups, and budgets retrieved chunks into a tighter prompt, with a full audit ",
+    "id": "Mario-Vishal/tokengate",
     "language": "Python",
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 41,
-    "updated_at": "2026-06-08T21:45:16Z",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+    "name": "Mario-Vishal/tokengate",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:57:50Z",
+    "url": "https://github.com/Mario-Vishal/tokengate"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:57:36Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "\u8907\u96d1\u306a\u30b7\u30b9\u30c6\u30e0\u69cb\u6210\u3092\u64ec\u4eba\u5316\u3057\u3066\u5206\u304b\u308a\u3084\u3059\u304f\u8aac\u660e\u3059\u308b\u30d7\u30ed\u30f3\u30d7\u30c8",
+    "id": "tanahira/system-personification-prompt",
+    "language": "\u2014",
+    "name": "tanahira/system-personification-prompt",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:56:44Z",
+    "url": "https://github.com/tanahira/system-personification-prompt"
   },
   {
     "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
@@ -14,17 +32,8 @@
     "language": "Python",
     "name": "LiHongwei-cn/lihongwei-cn",
     "stars": 8,
-    "updated_at": "2026-06-08T21:44:35Z",
+    "updated_at": "2026-06-08T21:56:24Z",
     "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "Personal intelli dashboard (Tauri + Rust + React) for discovering jobs, collabs, side hustles & community builds on X us",
-    "id": "p10ns11y/collab-finder",
-    "language": "TypeScript",
-    "name": "p10ns11y/collab-finder",
-    "stars": 1,
-    "updated_at": "2026-06-08T21:43:54Z",
-    "url": "https://github.com/p10ns11y/collab-finder"
   },
   {
     "description": "AI-powered system design assistant \u2014 structured design conversations, live architecture diagrams, and markdown export. B",
@@ -32,8 +41,116 @@
     "language": "JavaScript",
     "name": "timuryesm/arch-assistant",
     "stars": 0,
-    "updated_at": "2026-06-08T21:42:36Z",
+    "updated_at": "2026-06-08T21:56:01Z",
     "url": "https://github.com/timuryesm/arch-assistant"
+  },
+  {
+    "description": "Shared public skills developed by Skill Engineer",
+    "id": "Agent-Engineer-Master/skill-engineer",
+    "language": "Python",
+    "name": "Agent-Engineer-Master/skill-engineer",
+    "stars": 6,
+    "updated_at": "2026-06-08T21:55:50Z",
+    "url": "https://github.com/Agent-Engineer-Master/skill-engineer"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 50,
+    "updated_at": "2026-06-08T21:55:25Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:54:32Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A single-page live reference guide for an AI agent handoff workflow, including the document schema, the Builder and Clos",
+    "id": "roymcfarland/agent_handoff_guide",
+    "language": "TypeScript",
+    "name": "roymcfarland/agent_handoff_guide",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:58:43Z",
+    "url": "https://github.com/roymcfarland/agent_handoff_guide"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 208,
+    "updated_at": "2026-06-08T21:55:03Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-08T21:51:04Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "A simple yet efficent way to create prompts by using basics of prompt engineering. Created using Vue.js + Tailwind CSS",
+    "id": "GiorgioTassoni/Promptly",
+    "language": "Vue",
+    "name": "GiorgioTassoni/Promptly",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:49:33Z",
+    "url": "https://github.com/GiorgioTassoni/Promptly"
+  },
+  {
+    "description": "Free-forever AI prompt manager for Claude, ChatGPT & Gemini \u2014 an MV3 browser extension + web app that keep your prompts ",
+    "id": "tech-sumit/promptvault",
+    "language": "JavaScript",
+    "name": "tech-sumit/promptvault",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:49:13Z",
+    "url": "https://github.com/tech-sumit/promptvault"
+  },
+  {
+    "description": "Personal intelli dashboard (Tauri + Rust + React) for discovering jobs, collabs, side hustles & community builds on X us",
+    "id": "p10ns11y/collab-finder",
+    "language": "TypeScript",
+    "name": "p10ns11y/collab-finder",
+    "stars": 1,
+    "updated_at": "2026-06-08T21:48:31Z",
+    "url": "https://github.com/p10ns11y/collab-finder"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Full-stack prompt workspace for Claude Code and Codex with ASP.NET Core, React, PostgreSQL and SignalR.",
+    "id": "psielta/gerenciamento-de-tarefas-definidas-por-prompt",
+    "language": "C#",
+    "name": "psielta/gerenciamento-de-tarefas-definidas-por-prompt",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:45:22Z",
+    "url": "https://github.com/psielta/gerenciamento-de-tarefas-definidas-por-prompt"
+  },
+  {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 41,
+    "updated_at": "2026-06-08T21:45:16Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
   },
   {
     "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
@@ -99,15 +216,6 @@
     "url": "https://github.com/AIEngineering26/promptvm-cli"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
     "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
     "language": "TypeScript",
@@ -160,15 +268,6 @@
     "stars": 15,
     "updated_at": "2026-06-08T21:23:34Z",
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "Free-forever AI prompt manager for Claude, ChatGPT & Gemini \u2014 an MV3 browser extension + web app that keep your prompts ",
-    "id": "tech-sumit/promptvault",
-    "language": "JavaScript",
-    "name": "tech-sumit/promptvault",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:22:13Z",
-    "url": "https://github.com/tech-sumit/promptvault"
   },
   {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T21:04:19Z",
     "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser.",
-    "id": "Opsn5528/vibe-coding-claude-md",
-    "language": "HTML",
-    "name": "Opsn5528/vibe-coding-claude-md",
-    "stars": 1,
-    "updated_at": "2026-06-08T21:04:17Z",
-    "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22021,
-    "updated_at": "2026-06-08T21:44:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-06-08T21:03:32Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Automate social media accounts using an AI agent that navigates live web pages to perform tasks like liking posts and wr",
-    "id": "Dusty-plumcot781/locoagent",
-    "language": "\u2014",
-    "name": "Dusty-plumcot781/locoagent",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:03:27Z",
-    "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-06-08T21:02:56Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:02:29Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:02:13Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "",
-    "id": "Samridhi012/InterviewAI",
-    "language": "JavaScript",
-    "name": "Samridhi012/InterviewAI",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:02:04Z",
-    "url": "https://github.com/Samridhi012/InterviewAI"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-06-08T21:01:57Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-06-08T21:01:54Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-06-08T21:01:46Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
   }
 ]
