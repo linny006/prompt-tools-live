@@ -1,10 +1,199 @@
 [
   {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-08T06:30:18Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "A template for building a persona-driven LLM agent on QQ groups (OneBot v11). JSON output protocol, character-whitelist ",
+    "id": "qiankangwang/onebot-llm-agent",
+    "language": "Python",
+    "name": "qiankangwang/onebot-llm-agent",
+    "stars": 6,
+    "updated_at": "2026-06-08T06:29:59Z",
+    "url": "https://github.com/qiankangwang/onebot-llm-agent"
+  },
+  {
+    "description": "A premium AI prompt marketplace and directory. Discover, share, and monetize high-quality prompts for ChatGPT, Midjourne",
+    "id": "monildomadiya/promptking",
+    "language": "JavaScript",
+    "name": "monildomadiya/promptking",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:29:47Z",
+    "url": "https://github.com/monildomadiya/promptking"
+  },
+  {
+    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
+    "id": "zxpmail/ReqForge",
+    "language": "JavaScript",
+    "name": "zxpmail/ReqForge",
+    "stars": 10,
+    "updated_at": "2026-06-08T06:28:13Z",
+    "url": "https://github.com/zxpmail/ReqForge"
+  },
+  {
+    "description": "This is a professional prompt builder for SeaArt / Stable Diffusion, specialized in NSFW content and Japanese subculture",
+    "id": "tmhtdst0508-ux/KENZEN-SeaArt-Helper",
+    "language": "\u2014",
+    "name": "tmhtdst0508-ux/KENZEN-SeaArt-Helper",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:29:28Z",
+    "url": "https://github.com/tmhtdst0508-ux/KENZEN-SeaArt-Helper"
+  },
+  {
+    "description": "Turn a production incident into a structured 9-section LLM response (severity, root cause, mitigation, postmortem). Ship",
+    "id": "YanpengQi7/ai-reliability-copilot",
+    "language": "TypeScript",
+    "name": "YanpengQi7/ai-reliability-copilot",
+    "stars": 14,
+    "updated_at": "2026-06-08T06:27:24Z",
+    "url": "https://github.com/YanpengQi7/ai-reliability-copilot"
+  },
+  {
+    "description": "AI Paper Reviewer: LLM-based tool for academic paper review",
+    "id": "FanBroWell/AI-paper-reviewer",
+    "language": "HTML",
+    "name": "FanBroWell/AI-paper-reviewer",
+    "stars": 8,
+    "updated_at": "2026-06-08T06:27:09Z",
+    "url": "https://github.com/FanBroWell/AI-paper-reviewer"
+  },
+  {
+    "description": "Open-source AI Creative Direction Agent for designers. Turns messy client briefs into visual direction, layout guidance,",
+    "id": "neela-sankar/brief2visual-ai-agent",
+    "language": "\u2014",
+    "name": "neela-sankar/brief2visual-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:26:57Z",
+    "url": "https://github.com/neela-sankar/brief2visual-ai-agent"
+  },
+  {
+    "description": "Codex prompt pack for distilling legal workflows into reusable AI assets",
+    "id": "Mark1017520/legal-workflow-distiller",
+    "language": "\u2014",
+    "name": "Mark1017520/legal-workflow-distiller",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:26:50Z",
+    "url": "https://github.com/Mark1017520/legal-workflow-distiller"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:23:04Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3292,
+    "updated_at": "2026-06-08T06:29:51Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 34607,
+    "updated_at": "2026-06-08T06:21:11Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:18:38Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "\ud83c\udf99\ufe0f \u5b8c\u5168\u79bb\u7ebf\u7684\u672c\u5730 AI \u8bed\u97f3 Prompt \u8f93\u5165\u5668 \u2014 Whisper + Ollama + Raycast\uff0c\u96f6\u4e91\u7aef\u4f9d\u8d56\uff0c\u9690\u79c1 100% \u81ea\u63a7",
+    "id": "aimer1124/local-voice-input",
+    "language": "Shell",
+    "name": "aimer1124/local-voice-input",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:18:20Z",
+    "url": "https://github.com/aimer1124/local-voice-input"
+  },
+  {
+    "description": "A collection of custom skills",
+    "id": "Emlembow/claude-skills",
+    "language": "Python",
+    "name": "Emlembow/claude-skills",
+    "stars": 2,
+    "updated_at": "2026-06-08T06:18:09Z",
+    "url": "https://github.com/Emlembow/claude-skills"
+  },
+  {
+    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
+    "id": "Highlydeveloped-trowel635/context-graph-compressor",
+    "language": "\u2014",
+    "name": "Highlydeveloped-trowel635/context-graph-compressor",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:17:52Z",
+    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
+  },
+  {
+    "description": "Deploy the full ChatGPT desktop build for Windows with GPT-5 integration, DALL-E 4, and code interpreter tools.",
+    "id": "vanth7067/chatgpt-gpt-5",
+    "language": "\u2014",
+    "name": "vanth7067/chatgpt-gpt-5",
+    "stars": 1,
+    "updated_at": "2026-06-08T06:17:27Z",
+    "url": "https://github.com/vanth7067/chatgpt-gpt-5"
+  },
+  {
+    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
+    "id": "Maxiesuggestive393/claude-code-cli",
+    "language": "TypeScript",
+    "name": "Maxiesuggestive393/claude-code-cli",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:17:15Z",
+    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
+  },
+  {
+    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
+    "id": "prasti8527/legal-ai-skills",
+    "language": "Python",
+    "name": "prasti8527/legal-ai-skills",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:17:04Z",
+    "url": "https://github.com/prasti8527/legal-ai-skills"
+  },
+  {
+    "description": "Evidence-first decision gates for AI agents: independent challenge reviews, human checkpoints, and verification before h",
+    "id": "marcusliu-dev/agent-decision-gates",
+    "language": "PowerShell",
+    "name": "marcusliu-dev/agent-decision-gates",
+    "stars": 1,
+    "updated_at": "2026-06-08T06:16:55Z",
+    "url": "https://github.com/marcusliu-dev/agent-decision-gates"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
     "id": "herreravalenz6620/context-compression",
     "language": "Python",
     "name": "herreravalenz6620/context-compression",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-08T06:15:05Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
   },
@@ -52,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T06:14:22Z",
     "url": "https://github.com/roymcfarland/agent_handoff_guide"
-  },
-  {
-    "description": "Codex prompt pack for distilling legal workflows into reusable AI assets",
-    "id": "Mark1017520/legal-workflow-distiller",
-    "language": "\u2014",
-    "name": "Mark1017520/legal-workflow-distiller",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:13:41Z",
-    "url": "https://github.com/Mark1017520/legal-workflow-distiller"
   },
   {
     "description": "Automate social media accounts using an AI agent that navigates live web pages to perform tasks like liking posts and wr",
@@ -268,185 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T06:08:29Z",
     "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Curated Ideogram 4.0 prompts and image examples \u2014 typography, photorealistic portraits, product/UI mockups, and model co",
-    "id": "EvoLinkAI/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "EvoLinkAI/awesome-ideogram-4.0-prompts",
-    "stars": 16,
-    "updated_at": "2026-06-08T06:08:12Z",
-    "url": "https://github.com/EvoLinkAI/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:08:09Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:07:37Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:07:36Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-06-08T06:07:35Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Connect Last9 observability data to Cursor via MCP to debug production logs, metrics, and traces directly in your editor",
-    "id": "Christianly-bar1265/cursor-plugin",
-    "language": "\u2014",
-    "name": "Christianly-bar1265/cursor-plugin",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:07:15Z",
-    "url": "https://github.com/Christianly-bar1265/cursor-plugin"
-  },
-  {
-    "description": "Turn a repo into a clean Markdown context bundle for AI coding assistants\u2014use it to share only the files that matter.",
-    "id": "DaHecked/context-forge-cli",
-    "language": "Python",
-    "name": "DaHecked/context-forge-cli",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:07:11Z",
-    "url": "https://github.com/DaHecked/context-forge-cli"
-  },
-  {
-    "description": "Store Prometheus metrics in ClickHouse with native support for PromQL queries. Simplify long-term storage without managi",
-    "id": "Namandla0101/PromClick",
-    "language": "\u2014",
-    "name": "Namandla0101/PromClick",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:06:50Z",
-    "url": "https://github.com/Namandla0101/PromClick"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:06:50Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Analyze Justin Sun\u2019s cognitive operating system by processing thousands of his tweets, interviews, and publications to e",
-    "id": "Emanuelam6674/sun-skill",
-    "language": "\u2014",
-    "name": "Emanuelam6674/sun-skill",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:06:47Z",
-    "url": "https://github.com/Emanuelam6674/sun-skill"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:06:34Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:06:20Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "Automate AI research workflows using Claude Code skills to manage project progress, perform rigorous algorithm reviews, ",
-    "id": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "language": "\u2014",
-    "name": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:06:17Z",
-    "url": "https://github.com/Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy"
-  },
-  {
-    "description": "Track public technical updates, architecture notes, and development benchmarks for the Happy Horse 1.0 AI video generati",
-    "id": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "language": "\u2014",
-    "name": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:06:11Z",
-    "url": "https://github.com/Waldoncockeyed9421/Happy-Horse-1.0"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 2,
-    "updated_at": "2026-06-08T06:05:48Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Catalog physical media collections into portable knowledge bases for LLM context windows to improve AI awareness of your",
-    "id": "Bennyvibrionic5714/llmbrary",
-    "language": "Python",
-    "name": "Bennyvibrionic5714/llmbrary",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:05:38Z",
-    "url": "https://github.com/Bennyvibrionic5714/llmbrary"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:05:21Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Optimize development performance by stripping away unnecessary abstractions and focusing on raw code execution.",
-    "id": "Ricarddefensive803/caveman-skill",
-    "language": "\u2014",
-    "name": "Ricarddefensive803/caveman-skill",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:05:15Z",
-    "url": "https://github.com/Ricarddefensive803/caveman-skill"
-  },
-  {
-    "description": "Organize AI conversations into clean, structured threads to refine context and improve model output quality.",
-    "id": "Robertmyerkesextremist950/metaprompt",
-    "language": "HTML",
-    "name": "Robertmyerkesextremist950/metaprompt",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:05:12Z",
-    "url": "https://github.com/Robertmyerkesextremist950/metaprompt"
-  },
-  {
-    "description": "Standardize AI agent behavior across IDEs and CLI tools using a single configuration file to reduce token usage and buil",
-    "id": "opticalmaserpreachment710/agents-evolution",
-    "language": "PowerShell",
-    "name": "opticalmaserpreachment710/agents-evolution",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:05:10Z",
-    "url": "https://github.com/opticalmaserpreachment710/agents-evolution"
   }
 ]
