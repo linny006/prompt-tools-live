@@ -1,12 +1,84 @@
 [
   {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 4,
+    "updated_at": "2026-06-09T11:59:08Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Some practical agent skills for AI coding agents (Claude Code, Cursor, Copilot, Codex, etc.),",
+    "id": "chaunsin/agent-skills",
+    "language": "Python",
+    "name": "chaunsin/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-06-09T11:57:07Z",
+    "url": "https://github.com/chaunsin/agent-skills"
+  },
+  {
+    "description": "An ongoing, collaborative meta-analysis about Human-AI-Interactions. We aggregate data and knowledge to build a non-abra",
+    "id": "OttoRenner/Gentle-Coding",
+    "language": "\u2014",
+    "name": "OttoRenner/Gentle-Coding",
+    "stars": 95,
+    "updated_at": "2026-06-09T11:56:37Z",
+    "url": "https://github.com/OttoRenner/Gentle-Coding"
+  },
+  {
+    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
+    "id": "teguhimanulloh47/pirate-talk-for-claude",
+    "language": "HTML",
+    "name": "teguhimanulloh47/pirate-talk-for-claude",
+    "stars": 0,
+    "updated_at": "2026-06-09T11:55:36Z",
+    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
+  },
+  {
+    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
+    "id": "Kenny27lokku/prompt-integrity-validator",
+    "language": "HTML",
+    "name": "Kenny27lokku/prompt-integrity-validator",
+    "stars": 0,
+    "updated_at": "2026-06-09T11:54:34Z",
+    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
+  },
+  {
+    "description": "Reusable Codex and ChatGPT product-builder operating memory.",
+    "id": "trugurpala/hafizalar",
+    "language": "JavaScript",
+    "name": "trugurpala/hafizalar",
+    "stars": 0,
+    "updated_at": "2026-06-09T11:57:42Z",
+    "url": "https://github.com/trugurpala/hafizalar"
+  },
+  {
     "description": "A beginner-friendly toolkit for turning messy AI learning notes, prompts, skills, and agent ideas into reusable workflow",
     "id": "Yuzzz77/ai-native-starter-kit",
     "language": "\u2014",
     "name": "Yuzzz77/ai-native-starter-kit",
     "stars": 0,
-    "updated_at": "2026-06-09T11:50:34Z",
+    "updated_at": "2026-06-09T11:53:20Z",
     "url": "https://github.com/Yuzzz77/ai-native-starter-kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-09T11:52:15Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28755,
+    "updated_at": "2026-06-09T11:58:53Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -23,17 +95,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19506,
-    "updated_at": "2026-06-09T11:48:29Z",
+    "updated_at": "2026-06-09T11:52:17Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-09T11:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u2726 GRIMOIRE \u2014 AI capability marketplace. Define, share, and cast structured AI capabilities (\"spells\"). npm for intellige",
@@ -77,26 +140,8 @@
     "language": "Swift",
     "name": "katipally/Doom-Coder",
     "stars": 2,
-    "updated_at": "2026-06-09T11:40:18Z",
+    "updated_at": "2026-06-09T11:58:37Z",
     "url": "https://github.com/katipally/Doom-Coder"
-  },
-  {
-    "description": "An ongoing, collaborative meta-analysis about Human-AI-Interactions. We aggregate data and knowledge to build a non-abra",
-    "id": "OttoRenner/Gentle-Coding",
-    "language": "\u2014",
-    "name": "OttoRenner/Gentle-Coding",
-    "stars": 95,
-    "updated_at": "2026-06-09T11:52:10Z",
-    "url": "https://github.com/OttoRenner/Gentle-Coding"
-  },
-  {
-    "description": "Reusable Codex and ChatGPT product-builder operating memory.",
-    "id": "trugurpala/hafizalar",
-    "language": "JavaScript",
-    "name": "trugurpala/hafizalar",
-    "stars": 0,
-    "updated_at": "2026-06-09T11:39:16Z",
-    "url": "https://github.com/trugurpala/hafizalar"
   },
   {
     "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T11:37:47Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Some practical agent skills for AI coding agents (Claude Code, Cursor, Copilot, Codex, etc.),",
-    "id": "chaunsin/agent-skills",
-    "language": "Python",
-    "name": "chaunsin/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-06-09T11:36:45Z",
-    "url": "https://github.com/chaunsin/agent-skills"
   },
   {
     "description": "Desktop app for Windows & macOS that queues prompts across 12 AI providers \u2014 Claude, GPT, Gemini, Groq, Mistral, DeepSee",
@@ -203,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3295,
-    "updated_at": "2026-06-09T11:44:38Z",
+    "updated_at": "2026-06-09T12:00:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 3852,
-    "updated_at": "2026-06-09T11:08:17Z",
+    "updated_at": "2026-06-09T11:54:40Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 17,
     "updated_at": "2026-06-09T10:52:05Z",
     "url": "https://github.com/vishal2612200/agentpack"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-09T10:50:46Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
-    "id": "Rickardserrulate236/portfolio-dumper",
-    "language": "HTML",
-    "name": "Rickardserrulate236/portfolio-dumper",
-    "stars": 1,
-    "updated_at": "2026-06-09T10:50:26Z",
-    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser.",
-    "id": "Opsn5528/vibe-coding-claude-md",
-    "language": "HTML",
-    "name": "Opsn5528/vibe-coding-claude-md",
-    "stars": 1,
-    "updated_at": "2026-06-09T10:50:24Z",
-    "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
-  },
-  {
-    "description": "Enterprise Architecture Standards and Principles ",
-    "id": "gauravs19/archpilot",
-    "language": "Python",
-    "name": "gauravs19/archpilot",
-    "stars": 8,
-    "updated_at": "2026-06-09T10:50:19Z",
-    "url": "https://github.com/gauravs19/archpilot"
   }
 ]
