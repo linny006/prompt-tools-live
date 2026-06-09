@@ -1,5 +1,122 @@
 [
   {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2803,
+    "updated_at": "2026-06-09T20:14:53Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 8,
+    "updated_at": "2026-06-09T20:14:02Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "A simple yet efficent way to create prompts by using basics of prompt engineering. Created using Vue.js + Tailwind CSS",
+    "id": "GiorgioTassoni/Promptly",
+    "language": "Vue",
+    "name": "GiorgioTassoni/Promptly",
+    "stars": 0,
+    "updated_at": "2026-06-09T20:10:42Z",
+    "url": "https://github.com/GiorgioTassoni/Promptly"
+  },
+  {
+    "description": "Portable, version-controlled Claude Code configuration \u2014 structured engineering workflows with problem definition, syste",
+    "id": "chriscantu/claude-config",
+    "language": "TypeScript",
+    "name": "chriscantu/claude-config",
+    "stars": 0,
+    "updated_at": "2026-06-09T20:10:17Z",
+    "url": "https://github.com/chriscantu/claude-config"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 29462,
+    "updated_at": "2026-06-09T20:15:32Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Executable recipes for coding agents. Same task. Same quality. Any agent.",
+    "id": "Vatsalc26/ReActions",
+    "language": "JavaScript",
+    "name": "Vatsalc26/ReActions",
+    "stars": 0,
+    "updated_at": "2026-06-09T20:10:09Z",
+    "url": "https://github.com/Vatsalc26/ReActions"
+  },
+  {
+    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
+    "id": "5uprem4/ai-skill-vault",
+    "language": "HTML",
+    "name": "5uprem4/ai-skill-vault",
+    "stars": 2,
+    "updated_at": "2026-06-09T20:09:38Z",
+    "url": "https://github.com/5uprem4/ai-skill-vault"
+  },
+  {
+    "description": "Project-based AI engineering roadmap for experienced software engineers learning LLM apps, RAG, agents, evals, system de",
+    "id": "iamsatar/ai-engineering-roadmap-for-software-engineers",
+    "language": "\u2014",
+    "name": "iamsatar/ai-engineering-roadmap-for-software-engineers",
+    "stars": 0,
+    "updated_at": "2026-06-09T20:08:14Z",
+    "url": "https://github.com/iamsatar/ai-engineering-roadmap-for-software-engineers"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 742,
+    "updated_at": "2026-06-09T20:06:45Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 15,
+    "updated_at": "2026-06-09T20:01:21Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "Claude Code skills, architectural principles, and alternative approaches for AI-assisted development",
+    "id": "AnastasiyaW/claude-code-config",
+    "language": "Python",
+    "name": "AnastasiyaW/claude-code-config",
+    "stars": 125,
+    "updated_at": "2026-06-09T20:00:59Z",
+    "url": "https://github.com/AnastasiyaW/claude-code-config"
+  },
+  {
+    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
+    "id": "teguhimanulloh47/pirate-talk-for-claude",
+    "language": "HTML",
+    "name": "teguhimanulloh47/pirate-talk-for-claude",
+    "stars": 0,
+    "updated_at": "2026-06-09T20:00:53Z",
+    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-09T20:00:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
     "id": "Kenny27lokku/prompt-integrity-validator",
     "language": "HTML",
@@ -16,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-06-09T19:59:15Z",
     "url": "https://github.com/Adit-Jain-srm/skill-forge"
-  },
-  {
-    "description": "Project-based AI engineering roadmap for experienced software engineers learning LLM apps, RAG, agents, evals, system de",
-    "id": "iamsatar/ai-engineering-roadmap-for-software-engineers",
-    "language": "\u2014",
-    "name": "iamsatar/ai-engineering-roadmap-for-software-engineers",
-    "stars": 0,
-    "updated_at": "2026-06-09T19:58:29Z",
-    "url": "https://github.com/iamsatar/ai-engineering-roadmap-for-software-engineers"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 29461,
-    "updated_at": "2026-06-09T19:57:12Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
@@ -58,45 +157,9 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 20336,
+    "stars": 20347,
     "updated_at": "2026-06-09T19:55:02Z",
     "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "Executable recipes for coding agents. Same task. Same quality. Any agent.",
-    "id": "Vatsalc26/ReActions",
-    "language": "JavaScript",
-    "name": "Vatsalc26/ReActions",
-    "stars": 0,
-    "updated_at": "2026-06-09T19:52:52Z",
-    "url": "https://github.com/Vatsalc26/ReActions"
-  },
-  {
-    "description": "Claude Code skills, architectural principles, and alternative approaches for AI-assisted development",
-    "id": "AnastasiyaW/claude-code-config",
-    "language": "Python",
-    "name": "AnastasiyaW/claude-code-config",
-    "stars": 125,
-    "updated_at": "2026-06-09T19:52:39Z",
-    "url": "https://github.com/AnastasiyaW/claude-code-config"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 2803,
-    "updated_at": "2026-06-09T19:52:27Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 8,
-    "updated_at": "2026-06-09T19:48:46Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
   },
   {
     "description": "Intrinsic preferences of AI coding agents under underspecified prompts: Experiments across models (Claude, Gemini, GPT, ",
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-06-09T19:58:15Z",
+    "updated_at": "2026-06-09T20:14:42Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/archubbuck/workspace-architect"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-09T19:45:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -153,12 +207,21 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28780,
+    "updated_at": "2026-06-09T19:40:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19528,
-    "updated_at": "2026-06-09T19:59:50Z",
+    "updated_at": "2026-06-09T20:14:45Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -232,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-06-09T19:59:45Z",
     "url": "https://github.com/promptLM/promptlm-app"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 742,
-    "updated_at": "2026-06-09T19:50:17Z",
-    "url": "https://github.com/promptdriven/pdd"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T19:09:13Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-06-09T19:09:04Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-06-09T19:08:07Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "A quiet AI workflow coach. It spots where your time goes, hands you a 5-minute drill, and saves you a reusable playbook ",
-    "id": "TexasBedouin/timeback",
-    "language": "Shell",
-    "name": "TexasBedouin/timeback",
-    "stars": 0,
-    "updated_at": "2026-06-09T19:08:01Z",
-    "url": "https://github.com/TexasBedouin/timeback"
-  },
-  {
-    "description": "By a 12-year product manager who builds 0-to-1: takes a beginner from a vague idea to a buildable plan, then guides the ",
-    "id": "TexasBedouin/vibe-check",
-    "language": "Shell",
-    "name": "TexasBedouin/vibe-check",
-    "stars": 11,
-    "updated_at": "2026-06-09T19:07:59Z",
-    "url": "https://github.com/TexasBedouin/vibe-check"
-  },
-  {
-    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
-    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "language": "HTML",
-    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "stars": 0,
-    "updated_at": "2026-06-09T19:07:48Z",
-    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-06-09T19:07:48Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
   }
 ]
