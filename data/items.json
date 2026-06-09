@@ -1,5 +1,158 @@
 [
   {
+    "description": "A small, file-first verification harness that turns an AI agent's \"I'm done\" claim into an auditable admission decision.",
+    "id": "BrianNguyen29/x-harness",
+    "language": "Go",
+    "name": "BrianNguyen29/x-harness",
+    "stars": 1,
+    "updated_at": "2026-06-09T19:29:43Z",
+    "url": "https://github.com/BrianNguyen29/x-harness"
+  },
+  {
+    "description": "Auto-inject 'critical rules' into every Claude Code turn via UserPromptSubmit hook. Tiny, auditable, MIT, fork-friendly.",
+    "id": "hinanohart/claude-rules-injector",
+    "language": "Shell",
+    "name": "hinanohart/claude-rules-injector",
+    "stars": 1,
+    "updated_at": "2026-06-09T19:26:55Z",
+    "url": "https://github.com/hinanohart/claude-rules-injector"
+  },
+  {
+    "description": "Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for",
+    "id": "TomasHer/prompting-blueprints",
+    "language": "HTML",
+    "name": "TomasHer/prompting-blueprints",
+    "stars": 17,
+    "updated_at": "2026-06-09T19:25:23Z",
+    "url": "https://github.com/TomasHer/prompting-blueprints"
+  },
+  {
+    "description": "Git-based Prompt Lifecycle Management",
+    "id": "promptLM/promptlm-app",
+    "language": "TypeScript",
+    "name": "promptLM/promptlm-app",
+    "stars": 2,
+    "updated_at": "2026-06-09T19:25:07Z",
+    "url": "https://github.com/promptLM/promptlm-app"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 742,
+    "updated_at": "2026-06-09T19:24:58Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 8,
+    "updated_at": "2026-06-09T19:24:51Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Practical playbook on integrating AI into a real frontend workflow - from prompt engineering to multi-agent pipelines, w",
+    "id": "smnvsergii/ai-driven-frontend",
+    "language": "\u2014",
+    "name": "smnvsergii/ai-driven-frontend",
+    "stars": 0,
+    "updated_at": "2026-06-09T19:24:35Z",
+    "url": "https://github.com/smnvsergii/ai-driven-frontend"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-06-09T19:23:40Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "Python",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-06-09T19:23:13Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 45,
+    "updated_at": "2026-06-09T19:21:43Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "Source code for the IBM Granite AI Model Workshop",
+    "id": "IBM/granite-workshop",
+    "language": "Jupyter Notebook",
+    "name": "IBM/granite-workshop",
+    "stars": 47,
+    "updated_at": "2026-06-09T19:20:46Z",
+    "url": "https://github.com/IBM/granite-workshop"
+  },
+  {
+    "description": "Chinese-first project baseline handoff kit for AI-assisted development.",
+    "id": "Lucy77m/BaseBrief",
+    "language": "JavaScript",
+    "name": "Lucy77m/BaseBrief",
+    "stars": 2,
+    "updated_at": "2026-06-09T19:25:51Z",
+    "url": "https://github.com/Lucy77m/BaseBrief"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-09T19:19:46Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-09T19:19:40Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Curated, path-scoped knowledge packages for AI coding agents (Claude Code, Cursor, Codex, Copilot, Windsurf, and any MCP",
+    "id": "pathrule/patterns",
+    "language": "TypeScript",
+    "name": "pathrule/patterns",
+    "stars": 0,
+    "updated_at": "2026-06-09T19:16:40Z",
+    "url": "https://github.com/pathrule/patterns"
+  },
+  {
+    "description": "The safe Human-In-The-Loop lab notebook for coordinating AI sessions with packets & provenance, all with traceable decis",
+    "id": "Wonderforge-Lab/CapstanAI-LabNote",
+    "language": "\u2014",
+    "name": "Wonderforge-Lab/CapstanAI-LabNote",
+    "stars": 0,
+    "updated_at": "2026-06-09T19:15:58Z",
+    "url": "https://github.com/Wonderforge-Lab/CapstanAI-LabNote"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-09T19:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
     "id": "kodancrash-oss/prompt-weaver-framework",
     "language": "HTML",
@@ -43,15 +196,6 @@
     "stars": 223,
     "updated_at": "2026-06-09T19:10:41Z",
     "url": "https://github.com/telagod/code-abyss"
-  },
-  {
-    "description": "Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for",
-    "id": "TomasHer/prompting-blueprints",
-    "language": "HTML",
-    "name": "TomasHer/prompting-blueprints",
-    "stars": 17,
-    "updated_at": "2026-06-09T19:09:45Z",
-    "url": "https://github.com/TomasHer/prompting-blueprints"
   },
   {
     "description": "Deploy the full ChatGPT desktop build for Windows with GPT-5 integration, DALL-E 4, and code interpreter tools.",
@@ -130,7 +274,7 @@
     "id": "TexasBedouin/vibe-check",
     "language": "Shell",
     "name": "TexasBedouin/vibe-check",
-    "stars": 10,
+    "stars": 11,
     "updated_at": "2026-06-09T19:07:59Z",
     "url": "https://github.com/TexasBedouin/vibe-check"
   },
@@ -160,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-06-09T19:07:46Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Practical playbook on integrating AI into a real frontend workflow - from prompt engineering to multi-agent pipelines, w",
-    "id": "smnvsergii/ai-driven-frontend",
-    "language": "\u2014",
-    "name": "smnvsergii/ai-driven-frontend",
-    "stars": 0,
-    "updated_at": "2026-06-09T19:07:42Z",
-    "url": "https://github.com/smnvsergii/ai-driven-frontend"
   },
   {
     "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
@@ -243,15 +378,6 @@
     "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-09T19:04:53Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
     "id": "syncretismdeposit560/TypeAnything",
     "language": "PowerShell",
@@ -322,131 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-09T19:03:19Z",
     "url": "https://github.com/gauravs19/archpilot"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-09T19:03:13Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 1,
-    "updated_at": "2026-06-09T19:03:05Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Generate production-ready UGC video ad prompts for Higgsfield AI Marketing Studio from your reference images and product",
-    "id": "carreras66848657/claude-skill-ugc-prompt",
-    "language": "\u2014",
-    "name": "carreras66848657/claude-skill-ugc-prompt",
-    "stars": 1,
-    "updated_at": "2026-06-09T19:03:03Z",
-    "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-06-09T19:02:54Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-09T19:02:51Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-09T19:02:47Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-09T19:02:46Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 1,
-    "updated_at": "2026-06-09T19:02:35Z",
-    "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-09T19:02:34Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-09T19:02:21Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-06-09T19:02:13Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Terminal workflows for rapid AI-powered debugging and repository analysis",
-    "id": "johnsellin93/grab",
-    "language": "Shell",
-    "name": "johnsellin93/grab",
-    "stars": 9,
-    "updated_at": "2026-06-09T19:02:02Z",
-    "url": "https://github.com/johnsellin93/grab"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-06-09T19:01:50Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-06-09T19:01:28Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
   }
 ]
