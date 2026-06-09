@@ -1,12 +1,111 @@
 [
   {
+    "description": "synapz is a research prototype exploring how large language models can adapt teaching content to different cognitive sty",
+    "id": "xmowgofficial/synapz",
+    "language": "Python",
+    "name": "xmowgofficial/synapz",
+    "stars": 5,
+    "updated_at": "2026-06-09T01:15:01Z",
+    "url": "https://github.com/xmowgofficial/synapz"
+  },
+  {
+    "description": "\ud83e\udd16 ACI - Sistema inteligente para fornecer informa\u00e7\u00f5es sobre servi\u00e7os sociais e outros recursos",
+    "id": "alexparjalex/agente-cidadao-inteligente",
+    "language": "Jupyter Notebook",
+    "name": "alexparjalex/agente-cidadao-inteligente",
+    "stars": 1,
+    "updated_at": "2026-06-09T01:14:38Z",
+    "url": "https://github.com/alexparjalex/agente-cidadao-inteligente"
+  },
+  {
+    "description": "Markdown for the AI era",
+    "id": "agentmark-ai/agentmark",
+    "language": "TypeScript",
+    "name": "agentmark-ai/agentmark",
+    "stars": 353,
+    "updated_at": "2026-06-09T01:15:18Z",
+    "url": "https://github.com/agentmark-ai/agentmark"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-09T01:11:25Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-09T01:10:37Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "A complete Claude Code workflow system: 9 skills, 4 rules, 2 hooks, and session continuity. Battle-tested, not theoretic",
+    "id": "eddyplolz/claude-workflow",
+    "language": "Python",
+    "name": "eddyplolz/claude-workflow",
+    "stars": 0,
+    "updated_at": "2026-06-09T01:10:30Z",
+    "url": "https://github.com/eddyplolz/claude-workflow"
+  },
+  {
     "description": "A curated collection of custom AgentSkills and token-saving MCP servers for extending the capabilities of AI coding assi",
     "id": "kambleakash0/agent-skills",
     "language": "Python",
     "name": "kambleakash0/agent-skills",
     "stars": 7,
-    "updated_at": "2026-06-09T00:59:05Z",
+    "updated_at": "2026-06-09T01:09:41Z",
     "url": "https://github.com/kambleakash0/agent-skills"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 29002,
+    "updated_at": "2026-06-09T01:06:43Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Personal notes on coding with AI assistants \u2014 Java/Spring, Cursor, OpenCode, SourceCraft. Modules, exercises, templates,",
+    "id": "gzheyts/ai-tools",
+    "language": "Java",
+    "name": "gzheyts/ai-tools",
+    "stars": 0,
+    "updated_at": "2026-06-09T01:06:32Z",
+    "url": "https://github.com/gzheyts/ai-tools"
+  },
+  {
+    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4296,
+    "updated_at": "2026-06-09T01:05:22Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 0,
+    "updated_at": "2026-06-09T01:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\u672c\u5730 AI \u77ed\u5267\u5de5\u4f5c\u53f0 ,\u652f\u6301\u5206\u955c\uff0c\u89d2\u8272\u8bbe\u5b9a\uff0c\u63d0\u793a\u8bcd\uff0c\u7d20\u6750\u548c\u53d1\u5e03\u6587\u6848\u7ba1\u7406",
+    "id": "equal3599/AI-drame-workflow",
+    "language": "Python",
+    "name": "equal3599/AI-drame-workflow",
+    "stars": 0,
+    "updated_at": "2026-06-09T00:56:03Z",
+    "url": "https://github.com/equal3599/AI-drame-workflow"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -95,7 +194,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 742,
-    "updated_at": "2026-06-09T00:57:16Z",
+    "updated_at": "2026-06-09T01:12:28Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -315,6 +414,15 @@
     "url": "https://github.com/wendyneat563/atlas.llm"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26365,
+    "updated_at": "2026-06-09T00:46:13Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
     "id": "Acuminate-conventionality909/aibti",
     "language": "HTML",
@@ -322,15 +430,6 @@
     "stars": 1,
     "updated_at": "2026-06-09T00:46:06Z",
     "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-09T00:45:24Z",
     "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-06-09T00:45:22Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Connect Last9 observability data to Cursor via MCP to debug production logs, metrics, and traces directly in your editor",
-    "id": "Christianly-bar1265/cursor-plugin",
-    "language": "\u2014",
-    "name": "Christianly-bar1265/cursor-plugin",
-    "stars": 1,
-    "updated_at": "2026-06-09T00:45:02Z",
-    "url": "https://github.com/Christianly-bar1265/cursor-plugin"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:44:41Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Analyze Justin Sun\u2019s cognitive operating system by processing thousands of his tweets, interviews, and publications to e",
-    "id": "Emanuelam6674/sun-skill",
-    "language": "\u2014",
-    "name": "Emanuelam6674/sun-skill",
-    "stars": 1,
-    "updated_at": "2026-06-09T00:44:37Z",
-    "url": "https://github.com/Emanuelam6674/sun-skill"
-  },
-  {
-    "description": "Store Prometheus metrics in ClickHouse with native support for PromQL queries. Simplify long-term storage without managi",
-    "id": "Namandla0101/PromClick",
-    "language": "\u2014",
-    "name": "Namandla0101/PromClick",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:44:34Z",
-    "url": "https://github.com/Namandla0101/PromClick"
-  },
-  {
-    "description": "Automate AI research workflows using Claude Code skills to manage project progress, perform rigorous algorithm reviews, ",
-    "id": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "language": "\u2014",
-    "name": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:44:09Z",
-    "url": "https://github.com/Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:44:05Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 2,
-    "updated_at": "2026-06-09T00:43:56Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Track public technical updates, architecture notes, and development benchmarks for the Happy Horse 1.0 AI video generati",
-    "id": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "language": "\u2014",
-    "name": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:43:55Z",
-    "url": "https://github.com/Waldoncockeyed9421/Happy-Horse-1.0"
-  },
-  {
-    "description": "Markdown for the AI era",
-    "id": "agentmark-ai/agentmark",
-    "language": "TypeScript",
-    "name": "agentmark-ai/agentmark",
-    "stars": 353,
-    "updated_at": "2026-06-09T00:45:07Z",
-    "url": "https://github.com/agentmark-ai/agentmark"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-09T00:43:48Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
   }
 ]
