@@ -1,12 +1,102 @@
 [
   {
+    "description": "This is a professional prompt builder for SeaArt / Stable Diffusion, specialized in NSFW content and Japanese subculture",
+    "id": "tmhtdst0508-ux/KENZEN-SeaArt-Helper",
+    "language": "\u2014",
+    "name": "tmhtdst0508-ux/KENZEN-SeaArt-Helper",
+    "stars": 0,
+    "updated_at": "2026-06-09T09:00:23Z",
+    "url": "https://github.com/tmhtdst0508-ux/KENZEN-SeaArt-Helper"
+  },
+  {
+    "description": "Structured multi-persona AI decision council skill \u2014 one defensible recommendation from independent expert personas, adv",
+    "id": "LeonardSEO/decision-council",
+    "language": "\u2014",
+    "name": "LeonardSEO/decision-council",
+    "stars": 0,
+    "updated_at": "2026-06-09T08:59:55Z",
+    "url": "https://github.com/LeonardSEO/decision-council"
+  },
+  {
     "description": "Open-source content pipeline for MineBTC HashBeasts, game-native story memory, prompts, trailers, and AI video.",
     "id": "LifeOrDream/ai-content-engine",
     "language": "TypeScript",
     "name": "LifeOrDream/ai-content-engine",
     "stars": 0,
-    "updated_at": "2026-06-09T08:55:59Z",
+    "updated_at": "2026-06-09T08:57:33Z",
     "url": "https://github.com/LifeOrDream/ai-content-engine"
+  },
+  {
+    "description": "\ud83d\udcca Automate time series analysis and forecasting with an interactive AI agent that delivers tailored reports for both tec",
+    "id": "Koushik2004great/Agentic-Time-Series-Analysis-Reporting---Forecasting",
+    "language": "Python",
+    "name": "Koushik2004great/Agentic-Time-Series-Analysis-Reporting---Forecasting",
+    "stars": 1,
+    "updated_at": "2026-06-09T08:57:33Z",
+    "url": "https://github.com/Koushik2004great/Agentic-Time-Series-Analysis-Reporting---Forecasting"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26374,
+    "updated_at": "2026-06-09T08:57:32Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19495,
+    "updated_at": "2026-06-09T08:57:27Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Reusable skills for AI coding agents (Claude Code, Codex, Forge) covering paper review, commit triage, GPU rentals, refe",
+    "id": "Axect/skills",
+    "language": "Python",
+    "name": "Axect/skills",
+    "stars": 2,
+    "updated_at": "2026-06-09T08:56:28Z",
+    "url": "https://github.com/Axect/skills"
+  },
+  {
+    "description": "Reusable AI agent skills for idea validation, startup research, and workspace memory. Install with npx skills add.",
+    "id": "fightZy/simple-skills",
+    "language": "Python",
+    "name": "fightZy/simple-skills",
+    "stars": 1,
+    "updated_at": "2026-06-09T08:56:20Z",
+    "url": "https://github.com/fightZy/simple-skills"
+  },
+  {
+    "description": "\ud83e\udd16 Analyze emotions and sarcasm in real-time with an AI therapy chatbot, providing empathetic responses and tracking emot",
+    "id": "solar-thermopsis805/therapeutic-llm",
+    "language": "TypeScript",
+    "name": "solar-thermopsis805/therapeutic-llm",
+    "stars": 1,
+    "updated_at": "2026-06-09T08:56:10Z",
+    "url": "https://github.com/solar-thermopsis805/therapeutic-llm"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-09T08:56:09Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-09T08:55:51Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
   },
   {
     "description": "\ud83d\udd0d Analyze the mathematical reasoning abilities of the Mistral-7B model using diverse prompting techniques on multi-step ",
@@ -153,15 +243,6 @@
     "url": "https://github.com/Monsterw31/prom-playground"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-09T08:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83d\udee0\ufe0f Discover and explore a collection of system prompts and messages, contributing to better understanding and developmen",
     "id": "reis428/system_prompts_leaks",
     "language": "JavaScript",
@@ -203,7 +284,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 2794,
-    "updated_at": "2026-06-09T08:43:53Z",
+    "updated_at": "2026-06-09T08:56:26Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-09T08:35:54Z",
     "url": "https://github.com/divinwix/BizGenie"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-06-09T08:35:36Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "\ud83c\udfb6 Analyze Spotify playlists to uncover \"dating red flag\" insights using data scraping and GenAI for a fun personality br",
-    "id": "Merveil22/spotify-playlist-dating-redflag-analysis",
-    "language": "Python",
-    "name": "Merveil22/spotify-playlist-dating-redflag-analysis",
-    "stars": 1,
-    "updated_at": "2026-06-09T08:34:57Z",
-    "url": "https://github.com/Merveil22/spotify-playlist-dating-redflag-analysis"
-  },
-  {
-    "description": "\ud83e\udd16 Transform Claude/GPT into a powerful tech and business partner to streamline development and reduce costs effectively.",
-    "id": "darck0071/ai-development-partner",
-    "language": "\u2014",
-    "name": "darck0071/ai-development-partner",
-    "stars": 1,
-    "updated_at": "2026-06-09T08:34:56Z",
-    "url": "https://github.com/darck0071/ai-development-partner"
-  },
-  {
-    "description": "\ud83c\udf7d\ufe0f Generate unique restaurant names and creative menus for any cuisine effortlessly with LangChain and Google Gemini.",
-    "id": "fahimalambhuiyan7/langchain-restaurant-ai",
-    "language": "Jupyter Notebook",
-    "name": "fahimalambhuiyan7/langchain-restaurant-ai",
-    "stars": 0,
-    "updated_at": "2026-06-09T08:34:18Z",
-    "url": "https://github.com/fahimalambhuiyan7/langchain-restaurant-ai"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-09T08:33:36Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "AI-powered football prediction engine using probabilistic modeling, Poisson goal simulation, and tactical analysis inspi",
-    "id": "AmirMotefaker/ai-football-prediction-engine-world-cup-2026",
-    "language": "Python",
-    "name": "AmirMotefaker/ai-football-prediction-engine-world-cup-2026",
-    "stars": 3,
-    "updated_at": "2026-06-09T08:32:17Z",
-    "url": "https://github.com/AmirMotefaker/ai-football-prediction-engine-world-cup-2026"
-  },
-  {
-    "description": "\ud83d\udd0d Optimize and manage prompts, agents, and templates with ContextForge, an AI-powered platform for seamless collaboratio",
-    "id": "vishu570/contextforge",
-    "language": "TypeScript",
-    "name": "vishu570/contextforge",
-    "stars": 2,
-    "updated_at": "2026-06-09T08:31:17Z",
-    "url": "https://github.com/vishu570/contextforge"
-  },
-  {
-    "description": "This is a professional prompt builder for SeaArt / Stable Diffusion, specialized in NSFW content and Japanese subculture",
-    "id": "tmhtdst0508-ux/KENZEN-SeaArt-Helper",
-    "language": "\u2014",
-    "name": "tmhtdst0508-ux/KENZEN-SeaArt-Helper",
-    "stars": 0,
-    "updated_at": "2026-06-09T08:30:32Z",
-    "url": "https://github.com/tmhtdst0508-ux/KENZEN-SeaArt-Helper"
-  },
-  {
-    "description": "\ud83d\udcda Build and train your own GPT-like Large Language Model from scratch with clear guidance and real code examples.",
-    "id": "Lamorati92/LLMs-from-scratch",
-    "language": "Jupyter Notebook",
-    "name": "Lamorati92/LLMs-from-scratch",
-    "stars": 2,
-    "updated_at": "2026-06-09T08:29:07Z",
-    "url": "https://github.com/Lamorati92/LLMs-from-scratch"
   }
 ]
