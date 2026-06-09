@@ -1,5 +1,122 @@
 [
   {
+    "description": "Executable recipes for coding agents. Same task. Same quality. Any agent.",
+    "id": "Vatsalc26/ReActions",
+    "language": "JavaScript",
+    "name": "Vatsalc26/ReActions",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:29:48Z",
+    "url": "https://github.com/Vatsalc26/ReActions"
+  },
+  {
+    "description": "Agent Skill for Claude and OpenAI Codex \u2014 break big, risky work into sequenced, self-contained prompts you run across se",
+    "id": "nelsonwerd/prompt-pack-skill",
+    "language": "\u2014",
+    "name": "nelsonwerd/prompt-pack-skill",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:29:15Z",
+    "url": "https://github.com/nelsonwerd/prompt-pack-skill"
+  },
+  {
+    "description": "Three composable Agent Skills for Claude and OpenAI Codex \u2014 ideate, deep-dive, prompt-pack \u2014 taking an idea from fuzzy \u2192",
+    "id": "nelsonwerd/idea-to-ship-skills",
+    "language": "Shell",
+    "name": "nelsonwerd/idea-to-ship-skills",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:29:12Z",
+    "url": "https://github.com/nelsonwerd/idea-to-ship-skills"
+  },
+  {
+    "description": "Easy-to-use, no-setup, CLI tool that finds files and folders by fuzzy name and recursively concatenates files to clipboa",
+    "id": "tigreau/catclip",
+    "language": "Go",
+    "name": "tigreau/catclip",
+    "stars": 4,
+    "updated_at": "2026-06-09T23:29:10Z",
+    "url": "https://github.com/tigreau/catclip"
+  },
+  {
+    "description": "Build-time, multi-agent RAG pipeline that turns raw course materials into structured topic pages, prerequisite graphs, a",
+    "id": "matolks/the-library-of-vincandria",
+    "language": "Python",
+    "name": "matolks/the-library-of-vincandria",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:27:17Z",
+    "url": "https://github.com/matolks/the-library-of-vincandria"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10066,
+    "updated_at": "2026-06-09T23:27:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Community MiroFish guide and AI-agent skill with operator workflow, troubleshooting, evaluation rubric, prompt engineeri",
+    "id": "MOZARTINOS/mirofish-guide",
+    "language": "\u2014",
+    "name": "MOZARTINOS/mirofish-guide",
+    "stars": 9,
+    "updated_at": "2026-06-09T23:26:19Z",
+    "url": "https://github.com/MOZARTINOS/mirofish-guide"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:23:17Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Prompt engineering techniques that work in practice. Co-Dialectic: your AI coaches your prompts, you coach its answers. ",
+    "id": "Exponential-OS/prompt-engineering-in-action",
+    "language": "TypeScript",
+    "name": "Exponential-OS/prompt-engineering-in-action",
+    "stars": 8,
+    "updated_at": "2026-06-09T23:21:43Z",
+    "url": "https://github.com/Exponential-OS/prompt-engineering-in-action"
+  },
+  {
+    "description": "Full-stack prompt workspace for Claude Code and Codex with ASP.NET Core, React, PostgreSQL and SignalR.",
+    "id": "psielta/Thoth",
+    "language": "C#",
+    "name": "psielta/Thoth",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:21:25Z",
+    "url": "https://github.com/psielta/Thoth"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:20:37Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 8,
+    "updated_at": "2026-06-09T23:17:04Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-09T23:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A template for building a persona-driven LLM agent on QQ groups (OneBot v11). JSON output protocol, character-whitelist ",
     "id": "qiankangwang/onebot-llm-agent",
     "language": "Python",
@@ -77,7 +194,7 @@
     "language": "HTML",
     "name": "inerrata/brief",
     "stars": 6,
-    "updated_at": "2026-06-09T23:12:49Z",
+    "updated_at": "2026-06-09T23:19:57Z",
     "url": "https://github.com/inerrata/brief"
   },
   {
@@ -184,7 +301,7 @@
     "id": "kyegomez/swarms",
     "language": "Python",
     "name": "kyegomez/swarms",
-    "stars": 6821,
+    "stars": 6822,
     "updated_at": "2026-06-09T23:08:45Z",
     "url": "https://github.com/kyegomez/swarms"
   },
@@ -243,15 +360,6 @@
     "url": "https://github.com/Dusty-plumcot781/locoagent"
   },
   {
-    "description": "Build-time, multi-agent RAG pipeline that turns raw course materials into structured topic pages, prerequisite graphs, a",
-    "id": "matolks/the-library-of-vincandria",
-    "language": "Python",
-    "name": "matolks/the-library-of-vincandria",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:06:43Z",
-    "url": "https://github.com/matolks/the-library-of-vincandria"
-  },
-  {
     "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
     "id": "ajayfastfooted329/claude-linkedin-post-creator",
     "language": "\u2014",
@@ -259,24 +367,6 @@
     "stars": 1,
     "updated_at": "2026-06-09T23:06:42Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Agent Skill for Claude and OpenAI Codex \u2014 break big, risky work into sequenced, self-contained prompts you run across se",
-    "id": "nelsonwerd/prompt-pack-skill",
-    "language": "\u2014",
-    "name": "nelsonwerd/prompt-pack-skill",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:06:39Z",
-    "url": "https://github.com/nelsonwerd/prompt-pack-skill"
-  },
-  {
-    "description": "Three composable Agent Skills for Claude and OpenAI Codex \u2014 ideate, deep-dive, prompt-pack \u2014 taking an idea from fuzzy \u2192",
-    "id": "nelsonwerd/idea-to-ship-skills",
-    "language": "Shell",
-    "name": "nelsonwerd/idea-to-ship-skills",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:06:35Z",
-    "url": "https://github.com/nelsonwerd/idea-to-ship-skills"
   },
   {
     "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-09T23:03:55Z",
     "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-09T23:03:52Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-06-09T23:03:48Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:03:45Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:03:43Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Full-stack prompt workspace for Claude Code and Codex with ASP.NET Core, React, PostgreSQL and SignalR.",
-    "id": "psielta/Thoth",
-    "language": "C#",
-    "name": "psielta/Thoth",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:03:39Z",
-    "url": "https://github.com/psielta/Thoth"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:03:37Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 1,
-    "updated_at": "2026-06-09T23:03:31Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 1,
-    "updated_at": "2026-06-09T23:03:31Z",
-    "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:03:22Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-06-09T23:02:46Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
   }
 ]
