@@ -1,5 +1,122 @@
 [
   {
+    "description": "A small library of Claude skills, built for real analytical work and validated before publishing.",
+    "id": "viktor-milev/claude-skills",
+    "language": "\u2014",
+    "name": "viktor-milev/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-10T20:59:44Z",
+    "url": "https://github.com/viktor-milev/claude-skills"
+  },
+  {
+    "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
+    "id": "dgenio/contextweaver",
+    "language": "Python",
+    "name": "dgenio/contextweaver",
+    "stars": 7,
+    "updated_at": "2026-06-10T20:55:32Z",
+    "url": "https://github.com/dgenio/contextweaver"
+  },
+  {
+    "description": "AINL helps turn AI from \"a smart conversation\" into \"a structured worker.\"  It is designed for teams building AI workflo",
+    "id": "sbhooley/ainativelang",
+    "language": "Python",
+    "name": "sbhooley/ainativelang",
+    "stars": 847,
+    "updated_at": "2026-06-10T20:55:17Z",
+    "url": "https://github.com/sbhooley/ainativelang"
+  },
+  {
+    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
+    "id": "adrianwedd/cv",
+    "language": "JavaScript",
+    "name": "adrianwedd/cv",
+    "stars": 4,
+    "updated_at": "2026-06-10T20:54:58Z",
+    "url": "https://github.com/adrianwedd/cv"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-06-10T20:54:49Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "AI-assisted short-film pipeline in Python and Streamlit: story package, storyboard, character reference cards, continuit",
+    "id": "MinervaRose/moonlit-showrunner",
+    "language": "Python",
+    "name": "MinervaRose/moonlit-showrunner",
+    "stars": 0,
+    "updated_at": "2026-06-10T20:50:43Z",
+    "url": "https://github.com/MinervaRose/moonlit-showrunner"
+  },
+  {
+    "description": "A prompt-evolution engine for breeding better instructions before they ever hit your agents.",
+    "id": "Blackleets/fractal-prompt-foundry",
+    "language": "Python",
+    "name": "Blackleets/fractal-prompt-foundry",
+    "stars": 1,
+    "updated_at": "2026-06-10T20:50:22Z",
+    "url": "https://github.com/Blackleets/fractal-prompt-foundry"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12463,
+    "updated_at": "2026-06-10T20:49:56Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "Python",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-06-10T20:49:02Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 0,
+    "updated_at": "2026-06-10T20:47:11Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-10T20:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "LLM evaluation pipeline benchmarking 5 models x 8 prompt strategies x 70 curated topics (2,800-run grid) on goal-oriente",
+    "id": "EgeErdurak/timeline-eval",
+    "language": "Python",
+    "name": "EgeErdurak/timeline-eval",
+    "stars": 0,
+    "updated_at": "2026-06-10T20:45:27Z",
+    "url": "https://github.com/EgeErdurak/timeline-eval"
+  },
+  {
+    "description": "AI coding with the receipts: deterministic, spec-gated, decision-logged, human-in-the-loop. A lean, spec-driven workflow",
+    "id": "manjast/agentic-development-playbook",
+    "language": "Python",
+    "name": "manjast/agentic-development-playbook",
+    "stars": 2,
+    "updated_at": "2026-06-10T20:45:54Z",
+    "url": "https://github.com/manjast/agentic-development-playbook"
+  },
+  {
     "description": "ShadowQuill is a privacy\u2011first, offline and free prompt engineering/generation app powered by self-hosted local LLMs",
     "id": "shadowquillapp/shadowquillapp",
     "language": "TypeScript",
@@ -81,6 +198,15 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19565,
+    "updated_at": "2026-06-10T20:35:30Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Agents that gets sharper every session",
     "id": "naimkatiman/continuous-improvement",
     "language": "JavaScript",
@@ -99,15 +225,6 @@
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-10T20:30:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
     "id": "rizvee/multimodel-dev-os",
     "language": "JavaScript",
@@ -122,7 +239,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10088,
-    "updated_at": "2026-06-10T20:34:24Z",
+    "updated_at": "2026-06-10T20:46:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -160,24 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T20:26:45Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "Python",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-06-10T20:41:31Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19564,
-    "updated_at": "2026-06-10T20:35:30Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -275,7 +374,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22086,
-    "updated_at": "2026-06-10T20:43:07Z",
+    "updated_at": "2026-06-10T20:52:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -284,7 +383,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28864,
-    "updated_at": "2026-06-10T20:28:15Z",
+    "updated_at": "2026-06-10T20:54:37Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-10T19:46:37Z",
     "url": "https://github.com/thelarryrutledge/counterpoint"
-  },
-  {
-    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
-    "id": "christopherlouet/claude-base",
-    "language": "Shell",
-    "name": "christopherlouet/claude-base",
-    "stars": 4,
-    "updated_at": "2026-06-10T19:46:24Z",
-    "url": "https://github.com/christopherlouet/claude-base"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:45:57Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "160,000 deductively-derived JSON constraints that eliminate LLM persona drift. Measured: 0 breaks in a 120-turn pressure",
-    "id": "kiro0x/five-character-engine",
-    "language": "Python",
-    "name": "kiro0x/five-character-engine",
-    "stars": 1,
-    "updated_at": "2026-06-10T19:44:06Z",
-    "url": "https://github.com/kiro0x/five-character-engine"
-  },
-  {
-    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
-    "id": "ralphmoran/ticket-lens",
-    "language": "JavaScript",
-    "name": "ralphmoran/ticket-lens",
-    "stars": 1,
-    "updated_at": "2026-06-10T19:44:03Z",
-    "url": "https://github.com/ralphmoran/ticket-lens"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:42:11Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Deterministic context refinement for AI-assisted development. Less noise, safer output, cleaner agent context.",
-    "id": "gogetrekt/bjir",
-    "language": "Rust",
-    "name": "gogetrekt/bjir",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:46:42Z",
-    "url": "https://github.com/gogetrekt/bjir"
-  },
-  {
-    "description": "Open-source Agent Skill for Claude Code that makes Claude reason with explicit probabilities, base rates, and falsifiers",
-    "id": "Johna2an/critical-thinking",
-    "language": "HTML",
-    "name": "Johna2an/critical-thinking",
-    "stars": 1,
-    "updated_at": "2026-06-10T19:40:09Z",
-    "url": "https://github.com/Johna2an/critical-thinking"
-  },
-  {
-    "description": "\ud83d\udd25 Advanced Prompt Engineering Platform \u2014 Research, analyze & enhance AI prompts with Next.js, Supabase & multi-LLM suppo",
-    "id": "mulkymalikuldhrs/PromptForgeAI",
-    "language": "TypeScript",
-    "name": "mulkymalikuldhrs/PromptForgeAI",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:38:56Z",
-    "url": "https://github.com/mulkymalikuldhrs/PromptForgeAI"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:38:14Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
-    "id": "Supervertaler/Supervertaler-Workbench",
-    "language": "Python",
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 41,
-    "updated_at": "2026-06-10T19:37:23Z",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:32:56Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   }
 ]
