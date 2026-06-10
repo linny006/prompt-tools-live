@@ -1,28 +1,145 @@
 [
   {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-06-10T06:45:05Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "\ud83d\udd31 Protocolo de memoria persistente para Agentes Aut\u00f3nomos (Gemini, Claude, GPT). Anti-p\u00e9rdida de contexto.",
+    "id": "Cyberdark-Security/tridente-de-memoria-skill",
+    "language": "\u2014",
+    "name": "Cyberdark-Security/tridente-de-memoria-skill",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:44:22Z",
+    "url": "https://github.com/Cyberdark-Security/tridente-de-memoria-skill"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:43:58Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
+    "id": "pranavkafle/serpapi-mcp-catalog",
+    "language": "Python",
+    "name": "pranavkafle/serpapi-mcp-catalog",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:43:25Z",
+    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 217,
+    "updated_at": "2026-06-10T06:42:21Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "AI\u751f\u56fe\u63d0\u793a\u8bcd\u6a21\u677f\u5e93\uff0c\u6309\u89d2\u8272\u4e0e\u6a21\u677f\u5206\u7c7b\u6574\u7406\uff0c\u5305\u542b\u5199\u5b9ecos\u3001\u6f2b\u5c55\u573a\u666f\u3001\u955c\u5934\u3001\u706f\u5149\u3001\u6750\u8d28\u548c\u8d1f\u9762\u8bcd\u6a21\u677f",
+    "id": "yujianwudi/ai-image-prompts",
+    "language": "Python",
+    "name": "yujianwudi/ai-image-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-10T06:42:14Z",
+    "url": "https://github.com/yujianwudi/ai-image-prompts"
+  },
+  {
+    "description": "TypeScript SDK for safe AI tasks, validated candidates, and human-reviewed app state changes",
+    "id": "dreamwars99/playable-ai",
+    "language": "TypeScript",
+    "name": "dreamwars99/playable-ai",
+    "stars": 3,
+    "updated_at": "2026-06-10T06:40:33Z",
+    "url": "https://github.com/dreamwars99/playable-ai"
+  },
+  {
+    "description": "HiAPI Video Prompt Generator skill \u2014 turn briefs, links, and research topics into directed video prompts for Seedance 2.",
+    "id": "HiAPIAI/hiapi-video-prompt-generator-skill",
+    "language": "JavaScript",
+    "name": "HiAPIAI/hiapi-video-prompt-generator-skill",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:38:37Z",
+    "url": "https://github.com/HiAPIAI/hiapi-video-prompt-generator-skill"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
     "name": "HIDORAKAI002/ai-workspace-archive",
     "stars": 18,
-    "updated_at": "2026-06-10T06:30:27Z",
+    "updated_at": "2026-06-10T06:38:19Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
-    "description": "",
-    "id": "Cyberdark-Security/tridente-de-memoria-skill",
-    "language": "\u2014",
-    "name": "Cyberdark-Security/tridente-de-memoria-skill",
+    "description": "HiAPI GPT Image 2 image generation skill \u2014 text-to-image for Claude Code, Codex, OpenClaw, and Cursor agents. OpenAI-com",
+    "id": "HiAPIAI/hiapi-gpt-image-2-skill",
+    "language": "JavaScript",
+    "name": "HiAPIAI/hiapi-gpt-image-2-skill",
     "stars": 0,
-    "updated_at": "2026-06-10T06:29:22Z",
-    "url": "https://github.com/Cyberdark-Security/tridente-de-memoria-skill"
+    "updated_at": "2026-06-10T06:38:01Z",
+    "url": "https://github.com/HiAPIAI/hiapi-gpt-image-2-skill"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19549,
+    "updated_at": "2026-06-10T06:43:23Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The 7 Laws of AI Agent Discipline for Claude Code. Stops your agent from skipping research, claiming 'done' without veri",
+    "id": "naimkatiman/continuous-improvement",
+    "language": "JavaScript",
+    "name": "naimkatiman/continuous-improvement",
+    "stars": 6,
+    "updated_at": "2026-06-10T06:34:10Z",
+    "url": "https://github.com/naimkatiman/continuous-improvement"
+  },
+  {
+    "description": "Dual-mode prompt management with browse/copy UI and REST API for sub-agents",
+    "id": "solomonneas/prompt-library",
+    "language": "Python",
+    "name": "solomonneas/prompt-library",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:31:53Z",
+    "url": "https://github.com/solomonneas/prompt-library"
+  },
+  {
+    "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
+    "id": "fumimaruwork/veil",
+    "language": "Python",
+    "name": "fumimaruwork/veil",
+    "stars": 0,
+    "updated_at": "2026-06-10T06:31:10Z",
+    "url": "https://github.com/fumimaruwork/veil"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-10T06:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 20914,
+    "stars": 20934,
     "updated_at": "2026-06-10T06:28:40Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -43,15 +160,6 @@
     "stars": 234,
     "updated_at": "2026-06-10T06:26:26Z",
     "url": "https://github.com/jdrhyne/agent-skills"
-  },
-  {
-    "description": "AI\u751f\u56fe\u63d0\u793a\u8bcd\u6a21\u677f\u5e93\uff0c\u6309\u89d2\u8272\u4e0e\u6a21\u677f\u5206\u7c7b\u6574\u7406\uff0c\u5305\u542b\u5199\u5b9ecos\u3001\u6f2b\u5c55\u573a\u666f\u3001\u955c\u5934\u3001\u706f\u5149\u3001\u6750\u8d28\u548c\u8d1f\u9762\u8bcd\u6a21\u677f",
-    "id": "yujianwudi/ai-image-prompts",
-    "language": "Python",
-    "name": "yujianwudi/ai-image-prompts",
-    "stars": 2,
-    "updated_at": "2026-06-10T06:25:36Z",
-    "url": "https://github.com/yujianwudi/ai-image-prompts"
   },
   {
     "description": "Multi-agent control plane for cross-border e-commerce: LangChain + Claude ReAct workflows, RAG, and ERP/CRM-style tool i",
@@ -86,7 +194,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26398,
-    "updated_at": "2026-06-10T06:24:24Z",
+    "updated_at": "2026-06-10T06:31:49Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -135,15 +243,6 @@
     "url": "https://github.com/brennin0820/gods-eye"
   },
   {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 217,
-    "updated_at": "2026-06-10T06:26:31Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
     "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
     "id": "vllm-project/semantic-router",
     "language": "Go",
@@ -171,15 +270,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-10T06:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Interactive AI installer for Claude Code: setup once, keep context across sessions, keep docs from rotting. Recipes + pr",
     "id": "kydechuk01/claude-code-practices",
     "language": "\u2014",
@@ -194,7 +284,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 743,
-    "updated_at": "2026-06-10T06:14:11Z",
+    "updated_at": "2026-06-10T06:37:23Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T05:57:41Z",
     "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-06-10T05:57:32Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 0,
-    "updated_at": "2026-06-10T05:57:31Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "A lightweight Python protocol for agent-oriented documentation",
-    "id": "zydo/agent-readable",
-    "language": "Python",
-    "name": "zydo/agent-readable",
-    "stars": 5,
-    "updated_at": "2026-06-10T05:57:24Z",
-    "url": "https://github.com/zydo/agent-readable"
-  },
-  {
-    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
-    "id": "lulin70/carrymem",
-    "language": "Python",
-    "name": "lulin70/carrymem",
-    "stars": 3,
-    "updated_at": "2026-06-10T05:57:00Z",
-    "url": "https://github.com/lulin70/carrymem"
-  },
-  {
-    "description": "Detects and rewrites AI writing patterns in Korean, English, Chinese, and Japanese. Runs as a skill for Claude Code, Cod",
-    "id": "devswha/patina",
-    "language": "JavaScript",
-    "name": "devswha/patina",
-    "stars": 158,
-    "updated_at": "2026-06-10T05:56:14Z",
-    "url": "https://github.com/devswha/patina"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-10T05:56:13Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser.",
-    "id": "Opsn5528/vibe-coding-claude-md",
-    "language": "HTML",
-    "name": "Opsn5528/vibe-coding-claude-md",
-    "stars": 1,
-    "updated_at": "2026-06-10T05:55:57Z",
-    "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
-  },
-  {
-    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
-    "id": "Rickardserrulate236/portfolio-dumper",
-    "language": "HTML",
-    "name": "Rickardserrulate236/portfolio-dumper",
-    "stars": 1,
-    "updated_at": "2026-06-10T05:55:56Z",
-    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 6641,
-    "updated_at": "2026-06-10T06:16:57Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-06-10T05:55:16Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
   }
 ]
