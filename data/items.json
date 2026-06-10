@@ -1,5 +1,149 @@
 [
   {
+    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
+    "id": "rizvee/multimodel-dev-os",
+    "language": "JavaScript",
+    "name": "rizvee/multimodel-dev-os",
+    "stars": 2,
+    "updated_at": "2026-06-10T19:44:15Z",
+    "url": "https://github.com/rizvee/multimodel-dev-os"
+  },
+  {
+    "description": "160,000 deductively-derived JSON constraints that eliminate LLM persona drift. Measured: 0 breaks in a 120-turn pressure",
+    "id": "kiro0x/five-character-engine",
+    "language": "Python",
+    "name": "kiro0x/five-character-engine",
+    "stars": 1,
+    "updated_at": "2026-06-10T19:44:06Z",
+    "url": "https://github.com/kiro0x/five-character-engine"
+  },
+  {
+    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
+    "id": "ralphmoran/ticket-lens",
+    "language": "JavaScript",
+    "name": "ralphmoran/ticket-lens",
+    "stars": 1,
+    "updated_at": "2026-06-10T19:44:03Z",
+    "url": "https://github.com/ralphmoran/ticket-lens"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:42:11Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Deterministic context refinement for AI-assisted development. Less noise, safer output, cleaner agent context.",
+    "id": "gogetrekt/bjir",
+    "language": "Rust",
+    "name": "gogetrekt/bjir",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:41:36Z",
+    "url": "https://github.com/gogetrekt/bjir"
+  },
+  {
+    "description": "Open-source Agent Skill for Claude Code that makes Claude reason with explicit probabilities, base rates, and falsifiers",
+    "id": "Johna2an/critical-thinking",
+    "language": "HTML",
+    "name": "Johna2an/critical-thinking",
+    "stars": 1,
+    "updated_at": "2026-06-10T19:40:09Z",
+    "url": "https://github.com/Johna2an/critical-thinking"
+  },
+  {
+    "description": "The 10 Pillars of Production Agent Engineering \u2014 open practitioner framework with white paper, readiness rubric, and des",
+    "id": "vijayptiwari/agent-engineering-framework",
+    "language": "\u2014",
+    "name": "vijayptiwari/agent-engineering-framework",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:45:07Z",
+    "url": "https://github.com/vijayptiwari/agent-engineering-framework"
+  },
+  {
+    "description": "\ud83d\udd25 Advanced Prompt Engineering Platform \u2014 Research, analyze & enhance AI prompts with Next.js, Supabase & multi-LLM suppo",
+    "id": "mulkymalikuldhrs/PromptForgeAI",
+    "language": "TypeScript",
+    "name": "mulkymalikuldhrs/PromptForgeAI",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:38:56Z",
+    "url": "https://github.com/mulkymalikuldhrs/PromptForgeAI"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:38:14Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 41,
+    "updated_at": "2026-06-10T19:37:23Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:32:56Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
+    "id": "5uprem4/ai-skill-vault",
+    "language": "HTML",
+    "name": "5uprem4/ai-skill-vault",
+    "stars": 2,
+    "updated_at": "2026-06-10T19:31:19Z",
+    "url": "https://github.com/5uprem4/ai-skill-vault"
+  },
+  {
+    "description": "Portable agent skill library for Codex, Claude Code, and other AGENTS-aware tools. Covers eval loops, research, writing,",
+    "id": "mattdweigand-sketch/agent-skills",
+    "language": "Python",
+    "name": "mattdweigand-sketch/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-06-10T19:31:15Z",
+    "url": "https://github.com/mattdweigand-sketch/agent-skills"
+  },
+  {
+    "description": "Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for",
+    "id": "TomasHer/prompting-blueprints",
+    "language": "HTML",
+    "name": "TomasHer/prompting-blueprints",
+    "stars": 18,
+    "updated_at": "2026-06-10T19:44:23Z",
+    "url": "https://github.com/TomasHer/prompting-blueprints"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-10T19:30:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 4,
+    "updated_at": "2026-06-10T19:30:24Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
     "id": "teguhimanulloh47/pirate-talk-for-claude",
     "language": "HTML",
@@ -14,7 +158,7 @@
     "language": "Python",
     "name": "aws-samples/sample-GEDD",
     "stars": 3,
-    "updated_at": "2026-06-10T19:29:29Z",
+    "updated_at": "2026-06-10T19:32:16Z",
     "url": "https://github.com/aws-samples/sample-GEDD"
   },
   {
@@ -43,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T19:27:07Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for",
-    "id": "TomasHer/prompting-blueprints",
-    "language": "HTML",
-    "name": "TomasHer/prompting-blueprints",
-    "stars": 18,
-    "updated_at": "2026-06-10T19:30:11Z",
-    "url": "https://github.com/TomasHer/prompting-blueprints"
   },
   {
     "description": "Senior Data Scientist | 10+ years production ML systems | NLP, agentic AI (LangChain/LangGraph), process mining, MLOps: ",
@@ -90,40 +225,13 @@
     "url": "https://github.com/rogerchappel/promptsnap"
   },
   {
-    "description": "Deterministic context refinement for AI-assisted development. Less noise, safer output, cleaner agent context.",
-    "id": "gogetrekt/bjir",
-    "language": "Rust",
-    "name": "gogetrekt/bjir",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:24:30Z",
-    "url": "https://github.com/gogetrekt/bjir"
-  },
-  {
-    "description": "The 10 Pillars of Production Agent Engineering \u2014 open practitioner framework with white paper, readiness rubric, and des",
-    "id": "vijayptiwari/agent-engineering-framework",
-    "language": "\u2014",
-    "name": "vijayptiwari/agent-engineering-framework",
-    "stars": 0,
-    "updated_at": "2026-06-10T19:16:46Z",
-    "url": "https://github.com/vijayptiwari/agent-engineering-framework"
-  },
-  {
-    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
-    "id": "ralphmoran/ticket-lens",
-    "language": "JavaScript",
-    "name": "ralphmoran/ticket-lens",
-    "stars": 1,
-    "updated_at": "2026-06-10T19:16:25Z",
-    "url": "https://github.com/ralphmoran/ticket-lens"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-10T19:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28861,
+    "updated_at": "2026-06-10T19:17:14Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
@@ -151,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T19:03:03Z",
     "url": "https://github.com/hypnwtykvmpr/professional-and-effective-prompting-tips-and-techniques-for-dummies"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28862,
-    "updated_at": "2026-06-10T19:17:14Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systemat",
@@ -205,15 +304,6 @@
     "stars": 17,
     "updated_at": "2026-06-10T18:52:24Z",
     "url": "https://github.com/vishal2612200/agentpack"
-  },
-  {
-    "description": "Portable agent skill library for Codex, Claude Code, and other AGENTS-aware tools. Covers eval loops, research, writing,",
-    "id": "mattdweigand-sketch/agent-skills",
-    "language": "Python",
-    "name": "mattdweigand-sketch/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-06-10T18:50:44Z",
-    "url": "https://github.com/mattdweigand-sketch/agent-skills"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-10T18:39:48Z",
     "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:39:13Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
-    "id": "Paulessus/odin-gemini-mcp-bridge",
-    "language": "HTML",
-    "name": "Paulessus/odin-gemini-mcp-bridge",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:39:01Z",
-    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:38:49Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:38:15Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "An automated job scraping system that fetches job postings from Telegram channels and RSS feeds, analyzes them using loc",
-    "id": "dariank38/agentic-job-scraper",
-    "language": "TypeScript",
-    "name": "dariank38/agentic-job-scraper",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:38:13Z",
-    "url": "https://github.com/dariank38/agentic-job-scraper"
-  },
-  {
-    "description": "Multi-advisor developmental critique framework for AI agents. Surfaces agreements, disagreements, and blind spots withou",
-    "id": "thelarryrutledge/developmental-council",
-    "language": "HTML",
-    "name": "thelarryrutledge/developmental-council",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:38:12Z",
-    "url": "https://github.com/thelarryrutledge/developmental-council"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-06-10T18:38:09Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-06-10T18:37:59Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-06-10T18:37:48Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 2,
-    "updated_at": "2026-06-10T18:37:23Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
   }
 ]
