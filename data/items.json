@@ -1,12 +1,12 @@
 [
   {
-    "description": "Three composable Agent Skills for Claude and OpenAI Codex \u2014 ideate, deep-dive, prompt-pack \u2014 taking an idea from fuzzy \u2192",
-    "id": "nelsonwerd/idea-to-ship-skills",
-    "language": "Shell",
-    "name": "nelsonwerd/idea-to-ship-skills",
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
     "stars": 0,
-    "updated_at": "2026-06-10T00:30:06Z",
-    "url": "https://github.com/nelsonwerd/idea-to-ship-skills"
+    "updated_at": "2026-06-10T00:44:35Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
   },
   {
     "description": "Full-stack prompt workspace for Claude Code and Codex with ASP.NET Core, React, PostgreSQL and SignalR.",
@@ -14,8 +14,134 @@
     "language": "C#",
     "name": "psielta/Thoth",
     "stars": 0,
-    "updated_at": "2026-06-10T00:30:03Z",
+    "updated_at": "2026-06-10T00:43:55Z",
     "url": "https://github.com/psielta/Thoth"
+  },
+  {
+    "description": "Executable recipes for coding agents. Same task. Same quality. Any agent.",
+    "id": "Vatsalc26/ReActions",
+    "language": "JavaScript",
+    "name": "Vatsalc26/ReActions",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:42:29Z",
+    "url": "https://github.com/Vatsalc26/ReActions"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:41:08Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "AI agents that improve themselves. Self-evolving prompts via A/B testing, multi-model critics, and safety gates. TypeScr",
+    "id": "studiomeyer-io/darwin-agents",
+    "language": "TypeScript",
+    "name": "studiomeyer-io/darwin-agents",
+    "stars": 3,
+    "updated_at": "2026-06-10T00:40:40Z",
+    "url": "https://github.com/studiomeyer-io/darwin-agents"
+  },
+  {
+    "description": "A prompt-evolution engine for breeding better instructions before they ever hit your agents.",
+    "id": "Blackleets/fractal-prompt-foundry",
+    "language": "Python",
+    "name": "Blackleets/fractal-prompt-foundry",
+    "stars": 1,
+    "updated_at": "2026-06-10T00:38:26Z",
+    "url": "https://github.com/Blackleets/fractal-prompt-foundry"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "MartiniArt/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "MartiniArt/awesome-seedance-2-prompt",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:37:09Z",
+    "url": "https://github.com/MartiniArt/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "A framework for LLM research and audits. Multi-prompt, multi-session, context-disciplined.",
+    "id": "Ronkupper/PRISM",
+    "language": "Python",
+    "name": "Ronkupper/PRISM",
+    "stars": 4,
+    "updated_at": "2026-06-10T00:35:27Z",
+    "url": "https://github.com/Ronkupper/PRISM"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 29500,
+    "updated_at": "2026-06-10T00:34:49Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 12,
+    "updated_at": "2026-06-10T00:33:16Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "A native desktop Integrated Chat and Productivity Environment for local AI models",
+    "id": "ekorbia/ekorbia-desktop",
+    "language": "JavaScript",
+    "name": "ekorbia/ekorbia-desktop",
+    "stars": 1,
+    "updated_at": "2026-06-10T00:33:07Z",
+    "url": "https://github.com/ekorbia/ekorbia-desktop"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-06-10T00:41:21Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 216,
+    "updated_at": "2026-06-10T00:37:50Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12449,
+    "updated_at": "2026-06-10T00:30:38Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-10T00:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Three composable Agent Skills for Claude and OpenAI Codex \u2014 ideate, deep-dive, prompt-pack \u2014 taking an idea from fuzzy \u2192",
+    "id": "nelsonwerd/idea-to-ship-skills",
+    "language": "Shell",
+    "name": "nelsonwerd/idea-to-ship-skills",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:30:06Z",
+    "url": "https://github.com/nelsonwerd/idea-to-ship-skills"
   },
   {
     "description": "Automated prompt engineering and optimization: DSPy-based prompt optimization, A/B testing, meta-prompting, chain-of-tho",
@@ -31,7 +157,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 20539,
+    "stars": 20560,
     "updated_at": "2026-06-10T00:23:43Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -90,15 +216,6 @@
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-10T00:15:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
     "id": "Atheerameer/agentic-cli-blueprint-library",
     "language": "HTML",
@@ -126,12 +243,21 @@
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10067,
+    "updated_at": "2026-06-10T00:11:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22061,
-    "updated_at": "2026-06-10T00:13:00Z",
+    "updated_at": "2026-06-10T00:33:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -214,15 +340,6 @@
     "stars": 353,
     "updated_at": "2026-06-10T00:07:30Z",
     "url": "https://github.com/agentmark-ai/agentmark"
-  },
-  {
-    "description": "A prompt-evolution engine for breeding better instructions before they ever hit your agents.",
-    "id": "Blackleets/fractal-prompt-foundry",
-    "language": "Python",
-    "name": "Blackleets/fractal-prompt-foundry",
-    "stars": 0,
-    "updated_at": "2026-06-10T00:06:09Z",
-    "url": "https://github.com/Blackleets/fractal-prompt-foundry"
   },
   {
     "description": "Agent Skill for Claude and OpenAI Codex \u2014 break big, risky work into sequenced, self-contained prompts you run across se",
@@ -315,21 +432,12 @@
     "url": "https://github.com/mbanderas/maestro"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-10T00:30:16Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
     "id": "promptdriven/pdd",
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 742,
-    "updated_at": "2026-06-10T00:26:06Z",
+    "updated_at": "2026-06-10T00:40:47Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-09T23:54:21Z",
     "url": "https://github.com/tigreau/catclip"
-  },
-  {
-    "description": "A framework for LLM research and audits. Multi-prompt, multi-session, context-disciplined.",
-    "id": "Ronkupper/PRISM",
-    "language": "Python",
-    "name": "Ronkupper/PRISM",
-    "stars": 4,
-    "updated_at": "2026-06-09T23:45:21Z",
-    "url": "https://github.com/Ronkupper/PRISM"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:45:06Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:44:41Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-09T23:42:20Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:42:06Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Helps ChatGPT keep uploaded files, chat history, instructions, hypotheses, drafts, and model assumptions separate in lon",
-    "id": "XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project",
-    "language": "Python",
-    "name": "XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:41:48Z",
-    "url": "https://github.com/XxYouDeaDPunKxX/canon-boundary-guard-for-gpt-project"
-  },
-  {
-    "description": "Project Forge helps you open ChatGPT Projects from explicit structure and controlled artifacts.",
-    "id": "XxYouDeaDPunKxX/GPT-PF-Chat-GPT-Project-Forge",
-    "language": "\u2014",
-    "name": "XxYouDeaDPunKxX/GPT-PF-Chat-GPT-Project-Forge",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:41:47Z",
-    "url": "https://github.com/XxYouDeaDPunKxX/GPT-PF-Chat-GPT-Project-Forge"
-  },
-  {
-    "description": "Behavior Contract and Protocols for AI-assisted work. Covers various scenarios such as output shaping, publication, HTML",
-    "id": "XxYouDeaDPunKxX/ai-protocol-kit",
-    "language": "\u2014",
-    "name": "XxYouDeaDPunKxX/ai-protocol-kit",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:41:43Z",
-    "url": "https://github.com/XxYouDeaDPunKxX/ai-protocol-kit"
-  },
-  {
-    "description": "A cognitive layer for Claude that tracks epistemic weight during complex working sessions: what is still a hypothesis, w",
-    "id": "XxYouDeaDPunKxX/shaping-frame-for-claude",
-    "language": "\u2014",
-    "name": "XxYouDeaDPunKxX/shaping-frame-for-claude",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:41:42Z",
-    "url": "https://github.com/XxYouDeaDPunKxX/shaping-frame-for-claude"
-  },
-  {
-    "description": "A lightweight ChatGPT Projects protocol that keeps long idea-shaping sessions structurally coherent: GPT follows real ga",
-    "id": "XxYouDeaDPunKxX/Memory-Assisted-Shaping",
-    "language": "Python",
-    "name": "XxYouDeaDPunKxX/Memory-Assisted-Shaping",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:41:41Z",
-    "url": "https://github.com/XxYouDeaDPunKxX/Memory-Assisted-Shaping"
-  },
-  {
-    "description": "Stress-test ideas, plans, prompts, procedures, code, and AI outputs. pa_pvp finds gaps, weak logic, missing constraints,",
-    "id": "XxYouDeaDPunKxX/PA-PVP-mini",
-    "language": "\u2014",
-    "name": "XxYouDeaDPunKxX/PA-PVP-mini",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:41:39Z",
-    "url": "https://github.com/XxYouDeaDPunKxX/PA-PVP-mini"
-  },
-  {
-    "description": "Codex skill that keeps project files, chat context, operator instructions, working hypotheses, and model assumptions in ",
-    "id": "XxYouDeaDPunKxX/canon-boundary-guard-codex",
-    "language": "Python",
-    "name": "XxYouDeaDPunKxX/canon-boundary-guard-codex",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:41:37Z",
-    "url": "https://github.com/XxYouDeaDPunKxX/canon-boundary-guard-codex"
   }
 ]
