@@ -1,12 +1,48 @@
 [
   {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
+    "description": "Three composable Agent Skills for Claude and OpenAI Codex \u2014 ideate, deep-dive, prompt-pack \u2014 taking an idea from fuzzy \u2192",
+    "id": "nelsonwerd/idea-to-ship-skills",
+    "language": "Shell",
+    "name": "nelsonwerd/idea-to-ship-skills",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:30:06Z",
+    "url": "https://github.com/nelsonwerd/idea-to-ship-skills"
+  },
+  {
+    "description": "Full-stack prompt workspace for Claude Code and Codex with ASP.NET Core, React, PostgreSQL and SignalR.",
+    "id": "psielta/Thoth",
+    "language": "C#",
+    "name": "psielta/Thoth",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:30:03Z",
+    "url": "https://github.com/psielta/Thoth"
+  },
+  {
+    "description": "Automated prompt engineering and optimization: DSPy-based prompt optimization, A/B testing, meta-prompting, chain-of-tho",
+    "id": "jhondados/prompt-engineering-optimizer",
+    "language": "HTML",
+    "name": "jhondados/prompt-engineering-optimizer",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:25:32Z",
+    "url": "https://github.com/jhondados/prompt-engineering-optimizer"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
     "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 8,
-    "updated_at": "2026-06-10T00:15:12Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+    "name": "chopratejas/headroom",
+    "stars": 20539,
+    "updated_at": "2026-06-10T00:23:43Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "The safe Human-In-The-Loop lab notebook for coordinating AI sessions with packets & provenance, all with traceable decis",
+    "id": "Wonderforge-Lab/CapstanAI-LabNote",
+    "language": "\u2014",
+    "name": "Wonderforge-Lab/CapstanAI-LabNote",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:23:00Z",
+    "url": "https://github.com/Wonderforge-Lab/CapstanAI-LabNote"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -14,8 +50,53 @@
     "language": "\u2014",
     "name": "HIDORAKAI002/ai-workspace-archive",
     "stars": 18,
-    "updated_at": "2026-06-10T00:15:09Z",
+    "updated_at": "2026-06-10T00:19:56Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:19:49Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 8,
+    "updated_at": "2026-06-10T00:19:15Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:17:21Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
+    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "language": "HTML",
+    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "stars": 0,
+    "updated_at": "2026-06-10T00:15:28Z",
+    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-10T00:15:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
@@ -43,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T00:14:57Z",
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Full-stack prompt workspace for Claude Code and Codex with ASP.NET Core, React, PostgreSQL and SignalR.",
-    "id": "psielta/Thoth",
-    "language": "C#",
-    "name": "psielta/Thoth",
-    "stars": 0,
-    "updated_at": "2026-06-10T00:12:18Z",
-    "url": "https://github.com/psielta/Thoth"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -135,15 +207,6 @@
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   },
   {
-    "description": "The safe Human-In-The-Loop lab notebook for coordinating AI sessions with packets & provenance, all with traceable decis",
-    "id": "Wonderforge-Lab/CapstanAI-LabNote",
-    "language": "\u2014",
-    "name": "Wonderforge-Lab/CapstanAI-LabNote",
-    "stars": 0,
-    "updated_at": "2026-06-10T00:06:37Z",
-    "url": "https://github.com/Wonderforge-Lab/CapstanAI-LabNote"
-  },
-  {
     "description": "Markdown for the AI era",
     "id": "agentmark-ai/agentmark",
     "language": "TypeScript",
@@ -151,15 +214,6 @@
     "stars": 353,
     "updated_at": "2026-06-10T00:07:30Z",
     "url": "https://github.com/agentmark-ai/agentmark"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 20532,
-    "updated_at": "2026-06-10T00:06:09Z",
-    "url": "https://github.com/chopratejas/headroom"
   },
   {
     "description": "A prompt-evolution engine for breeding better instructions before they ever hit your agents.",
@@ -180,15 +234,6 @@
     "url": "https://github.com/nelsonwerd/prompt-pack-skill"
   },
   {
-    "description": "Three composable Agent Skills for Claude and OpenAI Codex \u2014 ideate, deep-dive, prompt-pack \u2014 taking an idea from fuzzy \u2192",
-    "id": "nelsonwerd/idea-to-ship-skills",
-    "language": "Shell",
-    "name": "nelsonwerd/idea-to-ship-skills",
-    "stars": 0,
-    "updated_at": "2026-06-10T00:05:01Z",
-    "url": "https://github.com/nelsonwerd/idea-to-ship-skills"
-  },
-  {
     "description": "Putting prompts at your fingertips",
     "id": "imtheolin/ai-keyboard",
     "language": "\u2014",
@@ -196,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-06-10T00:03:29Z",
     "url": "https://github.com/imtheolin/ai-keyboard"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-10T00:02:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
@@ -284,7 +320,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-09T23:55:51Z",
+    "updated_at": "2026-06-10T00:30:16Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 742,
-    "updated_at": "2026-06-10T00:07:28Z",
+    "updated_at": "2026-06-10T00:26:06Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T23:41:37Z",
     "url": "https://github.com/XxYouDeaDPunKxX/canon-boundary-guard-codex"
-  },
-  {
-    "description": "AI-native decision protocol: forced verdict, executable steps, probes and debt under uncertainty.",
-    "id": "XxYouDeaDPunKxX/PA_PVP-a-PLUTONIUM-like-Adversarial-Peer-Validation-Protocol",
-    "language": "\u2014",
-    "name": "XxYouDeaDPunKxX/PA_PVP-a-PLUTONIUM-like-Adversarial-Peer-Validation-Protocol",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:41:36Z",
-    "url": "https://github.com/XxYouDeaDPunKxX/PA_PVP-a-PLUTONIUM-like-Adversarial-Peer-Validation-Protocol"
-  },
-  {
-    "description": "A compact kernel for more disciplined, bounded, and reviewable AI behavior in technical work.",
-    "id": "XxYouDeaDPunKxX/SensecraftXStudio",
-    "language": "\u2014",
-    "name": "XxYouDeaDPunKxX/SensecraftXStudio",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:41:35Z",
-    "url": "https://github.com/XxYouDeaDPunKxX/SensecraftXStudio"
-  },
-  {
-    "description": "A three-file protocol kit for maintaining a controlled, operator-approved shared memory/best practice layer in Codex.",
-    "id": "XxYouDeaDPunKxX/CSBP-Codex-Shared-Best-Practice",
-    "language": "\u2014",
-    "name": "XxYouDeaDPunKxX/CSBP-Codex-Shared-Best-Practice",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:41:34Z",
-    "url": "https://github.com/XxYouDeaDPunKxX/CSBP-Codex-Shared-Best-Practice"
-  },
-  {
-    "description": "Spec-first protocol for rule-ordered depth routing and bounded epistemic output in AI chat.",
-    "id": "XxYouDeaDPunKxX/A.D.A.M.-Adaptive-Depth-and-Mode",
-    "language": "\u2014",
-    "name": "XxYouDeaDPunKxX/A.D.A.M.-Adaptive-Depth-and-Mode",
-    "stars": 6,
-    "updated_at": "2026-06-09T23:41:10Z",
-    "url": "https://github.com/XxYouDeaDPunKxX/A.D.A.M.-Adaptive-Depth-and-Mode"
   }
 ]
