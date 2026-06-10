@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-10 20:00 UTC
+> ⏰ Last updated: 2026-06-10 20:03 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,17 +44,17 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [HIDORAKAI002/ai-workspace-archive](https://github.com/HIDORAKAI002/ai-workspace-archive) | 18 | — | 2026-06-10 | A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl |
 | 2 | [lf1up/careersim](https://github.com/lf1up/careersim) | 20 | TypeScript | 2026-06-10 | 🎮 AI-Powered Career Skills SIMulator |
-| 3 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 0 | HTML | 2026-06-10 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
-| 4 | [vijayptiwari/agent-engineering-framework](https://github.com/vijayptiwari/agent-engineering-framework) | 0 | — | 2026-06-10 | The 10 Pillars of Production Agent Engineering — open practitioner framework with white paper, readiness rubric, and des |
-| 5 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 0 | HTML | 2026-06-10 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
-| 6 | [TAKEOFF69/codex-skills-kit](https://github.com/TAKEOFF69/codex-skills-kit) | 5 | Python | 2026-06-10 | Task-typed prompt-engineering Agent Skills for OpenAI Codex. |
-| 7 | [mbanderas/maestro](https://github.com/mbanderas/maestro) | 3 | JavaScript | 2026-06-10 | Research-grounded multi-agent orchestrator for AI coding agents. Portable core doctrine with thin runtime adapters for C |
-| 8 | [promptLM/promptlm-app](https://github.com/promptLM/promptlm-app) | 2 | TypeScript | 2026-06-10 | Git-based Prompt Lifecycle Management |
-| 9 | [TomasHer/prompting-blueprints](https://github.com/TomasHer/prompting-blueprints) | 18 | HTML | 2026-06-10 | Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for |
-| 10 | [thelarryrutledge/counterpoint](https://github.com/thelarryrutledge/counterpoint) | 0 | HTML | 2026-06-10 | Multi-advisor developmental critique framework for AI agents. Surfaces agreements, disagreements, and blind spots withou |
-| 11 | [christopherlouet/claude-base](https://github.com/christopherlouet/claude-base) | 4 | Shell | 2026-06-10 | Opinionated Claude Code foundation — Explore → TDD → Audit workflow, auto-detected stack presets (nextjs, fastapi, astro |
-| 12 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 0 | HTML | 2026-06-10 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 13 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 1 | Python | 2026-06-10 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 3 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 1 | Python | 2026-06-10 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 4 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 0 | HTML | 2026-06-10 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
+| 5 | [vijayptiwari/agent-engineering-framework](https://github.com/vijayptiwari/agent-engineering-framework) | 0 | — | 2026-06-10 | The 10 Pillars of Production Agent Engineering — open practitioner framework with white paper, readiness rubric, and des |
+| 6 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 0 | HTML | 2026-06-10 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
+| 7 | [TAKEOFF69/codex-skills-kit](https://github.com/TAKEOFF69/codex-skills-kit) | 5 | Python | 2026-06-10 | Task-typed prompt-engineering Agent Skills for OpenAI Codex. |
+| 8 | [mbanderas/maestro](https://github.com/mbanderas/maestro) | 3 | JavaScript | 2026-06-10 | Research-grounded multi-agent orchestrator for AI coding agents. Portable core doctrine with thin runtime adapters for C |
+| 9 | [promptLM/promptlm-app](https://github.com/promptLM/promptlm-app) | 2 | TypeScript | 2026-06-10 | Git-based Prompt Lifecycle Management |
+| 10 | [TomasHer/prompting-blueprints](https://github.com/TomasHer/prompting-blueprints) | 18 | HTML | 2026-06-10 | Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for |
+| 11 | [thelarryrutledge/counterpoint](https://github.com/thelarryrutledge/counterpoint) | 0 | HTML | 2026-06-10 | Multi-advisor developmental critique framework for AI agents. Surfaces agreements, disagreements, and blind spots withou |
+| 12 | [christopherlouet/claude-base](https://github.com/christopherlouet/claude-base) | 4 | Shell | 2026-06-10 | Opinionated Claude Code foundation — Explore → TDD → Audit workflow, auto-detected stack presets (nextjs, fastapi, astro |
+| 13 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 0 | HTML | 2026-06-10 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
 | 14 | [rizvee/multimodel-dev-os](https://github.com/rizvee/multimodel-dev-os) | 2 | JavaScript | 2026-06-10 | Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows. |
 | 15 | [kiro0x/five-character-engine](https://github.com/kiro0x/five-character-engine) | 1 | Python | 2026-06-10 | 160,000 deductively-derived JSON constraints that eliminate LLM persona drift. Measured: 0 breaks in a 120-turn pressure |
 | 16 | [ralphmoran/ticket-lens](https://github.com/ralphmoran/ticket-lens) | 1 | JavaScript | 2026-06-10 | Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60–80% fewer tokens. No relay. Pipe-friendly. |
