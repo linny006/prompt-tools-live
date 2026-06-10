@@ -1,12 +1,129 @@
 [
   {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 18,
+    "updated_at": "2026-06-10T13:45:17Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Visualize your project's feature logic as a semantic flow graph \u2014 not call graphs, not import maps. AI writes the data, ",
+    "id": "Kaka-cheaper/codeSee",
+    "language": "TypeScript",
+    "name": "Kaka-cheaper/codeSee",
+    "stars": 36,
+    "updated_at": "2026-06-10T13:43:29Z",
+    "url": "https://github.com/Kaka-cheaper/codeSee"
+  },
+  {
+    "description": "\u0625\u0637\u0627\u0631 \u0645\u0641\u062a\u0648\u062d \u0627\u0644\u0645\u0635\u062f\u0631 \u0644\u062a\u0643\u064a\u064a\u0641 \u0645\u0633\u0627\u0639\u062f\u0627\u062a \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0648\u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a \u0645\u0639 \u0627\u0644\u0628\u064a\u0626\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629. Open-source framewor",
+    "id": "Samix2026/saudi-legal-ai-framework",
+    "language": "HTML",
+    "name": "Samix2026/saudi-legal-ai-framework",
+    "stars": 28,
+    "updated_at": "2026-06-10T13:45:23Z",
+    "url": "https://github.com/Samix2026/saudi-legal-ai-framework"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22080,
+    "updated_at": "2026-06-10T13:43:13Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
     "id": "SoliEstre/EstreGenesis",
     "language": "JavaScript",
     "name": "SoliEstre/EstreGenesis",
     "stars": 5,
-    "updated_at": "2026-06-10T13:29:01Z",
+    "updated_at": "2026-06-10T13:42:20Z",
     "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "183 evaluated academic Claude/agent skills across 13 research domains \u2014 bioinformatics, cheminformatics, data science, d",
+    "id": "AlterLab-IEU/AlterLab-Academic-Skills",
+    "language": "Python",
+    "name": "AlterLab-IEU/AlterLab-Academic-Skills",
+    "stars": 27,
+    "updated_at": "2026-06-10T13:42:18Z",
+    "url": "https://github.com/AlterLab-IEU/AlterLab-Academic-Skills"
+  },
+  {
+    "description": "Local MCP context router for Claude Code, Codex, Cursor, and AI coding agents. Ranks repo files, tests, rules, and skill",
+    "id": "vishal2612200/agentpack",
+    "language": "Python",
+    "name": "vishal2612200/agentpack",
+    "stars": 17,
+    "updated_at": "2026-06-10T13:40:40Z",
+    "url": "https://github.com/vishal2612200/agentpack"
+  },
+  {
+    "description": "AI-native product delivery protocol for PRD, mobile mini-programs, prototypes, DDD handoff, agent harness engineering, e",
+    "id": "franklinxkk/ai-delivery-spec",
+    "language": "Python",
+    "name": "franklinxkk/ai-delivery-spec",
+    "stars": 3,
+    "updated_at": "2026-06-10T13:39:55Z",
+    "url": "https://github.com/franklinxkk/ai-delivery-spec"
+  },
+  {
+    "description": "yuragi \u2014 LLM Confidence Fragility Analyzer. Perturbation-driven hallucination detection with workshop-grade real benchma",
+    "id": "hinanohart/yuragi",
+    "language": "Python",
+    "name": "hinanohart/yuragi",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:37:53Z",
+    "url": "https://github.com/hinanohart/yuragi"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28848,
+    "updated_at": "2026-06-10T13:34:39Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Claude Code UserPromptSubmit hook that routes prompts to the right memory files instead of carpet-bombing context. Stops",
+    "id": "hinanohart/claude-memory-router",
+    "language": "Shell",
+    "name": "hinanohart/claude-memory-router",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:33:34Z",
+    "url": "https://github.com/hinanohart/claude-memory-router"
+  },
+  {
+    "description": "Auto-inject 'critical rules' into every Claude Code turn via UserPromptSubmit hook. Tiny, auditable, MIT, fork-friendly.",
+    "id": "hinanohart/claude-rules-injector",
+    "language": "Shell",
+    "name": "hinanohart/claude-rules-injector",
+    "stars": 1,
+    "updated_at": "2026-06-10T13:33:31Z",
+    "url": "https://github.com/hinanohart/claude-rules-injector"
+  },
+  {
+    "description": "Static lint for Claude Code memory directories. Catches frontmatter rot, oversized files, and stop-word noise before the",
+    "id": "hinanohart/claude-memory-lint",
+    "language": "Python",
+    "name": "hinanohart/claude-memory-lint",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:33:24Z",
+    "url": "https://github.com/hinanohart/claude-memory-lint"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-10T13:30:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u4e2d\u6587\u7f51\u6587\u5199\u4f5c\u5de5\u5177\u5305 \u00b7 Chinese web-novel writing toolkit (23 skills) \u2014 a Claude Code plugin, also works in ChatGPT / DeepSeek / Gem",
@@ -45,15 +162,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "183 evaluated academic Claude/agent skills across 13 research domains \u2014 bioinformatics, cheminformatics, data science, d",
-    "id": "AlterLab-IEU/AlterLab-Academic-Skills",
-    "language": "Python",
-    "name": "AlterLab-IEU/AlterLab-Academic-Skills",
-    "stars": 27,
-    "updated_at": "2026-06-10T13:27:53Z",
-    "url": "https://github.com/AlterLab-IEU/AlterLab-Academic-Skills"
-  },
-  {
     "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c470+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
     "id": "freestylefly/awesome-gpt-image-2",
     "language": "JavaScript",
@@ -72,6 +180,15 @@
     "url": "https://github.com/EvoLinkAI/awesome-claude-fable-5"
   },
   {
+    "description": "Context-first AI prompt engineering \u2014 describe your role + task (voice or text), get a structured, scored, copy-paste-re",
+    "id": "JetLaggedByData/promptrx-app",
+    "language": "TypeScript",
+    "name": "JetLaggedByData/promptrx-app",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:45:13Z",
+    "url": "https://github.com/JetLaggedByData/promptrx-app"
+  },
+  {
     "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
     "id": "fumimaruwork/veil",
     "language": "Python",
@@ -81,15 +198,6 @@
     "url": "https://github.com/fumimaruwork/veil"
   },
   {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 18,
-    "updated_at": "2026-06-10T13:24:59Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
     "description": "OpenCode plugin toolkit: 6 plugins, managed agents, work-item workflow, and Bun CLI for install, sync, and cross-device ",
     "id": "osovv/vv-opencode",
     "language": "TypeScript",
@@ -97,24 +205,6 @@
     "stars": 6,
     "updated_at": "2026-06-10T13:19:49Z",
     "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "Local MCP context router for Claude Code, Codex, Cursor, and AI coding agents. Ranks repo files, tests, rules, and skill",
-    "id": "vishal2612200/agentpack",
-    "language": "Python",
-    "name": "vishal2612200/agentpack",
-    "stars": 17,
-    "updated_at": "2026-06-10T13:29:00Z",
-    "url": "https://github.com/vishal2612200/agentpack"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22080,
-    "updated_at": "2026-06-10T13:17:29Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI agents for growth marketing \u2014 built from real fintech campaigns. Prompts + Python.",
@@ -135,15 +225,6 @@
     "url": "https://github.com/thaolst/ai-growth-prompts"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28847,
-    "updated_at": "2026-06-10T13:28:05Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Local prompt routing studio for structured AI workflows and execution handoff.",
     "id": "MCamner/atlas-one",
     "language": "JavaScript",
@@ -151,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-10T13:16:25Z",
     "url": "https://github.com/MCamner/atlas-one"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-10T13:15:39Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Evaluate Claude Code skills with cost-weighted A/B performance testing for Claude Code skills \u2014 one skill, or several co",
@@ -176,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3298,
-    "updated_at": "2026-06-10T13:17:16Z",
+    "updated_at": "2026-06-10T13:37:57Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -185,7 +257,7 @@
     "language": "Python",
     "name": "FlorianBruniaux/claude-code-ultimate-guide",
     "stars": 4833,
-    "updated_at": "2026-06-10T13:12:55Z",
+    "updated_at": "2026-06-10T13:43:38Z",
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
   },
   {
@@ -239,7 +311,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19556,
-    "updated_at": "2026-06-10T13:29:00Z",
+    "updated_at": "2026-06-10T13:43:02Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T12:43:17Z",
     "url": "https://github.com/jdbostonbu-ops/About-Me"
-  },
-  {
-    "description": "Chinese-first humanized writing Skill for ChatGPT, Codex, Claude Code and Cursor",
-    "id": "woderfulmagic/humanized-chinese-writing-polisher",
-    "language": "Python",
-    "name": "woderfulmagic/humanized-chinese-writing-polisher",
-    "stars": 1,
-    "updated_at": "2026-06-10T12:39:23Z",
-    "url": "https://github.com/woderfulmagic/humanized-chinese-writing-polisher"
-  },
-  {
-    "description": "AI-powered football prediction engine using probabilistic modeling, Poisson goal simulation, and tactical analysis inspi",
-    "id": "AmirMotefaker/ai-football-prediction-engine-world-cup-2026",
-    "language": "Python",
-    "name": "AmirMotefaker/ai-football-prediction-engine-world-cup-2026",
-    "stars": 3,
-    "updated_at": "2026-06-10T12:35:22Z",
-    "url": "https://github.com/AmirMotefaker/ai-football-prediction-engine-world-cup-2026"
-  },
-  {
-    "description": "\ud83d\udc0c An open research project where anyone can forge AI values ",
-    "id": "xiaojialove-DRP/the42post",
-    "language": "JavaScript",
-    "name": "xiaojialove-DRP/the42post",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:34:42Z",
-    "url": "https://github.com/xiaojialove-DRP/the42post"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:34:11Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "A Streamlit-based RAG application that allows users to upload PDF documents, generate embeddings, perform semantic searc",
-    "id": "kousireddy/streamlit-RAG-application-pdfreader",
-    "language": "Python",
-    "name": "kousireddy/streamlit-RAG-application-pdfreader",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:33:43Z",
-    "url": "https://github.com/kousireddy/streamlit-RAG-application-pdfreader"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:33:30Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:33:22Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
-    "id": "zigrivers/scaffold",
-    "language": "TypeScript",
-    "name": "zigrivers/scaffold",
-    "stars": 5,
-    "updated_at": "2026-06-10T12:33:19Z",
-    "url": "https://github.com/zigrivers/scaffold"
   }
 ]
