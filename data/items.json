@@ -1,5 +1,68 @@
 [
   {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 34733,
+    "updated_at": "2026-06-10T04:45:07Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22067,
+    "updated_at": "2026-06-10T04:44:43Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Portable intent alignment skill for ambiguous high-expectation agent requests",
+    "id": "handlecusion/nah-mean",
+    "language": "Shell",
+    "name": "handlecusion/nah-mean",
+    "stars": 2,
+    "updated_at": "2026-06-10T04:44:25Z",
+    "url": "https://github.com/handlecusion/nah-mean"
+  },
+  {
+    "description": "\ud83c\udf10 Generate ICMP9 subscriptions easily for V2Ray, Clash, and more with this lightweight Cloudflare Workers service, ensur",
+    "id": "kylepeart21/get-icmp9-node",
+    "language": "JavaScript",
+    "name": "kylepeart21/get-icmp9-node",
+    "stars": 1,
+    "updated_at": "2026-06-10T04:44:11Z",
+    "url": "https://github.com/kylepeart21/get-icmp9-node"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Discover essential skills and tools for AI coding agents to enhance capabilities and streamline the development of in",
+    "id": "SIRFU3G0/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "SIRFU3G0/awesome-agent-skills",
+    "stars": 4,
+    "updated_at": "2026-06-10T04:43:45Z",
+    "url": "https://github.com/SIRFU3G0/awesome-agent-skills"
+  },
+  {
+    "description": "\ud83e\uddec Build consistent AI personalities with the Kotodama Framework, ensuring engaging, reliable interactions throughout you",
+    "id": "LegendsVenom/kotodama-framework",
+    "language": "\u2014",
+    "name": "LegendsVenom/kotodama-framework",
+    "stars": 0,
+    "updated_at": "2026-06-10T04:43:40Z",
+    "url": "https://github.com/LegendsVenom/kotodama-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-10T04:43:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83e\udde0 Qualify leads with an AI-driven system that understands intent, asks key questions, and structures quality leads witho",
     "id": "Veeksha29/ai-lead-qualifier",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 216,
-    "updated_at": "2026-06-10T04:42:57Z",
+    "updated_at": "2026-06-10T04:43:33Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -189,15 +252,6 @@
     "url": "https://github.com/adrian1302-byte/promptmanager"
   },
   {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "Python",
-    "name": "github/awesome-copilot",
-    "stars": 34733,
-    "updated_at": "2026-06-10T04:36:48Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
     "description": "\ud83d\udcbc Manage your investments with AsesorAIrrechisimo, an AI-driven portfolio manager featuring a witty Venezuelan financial",
     "id": "ZaykorDev/AsesorAIrrechisimo",
     "language": "Lua",
@@ -270,15 +324,6 @@
     "url": "https://github.com/SamurAIGPT/prompt-architect"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22067,
-    "updated_at": "2026-06-10T04:33:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83d\udcca Transform research papers into professional slides and posters seamlessly and quickly with Paper2Slides, saving you va",
     "id": "pchi123/Paper2Slides",
     "language": "Python",
@@ -342,15 +387,6 @@
     "url": "https://github.com/dinamico99/The-Rosetta-Prompt"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-10T04:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83c\udf4c Create stunning AI-generated images with Nano BananaAI, a lightweight web app featuring easy deployment, user manageme",
     "id": "Dharshini332004/Nano-Banana",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-10T04:25:18Z",
     "url": "https://github.com/gtwyeee/swiftplan-ai-agent"
-  },
-  {
-    "description": "\ud83d\ude80 Scrape LinkedIn, generate ATS-optimized resumes, and analyze AI interpretations with SuperpoweredCV's powerful tools f",
-    "id": "Moayd307/superpoweredcv",
-    "language": "Rust",
-    "name": "Moayd307/superpoweredcv",
-    "stars": 5,
-    "updated_at": "2026-06-10T04:25:12Z",
-    "url": "https://github.com/Moayd307/superpoweredcv"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Build and customize prompts for Google's Gemini models with Chota-Architecture, offering advanced controls for seamle",
-    "id": "djamel10000/Chota-Architecture",
-    "language": "TypeScript",
-    "name": "djamel10000/Chota-Architecture",
-    "stars": 0,
-    "updated_at": "2026-06-10T04:24:52Z",
-    "url": "https://github.com/djamel10000/Chota-Architecture"
-  },
-  {
-    "description": "\ud83d\ude80 Boost coding efficiency with AI prompts. Streamline development processes and enhance code quality through structured ",
-    "id": "Ahmed-Ghazal55/ai-coding-prompt-java",
-    "language": "JavaScript",
-    "name": "Ahmed-Ghazal55/ai-coding-prompt-java",
-    "stars": 0,
-    "updated_at": "2026-06-10T04:24:50Z",
-    "url": "https://github.com/Ahmed-Ghazal55/ai-coding-prompt-java"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-10T04:23:29Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   }
 ]
