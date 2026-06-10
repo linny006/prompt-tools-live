@@ -1,5 +1,59 @@
 [
   {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "TypeScript",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 2,
+    "updated_at": "2026-06-10T19:08:36Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "Detects and rewrites AI writing patterns in Korean, English, Chinese, and Japanese. Runs as a skill for Claude Code, Cod",
+    "id": "devswha/patina",
+    "language": "JavaScript",
+    "name": "devswha/patina",
+    "stars": 159,
+    "updated_at": "2026-06-10T19:08:13Z",
+    "url": "https://github.com/devswha/patina"
+  },
+  {
+    "description": "Find what your AI agent gets wrong \u2014 before you have a rubric. Qualitative eval for PMs.",
+    "id": "aws-samples/sample-GEDD",
+    "language": "Python",
+    "name": "aws-samples/sample-GEDD",
+    "stars": 3,
+    "updated_at": "2026-06-10T19:05:05Z",
+    "url": "https://github.com/aws-samples/sample-GEDD"
+  },
+  {
+    "description": "Jonathan's Professional and Effective Prompting Tips and Techniques for Dummies. HR has been notified.",
+    "id": "hypnwtykvmpr/professional-and-effective-prompting-tips-and-techniques-for-dummies",
+    "language": "\u2014",
+    "name": "hypnwtykvmpr/professional-and-effective-prompting-tips-and-techniques-for-dummies",
+    "stars": 0,
+    "updated_at": "2026-06-10T19:03:03Z",
+    "url": "https://github.com/hypnwtykvmpr/professional-and-effective-prompting-tips-and-techniques-for-dummies"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28861,
+    "updated_at": "2026-06-10T19:01:44Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-10T19:00:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systemat",
     "id": "LerianStudio/ring",
     "language": "HTML",
@@ -25,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-06-10T18:58:36Z",
     "url": "https://github.com/Amoradvisory/promptvault"
-  },
-  {
-    "description": "Detects and rewrites AI writing patterns in Korean, English, Chinese, and Japanese. Runs as a skill for Claude Code, Cod",
-    "id": "devswha/patina",
-    "language": "JavaScript",
-    "name": "devswha/patina",
-    "stars": 159,
-    "updated_at": "2026-06-10T18:55:30Z",
-    "url": "https://github.com/devswha/patina"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -77,7 +122,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22086,
-    "updated_at": "2026-06-10T19:00:08Z",
+    "updated_at": "2026-06-10T19:02:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T18:46:18Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-10T18:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Nexus AI Assistant: A Flask-based web app powered by Google Gemini. Features contextual conversational memory, multi-fun",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-10T18:35:54Z",
     "url": "https://github.com/Ronkupper/PRISM"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-06-10T18:35:44Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-06-10T18:34:55Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 1,
-    "updated_at": "2026-06-10T18:34:49Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-06-10T18:34:24Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
   }
 ]
