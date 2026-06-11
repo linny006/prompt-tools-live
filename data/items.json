@@ -1,5 +1,194 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19574,
+    "updated_at": "2026-06-11T12:14:55Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Supercharge Claude Code with 109 specialized components \u2014 22 agents, 32 commands, 55 skills across 13 modular plugins. D",
+    "id": "joaquimscosta/arkhe-claude-plugins",
+    "language": "Python",
+    "name": "joaquimscosta/arkhe-claude-plugins",
+    "stars": 16,
+    "updated_at": "2026-06-11T12:12:11Z",
+    "url": "https://github.com/joaquimscosta/arkhe-claude-plugins"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-11T12:11:21Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "\ud83c\udfa5 Master AI video generation with curated prompts, techniques, and storytelling resources for seamless cinematic creatio",
+    "id": "dpresseddud/awesome-ai-video-prompts",
+    "language": "\u2014",
+    "name": "dpresseddud/awesome-ai-video-prompts",
+    "stars": 7,
+    "updated_at": "2026-06-11T12:11:14Z",
+    "url": "https://github.com/dpresseddud/awesome-ai-video-prompts"
+  },
+  {
+    "description": "",
+    "id": "TheEspresso/prompt-engineering",
+    "language": "\u2014",
+    "name": "TheEspresso/prompt-engineering",
+    "stars": 2,
+    "updated_at": "2026-06-11T12:09:50Z",
+    "url": "https://github.com/TheEspresso/prompt-engineering"
+  },
+  {
+    "description": "\ud83d\ude80 Explore Prometheus and Grafana in this self-contained playground with a mock metrics server for learning and simulatin",
+    "id": "Monsterw31/prom-playground",
+    "language": "Python",
+    "name": "Monsterw31/prom-playground",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:09:36Z",
+    "url": "https://github.com/Monsterw31/prom-playground"
+  },
+  {
+    "description": "Markdown for the AI era",
+    "id": "agentmark-ai/agentmark",
+    "language": "TypeScript",
+    "name": "agentmark-ai/agentmark",
+    "stars": 353,
+    "updated_at": "2026-06-11T12:10:32Z",
+    "url": "https://github.com/agentmark-ai/agentmark"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Shell",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:09:00Z",
+    "url": "https://github.com/l4ci/hv-skills"
+  },
+  {
+    "description": "\ud83d\udd0d Optimize recruitment processes using AI and data analysis to reduce bias and enhance decision-making accuracy.",
+    "id": "mtsalhudarowokele/PrismIA",
+    "language": "\u2014",
+    "name": "mtsalhudarowokele/PrismIA",
+    "stars": 1,
+    "updated_at": "2026-06-11T12:08:33Z",
+    "url": "https://github.com/mtsalhudarowokele/PrismIA"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Discover and explore a collection of system prompts and messages, contributing to better understanding and developmen",
+    "id": "reis428/system_prompts_leaks",
+    "language": "JavaScript",
+    "name": "reis428/system_prompts_leaks",
+    "stars": 8,
+    "updated_at": "2026-06-11T12:08:29Z",
+    "url": "https://github.com/reis428/system_prompts_leaks"
+  },
+  {
+    "description": "\ud83d\ude80 Master prompt engineering with our interactive tutorial designed for Claude, featuring hands-on exercises and practica",
+    "id": "paulaldri/prompt-eng-interactive-tutorial",
+    "language": "PHP",
+    "name": "paulaldri/prompt-eng-interactive-tutorial",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:08:26Z",
+    "url": "https://github.com/paulaldri/prompt-eng-interactive-tutorial"
+  },
+  {
+    "description": "Reusable AI prompt frameworks designed to reduce admin, improve consistency, and support smarter tech hiring.",
+    "id": "Trilldog13/ai-recruitment-frameworks",
+    "language": "\u2014",
+    "name": "Trilldog13/ai-recruitment-frameworks",
+    "stars": 1,
+    "updated_at": "2026-06-11T12:07:42Z",
+    "url": "https://github.com/Trilldog13/ai-recruitment-frameworks"
+  },
+  {
+    "description": "Public screenshots and live walkthrough links for JQ AI SYSTEMS automation demos, dashboards, review queues, and human-a",
+    "id": "jqaisystems/jqai-public-demos",
+    "language": "\u2014",
+    "name": "jqaisystems/jqai-public-demos",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:06:31Z",
+    "url": "https://github.com/jqaisystems/jqai-public-demos"
+  },
+  {
+    "description": "Multi-agent LLM pipeline for long-form novel continuation \u00b7 \u591a Agent \u957f\u7bc7\u5c0f\u8bf4\u7eed\u5199\u6d41\u6c34\u7ebf\uff0c19 \u8f6e\u8fed\u4ee3 + \u5168\u7a0b mock-first",
+    "id": "ARMANDSnow/make-ur-Agent-writer",
+    "language": "Python",
+    "name": "ARMANDSnow/make-ur-Agent-writer",
+    "stars": 12,
+    "updated_at": "2026-06-11T12:06:00Z",
+    "url": "https://github.com/ARMANDSnow/make-ur-Agent-writer"
+  },
+  {
+    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
+    "id": "Kenny27lokku/prompt-integrity-validator",
+    "language": "HTML",
+    "name": "Kenny27lokku/prompt-integrity-validator",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:05:04Z",
+    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
+  },
+  {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "HTML",
+    "name": "spidey889/context-generator",
+    "stars": 10,
+    "updated_at": "2026-06-11T12:04:35Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "JQ AI SYSTEMS profile: AI automation systems, reusable skills, public case studies, demos, and client-safe proof.",
+    "id": "jqaisystems/jqaisystems",
+    "language": "\u2014",
+    "name": "jqaisystems/jqaisystems",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:04:06Z",
+    "url": "https://github.com/jqaisystems/jqaisystems"
+  },
+  {
+    "description": "\ud83e\udd16 Generate code and tests for multiple languages using AI with this Python command-line tool, streamlining your developm",
+    "id": "jekeng/ai-codegen-cli",
+    "language": "Python",
+    "name": "jekeng/ai-codegen-cli",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:02:01Z",
+    "url": "https://github.com/jekeng/ai-codegen-cli"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28908,
+    "updated_at": "2026-06-11T12:15:05Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-11T12:00:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CL",
+    "id": "Dannykkh/skill-olympus",
+    "language": "Python",
+    "name": "Dannykkh/skill-olympus",
+    "stars": 2,
+    "updated_at": "2026-06-11T12:00:23Z",
+    "url": "https://github.com/Dannykkh/skill-olympus"
+  },
+  {
     "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
     "id": "terrylica/cc-skills",
     "language": "Shell",
@@ -36,24 +225,6 @@
     "url": "https://github.com/Alvi560/deliberate-agentic-development"
   },
   {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "HTML",
-    "name": "spidey889/context-generator",
-    "stars": 10,
-    "updated_at": "2026-06-11T11:57:52Z",
-    "url": "https://github.com/spidey889/context-generator"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19574,
-    "updated_at": "2026-06-11T11:57:26Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "\ud83e\uddd9 Democratizing best practices across 27 domains. Your AI knows everything \u2014 Grimoire makes it practice it.",
     "id": "jeffreytse/grimoire",
     "language": "Shell",
@@ -77,7 +248,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 2826,
-    "updated_at": "2026-06-11T11:59:32Z",
+    "updated_at": "2026-06-11T12:10:26Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -86,7 +257,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-11T11:56:18Z",
+    "updated_at": "2026-06-11T12:15:20Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -198,24 +369,6 @@
     "url": "https://github.com/vishu570/contextforge"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28907,
-    "updated_at": "2026-06-11T12:00:17Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-11T11:45:52Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -295,158 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-11T11:41:49Z",
     "url": "https://github.com/jqaisystems/jqai-ai-skills"
-  },
-  {
-    "description": "\ud83c\udfa8 Enhance text-to-image models efficiently with PromptEnhancer, utilizing chain-of-thought prompt rewriting for better o",
-    "id": "Bhaumi/PromptEnhancer",
-    "language": "Python",
-    "name": "Bhaumi/PromptEnhancer",
-    "stars": 0,
-    "updated_at": "2026-06-11T11:40:42Z",
-    "url": "https://github.com/Bhaumi/PromptEnhancer"
-  },
-  {
-    "description": "",
-    "id": "RafaelC22V/agentic-ai-mentorship-program",
-    "language": "\u2014",
-    "name": "RafaelC22V/agentic-ai-mentorship-program",
-    "stars": 1,
-    "updated_at": "2026-06-11T11:39:28Z",
-    "url": "https://github.com/RafaelC22V/agentic-ai-mentorship-program"
-  },
-  {
-    "description": "\ud83c\udf93 Enhance learning with a tailored tutoring prompt system for Large Language Models, promoting active engagement and per",
-    "id": "R-Dilipkumar/llm-study-mode-prompt",
-    "language": "\u2014",
-    "name": "R-Dilipkumar/llm-study-mode-prompt",
-    "stars": 1,
-    "updated_at": "2026-06-11T11:39:05Z",
-    "url": "https://github.com/R-Dilipkumar/llm-study-mode-prompt"
-  },
-  {
-    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
-    "id": "rizvee/multimodel-dev-os",
-    "language": "JavaScript",
-    "name": "rizvee/multimodel-dev-os",
-    "stars": 2,
-    "updated_at": "2026-06-11T11:39:13Z",
-    "url": "https://github.com/rizvee/multimodel-dev-os"
-  },
-  {
-    "description": "Experiments and studies in Agentic Engineering, LLM workflows, prompt engineering, and AI-powered automation.",
-    "id": "altemily/agentic-eng",
-    "language": "\u2014",
-    "name": "altemily/agentic-eng",
-    "stars": 0,
-    "updated_at": "2026-06-11T11:38:33Z",
-    "url": "https://github.com/altemily/agentic-eng"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI software projects with a structured methodology that tackles code bloat and inconsistencies for efficien",
-    "id": "setner111/Disciplined-AI-Software-Development",
-    "language": "Python",
-    "name": "setner111/Disciplined-AI-Software-Development",
-    "stars": 1,
-    "updated_at": "2026-06-11T11:38:17Z",
-    "url": "https://github.com/setner111/Disciplined-AI-Software-Development"
-  },
-  {
-    "description": "Are you using Claude Code to its full potential? This methodology \u2014 60 hooks, 109 skills, 15 agents, Evidence Policy \u2014 w",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 5,
-    "updated_at": "2026-06-11T11:38:10Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Git-based Prompt Lifecycle Management",
-    "id": "promptLM/promptlm-app",
-    "language": "TypeScript",
-    "name": "promptLM/promptlm-app",
-    "stars": 2,
-    "updated_at": "2026-06-11T11:37:55Z",
-    "url": "https://github.com/promptLM/promptlm-app"
-  },
-  {
-    "description": "\ud83d\udd04 Enable seamless AI conversations with a universal file format that saves and transfers your chat history across platfo",
-    "id": "AFRATUL1/AI-dropin-spec",
-    "language": "\u2014",
-    "name": "AFRATUL1/AI-dropin-spec",
-    "stars": 0,
-    "updated_at": "2026-06-11T11:36:52Z",
-    "url": "https://github.com/AFRATUL1/AI-dropin-spec"
-  },
-  {
-    "description": "Spec first workflow for coding agents: choose the right model per task, use strong reasoning early, split work into smal",
-    "id": "arcayne/agentic-delivery-playbook",
-    "language": "HTML",
-    "name": "arcayne/agentic-delivery-playbook",
-    "stars": 8,
-    "updated_at": "2026-06-11T11:36:39Z",
-    "url": "https://github.com/arcayne/agentic-delivery-playbook"
-  },
-  {
-    "description": "\ud83d\udcdd Discover and use powerful prompts for LLMs to enhance your AI interactions and boost productivity in coding and creati",
-    "id": "benja0191928/awesome-llm-prompts",
-    "language": "\u2014",
-    "name": "benja0191928/awesome-llm-prompts",
-    "stars": 2,
-    "updated_at": "2026-06-11T11:36:36Z",
-    "url": "https://github.com/benja0191928/awesome-llm-prompts"
-  },
-  {
-    "description": "\ud83d\udd0d Automate job discovery on Freelancer.com with AI-driven insights and tailored project recommendations for freelancers.",
-    "id": "EpicSaleh/freelancer-opportunity-finder",
-    "language": "JavaScript",
-    "name": "EpicSaleh/freelancer-opportunity-finder",
-    "stars": 1,
-    "updated_at": "2026-06-11T11:36:33Z",
-    "url": "https://github.com/EpicSaleh/freelancer-opportunity-finder"
-  },
-  {
-    "description": "\ud83e\udd16 Master AI in DevOps with guidelines, learning paths, and resources to evolve from a DevOps Engineer to an AI Infrastru",
-    "id": "Aldik-dev/devops-ai-guidelines",
-    "language": "Go",
-    "name": "Aldik-dev/devops-ai-guidelines",
-    "stars": 2,
-    "updated_at": "2026-06-11T11:36:29Z",
-    "url": "https://github.com/Aldik-dev/devops-ai-guidelines"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Build reliable AI agents and prompts using our open-source tools and models for effective AI engineering. Join the di",
-    "id": "olznra/system-prompts-and-models-of-ai-tools",
-    "language": "\u2014",
-    "name": "olznra/system-prompts-and-models-of-ai-tools",
-    "stars": 30,
-    "updated_at": "2026-06-11T11:35:33Z",
-    "url": "https://github.com/olznra/system-prompts-and-models-of-ai-tools"
-  },
-  {
-    "description": "\ud83e\udd16 Automate code documentation with AI to enhance understanding and streamline your workflow, saving time on unfamiliar c",
-    "id": "Jimartskenya/ai-code-context",
-    "language": "TypeScript",
-    "name": "Jimartskenya/ai-code-context",
-    "stars": 2,
-    "updated_at": "2026-06-11T11:35:15Z",
-    "url": "https://github.com/Jimartskenya/ai-code-context"
-  },
-  {
-    "description": "\ud83e\udd16 Engage AI in dynamic debates with this customizable Python system, featuring unique personalities, original topics, an",
-    "id": "thucutos1fpt/Italian-AI-Debater",
-    "language": "Python",
-    "name": "thucutos1fpt/Italian-AI-Debater",
-    "stars": 1,
-    "updated_at": "2026-06-11T11:34:44Z",
-    "url": "https://github.com/thucutos1fpt/Italian-AI-Debater"
-  },
-  {
-    "description": "\ud83d\udd27 Develop robust, ethical AI software standards to enhance efficiency and quality in AI-assisted projects for developers",
-    "id": "gigantiumweb/ai-dev-standards-initiative",
-    "language": "\u2014",
-    "name": "gigantiumweb/ai-dev-standards-initiative",
-    "stars": 0,
-    "updated_at": "2026-06-11T11:33:50Z",
-    "url": "https://github.com/gigantiumweb/ai-dev-standards-initiative"
   }
 ]
