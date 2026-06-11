@@ -1,30 +1,48 @@
 [
   {
-    "description": "Git-based Prompt Lifecycle Management",
-    "id": "promptLM/promptlm-app",
-    "language": "TypeScript",
-    "name": "promptLM/promptlm-app",
-    "stars": 2,
-    "updated_at": "2026-06-11T16:28:51Z",
-    "url": "https://github.com/promptLM/promptlm-app"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 22837,
-    "updated_at": "2026-06-11T16:26:13Z",
+    "stars": 22849,
+    "updated_at": "2026-06-11T16:42:25Z",
     "url": "https://github.com/chopratejas/headroom"
   },
   {
-    "description": "Turn a recurring legal task into a numbered playbook, run documents through it item by item with citations, and have a s",
-    "id": "exl-lab/my-legal-playbook",
-    "language": "\u2014",
-    "name": "exl-lab/my-legal-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:25:40Z",
-    "url": "https://github.com/exl-lab/my-legal-playbook"
+    "description": "Markdown for the AI era",
+    "id": "agentmark-ai/agentmark",
+    "language": "TypeScript",
+    "name": "agentmark-ai/agentmark",
+    "stars": 353,
+    "updated_at": "2026-06-11T16:42:30Z",
+    "url": "https://github.com/agentmark-ai/agentmark"
+  },
+  {
+    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 146,
+    "updated_at": "2026-06-11T16:43:18Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10099,
+    "updated_at": "2026-06-11T16:36:06Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 3867,
+    "updated_at": "2026-06-11T16:35:28Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -32,8 +50,62 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-11T16:22:13Z",
+    "updated_at": "2026-06-11T16:34:47Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A Rust-based prompt compiler for LLM workflows. Write structured .llm files, validate before you spend tokens, and trans",
+    "id": "boygotflames/promptus-dsl",
+    "language": "Rust",
+    "name": "boygotflames/promptus-dsl",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:34:07Z",
+    "url": "https://github.com/boygotflames/promptus-dsl"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:32:53Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:31:15Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Composable prompt engineering toolkit for ComfyUI using Espanso snippets, modular prompt components, and an automated Po",
+    "id": "Delcado19/comfyui-prompt-ops",
+    "language": "PowerShell",
+    "name": "Delcado19/comfyui-prompt-ops",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:30:56Z",
+    "url": "https://github.com/Delcado19/comfyui-prompt-ops"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-11T16:30:48Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Git-based Prompt Lifecycle Management",
+    "id": "promptLM/promptlm-app",
+    "language": "TypeScript",
+    "name": "promptLM/promptlm-app",
+    "stars": 2,
+    "updated_at": "2026-06-11T16:37:11Z",
+    "url": "https://github.com/promptLM/promptlm-app"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -45,22 +117,22 @@
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
+    "description": "Turn a recurring legal task into a numbered playbook, run documents through it item by item with citations, and have a s",
+    "id": "exl-lab/my-legal-playbook",
+    "language": "\u2014",
+    "name": "exl-lab/my-legal-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:25:40Z",
+    "url": "https://github.com/exl-lab/my-legal-playbook"
+  },
+  {
     "description": "Agent Package Manager",
     "id": "microsoft/apm",
     "language": "Python",
     "name": "microsoft/apm",
-    "stars": 2834,
+    "stars": 2835,
     "updated_at": "2026-06-11T16:21:21Z",
     "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "A Rust-based prompt compiler for LLM workflows. Write structured .llm files, validate before you spend tokens, and trans",
-    "id": "boygotflames/promptus-dsl",
-    "language": "Rust",
-    "name": "boygotflames/promptus-dsl",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:21:16Z",
-    "url": "https://github.com/boygotflames/promptus-dsl"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -81,12 +153,21 @@
     "url": "https://github.com/sauravbhattacharya001/agentlens"
   },
   {
+    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
+    "id": "FoxsterDev/ai-research-hub",
+    "language": "Python",
+    "name": "FoxsterDev/ai-research-hub",
+    "stars": 3,
+    "updated_at": "2026-06-11T16:20:36Z",
+    "url": "https://github.com/FoxsterDev/ai-research-hub"
+  },
+  {
     "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
     "id": "alirezarezvani/claude-skills",
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
-    "stars": 17817,
-    "updated_at": "2026-06-11T16:18:32Z",
+    "stars": 17818,
+    "updated_at": "2026-06-11T16:44:18Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
   {
@@ -94,12 +175,12 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22112,
+    "stars": 22114,
     "updated_at": "2026-06-11T16:18:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u591a\u8d26\u53f7\u8f6e\u8be2\u3002An AI im",
+    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI i",
     "id": "kadevin/ilab-gpt-conjure",
     "language": "Python",
     "name": "kadevin/ilab-gpt-conjure",
@@ -124,15 +205,6 @@
     "stars": 34,
     "updated_at": "2026-06-11T16:16:17Z",
     "url": "https://github.com/Mexregkan/claude-for-researchers"
-  },
-  {
-    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
-    "id": "FoxsterDev/ai-research-hub",
-    "language": "Python",
-    "name": "FoxsterDev/ai-research-hub",
-    "stars": 3,
-    "updated_at": "2026-06-11T16:20:36Z",
-    "url": "https://github.com/FoxsterDev/ai-research-hub"
   },
   {
     "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
@@ -162,15 +234,6 @@
     "url": "https://github.com/beardthelion/subprompt"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-11T16:15:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
     "id": "LiHongwei-cn/lihongwei-cn",
     "language": "Python",
@@ -189,15 +252,6 @@
     "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
   },
   {
-    "description": "Composable prompt engineering toolkit for ComfyUI using Espanso snippets, modular prompt components, and an automated Po",
-    "id": "Delcado19/comfyui-prompt-ops",
-    "language": "PowerShell",
-    "name": "Delcado19/comfyui-prompt-ops",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:12:42Z",
-    "url": "https://github.com/Delcado19/comfyui-prompt-ops"
-  },
-  {
     "description": "An experimental development kit for agent skills & prompts",
     "id": "Yeseh/skillet",
     "language": "Rust",
@@ -211,7 +265,7 @@
     "id": "ZeroLu/awesome-gpt-image",
     "language": "Python",
     "name": "ZeroLu/awesome-gpt-image",
-    "stars": 1679,
+    "stars": 1680,
     "updated_at": "2026-06-11T16:11:49Z",
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
   },
@@ -247,7 +301,7 @@
     "id": "Li-Bailiang/prompt-refine-skill",
     "language": "Python",
     "name": "Li-Bailiang/prompt-refine-skill",
-    "stars": 63,
+    "stars": 64,
     "updated_at": "2026-06-11T16:03:58Z",
     "url": "https://github.com/Li-Bailiang/prompt-refine-skill"
   },
@@ -302,7 +356,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28915,
-    "updated_at": "2026-06-11T16:30:35Z",
+    "updated_at": "2026-06-11T16:43:50Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -351,24 +405,6 @@
     "url": "https://github.com/yegor256/prompt"
   },
   {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 3867,
-    "updated_at": "2026-06-11T16:21:52Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "Markdown for the AI era",
-    "id": "agentmark-ai/agentmark",
-    "language": "TypeScript",
-    "name": "agentmark-ai/agentmark",
-    "stars": 353,
-    "updated_at": "2026-06-11T15:39:14Z",
-    "url": "https://github.com/agentmark-ai/agentmark"
-  },
-  {
     "description": "AI prompt engineering toolkit with testing and optimization workflows | \ud83e\udd1d Looking for contributors!",
     "id": "mulkymalikuldhrs/PromptForgeAI",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T15:29:03Z",
     "url": "https://github.com/evan966890/ai-coding-ironrules"
-  },
-  {
-    "description": "AI-powered signal intelligence architecture for narrative detection, sentiment analysis, executive briefings and authori",
-    "id": "BARNA-AI-Systems/caas-media-architect",
-    "language": "\u2014",
-    "name": "BARNA-AI-Systems/caas-media-architect",
-    "stars": 0,
-    "updated_at": "2026-06-11T15:28:57Z",
-    "url": "https://github.com/BARNA-AI-Systems/caas-media-architect"
-  },
-  {
-    "description": "Audit a GitHub README for AI-generated cliche patterns. Single HTML file, BYOK Claude API, MIT licensed. No build step, ",
-    "id": "0xelitesystem/readme-slop-checker",
-    "language": "HTML",
-    "name": "0xelitesystem/readme-slop-checker",
-    "stars": 0,
-    "updated_at": "2026-06-11T15:28:41Z",
-    "url": "https://github.com/0xelitesystem/readme-slop-checker"
-  },
-  {
-    "description": "Compare two versions of a prompt and see exactly what changed. Word, character, and line-level diffs. Single HTML file, ",
-    "id": "0xelitesystem/prompt-diff",
-    "language": "HTML",
-    "name": "0xelitesystem/prompt-diff",
-    "stars": 0,
-    "updated_at": "2026-06-11T15:28:37Z",
-    "url": "https://github.com/0xelitesystem/prompt-diff"
-  },
-  {
-    "description": "Estimate token count and API cost for a prompt across Anthropic, OpenAI, and Google models. Browser-only, no API calls, ",
-    "id": "0xelitesystem/prompt-cost-calculator",
-    "language": "HTML",
-    "name": "0xelitesystem/prompt-cost-calculator",
-    "stars": 0,
-    "updated_at": "2026-06-11T15:28:33Z",
-    "url": "https://github.com/0xelitesystem/prompt-cost-calculator"
   }
 ]
