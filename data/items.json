@@ -1,12 +1,138 @@
 [
   {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-11T04:29:17Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 45,
+    "updated_at": "2026-06-11T04:28:49Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "39 AI agent prompts for three pipelines: Snap Lens, Blender 3D, and AutoCAD - fronted by one orchestrator (orch_builder)",
+    "id": "FahadUs/agents-snap-blender-autocad",
+    "language": "PowerShell",
+    "name": "FahadUs/agents-snap-blender-autocad",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:28:48Z",
+    "url": "https://github.com/FahadUs/agents-snap-blender-autocad"
+  },
+  {
     "description": "AINL helps turn AI from \"a smart conversation\" into \"a structured worker.\"  It is designed for teams building AI workflo",
     "id": "sbhooley/ainativelang",
     "language": "Python",
     "name": "sbhooley/ainativelang",
     "stars": 847,
-    "updated_at": "2026-06-11T04:13:30Z",
+    "updated_at": "2026-06-11T04:28:29Z",
     "url": "https://github.com/sbhooley/ainativelang"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:28:02Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 5,
+    "updated_at": "2026-06-11T04:27:51Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "[harness engineering] Prompt-first starter kit for making repositories safer for AI coding agents.",
+    "id": "harnessworks/harness-starter-kit",
+    "language": "Python",
+    "name": "harnessworks/harness-starter-kit",
+    "stars": 71,
+    "updated_at": "2026-06-11T04:26:10Z",
+    "url": "https://github.com/harnessworks/harness-starter-kit"
+  },
+  {
+    "description": "An agent skill that finds what users need but nobody wrote down \u2014 first-person, intent-first UX gap discovery. Forcing g",
+    "id": "sergiobuilds/ux-workflow-check",
+    "language": "\u2014",
+    "name": "sergiobuilds/ux-workflow-check",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:25:52Z",
+    "url": "https://github.com/sergiobuilds/ux-workflow-check"
+  },
+  {
+    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
+    "id": "ZeroLu/awesome-gpt-image",
+    "language": "Python",
+    "name": "ZeroLu/awesome-gpt-image",
+    "stars": 1677,
+    "updated_at": "2026-06-11T04:25:50Z",
+    "url": "https://github.com/ZeroLu/awesome-gpt-image"
+  },
+  {
+    "description": "Structured refinement of any document between AI agents. Two agent roles bounce a file back and forth using disagreement",
+    "id": "alanshurafa/co-evolution",
+    "language": "Shell",
+    "name": "alanshurafa/co-evolution",
+    "stars": 2,
+    "updated_at": "2026-06-11T04:25:00Z",
+    "url": "https://github.com/alanshurafa/co-evolution"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 22013,
+    "updated_at": "2026-06-11T04:21:09Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Production ready. AI Agent Workflow System for Claude Code",
+    "id": "ngocsangyem/MeowKit",
+    "language": "TypeScript",
+    "name": "ngocsangyem/MeowKit",
+    "stars": 15,
+    "updated_at": "2026-06-11T04:21:25Z",
+    "url": "https://github.com/ngocsangyem/MeowKit"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation: tracing, version pinning, and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:19:43Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 232,
+    "updated_at": "2026-06-11T04:15:42Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-11T04:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -18,15 +144,6 @@
     "url": "https://github.com/hysohail/agentic-experiment-designer"
   },
   {
-    "description": "An agent skill that finds what users need but nobody wrote down \u2014 first-person, intent-first UX gap discovery. Forcing g",
-    "id": "myeolkoreaseoul/ux-workflow-check",
-    "language": "\u2014",
-    "name": "myeolkoreaseoul/ux-workflow-check",
-    "stars": 0,
-    "updated_at": "2026-06-11T04:11:49Z",
-    "url": "https://github.com/myeolkoreaseoul/ux-workflow-check"
-  },
-  {
     "description": "Production-ready AI Agent Team template for Claude Code \u2014 14 specialists, Agile+Scrum+TDD enforced via skill/hook/DoD 3-",
     "id": "pcliangx/AppGenesisForge",
     "language": "Python",
@@ -34,24 +151,6 @@
     "stars": 9,
     "updated_at": "2026-06-11T04:11:36Z",
     "url": "https://github.com/pcliangx/AppGenesisForge"
-  },
-  {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 45,
-    "updated_at": "2026-06-11T04:10:35Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
-    "description": "Structured refinement of any document between AI agents. Two agent roles bounce a file back and forth using disagreement",
-    "id": "alanshurafa/co-evolution",
-    "language": "Shell",
-    "name": "alanshurafa/co-evolution",
-    "stars": 2,
-    "updated_at": "2026-06-11T04:09:22Z",
-    "url": "https://github.com/alanshurafa/co-evolution"
   },
   {
     "description": "160,000 deductively-derived JSON constraints that eliminate LLM persona drift. Measured: 0 breaks in a 120-turn pressure",
@@ -104,7 +203,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26415,
-    "updated_at": "2026-06-11T04:06:06Z",
+    "updated_at": "2026-06-11T04:15:43Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -112,7 +211,7 @@
     "id": "alirezarezvani/claude-skills",
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
-    "stars": 17759,
+    "stars": 17760,
     "updated_at": "2026-06-11T04:05:18Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
@@ -124,33 +223,6 @@
     "stars": 2,
     "updated_at": "2026-06-11T04:04:38Z",
     "url": "https://github.com/gaofeng21cn/redcube-ai"
-  },
-  {
-    "description": "[harness engineering] Prompt-first starter kit for making repositories safer for AI coding agents.",
-    "id": "harnessworks/harness-starter-kit",
-    "language": "Python",
-    "name": "harnessworks/harness-starter-kit",
-    "stars": 71,
-    "updated_at": "2026-06-11T04:03:24Z",
-    "url": "https://github.com/harnessworks/harness-starter-kit"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 22002,
-    "updated_at": "2026-06-11T04:01:42Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-11T04:00:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Prompt linting, static risk scanning, testing, and CI tooling for AI-agent prompts \u2014 with SARIF output, schema validatio",
@@ -171,11 +243,20 @@
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22094,
+    "updated_at": "2026-06-11T03:55:44Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 29964,
+    "stars": 29966,
     "updated_at": "2026-06-11T03:55:24Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -184,7 +265,7 @@
     "id": "microsoft/generative-ai-for-beginners",
     "language": "Jupyter Notebook",
     "name": "microsoft/generative-ai-for-beginners",
-    "stars": 111844,
+    "stars": 111845,
     "updated_at": "2026-06-11T03:44:25Z",
     "url": "https://github.com/microsoft/generative-ai-for-beginners"
   },
@@ -248,7 +329,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10090,
-    "updated_at": "2026-06-11T03:28:40Z",
+    "updated_at": "2026-06-11T04:20:23Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -306,15 +387,6 @@
     "url": "https://github.com/Mr-Salticidae/knowledge-base"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22093,
-    "updated_at": "2026-06-11T03:55:44Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "This repository contains Software requirements to CAPL Generation complete project.",
     "id": "chankitmittal/AI-Agent-AutoTest_CaplStudio",
     "language": "\u2014",
@@ -331,15 +403,6 @@
     "stars": 3,
     "updated_at": "2026-06-11T03:18:52Z",
     "url": "https://github.com/ncmonx/icemage"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 231,
-    "updated_at": "2026-06-11T03:56:43Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
     "description": "Open-source personal finance command center: direct indexing, tax-loss harvesting, retirement planning, options research",
@@ -385,68 +448,5 @@
     "stars": 11,
     "updated_at": "2026-06-11T03:03:12Z",
     "url": "https://github.com/hungv47/meta-skills"
-  },
-  {
-    "description": "In modern international business, conversations often shift between languages. Transcript AI bridges this gap by utilizi",
-    "id": "aiKunalBisht/Transcript-ai",
-    "language": "Python",
-    "name": "aiKunalBisht/Transcript-ai",
-    "stars": 3,
-    "updated_at": "2026-06-11T03:02:09Z",
-    "url": "https://github.com/aiKunalBisht/Transcript-ai"
-  },
-  {
-    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 49,
-    "updated_at": "2026-06-11T02:59:29Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:59:28Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Portable, version-controlled Claude Code configuration \u2014 structured engineering workflows with problem definition, syste",
-    "id": "chriscantu/claude-config",
-    "language": "TypeScript",
-    "name": "chriscantu/claude-config",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:57:42Z",
-    "url": "https://github.com/chriscantu/claude-config"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:54:33Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Local-first AI video workflow workbench for planning, evaluating, iterating, and exporting generation-ready video produc",
-    "id": "whaidushu/ShotForge",
-    "language": "Python",
-    "name": "whaidushu/ShotForge",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:53:19Z",
-    "url": "https://github.com/whaidushu/ShotForge"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:46:43Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   }
 ]
