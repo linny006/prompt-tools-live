@@ -1,12 +1,120 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10100,
+    "updated_at": "2026-06-11T17:45:16Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "A plain-text prompt for LLMs that teaches the essence of elegant coding and testing\u2014save it to ~/.claude/CLAUDE.md.",
+    "id": "yegor256/prompt",
+    "language": "\u2014",
+    "name": "yegor256/prompt",
+    "stars": 149,
+    "updated_at": "2026-06-11T17:44:42Z",
+    "url": "https://github.com/yegor256/prompt"
+  },
+  {
+    "description": "Make everyone a prompt master \u2014 multi-mode AI prompt rewriter (browser extension + Windows app).",
+    "id": "rashedatieh/smallrock-v2",
+    "language": "JavaScript",
+    "name": "rashedatieh/smallrock-v2",
+    "stars": 0,
+    "updated_at": "2026-06-11T17:45:23Z",
+    "url": "https://github.com/rashedatieh/smallrock-v2"
+  },
+  {
+    "description": "Typed building blocks for everything around your LLM call.",
+    "id": "use-crux/crux",
+    "language": "TypeScript",
+    "name": "use-crux/crux",
+    "stars": 0,
+    "updated_at": "2026-06-11T17:43:31Z",
+    "url": "https://github.com/use-crux/crux"
+  },
+  {
+    "description": "LLM-based privacy risk classifier achieving 97% recall and 84% precision on a 10-service benchmark \u2014 ensemble design, it",
+    "id": "Jatin23K/TLDR-Shield",
+    "language": "JavaScript",
+    "name": "Jatin23K/TLDR-Shield",
+    "stars": 1,
+    "updated_at": "2026-06-11T17:42:03Z",
+    "url": "https://github.com/Jatin23K/TLDR-Shield"
+  },
+  {
+    "description": "Gstack for PMs -> PM Toolkit for AI Era. ",
+    "id": "RyanAlberts/pmstack",
+    "language": "Python",
+    "name": "RyanAlberts/pmstack",
+    "stars": 2,
+    "updated_at": "2026-06-11T17:39:40Z",
+    "url": "https://github.com/RyanAlberts/pmstack"
+  },
+  {
+    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 146,
+    "updated_at": "2026-06-11T17:38:42Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 4877,
+    "updated_at": "2026-06-11T17:38:01Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
+  },
+  {
+    "description": "Detects and rewrites AI writing patterns in Korean, English, Chinese, and Japanese. Runs as a skill for Claude Code, Cod",
+    "id": "devswha/patina",
+    "language": "JavaScript",
+    "name": "devswha/patina",
+    "stars": 161,
+    "updated_at": "2026-06-11T17:37:22Z",
+    "url": "https://github.com/devswha/patina"
+  },
+  {
     "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
     "id": "LiHongwei-cn/lihongwei-cn",
     "language": "Python",
     "name": "LiHongwei-cn/lihongwei-cn",
     "stars": 9,
-    "updated_at": "2026-06-11T17:29:43Z",
+    "updated_at": "2026-06-11T17:36:30Z",
     "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Practical reference and patterns for loop engineering,  designing systems that prompt and orchestrate AI coding agents (",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "JavaScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 88,
+    "updated_at": "2026-06-11T17:33:32Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19577,
+    "updated_at": "2026-06-11T17:32:32Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-11T17:30:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
@@ -45,13 +153,13 @@
     "url": "https://github.com/coinluu/resume-jd-optimizer-cn"
   },
   {
-    "description": "Gstack for PMs -> PM Toolkit for AI Era. ",
-    "id": "RyanAlberts/pmstack",
+    "description": "Self-refining diffusion image generation studio with prompt mutation, reference matching, portrait evaluation, benchmark",
+    "id": "mohammad-azimi/VisionForge-AI",
     "language": "Python",
-    "name": "RyanAlberts/pmstack",
-    "stars": 2,
-    "updated_at": "2026-06-11T17:24:42Z",
-    "url": "https://github.com/RyanAlberts/pmstack"
+    "name": "mohammad-azimi/VisionForge-AI",
+    "stars": 0,
+    "updated_at": "2026-06-11T17:24:19Z",
+    "url": "https://github.com/mohammad-azimi/VisionForge-AI"
   },
   {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
@@ -63,15 +171,6 @@
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10100,
-    "updated_at": "2026-06-11T17:18:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
     "id": "vllm-project/semantic-router",
     "language": "Go",
@@ -81,15 +180,6 @@
     "url": "https://github.com/vllm-project/semantic-router"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-11T17:15:41Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
     "id": "dgenio/contextweaver",
     "language": "Python",
@@ -97,15 +187,6 @@
     "stars": 7,
     "updated_at": "2026-06-11T17:15:16Z",
     "url": "https://github.com/dgenio/contextweaver"
-  },
-  {
-    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
-    "id": "Kiln-AI/Kiln",
-    "language": "Python",
-    "name": "Kiln-AI/Kiln",
-    "stars": 4877,
-    "updated_at": "2026-06-11T17:29:30Z",
-    "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
     "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
@@ -126,24 +207,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "LLM-based privacy risk classifier achieving 97% recall and 84% precision on a 10-service benchmark \u2014 ensemble design, it",
-    "id": "Jatin23K/TLDR-Shield",
-    "language": "JavaScript",
-    "name": "Jatin23K/TLDR-Shield",
-    "stars": 1,
-    "updated_at": "2026-06-11T17:09:21Z",
-    "url": "https://github.com/Jatin23K/TLDR-Shield"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19577,
-    "updated_at": "2026-06-11T17:28:58Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "160,000 deductively-derived JSON constraints that eliminate LLM persona drift. Measured: 0 breaks in a 120-turn pressure",
     "id": "kiro0x/five-character-engine",
     "language": "Python",
@@ -157,7 +220,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28918,
+    "stars": 28920,
     "updated_at": "2026-06-11T17:08:03Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -225,6 +288,15 @@
     "url": "https://github.com/justi/ruby_llm-contract"
   },
   {
+    "description": "Stream-first, token-efficient data format for AI agent workflows \u2014 data, intent, and instructions in a single stream. Th",
+    "id": "YounndAI/yon-spec",
+    "language": "TypeScript",
+    "name": "YounndAI/yon-spec",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:56:42Z",
+    "url": "https://github.com/YounndAI/yon-spec"
+  },
+  {
     "description": "Markdown for the AI era",
     "id": "agentmark-ai/agentmark",
     "language": "TypeScript",
@@ -247,7 +319,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 22890,
+    "stars": 22901,
     "updated_at": "2026-06-11T16:55:19Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -333,20 +405,11 @@
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
   {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 146,
-    "updated_at": "2026-06-11T16:43:18Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
     "description": "\ud83e\uddd9 Democratizing best practices across 27 domains. Your AI knows everything \u2014 Grimoire makes it practice it.",
     "id": "jeffreytse/grimoire",
     "language": "Shell",
     "name": "jeffreytse/grimoire",
-    "stars": 11,
+    "stars": 12,
     "updated_at": "2026-06-11T16:43:14Z",
     "url": "https://github.com/jeffreytse/grimoire"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T16:34:07Z",
     "url": "https://github.com/boygotflames/promptus-dsl"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:32:53Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:31:15Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Composable prompt engineering toolkit for ComfyUI using Espanso snippets, modular prompt components, and an automated Po",
-    "id": "Delcado19/comfyui-prompt-ops",
-    "language": "PowerShell",
-    "name": "Delcado19/comfyui-prompt-ops",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:30:56Z",
-    "url": "https://github.com/Delcado19/comfyui-prompt-ops"
-  },
-  {
-    "description": "Git-based Prompt Lifecycle Management",
-    "id": "promptLM/promptlm-app",
-    "language": "TypeScript",
-    "name": "promptLM/promptlm-app",
-    "stars": 2,
-    "updated_at": "2026-06-11T16:37:11Z",
-    "url": "https://github.com/promptLM/promptlm-app"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 18,
-    "updated_at": "2026-06-11T16:27:15Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Turn a recurring legal task into a numbered playbook, run documents through it item by item with citations, and have a s",
-    "id": "exl-lab/my-legal-playbook",
-    "language": "\u2014",
-    "name": "exl-lab/my-legal-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:25:40Z",
-    "url": "https://github.com/exl-lab/my-legal-playbook"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 2836,
-    "updated_at": "2026-06-11T17:16:24Z",
-    "url": "https://github.com/microsoft/apm"
   }
 ]
