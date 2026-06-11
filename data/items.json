@@ -1,39 +1,12 @@
 [
   {
-    "description": "ShadowQuill is a privacy\u2011first, offline and free prompt engineering/generation app powered by self-hosted local LLMs",
-    "id": "shadowquillapp/shadowquillapp",
-    "language": "TypeScript",
-    "name": "shadowquillapp/shadowquillapp",
-    "stars": 27,
-    "updated_at": "2026-06-11T15:45:23Z",
-    "url": "https://github.com/shadowquillapp/shadowquillapp"
-  },
-  {
-    "description": "Claude Code slash commands with built-in self-correction loops: environment feedback, bounded retries, and fresh-context",
-    "id": "bensafai/claude-loop-commands-prompt",
-    "language": "\u2014",
-    "name": "bensafai/claude-loop-commands-prompt",
-    "stars": 0,
-    "updated_at": "2026-06-11T15:45:08Z",
-    "url": "https://github.com/bensafai/claude-loop-commands-prompt"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28913,
-    "updated_at": "2026-06-11T15:44:21Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
+    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
+    "id": "lulin70/carrymem",
     "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 3867,
-    "updated_at": "2026-06-11T15:40:45Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
+    "name": "lulin70/carrymem",
+    "stars": 3,
+    "updated_at": "2026-06-11T15:58:48Z",
+    "url": "https://github.com/lulin70/carrymem"
   },
   {
     "description": "Make GitHub Copilot work like Claude AI + Claude Code \u2014 auto-loaded instructions + a real-time web search skill, for VS ",
@@ -41,8 +14,116 @@
     "language": "\u2014",
     "name": "junwoojeong100/copilot-claude-kit",
     "stars": 0,
-    "updated_at": "2026-06-11T15:39:53Z",
+    "updated_at": "2026-06-11T15:57:52Z",
     "url": "https://github.com/junwoojeong100/copilot-claude-kit"
+  },
+  {
+    "description": "The Developer\u2019s Guide to AI Systems, Prompt Engineering, and Context Engineering.",
+    "id": "CodeByKhaleel/ContextCraft",
+    "language": "TypeScript",
+    "name": "CodeByKhaleel/ContextCraft",
+    "stars": 2,
+    "updated_at": "2026-06-11T15:57:27Z",
+    "url": "https://github.com/CodeByKhaleel/ContextCraft"
+  },
+  {
+    "description": "A Rust-based prompt compiler for LLM workflows. Write structured .llm files, validate before you spend tokens, and trans",
+    "id": "boygotflames/promptus-dsl",
+    "language": "Rust",
+    "name": "boygotflames/promptus-dsl",
+    "stars": 0,
+    "updated_at": "2026-06-11T15:54:32Z",
+    "url": "https://github.com/boygotflames/promptus-dsl"
+  },
+  {
+    "description": "Truth-grounded execution protocol for AI agents",
+    "id": "lubenwei-lian/really",
+    "language": "\u2014",
+    "name": "lubenwei-lian/really",
+    "stars": 2,
+    "updated_at": "2026-06-11T15:53:52Z",
+    "url": "https://github.com/lubenwei-lian/really"
+  },
+  {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 5,
+    "updated_at": "2026-06-11T15:53:36Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 17813,
+    "updated_at": "2026-06-11T15:59:29Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 18,
+    "updated_at": "2026-06-11T16:00:27Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Claude Code slash commands with built-in self-correction loops: environment feedback, bounded retries, and fresh-context",
+    "id": "bensafai/claude-loop-commands-prompt",
+    "language": "\u2014",
+    "name": "bensafai/claude-loop-commands-prompt",
+    "stars": 0,
+    "updated_at": "2026-06-11T15:48:25Z",
+    "url": "https://github.com/bensafai/claude-loop-commands-prompt"
+  },
+  {
+    "description": "ShadowQuill is a privacy\u2011first, offline and free prompt engineering/generation app powered by self-hosted local LLMs",
+    "id": "shadowquillapp/shadowquillapp",
+    "language": "TypeScript",
+    "name": "shadowquillapp/shadowquillapp",
+    "stars": 27,
+    "updated_at": "2026-06-11T15:47:06Z",
+    "url": "https://github.com/shadowquillapp/shadowquillapp"
+  },
+  {
+    "description": "A plain-text prompt for LLMs that teaches the essence of elegant coding and testing\u2014save it to ~/.claude/CLAUDE.md.",
+    "id": "yegor256/prompt",
+    "language": "\u2014",
+    "name": "yegor256/prompt",
+    "stars": 149,
+    "updated_at": "2026-06-11T15:55:50Z",
+    "url": "https://github.com/yegor256/prompt"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28914,
+    "updated_at": "2026-06-11T15:57:02Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-11T15:45:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 3867,
+    "updated_at": "2026-06-11T15:59:21Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "Composable prompt engineering toolkit for ComfyUI using Espanso snippets, modular prompt components, and an automated Po",
@@ -81,15 +162,6 @@
     "url": "https://github.com/mulkymalikuldhrs/PromptForgeAI"
   },
   {
-    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 17813,
-    "updated_at": "2026-06-11T15:45:01Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
-  },
-  {
     "description": "Practical guide and toolkit for physicists and mathematicians using Claude Code \u2014 built from months on a real research p",
     "id": "Mexregkan/claude-for-researchers",
     "language": "Shell",
@@ -115,15 +187,6 @@
     "stars": 7341,
     "updated_at": "2026-06-11T15:33:22Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-11T15:30:43Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "zhangzeyu99-web/ariadne-loop",
     "stars": 0,
-    "updated_at": "2026-06-11T15:22:54Z",
+    "updated_at": "2026-06-11T15:53:16Z",
     "url": "https://github.com/zhangzeyu99-web/ariadne-loop"
   },
   {
@@ -250,15 +313,6 @@
     "stars": 146,
     "updated_at": "2026-06-11T15:22:38Z",
     "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
-    "id": "zigrivers/scaffold",
-    "language": "TypeScript",
-    "name": "zigrivers/scaffold",
-    "stars": 5,
-    "updated_at": "2026-06-11T15:43:14Z",
-    "url": "https://github.com/zigrivers/scaffold"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "dgenio/contextweaver",
     "stars": 7,
-    "updated_at": "2026-06-11T15:20:44Z",
+    "updated_at": "2026-06-11T15:58:06Z",
     "url": "https://github.com/dgenio/contextweaver"
   },
   {
@@ -315,15 +369,6 @@
     "url": "https://github.com/spec2ship/spec2ship"
   },
   {
-    "description": "A Rust-based prompt compiler for LLM workflows. Write structured .llm files, validate before you spend tokens, and trans",
-    "id": "boygotflames/promptus-dsl",
-    "language": "Rust",
-    "name": "boygotflames/promptus-dsl",
-    "stars": 0,
-    "updated_at": "2026-06-11T15:17:15Z",
-    "url": "https://github.com/boygotflames/promptus-dsl"
-  },
-  {
     "description": "claude-code-assistant-document",
     "id": "maysunAI/T00",
     "language": "HTML",
@@ -360,6 +405,15 @@
     "url": "https://github.com/terrylica/cc-skills"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10098,
+    "updated_at": "2026-06-11T15:08:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
     "id": "Elevated-homer201/prompt-gate",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T15:07:03Z",
     "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-06-11T15:06:52Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 0,
-    "updated_at": "2026-06-11T15:06:50Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-11T15:04:47Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Zero-skill cinema. Senior-director prompts on autopilot. A Claude Code Skill for high-quality AI image / video / music p",
-    "id": "Hao0321/ai-media-generator",
-    "language": "\u2014",
-    "name": "Hao0321/ai-media-generator",
-    "stars": 102,
-    "updated_at": "2026-06-11T15:04:19Z",
-    "url": "https://github.com/Hao0321/ai-media-generator"
-  },
-  {
-    "description": "Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser.",
-    "id": "Opsn5528/vibe-coding-claude-md",
-    "language": "HTML",
-    "name": "Opsn5528/vibe-coding-claude-md",
-    "stars": 1,
-    "updated_at": "2026-06-11T15:04:18Z",
-    "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
-  },
-  {
-    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
-    "id": "Rickardserrulate236/portfolio-dumper",
-    "language": "HTML",
-    "name": "Rickardserrulate236/portfolio-dumper",
-    "stars": 1,
-    "updated_at": "2026-06-11T15:04:15Z",
-    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
   }
 ]
