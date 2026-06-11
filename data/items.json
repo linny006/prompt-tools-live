@@ -1,5 +1,86 @@
 [
   {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 18,
+    "updated_at": "2026-06-11T22:43:54Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Break complex tasks into self-propagating prompt chains across Claude sessions.",
+    "id": "1marcelserrano/prompt-chain",
+    "language": "HTML",
+    "name": "1marcelserrano/prompt-chain",
+    "stars": 1,
+    "updated_at": "2026-06-11T22:42:57Z",
+    "url": "https://github.com/1marcelserrano/prompt-chain"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10102,
+    "updated_at": "2026-06-11T22:44:02Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Terminal workflows for rapid AI-powered debugging and repository analysis",
+    "id": "johnsellin93/grab",
+    "language": "Shell",
+    "name": "johnsellin93/grab",
+    "stars": 9,
+    "updated_at": "2026-06-11T22:40:57Z",
+    "url": "https://github.com/johnsellin93/grab"
+  },
+  {
+    "description": "Token-efficient tabular encoding for JSON and LLM prompt payloads.",
+    "id": "SoftwareDLC/tile",
+    "language": "TypeScript",
+    "name": "SoftwareDLC/tile",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:40:49Z",
+    "url": "https://github.com/SoftwareDLC/tile"
+  },
+  {
+    "description": "Operiq AI >> AI-powered workplace productivity assistant. Smart email generator, meeting summarizer, task planner, resea",
+    "id": "Lintshiwe/Operiq_AI",
+    "language": "TypeScript",
+    "name": "Lintshiwe/Operiq_AI",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:40:06Z",
+    "url": "https://github.com/Lintshiwe/Operiq_AI"
+  },
+  {
+    "description": "Claude Code plugin: runtime invariants + hooks (cycle-detector, approval gate, verification gate), four co-system agents",
+    "id": "AlexShchuka/neuro-matrix",
+    "language": "Python",
+    "name": "AlexShchuka/neuro-matrix",
+    "stars": 3,
+    "updated_at": "2026-06-11T22:39:41Z",
+    "url": "https://github.com/AlexShchuka/neuro-matrix"
+  },
+  {
+    "description": "Context Cart \u2014 local-first browser extension: collect web snippets into carts and send them to ChatGPT or Claude. Site +",
+    "id": "JeffreyLynch/context-cart",
+    "language": "HTML",
+    "name": "JeffreyLynch/context-cart",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:31:22Z",
+    "url": "https://github.com/JeffreyLynch/context-cart"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-11T22:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
     "id": "Paulessus/odin-gemini-mcp-bridge",
     "language": "HTML",
@@ -9,24 +90,6 @@
     "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
   },
   {
-    "description": "Claude Code plugin: runtime invariants + hooks (cycle-detector, approval gate, verification gate), four co-system agents",
-    "id": "AlexShchuka/neuro-matrix",
-    "language": "Python",
-    "name": "AlexShchuka/neuro-matrix",
-    "stars": 3,
-    "updated_at": "2026-06-11T22:28:16Z",
-    "url": "https://github.com/AlexShchuka/neuro-matrix"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-11T22:26:50Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A complete collection of RAG interview questions, answers (200 questions & 12 RAG types), system design scenarios, archi",
     "id": "ather-techie/rag-interview-system",
     "language": "\u2014",
@@ -34,24 +97,6 @@
     "stars": 53,
     "updated_at": "2026-06-11T22:26:00Z",
     "url": "https://github.com/ather-techie/rag-interview-system"
-  },
-  {
-    "description": "Terminal workflows for rapid AI-powered debugging and repository analysis",
-    "id": "johnsellin93/grab",
-    "language": "Shell",
-    "name": "johnsellin93/grab",
-    "stars": 9,
-    "updated_at": "2026-06-11T22:25:59Z",
-    "url": "https://github.com/johnsellin93/grab"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10102,
-    "updated_at": "2026-06-11T22:28:16Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -79,15 +124,6 @@
     "stars": 196,
     "updated_at": "2026-06-11T22:23:54Z",
     "url": "https://github.com/LerianStudio/ring"
-  },
-  {
-    "description": "Operiq AI >> AI-powered workplace productivity assistant. Smart email generator, meeting summarizer, task planner, resea",
-    "id": "Lintshiwe/Operiq_AI",
-    "language": "TypeScript",
-    "name": "Lintshiwe/Operiq_AI",
-    "stars": 0,
-    "updated_at": "2026-06-11T22:21:38Z",
-    "url": "https://github.com/Lintshiwe/Operiq_AI"
   },
   {
     "description": "Local-first AI agent memory and coordination framework for Cursor, Claude, Codex, Copilot, and ChatGPT.",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "dgenio/contextweaver",
     "stars": 7,
-    "updated_at": "2026-06-11T22:02:10Z",
+    "updated_at": "2026-06-11T22:37:03Z",
     "url": "https://github.com/dgenio/contextweaver"
   },
   {
@@ -247,7 +283,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 23104,
+    "stars": 23108,
     "updated_at": "2026-06-11T21:58:35Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -338,7 +374,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22123,
-    "updated_at": "2026-06-11T21:46:59Z",
+    "updated_at": "2026-06-11T22:34:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 18,
     "updated_at": "2026-06-11T21:28:59Z",
     "url": "https://github.com/FlyFission/nuclear-grade-context-engineering"
-  },
-  {
-    "description": "Deploy the full ChatGPT desktop build for Windows with GPT-5 integration, DALL-E 4, and code interpreter tools.",
-    "id": "vanth7067/chatgpt-gpt-5",
-    "language": "\u2014",
-    "name": "vanth7067/chatgpt-gpt-5",
-    "stars": 1,
-    "updated_at": "2026-06-11T21:28:56Z",
-    "url": "https://github.com/vanth7067/chatgpt-gpt-5"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:28:47Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:28:43Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-06-11T21:28:40Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
   }
 ]
