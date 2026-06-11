@@ -1,5 +1,68 @@
 [
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 21840,
+    "updated_at": "2026-06-11T02:06:29Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Multi-agent CLI for AI-assisted dev workflows. A crew of pastry-themed agents (Cookie reviews, Eclair writes, Croissant ",
+    "id": "TcgVanguardTroll/Tiramisu",
+    "language": "Python",
+    "name": "TcgVanguardTroll/Tiramisu",
+    "stars": 1,
+    "updated_at": "2026-06-11T02:06:12Z",
+    "url": "https://github.com/TcgVanguardTroll/Tiramisu"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:06:03Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "\ud83e\udde0 Orquestador de superpoderes para agentes de IA. Activa skills, ajusta par\u00e1metros, genera JSON para OpenAI/Claude. 15 s",
+    "id": "axiom-systemstech/axiomagentskillsregistry",
+    "language": "CSS",
+    "name": "axiom-systemstech/axiomagentskillsregistry",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:05:29Z",
+    "url": "https://github.com/axiom-systemstech/axiomagentskillsregistry"
+  },
+  {
+    "description": "[harness engineering] Prompt-first starter kit for making repositories safer for AI coding agents.",
+    "id": "harnessworks/harness-starter-kit",
+    "language": "Python",
+    "name": "harnessworks/harness-starter-kit",
+    "stars": 71,
+    "updated_at": "2026-06-11T02:05:25Z",
+    "url": "https://github.com/harnessworks/harness-starter-kit"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:01:08Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-11T02:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Production-ready AI Agent Team template for Claude Code \u2014 14 specialists, Agile+Scrum+TDD enforced via skill/hook/DoD 3-",
     "id": "pcliangx/AppGenesisForge",
     "language": "Python",
@@ -18,15 +81,6 @@
     "url": "https://github.com/ojaneri/pfuzz"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 21832,
-    "updated_at": "2026-06-11T01:55:43Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
     "id": "ekayaprod/jules-agent-roster",
     "language": "JavaScript",
@@ -34,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-06-11T01:55:05Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "29 controlled experiments on Nemotron 3 Ultra: what prompting can and cannot do to a frontier model. Voice 4/8 to 7/8, h",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T01:33:16Z",
     "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:33:11Z",
-    "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:32:56Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Engineering scaffold for Agent Skills \u2014 iOS/Swift skill with governance, evolution ledger, and one-way sync to Claude Co",
-    "id": "i-stack/ai-coding-kit",
-    "language": "Shell",
-    "name": "i-stack/ai-coding-kit",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:44:08Z",
-    "url": "https://github.com/i-stack/ai-coding-kit"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:32:02Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:31:56Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
   }
 ]
