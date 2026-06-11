@@ -1,30 +1,93 @@
 [
   {
-    "description": "[harness engineering] Prompt-first starter kit for making repositories safer for AI coding agents.",
-    "id": "harnessworks/harness-starter-kit",
+    "description": "AINL helps turn AI from \"a smart conversation\" into \"a structured worker.\"  It is designed for teams building AI workflo",
+    "id": "sbhooley/ainativelang",
     "language": "Python",
-    "name": "harnessworks/harness-starter-kit",
-    "stars": 71,
-    "updated_at": "2026-06-11T03:59:03Z",
-    "url": "https://github.com/harnessworks/harness-starter-kit"
+    "name": "sbhooley/ainativelang",
+    "stars": 847,
+    "updated_at": "2026-06-11T04:13:30Z",
+    "url": "https://github.com/sbhooley/ainativelang"
   },
   {
-    "description": "Prompt linting, static risk scanning, testing, and CI tooling for AI-agent prompts \u2014 with SARIF output, schema validatio",
-    "id": "mylesagnew/promptgenie",
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:12:20Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "An agent skill that finds what users need but nobody wrote down \u2014 first-person, intent-first UX gap discovery. Forcing g",
+    "id": "myeolkoreaseoul/ux-workflow-check",
+    "language": "\u2014",
+    "name": "myeolkoreaseoul/ux-workflow-check",
+    "stars": 0,
+    "updated_at": "2026-06-11T04:11:49Z",
+    "url": "https://github.com/myeolkoreaseoul/ux-workflow-check"
+  },
+  {
+    "description": "Production-ready AI Agent Team template for Claude Code \u2014 14 specialists, Agile+Scrum+TDD enforced via skill/hook/DoD 3-",
+    "id": "pcliangx/AppGenesisForge",
     "language": "Python",
-    "name": "mylesagnew/promptgenie",
+    "name": "pcliangx/AppGenesisForge",
+    "stars": 9,
+    "updated_at": "2026-06-11T04:11:36Z",
+    "url": "https://github.com/pcliangx/AppGenesisForge"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 45,
+    "updated_at": "2026-06-11T04:10:35Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "Structured refinement of any document between AI agents. Two agent roles bounce a file back and forth using disagreement",
+    "id": "alanshurafa/co-evolution",
+    "language": "Shell",
+    "name": "alanshurafa/co-evolution",
+    "stars": 2,
+    "updated_at": "2026-06-11T04:09:22Z",
+    "url": "https://github.com/alanshurafa/co-evolution"
+  },
+  {
+    "description": "160,000 deductively-derived JSON constraints that eliminate LLM persona drift. Measured: 0 breaks in a 120-turn pressure",
+    "id": "kiro0x/five-character-engine",
+    "language": "Python",
+    "name": "kiro0x/five-character-engine",
     "stars": 1,
-    "updated_at": "2026-06-11T03:59:03Z",
-    "url": "https://github.com/mylesagnew/promptgenie"
+    "updated_at": "2026-06-11T04:09:12Z",
+    "url": "https://github.com/kiro0x/five-character-engine"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26414,
-    "updated_at": "2026-06-11T03:58:19Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-11T04:07:49Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-06-11T04:07:47Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
+    "id": "ZeroLu/awesome-seedance",
+    "language": "Shell",
+    "name": "ZeroLu/awesome-seedance",
+    "stars": 1910,
+    "updated_at": "2026-06-11T04:06:27Z",
+    "url": "https://github.com/ZeroLu/awesome-seedance"
   },
   {
     "description": "Write verifiable Loop Engineering specs and AI-ready execution packets.",
@@ -32,8 +95,71 @@
     "language": "Python",
     "name": "zhangzeyu99-web/ariadne-loop",
     "stars": 0,
-    "updated_at": "2026-06-11T03:57:58Z",
+    "updated_at": "2026-06-11T04:06:24Z",
     "url": "https://github.com/zhangzeyu99-web/ariadne-loop"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26415,
+    "updated_at": "2026-06-11T04:06:06Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 17759,
+    "updated_at": "2026-06-11T04:05:18Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "TypeScript",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 2,
+    "updated_at": "2026-06-11T04:04:38Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "[harness engineering] Prompt-first starter kit for making repositories safer for AI coding agents.",
+    "id": "harnessworks/harness-starter-kit",
+    "language": "Python",
+    "name": "harnessworks/harness-starter-kit",
+    "stars": 71,
+    "updated_at": "2026-06-11T04:03:24Z",
+    "url": "https://github.com/harnessworks/harness-starter-kit"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 22002,
+    "updated_at": "2026-06-11T04:01:42Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-11T04:00:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Prompt linting, static risk scanning, testing, and CI tooling for AI-agent prompts \u2014 with SARIF output, schema validatio",
+    "id": "mylesagnew/promptgenie",
+    "language": "Python",
+    "name": "mylesagnew/promptgenie",
+    "stars": 1,
+    "updated_at": "2026-06-11T04:01:29Z",
+    "url": "https://github.com/mylesagnew/promptgenie"
   },
   {
     "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
@@ -45,58 +171,22 @@
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
-    "description": "Structured refinement of any document between AI agents. Two agent roles bounce a file back and forth using disagreement",
-    "id": "alanshurafa/co-evolution",
-    "language": "Shell",
-    "name": "alanshurafa/co-evolution",
-    "stars": 2,
-    "updated_at": "2026-06-11T03:57:32Z",
-    "url": "https://github.com/alanshurafa/co-evolution"
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 29964,
+    "updated_at": "2026-06-11T03:55:24Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 45,
-    "updated_at": "2026-06-11T03:56:16Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
-    "description": "Production-ready AI Agent Team template for Claude Code \u2014 14 specialists, Agile+Scrum+TDD enforced via skill/hook/DoD 3-",
-    "id": "pcliangx/AppGenesisForge",
-    "language": "Python",
-    "name": "pcliangx/AppGenesisForge",
-    "stars": 9,
-    "updated_at": "2026-06-11T03:54:37Z",
-    "url": "https://github.com/pcliangx/AppGenesisForge"
-  },
-  {
-    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 17758,
-    "updated_at": "2026-06-11T04:00:21Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 21977,
-    "updated_at": "2026-06-11T03:47:21Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-11T03:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "description": "21 Lessons, Get Started Building with Generative AI ",
+    "id": "microsoft/generative-ai-for-beginners",
+    "language": "Jupyter Notebook",
+    "name": "microsoft/generative-ai-for-beginners",
+    "stars": 111844,
+    "updated_at": "2026-06-11T03:44:25Z",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners"
   },
   {
     "description": "Meta \u5ee3\u544a\u9810\u7b97\u512a\u5316\u5e2b AI \u5efa\u8b70\u5668 \u2014 \u56db\u5c64\u5224\u65b7\u6cd5\u63d0\u793a\u8a5e\u5305\uff0c\u8cbc\u4e0a 7 \u5929\u5ee3\u544a CSV\uff0c5 \u5206\u9418\u7d66\u4f60\u52a0\u78bc/\u6e1b\u78bc/\u95dc\u9589\u6e05\u55ae\u3002\u53ef\u7528\u65bc ChatGPT/Claude/Gemini/GPTs\u3002",
@@ -243,15 +333,6 @@
     "url": "https://github.com/ncmonx/icemage"
   },
   {
-    "description": "160,000 deductively-derived JSON constraints that eliminate LLM persona drift. Measured: 0 breaks in a 120-turn pressure",
-    "id": "kiro0x/five-character-engine",
-    "language": "Python",
-    "name": "kiro0x/five-character-engine",
-    "stars": 1,
-    "updated_at": "2026-06-11T03:17:04Z",
-    "url": "https://github.com/kiro0x/five-character-engine"
-  },
-  {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T02:46:43Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Enterprise Intelligence \u2022 NIST \u2022 RoboVet\u2122 \u2022 Prompt Atlas \u2022 DaScient \u2022 Quantum \u2022 AI | ML \u2022 Organoid Intelligence \u2022 PlanEx",
-    "id": "DaScient/DaScient",
-    "language": "HTML",
-    "name": "DaScient/DaScient",
-    "stars": 1,
-    "updated_at": "2026-06-11T02:46:01Z",
-    "url": "https://github.com/DaScient/DaScient"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 745,
-    "updated_at": "2026-06-11T02:45:24Z",
-    "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 29960,
-    "updated_at": "2026-06-11T03:55:24Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 146,
-    "updated_at": "2026-06-11T02:42:15Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
-    "id": "YouMind-OpenLab/awesome-gpt-image-2",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 7324,
-    "updated_at": "2026-06-11T02:35:48Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
-  },
-  {
-    "description": "Evolve AI agent skills through iterative meta-skill-driven optimization. Inspired by SkillEvolver and EmbodiSkill.",
-    "id": "victorzhong0110/skill-evolution",
-    "language": "Python",
-    "name": "victorzhong0110/skill-evolution",
-    "stars": 7,
-    "updated_at": "2026-06-11T02:34:45Z",
-    "url": "https://github.com/victorzhong0110/skill-evolution"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1349,
-    "updated_at": "2026-06-11T02:31:09Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 49,
-    "updated_at": "2026-06-11T02:30:06Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "HiAPI Video Prompt Generator skill \u2014 turn briefs, links, and research topics into directed video prompts for Seedance 2.",
-    "id": "HiAPIAI/hiapi-video-prompt-generator-skill",
-    "language": "JavaScript",
-    "name": "HiAPIAI/hiapi-video-prompt-generator-skill",
-    "stars": 0,
-    "updated_at": "2026-06-11T02:27:07Z",
-    "url": "https://github.com/HiAPIAI/hiapi-video-prompt-generator-skill"
   }
 ]
