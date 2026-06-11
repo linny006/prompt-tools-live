@@ -1,12 +1,93 @@
 [
   {
+    "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
+    "id": "fumimaruwork/veil",
+    "language": "Python",
+    "name": "fumimaruwork/veil",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:29:53Z",
+    "url": "https://github.com/fumimaruwork/veil"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
     "name": "HIDORAKAI002/ai-workspace-archive",
     "stars": 18,
-    "updated_at": "2026-06-11T09:15:16Z",
+    "updated_at": "2026-06-11T09:30:30Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "A lightweight anti-hallucination wrapper for LLMs using Chain-of-Verification.",
+    "id": "Muhtasim-Munif-Fahim/self-correct-agent",
+    "language": "Python",
+    "name": "Muhtasim-Munif-Fahim/self-correct-agent",
+    "stars": 4,
+    "updated_at": "2026-06-11T09:29:02Z",
+    "url": "https://github.com/Muhtasim-Munif-Fahim/self-correct-agent"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-11T09:26:48Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 5,
+    "updated_at": "2026-06-11T09:26:17Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12466,
+    "updated_at": "2026-06-11T09:24:20Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "A small, file-first verification harness that turns an AI agent's \"I'm done\" claim into an auditable admission decision.",
+    "id": "BrianNguyen29/x-harness",
+    "language": "Go",
+    "name": "BrianNguyen29/x-harness",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:24:14Z",
+    "url": "https://github.com/BrianNguyen29/x-harness"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3299,
+    "updated_at": "2026-06-11T09:30:05Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 15,
+    "updated_at": "2026-06-11T09:20:16Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:15:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -22,7 +103,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 28901,
+    "stars": 28903,
     "updated_at": "2026-06-11T09:11:05Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -40,7 +121,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26419,
+    "stars": 26420,
     "updated_at": "2026-06-11T09:10:06Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -63,15 +144,6 @@
     "url": "https://github.com/CodePandaaAI/marrow"
   },
   {
-    "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
-    "id": "fumimaruwork/veil",
-    "language": "Python",
-    "name": "fumimaruwork/veil",
-    "stars": 0,
-    "updated_at": "2026-06-11T09:05:32Z",
-    "url": "https://github.com/fumimaruwork/veil"
-  },
-  {
     "description": " A curated system of production-ready Claude Code skills with quantitative evaluation reports, golden test fixtures, and",
     "id": "johnqtcg/awesome-skills",
     "language": "Python",
@@ -86,17 +158,8 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 2821,
-    "updated_at": "2026-06-11T09:04:03Z",
+    "updated_at": "2026-06-11T09:27:05Z",
     "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-11T09:00:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19573,
-    "updated_at": "2026-06-11T09:15:11Z",
+    "updated_at": "2026-06-11T09:24:51Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -202,7 +265,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 30091,
+    "stars": 30100,
     "updated_at": "2026-06-11T08:44:44Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -288,15 +351,6 @@
     "url": "https://github.com/nelsonwerd/idea-to-ship-skills"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3299,
-    "updated_at": "2026-06-11T09:06:46Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Are you using Claude Code to its full potential? This methodology \u2014 60 hooks, 109 skills, 15 agents, Evidence Policy \u2014 w",
     "id": "sergeeey/Claude-cod-top-2026",
     "language": "Python",
@@ -304,15 +358,6 @@
     "stars": 5,
     "updated_at": "2026-06-11T08:30:51Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-11T09:02:12Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Practical guide and toolkit for physicists and mathematicians using Claude Code \u2014 built from months on a real research p",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T08:23:20Z",
     "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-11T08:21:16Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
-    "id": "Rickardserrulate236/portfolio-dumper",
-    "language": "HTML",
-    "name": "Rickardserrulate236/portfolio-dumper",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:20:52Z",
-    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser.",
-    "id": "Opsn5528/vibe-coding-claude-md",
-    "language": "HTML",
-    "name": "Opsn5528/vibe-coding-claude-md",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:20:47Z",
-    "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
-  },
-  {
-    "description": "A structured knowledge base for large language model technologies, covering LLMs, Agents, RAG, model training, evaluatio",
-    "id": "VectorPeak/LLM-Wiki",
-    "language": "TeX",
-    "name": "VectorPeak/LLM-Wiki",
-    "stars": 2,
-    "updated_at": "2026-06-11T08:20:28Z",
-    "url": "https://github.com/VectorPeak/LLM-Wiki"
-  },
-  {
-    "description": "Automate social media accounts using an AI agent that navigates live web pages to perform tasks like liking posts and wr",
-    "id": "Dusty-plumcot781/locoagent",
-    "language": "\u2014",
-    "name": "Dusty-plumcot781/locoagent",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:19:52Z",
-    "url": "https://github.com/Dusty-plumcot781/locoagent"
   }
 ]
