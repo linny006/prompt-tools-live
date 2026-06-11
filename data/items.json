@@ -1,10 +1,136 @@
 [
   {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "HTML",
+    "name": "Open-Less/openless",
+    "stars": 2262,
+    "updated_at": "2026-06-11T08:58:37Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "A plain-text prompt for LLMs that teaches the essence of elegant coding and testing\u2014save it to ~/.claude/CLAUDE.md.",
+    "id": "yegor256/prompt",
+    "language": "\u2014",
+    "name": "yegor256/prompt",
+    "stars": 149,
+    "updated_at": "2026-06-11T08:58:31Z",
+    "url": "https://github.com/yegor256/prompt"
+  },
+  {
+    "description": "Build verifiable Loop Engineering specs for Codex, Claude Code, OpenClaw, and AI coding agents.",
+    "id": "zhangzeyu99-web/ariadne-loop",
+    "language": "Python",
+    "name": "zhangzeyu99-web/ariadne-loop",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:57:13Z",
+    "url": "https://github.com/zhangzeyu99-web/ariadne-loop"
+  },
+  {
+    "description": "Prompt diagnosis judgment \u2014 identify why a prompt failed (task mixing, goal ambiguity, context gap), not just suggest fo",
+    "id": "aikdna/kdna-prompt_diagnosis",
+    "language": "\u2014",
+    "name": "aikdna/kdna-prompt_diagnosis",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:56:41Z",
+    "url": "https://github.com/aikdna/kdna-prompt_diagnosis"
+  },
+  {
+    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
+    "id": "areliw/mt-score-up-skill",
+    "language": "Python",
+    "name": "areliw/mt-score-up-skill",
+    "stars": 1,
+    "updated_at": "2026-06-11T08:56:34Z",
+    "url": "https://github.com/areliw/mt-score-up-skill"
+  },
+  {
+    "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
+    "id": "fumimaruwork/veil",
+    "language": "Python",
+    "name": "fumimaruwork/veil",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:56:28Z",
+    "url": "https://github.com/fumimaruwork/veil"
+  },
+  {
+    "description": "Claude and Codex skill that scans a project and creates structured context before coding, reviewing, testing, or design ",
+    "id": "Evan1108-Coder/Project-Context-Review-Skill-Claude-Codex",
+    "language": "JavaScript",
+    "name": "Evan1108-Coder/Project-Context-Review-Skill-Claude-Codex",
+    "stars": 3,
+    "updated_at": "2026-06-11T08:53:28Z",
+    "url": "https://github.com/Evan1108-Coder/Project-Context-Review-Skill-Claude-Codex"
+  },
+  {
+    "description": "Claude Code and Codex skill for planning, writing, running, and auditing meaningful tests in real projects.",
+    "id": "Evan1108-Coder/Code-Testing-Skill-Claude-Codex",
+    "language": "\u2014",
+    "name": "Evan1108-Coder/Code-Testing-Skill-Claude-Codex",
+    "stars": 2,
+    "updated_at": "2026-06-11T08:53:18Z",
+    "url": "https://github.com/Evan1108-Coder/Code-Testing-Skill-Claude-Codex"
+  },
+  {
+    "description": "Offline-testable LLM prompt regression-testing CLI: YAML specs, assertions, CI exit codes, and HTML reports.",
+    "id": "KE-NETIZEN-OOPS/promptproof",
+    "language": "Python",
+    "name": "KE-NETIZEN-OOPS/promptproof",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:51:23Z",
+    "url": "https://github.com/KE-NETIZEN-OOPS/promptproof"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19572,
+    "updated_at": "2026-06-11T08:55:54Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28899,
+    "updated_at": "2026-06-11T08:57:27Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "WebUI-style prompt editor for ComfyUI / ComfyUI \u7684 WebUI \u5f0f\u63d0\u793a\u8bcd\u7f16\u8f91\u3001\u7ffb\u8bd1\u3001\u8865\u5168\u3001\u6536\u85cf\u548c LoRA \u6865\u63a5\u8282\u70b9",
+    "id": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge",
+    "language": "JavaScript",
+    "name": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge",
+    "stars": 10,
+    "updated_at": "2026-06-11T08:48:13Z",
+    "url": "https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge"
+  },
+  {
+    "description": "Enterprise Intelligence \u2022 NIST \u2022 RoboVet\u2122 \u2022 Prompt Atlas \u2022 DaScient \u2022 Quantum \u2022 AI | ML \u2022 Organoid Intelligence \u2022 PlanEx",
+    "id": "DaScient/DaScient",
+    "language": "HTML",
+    "name": "DaScient/DaScient",
+    "stars": 1,
+    "updated_at": "2026-06-11T08:46:15Z",
+    "url": "https://github.com/DaScient/DaScient"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-11T08:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 30074,
+    "stars": 30085,
     "updated_at": "2026-06-11T08:44:44Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -16,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T08:44:28Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Build verifiable Loop Engineering specs for Codex, Claude Code, OpenClaw, and AI coding agents.",
-    "id": "zhangzeyu99-web/ariadne-loop",
-    "language": "Python",
-    "name": "zhangzeyu99-web/ariadne-loop",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:44:12Z",
-    "url": "https://github.com/zhangzeyu99-web/ariadne-loop"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -45,24 +162,6 @@
     "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
-    "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
-    "id": "fumimaruwork/veil",
-    "language": "Python",
-    "name": "fumimaruwork/veil",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:42:32Z",
-    "url": "https://github.com/fumimaruwork/veil"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 28899,
-    "updated_at": "2026-06-11T08:42:20Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AI prompt management platform. Build, version, and share dynamic LLM prompts",
     "id": "itsyasirkhandev/promptamist-rebuild",
     "language": "TypeScript",
@@ -77,7 +176,7 @@
     "language": "PowerShell",
     "name": "CodePandaaAI/marrow",
     "stars": 0,
-    "updated_at": "2026-06-11T08:40:42Z",
+    "updated_at": "2026-06-11T08:49:53Z",
     "url": "https://github.com/CodePandaaAI/marrow"
   },
   {
@@ -140,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3299,
-    "updated_at": "2026-06-11T08:33:59Z",
+    "updated_at": "2026-06-11T08:52:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -151,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-06-11T08:30:51Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:30:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -261,15 +351,6 @@
     "url": "https://github.com/prasti8527/legal-ai-skills"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19572,
-    "updated_at": "2026-06-11T08:41:59Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
     "id": "herreravalenz6620/context-compression",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T08:17:07Z",
     "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Multimodal AI Agent Studio \u2014 Create text, images, video, audio & 3D models with intelligent agent workflows. Built on Op",
-    "id": "dav-niu474/Omni-Forge-AI-Agent-Studio",
-    "language": "HTML",
-    "name": "dav-niu474/Omni-Forge-AI-Agent-Studio",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:16:56Z",
-    "url": "https://github.com/dav-niu474/Omni-Forge-AI-Agent-Studio"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:16:55Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:16:31Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-06-11T08:16:28Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-11T08:16:12Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 2,
-    "updated_at": "2026-06-11T08:16:07Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Generate production-ready UGC video ad prompts for Higgsfield AI Marketing Studio from your reference images and product",
-    "id": "carreras66848657/claude-skill-ugc-prompt",
-    "language": "\u2014",
-    "name": "carreras66848657/claude-skill-ugc-prompt",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:16:07Z",
-    "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:15:31Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:15:16Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
   }
 ]
