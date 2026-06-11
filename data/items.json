@@ -1,5 +1,122 @@
 [
   {
+    "description": "Meta \u5ee3\u544a\u9810\u7b97\u512a\u5316\u5e2b AI \u5efa\u8b70\u5668 \u2014 \u56db\u5c64\u5224\u65b7\u6cd5\u63d0\u793a\u8a5e\u5305\uff0c\u8cbc\u4e0a 7 \u5929\u5ee3\u544a CSV\uff0c5 \u5206\u9418\u7d66\u4f60\u52a0\u78bc/\u6e1b\u78bc/\u95dc\u9589\u6e05\u55ae\u3002\u53ef\u7528\u65bc ChatGPT/Claude/Gemini/GPTs\u3002",
+    "id": "atm301/meta-ad-advisor",
+    "language": "\u2014",
+    "name": "atm301/meta-ad-advisor",
+    "stars": 0,
+    "updated_at": "2026-06-11T03:15:18Z",
+    "url": "https://github.com/atm301/meta-ad-advisor"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 45,
+    "updated_at": "2026-06-11T03:14:43Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 228,
+    "updated_at": "2026-06-11T03:12:19Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Open-source personal finance command center: direct indexing, tax-loss harvesting, retirement planning, options research",
+    "id": "dakshk11/personal_finance",
+    "language": "Python",
+    "name": "dakshk11/personal_finance",
+    "stars": 1,
+    "updated_at": "2026-06-11T03:12:09Z",
+    "url": "https://github.com/dakshk11/personal_finance"
+  },
+  {
+    "description": "\ud83e\uddd9 Democratizing best practices across 27 domains. Your AI knows everything \u2014 Grimoire makes it practice it.",
+    "id": "jeffreytse/grimoire",
+    "language": "Shell",
+    "name": "jeffreytse/grimoire",
+    "stars": 10,
+    "updated_at": "2026-06-11T03:11:55Z",
+    "url": "https://github.com/jeffreytse/grimoire"
+  },
+  {
+    "description": "A small, file-first verification harness that turns an AI agent's \"I'm done\" claim into an auditable admission decision.",
+    "id": "BrianNguyen29/x-harness",
+    "language": "Go",
+    "name": "BrianNguyen29/x-harness",
+    "stars": 1,
+    "updated_at": "2026-06-11T03:08:06Z",
+    "url": "https://github.com/BrianNguyen29/x-harness"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 18,
+    "updated_at": "2026-06-11T03:07:38Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Token-efficient context engine for AI coding agents. v2.0: Lean & Lossless Compaction governor + zoned profile/skill mem",
+    "id": "ncmonx/icemage",
+    "language": "C++",
+    "name": "ncmonx/icemage",
+    "stars": 3,
+    "updated_at": "2026-06-11T03:07:44Z",
+    "url": "https://github.com/ncmonx/icemage"
+  },
+  {
+    "description": " A curated system of production-ready Claude Code skills with quantitative evaluation reports, golden test fixtures, and",
+    "id": "johnqtcg/awesome-skills",
+    "language": "Python",
+    "name": "johnqtcg/awesome-skills",
+    "stars": 20,
+    "updated_at": "2026-06-11T03:06:06Z",
+    "url": "https://github.com/johnqtcg/awesome-skills"
+  },
+  {
+    "description": "Turn your coding agent into a full product team \u2014 composable skills across research, marketing, product, and process. On",
+    "id": "hungv47/meta-skills",
+    "language": "TypeScript",
+    "name": "hungv47/meta-skills",
+    "stars": 11,
+    "updated_at": "2026-06-11T03:03:12Z",
+    "url": "https://github.com/hungv47/meta-skills"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 21912,
+    "updated_at": "2026-06-11T03:02:14Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "In modern international business, conversations often shift between languages. Transcript AI bridges this gap by utilizi",
+    "id": "aiKunalBisht/Transcript-ai",
+    "language": "Python",
+    "name": "aiKunalBisht/Transcript-ai",
+    "stars": 3,
+    "updated_at": "2026-06-11T03:02:09Z",
+    "url": "https://github.com/aiKunalBisht/Transcript-ai"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-11T03:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
     "id": "simota/agent-skills",
     "language": "HTML",
@@ -27,15 +144,6 @@
     "url": "https://github.com/chriscantu/claude-config"
   },
   {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 18,
-    "updated_at": "2026-06-11T03:00:22Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
     "description": "This repository contains Software requirements to CAPL Generation complete project.",
     "id": "chankitmittal/AI-Agent-AutoTest_CaplStudio",
     "language": "\u2014",
@@ -52,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-06-11T02:54:33Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
+  },
+  {
+    "description": "Local-first AI video workflow workbench for planning, evaluating, iterating, and exporting generation-ready video produc",
+    "id": "whaidushu/ShotForge",
+    "language": "Python",
+    "name": "whaidushu/ShotForge",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:53:19Z",
+    "url": "https://github.com/whaidushu/ShotForge"
   },
   {
     "description": "Find what your AI agent gets wrong \u2014 before you have a rubric. Qualitative eval for PMs.",
@@ -72,24 +189,6 @@
     "url": "https://github.com/alanshurafa/co-evolution"
   },
   {
-    "description": " A curated system of production-ready Claude Code skills with quantitative evaluation reports, golden test fixtures, and",
-    "id": "johnqtcg/awesome-skills",
-    "language": "Python",
-    "name": "johnqtcg/awesome-skills",
-    "stars": 20,
-    "updated_at": "2026-06-11T02:50:36Z",
-    "url": "https://github.com/johnqtcg/awesome-skills"
-  },
-  {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 45,
-    "updated_at": "2026-06-11T02:49:26Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -108,31 +207,22 @@
     "url": "https://github.com/DaScient/DaScient"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-11T02:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "promptdriven/pdd",
+    "stars": 745,
+    "updated_at": "2026-06-11T02:45:24Z",
+    "url": "https://github.com/promptdriven/pdd"
   },
   {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 29947,
+    "stars": 29953,
     "updated_at": "2026-06-11T02:44:38Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 225,
-    "updated_at": "2026-06-11T02:42:31Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
     "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
@@ -234,13 +324,13 @@
     "url": "https://github.com/brunopelatieri/LLM-instructional-skills"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 21896,
-    "updated_at": "2026-06-11T02:16:01Z",
-    "url": "https://github.com/chopratejas/headroom"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22091,
+    "updated_at": "2026-06-11T02:15:59Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A pure-skill, host-agnostic AI engineering harness: PRD \u2192 TRD \u2192 Plan \u2192 TDD \u2192 dual-agent review \u2192 archive. Works with Cla",
@@ -286,15 +376,6 @@
     "stars": 8488,
     "updated_at": "2026-06-11T02:08:35Z",
     "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "Turn your coding agent into a full product team \u2014 composable skills across research, marketing, product, and process. On",
-    "id": "hungv47/meta-skills",
-    "language": "TypeScript",
-    "name": "hungv47/meta-skills",
-    "stars": 11,
-    "updated_at": "2026-06-11T02:08:06Z",
-    "url": "https://github.com/hungv47/meta-skills"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T01:44:15Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:43:41Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "\ud83e\uddd9 Democratizing best practices across 27 domains. Your AI knows everything \u2014 Grimoire makes it practice it.",
-    "id": "jeffreytse/grimoire",
-    "language": "Shell",
-    "name": "jeffreytse/grimoire",
-    "stars": 10,
-    "updated_at": "2026-06-11T01:43:30Z",
-    "url": "https://github.com/jeffreytse/grimoire"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:43:18Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:42:29Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Deploy the full ChatGPT desktop build for Windows with GPT-5 integration, DALL-E 4, and code interpreter tools.",
-    "id": "vanth7067/chatgpt-gpt-5",
-    "language": "\u2014",
-    "name": "vanth7067/chatgpt-gpt-5",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:42:07Z",
-    "url": "https://github.com/vanth7067/chatgpt-gpt-5"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:41:52Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:41:50Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:41:38Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "A discipline layer for AI coding agents \u2014 verified done-claims, surgical scope, long-run guardrails, and multi-agent orc",
-    "id": "mbanderas/maestro",
-    "language": "JavaScript",
-    "name": "mbanderas/maestro",
-    "stars": 3,
-    "updated_at": "2026-06-11T01:41:16Z",
-    "url": "https://github.com/mbanderas/maestro"
   }
 ]
