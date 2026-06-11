@@ -1,12 +1,66 @@
 [
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 21849,
-    "updated_at": "2026-06-11T02:15:17Z",
-    "url": "https://github.com/chopratejas/headroom"
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1349,
+    "updated_at": "2026-06-11T02:30:20Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 49,
+    "updated_at": "2026-06-11T02:30:06Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "HiAPI Video Prompt Generator skill \u2014 turn briefs, links, and research topics into directed video prompts for Seedance 2.",
+    "id": "HiAPIAI/hiapi-video-prompt-generator-skill",
+    "language": "JavaScript",
+    "name": "HiAPIAI/hiapi-video-prompt-generator-skill",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:27:07Z",
+    "url": "https://github.com/HiAPIAI/hiapi-video-prompt-generator-skill"
+  },
+  {
+    "description": "HiAPI GPT Image 2 image generation skill \u2014 text-to-image for Claude Code, Codex, OpenClaw, and Cursor agents. OpenAI-com",
+    "id": "HiAPIAI/hiapi-gpt-image-2-skill",
+    "language": "JavaScript",
+    "name": "HiAPIAI/hiapi-gpt-image-2-skill",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:27:01Z",
+    "url": "https://github.com/HiAPIAI/hiapi-gpt-image-2-skill"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 29938,
+    "updated_at": "2026-06-11T02:26:23Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "TypeScript",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 2,
+    "updated_at": "2026-06-11T02:25:47Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 49,
+    "updated_at": "2026-06-11T02:25:02Z",
+    "url": "https://github.com/simota/agent-skills"
   },
   {
     "description": "\ud83e\udde0 Orquestador de superpoderes para agentes de IA. Activa skills, ajusta par\u00e1metros, genera JSON para OpenAI/Claude. 15 s",
@@ -14,8 +68,53 @@
     "language": "CSS",
     "name": "axiom-systemstech/axiomagentskillsregistry",
     "stars": 0,
-    "updated_at": "2026-06-11T02:14:24Z",
+    "updated_at": "2026-06-11T02:23:11Z",
     "url": "https://github.com/axiom-systemstech/axiomagentskillsregistry"
+  },
+  {
+    "description": "Gemini\u306e\u6027\u80fd\u3092\u6700\u5927\u5316\u3057\u4f5c\u696d\u3092\u52b9\u7387\u5316\u3059\u308bAI\u7528OS\u30d7\u30ed\u30f3\u30d7\u30c8 | System prompt (AI OS) to maximize Gemini 3.0 performance and efficiency.",
+    "id": "nitagon0083/SpriteSystem",
+    "language": "HTML",
+    "name": "nitagon0083/SpriteSystem",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:20:52Z",
+    "url": "https://github.com/nitagon0083/SpriteSystem"
+  },
+  {
+    "description": " A curated system of production-ready Claude Code skills with quantitative evaluation reports, golden test fixtures, and",
+    "id": "johnqtcg/awesome-skills",
+    "language": "Python",
+    "name": "johnqtcg/awesome-skills",
+    "stars": 20,
+    "updated_at": "2026-06-11T02:19:19Z",
+    "url": "https://github.com/johnqtcg/awesome-skills"
+  },
+  {
+    "description": "Tutorial completo sobre uso de Skills em LLMs (Codex CLI, Claude Code e Gemini CLI) \u2014 padr\u00e3o aberto SKILL.md com exemplo",
+    "id": "brunopelatieri/LLM-instructional-skills",
+    "language": "\u2014",
+    "name": "brunopelatieri/LLM-instructional-skills",
+    "stars": 0,
+    "updated_at": "2026-06-11T02:17:26Z",
+    "url": "https://github.com/brunopelatieri/LLM-instructional-skills"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 21862,
+    "updated_at": "2026-06-11T02:16:01Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-11T02:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
@@ -27,11 +126,20 @@
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
+    "description": "A pure-skill, host-agnostic AI engineering harness: PRD \u2192 TRD \u2192 Plan \u2192 TDD \u2192 dual-agent review \u2192 archive. Works with Cla",
+    "id": "xurb-nexus/nexus-harness",
+    "language": "Python",
+    "name": "xurb-nexus/nexus-harness",
+    "stars": 1,
+    "updated_at": "2026-06-11T02:12:20Z",
+    "url": "https://github.com/xurb-nexus/nexus-harness"
+  },
+  {
     "description": "Strategic Executive Technology Hub \u2014 an AI brand-audit system built on deterministic context orchestration and a statist",
     "id": "j-manchesterllc/SETH",
     "language": "TypeScript",
     "name": "j-manchesterllc/SETH",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-11T02:12:16Z",
     "url": "https://github.com/j-manchesterllc/SETH"
   },
@@ -54,20 +162,11 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 29931,
-    "updated_at": "2026-06-11T02:09:18Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8486,
+    "stars": 8488,
     "updated_at": "2026-06-11T02:08:35Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -79,15 +178,6 @@
     "stars": 11,
     "updated_at": "2026-06-11T02:08:06Z",
     "url": "https://github.com/hungv47/meta-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-11T02:07:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T01:36:15Z",
     "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:35:41Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 2,
-    "updated_at": "2026-06-11T01:35:33Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-06-11T01:35:17Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:35:16Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26414,
-    "updated_at": "2026-06-11T01:36:36Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Production ready. AI Agent Workflow System for Claude Code",
-    "id": "ngocsangyem/MeowKit",
-    "language": "TypeScript",
-    "name": "ngocsangyem/MeowKit",
-    "stars": 15,
-    "updated_at": "2026-06-11T01:35:26Z",
-    "url": "https://github.com/ngocsangyem/MeowKit"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:34:49Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-06-11T01:34:39Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:33:45Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-11T01:33:42Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
   }
 ]
