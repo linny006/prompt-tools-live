@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-11 15:30 UTC
+> ⏰ Last updated: 2026-06-11 15:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Mexregkan/claude-for-researchers](https://github.com/Mexregkan/claude-for-researchers) | 34 | Shell | 2026-06-11 | Practical guide and toolkit for physicists and mathematicians using Claude Code — built from months on a real research p |
-| 2 | [YouMind-OpenLab/awesome-seedream-4.5](https://github.com/YouMind-OpenLab/awesome-seedream-4.5) | 49 | TypeScript | 2026-06-11 | 🍌 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba |
-| 3 | [evan966890/ai-coding-ironrules](https://github.com/evan966890/ai-coding-ironrules) | 1 | Python | 2026-06-11 | 通用 AI Coding 铁律 CLAUDE.md 模板 — 11 条 operational 铁律, 跨项目复用 |
-| 4 | [0xelitesystem/readme-slop-checker](https://github.com/0xelitesystem/readme-slop-checker) | 0 | HTML | 2026-06-11 | Audit a GitHub README for AI-generated cliche patterns. Single HTML file, BYOK Claude API, MIT licensed. No build step,  |
-| 5 | [0xelitesystem/prompt-diff](https://github.com/0xelitesystem/prompt-diff) | 0 | HTML | 2026-06-11 | Compare two versions of a prompt and see exactly what changed. Word, character, and line-level diffs. Single HTML file,  |
-| 6 | [0xelitesystem/prompt-cost-calculator](https://github.com/0xelitesystem/prompt-cost-calculator) | 0 | HTML | 2026-06-11 | Estimate token count and API cost for a prompt across Anthropic, OpenAI, and Google models. Browser-only, no API calls,  |
-| 7 | [0xelitesystem/claude-eval-harness](https://github.com/0xelitesystem/claude-eval-harness) | 0 | HTML | 2026-06-11 | Run the same prompt against multiple Claude models side-by-side. Compare outputs, latency, and cost in one click. BYOK,  |
-| 8 | [YouMind-OpenLab/awesome-gpt-image-1.5](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5) | 20 | TypeScript | 2026-06-11 | 🎨 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt |
-| 9 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 17811 | Python | 2026-06-11 | 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references,  |
-| 10 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 1 | Python | 2026-06-11 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 11 | [BARNA-AI-Systems/caas-media-architect](https://github.com/BARNA-AI-Systems/caas-media-architect) | 0 | — | 2026-06-11 | AI-powered signal intelligence architecture for narrative detection, sentiment analysis, executive briefings and authori |
-| 12 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 0 | HTML | 2026-06-11 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
-| 13 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 0 | HTML | 2026-06-11 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
-| 14 | [Silence-view/llm-language](https://github.com/Silence-view/llm-language) | 2 | Shell | 2026-06-11 | v4.1 Opus 4.7 native prompt meta-compiler — skill-level meta-refinement, automatic ROSETTA via 5 hooks, Jarvis v3.0 over |
-| 15 | [jmagly/aiwg](https://github.com/jmagly/aiwg) | 146 | TypeScript | 2026-06-11 | Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo |
-| 16 | [zigrivers/scaffold](https://github.com/zigrivers/scaffold) | 5 | TypeScript | 2026-06-11 | A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from "I have an idea" to working software. Sc |
-| 17 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 0 | HTML | 2026-06-11 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
-| 18 | [jeffreytse/grimoire](https://github.com/jeffreytse/grimoire) | 11 | Shell | 2026-06-11 | 🧙 Democratizing best practices across 27 domains. Your AI knows everything — Grimoire makes it practice it. |
-| 19 | [sairaman436/vybe-intelligence-vault](https://github.com/sairaman436/vybe-intelligence-vault) | 2 | — | 2026-06-11 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
-| 20 | [spec2ship/spec2ship](https://github.com/spec2ship/spec2ship) | 29 | Shell | 2026-06-11 | Spec-driven, multi-agent AI development for Claude Code: from specs to shipping via roundtable collaboration |
-| 21 | [boygotflames/promptus-dsl](https://github.com/boygotflames/promptus-dsl) | 0 | Rust | 2026-06-11 | A Rust-based prompt compiler for LLM workflows. Write structured .llm files, validate before you spend tokens, and trans |
-| 22 | [agentmark-ai/agentmark](https://github.com/agentmark-ai/agentmark) | 353 | TypeScript | 2026-06-11 | Markdown for the AI era |
-| 23 | [maysunAI/T00](https://github.com/maysunAI/T00) | 3 | HTML | 2026-06-11 | claude-code-assistant-document |
-| 24 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28913 | TypeScript | 2026-06-11 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 25 | [nelsonwerd/idea-to-ship-skills](https://github.com/nelsonwerd/idea-to-ship-skills) | 0 | Shell | 2026-06-11 | Composable Agent Skills (Claude + OpenAI Codex) for taking an idea from fuzzy → validated → sequenced build → shipped —  |
-| 26 | [LiHongwei-cn/lihongwei-cn](https://github.com/LiHongwei-cn/lihongwei-cn) | 9 | Python | 2026-06-11 | MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective |
-| 27 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 0 | — | 2026-06-11 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
-| 28 | [Highlydeveloped-trowel635/context-graph-compressor](https://github.com/Highlydeveloped-trowel635/context-graph-compressor) | 0 | — | 2026-06-11 | Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session |
-| 29 | [vanth7067/chatgpt-gpt-5](https://github.com/vanth7067/chatgpt-gpt-5) | 1 | — | 2026-06-11 | Deploy the full ChatGPT desktop build for Windows with GPT-5 integration, DALL-E 4, and code interpreter tools. |
-| 30 | [prasti8527/legal-ai-skills](https://github.com/prasti8527/legal-ai-skills) | 1 | Python | 2026-06-11 | Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi |
-| 31 | [Maxiesuggestive393/claude-code-cli](https://github.com/Maxiesuggestive393/claude-code-cli) | 0 | TypeScript | 2026-06-11 | Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface. |
-| 32 | [sonu1611/sillytavern-ai-character-chat](https://github.com/sonu1611/sillytavern-ai-character-chat) | 0 | — | 2026-06-11 | Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa |
-| 33 | [herreravalenz6620/context-compression](https://github.com/herreravalenz6620/context-compression) | 2 | Python | 2026-06-11 | Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents. |
-| 34 | [microsoft/apm](https://github.com/microsoft/apm) | 2832 | Python | 2026-06-11 | Agent Package Manager |
-| 35 | [Hao0321/ai-media-generator](https://github.com/Hao0321/ai-media-generator) | 102 | — | 2026-06-11 | Zero-skill cinema. Senior-director prompts on autopilot. A Claude Code Skill for high-quality AI image / video / music p |
-| 36 | [Opsn5528/vibe-coding-claude-md](https://github.com/Opsn5528/vibe-coding-claude-md) | 1 | HTML | 2026-06-11 | Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser. |
-| 37 | [Rickardserrulate236/portfolio-dumper](https://github.com/Rickardserrulate236/portfolio-dumper) | 1 | HTML | 2026-06-11 | Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts. |
-| 38 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-11 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 39 | [Dusty-plumcot781/locoagent](https://github.com/Dusty-plumcot781/locoagent) | 0 | — | 2026-06-11 | Automate social media accounts using an AI agent that navigates live web pages to perform tasks like liking posts and wr |
-| 40 | [Connieverbal484/Anthropic_Hackathon](https://github.com/Connieverbal484/Anthropic_Hackathon) | 1 | — | 2026-06-11 | Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers. |
-| 41 | [junwoojeong100/copilot-claude-kit](https://github.com/junwoojeong100/copilot-claude-kit) | 0 | — | 2026-06-11 | Make GitHub Copilot work like Claude AI + Claude Code: custom instructions (persona/coding/safety) plus on-demand skills |
-| 42 | [colortelevisiontubedavidhilbert296/filtrd](https://github.com/colortelevisiontubedavidhilbert296/filtrd) | 0 | — | 2026-06-11 | Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters. |
-| 43 | [syncretismdeposit560/TypeAnything](https://github.com/syncretismdeposit560/TypeAnything) | 0 | PowerShell | 2026-06-11 | Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi |
-| 44 | [Hebrewlessonmobility409/papers_skills](https://github.com/Hebrewlessonmobility409/papers_skills) | 1 | — | 2026-06-11 | Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f |
-| 45 | [Paranthropusdwarfchestnut642/claudesona](https://github.com/Paranthropusdwarfchestnut642/claudesona) | 0 | — | 2026-06-11 | Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension. |
-| 46 | [shifteddevlabs/check-point](https://github.com/shifteddevlabs/check-point) | 0 | — | 2026-06-11 | An independent senior code reviewer packaged as a folder. Catches real bugs using a strict three-element rule (where, tr |
-| 47 | [quiescencycommonrush642/goal-prompt-builder](https://github.com/quiescencycommonrush642/goal-prompt-builder) | 1 | — | 2026-06-11 | Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef |
-| 48 | [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) | 4313 | Go | 2026-06-11 | System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge |
-| 49 | [shifteddevlabs/anchor-point](https://github.com/shifteddevlabs/anchor-point) | 0 | — | 2026-06-11 | A Documentation Architect for devs running multiple side projects. Drop the folder into a Claude project so Claude knows |
-| 50 | [adlaiponderous700/claude-skill-cinematic-prompt](https://github.com/adlaiponderous700/claude-skill-cinematic-prompt) | 2 | — | 2026-06-11 | Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs. |
+| 1 | [shadowquillapp/shadowquillapp](https://github.com/shadowquillapp/shadowquillapp) | 27 | TypeScript | 2026-06-11 | ShadowQuill is a privacy‑first, offline and free prompt engineering/generation app powered by self-hosted local LLMs |
+| 2 | [bensafai/claude-loop-commands-prompt](https://github.com/bensafai/claude-loop-commands-prompt) | 0 | — | 2026-06-11 | Claude Code slash commands with built-in self-correction loops: environment feedback, bounded retries, and fresh-context |
+| 3 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 28913 | TypeScript | 2026-06-11 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 4 | [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | 3867 | Python | 2026-06-11 | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi |
+| 5 | [junwoojeong100/copilot-claude-kit](https://github.com/junwoojeong100/copilot-claude-kit) | 0 | — | 2026-06-11 | Make GitHub Copilot work like Claude AI + Claude Code — auto-loaded instructions + a real-time web search skill, for VS  |
+| 6 | [Delcado19/comfyui-prompt-ops](https://github.com/Delcado19/comfyui-prompt-ops) | 0 | PowerShell | 2026-06-11 | Composable prompt engineering toolkit for ComfyUI using Espanso snippets, modular prompt components, and an automated Po |
+| 7 | [microsoft/apm](https://github.com/microsoft/apm) | 2832 | Python | 2026-06-11 | Agent Package Manager |
+| 8 | [agentmark-ai/agentmark](https://github.com/agentmark-ai/agentmark) | 353 | TypeScript | 2026-06-11 | Markdown for the AI era |
+| 9 | [mulkymalikuldhrs/PromptForgeAI](https://github.com/mulkymalikuldhrs/PromptForgeAI) | 0 | TypeScript | 2026-06-11 | AI prompt engineering toolkit with testing and optimization workflows \| 🤝 Looking for contributors! |
+| 10 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 17813 | Python | 2026-06-11 | 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references,  |
+| 11 | [Mexregkan/claude-for-researchers](https://github.com/Mexregkan/claude-for-researchers) | 34 | Shell | 2026-06-11 | Practical guide and toolkit for physicists and mathematicians using Claude Code — built from months on a real research p |
+| 12 | [samariafar/agents](https://github.com/samariafar/agents) | 0 | Markdown | 2026-06-11 | 🤖 agents 🧠 skills 🔌 mcp |
+| 13 | [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | 7341 | TypeScript | 2026-06-11 | 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. O |
+| 14 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 1 | Python | 2026-06-11 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 15 | [YouMind-OpenLab/awesome-seedream-4.5](https://github.com/YouMind-OpenLab/awesome-seedream-4.5) | 49 | TypeScript | 2026-06-11 | 🍌 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba |
+| 16 | [evan966890/ai-coding-ironrules](https://github.com/evan966890/ai-coding-ironrules) | 1 | Python | 2026-06-11 | 通用 AI Coding 铁律 CLAUDE.md 模板 — 11 条 operational 铁律, 跨项目复用 |
+| 17 | [BARNA-AI-Systems/caas-media-architect](https://github.com/BARNA-AI-Systems/caas-media-architect) | 0 | — | 2026-06-11 | AI-powered signal intelligence architecture for narrative detection, sentiment analysis, executive briefings and authori |
+| 18 | [0xelitesystem/readme-slop-checker](https://github.com/0xelitesystem/readme-slop-checker) | 0 | HTML | 2026-06-11 | Audit a GitHub README for AI-generated cliche patterns. Single HTML file, BYOK Claude API, MIT licensed. No build step,  |
+| 19 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22110 | TypeScript | 2026-06-11 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 20 | [0xelitesystem/prompt-diff](https://github.com/0xelitesystem/prompt-diff) | 0 | HTML | 2026-06-11 | Compare two versions of a prompt and see exactly what changed. Word, character, and line-level diffs. Single HTML file,  |
+| 21 | [0xelitesystem/prompt-cost-calculator](https://github.com/0xelitesystem/prompt-cost-calculator) | 0 | HTML | 2026-06-11 | Estimate token count and API cost for a prompt across Anthropic, OpenAI, and Google models. Browser-only, no API calls,  |
+| 22 | [0xelitesystem/claude-eval-harness](https://github.com/0xelitesystem/claude-eval-harness) | 0 | HTML | 2026-06-11 | Run the same prompt against multiple Claude models side-by-side. Compare outputs, latency, and cost in one click. BYOK,  |
+| 23 | [YouMind-OpenLab/awesome-gpt-image-1.5](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5) | 20 | TypeScript | 2026-06-11 | 🎨 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt |
+| 24 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 0 | HTML | 2026-06-11 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
+| 25 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 0 | HTML | 2026-06-11 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
+| 26 | [Silence-view/llm-language](https://github.com/Silence-view/llm-language) | 2 | Shell | 2026-06-11 | v4.1 Opus 4.7 native prompt meta-compiler — skill-level meta-refinement, automatic ROSETTA via 5 hooks, Jarvis v3.0 over |
+| 27 | [zhangzeyu99-web/ariadne-loop](https://github.com/zhangzeyu99-web/ariadne-loop) | 0 | Python | 2026-06-11 | Create verifiable agent loop specs, guardrails, and handoff packets for Codex, Claude Code, OpenClaw, and AI coding agen |
+| 28 | [jmagly/aiwg](https://github.com/jmagly/aiwg) | 146 | TypeScript | 2026-06-11 | Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo |
+| 29 | [zigrivers/scaffold](https://github.com/zigrivers/scaffold) | 5 | TypeScript | 2026-06-11 | A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from "I have an idea" to working software. Sc |
+| 30 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 0 | HTML | 2026-06-11 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
+| 31 | [dgenio/contextweaver](https://github.com/dgenio/contextweaver) | 7 | Python | 2026-06-11 | Budget-aware context compilation and context firewall for tool-heavy AI agents. |
+| 32 | [jeffreytse/grimoire](https://github.com/jeffreytse/grimoire) | 11 | Shell | 2026-06-11 | 🧙 Democratizing best practices across 27 domains. Your AI knows everything — Grimoire makes it practice it. |
+| 33 | [sairaman436/vybe-intelligence-vault](https://github.com/sairaman436/vybe-intelligence-vault) | 2 | — | 2026-06-11 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
+| 34 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-11 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 35 | [spec2ship/spec2ship](https://github.com/spec2ship/spec2ship) | 29 | Shell | 2026-06-11 | Spec-driven, multi-agent AI development for Claude Code: from specs to shipping via roundtable collaboration |
+| 36 | [boygotflames/promptus-dsl](https://github.com/boygotflames/promptus-dsl) | 0 | Rust | 2026-06-11 | A Rust-based prompt compiler for LLM workflows. Write structured .llm files, validate before you spend tokens, and trans |
+| 37 | [maysunAI/T00](https://github.com/maysunAI/T00) | 3 | HTML | 2026-06-11 | claude-code-assistant-document |
+| 38 | [nelsonwerd/idea-to-ship-skills](https://github.com/nelsonwerd/idea-to-ship-skills) | 0 | Shell | 2026-06-11 | Composable Agent Skills (Claude + OpenAI Codex) for taking an idea from fuzzy → validated → sequenced build → shipped —  |
+| 39 | [LiHongwei-cn/lihongwei-cn](https://github.com/LiHongwei-cn/lihongwei-cn) | 9 | Python | 2026-06-11 | MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective |
+| 40 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 50 | Shell | 2026-06-11 | Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se |
+| 41 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 0 | — | 2026-06-11 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
+| 42 | [Highlydeveloped-trowel635/context-graph-compressor](https://github.com/Highlydeveloped-trowel635/context-graph-compressor) | 0 | — | 2026-06-11 | Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session |
+| 43 | [vanth7067/chatgpt-gpt-5](https://github.com/vanth7067/chatgpt-gpt-5) | 1 | — | 2026-06-11 | Deploy the full ChatGPT desktop build for Windows with GPT-5 integration, DALL-E 4, and code interpreter tools. |
+| 44 | [prasti8527/legal-ai-skills](https://github.com/prasti8527/legal-ai-skills) | 1 | Python | 2026-06-11 | Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi |
+| 45 | [Maxiesuggestive393/claude-code-cli](https://github.com/Maxiesuggestive393/claude-code-cli) | 0 | TypeScript | 2026-06-11 | Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface. |
+| 46 | [sonu1611/sillytavern-ai-character-chat](https://github.com/sonu1611/sillytavern-ai-character-chat) | 0 | — | 2026-06-11 | Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa |
+| 47 | [herreravalenz6620/context-compression](https://github.com/herreravalenz6620/context-compression) | 2 | Python | 2026-06-11 | Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents. |
+| 48 | [Hao0321/ai-media-generator](https://github.com/Hao0321/ai-media-generator) | 102 | — | 2026-06-11 | Zero-skill cinema. Senior-director prompts on autopilot. A Claude Code Skill for high-quality AI image / video / music p |
+| 49 | [Opsn5528/vibe-coding-claude-md](https://github.com/Opsn5528/vibe-coding-claude-md) | 1 | HTML | 2026-06-11 | Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser. |
+| 50 | [Rickardserrulate236/portfolio-dumper](https://github.com/Rickardserrulate236/portfolio-dumper) | 1 | HTML | 2026-06-11 | Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts. |
 <!-- TRACKER_TABLE_END -->
 
 ---
