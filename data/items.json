@@ -1,11 +1,110 @@
 [
   {
+    "description": "Lint and score any AI agent SKILL.md against the official Claude, Codex, and Antigravity authoring guides \u2014 offline Dart",
+    "id": "sayed3li97/skillscore",
+    "language": "Dart",
+    "name": "sayed3li97/skillscore",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:45:06Z",
+    "url": "https://github.com/sayed3li97/skillscore"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 18,
+    "updated_at": "2026-06-12T18:44:46Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "A discipline layer for AI coding agents \u2014 verified done-claims, surgical scope, long-run guardrails, and multi-agent orc",
+    "id": "mbanderas/maestro",
+    "language": "JavaScript",
+    "name": "mbanderas/maestro",
+    "stars": 3,
+    "updated_at": "2026-06-12T18:39:28Z",
+    "url": "https://github.com/mbanderas/maestro"
+  },
+  {
+    "description": "Gstack for PMs -> PM Toolkit for AI Era. ",
+    "id": "RyanAlberts/pmstack",
+    "language": "Python",
+    "name": "RyanAlberts/pmstack",
+    "stars": 2,
+    "updated_at": "2026-06-12T18:38:43Z",
+    "url": "https://github.com/RyanAlberts/pmstack"
+  },
+  {
+    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive codin",
+    "id": "LearnPrompt/cc-harness-skills",
+    "language": "Python",
+    "name": "LearnPrompt/cc-harness-skills",
+    "stars": 218,
+    "updated_at": "2026-06-12T18:37:40Z",
+    "url": "https://github.com/LearnPrompt/cc-harness-skills"
+  },
+  {
+    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
+    "id": "Ntizar/NtizarBrainMasterMind",
+    "language": "CSS",
+    "name": "Ntizar/NtizarBrainMasterMind",
+    "stars": 2,
+    "updated_at": "2026-06-12T18:34:49Z",
+    "url": "https://github.com/Ntizar/NtizarBrainMasterMind"
+  },
+  {
+    "description": "Loop yes. Prompt no. Agent skills that turn specs into checked agent loops with receipts.",
+    "id": "AndreRatzenberger/loopify",
+    "language": "JavaScript",
+    "name": "AndreRatzenberger/loopify",
+    "stars": 1,
+    "updated_at": "2026-06-12T18:34:04Z",
+    "url": "https://github.com/AndreRatzenberger/loopify"
+  },
+  {
+    "description": "Agent skill that rewrites rough prompts into polished, model-specific prompts \u2014 grounded in the official Anthropic promp",
+    "id": "mfarzanansari/prompt-polish",
+    "language": "\u2014",
+    "name": "mfarzanansari/prompt-polish",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:32:58Z",
+    "url": "https://github.com/mfarzanansari/prompt-polish"
+  },
+  {
+    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
+    "id": "ralphmoran/ticket-lens",
+    "language": "JavaScript",
+    "name": "ralphmoran/ticket-lens",
+    "stars": 1,
+    "updated_at": "2026-06-12T18:32:09Z",
+    "url": "https://github.com/ralphmoran/ticket-lens"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-12T18:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10115,
+    "updated_at": "2026-06-12T18:30:15Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
     "name": "Ohswedd/vincio",
     "stars": 0,
-    "updated_at": "2026-06-12T18:30:07Z",
+    "updated_at": "2026-06-12T18:31:41Z",
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
@@ -14,17 +113,8 @@
     "language": "Shell",
     "name": "christopherlouet/claude-base",
     "stars": 4,
-    "updated_at": "2026-06-12T18:29:34Z",
+    "updated_at": "2026-06-12T18:32:53Z",
     "url": "https://github.com/christopherlouet/claude-base"
-  },
-  {
-    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
-    "id": "ralphmoran/ticket-lens",
-    "language": "JavaScript",
-    "name": "ralphmoran/ticket-lens",
-    "stars": 1,
-    "updated_at": "2026-06-12T18:27:09Z",
-    "url": "https://github.com/ralphmoran/ticket-lens"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -34,15 +124,6 @@
     "stars": 1346,
     "updated_at": "2026-06-12T18:26:42Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Agent skill that rewrites rough prompts into polished, model-specific prompts \u2014 grounded in the official Anthropic promp",
-    "id": "mfarzanansari/prompt-polish",
-    "language": "\u2014",
-    "name": "mfarzanansari/prompt-polish",
-    "stars": 0,
-    "updated_at": "2026-06-12T18:30:21Z",
-    "url": "https://github.com/mfarzanansari/prompt-polish"
   },
   {
     "description": "AUDIT.md \u2014 an honest, self-improving audit protocol for AI coding agents. Evidence-gated, eval-regressed, AI-agnostic. B",
@@ -117,15 +198,6 @@
     "url": "https://github.com/devpal-singh-anand/ABTalks-60-Day-Claude-Challenge"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-12T18:15:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T18:15:25Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10114,
-    "updated_at": "2026-06-12T18:30:15Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -194,7 +257,7 @@
     "language": "Python",
     "name": "frnklfrwsr/vibe-coding-bible",
     "stars": 0,
-    "updated_at": "2026-06-12T18:06:58Z",
+    "updated_at": "2026-06-12T18:39:59Z",
     "url": "https://github.com/frnklfrwsr/vibe-coding-bible"
   },
   {
@@ -202,7 +265,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26473,
+    "stars": 26474,
     "updated_at": "2026-06-12T18:04:48Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -247,7 +310,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 24374,
+    "stars": 24385,
     "updated_at": "2026-06-12T17:58:13Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -283,7 +346,7 @@
     "id": "Kiln-AI/Kiln",
     "language": "Python",
     "name": "Kiln-AI/Kiln",
-    "stars": 4895,
+    "stars": 4896,
     "updated_at": "2026-06-12T17:55:11Z",
     "url": "https://github.com/Kiln-AI/Kiln"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T17:52:22Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "An automated job scraping system that fetches job postings from Telegram channels and RSS feeds, analyzes them using loc",
-    "id": "dariank38/agentic-job-scraper",
-    "language": "TypeScript",
-    "name": "dariank38/agentic-job-scraper",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:52:09Z",
-    "url": "https://github.com/dariank38/agentic-job-scraper"
-  },
-  {
-    "description": "Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser.",
-    "id": "Opsn5528/vibe-coding-claude-md",
-    "language": "HTML",
-    "name": "Opsn5528/vibe-coding-claude-md",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:52:07Z",
-    "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
-  },
-  {
-    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
-    "id": "Rickardserrulate236/portfolio-dumper",
-    "language": "HTML",
-    "name": "Rickardserrulate236/portfolio-dumper",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:52:06Z",
-    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:51:26Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Automate social media accounts using an AI agent that navigates live web pages to perform tasks like liking posts and wr",
-    "id": "Dusty-plumcot781/locoagent",
-    "language": "\u2014",
-    "name": "Dusty-plumcot781/locoagent",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:51:19Z",
-    "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
-    "id": "Supervertaler/Supervertaler-Workbench",
-    "language": "Python",
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 41,
-    "updated_at": "2026-06-12T17:51:15Z",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:50:58Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
   }
 ]
