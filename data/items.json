@@ -1,5 +1,68 @@
 [
   {
+    "description": "Prompts, workflow, and tools for vibe coders. 39 battle-tested prompts + a 9-step workflow built from the most-starred A",
+    "id": "dotsystemsdevs/vibe-prompt",
+    "language": "TypeScript",
+    "name": "dotsystemsdevs/vibe-prompt",
+    "stars": 7,
+    "updated_at": "2026-06-12T11:50:27Z",
+    "url": "https://github.com/dotsystemsdevs/vibe-prompt"
+  },
+  {
+    "description": "Cut Claude Code token costs ~40% per read \u2014 transparent hooks that strip comments/docstrings from what Claude sees (tree",
+    "id": "AymericP/rcc-ai",
+    "language": "Rust",
+    "name": "AymericP/rcc-ai",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:50:26Z",
+    "url": "https://github.com/AymericP/rcc-ai"
+  },
+  {
+    "description": "Source code for the IBM Granite AI Model Workshop",
+    "id": "IBM/granite-workshop",
+    "language": "Jupyter Notebook",
+    "name": "IBM/granite-workshop",
+    "stars": 47,
+    "updated_at": "2026-06-12T11:49:40Z",
+    "url": "https://github.com/IBM/granite-workshop"
+  },
+  {
+    "description": "Structured prompts and verifiable execution for Claude Code agents. The Danilov method: INDEX/DEFINITIONS/RELATIONS prom",
+    "id": "VascendTechnologies/Vascend-Official-Plugins",
+    "language": "JavaScript",
+    "name": "VascendTechnologies/Vascend-Official-Plugins",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:48:30Z",
+    "url": "https://github.com/VascendTechnologies/Vascend-Official-Plugins"
+  },
+  {
+    "description": "Methodology + prompts + Claude Code Skill behind Zombie Scavenger by Mx-Shell \u2014 the AI short PJ Ace called \"one of the b",
+    "id": "jnMetaCode/ai-shortfilm-prompts",
+    "language": "Python",
+    "name": "jnMetaCode/ai-shortfilm-prompts",
+    "stars": 144,
+    "updated_at": "2026-06-12T11:47:59Z",
+    "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts"
+  },
+  {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 4880,
+    "updated_at": "2026-06-12T11:50:40Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-12T11:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
     "id": "renoise-ai/awesome-seedance-prompts",
     "language": "TypeScript",
@@ -14,7 +77,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 28975,
-    "updated_at": "2026-06-12T11:44:42Z",
+    "updated_at": "2026-06-12T11:48:32Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19585,
-    "updated_at": "2026-06-12T11:44:08Z",
+    "updated_at": "2026-06-12T11:50:09Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T11:38:32Z",
     "url": "https://github.com/LifeOrDream/ai-content-engine"
-  },
-  {
-    "description": "Structured prompts and verifiable execution for Claude Code agents. The Danilov method: INDEX/DEFINITIONS/RELATIONS prom",
-    "id": "VascendTechnologies/Vascend-Official-Plugins",
-    "language": "JavaScript",
-    "name": "VascendTechnologies/Vascend-Official-Plugins",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:38:25Z",
-    "url": "https://github.com/VascendTechnologies/Vascend-Official-Plugins"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -225,15 +279,6 @@
     "url": "https://github.com/Sunil-M02/curiosity-engine"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-12T11:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\u628a\u6a21\u7cca\u60f3\u6cd5\u6574\u7406\u6210\u6e05\u6670\u3001\u53ef\u6267\u884c\u3001\u53ef\u9a8c\u6536\u9700\u6c42\u7684\u8de8 Agent Skill\u3002",
     "id": "zzpt8/clarify-idea-skill",
     "language": "JavaScript",
@@ -311,7 +356,7 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 11,
-    "updated_at": "2026-06-12T11:31:33Z",
+    "updated_at": "2026-06-12T11:47:20Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T11:00:49Z",
     "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:00:44Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-06-12T11:00:39Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-12T10:59:23Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
-    "id": "Rickardserrulate236/portfolio-dumper",
-    "language": "HTML",
-    "name": "Rickardserrulate236/portfolio-dumper",
-    "stars": 1,
-    "updated_at": "2026-06-12T10:59:09Z",
-    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser.",
-    "id": "Opsn5528/vibe-coding-claude-md",
-    "language": "HTML",
-    "name": "Opsn5528/vibe-coding-claude-md",
-    "stars": 1,
-    "updated_at": "2026-06-12T10:59:02Z",
-    "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
   }
 ]
