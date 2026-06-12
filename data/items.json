@@ -1,12 +1,39 @@
 [
   {
-    "description": "TOON for TYPO3 \u2014 a compact, human-readable, and token-efficient data format for AI prompts & LLM contexts. Perfect for C",
-    "id": "therohanparmar/t3-toon",
-    "language": "PHP",
-    "name": "therohanparmar/t3-toon",
-    "stars": 4,
-    "updated_at": "2026-06-12T04:44:30Z",
-    "url": "https://github.com/therohanparmar/t3-toon"
+    "description": "\ub525\ub2e4\uc774\ube0c \ud559\uc2b5 \ub808\ud3ec\ub97c \ud1b5\uc9f8\ub85c \uc0dd\uc131\ud558\ub294 \uba54\ud0c0 \ud504\ub86c\ud504\ud2b8",
+    "id": "e9ua1/prompt-blueprints",
+    "language": "\u2014",
+    "name": "e9ua1/prompt-blueprints",
+    "stars": 0,
+    "updated_at": "2026-06-12T04:58:43Z",
+    "url": "https://github.com/e9ua1/prompt-blueprints"
+  },
+  {
+    "description": "WebUI-style prompt editor for ComfyUI / ComfyUI \u7684 WebUI \u5f0f\u63d0\u793a\u8bcd\u7f16\u8f91\u3001\u7ffb\u8bd1\u3001\u8865\u5168\u3001\u6536\u85cf\u548c LoRA \u6865\u63a5\u8282\u70b9",
+    "id": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge",
+    "language": "JavaScript",
+    "name": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge",
+    "stars": 10,
+    "updated_at": "2026-06-12T04:58:39Z",
+    "url": "https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10106,
+    "updated_at": "2026-06-12T04:59:21Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Bookmark Manager with todo tracker",
+    "id": "mandev-1/SHELF",
+    "language": "HTML",
+    "name": "mandev-1/SHELF",
+    "stars": 1,
+    "updated_at": "2026-06-12T04:57:14Z",
+    "url": "https://github.com/mandev-1/SHELF"
   },
   {
     "description": "The complete open-source LLM curriculum \u2014 prompt engineering, RAG, fine-tuning, agents, and production deployment. Begin",
@@ -14,8 +41,80 @@
     "language": "\u2014",
     "name": "ruhaankumar2013-debug/Practical-AI-engineering",
     "stars": 3,
-    "updated_at": "2026-06-12T04:44:25Z",
+    "updated_at": "2026-06-12T04:55:05Z",
     "url": "https://github.com/ruhaankumar2013-debug/Practical-AI-engineering"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26451,
+    "updated_at": "2026-06-12T04:54:51Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-06-12T04:53:46Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "\u628a\u958b\u767c\u898f\u7bc4\u5beb\u6210\u6a5f\u5668\u53ef\u8b80\u7684\u7d04\u675f\uff0c\u8b93 Claude \u81ea\u52d5\u9075\u5b88 TDD\u3001ADR\u3001commit \u9598\u9580\u8207\u767c\u5e03\u6aa2\u67e5",
+    "id": "astroicers/AI-SOP-Protocol",
+    "language": "Shell",
+    "name": "astroicers/AI-SOP-Protocol",
+    "stars": 3,
+    "updated_at": "2026-06-12T04:53:04Z",
+    "url": "https://github.com/astroicers/AI-SOP-Protocol"
+  },
+  {
+    "description": "Constitution-driven governance framework for AI agents.  2,500+ universal standards, self-evolving knowledge base,  and ",
+    "id": "hiroyuki-miyauchi/axiarch",
+    "language": "Shell",
+    "name": "hiroyuki-miyauchi/axiarch",
+    "stars": 1,
+    "updated_at": "2026-06-12T04:53:01Z",
+    "url": "https://github.com/hiroyuki-miyauchi/axiarch"
+  },
+  {
+    "description": "\ud83d\udcac 1,300+ AI personas for LLMs and agents.",
+    "id": "KudoAI/ai-personas",
+    "language": "Python",
+    "name": "KudoAI/ai-personas",
+    "stars": 26,
+    "updated_at": "2026-06-12T04:52:26Z",
+    "url": "https://github.com/KudoAI/ai-personas"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-12T04:48:41Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-12T04:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "TOON for TYPO3 \u2014 a compact, human-readable, and token-efficient data format for AI prompts & LLM contexts. Perfect for C",
+    "id": "therohanparmar/t3-toon",
+    "language": "PHP",
+    "name": "therohanparmar/t3-toon",
+    "stars": 4,
+    "updated_at": "2026-06-12T04:44:30Z",
+    "url": "https://github.com/therohanparmar/t3-toon"
   },
   {
     "description": "The wise entity you talk to \u2014 a counsel layer over Claude Code, built eval-first.",
@@ -67,7 +166,7 @@
     "id": "ZeroLu/awesome-gpt-image",
     "language": "Python",
     "name": "ZeroLu/awesome-gpt-image",
-    "stars": 1682,
+    "stars": 1683,
     "updated_at": "2026-06-12T04:38:32Z",
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
   },
@@ -88,15 +187,6 @@
     "stars": 1631,
     "updated_at": "2026-06-12T04:33:11Z",
     "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-12T04:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Agent Package Manager",
@@ -124,15 +214,6 @@
     "stars": 353,
     "updated_at": "2026-06-12T04:29:31Z",
     "url": "https://github.com/agentmark-ai/agentmark"
-  },
-  {
-    "description": "\u628a\u958b\u767c\u898f\u7bc4\u5beb\u6210\u6a5f\u5668\u53ef\u8b80\u7684\u7d04\u675f\uff0c\u8b93 Claude \u81ea\u52d5\u9075\u5b88 TDD\u3001ADR\u3001commit \u9598\u9580\u8207\u767c\u5e03\u6aa2\u67e5",
-    "id": "astroicers/AI-SOP-Protocol",
-    "language": "Shell",
-    "name": "astroicers/AI-SOP-Protocol",
-    "stars": 3,
-    "updated_at": "2026-06-12T04:44:06Z",
-    "url": "https://github.com/astroicers/AI-SOP-Protocol"
   },
   {
     "description": "DARE is a structured methodology for AI-assisted software development. Four phases (Design \u2192 Architect \u2192 Review \u2192 Execut",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T04:20:23Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Access research-backed AI video ad prompts, UGC workflows, and creative templates to improve ad performance and reduce g",
-    "id": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "language": "\u2014",
-    "name": "kylamarie9379/awesome-ai-video-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:20:21Z",
-    "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:20:21Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 1,
-    "updated_at": "2026-06-12T04:20:17Z",
-    "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 1,
-    "updated_at": "2026-06-12T04:20:15Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:20:04Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-06-12T04:19:35Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Run local LLM coding tasks in a single Go binary with an interactive terminal interface, directory summarization, and se",
-    "id": "wendyneat563/atlas.llm",
-    "language": "Go",
-    "name": "wendyneat563/atlas.llm",
-    "stars": 1,
-    "updated_at": "2026-06-12T04:19:31Z",
-    "url": "https://github.com/wendyneat563/atlas.llm"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-06-12T04:19:07Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 23418,
-    "updated_at": "2026-06-12T04:18:53Z",
-    "url": "https://github.com/chopratejas/headroom"
   }
 ]
