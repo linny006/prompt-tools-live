@@ -1,5 +1,131 @@
 [
   {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:30:07Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 4,
+    "updated_at": "2026-06-12T18:29:34Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
+    "id": "ralphmoran/ticket-lens",
+    "language": "JavaScript",
+    "name": "ralphmoran/ticket-lens",
+    "stars": 1,
+    "updated_at": "2026-06-12T18:27:09Z",
+    "url": "https://github.com/ralphmoran/ticket-lens"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1346,
+    "updated_at": "2026-06-12T18:26:42Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Agent skill that rewrites rough prompts into polished, model-specific prompts \u2014 grounded in the official Anthropic promp",
+    "id": "mfarzanansari/prompt-polish",
+    "language": "\u2014",
+    "name": "mfarzanansari/prompt-polish",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:30:21Z",
+    "url": "https://github.com/mfarzanansari/prompt-polish"
+  },
+  {
+    "description": "AUDIT.md \u2014 an honest, self-improving audit protocol for AI coding agents. Evidence-gated, eval-regressed, AI-agnostic. B",
+    "id": "cyberskill-official/code-audit-framework",
+    "language": "Python",
+    "name": "cyberskill-official/code-audit-framework",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:25:31Z",
+    "url": "https://github.com/cyberskill-official/code-audit-framework"
+  },
+  {
+    "description": "Find what your AI agent gets wrong \u2014 before you have a rubric. Qualitative eval for PMs.",
+    "id": "aws-samples/sample-GEDD",
+    "language": "Python",
+    "name": "aws-samples/sample-GEDD",
+    "stars": 4,
+    "updated_at": "2026-06-12T18:25:25Z",
+    "url": "https://github.com/aws-samples/sample-GEDD"
+  },
+  {
+    "description": "The open-source studio behind Hashiden \u2014 the 24/7 show written by gameplay. MineBTC's content pipeline: canon, chapters,",
+    "id": "LifeOrDream/ai-content-engine",
+    "language": "TypeScript",
+    "name": "LifeOrDream/ai-content-engine",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:22:46Z",
+    "url": "https://github.com/LifeOrDream/ai-content-engine"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19589,
+    "updated_at": "2026-06-12T18:28:48Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Heart-centered system prompts for AI that foster compassion and interconnection. Multiple versions available with easy i",
+    "id": "TechNickAI/heart-centered-prompts",
+    "language": "Python",
+    "name": "TechNickAI/heart-centered-prompts",
+    "stars": 6,
+    "updated_at": "2026-06-12T18:21:36Z",
+    "url": "https://github.com/TechNickAI/heart-centered-prompts"
+  },
+  {
+    "description": "Production RAG pipeline using Azure OpenAI, LangChain & FAISS | 500-1000 doc Q&A system @ Ericsson",
+    "id": "ansh1423/AI-Knowledge-Assistant-RAG",
+    "language": "Python",
+    "name": "ansh1423/AI-Knowledge-Assistant-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:19:16Z",
+    "url": "https://github.com/ansh1423/AI-Knowledge-Assistant-RAG"
+  },
+  {
+    "description": "Agente de excelencia para OpenCode que crece contigo. 9 fases, 11 skills, auto-adaptaci\u00f3n y aprendizaje de errores. Cuan",
+    "id": "fxMT-nx/El-Primor",
+    "language": "JavaScript",
+    "name": "fxMT-nx/El-Primor",
+    "stars": 6,
+    "updated_at": "2026-06-12T18:18:27Z",
+    "url": "https://github.com/fxMT-nx/El-Primor"
+  },
+  {
+    "description": "60 days. 60 prompts. 1 AI. Zero excuses. \u2014 My ABTalks Claude AI Challenge journey.",
+    "id": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
+    "language": "HTML",
+    "name": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
+    "stars": 1,
+    "updated_at": "2026-06-12T18:16:32Z",
+    "url": "https://github.com/devpal-singh-anand/ABTalks-60-Day-Claude-Challenge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-12T18:15:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -14,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10114,
-    "updated_at": "2026-06-12T18:15:15Z",
+    "updated_at": "2026-06-12T18:30:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -27,31 +153,13 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Heart-centered system prompts for AI that foster compassion and interconnection. Multiple versions available with easy i",
-    "id": "TechNickAI/heart-centered-prompts",
+    "description": "Offline terminal prompt builder \u2014 answer a few questions, get a perfect AI prompt in your clipboard.",
+    "id": "i73i73i73i73/RAPT0R",
     "language": "Python",
-    "name": "TechNickAI/heart-centered-prompts",
-    "stars": 6,
-    "updated_at": "2026-06-12T18:14:34Z",
-    "url": "https://github.com/TechNickAI/heart-centered-prompts"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19589,
-    "updated_at": "2026-06-12T18:14:41Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "60 days. 60 prompts. 1 AI. Zero excuses. \u2014 My ABTalks Claude AI Challenge journey.",
-    "id": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
-    "language": "HTML",
-    "name": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
-    "stars": 1,
-    "updated_at": "2026-06-12T18:14:21Z",
-    "url": "https://github.com/devpal-singh-anand/ABTalks-60-Day-Claude-Challenge"
+    "name": "i73i73i73i73/RAPT0R",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:14:18Z",
+    "url": "https://github.com/i73i73i73i73/RAPT0R"
   },
   {
     "description": "Structured, spec-driven development workflow for AI coding agents.",
@@ -61,15 +169,6 @@
     "stars": 20,
     "updated_at": "2026-06-12T18:11:05Z",
     "url": "https://github.com/sahil87/fab-kit"
-  },
-  {
-    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
-    "id": "christopherlouet/claude-base",
-    "language": "Shell",
-    "name": "christopherlouet/claude-base",
-    "stars": 4,
-    "updated_at": "2026-06-12T18:09:45Z",
-    "url": "https://github.com/christopherlouet/claude-base"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -103,18 +202,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26472,
+    "stars": 26473,
     "updated_at": "2026-06-12T18:04:48Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Find what your AI agent gets wrong \u2014 before you have a rubric. Qualitative eval for PMs.",
-    "id": "aws-samples/sample-GEDD",
-    "language": "Python",
-    "name": "aws-samples/sample-GEDD",
-    "stars": 4,
-    "updated_at": "2026-06-12T18:03:18Z",
-    "url": "https://github.com/aws-samples/sample-GEDD"
   },
   {
     "description": "AI coding with the receipts: deterministic, spec-gated, decision-logged, human-in-the-loop. A lean, spec-driven workflow",
@@ -133,15 +223,6 @@
     "stars": 39,
     "updated_at": "2026-06-12T18:01:14Z",
     "url": "https://github.com/MushroomFleet/LLM-Base-Prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-12T18:00:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
@@ -166,7 +247,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 24363,
+    "stars": 24374,
     "updated_at": "2026-06-12T17:58:13Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -189,15 +270,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
-    "description": "Open-source content pipeline for MineBTC HashBeasts, game-native story memory, prompts, trailers, and AI video.",
-    "id": "LifeOrDream/ai-content-engine",
-    "language": "TypeScript",
-    "name": "LifeOrDream/ai-content-engine",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:55:25Z",
-    "url": "https://github.com/LifeOrDream/ai-content-engine"
-  },
-  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -211,7 +283,7 @@
     "id": "Kiln-AI/Kiln",
     "language": "Python",
     "name": "Kiln-AI/Kiln",
-    "stars": 4894,
+    "stars": 4895,
     "updated_at": "2026-06-12T17:55:11Z",
     "url": "https://github.com/Kiln-AI/Kiln"
   },
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-12T17:50:58Z",
     "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:50:13Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:49:48Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:49:29Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:49:28Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:49:15Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 2,
-    "updated_at": "2026-06-12T17:48:53Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-06-12T17:48:50Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-12T17:48:32Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
   }
 ]
