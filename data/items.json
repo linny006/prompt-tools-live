@@ -1,12 +1,138 @@
 [
   {
+    "description": "\u628a\u6a21\u7cca\u60f3\u6cd5\u6574\u7406\u6210\u6e05\u6670\u3001\u53ef\u6267\u884c\u3001\u53ef\u9a8c\u6536\u9700\u6c42\u7684\u8de8 Agent Skill\u3002",
+    "id": "zzpt8/clarify-idea-skill",
+    "language": "JavaScript",
+    "name": "zzpt8/clarify-idea-skill",
+    "stars": 1,
+    "updated_at": "2026-06-12T11:28:56Z",
+    "url": "https://github.com/zzpt8/clarify-idea-skill"
+  },
+  {
+    "description": "Terminal workflows for rapid AI-powered debugging and repository analysis",
+    "id": "johnsellin93/grab",
+    "language": "Shell",
+    "name": "johnsellin93/grab",
+    "stars": 9,
+    "updated_at": "2026-06-12T11:25:55Z",
+    "url": "https://github.com/johnsellin93/grab"
+  },
+  {
+    "description": "Comparing LLM architecture reviews of the pgjdbc Codec API through claims, evidence, and adjudication (RU + EN)",
+    "id": "vlsi/pgjdbc-codec-api-review",
+    "language": "\u2014",
+    "name": "vlsi/pgjdbc-codec-api-review",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:25:46Z",
+    "url": "https://github.com/vlsi/pgjdbc-codec-api-review"
+  },
+  {
+    "description": "\ud83d\udcb8 Cut ~66% off your LLM bill. Drop-in proxy compresses input, output, and cache: any provider, answers unchanged, no ext",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 1,
+    "updated_at": "2026-06-12T11:24:42Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Are you using Claude Code to its full potential? This methodology \u2014 60 hooks, 109 skills, 15 agents, Evidence Policy \u2014 w",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 5,
+    "updated_at": "2026-06-12T11:24:22Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
     "description": "Local-first AI video workflow workbench for planning, evaluating, iterating, and exporting generation-ready video produc",
     "id": "whaidushu/ShotForge",
     "language": "Python",
     "name": "whaidushu/ShotForge",
     "stars": 0,
-    "updated_at": "2026-06-12T11:13:58Z",
+    "updated_at": "2026-06-12T11:23:19Z",
     "url": "https://github.com/whaidushu/ShotForge"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 45,
+    "updated_at": "2026-06-12T11:22:27Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "\ud83d\udcac 1,300+ AI personas for LLMs and agents.",
+    "id": "KudoAI/ai-personas",
+    "language": "Python",
+    "name": "KudoAI/ai-personas",
+    "stars": 26,
+    "updated_at": "2026-06-12T11:22:10Z",
+    "url": "https://github.com/KudoAI/ai-personas"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 3,
+    "updated_at": "2026-06-12T11:21:17Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 28975,
+    "updated_at": "2026-06-12T11:26:40Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Compile human language into token-efficient machine-readable task packets for LLM agents",
+    "id": "aDragon0707/token-prompt-compiler",
+    "language": "JavaScript",
+    "name": "aDragon0707/token-prompt-compiler",
+    "stars": 1,
+    "updated_at": "2026-06-12T11:20:29Z",
+    "url": "https://github.com/aDragon0707/token-prompt-compiler"
+  },
+  {
+    "description": "Open-source content pipeline for MineBTC HashBeasts, game-native story memory, prompts, trailers, and AI video.",
+    "id": "LifeOrDream/ai-content-engine",
+    "language": "TypeScript",
+    "name": "LifeOrDream/ai-content-engine",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:17:01Z",
+    "url": "https://github.com/LifeOrDream/ai-content-engine"
+  },
+  {
+    "description": "Senior AI PM | Shipping agentic AI products that solve real  compliance, regulatory & product intelligence problems |  1",
+    "id": "mehreenhimani/MehreenHimani",
+    "language": "\u2014",
+    "name": "mehreenhimani/MehreenHimani",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:16:37Z",
+    "url": "https://github.com/mehreenhimani/MehreenHimani"
+  },
+  {
+    "description": "Reproducible diversity for LLM data generation \u2014 seed generations from curated trait lattices",
+    "id": "sam-at-axiotic/traitseed",
+    "language": "Python",
+    "name": "sam-at-axiotic/traitseed",
+    "stars": 1,
+    "updated_at": "2026-06-12T11:15:53Z",
+    "url": "https://github.com/sam-at-axiotic/traitseed"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-12T11:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
@@ -16,15 +142,6 @@
     "stars": 11,
     "updated_at": "2026-06-12T11:12:53Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "\ud83d\udcb8 Cut ~66% off your LLM bill. Drop-in proxy compresses input, output, and cache: any provider, answers unchanged, no ext",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 1,
-    "updated_at": "2026-06-12T11:12:07Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "A bounded-task playbook for using Codex Spark as a fast secondary execution channel.",
@@ -54,33 +171,6 @@
     "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
-    "description": "Are you using Claude Code to its full potential? This methodology \u2014 60 hooks, 109 skills, 15 agents, Evidence Policy \u2014 w",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 5,
-    "updated_at": "2026-06-12T11:09:47Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Terminal workflows for rapid AI-powered debugging and repository analysis",
-    "id": "johnsellin93/grab",
-    "language": "Shell",
-    "name": "johnsellin93/grab",
-    "stars": 9,
-    "updated_at": "2026-06-12T11:08:44Z",
-    "url": "https://github.com/johnsellin93/grab"
-  },
-  {
-    "description": "Senior AI PM | Shipping agentic AI products that solve real  compliance, regulatory & product intelligence problems |  1",
-    "id": "mehreenhimani/MehreenHimani",
-    "language": "\u2014",
-    "name": "mehreenhimani/MehreenHimani",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:07:28Z",
-    "url": "https://github.com/mehreenhimani/MehreenHimani"
-  },
-  {
     "description": "Structured prompts and verifiable execution for Claude Code agents. The Danilov method: INDEX/DEFINITIONS/RELATIONS prom",
     "id": "VascendTechnologies/Vascend-Official-Plugins",
     "language": "JavaScript",
@@ -108,15 +198,6 @@
     "url": "https://github.com/bogheorghiu/ex-cog-dev"
   },
   {
-    "description": "Open-source content pipeline for MineBTC HashBeasts, game-native story memory, prompts, trailers, and AI video.",
-    "id": "LifeOrDream/ai-content-engine",
-    "language": "TypeScript",
-    "name": "LifeOrDream/ai-content-engine",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:05:27Z",
-    "url": "https://github.com/LifeOrDream/ai-content-engine"
-  },
-  {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
     "id": "Open-Less/openless",
     "language": "Rust",
@@ -124,24 +205,6 @@
     "stars": 2280,
     "updated_at": "2026-06-12T11:03:02Z",
     "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "Compile human language into token-efficient machine-readable task packets for LLM agents",
-    "id": "aDragon0707/token-prompt-compiler",
-    "language": "JavaScript",
-    "name": "aDragon0707/token-prompt-compiler",
-    "stars": 1,
-    "updated_at": "2026-06-12T11:02:45Z",
-    "url": "https://github.com/aDragon0707/token-prompt-compiler"
-  },
-  {
-    "description": "\u628a\u6a21\u7cca\u60f3\u6cd5\u6574\u7406\u6210\u6e05\u6670\u3001\u53ef\u6267\u884c\u3001\u53ef\u9a8c\u6536\u9700\u6c42\u7684\u8de8 Agent Skill\u3002",
-    "id": "zzpt8/clarify-idea-skill",
-    "language": "\u2014",
-    "name": "zzpt8/clarify-idea-skill",
-    "stars": 1,
-    "updated_at": "2026-06-12T11:02:31Z",
-    "url": "https://github.com/zzpt8/clarify-idea-skill"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -198,15 +261,6 @@
     "url": "https://github.com/prasti8527/legal-ai-skills"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 1,
-    "updated_at": "2026-06-12T11:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
     "id": "herreravalenz6620/context-compression",
     "language": "Python",
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19585,
-    "updated_at": "2026-06-12T11:13:34Z",
+    "updated_at": "2026-06-12T11:29:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -319,7 +373,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 411,
+    "stars": 421,
     "updated_at": "2026-06-12T10:56:31Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T10:55:24Z",
     "url": "https://github.com/kylamarie9379/awesome-ai-video-ads-prompts"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:55:24Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Transcribe voice input to AI-polished text on macOS and Windows using a hotkey.",
-    "id": "Imrananti4462/openless",
-    "language": "HTML",
-    "name": "Imrananti4462/openless",
-    "stars": 1,
-    "updated_at": "2026-06-12T10:55:22Z",
-    "url": "https://github.com/Imrananti4462/openless"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 1,
-    "updated_at": "2026-06-12T10:55:20Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Document safety failures in LLMs through the EASL jailbreak vulnerability study across major AI vendors.",
-    "id": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "language": "\u2014",
-    "name": "cheeseboardchalcisfly616/LLM-Jailbreak-Research",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:55:06Z",
-    "url": "https://github.com/cheeseboardchalcisfly616/LLM-Jailbreak-Research"
-  },
-  {
-    "description": "A multilingual Agent Skill Pack that turns AI agents into guided learning coaches.",
-    "id": "vesperchinn/learn-anything-skill",
-    "language": "Python",
-    "name": "vesperchinn/learn-anything-skill",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:54:46Z",
-    "url": "https://github.com/vesperchinn/learn-anything-skill"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-06-12T10:54:35Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
   }
 ]
