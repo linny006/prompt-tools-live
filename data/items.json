@@ -1,5 +1,113 @@
 [
   {
+    "description": "TOON for TYPO3 \u2014 a compact, human-readable, and token-efficient data format for AI prompts & LLM contexts. Perfect for C",
+    "id": "therohanparmar/t3-toon",
+    "language": "PHP",
+    "name": "therohanparmar/t3-toon",
+    "stars": 4,
+    "updated_at": "2026-06-12T04:44:30Z",
+    "url": "https://github.com/therohanparmar/t3-toon"
+  },
+  {
+    "description": "The complete open-source LLM curriculum \u2014 prompt engineering, RAG, fine-tuning, agents, and production deployment. Begin",
+    "id": "ruhaankumar2013-debug/Practical-AI-engineering",
+    "language": "\u2014",
+    "name": "ruhaankumar2013-debug/Practical-AI-engineering",
+    "stars": 3,
+    "updated_at": "2026-06-12T04:44:25Z",
+    "url": "https://github.com/ruhaankumar2013-debug/Practical-AI-engineering"
+  },
+  {
+    "description": "The wise entity you talk to \u2014 a counsel layer over Claude Code, built eval-first.",
+    "id": "timyjsong/mimir",
+    "language": "JavaScript",
+    "name": "timyjsong/mimir",
+    "stars": 0,
+    "updated_at": "2026-06-12T04:43:40Z",
+    "url": "https://github.com/timyjsong/mimir"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "\u2014",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 2,
+    "updated_at": "2026-06-12T04:40:46Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Compile human language into token-efficient machine-readable task packets for LLM agents",
+    "id": "aDragon0707/token-prompt-compiler",
+    "language": "JavaScript",
+    "name": "aDragon0707/token-prompt-compiler",
+    "stars": 1,
+    "updated_at": "2026-06-12T04:39:54Z",
+    "url": "https://github.com/aDragon0707/token-prompt-compiler"
+  },
+  {
+    "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive codin",
+    "id": "LearnPrompt/cc-harness-skills",
+    "language": "Python",
+    "name": "LearnPrompt/cc-harness-skills",
+    "stars": 218,
+    "updated_at": "2026-06-12T04:39:46Z",
+    "url": "https://github.com/LearnPrompt/cc-harness-skills"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-12T04:39:28Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
+    "id": "ZeroLu/awesome-gpt-image",
+    "language": "Python",
+    "name": "ZeroLu/awesome-gpt-image",
+    "stars": 1682,
+    "updated_at": "2026-06-12T04:38:32Z",
+    "url": "https://github.com/ZeroLu/awesome-gpt-image"
+  },
+  {
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
+    "id": "f/prompts.chat",
+    "language": "HTML",
+    "name": "f/prompts.chat",
+    "stars": 163596,
+    "updated_at": "2026-06-12T04:35:13Z",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1631,
+    "updated_at": "2026-06-12T04:33:11Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 1,
+    "updated_at": "2026-06-12T04:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2843,
+    "updated_at": "2026-06-12T04:30:21Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
     "description": "A small, file-first verification harness that turns an AI agent's \"I'm done\" claim into an auditable admission decision.",
     "id": "BrianNguyen29/x-harness",
     "language": "Go",
@@ -18,21 +126,12 @@
     "url": "https://github.com/agentmark-ai/agentmark"
   },
   {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 2842,
-    "updated_at": "2026-06-12T04:30:21Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
     "description": "\u628a\u958b\u767c\u898f\u7bc4\u5beb\u6210\u6a5f\u5668\u53ef\u8b80\u7684\u7d04\u675f\uff0c\u8b93 Claude \u81ea\u52d5\u9075\u5b88 TDD\u3001ADR\u3001commit \u9598\u9580\u8207\u767c\u5e03\u6aa2\u67e5",
     "id": "astroicers/AI-SOP-Protocol",
     "language": "Shell",
     "name": "astroicers/AI-SOP-Protocol",
     "stars": 3,
-    "updated_at": "2026-06-12T04:28:37Z",
+    "updated_at": "2026-06-12T04:44:06Z",
     "url": "https://github.com/astroicers/AI-SOP-Protocol"
   },
   {
@@ -41,7 +140,7 @@
     "language": "HTML",
     "name": "dewtech-technologies/dare-method",
     "stars": 3,
-    "updated_at": "2026-06-12T04:28:32Z",
+    "updated_at": "2026-06-12T04:41:38Z",
     "url": "https://github.com/dewtech-technologies/dare-method"
   },
   {
@@ -346,107 +445,8 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 23411,
+    "stars": 23418,
     "updated_at": "2026-06-12T04:18:53Z",
     "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-12T04:18:41Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-06-12T04:18:39Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-06-12T04:18:37Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 2,
-    "updated_at": "2026-06-12T04:18:25Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "Connect Last9 observability data to Cursor via MCP to debug production logs, metrics, and traces directly in your editor",
-    "id": "Christianly-bar1265/cursor-plugin",
-    "language": "\u2014",
-    "name": "Christianly-bar1265/cursor-plugin",
-    "stars": 1,
-    "updated_at": "2026-06-12T04:18:16Z",
-    "url": "https://github.com/Christianly-bar1265/cursor-plugin"
-  },
-  {
-    "description": "Store Prometheus metrics in ClickHouse with native support for PromQL queries. Simplify long-term storage without managi",
-    "id": "Namandla0101/PromClick",
-    "language": "\u2014",
-    "name": "Namandla0101/PromClick",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:18:01Z",
-    "url": "https://github.com/Namandla0101/PromClick"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:17:57Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Analyze Justin Sun\u2019s cognitive operating system by processing thousands of his tweets, interviews, and publications to e",
-    "id": "Emanuelam6674/sun-skill",
-    "language": "\u2014",
-    "name": "Emanuelam6674/sun-skill",
-    "stars": 1,
-    "updated_at": "2026-06-12T04:17:52Z",
-    "url": "https://github.com/Emanuelam6674/sun-skill"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:17:21Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1339,
-    "updated_at": "2026-06-12T04:17:17Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Automate AI research workflows using Claude Code skills to manage project progress, perform rigorous algorithm reviews, ",
-    "id": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "language": "\u2014",
-    "name": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "stars": 0,
-    "updated_at": "2026-06-12T04:17:17Z",
-    "url": "https://github.com/Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy"
   }
 ]
