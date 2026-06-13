@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "VisionaireLabs/Visionaire",
     "stars": 2,
-    "updated_at": "2026-06-13T00:29:58Z",
+    "updated_at": "2026-06-13T00:41:22Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
@@ -14,8 +14,80 @@
     "language": "JavaScript",
     "name": "aihxp/mythify",
     "stars": 0,
-    "updated_at": "2026-06-13T00:29:48Z",
+    "updated_at": "2026-06-13T00:40:00Z",
     "url": "https://github.com/aihxp/mythify"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "MartiniArt/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "MartiniArt/awesome-seedance-2-prompt",
+    "stars": 0,
+    "updated_at": "2026-06-13T00:38:50Z",
+    "url": "https://github.com/MartiniArt/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 51,
+    "updated_at": "2026-06-13T00:37:37Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "A portable scaffold for structuring human\u2013AI collaboration, preserving context and reducing drift across sessions and to",
+    "id": "Tiinex/ai",
+    "language": "PowerShell",
+    "name": "Tiinex/ai",
+    "stars": 1,
+    "updated_at": "2026-06-13T00:35:27Z",
+    "url": "https://github.com/Tiinex/ai"
+  },
+  {
+    "description": "AI-powered prompt generator that turns rough ideas into powerful prompts for ChatGPT and Claude.",
+    "id": "Wazzified/WazzPrompt",
+    "language": "TypeScript",
+    "name": "Wazzified/WazzPrompt",
+    "stars": 0,
+    "updated_at": "2026-06-13T00:33:16Z",
+    "url": "https://github.com/Wazzified/WazzPrompt"
+  },
+  {
+    "description": "Production readiness and audit kit for security, compliance, and release gates \u2014 with 18 expert agents and full file-lin",
+    "id": "Harery/Praetor",
+    "language": "Shell",
+    "name": "Harery/Praetor",
+    "stars": 0,
+    "updated_at": "2026-06-13T00:37:46Z",
+    "url": "https://github.com/Harery/Praetor"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12482,
+    "updated_at": "2026-06-13T00:32:28Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thi",
+    "id": "asgeirtj/system_prompts_leaks",
+    "language": "JavaScript",
+    "name": "asgeirtj/system_prompts_leaks",
+    "stars": 41867,
+    "updated_at": "2026-06-13T00:30:49Z",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-13T00:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -198,15 +270,6 @@
     "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
   },
   {
-    "description": "Production readiness and audit kit for security, compliance, and release gates \u2014 with 18 expert agents and full file-lin",
-    "id": "Harery/Praetor",
-    "language": "Shell",
-    "name": "Harery/Praetor",
-    "stars": 0,
-    "updated_at": "2026-06-13T00:22:40Z",
-    "url": "https://github.com/Harery/Praetor"
-  },
-  {
     "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
     "id": "Lynnastretched449/ai-hiring-workflow-engine",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T00:20:04Z",
     "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Analyze Justin Sun\u2019s cognitive operating system by processing thousands of his tweets, interviews, and publications to e",
-    "id": "Emanuelam6674/sun-skill",
-    "language": "\u2014",
-    "name": "Emanuelam6674/sun-skill",
-    "stars": 1,
-    "updated_at": "2026-06-13T00:20:02Z",
-    "url": "https://github.com/Emanuelam6674/sun-skill"
-  },
-  {
-    "description": "Store Prometheus metrics in ClickHouse with native support for PromQL queries. Simplify long-term storage without managi",
-    "id": "Namandla0101/PromClick",
-    "language": "\u2014",
-    "name": "Namandla0101/PromClick",
-    "stars": 0,
-    "updated_at": "2026-06-13T00:19:55Z",
-    "url": "https://github.com/Namandla0101/PromClick"
-  },
-  {
-    "description": "Track public technical updates, architecture notes, and development benchmarks for the Happy Horse 1.0 AI video generati",
-    "id": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "language": "\u2014",
-    "name": "Waldoncockeyed9421/Happy-Horse-1.0",
-    "stars": 0,
-    "updated_at": "2026-06-13T00:19:42Z",
-    "url": "https://github.com/Waldoncockeyed9421/Happy-Horse-1.0"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-06-13T00:19:31Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "Automate AI research workflows using Claude Code skills to manage project progress, perform rigorous algorithm reviews, ",
-    "id": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "language": "\u2014",
-    "name": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "stars": 0,
-    "updated_at": "2026-06-13T00:19:25Z",
-    "url": "https://github.com/Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-13T00:19:19Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 3,
-    "updated_at": "2026-06-13T00:19:15Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
   }
 ]
