@@ -1,12 +1,75 @@
 [
   {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 26,
+    "updated_at": "2026-06-13T21:59:40Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
     "name": "HIDORAKAI002/ai-workspace-archive",
     "stars": 18,
-    "updated_at": "2026-06-13T21:44:25Z",
+    "updated_at": "2026-06-13T21:56:50Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "AI Firewall & LLM security toolkit - protect your AI applications from prompt injection, jailbreaks, PII leakage, and ad",
+    "id": "CollieAi/llm-firewall",
+    "language": "\u2014",
+    "name": "CollieAi/llm-firewall",
+    "stars": 43,
+    "updated_at": "2026-06-13T21:56:37Z",
+    "url": "https://github.com/CollieAi/llm-firewall"
+  },
+  {
+    "description": "AI-related dotfiles and configs",
+    "id": "kubasejdak-org/dotfiles-ai",
+    "language": "Shell",
+    "name": "kubasejdak-org/dotfiles-ai",
+    "stars": 0,
+    "updated_at": "2026-06-13T21:55:37Z",
+    "url": "https://github.com/kubasejdak-org/dotfiles-ai"
+  },
+  {
+    "description": "whatif is an open experiment runner for LLM behavior changes. whatif forks production traces, replays them    with a pro",
+    "id": "victoralfred/whatifd",
+    "language": "Python",
+    "name": "victoralfred/whatifd",
+    "stars": 3,
+    "updated_at": "2026-06-13T21:54:29Z",
+    "url": "https://github.com/victoralfred/whatifd"
+  },
+  {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 41,
+    "updated_at": "2026-06-13T21:48:55Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-13T21:47:16Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-13T21:45:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Case study: an AI coding tutor that coaches students through their own code without writing it for them. App is private ",
@@ -25,33 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T21:43:52Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "whatif is an open experiment runner for LLM behavior changes. whatif forks production traces, replays them    with a pro",
-    "id": "victoralfred/whatifd",
-    "language": "Python",
-    "name": "victoralfred/whatifd",
-    "stars": 3,
-    "updated_at": "2026-06-13T21:40:38Z",
-    "url": "https://github.com/victoralfred/whatifd"
-  },
-  {
-    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
-    "id": "Supervertaler/Supervertaler-Workbench",
-    "language": "Python",
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 41,
-    "updated_at": "2026-06-13T21:40:11Z",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
-  },
-  {
-    "description": "AI-related dotfiles and configs",
-    "id": "kubasejdak-org/dotfiles-ai",
-    "language": "Shell",
-    "name": "kubasejdak-org/dotfiles-ai",
-    "stars": 0,
-    "updated_at": "2026-06-13T21:37:42Z",
-    "url": "https://github.com/kubasejdak-org/dotfiles-ai"
   },
   {
     "description": "A Claude Code skill that lets you switch sessions without losing context. Auto-generates handoff docs, maintains STATUS.",
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T21:33:06Z",
     "url": "https://github.com/PH5h5W6d2L/fable-mode"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-13T21:30:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-13T21:13:56Z",
     "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-06-13T21:13:56Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-13T21:13:37Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Generate production-ready UGC video ad prompts for Higgsfield AI Marketing Studio from your reference images and product",
-    "id": "carreras66848657/claude-skill-ugc-prompt",
-    "language": "\u2014",
-    "name": "carreras66848657/claude-skill-ugc-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-13T21:13:34Z",
-    "url": "https://github.com/carreras66848657/claude-skill-ugc-prompt"
   }
 ]
