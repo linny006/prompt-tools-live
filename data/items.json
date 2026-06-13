@@ -1,5 +1,131 @@
 [
   {
+    "description": "Full-stack prompt workspace for Claude Code and Codex with ASP.NET Core, React, PostgreSQL and SignalR.",
+    "id": "psielta/Thoth",
+    "language": "C#",
+    "name": "psielta/Thoth",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:53:18Z",
+    "url": "https://github.com/psielta/Thoth"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:52:42Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "Config-driven multi-agent RAG platform for building, deploying, and managing AI assistants with FastAPI, ChromaDB, Docke",
+    "id": "Shubham-8055/GenAIStack",
+    "language": "Python",
+    "name": "Shubham-8055/GenAIStack",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:52:22Z",
+    "url": "https://github.com/Shubham-8055/GenAIStack"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "Python",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-06-13T15:52:21Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "An AI-powered agent that converts plain English questions into SQL queries on banking data built with Python, Gemini API",
+    "id": "juliet3-lab/bankquery-ai",
+    "language": "Python",
+    "name": "juliet3-lab/bankquery-ai",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:51:32Z",
+    "url": "https://github.com/juliet3-lab/bankquery-ai"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 25752,
+    "updated_at": "2026-06-13T15:50:42Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "whatif is an open experiment runner for LLM behavior changes. whatif forks production traces, replays them    with a pro",
+    "id": "victoralfred/whatifd",
+    "language": "Python",
+    "name": "victoralfred/whatifd",
+    "stars": 3,
+    "updated_at": "2026-06-13T15:49:30Z",
+    "url": "https://github.com/victoralfred/whatifd"
+  },
+  {
+    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
+    "id": "areliw/mt-score-up-skill",
+    "language": "Python",
+    "name": "areliw/mt-score-up-skill",
+    "stars": 1,
+    "updated_at": "2026-06-13T15:49:17Z",
+    "url": "https://github.com/areliw/mt-score-up-skill"
+  },
+  {
+    "description": "Meta-Skills\uff1a\u7ea6\u675f AI \u63a8\u7406\u7684\u5143\u903b\u8f91\u6846\u67b6\u3002\u5b9a\u4e49 Category \u2192 Elemental Domain\uff0c\u8ba9 AI \u7ed3\u6784\u5316\u601d\u8003\u3002",
+    "id": "autentisitet/meta-skills",
+    "language": "\u2014",
+    "name": "autentisitet/meta-skills",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:49:04Z",
+    "url": "https://github.com/autentisitet/meta-skills"
+  },
+  {
+    "description": "Audit a GitHub README for AI-generated cliche patterns. Single HTML file, BYOK Claude API, MIT licensed. No build step, ",
+    "id": "0xelitesystem/readme-slop-checker",
+    "language": "HTML",
+    "name": "0xelitesystem/readme-slop-checker",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:48:29Z",
+    "url": "https://github.com/0xelitesystem/readme-slop-checker"
+  },
+  {
+    "description": "Compare two versions of a prompt and see exactly what changed. Word, character, and line-level diffs. Single HTML file, ",
+    "id": "0xelitesystem/prompt-diff",
+    "language": "HTML",
+    "name": "0xelitesystem/prompt-diff",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:48:14Z",
+    "url": "https://github.com/0xelitesystem/prompt-diff"
+  },
+  {
+    "description": "Estimate token count and API cost for a prompt across Anthropic, OpenAI, and Google models. Browser-only, no API calls, ",
+    "id": "0xelitesystem/prompt-cost-calculator",
+    "language": "HTML",
+    "name": "0xelitesystem/prompt-cost-calculator",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:48:10Z",
+    "url": "https://github.com/0xelitesystem/prompt-cost-calculator"
+  },
+  {
+    "description": "Give any model Mythos-class operational discipline: planning loops, executed verification, and persistent memory via a d",
+    "id": "aihxp/mythify",
+    "language": "JavaScript",
+    "name": "aihxp/mythify",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:45:27Z",
+    "url": "https://github.com/aihxp/mythify"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-13T15:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Run the same prompt against multiple Claude models side-by-side. Compare outputs, latency, and cost in one click. BYOK, ",
     "id": "0xelitesystem/claude-eval-harness",
     "language": "HTML",
@@ -18,21 +144,12 @@
     "url": "https://github.com/Urdemonlord/hermes-rules-kit"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 25739,
-    "updated_at": "2026-06-13T15:44:49Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
     "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
     "id": "zigrivers/scaffold",
     "language": "TypeScript",
     "name": "zigrivers/scaffold",
     "stars": 5,
-    "updated_at": "2026-06-13T15:42:23Z",
+    "updated_at": "2026-06-13T15:53:00Z",
     "url": "https://github.com/zigrivers/scaffold"
   },
   {
@@ -72,15 +189,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Give any model Mythos-class operational discipline: planning loops, executed verification, and persistent memory via a d",
-    "id": "aihxp/mythify",
-    "language": "JavaScript",
-    "name": "aihxp/mythify",
-    "stars": 0,
-    "updated_at": "2026-06-13T15:40:50Z",
-    "url": "https://github.com/aihxp/mythify"
-  },
-  {
     "description": "Meridian - A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversa",
     "id": "MathisVerstrepen/Meridian",
     "language": "Vue",
@@ -88,15 +196,6 @@
     "stars": 18,
     "updated_at": "2026-06-13T15:40:13Z",
     "url": "https://github.com/MathisVerstrepen/Meridian"
-  },
-  {
-    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
-    "id": "areliw/mt-score-up-skill",
-    "language": "Python",
-    "name": "areliw/mt-score-up-skill",
-    "stars": 1,
-    "updated_at": "2026-06-13T15:39:34Z",
-    "url": "https://github.com/areliw/mt-score-up-skill"
   },
   {
     "description": "RepoPrompt for Windows \u2014 Context Engineering Tool for AI Coding Agents. Windows port of repoprompt/repoprompt-ce.",
@@ -113,7 +212,7 @@
     "language": "Shell",
     "name": "christopherlouet/claude-base",
     "stars": 4,
-    "updated_at": "2026-06-13T15:39:06Z",
+    "updated_at": "2026-06-13T15:48:24Z",
     "url": "https://github.com/christopherlouet/claude-base"
   },
   {
@@ -121,18 +220,9 @@
     "id": "Open-Less/openless",
     "language": "HTML",
     "name": "Open-Less/openless",
-    "stars": 2302,
+    "stars": 2303,
     "updated_at": "2026-06-13T15:33:33Z",
     "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-13T15:30:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Compress bloated AI prompts, plans, and outlines to 30-50%. Kill verbose AI instructions.",
@@ -358,95 +448,5 @@
     "stars": 271,
     "updated_at": "2026-06-13T15:06:40Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22165,
-    "updated_at": "2026-06-13T15:03:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "A skill that evaluates whether a suggested change is truly worth making before giving advice or editing.\u8ba9\u4f60\u7684agent\u4e09\u601d\u800c\u540e\u884c",
-    "id": "eClip8e-coder/do-think-twice",
-    "language": "\u2014",
-    "name": "eClip8e-coder/do-think-twice",
-    "stars": 1,
-    "updated_at": "2026-06-13T15:01:52Z",
-    "url": "https://github.com/eClip8e-coder/do-think-twice"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-06-13T15:01:39Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-06-13T15:01:16Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 0,
-    "updated_at": "2026-06-13T15:01:15Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-06-13T15:01:05Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "An AI-powered agent that converts plain English questions into SQL queries on banking data built with Python, Gemini API",
-    "id": "juliet3-lab/bankquery-ai",
-    "language": "Python",
-    "name": "juliet3-lab/bankquery-ai",
-    "stars": 0,
-    "updated_at": "2026-06-13T15:00:21Z",
-    "url": "https://github.com/juliet3-lab/bankquery-ai"
-  },
-  {
-    "description": "Benchmarking instruction-following, reasoning stability, and cauliflower persistence in modern language models.",
-    "id": "CookieShualon/caulibench",
-    "language": "TypeScript",
-    "name": "CookieShualon/caulibench",
-    "stars": 1,
-    "updated_at": "2026-06-13T14:59:41Z",
-    "url": "https://github.com/CookieShualon/caulibench"
-  },
-  {
-    "description": "Semantic Privacy Guard: A Java middleware that intercepts text, identifies PII using a three-layer hybrid pipeline (Rege",
-    "id": "Sushegaad/Semantic-Privacy-Guard",
-    "language": "Java",
-    "name": "Sushegaad/Semantic-Privacy-Guard",
-    "stars": 12,
-    "updated_at": "2026-06-13T14:54:50Z",
-    "url": "https://github.com/Sushegaad/Semantic-Privacy-Guard"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-13T14:53:38Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
