@@ -1,5 +1,149 @@
 [
   {
+    "description": "Run the same prompt against multiple Claude models side-by-side. Compare outputs, latency, and cost in one click. BYOK, ",
+    "id": "0xelitesystem/claude-eval-harness",
+    "language": "HTML",
+    "name": "0xelitesystem/claude-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:44:37Z",
+    "url": "https://github.com/0xelitesystem/claude-eval-harness"
+  },
+  {
+    "description": "Hermes-native execution rules, templates, and skills for grounded coding, verification, research, and multimodal proof.",
+    "id": "Urdemonlord/hermes-rules-kit",
+    "language": "\u2014",
+    "name": "Urdemonlord/hermes-rules-kit",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:44:29Z",
+    "url": "https://github.com/Urdemonlord/hermes-rules-kit"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 25739,
+    "updated_at": "2026-06-13T15:44:49Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 5,
+    "updated_at": "2026-06-13T15:42:23Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:41:37Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "Open-source AI operations toolkit for small education providers: prompts, schemas, LINE bot/CLI demos, evals, and privac",
+    "id": "ting07081010-ui/moosie-eduops-ai-kit",
+    "language": "JavaScript",
+    "name": "ting07081010-ui/moosie-eduops-ai-kit",
+    "stars": 2,
+    "updated_at": "2026-06-13T15:41:25Z",
+    "url": "https://github.com/ting07081010-ui/moosie-eduops-ai-kit"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 1,
+    "updated_at": "2026-06-13T15:41:10Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:40:51Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Give any model Mythos-class operational discipline: planning loops, executed verification, and persistent memory via a d",
+    "id": "aihxp/mythify",
+    "language": "JavaScript",
+    "name": "aihxp/mythify",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:40:50Z",
+    "url": "https://github.com/aihxp/mythify"
+  },
+  {
+    "description": "Meridian - A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversa",
+    "id": "MathisVerstrepen/Meridian",
+    "language": "Vue",
+    "name": "MathisVerstrepen/Meridian",
+    "stars": 18,
+    "updated_at": "2026-06-13T15:40:13Z",
+    "url": "https://github.com/MathisVerstrepen/Meridian"
+  },
+  {
+    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
+    "id": "areliw/mt-score-up-skill",
+    "language": "Python",
+    "name": "areliw/mt-score-up-skill",
+    "stars": 1,
+    "updated_at": "2026-06-13T15:39:34Z",
+    "url": "https://github.com/areliw/mt-score-up-skill"
+  },
+  {
+    "description": "RepoPrompt for Windows \u2014 Context Engineering Tool for AI Coding Agents. Windows port of repoprompt/repoprompt-ce.",
+    "id": "MiaAI-Lab/reprompt-windows",
+    "language": "Rust",
+    "name": "MiaAI-Lab/reprompt-windows",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:39:07Z",
+    "url": "https://github.com/MiaAI-Lab/reprompt-windows"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 4,
+    "updated_at": "2026-06-13T15:39:06Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "HTML",
+    "name": "Open-Less/openless",
+    "stars": 2302,
+    "updated_at": "2026-06-13T15:33:33Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-13T15:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Compress bloated AI prompts, plans, and outlines to 30-50%. Kill verbose AI instructions.",
+    "id": "NEUwpy/shutup-skill",
+    "language": "\u2014",
+    "name": "NEUwpy/shutup-skill",
+    "stars": 0,
+    "updated_at": "2026-06-13T15:30:25Z",
+    "url": "https://github.com/NEUwpy/shutup-skill"
+  },
+  {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
     "id": "5uprem4/ai-skill-vault",
     "language": "HTML",
@@ -43,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-06-13T15:27:23Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "RepoPrompt for Windows \u2014 Context Engineering Tool for AI Coding Agents. Windows port of repoprompt/repoprompt-ce.",
-    "id": "MiaAI-Lab/reprompt-windows",
-    "language": "Rust",
-    "name": "MiaAI-Lab/reprompt-windows",
-    "stars": 0,
-    "updated_at": "2026-06-13T15:27:16Z",
-    "url": "https://github.com/MiaAI-Lab/reprompt-windows"
   },
   {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
@@ -117,15 +252,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
-    "id": "areliw/mt-score-up-skill",
-    "language": "Python",
-    "name": "areliw/mt-score-up-skill",
-    "stars": 1,
-    "updated_at": "2026-06-13T15:26:07Z",
-    "url": "https://github.com/areliw/mt-score-up-skill"
-  },
-  {
     "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
     "id": "jmagly/aiwg",
     "language": "TypeScript",
@@ -180,15 +306,6 @@
     "url": "https://github.com/Tree-Trace/treetrace"
   },
   {
-    "description": "Hermes-native execution rules, templates, and skills for grounded coding, verification, research, and multimodal proof.",
-    "id": "Urdemonlord/hermes-rules-kit",
-    "language": "\u2014",
-    "name": "Urdemonlord/hermes-rules-kit",
-    "stars": 0,
-    "updated_at": "2026-06-13T15:21:33Z",
-    "url": "https://github.com/Urdemonlord/hermes-rules-kit"
-  },
-  {
     "description": "Documentation, Specification and Website for PromptPack.org",
     "id": "AltairaLabs/promptpack-spec",
     "language": "TypeScript",
@@ -196,42 +313,6 @@
     "stars": 6,
     "updated_at": "2026-06-13T15:21:10Z",
     "url": "https://github.com/AltairaLabs/promptpack-spec"
-  },
-  {
-    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
-    "id": "christopherlouet/claude-base",
-    "language": "Shell",
-    "name": "christopherlouet/claude-base",
-    "stars": 4,
-    "updated_at": "2026-06-13T15:26:19Z",
-    "url": "https://github.com/christopherlouet/claude-base"
-  },
-  {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "HTML",
-    "name": "Open-Less/openless",
-    "stars": 2302,
-    "updated_at": "2026-06-13T15:18:23Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-13T15:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Compress bloated AI prompts, plans, and outlines to 30-50%. Kill verbose AI instructions.",
-    "id": "NEUwpy/shutup-skill",
-    "language": "\u2014",
-    "name": "NEUwpy/shutup-skill",
-    "stars": 0,
-    "updated_at": "2026-06-13T15:14:05Z",
-    "url": "https://github.com/NEUwpy/shutup-skill"
   },
   {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
@@ -286,15 +367,6 @@
     "stars": 22165,
     "updated_at": "2026-06-13T15:03:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 1,
-    "updated_at": "2026-06-13T15:07:03Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
   },
   {
     "description": "A skill that evaluates whether a suggested change is truly worth making before giving advice or editing.\u8ba9\u4f60\u7684agent\u4e09\u601d\u800c\u540e\u884c",
@@ -360,15 +432,6 @@
     "url": "https://github.com/CookieShualon/caulibench"
   },
   {
-    "description": "Give any model Mythos-class operational discipline: planning loops, executed verification, and persistent memory via a d",
-    "id": "aihxp/mythify",
-    "language": "JavaScript",
-    "name": "aihxp/mythify",
-    "stars": 0,
-    "updated_at": "2026-06-13T14:58:24Z",
-    "url": "https://github.com/aihxp/mythify"
-  },
-  {
     "description": "Semantic Privacy Guard: A Java middleware that intercepts text, identifies PII using a three-layer hybrid pipeline (Rege",
     "id": "Sushegaad/Semantic-Privacy-Guard",
     "language": "Java",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T14:53:38Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "\u9762\u5411\u4e2d\u56fd\u5bb6\u5ead\u4ee3\u9645\u6c9f\u901a\u7684 Agent Skill\uff1a\u5148\u5224\u98ce\u9669\uff0c\u518d\u9009\u54c4\u3001\u62d6\u3001\u8c08\u3001\u6362\u3001\u786c\u3001\u8d70\uff0c\u63d0\u4f9b\u8fb9\u754c\u3001\u5b89\u5168\u65b9\u6848\u548c\u53ef\u590d\u5236\u8bdd\u672f\u3002",
-    "id": "coinluu/xiaoshun-but-no-neihao",
-    "language": "\u2014",
-    "name": "coinluu/xiaoshun-but-no-neihao",
-    "stars": 0,
-    "updated_at": "2026-06-13T14:51:12Z",
-    "url": "https://github.com/coinluu/xiaoshun-but-no-neihao"
-  },
-  {
-    "description": "Short themed anecdotes above the TL;DR \u2014 a shared 'flair' for Claude Code (/flair) and Claude.ai, built from one source.",
-    "id": "bastien-gallay/flair",
-    "language": "Shell",
-    "name": "bastien-gallay/flair",
-    "stars": 0,
-    "updated_at": "2026-06-13T14:49:53Z",
-    "url": "https://github.com/bastien-gallay/flair"
-  },
-  {
-    "description": "Structured, spec-driven development workflow for AI coding agents.",
-    "id": "sahil87/fab-kit",
-    "language": "Go",
-    "name": "sahil87/fab-kit",
-    "stars": 22,
-    "updated_at": "2026-06-13T15:22:31Z",
-    "url": "https://github.com/sahil87/fab-kit"
-  },
-  {
-    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
-    "id": "robertomarchioro/prompt-a-porter",
-    "language": "Rust",
-    "name": "robertomarchioro/prompt-a-porter",
-    "stars": 0,
-    "updated_at": "2026-06-13T14:49:39Z",
-    "url": "https://github.com/robertomarchioro/prompt-a-porter"
-  },
-  {
-    "description": "Deep Research skill for Claude Code \u2014 7-phase pipeline, 75 report blocks, 29 search channels, 280+ stat sources, 30+ API",
-    "id": "Socialpranker/claude-deep-research",
-    "language": "Python",
-    "name": "Socialpranker/claude-deep-research",
-    "stars": 4,
-    "updated_at": "2026-06-13T14:46:42Z",
-    "url": "https://github.com/Socialpranker/claude-deep-research"
-  },
-  {
-    "description": "Your AI coding agents are brilliant but a little too eager to call it 'done'. Agentic OS gives them a five-step workflow",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 8,
-    "updated_at": "2026-06-13T14:43:41Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 45,
-    "updated_at": "2026-06-13T14:43:14Z",
-    "url": "https://github.com/ariffazil/arifos"
   }
 ]
