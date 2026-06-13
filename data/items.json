@@ -1,11 +1,101 @@
 [
   {
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
+    "id": "OutlineDriven/odin-claude-plugin",
+    "language": "Python",
+    "name": "OutlineDriven/odin-claude-plugin",
+    "stars": 27,
+    "updated_at": "2026-06-13T22:29:03Z",
+    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
+    "description": "Find what your AI agent gets wrong \u2014 before you have a rubric. Qualitative eval for PMs.",
+    "id": "aws-samples/sample-GEDD",
+    "language": "Python",
+    "name": "aws-samples/sample-GEDD",
+    "stars": 5,
+    "updated_at": "2026-06-13T22:28:49Z",
+    "url": "https://github.com/aws-samples/sample-GEDD"
+  },
+  {
+    "description": "Auditable context capsules for LLM handoffs, coding agents, and OpenCode MCP workflows.",
+    "id": "RainCherb/context-diamond",
+    "language": "Python",
+    "name": "RainCherb/context-diamond",
+    "stars": 1,
+    "updated_at": "2026-06-13T22:27:50Z",
+    "url": "https://github.com/RainCherb/context-diamond"
+  },
+  {
+    "description": "Specification-first framework for AI-ready docs, prompts, templates, examples, and deterministic context workflows.",
+    "id": "flommox/allzy-framework",
+    "language": "\u2014",
+    "name": "flommox/allzy-framework",
+    "stars": 0,
+    "updated_at": "2026-06-13T22:22:56Z",
+    "url": "https://github.com/flommox/allzy-framework"
+  },
+  {
+    "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 1,
+    "updated_at": "2026-06-13T22:22:24Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "\u2014",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 2,
+    "updated_at": "2026-06-13T22:22:00Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Done is an exit code; not a feeling.",
+    "id": "violhex/greenloop",
+    "language": "TypeScript",
+    "name": "violhex/greenloop",
+    "stars": 0,
+    "updated_at": "2026-06-13T22:20:25Z",
+    "url": "https://github.com/violhex/greenloop"
+  },
+  {
+    "description": "\u1bd3\ud834\udd1eLIPS\u22c6by\u22c6AVII\u02ce\u02ca\u02d7 - Lyrics & Instrumentation Prompt Synthesizer by @AVII \u24d2 2026",
+    "id": "vizarce/lips-by-avii",
+    "language": "HTML",
+    "name": "vizarce/lips-by-avii",
+    "stars": 0,
+    "updated_at": "2026-06-13T22:18:47Z",
+    "url": "https://github.com/vizarce/lips-by-avii"
+  },
+  {
+    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
+    "id": "Paulessus/odin-gemini-mcp-bridge",
+    "language": "HTML",
+    "name": "Paulessus/odin-gemini-mcp-bridge",
+    "stars": 0,
+    "updated_at": "2026-06-13T22:17:50Z",
+    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
+  },
+  {
+    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their ",
+    "id": "yzhao062/agent-style",
+    "language": "Python",
+    "name": "yzhao062/agent-style",
+    "stars": 501,
+    "updated_at": "2026-06-13T22:16:57Z",
+    "url": "https://github.com/yzhao062/agent-style"
+  },
+  {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
     "id": "linny006/prompt-tools-live",
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 2,
-    "updated_at": "2026-06-13T22:15:34Z",
+    "updated_at": "2026-06-13T22:16:20Z",
     "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
@@ -18,15 +108,6 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 1,
-    "updated_at": "2026-06-13T22:14:40Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T22:13:22Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Specification-first framework for AI-ready docs, prompts, templates, examples, and deterministic context workflows.",
-    "id": "flommox/allzy-framework",
-    "language": "\u2014",
-    "name": "flommox/allzy-framework",
-    "stars": 0,
-    "updated_at": "2026-06-13T22:11:21Z",
-    "url": "https://github.com/flommox/allzy-framework"
   },
   {
     "description": "ShadowQuill is a privacy\u2011first, offline and free prompt engineering/generation app powered by self-hosted local LLMs",
@@ -306,15 +378,6 @@
     "url": "https://github.com/mbanderas/maestro"
   },
   {
-    "description": "Find what your AI agent gets wrong \u2014 before you have a rubric. Qualitative eval for PMs.",
-    "id": "aws-samples/sample-GEDD",
-    "language": "Python",
-    "name": "aws-samples/sample-GEDD",
-    "stars": 5,
-    "updated_at": "2026-06-13T21:27:52Z",
-    "url": "https://github.com/aws-samples/sample-GEDD"
-  },
-  {
     "description": "The ultimate collaboration platform for Prompt Engineers. Share, rate, version, and discuss system prompts. Powered by N",
     "id": "runas555/Prompty",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T21:18:25Z",
     "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-06-13T21:18:22Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-06-13T21:17:34Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-13T21:17:19Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-06-13T21:16:51Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
-    "id": "Rickardserrulate236/portfolio-dumper",
-    "language": "HTML",
-    "name": "Rickardserrulate236/portfolio-dumper",
-    "stars": 1,
-    "updated_at": "2026-06-13T21:16:49Z",
-    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "Generate clean CLAUDE.md files for Claude Code with this single-file, offline tool that runs directly in your browser.",
-    "id": "Opsn5528/vibe-coding-claude-md",
-    "language": "HTML",
-    "name": "Opsn5528/vibe-coding-claude-md",
-    "stars": 1,
-    "updated_at": "2026-06-13T21:16:46Z",
-    "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-06-13T21:16:45Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
   }
 ]
