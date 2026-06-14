@@ -1,12 +1,84 @@
 [
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
+    "description": "Blueprint repository for Claude Code projects \u2014 RPI methodology, known agent error patterns, operational rules, and proj",
+    "id": "juan294/cc-rpi",
+    "language": "Shell",
+    "name": "juan294/cc-rpi",
+    "stars": 5,
+    "updated_at": "2026-06-14T06:33:13Z",
+    "url": "https://github.com/juan294/cc-rpi"
+  },
+  {
+    "description": "\ud83d\ude80 Optimize your prompts for AI systems easily and boost performance with intuitive tools and features designed for bette",
+    "id": "Alperrusul123a/prompt-optimizer",
+    "language": "TypeScript",
+    "name": "Alperrusul123a/prompt-optimizer",
+    "stars": 0,
+    "updated_at": "2026-06-14T06:33:04Z",
+    "url": "https://github.com/Alperrusul123a/prompt-optimizer"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Simplify Word document formatting with this tool that identifies and fixes layout issues automatically, ensuring comp",
+    "id": "Alexuuu123/docformat-gui",
     "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 26554,
-    "updated_at": "2026-06-14T06:29:29Z",
-    "url": "https://github.com/chopratejas/headroom"
+    "name": "Alexuuu123/docformat-gui",
+    "stars": 1,
+    "updated_at": "2026-06-14T06:32:39Z",
+    "url": "https://github.com/Alexuuu123/docformat-gui"
+  },
+  {
+    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
+    "id": "developersofik/greenprompt",
+    "language": "TypeScript",
+    "name": "developersofik/greenprompt",
+    "stars": 0,
+    "updated_at": "2026-06-14T06:32:27Z",
+    "url": "https://github.com/developersofik/greenprompt"
+  },
+  {
+    "description": "\ud83e\udd16 Discover top AI agent skills with our curated collection, featuring automated updates and precise classification from ",
+    "id": "mtnclk/awesome-top-skills",
+    "language": "\u2014",
+    "name": "mtnclk/awesome-top-skills",
+    "stars": 12,
+    "updated_at": "2026-06-14T06:32:19Z",
+    "url": "https://github.com/mtnclk/awesome-top-skills"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Enhance code quality with structured reviews, focusing on architecture, security, performance, and code hygiene for r",
+    "id": "mj9733246-cloud/code-review-expert",
+    "language": "\u2014",
+    "name": "mj9733246-cloud/code-review-expert",
+    "stars": 0,
+    "updated_at": "2026-06-14T06:32:07Z",
+    "url": "https://github.com/mj9733246-cloud/code-review-expert"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 272,
+    "updated_at": "2026-06-14T06:33:19Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "\ud83d\udd27 Access GitHub Copilot seamlessly from your taskbar with auto-context insights, enhancing your workflow in a native Win",
+    "id": "marcelgundelach284-ai/ghcopilot-taskbar-gui",
+    "language": "C#",
+    "name": "marcelgundelach284-ai/ghcopilot-taskbar-gui",
+    "stars": 1,
+    "updated_at": "2026-06-14T06:31:40Z",
+    "url": "https://github.com/marcelgundelach284-ai/ghcopilot-taskbar-gui"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Streamline AI-assisted code reviews for Linux kernel and systemd development with easy-to-use prompts and commands.",
+    "id": "lingngngng/review-prompts",
+    "language": "Python",
+    "name": "lingngngng/review-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-14T06:31:36Z",
+    "url": "https://github.com/lingngngng/review-prompts"
   },
   {
     "description": "A minimalist self-reflection chat app inspired by the teachings of  the great philosopher Acharya Prashant. ",
@@ -14,8 +86,62 @@
     "language": "Python",
     "name": "shreya1510ss/EGO-SHREDDER",
     "stars": 0,
-    "updated_at": "2026-06-14T06:29:25Z",
+    "updated_at": "2026-06-14T06:31:11Z",
     "url": "https://github.com/shreya1510ss/EGO-SHREDDER"
+  },
+  {
+    "description": "\ud83d\ude80 Prevent failures in production AI systems with this manual, offering patterns, checklists, and code for effective oper",
+    "id": "arturmq26/agentic-field-manual",
+    "language": "\u2014",
+    "name": "arturmq26/agentic-field-manual",
+    "stars": 1,
+    "updated_at": "2026-06-14T06:31:05Z",
+    "url": "https://github.com/arturmq26/agentic-field-manual"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-14T06:30:57Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "\ud83d\ude80 Compile human intent into secure, receipt-driven XML packages with the open-source SROS Self-Compiler, designed for mo",
+    "id": "Nawrassssssssss/SROS-Self-Compiler-Chat-OSS",
+    "language": "\u2014",
+    "name": "Nawrassssssssss/SROS-Self-Compiler-Chat-OSS",
+    "stars": 1,
+    "updated_at": "2026-06-14T06:30:37Z",
+    "url": "https://github.com/Nawrassssssssss/SROS-Self-Compiler-Chat-OSS"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-14T06:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udd16 Own and scale AI systems in production with reliable workflows and robust decision-making for seamless operation and r",
+    "id": "Subbyal/ai-system-ownership",
+    "language": "\u2014",
+    "name": "Subbyal/ai-system-ownership",
+    "stars": 0,
+    "updated_at": "2026-06-14T06:30:24Z",
+    "url": "https://github.com/Subbyal/ai-system-ownership"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 26558,
+    "updated_at": "2026-06-14T06:29:29Z",
+    "url": "https://github.com/chopratejas/headroom"
   },
   {
     "description": "\ud83d\ude80 Streamline your development with a 7-phase pipeline that transforms Claude Code into consistent, reliable features.",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T06:17:56Z",
     "url": "https://github.com/alexis09876/LLM2SQLSTRUCTUREDSEARCH"
-  },
-  {
-    "description": "\ud83d\ude80 Measure prompt effectiveness with FlowPrompt, the LLM framework that integrates A/B testing for smart, data-driven dec",
-    "id": "JuanSerrano44/flowprompt",
-    "language": "Python",
-    "name": "JuanSerrano44/flowprompt",
-    "stars": 1,
-    "updated_at": "2026-06-14T06:17:32Z",
-    "url": "https://github.com/JuanSerrano44/flowprompt"
-  },
-  {
-    "description": "\ud83c\udfa8 Create stunning logos effortlessly with ai-logo-maker, your offline tool for designing unique identities while keeping",
-    "id": "Super-Coder-King/ai-logo-maker",
-    "language": "\u2014",
-    "name": "Super-Coder-King/ai-logo-maker",
-    "stars": 2,
-    "updated_at": "2026-06-14T06:17:13Z",
-    "url": "https://github.com/Super-Coder-King/ai-logo-maker"
-  },
-  {
-    "description": "\u270d\ufe0f Write effective AI prompts with this structured prompt engineering library and Claude Code skill, featuring 300+ cura",
-    "id": "Marwane83930/structured-prompt-skill",
-    "language": "\u2014",
-    "name": "Marwane83930/structured-prompt-skill",
-    "stars": 2,
-    "updated_at": "2026-06-14T06:17:06Z",
-    "url": "https://github.com/Marwane83930/structured-prompt-skill"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10128,
-    "updated_at": "2026-06-14T06:17:04Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83c\udf10 Discover clear guidance and templates for using Claude effectively, enhancing your coding skills and productivity thro",
-    "id": "andyaziz/claude-code-ultimate-guide",
-    "language": "JavaScript",
-    "name": "andyaziz/claude-code-ultimate-guide",
-    "stars": 1,
-    "updated_at": "2026-06-14T06:16:57Z",
-    "url": "https://github.com/andyaziz/claude-code-ultimate-guide"
-  },
-  {
-    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
-    "id": "zxpmail/ReqForge",
-    "language": "JavaScript",
-    "name": "zxpmail/ReqForge",
-    "stars": 11,
-    "updated_at": "2026-06-14T06:16:56Z",
-    "url": "https://github.com/zxpmail/ReqForge"
-  },
-  {
-    "description": "\u2699\ufe0f Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici",
-    "id": "Kamixon131/claude-config",
-    "language": "\u2014",
-    "name": "Kamixon131/claude-config",
-    "stars": 1,
-    "updated_at": "2026-06-14T06:15:59Z",
-    "url": "https://github.com/Kamixon131/claude-config"
-  },
-  {
-    "description": "",
-    "id": "rahim946/AI-trending-topic-research-automation",
-    "language": "\u2014",
-    "name": "rahim946/AI-trending-topic-research-automation",
-    "stars": 0,
-    "updated_at": "2026-06-14T06:15:48Z",
-    "url": "https://github.com/rahim946/AI-trending-topic-research-automation"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-14T06:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "\ud83d\ude80 Manage AI prompts effectively with PromptX, a powerful tool that enhances productivity through smart version control a",
-    "id": "Jhoy-jpg/PromptX",
-    "language": "\u2014",
-    "name": "Jhoy-jpg/PromptX",
-    "stars": 0,
-    "updated_at": "2026-06-14T06:15:21Z",
-    "url": "https://github.com/Jhoy-jpg/PromptX"
-  },
-  {
-    "description": "\ud83d\udd0d Obtain Kerberos service tickets effortlessly using the SPN-less technique with this Python tool, enhancing your securi",
-    "id": "tamadip007/getSPNless",
-    "language": "Python",
-    "name": "tamadip007/getSPNless",
-    "stars": 1,
-    "updated_at": "2026-06-14T06:15:17Z",
-    "url": "https://github.com/tamadip007/getSPNless"
-  },
-  {
-    "description": "\ud83e\uddec Analyze drugs efficiently with an AI agent that integrates MCP tools for fact-checking and safety insights, all access",
-    "id": "Kh4r0/Durg_Discovery_Agent_with_MCP_Integration",
-    "language": "Python",
-    "name": "Kh4r0/Durg_Discovery_Agent_with_MCP_Integration",
-    "stars": 0,
-    "updated_at": "2026-06-14T06:13:59Z",
-    "url": "https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Install, manage, and share Claude Code skills effortlessly with one command, streamlining your workflow and enhancing",
-    "id": "vyomdev011/agent-resources",
-    "language": "Python",
-    "name": "vyomdev011/agent-resources",
-    "stars": 3,
-    "updated_at": "2026-06-14T06:13:32Z",
-    "url": "https://github.com/vyomdev011/agent-resources"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Transform your workflow with persistent markdown files for planning, progress tracking, and knowledge storage, inspir",
-    "id": "Hans11609/planning-with-files",
-    "language": "Python",
-    "name": "Hans11609/planning-with-files",
-    "stars": 1,
-    "updated_at": "2026-06-14T06:13:01Z",
-    "url": "https://github.com/Hans11609/planning-with-files"
   }
 ]
