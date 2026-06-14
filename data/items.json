@@ -1,5 +1,95 @@
 [
   {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-14T07:43:46Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-14T07:43:03Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "Local context engine for AI coding agents. Routes tasks to relevant files, tests, rules, and skills, supports prompt cac",
+    "id": "vishal2612200/agentpack",
+    "language": "Python",
+    "name": "vishal2612200/agentpack",
+    "stars": 19,
+    "updated_at": "2026-06-14T07:40:19Z",
+    "url": "https://github.com/vishal2612200/agentpack"
+  },
+  {
+    "description": "Eval-Gated CI/CD for AI Products \u2014 blocks PRs that regress LLM quality using golden sets, LLM-as-judge (Gemini Flash), a",
+    "id": "TanishkaMarrott/eval-gated-cicd",
+    "language": "Python",
+    "name": "TanishkaMarrott/eval-gated-cicd",
+    "stars": 0,
+    "updated_at": "2026-06-14T07:38:17Z",
+    "url": "https://github.com/TanishkaMarrott/eval-gated-cicd"
+  },
+  {
+    "description": "Codex-only skill for Kimi swarm-style prompt refinement and verified workflow routing.",
+    "id": "min9lin9/kimi-agent-swarm-skill",
+    "language": "TypeScript",
+    "name": "min9lin9/kimi-agent-swarm-skill",
+    "stars": 0,
+    "updated_at": "2026-06-14T07:38:09Z",
+    "url": "https://github.com/min9lin9/kimi-agent-swarm-skill"
+  },
+  {
+    "description": "AI Firewall & LLM security toolkit - protect your AI applications from prompt injection, jailbreaks, PII leakage, and ad",
+    "id": "CollieAi/llm-firewall",
+    "language": "\u2014",
+    "name": "CollieAi/llm-firewall",
+    "stars": 43,
+    "updated_at": "2026-06-14T07:36:18Z",
+    "url": "https://github.com/CollieAi/llm-firewall"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 45,
+    "updated_at": "2026-06-14T07:33:31Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "vibestack is a portable skill pack for AI coding agents. Slash commands like /office-hours, /ship, /investigate, /tdd, /",
+    "id": "timurgaleev/vibestack",
+    "language": "TypeScript",
+    "name": "timurgaleev/vibestack",
+    "stars": 5,
+    "updated_at": "2026-06-14T07:33:38Z",
+    "url": "https://github.com/timurgaleev/vibestack"
+  },
+  {
+    "description": "The ultimate collaboration platform for Prompt Engineers. Share, rate, version, and discuss system prompts. Powered by N",
+    "id": "runas555/Prompty",
+    "language": "TypeScript",
+    "name": "runas555/Prompty",
+    "stars": 0,
+    "updated_at": "2026-06-14T07:32:41Z",
+    "url": "https://github.com/runas555/Prompty"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-14T07:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
     "id": "ftvision/agent-prompt-observatory",
     "language": "Python",
@@ -16,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-14T07:26:51Z",
     "url": "https://github.com/RylanHexx/CodeSera"
-  },
-  {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 45,
-    "updated_at": "2026-06-14T07:26:41Z",
-    "url": "https://github.com/ariffazil/arifos"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -207,15 +288,6 @@
     "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
   },
   {
-    "description": "Local context engine for AI coding agents. Routes tasks to relevant files, tests, rules, and skills, supports prompt cac",
-    "id": "vishal2612200/agentpack",
-    "language": "Python",
-    "name": "vishal2612200/agentpack",
-    "stars": 19,
-    "updated_at": "2026-06-14T07:22:14Z",
-    "url": "https://github.com/vishal2612200/agentpack"
-  },
-  {
     "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
     "id": "quiescencycommonrush642/goal-prompt-builder",
     "language": "\u2014",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-14T07:17:44Z",
     "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
-    "id": "dgenio/contextweaver",
-    "language": "Python",
-    "name": "dgenio/contextweaver",
-    "stars": 7,
-    "updated_at": "2026-06-14T07:17:40Z",
-    "url": "https://github.com/dgenio/contextweaver"
-  },
-  {
-    "description": "Connect Last9 observability data to Cursor via MCP to debug production logs, metrics, and traces directly in your editor",
-    "id": "Christianly-bar1265/cursor-plugin",
-    "language": "\u2014",
-    "name": "Christianly-bar1265/cursor-plugin",
-    "stars": 1,
-    "updated_at": "2026-06-14T07:17:14Z",
-    "url": "https://github.com/Christianly-bar1265/cursor-plugin"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-14T07:17:04Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Eval-Gated CI/CD for AI Products \u2014 blocks PRs that regress LLM quality using golden sets, LLM-as-judge (Gemini Flash), a",
-    "id": "TanishkaMarrott/eval-gated-cicd",
-    "language": "Python",
-    "name": "TanishkaMarrott/eval-gated-cicd",
-    "stars": 0,
-    "updated_at": "2026-06-14T07:16:56Z",
-    "url": "https://github.com/TanishkaMarrott/eval-gated-cicd"
-  },
-  {
-    "description": "Analyze Justin Sun\u2019s cognitive operating system by processing thousands of his tweets, interviews, and publications to e",
-    "id": "Emanuelam6674/sun-skill",
-    "language": "\u2014",
-    "name": "Emanuelam6674/sun-skill",
-    "stars": 1,
-    "updated_at": "2026-06-14T07:16:54Z",
-    "url": "https://github.com/Emanuelam6674/sun-skill"
-  },
-  {
-    "description": "Store Prometheus metrics in ClickHouse with native support for PromQL queries. Simplify long-term storage without managi",
-    "id": "Namandla0101/PromClick",
-    "language": "\u2014",
-    "name": "Namandla0101/PromClick",
-    "stars": 0,
-    "updated_at": "2026-06-14T07:16:53Z",
-    "url": "https://github.com/Namandla0101/PromClick"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-06-14T07:16:30Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "Automate AI research workflows using Claude Code skills to manage project progress, perform rigorous algorithm reviews, ",
-    "id": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "language": "\u2014",
-    "name": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "stars": 0,
-    "updated_at": "2026-06-14T07:16:30Z",
-    "url": "https://github.com/Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy"
   }
 ]
