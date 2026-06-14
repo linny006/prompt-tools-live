@@ -1,5 +1,86 @@
 [
   {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-14T18:28:33Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Council skill for Codex, Claude Code, and AI coding agents: expert review before coding, architecture decisions, refacto",
+    "id": "saroo98/council-skill",
+    "language": "HTML",
+    "name": "saroo98/council-skill",
+    "stars": 1,
+    "updated_at": "2026-06-14T18:27:55Z",
+    "url": "https://github.com/saroo98/council-skill"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-14T18:27:50Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "Ecossistema de tutoria via IA que busca e estrutura provas da web. Integra Cloudflare Workers, GitHub Actions, OpenHands",
+    "id": "TouchRefletz/maia.edu",
+    "language": "JavaScript",
+    "name": "TouchRefletz/maia.edu",
+    "stars": 0,
+    "updated_at": "2026-06-14T18:27:25Z",
+    "url": "https://github.com/TouchRefletz/maia.edu"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-14T18:17:54Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Codex skill for turning novels, scripts, and story worlds into interactive visual atlases.",
+    "id": "maikeliu86-coder/story-vista",
+    "language": "HTML",
+    "name": "maikeliu86-coder/story-vista",
+    "stars": 0,
+    "updated_at": "2026-06-14T18:17:05Z",
+    "url": "https://github.com/maikeliu86-coder/story-vista"
+  },
+  {
+    "description": "\ud83d\udd25 Claude Code \u8d44\u6e90\u5927\u5168 - \u63d0\u793a\u8bcd\u3001\u6280\u80fd\u3001\u6559\u7a0b\u3001\u6848\u4f8b\u3001MCP\u5de5\u5177\uff0c\u6700\u5168\u4e2d\u6587\u8d44\u6e90\u6574\u7406",
+    "id": "sissc0731/awesome-claude-code",
+    "language": "\u2014",
+    "name": "sissc0731/awesome-claude-code",
+    "stars": 0,
+    "updated_at": "2026-06-14T18:15:51Z",
+    "url": "https://github.com/sissc0731/awesome-claude-code"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 0,
+    "updated_at": "2026-06-14T18:15:27Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-14T18:15:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
@@ -23,7 +104,7 @@
     "language": "TypeScript",
     "name": "askable-ui/askable",
     "stars": 9,
-    "updated_at": "2026-06-14T18:14:14Z",
+    "updated_at": "2026-06-14T18:20:08Z",
     "url": "https://github.com/askable-ui/askable"
   },
   {
@@ -61,6 +142,15 @@
     "stars": 18,
     "updated_at": "2026-06-14T18:12:13Z",
     "url": "https://github.com/TomasHer/prompting-blueprints"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 34996,
+    "updated_at": "2026-06-14T18:09:16Z",
+    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
@@ -124,24 +214,6 @@
     "stars": 22188,
     "updated_at": "2026-06-14T18:03:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-14T18:00:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Council skill for Codex, Claude Code, and AI coding agents: expert review before coding, architecture decisions, refacto",
-    "id": "saroo98/council-skill",
-    "language": "HTML",
-    "name": "saroo98/council-skill",
-    "stars": 1,
-    "updated_at": "2026-06-14T18:15:19Z",
-    "url": "https://github.com/saroo98/council-skill"
   },
   {
     "description": "Agents that gets sharper every session",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-14T17:22:00Z",
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
-    "id": "AltairaLabs/PromptKit",
-    "language": "Go",
-    "name": "AltairaLabs/PromptKit",
-    "stars": 8,
-    "updated_at": "2026-06-14T17:20:45Z",
-    "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
-    "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 1,
-    "updated_at": "2026-06-14T17:19:15Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:18:18Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 2,
-    "updated_at": "2026-06-14T17:15:45Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "AI dotfiles",
-    "id": "manusa/ai",
-    "language": "Shell",
-    "name": "manusa/ai",
-    "stars": 1,
-    "updated_at": "2026-06-14T17:14:58Z",
-    "url": "https://github.com/manusa/ai"
-  },
-  {
-    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
-    "id": "gaofeng21cn/redcube-ai",
-    "language": "TypeScript",
-    "name": "gaofeng21cn/redcube-ai",
-    "stars": 2,
-    "updated_at": "2026-06-14T17:15:07Z",
-    "url": "https://github.com/gaofeng21cn/redcube-ai"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:14:12Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:13:01Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   }
 ]
