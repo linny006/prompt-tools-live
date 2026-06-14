@@ -1,5 +1,113 @@
 [
   {
+    "description": "Reviewable agent skills for coding agents: smaller diffs, token economy, delivery gates, frontend verification, and Loop",
+    "id": "markoblogo/abvx-agent-skills",
+    "language": "Python",
+    "name": "markoblogo/abvx-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-06-14T22:48:10Z",
+    "url": "https://github.com/markoblogo/abvx-agent-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance AI capabilities with a robust skills library, featuring over 25 specialized skills to make your AI smarter and",
+    "id": "thugyi/Super-Agent-Skills",
+    "language": "HTML",
+    "name": "thugyi/Super-Agent-Skills",
+    "stars": 0,
+    "updated_at": "2026-06-14T22:47:52Z",
+    "url": "https://github.com/thugyi/Super-Agent-Skills"
+  },
+  {
+    "description": "\ud83c\udfaf Build effective AI evaluations through a hands-on tutorial, using a realistic agent to enhance your production system ",
+    "id": "vshwsh/prod-evals-cookbook",
+    "language": "Python",
+    "name": "vshwsh/prod-evals-cookbook",
+    "stars": 0,
+    "updated_at": "2026-06-14T22:47:32Z",
+    "url": "https://github.com/vshwsh/prod-evals-cookbook"
+  },
+  {
+    "description": "\ud83e\udd16 Build an AI agent from scratch to analyze emotional impact in messages, enhancing your understanding of AI product dev",
+    "id": "aldhio1993/ai-product-from-scratch",
+    "language": "TypeScript",
+    "name": "aldhio1993/ai-product-from-scratch",
+    "stars": 1,
+    "updated_at": "2026-06-14T22:47:17Z",
+    "url": "https://github.com/aldhio1993/ai-product-from-scratch"
+  },
+  {
+    "description": "Enterprise-grade Codex prompt architect skill with plan-first, approval-gated engineering workflows.",
+    "id": "ucsahinn/codex-enterprise-prompt-architect",
+    "language": "JavaScript",
+    "name": "ucsahinn/codex-enterprise-prompt-architect",
+    "stars": 5,
+    "updated_at": "2026-06-14T22:47:00Z",
+    "url": "https://github.com/ucsahinn/codex-enterprise-prompt-architect"
+  },
+  {
+    "description": "Codex skill for AI-coding-ready project context, starter docs, agent instructions, and development guardrails.",
+    "id": "ucsahinn/context-engineering-project-starter",
+    "language": "Python",
+    "name": "ucsahinn/context-engineering-project-starter",
+    "stars": 5,
+    "updated_at": "2026-06-14T22:47:00Z",
+    "url": "https://github.com/ucsahinn/context-engineering-project-starter"
+  },
+  {
+    "description": "Codex skill and plugin toolkit for creating, validating, and packaging high-quality Codex skills.",
+    "id": "ucsahinn/codex-skill-forge",
+    "language": "JavaScript",
+    "name": "ucsahinn/codex-skill-forge",
+    "stars": 0,
+    "updated_at": "2026-06-14T22:47:00Z",
+    "url": "https://github.com/ucsahinn/codex-skill-forge"
+  },
+  {
+    "description": "\ud83c\udf4c Generate JSON prompts for ultra-photorealistic images of nano bananas and related subjects, ensuring reproducible and ",
+    "id": "vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts",
+    "language": "\u2014",
+    "name": "vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts",
+    "stars": 1,
+    "updated_at": "2026-06-14T22:46:44Z",
+    "url": "https://github.com/vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts"
+  },
+  {
+    "description": "\ud83d\udd0d Generate high-quality, schema-valid SQL from natural language queries using structured retrieval and iterative refinem",
+    "id": "alexis09876/LLM2SQLSTRUCTUREDSEARCH",
+    "language": "Python",
+    "name": "alexis09876/LLM2SQLSTRUCTUREDSEARCH",
+    "stars": 0,
+    "updated_at": "2026-06-14T22:46:09Z",
+    "url": "https://github.com/alexis09876/LLM2SQLSTRUCTUREDSEARCH"
+  },
+  {
+    "description": "\ud83d\ude80 Measure prompt effectiveness with FlowPrompt, the LLM framework that integrates A/B testing for smart, data-driven dec",
+    "id": "JuanSerrano44/flowprompt",
+    "language": "Python",
+    "name": "JuanSerrano44/flowprompt",
+    "stars": 1,
+    "updated_at": "2026-06-14T22:45:29Z",
+    "url": "https://github.com/JuanSerrano44/flowprompt"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-14T22:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83c\udfa8 Create stunning logos effortlessly with ai-logo-maker, your offline tool for designing unique identities while keeping",
+    "id": "Super-Coder-King/ai-logo-maker",
+    "language": "\u2014",
+    "name": "Super-Coder-King/ai-logo-maker",
+    "stars": 2,
+    "updated_at": "2026-06-14T22:45:21Z",
+    "url": "https://github.com/Super-Coder-King/ai-logo-maker"
+  },
+  {
     "description": "\u270d\ufe0f Write effective AI prompts with this structured prompt engineering library and Claude Code skill, featuring 300+ cura",
     "id": "Marwane83930/structured-prompt-skill",
     "language": "\u2014",
@@ -52,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T22:43:22Z",
     "url": "https://github.com/Jhoy-jpg/PromptX"
-  },
-  {
-    "description": "Reviewable agent skills for coding agents: smaller diffs, token economy, delivery gates, frontend verification, and Loop",
-    "id": "markoblogo/abvx-agent-skills",
-    "language": "Python",
-    "name": "markoblogo/abvx-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-06-14T22:42:46Z",
-    "url": "https://github.com/markoblogo/abvx-agent-skills"
   },
   {
     "description": "\ud83e\uddec Analyze drugs efficiently with an AI agent that integrates MCP tools for fact-checking and safety insights, all access",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-14T22:32:46Z",
     "url": "https://github.com/aaddii09/llm-eval-harness"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-06-14T22:32:32Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f Build an AI-powered personal knowledge system to efficiently manage and access your information with ease.",
-    "id": "iqbaldiit/Athena-Public",
-    "language": "HTML",
-    "name": "iqbaldiit/Athena-Public",
-    "stars": 2,
-    "updated_at": "2026-06-14T22:32:30Z",
-    "url": "https://github.com/iqbaldiit/Athena-Public"
-  },
-  {
-    "description": "\ud83d\ude80 Streamline LLM prompts with PromptManager: compress, enhance, generate, and control for improved efficiency and qualit",
-    "id": "adrian1302-byte/promptmanager",
-    "language": "Python",
-    "name": "adrian1302-byte/promptmanager",
-    "stars": 2,
-    "updated_at": "2026-06-14T22:31:57Z",
-    "url": "https://github.com/adrian1302-byte/promptmanager"
-  },
-  {
-    "description": "\ud83d\udcbc Manage your investments with AsesorAIrrechisimo, an AI-driven portfolio manager featuring a witty Venezuelan financial",
-    "id": "ZaykorDev/AsesorAIrrechisimo",
-    "language": "Lua",
-    "name": "ZaykorDev/AsesorAIrrechisimo",
-    "stars": 0,
-    "updated_at": "2026-06-14T22:30:59Z",
-    "url": "https://github.com/ZaykorDev/AsesorAIrrechisimo"
-  },
-  {
-    "description": "Enterprise-grade Codex prompt architect skill with plan-first, approval-gated engineering workflows.",
-    "id": "ucsahinn/codex-enterprise-prompt-architect",
-    "language": "JavaScript",
-    "name": "ucsahinn/codex-enterprise-prompt-architect",
-    "stars": 5,
-    "updated_at": "2026-06-14T22:30:47Z",
-    "url": "https://github.com/ucsahinn/codex-enterprise-prompt-architect"
-  },
-  {
-    "description": "Codex skill for AI-coding-ready project context, starter docs, agent instructions, and development guardrails.",
-    "id": "ucsahinn/context-engineering-project-starter",
-    "language": "Python",
-    "name": "ucsahinn/context-engineering-project-starter",
-    "stars": 5,
-    "updated_at": "2026-06-14T22:30:47Z",
-    "url": "https://github.com/ucsahinn/context-engineering-project-starter"
-  },
-  {
-    "description": "Codex skill and plugin toolkit for creating, validating, and packaging high-quality Codex skills.",
-    "id": "ucsahinn/codex-skill-forge",
-    "language": "JavaScript",
-    "name": "ucsahinn/codex-skill-forge",
-    "stars": 0,
-    "updated_at": "2026-06-14T22:30:47Z",
-    "url": "https://github.com/ucsahinn/codex-skill-forge"
-  },
-  {
-    "description": "\ud83d\udd0d Aggregate diverse sources effortlessly with HyperbookLM, your powerful AI research assistant for deep insights and int",
-    "id": "amankh007/hyperbooklm",
-    "language": "TypeScript",
-    "name": "amankh007/hyperbooklm",
-    "stars": 2,
-    "updated_at": "2026-06-14T22:30:46Z",
-    "url": "https://github.com/amankh007/hyperbooklm"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Build resilient agentic applications with AI-driven personas that guide you from concept to production in Claude Code",
-    "id": "Yasas9029/ai-design-engineering-cc-plugins",
-    "language": "\u2014",
-    "name": "Yasas9029/ai-design-engineering-cc-plugins",
-    "stars": 5,
-    "updated_at": "2026-06-14T22:30:32Z",
-    "url": "https://github.com/Yasas9029/ai-design-engineering-cc-plugins"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-14T22:30:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Autonomous AI Story Generator using Gemini API. Multi-axis randomization prevents repetitive plots. / Gemini API\u3092\u6d3b\u7528\u3057\u305f\u3001\u5b8c\u5168",
-    "id": "FURUYAN1234/story-maker",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/story-maker",
-    "stars": 3,
-    "updated_at": "2026-06-14T22:28:59Z",
-    "url": "https://github.com/FURUYAN1234/story-maker"
   }
 ]
