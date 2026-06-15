@@ -1,11 +1,155 @@
 [
   {
+    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
+    "id": "VectorPeak/vectorpeak-agent-skills",
+    "language": "Python",
+    "name": "VectorPeak/vectorpeak-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-06-15T06:59:45Z",
+    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
+  },
+  {
+    "description": "A Claude Code plugin for Java & Spring Boot backend engineers that turns one task into a gate-enforced 7-phase agentic w",
+    "id": "taipt1504/claudehut",
+    "language": "Shell",
+    "name": "taipt1504/claudehut",
+    "stars": 1,
+    "updated_at": "2026-06-15T06:59:37Z",
+    "url": "https://github.com/taipt1504/claudehut"
+  },
+  {
+    "description": "Local-first prompt-time experience recall for AI coding agents.",
+    "id": "rennzhang/oh-my-experience",
+    "language": "TypeScript",
+    "name": "rennzhang/oh-my-experience",
+    "stars": 1,
+    "updated_at": "2026-06-15T06:59:30Z",
+    "url": "https://github.com/rennzhang/oh-my-experience"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-15T06:58:49Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Open-source agent skills library for building SaaS, marketing systems, creative assets, and frontend design workflows",
+    "id": "sanky369/vibe-building-skills",
+    "language": "\u2014",
+    "name": "sanky369/vibe-building-skills",
+    "stars": 24,
+    "updated_at": "2026-06-15T06:58:05Z",
+    "url": "https://github.com/sanky369/vibe-building-skills"
+  },
+  {
+    "description": "AI Agent skill routing pattern for choosing the right skills before complex work starts.",
+    "id": "eric861129/Workflow-skill-router",
+    "language": "Python",
+    "name": "eric861129/Workflow-skill-router",
+    "stars": 0,
+    "updated_at": "2026-06-15T06:56:24Z",
+    "url": "https://github.com/eric861129/Workflow-skill-router"
+  },
+  {
+    "description": "UDAF \u2014 Universal Document Analysis Framework. A structured AgentSkill for analyzing, decomposing, and evaluating any doc",
+    "id": "yay0128/skill-udaf",
+    "language": "\u2014",
+    "name": "yay0128/skill-udaf",
+    "stars": 0,
+    "updated_at": "2026-06-15T06:56:09Z",
+    "url": "https://github.com/yay0128/skill-udaf"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 8,
+    "updated_at": "2026-06-15T06:55:47Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
+    "id": "dgenio/contextweaver",
+    "language": "Python",
+    "name": "dgenio/contextweaver",
+    "stars": 7,
+    "updated_at": "2026-06-15T06:54:49Z",
+    "url": "https://github.com/dgenio/contextweaver"
+  },
+  {
+    "description": "Give any model Mythos-class operational discipline: planning loops, executed verification, and persistent memory via a d",
+    "id": "aihxp/mythify",
+    "language": "JavaScript",
+    "name": "aihxp/mythify",
+    "stars": 0,
+    "updated_at": "2026-06-15T06:54:20Z",
+    "url": "https://github.com/aihxp/mythify"
+  },
+  {
+    "description": "Claude Code skill for strategic SEO link insertion and editorial outreach \u2014 blue ocean keyword gaps, 9 placement variati",
+    "id": "ChiefStarKid/link-pitch",
+    "language": "\u2014",
+    "name": "ChiefStarKid/link-pitch",
+    "stars": 0,
+    "updated_at": "2026-06-15T06:52:10Z",
+    "url": "https://github.com/ChiefStarKid/link-pitch"
+  },
+  {
+    "description": "The wise entity you talk to \u2014 a counsel layer over Claude Code, built eval-first.",
+    "id": "timyjsong/mimir",
+    "language": "JavaScript",
+    "name": "timyjsong/mimir",
+    "stars": 0,
+    "updated_at": "2026-06-15T06:51:49Z",
+    "url": "https://github.com/timyjsong/mimir"
+  },
+  {
+    "description": "Local-first PySide6 prompt manager with versions, boards, clipboard modes, JSON export and a read-only Web/PWA companion",
+    "id": "file-bricks/ProfiPrompt",
+    "language": "Python",
+    "name": "file-bricks/ProfiPrompt",
+    "stars": 1,
+    "updated_at": "2026-06-15T06:49:18Z",
+    "url": "https://github.com/file-bricks/ProfiPrompt"
+  },
+  {
+    "description": "12-week, project-driven Obsidian curriculum: cloud/infra engineer \u2192 AI Agent/LLM engineer. Companion narrative + intervi",
+    "id": "shaneliuyx/agent-development-curriculum",
+    "language": "Python",
+    "name": "shaneliuyx/agent-development-curriculum",
+    "stars": 3,
+    "updated_at": "2026-06-15T06:48:35Z",
+    "url": "https://github.com/shaneliuyx/agent-development-curriculum"
+  },
+  {
+    "description": "SillyTavern extension for temporarily speaking as an AI character from the normal chat box; explores whether human inter",
+    "id": "myyimu/vistr-tavern",
+    "language": "JavaScript",
+    "name": "myyimu/vistr-tavern",
+    "stars": 4,
+    "updated_at": "2026-06-15T06:46:02Z",
+    "url": "https://github.com/myyimu/vistr-tavern"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-15T06:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Structured, spec-driven development workflow for AI coding agents.",
     "id": "sahil87/fab-kit",
     "language": "Go",
     "name": "sahil87/fab-kit",
     "stars": 23,
-    "updated_at": "2026-06-15T06:42:32Z",
+    "updated_at": "2026-06-15T06:47:08Z",
     "url": "https://github.com/sahil87/fab-kit"
   },
   {
@@ -18,15 +162,6 @@
     "url": "https://github.com/Socialpranker/claude-deep-research"
   },
   {
-    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
-    "id": "AltairaLabs/PromptKit",
-    "language": "Go",
-    "name": "AltairaLabs/PromptKit",
-    "stars": 8,
-    "updated_at": "2026-06-15T06:41:22Z",
-    "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "\u2014",
@@ -36,21 +171,12 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "12-week, project-driven Obsidian curriculum: cloud/infra engineer \u2192 AI Agent/LLM engineer. Companion narrative + intervi",
-    "id": "shaneliuyx/agent-development-curriculum",
-    "language": "Python",
-    "name": "shaneliuyx/agent-development-curriculum",
-    "stars": 3,
-    "updated_at": "2026-06-15T06:39:49Z",
-    "url": "https://github.com/shaneliuyx/agent-development-curriculum"
-  },
-  {
     "description": "A tool that compiles messy natural language prompts into a structured intermediate representation (IR) and optionally se",
     "id": "madara88645/Compiler",
     "language": "Python",
     "name": "madara88645/Compiler",
     "stars": 25,
-    "updated_at": "2026-06-15T06:39:35Z",
+    "updated_at": "2026-06-15T06:56:36Z",
     "url": "https://github.com/madara88645/Compiler"
   },
   {
@@ -63,29 +189,11 @@
     "url": "https://github.com/swaylq/master-skill"
   },
   {
-    "description": "SillyTavern extension for temporarily speaking as an AI character from the normal chat box; explores whether human inter",
-    "id": "myyimu/vistr-tavern",
-    "language": "JavaScript",
-    "name": "myyimu/vistr-tavern",
-    "stars": 4,
-    "updated_at": "2026-06-15T06:39:12Z",
-    "url": "https://github.com/myyimu/vistr-tavern"
-  },
-  {
-    "description": "AI Agent skill routing pattern for choosing the right skills before complex work starts.",
-    "id": "eric861129/Workflow-skill-router",
-    "language": "Python",
-    "name": "eric861129/Workflow-skill-router",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:38:56Z",
-    "url": "https://github.com/eric861129/Workflow-skill-router"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 27899,
+    "stars": 27911,
     "updated_at": "2026-06-15T06:37:00Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -113,7 +221,7 @@
     "language": "Python",
     "name": "areliw/mt-score-up-skill",
     "stars": 1,
-    "updated_at": "2026-06-15T06:32:25Z",
+    "updated_at": "2026-06-15T06:51:43Z",
     "url": "https://github.com/areliw/mt-score-up-skill"
   },
   {
@@ -124,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T06:32:24Z",
     "url": "https://github.com/Diego-M-C/system-designer"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-15T06:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Fable Mode, a disciplined operating standard and toolkit designed to embed the rigorous operating principles of t",
@@ -169,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T06:27:07Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Give any model Mythos-class operational discipline: planning loops, executed verification, and persistent memory via a d",
-    "id": "aihxp/mythify",
-    "language": "JavaScript",
-    "name": "aihxp/mythify",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:26:24Z",
-    "url": "https://github.com/aihxp/mythify"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-15T06:15:54Z",
     "url": "https://github.com/Opsn5528/vibe-coding-claude-md"
-  },
-  {
-    "description": "Convert GitHub profiles and repositories into clean Markdown for use in documentation, portfolios, and AI prompts.",
-    "id": "Rickardserrulate236/portfolio-dumper",
-    "language": "HTML",
-    "name": "Rickardserrulate236/portfolio-dumper",
-    "stars": 1,
-    "updated_at": "2026-06-15T06:15:52Z",
-    "url": "https://github.com/Rickardserrulate236/portfolio-dumper"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:15:36Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
-    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "language": "HTML",
-    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:15:21Z",
-    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:15:15Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-06-15T06:15:14Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Automate social media accounts using an AI agent that navigates live web pages to perform tasks like liking posts and wr",
-    "id": "Dusty-plumcot781/locoagent",
-    "language": "\u2014",
-    "name": "Dusty-plumcot781/locoagent",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:15:07Z",
-    "url": "https://github.com/Dusty-plumcot781/locoagent"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 9,
-    "updated_at": "2026-06-15T06:14:33Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-06-15T06:14:32Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:14:06Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:13:49Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
   }
 ]
