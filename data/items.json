@@ -1,5 +1,113 @@
 [
   {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-15T13:59:54Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 5,
+    "updated_at": "2026-06-15T13:59:11Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "GitHub Action to sync, validate, generate, and diff AI IDE configuration files with LynxPrompt",
+    "id": "GeiserX/lynxprompt-action",
+    "language": "TypeScript",
+    "name": "GeiserX/lynxprompt-action",
+    "stars": 1,
+    "updated_at": "2026-06-15T13:58:48Z",
+    "url": "https://github.com/GeiserX/lynxprompt-action"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-15T13:57:22Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Same Ollama model (granite4.1:3b), three leaked system prompt styles (Claude Fable 5, OpenAI GPT, Google Gemini) \u2014 Strea",
+    "id": "47thtechcorner/RayCodes_PromptBattle",
+    "language": "HTML",
+    "name": "47thtechcorner/RayCodes_PromptBattle",
+    "stars": 0,
+    "updated_at": "2026-06-15T13:55:05Z",
+    "url": "https://github.com/47thtechcorner/RayCodes_PromptBattle"
+  },
+  {
+    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
+    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "language": "HTML",
+    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "stars": 0,
+    "updated_at": "2026-06-15T13:54:34Z",
+    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-15T13:54:14Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
+    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "language": "HTML",
+    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-15T13:50:27Z",
+    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26536,
+    "updated_at": "2026-06-15T13:54:19Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 1,
+    "updated_at": "2026-06-15T13:50:02Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Curated collection of AI agent skills for Antigravity, Claude Code, OpenCode & similar AI coding assistants",
+    "id": "flitzrrr/agent-skills",
+    "language": "JavaScript",
+    "name": "flitzrrr/agent-skills",
+    "stars": 3,
+    "updated_at": "2026-06-15T13:48:05Z",
+    "url": "https://github.com/flitzrrr/agent-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-15T13:45:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
     "id": "AltairaLabs/PromptKit",
     "language": "Go",
@@ -18,20 +126,11 @@
     "url": "https://github.com/shinjaehyun20/ai-workflow-kits"
   },
   {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-15T13:43:28Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
-  },
-  {
     "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 236,
+    "stars": 237,
     "updated_at": "2026-06-15T13:43:15Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -43,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T13:43:14Z",
     "url": "https://github.com/karailker/llm-coding-guardrails"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26536,
-    "updated_at": "2026-06-15T13:44:39Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "A recursive skill that stress-tests any conceptual framework through 6 rounds of adversarial refinement. Say \"Execute SO",
@@ -77,7 +167,7 @@
     "language": "HTML",
     "name": "Open-Less/openless",
     "stars": 2341,
-    "updated_at": "2026-06-15T13:40:24Z",
+    "updated_at": "2026-06-15T13:51:33Z",
     "url": "https://github.com/Open-Less/openless"
   },
   {
@@ -103,8 +193,8 @@
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
-    "stars": 39,
-    "updated_at": "2026-06-15T13:39:31Z",
+    "stars": 40,
+    "updated_at": "2026-06-15T13:53:50Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -122,7 +212,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29112,
-    "updated_at": "2026-06-15T13:35:52Z",
+    "updated_at": "2026-06-15T13:46:37Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -139,7 +229,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 12163,
+    "stars": 12322,
     "updated_at": "2026-06-15T13:34:42Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -167,17 +257,8 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 11,
-    "updated_at": "2026-06-15T13:31:05Z",
+    "updated_at": "2026-06-15T13:59:12Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-15T13:30:56Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
@@ -205,15 +286,6 @@
     "stars": 6,
     "updated_at": "2026-06-15T13:29:01Z",
     "url": "https://github.com/AmirMotefaker/ai-football-prediction-engine-world-cup-2026"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-15T13:28:46Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systemat",
@@ -266,7 +338,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19657,
-    "updated_at": "2026-06-15T13:35:54Z",
+    "updated_at": "2026-06-15T14:00:26Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -369,15 +441,6 @@
     "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
   },
   {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 1,
-    "updated_at": "2026-06-15T13:36:04Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T13:17:40Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-06-15T13:15:57Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 0,
-    "updated_at": "2026-06-15T13:15:03Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-06-15T13:15:02Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 3890,
-    "updated_at": "2026-06-15T13:45:20Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-06-15T13:15:00Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Open-source Pokemon Champions VGC coaching skills and evaluation workspace for Codex, Claude Code, and OpenCode.",
-    "id": "NoahJenkins/vgc-coach",
-    "language": "Python",
-    "name": "NoahJenkins/vgc-coach",
-    "stars": 2,
-    "updated_at": "2026-06-15T13:11:44Z",
-    "url": "https://github.com/NoahJenkins/vgc-coach"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 6658,
-    "updated_at": "2026-06-15T13:10:46Z",
-    "url": "https://github.com/Zipstack/unstract"
   }
 ]
