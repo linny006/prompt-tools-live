@@ -1,5 +1,113 @@
 [
   {
+    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 147,
+    "updated_at": "2026-06-15T20:45:26Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-15T20:45:17Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 7,
+    "updated_at": "2026-06-15T20:45:12Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 23,
+    "updated_at": "2026-06-15T20:44:57Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "Block merges when your LLM app's behaviour regresses. Behaviour regression testing for LLM applications \u2014 baselines as c",
+    "id": "Drift-CI/drift-ci",
+    "language": "TypeScript",
+    "name": "Drift-CI/drift-ci",
+    "stars": 0,
+    "updated_at": "2026-06-15T20:45:35Z",
+    "url": "https://github.com/Drift-CI/drift-ci"
+  },
+  {
+    "description": "Terminal workflows for AI-assisted debugging and review-first code modification.",
+    "id": "johnsellin93/grab",
+    "language": "Vim Script",
+    "name": "johnsellin93/grab",
+    "stars": 10,
+    "updated_at": "2026-06-15T20:43:26Z",
+    "url": "https://github.com/johnsellin93/grab"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-06-15T20:43:08Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Deterministic workspace mapper that assembles layered LLM context from your project's folder tree.",
+    "id": "dominikj111/model-workspace-protocol-tool",
+    "language": "Shell",
+    "name": "dominikj111/model-workspace-protocol-tool",
+    "stars": 1,
+    "updated_at": "2026-06-15T20:42:42Z",
+    "url": "https://github.com/dominikj111/model-workspace-protocol-tool"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-15T20:38:34Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10152,
+    "updated_at": "2026-06-15T20:38:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22237,
+    "updated_at": "2026-06-15T20:35:04Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-15T20:30:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
     "id": "J-nowcow/awesome-korean-agent-skills",
     "language": "\u2014",
@@ -13,7 +121,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 31715,
+    "stars": 31717,
     "updated_at": "2026-06-15T20:26:34Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -36,21 +144,12 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 147,
-    "updated_at": "2026-06-15T20:23:01Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29131,
-    "updated_at": "2026-06-15T20:22:53Z",
+    "updated_at": "2026-06-15T20:35:14Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -76,7 +175,7 @@
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 37,
+    "stars": 38,
     "updated_at": "2026-06-15T20:19:56Z",
     "url": "https://github.com/dongshuyan/compass-skills"
   },
@@ -88,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T20:19:47Z",
     "url": "https://github.com/rmdhananjay/contextual-memory-map"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-15T20:17:15Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Portable, LLM-agnostic meta-generator that scaffolds EU AI Act-compliant SDD projects from a single intent. Drop into Cl",
@@ -117,15 +207,6 @@
     "url": "https://github.com/anonyme-afk/logos-protocol"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-15T20:15:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
     "id": "rizvee/multimodel-dev-os",
     "language": "JavaScript",
@@ -133,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-06-15T20:14:07Z",
     "url": "https://github.com/rizvee/multimodel-dev-os"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22236,
-    "updated_at": "2026-06-15T20:19:41Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A battle-tested methodology and templates for building production software with AI agents \u2014 the Conductor pattern, used ",
@@ -162,15 +234,6 @@
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
-    "description": "Terminal workflows for AI-assisted debugging and review-first code modification.",
-    "id": "johnsellin93/grab",
-    "language": "Vim Script",
-    "name": "johnsellin93/grab",
-    "stars": 10,
-    "updated_at": "2026-06-15T20:10:07Z",
-    "url": "https://github.com/johnsellin93/grab"
-  },
-  {
     "description": "Gemini Nano Web Internals is an advanced vanilla JS playground to experiment with Chrome's built-in Gemini v3Nano model ",
     "id": "javaguru/on-device-internals",
     "language": "JavaScript",
@@ -178,24 +241,6 @@
     "stars": 1,
     "updated_at": "2026-06-15T20:09:49Z",
     "url": "https://github.com/javaguru/on-device-internals"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-06-15T20:29:35Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10152,
-    "updated_at": "2026-06-15T20:09:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T20:01:00Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 7,
-    "updated_at": "2026-06-15T19:57:11Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
     "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T19:43:22Z",
     "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 2,
-    "updated_at": "2026-06-15T19:43:22Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "Automate legal research, citation verification, and DOCX document processing with reusable AI agent skills compatible wi",
-    "id": "prasti8527/legal-ai-skills",
-    "language": "Python",
-    "name": "prasti8527/legal-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-06-15T19:43:21Z",
-    "url": "https://github.com/prasti8527/legal-ai-skills"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-06-15T19:41:58Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-06-15T19:41:44Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   }
 ]
