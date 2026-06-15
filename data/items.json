@@ -1,21 +1,66 @@
 [
   {
-    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
-    "id": "areliw/mt-score-up-skill",
+    "description": "Five-stage LLM screening pipeline that evaluates a resume against job descriptions from a Talent Consultant's perspectiv",
+    "id": "ChiefStarKid/resume-assessor",
     "language": "Python",
-    "name": "areliw/mt-score-up-skill",
-    "stars": 1,
-    "updated_at": "2026-06-15T07:15:00Z",
-    "url": "https://github.com/areliw/mt-score-up-skill"
+    "name": "ChiefStarKid/resume-assessor",
+    "stars": 0,
+    "updated_at": "2026-06-15T07:28:31Z",
+    "url": "https://github.com/ChiefStarKid/resume-assessor"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
+    "description": "Multi-agent journaling system \u2014 Telegram \u2192 n8n \u2192 Claude agents \u2192 Postgres, with versioned prompts and CBT-structured ref",
+    "id": "solidx86/mirror",
+    "language": "Python",
+    "name": "solidx86/mirror",
     "stars": 0,
-    "updated_at": "2026-06-15T07:12:58Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "updated_at": "2026-06-15T07:26:39Z",
+    "url": "https://github.com/solidx86/mirror"
+  },
+  {
+    "description": "\u30b2\u30fc\u30e0\u30d7\u30e9\u30f3\u30ca\u30fc\u306e\u305f\u3081\u306e AI \u5b9f\u52d9\u30ef\u30fc\u30af\u30d5\u30ed\u30fc - \u4f5c\u308a\u8a71\u306e\u6570\u5b57\u306f\u3072\u3068\u3064\u3082\u306a\u3044\u3002\u97d3\u56fd\u8a9e\u539f\u66f8\u306e\u65e5\u672c\u8a9e\u7248 (CC BY-NC-SA 4.0, \u539f\u66f8ISBN 979-11-12-21479-9)",
+    "id": "eremes81/game-design-ai-practice-ja",
+    "language": "HTML",
+    "name": "eremes81/game-design-ai-practice-ja",
+    "stars": 0,
+    "updated_at": "2026-06-15T07:25:56Z",
+    "url": "https://github.com/eremes81/game-design-ai-practice-ja"
+  },
+  {
+    "description": "AI Workflow for Game Designers - No Fabricated Numbers. English edition of the Korean original (CC BY-NC-SA 4.0, origina",
+    "id": "eremes81/game-design-ai-practice-en",
+    "language": "HTML",
+    "name": "eremes81/game-design-ai-practice-en",
+    "stars": 0,
+    "updated_at": "2026-06-15T07:25:54Z",
+    "url": "https://github.com/eremes81/game-design-ai-practice-en"
+  },
+  {
+    "description": "UDAF \u2014 Universal Document Analysis Framework. A structured AgentSkill for analyzing, decomposing, and evaluating any doc",
+    "id": "yay0128/skill-udaf",
+    "language": "\u2014",
+    "name": "yay0128/skill-udaf",
+    "stars": 1,
+    "updated_at": "2026-06-15T07:25:50Z",
+    "url": "https://github.com/yay0128/skill-udaf"
+  },
+  {
+    "description": "Claude Code skill: interview-first project kickoff \u2014 find the real goal, build in small reviewed buckets, guard against ",
+    "id": "hasuwini77/bucket-ask",
+    "language": "\u2014",
+    "name": "hasuwini77/bucket-ask",
+    "stars": 0,
+    "updated_at": "2026-06-15T07:25:42Z",
+    "url": "https://github.com/hasuwini77/bucket-ask"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 5,
+    "updated_at": "2026-06-15T07:24:44Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
   },
   {
     "description": "Claude Code skill for strategic SEO link insertion and editorial outreach \u2014 blue ocean keyword gaps, 9 placement variati",
@@ -23,8 +68,80 @@
     "language": "\u2014",
     "name": "ChiefStarKid/link-pitch",
     "stars": 0,
-    "updated_at": "2026-06-15T07:12:39Z",
+    "updated_at": "2026-06-15T07:24:28Z",
     "url": "https://github.com/ChiefStarKid/link-pitch"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-15T07:24:04Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-15T07:22:05Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19649,
+    "updated_at": "2026-06-15T07:20:15Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI Agent skill routing pattern for choosing the right skills before complex work starts.",
+    "id": "eric861129/Workflow-skill-router",
+    "language": "Python",
+    "name": "eric861129/Workflow-skill-router",
+    "stars": 0,
+    "updated_at": "2026-06-15T07:18:06Z",
+    "url": "https://github.com/eric861129/Workflow-skill-router"
+  },
+  {
+    "description": "Interactive AI tutor built as a Claude Code skill \u2014 teaches with spaced repetition, personalized project examples, and a",
+    "id": "TovTechOrg/Tov-learn",
+    "language": "PowerShell",
+    "name": "TovTechOrg/Tov-learn",
+    "stars": 27,
+    "updated_at": "2026-06-15T07:17:00Z",
+    "url": "https://github.com/TovTechOrg/Tov-learn"
+  },
+  {
+    "description": "\ud83c\udf99\ufe0f \u5b8c\u5168\u79bb\u7ebf\u7684\u672c\u5730 AI \u8bed\u97f3 Prompt \u8f93\u5165\u5668 \u2014 Whisper + Ollama + Raycast\uff0c\u96f6\u4e91\u7aef\u4f9d\u8d56\uff0c\u9690\u79c1 100% \u81ea\u63a7",
+    "id": "aimer1124/local-voice-input",
+    "language": "Shell",
+    "name": "aimer1124/local-voice-input",
+    "stars": 0,
+    "updated_at": "2026-06-15T07:16:19Z",
+    "url": "https://github.com/aimer1124/local-voice-input"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-15T07:15:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
+    "id": "areliw/mt-score-up-skill",
+    "language": "Python",
+    "name": "areliw/mt-score-up-skill",
+    "stars": 1,
+    "updated_at": "2026-06-15T07:15:44Z",
+    "url": "https://github.com/areliw/mt-score-up-skill"
   },
   {
     "description": "Deep Research skill for Claude Code \u2014 9-phase pipeline, 103 report blocks, 29 search channels, 460+ stat sources, 39 API",
@@ -45,13 +162,13 @@
     "url": "https://github.com/christopherlouet/claude-base"
   },
   {
-    "description": "Multi-agent journaling system \u2014 Telegram \u2192 n8n \u2192 Claude agents \u2192 Postgres, with versioned prompts and CBT-structured ref",
-    "id": "solidx86/mirror",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "solidx86/mirror",
-    "stars": 0,
-    "updated_at": "2026-06-15T07:11:03Z",
-    "url": "https://github.com/solidx86/mirror"
+    "name": "mlflow/mlflow",
+    "stars": 26531,
+    "updated_at": "2026-06-15T07:10:39Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "A tool that compiles messy natural language prompts into a structured intermediate representation (IR) and optionally se",
@@ -81,42 +198,6 @@
     "url": "https://github.com/kimsanguine/hplan"
   },
   {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 19,
-    "updated_at": "2026-06-15T07:08:18Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19648,
-    "updated_at": "2026-06-15T07:14:15Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\u30b2\u30fc\u30e0\u30d7\u30e9\u30f3\u30ca\u30fc\u306e\u305f\u3081\u306e AI \u5b9f\u52d9\u30ef\u30fc\u30af\u30d5\u30ed\u30fc - \u4f5c\u308a\u8a71\u306e\u6570\u5b57\u306f\u3072\u3068\u3064\u3082\u306a\u3044\u3002\u97d3\u56fd\u8a9e\u539f\u66f8\u306e\u65e5\u672c\u8a9e\u7248 (CC BY-NC-SA 4.0, \u539f\u66f8ISBN 979-11-12-21479-9)",
-    "id": "eremes81/game-design-ai-practice-ja",
-    "language": "HTML",
-    "name": "eremes81/game-design-ai-practice-ja",
-    "stars": 0,
-    "updated_at": "2026-06-15T07:07:07Z",
-    "url": "https://github.com/eremes81/game-design-ai-practice-ja"
-  },
-  {
-    "description": "AI Workflow for Game Designers - No Fabricated Numbers. English edition of the Korean original (CC BY-NC-SA 4.0, origina",
-    "id": "eremes81/game-design-ai-practice-en",
-    "language": "HTML",
-    "name": "eremes81/game-design-ai-practice-en",
-    "stars": 0,
-    "updated_at": "2026-06-15T07:05:17Z",
-    "url": "https://github.com/eremes81/game-design-ai-practice-en"
-  },
-  {
     "description": "The wise entity you talk to \u2014 a counsel layer over Claude Code, built eval-first.",
     "id": "timyjsong/mimir",
     "language": "JavaScript",
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T07:04:14Z",
     "url": "https://github.com/timyjsong/mimir"
-  },
-  {
-    "description": "AI Agent skill routing pattern for choosing the right skills before complex work starts.",
-    "id": "eric861129/Workflow-skill-router",
-    "language": "Python",
-    "name": "eric861129/Workflow-skill-router",
-    "stars": 0,
-    "updated_at": "2026-06-15T07:04:12Z",
-    "url": "https://github.com/eric861129/Workflow-skill-router"
   },
   {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
@@ -166,8 +238,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29094,
-    "updated_at": "2026-06-15T07:01:46Z",
+    "stars": 29095,
+    "updated_at": "2026-06-15T07:28:38Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -178,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T07:00:34Z",
     "url": "https://github.com/dariank38/agentic-job-scraper"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-15T07:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
@@ -223,15 +286,6 @@
     "stars": 24,
     "updated_at": "2026-06-15T06:58:05Z",
     "url": "https://github.com/sanky369/vibe-building-skills"
-  },
-  {
-    "description": "UDAF \u2014 Universal Document Analysis Framework. A structured AgentSkill for analyzing, decomposing, and evaluating any doc",
-    "id": "yay0128/skill-udaf",
-    "language": "\u2014",
-    "name": "yay0128/skill-udaf",
-    "stars": 1,
-    "updated_at": "2026-06-15T06:56:09Z",
-    "url": "https://github.com/yay0128/skill-udaf"
   },
   {
     "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
@@ -284,7 +338,7 @@
     "language": "Go",
     "name": "sahil87/fab-kit",
     "stars": 23,
-    "updated_at": "2026-06-15T07:13:29Z",
+    "updated_at": "2026-06-15T07:17:10Z",
     "url": "https://github.com/sahil87/fab-kit"
   },
   {
@@ -310,7 +364,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 27917,
+    "stars": 27929,
     "updated_at": "2026-06-15T06:37:00Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -329,7 +383,7 @@
     "language": "Python",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-06-15T06:33:57Z",
+    "updated_at": "2026-06-15T07:28:11Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T06:25:09Z",
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-06-15T06:25:04Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:25:03Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Gemini Omni API Prompts collection updated in real time every day, designed to help creators find inspiration faster. Fr",
-    "id": "AtlasCloudAI/awesome-gemini-omni-prompts",
-    "language": "JavaScript",
-    "name": "AtlasCloudAI/awesome-gemini-omni-prompts",
-    "stars": 5,
-    "updated_at": "2026-06-15T06:22:51Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts"
-  },
-  {
-    "description": "Awesome GPT Image 2 Prompts",
-    "id": "AtlasCloudAI/awesome-gpt-image-2-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-gpt-image-2-prompts",
-    "stars": 8,
-    "updated_at": "2026-06-15T06:22:40Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts"
-  },
-  {
-    "description": "\u6210\u54c1\u4f18\u5148\u7684 Agent Skill \u7ade\u6280\u8bc4\u6d4b\u4e0e\u9009\u4f18\u5de5\u5177 | Artifact-first tournament for Agent Skills.",
-    "id": "qwqqwqis666/agent-skill-arena",
-    "language": "Python",
-    "name": "qwqqwqis666/agent-skill-arena",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:22:28Z",
-    "url": "https://github.com/qwqqwqis666/agent-skill-arena"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 0,
-    "updated_at": "2026-06-15T06:20:25Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
   }
 ]
