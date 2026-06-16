@@ -1,21 +1,138 @@
 [
   {
+    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
+    "id": "elon-choo/fablever",
+    "language": "JavaScript",
+    "name": "elon-choo/fablever",
+    "stars": 0,
+    "updated_at": "2026-06-16T09:00:36Z",
+    "url": "https://github.com/elon-choo/fablever"
+  },
+  {
+    "description": "A curated library of AI prompt systems \u2014 structured prompts that help you think clearly before you design, build, plan, ",
+    "id": "Kimotep/skills",
+    "language": "Python",
+    "name": "Kimotep/skills",
+    "stars": 0,
+    "updated_at": "2026-06-16T08:58:24Z",
+    "url": "https://github.com/Kimotep/skills"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2896,
+    "updated_at": "2026-06-16T08:59:48Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-16T08:57:33Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26545,
-    "updated_at": "2026-06-16T08:45:25Z",
+    "updated_at": "2026-06-16T08:55:40Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "A curated library of AI prompt systems \u2014 structured prompts that help you think clearly before you design, build, plan, ",
-    "id": "Kimotep/skills",
+    "description": "Universal AI agent skill: Fable Brain behavior + Karpathy agent-orchestration workflow + 50 production-ready prompt temp",
+    "id": "AlessandroFare/fable-frame",
     "language": "\u2014",
-    "name": "Kimotep/skills",
+    "name": "AlessandroFare/fable-frame",
     "stars": 0,
-    "updated_at": "2026-06-16T08:44:13Z",
-    "url": "https://github.com/Kimotep/skills"
+    "updated_at": "2026-06-16T08:53:32Z",
+    "url": "https://github.com/AlessandroFare/fable-frame"
+  },
+  {
+    "description": "Operational doctrine for practical AI systems design.",
+    "id": "Stunspot/stunspots-guide-to-ai-systems",
+    "language": "\u2014",
+    "name": "Stunspot/stunspots-guide-to-ai-systems",
+    "stars": 5,
+    "updated_at": "2026-06-16T08:53:11Z",
+    "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 0,
+    "updated_at": "2026-06-16T08:52:09Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 41,
+    "updated_at": "2026-06-16T08:51:11Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "Give any model Mythos-class operational discipline: planning loops, executed verification, and persistent memory via a d",
+    "id": "aihxp/mythify",
+    "language": "JavaScript",
+    "name": "aihxp/mythify",
+    "stars": 0,
+    "updated_at": "2026-06-16T08:52:49Z",
+    "url": "https://github.com/aihxp/mythify"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29164,
+    "updated_at": "2026-06-16T08:49:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u4e0d\u9650\u4e13\u4e1a\u5b66AI\uff0c\u6c42\u804c\u521b\u4e1a\u4e24\u624b\u6293 \u2014\u2014 \u96f6\u95e8\u69db\u5b9e\u6218\u8bfe\u7a0b\uff0c4\u5468\u4e0a\u624bAI\u5de5\u5177\u3002",
+    "id": "dkken/ai-competitiveness-alliance",
+    "language": "\u2014",
+    "name": "dkken/ai-competitiveness-alliance",
+    "stars": 0,
+    "updated_at": "2026-06-16T08:49:11Z",
+    "url": "https://github.com/dkken/ai-competitiveness-alliance"
+  },
+  {
+    "description": "Installable AI toolkit repo with skills and tool packs, plus a tested CLI and npm package for distribution.",
+    "id": "alaa-alghazouli/brainkit",
+    "language": "JavaScript",
+    "name": "alaa-alghazouli/brainkit",
+    "stars": 0,
+    "updated_at": "2026-06-16T08:46:50Z",
+    "url": "https://github.com/alaa-alghazouli/brainkit"
+  },
+  {
+    "description": "AI dotfiles",
+    "id": "manusa/ai",
+    "language": "Shell",
+    "name": "manusa/ai",
+    "stars": 1,
+    "updated_at": "2026-06-16T08:46:31Z",
+    "url": "https://github.com/manusa/ai"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-16T08:45:39Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Research-first Agent Skill for turning app, website, SEO, growth, competitor, and search-first tasks into evidence-gated",
@@ -72,15 +189,6 @@
     "url": "https://github.com/DHIWAHAR-K/Beyond-English-Multilingual-Self-Consistency-for-Robust-LLM-Reasoning"
   },
   {
-    "description": "\u4e0d\u9650\u4e13\u4e1a\u5b66AI\uff0c\u6c42\u804c\u521b\u4e1a\u4e24\u624b\u6293 \u2014\u2014 \u96f6\u95e8\u69db\u5b9e\u6218\u8bfe\u7a0b\uff0c4\u5468\u4e0a\u624bAI\u5de5\u5177\u3002",
-    "id": "dkken/ai-competitiveness-alliance",
-    "language": "\u2014",
-    "name": "dkken/ai-competitiveness-alliance",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:38:50Z",
-    "url": "https://github.com/dkken/ai-competitiveness-alliance"
-  },
-  {
     "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
     "id": "simota/agent-skills",
     "language": "HTML",
@@ -90,15 +198,6 @@
     "url": "https://github.com/simota/agent-skills"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29162,
-    "updated_at": "2026-06-16T08:44:56Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
     "id": "hilmifawwazsaad/DidYouKnow",
     "language": "TypeScript",
@@ -106,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T08:36:30Z",
     "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
-  },
-  {
-    "description": "Give any model Mythos-class operational discipline: planning loops, executed verification, and persistent memory via a d",
-    "id": "aihxp/mythify",
-    "language": "JavaScript",
-    "name": "aihxp/mythify",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:38:29Z",
-    "url": "https://github.com/aihxp/mythify"
   },
   {
     "description": "Package manager for AI coding assistants \u2014 manage skills, agents & MCPs across Claude Code, Codex, Copilot, and Cursor",
@@ -160,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-06-16T08:31:26Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Open-source AI learning platform featuring structured learning paths, projects, roadmaps, AI tools, challenges, exams, a",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T08:22:06Z",
     "url": "https://github.com/netopsengineer/axiom"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-06-16T08:22:04Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:21:40Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Stop teaching your coding agent the same lesson twice.",
-    "id": "rennzhang/oh-my-experience",
-    "language": "TypeScript",
-    "name": "rennzhang/oh-my-experience",
-    "stars": 1,
-    "updated_at": "2026-06-16T08:21:28Z",
-    "url": "https://github.com/rennzhang/oh-my-experience"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:21:24Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-06-16T08:21:08Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-06-16T08:21:06Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-06-16T08:20:58Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Local-first UI inspiration, aesthetic memory, and AI agent prompt generator.",
-    "id": "Fairy-fly/UI-Sense-AI",
-    "language": "TypeScript",
-    "name": "Fairy-fly/UI-Sense-AI",
-    "stars": 1,
-    "updated_at": "2026-06-16T08:20:43Z",
-    "url": "https://github.com/Fairy-fly/UI-Sense-AI"
-  },
-  {
-    "description": "Prepare open-source repositories for launch by verifying key documentation, usability, and trust signals to improve user",
-    "id": "Vivavenetian310/open-source-launch-skill",
-    "language": "\u2014",
-    "name": "Vivavenetian310/open-source-launch-skill",
-    "stars": 2,
-    "updated_at": "2026-06-16T08:20:32Z",
-    "url": "https://github.com/Vivavenetian310/open-source-launch-skill"
   }
 ]
