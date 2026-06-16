@@ -1,12 +1,138 @@
 [
   {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 41,
+    "updated_at": "2026-06-16T18:30:21Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2901,
+    "updated_at": "2026-06-16T18:30:12Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:29:09Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Global CLAUDE.md: Framework-agnostic guidelines for disciplined LLM coding inspired by Karpathy & Bernstein",
+    "id": "zeljkoavramovic/karpathy-bernstein-avramovic",
+    "language": "HTML",
+    "name": "zeljkoavramovic/karpathy-bernstein-avramovic",
+    "stars": 7,
+    "updated_at": "2026-06-16T18:27:54Z",
+    "url": "https://github.com/zeljkoavramovic/karpathy-bernstein-avramovic"
+  },
+  {
+    "description": "bonk \u2014 a pattern-interrupt plugin for Claude Code: stop the agent's wrong path, audit its assumptions, and restart from ",
+    "id": "fr1j0/bonk",
+    "language": "Shell",
+    "name": "fr1j0/bonk",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:27:35Z",
+    "url": "https://github.com/fr1j0/bonk"
+  },
+  {
+    "description": "promptvc is a developer-first CLI tool that brings version control to LLM prompts, treating them like real code. It enab",
+    "id": "uayushdubey/prompt-version-control",
+    "language": "Python",
+    "name": "uayushdubey/prompt-version-control",
+    "stars": 1,
+    "updated_at": "2026-06-16T18:24:24Z",
+    "url": "https://github.com/uayushdubey/prompt-version-control"
+  },
+  {
+    "description": "AI Project Starter: documentation-first starter kit for AI-coded projects, project context, guardrails, and agent instru",
+    "id": "ucsahinn/ai-project-starter",
+    "language": "Python",
+    "name": "ucsahinn/ai-project-starter",
+    "stars": 5,
+    "updated_at": "2026-06-16T18:22:17Z",
+    "url": "https://github.com/ucsahinn/ai-project-starter"
+  },
+  {
+    "description": "AI Skill Create: toolkit for creating, validating, testing, and packaging reusable AI agent skills and Codex skills.",
+    "id": "ucsahinn/ai-skill-create",
+    "language": "JavaScript",
+    "name": "ucsahinn/ai-skill-create",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:22:09Z",
+    "url": "https://github.com/ucsahinn/ai-skill-create"
+  },
+  {
+    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
+    "id": "Muizzkolapo/agent-actions",
+    "language": "Python",
+    "name": "Muizzkolapo/agent-actions",
+    "stars": 7,
+    "updated_at": "2026-06-16T18:22:04Z",
+    "url": "https://github.com/Muizzkolapo/agent-actions"
+  },
+  {
+    "description": "Prompt Architect: reusable prompt patterns, approval-gated workflows, and verification checklists for AI-assisted develo",
+    "id": "ucsahinn/prompt-architect",
+    "language": "JavaScript",
+    "name": "ucsahinn/prompt-architect",
+    "stars": 5,
+    "updated_at": "2026-06-16T18:22:03Z",
+    "url": "https://github.com/ucsahinn/prompt-architect"
+  },
+  {
+    "description": "AI agents now operate with authority. Authority without discipline is how complex systems fail. Nuclear\u2019s control loop, ",
+    "id": "FlyFission/nuclear-grade-context-engineering",
+    "language": "Python",
+    "name": "FlyFission/nuclear-grade-context-engineering",
+    "stars": 22,
+    "updated_at": "2026-06-16T18:29:13Z",
+    "url": "https://github.com/FlyFission/nuclear-grade-context-engineering"
+  },
+  {
     "description": "An open source AI-powered job application tool for freshers - ATS analysis, tailored resume, skills report, and cover le",
     "id": "Razorface1919/job-application-copilot",
-    "language": "\u2014",
+    "language": "HTML",
     "name": "Razorface1919/job-application-copilot",
     "stars": 0,
-    "updated_at": "2026-06-16T18:14:51Z",
+    "updated_at": "2026-06-16T18:18:16Z",
     "url": "https://github.com/Razorface1919/job-application-copilot"
+  },
+  {
+    "description": "Commercial real estate AI agent skills for CRE underwriting, due diligence, financing, brokerage, legal and closing work",
+    "id": "ahacker-1/cre-agent-skills",
+    "language": "PowerShell",
+    "name": "ahacker-1/cre-agent-skills",
+    "stars": 46,
+    "updated_at": "2026-06-16T18:16:58Z",
+    "url": "https://github.com/ahacker-1/cre-agent-skills"
+  },
+  {
+    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
+    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "language": "HTML",
+    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:16:45Z",
+    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-16T18:15:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
@@ -16,33 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T18:14:02Z",
     "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "AI Project Starter: documentation-first starter kit for AI-coded projects, project context, guardrails, and agent instru",
-    "id": "ucsahinn/ai-project-starter",
-    "language": "Python",
-    "name": "ucsahinn/ai-project-starter",
-    "stars": 5,
-    "updated_at": "2026-06-16T18:13:17Z",
-    "url": "https://github.com/ucsahinn/ai-project-starter"
-  },
-  {
-    "description": "AI Skill Create: toolkit for creating, validating, testing, and packaging reusable AI agent skills and Codex skills.",
-    "id": "ucsahinn/ai-skill-create",
-    "language": "JavaScript",
-    "name": "ucsahinn/ai-skill-create",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:13:15Z",
-    "url": "https://github.com/ucsahinn/ai-skill-create"
-  },
-  {
-    "description": "Prompt Architect: reusable prompt patterns, approval-gated workflows, and verification checklists for AI-assisted develo",
-    "id": "ucsahinn/prompt-architect",
-    "language": "JavaScript",
-    "name": "ucsahinn/prompt-architect",
-    "stars": 5,
-    "updated_at": "2026-06-16T18:13:13Z",
-    "url": "https://github.com/ucsahinn/prompt-architect"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -67,27 +166,9 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 29802,
+    "stars": 29810,
     "updated_at": "2026-06-16T18:10:14Z",
     "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "bonk \u2014 a pattern-interrupt plugin for Claude Code: stop the agent's wrong path, audit its assumptions, and restart from ",
-    "id": "fr1j0/bonk",
-    "language": "Shell",
-    "name": "fr1j0/bonk",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:14:17Z",
-    "url": "https://github.com/fr1j0/bonk"
-  },
-  {
-    "description": "promptvc is a developer-first CLI tool that brings version control to LLM prompts, treating them like real code. It enab",
-    "id": "uayushdubey/prompt-version-control",
-    "language": "Python",
-    "name": "uayushdubey/prompt-version-control",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:06:07Z",
-    "url": "https://github.com/uayushdubey/prompt-version-control"
   },
   {
     "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
@@ -133,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T18:01:09Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-16T18:00:41Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Knowledge OS for AI coding agents \u2014 one CLI that routes the right context (memories + rules) to the model on demand, ins",
@@ -243,15 +315,6 @@
     "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
   },
   {
-    "description": "Commercial real estate AI agent skills for CRE underwriting, due diligence, financing, brokerage, legal and closing work",
-    "id": "ahacker-1/cre-agent-skills",
-    "language": "PowerShell",
-    "name": "ahacker-1/cre-agent-skills",
-    "stars": 46,
-    "updated_at": "2026-06-16T17:55:16Z",
-    "url": "https://github.com/ahacker-1/cre-agent-skills"
-  },
-  {
     "description": "Open, MIT context format for AI coding agents: centralized .aigx/ rules + a per-file boundary index that targets the rig",
     "id": "Lolner95/AIGX",
     "language": "Python",
@@ -268,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T17:55:12Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:54:52Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
   },
   {
     "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
@@ -297,15 +351,6 @@
     "url": "https://github.com/rmdhananjay/contextual-memory-map"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:52:11Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "An AI-powered, three-pass pipeline that transforms raw CyberSecurity course audio transcripts into structured, forensica",
     "id": "opandey1/SentinelScribe",
     "language": "Python",
@@ -320,7 +365,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22276,
-    "updated_at": "2026-06-16T18:09:15Z",
+    "updated_at": "2026-06-16T18:27:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -340,15 +385,6 @@
     "stars": 12533,
     "updated_at": "2026-06-16T17:39:50Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
-    "id": "Muizzkolapo/agent-actions",
-    "language": "Python",
-    "name": "Muizzkolapo/agent-actions",
-    "stars": 7,
-    "updated_at": "2026-06-16T18:05:46Z",
-    "url": "https://github.com/Muizzkolapo/agent-actions"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T17:27:19Z",
     "url": "https://github.com/devpal-singh-anand/ABTalks-60-Day-Claude-Challenge"
-  },
-  {
-    "description": "Portable .agent.md files for AI coding assistants that actually commit to a point of view.",
-    "id": "dfinson/promptlings",
-    "language": "PowerShell",
-    "name": "dfinson/promptlings",
-    "stars": 1,
-    "updated_at": "2026-06-16T17:26:54Z",
-    "url": "https://github.com/dfinson/promptlings"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:26:43Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Forensic reference-integrity auditor for academic publishing \u2014 built for nursing and health-sciences editors who need to",
-    "id": "PitziLabs/reference-checker",
-    "language": "HTML",
-    "name": "PitziLabs/reference-checker",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:26:30Z",
-    "url": "https://github.com/PitziLabs/reference-checker"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "\u2014",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 5,
-    "updated_at": "2026-06-16T17:25:43Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   }
 ]
