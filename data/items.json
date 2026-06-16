@@ -1,5 +1,113 @@
 [
   {
+    "description": "Portable user-context for AI tools \u2014 identity, voice, and preferences read at session start. Three plain-text files at ~",
+    "id": "thebestmensch/dot-me",
+    "language": "Shell",
+    "name": "thebestmensch/dot-me",
+    "stars": 3,
+    "updated_at": "2026-06-16T16:45:37Z",
+    "url": "https://github.com/thebestmensch/dot-me"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3307,
+    "updated_at": "2026-06-16T16:43:27Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19666,
+    "updated_at": "2026-06-16T16:42:21Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A comprehensive collection of projects, examples, and notes demonstrating AI application development with Next.js-15 and",
+    "id": "itsyashbisht/nextjs-ai-app",
+    "language": "TypeScript",
+    "name": "itsyashbisht/nextjs-ai-app",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:38:10Z",
+    "url": "https://github.com/itsyashbisht/nextjs-ai-app"
+  },
+  {
+    "description": "Practical Tips for Getting the Most Out of GPT and Other Large Language Models",
+    "id": "djeada/llm-queries",
+    "language": "\u2014",
+    "name": "djeada/llm-queries",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:37:59Z",
+    "url": "https://github.com/djeada/llm-queries"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "\u2014",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 5,
+    "updated_at": "2026-06-16T16:35:25Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "The AI Stackk: plain-English AI education, n8n workflow templates, and practical AI automation resources for beginners.",
+    "id": "satmakuru222/TheAIStackk",
+    "language": "\u2014",
+    "name": "satmakuru222/TheAIStackk",
+    "stars": 1,
+    "updated_at": "2026-06-16T16:34:07Z",
+    "url": "https://github.com/satmakuru222/TheAIStackk"
+  },
+  {
+    "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
+    "id": "ntorga/agent-starter-kit",
+    "language": "Shell",
+    "name": "ntorga/agent-starter-kit",
+    "stars": 112,
+    "updated_at": "2026-06-16T16:32:50Z",
+    "url": "https://github.com/ntorga/agent-starter-kit"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29201,
+    "updated_at": "2026-06-16T16:45:33Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": " \ud83e\uddea A/B test your agent skills \u2014 find out if your SKILL.md actually helps the model or is just a placebo. Blind-graded tr",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 4,
+    "updated_at": "2026-06-16T16:31:20Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
+    "description": "Circle, adjust, and describe any element to get precise, low-token AI prompts for iterating on AI-generated websites \u2014 f",
+    "id": "shawnfong-96/snaptweak",
+    "language": "TypeScript",
+    "name": "shawnfong-96/snaptweak",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:30:45Z",
+    "url": "https://github.com/shawnfong-96/snaptweak"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-16T16:30:44Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A prompt-based AI project runtime for structured activation, roadmap-first execution, active-step artifacts and handoff ",
     "id": "eddlev/vm4ai-air-kit",
     "language": "\u2014",
@@ -18,20 +126,11 @@
     "url": "https://github.com/AtlasCloudAI/awesome-happy-horse-prompts"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29201,
-    "updated_at": "2026-06-16T16:26:45Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 7545,
+    "stars": 7546,
     "updated_at": "2026-06-16T16:21:40Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -40,7 +139,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 29707,
+    "stars": 29718,
     "updated_at": "2026-06-16T16:20:55Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -72,15 +171,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
   },
   {
-    "description": " \ud83e\uddea A/B test your agent skills \u2014 find out if your SKILL.md actually helps the model or is just a placebo. Blind-graded tr",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 4,
-    "updated_at": "2026-06-16T16:18:04Z",
-    "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
     "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
     "language": "TypeScript",
@@ -90,15 +180,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-16T16:15:44Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
     "id": "rizvee/multimodel-dev-os",
     "language": "JavaScript",
@@ -106,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T16:15:10Z",
     "url": "https://github.com/rizvee/multimodel-dev-os"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "\u2014",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 5,
-    "updated_at": "2026-06-16T16:13:53Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
     "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
@@ -130,7 +202,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 22563,
+    "stars": 22679,
     "updated_at": "2026-06-16T16:12:23Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -140,7 +212,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22277,
-    "updated_at": "2026-06-16T16:11:32Z",
+    "updated_at": "2026-06-16T16:39:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T16:06:05Z",
     "url": "https://github.com/soumadip-dev/GenAI-Playground"
-  },
-  {
-    "description": "Circle, adjust, and describe any element to get precise, low-token AI prompts for iterating on AI-generated websites \u2014 f",
-    "id": "shawnfong-96/snaptweak",
-    "language": "TypeScript",
-    "name": "shawnfong-96/snaptweak",
-    "stars": 0,
-    "updated_at": "2026-06-16T16:02:01Z",
-    "url": "https://github.com/shawnfong-96/snaptweak"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -342,15 +405,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3307,
-    "updated_at": "2026-06-16T16:20:45Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Open-source Python toolkit to inspect, test, secure, optimize, and operationalize GenAI applications before production.",
     "id": "TravelXML/GenAIScope",
     "language": "Python",
@@ -367,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T15:39:00Z",
     "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
-  },
-  {
-    "description": "A comprehensive collection of projects, examples, and notes demonstrating AI application development with Next.js-15 and",
-    "id": "itsyashbisht/nextjs-ai-app",
-    "language": "TypeScript",
-    "name": "itsyashbisht/nextjs-ai-app",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:35:44Z",
-    "url": "https://github.com/itsyashbisht/nextjs-ai-app"
   },
   {
     "description": "Detects and rewrites AI writing patterns in Korean, English, Chinese, and Japanese. Runs as a skill for Claude Code, Cod",
@@ -403,50 +448,5 @@
     "stars": 124,
     "updated_at": "2026-06-16T15:33:13Z",
     "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:32:12Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:30:31Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:30:23Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 3896,
-    "updated_at": "2026-06-16T15:40:09Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "Reusable skills for AI coding agents (Claude Code, Codex, Forge) covering paper review, commit triage, GPU rentals, refe",
-    "id": "Axect/skills",
-    "language": "Python",
-    "name": "Axect/skills",
-    "stars": 2,
-    "updated_at": "2026-06-16T15:29:17Z",
-    "url": "https://github.com/Axect/skills"
   }
 ]
