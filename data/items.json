@@ -1,12 +1,111 @@
 [
   {
+    "description": "AI Project Starter: documentation-first starter kit for AI-coded projects, project context, guardrails, and agent instru",
+    "id": "ucsahinn/ai-project-starter",
+    "language": "Python",
+    "name": "ucsahinn/ai-project-starter",
+    "stars": 5,
+    "updated_at": "2026-06-16T20:23:04Z",
+    "url": "https://github.com/ucsahinn/ai-project-starter"
+  },
+  {
+    "description": "AI Skill Create: toolkit for creating, validating, testing, and packaging reusable AI agent skills and Codex skills.",
+    "id": "ucsahinn/ai-skill-create",
+    "language": "JavaScript",
+    "name": "ucsahinn/ai-skill-create",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:23:02Z",
+    "url": "https://github.com/ucsahinn/ai-skill-create"
+  },
+  {
+    "description": "Prompt Architect: reusable prompt patterns, approval-gated workflows, and verification checklists for AI-assisted develo",
+    "id": "ucsahinn/prompt-architect",
+    "language": "JavaScript",
+    "name": "ucsahinn/prompt-architect",
+    "stars": 5,
+    "updated_at": "2026-06-16T20:23:00Z",
+    "url": "https://github.com/ucsahinn/prompt-architect"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-16T20:14:52Z",
+    "updated_at": "2026-06-16T20:22:19Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "GPT-2 Transformer from scratch with TransformerLens, HuggingFace practice, and prompt engineering experiments",
+    "id": "seva-sanko/TransformerGPT-2",
+    "language": "Python",
+    "name": "seva-sanko/TransformerGPT-2",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:22:02Z",
+    "url": "https://github.com/seva-sanko/TransformerGPT-2"
+  },
+  {
+    "description": "Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for",
+    "id": "TomasHer/prompting-blueprints",
+    "language": "HTML",
+    "name": "TomasHer/prompting-blueprints",
+    "stars": 18,
+    "updated_at": "2026-06-16T20:21:40Z",
+    "url": "https://github.com/TomasHer/prompting-blueprints"
+  },
+  {
+    "description": "Solo-dev Claude Code skills: brainstorm \u2192 plan \u2192 code. No ceremony, no vibes. Fusion of Matt Pocock, OpenSpec, get-shit-",
+    "id": "calneymgp/solodev",
+    "language": "Shell",
+    "name": "calneymgp/solodev",
+    "stars": 2,
+    "updated_at": "2026-06-16T20:20:13Z",
+    "url": "https://github.com/calneymgp/solodev"
+  },
+  {
+    "description": "Research project comparing multiple approaches to logical fallacy identification in online news comments. Built on the C",
+    "id": "twanh/ltp-fallacy-classification",
+    "language": "Python",
+    "name": "twanh/ltp-fallacy-classification",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:19:41Z",
+    "url": "https://github.com/twanh/ltp-fallacy-classification"
+  },
+  {
+    "description": "12-week, project-driven Obsidian curriculum: cloud/infra engineer \u2192 AI Agent/LLM engineer. Companion narrative + intervi",
+    "id": "shaneliuyx/agent-development-curriculum",
+    "language": "Python",
+    "name": "shaneliuyx/agent-development-curriculum",
+    "stars": 3,
+    "updated_at": "2026-06-16T20:18:23Z",
+    "url": "https://github.com/shaneliuyx/agent-development-curriculum"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 29902,
+    "updated_at": "2026-06-16T20:17:14Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22280,
+    "updated_at": "2026-06-16T20:15:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-16T20:15:40Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "promptvc is a developer-first CLI tool that brings version control to LLM prompts, treating them like real code. It enab",
@@ -23,26 +122,8 @@
     "language": "TypeScript",
     "name": "agentmark-ai/agentmark",
     "stars": 352,
-    "updated_at": "2026-06-16T20:13:38Z",
+    "updated_at": "2026-06-16T20:16:31Z",
     "url": "https://github.com/agentmark-ai/agentmark"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 29897,
-    "updated_at": "2026-06-16T20:13:21Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22279,
-    "updated_at": "2026-06-16T20:13:40Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -64,12 +145,12 @@
   },
   {
     "description": "Prompt engineering toolkit for image generation",
-    "id": "gansrahman/prompt-engineering-lab",
+    "id": "rocm-researcher/prompt-engineering-lab",
     "language": "Python",
-    "name": "gansrahman/prompt-engineering-lab",
+    "name": "rocm-researcher/prompt-engineering-lab",
     "stars": 0,
     "updated_at": "2026-06-16T20:08:08Z",
-    "url": "https://github.com/gansrahman/prompt-engineering-lab"
+    "url": "https://github.com/rocm-researcher/prompt-engineering-lab"
   },
   {
     "description": "Practical bilingual skills that make AI coding agents more disciplined, testable, and useful in real engineering work.",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T20:07:47Z",
     "url": "https://github.com/Rookage/agent-discipline"
-  },
-  {
-    "description": "Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for",
-    "id": "TomasHer/prompting-blueprints",
-    "language": "HTML",
-    "name": "TomasHer/prompting-blueprints",
-    "stars": 18,
-    "updated_at": "2026-06-16T20:07:34Z",
-    "url": "https://github.com/TomasHer/prompting-blueprints"
   },
   {
     "description": "My personal setup for working with AI; what I learned from existing plugins, plus a bunch of my own, built the way I lik",
@@ -144,15 +216,6 @@
     "url": "https://github.com/adamhobb11/business-analysis-generator"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-16T20:00:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
     "id": "jmagly/aiwg",
     "language": "TypeScript",
@@ -160,33 +223,6 @@
     "stars": 147,
     "updated_at": "2026-06-16T20:00:23Z",
     "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "AI Project Starter: documentation-first starter kit for AI-coded projects, project context, guardrails, and agent instru",
-    "id": "ucsahinn/ai-project-starter",
-    "language": "Python",
-    "name": "ucsahinn/ai-project-starter",
-    "stars": 5,
-    "updated_at": "2026-06-16T19:59:29Z",
-    "url": "https://github.com/ucsahinn/ai-project-starter"
-  },
-  {
-    "description": "AI Skill Create: toolkit for creating, validating, testing, and packaging reusable AI agent skills and Codex skills.",
-    "id": "ucsahinn/ai-skill-create",
-    "language": "JavaScript",
-    "name": "ucsahinn/ai-skill-create",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:59:25Z",
-    "url": "https://github.com/ucsahinn/ai-skill-create"
-  },
-  {
-    "description": "Prompt Architect: reusable prompt patterns, approval-gated workflows, and verification checklists for AI-assisted develo",
-    "id": "ucsahinn/prompt-architect",
-    "language": "JavaScript",
-    "name": "ucsahinn/prompt-architect",
-    "stars": 5,
-    "updated_at": "2026-06-16T19:59:21Z",
-    "url": "https://github.com/ucsahinn/prompt-architect"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 757,
-    "updated_at": "2026-06-16T20:11:14Z",
+    "updated_at": "2026-06-16T20:19:32Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T19:24:14Z",
     "url": "https://github.com/cess-m/pcot-algebra-feedback-experiments"
-  },
-  {
-    "description": "Deterministic stateless multi-provider AI prompt runner for CLI, scripts, and CI workflows with contract-driven structur",
-    "id": "damienSavoldelli/ai-prompt-runner",
-    "language": "Python",
-    "name": "damienSavoldelli/ai-prompt-runner",
-    "stars": 1,
-    "updated_at": "2026-06-16T19:22:49Z",
-    "url": "https://github.com/damienSavoldelli/ai-prompt-runner"
-  },
-  {
-    "description": "The definitive AI Toolkit for Data Engineering & Analytics. Pre-configured specialists, skills, and validation scripts f",
-    "id": "luccapinto/agentic-data-kit",
-    "language": "HTML",
-    "name": "luccapinto/agentic-data-kit",
-    "stars": 3,
-    "updated_at": "2026-06-16T19:18:43Z",
-    "url": "https://github.com/luccapinto/agentic-data-kit"
-  },
-  {
-    "description": "AI agents now operate with authority. Authority without discipline is how complex systems fail. Nuclear\u2019s control loop, ",
-    "id": "FlyFission/nuclear-grade-context-engineering",
-    "language": "Python",
-    "name": "FlyFission/nuclear-grade-context-engineering",
-    "stars": 22,
-    "updated_at": "2026-06-16T19:17:57Z",
-    "url": "https://github.com/FlyFission/nuclear-grade-context-engineering"
-  },
-  {
-    "description": "VibeCraft \u2014 \u043c\u0430\u043d\u0438\u0444\u0435\u0441\u0442: \u043a\u0430\u043a \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u0442\u044c \u00ab\u0434\u0443\u0448\u0443\u00bb \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u0430 \u0438 \u043a\u0430\u043a \u0430\u0433\u0435\u043d\u0442\u044b \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0442. RU/EN, \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u044f + \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u044f, v1.0\u2192v",
-    "id": "Shugar86/vibecraft-manifest",
-    "language": "\u2014",
-    "name": "Shugar86/vibecraft-manifest",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:16:32Z",
-    "url": "https://github.com/Shugar86/vibecraft-manifest"
   }
 ]
