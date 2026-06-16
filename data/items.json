@@ -1,5 +1,104 @@
 [
   {
+    "description": "A prompt-based AI project runtime for structured activation, roadmap-first execution, active-step artifacts and handoff ",
+    "id": "eddlev/vm4ai-air-kit",
+    "language": "\u2014",
+    "name": "eddlev/vm4ai-air-kit",
+    "stars": 2,
+    "updated_at": "2026-06-16T16:29:23Z",
+    "url": "https://github.com/eddlev/vm4ai-air-kit"
+  },
+  {
+    "description": "Awesome Happy Horse 1.0 Prompts",
+    "id": "AtlasCloudAI/awesome-happy-horse-prompts",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-happy-horse-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-16T16:27:55Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-happy-horse-prompts"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29201,
+    "updated_at": "2026-06-16T16:26:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
+    "id": "YouMind-OpenLab/awesome-gpt-image-2",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-2",
+    "stars": 7545,
+    "updated_at": "2026-06-16T16:21:40Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 29707,
+    "updated_at": "2026-06-16T16:20:55Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Expert-thinking AGENTS.md profiles that teach AI agents to reason like senior scientists and engineers.",
+    "id": "K-Dense-AI/scientific-agents",
+    "language": "\u2014",
+    "name": "K-Dense-AI/scientific-agents",
+    "stars": 74,
+    "updated_at": "2026-06-16T16:19:46Z",
+    "url": "https://github.com/K-Dense-AI/scientific-agents"
+  },
+  {
+    "description": "Production-Grade Autoresearch. Ideal for GPU kernels, ML model development, feature engineering, prompt engineering, and",
+    "id": "WecoAI/weco-cli",
+    "language": "Python",
+    "name": "WecoAI/weco-cli",
+    "stars": 55,
+    "updated_at": "2026-06-16T16:21:27Z",
+    "url": "https://github.com/WecoAI/weco-cli"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 49,
+    "updated_at": "2026-06-16T16:18:41Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": " \ud83e\uddea A/B test your agent skills \u2014 find out if your SKILL.md actually helps the model or is just a placebo. Blind-graded tr",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 4,
+    "updated_at": "2026-06-16T16:18:04Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 21,
+    "updated_at": "2026-06-16T16:16:34Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-16T16:15:44Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
     "id": "rizvee/multimodel-dev-os",
     "language": "JavaScript",
@@ -23,7 +122,7 @@
     "language": "Python",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-06-16T16:13:30Z",
+    "updated_at": "2026-06-16T16:18:01Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -31,18 +130,18 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 22451,
+    "stars": 22563,
     "updated_at": "2026-06-16T16:12:23Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29200,
-    "updated_at": "2026-06-16T16:12:18Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "promptfoo/promptfoo",
+    "stars": 22277,
+    "updated_at": "2026-06-16T16:11:32Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Markdown for the AI era",
@@ -61,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T16:08:53Z",
     "url": "https://github.com/CodeByKhaleel/ContextCraft"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22276,
-    "updated_at": "2026-06-16T16:11:32Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A hands-on Generative AI learning environment featuring practical experiments and projects for building AI-powered appli",
@@ -99,15 +189,6 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-16T16:00:52Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
     "id": "zigrivers/scaffold",
     "language": "TypeScript",
@@ -130,7 +211,7 @@
     "id": "Stunspot/stunspots-guide-to-ai-systems",
     "language": "\u2014",
     "name": "Stunspot/stunspots-guide-to-ai-systems",
-    "stars": 9,
+    "stars": 10,
     "updated_at": "2026-06-16T15:58:45Z",
     "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
   },
@@ -266,7 +347,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3307,
-    "updated_at": "2026-06-16T16:09:50Z",
+    "updated_at": "2026-06-16T16:20:45Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-16T15:29:17Z",
     "url": "https://github.com/Axect/skills"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:26:45Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Opinionated Claude Code collection \u2014 commands, subagents & skills for autonomous software delivery and legacy app modern",
-    "id": "aiFabricoCom/fabrico-collections",
-    "language": "Shell",
-    "name": "aiFabricoCom/fabrico-collections",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:24:47Z",
-    "url": "https://github.com/aiFabricoCom/fabrico-collections"
-  },
-  {
-    "description": "\ud83e\uddd9 Democratizing best practices across 27 domains. Your AI knows everything \u2014 Grimoire makes it practice it.",
-    "id": "jeffreytse/grimoire",
-    "language": "Shell",
-    "name": "jeffreytse/grimoire",
-    "stars": 12,
-    "updated_at": "2026-06-16T15:24:00Z",
-    "url": "https://github.com/jeffreytse/grimoire"
-  },
-  {
-    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4392,
-    "updated_at": "2026-06-16T15:22:47Z",
-    "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "HTML",
-    "name": "Open-Less/openless",
-    "stars": 2368,
-    "updated_at": "2026-06-16T15:22:21Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "AI reasoning skills distilled from 4,665 real Claude Fable 5 chain-of-thought traces. Mathematically tuned. Grade A (100",
-    "id": "ahmdd4vd/Fable5res",
-    "language": "JavaScript",
-    "name": "ahmdd4vd/Fable5res",
-    "stars": 1,
-    "updated_at": "2026-06-16T15:21:12Z",
-    "url": "https://github.com/ahmdd4vd/Fable5res"
-  },
-  {
-    "description": "Chrome extension that orchestrates multiple AI chatbots (ChatGPT, DeepSeek, Gemini, Grok, Claude, Qwen) \u2014 send one quest",
-    "id": "fibbersha-hub/prometheus-ai-orchestrator",
-    "language": "JavaScript",
-    "name": "fibbersha-hub/prometheus-ai-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-06-16T15:15:24Z",
-    "url": "https://github.com/fibbersha-hub/prometheus-ai-orchestrator"
-  },
-  {
-    "description": "RFC 2119 keyword normalizer extension for the Pi coding agent.",
-    "id": "MasuRii/pi-must-have-extension",
-    "language": "TypeScript",
-    "name": "MasuRii/pi-must-have-extension",
-    "stars": 5,
-    "updated_at": "2026-06-16T15:13:56Z",
-    "url": "https://github.com/MasuRii/pi-must-have-extension"
-  },
-  {
-    "description": "Portable OpenCode workflow toolkit \u2014 6 plugins, managed agents & skills, a spec-to-code pipeline, security, and the vvoc",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 6,
-    "updated_at": "2026-06-16T15:11:00Z",
-    "url": "https://github.com/osovv/vv-opencode"
   }
 ]
