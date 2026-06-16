@@ -1,5 +1,113 @@
 [
   {
+    "description": "bonk \u2014 a pattern-interrupt plugin for Claude Code: stop the agent's wrong path, audit its assumptions, and restart from ",
+    "id": "fr1j0/bonk",
+    "language": "Shell",
+    "name": "fr1j0/bonk",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:43:54Z",
+    "url": "https://github.com/fr1j0/bonk"
+  },
+  {
+    "description": "The definitive AI Toolkit for Data Engineering & Analytics. Pre-configured specialists, skills, and validation scripts f",
+    "id": "luccapinto/agentic-data-kit",
+    "language": "HTML",
+    "name": "luccapinto/agentic-data-kit",
+    "stars": 3,
+    "updated_at": "2026-06-16T18:43:27Z",
+    "url": "https://github.com/luccapinto/agentic-data-kit"
+  },
+  {
+    "description": "AI Project Starter: documentation-first starter kit for AI-coded projects, project context, guardrails, and agent instru",
+    "id": "ucsahinn/ai-project-starter",
+    "language": "Python",
+    "name": "ucsahinn/ai-project-starter",
+    "stars": 5,
+    "updated_at": "2026-06-16T18:43:03Z",
+    "url": "https://github.com/ucsahinn/ai-project-starter"
+  },
+  {
+    "description": "AI Skill Create: toolkit for creating, validating, testing, and packaging reusable AI agent skills and Codex skills.",
+    "id": "ucsahinn/ai-skill-create",
+    "language": "JavaScript",
+    "name": "ucsahinn/ai-skill-create",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:42:59Z",
+    "url": "https://github.com/ucsahinn/ai-skill-create"
+  },
+  {
+    "description": "Prompt Architect: reusable prompt patterns, approval-gated workflows, and verification checklists for AI-assisted develo",
+    "id": "ucsahinn/prompt-architect",
+    "language": "JavaScript",
+    "name": "ucsahinn/prompt-architect",
+    "stars": 5,
+    "updated_at": "2026-06-16T18:42:55Z",
+    "url": "https://github.com/ucsahinn/prompt-architect"
+  },
+  {
+    "description": "Local-first PySide6 prompt manager with versions, boards, clipboard modes, JSON export and a read-only Web/PWA companion",
+    "id": "file-bricks/ProfiPrompt",
+    "language": "Python",
+    "name": "file-bricks/ProfiPrompt",
+    "stars": 1,
+    "updated_at": "2026-06-16T18:41:03Z",
+    "url": "https://github.com/file-bricks/ProfiPrompt"
+  },
+  {
+    "description": "promptvc is a developer-first CLI tool that brings version control to LLM prompts, treating them like real code. It enab",
+    "id": "uayushdubey/prompt-version-control",
+    "language": "Python",
+    "name": "uayushdubey/prompt-version-control",
+    "stars": 1,
+    "updated_at": "2026-06-16T18:40:06Z",
+    "url": "https://github.com/uayushdubey/prompt-version-control"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2902,
+    "updated_at": "2026-06-16T18:39:07Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "AI agents now operate with authority. Authority without discipline is how complex systems fail. Nuclear\u2019s control loop, ",
+    "id": "FlyFission/nuclear-grade-context-engineering",
+    "language": "Python",
+    "name": "FlyFission/nuclear-grade-context-engineering",
+    "stars": 22,
+    "updated_at": "2026-06-16T18:35:38Z",
+    "url": "https://github.com/FlyFission/nuclear-grade-context-engineering"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 45,
+    "updated_at": "2026-06-16T18:33:11Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "Shrink LLM context windows 50-80% by removing noise, redundancy, and long-tail detail \u2014 zero-dependency Python pipeline ",
+    "id": "uninhibited-scholar/context-compressor",
+    "language": "Python",
+    "name": "uninhibited-scholar/context-compressor",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:32:27Z",
+    "url": "https://github.com/uninhibited-scholar/context-compressor"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-16T18:30:40Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
     "id": "Supervertaler/Supervertaler-Workbench",
     "language": "Python",
@@ -9,21 +117,12 @@
     "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
   },
   {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 2901,
-    "updated_at": "2026-06-16T18:30:12Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-16T18:29:09Z",
+    "updated_at": "2026-06-16T18:44:56Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -36,40 +135,13 @@
     "url": "https://github.com/zeljkoavramovic/karpathy-bernstein-avramovic"
   },
   {
-    "description": "bonk \u2014 a pattern-interrupt plugin for Claude Code: stop the agent's wrong path, audit its assumptions, and restart from ",
-    "id": "fr1j0/bonk",
-    "language": "Shell",
-    "name": "fr1j0/bonk",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:27:35Z",
-    "url": "https://github.com/fr1j0/bonk"
-  },
-  {
-    "description": "promptvc is a developer-first CLI tool that brings version control to LLM prompts, treating them like real code. It enab",
-    "id": "uayushdubey/prompt-version-control",
-    "language": "Python",
-    "name": "uayushdubey/prompt-version-control",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:24:24Z",
-    "url": "https://github.com/uayushdubey/prompt-version-control"
-  },
-  {
-    "description": "AI Project Starter: documentation-first starter kit for AI-coded projects, project context, guardrails, and agent instru",
-    "id": "ucsahinn/ai-project-starter",
-    "language": "Python",
-    "name": "ucsahinn/ai-project-starter",
-    "stars": 5,
-    "updated_at": "2026-06-16T18:22:17Z",
-    "url": "https://github.com/ucsahinn/ai-project-starter"
-  },
-  {
-    "description": "AI Skill Create: toolkit for creating, validating, testing, and packaging reusable AI agent skills and Codex skills.",
-    "id": "ucsahinn/ai-skill-create",
-    "language": "JavaScript",
-    "name": "ucsahinn/ai-skill-create",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:22:09Z",
-    "url": "https://github.com/ucsahinn/ai-skill-create"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22277,
+    "updated_at": "2026-06-16T18:27:49Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
@@ -77,26 +149,8 @@
     "language": "Python",
     "name": "Muizzkolapo/agent-actions",
     "stars": 7,
-    "updated_at": "2026-06-16T18:22:04Z",
+    "updated_at": "2026-06-16T18:36:30Z",
     "url": "https://github.com/Muizzkolapo/agent-actions"
-  },
-  {
-    "description": "Prompt Architect: reusable prompt patterns, approval-gated workflows, and verification checklists for AI-assisted develo",
-    "id": "ucsahinn/prompt-architect",
-    "language": "JavaScript",
-    "name": "ucsahinn/prompt-architect",
-    "stars": 5,
-    "updated_at": "2026-06-16T18:22:03Z",
-    "url": "https://github.com/ucsahinn/prompt-architect"
-  },
-  {
-    "description": "AI agents now operate with authority. Authority without discipline is how complex systems fail. Nuclear\u2019s control loop, ",
-    "id": "FlyFission/nuclear-grade-context-engineering",
-    "language": "Python",
-    "name": "FlyFission/nuclear-grade-context-engineering",
-    "stars": 22,
-    "updated_at": "2026-06-16T18:29:13Z",
-    "url": "https://github.com/FlyFission/nuclear-grade-context-engineering"
   },
   {
     "description": "An open source AI-powered job application tool for freshers - ATS analysis, tailored resume, skills report, and cover le",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T18:16:45Z",
     "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-16T18:15:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
@@ -166,7 +211,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 29810,
+    "stars": 29822,
     "updated_at": "2026-06-16T18:10:14Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -333,15 +378,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 45,
-    "updated_at": "2026-06-16T17:52:53Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
     "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
     "id": "rmdhananjay/contextual-memory-map",
     "language": "HTML",
@@ -360,15 +396,6 @@
     "url": "https://github.com/opandey1/SentinelScribe"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22276,
-    "updated_at": "2026-06-16T18:27:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Typed building blocks for everything around your LLM call.",
     "id": "use-crux/crux",
     "language": "TypeScript",
@@ -382,7 +409,7 @@
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12533,
+    "stars": 12534,
     "updated_at": "2026-06-16T17:39:50Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 757,
-    "updated_at": "2026-06-16T17:32:26Z",
+    "updated_at": "2026-06-16T18:45:27Z",
     "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "Operational doctrine for practical AI systems design.",
-    "id": "Stunspot/stunspots-guide-to-ai-systems",
-    "language": "\u2014",
-    "name": "Stunspot/stunspots-guide-to-ai-systems",
-    "stars": 14,
-    "updated_at": "2026-06-16T17:31:31Z",
-    "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10167,
-    "updated_at": "2026-06-16T18:10:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "60 days. 60 prompts. 1 AI. Zero excuses. \u2014 My ABTalks Claude AI Challenge journey.",
-    "id": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
-    "language": "HTML",
-    "name": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
-    "stars": 1,
-    "updated_at": "2026-06-16T17:27:19Z",
-    "url": "https://github.com/devpal-singh-anand/ABTalks-60-Day-Claude-Challenge"
   }
 ]
