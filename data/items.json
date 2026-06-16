@@ -1,21 +1,120 @@
 [
   {
+    "description": "A model-agnostic reasoning protocol that makes frontier LLMs rigorous and honest instead of confidently wrong. Claude 4.",
+    "id": "mladen1312/rigor",
+    "language": "Python",
+    "name": "mladen1312/rigor",
+    "stars": 0,
+    "updated_at": "2026-06-16T23:45:08Z",
+    "url": "https://github.com/mladen1312/rigor"
+  },
+  {
+    "description": "A beginner-to-expert curriculum of drop-in skills for Claude Code, Codex, and any coding agent. Copy-paste ready, tested",
+    "id": "buildmoonshot/skillpacks",
+    "language": "JavaScript",
+    "name": "buildmoonshot/skillpacks",
+    "stars": 1,
+    "updated_at": "2026-06-16T23:44:39Z",
+    "url": "https://github.com/buildmoonshot/skillpacks"
+  },
+  {
+    "description": "Reusable skill definitions that teach AI agents consistent output formats, writing guidelines, and worked examples \u2014 wor",
+    "id": "craigspaterson/agent-skills",
+    "language": "PowerShell",
+    "name": "craigspaterson/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-06-16T23:42:51Z",
+    "url": "https://github.com/craigspaterson/agent-skills"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-06-16T23:41:22Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "\ud83c\udfac \u77ed\u5267\u5927\u5e08\u2122 v6.2 \u2014 \u5fae\u77ed\u5267\u5168\u6d41\u7a0b\u4e00\u4f53\u5316\u521b\u4f5c\u6280\u80fd | \u5341\u4e5d\u5927\u5e08\u521b\u4f5c\u519b\u56e2 | \u5348\u591c\u81ea\u8fdb\u5316 | \u4ece\u4e00\u53e5\u8bdd\u521b\u610f\u5230\u5c0f\u4e91\u96c0\u6210\u7247 | Short Drama Master\u2122 \u2014 All-in-one micro-drama creation s",
+    "id": "woqianfu/duanju-master",
+    "language": "HTML",
+    "name": "woqianfu/duanju-master",
+    "stars": 1,
+    "updated_at": "2026-06-16T23:39:46Z",
+    "url": "https://github.com/woqianfu/duanju-master"
+  },
+  {
+    "description": "\ud83c\udfac \u77ed\u5267\u5927\u5e08\u2122 v6.2 \u2014 \u5fae\u77ed\u5267\u5168\u6d41\u7a0b\u4e00\u4f53\u5316\u521b\u4f5c\u6280\u80fd | \u5341\u4e5d\u5927\u5e08\u521b\u4f5c\u519b\u56e2 | \u5348\u591c\u81ea\u8fdb\u5316 | \u4ece\u4e00\u53e5\u8bdd\u521b\u610f\u5230\u5c0f\u4e91\u96c0\u6210\u7247 | Short Drama Master\u2122 \u2014 All-in-one micro-drama creation s",
+    "id": "woqianfu/hermes-skill-short-drama-master",
+    "language": "HTML",
+    "name": "woqianfu/hermes-skill-short-drama-master",
+    "stars": 1,
+    "updated_at": "2026-06-16T23:39:41Z",
+    "url": "https://github.com/woqianfu/hermes-skill-short-drama-master"
+  },
+  {
     "description": "A native desktop Integrated Chat and Productivity Environment for local AI models",
     "id": "ekorbia/ekorbia-desktop",
     "language": "JavaScript",
     "name": "ekorbia/ekorbia-desktop",
     "stars": 1,
-    "updated_at": "2026-06-16T23:29:11Z",
+    "updated_at": "2026-06-16T23:39:37Z",
     "url": "https://github.com/ekorbia/ekorbia-desktop"
   },
   {
-    "description": "A beginner-to-expert curriculum of drop-in skills for Claude Code, Codex, and any coding agent. Copy-paste ready, tested",
-    "id": "buildmoonshot/skillpacks",
-    "language": "\u2014",
-    "name": "buildmoonshot/skillpacks",
-    "stars": 1,
-    "updated_at": "2026-06-16T23:27:54Z",
-    "url": "https://github.com/buildmoonshot/skillpacks"
+    "description": "jsonedit is a structure-first JSON editor designed for composing and reshaping hierarchical meaning \u2014 ideal for LLM prom",
+    "id": "LionKimbro/jsonedit",
+    "language": "Python",
+    "name": "LionKimbro/jsonedit",
+    "stars": 0,
+    "updated_at": "2026-06-16T23:37:08Z",
+    "url": "https://github.com/LionKimbro/jsonedit"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2904,
+    "updated_at": "2026-06-16T23:33:34Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
+    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "language": "HTML",
+    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "stars": 0,
+    "updated_at": "2026-06-16T23:32:40Z",
+    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 35136,
+    "updated_at": "2026-06-16T23:44:47Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-16T23:31:55Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-16T23:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Two standalone Claude Code skills: an optimizer that finds the highest-leverage move in any context, and an orchestrator",
@@ -34,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T23:26:26Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-16T23:26:11Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
   },
   {
     "description": "Radical creativity engine for Claude Code. 10 techniques. Persona-driven genius mode. Quality gate that kills mediocre i",
@@ -70,15 +160,6 @@
     "stars": 11,
     "updated_at": "2026-06-16T23:23:53Z",
     "url": "https://github.com/zxpmail/ReqForge"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "Python",
-    "name": "github/awesome-copilot",
-    "stars": 35136,
-    "updated_at": "2026-06-16T23:21:22Z",
-    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -148,7 +229,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 30010,
+    "stars": 30016,
     "updated_at": "2026-06-16T23:16:45Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -178,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T23:15:50Z",
     "url": "https://github.com/kimsanguine/AI_Human"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-16T23:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -225,15 +297,6 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
-    "description": "A model-agnostic reasoning protocol that makes frontier LLMs rigorous and honest instead of confidently wrong. Claude 4.",
-    "id": "mladen1312/rigor",
-    "language": "Python",
-    "name": "mladen1312/rigor",
-    "stars": 0,
-    "updated_at": "2026-06-16T23:10:30Z",
-    "url": "https://github.com/mladen1312/rigor"
-  },
-  {
     "description": "AI projects focused on LLMs, prompt engineering and business solutions.",
     "id": "marialuiza-mdealcantara/portfolio-ai",
     "language": "\u2014",
@@ -247,18 +310,9 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32100,
+    "stars": 32101,
     "updated_at": "2026-06-16T23:01:03Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:59:43Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
   },
   {
     "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
@@ -324,6 +378,15 @@
     "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
   },
   {
+    "description": "AI-powered policy document assistant built with Python and Streamlit for nonprofit and public-service organizations.",
+    "id": "Preelu/ai-policy-assistant",
+    "language": "Python",
+    "name": "Preelu/ai-policy-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:54:41Z",
+    "url": "https://github.com/Preelu/ai-policy-assistant"
+  },
+  {
     "description": "Every other tool executes. This one decides what to execute. Chief of Staff skill for Claude Code.",
     "id": "JimmySadek/strategic-partner",
     "language": "Shell",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T22:48:26Z",
     "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:48:10Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Multi-agent defense procurement research assistant built with LangGraph and Ollama. Three specialized agents collaborate",
-    "id": "DarrellS0352/procurement-research-agent",
-    "language": "Jupyter Notebook",
-    "name": "DarrellS0352/procurement-research-agent",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:47:39Z",
-    "url": "https://github.com/DarrellS0352/procurement-research-agent"
-  },
-  {
-    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
-    "id": "rmdhananjay/contextual-memory-map",
-    "language": "HTML",
-    "name": "rmdhananjay/contextual-memory-map",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:46:25Z",
-    "url": "https://github.com/rmdhananjay/contextual-memory-map"
-  },
-  {
-    "description": "Repositorio educativo sobre Prompt Engineering para Front End. Incluye ejemplos pr\u00e1cticos sobre accesibilidad (a11y), CS",
-    "id": "KiKDraS/prompt-engineering",
-    "language": "HTML",
-    "name": "KiKDraS/prompt-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:45:07Z",
-    "url": "https://github.com/KiKDraS/prompt-engineering"
-  },
-  {
-    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
-    "id": "wshobson/agents",
-    "language": "Python",
-    "name": "wshobson/agents",
-    "stars": 36848,
-    "updated_at": "2026-06-16T22:43:27Z",
-    "url": "https://github.com/wshobson/agents"
-  },
-  {
-    "description": "Build a voice profile from your pre-AI writing so AI drafts in your real voice, not generic AI prose. A Claude Code skil",
-    "id": "paultaki/voice-profile-builder",
-    "language": "\u2014",
-    "name": "paultaki/voice-profile-builder",
-    "stars": 1,
-    "updated_at": "2026-06-16T22:42:43Z",
-    "url": "https://github.com/paultaki/voice-profile-builder"
-  },
-  {
-    "description": "landingpage",
-    "id": "kgrg/landingpage",
-    "language": "TypeScript",
-    "name": "kgrg/landingpage",
-    "stars": 2,
-    "updated_at": "2026-06-16T22:38:32Z",
-    "url": "https://github.com/kgrg/landingpage"
   }
 ]
