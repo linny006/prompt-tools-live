@@ -1,5 +1,131 @@
 [
   {
+    "description": "Practical bilingual skills that make AI coding agents more disciplined, testable, and useful in real engineering work.",
+    "id": "Rookage/agent-discipline",
+    "language": "PowerShell",
+    "name": "Rookage/agent-discipline",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:00:22Z",
+    "url": "https://github.com/Rookage/agent-discipline"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 29885,
+    "updated_at": "2026-06-16T19:59:51Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "AI Project Starter: documentation-first starter kit for AI-coded projects, project context, guardrails, and agent instru",
+    "id": "ucsahinn/ai-project-starter",
+    "language": "Python",
+    "name": "ucsahinn/ai-project-starter",
+    "stars": 5,
+    "updated_at": "2026-06-16T19:59:29Z",
+    "url": "https://github.com/ucsahinn/ai-project-starter"
+  },
+  {
+    "description": "AI Skill Create: toolkit for creating, validating, testing, and packaging reusable AI agent skills and Codex skills.",
+    "id": "ucsahinn/ai-skill-create",
+    "language": "JavaScript",
+    "name": "ucsahinn/ai-skill-create",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:59:25Z",
+    "url": "https://github.com/ucsahinn/ai-skill-create"
+  },
+  {
+    "description": "Prompt Architect: reusable prompt patterns, approval-gated workflows, and verification checklists for AI-assisted develo",
+    "id": "ucsahinn/prompt-architect",
+    "language": "JavaScript",
+    "name": "ucsahinn/prompt-architect",
+    "stars": 5,
+    "updated_at": "2026-06-16T19:59:21Z",
+    "url": "https://github.com/ucsahinn/prompt-architect"
+  },
+  {
+    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:58:25Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1372,
+    "updated_at": "2026-06-16T19:55:35Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Reusable AI agent skills for engineering, product, architecture, planning, and delivery workflows.",
+    "id": "GustavoGutierrez/engineering-skills",
+    "language": "\u2014",
+    "name": "GustavoGutierrez/engineering-skills",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:55:34Z",
+    "url": "https://github.com/GustavoGutierrez/engineering-skills"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22278,
+    "updated_at": "2026-06-16T19:56:25Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A requirements-analysis discipline (Analyze \u00b7 Prioritize \u00b7 Communicate \u00b7 Realize) that turns vague, biased, or symptom-l",
+    "id": "sebastianmompour-coder/apricore",
+    "language": "HTML",
+    "name": "sebastianmompour-coder/apricore",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:59:45Z",
+    "url": "https://github.com/sebastianmompour-coder/apricore"
+  },
+  {
+    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 147,
+    "updated_at": "2026-06-16T20:00:23Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:47:26Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Claude Code skills, architectural principles, and alternative approaches for AI-assisted development",
+    "id": "AnastasiyaW/claude-code-config",
+    "language": "Python",
+    "name": "AnastasiyaW/claude-code-config",
+    "stars": 127,
+    "updated_at": "2026-06-16T19:46:06Z",
+    "url": "https://github.com/AnastasiyaW/claude-code-config"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-16T19:45:41Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Opinionated Claude Code collection \u2014 commands, subagents & skills for autonomous software delivery and legacy app modern",
     "id": "aiFabricoCom/fabrico-collections",
     "language": "Shell",
@@ -23,7 +149,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 757,
-    "updated_at": "2026-06-16T19:43:18Z",
+    "updated_at": "2026-06-16T19:59:24Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -34,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-06-16T19:39:30Z",
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2903,
+    "updated_at": "2026-06-16T19:39:28Z",
+    "url": "https://github.com/microsoft/apm"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -52,15 +187,6 @@
     "stars": 46,
     "updated_at": "2026-06-16T19:38:27Z",
     "url": "https://github.com/timothywarner-org/prompt-pro"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 2902,
-    "updated_at": "2026-06-16T19:39:28Z",
-    "url": "https://github.com/microsoft/apm"
   },
   {
     "description": "Agentic AI Developer Learning Track - LLM application fundamentals: APIs, prompting, tool calling, retrieval, first agen",
@@ -135,15 +261,6 @@
     "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
   },
   {
-    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
-    "id": "jeb-maker/lagent-quotidien",
-    "language": "HTML",
-    "name": "jeb-maker/lagent-quotidien",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:34:25Z",
-    "url": "https://github.com/jeb-maker/lagent-quotidien"
-  },
-  {
     "description": "Solutions for the Agentic AI Developer track",
     "id": "ai-infra-curriculum/ai-infra-agentic-ai-developer-solutions",
     "language": "\u2014",
@@ -160,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T19:33:41Z",
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 147,
-    "updated_at": "2026-06-16T19:32:43Z",
-    "url": "https://github.com/jmagly/aiwg"
   },
   {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
@@ -196,33 +304,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T19:31:00Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-16T19:30:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 29869,
-    "updated_at": "2026-06-16T19:26:53Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:25:44Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Research code and experimental outputs for evaluating Pedagogical Chain-of-Thought prompting in AI-generated algebra fee",
@@ -302,7 +383,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10167,
-    "updated_at": "2026-06-16T19:43:41Z",
+    "updated_at": "2026-06-16T19:58:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -319,7 +400,7 @@
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
-    "stars": 60,
+    "stars": 61,
     "updated_at": "2026-06-16T19:05:53Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
@@ -351,15 +432,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "A requirements-analysis discipline (Analyze \u00b7 Prioritize \u00b7 Communicate \u00b7 Realize) that turns vague, biased, or symptom-l",
-    "id": "sebastianmompour-coder/apricore",
-    "language": "HTML",
-    "name": "sebastianmompour-coder/apricore",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:03:49Z",
-    "url": "https://github.com/sebastianmompour-coder/apricore"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T19:01:25Z",
     "url": "https://github.com/fr1j0/bonk"
-  },
-  {
-    "description": "",
-    "id": "MasihMoafi/harnesses-I-use",
-    "language": "\u2014",
-    "name": "MasihMoafi/harnesses-I-use",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:58:44Z",
-    "url": "https://github.com/MasihMoafi/harnesses-I-use"
-  },
-  {
-    "description": "AI Project Starter: documentation-first starter kit for AI-coded projects, project context, guardrails, and agent instru",
-    "id": "ucsahinn/ai-project-starter",
-    "language": "Python",
-    "name": "ucsahinn/ai-project-starter",
-    "stars": 5,
-    "updated_at": "2026-06-16T18:57:16Z",
-    "url": "https://github.com/ucsahinn/ai-project-starter"
-  },
-  {
-    "description": "AI Skill Create: toolkit for creating, validating, testing, and packaging reusable AI agent skills and Codex skills.",
-    "id": "ucsahinn/ai-skill-create",
-    "language": "JavaScript",
-    "name": "ucsahinn/ai-skill-create",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:57:09Z",
-    "url": "https://github.com/ucsahinn/ai-skill-create"
-  },
-  {
-    "description": "Prompt Architect: reusable prompt patterns, approval-gated workflows, and verification checklists for AI-assisted develo",
-    "id": "ucsahinn/prompt-architect",
-    "language": "JavaScript",
-    "name": "ucsahinn/prompt-architect",
-    "stars": 5,
-    "updated_at": "2026-06-16T18:57:02Z",
-    "url": "https://github.com/ucsahinn/prompt-architect"
-  },
-  {
-    "description": "Shrink LLM context windows 50-80% by removing noise, redundancy, and long-tail detail \u2014 zero-dependency Python pipeline ",
-    "id": "uninhibited-scholar/context-compressor",
-    "language": "Python",
-    "name": "uninhibited-scholar/context-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:52:09Z",
-    "url": "https://github.com/uninhibited-scholar/context-compressor"
-  },
-  {
-    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
-    "id": "Muizzkolapo/agent-actions",
-    "language": "Python",
-    "name": "Muizzkolapo/agent-actions",
-    "stars": 7,
-    "updated_at": "2026-06-16T19:25:30Z",
-    "url": "https://github.com/Muizzkolapo/agent-actions"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-06-16T18:48:55Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Curated Claude Fable 5 use cases, tutorials, integrations, demos, and benchmark evidence with source links. Access Claud",
-    "id": "Anil-matcha/awesome-claude-fable-5",
-    "language": "\u2014",
-    "name": "Anil-matcha/awesome-claude-fable-5",
-    "stars": 219,
-    "updated_at": "2026-06-16T18:48:55Z",
-    "url": "https://github.com/Anil-matcha/awesome-claude-fable-5"
   }
 ]
