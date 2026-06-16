@@ -1,5 +1,104 @@
 [
   {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2902,
+    "updated_at": "2026-06-16T19:30:03Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 29860,
+    "updated_at": "2026-06-16T19:26:53Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:25:44Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Research code and experimental outputs for evaluating Pedagogical Chain-of-Thought prompting in AI-generated algebra fee",
+    "id": "cess-m/pcot-algebra-feedback-experiments",
+    "language": "Python",
+    "name": "cess-m/pcot-algebra-feedback-experiments",
+    "stars": 1,
+    "updated_at": "2026-06-16T19:24:14Z",
+    "url": "https://github.com/cess-m/pcot-algebra-feedback-experiments"
+  },
+  {
+    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 147,
+    "updated_at": "2026-06-16T19:23:43Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Deterministic stateless multi-provider AI prompt runner for CLI, scripts, and CI workflows with contract-driven structur",
+    "id": "damienSavoldelli/ai-prompt-runner",
+    "language": "Python",
+    "name": "damienSavoldelli/ai-prompt-runner",
+    "stars": 1,
+    "updated_at": "2026-06-16T19:22:49Z",
+    "url": "https://github.com/damienSavoldelli/ai-prompt-runner"
+  },
+  {
+    "description": "The definitive AI Toolkit for Data Engineering & Analytics. Pre-configured specialists, skills, and validation scripts f",
+    "id": "luccapinto/agentic-data-kit",
+    "language": "HTML",
+    "name": "luccapinto/agentic-data-kit",
+    "stars": 3,
+    "updated_at": "2026-06-16T19:18:43Z",
+    "url": "https://github.com/luccapinto/agentic-data-kit"
+  },
+  {
+    "description": "AI agents now operate with authority. Authority without discipline is how complex systems fail. Nuclear\u2019s control loop, ",
+    "id": "FlyFission/nuclear-grade-context-engineering",
+    "language": "Python",
+    "name": "FlyFission/nuclear-grade-context-engineering",
+    "stars": 22,
+    "updated_at": "2026-06-16T19:17:57Z",
+    "url": "https://github.com/FlyFission/nuclear-grade-context-engineering"
+  },
+  {
+    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
+    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "language": "HTML",
+    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:16:57Z",
+    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
+  },
+  {
+    "description": "VibeCraft \u2014 \u043c\u0430\u043d\u0438\u0444\u0435\u0441\u0442: \u043a\u0430\u043a \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u0442\u044c \u00ab\u0434\u0443\u0448\u0443\u00bb \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u0430 \u0438 \u043a\u0430\u043a \u0430\u0433\u0435\u043d\u0442\u044b \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0442. RU/EN, \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u044f + \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u044f, v1.0\u2192v",
+    "id": "Shugar86/vibecraft-manifest",
+    "language": "\u2014",
+    "name": "Shugar86/vibecraft-manifest",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:16:32Z",
+    "url": "https://github.com/Shugar86/vibecraft-manifest"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-16T19:15:49Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
     "id": "ariffazil/arifos",
     "language": "Python",
@@ -18,24 +117,6 @@
     "url": "https://github.com/TexasBedouin/vibe-check"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 29846,
-    "updated_at": "2026-06-16T19:13:26Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:13:09Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "promptvc is a developer-first CLI tool that brings version control to LLM prompts, treating them like real code. It enab",
     "id": "uayushdubey/prompt-version-control",
     "language": "Python",
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10167,
-    "updated_at": "2026-06-16T19:08:04Z",
+    "updated_at": "2026-06-16T19:22:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -126,15 +207,6 @@
     "url": "https://github.com/fr1j0/bonk"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-16T19:00:39Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "",
     "id": "MasihMoafi/harnesses-I-use",
     "language": "\u2014",
@@ -194,7 +266,7 @@
     "language": "Python",
     "name": "Muizzkolapo/agent-actions",
     "stars": 7,
-    "updated_at": "2026-06-16T19:14:34Z",
+    "updated_at": "2026-06-16T19:25:30Z",
     "url": "https://github.com/Muizzkolapo/agent-actions"
   },
   {
@@ -225,24 +297,6 @@
     "url": "https://github.com/agentmark-ai/agentmark"
   },
   {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:45:55Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
-  },
-  {
-    "description": "The definitive AI Toolkit for Data Engineering & Analytics. Pre-configured specialists, skills, and validation scripts f",
-    "id": "luccapinto/agentic-data-kit",
-    "language": "HTML",
-    "name": "luccapinto/agentic-data-kit",
-    "stars": 3,
-    "updated_at": "2026-06-16T18:43:27Z",
-    "url": "https://github.com/luccapinto/agentic-data-kit"
-  },
-  {
     "description": "Local-first PySide6 prompt manager with versions, boards, clipboard modes, JSON export and a read-only Web/PWA companion",
     "id": "file-bricks/ProfiPrompt",
     "language": "Python",
@@ -250,24 +304,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T18:41:03Z",
     "url": "https://github.com/file-bricks/ProfiPrompt"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 2902,
-    "updated_at": "2026-06-16T19:07:21Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "AI agents now operate with authority. Authority without discipline is how complex systems fail. Nuclear\u2019s control loop, ",
-    "id": "FlyFission/nuclear-grade-context-engineering",
-    "language": "Python",
-    "name": "FlyFission/nuclear-grade-context-engineering",
-    "stars": 22,
-    "updated_at": "2026-06-16T19:15:12Z",
-    "url": "https://github.com/FlyFission/nuclear-grade-context-engineering"
   },
   {
     "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T17:59:22Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "An android app to calculate electricity bill for each tenant.",
-    "id": "Take-YourTime/Electricity-Bill-Splitter",
-    "language": "Kotlin",
-    "name": "Take-YourTime/Electricity-Bill-Splitter",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:58:57Z",
-    "url": "https://github.com/Take-YourTime/Electricity-Bill-Splitter"
-  },
-  {
-    "description": "\ud83c\udfad 216 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 17 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 18 \u4e2a\u90e8\u95e8\u3002\u542b 50 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
-    "id": "jnMetaCode/agency-agents-zh",
-    "language": "Shell",
-    "name": "jnMetaCode/agency-agents-zh",
-    "stars": 15054,
-    "updated_at": "2026-06-16T17:58:53Z",
-    "url": "https://github.com/jnMetaCode/agency-agents-zh"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:57:20Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:57:16Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
   }
 ]
