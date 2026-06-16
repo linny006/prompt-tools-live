@@ -1,12 +1,21 @@
 [
   {
-    "description": "A model-agnostic reasoning protocol that makes frontier LLMs rigorous and honest instead of confidently wrong. Claude 4.",
-    "id": "mladen1312/rigor",
-    "language": "Python",
-    "name": "mladen1312/rigor",
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
     "stars": 0,
-    "updated_at": "2026-06-16T23:45:08Z",
-    "url": "https://github.com/mladen1312/rigor"
+    "updated_at": "2026-06-16T23:51:38Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
+    "id": "elon-choo/fablever",
+    "language": "JavaScript",
+    "name": "elon-choo/fablever",
+    "stars": 0,
+    "updated_at": "2026-06-16T23:50:54Z",
+    "url": "https://github.com/elon-choo/fablever"
   },
   {
     "description": "A beginner-to-expert curriculum of drop-in skills for Claude Code, Codex, and any coding agent. Copy-paste ready, tested",
@@ -14,8 +23,53 @@
     "language": "JavaScript",
     "name": "buildmoonshot/skillpacks",
     "stars": 1,
-    "updated_at": "2026-06-16T23:44:39Z",
+    "updated_at": "2026-06-16T23:49:56Z",
     "url": "https://github.com/buildmoonshot/skillpacks"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 0,
+    "updated_at": "2026-06-16T23:49:44Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "A model-agnostic reasoning protocol that makes frontier LLMs rigorous and honest instead of confidently wrong. Claude 4.",
+    "id": "mladen1312/rigor",
+    "language": "Python",
+    "name": "mladen1312/rigor",
+    "stars": 0,
+    "updated_at": "2026-06-16T23:49:23Z",
+    "url": "https://github.com/mladen1312/rigor"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 282,
+    "updated_at": "2026-06-16T23:48:37Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-16T23:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 35137,
+    "updated_at": "2026-06-16T23:44:47Z",
+    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "Reusable skill definitions that teach AI agents consistent output formats, writing guidelines, and worked examples \u2014 wor",
@@ -59,7 +113,7 @@
     "language": "JavaScript",
     "name": "ekorbia/ekorbia-desktop",
     "stars": 1,
-    "updated_at": "2026-06-16T23:39:37Z",
+    "updated_at": "2026-06-16T23:49:43Z",
     "url": "https://github.com/ekorbia/ekorbia-desktop"
   },
   {
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 2904,
-    "updated_at": "2026-06-16T23:33:34Z",
+    "updated_at": "2026-06-16T23:49:00Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -90,15 +144,6 @@
     "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
   },
   {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "Python",
-    "name": "github/awesome-copilot",
-    "stars": 35136,
-    "updated_at": "2026-06-16T23:44:47Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
     "id": "VisionaireLabs/Visionaire",
     "language": "TypeScript",
@@ -106,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T23:31:55Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-16T23:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Two standalone Claude Code skills: an optimizer that finds the highest-leverage move in any context, and an orchestrator",
@@ -229,18 +265,9 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 30016,
+    "stars": 30021,
     "updated_at": "2026-06-16T23:16:45Z",
     "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 282,
-    "updated_at": "2026-06-16T23:16:36Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -310,7 +337,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32101,
+    "stars": 32103,
     "updated_at": "2026-06-16T23:01:03Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T22:49:25Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:49:21Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:48:35Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
-    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "language": "HTML",
-    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:48:26Z",
-    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
   }
 ]
