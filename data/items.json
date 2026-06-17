@@ -1,5 +1,77 @@
 [
   {
+    "description": "Codex skill for turning novels, scripts, and story worlds into interactive visual atlases.",
+    "id": "maikeliu86-coder/story-vista",
+    "language": "HTML",
+    "name": "maikeliu86-coder/story-vista",
+    "stars": 1,
+    "updated_at": "2026-06-17T10:29:31Z",
+    "url": "https://github.com/maikeliu86-coder/story-vista"
+  },
+  {
+    "description": "\u4e00\u4e2aSD \u63d0\u793a\u8bcd\u7f16\u8f91\u5668\uff0c\u652f\u6301\u641c\u7d22\u89d2\u8272\u4ee5\u83b7\u53d6\u5b8c\u6574\u5916\u89c2\u6807\u7b7e\u6216\u641c\u7d22\u67d0\u4e9b\u5355\u4e00\u7684\u6807\u7b7e",
+    "id": "buxiangyaohaoming/sd-webui-prompt-all-in-one-app-bxyhm",
+    "language": "JavaScript",
+    "name": "buxiangyaohaoming/sd-webui-prompt-all-in-one-app-bxyhm",
+    "stars": 0,
+    "updated_at": "2026-06-17T10:28:52Z",
+    "url": "https://github.com/buxiangyaohaoming/sd-webui-prompt-all-in-one-app-bxyhm"
+  },
+  {
+    "description": "State-of-the-art (2026) Claude Code skills for building and auditing software \u2014 30 domain & language skills, BUILD/AUDIT",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "HTML",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 0,
+    "updated_at": "2026-06-17T10:27:30Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3307,
+    "updated_at": "2026-06-17T10:29:18Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 141,
+    "updated_at": "2026-06-17T10:22:38Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26571,
+    "updated_at": "2026-06-17T10:22:05Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "Python",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-06-17T10:18:09Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T10:15:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Real-time prompt diagnosis for claude.ai, ChatGPT, and Gemini \u2014 traffic-light dot, one-click rewrite, /pd generator, fil",
     "id": "mohddarwix/PromptDoctor",
     "language": "Python",
@@ -7,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T10:14:59Z",
     "url": "https://github.com/mohddarwix/PromptDoctor"
-  },
-  {
-    "description": "State-of-the-art (2026) Claude Code skills for building and auditing software \u2014 30 domain & language skills, BUILD/AUDIT",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Shell",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 0,
-    "updated_at": "2026-06-17T10:14:43Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
     "description": "\u4e2d\u6587\u4f18\u5148\u7684 Vibe Coding / AI coding engineering workflow guide: specs, agents, worktrees, skills, CI, and review.",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 3897,
-    "updated_at": "2026-06-17T10:12:38Z",
+    "updated_at": "2026-06-17T10:28:22Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -99,21 +162,12 @@
     "url": "https://github.com/pantpujan017/LLM-SC"
   },
   {
-    "description": "\u4e00\u4e2aSD \u63d0\u793a\u8bcd\u7f16\u8f91\u5668\uff0c\u652f\u6301\u641c\u7d22\u89d2\u8272\u4ee5\u83b7\u53d6\u5b8c\u6574\u5916\u89c2\u6807\u7b7e\u6216\u641c\u7d22\u67d0\u4e9b\u5355\u4e00\u7684\u6807\u7b7e",
-    "id": "buxiangyaohaoming/sd-webui-prompt-all-in-one-app-bxyhm",
-    "language": "JavaScript",
-    "name": "buxiangyaohaoming/sd-webui-prompt-all-in-one-app-bxyhm",
-    "stars": 0,
-    "updated_at": "2026-06-17T10:07:19Z",
-    "url": "https://github.com/buxiangyaohaoming/sd-webui-prompt-all-in-one-app-bxyhm"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29255,
-    "updated_at": "2026-06-17T10:15:06Z",
+    "updated_at": "2026-06-17T10:24:07Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -162,15 +216,6 @@
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T10:00:40Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The open-source studio behind Hashiden \u2014 the 24/7 show written by gameplay. MineBTC's content pipeline: canon, chapters,",
     "id": "LifeOrDream/ai-content-engine",
     "language": "TypeScript",
@@ -198,6 +243,15 @@
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
   },
   {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 4913,
+    "updated_at": "2026-06-17T09:57:37Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
+  },
+  {
     "description": "AI-powered daily job discovery for insurance operations. Claude API scoring, automated CV generation, email alerts. 30+ ",
     "id": "marcplanas11-alt/Insuretechdaily",
     "language": "Python",
@@ -212,7 +266,7 @@
     "language": "JavaScript",
     "name": "RewriteReality-Labs/GBSE",
     "stars": 1,
-    "updated_at": "2026-06-17T09:55:31Z",
+    "updated_at": "2026-06-17T10:20:19Z",
     "url": "https://github.com/RewriteReality-Labs/GBSE"
   },
   {
@@ -355,7 +409,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 35170,
+    "stars": 35172,
     "updated_at": "2026-06-17T09:30:00Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -364,18 +418,9 @@
     "id": "SlideSpeak/slide-design-prompts",
     "language": "JavaScript",
     "name": "SlideSpeak/slide-design-prompts",
-    "stars": 1,
+    "stars": 3,
     "updated_at": "2026-06-17T09:29:11Z",
     "url": "https://github.com/SlideSpeak/slide-design-prompts"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26571,
-    "updated_at": "2026-06-17T10:06:45Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Claude Code skills, architectural principles, and alternative approaches for AI-assisted development",
@@ -385,15 +430,6 @@
     "stars": 129,
     "updated_at": "2026-06-17T09:28:33Z",
     "url": "https://github.com/AnastasiyaW/claude-code-config"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "Python",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-06-17T09:39:01Z",
-    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "agentic harness for qwen3.5 with context size of 16384 tokens with a focus on context management(WIP)",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-17T09:24:23Z",
     "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
-  },
-  {
-    "description": "Awen Music Matrix Generator \u2014 7\u7ef4\u5ea6\u751f\u6210Suno\u63d0\u793a\u8bcd\u3001\u5c01\u9762\u3001\u89c6\u9891\u63d0\u793a\u8bcd\uff0chiawen.com",
-    "id": "awenstudio/awen-music",
-    "language": "JavaScript",
-    "name": "awenstudio/awen-music",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:22:35Z",
-    "url": "https://github.com/awenstudio/awen-music"
-  },
-  {
-    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
-    "id": "FoxsterDev/ai-research-hub",
-    "language": "Python",
-    "name": "FoxsterDev/ai-research-hub",
-    "stars": 3,
-    "updated_at": "2026-06-17T09:22:16Z",
-    "url": "https://github.com/FoxsterDev/ai-research-hub"
-  },
-  {
-    "description": "Detects and rewrites AI writing patterns in Korean, English, Chinese, and Japanese. Runs as a skill for Claude Code, Cod",
-    "id": "devswha/patina",
-    "language": "JavaScript",
-    "name": "devswha/patina",
-    "stars": 167,
-    "updated_at": "2026-06-17T09:22:03Z",
-    "url": "https://github.com/devswha/patina"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:22:03Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
