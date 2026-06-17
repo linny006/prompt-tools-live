@@ -1,12 +1,57 @@
 [
   {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-17T07:25:32Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "A from-scratch hybrid rule + LLM-as-judge eval harness: pass-rate, judge-vs-rule Cohen's kappa, latency/cost, HTML repor",
+    "id": "ganlin770/promptlab",
+    "language": "Python",
+    "name": "ganlin770/promptlab",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:25:05Z",
+    "url": "https://github.com/ganlin770/promptlab"
+  },
+  {
+    "description": "Practices, protocols, and skills for AI-driven software development. 18 skills + 1 Bash safety hook for Claude Code, Cod",
+    "id": "CodeAlive-AI/ai-driven-development",
+    "language": "Python",
+    "name": "CodeAlive-AI/ai-driven-development",
+    "stars": 85,
+    "updated_at": "2026-06-17T07:21:43Z",
+    "url": "https://github.com/CodeAlive-AI/ai-driven-development"
+  },
+  {
+    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "id": "dongshuyan/compass-skills",
+    "language": "Python",
+    "name": "dongshuyan/compass-skills",
+    "stars": 217,
+    "updated_at": "2026-06-17T07:21:37Z",
+    "url": "https://github.com/dongshuyan/compass-skills"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19672,
-    "updated_at": "2026-06-17T07:15:14Z",
+    "updated_at": "2026-06-17T07:24:44Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:15:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Multi-agent audit master prompts (security, repo, frontend, API, perf, data, infra, AI/LLM, compliance, a11y, docs) + a ",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T07:14:28Z",
     "url": "https://github.com/marcelrapold/auditor"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 19,
-    "updated_at": "2026-06-17T07:14:22Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
     "description": "Fork \u2192 /setup \u2192 \ud504\ub85c\uc81d\ud2b8\uc5d0 \ub450\ub1cc\uac00 \uc0dd\uae34\ub2e4. \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c\uc744 \uc704\ud55c LLM Wiki \ud558\ub124\uc2a4 \ud15c\ud50c\ub9bf.",
@@ -46,12 +82,12 @@
   },
   {
     "description": "A rough anti-sappy Codex skill for reframing setbacks with cut-through, reality-check style responses.",
-    "id": "Aidan-0099/zhe-shi-ge-hao-shi-er",
+    "id": "Ann-planning/zhe-shi-ge-hao-shi-er",
     "language": "\u2014",
-    "name": "Aidan-0099/zhe-shi-ge-hao-shi-er",
+    "name": "Ann-planning/zhe-shi-ge-hao-shi-er",
     "stars": 0,
     "updated_at": "2026-06-17T07:11:23Z",
-    "url": "https://github.com/Aidan-0099/zhe-shi-ge-hao-shi-er"
+    "url": "https://github.com/Ann-planning/zhe-shi-ge-hao-shi-er"
   },
   {
     "description": "\ud83c\udfac \u77ed\u5267\u5927\u5e08\u2122 v6.2.4 \u2014 \u5fae\u77ed\u5267\u5168\u6d41\u7a0b\u4e00\u4f53\u5316\u521b\u4f5c\u6280\u80fd | \u4e8c\u5341\u4e00\u4f4d\u5927\u5e08\u56db\u519b\u56e2+\u8fdb\u5316\u603b\u7763\u5bdf | \u7814\u7a76\u519b\u56e2\u6848\u4f8b\u9a71\u52a8\u521b\u4f5c | \u8fdb\u5316\u5927\u5e08KPI\u76d1\u7763 | \u4ece\u4e00\u53e5\u8bdd\u521b\u610f\u5230\u5c0f\u4e91\u96c0\u6210\u7247 | Short Drama Master\u2122 \u2014 All-in-",
@@ -67,7 +103,7 @@
     "id": "woqianfu/hermes-skill-short-drama-master",
     "language": "Python",
     "name": "woqianfu/hermes-skill-short-drama-master",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-06-17T07:09:28Z",
     "url": "https://github.com/woqianfu/hermes-skill-short-drama-master"
   },
@@ -126,15 +162,6 @@
     "url": "https://github.com/mknjibhuvgyo2/portpilot-ai"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T07:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "React/Vite production workflow for prompt-based media planning and Supabase-backed project state",
     "id": "hthmkt12/prompt-media-pro",
     "language": "Python",
@@ -157,7 +184,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 35157,
+    "stars": 35161,
     "updated_at": "2026-06-17T06:57:14Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -184,7 +211,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29236,
+    "stars": 29237,
     "updated_at": "2026-06-17T06:54:09Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "ehukaimedia/high-signal-output",
     "stars": 0,
-    "updated_at": "2026-06-17T06:45:56Z",
+    "updated_at": "2026-06-17T07:20:59Z",
     "url": "https://github.com/ehukaimedia/high-signal-output"
   },
   {
@@ -283,7 +310,7 @@
     "id": "withkynam/vibecode-pro-max-kit",
     "language": "JavaScript",
     "name": "withkynam/vibecode-pro-max-kit",
-    "stars": 907,
+    "stars": 908,
     "updated_at": "2026-06-17T06:44:31Z",
     "url": "https://github.com/withkynam/vibecode-pro-max-kit"
   },
@@ -400,7 +427,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 30331,
+    "stars": 30342,
     "updated_at": "2026-06-17T06:14:00Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T06:12:57Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-06-17T06:12:43Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:12:43Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:12:36Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   }
 ]
