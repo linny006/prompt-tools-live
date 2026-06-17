@@ -1,12 +1,84 @@
 [
   {
+    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "id": "dongshuyan/compass-skills",
+    "language": "Python",
+    "name": "dongshuyan/compass-skills",
+    "stars": 186,
+    "updated_at": "2026-06-17T00:59:41Z",
+    "url": "https://github.com/dongshuyan/compass-skills"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-17T00:57:37Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 3,
+    "updated_at": "2026-06-17T00:52:30Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "\ud83d\udc19 A curated set of Codex and OpenClaw skills for workflow automation, technical debugging, and agent-assisted developmen",
+    "id": "vincentkoc/dotskills",
+    "language": "JavaScript",
+    "name": "vincentkoc/dotskills",
+    "stars": 86,
+    "updated_at": "2026-06-17T00:50:00Z",
+    "url": "https://github.com/vincentkoc/dotskills"
+  },
+  {
+    "description": "Shrink LLM context windows 50-80% by removing noise, redundancy, and long-tail detail \u2014 zero-dependency Python pipeline ",
+    "id": "uninhibited-scholar/context-compressor",
+    "language": "Python",
+    "name": "uninhibited-scholar/context-compressor",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:49:30Z",
+    "url": "https://github.com/uninhibited-scholar/context-compressor"
+  },
+  {
+    "description": "Hand-curated index of 900+ agent skills (repos, cookbooks, MCP servers, case studies) across 49 categories. One YAML fil",
+    "id": "badhope/AI-SKILL",
+    "language": "Python",
+    "name": "badhope/AI-SKILL",
+    "stars": 12,
+    "updated_at": "2026-06-17T00:49:29Z",
+    "url": "https://github.com/badhope/AI-SKILL"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 12,
+    "updated_at": "2026-06-17T00:47:42Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
     "name": "HIDORAKAI002/ai-workspace-archive",
     "stars": 19,
-    "updated_at": "2026-06-17T00:45:15Z",
+    "updated_at": "2026-06-17T00:46:39Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T00:45:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A structured knowledge base for large language model technologies, covering LLMs, Agents, RAG, model training, evaluatio",
@@ -67,7 +139,7 @@
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12537,
+    "stars": 12538,
     "updated_at": "2026-06-17T00:31:26Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
@@ -90,20 +162,11 @@
     "url": "https://github.com/FoxsterDev/ai-research-hub"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T00:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thi",
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 42807,
+    "stars": 42810,
     "updated_at": "2026-06-17T00:30:10Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T00:30:10Z",
     "url": "https://github.com/siuserxiaowei/xiaowei-goal"
-  },
-  {
-    "description": "\ud83d\udc19 A curated set of Codex and OpenClaw skills for workflow automation, technical debugging, and agent-assisted developmen",
-    "id": "vincentkoc/dotskills",
-    "language": "Shell",
-    "name": "vincentkoc/dotskills",
-    "stars": 86,
-    "updated_at": "2026-06-17T00:26:29Z",
-    "url": "https://github.com/vincentkoc/dotskills"
   },
   {
     "description": "A beginner-to-expert curriculum of drop-in skills for Claude Code, Codex, and any coding agent. Copy-paste ready, tested",
@@ -198,20 +252,11 @@
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   },
   {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 12,
-    "updated_at": "2026-06-17T00:17:01Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32109,
+    "stars": 32111,
     "updated_at": "2026-06-17T00:16:45Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -403,50 +448,5 @@
     "stars": 760,
     "updated_at": "2026-06-16T23:54:16Z",
     "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-06-16T23:51:38Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-06-16T23:49:44Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "A model-agnostic reasoning protocol that makes frontier LLMs rigorous and honest instead of confidently wrong. Claude 4.",
-    "id": "mladen1312/rigor",
-    "language": "Python",
-    "name": "mladen1312/rigor",
-    "stars": 0,
-    "updated_at": "2026-06-16T23:49:23Z",
-    "url": "https://github.com/mladen1312/rigor"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 282,
-    "updated_at": "2026-06-16T23:48:37Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26561,
-    "updated_at": "2026-06-16T23:45:39Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
