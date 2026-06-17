@@ -1,12 +1,75 @@
 [
   {
+    "description": "Multi-agent AI business analysis system built with LangGraph, Streamlit and Groq.",
+    "id": "deleonloza/ai-business-analyst-agent-langgraph",
+    "language": "Python",
+    "name": "deleonloza/ai-business-analyst-agent-langgraph",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:58:52Z",
+    "url": "https://github.com/deleonloza/ai-business-analyst-agent-langgraph"
+  },
+  {
+    "description": "A production-grade SvelteKit starter kit built around a real multi-user expense tracker, demonstrating technical decisio",
+    "id": "john-data-chen/sveltekit-starter-kit",
+    "language": "TypeScript",
+    "name": "john-data-chen/sveltekit-starter-kit",
+    "stars": 1,
+    "updated_at": "2026-06-17T07:58:27Z",
+    "url": "https://github.com/john-data-chen/sveltekit-starter-kit"
+  },
+  {
+    "description": "A curated library of AI prompt systems \u2014 structured prompts that help you think clearly before you design, build, plan, ",
+    "id": "Kimotep/skills",
+    "language": "Python",
+    "name": "Kimotep/skills",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:57:56Z",
+    "url": "https://github.com/Kimotep/skills"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19673,
+    "updated_at": "2026-06-17T08:00:12Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Codex skill for turning rough tasks into verifiable /goal prompts, Loop Cards, and multi-agent plans.",
+    "id": "zitao4588-create/goal-task-prompt",
+    "language": "Python",
+    "name": "zitao4588-create/goal-task-prompt",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:56:37Z",
+    "url": "https://github.com/zitao4588-create/goal-task-prompt"
+  },
+  {
+    "description": "AI prompt library for building production dbt projects with phased discovery, modeling, and semantic layer setup.",
+    "id": "Zahid-Abbas-Ali-Baig/dbt-ai-guide",
+    "language": "\u2014",
+    "name": "Zahid-Abbas-Ali-Baig/dbt-ai-guide",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:54:41Z",
+    "url": "https://github.com/Zahid-Abbas-Ali-Baig/dbt-ai-guide"
+  },
+  {
     "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 223,
-    "updated_at": "2026-06-17T07:44:49Z",
+    "stars": 226,
+    "updated_at": "2026-06-17T07:53:33Z",
     "url": "https://github.com/dongshuyan/compass-skills"
+  },
+  {
+    "description": "Awen Music Matrix Generator \u2014 7\u7ef4\u5ea6\u751f\u6210Suno\u63d0\u793a\u8bcd\u3001\u5c01\u9762\u3001\u89c6\u9891\u63d0\u793a\u8bcd\uff0chiawen.com",
+    "id": "awenstudio/awen-music",
+    "language": "JavaScript",
+    "name": "awenstudio/awen-music",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:53:11Z",
+    "url": "https://github.com/awenstudio/awen-music"
   },
   {
     "description": "A rough anti-sappy Codex skill for reframing setbacks with cut-through, reality-check style responses.",
@@ -14,8 +77,26 @@
     "language": "\u2014",
     "name": "Ann-planning/goodthings-skill",
     "stars": 0,
-    "updated_at": "2026-06-17T07:44:19Z",
+    "updated_at": "2026-06-17T07:52:35Z",
     "url": "https://github.com/Ann-planning/goodthings-skill"
+  },
+  {
+    "description": "Image generation skill for Claude Code, Codex CLI, OpenCode, Cursor and 50+ AI coding agents. Two backends (OpenAI API o",
+    "id": "gabelul/pixeltamer-gpt-image-skill",
+    "language": "Shell",
+    "name": "gabelul/pixeltamer-gpt-image-skill",
+    "stars": 3,
+    "updated_at": "2026-06-17T07:51:34Z",
+    "url": "https://github.com/gabelul/pixeltamer-gpt-image-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:45:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Per-repo memory, outcome telemetry, and a calibrated-confidence gate for Claude Code, with MCP and AGENTS.md projections",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "sara-star-quant/presence",
     "stars": 2,
-    "updated_at": "2026-06-17T07:45:32Z",
+    "updated_at": "2026-06-17T07:55:03Z",
     "url": "https://github.com/sara-star-quant/presence"
   },
   {
@@ -32,7 +113,7 @@
     "language": "JavaScript",
     "name": "Alisa0808/vibe-creating-skill",
     "stars": 0,
-    "updated_at": "2026-06-17T07:41:18Z",
+    "updated_at": "2026-06-17T07:59:08Z",
     "url": "https://github.com/Alisa0808/vibe-creating-skill"
   },
   {
@@ -77,7 +158,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29239,
-    "updated_at": "2026-06-17T07:43:26Z",
+    "updated_at": "2026-06-17T07:57:34Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -108,24 +189,6 @@
     "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
   },
   {
-    "description": "Codex skill for turning rough tasks into verifiable /goal prompts, Loop Cards, and multi-agent plans.",
-    "id": "zitao4588-create/goal-task-prompt",
-    "language": "Python",
-    "name": "zitao4588-create/goal-task-prompt",
-    "stars": 0,
-    "updated_at": "2026-06-17T07:36:11Z",
-    "url": "https://github.com/zitao4588-create/goal-task-prompt"
-  },
-  {
-    "description": "A production-grade SvelteKit starter kit built around a real multi-user expense tracker, demonstrating technical decisio",
-    "id": "john-data-chen/sveltekit-starter-kit",
-    "language": "TypeScript",
-    "name": "john-data-chen/sveltekit-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-06-17T07:32:58Z",
-    "url": "https://github.com/john-data-chen/sveltekit-starter-kit"
-  },
-  {
     "description": "A full-stack prompt intelligence platform that analyzes your unique prompting traits and refines raw natural-language pr",
     "id": "sameernagar-hub/promptPilot",
     "language": "Python",
@@ -133,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T07:31:10Z",
     "url": "https://github.com/sameernagar-hub/promptPilot"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T07:30:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -214,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T07:25:05Z",
     "url": "https://github.com/ganlin770/promptlab"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19673,
-    "updated_at": "2026-06-17T07:24:44Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Practices, protocols, and skills for AI-driven software development. 18 skills + 1 Bash safety hook for Claude Code, Cod",
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-06-17T07:39:30Z",
+    "updated_at": "2026-06-17T07:58:56Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -340,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T07:11:12Z",
     "url": "https://github.com/hthmkt12/prompt-media-pro"
-  },
-  {
-    "description": "AI prompt library for building production dbt projects with phased discovery, modeling, and semantic layer setup.",
-    "id": "Zahid-Abbas-Ali-Baig/dbt-ai-guide",
-    "language": "\u2014",
-    "name": "Zahid-Abbas-Ali-Baig/dbt-ai-guide",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:58:23Z",
-    "url": "https://github.com/Zahid-Abbas-Ali-Baig/dbt-ai-guide"
   },
   {
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T06:51:54Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "AI typography prompt skill library for ecommerce, kidswear, logo and poster title design.",
-    "id": "smaball117/typography-prompt-skill",
-    "language": "\u2014",
-    "name": "smaball117/typography-prompt-skill",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:50:49Z",
-    "url": "https://github.com/smaball117/typography-prompt-skill"
-  },
-  {
-    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
-    "id": "product-on-purpose/writing-style-catalog",
-    "language": "JavaScript",
-    "name": "product-on-purpose/writing-style-catalog",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:50:49Z",
-    "url": "https://github.com/product-on-purpose/writing-style-catalog"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:50:01Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 11,
-    "updated_at": "2026-06-17T06:46:50Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
   }
 ]
