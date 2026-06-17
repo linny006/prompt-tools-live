@@ -1,5 +1,122 @@
 [
   {
+    "description": "Evidence-based senior product designer skill for Claude Code \u2014 turns any UI/app build into research-driven, accessible, ",
+    "id": "sshahzaiib/senior-designer-skill",
+    "language": "\u2014",
+    "name": "sshahzaiib/senior-designer-skill",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:09:44Z",
+    "url": "https://github.com/sshahzaiib/senior-designer-skill"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:09:25Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
+    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "language": "HTML",
+    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:07:22Z",
+    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
+  },
+  {
+    "description": "Catalog and free tools for Claudette Agent digital products: handoff, eval, and agent-commerce kits.",
+    "id": "claudette-agent/claudette-agent.github.io",
+    "language": "HTML",
+    "name": "claudette-agent/claudette-agent.github.io",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:06:46Z",
+    "url": "https://github.com/claudette-agent/claudette-agent.github.io"
+  },
+  {
+    "description": "Disciplined, human-in-the-loop supervised prompt learning for Claude Code \u2014 turn a labeled baseline into a production-gr",
+    "id": "JayLBean/supervised-prompt-producer",
+    "language": "Python",
+    "name": "JayLBean/supervised-prompt-producer",
+    "stars": 1,
+    "updated_at": "2026-06-17T20:05:15Z",
+    "url": "https://github.com/JayLBean/supervised-prompt-producer"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22321,
+    "updated_at": "2026-06-17T20:04:52Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:03:35Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
+    "id": "tech-guru254/spec-weaver",
+    "language": "HTML",
+    "name": "tech-guru254/spec-weaver",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:03:23Z",
+    "url": "https://github.com/tech-guru254/spec-weaver"
+  },
+  {
+    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
+    "id": "kodancrash-oss/prompt-weaver-framework",
+    "language": "HTML",
+    "name": "kodancrash-oss/prompt-weaver-framework",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:03:16Z",
+    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:01:04Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
+    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
+    "language": "HTML",
+    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:00:45Z",
+    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 0,
+    "updated_at": "2026-06-17T20:00:45Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T20:00:40Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
     "id": "Muizzkolapo/agent-actions",
     "language": "Python",
@@ -7,24 +124,6 @@
     "stars": 7,
     "updated_at": "2026-06-17T20:00:19Z",
     "url": "https://github.com/Muizzkolapo/agent-actions"
-  },
-  {
-    "description": "Evidence-based senior product designer skill for Claude Code \u2014 turns any UI/app build into research-driven, accessible, ",
-    "id": "sshahzaiib/senior-designer-skill",
-    "language": "\u2014",
-    "name": "sshahzaiib/senior-designer-skill",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:59:56Z",
-    "url": "https://github.com/sshahzaiib/senior-designer-skill"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22320,
-    "updated_at": "2026-06-17T19:59:52Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Distributed Networks Institute",
@@ -90,24 +189,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:46:16Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T19:45:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
@@ -126,15 +207,6 @@
     "url": "https://github.com/TimChinye/Inspector"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:40:01Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -151,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-06-17T19:38:11Z",
     "url": "https://github.com/marcelrapold/auditor"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29277,
+    "updated_at": "2026-06-17T19:36:51Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -225,21 +306,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29275,
-    "updated_at": "2026-06-17T19:36:51Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
     "id": "promptdriven/pdd",
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 759,
-    "updated_at": "2026-06-17T19:57:13Z",
+    "updated_at": "2026-06-17T20:07:04Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-17T19:09:33Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "Metodologia Protocolo Hidra Automa\u00e7\u00e3o de Prospec\u00e7\u00e3o B2B com IA e Anti-Bloqueio. Gera\u00e7\u00e3o de Leads Ecossistema de 50 Skill",
-    "id": "paulo-leads/protocolo-hidra",
-    "language": "Python",
-    "name": "paulo-leads/protocolo-hidra",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:07:07Z",
-    "url": "https://github.com/paulo-leads/protocolo-hidra"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19679,
-    "updated_at": "2026-06-17T19:04:42Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-17T19:02:34Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Version control for intent, not code. Commit the prompts, notes, and decisions behind a codebase, then materialize it on",
-    "id": "lorevcs/lore",
-    "language": "Rust",
-    "name": "lorevcs/lore",
-    "stars": 3,
-    "updated_at": "2026-06-17T18:59:55Z",
-    "url": "https://github.com/lorevcs/lore"
-  },
-  {
-    "description": "Codex CLI meta-reflection layer for Outline-Driven Development. Add-on for the Claude plugin.",
-    "id": "OutlineDriven/odin-reflector",
-    "language": "Python",
-    "name": "OutlineDriven/odin-reflector",
-    "stars": 4,
-    "updated_at": "2026-06-17T18:54:45Z",
-    "url": "https://github.com/OutlineDriven/odin-reflector"
-  },
-  {
-    "description": "Blane's AI PM Repository",
-    "id": "enalbenerraw/blanewarrene",
-    "language": "Python",
-    "name": "enalbenerraw/blanewarrene",
-    "stars": 1,
-    "updated_at": "2026-06-17T18:54:25Z",
-    "url": "https://github.com/enalbenerraw/blanewarrene"
-  },
-  {
-    "description": "Free browser-side Xiaohongshu carousel prompt generator",
-    "id": "Ronnie2025/xiaohongshu-carousel-prompt-generator",
-    "language": "HTML",
-    "name": "Ronnie2025/xiaohongshu-carousel-prompt-generator",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:50:02Z",
-    "url": "https://github.com/Ronnie2025/xiaohongshu-carousel-prompt-generator"
-  },
-  {
-    "description": "Thinking in the Human \u00b7 Processing in the AI \u00b7 Truth in the Documentation",
-    "id": "StChiotis/Library-First-Engineering",
-    "language": "\u2014",
-    "name": "StChiotis/Library-First-Engineering",
-    "stars": 39,
-    "updated_at": "2026-06-17T18:48:38Z",
-    "url": "https://github.com/StChiotis/Library-First-Engineering"
   }
 ]
