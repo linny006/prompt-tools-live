@@ -1,5 +1,41 @@
 [
   {
+    "description": "Enterprise Service Desk AI Agent built with Azure AI Foundry, GPT-4.1, RAG, tool calling, and monitoring.",
+    "id": "Hirdeshpal15/Enterprise-Service-Desk-Agent",
+    "language": "Bicep",
+    "name": "Hirdeshpal15/Enterprise-Service-Desk-Agent",
+    "stars": 0,
+    "updated_at": "2026-06-17T15:29:36Z",
+    "url": "https://github.com/Hirdeshpal15/Enterprise-Service-Desk-Agent"
+  },
+  {
+    "description": "12-week, project-driven Obsidian curriculum: cloud/infra engineer \u2192 AI Agent/LLM engineer. Companion narrative + intervi",
+    "id": "shaneliuyx/agent-development-curriculum",
+    "language": "Python",
+    "name": "shaneliuyx/agent-development-curriculum",
+    "stars": 3,
+    "updated_at": "2026-06-17T15:29:07Z",
+    "url": "https://github.com/shaneliuyx/agent-development-curriculum"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T15:26:22Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Detects and rewrites AI writing patterns in Korean, English, Chinese, and Japanese. Runs as a skill for Claude Code, Cod",
+    "id": "devswha/patina",
+    "language": "JavaScript",
+    "name": "devswha/patina",
+    "stars": 167,
+    "updated_at": "2026-06-17T15:26:06Z",
+    "url": "https://github.com/devswha/patina"
+  },
+  {
     "description": "AI growth skills pack \u2014 6 skills and 3 agents that enforce quality in AI-assisted growth work",
     "id": "RBraga01/builder-growth",
     "language": "Python",
@@ -7,6 +43,15 @@
     "stars": 2,
     "updated_at": "2026-06-17T15:25:08Z",
     "url": "https://github.com/RBraga01/builder-growth"
+  },
+  {
+    "description": "\u7528\u516d\u7ef4\u5143\u64cd\u4f5c\u6a21\u578b\u5224\u65adAI\u66ff\u4ee3\u98ce\u9669\u3001\u8bbe\u8ba1\u4eba\u673a\u5206\u5de5\u3001\u6807\u6ce8\u4fb5\u8680\u9884\u8b66",
+    "id": "yang1996202-cpu/ai-replace-check",
+    "language": "\u2014",
+    "name": "yang1996202-cpu/ai-replace-check",
+    "stars": 0,
+    "updated_at": "2026-06-17T15:24:23Z",
+    "url": "https://github.com/yang1996202-cpu/ai-replace-check"
   },
   {
     "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
@@ -36,6 +81,15 @@
     "url": "https://github.com/min9lin9/kimi-agent-swarm-skill"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19677,
+    "updated_at": "2026-06-17T15:21:15Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
     "id": "jestersanjay/slim-tools-claude-harness",
     "language": "HTML",
@@ -50,17 +104,8 @@
     "language": "Go",
     "name": "AltairaLabs/PromptKit",
     "stars": 9,
-    "updated_at": "2026-06-17T15:19:38Z",
+    "updated_at": "2026-06-17T15:30:00Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
-    "description": "\u7528\u516d\u7ef4\u5143\u64cd\u4f5c\u6a21\u578b\u5224\u65adAI\u66ff\u4ee3\u98ce\u9669\u3001\u8bbe\u8ba1\u4eba\u673a\u5206\u5de5\u3001\u6807\u6ce8\u4fb5\u8680\u9884\u8b66",
-    "id": "yang1996202-cpu/ai-replace-check",
-    "language": "\u2014",
-    "name": "yang1996202-cpu/ai-replace-check",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:24:23Z",
-    "url": "https://github.com/yang1996202-cpu/ai-replace-check"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -81,22 +126,13 @@
     "url": "https://github.com/ezBuilder/code-brain"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T15:15:43Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "12-week, project-driven Obsidian curriculum: cloud/infra engineer \u2192 AI Agent/LLM engineer. Companion narrative + intervi",
-    "id": "shaneliuyx/agent-development-curriculum",
-    "language": "Python",
-    "name": "shaneliuyx/agent-development-curriculum",
-    "stars": 3,
-    "updated_at": "2026-06-17T15:15:13Z",
-    "url": "https://github.com/shaneliuyx/agent-development-curriculum"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22312,
+    "updated_at": "2026-06-17T15:17:17Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A human\u2013AI collaboration framework that works with LLM nature, not around it \u2014 natural language and purpose make RAG and",
@@ -142,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T15:12:11Z",
     "url": "https://github.com/bnomei/muninn"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19676,
-    "updated_at": "2026-06-17T15:21:15Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Enterprise Service Desk AI Agent built with Azure AI Foundry, GPT-4.1, RAG, tool calling, and monitoring.",
-    "id": "Hirdeshpal15/Enterprise-Service-Desk-Agent",
-    "language": "Bicep",
-    "name": "Hirdeshpal15/Enterprise-Service-Desk-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:11:47Z",
-    "url": "https://github.com/Hirdeshpal15/Enterprise-Service-Desk-Agent"
   },
   {
     "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
@@ -347,7 +365,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-17T14:47:34Z",
+    "updated_at": "2026-06-17T15:28:48Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -369,15 +387,6 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22310,
-    "updated_at": "2026-06-17T15:17:17Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
     "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
     "language": "TypeScript",
@@ -392,7 +401,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4212,
-    "updated_at": "2026-06-17T15:16:07Z",
+    "updated_at": "2026-06-17T15:27:43Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -427,7 +436,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 30864,
+    "stars": 30870,
     "updated_at": "2026-06-17T14:42:38Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -439,14 +448,5 @@
     "stars": 10176,
     "updated_at": "2026-06-17T15:24:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Quarterdeck \u2014 A ponte de comando para Claude Code. 26 agentes especializados em 8 squads com orquestra\u00e7\u00e3o paralela e out",
-    "id": "Pl3ntz/quarterdeck",
-    "language": "Python",
-    "name": "Pl3ntz/quarterdeck",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:40:58Z",
-    "url": "https://github.com/Pl3ntz/quarterdeck"
   }
 ]
