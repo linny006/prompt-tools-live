@@ -5,8 +5,89 @@
     "language": "HTML",
     "name": "simota/agent-skills",
     "stars": 51,
-    "updated_at": "2026-06-17T03:59:27Z",
+    "updated_at": "2026-06-17T04:14:46Z",
     "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 35147,
+    "updated_at": "2026-06-17T04:14:45Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
+    "id": "elon-choo/fablever",
+    "language": "JavaScript",
+    "name": "elon-choo/fablever",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:14:01Z",
+    "url": "https://github.com/elon-choo/fablever"
+  },
+  {
+    "description": "Multi-agent audit master prompts (security, repo, frontend, API, perf, data, infra, AI/LLM, compliance, a11y, docs) + a ",
+    "id": "marcelrapold/auditor",
+    "language": "TypeScript",
+    "name": "marcelrapold/auditor",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:13:40Z",
+    "url": "https://github.com/marcelrapold/auditor"
+  },
+  {
+    "description": "A test-bench for prompt-injection attacks and defenses: run an attack corpus against a live Claude model and measure att",
+    "id": "davidcjw/injection-testbench",
+    "language": "TypeScript",
+    "name": "davidcjw/injection-testbench",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:09:22Z",
+    "url": "https://github.com/davidcjw/injection-testbench"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 30197,
+    "updated_at": "2026-06-17T04:07:07Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 45,
+    "updated_at": "2026-06-17T04:06:10Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
+    "id": "maruwork/veil",
+    "language": "Python",
+    "name": "maruwork/veil",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:05:39Z",
+    "url": "https://github.com/maruwork/veil"
+  },
+  {
+    "description": "ex-cog \u2014 externalized cognition. Four Claude Code plugins. vasana-system \u2014 cross-session pattern memory (forms, not just",
+    "id": "bogheorghiu/ex-cog-dev",
+    "language": "Python",
+    "name": "bogheorghiu/ex-cog-dev",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:02:23Z",
+    "url": "https://github.com/bogheorghiu/ex-cog-dev"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T04:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26564,
-    "updated_at": "2026-06-17T03:54:34Z",
+    "updated_at": "2026-06-17T04:05:09Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -81,24 +162,6 @@
     "url": "https://github.com/yegor256/prompt"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 30193,
-    "updated_at": "2026-06-17T03:46:54Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
-    "id": "elon-choo/fablever",
-    "language": "JavaScript",
-    "name": "elon-choo/fablever",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:46:53Z",
-    "url": "https://github.com/elon-choo/fablever"
-  },
-  {
     "description": "\ud83c\udfc6 Static auditing engine and leaderboard platform for agentic process instructions using a strict 100-criteria scientifi",
     "id": "ThanhNguyxnOrg/SkillGauge",
     "language": "TypeScript",
@@ -115,15 +178,6 @@
     "stars": 2374,
     "updated_at": "2026-06-17T03:45:44Z",
     "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T03:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
@@ -157,7 +211,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22293,
+    "stars": 22294,
     "updated_at": "2026-06-17T03:37:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -196,24 +250,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T03:31:47Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
-    "id": "maruwork/veil",
-    "language": "Python",
-    "name": "maruwork/veil",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:31:14Z",
-    "url": "https://github.com/maruwork/veil"
-  },
-  {
-    "description": "A test-bench for prompt-injection attacks and defenses: run an attack corpus against a live Claude model and measure att",
-    "id": "davidcjw/injection-testbench",
-    "language": "TypeScript",
-    "name": "davidcjw/injection-testbench",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:29:58Z",
-    "url": "https://github.com/davidcjw/injection-testbench"
   },
   {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T02:55:00Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Awesome Happy Horse 1.0 Prompts",
-    "id": "AtlasCloudAI/awesome-happy-horse-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-happy-horse-prompts",
-    "stars": 2,
-    "updated_at": "2026-06-17T02:54:22Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-happy-horse-prompts"
-  },
-  {
-    "description": "Documentation and prompt engineering framework for AI alignment based on unity consciousness principles. Includes system",
-    "id": "TechNickAI/heartcentered.ai",
-    "language": "HTML",
-    "name": "TechNickAI/heartcentered.ai",
-    "stars": 0,
-    "updated_at": "2026-06-17T02:52:25Z",
-    "url": "https://github.com/TechNickAI/heartcentered.ai"
-  },
-  {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-17T02:51:33Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
-  },
-  {
-    "description": "Curated GPT-Image-2 prompt library with preview images, 1-click copy, and direct generate links. Supports multi-language",
-    "id": "SurgePix/awesome-gpt-image-2-free-prompts",
-    "language": "\u2014",
-    "name": "SurgePix/awesome-gpt-image-2-free-prompts",
-    "stars": 12,
-    "updated_at": "2026-06-17T02:46:30Z",
-    "url": "https://github.com/SurgePix/awesome-gpt-image-2-free-prompts"
   }
 ]
