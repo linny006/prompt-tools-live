@@ -1,10 +1,109 @@
 [
   {
+    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4403,
+    "updated_at": "2026-06-17T05:45:26Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 23,
+    "updated_at": "2026-06-17T05:43:54Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "Fork \u2192 /setup \u2192 \ud504\ub85c\uc81d\ud2b8\uc5d0 \ub450\ub1cc\uac00 \uc0dd\uae34\ub2e4. \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c\uc744 \uc704\ud55c LLM Wiki \ud558\ub124\uc2a4 \ud15c\ud50c\ub9bf.",
+    "id": "taejung3852/project-scaffold",
+    "language": "Shell",
+    "name": "taejung3852/project-scaffold",
+    "stars": 0,
+    "updated_at": "2026-06-17T05:42:01Z",
+    "url": "https://github.com/taejung3852/project-scaffold"
+  },
+  {
+    "description": "the best papers, guides, blogs and lectures on ai. grouped by level so you always know what to read next.",
+    "id": "tushaarmehtaa/zero-to-ai-native",
+    "language": "TypeScript",
+    "name": "tushaarmehtaa/zero-to-ai-native",
+    "stars": 0,
+    "updated_at": "2026-06-17T05:40:34Z",
+    "url": "https://github.com/tushaarmehtaa/zero-to-ai-native"
+  },
+  {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "HTML",
+    "name": "Open-Less/openless",
+    "stars": 2375,
+    "updated_at": "2026-06-17T05:38:34Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 45,
+    "updated_at": "2026-06-17T05:38:26Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "12-week, project-driven Obsidian curriculum: cloud/infra engineer \u2192 AI Agent/LLM engineer. Companion narrative + intervi",
+    "id": "shaneliuyx/agent-development-curriculum",
+    "language": "Python",
+    "name": "shaneliuyx/agent-development-curriculum",
+    "stars": 3,
+    "updated_at": "2026-06-17T05:36:23Z",
+    "url": "https://github.com/shaneliuyx/agent-development-curriculum"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12542,
+    "updated_at": "2026-06-17T05:35:25Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "\ud83c\udfac TipAI Cinema Skills \u2014 AI\u89c6\u9891\u521b\u4f5cSkill\u6a21\u5757\u3002\u5267\u672c\u2192\u5206\u955c\u2192\u63d0\u793a\u8bcd\u2192\u8868\u60c5\u63a7\u5236\uff0c\u53ef\u52a0\u8f7d\u7684AI\u521b\u4f5c\u5de5\u4f5c\u6d41\u3002",
+    "id": "aitippro/tipai-cinema-skills",
+    "language": "JavaScript",
+    "name": "aitippro/tipai-cinema-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T05:34:31Z",
+    "url": "https://github.com/aitippro/tipai-cinema-skills"
+  },
+  {
+    "description": "\ud83e\uddd9 Democratizing best practices across 27 domains. Your AI knows everything \u2014 Grimoire makes it practice it.",
+    "id": "jeffreytse/grimoire",
+    "language": "Shell",
+    "name": "jeffreytse/grimoire",
+    "stars": 12,
+    "updated_at": "2026-06-17T05:33:50Z",
+    "url": "https://github.com/jeffreytse/grimoire"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T05:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 35151,
+    "stars": 35152,
     "updated_at": "2026-06-17T05:30:09Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -70,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T05:18:58Z",
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T05:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A production-grade Kanban board application. Showcases engineering practices, decision-making and AI-assisted optimizati",
@@ -180,15 +270,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 45,
-    "updated_at": "2026-06-17T05:00:17Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
     "description": "Workspace-first orchestration for multi-model AI workflows. Frozen reference implementation.",
     "id": "baek-labs/hames",
     "language": "JavaScript",
@@ -198,20 +279,11 @@
     "url": "https://github.com/baek-labs/hames"
   },
   {
-    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4403,
-    "updated_at": "2026-06-17T04:54:00Z",
-    "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
     "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 199,
+    "stars": 201,
     "updated_at": "2026-06-17T04:53:05Z",
     "url": "https://github.com/dongshuyan/compass-skills"
   },
@@ -238,7 +310,7 @@
     "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1640,
+    "stars": 1641,
     "updated_at": "2026-06-17T04:50:16Z",
     "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
   },
@@ -301,7 +373,7 @@
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 163829,
+    "stars": 163831,
     "updated_at": "2026-06-17T04:36:06Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -342,15 +414,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
   {
-    "description": "Structured, spec-driven development workflow for AI coding agents.",
-    "id": "sahil87/fab-kit",
-    "language": "Go",
-    "name": "sahil87/fab-kit",
-    "stars": 23,
-    "updated_at": "2026-06-17T05:24:24Z",
-    "url": "https://github.com/sahil87/fab-kit"
-  },
-  {
     "description": "Reverse engineer any repo into it's original prompt",
     "id": "filiksyos/gitreverse",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 1943,
     "updated_at": "2026-06-17T04:16:09Z",
     "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 51,
-    "updated_at": "2026-06-17T04:14:46Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 30240,
-    "updated_at": "2026-06-17T04:07:07Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
-    "id": "maruwork/veil",
-    "language": "Python",
-    "name": "maruwork/veil",
-    "stars": 0,
-    "updated_at": "2026-06-17T04:05:39Z",
-    "url": "https://github.com/maruwork/veil"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 1,
-    "updated_at": "2026-06-17T03:58:00Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 760,
-    "updated_at": "2026-06-17T04:40:12Z",
-    "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
-    "id": "T-Stephen/ai-mql-engine",
-    "language": "JavaScript",
-    "name": "T-Stephen/ai-mql-engine",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:55:52Z",
-    "url": "https://github.com/T-Stephen/ai-mql-engine"
-  },
-  {
-    "description": "Centralized system instructions, context rules, and smart skills to optimize AI performance, enforce software architectu",
-    "id": "Raullize/ai-guardrails",
-    "language": "Shell",
-    "name": "Raullize/ai-guardrails",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:54:23Z",
-    "url": "https://github.com/Raullize/ai-guardrails"
   }
 ]
