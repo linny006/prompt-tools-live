@@ -1,12 +1,129 @@
 [
   {
+    "description": "Tell coherence from truth \u2014 an LLM prompt that lays out any argument's hidden premises, alternatives, and missing eviden",
+    "id": "flypggl-cpu/LARP",
+    "language": "\u2014",
+    "name": "flypggl-cpu/LARP",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:44:52Z",
+    "url": "https://github.com/flypggl-cpu/LARP"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-17T19:42:12Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "A visualization tool for Google AI Studio raw JSON exports. Features deep search, code syntax highlighting, sanitized JS",
+    "id": "TimChinye/Inspector",
+    "language": "JavaScript",
+    "name": "TimChinye/Inspector",
+    "stars": 10,
+    "updated_at": "2026-06-17T19:41:05Z",
+    "url": "https://github.com/TimChinye/Inspector"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:40:01Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:38:52Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Multi-agent audit master prompts (security, repo, frontend, API, perf, data, infra, AI/LLM, compliance, a11y, docs) + a ",
+    "id": "marcelrapold/auditor",
+    "language": "TypeScript",
+    "name": "marcelrapold/auditor",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:38:11Z",
+    "url": "https://github.com/marcelrapold/auditor"
+  },
+  {
+    "description": "Distributed Networks Institute",
+    "id": "1712n/dn-institute",
+    "language": "Python",
+    "name": "1712n/dn-institute",
+    "stars": 45,
+    "updated_at": "2026-06-17T19:35:52Z",
+    "url": "https://github.com/1712n/dn-institute"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-17T19:29:03Z",
+    "updated_at": "2026-06-17T19:34:24Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4415,
+    "updated_at": "2026-06-17T19:33:03Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "Bookmark Manager with todo tracker",
+    "id": "mandev-1/SHELF",
+    "language": "HTML",
+    "name": "mandev-1/SHELF",
+    "stars": 1,
+    "updated_at": "2026-06-17T19:32:33Z",
+    "url": "https://github.com/mandev-1/SHELF"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:32:13Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
+    "id": "Paulessus/odin-gemini-mcp-bridge",
+    "language": "HTML",
+    "name": "Paulessus/odin-gemini-mcp-bridge",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:31:55Z",
+    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:31:15Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T19:30:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
@@ -32,7 +149,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29275,
-    "updated_at": "2026-06-17T19:28:12Z",
+    "updated_at": "2026-06-17T19:36:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -77,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10177,
-    "updated_at": "2026-06-17T19:28:34Z",
+    "updated_at": "2026-06-17T19:41:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -153,15 +270,6 @@
     "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T19:15:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Full-stack marketing skill for Claude that drafts copy, audits pages, and plans campaigns\u2014with guardrails. Tested agains",
     "id": "inerrata/brief",
     "language": "HTML",
@@ -203,8 +311,17 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22318,
-    "updated_at": "2026-06-17T19:09:37Z",
+    "updated_at": "2026-06-17T19:42:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19679,
+    "updated_at": "2026-06-17T19:04:42Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
@@ -279,15 +396,6 @@
     "url": "https://github.com/christopherlouet/claude-base"
   },
   {
-    "description": "Bookmark Manager with todo tracker",
-    "id": "mandev-1/SHELF",
-    "language": "HTML",
-    "name": "mandev-1/SHELF",
-    "stars": 1,
-    "updated_at": "2026-06-17T18:36:45Z",
-    "url": "https://github.com/mandev-1/SHELF"
-  },
-  {
     "description": "\ud83c\udfac \u77ed\u5267\u5927\u5e08\u2122 v6.2.4 \u2014 \u5fae\u77ed\u5267\u5168\u6d41\u7a0b\u4e00\u4f53\u5316\u521b\u4f5c\u6280\u80fd | \u4e8c\u5341\u4e00\u4f4d\u5927\u5e08\u56db\u519b\u56e2+\u8fdb\u5316\u603b\u7763\u5bdf | \u7814\u7a76\u519b\u56e2\u6848\u4f8b\u9a71\u52a8\u521b\u4f5c | \u8fdb\u5316\u5927\u5e08KPI\u76d1\u7763 | \u4ece\u4e00\u53e5\u8bdd\u521b\u610f\u5230\u5c0f\u4e91\u96c0\u6210\u7247 | Short Drama Master\u2122 \u2014 All-in-",
     "id": "woqianfu/duanju-master",
     "language": "Python",
@@ -340,113 +448,5 @@
     "stars": 167,
     "updated_at": "2026-06-17T18:31:45Z",
     "url": "https://github.com/devswha/patina"
-  },
-  {
-    "description": "Guidance on deploying a generative AI document analysis with Amazon Bedrock AgentCore. Auto-classifies, enhances, and ag",
-    "id": "aws-samples/sample-badgers",
-    "language": "Python",
-    "name": "aws-samples/sample-badgers",
-    "stars": 15,
-    "updated_at": "2026-06-17T18:31:21Z",
-    "url": "https://github.com/aws-samples/sample-badgers"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:27:57Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Markdown for the AI era",
-    "id": "agentmark-ai/agentmark",
-    "language": "TypeScript",
-    "name": "agentmark-ai/agentmark",
-    "stars": 352,
-    "updated_at": "2026-06-17T18:27:02Z",
-    "url": "https://github.com/agentmark-ai/agentmark"
-  },
-  {
-    "description": "jsonedit is a structure-first JSON editor designed for composing and reshaping hierarchical meaning \u2014 ideal for LLM prom",
-    "id": "LionKimbro/jsonedit",
-    "language": "Python",
-    "name": "LionKimbro/jsonedit",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:26:33Z",
-    "url": "https://github.com/LionKimbro/jsonedit"
-  },
-  {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4215,
-    "updated_at": "2026-06-17T19:18:49Z",
-    "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
-    "id": "rizvee/multimodel-dev-os",
-    "language": "JavaScript",
-    "name": "rizvee/multimodel-dev-os",
-    "stars": 2,
-    "updated_at": "2026-06-17T18:22:52Z",
-    "url": "https://github.com/rizvee/multimodel-dev-os"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:21:57Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 2,
-    "updated_at": "2026-06-17T18:20:35Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Generate or rewrite prompts inside Pi with a modal prompt enhancer.",
-    "id": "bnema/pi-prompt-gen",
-    "language": "TypeScript",
-    "name": "bnema/pi-prompt-gen",
-    "stars": 1,
-    "updated_at": "2026-06-17T18:19:43Z",
-    "url": "https://github.com/bnema/pi-prompt-gen"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:19:42Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-06-17T18:18:51Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:18:32Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
   }
 ]
