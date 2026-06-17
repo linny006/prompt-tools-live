@@ -1,5 +1,176 @@
 [
   {
+    "description": "Centralized system instructions, context rules, and smart skills to optimize AI performance, enforce software architectu",
+    "id": "Raullize/ai-guardrails",
+    "language": "Shell",
+    "name": "Raullize/ai-guardrails",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:14:58Z",
+    "url": "https://github.com/Raullize/ai-guardrails"
+  },
+  {
+    "description": "Skill \u5438\u661f\u5927\u6cd5\uff1a\u5206\u6790\u3001\u5ba1\u67e5\u3001\u5bf9\u6bd4\u548c\u4f18\u5316 Codex Skills \u7684\u65b9\u6cd5 Skill",
+    "id": "FinnCheung93/skill-siphon",
+    "language": "\u2014",
+    "name": "FinnCheung93/skill-siphon",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:13:33Z",
+    "url": "https://github.com/FinnCheung93/skill-siphon"
+  },
+  {
+    "description": "PM PRD \u52a9\u624b\uff1a\u9762\u5411\u5f00\u53d1\u4ea4\u4ed8\u7684 PRD \u6f84\u6e05\u3001\u64b0\u5199\u3001\u4fee\u8ba2\u4e0e\u5ba1\u67e5 Skill",
+    "id": "FinnCheung93/pm-prd-copilot",
+    "language": "\u2014",
+    "name": "FinnCheung93/pm-prd-copilot",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:13:29Z",
+    "url": "https://github.com/FinnCheung93/pm-prd-copilot"
+  },
+  {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "HTML",
+    "name": "Open-Less/openless",
+    "stars": 2373,
+    "updated_at": "2026-06-17T03:13:27Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "\u62f7\u6253\u4e07\u7269\uff1a\u4e25\u8083\u5ba1\u67e5\u65b9\u6848\u3001PRD\u3001\u6280\u672f\u8bbe\u8ba1\u3001\u5546\u4e1a\u6a21\u5f0f\u548c\u5173\u952e\u51b3\u7b56",
+    "id": "FinnCheung93/grill-everything",
+    "language": "\u2014",
+    "name": "FinnCheung93/grill-everything",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:13:25Z",
+    "url": "https://github.com/FinnCheung93/grill-everything"
+  },
+  {
+    "description": "PM \u539f\u578b\u52a9\u624b\uff1a\u57fa\u4e8e PRD/Spec \u751f\u6210\u4ea7\u54c1\u8d70\u67e5\u539f\u578b\u4e0e\u6f14\u793a\u6750\u6599\u7684\u590d\u5408 Skill",
+    "id": "FinnCheung93/finn-protopilot",
+    "language": "Python",
+    "name": "FinnCheung93/finn-protopilot",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:13:16Z",
+    "url": "https://github.com/FinnCheung93/finn-protopilot"
+  },
+  {
+    "description": "Codex \u4f1a\u8bdd\u642c\u5bb6\uff1a\u8fc1\u79fb Codex \u4f1a\u8bdd\u8bb0\u5f55\u4e0e\u9879\u76ee\u76ee\u5f55\u6620\u5c04\u7684\u7ef4\u62a4 Skill",
+    "id": "FinnCheung93/codex-session-mover",
+    "language": "Python",
+    "name": "FinnCheung93/codex-session-mover",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:13:11Z",
+    "url": "https://github.com/FinnCheung93/codex-session-mover"
+  },
+  {
+    "description": "AI Coding \u89c4\u8303\u6587\u6863\uff1a\u57fa\u4e8e PRD \u751f\u6210 AI Coding \u53cb\u597d\u7684\u4ea7\u54c1\u89c4\u683c\u6587\u6863 Skill",
+    "id": "FinnCheung93/aicoding-specpilot",
+    "language": "\u2014",
+    "name": "FinnCheung93/aicoding-specpilot",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:13:07Z",
+    "url": "https://github.com/FinnCheung93/aicoding-specpilot"
+  },
+  {
+    "description": "AI Coding \u5730\u57fa\uff1a\u9879\u76ee\u5f00\u5de5\u524d\u7684\u6cbb\u7406\u3001\u539f\u5219\u3001\u72b6\u6001\u4e0e\u534f\u4f5c\u521d\u59cb\u5316 Skill",
+    "id": "FinnCheung93/agentic-foundation",
+    "language": "Python",
+    "name": "FinnCheung93/agentic-foundation",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:13:02Z",
+    "url": "https://github.com/FinnCheung93/agentic-foundation"
+  },
+  {
+    "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
+    "id": "maruwork/veil",
+    "language": "Python",
+    "name": "maruwork/veil",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:11:11Z",
+    "url": "https://github.com/maruwork/veil"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 30160,
+    "updated_at": "2026-06-17T03:09:24Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "247 agent skills (Cursor, Claude & Codex), 5.400+ OpenClaw skills, 123 ML notebooks, 46 research papers, 14 industry rep",
+    "id": "adriannoes/awesome-vibe-coding",
+    "language": "Jupyter Notebook",
+    "name": "adriannoes/awesome-vibe-coding",
+    "stars": 39,
+    "updated_at": "2026-06-17T03:09:07Z",
+    "url": "https://github.com/adriannoes/awesome-vibe-coding"
+  },
+  {
+    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 51,
+    "updated_at": "2026-06-17T03:07:05Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "\ud83d\ude80\ud83d\udcaaMaximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/\u4e2d\u6587/Espa\u00f1",
+    "id": "rockbenben/ChatGPT-Shortcut",
+    "language": "TypeScript",
+    "name": "rockbenben/ChatGPT-Shortcut",
+    "stars": 8553,
+    "updated_at": "2026-06-17T03:06:43Z",
+    "url": "https://github.com/rockbenben/ChatGPT-Shortcut"
+  },
+  {
+    "description": "Prompt\u5de5\u7a0b\u6307\u5357 \u2014 \u63d0\u793a\u8bcd\u8bbe\u8ba1\u3001Chain-of-Thought\u3001Few-shot\u5b66\u4e60\u3001\u7ed3\u6784\u5316\u8f93\u51fa\u3001AI Agent\u6307\u4ee4\u4f18\u5316",
+    "id": "ian-jiang/prompt-engineering-guide",
+    "language": "\u2014",
+    "name": "ian-jiang/prompt-engineering-guide",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:06:13Z",
+    "url": "https://github.com/ian-jiang/prompt-engineering-guide"
+  },
+  {
+    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
+    "id": "Ntizar/NtizarBrainMasterMind",
+    "language": "CSS",
+    "name": "Ntizar/NtizarBrainMasterMind",
+    "stars": 2,
+    "updated_at": "2026-06-17T03:02:54Z",
+    "url": "https://github.com/Ntizar/NtizarBrainMasterMind"
+  },
+  {
+    "description": "Token-efficient context engine for AI coding agents. v2.0: Lean & Lossless Compaction governor + zoned profile/skill mem",
+    "id": "ncmonx/icemage",
+    "language": "C++",
+    "name": "ncmonx/icemage",
+    "stars": 3,
+    "updated_at": "2026-06-17T03:02:52Z",
+    "url": "https://github.com/ncmonx/icemage"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 12,
+    "updated_at": "2026-06-17T03:02:13Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T03:00:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Multimodal AI hairstyle advisor: a MediaPipe computer-vision pipeline analyzes facial geometry and a GPT-4o layer explai",
     "id": "henry-hai/AI-Hairstyle-Recommender",
     "language": "Python",
@@ -18,15 +189,6 @@
     "url": "https://github.com/luongs3/skill-atlas"
   },
   {
-    "description": "AI Coding \u5730\u57fa\uff1a\u9879\u76ee\u5f00\u5de5\u524d\u7684\u6cbb\u7406\u3001\u539f\u5219\u3001\u72b6\u6001\u4e0e\u534f\u4f5c\u521d\u59cb\u5316 Skill",
-    "id": "FinnCheung93/agentic-foundation",
-    "language": "Python",
-    "name": "FinnCheung93/agentic-foundation",
-    "stars": 0,
-    "updated_at": "2026-06-17T02:58:06Z",
-    "url": "https://github.com/FinnCheung93/agentic-foundation"
-  },
-  {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
     "id": "Kenny27lokku/prompt-integrity-validator",
     "language": "HTML",
@@ -41,7 +203,7 @@
     "language": "Python",
     "name": "LiHongwei-cn/lihongwei-cn",
     "stars": 1,
-    "updated_at": "2026-06-17T02:57:06Z",
+    "updated_at": "2026-06-17T03:15:24Z",
     "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
   },
   {
@@ -90,15 +252,6 @@
     "url": "https://github.com/SurgePix/awesome-gpt-image-2-free-prompts"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T02:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
@@ -122,7 +275,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26561,
-    "updated_at": "2026-06-17T02:57:57Z",
+    "updated_at": "2026-06-17T03:08:45Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -148,7 +301,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 35144,
+    "stars": 35145,
     "updated_at": "2026-06-17T02:37:11Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -158,7 +311,7 @@
     "language": "Go",
     "name": "vllm-project/semantic-router",
     "stars": 4400,
-    "updated_at": "2026-06-17T02:36:42Z",
+    "updated_at": "2026-06-17T03:00:46Z",
     "url": "https://github.com/vllm-project/semantic-router"
   },
   {
@@ -166,7 +319,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 25791,
+    "stars": 25866,
     "updated_at": "2026-06-17T02:35:22Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -205,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T02:30:33Z",
     "url": "https://github.com/uninhibited-scholar/context-compressor"
-  },
-  {
-    "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
-    "id": "maruwork/veil",
-    "language": "Python",
-    "name": "maruwork/veil",
-    "stars": 0,
-    "updated_at": "2026-06-17T02:30:31Z",
-    "url": "https://github.com/maruwork/veil"
   },
   {
     "description": "A production-grade multi-platform monorepo demonstrating shared business logic across Web and Mobile. Showcases engineer",
@@ -270,15 +414,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 30144,
-    "updated_at": "2026-06-17T02:14:04Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
     "description": "Claude Code, supercharged \u2014 your team's standards, every session",
     "id": "superclawd-ai/superclawd",
     "language": "\u2014",
@@ -313,140 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T02:00:52Z",
     "url": "https://github.com/woqianfu/hermes-skill-short-drama-master"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-06-17T02:13:10Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thi",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "JavaScript",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 42846,
-    "updated_at": "2026-06-17T01:58:39Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "\ud83c\udf19 Your codebase just hired a night shift \u2014 a full AI engineering team that plans, builds, tests, reviews, and releases t",
-    "id": "whimzyLive/nightshift-ai",
-    "language": "Shell",
-    "name": "whimzyLive/nightshift-ai",
-    "stars": 3,
-    "updated_at": "2026-06-17T01:58:05Z",
-    "url": "https://github.com/whimzyLive/nightshift-ai"
-  },
-  {
-    "description": "Hand-curated index of 900+ agent skills (repos, cookbooks, MCP servers, case studies) across 49 categories. One YAML fil",
-    "id": "badhope/AI-SKILL",
-    "language": "Python",
-    "name": "badhope/AI-SKILL",
-    "stars": 12,
-    "updated_at": "2026-06-17T01:56:24Z",
-    "url": "https://github.com/badhope/AI-SKILL"
-  },
-  {
-    "description": "Centralized system instructions, context rules, and smart skills to optimize AI performance, enforce software architectu",
-    "id": "Raullize/ai-guardrails",
-    "language": "Shell",
-    "name": "Raullize/ai-guardrails",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:56:24Z",
-    "url": "https://github.com/Raullize/ai-guardrails"
-  },
-  {
-    "description": "Harness-agnostic agentic ways of working: one canonical principles doc, per-tool adapters, skills, and hooks. Extracted ",
-    "id": "nino-chavez/agentic-ways-of-working",
-    "language": "Python",
-    "name": "nino-chavez/agentic-ways-of-working",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:55:16Z",
-    "url": "https://github.com/nino-chavez/agentic-ways-of-working"
-  },
-  {
-    "description": "Curated rules, guides, and resources for AI coding agents \u2014 Claude Code, prompts, MCP, skills, and best practices",
-    "id": "fluzzy/archive",
-    "language": "\u2014",
-    "name": "fluzzy/archive",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:47:24Z",
-    "url": "https://github.com/fluzzy/archive"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:44:58Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Two standalone Claude Code skills: an optimizer that finds the highest-leverage move in any context, and an orchestrator",
-    "id": "Veeiy/agent-skills",
-    "language": "\u2014",
-    "name": "Veeiy/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:44:12Z",
-    "url": "https://github.com/Veeiy/agent-skills"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:44:03Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:43:30Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
-    "id": "ai-boost/awesome-prompts",
-    "language": "\u2014",
-    "name": "ai-boost/awesome-prompts",
-    "stars": 8232,
-    "updated_at": "2026-06-17T01:43:18Z",
-    "url": "https://github.com/ai-boost/awesome-prompts"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:42:40Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:40:48Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19670,
-    "updated_at": "2026-06-17T01:36:03Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
