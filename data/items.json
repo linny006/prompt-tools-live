@@ -1,12 +1,147 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19672,
+    "updated_at": "2026-06-17T07:15:14Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Multi-agent audit master prompts (security, repo, frontend, API, perf, data, infra, AI/LLM, compliance, a11y, docs) + a ",
+    "id": "marcelrapold/auditor",
+    "language": "TypeScript",
+    "name": "marcelrapold/auditor",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:14:28Z",
+    "url": "https://github.com/marcelrapold/auditor"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
     "name": "HIDORAKAI002/ai-workspace-archive",
     "stars": 19,
-    "updated_at": "2026-06-17T06:59:51Z",
+    "updated_at": "2026-06-17T07:14:22Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Fork \u2192 /setup \u2192 \ud504\ub85c\uc81d\ud2b8\uc5d0 \ub450\ub1cc\uac00 \uc0dd\uae34\ub2e4. \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c\uc744 \uc704\ud55c LLM Wiki \ud558\ub124\uc2a4 \ud15c\ud50c\ub9bf.",
+    "id": "taejung3852/project-scaffold",
+    "language": "Shell",
+    "name": "taejung3852/project-scaffold",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:13:19Z",
+    "url": "https://github.com/taejung3852/project-scaffold"
+  },
+  {
+    "description": "Real-time prompt + target-language coaching for Claude Code and Codex (a UserPromptSubmit hook).",
+    "id": "tercel/prompt-coach",
+    "language": "Python",
+    "name": "tercel/prompt-coach",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:12:23Z",
+    "url": "https://github.com/tercel/prompt-coach"
+  },
+  {
+    "description": "A rough anti-sappy Codex skill for reframing setbacks with cut-through, reality-check style responses.",
+    "id": "Aidan-0099/zhe-shi-ge-hao-shi-er",
+    "language": "\u2014",
+    "name": "Aidan-0099/zhe-shi-ge-hao-shi-er",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:11:23Z",
+    "url": "https://github.com/Aidan-0099/zhe-shi-ge-hao-shi-er"
+  },
+  {
+    "description": "\ud83c\udfac \u77ed\u5267\u5927\u5e08\u2122 v6.2.4 \u2014 \u5fae\u77ed\u5267\u5168\u6d41\u7a0b\u4e00\u4f53\u5316\u521b\u4f5c\u6280\u80fd | \u4e8c\u5341\u4e00\u4f4d\u5927\u5e08\u56db\u519b\u56e2+\u8fdb\u5316\u603b\u7763\u5bdf | \u7814\u7a76\u519b\u56e2\u6848\u4f8b\u9a71\u52a8\u521b\u4f5c | \u8fdb\u5316\u5927\u5e08KPI\u76d1\u7763 | \u4ece\u4e00\u53e5\u8bdd\u521b\u610f\u5230\u5c0f\u4e91\u96c0\u6210\u7247 | Short Drama Master\u2122 \u2014 All-in-",
+    "id": "woqianfu/duanju-master",
+    "language": "Python",
+    "name": "woqianfu/duanju-master",
+    "stars": 1,
+    "updated_at": "2026-06-17T07:09:34Z",
+    "url": "https://github.com/woqianfu/duanju-master"
+  },
+  {
+    "description": "\ud83c\udfac \u77ed\u5267\u5927\u5e08\u2122 v6.2.4 \u2014 \u5fae\u77ed\u5267\u5168\u6d41\u7a0b\u4e00\u4f53\u5316\u521b\u4f5c\u6280\u80fd | \u4e8c\u5341\u4e00\u4f4d\u5927\u5e08\u56db\u519b\u56e2+\u8fdb\u5316\u603b\u7763\u5bdf | \u7814\u7a76\u519b\u56e2\u6848\u4f8b\u9a71\u52a8\u521b\u4f5c | \u8fdb\u5316\u5927\u5e08KPI\u76d1\u7763 | \u4ece\u4e00\u53e5\u8bdd\u521b\u610f\u5230\u5c0f\u4e91\u96c0\u6210\u7247 | Short Drama Master\u2122 \u2014 All-in-",
+    "id": "woqianfu/hermes-skill-short-drama-master",
+    "language": "Python",
+    "name": "woqianfu/hermes-skill-short-drama-master",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:09:28Z",
+    "url": "https://github.com/woqianfu/hermes-skill-short-drama-master"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:06:19Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
+    "id": "dgenio/contextweaver",
+    "language": "Python",
+    "name": "dgenio/contextweaver",
+    "stars": 8,
+    "updated_at": "2026-06-17T07:04:45Z",
+    "url": "https://github.com/dgenio/contextweaver"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "Python",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-06-17T07:04:10Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:02:20Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Portable, deterministic context governance layer for AI agents \u2014 smaller, auditable prompts, only when safe.",
+    "id": "samnodehi/zam-context-plane",
+    "language": "TypeScript",
+    "name": "samnodehi/zam-context-plane",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:02:10Z",
+    "url": "https://github.com/samnodehi/zam-context-plane"
+  },
+  {
+    "description": "Self-hosted multi-port AI service platform - one OpenAI-compatible endpoint per port, with model routing, load balancing",
+    "id": "mknjibhuvgyo2/portpilot-ai",
+    "language": "Python",
+    "name": "mknjibhuvgyo2/portpilot-ai",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:00:42Z",
+    "url": "https://github.com/mknjibhuvgyo2/portpilot-ai"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "React/Vite production workflow for prompt-based media planning and Supabase-backed project state",
+    "id": "hthmkt12/prompt-media-pro",
+    "language": "Python",
+    "name": "hthmkt12/prompt-media-pro",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:11:12Z",
+    "url": "https://github.com/hthmkt12/prompt-media-pro"
   },
   {
     "description": "AI prompt library for building production dbt projects with phased discovery, modeling, and semantic layer setup.",
@@ -25,24 +160,6 @@
     "stars": 35157,
     "updated_at": "2026-06-17T06:57:14Z",
     "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "\ud83c\udfac \u77ed\u5267\u5927\u5e08\u2122 v6.2 \u2014 \u5fae\u77ed\u5267\u5168\u6d41\u7a0b\u4e00\u4f53\u5316\u521b\u4f5c\u6280\u80fd | \u5341\u4e5d\u5927\u5e08\u521b\u4f5c\u519b\u56e2 | \u5348\u591c\u81ea\u8fdb\u5316 | \u4ece\u4e00\u53e5\u8bdd\u521b\u610f\u5230\u5c0f\u4e91\u96c0\u6210\u7247 | Short Drama Master\u2122 \u2014 All-in-one micro-drama creation s",
-    "id": "woqianfu/duanju-master",
-    "language": "Python",
-    "name": "woqianfu/duanju-master",
-    "stars": 1,
-    "updated_at": "2026-06-17T06:54:54Z",
-    "url": "https://github.com/woqianfu/duanju-master"
-  },
-  {
-    "description": "\ud83c\udfac \u77ed\u5267\u5927\u5e08\u2122 v6.2 \u2014 \u5fae\u77ed\u5267\u5168\u6d41\u7a0b\u4e00\u4f53\u5316\u521b\u4f5c\u6280\u80fd | \u5341\u4e5d\u5927\u5e08\u521b\u4f5c\u519b\u56e2 | \u5348\u591c\u81ea\u8fdb\u5316 | \u4ece\u4e00\u53e5\u8bdd\u521b\u610f\u5230\u5c0f\u4e91\u96c0\u6210\u7247 | Short Drama Master\u2122 \u2014 All-in-one micro-drama creation s",
-    "id": "woqianfu/hermes-skill-short-drama-master",
-    "language": "Python",
-    "name": "woqianfu/hermes-skill-short-drama-master",
-    "stars": 2,
-    "updated_at": "2026-06-17T06:54:49Z",
-    "url": "https://github.com/woqianfu/hermes-skill-short-drama-master"
   },
   {
     "description": "Autonomous AI Story Generator using Gemini API. Multi-axis randomization prevents repetitive plots. / Gemini API\u3092\u6d3b\u7528\u3057\u305f\u3001\u5b8c\u5168",
@@ -67,7 +184,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29235,
+    "stars": 29236,
     "updated_at": "2026-06-17T06:54:09Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -153,15 +270,6 @@
     "url": "https://github.com/lulin70/carrymem"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T06:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Portable, model-neutral writing standard for AI coding agents with generated Claude, Codex, Gemini, and Markdown adapter",
     "id": "ehukaimedia/high-signal-output",
     "language": "Python",
@@ -187,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T06:43:17Z",
     "url": "https://github.com/Jcapathy/loop-goal-skills"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19672,
-    "updated_at": "2026-06-17T06:40:52Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
@@ -247,7 +346,7 @@
     "id": "elon-choo/fablever",
     "language": "JavaScript",
     "name": "elon-choo/fablever",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-17T06:26:50Z",
     "url": "https://github.com/elon-choo/fablever"
   },
@@ -288,15 +387,6 @@
     "url": "https://github.com/hysohail/agentic-experiment-designer"
   },
   {
-    "description": "Fork \u2192 /setup \u2192 \ud504\ub85c\uc81d\ud2b8\uc5d0 \ub450\ub1cc\uac00 \uc0dd\uae34\ub2e4. \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c\uc744 \uc704\ud55c LLM Wiki \ud558\ub124\uc2a4 \ud15c\ud50c\ub9bf.",
-    "id": "taejung3852/project-scaffold",
-    "language": "Shell",
-    "name": "taejung3852/project-scaffold",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:57:08Z",
-    "url": "https://github.com/taejung3852/project-scaffold"
-  },
-  {
     "description": "the best papers, guides, blogs and lectures on ai. grouped by level so you always know what to read next.",
     "id": "tushaarmehtaa/zero-to-ai-native",
     "language": "TypeScript",
@@ -310,7 +400,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 30313,
+    "stars": 30331,
     "updated_at": "2026-06-17T06:14:00Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T06:12:36Z",
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Codex skill for director-level Eastern beauty AI image prompts, covering gu feng, Eastern fantasy, modern Chinese aesthe",
-    "id": "Litreily/codex-skill-eastern-beauty-director",
-    "language": "Python",
-    "name": "Litreily/codex-skill-eastern-beauty-director",
-    "stars": 3,
-    "updated_at": "2026-06-17T06:12:09Z",
-    "url": "https://github.com/Litreily/codex-skill-eastern-beauty-director"
-  },
-  {
-    "description": "Multi-agent audit master prompts (security, repo, frontend, API, perf, data, infra, AI/LLM, compliance, a11y, docs) + a ",
-    "id": "marcelrapold/auditor",
-    "language": "TypeScript",
-    "name": "marcelrapold/auditor",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:14:10Z",
-    "url": "https://github.com/marcelrapold/auditor"
-  },
-  {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 45,
-    "updated_at": "2026-06-17T06:09:56Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
-    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4404,
-    "updated_at": "2026-06-17T06:09:34Z",
-    "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:08:12Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:07:07Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:06:02Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-17T06:05:10Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:03:42Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:03:28Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
   }
 ]
