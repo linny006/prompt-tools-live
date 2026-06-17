@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-16 23:52 UTC
+> ⏰ Last updated: 2026-06-17 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-06-16 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 1 | [ekayaprod/jules-agent-roster](https://github.com/ekayaprod/jules-agent-roster) | 2 | JavaScript | 2026-06-16 | The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi |
 | 2 | [elon-choo/fablever](https://github.com/elon-choo/fablever) | 0 | JavaScript | 2026-06-16 | Make any Claude model adopt Claude Fable 5's working style in Claude Code — always-on output style + zero-dependency MCP |
 | 3 | [buildmoonshot/skillpacks](https://github.com/buildmoonshot/skillpacks) | 1 | JavaScript | 2026-06-16 | A beginner-to-expert curriculum of drop-in skills for Claude Code, Codex, and any coding agent. Copy-paste ready, tested |
-| 4 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-06-16 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 5 | [mladen1312/rigor](https://github.com/mladen1312/rigor) | 0 | Python | 2026-06-16 | A model-agnostic reasoning protocol that makes frontier LLMs rigorous and honest instead of confidently wrong. Claude 4. |
-| 6 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 282 | Swift | 2026-06-16 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
-| 7 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 2 | Python | 2026-06-16 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 8 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 35137 | Python | 2026-06-16 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
-| 9 | [craigspaterson/agent-skills](https://github.com/craigspaterson/agent-skills) | 1 | PowerShell | 2026-06-16 | Reusable skill definitions that teach AI agents consistent output formats, writing guidelines, and worked examples — wor |
-| 10 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 0 | HTML | 2026-06-16 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
-| 11 | [woqianfu/duanju-master](https://github.com/woqianfu/duanju-master) | 1 | HTML | 2026-06-16 | 🎬 短剧大师™ v6.2 — 微短剧全流程一体化创作技能 \| 十九大师创作军团 \| 午夜自进化 \| 从一句话创意到小云雀成片 \| Short Drama Master™ — All-in-one micro-drama creation s |
-| 12 | [woqianfu/hermes-skill-short-drama-master](https://github.com/woqianfu/hermes-skill-short-drama-master) | 1 | HTML | 2026-06-16 | 🎬 短剧大师™ v6.2 — 微短剧全流程一体化创作技能 \| 十九大师创作军团 \| 午夜自进化 \| 从一句话创意到小云雀成片 \| Short Drama Master™ — All-in-one micro-drama creation s |
-| 13 | [ekorbia/ekorbia-desktop](https://github.com/ekorbia/ekorbia-desktop) | 1 | JavaScript | 2026-06-16 | A native desktop Integrated Chat and Productivity Environment for local AI models |
-| 14 | [LionKimbro/jsonedit](https://github.com/LionKimbro/jsonedit) | 0 | Python | 2026-06-16 | jsonedit is a structure-first JSON editor designed for composing and reshaping hierarchical meaning — ideal for LLM prom |
-| 15 | [microsoft/apm](https://github.com/microsoft/apm) | 2904 | Python | 2026-06-16 | Agent Package Manager |
-| 16 | [Ronnie2025/ai-agent-workbench-starter-pack](https://github.com/Ronnie2025/ai-agent-workbench-starter-pack) | 0 | HTML | 2026-06-16 | AI Agent 工作台实战包 public sales page |
-| 17 | [VisionaireLabs/Visionaire](https://github.com/VisionaireLabs/Visionaire) | 2 | TypeScript | 2026-06-16 | I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it |
-| 18 | [Veeiy/agent-skills](https://github.com/Veeiy/agent-skills) | 0 | — | 2026-06-16 | Two standalone Claude Code skills: an optimizer that finds the highest-leverage move in any context, and an orchestrator |
-| 19 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-16 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 20 | [KorroAi/claude-creativity](https://github.com/KorroAi/claude-creativity) | 10 | — | 2026-06-16 | Radical creativity engine for Claude Code. 10 techniques. Persona-driven genius mode. Quality gate that kills mediocre i |
-| 21 | [ekayaprod/jules-agent-roster](https://github.com/ekayaprod/jules-agent-roster) | 2 | JavaScript | 2026-06-16 | The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi |
+| 4 | [Veeiy/agent-skills](https://github.com/Veeiy/agent-skills) | 0 | — | 2026-06-16 | Two standalone Claude Code skills: an optimizer that finds the highest-leverage move in any context, and an orchestrator |
+| 5 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 2 | Python | 2026-06-16 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 6 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-06-16 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 7 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-06-16 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 8 | [mladen1312/rigor](https://github.com/mladen1312/rigor) | 0 | Python | 2026-06-16 | A model-agnostic reasoning protocol that makes frontier LLMs rigorous and honest instead of confidently wrong. Claude 4. |
+| 9 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 282 | Swift | 2026-06-16 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
+| 10 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 35137 | Python | 2026-06-16 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
+| 11 | [craigspaterson/agent-skills](https://github.com/craigspaterson/agent-skills) | 1 | PowerShell | 2026-06-16 | Reusable skill definitions that teach AI agents consistent output formats, writing guidelines, and worked examples — wor |
+| 12 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 0 | HTML | 2026-06-16 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
+| 13 | [woqianfu/duanju-master](https://github.com/woqianfu/duanju-master) | 1 | HTML | 2026-06-16 | 🎬 短剧大师™ v6.2 — 微短剧全流程一体化创作技能 \| 十九大师创作军团 \| 午夜自进化 \| 从一句话创意到小云雀成片 \| Short Drama Master™ — All-in-one micro-drama creation s |
+| 14 | [woqianfu/hermes-skill-short-drama-master](https://github.com/woqianfu/hermes-skill-short-drama-master) | 1 | HTML | 2026-06-16 | 🎬 短剧大师™ v6.2 — 微短剧全流程一体化创作技能 \| 十九大师创作军团 \| 午夜自进化 \| 从一句话创意到小云雀成片 \| Short Drama Master™ — All-in-one micro-drama creation s |
+| 15 | [ekorbia/ekorbia-desktop](https://github.com/ekorbia/ekorbia-desktop) | 1 | JavaScript | 2026-06-16 | A native desktop Integrated Chat and Productivity Environment for local AI models |
+| 16 | [LionKimbro/jsonedit](https://github.com/LionKimbro/jsonedit) | 0 | Python | 2026-06-16 | jsonedit is a structure-first JSON editor designed for composing and reshaping hierarchical meaning — ideal for LLM prom |
+| 17 | [microsoft/apm](https://github.com/microsoft/apm) | 2904 | Python | 2026-06-16 | Agent Package Manager |
+| 18 | [Ronnie2025/ai-agent-workbench-starter-pack](https://github.com/Ronnie2025/ai-agent-workbench-starter-pack) | 0 | HTML | 2026-06-16 | AI Agent 工作台实战包 public sales page |
+| 19 | [VisionaireLabs/Visionaire](https://github.com/VisionaireLabs/Visionaire) | 2 | TypeScript | 2026-06-16 | I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it |
+| 20 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 0 | HTML | 2026-06-16 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 21 | [KorroAi/claude-creativity](https://github.com/KorroAi/claude-creativity) | 10 | — | 2026-06-16 | Radical creativity engine for Claude Code. 10 techniques. Persona-driven genius mode. Quality gate that kills mediocre i |
 | 22 | [zxpmail/ReqForge](https://github.com/zxpmail/ReqForge) | 11 | JavaScript | 2026-06-16 | ReqForge — From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec→P |
 | 23 | [5uprem4/ai-skill-vault](https://github.com/5uprem4/ai-skill-vault) | 2 | HTML | 2026-06-16 | Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub |
 | 24 | [teguhimanulloh47/pirate-talk-for-claude](https://github.com/teguhimanulloh47/pirate-talk-for-claude) | 0 | HTML | 2026-06-16 | Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub |
@@ -71,7 +71,7 @@ expired items removed — so you can rely on what you see being current.
 | 27 | [sameernagar-hub/promptPilot](https://github.com/sameernagar-hub/promptPilot) | 0 | Python | 2026-06-16 | A full-stack prompt intelligence platform that analyzes your unique prompting traits and refines raw natural-language pr |
 | 28 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-16 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 29 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10166 | Python | 2026-06-16 | AI Observability & Evaluation |
-| 30 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 30021 | Python | 2026-06-16 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library |
+| 30 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 30028 | Python | 2026-06-16 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library |
 | 31 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 0 | HTML | 2026-06-16 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
 | 32 | [kimsanguine/AI_Human](https://github.com/kimsanguine/AI_Human) | 0 | Shell | 2026-06-16 | 초급자를 위한 AI Engineer 100일 커리큘럼 — Python부터 RAG까지 + 매일 AI 뉴스 자동 큐레이션 |
 | 33 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 0 | HTML | 2026-06-16 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
@@ -79,7 +79,7 @@ expired items removed — so you can rely on what you see being current.
 | 35 | [madonessbeat/AetherStudio](https://github.com/madonessbeat/AetherStudio) | 0 | JavaScript | 2026-06-16 |  |
 | 36 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 0 | HTML | 2026-06-16 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
 | 37 | [marialuiza-mdealcantara/portfolio-ai](https://github.com/marialuiza-mdealcantara/portfolio-ai) | 0 | — | 2026-06-16 | AI projects focused on LLMs, prompt engineering and business solutions. |
-| 38 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 32103 | Python | 2026-06-16 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 38 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 32104 | Python | 2026-06-16 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
 | 39 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 7 | Python | 2026-06-16 | Universal AI Agent OS — audited skills, governance rules, replayable state. One contract, every host agent. |
 | 40 | [FlyFission/nuclear-grade-context-engineering](https://github.com/FlyFission/nuclear-grade-context-engineering) | 22 | Python | 2026-06-16 | AI agents now operate with authority. Authority without discipline is how complex systems fail. Nuclear’s control loop,  |
 | 41 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 0 | HTML | 2026-06-16 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
