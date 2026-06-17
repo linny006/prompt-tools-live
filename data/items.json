@@ -1,12 +1,138 @@
 [
   {
+    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
+    "id": "mobcat40/ComfyUI-PromptChain",
+    "language": "Python",
+    "name": "mobcat40/ComfyUI-PromptChain",
+    "stars": 9,
+    "updated_at": "2026-06-17T22:14:13Z",
+    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
+  },
+  {
+    "description": "Claude Skills de psicologia informada por evid\u00eancias (PT-BR): produ\u00e7\u00e3o e auditoria de posts, artigos cient\u00edficos, p\u00f4ster",
+    "id": "psientrementespsi-alt/psi-skills",
+    "language": "Markdown",
+    "name": "psientrementespsi-alt/psi-skills",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:13:37Z",
+    "url": "https://github.com/psientrementespsi-alt/psi-skills"
+  },
+  {
+    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
+    "id": "realBoBao/Serena_Auto-Teaching",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_Auto-Teaching",
+    "stars": 1,
+    "updated_at": "2026-06-17T22:12:55Z",
+    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:12:17Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Cross-agent toolkit for prompts and coding-agent skills",
+    "id": "sungjunlee/craftkit",
+    "language": "JavaScript",
+    "name": "sungjunlee/craftkit",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:12:07Z",
+    "url": "https://github.com/sungjunlee/craftkit"
+  },
+  {
+    "description": "ESLint for your LLM prompts \u2014 catch prompt-injection risks, missing token limits & prompt anti-patterns before you ship.",
+    "id": "pop123-ux/promptlint",
+    "language": "Python",
+    "name": "pop123-ux/promptlint",
+    "stars": 1,
+    "updated_at": "2026-06-17T22:11:49Z",
+    "url": "https://github.com/pop123-ux/promptlint"
+  },
+  {
+    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
+    "id": "areliw/mt-score-up-skill",
+    "language": "Python",
+    "name": "areliw/mt-score-up-skill",
+    "stars": 1,
+    "updated_at": "2026-06-17T22:11:23Z",
+    "url": "https://github.com/areliw/mt-score-up-skill"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-17T21:57:56Z",
+    "updated_at": "2026-06-17T22:05:43Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:05:25Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A voice-first sermon-preparation workflow for Claude Code \u2014 staged process, a Constitution that refuses generic AI preac",
+    "id": "mdshearer/preaching-workflow",
+    "language": "Python",
+    "name": "mdshearer/preaching-workflow",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:04:43Z",
+    "url": "https://github.com/mdshearer/preaching-workflow"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 35194,
+    "updated_at": "2026-06-17T22:09:29Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Point any frontier coding agent at a repo and bring it up to a standard of excellence \u2014 safe, evidence-based, and scales",
+    "id": "michaelcrosato/agent-cleaner",
+    "language": "Shell",
+    "name": "michaelcrosato/agent-cleaner",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:04:17Z",
+    "url": "https://github.com/michaelcrosato/agent-cleaner"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-17T22:01:56Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "167 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "Shell",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 979,
+    "updated_at": "2026-06-17T22:14:45Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T22:00:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -99,15 +225,6 @@
     "url": "https://github.com/Kimotep/skills"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-06-17T21:52:05Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
     "id": "YouMind-OpenLab/awesome-seedream-4.5",
     "language": "TypeScript",
@@ -117,24 +234,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
   },
   {
-    "description": "A voice-first sermon-preparation workflow for Claude Code \u2014 staged process, a Constitution that refuses generic AI preac",
-    "id": "mdshearer/preaching-workflow",
-    "language": "Python",
-    "name": "mdshearer/preaching-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-17T21:50:42Z",
-    "url": "https://github.com/mdshearer/preaching-workflow"
-  },
-  {
-    "description": "167 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "Shell",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 979,
-    "updated_at": "2026-06-17T21:50:34Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
     "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
     "language": "TypeScript",
@@ -142,15 +241,6 @@
     "stars": 21,
     "updated_at": "2026-06-17T21:49:45Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Claude Skills de psicologia informada por evid\u00eancias (PT-BR): produ\u00e7\u00e3o e auditoria de posts, artigos cient\u00edficos, p\u00f4ster",
-    "id": "psientrementespsi-alt/psi-skills",
-    "language": "Markdown",
-    "name": "psientrementespsi-alt/psi-skills",
-    "stars": 0,
-    "updated_at": "2026-06-17T21:49:00Z",
-    "url": "https://github.com/psientrementespsi-alt/psi-skills"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -167,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10178,
-    "updated_at": "2026-06-17T21:55:25Z",
+    "updated_at": "2026-06-17T22:05:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -178,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T21:47:40Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T21:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Prompt crafting and management section for Pict: typed markdown prompts, weighted word list matrices, a {~WordListEntry:",
@@ -214,24 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T21:37:10Z",
     "url": "https://github.com/chriscantu/claude-config"
-  },
-  {
-    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
-    "id": "areliw/mt-score-up-skill",
-    "language": "Python",
-    "name": "areliw/mt-score-up-skill",
-    "stars": 1,
-    "updated_at": "2026-06-17T21:37:01Z",
-    "url": "https://github.com/areliw/mt-score-up-skill"
-  },
-  {
-    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
-    "id": "realBoBao/Serena_Auto-Teaching",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_Auto-Teaching",
-    "stars": 1,
-    "updated_at": "2026-06-17T21:35:32Z",
-    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
   },
   {
     "description": "\ud83c\udfad 216 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 17 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 18 \u4e2a\u90e8\u95e8\u3002\u542b 50 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
@@ -265,7 +328,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29280,
+    "stars": 29281,
     "updated_at": "2026-06-17T21:31:56Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -369,15 +432,6 @@
     "url": "https://github.com/Lionfish7777/lionfish-fin-ops-token-hygiene-system"
   },
   {
-    "description": "Point any frontier coding agent at a repo and bring it up to a standard of excellence \u2014 safe, evidence-based, and scales",
-    "id": "michaelcrosato/agent-cleaner",
-    "language": "Shell",
-    "name": "michaelcrosato/agent-cleaner",
-    "stars": 0,
-    "updated_at": "2026-06-17T21:19:52Z",
-    "url": "https://github.com/michaelcrosato/agent-cleaner"
-  },
-  {
     "description": "Point your AI at this repo before you vibe-code a website. The common security flaws, exploits, and missing pieces in AI",
     "id": "LxveAce/vibe-coding-website-security",
     "language": "PowerShell",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T21:18:44Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
-    "id": "mobcat40/ComfyUI-PromptChain",
-    "language": "Python",
-    "name": "mobcat40/ComfyUI-PromptChain",
-    "stars": 9,
-    "updated_at": "2026-06-17T21:17:18Z",
-    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
-  },
-  {
-    "description": "Distributed Networks Institute",
-    "id": "1712n/dn-institute",
-    "language": "Python",
-    "name": "1712n/dn-institute",
-    "stars": 45,
-    "updated_at": "2026-06-17T21:12:07Z",
-    "url": "https://github.com/1712n/dn-institute"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22323,
-    "updated_at": "2026-06-17T21:11:26Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "LLM evaluation and observability dashboard for prompt versions, regressions, traces, cost, latency, and human review.",
-    "id": "Daniel5569/llm-evaluation-observability-platform",
-    "language": "TypeScript",
-    "name": "Daniel5569/llm-evaluation-observability-platform",
-    "stars": 0,
-    "updated_at": "2026-06-17T21:10:11Z",
-    "url": "https://github.com/Daniel5569/llm-evaluation-observability-platform"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-06-17T21:09:46Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-06-17T21:08:15Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   }
 ]
