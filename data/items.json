@@ -1,12 +1,30 @@
 [
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 31016,
-    "updated_at": "2026-06-17T17:28:53Z",
-    "url": "https://github.com/chopratejas/headroom"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22315,
+    "updated_at": "2026-06-17T17:40:36Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:40:19Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:38:46Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,8 +32,62 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-17T17:28:18Z",
+    "updated_at": "2026-06-17T17:37:33Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:37:03Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:33:51Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4414,
+    "updated_at": "2026-06-17T17:32:15Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T17:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29272,
+    "updated_at": "2026-06-17T17:30:18Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 31037,
+    "updated_at": "2026-06-17T17:28:53Z",
+    "url": "https://github.com/chopratejas/headroom"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -77,11 +149,11 @@
     "language": "Shell",
     "name": "christopherlouet/claude-base",
     "stars": 4,
-    "updated_at": "2026-06-17T17:23:17Z",
+    "updated_at": "2026-06-17T17:44:59Z",
     "url": "https://github.com/christopherlouet/claude-base"
   },
   {
-    "description": "Ecossistema de skills e pipelines de psicologia baseada em evid\u00eancias para Cowork/Claude",
+    "description": "Ecossistema de skills e pipelines de psicologia informada por evid\u00eancias para Cowork/Claude",
     "id": "psientrementespsi-alt/psi-skills",
     "language": "Markdown",
     "name": "psientrementespsi-alt/psi-skills",
@@ -117,15 +189,6 @@
     "url": "https://github.com/smnvsergii/ai-driven-frontend"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T17:15:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Blane's AI PM Repository",
     "id": "enalbenerraw/blanewarrene",
     "language": "Python",
@@ -133,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T17:14:56Z",
     "url": "https://github.com/enalbenerraw/blanewarrene"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22314,
-    "updated_at": "2026-06-17T17:24:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
@@ -178,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T17:10:10Z",
     "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29271,
-    "updated_at": "2026-06-17T17:30:18Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 3916,
-    "updated_at": "2026-06-17T17:29:00Z",
+    "updated_at": "2026-06-17T17:44:44Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-17T16:28:04Z",
     "url": "https://github.com/CodeByKhaleel/ContextCraft"
-  },
-  {
-    "description": "Self-hosted multi-port AI service platform - one OpenAI-compatible endpoint per port, with model routing, load balancing",
-    "id": "mknjibhuvgyo2/portpilot-ai",
-    "language": "Python",
-    "name": "mknjibhuvgyo2/portpilot-ai",
-    "stars": 0,
-    "updated_at": "2026-06-17T16:24:31Z",
-    "url": "https://github.com/mknjibhuvgyo2/portpilot-ai"
-  },
-  {
-    "description": "A growing library of Claude Code slash-command skills; reusable AI agents for research, analysis, development, and autom",
-    "id": "RashiD2801/Skills",
-    "language": "\u2014",
-    "name": "RashiD2801/Skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T16:24:28Z",
-    "url": "https://github.com/RashiD2801/Skills"
-  },
-  {
-    "description": "Persistent memory, BM25 code search, MCP tools, and hook guardrails for AI coding agents \u2014 Claude Code, Codex CLI & Anti",
-    "id": "ezBuilder/code-brain",
-    "language": "Python",
-    "name": "ezBuilder/code-brain",
-    "stars": 0,
-    "updated_at": "2026-06-17T16:16:17Z",
-    "url": "https://github.com/ezBuilder/code-brain"
-  },
-  {
-    "description": "AI growth skills pack \u2014 6 skills and 3 agents that enforce quality in AI-assisted growth work",
-    "id": "RBraga01/builder-growth",
-    "language": "Python",
-    "name": "RBraga01/builder-growth",
-    "stars": 2,
-    "updated_at": "2026-06-17T16:16:01Z",
-    "url": "https://github.com/RBraga01/builder-growth"
-  },
-  {
-    "description": "Awen Music Matrix Generator \u2014 7\u7ef4\u5ea6\u751f\u6210Suno\u63d0\u793a\u8bcd\u3001\u5c01\u9762\u3001\u89c6\u9891\u63d0\u793a\u8bcd\uff0chiawen.com",
-    "id": "awenstudio/awen-music",
-    "language": "JavaScript",
-    "name": "awenstudio/awen-music",
-    "stars": 0,
-    "updated_at": "2026-06-17T16:14:57Z",
-    "url": "https://github.com/awenstudio/awen-music"
   }
 ]
