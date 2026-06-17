@@ -1,5 +1,77 @@
 [
   {
+    "description": "Loop + Goal Agent Skills by Saido Labs: a Plan-Build-Test-Reflect-Improve project cadence (/loop) and an objective-mode ",
+    "id": "Jcapathy/loop-goal-skills",
+    "language": "Python",
+    "name": "Jcapathy/loop-goal-skills",
+    "stars": 0,
+    "updated_at": "2026-06-17T06:28:05Z",
+    "url": "https://github.com/Jcapathy/loop-goal-skills"
+  },
+  {
+    "description": "Open-source AI learning platform featuring structured learning paths, projects, roadmaps, AI tools, challenges, exams, a",
+    "id": "DipakMandlik/AIByDM",
+    "language": "TypeScript",
+    "name": "DipakMandlik/AIByDM",
+    "stars": 1,
+    "updated_at": "2026-06-17T06:28:49Z",
+    "url": "https://github.com/DipakMandlik/AIByDM"
+  },
+  {
+    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
+    "id": "elon-choo/fablever",
+    "language": "JavaScript",
+    "name": "elon-choo/fablever",
+    "stars": 0,
+    "updated_at": "2026-06-17T06:26:50Z",
+    "url": "https://github.com/elon-choo/fablever"
+  },
+  {
+    "description": "Ready Player One - stop prompting; start shipping",
+    "id": "rp1-run/rp1",
+    "language": "TypeScript",
+    "name": "rp1-run/rp1",
+    "stars": 31,
+    "updated_at": "2026-06-17T06:26:16Z",
+    "url": "https://github.com/rp1-run/rp1"
+  },
+  {
+    "description": "Give any model Mythos-class operational discipline: planning loops, executed verification, and persistent memory via a d",
+    "id": "aihxp/mythify",
+    "language": "JavaScript",
+    "name": "aihxp/mythify",
+    "stars": 1,
+    "updated_at": "2026-06-17T06:26:21Z",
+    "url": "https://github.com/aihxp/mythify"
+  },
+  {
+    "description": "AI typography prompt skill library for ecommerce, kidswear, logo and poster title design.",
+    "id": "smaball117/typography-prompt-skill",
+    "language": "\u2014",
+    "name": "smaball117/typography-prompt-skill",
+    "stars": 0,
+    "updated_at": "2026-06-17T06:23:40Z",
+    "url": "https://github.com/smaball117/typography-prompt-skill"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 4,
+    "updated_at": "2026-06-17T06:19:05Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T06:15:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -31,7 +103,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 30271,
+    "stars": 30282,
     "updated_at": "2026-06-17T06:14:00Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -180,6 +252,15 @@
     "url": "https://github.com/tech-guru254/spec-weaver"
   },
   {
+    "description": "Portable, deterministic context governance layer for AI agents \u2014 smaller, auditable prompts, only when safe.",
+    "id": "samnodehi/zam-context-plane",
+    "language": "TypeScript",
+    "name": "samnodehi/zam-context-plane",
+    "stars": 0,
+    "updated_at": "2026-06-17T06:28:53Z",
+    "url": "https://github.com/samnodehi/zam-context-plane"
+  },
+  {
     "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
     "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
     "language": "HTML",
@@ -205,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T06:01:28Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T06:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A production-grade SvelteKit starter kit built around a real multi-user expense tracker, demonstrating technical decisio",
@@ -310,7 +382,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 35153,
+    "stars": 35154,
     "updated_at": "2026-06-17T05:30:09Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T05:18:58Z",
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "A production-grade Kanban board application. Showcases engineering practices, decision-making and AI-assisted optimizati",
-    "id": "john-data-chen/next-dnd-starter-kit",
-    "language": "TypeScript",
-    "name": "john-data-chen/next-dnd-starter-kit",
-    "stars": 12,
-    "updated_at": "2026-06-17T05:14:12Z",
-    "url": "https://github.com/john-data-chen/next-dnd-starter-kit"
-  },
-  {
-    "description": "A test-bench for prompt-injection attacks and defenses: run an attack corpus against a live Claude model and measure att",
-    "id": "davidcjw/injection-testbench",
-    "language": "TypeScript",
-    "name": "davidcjw/injection-testbench",
-    "stars": 0,
-    "updated_at": "2026-06-17T05:10:59Z",
-    "url": "https://github.com/davidcjw/injection-testbench"
-  },
-  {
-    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
-    "id": "Paulessus/odin-gemini-mcp-bridge",
-    "language": "HTML",
-    "name": "Paulessus/odin-gemini-mcp-bridge",
-    "stars": 0,
-    "updated_at": "2026-06-17T05:08:18Z",
-    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-17T05:08:10Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-06-17T05:06:58Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "A from-scratch hybrid rule + LLM-as-judge eval harness: pass-rate, judge-vs-rule Cohen's kappa, latency/cost, HTML repor",
-    "id": "ganlin770/promptlab",
-    "language": "Python",
-    "name": "ganlin770/promptlab",
-    "stars": 0,
-    "updated_at": "2026-06-17T05:04:18Z",
-    "url": "https://github.com/ganlin770/promptlab"
-  },
-  {
-    "description": "A per-model reliability harness for Claude Code. Makes Opus/Sonnet/DeepSeek cite sources, abstain instead of hallucinati",
-    "id": "plugtheliam/fable-overclock",
-    "language": "Python",
-    "name": "plugtheliam/fable-overclock",
-    "stars": 0,
-    "updated_at": "2026-06-17T05:03:27Z",
-    "url": "https://github.com/plugtheliam/fable-overclock"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-06-17T05:02:46Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
   }
 ]
