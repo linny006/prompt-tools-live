@@ -1,10 +1,91 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10178,
+    "updated_at": "2026-06-17T23:44:58Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:44:52Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Free online AI prompt generator for ChatGPT, Claude, and Midjourney. Optimize your AI interactions directly in your brow",
+    "id": "itsrkmahapatra/PromptForge",
+    "language": "HTML",
+    "name": "itsrkmahapatra/PromptForge",
+    "stars": 1,
+    "updated_at": "2026-06-17T23:44:02Z",
+    "url": "https://github.com/itsrkmahapatra/PromptForge"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 35194,
+    "updated_at": "2026-06-17T23:42:36Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:41:59Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Production-grade skills for AI coding agents \u2014 cross-LLM (Claude, Cursor, Gemini, Copilot\u2026) via the open Agent Skills (S",
+    "id": "sergeyizmailov/claude-skills",
+    "language": "Shell",
+    "name": "sergeyizmailov/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:42:16Z",
+    "url": "https://github.com/sergeyizmailov/claude-skills"
+  },
+  {
+    "description": "A test runner for prompts. Score them and fail the PR when one regresses \u2014 CLI + GitHub Action.",
+    "id": "bluesky-tech-inc/mowa-eval",
+    "language": "TypeScript",
+    "name": "bluesky-tech-inc/mowa-eval",
+    "stars": 1,
+    "updated_at": "2026-06-17T23:41:06Z",
+    "url": "https://github.com/bluesky-tech-inc/mowa-eval"
+  },
+  {
+    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
+    "id": "areliw/mt-score-up-skill",
+    "language": "Python",
+    "name": "areliw/mt-score-up-skill",
+    "stars": 1,
+    "updated_at": "2026-06-17T23:37:41Z",
+    "url": "https://github.com/areliw/mt-score-up-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T23:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
     "id": "realBoBao/Serena_Auto-Teaching",
     "language": "JavaScript",
     "name": "realBoBao/Serena_Auto-Teaching",
-    "stars": 1,
+    "stars": 0,
     "updated_at": "2026-06-17T23:29:59Z",
     "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
   },
@@ -27,21 +108,12 @@
     "url": "https://github.com/hysohail/agentic-experiment-designer"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:26:55Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Per-repo memory, outcome telemetry, and a calibrated-confidence gate for Claude Code, with MCP and AGENTS.md projections",
     "id": "sara-star-quant/presence",
     "language": "Python",
     "name": "sara-star-quant/presence",
     "stars": 2,
-    "updated_at": "2026-06-17T23:26:18Z",
+    "updated_at": "2026-06-17T23:30:51Z",
     "url": "https://github.com/sara-star-quant/presence"
   },
   {
@@ -160,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T23:18:05Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
-    "id": "areliw/mt-score-up-skill",
-    "language": "Python",
-    "name": "areliw/mt-score-up-skill",
-    "stars": 1,
-    "updated_at": "2026-06-17T23:17:20Z",
-    "url": "https://github.com/areliw/mt-score-up-skill"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T23:15:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T22:41:12Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:41:07Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10178,
-    "updated_at": "2026-06-17T23:26:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "A production token hygiene system for AI-assisted development workflows. Built after a 60.8M token burn on May 16 2026. ",
-    "id": "Lionfish7777/lionfish-fin-ops-token-hygiene-system",
-    "language": "HTML",
-    "name": "Lionfish7777/lionfish-fin-ops-token-hygiene-system",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:35:10Z",
-    "url": "https://github.com/Lionfish7777/lionfish-fin-ops-token-hygiene-system"
-  },
-  {
-    "description": "Streamline Microsoft 365 Copilot agent instructions: sort content into instructions and a knowledge file, cut wordiness ",
-    "id": "copilot-builder/copilot-agent-helper",
-    "language": "HTML",
-    "name": "copilot-builder/copilot-agent-helper",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:32:36Z",
-    "url": "https://github.com/copilot-builder/copilot-agent-helper"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:29:35Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
-    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "language": "HTML",
-    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:29:31Z",
-    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
   }
 ]
