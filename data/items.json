@@ -1,11 +1,110 @@
 [
   {
+    "description": "Workspace-first orchestration for multi-model AI workflows. Frozen reference implementation.",
+    "id": "baek-labs/hames",
+    "language": "JavaScript",
+    "name": "baek-labs/hames",
+    "stars": 3,
+    "updated_at": "2026-06-17T04:59:24Z",
+    "url": "https://github.com/baek-labs/hames"
+  },
+  {
+    "description": "A test-bench for prompt-injection attacks and defenses: run an attack corpus against a live Claude model and measure att",
+    "id": "davidcjw/injection-testbench",
+    "language": "TypeScript",
+    "name": "davidcjw/injection-testbench",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:56:23Z",
+    "url": "https://github.com/davidcjw/injection-testbench"
+  },
+  {
+    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4403,
+    "updated_at": "2026-06-17T04:54:00Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "id": "dongshuyan/compass-skills",
+    "language": "Python",
+    "name": "dongshuyan/compass-skills",
+    "stars": 195,
+    "updated_at": "2026-06-17T04:53:05Z",
+    "url": "https://github.com/dongshuyan/compass-skills"
+  },
+  {
+    "description": "A collection of personal Claude Code skills",
+    "id": "VanKyle00/claude-skills",
+    "language": "Python",
+    "name": "VanKyle00/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:52:38Z",
+    "url": "https://github.com/VanKyle00/claude-skills"
+  },
+  {
+    "description": "About An \"LLM wiki\" for coding agents \u2014 applies Karpathy's idea of a persistent, self-maintained, cross-referenced markd",
+    "id": "hellomyoh/Agent-Spec-Kit",
+    "language": "\u2014",
+    "name": "hellomyoh/Agent-Spec-Kit",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:51:30Z",
+    "url": "https://github.com/hellomyoh/Agent-Spec-Kit"
+  },
+  {
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1640,
+    "updated_at": "2026-06-17T04:50:16Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "A production-grade multi-platform monorepo demonstrating shared business logic across Web and Mobile. Showcases engineer",
+    "id": "john-data-chen/turborepo-starter-kit",
+    "language": "TypeScript",
+    "name": "john-data-chen/turborepo-starter-kit",
+    "stars": 14,
+    "updated_at": "2026-06-17T04:47:58Z",
+    "url": "https://github.com/john-data-chen/turborepo-starter-kit"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 35148,
+    "updated_at": "2026-06-17T04:47:04Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:46:01Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T04:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Multi-agent audit master prompts (security, repo, frontend, API, perf, data, infra, AI/LLM, compliance, a11y, docs) + a ",
     "id": "marcelrapold/auditor",
     "language": "TypeScript",
     "name": "marcelrapold/auditor",
     "stars": 0,
-    "updated_at": "2026-06-17T04:45:08Z",
+    "updated_at": "2026-06-17T04:47:00Z",
     "url": "https://github.com/marcelrapold/auditor"
   },
   {
@@ -13,7 +112,7 @@
     "id": "ZeroLu/awesome-gpt-image",
     "language": "Python",
     "name": "ZeroLu/awesome-gpt-image",
-    "stars": 1717,
+    "stars": 1718,
     "updated_at": "2026-06-17T04:44:51Z",
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
   },
@@ -49,7 +148,7 @@
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 163828,
+    "stars": 163829,
     "updated_at": "2026-06-17T04:36:06Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -72,31 +171,13 @@
     "url": "https://github.com/FinnCheung93/agentic-foundation"
   },
   {
-    "description": "A collection of personal Claude Code skills",
-    "id": "VanKyle00/claude-skills",
-    "language": "Python",
-    "name": "VanKyle00/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-17T04:33:47Z",
-    "url": "https://github.com/VanKyle00/claude-skills"
-  },
-  {
-    "description": "ex-cog \u2014 externalized cognition. Four Claude Code plugins. vasana-system \u2014 cross-session pattern memory (forms, not just",
+    "description": "ex-cog \u2014 externalized cognition. Four Claude Code plugins. research-toolkit \u2014 self-checking investigation & verification",
     "id": "bogheorghiu/ex-cog-dev",
     "language": "Python",
     "name": "bogheorghiu/ex-cog-dev",
     "stars": 0,
     "updated_at": "2026-06-17T04:32:54Z",
     "url": "https://github.com/bogheorghiu/ex-cog-dev"
-  },
-  {
-    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "id": "dongshuyan/compass-skills",
-    "language": "Python",
-    "name": "dongshuyan/compass-skills",
-    "stars": 194,
-    "updated_at": "2026-06-17T04:32:17Z",
-    "url": "https://github.com/dongshuyan/compass-skills"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -115,15 +196,6 @@
     "stars": 23,
     "updated_at": "2026-06-17T04:31:05Z",
     "url": "https://github.com/sahil87/fab-kit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T04:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Reverse engineer any repo into it's original prompt",
@@ -171,29 +243,11 @@
     "url": "https://github.com/simota/agent-skills"
   },
   {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "Python",
-    "name": "github/awesome-copilot",
-    "stars": 35148,
-    "updated_at": "2026-06-17T04:14:45Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "A test-bench for prompt-injection attacks and defenses: run an attack corpus against a live Claude model and measure att",
-    "id": "davidcjw/injection-testbench",
-    "language": "TypeScript",
-    "name": "davidcjw/injection-testbench",
-    "stars": 0,
-    "updated_at": "2026-06-17T04:09:22Z",
-    "url": "https://github.com/davidcjw/injection-testbench"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 30217,
+    "stars": 30227,
     "updated_at": "2026-06-17T04:07:07Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "ariffazil/arifos",
     "stars": 45,
-    "updated_at": "2026-06-17T04:06:10Z",
+    "updated_at": "2026-06-17T05:00:17Z",
     "url": "https://github.com/ariffazil/arifos"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26565,
-    "updated_at": "2026-06-17T04:05:09Z",
+    "updated_at": "2026-06-17T04:59:38Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 27,
     "updated_at": "2026-06-17T03:21:29Z",
     "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
-    "description": "247 agent skills (Cursor, Claude & Codex), 5.400+ OpenClaw skills, 123 ML notebooks, 46 research papers, 14 industry rep",
-    "id": "adriannoes/awesome-vibe-coding",
-    "language": "Jupyter Notebook",
-    "name": "adriannoes/awesome-vibe-coding",
-    "stars": 39,
-    "updated_at": "2026-06-17T03:19:20Z",
-    "url": "https://github.com/adriannoes/awesome-vibe-coding"
-  },
-  {
-    "description": "Self-hosted multi-port AI service platform - one OpenAI-compatible endpoint per port, with model routing, load balancing",
-    "id": "mknjibhuvgyo2/portpilot-ai",
-    "language": "Python",
-    "name": "mknjibhuvgyo2/portpilot-ai",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:17:28Z",
-    "url": "https://github.com/mknjibhuvgyo2/portpilot-ai"
-  },
-  {
-    "description": "Judgment infrastructure for human-led AI: portable Claude and Codex skills.",
-    "id": "glichtenthal/agent-skills",
-    "language": "HTML",
-    "name": "glichtenthal/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:16:48Z",
-    "url": "https://github.com/glichtenthal/agent-skills"
-  },
-  {
-    "description": "Skill \u5438\u661f\u5927\u6cd5\uff1a\u5206\u6790\u3001\u5ba1\u67e5\u3001\u5bf9\u6bd4\u548c\u4f18\u5316 Codex Skills \u7684\u65b9\u6cd5 Skill",
-    "id": "FinnCheung93/skill-siphon",
-    "language": "\u2014",
-    "name": "FinnCheung93/skill-siphon",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:16:25Z",
-    "url": "https://github.com/FinnCheung93/skill-siphon"
-  },
-  {
-    "description": "PM PRD \u52a9\u624b\uff1a\u9762\u5411\u5f00\u53d1\u4ea4\u4ed8\u7684 PRD \u6f84\u6e05\u3001\u64b0\u5199\u3001\u4fee\u8ba2\u4e0e\u5ba1\u67e5 Skill",
-    "id": "FinnCheung93/pm-prd-copilot",
-    "language": "\u2014",
-    "name": "FinnCheung93/pm-prd-copilot",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:16:22Z",
-    "url": "https://github.com/FinnCheung93/pm-prd-copilot"
-  },
-  {
-    "description": "PM \u539f\u578b\u52a9\u624b\uff1a\u57fa\u4e8e PRD/Spec \u751f\u6210\u4ea7\u54c1\u8d70\u67e5\u539f\u578b\u4e0e\u6f14\u793a\u6750\u6599\u7684\u590d\u5408 Skill",
-    "id": "FinnCheung93/finn-protopilot",
-    "language": "Python",
-    "name": "FinnCheung93/finn-protopilot",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:16:12Z",
-    "url": "https://github.com/FinnCheung93/finn-protopilot"
   }
 ]
