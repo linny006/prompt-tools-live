@@ -1,12 +1,84 @@
 [
   {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:30:13Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
     "name": "HIDORAKAI002/ai-workspace-archive",
     "stars": 19,
-    "updated_at": "2026-06-17T07:25:32Z",
+    "updated_at": "2026-06-17T07:29:37Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
+    "id": "pranavkafle/serpapi-mcp-catalog",
+    "language": "Python",
+    "name": "pranavkafle/serpapi-mcp-catalog",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:29:09Z",
+    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
+  },
+  {
+    "description": "MiMo-Code plugin that adapts OpenCode/Oh My OpenAgent style multi-agent workflows, model routing, and lightweight harnes",
+    "id": "er-s-an/OH-MY-MIMO-CODE",
+    "language": "TypeScript",
+    "name": "er-s-an/OH-MY-MIMO-CODE",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:28:34Z",
+    "url": "https://github.com/er-s-an/OH-MY-MIMO-CODE"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 45,
+    "updated_at": "2026-06-17T07:27:16Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "Portable .agent.md files for AI coding assistants that actually commit to a point of view.",
+    "id": "dfinson/promptlings",
+    "language": "PowerShell",
+    "name": "dfinson/promptlings",
+    "stars": 1,
+    "updated_at": "2026-06-17T07:26:55Z",
+    "url": "https://github.com/dfinson/promptlings"
+  },
+  {
+    "description": "Codex skill for turning rough tasks into verifiable /goal prompts, Loop Cards, and multi-agent plans.",
+    "id": "zitao4588-create/goal-task-prompt",
+    "language": "\u2014",
+    "name": "zitao4588-create/goal-task-prompt",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:27:12Z",
+    "url": "https://github.com/zitao4588-create/goal-task-prompt"
+  },
+  {
+    "description": "Battle-tested rules for Claude Code efficiency",
+    "id": "qingfengyu153781-star/claude-code-toolkit",
+    "language": "Python",
+    "name": "qingfengyu153781-star/claude-code-toolkit",
+    "stars": 1,
+    "updated_at": "2026-06-17T07:25:52Z",
+    "url": "https://github.com/qingfengyu153781-star/claude-code-toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:25:45Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A from-scratch hybrid rule + LLM-as-judge eval harness: pass-rate, judge-vs-rule Cohen's kappa, latency/cost, HTML repor",
@@ -31,7 +103,7 @@
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 217,
+    "stars": 220,
     "updated_at": "2026-06-17T07:21:37Z",
     "url": "https://github.com/dongshuyan/compass-skills"
   },
@@ -40,18 +112,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19672,
+    "stars": 19673,
     "updated_at": "2026-06-17T07:24:44Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T07:15:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Multi-agent audit master prompts (security, repo, frontend, API, perf, data, infra, AI/LLM, compliance, a11y, docs) + a ",
@@ -211,7 +274,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29237,
+    "stars": 29238,
     "updated_at": "2026-06-17T06:54:09Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -385,68 +448,5 @@
     "stars": 31,
     "updated_at": "2026-06-17T06:26:16Z",
     "url": "https://github.com/rp1-run/rp1"
-  },
-  {
-    "description": "Give any model Mythos-class operational discipline: planning loops, executed verification, and persistent memory via a d",
-    "id": "aihxp/mythify",
-    "language": "JavaScript",
-    "name": "aihxp/mythify",
-    "stars": 1,
-    "updated_at": "2026-06-17T06:26:21Z",
-    "url": "https://github.com/aihxp/mythify"
-  },
-  {
-    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
-    "id": "christopherlouet/claude-base",
-    "language": "Shell",
-    "name": "christopherlouet/claude-base",
-    "stars": 4,
-    "updated_at": "2026-06-17T06:19:05Z",
-    "url": "https://github.com/christopherlouet/claude-base"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:15:10Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "the best papers, guides, blogs and lectures on ai. grouped by level so you always know what to read next.",
-    "id": "tushaarmehtaa/zero-to-ai-native",
-    "language": "TypeScript",
-    "name": "tushaarmehtaa/zero-to-ai-native",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:14:10Z",
-    "url": "https://github.com/tushaarmehtaa/zero-to-ai-native"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 30342,
-    "updated_at": "2026-06-17T06:14:00Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:13:12Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:12:57Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
