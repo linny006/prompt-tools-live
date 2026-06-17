@@ -1,5 +1,149 @@
 [
   {
+    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "id": "dongshuyan/compass-skills",
+    "language": "Python",
+    "name": "dongshuyan/compass-skills",
+    "stars": 223,
+    "updated_at": "2026-06-17T07:44:49Z",
+    "url": "https://github.com/dongshuyan/compass-skills"
+  },
+  {
+    "description": "A rough anti-sappy Codex skill for reframing setbacks with cut-through, reality-check style responses.",
+    "id": "Ann-planning/goodthings-skill",
+    "language": "\u2014",
+    "name": "Ann-planning/goodthings-skill",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:44:19Z",
+    "url": "https://github.com/Ann-planning/goodthings-skill"
+  },
+  {
+    "description": "Per-repo memory, outcome telemetry, and a calibrated-confidence gate for Claude Code, with MCP and AGENTS.md projections",
+    "id": "sara-star-quant/presence",
+    "language": "Python",
+    "name": "sara-star-quant/presence",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:45:32Z",
+    "url": "https://github.com/sara-star-quant/presence"
+  },
+  {
+    "description": "Open-source AI video-prompt skill \u2014 rewrite ideas into model-ready text-to-video prompts (Seedance, Sora, Kling, Veo). A",
+    "id": "Alisa0808/vibe-creating-skill",
+    "language": "JavaScript",
+    "name": "Alisa0808/vibe-creating-skill",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:41:18Z",
+    "url": "https://github.com/Alisa0808/vibe-creating-skill"
+  },
+  {
+    "description": "LLM\u5bfe\u8a71\u30ed\u30b0\u3001\u9031\u6b21\u30d6\u30ed\u30b0\u3001Zenn\u8a18\u4e8b\u3001\u30d7\u30ed\u30f3\u30d7\u30c8\u8cc7\u7523\u3001\u81ea\u52d5\u5316\u30b9\u30af\u30ea\u30d7\u30c8\u3092\u7ba1\u7406 / Workspace for LLM logs, weekly blogs, Zenn articles, prompts, and automation ",
+    "id": "masa-san-jp/logs-with-llm",
+    "language": "Python",
+    "name": "masa-san-jp/logs-with-llm",
+    "stars": 1,
+    "updated_at": "2026-06-17T07:40:51Z",
+    "url": "https://github.com/masa-san-jp/logs-with-llm"
+  },
+  {
+    "description": "A lightweight LLM Skill Package for macro and industry-chain research, evidence verification, anti-hallucination checks,",
+    "id": "wenxin-27-11/macro-chain-research-skill",
+    "language": "\u2014",
+    "name": "wenxin-27-11/macro-chain-research-skill",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:40:44Z",
+    "url": "https://github.com/wenxin-27-11/macro-chain-research-skill"
+  },
+  {
+    "description": "Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-comp",
+    "id": "mxyhi/ok-skills",
+    "language": "HTML",
+    "name": "mxyhi/ok-skills",
+    "stars": 428,
+    "updated_at": "2026-06-17T07:38:25Z",
+    "url": "https://github.com/mxyhi/ok-skills"
+  },
+  {
+    "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
+    "id": "ftvision/agent-prompt-observatory",
+    "language": "Python",
+    "name": "ftvision/agent-prompt-observatory",
+    "stars": 1,
+    "updated_at": "2026-06-17T07:38:18Z",
+    "url": "https://github.com/ftvision/agent-prompt-observatory"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29239,
+    "updated_at": "2026-06-17T07:43:26Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The official CLI for the PromptVM platform",
+    "id": "AIEngineering26/promptvm-cli",
+    "language": "Go",
+    "name": "AIEngineering26/promptvm-cli",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:37:38Z",
+    "url": "https://github.com/AIEngineering26/promptvm-cli"
+  },
+  {
+    "description": "AI video generator using Gemini + gTTS + MoviePy. Generates cinematic narrated videos about Indian freedom fighters with",
+    "id": "Aishwarya-J05/video-generator",
+    "language": "Python",
+    "name": "Aishwarya-J05/video-generator",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:37:27Z",
+    "url": "https://github.com/Aishwarya-J05/video-generator"
+  },
+  {
+    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
+    "id": "LouisLau-art/multi-agent-skills-catalog",
+    "language": "Python",
+    "name": "LouisLau-art/multi-agent-skills-catalog",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:36:46Z",
+    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
+  },
+  {
+    "description": "Codex skill for turning rough tasks into verifiable /goal prompts, Loop Cards, and multi-agent plans.",
+    "id": "zitao4588-create/goal-task-prompt",
+    "language": "Python",
+    "name": "zitao4588-create/goal-task-prompt",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:36:11Z",
+    "url": "https://github.com/zitao4588-create/goal-task-prompt"
+  },
+  {
+    "description": "A production-grade SvelteKit starter kit built around a real multi-user expense tracker, demonstrating technical decisio",
+    "id": "john-data-chen/sveltekit-starter-kit",
+    "language": "TypeScript",
+    "name": "john-data-chen/sveltekit-starter-kit",
+    "stars": 1,
+    "updated_at": "2026-06-17T07:32:58Z",
+    "url": "https://github.com/john-data-chen/sveltekit-starter-kit"
+  },
+  {
+    "description": "A full-stack prompt intelligence platform that analyzes your unique prompting traits and refines raw natural-language pr",
+    "id": "sameernagar-hub/promptPilot",
+    "language": "Python",
+    "name": "sameernagar-hub/promptPilot",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:31:10Z",
+    "url": "https://github.com/sameernagar-hub/promptPilot"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:30:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -54,15 +198,6 @@
     "url": "https://github.com/dfinson/promptlings"
   },
   {
-    "description": "Codex skill for turning rough tasks into verifiable /goal prompts, Loop Cards, and multi-agent plans.",
-    "id": "zitao4588-create/goal-task-prompt",
-    "language": "\u2014",
-    "name": "zitao4588-create/goal-task-prompt",
-    "stars": 0,
-    "updated_at": "2026-06-17T07:27:12Z",
-    "url": "https://github.com/zitao4588-create/goal-task-prompt"
-  },
-  {
     "description": "Battle-tested rules for Claude Code efficiency",
     "id": "qingfengyu153781-star/claude-code-toolkit",
     "language": "Python",
@@ -70,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T07:25:52Z",
     "url": "https://github.com/qingfengyu153781-star/claude-code-toolkit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T07:25:45Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A from-scratch hybrid rule + LLM-as-judge eval harness: pass-rate, judge-vs-rule Cohen's kappa, latency/cost, HTML repor",
@@ -90,24 +216,6 @@
     "url": "https://github.com/ganlin770/promptlab"
   },
   {
-    "description": "Practices, protocols, and skills for AI-driven software development. 18 skills + 1 Bash safety hook for Claude Code, Cod",
-    "id": "CodeAlive-AI/ai-driven-development",
-    "language": "Python",
-    "name": "CodeAlive-AI/ai-driven-development",
-    "stars": 85,
-    "updated_at": "2026-06-17T07:21:43Z",
-    "url": "https://github.com/CodeAlive-AI/ai-driven-development"
-  },
-  {
-    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "id": "dongshuyan/compass-skills",
-    "language": "Python",
-    "name": "dongshuyan/compass-skills",
-    "stars": 220,
-    "updated_at": "2026-06-17T07:21:37Z",
-    "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -115,6 +223,15 @@
     "stars": 19673,
     "updated_at": "2026-06-17T07:24:44Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Practices, protocols, and skills for AI-driven software development. 18 skills + 1 Bash safety hook for Claude Code, Cod",
+    "id": "CodeAlive-AI/ai-driven-development",
+    "language": "Python",
+    "name": "CodeAlive-AI/ai-driven-development",
+    "stars": 85,
+    "updated_at": "2026-06-17T07:21:43Z",
+    "url": "https://github.com/CodeAlive-AI/ai-driven-development"
   },
   {
     "description": "Multi-agent audit master prompts (security, repo, frontend, API, perf, data, infra, AI/LLM, compliance, a11y, docs) + a ",
@@ -144,20 +261,11 @@
     "url": "https://github.com/tercel/prompt-coach"
   },
   {
-    "description": "A rough anti-sappy Codex skill for reframing setbacks with cut-through, reality-check style responses.",
-    "id": "Ann-planning/zhe-shi-ge-hao-shi-er",
-    "language": "\u2014",
-    "name": "Ann-planning/zhe-shi-ge-hao-shi-er",
-    "stars": 0,
-    "updated_at": "2026-06-17T07:11:23Z",
-    "url": "https://github.com/Ann-planning/zhe-shi-ge-hao-shi-er"
-  },
-  {
     "description": "\ud83c\udfac \u77ed\u5267\u5927\u5e08\u2122 v6.2.4 \u2014 \u5fae\u77ed\u5267\u5168\u6d41\u7a0b\u4e00\u4f53\u5316\u521b\u4f5c\u6280\u80fd | \u4e8c\u5341\u4e00\u4f4d\u5927\u5e08\u56db\u519b\u56e2+\u8fdb\u5316\u603b\u7763\u5bdf | \u7814\u7a76\u519b\u56e2\u6848\u4f8b\u9a71\u52a8\u521b\u4f5c | \u8fdb\u5316\u5927\u5e08KPI\u76d1\u7763 | \u4ece\u4e00\u53e5\u8bdd\u521b\u610f\u5230\u5c0f\u4e91\u96c0\u6210\u7247 | Short Drama Master\u2122 \u2014 All-in-",
     "id": "woqianfu/duanju-master",
     "language": "Python",
     "name": "woqianfu/duanju-master",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-17T07:09:34Z",
     "url": "https://github.com/woqianfu/duanju-master"
   },
@@ -194,7 +302,7 @@
     "language": "Python",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-06-17T07:04:10Z",
+    "updated_at": "2026-06-17T07:39:30Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -270,15 +378,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29238,
-    "updated_at": "2026-06-17T06:54:09Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -349,104 +448,5 @@
     "stars": 11,
     "updated_at": "2026-06-17T06:46:50Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
-    "id": "lulin70/carrymem",
-    "language": "Python",
-    "name": "lulin70/carrymem",
-    "stars": 5,
-    "updated_at": "2026-06-17T06:46:45Z",
-    "url": "https://github.com/lulin70/carrymem"
-  },
-  {
-    "description": "Portable, model-neutral writing standard for AI coding agents with generated Claude, Codex, Gemini, and Markdown adapter",
-    "id": "ehukaimedia/high-signal-output",
-    "language": "Python",
-    "name": "ehukaimedia/high-signal-output",
-    "stars": 0,
-    "updated_at": "2026-06-17T07:20:59Z",
-    "url": "https://github.com/ehukaimedia/high-signal-output"
-  },
-  {
-    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 sel",
-    "id": "withkynam/vibecode-pro-max-kit",
-    "language": "JavaScript",
-    "name": "withkynam/vibecode-pro-max-kit",
-    "stars": 908,
-    "updated_at": "2026-06-17T06:44:31Z",
-    "url": "https://github.com/withkynam/vibecode-pro-max-kit"
-  },
-  {
-    "description": "Loop + Goal Agent Skills by Saido Labs: a Plan-Build-Test-Reflect-Improve project cadence (/loop) and an objective-mode ",
-    "id": "Jcapathy/loop-goal-skills",
-    "language": "Python",
-    "name": "Jcapathy/loop-goal-skills",
-    "stars": 1,
-    "updated_at": "2026-06-17T06:43:17Z",
-    "url": "https://github.com/Jcapathy/loop-goal-skills"
-  },
-  {
-    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
-    "id": "VectorPeak/vectorpeak-agent-skills",
-    "language": "Python",
-    "name": "VectorPeak/vectorpeak-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-06-17T06:39:41Z",
-    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
-  },
-  {
-    "description": "\u628a\u958b\u767c\u898f\u7bc4\u5beb\u6210\u6a5f\u5668\u53ef\u8b80\u7684\u7d04\u675f\uff0c\u8b93 Claude \u81ea\u52d5\u9075\u5b88 TDD\u3001ADR\u3001commit \u9598\u9580\u8207\u767c\u5e03\u6aa2\u67e5",
-    "id": "astroicers/AI-SOP-Protocol",
-    "language": "Shell",
-    "name": "astroicers/AI-SOP-Protocol",
-    "stars": 3,
-    "updated_at": "2026-06-17T06:39:02Z",
-    "url": "https://github.com/astroicers/AI-SOP-Protocol"
-  },
-  {
-    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
-    "id": "robertomarchioro/prompt-a-porter",
-    "language": "Rust",
-    "name": "robertomarchioro/prompt-a-porter",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:31:09Z",
-    "url": "https://github.com/robertomarchioro/prompt-a-porter"
-  },
-  {
-    "description": "Prompt optimizer & compiler for Claude Code \u2014 intent mining, genre-aware skeletons, multi-candidate + LLM-judge eval. Te",
-    "id": "Cy4nLiang/claude-code-prompt-architect",
-    "language": "Python",
-    "name": "Cy4nLiang/claude-code-prompt-architect",
-    "stars": 0,
-    "updated_at": "2026-06-17T06:31:02Z",
-    "url": "https://github.com/Cy4nLiang/claude-code-prompt-architect"
-  },
-  {
-    "description": "Open-source AI learning platform featuring structured learning paths, projects, roadmaps, AI tools, challenges, exams, a",
-    "id": "DipakMandlik/AIByDM",
-    "language": "TypeScript",
-    "name": "DipakMandlik/AIByDM",
-    "stars": 1,
-    "updated_at": "2026-06-17T06:28:49Z",
-    "url": "https://github.com/DipakMandlik/AIByDM"
-  },
-  {
-    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
-    "id": "elon-choo/fablever",
-    "language": "JavaScript",
-    "name": "elon-choo/fablever",
-    "stars": 1,
-    "updated_at": "2026-06-17T06:26:50Z",
-    "url": "https://github.com/elon-choo/fablever"
-  },
-  {
-    "description": "Ready Player One - stop prompting; start shipping",
-    "id": "rp1-run/rp1",
-    "language": "TypeScript",
-    "name": "rp1-run/rp1",
-    "stars": 31,
-    "updated_at": "2026-06-17T06:26:16Z",
-    "url": "https://github.com/rp1-run/rp1"
   }
 ]
