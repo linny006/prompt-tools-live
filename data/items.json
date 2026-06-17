@@ -1,12 +1,111 @@
 [
   {
+    "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
+    "id": "kochetkov-ma/claude-brewcode",
+    "language": "MDX",
+    "name": "kochetkov-ma/claude-brewcode",
+    "stars": 27,
+    "updated_at": "2026-06-17T12:29:27Z",
+    "url": "https://github.com/kochetkov-ma/claude-brewcode"
+  },
+  {
+    "description": "Agent\u901a\u7528\u8ba4\u77e5\u670d\u52a1\u6846\u67b6 | \u4e1c\u65b9\u54f2\u5b66\u9a71\u52a8\u7684\u8ba4\u77e5\u5e73\u6743\u65b9\u6cd5\u8bba | 11\u9879\u4e1c\u65b9\u54f2\u5b66\u21927\u73af\u8282Agent\u8ba4\u77e5\u670d\u52a1\u7cfb\u7edf\u5316\u64cd\u4f5c\u6846\u67b6",
+    "id": "garoter-a11y/agent-service-patch",
+    "language": "\u2014",
+    "name": "garoter-a11y/agent-service-patch",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:29:37Z",
+    "url": "https://github.com/garoter-a11y/agent-service-patch"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:28:08Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Codex skill for turning novels, scripts, and story worlds into interactive visual atlases.",
+    "id": "maikeliu86-coder/story-vista",
+    "language": "HTML",
+    "name": "maikeliu86-coder/story-vista",
+    "stars": 1,
+    "updated_at": "2026-06-17T12:28:02Z",
+    "url": "https://github.com/maikeliu86-coder/story-vista"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29263,
+    "updated_at": "2026-06-17T12:27:37Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3308,
+    "updated_at": "2026-06-17T12:26:09Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Switch AIs without re-explaining everything.",
     "id": "spidey889/context-generator",
     "language": "HTML",
     "name": "spidey889/context-generator",
     "stars": 10,
-    "updated_at": "2026-06-17T12:12:41Z",
+    "updated_at": "2026-06-17T12:24:07Z",
     "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "CLAUDE COWORK Governance templates for Claude Cowork \u2014 built from empirical research into long-horizon human-AI collabor",
+    "id": "LivingFramework/LivingFramework.github.io",
+    "language": "HTML",
+    "name": "LivingFramework/LivingFramework.github.io",
+    "stars": 44,
+    "updated_at": "2026-06-17T12:23:48Z",
+    "url": "https://github.com/LivingFramework/LivingFramework.github.io"
+  },
+  {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4213,
+    "updated_at": "2026-06-17T12:18:32Z",
+    "url": "https://github.com/Agenta-AI/agenta"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-17T12:18:01Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T12:15:39Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready tem",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5074,
+    "updated_at": "2026-06-17T12:15:29Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
   },
   {
     "description": "12-week, project-driven Obsidian curriculum: cloud/infra engineer \u2192 AI Agent/LLM engineer. Companion narrative + intervi",
@@ -22,7 +121,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 348,
+    "stars": 349,
     "updated_at": "2026-06-17T12:08:46Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -36,30 +135,12 @@
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29259,
-    "updated_at": "2026-06-17T12:07:40Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "CLAUDE COWORK Governance templates for Claude Cowork \u2014 built from empirical research into long-horizon human-AI collabor",
-    "id": "LivingFramework/LivingFramework.github.io",
-    "language": "HTML",
-    "name": "LivingFramework/LivingFramework.github.io",
-    "stars": 44,
-    "updated_at": "2026-06-17T12:06:25Z",
-    "url": "https://github.com/LivingFramework/LivingFramework.github.io"
-  },
-  {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
     "id": "ekayaprod/jules-agent-roster",
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 2,
-    "updated_at": "2026-06-17T12:04:30Z",
+    "updated_at": "2026-06-17T12:17:47Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -70,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-06-17T12:03:18Z",
     "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T12:00:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
@@ -122,7 +194,7 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 11,
-    "updated_at": "2026-06-17T11:56:14Z",
+    "updated_at": "2026-06-17T12:22:37Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -212,7 +284,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19675,
-    "updated_at": "2026-06-17T12:06:05Z",
+    "updated_at": "2026-06-17T12:19:57Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -229,7 +301,7 @@
     "id": "microsoft/apm",
     "language": "Python",
     "name": "microsoft/apm",
-    "stars": 2911,
+    "stars": 2912,
     "updated_at": "2026-06-17T11:45:04Z",
     "url": "https://github.com/microsoft/apm"
   },
@@ -268,6 +340,15 @@
     "stars": 0,
     "updated_at": "2026-06-17T11:43:17Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "An experimental, tongue-in-cheek development paradigm that uses multi-pass natural language novel scanning as a logical ",
+    "id": "PICAPICAP/NovelCompiler.",
+    "language": "\u2014",
+    "name": "PICAPICAP/NovelCompiler.",
+    "stars": 0,
+    "updated_at": "2026-06-17T11:43:07Z",
+    "url": "https://github.com/PICAPICAP/NovelCompiler."
   },
   {
     "description": "\ud83d\udee0\ufe0f \u6700\u5b9e\u7528\u7684 Claude Code Skills \u5408\u96c6 | \u7cbe\u9009 100+ | 18\u4e2a\u539f\u521b\u53ef\u5b89\u88c5\u6280\u80fd | \u6309\u573a\u666f\u5206\u7c7b | \u590d\u5236\u5373\u88c5",
@@ -342,15 +423,6 @@
     "url": "https://github.com/linxaiolu/prompt-clarifier"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:38:13Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Autonomous AI Story Generator using Gemini API. Multi-axis randomization prevents repetitive plots. / Gemini API\u3092\u6d3b\u7528\u3057\u305f\u3001\u5b8c\u5168",
     "id": "FURUYAN1234/story-maker",
     "language": "JavaScript",
@@ -369,15 +441,6 @@
     "url": "https://github.com/Deepleaper/Code-role"
   },
   {
-    "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
-    "id": "kochetkov-ma/claude-brewcode",
-    "language": "MDX",
-    "name": "kochetkov-ma/claude-brewcode",
-    "stars": 27,
-    "updated_at": "2026-06-17T11:31:01Z",
-    "url": "https://github.com/kochetkov-ma/claude-brewcode"
-  },
-  {
     "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
     "id": "tech-guru254/spec-weaver",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T11:30:20Z",
     "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:30:10Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:28:41Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:28:29Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
-    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "language": "HTML",
-    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:28:28Z",
-    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
-  },
-  {
-    "description": "Open-source AI learning platform featuring structured learning paths, projects, roadmaps, AI tools, challenges, exams, a",
-    "id": "DipakMandlik/AIByDM",
-    "language": "TypeScript",
-    "name": "DipakMandlik/AIByDM",
-    "stars": 1,
-    "updated_at": "2026-06-17T11:27:59Z",
-    "url": "https://github.com/DipakMandlik/AIByDM"
-  },
-  {
-    "description": "Cut Claude's token usage 65\u201375% with one command. Works in Claude.ai, Cowork & Claude Code.",
-    "id": "Rishiidev/spartan-skill",
-    "language": "\u2014",
-    "name": "Rishiidev/spartan-skill",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:27:56Z",
-    "url": "https://github.com/Rishiidev/spartan-skill"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:26:55Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   }
 ]
