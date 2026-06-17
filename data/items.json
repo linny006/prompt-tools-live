@@ -1,21 +1,57 @@
 [
   {
-    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "id": "dongshuyan/compass-skills",
-    "language": "Python",
-    "name": "dongshuyan/compass-skills",
-    "stars": 186,
-    "updated_at": "2026-06-17T00:59:41Z",
-    "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
     "id": "VisionaireLabs/Visionaire",
     "language": "TypeScript",
     "name": "VisionaireLabs/Visionaire",
     "stars": 2,
-    "updated_at": "2026-06-17T00:57:37Z",
+    "updated_at": "2026-06-17T01:14:49Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Real-time prompt + target-language coaching for Claude Code and Codex (a UserPromptSubmit hook).",
+    "id": "tercel/prompt-coach",
+    "language": "Python",
+    "name": "tercel/prompt-coach",
+    "stars": 0,
+    "updated_at": "2026-06-17T01:08:27Z",
+    "url": "https://github.com/tercel/prompt-coach"
+  },
+  {
+    "description": "Shrink LLM context windows 50-80% by removing noise, redundancy, and long-tail detail \u2014 zero-dependency Python pipeline ",
+    "id": "uninhibited-scholar/context-compressor",
+    "language": "Python",
+    "name": "uninhibited-scholar/context-compressor",
+    "stars": 0,
+    "updated_at": "2026-06-17T01:04:11Z",
+    "url": "https://github.com/uninhibited-scholar/context-compressor"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26561,
+    "updated_at": "2026-06-17T01:02:01Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T01:00:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "id": "dongshuyan/compass-skills",
+    "language": "Python",
+    "name": "dongshuyan/compass-skills",
+    "stars": 188,
+    "updated_at": "2026-06-17T00:59:41Z",
+    "url": "https://github.com/dongshuyan/compass-skills"
   },
   {
     "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
@@ -34,15 +70,6 @@
     "stars": 86,
     "updated_at": "2026-06-17T00:50:00Z",
     "url": "https://github.com/vincentkoc/dotskills"
-  },
-  {
-    "description": "Shrink LLM context windows 50-80% by removing noise, redundancy, and long-tail detail \u2014 zero-dependency Python pipeline ",
-    "id": "uninhibited-scholar/context-compressor",
-    "language": "Python",
-    "name": "uninhibited-scholar/context-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-17T00:49:30Z",
-    "url": "https://github.com/uninhibited-scholar/context-compressor"
   },
   {
     "description": "Hand-curated index of 900+ agent skills (repos, cookbooks, MCP servers, case studies) across 49 categories. One YAML fil",
@@ -70,15 +97,6 @@
     "stars": 19,
     "updated_at": "2026-06-17T00:46:39Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T00:45:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A structured knowledge base for large language model technologies, covering LLMs, Agents, RAG, model training, evaluatio",
@@ -139,7 +157,7 @@
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12538,
+    "stars": 12539,
     "updated_at": "2026-06-17T00:31:26Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
@@ -166,7 +184,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 42810,
+    "stars": 42815,
     "updated_at": "2026-06-17T00:30:10Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -256,7 +274,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32111,
+    "stars": 32110,
     "updated_at": "2026-06-17T00:16:45Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -382,7 +400,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 35138,
+    "stars": 35139,
     "updated_at": "2026-06-17T00:04:07Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T23:57:05Z",
     "url": "https://github.com/Wernei/miniguia-estudos-novo-universo-certificacoes-anbima-notebooklm"
-  },
-  {
-    "description": "Two standalone Claude Code skills: an optimizer that finds the highest-leverage move in any context, and an orchestrator",
-    "id": "Veeiy/agent-skills",
-    "language": "\u2014",
-    "name": "Veeiy/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-16T23:56:23Z",
-    "url": "https://github.com/Veeiy/agent-skills"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 760,
-    "updated_at": "2026-06-16T23:54:16Z",
-    "url": "https://github.com/promptdriven/pdd"
   }
 ]
