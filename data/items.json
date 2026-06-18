@@ -1,12 +1,84 @@
 [
   {
+    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
+    "id": "realBoBao/Serena_Auto-Teaching",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_Auto-Teaching",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:30:22Z",
+    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
     "name": "HIDORAKAI002/ai-workspace-archive",
     "stars": 19,
-    "updated_at": "2026-06-18T03:14:29Z",
+    "updated_at": "2026-06-18T03:29:58Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10180,
+    "updated_at": "2026-06-18T03:30:06Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
+    "id": "5uprem4/ai-skill-vault",
+    "language": "HTML",
+    "name": "5uprem4/ai-skill-vault",
+    "stars": 2,
+    "updated_at": "2026-06-18T03:28:03Z",
+    "url": "https://github.com/5uprem4/ai-skill-vault"
+  },
+  {
+    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4420,
+    "updated_at": "2026-06-18T03:26:37Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 4,
+    "updated_at": "2026-06-18T03:25:52Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
+    "id": "T-Stephen/ai-mql-engine",
+    "language": "JavaScript",
+    "name": "T-Stephen/ai-mql-engine",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:18:48Z",
+    "url": "https://github.com/T-Stephen/ai-mql-engine"
+  },
+  {
+    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
+    "id": "archubbuck/workspace-architect",
+    "language": "Python",
+    "name": "archubbuck/workspace-architect",
+    "stars": 15,
+    "updated_at": "2026-06-18T03:16:29Z",
+    "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T03:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
@@ -77,7 +149,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 285,
-    "updated_at": "2026-06-18T03:01:08Z",
+    "updated_at": "2026-06-18T03:18:26Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-06-18T03:00:42Z",
     "url": "https://github.com/shaneliuyx/agent-development-curriculum"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T03:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -117,13 +180,13 @@
     "url": "https://github.com/flexigpt/flexigpt-app"
   },
   {
-    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4420,
-    "updated_at": "2026-06-18T02:57:13Z",
-    "url": "https://github.com/vllm-project/semantic-router"
+    "description": "Spec-driven, agentic workflow framework for AI coding agents. Turn a request into a verifiable goal loop \u2014 plan, act, ve",
+    "id": "clawplays/ospec",
+    "language": "JavaScript",
+    "name": "clawplays/ospec",
+    "stars": 549,
+    "updated_at": "2026-06-18T02:57:41Z",
+    "url": "https://github.com/clawplays/ospec"
   },
   {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
@@ -166,7 +229,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32506,
+    "stars": 32507,
     "updated_at": "2026-06-18T02:50:10Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -216,20 +279,11 @@
     "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
   },
   {
-    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
-    "id": "realBoBao/Serena_Auto-Teaching",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_Auto-Teaching",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:41:09Z",
-    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26589,
+    "stars": 26590,
     "updated_at": "2026-06-18T02:40:34Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -238,12 +292,12 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 7598,
+    "stars": 7599,
     "updated_at": "2026-06-18T02:36:39Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
   {
-    "description": "Simple test prompts for debugging LLMs and LLM context",
+    "description": "Simple test prompts for debugging LLMs and LLM context      ",
     "id": "korpeztv/edge-ai-debugging",
     "language": "\u2014",
     "name": "korpeztv/edge-ai-debugging",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T01:42:55Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:38:25Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:37:05Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "An operating standard for AI work that compounds instead of resets. By Cameron Sutcliff.",
-    "id": "cameronpsutcliff/compound-ai-operating-standards",
-    "language": "HTML",
-    "name": "cameronpsutcliff/compound-ai-operating-standards",
-    "stars": 1,
-    "updated_at": "2026-06-18T01:37:04Z",
-    "url": "https://github.com/cameronpsutcliff/compound-ai-operating-standards"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:36:14Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Persistent memory, BM25 code search, MCP tools, and hook guardrails for AI coding agents \u2014 Claude Code, Codex CLI & Anti",
-    "id": "ezBuilder/code-brain",
-    "language": "Python",
-    "name": "ezBuilder/code-brain",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:36:30Z",
-    "url": "https://github.com/ezBuilder/code-brain"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19683,
-    "updated_at": "2026-06-18T01:33:09Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
