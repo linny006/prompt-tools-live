@@ -1,11 +1,146 @@
 [
   {
+    "description": "Cross-agent toolkit for prompts and coding-agent skills",
+    "id": "sungjunlee/craftkit",
+    "language": "JavaScript",
+    "name": "sungjunlee/craftkit",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:14:47Z",
+    "url": "https://github.com/sungjunlee/craftkit"
+  },
+  {
+    "description": "Privacy-first AI legal document assistant using local LLM, FAISS vector search, and FastAPI",
+    "id": "sarthak654/Ai_Legal_Simplifier",
+    "language": "Python",
+    "name": "sarthak654/Ai_Legal_Simplifier",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:14:08Z",
+    "url": "https://github.com/sarthak654/Ai_Legal_Simplifier"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:14:04Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A curated list of strategies, tools, papers, and resources for reducing LLM token costs and improving efficiency in prod",
+    "id": "pleasedodisturb/awesome-llm-token-optimization",
+    "language": "\u2014",
+    "name": "pleasedodisturb/awesome-llm-token-optimization",
+    "stars": 10,
+    "updated_at": "2026-06-18T13:11:41Z",
+    "url": "https://github.com/pleasedodisturb/awesome-llm-token-optimization"
+  },
+  {
+    "description": "A best practice for universal prompts that comply with the AGENTS.md open specification.",
+    "id": "JularDepick/AGENTS.md-Best-Practices",
+    "language": "\u2014",
+    "name": "JularDepick/AGENTS.md-Best-Practices",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:11:14Z",
+    "url": "https://github.com/JularDepick/AGENTS.md-Best-Practices"
+  },
+  {
+    "description": "A starting point for building custom agentic LLM applications using Open Source tooling and models. Incorporates Ollama,",
+    "id": "jbsoftware-io/gen-ai-starter",
+    "language": "Python",
+    "name": "jbsoftware-io/gen-ai-starter",
+    "stars": 3,
+    "updated_at": "2026-06-18T13:12:40Z",
+    "url": "https://github.com/jbsoftware-io/gen-ai-starter"
+  },
+  {
+    "description": "Legal Prompts Hub \u2014 \u044d\u0442\u043e \u043f\u0435\u0440\u0432\u043e\u0435 \u0440\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u043e\u0435 open source \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e, \u043f\u043e\u0441\u0432\u044f\u0449\u0451\u043d\u043d\u043e\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044e \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u0435\u0439 \u0432 \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u0440\u0430",
+    "id": "appankratova/legal_prompts_hub",
+    "language": "Python",
+    "name": "appankratova/legal_prompts_hub",
+    "stars": 2,
+    "updated_at": "2026-06-18T13:08:06Z",
+    "url": "https://github.com/appankratova/legal_prompts_hub"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "MartiniArt/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "MartiniArt/awesome-seedance-2-prompt",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:05:08Z",
+    "url": "https://github.com/MartiniArt/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 6662,
+    "updated_at": "2026-06-18T13:09:43Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
+    "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
+    "id": "dgenio/contextweaver",
+    "language": "Python",
+    "name": "dgenio/contextweaver",
+    "stars": 8,
+    "updated_at": "2026-06-18T13:04:56Z",
+    "url": "https://github.com/dgenio/contextweaver"
+  },
+  {
+    "description": ".NET 10 Minimal API for benchmarking and evaluating Large Language Models (LLMs) for generation and rewrite tasks, featu",
+    "id": "guizama/LLMBenchmark",
+    "language": "C#",
+    "name": "guizama/LLMBenchmark",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:03:56Z",
+    "url": "https://github.com/guizama/LLMBenchmark"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-18T13:02:24Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12545,
+    "updated_at": "2026-06-18T13:01:53Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 42,
+    "updated_at": "2026-06-18T13:01:12Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-18T13:00:42Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29327,
-    "updated_at": "2026-06-18T12:59:21Z",
+    "stars": 29328,
+    "updated_at": "2026-06-18T13:14:42Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -16,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-06-18T12:57:53Z",
     "url": "https://github.com/rennzhang/oh-my-experience"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:57:38Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Codex CLI meta-reflection layer for Outline-Driven Development. Add-on for the Claude plugin.",
@@ -52,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T12:56:12Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "A starting point for building custom agentic LLM applications using Open Source tooling and models. Incorporates Ollama,",
-    "id": "jbsoftware-io/gen-ai-starter",
-    "language": "Python",
-    "name": "jbsoftware-io/gen-ai-starter",
-    "stars": 3,
-    "updated_at": "2026-06-18T12:56:45Z",
-    "url": "https://github.com/jbsoftware-io/gen-ai-starter"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -115,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T12:47:18Z",
     "url": "https://github.com/SUDARSHANCHAUDHARI/Bonsai"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-18T12:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
@@ -185,24 +293,15 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-18T12:44:03Z",
+    "updated_at": "2026-06-18T13:15:16Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "A curated list of strategies, tools, papers, and resources for reducing LLM token costs and improving efficiency in prod",
-    "id": "pleasedodisturb/awesome-llm-token-optimization",
-    "language": "\u2014",
-    "name": "pleasedodisturb/awesome-llm-token-optimization",
-    "stars": 10,
-    "updated_at": "2026-06-18T12:56:52Z",
-    "url": "https://github.com/pleasedodisturb/awesome-llm-token-optimization"
   },
   {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8706,
+    "stars": 8707,
     "updated_at": "2026-06-18T12:35:15Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -225,6 +324,15 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
+    "description": "\ud83d\uddff FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+    "id": "baskduf/FableCodex",
+    "language": "Python",
+    "name": "baskduf/FableCodex",
+    "stars": 296,
+    "updated_at": "2026-06-18T12:31:06Z",
+    "url": "https://github.com/baskduf/FableCodex"
+  },
+  {
     "description": "Artifact-level imitation for AI-native work",
     "id": "svy04/mimesis-engineering",
     "language": "JavaScript",
@@ -232,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T12:29:47Z",
     "url": "https://github.com/svy04/mimesis-engineering"
-  },
-  {
-    "description": "\ud83d\uddff FableCodex is a Codex-style coding agent workflow that plans like Fable.",
-    "id": "baskduf/FableCodex",
-    "language": "Python",
-    "name": "baskduf/FableCodex",
-    "stars": 294,
-    "updated_at": "2026-06-18T12:31:06Z",
-    "url": "https://github.com/baskduf/FableCodex"
   },
   {
     "description": "Git shows what changed. TreeTrace reconstructs how you steered the agent: local, deterministic eval and regression data ",
@@ -349,104 +448,5 @@
     "stars": 50,
     "updated_at": "2026-06-18T12:20:05Z",
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 1,
-    "updated_at": "2026-06-18T12:20:04Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:19:20Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:18:36Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-18T12:17:25Z",
-    "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "Deterministic few-shot example selection for LLM prompts (TF-IDF/BM25/Jaccard + MMR diversity). Zero deps, no embedding ",
-    "id": "Ayubjon/shotpick",
-    "language": "JavaScript",
-    "name": "Ayubjon/shotpick",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:17:21Z",
-    "url": "https://github.com/Ayubjon/shotpick"
-  },
-  {
-    "description": "An automated job scraping system that fetches job postings from Telegram channels and RSS feeds, analyzes them using loc",
-    "id": "dariank38/agentic-job-scraper",
-    "language": "Python",
-    "name": "dariank38/agentic-job-scraper",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:14:06Z",
-    "url": "https://github.com/dariank38/agentic-job-scraper"
-  },
-  {
-    "description": "Agent skills for working with UClaw.",
-    "id": "uclaw-dev/agent-skills",
-    "language": "\u2014",
-    "name": "uclaw-dev/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-06-18T12:10:02Z",
-    "url": "https://github.com/uclaw-dev/agent-skills"
-  },
-  {
-    "description": "Multi-agent audit master prompts (security, repo, frontend, API, perf, data, infra, AI/LLM, compliance, a11y, docs) + a ",
-    "id": "marcelrapold/auditor",
-    "language": "TypeScript",
-    "name": "marcelrapold/auditor",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:08:32Z",
-    "url": "https://github.com/marcelrapold/auditor"
-  },
-  {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "TypeScript",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 3,
-    "updated_at": "2026-06-18T12:08:37Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
-    "description": "",
-    "id": "Gulzhasm/ai_test_gen",
-    "language": "Python",
-    "name": "Gulzhasm/ai_test_gen",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:05:18Z",
-    "url": "https://github.com/Gulzhasm/ai_test_gen"
-  },
-  {
-    "description": "OpenCode fork for flexible System/Tone prompt control, token-saving pruning, and built-in Codex prompts.",
-    "id": "Krablante/opencodez",
-    "language": "TypeScript",
-    "name": "Krablante/opencodez",
-    "stars": 3,
-    "updated_at": "2026-06-18T12:04:57Z",
-    "url": "https://github.com/Krablante/opencodez"
   }
 ]
