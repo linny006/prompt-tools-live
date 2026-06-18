@@ -1,5 +1,104 @@
 [
   {
+    "description": "Five-stage LLM screening pipeline that evaluates a resume against job descriptions from a Talent Consultant's perspectiv",
+    "id": "ChiefStarKid/resume-assessor",
+    "language": "Python",
+    "name": "ChiefStarKid/resume-assessor",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:45:15Z",
+    "url": "https://github.com/ChiefStarKid/resume-assessor"
+  },
+  {
+    "description": "Claude Code skill for strategic SEO link insertion and editorial outreach \u2014 blue ocean keyword gaps, 9 placement variati",
+    "id": "ChiefStarKid/link-pitch",
+    "language": "\u2014",
+    "name": "ChiefStarKid/link-pitch",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:45:08Z",
+    "url": "https://github.com/ChiefStarKid/link-pitch"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-18T03:45:01Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "21 Lessons, Get Started Building with Generative AI ",
+    "id": "microsoft/generative-ai-for-beginners",
+    "language": "Jupyter Notebook",
+    "name": "microsoft/generative-ai-for-beginners",
+    "stars": 112108,
+    "updated_at": "2026-06-18T03:43:49Z",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
+    "description": "LLM evaluation and observability dashboard for prompt versions, regressions, traces, cost, latency, and human review.",
+    "id": "Daniel5569/llm-evaluation-observability-platform",
+    "language": "TypeScript",
+    "name": "Daniel5569/llm-evaluation-observability-platform",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:43:42Z",
+    "url": "https://github.com/Daniel5569/llm-evaluation-observability-platform"
+  },
+  {
+    "description": "Pluggable, multi-language implementations of SpreadsheetLLM-style SheetCompressor encoding for token-efficient LLM workf",
+    "id": "mythopoeic/sheet-compressor",
+    "language": "TypeScript",
+    "name": "mythopoeic/sheet-compressor",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:43:25Z",
+    "url": "https://github.com/mythopoeic/sheet-compressor"
+  },
+  {
+    "description": "Spec-driven, agentic workflow framework for AI coding agents. Turn a request into a verifiable goal loop \u2014 plan, act, ve",
+    "id": "clawplays/ospec",
+    "language": "JavaScript",
+    "name": "clawplays/ospec",
+    "stars": 549,
+    "updated_at": "2026-06-18T03:41:48Z",
+    "url": "https://github.com/clawplays/ospec"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:39:26Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 12,
+    "updated_at": "2026-06-18T03:35:36Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:35:13Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T03:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
     "id": "realBoBao/Serena_Auto-Teaching",
     "language": "JavaScript",
@@ -9,21 +108,12 @@
     "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
   },
   {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 19,
-    "updated_at": "2026-06-18T03:29:58Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10180,
-    "updated_at": "2026-06-18T03:30:06Z",
+    "updated_at": "2026-06-18T03:43:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -70,15 +160,6 @@
     "stars": 15,
     "updated_at": "2026-06-18T03:16:29Z",
     "url": "https://github.com/archubbuck/workspace-architect"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T03:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
@@ -149,7 +230,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 285,
-    "updated_at": "2026-06-18T03:18:26Z",
+    "updated_at": "2026-06-18T03:32:58Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -178,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-06-18T03:00:06Z",
     "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
-    "description": "Spec-driven, agentic workflow framework for AI coding agents. Turn a request into a verifiable goal loop \u2014 plan, act, ve",
-    "id": "clawplays/ospec",
-    "language": "JavaScript",
-    "name": "clawplays/ospec",
-    "stars": 549,
-    "updated_at": "2026-06-18T02:57:41Z",
-    "url": "https://github.com/clawplays/ospec"
   },
   {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
@@ -229,7 +301,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32507,
+    "stars": 32510,
     "updated_at": "2026-06-18T02:50:10Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -283,7 +355,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26590,
+    "stars": 26591,
     "updated_at": "2026-06-18T02:40:34Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -292,7 +364,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 7599,
+    "stars": 7601,
     "updated_at": "2026-06-18T02:36:39Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -328,7 +400,7 @@
     "id": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
     "language": "Python",
     "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "stars": 16768,
+    "stars": 16771,
     "updated_at": "2026-06-18T02:26:09Z",
     "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T02:07:50Z",
     "url": "https://github.com/dandriscoll/markback"
-  },
-  {
-    "description": "Deterministic context refinement for AI-assisted development. Less noise, safer output, cleaner agent context.",
-    "id": "gogetrekt/bjir",
-    "language": "Rust",
-    "name": "gogetrekt/bjir",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:06:30Z",
-    "url": "https://github.com/gogetrekt/bjir"
-  },
-  {
-    "description": "A beginner-to-expert curriculum of drop-in skills for Claude Code, Codex, and any coding agent. Copy-paste ready, tested",
-    "id": "buildmoonshot/skillpacks",
-    "language": "JavaScript",
-    "name": "buildmoonshot/skillpacks",
-    "stars": 2,
-    "updated_at": "2026-06-18T01:57:56Z",
-    "url": "https://github.com/buildmoonshot/skillpacks"
-  },
-  {
-    "description": "Development workflow plugin for AI coding agents with structured req/plan/dev/review/fix loops and a lightweight quick-d",
-    "id": "KtKID/x-dev-pipeline",
-    "language": "PowerShell",
-    "name": "KtKID/x-dev-pipeline",
-    "stars": 12,
-    "updated_at": "2026-06-18T01:51:55Z",
-    "url": "https://github.com/KtKID/x-dev-pipeline"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:45:39Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:44:51Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:44:38Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
-    "id": "Paulessus/odin-gemini-mcp-bridge",
-    "language": "HTML",
-    "name": "Paulessus/odin-gemini-mcp-bridge",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:43:06Z",
-    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:42:55Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   }
 ]
