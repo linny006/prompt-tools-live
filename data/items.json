@@ -1,21 +1,39 @@
 [
   {
-    "description": "Cross-agent toolkit for prompts and coding-agent skills",
-    "id": "sungjunlee/craftkit",
-    "language": "JavaScript",
-    "name": "sungjunlee/craftkit",
-    "stars": 0,
-    "updated_at": "2026-06-18T13:14:47Z",
-    "url": "https://github.com/sungjunlee/craftkit"
+    "description": "\ud83d\udee0\ufe0f \u6700\u5b9e\u7528\u7684 Claude Code Skills \u5408\u96c6 | \u7cbe\u9009 100+ | 18\u4e2a\u539f\u521b\u53ef\u5b89\u88c5\u6280\u80fd | \u6309\u573a\u666f\u5206\u7c7b | \u590d\u5236\u5373\u88c5",
+    "id": "laolaoshiren/claude-code-skills-zh",
+    "language": "Python",
+    "name": "laolaoshiren/claude-code-skills-zh",
+    "stars": 377,
+    "updated_at": "2026-06-18T13:30:11Z",
+    "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
   },
   {
-    "description": "Privacy-first AI legal document assistant using local LLM, FAISS vector search, and FastAPI",
-    "id": "sarthak654/Ai_Legal_Simplifier",
+    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
+    "id": "AditthyaSS/iloveAgents",
+    "language": "JavaScript",
+    "name": "AditthyaSS/iloveAgents",
+    "stars": 92,
+    "updated_at": "2026-06-18T13:29:10Z",
+    "url": "https://github.com/AditthyaSS/iloveAgents"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 3,
+    "updated_at": "2026-06-18T13:27:57Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Multi-agent LLM pipeline for long-form novel continuation \u00b7 \u591a Agent \u957f\u7bc7\u5c0f\u8bf4\u7eed\u5199\u6d41\u6c34\u7ebf\uff0c19 \u8f6e\u8fed\u4ee3 + \u5168\u7a0b mock-first",
+    "id": "ARMANDSnow/make-ur-Agent-writer",
     "language": "Python",
-    "name": "sarthak654/Ai_Legal_Simplifier",
-    "stars": 0,
-    "updated_at": "2026-06-18T13:14:08Z",
-    "url": "https://github.com/sarthak654/Ai_Legal_Simplifier"
+    "name": "ARMANDSnow/make-ur-Agent-writer",
+    "stars": 13,
+    "updated_at": "2026-06-18T13:27:28Z",
+    "url": "https://github.com/ARMANDSnow/make-ur-Agent-writer"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -23,8 +41,125 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-18T13:14:04Z",
+    "updated_at": "2026-06-18T13:24:50Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 11,
+    "updated_at": "2026-06-18T13:24:02Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 1,
+    "updated_at": "2026-06-18T13:23:14Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Give any model Mythos-class operational discipline: planning loops, executed verification, and persistent memory via a d",
+    "id": "aihxp/mythify",
+    "language": "JavaScript",
+    "name": "aihxp/mythify",
+    "stars": 1,
+    "updated_at": "2026-06-18T13:24:42Z",
+    "url": "https://github.com/aihxp/mythify"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-06-18T13:27:48Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "A starting point for building custom agentic LLM applications using Open Source tooling and models. Incorporates Ollama,",
+    "id": "jbsoftware-io/gen-ai-starter",
+    "language": "Python",
+    "name": "jbsoftware-io/gen-ai-starter",
+    "stars": 3,
+    "updated_at": "2026-06-18T13:30:29Z",
+    "url": "https://github.com/jbsoftware-io/gen-ai-starter"
+  },
+  {
+    "description": "Curated catalog of portable Agent Skills for Claude Code, OpenAI Codex, and opencode \u2014 an opinionated product\u2192build pipe",
+    "id": "gabriel-f-santos/coding-agents",
+    "language": "TypeScript",
+    "name": "gabriel-f-santos/coding-agents",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:20:36Z",
+    "url": "https://github.com/gabriel-f-santos/coding-agents"
+  },
+  {
+    "description": "CEO decision-support skill for AI agents: strategy, trade-offs, debiasing, stakeholder mapping, and war gaming",
+    "id": "AIPMAndy/CEOskill",
+    "language": "Python",
+    "name": "AIPMAndy/CEOskill",
+    "stars": 15,
+    "updated_at": "2026-06-18T13:18:42Z",
+    "url": "https://github.com/AIPMAndy/CEOskill"
+  },
+  {
+    "description": "Agent skills for working with UClaw.",
+    "id": "uclaw-dev/agent-skills",
+    "language": "\u2014",
+    "name": "uclaw-dev/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-06-18T13:18:10Z",
+    "url": "https://github.com/uclaw-dev/agent-skills"
+  },
+  {
+    "description": "Fast Rust repo map for AI coding agents: token-budgeted signatures, imports, diff, and MCP.",
+    "id": "fkenmar/atlas",
+    "language": "Rust",
+    "name": "fkenmar/atlas",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:17:37Z",
+    "url": "https://github.com/fkenmar/atlas"
+  },
+  {
+    "description": "Privacy-first AI legal document assistant using local LLM, FAISS vector search, and FastAPI",
+    "id": "sarthak654/Ai_Legal_Simplifier",
+    "language": "Python",
+    "name": "sarthak654/Ai_Legal_Simplifier",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:16:20Z",
+    "url": "https://github.com/sarthak654/Ai_Legal_Simplifier"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-18T13:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3309,
+    "updated_at": "2026-06-18T13:29:51Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Cross-agent toolkit for prompts and coding-agent skills",
+    "id": "sungjunlee/craftkit",
+    "language": "JavaScript",
+    "name": "sungjunlee/craftkit",
+    "stars": 0,
+    "updated_at": "2026-06-18T13:14:47Z",
+    "url": "https://github.com/sungjunlee/craftkit"
   },
   {
     "description": "A curated list of strategies, tools, papers, and resources for reducing LLM token costs and improving efficiency in prod",
@@ -43,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T13:11:14Z",
     "url": "https://github.com/JularDepick/AGENTS.md-Best-Practices"
-  },
-  {
-    "description": "A starting point for building custom agentic LLM applications using Open Source tooling and models. Incorporates Ollama,",
-    "id": "jbsoftware-io/gen-ai-starter",
-    "language": "Python",
-    "name": "jbsoftware-io/gen-ai-starter",
-    "stars": 3,
-    "updated_at": "2026-06-18T13:12:40Z",
-    "url": "https://github.com/jbsoftware-io/gen-ai-starter"
   },
   {
     "description": "Legal Prompts Hub \u2014 \u044d\u0442\u043e \u043f\u0435\u0440\u0432\u043e\u0435 \u0440\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u043e\u0435 open source \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e, \u043f\u043e\u0441\u0432\u044f\u0449\u0451\u043d\u043d\u043e\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044e \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u0435\u0439 \u0432 \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u0440\u0430",
@@ -77,7 +203,7 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 6662,
-    "updated_at": "2026-06-18T13:09:43Z",
+    "updated_at": "2026-06-18T13:24:51Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -88,6 +214,15 @@
     "stars": 8,
     "updated_at": "2026-06-18T13:04:56Z",
     "url": "https://github.com/dgenio/contextweaver"
+  },
+  {
+    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4433,
+    "updated_at": "2026-06-18T13:04:17Z",
+    "url": "https://github.com/vllm-project/semantic-router"
   },
   {
     "description": ".NET 10 Minimal API for benchmarking and evaluating Large Language Models (LLMs) for generation and rewrite tasks, featu",
@@ -126,21 +261,12 @@
     "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-18T13:00:42Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29328,
-    "updated_at": "2026-06-18T13:14:42Z",
+    "updated_at": "2026-06-18T13:25:57Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -288,15 +414,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3309,
-    "updated_at": "2026-06-18T13:15:16Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
     "id": "EvoMap/evolver",
     "language": "JavaScript",
@@ -331,122 +448,5 @@
     "stars": 296,
     "updated_at": "2026-06-18T12:31:06Z",
     "url": "https://github.com/baskduf/FableCodex"
-  },
-  {
-    "description": "Artifact-level imitation for AI-native work",
-    "id": "svy04/mimesis-engineering",
-    "language": "JavaScript",
-    "name": "svy04/mimesis-engineering",
-    "stars": 1,
-    "updated_at": "2026-06-18T12:29:47Z",
-    "url": "https://github.com/svy04/mimesis-engineering"
-  },
-  {
-    "description": "Git shows what changed. TreeTrace reconstructs how you steered the agent: local, deterministic eval and regression data ",
-    "id": "TreeTraceTool/TreeTrace",
-    "language": "JavaScript",
-    "name": "TreeTraceTool/TreeTrace",
-    "stars": 3,
-    "updated_at": "2026-06-18T12:29:44Z",
-    "url": "https://github.com/TreeTraceTool/TreeTrace"
-  },
-  {
-    "description": "AI-powered nutrition intelligence platform built with Django, Prompt Engineering, RAG, OCR and multi-provider AI orchest",
-    "id": "beatriangu/NutriPrompt",
-    "language": "Python",
-    "name": "beatriangu/NutriPrompt",
-    "stars": 1,
-    "updated_at": "2026-06-18T12:27:36Z",
-    "url": "https://github.com/beatriangu/NutriPrompt"
-  },
-  {
-    "description": "A comprehensive collection of projects, examples, and notes demonstrating AI application development with Next.js-15 and",
-    "id": "itsyashbisht/nextjs-ai-app",
-    "language": "TypeScript",
-    "name": "itsyashbisht/nextjs-ai-app",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:27:30Z",
-    "url": "https://github.com/itsyashbisht/nextjs-ai-app"
-  },
-  {
-    "description": "Catalog and free tools for Claudette Agent digital products: handoff, eval, and agent-commerce kits.",
-    "id": "claudette-agent/claudette-agent.github.io",
-    "language": "HTML",
-    "name": "claudette-agent/claudette-agent.github.io",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:27:17Z",
-    "url": "https://github.com/claudette-agent/claudette-agent.github.io"
-  },
-  {
-    "description": "\ud83d\ude80 A structured collection of AI prompts for career growth, resume building, LinkedIn branding, and productivity..",
-    "id": "Shourya-wtf/AI-Prompt-Engineering-Toolkit",
-    "language": "\u2014",
-    "name": "Shourya-wtf/AI-Prompt-Engineering-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-06-18T12:25:31Z",
-    "url": "https://github.com/Shourya-wtf/AI-Prompt-Engineering-Toolkit"
-  },
-  {
-    "description": "Give Claude Code a direction, not a finish line \u2014 an autonomous loop that researches, escalates, and rebuilds round afte",
-    "id": "yusenthebot/EvolvingLoop",
-    "language": "Shell",
-    "name": "yusenthebot/EvolvingLoop",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:24:35Z",
-    "url": "https://github.com/yusenthebot/EvolvingLoop"
-  },
-  {
-    "description": "Open-source Xiaohongshu carousel planning and visual prompt creation studio.",
-    "id": "zeze20231224/xhs-visual-studio",
-    "language": "JavaScript",
-    "name": "zeze20231224/xhs-visual-studio",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:23:44Z",
-    "url": "https://github.com/zeze20231224/xhs-visual-studio"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:23:21Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-18T12:22:02Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26601,
-    "updated_at": "2026-06-18T12:21:08Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 2,
-    "updated_at": "2026-06-18T12:20:37Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-06-18T12:20:05Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   }
 ]
