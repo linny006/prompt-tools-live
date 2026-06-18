@@ -1,5 +1,104 @@
 [
   {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-18T03:14:29Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Shell",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-06-18T03:13:37Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 53,
+    "updated_at": "2026-06-18T03:09:25Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "\ud83d\udcdd AI academic paper writing agent for Claude Code \u2014 6 agents, 5 templates, APA/IEEE/GB7714",
+    "id": "WuSuBuDuoMing/paper-writer",
+    "language": "JavaScript",
+    "name": "WuSuBuDuoMing/paper-writer",
+    "stars": 1,
+    "updated_at": "2026-06-18T03:09:19Z",
+    "url": "https://github.com/WuSuBuDuoMing/paper-writer"
+  },
+  {
+    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
+    "id": "VectorPeak/vectorpeak-agent-skills",
+    "language": "Python",
+    "name": "VectorPeak/vectorpeak-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-06-18T03:06:22Z",
+    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
+  },
+  {
+    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
+    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "language": "HTML",
+    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:03:06Z",
+    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
+  },
+  {
+    "description": "AI engineering learning notes \u2014 Claude Code 6-layer architecture, LangChain, RAG, and hands-on projects",
+    "id": "zengtianli/learn",
+    "language": "\u2014",
+    "name": "zengtianli/learn",
+    "stars": 1,
+    "updated_at": "2026-06-18T03:01:24Z",
+    "url": "https://github.com/zengtianli/learn"
+  },
+  {
+    "description": "How to use GPT Image 2 for e-commerce: a prompt cookbook for listing photos, model try-on, product showcases, interactio",
+    "id": "EvoLinkAI/gpt-image-2-for-e-commerce",
+    "language": "\u2014",
+    "name": "EvoLinkAI/gpt-image-2-for-e-commerce",
+    "stars": 27,
+    "updated_at": "2026-06-18T03:01:17Z",
+    "url": "https://github.com/EvoLinkAI/gpt-image-2-for-e-commerce"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 285,
+    "updated_at": "2026-06-18T03:01:08Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "12-week, project-driven Obsidian curriculum: cloud/infra engineer \u2192 AI Agent/LLM engineer. Companion narrative + intervi",
+    "id": "shaneliuyx/agent-development-curriculum",
+    "language": "Python",
+    "name": "shaneliuyx/agent-development-curriculum",
+    "stars": 3,
+    "updated_at": "2026-06-18T03:00:42Z",
+    "url": "https://github.com/shaneliuyx/agent-development-curriculum"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T03:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
     "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
     "language": "HTML",
@@ -63,20 +162,11 @@
     "url": "https://github.com/sauravbhattacharya001/agentlens"
   },
   {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:52:30Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
-  },
-  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32502,
+    "stars": 32506,
     "updated_at": "2026-06-18T02:50:10Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -106,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T02:45:32Z",
     "url": "https://github.com/tianmind-studio/expert-review-panel"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T02:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Rules and anti-patterns for preventing fake completion in AI coding agents.",
@@ -148,7 +229,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 26588,
+    "stars": 26589,
     "updated_at": "2026-06-18T02:40:34Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -216,15 +297,6 @@
     "url": "https://github.com/DareDev256/Ultimate-Image-Video-Prompt-Generator"
   },
   {
-    "description": "AI engineering learning notes \u2014 Claude Code 6-layer architecture, LangChain, RAG, and hands-on projects",
-    "id": "zengtianli/learn",
-    "language": "\u2014",
-    "name": "zengtianli/learn",
-    "stars": 1,
-    "updated_at": "2026-06-18T02:16:42Z",
-    "url": "https://github.com/zengtianli/learn"
-  },
-  {
     "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
     "id": "elon-choo/fablever",
     "language": "JavaScript",
@@ -268,24 +340,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T01:57:56Z",
     "url": "https://github.com/buildmoonshot/skillpacks"
-  },
-  {
-    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
-    "id": "VectorPeak/vectorpeak-agent-skills",
-    "language": "Python",
-    "name": "VectorPeak/vectorpeak-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-06-18T01:54:09Z",
-    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 285,
-    "updated_at": "2026-06-18T02:39:01Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
     "description": "Development workflow plugin for AI coding agents with structured req/plan/dev/review/fix loops and a lightweight quick-d",
@@ -394,59 +448,5 @@
     "stars": 19683,
     "updated_at": "2026-06-18T01:33:09Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-18T01:31:12Z",
-    "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "\u8bf4\u4eba\u8bdd\uff5c\u4e2d\u6587\u4f18\u5148\u7684\u53bb AI \u5473\u6539\u5199 skill\uff1a\u4fdd\u4e8b\u5b9e\u3001\u5206\u573a\u666f\u3001\u6539\u5b8c\u53ef\u76f4\u63a5\u53d1\u3002Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT \u2014 removes ",
-    "id": "MrGeDiao/shuorenhua",
-    "language": "\u2014",
-    "name": "MrGeDiao/shuorenhua",
-    "stars": 410,
-    "updated_at": "2026-06-18T01:30:59Z",
-    "url": "https://github.com/MrGeDiao/shuorenhua"
-  },
-  {
-    "description": "CASSIA: A Multi-Agent LLM-Based Single-Cell Cell Type Annotation Framework",
-    "id": "ElliotXie/CASSIA",
-    "language": "Python",
-    "name": "ElliotXie/CASSIA",
-    "stars": 96,
-    "updated_at": "2026-06-18T01:29:35Z",
-    "url": "https://github.com/ElliotXie/CASSIA"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "Python",
-    "name": "github/awesome-copilot",
-    "stars": 35198,
-    "updated_at": "2026-06-18T01:28:34Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10180,
-    "updated_at": "2026-06-18T02:57:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "a pattern library for routing work between AI peers",
-    "id": "wisehash-llc/dispatch-protocol",
-    "language": "\u2014",
-    "name": "wisehash-llc/dispatch-protocol",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:19:15Z",
-    "url": "https://github.com/wisehash-llc/dispatch-protocol"
   }
 ]
