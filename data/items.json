@@ -1,5 +1,68 @@
 [
   {
+    "description": "A test runner for prompts. Score them and fail the PR when one regresses \u2014 CLI + GitHub Action.",
+    "id": "bluesky-tech-inc/mowa-eval",
+    "language": "TypeScript",
+    "name": "bluesky-tech-inc/mowa-eval",
+    "stars": 1,
+    "updated_at": "2026-06-17T23:58:48Z",
+    "url": "https://github.com/bluesky-tech-inc/mowa-eval"
+  },
+  {
+    "description": "AI dan Claude Code untuk Praktik Game Design \u2014 Indonesian edition of the Korean original (CC BY-NC-SA 4.0, original ISBN",
+    "id": "eremes81/game-design-ai-practice-id",
+    "language": "\u2014",
+    "name": "eremes81/game-design-ai-practice-id",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:57:47Z",
+    "url": "https://github.com/eremes81/game-design-ai-practice-id"
+  },
+  {
+    "description": "AI \u00b7 Claude Code \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e07\u0e32\u0e19\u0e2d\u0e2d\u0e01\u0e41\u0e1a\u0e1a\u0e40\u0e01\u0e21\u0e43\u0e19\u0e17\u0e32\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34 \u2014 Thai edition of the Korean original (CC BY-NC-SA 4.0, original ISBN 97",
+    "id": "eremes81/game-design-ai-practice-th",
+    "language": "\u2014",
+    "name": "eremes81/game-design-ai-practice-th",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:57:41Z",
+    "url": "https://github.com/eremes81/game-design-ai-practice-th"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:57:37Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:55:51Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "ShadowQuill is a privacy\u2011first, offline and free prompt engineering/generation app powered by self-hosted local LLMs",
+    "id": "shadowquillapp/shadowquillapp",
+    "language": "TypeScript",
+    "name": "shadowquillapp/shadowquillapp",
+    "stars": 27,
+    "updated_at": "2026-06-17T23:55:32Z",
+    "url": "https://github.com/shadowquillapp/shadowquillapp"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-17T23:53:53Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI engineering learning notes \u2014 Claude Code 6-layer architecture, LangChain, RAG, and hands-on projects",
     "id": "zengtianli/learn",
     "language": "\u2014",
@@ -18,15 +81,6 @@
     "url": "https://github.com/korpeztv/edge-ai-debugging"
   },
   {
-    "description": "A test runner for prompts. Score them and fail the PR when one regresses \u2014 CLI + GitHub Action.",
-    "id": "bluesky-tech-inc/mowa-eval",
-    "language": "TypeScript",
-    "name": "bluesky-tech-inc/mowa-eval",
-    "stars": 1,
-    "updated_at": "2026-06-17T23:47:44Z",
-    "url": "https://github.com/bluesky-tech-inc/mowa-eval"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 10179,
     "updated_at": "2026-06-17T23:46:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-17T23:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -279,13 +324,13 @@
     "url": "https://github.com/minirr890112-byte/HermesMade"
   },
   {
-    "description": "AI dan Claude Code untuk Praktik Game Design \u2014 Indonesian edition of the Korean original (CC BY-NC-SA 4.0, original ISBN",
-    "id": "eremes81/game-design-ai-practice-id",
-    "language": "\u2014",
-    "name": "eremes81/game-design-ai-practice-id",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:09:30Z",
-    "url": "https://github.com/eremes81/game-design-ai-practice-id"
+    "description": "LLM prompt engineering CLI with local/remote providers, feedback, datasets, evaluation and fine-tuning workflow.",
+    "id": "REDSEC90/prompt-generator",
+    "language": "TypeScript",
+    "name": "REDSEC90/prompt-generator",
+    "stars": 1,
+    "updated_at": "2026-06-17T23:09:06Z",
+    "url": "https://github.com/REDSEC90/prompt-generator"
   },
   {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
@@ -295,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T23:08:53Z",
     "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "AI \u00b7 Claude Code \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e07\u0e32\u0e19\u0e2d\u0e2d\u0e01\u0e41\u0e1a\u0e1a\u0e40\u0e01\u0e21\u0e43\u0e19\u0e17\u0e32\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34 \u2014 Thai edition of the Korean original (CC BY-NC-SA 4.0, original ISBN 97",
-    "id": "eremes81/game-design-ai-practice-th",
-    "language": "\u2014",
-    "name": "eremes81/game-design-ai-practice-th",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:07:53Z",
-    "url": "https://github.com/eremes81/game-design-ai-practice-th"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T22:55:11Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:54:30Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:53:46Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Rails Engine with MCP compliant Spec.",
-    "id": "seuros/action_mcp",
-    "language": "Ruby",
-    "name": "seuros/action_mcp",
-    "stars": 115,
-    "updated_at": "2026-06-17T22:49:05Z",
-    "url": "https://github.com/seuros/action_mcp"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:42:03Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   }
 ]
