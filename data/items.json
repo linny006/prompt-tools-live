@@ -1,5 +1,59 @@
 [
   {
+    "description": "CASSIA: A Multi-Agent LLM-Based Single-Cell Cell Type Annotation Framework",
+    "id": "ElliotXie/CASSIA",
+    "language": "Python",
+    "name": "ElliotXie/CASSIA",
+    "stars": 96,
+    "updated_at": "2026-06-18T01:29:35Z",
+    "url": "https://github.com/ElliotXie/CASSIA"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 35195,
+    "updated_at": "2026-06-18T01:28:34Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
+    "id": "mobcat40/ComfyUI-PromptChain",
+    "language": "Python",
+    "name": "mobcat40/ComfyUI-PromptChain",
+    "stars": 9,
+    "updated_at": "2026-06-18T01:26:09Z",
+    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
+  },
+  {
+    "description": "You ship with AI. Now sell with it. Enterprise sales methodology for the AI era \u2014 refined inside AWS. Free Claude skill,",
+    "id": "vonarmen-wq/forward-deployed-selling",
+    "language": "\u2014",
+    "name": "vonarmen-wq/forward-deployed-selling",
+    "stars": 65,
+    "updated_at": "2026-06-18T01:25:58Z",
+    "url": "https://github.com/vonarmen-wq/forward-deployed-selling"
+  },
+  {
+    "description": "a pattern library for routing work between AI peers",
+    "id": "wisehash-llc/dispatch-protocol",
+    "language": "\u2014",
+    "name": "wisehash-llc/dispatch-protocol",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:19:15Z",
+    "url": "https://github.com/wisehash-llc/dispatch-protocol"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T01:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Simple test prompts for debugging LLMs and LLM context",
     "id": "korpeztv/edge-ai-debugging",
     "language": "\u2014",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "Ohswedd/vincio",
     "stars": 1,
-    "updated_at": "2026-06-18T01:13:36Z",
+    "updated_at": "2026-06-18T01:29:36Z",
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
@@ -81,20 +135,11 @@
     "url": "https://github.com/john-data-chen/next-dnd-starter-kit"
   },
   {
-    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
-    "id": "mobcat40/ComfyUI-PromptChain",
-    "language": "Python",
-    "name": "mobcat40/ComfyUI-PromptChain",
-    "stars": 9,
-    "updated_at": "2026-06-18T01:04:53Z",
-    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
-  },
-  {
     "description": "\ud83c\udfad 216 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 17 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 18 \u4e2a\u90e8\u95e8\u3002\u542b 50 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
     "id": "jnMetaCode/agency-agents-zh",
     "language": "Shell",
     "name": "jnMetaCode/agency-agents-zh",
-    "stars": 15146,
+    "stars": 15147,
     "updated_at": "2026-06-18T01:03:19Z",
     "url": "https://github.com/jnMetaCode/agency-agents-zh"
   },
@@ -115,24 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T01:02:42Z",
     "url": "https://github.com/MCamner/atlas-one"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "Python",
-    "name": "github/awesome-copilot",
-    "stars": 35195,
-    "updated_at": "2026-06-18T01:00:40Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T01:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice along",
@@ -274,7 +301,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 43123,
+    "stars": 43125,
     "updated_at": "2026-06-18T00:31:15Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T23:57:47Z",
     "url": "https://github.com/eremes81/game-design-ai-practice-id"
-  },
-  {
-    "description": "AI \u00b7 Claude Code \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e07\u0e32\u0e19\u0e2d\u0e2d\u0e01\u0e41\u0e1a\u0e1a\u0e40\u0e01\u0e21\u0e43\u0e19\u0e17\u0e32\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34 \u2014 Thai edition of the Korean original (CC BY-NC-SA 4.0, original ISBN 97",
-    "id": "eremes81/game-design-ai-practice-th",
-    "language": "\u2014",
-    "name": "eremes81/game-design-ai-practice-th",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:57:41Z",
-    "url": "https://github.com/eremes81/game-design-ai-practice-th"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:57:37Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:55:51Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   }
 ]
