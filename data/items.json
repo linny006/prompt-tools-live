@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83c\udf19 Your codebase just hired a night shift \u2014 a full AI engineering team that plans, builds, tests, reviews, and releases t",
-    "id": "whimzyLive/nightshift-ai",
-    "language": "Shell",
-    "name": "whimzyLive/nightshift-ai",
-    "stars": 3,
-    "updated_at": "2026-06-18T14:25:01Z",
-    "url": "https://github.com/whimzyLive/nightshift-ai"
+    "description": "Comprehensive INT428 AI Essentials exam preparation platform for LPU students featuring notes, MCQs, flashcards, mock te",
+    "id": "Pravesh0005/INT-428-EXAM-PREP-WEBSITE",
+    "language": "HTML",
+    "name": "Pravesh0005/INT-428-EXAM-PREP-WEBSITE",
+    "stars": 1,
+    "updated_at": "2026-06-18T14:30:05Z",
+    "url": "https://github.com/Pravesh0005/INT-428-EXAM-PREP-WEBSITE"
   },
   {
     "description": "The control plane for AI prompts. Score, enforce policy, lock config, and audit every prompt \u2014 before it reaches any LLM",
@@ -14,8 +14,62 @@
     "language": "TypeScript",
     "name": "rishi-banerjee1/prompt-control-plane",
     "stars": 2,
-    "updated_at": "2026-06-18T14:24:02Z",
+    "updated_at": "2026-06-18T14:28:46Z",
     "url": "https://github.com/rishi-banerjee1/prompt-control-plane"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:28:20Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
+    "id": "netopsengineer/axiom",
+    "language": "Shell",
+    "name": "netopsengineer/axiom",
+    "stars": 1,
+    "updated_at": "2026-06-18T14:27:55Z",
+    "url": "https://github.com/netopsengineer/axiom"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-18T14:26:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:25:55Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
+    "id": "elon-choo/fablever",
+    "language": "JavaScript",
+    "name": "elon-choo/fablever",
+    "stars": 19,
+    "updated_at": "2026-06-18T14:25:43Z",
+    "url": "https://github.com/elon-choo/fablever"
+  },
+  {
+    "description": "\ud83c\udf19 Your codebase just hired a night shift \u2014 a full AI engineering team that plans, builds, tests, reviews, and releases t",
+    "id": "whimzyLive/nightshift-ai",
+    "language": "Shell",
+    "name": "whimzyLive/nightshift-ai",
+    "stars": 3,
+    "updated_at": "2026-06-18T14:27:31Z",
+    "url": "https://github.com/whimzyLive/nightshift-ai"
   },
   {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 3924,
-    "updated_at": "2026-06-18T14:23:30Z",
+    "updated_at": "2026-06-18T14:29:58Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -49,7 +103,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 34864,
+    "stars": 34884,
     "updated_at": "2026-06-18T14:20:37Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -61,15 +115,6 @@
     "stars": 11,
     "updated_at": "2026-06-18T14:20:06Z",
     "url": "https://github.com/hungv47/meta-skills"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:19:28Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29330,
-    "updated_at": "2026-06-18T14:17:27Z",
+    "updated_at": "2026-06-18T14:28:17Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T14:16:09Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-18T14:15:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -247,7 +283,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 32757,
+    "stars": 32762,
     "updated_at": "2026-06-18T14:02:22Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -369,15 +405,6 @@
     "url": "https://github.com/ngocsangyem/MeowKit"
   },
   {
-    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
-    "id": "elon-choo/fablever",
-    "language": "JavaScript",
-    "name": "elon-choo/fablever",
-    "stars": 19,
-    "updated_at": "2026-06-18T14:25:43Z",
-    "url": "https://github.com/elon-choo/fablever"
-  },
-  {
     "description": "Privacy-first AI legal document assistant using local LLM, FAISS vector search, and FastAPI",
     "id": "sarthak654/Ai_Legal_Simplifier",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 7692,
     "updated_at": "2026-06-18T13:49:26Z",
     "url": "https://github.com/freestylefly/awesome-gpt-image-2"
-  },
-  {
-    "description": "Curated catalog of portable Agent Skills for Claude Code, OpenAI Codex, and opencode \u2014 an opinionated product\u2192build pipe",
-    "id": "gabriel-f-santos/coding-agents",
-    "language": "TypeScript",
-    "name": "gabriel-f-santos/coding-agents",
-    "stars": 0,
-    "updated_at": "2026-06-18T13:48:44Z",
-    "url": "https://github.com/gabriel-f-santos/coding-agents"
-  },
-  {
-    "description": "Codex CLI meta-reflection layer for Outline-Driven Development. Add-on for the Claude plugin.",
-    "id": "OutlineDriven/odin-reflector",
-    "language": "TypeScript",
-    "name": "OutlineDriven/odin-reflector",
-    "stars": 4,
-    "updated_at": "2026-06-18T13:46:40Z",
-    "url": "https://github.com/OutlineDriven/odin-reflector"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f \u6700\u5b9e\u7528\u7684 Claude Code Skills \u5408\u96c6 | \u7cbe\u9009 100+ | 18\u4e2a\u539f\u521b\u53ef\u5b89\u88c5\u6280\u80fd | \u6309\u573a\u666f\u5206\u7c7b | \u590d\u5236\u5373\u88c5",
-    "id": "laolaoshiren/claude-code-skills-zh",
-    "language": "Python",
-    "name": "laolaoshiren/claude-code-skills-zh",
-    "stars": 377,
-    "updated_at": "2026-06-18T13:46:17Z",
-    "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
   }
 ]
