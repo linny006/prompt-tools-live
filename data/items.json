@@ -1,5 +1,86 @@
 [
   {
+    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
+    "id": "realBoBao/Serena_Auto-Teaching",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_Auto-Teaching",
+    "stars": 0,
+    "updated_at": "2026-06-18T04:29:52Z",
+    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 285,
+    "updated_at": "2026-06-18T04:29:23Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
+    "id": "Leo-maomao/pm-copilot",
+    "language": "Python",
+    "name": "Leo-maomao/pm-copilot",
+    "stars": 1,
+    "updated_at": "2026-06-18T04:29:01Z",
+    "url": "https://github.com/Leo-maomao/pm-copilot"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 31849,
+    "updated_at": "2026-06-18T04:28:23Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4421,
+    "updated_at": "2026-06-18T04:26:16Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1380,
+    "updated_at": "2026-06-18T04:26:02Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "A tool that compiles messy natural language prompts into a structured intermediate representation (IR) and optionally se",
+    "id": "madara88645/Compiler",
+    "language": "Python",
+    "name": "madara88645/Compiler",
+    "stars": 25,
+    "updated_at": "2026-06-18T04:23:28Z",
+    "url": "https://github.com/madara88645/Compiler"
+  },
+  {
+    "description": "GPT-Image-2 API and Prompts",
+    "id": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "language": "Python",
+    "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "stars": 16771,
+    "updated_at": "2026-06-18T04:19:50Z",
+    "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T04:15:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Catalog and free tools for Claudette Agent digital products: handoff, eval, and agent-commerce kits.",
     "id": "claudette-agent/claudette-agent.github.io",
     "language": "HTML",
@@ -144,15 +225,6 @@
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
   },
   {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 285,
-    "updated_at": "2026-06-18T04:10:01Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
     "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
     "id": "Asir11/langgraph-agentic-workflows-tutorial",
     "language": "HTML",
@@ -180,21 +252,12 @@
     "url": "https://github.com/ralphmoran/ticket-lens"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T04:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10180,
-    "updated_at": "2026-06-18T04:05:09Z",
+    "updated_at": "2026-06-18T04:18:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -259,15 +322,6 @@
     "stars": 53,
     "updated_at": "2026-06-18T03:53:27Z",
     "url": "https://github.com/simota/agent-skills"
-  },
-  {
-    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
-    "id": "realBoBao/Serena_Auto-Teaching",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_Auto-Teaching",
-    "stars": 0,
-    "updated_at": "2026-06-18T03:53:24Z",
-    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
   },
   {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
@@ -360,15 +414,6 @@
     "url": "https://github.com/5uprem4/ai-skill-vault"
   },
   {
-    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4421,
-    "updated_at": "2026-06-18T03:26:37Z",
-    "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
     "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
     "id": "crisnahine/chameleon",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T03:13:37Z",
     "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "\ud83d\udcdd AI academic paper writing agent for Claude Code \u2014 6 agents, 5 templates, APA/IEEE/GB7714",
-    "id": "WuSuBuDuoMing/paper-writer",
-    "language": "JavaScript",
-    "name": "WuSuBuDuoMing/paper-writer",
-    "stars": 1,
-    "updated_at": "2026-06-18T03:09:19Z",
-    "url": "https://github.com/WuSuBuDuoMing/paper-writer"
-  },
-  {
-    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
-    "id": "VectorPeak/vectorpeak-agent-skills",
-    "language": "Python",
-    "name": "VectorPeak/vectorpeak-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-06-18T03:06:22Z",
-    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
-  },
-  {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-18T03:03:06Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
-  },
-  {
-    "description": "AI engineering learning notes \u2014 Claude Code 6-layer architecture, LangChain, RAG, and hands-on projects",
-    "id": "zengtianli/learn",
-    "language": "\u2014",
-    "name": "zengtianli/learn",
-    "stars": 1,
-    "updated_at": "2026-06-18T03:01:24Z",
-    "url": "https://github.com/zengtianli/learn"
-  },
-  {
-    "description": "How to use GPT Image 2 for e-commerce: a prompt cookbook for listing photos, model try-on, product showcases, interactio",
-    "id": "EvoLinkAI/gpt-image-2-for-e-commerce",
-    "language": "\u2014",
-    "name": "EvoLinkAI/gpt-image-2-for-e-commerce",
-    "stars": 27,
-    "updated_at": "2026-06-18T03:01:17Z",
-    "url": "https://github.com/EvoLinkAI/gpt-image-2-for-e-commerce"
   }
 ]
