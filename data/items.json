@@ -1,5 +1,68 @@
 [
   {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "id": "DietrichGebert/ponytail",
+    "language": "JavaScript",
+    "name": "DietrichGebert/ponytail",
+    "stars": 36462,
+    "updated_at": "2026-06-18T22:44:08Z",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T22:43:11Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
+    "language": "JavaScript",
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 1893,
+    "updated_at": "2026-06-18T22:39:58Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
+    "id": "realBoBao/Serena_Auto-Teaching",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_Auto-Teaching",
+    "stars": 0,
+    "updated_at": "2026-06-18T22:34:01Z",
+    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 73,
+    "updated_at": "2026-06-18T22:33:09Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 42,
+    "updated_at": "2026-06-18T22:32:22Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-18T22:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "By a 12-year product manager who builds 0-to-1: takes a beginner from a vague idea to a buildable plan, then guides the ",
     "id": "TexasBedouin/vibe-check",
     "language": "HTML",
@@ -27,15 +90,6 @@
     "url": "https://github.com/sameernagar-hub/promptPilot"
   },
   {
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "id": "DietrichGebert/ponytail",
-    "language": "JavaScript",
-    "name": "DietrichGebert/ponytail",
-    "stars": 36432,
-    "updated_at": "2026-06-18T22:26:36Z",
-    "url": "https://github.com/DietrichGebert/ponytail"
-  },
-  {
     "description": "LLM evaluation and observability dashboard for prompt versions, regressions, traces, cost, latency, and human review.",
     "id": "Daniel5569/llm-evaluation-observability-platform",
     "language": "TypeScript",
@@ -45,15 +99,6 @@
     "url": "https://github.com/Daniel5569/llm-evaluation-observability-platform"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T22:25:58Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Git shows what changed. TreeTrace reconstructs how you steered the agent: local, deterministic eval and regression data ",
     "id": "TreeTraceTool/TreeTrace",
     "language": "JavaScript",
@@ -61,24 +106,6 @@
     "stars": 3,
     "updated_at": "2026-06-18T22:25:03Z",
     "url": "https://github.com/TreeTraceTool/TreeTrace"
-  },
-  {
-    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
-    "id": "Supervertaler/Supervertaler-Workbench",
-    "language": "Python",
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 42,
-    "updated_at": "2026-06-18T22:23:49Z",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 73,
-    "updated_at": "2026-06-18T22:21:22Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "An AI prompt-skill that turns 20 cognitive biases into high-converting marketing copy. Includes playbooks for ads, landi",
@@ -99,15 +126,6 @@
     "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
   },
   {
-    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
-    "id": "realBoBao/Serena_Auto-Teaching",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_Auto-Teaching",
-    "stars": 0,
-    "updated_at": "2026-06-18T22:17:54Z",
-    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
-  },
-  {
     "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
     "id": "rizvee/multimodel-dev-os",
     "language": "JavaScript",
@@ -122,17 +140,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10190,
-    "updated_at": "2026-06-18T22:28:40Z",
+    "updated_at": "2026-06-18T22:30:35Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-18T22:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "OpenCode package for Caveman: terse AI responses, slash commands, compact reviews, commit messages, and markdown memory ",
@@ -432,20 +441,11 @@
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
   },
   {
-    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
-    "id": "conorbronsdon/avoid-ai-writing",
-    "language": "JavaScript",
-    "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 1893,
-    "updated_at": "2026-06-18T22:05:08Z",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29345,
+    "stars": 29346,
     "updated_at": "2026-06-18T21:33:35Z",
     "url": "https://github.com/langfuse/langfuse"
   }
