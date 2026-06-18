@@ -1,12 +1,93 @@
 [
   {
+    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
+    "id": "Shiyao-Huang/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "Shiyao-Huang/awesome-agent-evolution",
+    "stars": 168,
+    "updated_at": "2026-06-18T06:42:42Z",
+    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
+  },
+  {
+    "description": "Programmatic Agent Constraint Toolkit (PACT): Governance infrastructure for AI coding agents. Claude Code plugin marketp",
+    "id": "jonathanmr22/pact",
+    "language": "Python",
+    "name": "jonathanmr22/pact",
+    "stars": 15,
+    "updated_at": "2026-06-18T06:41:05Z",
+    "url": "https://github.com/jonathanmr22/pact"
+  },
+  {
     "description": "Multi-agent audit master prompts (security, repo, frontend, API, perf, data, infra, AI/LLM, compliance, a11y, docs) + a ",
     "id": "marcelrapold/auditor",
     "language": "TypeScript",
     "name": "marcelrapold/auditor",
     "stars": 0,
-    "updated_at": "2026-06-18T06:29:48Z",
+    "updated_at": "2026-06-18T06:39:28Z",
     "url": "https://github.com/marcelrapold/auditor"
+  },
+  {
+    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
+    "id": "zxpmail/ReqForge",
+    "language": "JavaScript",
+    "name": "zxpmail/ReqForge",
+    "stars": 11,
+    "updated_at": "2026-06-18T06:38:09Z",
+    "url": "https://github.com/zxpmail/ReqForge"
+  },
+  {
+    "description": "Spec-driven, agentic workflow framework for AI coding agents. Turn a request into a verifiable goal loop \u2014 plan, act, ve",
+    "id": "clawplays/ospec",
+    "language": "JavaScript",
+    "name": "clawplays/ospec",
+    "stars": 549,
+    "updated_at": "2026-06-18T06:36:55Z",
+    "url": "https://github.com/clawplays/ospec"
+  },
+  {
+    "description": "AI Prompt Slimming Toolkit - reduce token consumption 5-40% before every API call. \u4e2d\u82f1\u6587\u5197\u4f59\u68c0\u6d4b + LLM\u667a\u80fd\u538b\u7f29\u3002",
+    "id": "JING04-PRODUCER/promptslim",
+    "language": "Python",
+    "name": "JING04-PRODUCER/promptslim",
+    "stars": 1,
+    "updated_at": "2026-06-18T06:36:01Z",
+    "url": "https://github.com/JING04-PRODUCER/promptslim"
+  },
+  {
+    "description": "A/B experiment: does compressing a voice dictation transcript before sending it to a coding agent preserve output qualit",
+    "id": "gititya/kevin-eats-muesli",
+    "language": "HTML",
+    "name": "gititya/kevin-eats-muesli",
+    "stars": 0,
+    "updated_at": "2026-06-18T06:31:52Z",
+    "url": "https://github.com/gititya/kevin-eats-muesli"
+  },
+  {
+    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
+    "id": "Paulessus/odin-gemini-mcp-bridge",
+    "language": "HTML",
+    "name": "Paulessus/odin-gemini-mcp-bridge",
+    "stars": 0,
+    "updated_at": "2026-06-18T06:31:02Z",
+    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-06-18T06:31:00Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T06:30:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -22,7 +103,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 32030,
+    "stars": 32062,
     "updated_at": "2026-06-18T06:29:11Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -103,7 +184,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32540,
+    "stars": 32546,
     "updated_at": "2026-06-18T06:19:32Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -115,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T06:19:20Z",
     "url": "https://github.com/tmijieux/ai-chat"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T06:15:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Makes your AI agent think like the laziest senior architect in the room. The best layer is the layer you never added.",
@@ -176,17 +248,8 @@
     "language": "TypeScript",
     "name": "min9lin9/kimi-agent-swarm-skill",
     "stars": 0,
-    "updated_at": "2026-06-18T06:08:24Z",
+    "updated_at": "2026-06-18T06:36:06Z",
     "url": "https://github.com/min9lin9/kimi-agent-swarm-skill"
-  },
-  {
-    "description": "AI Prompt Slimming Toolkit - reduce token consumption 5-40% before every API call. \u4e2d\u82f1\u6587\u5197\u4f59\u68c0\u6d4b + LLM\u667a\u80fd\u538b\u7f29\u3002",
-    "id": "JING04-PRODUCER/promptslim",
-    "language": "Python",
-    "name": "JING04-PRODUCER/promptslim",
-    "stars": 1,
-    "updated_at": "2026-06-18T06:07:23Z",
-    "url": "https://github.com/JING04-PRODUCER/promptslim"
   },
   {
     "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
@@ -196,15 +259,6 @@
     "stars": 92,
     "updated_at": "2026-06-18T06:07:17Z",
     "url": "https://github.com/AditthyaSS/iloveAgents"
-  },
-  {
-    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
-    "id": "zxpmail/ReqForge",
-    "language": "JavaScript",
-    "name": "zxpmail/ReqForge",
-    "stars": 11,
-    "updated_at": "2026-06-18T06:03:03Z",
-    "url": "https://github.com/zxpmail/ReqForge"
   },
   {
     "description": "\ud83d\uddff FableCodex is a Codex-style coding agent workflow that plans like Fable.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T05:28:35Z",
     "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26593,
-    "updated_at": "2026-06-18T05:28:19Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Give your AI coding agent a personality. Composable persona + style + skills for Claude Code, Codex, Gemini CLI & OpenCl",
-    "id": "telagod/code-abyss",
-    "language": "JavaScript",
-    "name": "telagod/code-abyss",
-    "stars": 230,
-    "updated_at": "2026-06-18T05:28:08Z",
-    "url": "https://github.com/telagod/code-abyss"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:20:09Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Pluggable, multi-language implementations of SpreadsheetLLM-style SheetCompressor encoding for token-efficient LLM workf",
-    "id": "mythopoeic/sheet-compressor",
-    "language": "TypeScript",
-    "name": "mythopoeic/sheet-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:14:55Z",
-    "url": "https://github.com/mythopoeic/sheet-compressor"
-  },
-  {
-    "description": "Ready Player One - stop prompting; start shipping",
-    "id": "rp1-run/rp1",
-    "language": "TypeScript",
-    "name": "rp1-run/rp1",
-    "stars": 32,
-    "updated_at": "2026-06-18T05:12:30Z",
-    "url": "https://github.com/rp1-run/rp1"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:09:18Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   }
 ]
