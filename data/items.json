@@ -1,12 +1,138 @@
 [
   {
-    "description": "Semantic diff for LLM prompts \u2014 compare prompt versions like git diff",
-    "id": "he-yufeng/PromptDiff",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29333,
+    "updated_at": "2026-06-18T16:28:56Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:28:26Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:27:41Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:27:10Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 9,
+    "updated_at": "2026-06-18T16:27:04Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
+    "id": "5uprem4/ai-skill-vault",
+    "language": "HTML",
+    "name": "5uprem4/ai-skill-vault",
+    "stars": 2,
+    "updated_at": "2026-06-18T16:25:14Z",
+    "url": "https://github.com/5uprem4/ai-skill-vault"
+  },
+  {
+    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
+    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "language": "HTML",
+    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "stars": 50,
+    "updated_at": "2026-06-18T16:24:23Z",
+    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
+  },
+  {
+    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
+    "id": "teguhimanulloh47/pirate-talk-for-claude",
+    "language": "HTML",
+    "name": "teguhimanulloh47/pirate-talk-for-claude",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:23:30Z",
+    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
+  },
+  {
+    "description": "Production ready. AI Agent Workflow System for Claude Code",
+    "id": "ngocsangyem/MeowKit",
+    "language": "TypeScript",
+    "name": "ngocsangyem/MeowKit",
+    "stars": 15,
+    "updated_at": "2026-06-18T16:24:03Z",
+    "url": "https://github.com/ngocsangyem/MeowKit"
+  },
+  {
+    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
+    "id": "Kenny27lokku/prompt-integrity-validator",
+    "language": "HTML",
+    "name": "Kenny27lokku/prompt-integrity-validator",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:22:49Z",
+    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
     "language": "Python",
-    "name": "he-yufeng/PromptDiff",
+    "name": "chopratejas/headroom",
+    "stars": 33211,
+    "updated_at": "2026-06-18T16:22:20Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "52 ready-to-deploy Microsoft Copilot Chat agents \u2014 paste the instruction block into Copilot Studio and you're live. Writ",
+    "id": "kesslernity/awesome-copilot-chat-agents",
+    "language": "\u2014",
+    "name": "kesslernity/awesome-copilot-chat-agents",
+    "stars": 50,
+    "updated_at": "2026-06-18T16:21:23Z",
+    "url": "https://github.com/kesslernity/awesome-copilot-chat-agents"
+  },
+  {
+    "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 400+ prompts for Office apps, Copilot Studio, se",
+    "id": "kesslernity/awesome-microsoft-copilot-prompts",
+    "language": "\u2014",
+    "name": "kesslernity/awesome-microsoft-copilot-prompts",
+    "stars": 416,
+    "updated_at": "2026-06-18T16:20:07Z",
+    "url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts"
+  },
+  {
+    "description": "?? The World's First AI Blueprint Architect - Turn any wish into production-ready blueprints with multi-agent AI. Built ",
+    "id": "hackwithayush/jini_prompter",
+    "language": "TypeScript",
+    "name": "hackwithayush/jini_prompter",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:19:24Z",
+    "url": "https://github.com/hackwithayush/jini_prompter"
+  },
+  {
+    "description": "AI Prompt Slimming Toolkit - reduce token consumption 5-40% before every API call. \u4e2d\u82f1\u6587\u5197\u4f59\u68c0\u6d4b + LLM\u667a\u80fd\u538b\u7f29\u3002",
+    "id": "JING04-PRODUCER/promptslim",
+    "language": "Python",
+    "name": "JING04-PRODUCER/promptslim",
     "stars": 1,
-    "updated_at": "2026-06-18T16:14:27Z",
-    "url": "https://github.com/he-yufeng/PromptDiff"
+    "updated_at": "2026-06-18T16:17:58Z",
+    "url": "https://github.com/JING04-PRODUCER/promptslim"
   },
   {
     "description": "CI for prompts \u2014 golden sets, LLM-as-judge with calibration, and regression gating. TypeScript CLI + Next.js dashboard.",
@@ -14,8 +140,44 @@
     "language": "TypeScript",
     "name": "Qweffy/rubric",
     "stars": 0,
-    "updated_at": "2026-06-18T16:14:26Z",
+    "updated_at": "2026-06-18T16:16:25Z",
     "url": "https://github.com/Qweffy/rubric"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 3924,
+    "updated_at": "2026-06-18T16:21:24Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:15:39Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-18T16:15:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Semantic diff for LLM prompts \u2014 compare prompt versions like git diff",
+    "id": "he-yufeng/PromptDiff",
+    "language": "Python",
+    "name": "he-yufeng/PromptDiff",
+    "stars": 1,
+    "updated_at": "2026-06-18T16:14:27Z",
+    "url": "https://github.com/he-yufeng/PromptDiff"
   },
   {
     "description": "A curated list of Seedance prompts",
@@ -34,15 +196,6 @@
     "stars": 45,
     "updated_at": "2026-06-18T16:14:02Z",
     "url": "https://github.com/ariffazil/arifos"
-  },
-  {
-    "description": "?? The World's First AI Blueprint Architect - Turn any wish into production-ready blueprints with multi-agent AI. Built ",
-    "id": "hackwithayush/jini_prompter",
-    "language": "TypeScript",
-    "name": "hackwithayush/jini_prompter",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:12:43Z",
-    "url": "https://github.com/hackwithayush/jini_prompter"
   },
   {
     "description": "The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .",
@@ -77,7 +230,7 @@
     "language": "Go",
     "name": "jeffreytse/grimoire",
     "stars": 12,
-    "updated_at": "2026-06-18T16:09:43Z",
+    "updated_at": "2026-06-18T16:30:30Z",
     "url": "https://github.com/jeffreytse/grimoire"
   },
   {
@@ -90,13 +243,13 @@
     "url": "https://github.com/copyleftdev/kitboga"
   },
   {
-    "description": "AI Prompt Slimming Toolkit - reduce token consumption 5-40% before every API call. \u4e2d\u82f1\u6587\u5197\u4f59\u68c0\u6d4b + LLM\u667a\u80fd\u538b\u7f29\u3002",
-    "id": "JING04-PRODUCER/promptslim",
-    "language": "Python",
-    "name": "JING04-PRODUCER/promptslim",
-    "stars": 1,
-    "updated_at": "2026-06-18T16:08:56Z",
-    "url": "https://github.com/JING04-PRODUCER/promptslim"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22352,
+    "updated_at": "2026-06-18T16:05:22Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Rust CLI for LLM token compression: cut AI token waste, lower AI bills, preserve context, and prove protected facts with",
@@ -106,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T16:04:11Z",
     "url": "https://github.com/efij/streetman"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:03:26Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -135,15 +279,6 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "Production ready. AI Agent Workflow System for Claude Code",
-    "id": "ngocsangyem/MeowKit",
-    "language": "TypeScript",
-    "name": "ngocsangyem/MeowKit",
-    "stars": 15,
-    "updated_at": "2026-06-18T16:01:48Z",
-    "url": "https://github.com/ngocsangyem/MeowKit"
-  },
-  {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
@@ -151,24 +286,6 @@
     "stars": 1386,
     "updated_at": "2026-06-18T16:01:31Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-18T16:00:49Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22351,
-    "updated_at": "2026-06-18T16:05:22Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -207,24 +324,6 @@
     "url": "https://github.com/franklinxkk/ai-delivery-spec"
   },
   {
-    "description": "52 ready-to-deploy Microsoft Copilot Chat agents \u2014 paste the instruction block into Copilot Studio and you're live. Writ",
-    "id": "kesslernity/awesome-copilot-chat-agents",
-    "language": "\u2014",
-    "name": "kesslernity/awesome-copilot-chat-agents",
-    "stars": 50,
-    "updated_at": "2026-06-18T15:52:40Z",
-    "url": "https://github.com/kesslernity/awesome-copilot-chat-agents"
-  },
-  {
-    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
-    "id": "AltairaLabs/PromptKit",
-    "language": "Go",
-    "name": "AltairaLabs/PromptKit",
-    "stars": 9,
-    "updated_at": "2026-06-18T16:11:18Z",
-    "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
     "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
     "id": "FoxsterDev/ai-research-hub",
     "language": "Python",
@@ -243,15 +342,6 @@
     "url": "https://github.com/agentmark-ai/agentmark"
   },
   {
-    "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 400+ prompts for Office apps, Copilot Studio, se",
-    "id": "kesslernity/awesome-microsoft-copilot-prompts",
-    "language": "\u2014",
-    "name": "kesslernity/awesome-microsoft-copilot-prompts",
-    "stars": 416,
-    "updated_at": "2026-06-18T15:51:24Z",
-    "url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts"
-  },
-  {
     "description": "Pluggable, multi-language implementations of SpreadsheetLLM-style SheetCompressor encoding for token-efficient LLM workf",
     "id": "mythopoeic/sheet-compressor",
     "language": "TypeScript",
@@ -259,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T15:49:35Z",
     "url": "https://github.com/mythopoeic/sheet-compressor"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29331,
-    "updated_at": "2026-06-18T16:14:50Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83d\udee0\ufe0f \u6700\u5b9e\u7528\u7684 Claude Code Skills \u5408\u96c6 | \u7cbe\u9009 100+ | 18\u4e2a\u539f\u521b\u53ef\u5b89\u88c5\u6280\u80fd | \u6309\u573a\u666f\u5206\u7c7b | \u590d\u5236\u5373\u88c5",
@@ -284,7 +365,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10190,
-    "updated_at": "2026-06-18T16:05:47Z",
+    "updated_at": "2026-06-18T16:19:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -301,7 +382,7 @@
     "id": "ZeroLu/awesome-gpt-image",
     "language": "Python",
     "name": "ZeroLu/awesome-gpt-image",
-    "stars": 1722,
+    "stars": 1723,
     "updated_at": "2026-06-18T15:37:33Z",
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
   },
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T15:28:35Z",
     "url": "https://github.com/Pravesh0005/INT-428-EXAM-PREP-WEBSITE"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
-    "id": "ZeroLu/awesome-seedance",
-    "language": "Shell",
-    "name": "ZeroLu/awesome-seedance",
-    "stars": 1954,
-    "updated_at": "2026-06-18T15:28:18Z",
-    "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
-    "id": "mrwogu/promptscript",
-    "language": "TypeScript",
-    "name": "mrwogu/promptscript",
-    "stars": 13,
-    "updated_at": "2026-06-18T15:28:51Z",
-    "url": "https://github.com/mrwogu/promptscript"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "\u2014",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 5,
-    "updated_at": "2026-06-18T15:24:08Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Manage your team's Claude Code agents with role-based configs, A/B testing, and accuracy tracking. CLI-first.",
-    "id": "karibew/crewkit-cli",
-    "language": "\u2014",
-    "name": "karibew/crewkit-cli",
-    "stars": 0,
-    "updated_at": "2026-06-18T15:23:19Z",
-    "url": "https://github.com/karibew/crewkit-cli"
-  },
-  {
-    "description": "Claude Code skills, architectural principles, and alternative approaches for AI-assisted development",
-    "id": "AnastasiyaW/claude-code-config",
-    "language": "Python",
-    "name": "AnastasiyaW/claude-code-config",
-    "stars": 129,
-    "updated_at": "2026-06-18T15:22:48Z",
-    "url": "https://github.com/AnastasiyaW/claude-code-config"
-  },
-  {
-    "description": "Shared instructions, workflows, conventions, and memory for AI agents \u2014 across teams,  projects, and functions.",
-    "id": "fahadyaqub/agents-workbench",
-    "language": "JavaScript",
-    "name": "fahadyaqub/agents-workbench",
-    "stars": 0,
-    "updated_at": "2026-06-18T15:22:05Z",
-    "url": "https://github.com/fahadyaqub/agents-workbench"
-  },
-  {
-    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
-    "id": "elon-choo/fablever",
-    "language": "JavaScript",
-    "name": "elon-choo/fablever",
-    "stars": 19,
-    "updated_at": "2026-06-18T15:16:13Z",
-    "url": "https://github.com/elon-choo/fablever"
-  },
-  {
-    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
-    "id": "areliw/mt-score-up-skill",
-    "language": "Python",
-    "name": "areliw/mt-score-up-skill",
-    "stars": 1,
-    "updated_at": "2026-06-18T15:12:52Z",
-    "url": "https://github.com/areliw/mt-score-up-skill"
-  },
-  {
-    "description": "Full-stack prompt workspace for Claude Code and Codex with ASP.NET Core, React, PostgreSQL and SignalR.",
-    "id": "psielta/Thoth",
-    "language": "C#",
-    "name": "psielta/Thoth",
-    "stars": 0,
-    "updated_at": "2026-06-18T15:12:01Z",
-    "url": "https://github.com/psielta/Thoth"
   }
 ]
