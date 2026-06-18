@@ -1,21 +1,84 @@
 [
   {
-    "description": "Structured prompts and verifiable execution for Claude Code agents. The Danilov method: INDEX/DEFINITIONS/RELATIONS prom",
-    "id": "VascendTechnologies/Vascend-Official-Plugins",
+    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
+    "id": "elon-choo/fablever",
     "language": "JavaScript",
-    "name": "VascendTechnologies/Vascend-Official-Plugins",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:29:38Z",
-    "url": "https://github.com/VascendTechnologies/Vascend-Official-Plugins"
+    "name": "elon-choo/fablever",
+    "stars": 19,
+    "updated_at": "2026-06-18T09:44:03Z",
+    "url": "https://github.com/elon-choo/fablever"
   },
   {
-    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
-    "id": "luongs3/skill-atlas",
-    "language": "HTML",
-    "name": "luongs3/skill-atlas",
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-06-18T09:43:16Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
     "stars": 0,
-    "updated_at": "2026-06-18T09:28:30Z",
-    "url": "https://github.com/luongs3/skill-atlas"
+    "updated_at": "2026-06-18T09:42:48Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:42:36Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Agent skills we use daily in the studio \u2014 reusable, on-demand context for Claude Code, Cursor & other skills.sh-compatib",
+    "id": "stealth-engine/skills",
+    "language": "TypeScript",
+    "name": "stealth-engine/skills",
+    "stars": 1,
+    "updated_at": "2026-06-18T09:42:05Z",
+    "url": "https://github.com/stealth-engine/skills"
+  },
+  {
+    "description": "Multi-agent audit master prompts (security, repo, frontend, API, perf, data, infra, AI/LLM, compliance, a11y, docs) + a ",
+    "id": "marcelrapold/auditor",
+    "language": "TypeScript",
+    "name": "marcelrapold/auditor",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:41:50Z",
+    "url": "https://github.com/marcelrapold/auditor"
+  },
+  {
+    "description": "A manual-first, approval-gated AI workflow harness for Claude Code, Codex, Antigravity, and Cursor. (\uacc4\ud68d\u00b7\uc2b9\uc778\u00b7\uac80\uc99d\u00b7\uae30\ub85d\uc73c\ub85c \uc774\uc5b4\uc9c0\ub294 ",
+    "id": "kyungseo/ai-workflow-harness",
+    "language": "Shell",
+    "name": "kyungseo/ai-workflow-harness",
+    "stars": 10,
+    "updated_at": "2026-06-18T09:41:33Z",
+    "url": "https://github.com/kyungseo/ai-workflow-harness"
+  },
+  {
+    "description": "CLAUDE COWORK Governance templates for Claude Cowork \u2014 built from empirical research into long-horizon human-AI collabor",
+    "id": "LivingFramework/LivingFramework.github.io",
+    "language": "JavaScript",
+    "name": "LivingFramework/LivingFramework.github.io",
+    "stars": 44,
+    "updated_at": "2026-06-18T09:39:00Z",
+    "url": "https://github.com/LivingFramework/LivingFramework.github.io"
+  },
+  {
+    "description": "Human-in-the-loop AI workflow for truthful, evidence-grounded CV tailoring \u2014 anti-hallucination subset/gap rules, 13 det",
+    "id": "Schiao-Lee/evidence-grounded-cv-tailoring",
+    "language": "Python",
+    "name": "Schiao-Lee/evidence-grounded-cv-tailoring",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:38:57Z",
+    "url": "https://github.com/Schiao-Lee/evidence-grounded-cv-tailoring"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -23,8 +86,62 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19687,
-    "updated_at": "2026-06-18T09:28:32Z",
+    "updated_at": "2026-06-18T09:44:43Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": " Multi-Agent collaboration framework for Claude Code \u2014 triage, adversarial review, Wave scheduling, independent audit.  ",
+    "id": "kesusu/multi-agent-skill",
+    "language": "\u2014",
+    "name": "kesusu/multi-agent-skill",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:36:51Z",
+    "url": "https://github.com/kesusu/multi-agent-skill"
+  },
+  {
+    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
+    "id": "luongs3/skill-atlas",
+    "language": "HTML",
+    "name": "luongs3/skill-atlas",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:35:16Z",
+    "url": "https://github.com/luongs3/skill-atlas"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26597,
+    "updated_at": "2026-06-18T09:34:06Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Personal APM marketplace \u2014 skills, prompts, agents, and instructions for AI coding agents",
+    "id": "pngdeity/apm-user-repository",
+    "language": "Go",
+    "name": "pngdeity/apm-user-repository",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:31:19Z",
+    "url": "https://github.com/pngdeity/apm-user-repository"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-18T09:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Structured prompts and verifiable execution for Claude Code agents. The Danilov method: INDEX/DEFINITIONS/RELATIONS prom",
+    "id": "VascendTechnologies/Vascend-Official-Plugins",
+    "language": "JavaScript",
+    "name": "VascendTechnologies/Vascend-Official-Plugins",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:29:38Z",
+    "url": "https://github.com/VascendTechnologies/Vascend-Official-Plugins"
   },
   {
     "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
@@ -61,15 +178,6 @@
     "stars": 12544,
     "updated_at": "2026-06-18T09:26:18Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Human-in-the-loop AI workflow for truthful, evidence-grounded CV tailoring \u2014 anti-hallucination subset/gap rules, 13 det",
-    "id": "Schiao-Lee/evidence-grounded-cv-tailoring",
-    "language": "Python",
-    "name": "Schiao-Lee/evidence-grounded-cv-tailoring",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:25:53Z",
-    "url": "https://github.com/Schiao-Lee/evidence-grounded-cv-tailoring"
   },
   {
     "description": "Una moderna applicazione web full-stack per gestire, organizzare e sincronizzare prompt AI, costruita con React, Vite, S",
@@ -113,7 +221,7 @@
     "language": "Python",
     "name": "Ohswedd/vincio",
     "stars": 1,
-    "updated_at": "2026-06-18T09:24:00Z",
+    "updated_at": "2026-06-18T09:44:59Z",
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
@@ -167,35 +275,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29319,
-    "updated_at": "2026-06-18T09:20:31Z",
+    "updated_at": "2026-06-18T09:43:46Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Multi-agent audit master prompts (security, repo, frontend, API, perf, data, infra, AI/LLM, compliance, a11y, docs) + a ",
-    "id": "marcelrapold/auditor",
-    "language": "TypeScript",
-    "name": "marcelrapold/auditor",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:20:23Z",
-    "url": "https://github.com/marcelrapold/auditor"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:20:09Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Personal APM marketplace \u2014 skills, prompts, agents, and instructions for AI coding agents",
-    "id": "pngdeity/apm-user-repository",
-    "language": "Go",
-    "name": "pngdeity/apm-user-repository",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:19:48Z",
-    "url": "https://github.com/pngdeity/apm-user-repository"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -223,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T09:19:08Z",
     "url": "https://github.com/tercel/prompt-coach"
-  },
-  {
-    "description": "CLAUDE COWORK Governance templates for Claude Cowork \u2014 built from empirical research into long-horizon human-AI collabor",
-    "id": "LivingFramework/LivingFramework.github.io",
-    "language": "HTML",
-    "name": "LivingFramework/LivingFramework.github.io",
-    "stars": 44,
-    "updated_at": "2026-06-18T09:17:31Z",
-    "url": "https://github.com/LivingFramework/LivingFramework.github.io"
   },
   {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
@@ -268,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T09:15:40Z",
     "url": "https://github.com/maikeliu86-coder/story-vista"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-18T09:15:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
@@ -342,15 +405,6 @@
     "url": "https://github.com/dariank38/agentic-job-scraper"
   },
   {
-    "description": "A manual-first, approval-gated AI workflow harness for Claude Code, Codex, Antigravity, and Cursor. (\uacc4\ud68d\u00b7\uc2b9\uc778\u00b7\uac80\uc99d\u00b7\uae30\ub85d\uc73c\ub85c \uc774\uc5b4\uc9c0\ub294 ",
-    "id": "kyungseo/ai-workflow-harness",
-    "language": "Shell",
-    "name": "kyungseo/ai-workflow-harness",
-    "stars": 10,
-    "updated_at": "2026-06-18T09:11:36Z",
-    "url": "https://github.com/kyungseo/ai-workflow-harness"
-  },
-  {
     "description": "\u4e00\u4e2a Claude Code Skill\uff1a\u8ba9 Claude \u5e2e\u4f60\u628a TypeScript \u589e\u91cf\u63a5\u5165\u73b0\u6709\u7684 JS \u9879\u76ee\uff08webpack / vite / rollup \u00d7 Vue 2 / Vue 3 / React\uff09\u3002\u81ea\u52a8\u63a2\u6d4b\u6784\u5efa\u5de5\u5177\u4e0e\u6846\u67b6\u3001",
     "id": "hanranyyy/claude-skill-introduce-ts",
     "language": "JavaScript",
@@ -394,59 +448,5 @@
     "stars": 56,
     "updated_at": "2026-06-18T09:09:45Z",
     "url": "https://github.com/swaylq/master-skill"
-  },
-  {
-    "description": "\ud83e\uddd9 Democratizing best practices across 27 domains. Your AI knows everything \u2014 Grimoire makes it practice it.",
-    "id": "jeffreytse/grimoire",
-    "language": "Go",
-    "name": "jeffreytse/grimoire",
-    "stars": 12,
-    "updated_at": "2026-06-18T09:09:25Z",
-    "url": "https://github.com/jeffreytse/grimoire"
-  },
-  {
-    "description": "Turn your coding agent into a full product team \u2014 composable skills across research, marketing, product, and process. On",
-    "id": "hungv47/meta-skills",
-    "language": "TypeScript",
-    "name": "hungv47/meta-skills",
-    "stars": 11,
-    "updated_at": "2026-06-18T09:08:44Z",
-    "url": "https://github.com/hungv47/meta-skills"
-  },
-  {
-    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 4,
-    "updated_at": "2026-06-18T09:09:07Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "Agent skill for cleaning Chinese ASR transcripts and translating them into natural English for Codex and Claude Code.",
-    "id": "lynseylee-ones/transcript-clean-translate-en",
-    "language": "\u2014",
-    "name": "lynseylee-ones/transcript-clean-translate-en",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:05:13Z",
-    "url": "https://github.com/lynseylee-ones/transcript-clean-translate-en"
-  },
-  {
-    "description": "AI engineering notes \u2014 LLMs in production, prompts, and software design. Moss Gu's blog, home of Design is Code.",
-    "id": "mossgreen/mossgreen.github.io",
-    "language": "CSS",
-    "name": "mossgreen/mossgreen.github.io",
-    "stars": 10,
-    "updated_at": "2026-06-18T09:05:03Z",
-    "url": "https://github.com/mossgreen/mossgreen.github.io"
-  },
-  {
-    "description": "Spec first workflow for coding agents: choose the right model per task, use strong reasoning early, split work into smal",
-    "id": "arcayne/agentic-delivery-playbook",
-    "language": "HTML",
-    "name": "arcayne/agentic-delivery-playbook",
-    "stars": 9,
-    "updated_at": "2026-06-18T09:04:59Z",
-    "url": "https://github.com/arcayne/agentic-delivery-playbook"
   }
 ]
