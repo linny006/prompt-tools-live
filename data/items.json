@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83d\uddff FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+    "id": "baskduf/FableCodex",
+    "language": "Python",
+    "name": "baskduf/FableCodex",
+    "stars": 275,
+    "updated_at": "2026-06-18T04:59:41Z",
+    "url": "https://github.com/baskduf/FableCodex"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-06-18T04:59:10Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Pluggable, multi-language implementations of SpreadsheetLLM-style SheetCompressor encoding for token-efficient LLM workf",
+    "id": "mythopoeic/sheet-compressor",
+    "language": "TypeScript",
+    "name": "mythopoeic/sheet-compressor",
+    "stars": 0,
+    "updated_at": "2026-06-18T04:58:31Z",
+    "url": "https://github.com/mythopoeic/sheet-compressor"
+  },
+  {
+    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
+    "id": "realBoBao/Serena_Auto-Teaching",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_Auto-Teaching",
+    "stars": 0,
+    "updated_at": "2026-06-18T04:56:37Z",
+    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
+  },
+  {
+    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
+    "id": "AditthyaSS/iloveAgents",
+    "language": "JavaScript",
+    "name": "AditthyaSS/iloveAgents",
+    "stars": 92,
+    "updated_at": "2026-06-18T04:55:27Z",
+    "url": "https://github.com/AditthyaSS/iloveAgents"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-18T04:55:21Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-06-18T04:51:59Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
+    "id": "mobcat40/ComfyUI-PromptChain",
+    "language": "Python",
+    "name": "mobcat40/ComfyUI-PromptChain",
+    "stars": 9,
+    "updated_at": "2026-06-18T04:50:29Z",
+    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
+  },
+  {
+    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
+    "id": "Mr-Salticidae/knowledge-base",
+    "language": "Python",
+    "name": "Mr-Salticidae/knowledge-base",
+    "stars": 11,
+    "updated_at": "2026-06-18T04:46:23Z",
+    "url": "https://github.com/Mr-Salticidae/knowledge-base"
+  },
+  {
+    "description": "Open-source AI learning platform featuring structured learning paths, projects, roadmaps, AI tools, challenges, exams, a",
+    "id": "DipakMandlik/AIByDM",
+    "language": "TypeScript",
+    "name": "DipakMandlik/AIByDM",
+    "stars": 2,
+    "updated_at": "2026-06-18T04:46:06Z",
+    "url": "https://github.com/DipakMandlik/AIByDM"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T04:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
     "id": "ai-boost/awesome-prompts",
     "language": "\u2014",
@@ -16,15 +115,6 @@
     "stars": 2385,
     "updated_at": "2026-06-18T04:43:07Z",
     "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "Pluggable, multi-language implementations of SpreadsheetLLM-style SheetCompressor encoding for token-efficient LLM workf",
-    "id": "mythopoeic/sheet-compressor",
-    "language": "TypeScript",
-    "name": "mythopoeic/sheet-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-18T04:45:07Z",
-    "url": "https://github.com/mythopoeic/sheet-compressor"
   },
   {
     "description": "Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-comp",
@@ -103,7 +193,7 @@
     "id": "vllm-project/semantic-router",
     "language": "Go",
     "name": "vllm-project/semantic-router",
-    "stars": 4421,
+    "stars": 4422,
     "updated_at": "2026-06-18T04:32:10Z",
     "url": "https://github.com/vllm-project/semantic-router"
   },
@@ -117,30 +207,12 @@
     "url": "https://github.com/Daniel5569/llm-evaluation-observability-platform"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T04:30:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
-    "id": "realBoBao/Serena_Auto-Teaching",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_Auto-Teaching",
-    "stars": 0,
-    "updated_at": "2026-06-18T04:29:52Z",
-    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
-  },
-  {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 285,
-    "updated_at": "2026-06-18T04:29:23Z",
+    "updated_at": "2026-06-18T04:48:26Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -157,7 +229,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 31863,
+    "stars": 31871,
     "updated_at": "2026-06-18T04:28:23Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -184,9 +256,18 @@
     "id": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
     "language": "Python",
     "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "stars": 16771,
+    "stars": 16772,
     "updated_at": "2026-06-18T04:19:50Z",
     "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10181,
+    "updated_at": "2026-06-18T04:18:59Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -351,15 +432,6 @@
     "url": "https://github.com/ralphmoran/ticket-lens"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10180,
-    "updated_at": "2026-06-18T04:18:59Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Ideogram 4 \u672c\u5730 CUDA \u56fe\u50cf\u751f\u6210\u5668\uff1a\u5185\u7f6e NF4 \u6743\u91cd\u3001\u5b98\u65b9 Magic Prompt \u63d0\u793a\u8bcd\u4f18\u5316\u3001Windows/Linux \u4fbf\u643a\u5305 / Local open-weight text-to-image generator",
     "id": "mason369/ideogram-4-generator",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-18T03:58:22Z",
     "url": "https://github.com/lorevcs/lore"
-  },
-  {
-    "description": "\ud83d\uddff FableCodex is a Codex-style coding agent workflow that plans like Fable.",
-    "id": "baskduf/FableCodex",
-    "language": "Python",
-    "name": "baskduf/FableCodex",
-    "stars": 274,
-    "updated_at": "2026-06-18T03:56:18Z",
-    "url": "https://github.com/baskduf/FableCodex"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 32518,
-    "updated_at": "2026-06-18T03:56:07Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Five-stage LLM screening pipeline that evaluates a resume against job descriptions from a Talent Consultant's perspectiv",
-    "id": "ChiefStarKid/resume-assessor",
-    "language": "Python",
-    "name": "ChiefStarKid/resume-assessor",
-    "stars": 0,
-    "updated_at": "2026-06-18T03:53:42Z",
-    "url": "https://github.com/ChiefStarKid/resume-assessor"
-  },
-  {
-    "description": "Claude Code skill for strategic SEO link insertion and editorial outreach \u2014 blue ocean keyword gaps, 9 placement variati",
-    "id": "ChiefStarKid/link-pitch",
-    "language": "\u2014",
-    "name": "ChiefStarKid/link-pitch",
-    "stars": 0,
-    "updated_at": "2026-06-18T03:53:40Z",
-    "url": "https://github.com/ChiefStarKid/link-pitch"
-  },
-  {
-    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 53,
-    "updated_at": "2026-06-18T03:53:27Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 19,
-    "updated_at": "2026-06-18T03:46:53Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "21 Lessons, Get Started Building with Generative AI ",
-    "id": "microsoft/generative-ai-for-beginners",
-    "language": "Jupyter Notebook",
-    "name": "microsoft/generative-ai-for-beginners",
-    "stars": 112109,
-    "updated_at": "2026-06-18T03:43:49Z",
-    "url": "https://github.com/microsoft/generative-ai-for-beginners"
-  },
-  {
-    "description": "Spec-driven, agentic workflow framework for AI coding agents. Turn a request into a verifiable goal loop \u2014 plan, act, ve",
-    "id": "clawplays/ospec",
-    "language": "JavaScript",
-    "name": "clawplays/ospec",
-    "stars": 549,
-    "updated_at": "2026-06-18T03:41:48Z",
-    "url": "https://github.com/clawplays/ospec"
   }
 ]
