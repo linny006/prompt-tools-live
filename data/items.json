@@ -1,5 +1,50 @@
 [
   {
+    "description": "Deterministic context refinement for AI-assisted development. Less noise, safer output, cleaner agent context.",
+    "id": "gogetrekt/bjir",
+    "language": "Rust",
+    "name": "gogetrekt/bjir",
+    "stars": 0,
+    "updated_at": "2026-06-18T02:06:30Z",
+    "url": "https://github.com/gogetrekt/bjir"
+  },
+  {
+    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
+    "id": "elon-choo/fablever",
+    "language": "JavaScript",
+    "name": "elon-choo/fablever",
+    "stars": 16,
+    "updated_at": "2026-06-18T02:04:42Z",
+    "url": "https://github.com/elon-choo/fablever"
+  },
+  {
+    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
+    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "language": "HTML",
+    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "stars": 0,
+    "updated_at": "2026-06-18T02:04:34Z",
+    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
+  },
+  {
+    "description": "You ship with AI. Now sell with it. Enterprise sales methodology for the AI era \u2014 refined inside AWS. Free Claude skill,",
+    "id": "vonarmen-wq/forward-deployed-selling",
+    "language": "\u2014",
+    "name": "vonarmen-wq/forward-deployed-selling",
+    "stars": 65,
+    "updated_at": "2026-06-18T02:03:05Z",
+    "url": "https://github.com/vonarmen-wq/forward-deployed-selling"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T02:00:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A beginner-to-expert curriculum of drop-in skills for Claude Code, Codex, and any coding agent. Copy-paste ready, tested",
     "id": "buildmoonshot/skillpacks",
     "language": "JavaScript",
@@ -34,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T01:54:09Z",
     "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
-  },
-  {
-    "description": "Deterministic context refinement for AI-assisted development. Less noise, safer output, cleaner agent context.",
-    "id": "gogetrekt/bjir",
-    "language": "Rust",
-    "name": "gogetrekt/bjir",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:54:31Z",
-    "url": "https://github.com/gogetrekt/bjir"
   },
   {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
@@ -81,15 +117,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T01:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
     "id": "tuantranute-it/icm-graph-context-flow",
     "language": "HTML",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T01:42:55Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:42:19Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -223,15 +241,6 @@
     "stars": 35197,
     "updated_at": "2026-06-18T01:28:34Z",
     "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "You ship with AI. Now sell with it. Enterprise sales methodology for the AI era \u2014 refined inside AWS. Free Claude skill,",
-    "id": "vonarmen-wq/forward-deployed-selling",
-    "language": "\u2014",
-    "name": "vonarmen-wq/forward-deployed-selling",
-    "stars": 65,
-    "updated_at": "2026-06-18T01:32:45Z",
-    "url": "https://github.com/vonarmen-wq/forward-deployed-selling"
   },
   {
     "description": "a pattern library for routing work between AI peers",
@@ -439,14 +448,5 @@
     "stars": 168,
     "updated_at": "2026-06-18T00:37:01Z",
     "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:37:01Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
