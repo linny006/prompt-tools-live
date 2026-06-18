@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 49,
-    "updated_at": "2026-06-18T02:30:07Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+    "description": "Rules and anti-patterns for preventing fake completion in AI coding agents.",
+    "id": "gordonlu/anti-fake-completion-agents",
+    "language": "\u2014",
+    "name": "gordonlu/anti-fake-completion-agents",
+    "stars": 0,
+    "updated_at": "2026-06-18T02:42:37Z",
+    "url": "https://github.com/gordonlu/anti-fake-completion-agents"
   },
   {
     "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
@@ -14,17 +14,80 @@
     "language": "Python",
     "name": "mobcat40/ComfyUI-PromptChain",
     "stars": 9,
-    "updated_at": "2026-06-18T02:28:15Z",
+    "updated_at": "2026-06-18T02:42:19Z",
     "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
   },
   {
-    "description": "Ruthless pre-submission review Claude skill for papers, business plans, code, competition entries, and creative work.",
+    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
+    "id": "realBoBao/Serena_Auto-Teaching",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_Auto-Teaching",
+    "stars": 0,
+    "updated_at": "2026-06-18T02:41:09Z",
+    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
+  },
+  {
+    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
+    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "language": "HTML",
+    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "stars": 0,
+    "updated_at": "2026-06-18T02:40:45Z",
+    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
+  },
+  {
+    "description": "Ruthless pre-submission review skill for Claude and Codex: papers, business plans, code, Mini Programs, competition entr",
     "id": "tianmind-studio/expert-review-panel",
     "language": "Python",
     "name": "tianmind-studio/expert-review-panel",
     "stars": 2,
-    "updated_at": "2026-06-18T02:27:43Z",
+    "updated_at": "2026-06-18T02:44:52Z",
     "url": "https://github.com/tianmind-studio/expert-review-panel"
+  },
+  {
+    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
+    "id": "YouMind-OpenLab/awesome-gpt-image-2",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-2",
+    "stars": 7596,
+    "updated_at": "2026-06-18T02:36:39Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
+  },
+  {
+    "description": "Simple test prompts for debugging LLMs and LLM context",
+    "id": "korpeztv/edge-ai-debugging",
+    "language": "\u2014",
+    "name": "korpeztv/edge-ai-debugging",
+    "stars": 1,
+    "updated_at": "2026-06-18T02:33:02Z",
+    "url": "https://github.com/korpeztv/edge-ai-debugging"
+  },
+  {
+    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
+    "id": "rmdhananjay/contextual-memory-map",
+    "language": "HTML",
+    "name": "rmdhananjay/contextual-memory-map",
+    "stars": 0,
+    "updated_at": "2026-06-18T02:31:52Z",
+    "url": "https://github.com/rmdhananjay/contextual-memory-map"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T02:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 49,
+    "updated_at": "2026-06-18T02:30:07Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
   },
   {
     "description": "GPT-Image-2 API and Prompts",
@@ -58,18 +121,9 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32494,
+    "stars": 32496,
     "updated_at": "2026-06-18T02:21:27Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:20:54Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
   },
   {
     "description": "AI engineering learning notes \u2014 Claude Code 6-layer architecture, LangChain, RAG, and hands-on projects",
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T02:16:42Z",
     "url": "https://github.com/zengtianli/learn"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T02:15:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 26587,
-    "updated_at": "2026-06-18T01:57:18Z",
+    "updated_at": "2026-06-18T02:40:34Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 285,
-    "updated_at": "2026-06-18T01:52:33Z",
+    "updated_at": "2026-06-18T02:39:01Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 12,
     "updated_at": "2026-06-18T01:51:55Z",
     "url": "https://github.com/KtKID/x-dev-pipeline"
-  },
-  {
-    "description": "Simple test prompts for debugging LLMs and LLM context",
-    "id": "korpeztv/edge-ai-debugging",
-    "language": "\u2014",
-    "name": "korpeztv/edge-ai-debugging",
-    "stars": 1,
-    "updated_at": "2026-06-18T01:51:21Z",
-    "url": "https://github.com/korpeztv/edge-ai-debugging"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -315,6 +351,15 @@
     "url": "https://github.com/github/awesome-copilot"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10180,
+    "updated_at": "2026-06-18T01:25:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "a pattern library for routing work between AI peers",
     "id": "wisehash-llc/dispatch-protocol",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T01:53:38Z",
     "url": "https://github.com/MCamner/atlas-one"
-  },
-  {
-    "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice along",
-    "id": "grimaldost/craft-collection",
-    "language": "Python",
-    "name": "grimaldost/craft-collection",
-    "stars": 0,
-    "updated_at": "2026-06-18T01:00:24Z",
-    "url": "https://github.com/grimaldost/craft-collection"
-  },
-  {
-    "description": "Typed building blocks for everything around your LLM call.",
-    "id": "use-crux/crux",
-    "language": "TypeScript",
-    "name": "use-crux/crux",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:59:59Z",
-    "url": "https://github.com/use-crux/crux"
-  },
-  {
-    "description": "A production-grade SvelteKit starter kit built around a real multi-user expense tracker, demonstrating technical decisio",
-    "id": "john-data-chen/sveltekit-starter-kit",
-    "language": "TypeScript",
-    "name": "john-data-chen/sveltekit-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-06-18T00:57:08Z",
-    "url": "https://github.com/john-data-chen/sveltekit-starter-kit"
-  },
-  {
-    "description": "Installable library of AI coding agents, skills, commands, guides & tools \u2014 the copy-paste mirror of agentscamp.com",
-    "id": "imtiazrayhan/agentscamp-library",
-    "language": "\u2014",
-    "name": "imtiazrayhan/agentscamp-library",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:49:03Z",
-    "url": "https://github.com/imtiazrayhan/agentscamp-library"
-  },
-  {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 12,
-    "updated_at": "2026-06-18T00:47:52Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
   }
 ]
