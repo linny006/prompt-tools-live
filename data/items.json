@@ -1,5 +1,113 @@
 [
   {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-06-18T07:15:23Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "167 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "Shell",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 979,
+    "updated_at": "2026-06-18T07:15:14Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:15:03Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:14:01Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:12:35Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "\ud83d\uddff FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+    "id": "baskduf/FableCodex",
+    "language": "Python",
+    "name": "baskduf/FableCodex",
+    "stars": 278,
+    "updated_at": "2026-06-18T07:12:09Z",
+    "url": "https://github.com/baskduf/FableCodex"
+  },
+  {
+    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
+    "id": "pranavkafle/serpapi-mcp-catalog",
+    "language": "Python",
+    "name": "pranavkafle/serpapi-mcp-catalog",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:11:51Z",
+    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
+  },
+  {
+    "description": "A polished, expert-grade prompt enhancer tool. Clean UI, dark mode, four enhancement modes, and zero dependencies.",
+    "id": "h4x-io/Prompt-enhancer",
+    "language": "HTML",
+    "name": "h4x-io/Prompt-enhancer",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:11:38Z",
+    "url": "https://github.com/h4x-io/Prompt-enhancer"
+  },
+  {
+    "description": "AI dotfiles",
+    "id": "manusa/ai",
+    "language": "Shell",
+    "name": "manusa/ai",
+    "stars": 1,
+    "updated_at": "2026-06-18T07:09:05Z",
+    "url": "https://github.com/manusa/ai"
+  },
+  {
+    "description": "Build a reusable AI profile for personalised responses across GPT, Claude, Gemini, Perplexity, and other LLMs.",
+    "id": "bvlprannoykumar/edge-profile-builder",
+    "language": "\u2014",
+    "name": "bvlprannoykumar/edge-profile-builder",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:08:59Z",
+    "url": "https://github.com/bvlprannoykumar/edge-profile-builder"
+  },
+  {
+    "description": "Version control for intent, not code. Commit the prompts, notes, and decisions behind a codebase, then materialize it on",
+    "id": "lorevcs/lore",
+    "language": "Rust",
+    "name": "lorevcs/lore",
+    "stars": 3,
+    "updated_at": "2026-06-18T07:07:12Z",
+    "url": "https://github.com/lorevcs/lore"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T07:03:39Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
     "id": "VisionaireLabs/Visionaire",
     "language": "TypeScript",
@@ -25,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T07:01:13Z",
     "url": "https://github.com/stealth-engine/skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T07:00:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
@@ -99,30 +198,12 @@
     "url": "https://github.com/justinlietz93/Perfect_Prompts"
   },
   {
-    "description": "Version control for intent, not code. Commit the prompts, notes, and decisions behind a codebase, then materialize it on",
-    "id": "lorevcs/lore",
-    "language": "Rust",
-    "name": "lorevcs/lore",
-    "stars": 3,
-    "updated_at": "2026-06-18T06:51:18Z",
-    "url": "https://github.com/lorevcs/lore"
-  },
-  {
-    "description": "\ud83d\uddff FableCodex is a Codex-style coding agent workflow that plans like Fable.",
-    "id": "baskduf/FableCodex",
-    "language": "Python",
-    "name": "baskduf/FableCodex",
-    "stars": 278,
-    "updated_at": "2026-06-18T06:53:22Z",
-    "url": "https://github.com/baskduf/FableCodex"
-  },
-  {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
     "id": "IBM/mcp-context-forge",
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 3919,
-    "updated_at": "2026-06-18T06:57:00Z",
+    "updated_at": "2026-06-18T07:09:14Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -220,7 +301,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 32110,
+    "stars": 32130,
     "updated_at": "2026-06-18T06:29:11Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -301,7 +382,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32549,
+    "stars": 32553,
     "updated_at": "2026-06-18T06:19:32Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -347,7 +428,7 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 11,
-    "updated_at": "2026-06-18T06:09:17Z",
+    "updated_at": "2026-06-18T07:14:47Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T06:36:06Z",
     "url": "https://github.com/min9lin9/kimi-agent-swarm-skill"
-  },
-  {
-    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
-    "id": "AditthyaSS/iloveAgents",
-    "language": "JavaScript",
-    "name": "AditthyaSS/iloveAgents",
-    "stars": 92,
-    "updated_at": "2026-06-18T06:07:17Z",
-    "url": "https://github.com/AditthyaSS/iloveAgents"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:59:15Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Part 1 of a large AI and agent skills collection featuring 900+ reusable skill folders, prompt workflows, references, sc",
-    "id": "pinkpixel-dev/skills-collection-1",
-    "language": "Python",
-    "name": "pinkpixel-dev/skills-collection-1",
-    "stars": 5,
-    "updated_at": "2026-06-18T05:54:22Z",
-    "url": "https://github.com/pinkpixel-dev/skills-collection-1"
-  },
-  {
-    "description": "ex-cog \u2014 externalized cognition. Four Claude Code plugins. research-toolkit \u2014 self-checking investigation & verification",
-    "id": "bogheorghiu/ex-cog-dev",
-    "language": "Python",
-    "name": "bogheorghiu/ex-cog-dev",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:51:54Z",
-    "url": "https://github.com/bogheorghiu/ex-cog-dev"
-  },
-  {
-    "description": "Open-source AI learning platform featuring structured learning paths, projects, roadmaps, AI tools, challenges, exams, a",
-    "id": "DipakMandlik/AIByDM",
-    "language": "Python",
-    "name": "DipakMandlik/AIByDM",
-    "stars": 2,
-    "updated_at": "2026-06-18T05:50:53Z",
-    "url": "https://github.com/DipakMandlik/AIByDM"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10182,
-    "updated_at": "2026-06-18T05:50:12Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:49:48Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:49:27Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:49:27Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
   }
 ]
