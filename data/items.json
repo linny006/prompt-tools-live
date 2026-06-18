@@ -1,5 +1,131 @@
 [
   {
+    "description": "Multi-agent audit master prompts (security, repo, frontend, API, perf, data, infra, AI/LLM, compliance, a11y, docs) + a ",
+    "id": "marcelrapold/auditor",
+    "language": "TypeScript",
+    "name": "marcelrapold/auditor",
+    "stars": 0,
+    "updated_at": "2026-06-18T05:43:01Z",
+    "url": "https://github.com/marcelrapold/auditor"
+  },
+  {
+    "description": "Version control for intent, not code. Commit the prompts, notes, and decisions behind a codebase, then materialize it on",
+    "id": "lorevcs/lore",
+    "language": "Rust",
+    "name": "lorevcs/lore",
+    "stars": 3,
+    "updated_at": "2026-06-18T05:40:56Z",
+    "url": "https://github.com/lorevcs/lore"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 759,
+    "updated_at": "2026-06-18T05:39:34Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Turning product changes into user-facing documentation",
+    "id": "IreliaWuW/global-content-skill-kit",
+    "language": "\u2014",
+    "name": "IreliaWuW/global-content-skill-kit",
+    "stars": 0,
+    "updated_at": "2026-06-18T05:38:25Z",
+    "url": "https://github.com/IreliaWuW/global-content-skill-kit"
+  },
+  {
+    "description": "Defensive Claude Code scam-baiting agent harness with personas, stall tactics, anti-detection, session state, intel extr",
+    "id": "copyleftdev/kitboga",
+    "language": "\u2014",
+    "name": "copyleftdev/kitboga",
+    "stars": 0,
+    "updated_at": "2026-06-18T05:38:07Z",
+    "url": "https://github.com/copyleftdev/kitboga"
+  },
+  {
+    "description": "Agent skills we use daily in the studio \u2014 reusable, on-demand context for Claude Code, Cursor & other skills.sh-compatib",
+    "id": "stealth-engine/skills",
+    "language": "\u2014",
+    "name": "stealth-engine/skills",
+    "stars": 0,
+    "updated_at": "2026-06-18T05:37:55Z",
+    "url": "https://github.com/stealth-engine/skills"
+  },
+  {
+    "description": "agentic harness for qwen3.5 with context size of 16384 tokens with a focus on context management(WIP)",
+    "id": "tmijieux/ai-chat",
+    "language": "Python",
+    "name": "tmijieux/ai-chat",
+    "stars": 0,
+    "updated_at": "2026-06-18T05:35:27Z",
+    "url": "https://github.com/tmijieux/ai-chat"
+  },
+  {
+    "description": "A curated library of reusable AI skills and prompt templates for LLMs and AI agents to enhance reasoning, productivity, ",
+    "id": "bob798/ai-skill-kit",
+    "language": "Shell",
+    "name": "bob798/ai-skill-kit",
+    "stars": 1,
+    "updated_at": "2026-06-18T05:34:37Z",
+    "url": "https://github.com/bob798/ai-skill-kit"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12542,
+    "updated_at": "2026-06-18T05:32:36Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Codex-only skill for Kimi swarm-style prompt refinement and verified workflow routing.",
+    "id": "min9lin9/kimi-agent-swarm-skill",
+    "language": "TypeScript",
+    "name": "min9lin9/kimi-agent-swarm-skill",
+    "stars": 0,
+    "updated_at": "2026-06-18T05:32:09Z",
+    "url": "https://github.com/min9lin9/kimi-agent-swarm-skill"
+  },
+  {
+    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 53,
+    "updated_at": "2026-06-18T05:30:42Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T05:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 0,
+    "updated_at": "2026-06-18T05:30:28Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 32527,
+    "updated_at": "2026-06-18T05:29:36Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
     "id": "Faudzan10/outline-driven-starter-kit",
     "language": "HTML",
@@ -36,33 +162,6 @@
     "url": "https://github.com/telagod/code-abyss"
   },
   {
-    "description": "Agent skills we use daily in the studio \u2014 reusable, on-demand context for Claude Code, Cursor & other skills.sh-compatib",
-    "id": "stealth-engine/skills",
-    "language": "\u2014",
-    "name": "stealth-engine/skills",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:25:10Z",
-    "url": "https://github.com/stealth-engine/skills"
-  },
-  {
-    "description": "Codex-only skill for Kimi swarm-style prompt refinement and verified workflow routing.",
-    "id": "min9lin9/kimi-agent-swarm-skill",
-    "language": "TypeScript",
-    "name": "min9lin9/kimi-agent-swarm-skill",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:22:40Z",
-    "url": "https://github.com/min9lin9/kimi-agent-swarm-skill"
-  },
-  {
-    "description": "Version control for intent, not code. Commit the prompts, notes, and decisions behind a codebase, then materialize it on",
-    "id": "lorevcs/lore",
-    "language": "Rust",
-    "name": "lorevcs/lore",
-    "stars": 3,
-    "updated_at": "2026-06-18T05:22:22Z",
-    "url": "https://github.com/lorevcs/lore"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -70,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T05:20:09Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Turning product changes into user-facing documentation",
-    "id": "IreliaWuW/global-content-skill-kit",
-    "language": "\u2014",
-    "name": "IreliaWuW/global-content-skill-kit",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:15:48Z",
-    "url": "https://github.com/IreliaWuW/global-content-skill-kit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T05:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Pluggable, multi-language implementations of SpreadsheetLLM-style SheetCompressor encoding for token-efficient LLM workf",
@@ -265,7 +346,7 @@
     "id": "Open-Less/openless",
     "language": "HTML",
     "name": "Open-Less/openless",
-    "stars": 2386,
+    "stars": 2387,
     "updated_at": "2026-06-18T04:43:07Z",
     "url": "https://github.com/Open-Less/openless"
   },
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T04:29:01Z",
     "url": "https://github.com/Leo-maomao/pm-copilot"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 31902,
-    "updated_at": "2026-06-18T04:28:23Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1380,
-    "updated_at": "2026-06-18T04:26:02Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "A tool that compiles messy natural language prompts into a structured intermediate representation (IR) and optionally se",
-    "id": "madara88645/Compiler",
-    "language": "Python",
-    "name": "madara88645/Compiler",
-    "stars": 25,
-    "updated_at": "2026-06-18T04:23:28Z",
-    "url": "https://github.com/madara88645/Compiler"
-  },
-  {
-    "description": "GPT-Image-2 API and Prompts",
-    "id": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "language": "Python",
-    "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "stars": 16772,
-    "updated_at": "2026-06-18T04:19:50Z",
-    "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10181,
-    "updated_at": "2026-06-18T04:18:59Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22330,
-    "updated_at": "2026-06-18T04:15:13Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Catalog and free tools for Claudette Agent digital products: handoff, eval, and agent-commerce kits.",
-    "id": "claudette-agent/claudette-agent.github.io",
-    "language": "HTML",
-    "name": "claudette-agent/claudette-agent.github.io",
-    "stars": 0,
-    "updated_at": "2026-06-18T04:15:05Z",
-    "url": "https://github.com/claudette-agent/claudette-agent.github.io"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-06-18T04:14:09Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Point any frontier coding agent at a repo and bring it up to a standard of excellence \u2014 safe, evidence-based, and scales",
-    "id": "michaelcrosato/agent-cleaner",
-    "language": "Shell",
-    "name": "michaelcrosato/agent-cleaner",
-    "stars": 0,
-    "updated_at": "2026-06-18T04:11:00Z",
-    "url": "https://github.com/michaelcrosato/agent-cleaner"
   }
 ]
