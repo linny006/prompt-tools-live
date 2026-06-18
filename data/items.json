@@ -1,12 +1,21 @@
 [
   {
-    "description": "Turn your coding agent into a full product team \u2014 composable skills across research, marketing, product, and process. On",
-    "id": "hungv47/meta-skills",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "hungv47/meta-skills",
-    "stars": 11,
-    "updated_at": "2026-06-18T07:30:02Z",
-    "url": "https://github.com/hungv47/meta-skills"
+    "name": "langfuse/langfuse",
+    "stars": 29310,
+    "updated_at": "2026-06-18T07:45:12Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 32193,
+    "updated_at": "2026-06-18T07:41:32Z",
+    "url": "https://github.com/chopratejas/headroom"
   },
   {
     "description": "AI Prompt Slimming Toolkit - reduce token consumption 5-40% before every API call. \u4e2d\u82f1\u6587\u5197\u4f59\u68c0\u6d4b + LLM\u667a\u80fd\u538b\u7f29\u3002",
@@ -14,8 +23,107 @@
     "language": "Python",
     "name": "JING04-PRODUCER/promptslim",
     "stars": 1,
-    "updated_at": "2026-06-18T07:29:30Z",
+    "updated_at": "2026-06-18T07:40:31Z",
     "url": "https://github.com/JING04-PRODUCER/promptslim"
+  },
+  {
+    "description": "\ud83d\uddff FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+    "id": "baskduf/FableCodex",
+    "language": "Python",
+    "name": "baskduf/FableCodex",
+    "stars": 278,
+    "updated_at": "2026-06-18T07:41:05Z",
+    "url": "https://github.com/baskduf/FableCodex"
+  },
+  {
+    "description": "Makes your AI agent think like the laziest senior architect in the room. The best layer is the layer you never added.",
+    "id": "malrobust/ORIGAMI",
+    "language": "JavaScript",
+    "name": "malrobust/ORIGAMI",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:39:40Z",
+    "url": "https://github.com/malrobust/ORIGAMI"
+  },
+  {
+    "description": "165 evidence-based education skills for Claude, Codex, Hermes and any Agent Skills-compatible tool.",
+    "id": "GarethManning/education-agent-skills",
+    "language": "TypeScript",
+    "name": "GarethManning/education-agent-skills",
+    "stars": 325,
+    "updated_at": "2026-06-18T07:39:26Z",
+    "url": "https://github.com/GarethManning/education-agent-skills"
+  },
+  {
+    "description": "167 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "JavaScript",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 979,
+    "updated_at": "2026-06-18T07:37:40Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
+    "id": "mufeedvh/code2prompt",
+    "language": "Rust",
+    "name": "mufeedvh/code2prompt",
+    "stars": 7419,
+    "updated_at": "2026-06-18T07:35:54Z",
+    "url": "https://github.com/mufeedvh/code2prompt"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:33:47Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 1,
+    "updated_at": "2026-06-18T07:32:36Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
+    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
+    "id": "elon-choo/fablever",
+    "language": "JavaScript",
+    "name": "elon-choo/fablever",
+    "stars": 19,
+    "updated_at": "2026-06-18T07:31:32Z",
+    "url": "https://github.com/elon-choo/fablever"
+  },
+  {
+    "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
+    "id": "ftvision/agent-prompt-observatory",
+    "language": "Python",
+    "name": "ftvision/agent-prompt-observatory",
+    "stars": 1,
+    "updated_at": "2026-06-18T07:30:39Z",
+    "url": "https://github.com/ftvision/agent-prompt-observatory"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-18T07:30:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Turn your coding agent into a full product team \u2014 composable skills across research, marketing, product, and process. On",
+    "id": "hungv47/meta-skills",
+    "language": "TypeScript",
+    "name": "hungv47/meta-skills",
+    "stars": 11,
+    "updated_at": "2026-06-18T07:30:02Z",
+    "url": "https://github.com/hungv47/meta-skills"
   },
   {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
@@ -50,17 +158,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19685,
-    "updated_at": "2026-06-18T07:27:07Z",
+    "updated_at": "2026-06-18T07:34:20Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 32163,
-    "updated_at": "2026-06-18T07:26:46Z",
-    "url": "https://github.com/chopratejas/headroom"
   },
   {
     "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
@@ -77,17 +176,8 @@
     "language": "\u2014",
     "name": "freerk/archetype-writer",
     "stars": 0,
-    "updated_at": "2026-06-18T07:25:36Z",
+    "updated_at": "2026-06-18T07:35:29Z",
     "url": "https://github.com/freerk/archetype-writer"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T07:23:27Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
@@ -117,15 +207,6 @@
     "url": "https://github.com/Lling0000/Vibe_coding_guide"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29308,
-    "updated_at": "2026-06-18T07:20:59Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
     "id": "LouisLau-art/multi-agent-skills-catalog",
     "language": "Python",
@@ -148,18 +229,9 @@
     "id": "FlorianBruniaux/claude-code-ultimate-guide",
     "language": "Python",
     "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5080,
+    "stars": 5081,
     "updated_at": "2026-06-18T07:16:07Z",
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-18T07:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
@@ -169,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T07:15:23Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "167 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "Shell",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 979,
-    "updated_at": "2026-06-18T07:16:18Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -198,15 +261,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "\ud83d\uddff FableCodex is a Codex-style coding agent workflow that plans like Fable.",
-    "id": "baskduf/FableCodex",
-    "language": "Python",
-    "name": "baskduf/FableCodex",
-    "stars": 278,
-    "updated_at": "2026-06-18T07:16:37Z",
-    "url": "https://github.com/baskduf/FableCodex"
-  },
-  {
     "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
     "id": "pranavkafle/serpapi-mcp-catalog",
     "language": "Python",
@@ -217,12 +271,12 @@
   },
   {
     "description": "A polished, expert-grade prompt enhancer tool. Clean UI, dark mode, four enhancement modes, and zero dependencies.",
-    "id": "h4x-io/Prompt-enhancer",
+    "id": "h4x-io/prompt-enhancer",
     "language": "HTML",
-    "name": "h4x-io/Prompt-enhancer",
+    "name": "h4x-io/prompt-enhancer",
     "stars": 0,
     "updated_at": "2026-06-18T07:11:38Z",
-    "url": "https://github.com/h4x-io/Prompt-enhancer"
+    "url": "https://github.com/h4x-io/prompt-enhancer"
   },
   {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
@@ -394,59 +448,5 @@
     "stars": 549,
     "updated_at": "2026-06-18T06:36:55Z",
     "url": "https://github.com/clawplays/ospec"
-  },
-  {
-    "description": "A/B experiment: does compressing a voice dictation transcript before sending it to a coding agent preserve output qualit",
-    "id": "gititya/kevin-eats-muesli",
-    "language": "HTML",
-    "name": "gititya/kevin-eats-muesli",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:31:52Z",
-    "url": "https://github.com/gititya/kevin-eats-muesli"
-  },
-  {
-    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
-    "id": "Paulessus/odin-gemini-mcp-bridge",
-    "language": "HTML",
-    "name": "Paulessus/odin-gemini-mcp-bridge",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:31:02Z",
-    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:31:00Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:29:45Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
-    "id": "realBoBao/Serena_Auto-Teaching",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_Auto-Teaching",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:29:04Z",
-    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
-  },
-  {
-    "description": "Agentic prompts are the most important code you're not engineering. PromptKit fixes that \u2014 composable, version-controlle",
-    "id": "microsoft/PromptKit",
-    "language": "JavaScript",
-    "name": "microsoft/PromptKit",
-    "stars": 64,
-    "updated_at": "2026-06-18T06:28:18Z",
-    "url": "https://github.com/microsoft/PromptKit"
   }
 ]
