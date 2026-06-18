@@ -5,17 +5,134 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-18T15:45:05Z",
+    "updated_at": "2026-06-18T16:00:38Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29331,
-    "updated_at": "2026-06-18T15:45:22Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "promptfoo/promptfoo",
+    "stars": 22351,
+    "updated_at": "2026-06-18T16:00:11Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Prompt Slimming Toolkit - reduce token consumption 5-40% before every API call. \u4e2d\u82f1\u6587\u5197\u4f59\u68c0\u6d4b + LLM\u667a\u80fd\u538b\u7f29\u3002",
+    "id": "JING04-PRODUCER/promptslim",
+    "language": "Python",
+    "name": "JING04-PRODUCER/promptslim",
+    "stars": 1,
+    "updated_at": "2026-06-18T15:58:40Z",
+    "url": "https://github.com/JING04-PRODUCER/promptslim"
+  },
+  {
+    "description": "Rust CLI for LLM token compression: cut AI token waste, lower AI bills, preserve context, and prove protected facts with",
+    "id": "efij/streetman",
+    "language": "Rust",
+    "name": "efij/streetman",
+    "stars": 1,
+    "updated_at": "2026-06-18T15:59:09Z",
+    "url": "https://github.com/efij/streetman"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 45,
+    "updated_at": "2026-06-18T15:59:22Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "\ud83e\uddd9 Democratizing best practices across 27 domains. Your AI knows everything \u2014 Grimoire makes it practice it.",
+    "id": "jeffreytse/grimoire",
+    "language": "Go",
+    "name": "jeffreytse/grimoire",
+    "stars": 12,
+    "updated_at": "2026-06-18T15:56:55Z",
+    "url": "https://github.com/jeffreytse/grimoire"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-06-18T15:56:38Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 0,
+    "updated_at": "2026-06-18T15:55:07Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "\ud83e\uddd9 Democratizing best practices across 27 domains. Your AI knows everything \u2014 Grimoire makes it practice it.",
+    "id": "jeffreytse/grimoire-skills",
+    "language": "Shell",
+    "name": "jeffreytse/grimoire-skills",
+    "stars": 0,
+    "updated_at": "2026-06-18T15:54:18Z",
+    "url": "https://github.com/jeffreytse/grimoire-skills"
+  },
+  {
+    "description": "Product-side Spec-Driven Development framework \u2014 PRD, interactive prototype, DDD handoff, AI runtime governance, accepta",
+    "id": "franklinxkk/ai-delivery-spec",
+    "language": "Python",
+    "name": "franklinxkk/ai-delivery-spec",
+    "stars": 3,
+    "updated_at": "2026-06-18T15:54:13Z",
+    "url": "https://github.com/franklinxkk/ai-delivery-spec"
+  },
+  {
+    "description": "52 ready-to-deploy Microsoft Copilot Chat agents \u2014 paste the instruction block into Copilot Studio and you're live. Writ",
+    "id": "kesslernity/awesome-copilot-chat-agents",
+    "language": "\u2014",
+    "name": "kesslernity/awesome-copilot-chat-agents",
+    "stars": 50,
+    "updated_at": "2026-06-18T15:52:40Z",
+    "url": "https://github.com/kesslernity/awesome-copilot-chat-agents"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 9,
+    "updated_at": "2026-06-18T15:52:08Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "Defensive Claude Code scam-baiting agent harness with personas, stall tactics, anti-detection, session state, intel extr",
+    "id": "copyleftdev/kitboga",
+    "language": "\u2014",
+    "name": "copyleftdev/kitboga",
+    "stars": 0,
+    "updated_at": "2026-06-18T15:52:04Z",
+    "url": "https://github.com/copyleftdev/kitboga"
+  },
+  {
+    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
+    "id": "FoxsterDev/ai-research-hub",
+    "language": "Python",
+    "name": "FoxsterDev/ai-research-hub",
+    "stars": 3,
+    "updated_at": "2026-06-18T15:51:56Z",
+    "url": "https://github.com/FoxsterDev/ai-research-hub"
+  },
+  {
+    "description": "Markdown for the AI era",
+    "id": "agentmark-ai/agentmark",
+    "language": "TypeScript",
+    "name": "agentmark-ai/agentmark",
+    "stars": 352,
+    "updated_at": "2026-06-18T15:53:07Z",
+    "url": "https://github.com/agentmark-ai/agentmark"
   },
   {
     "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 400+ prompts for Office apps, Copilot Studio, se",
@@ -23,8 +140,44 @@
     "language": "\u2014",
     "name": "kesslernity/awesome-microsoft-copilot-prompts",
     "stars": 415,
-    "updated_at": "2026-06-18T15:42:32Z",
+    "updated_at": "2026-06-18T15:51:24Z",
     "url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts"
+  },
+  {
+    "description": "Pluggable, multi-language implementations of SpreadsheetLLM-style SheetCompressor encoding for token-efficient LLM workf",
+    "id": "mythopoeic/sheet-compressor",
+    "language": "TypeScript",
+    "name": "mythopoeic/sheet-compressor",
+    "stars": 0,
+    "updated_at": "2026-06-18T15:49:35Z",
+    "url": "https://github.com/mythopoeic/sheet-compressor"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-18T15:45:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29331,
+    "updated_at": "2026-06-18T15:54:06Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f \u6700\u5b9e\u7528\u7684 Claude Code Skills \u5408\u96c6 | \u7cbe\u9009 100+ | 18\u4e2a\u539f\u521b\u53ef\u5b89\u88c5\u6280\u80fd | \u6309\u573a\u666f\u5206\u7c7b | \u590d\u5236\u5373\u88c5",
+    "id": "laolaoshiren/claude-code-skills-zh",
+    "language": "Python",
+    "name": "laolaoshiren/claude-code-skills-zh",
+    "stars": 377,
+    "updated_at": "2026-06-18T15:45:03Z",
+    "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
   },
   {
     "description": "A test runner for prompts. Score them and fail the PR when one regresses \u2014 CLI + GitHub Action.",
@@ -45,15 +198,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Rust CLI for LLM token compression: cut AI token waste, lower AI bills, preserve context, and prove protected facts with",
-    "id": "efij/streetman",
-    "language": "Rust",
-    "name": "efij/streetman",
-    "stars": 1,
-    "updated_at": "2026-06-18T15:40:36Z",
-    "url": "https://github.com/efij/streetman"
-  },
-  {
     "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
     "id": "ZeroLu/awesome-gpt-image",
     "language": "Python",
@@ -70,15 +214,6 @@
     "stars": 6,
     "updated_at": "2026-06-18T15:37:03Z",
     "url": "https://github.com/2023Anita/scientific-visual-skills"
-  },
-  {
-    "description": "Defensive Claude Code scam-baiting agent harness with personas, stall tactics, anti-detection, session state, intel extr",
-    "id": "copyleftdev/kitboga",
-    "language": "\u2014",
-    "name": "copyleftdev/kitboga",
-    "stars": 0,
-    "updated_at": "2026-06-18T15:36:38Z",
-    "url": "https://github.com/copyleftdev/kitboga"
   },
   {
     "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
@@ -99,15 +234,6 @@
     "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
   },
   {
-    "description": "Markdown for the AI era",
-    "id": "agentmark-ai/agentmark",
-    "language": "TypeScript",
-    "name": "agentmark-ai/agentmark",
-    "stars": 352,
-    "updated_at": "2026-06-18T15:45:14Z",
-    "url": "https://github.com/agentmark-ai/agentmark"
-  },
-  {
     "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
@@ -115,15 +241,6 @@
     "stars": 11,
     "updated_at": "2026-06-18T15:30:45Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-18T15:30:40Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Per-repo memory, outcome telemetry, and a calibrated-confidence gate for Claude Code, with MCP and AGENTS.md projections",
@@ -180,15 +297,6 @@
     "url": "https://github.com/mrwogu/promptscript"
   },
   {
-    "description": "\ud83d\udee0\ufe0f \u6700\u5b9e\u7528\u7684 Claude Code Skills \u5408\u96c6 | \u7cbe\u9009 100+ | 18\u4e2a\u539f\u521b\u53ef\u5b89\u88c5\u6280\u80fd | \u6309\u573a\u666f\u5206\u7c7b | \u590d\u5236\u5373\u88c5",
-    "id": "laolaoshiren/claude-code-skills-zh",
-    "language": "Python",
-    "name": "laolaoshiren/claude-code-skills-zh",
-    "stars": 377,
-    "updated_at": "2026-06-18T15:45:03Z",
-    "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
-  },
-  {
     "description": "CI for prompts \u2014 golden sets, LLM-as-judge with calibration, and regression gating. TypeScript CLI + Next.js dashboard.",
     "id": "Qweffy/rubric",
     "language": "TypeScript",
@@ -234,24 +342,6 @@
     "url": "https://github.com/fahadyaqub/agents-workbench"
   },
   {
-    "description": "Pluggable, multi-language implementations of SpreadsheetLLM-style SheetCompressor encoding for token-efficient LLM workf",
-    "id": "mythopoeic/sheet-compressor",
-    "language": "TypeScript",
-    "name": "mythopoeic/sheet-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-18T15:21:06Z",
-    "url": "https://github.com/mythopoeic/sheet-compressor"
-  },
-  {
-    "description": "52 ready-to-deploy Microsoft Copilot Chat agents \u2014 paste the instruction block into Copilot Studio and you're live. Writ",
-    "id": "kesslernity/awesome-copilot-chat-agents",
-    "language": "\u2014",
-    "name": "kesslernity/awesome-copilot-chat-agents",
-    "stars": 50,
-    "updated_at": "2026-06-18T15:18:33Z",
-    "url": "https://github.com/kesslernity/awesome-copilot-chat-agents"
-  },
-  {
     "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
     "id": "elon-choo/fablever",
     "language": "JavaScript",
@@ -284,7 +374,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-18T15:13:21Z",
+    "updated_at": "2026-06-18T15:51:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -292,7 +382,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 35213,
+    "stars": 35285,
     "updated_at": "2026-06-18T15:09:29Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -322,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T15:07:39Z",
     "url": "https://github.com/rusad/judge-probe"
-  },
-  {
-    "description": "AI-native product delivery protocol for PRD, mobile mini-programs, prototypes, DDD handoff, agent harness engineering, e",
-    "id": "franklinxkk/ai-delivery-spec",
-    "language": "Python",
-    "name": "franklinxkk/ai-delivery-spec",
-    "stars": 3,
-    "updated_at": "2026-06-18T15:07:07Z",
-    "url": "https://github.com/franklinxkk/ai-delivery-spec"
   },
   {
     "description": "Prompt diagnosis judgment \u2014 identify why a prompt failed (task mixing, goal ambiguity, context gap), not just suggest fo",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T14:51:25Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Awesome Happy Horse 1.0 Prompts",
-    "id": "AtlasCloudAI/awesome-happy-horse-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-happy-horse-prompts",
-    "stars": 2,
-    "updated_at": "2026-06-18T14:51:22Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-happy-horse-prompts"
-  },
-  {
-    "description": "(RTX\u26a1) Core Framework \u2014 Reasoning | Thinking | Xtreme. A master AI blueprint for building autonomous agents that collabo",
-    "id": "PsProsen-Dev/RTXCoreFramework",
-    "language": "\u2014",
-    "name": "PsProsen-Dev/RTXCoreFramework",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:47:22Z",
-    "url": "https://github.com/PsProsen-Dev/RTXCoreFramework"
-  },
-  {
-    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4435,
-    "updated_at": "2026-06-18T15:19:07Z",
-    "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "OpenAI-compatible media generation gateway for AI Agents. Supports multi-provider image/video generation, model routing,",
-    "id": "ang77712829/AngeMedia-gateway",
-    "language": "Python",
-    "name": "ang77712829/AngeMedia-gateway",
-    "stars": 2,
-    "updated_at": "2026-06-18T14:44:47Z",
-    "url": "https://github.com/ang77712829/AngeMedia-gateway"
-  },
-  {
-    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
-    "id": "YouMind-OpenLab/awesome-gpt-image-2",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 7623,
-    "updated_at": "2026-06-18T14:44:29Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
-  },
-  {
-    "description": "Practical guide and toolkit for physicists and mathematicians using Claude Code \u2014 built from months on a real research p",
-    "id": "Mexregkan/claude-for-researchers",
-    "language": "Python",
-    "name": "Mexregkan/claude-for-researchers",
-    "stars": 36,
-    "updated_at": "2026-06-18T14:43:54Z",
-    "url": "https://github.com/Mexregkan/claude-for-researchers"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 6662,
-    "updated_at": "2026-06-18T14:57:46Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
-    "id": "rmdhananjay/contextual-memory-map",
-    "language": "HTML",
-    "name": "rmdhananjay/contextual-memory-map",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:42:02Z",
-    "url": "https://github.com/rmdhananjay/contextual-memory-map"
-  },
-  {
-    "description": "LLM prompt language based on Jinja. Banks provides tools and functions to build prompts text and chat messages from gene",
-    "id": "masci/banks",
-    "language": "Python",
-    "name": "masci/banks",
-    "stars": 127,
-    "updated_at": "2026-06-18T14:41:20Z",
-    "url": "https://github.com/masci/banks"
   }
 ]
