@@ -1,11 +1,65 @@
 [
   {
+    "description": "Ideogram 4 \u672c\u5730 CUDA \u56fe\u50cf\u751f\u6210\u5668\uff1a\u5185\u7f6e NF4 \u6743\u91cd\u3001\u5b98\u65b9 Magic Prompt \u63d0\u793a\u8bcd\u4f18\u5316\u3001Windows/Linux \u4fbf\u643a\u5305 / Local open-weight text-to-image generator",
+    "id": "mason369/ideogram-4-generator",
+    "language": "Python",
+    "name": "mason369/ideogram-4-generator",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:58:27Z",
+    "url": "https://github.com/mason369/ideogram-4-generator"
+  },
+  {
+    "description": "Version control for intent, not code. Commit the prompts, notes, and decisions behind a codebase, then materialize it on",
+    "id": "lorevcs/lore",
+    "language": "Rust",
+    "name": "lorevcs/lore",
+    "stars": 3,
+    "updated_at": "2026-06-18T03:58:22Z",
+    "url": "https://github.com/lorevcs/lore"
+  },
+  {
+    "description": "Simple test prompts for debugging LLMs and LLM context      ",
+    "id": "korpeztv/edge-ai-debugging",
+    "language": "\u2014",
+    "name": "korpeztv/edge-ai-debugging",
+    "stars": 1,
+    "updated_at": "2026-06-18T03:57:28Z",
+    "url": "https://github.com/korpeztv/edge-ai-debugging"
+  },
+  {
+    "description": "\ud83d\uddff FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+    "id": "baskduf/FableCodex",
+    "language": "Python",
+    "name": "baskduf/FableCodex",
+    "stars": 273,
+    "updated_at": "2026-06-18T03:56:18Z",
+    "url": "https://github.com/baskduf/FableCodex"
+  },
+  {
+    "description": "Markdown for the AI era",
+    "id": "agentmark-ai/agentmark",
+    "language": "TypeScript",
+    "name": "agentmark-ai/agentmark",
+    "stars": 352,
+    "updated_at": "2026-06-18T03:57:21Z",
+    "url": "https://github.com/agentmark-ai/agentmark"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 32513,
+    "updated_at": "2026-06-18T03:56:07Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
     "description": "Five-stage LLM screening pipeline that evaluates a resume against job descriptions from a Talent Consultant's perspectiv",
     "id": "ChiefStarKid/resume-assessor",
     "language": "Python",
     "name": "ChiefStarKid/resume-assessor",
     "stars": 0,
-    "updated_at": "2026-06-18T03:45:15Z",
+    "updated_at": "2026-06-18T03:53:42Z",
     "url": "https://github.com/ChiefStarKid/resume-assessor"
   },
   {
@@ -14,8 +68,35 @@
     "language": "\u2014",
     "name": "ChiefStarKid/link-pitch",
     "stars": 0,
-    "updated_at": "2026-06-18T03:45:08Z",
+    "updated_at": "2026-06-18T03:53:40Z",
     "url": "https://github.com/ChiefStarKid/link-pitch"
+  },
+  {
+    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 53,
+    "updated_at": "2026-06-18T03:53:27Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
+    "id": "realBoBao/Serena_Auto-Teaching",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_Auto-Teaching",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:53:24Z",
+    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
+  },
+  {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "HTML",
+    "name": "Open-Less/openless",
+    "stars": 2382,
+    "updated_at": "2026-06-18T03:50:17Z",
+    "url": "https://github.com/Open-Less/openless"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -23,15 +104,42 @@
     "language": "\u2014",
     "name": "HIDORAKAI002/ai-workspace-archive",
     "stars": 19,
-    "updated_at": "2026-06-18T03:45:01Z",
+    "updated_at": "2026-06-18T03:46:53Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "AI Coding \u5730\u57fa\uff1a\u9879\u76ee\u5f00\u5de5\u524d\u7684\u6cbb\u7406\u3001\u539f\u5219\u3001\u72b6\u6001\u4e0e\u534f\u4f5c\u521d\u59cb\u5316 Skill",
+    "id": "FinnCheung93/agentic-foundation",
+    "language": "Python",
+    "name": "FinnCheung93/agentic-foundation",
+    "stars": 0,
+    "updated_at": "2026-06-18T03:46:12Z",
+    "url": "https://github.com/FinnCheung93/agentic-foundation"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10180,
+    "updated_at": "2026-06-18T04:00:23Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T03:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "21 Lessons, Get Started Building with Generative AI ",
     "id": "microsoft/generative-ai-for-beginners",
     "language": "Jupyter Notebook",
     "name": "microsoft/generative-ai-for-beginners",
-    "stars": 112108,
+    "stars": 112109,
     "updated_at": "2026-06-18T03:43:49Z",
     "url": "https://github.com/microsoft/generative-ai-for-beginners"
   },
@@ -90,33 +198,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T03:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
-    "id": "realBoBao/Serena_Auto-Teaching",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_Auto-Teaching",
-    "stars": 0,
-    "updated_at": "2026-06-18T03:30:22Z",
-    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10180,
-    "updated_at": "2026-06-18T03:43:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
     "id": "5uprem4/ai-skill-vault",
     "language": "HTML",
@@ -169,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T03:13:37Z",
     "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 53,
-    "updated_at": "2026-06-18T03:09:25Z",
-    "url": "https://github.com/simota/agent-skills"
   },
   {
     "description": "\ud83d\udcdd AI academic paper writing agent for Claude Code \u2014 6 agents, 5 templates, APA/IEEE/GB7714",
@@ -297,15 +369,6 @@
     "url": "https://github.com/sauravbhattacharya001/agentlens"
   },
   {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 32510,
-    "updated_at": "2026-06-18T02:50:10Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
     "id": "lobisomenhomemafeminado/skill-vault",
     "language": "HTML",
@@ -369,15 +432,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
   {
-    "description": "Simple test prompts for debugging LLMs and LLM context      ",
-    "id": "korpeztv/edge-ai-debugging",
-    "language": "\u2014",
-    "name": "korpeztv/edge-ai-debugging",
-    "stars": 1,
-    "updated_at": "2026-06-18T02:33:02Z",
-    "url": "https://github.com/korpeztv/edge-ai-debugging"
-  },
-  {
     "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
     "id": "rmdhananjay/contextual-memory-map",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 49,
     "updated_at": "2026-06-18T02:30:07Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "GPT-Image-2 API and Prompts",
-    "id": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "language": "Python",
-    "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "stars": 16771,
-    "updated_at": "2026-06-18T02:26:09Z",
-    "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
-  },
-  {
-    "description": "You ship with AI. Now sell with it. Enterprise sales methodology for the AI era \u2014 refined inside AWS. Free Claude skill,",
-    "id": "vonarmen-wq/forward-deployed-selling",
-    "language": "\u2014",
-    "name": "vonarmen-wq/forward-deployed-selling",
-    "stars": 65,
-    "updated_at": "2026-06-18T02:25:39Z",
-    "url": "https://github.com/vonarmen-wq/forward-deployed-selling"
-  },
-  {
-    "description": "AI prompt engineering tool for image/video generation \u2014 structured prompt builder for Nano Banana , Veo3 , DALL-E, Kling",
-    "id": "DareDev256/Ultimate-Image-Video-Prompt-Generator",
-    "language": "TypeScript",
-    "name": "DareDev256/Ultimate-Image-Video-Prompt-Generator",
-    "stars": 8,
-    "updated_at": "2026-06-18T02:21:57Z",
-    "url": "https://github.com/DareDev256/Ultimate-Image-Video-Prompt-Generator"
-  },
-  {
-    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
-    "id": "elon-choo/fablever",
-    "language": "JavaScript",
-    "name": "elon-choo/fablever",
-    "stars": 18,
-    "updated_at": "2026-06-18T02:14:51Z",
-    "url": "https://github.com/elon-choo/fablever"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 21,
-    "updated_at": "2026-06-18T02:12:01Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Comments for anything. In plain text. In git. \u2014 https://markback.org",
-    "id": "dandriscoll/markback",
-    "language": "Python",
-    "name": "dandriscoll/markback",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:07:50Z",
-    "url": "https://github.com/dandriscoll/markback"
   }
 ]
