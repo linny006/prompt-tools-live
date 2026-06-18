@@ -1,5 +1,167 @@
 [
   {
+    "description": "Turn your coding agent into a full product team \u2014 composable skills across research, marketing, product, and process. On",
+    "id": "hungv47/meta-skills",
+    "language": "TypeScript",
+    "name": "hungv47/meta-skills",
+    "stars": 11,
+    "updated_at": "2026-06-18T07:30:02Z",
+    "url": "https://github.com/hungv47/meta-skills"
+  },
+  {
+    "description": "AI Prompt Slimming Toolkit - reduce token consumption 5-40% before every API call. \u4e2d\u82f1\u6587\u5197\u4f59\u68c0\u6d4b + LLM\u667a\u80fd\u538b\u7f29\u3002",
+    "id": "JING04-PRODUCER/promptslim",
+    "language": "Python",
+    "name": "JING04-PRODUCER/promptslim",
+    "stars": 1,
+    "updated_at": "2026-06-18T07:29:30Z",
+    "url": "https://github.com/JING04-PRODUCER/promptslim"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:29:09Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "Open-source AI learning platform featuring structured learning paths, projects, roadmaps, AI tools, challenges, exams, a",
+    "id": "DipakMandlik/AIByDM",
+    "language": "Python",
+    "name": "DipakMandlik/AIByDM",
+    "stars": 2,
+    "updated_at": "2026-06-18T07:28:05Z",
+    "url": "https://github.com/DipakMandlik/AIByDM"
+  },
+  {
+    "description": "A full-stack prompt intelligence platform that analyzes your unique prompting traits and refines raw natural-language pr",
+    "id": "sameernagar-hub/promptPilot",
+    "language": "Python",
+    "name": "sameernagar-hub/promptPilot",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:27:12Z",
+    "url": "https://github.com/sameernagar-hub/promptPilot"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19685,
+    "updated_at": "2026-06-18T07:27:07Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 32163,
+    "updated_at": "2026-06-18T07:26:46Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
+    "id": "rmdhananjay/contextual-memory-map",
+    "language": "HTML",
+    "name": "rmdhananjay/contextual-memory-map",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:24:16Z",
+    "url": "https://github.com/rmdhananjay/contextual-memory-map"
+  },
+  {
+    "description": "Brand-voiced writing skill for Claude Code and ChatGPT: 12 Jungian archetype personas, channel-aware copy, and editorial",
+    "id": "freerk/archetype-writer",
+    "language": "\u2014",
+    "name": "freerk/archetype-writer",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:25:36Z",
+    "url": "https://github.com/freerk/archetype-writer"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:23:27Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
+    "id": "hilmifawwazsaad/DidYouKnow",
+    "language": "TypeScript",
+    "name": "hilmifawwazsaad/DidYouKnow",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:23:12Z",
+    "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
+  },
+  {
+    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4426,
+    "updated_at": "2026-06-18T07:23:10Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "\u4e2d\u6587\u4f18\u5148\u7684 Vibe Coding / AI coding engineering workflow guide: specs, agents, worktrees, skills, CI, and review.",
+    "id": "Lling0000/Vibe_coding_guide",
+    "language": "JavaScript",
+    "name": "Lling0000/Vibe_coding_guide",
+    "stars": 49,
+    "updated_at": "2026-06-18T07:21:17Z",
+    "url": "https://github.com/Lling0000/Vibe_coding_guide"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29308,
+    "updated_at": "2026-06-18T07:20:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
+    "id": "LouisLau-art/multi-agent-skills-catalog",
+    "language": "Python",
+    "name": "LouisLau-art/multi-agent-skills-catalog",
+    "stars": 2,
+    "updated_at": "2026-06-18T07:20:14Z",
+    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
+  },
+  {
+    "description": "Measurement harness for benchmarking whether Codex instruction packages reduce token use without degrading task quality.",
+    "id": "MacSteini/scaldex",
+    "language": "Python",
+    "name": "MacSteini/scaldex",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:19:47Z",
+    "url": "https://github.com/MacSteini/scaldex"
+  },
+  {
+    "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready tem",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5080,
+    "updated_at": "2026-06-18T07:16:07Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-18T07:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
     "id": "sauravbhattacharya001/agentlens",
     "language": "JavaScript",
@@ -14,17 +176,8 @@
     "language": "Shell",
     "name": "mohitagw15856/pm-claude-skills",
     "stars": 979,
-    "updated_at": "2026-06-18T07:15:14Z",
+    "updated_at": "2026-06-18T07:16:18Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T07:15:03Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -50,7 +203,7 @@
     "language": "Python",
     "name": "baskduf/FableCodex",
     "stars": 278,
-    "updated_at": "2026-06-18T07:12:09Z",
+    "updated_at": "2026-06-18T07:16:37Z",
     "url": "https://github.com/baskduf/FableCodex"
   },
   {
@@ -70,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-06-18T07:11:38Z",
     "url": "https://github.com/h4x-io/Prompt-enhancer"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 3921,
+    "updated_at": "2026-06-18T07:09:14Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "AI dotfiles",
@@ -97,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-06-18T07:07:12Z",
     "url": "https://github.com/lorevcs/lore"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T07:03:39Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
@@ -198,15 +351,6 @@
     "url": "https://github.com/justinlietz93/Perfect_Prompts"
   },
   {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 3919,
-    "updated_at": "2026-06-18T07:09:14Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
     "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
     "id": "Shiyao-Huang/awesome-agent-evolution",
     "language": "JavaScript",
@@ -252,15 +396,6 @@
     "url": "https://github.com/clawplays/ospec"
   },
   {
-    "description": "AI Prompt Slimming Toolkit - reduce token consumption 5-40% before every API call. \u4e2d\u82f1\u6587\u5197\u4f59\u68c0\u6d4b + LLM\u667a\u80fd\u538b\u7f29\u3002",
-    "id": "JING04-PRODUCER/promptslim",
-    "language": "Python",
-    "name": "JING04-PRODUCER/promptslim",
-    "stars": 1,
-    "updated_at": "2026-06-18T06:36:01Z",
-    "url": "https://github.com/JING04-PRODUCER/promptslim"
-  },
-  {
     "description": "A/B experiment: does compressing a voice dictation transcript before sending it to a coding agent preserve output qualit",
     "id": "gititya/kevin-eats-muesli",
     "language": "HTML",
@@ -297,15 +432,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 32130,
-    "updated_at": "2026-06-18T06:29:11Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
     "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
     "id": "realBoBao/Serena_Auto-Teaching",
     "language": "JavaScript",
@@ -322,131 +448,5 @@
     "stars": 64,
     "updated_at": "2026-06-18T06:28:18Z",
     "url": "https://github.com/microsoft/PromptKit"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:27:48Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Real-time prompt + target-language coaching for Claude Code and Codex (a UserPromptSubmit hook).",
-    "id": "tercel/prompt-coach",
-    "language": "Python",
-    "name": "tercel/prompt-coach",
-    "stars": 1,
-    "updated_at": "2026-06-18T06:26:55Z",
-    "url": "https://github.com/tercel/prompt-coach"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:26:38Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:24:52Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
-    "id": "robertomarchioro/prompt-a-porter",
-    "language": "Rust",
-    "name": "robertomarchioro/prompt-a-porter",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:50:09Z",
-    "url": "https://github.com/robertomarchioro/prompt-a-porter"
-  },
-  {
-    "description": "Portable, deterministic context governance layer for AI agents \u2014 smaller, auditable prompts, only when safe.",
-    "id": "samnodehi/zam-context-plane",
-    "language": "TypeScript",
-    "name": "samnodehi/zam-context-plane",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:19:46Z",
-    "url": "https://github.com/samnodehi/zam-context-plane"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 32553,
-    "updated_at": "2026-06-18T06:19:32Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "agentic harness for qwen3.5 with context size of 16384 tokens with a focus on context management(WIP)",
-    "id": "tmijieux/ai-chat",
-    "language": "Python",
-    "name": "tmijieux/ai-chat",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:19:20Z",
-    "url": "https://github.com/tmijieux/ai-chat"
-  },
-  {
-    "description": "Makes your AI agent think like the laziest senior architect in the room. The best layer is the layer you never added.",
-    "id": "malrobust/ORIGAMI",
-    "language": "JavaScript",
-    "name": "malrobust/ORIGAMI",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:14:25Z",
-    "url": "https://github.com/malrobust/ORIGAMI"
-  },
-  {
-    "description": "A plain-text prompt for LLMs that teaches the essence of elegant coding and testing\u2014save it to ~/.claude/CLAUDE.md.",
-    "id": "yegor256/prompt",
-    "language": "\u2014",
-    "name": "yegor256/prompt",
-    "stars": 151,
-    "updated_at": "2026-06-18T06:14:13Z",
-    "url": "https://github.com/yegor256/prompt"
-  },
-  {
-    "description": "AI Operator Guard turns repeated AI workflow failures into checks your next session can actually use. AI agent \u904b\u7528\u306e\u300c\u52d5\u3044\u3066\u308b\u98a8",
-    "id": "nexus-lab-zen/ai-operator-guard",
-    "language": "\u2014",
-    "name": "nexus-lab-zen/ai-operator-guard",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:12:18Z",
-    "url": "https://github.com/nexus-lab-zen/ai-operator-guard"
-  },
-  {
-    "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 11,
-    "updated_at": "2026-06-18T07:14:47Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Shrink LLM context windows 50-80% by removing noise, redundancy, and long-tail detail \u2014 zero-dependency Python pipeline ",
-    "id": "uninhibited-scholar/context-compressor",
-    "language": "Python",
-    "name": "uninhibited-scholar/context-compressor",
-    "stars": 1,
-    "updated_at": "2026-06-18T06:08:31Z",
-    "url": "https://github.com/uninhibited-scholar/context-compressor"
-  },
-  {
-    "description": "Codex-only skill for Kimi swarm-style prompt refinement and verified workflow routing.",
-    "id": "min9lin9/kimi-agent-swarm-skill",
-    "language": "TypeScript",
-    "name": "min9lin9/kimi-agent-swarm-skill",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:36:06Z",
-    "url": "https://github.com/min9lin9/kimi-agent-swarm-skill"
   }
 ]
