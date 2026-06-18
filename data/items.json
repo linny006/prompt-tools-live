@@ -1,12 +1,102 @@
 [
   {
+    "description": "OpenAI-compatible media generation gateway for AI Agents. Supports multi-provider image/video generation, model routing,",
+    "id": "ang77712829/AngeMedia-gateway",
+    "language": "Python",
+    "name": "ang77712829/AngeMedia-gateway",
+    "stars": 2,
+    "updated_at": "2026-06-18T08:59:07Z",
+    "url": "https://github.com/ang77712829/AngeMedia-gateway"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-18T08:57:46Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
+    "id": "zxpmail/ReqForge",
+    "language": "JavaScript",
+    "name": "zxpmail/ReqForge",
+    "stars": 11,
+    "updated_at": "2026-06-18T08:57:29Z",
+    "url": "https://github.com/zxpmail/ReqForge"
+  },
+  {
+    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 4,
+    "updated_at": "2026-06-18T08:56:49Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
     "description": "Local-first UI inspiration, aesthetic memory, and AI agent prompt generator.",
     "id": "Fairy-fly/UI-Sense-AI",
     "language": "TypeScript",
     "name": "Fairy-fly/UI-Sense-AI",
     "stars": 1,
-    "updated_at": "2026-06-18T08:45:24Z",
+    "updated_at": "2026-06-18T08:54:08Z",
     "url": "https://github.com/Fairy-fly/UI-Sense-AI"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T08:54:00Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
+    "id": "elon-choo/fablever",
+    "language": "JavaScript",
+    "name": "elon-choo/fablever",
+    "stars": 19,
+    "updated_at": "2026-06-18T08:52:41Z",
+    "url": "https://github.com/elon-choo/fablever"
+  },
+  {
+    "description": "AI Prompt Slimming Toolkit - reduce token consumption 5-40% before every API call. \u4e2d\u82f1\u6587\u5197\u4f59\u68c0\u6d4b + LLM\u667a\u80fd\u538b\u7f29\u3002",
+    "id": "JING04-PRODUCER/promptslim",
+    "language": "Python",
+    "name": "JING04-PRODUCER/promptslim",
+    "stars": 1,
+    "updated_at": "2026-06-18T08:52:32Z",
+    "url": "https://github.com/JING04-PRODUCER/promptslim"
+  },
+  {
+    "description": "Makes your AI agent think like the laziest senior architect in the room. The best layer is the layer you never added.",
+    "id": "malrobust/ORIGAMI",
+    "language": "JavaScript",
+    "name": "malrobust/ORIGAMI",
+    "stars": 0,
+    "updated_at": "2026-06-18T08:51:54Z",
+    "url": "https://github.com/malrobust/ORIGAMI"
+  },
+  {
+    "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+    "id": "shinpr/claude-code-workflows",
+    "language": "JavaScript",
+    "name": "shinpr/claude-code-workflows",
+    "stars": 464,
+    "updated_at": "2026-06-18T08:46:58Z",
+    "url": "https://github.com/shinpr/claude-code-workflows"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-18T08:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u5927\u5e08.skill \u2014 \u8f93\u5165\u884c\u4e1a\uff0c\u81ea\u52a8\u8c03\u7814 6 \u8f68[\u884c\u4e1a\u5927\u4f6c / \u5de5\u5177\u5730\u56fe / \u5de5\u4f5c\u6d41 / \u77e5\u8bc6\u6b63\u5178 / \u4fe1\u606f\u6e90 / \u672f\u8bed\u6807\u51c6] \u2192 \u63d0\u70bc\u4e3a\u53ef\u8fd0\u884c\u7684\u884c\u4e1a Master OS skill\uff1b\u88c5\u5230\u4efb\u610f Claude Code / OpenClaw ",
@@ -27,15 +117,6 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
-    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
-    "id": "elon-choo/fablever",
-    "language": "JavaScript",
-    "name": "elon-choo/fablever",
-    "stars": 19,
-    "updated_at": "2026-06-18T08:43:36Z",
-    "url": "https://github.com/elon-choo/fablever"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -54,15 +135,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T08:41:09Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
     "id": "5uprem4/ai-skill-vault",
     "language": "HTML",
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19687,
-    "updated_at": "2026-06-18T08:45:19Z",
+    "updated_at": "2026-06-18T08:57:33Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 44,
     "updated_at": "2026-06-18T08:38:43Z",
     "url": "https://github.com/LivingFramework/LivingFramework.github.io"
-  },
-  {
-    "description": "Makes your AI agent think like the laziest senior architect in the room. The best layer is the layer you never added.",
-    "id": "malrobust/ORIGAMI",
-    "language": "JavaScript",
-    "name": "malrobust/ORIGAMI",
-    "stars": 0,
-    "updated_at": "2026-06-18T08:37:36Z",
-    "url": "https://github.com/malrobust/ORIGAMI"
   },
   {
     "description": "Claude Creativity \u2014 15 breakthrough techniques, intensity slider, drunk fusion mode, 4 output styles. Radical creative g",
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T08:30:48Z",
     "url": "https://github.com/marcelrapold/auditor"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-18T08:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
@@ -162,15 +216,6 @@
     "url": "https://github.com/sonhaicoder/haiclaudeskill"
   },
   {
-    "description": "AI Prompt Slimming Toolkit - reduce token consumption 5-40% before every API call. \u4e2d\u82f1\u6587\u5197\u4f59\u68c0\u6d4b + LLM\u667a\u80fd\u538b\u7f29\u3002",
-    "id": "JING04-PRODUCER/promptslim",
-    "language": "Python",
-    "name": "JING04-PRODUCER/promptslim",
-    "stars": 1,
-    "updated_at": "2026-06-18T08:24:39Z",
-    "url": "https://github.com/JING04-PRODUCER/promptslim"
-  },
-  {
     "description": "A human\u2013AI collaboration framework that works with LLM nature, not around it \u2014 natural language and purpose make RAG and",
     "id": "huidev2025/CSF",
     "language": "HTML",
@@ -205,6 +250,15 @@
     "stars": 283,
     "updated_at": "2026-06-18T08:19:01Z",
     "url": "https://github.com/baskduf/FableCodex"
+  },
+  {
+    "description": "Agent skills for working with UClaw.",
+    "id": "uclaw-dev/agent-skills",
+    "language": "\u2014",
+    "name": "uclaw-dev/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-06-18T08:18:05Z",
+    "url": "https://github.com/uclaw-dev/agent-skills"
   },
   {
     "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
@@ -243,31 +297,13 @@
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   },
   {
-    "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
-    "id": "shinpr/claude-code-workflows",
-    "language": "JavaScript",
-    "name": "shinpr/claude-code-workflows",
-    "stars": 464,
-    "updated_at": "2026-06-18T08:45:08Z",
-    "url": "https://github.com/shinpr/claude-code-workflows"
-  },
-  {
     "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready tem",
     "id": "FlorianBruniaux/claude-code-ultimate-guide",
     "language": "Python",
     "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5082,
+    "stars": 5083,
     "updated_at": "2026-06-18T08:10:29Z",
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
-    "id": "zxpmail/ReqForge",
-    "language": "JavaScript",
-    "name": "zxpmail/ReqForge",
-    "stars": 11,
-    "updated_at": "2026-06-18T08:08:56Z",
-    "url": "https://github.com/zxpmail/ReqForge"
   },
   {
     "description": "Open-source AI learning platform featuring structured learning paths, projects, roadmaps, AI tools, challenges, exams, a",
@@ -284,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-18T08:37:49Z",
+    "updated_at": "2026-06-18T08:59:07Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 3922,
-    "updated_at": "2026-06-18T08:44:10Z",
+    "updated_at": "2026-06-18T08:59:48Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -355,7 +391,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32580,
+    "stars": 32586,
     "updated_at": "2026-06-18T07:59:19Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -382,7 +418,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 32302,
+    "stars": 32323,
     "updated_at": "2026-06-18T07:57:02Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T07:52:42Z",
     "url": "https://github.com/beatriangu/NutriPrompt"
-  },
-  {
-    "description": "Claude Code skills, architectural principles, and alternative approaches for AI-assisted development",
-    "id": "AnastasiyaW/claude-code-config",
-    "language": "Python",
-    "name": "AnastasiyaW/claude-code-config",
-    "stars": 129,
-    "updated_at": "2026-06-18T07:52:10Z",
-    "url": "https://github.com/AnastasiyaW/claude-code-config"
-  },
-  {
-    "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 11,
-    "updated_at": "2026-06-18T07:51:02Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Turn your coding agent into a full product team \u2014 composable skills across research, marketing, product, and process. On",
-    "id": "hungv47/meta-skills",
-    "language": "TypeScript",
-    "name": "hungv47/meta-skills",
-    "stars": 11,
-    "updated_at": "2026-06-18T07:50:42Z",
-    "url": "https://github.com/hungv47/meta-skills"
-  },
-  {
-    "description": "165 evidence-based education skills for Claude, Codex, Hermes and any Agent Skills-compatible tool.",
-    "id": "GarethManning/education-agent-skills",
-    "language": "TypeScript",
-    "name": "GarethManning/education-agent-skills",
-    "stars": 325,
-    "updated_at": "2026-06-18T07:49:48Z",
-    "url": "https://github.com/GarethManning/education-agent-skills"
   }
 ]
