@@ -1,5 +1,95 @@
 [
   {
+    "description": "A beginner-to-expert curriculum of drop-in skills for Claude Code, Codex, and any coding agent. Copy-paste ready, tested",
+    "id": "buildmoonshot/skillpacks",
+    "language": "JavaScript",
+    "name": "buildmoonshot/skillpacks",
+    "stars": 2,
+    "updated_at": "2026-06-18T01:57:56Z",
+    "url": "https://github.com/buildmoonshot/skillpacks"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26586,
+    "updated_at": "2026-06-18T01:57:18Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
+    "id": "mobcat40/ComfyUI-PromptChain",
+    "language": "Python",
+    "name": "mobcat40/ComfyUI-PromptChain",
+    "stars": 9,
+    "updated_at": "2026-06-18T01:57:04Z",
+    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
+  },
+  {
+    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
+    "id": "VectorPeak/vectorpeak-agent-skills",
+    "language": "Python",
+    "name": "VectorPeak/vectorpeak-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-06-18T01:54:09Z",
+    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
+  },
+  {
+    "description": "Deterministic context refinement for AI-assisted development. Less noise, safer output, cleaner agent context.",
+    "id": "gogetrekt/bjir",
+    "language": "Rust",
+    "name": "gogetrekt/bjir",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:54:31Z",
+    "url": "https://github.com/gogetrekt/bjir"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 285,
+    "updated_at": "2026-06-18T01:52:33Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Development workflow plugin for AI coding agents with structured req/plan/dev/review/fix loops and a lightweight quick-d",
+    "id": "KtKID/x-dev-pipeline",
+    "language": "PowerShell",
+    "name": "KtKID/x-dev-pipeline",
+    "stars": 12,
+    "updated_at": "2026-06-18T01:51:55Z",
+    "url": "https://github.com/KtKID/x-dev-pipeline"
+  },
+  {
+    "description": "Simple test prompts for debugging LLMs and LLM context",
+    "id": "korpeztv/edge-ai-debugging",
+    "language": "\u2014",
+    "name": "korpeztv/edge-ai-debugging",
+    "stars": 1,
+    "updated_at": "2026-06-18T01:51:21Z",
+    "url": "https://github.com/korpeztv/edge-ai-debugging"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:45:39Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T01:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
     "id": "tuantranute-it/icm-graph-context-flow",
     "language": "HTML",
@@ -9,15 +99,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Simple test prompts for debugging LLMs and LLM context",
-    "id": "korpeztv/edge-ai-debugging",
-    "language": "\u2014",
-    "name": "korpeztv/edge-ai-debugging",
-    "stars": 1,
-    "updated_at": "2026-06-18T01:44:50Z",
-    "url": "https://github.com/korpeztv/edge-ai-debugging"
-  },
-  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T01:44:38Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
-    "id": "mobcat40/ComfyUI-PromptChain",
-    "language": "Python",
-    "name": "mobcat40/ComfyUI-PromptChain",
-    "stars": 9,
-    "updated_at": "2026-06-18T01:44:19Z",
-    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
   },
   {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
@@ -108,6 +180,15 @@
     "url": "https://github.com/ezBuilder/code-brain"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19682,
+    "updated_at": "2026-06-18T01:33:09Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
@@ -126,15 +207,6 @@
     "url": "https://github.com/MrGeDiao/shuorenhua"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T01:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "CASSIA: A Multi-Agent LLM-Based Single-Cell Cell Type Annotation Framework",
     "id": "ElliotXie/CASSIA",
     "language": "Python",
@@ -148,7 +220,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 35195,
+    "stars": 35197,
     "updated_at": "2026-06-18T01:28:34Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -257,7 +329,7 @@
     "language": "JavaScript",
     "name": "MCamner/atlas-one",
     "stars": 1,
-    "updated_at": "2026-06-18T01:02:42Z",
+    "updated_at": "2026-06-18T01:53:38Z",
     "url": "https://github.com/MCamner/atlas-one"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T00:37:01Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "A library and semi-framework for autonomous Agent prompting that supports Go, Rust, Python, and Typescript.",
-    "id": "justinlietz93/Perfect_Prompts",
-    "language": "Python",
-    "name": "justinlietz93/Perfect_Prompts",
-    "stars": 23,
-    "updated_at": "2026-06-18T00:34:06Z",
-    "url": "https://github.com/justinlietz93/Perfect_Prompts"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12542,
-    "updated_at": "2026-06-18T00:32:51Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thi",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "JavaScript",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 43126,
-    "updated_at": "2026-06-18T00:31:15Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "Want to review stocks with one million Claude Fable agents? Have 10k dollars in your openrouter wallet? Check this out  ",
-    "id": "iblameandrew/open-deepthink",
-    "language": "Python",
-    "name": "iblameandrew/open-deepthink",
-    "stars": 150,
-    "updated_at": "2026-06-18T00:22:18Z",
-    "url": "https://github.com/iblameandrew/open-deepthink"
-  },
-  {
-    "description": "A test runner for prompts. Score them and fail the PR when one regresses \u2014 CLI + GitHub Action.",
-    "id": "bluesky-tech-inc/mowa-eval",
-    "language": "TypeScript",
-    "name": "bluesky-tech-inc/mowa-eval",
-    "stars": 1,
-    "updated_at": "2026-06-18T00:21:12Z",
-    "url": "https://github.com/bluesky-tech-inc/mowa-eval"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:19:00Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-18T00:12:58Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:09:50Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   }
 ]
