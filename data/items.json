@@ -1,5 +1,140 @@
 [
   {
+    "description": "Simple test prompts for debugging LLMs and LLM context",
+    "id": "korpeztv/edge-ai-debugging",
+    "language": "\u2014",
+    "name": "korpeztv/edge-ai-debugging",
+    "stars": 1,
+    "updated_at": "2026-06-18T01:14:14Z",
+    "url": "https://github.com/korpeztv/edge-ai-debugging"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-18T01:13:36Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "AI engineering learning notes \u2014 Claude Code 6-layer architecture, LangChain, RAG, and hands-on projects",
+    "id": "zengtianli/learn",
+    "language": "\u2014",
+    "name": "zengtianli/learn",
+    "stars": 1,
+    "updated_at": "2026-06-18T01:11:55Z",
+    "url": "https://github.com/zengtianli/learn"
+  },
+  {
+    "description": "AI Coding \u5730\u57fa\uff1a\u9879\u76ee\u5f00\u5de5\u524d\u7684\u6cbb\u7406\u3001\u539f\u5219\u3001\u72b6\u6001\u4e0e\u534f\u4f5c\u521d\u59cb\u5316 Skill",
+    "id": "FinnCheung93/agentic-foundation",
+    "language": "Python",
+    "name": "FinnCheung93/agentic-foundation",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:10:20Z",
+    "url": "https://github.com/FinnCheung93/agentic-foundation"
+  },
+  {
+    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
+    "id": "product-on-purpose/writing-style-catalog",
+    "language": "JavaScript",
+    "name": "product-on-purpose/writing-style-catalog",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:08:00Z",
+    "url": "https://github.com/product-on-purpose/writing-style-catalog"
+  },
+  {
+    "description": "Research project studying how prompting strategies affect the security of LLM-generated code - benchmarked Claude and GP",
+    "id": "SanjanaJanardhan/LLMCodeSecurity",
+    "language": "Python",
+    "name": "SanjanaJanardhan/LLMCodeSecurity",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:07:29Z",
+    "url": "https://github.com/SanjanaJanardhan/LLMCodeSecurity"
+  },
+  {
+    "description": "A production-grade multi-platform monorepo demonstrating shared business logic across Web and Mobile. Showcases engineer",
+    "id": "john-data-chen/turborepo-starter-kit",
+    "language": "TypeScript",
+    "name": "john-data-chen/turborepo-starter-kit",
+    "stars": 14,
+    "updated_at": "2026-06-18T01:06:16Z",
+    "url": "https://github.com/john-data-chen/turborepo-starter-kit"
+  },
+  {
+    "description": "AI-native product delivery protocol for PRD, mobile mini-programs, prototypes, DDD handoff, agent harness engineering, e",
+    "id": "franklinxkk/ai-delivery-spec",
+    "language": "Python",
+    "name": "franklinxkk/ai-delivery-spec",
+    "stars": 3,
+    "updated_at": "2026-06-18T01:05:17Z",
+    "url": "https://github.com/franklinxkk/ai-delivery-spec"
+  },
+  {
+    "description": "A production-grade Kanban board application. Showcases engineering practices, decision-making and AI-assisted optimizati",
+    "id": "john-data-chen/next-dnd-starter-kit",
+    "language": "TypeScript",
+    "name": "john-data-chen/next-dnd-starter-kit",
+    "stars": 12,
+    "updated_at": "2026-06-18T01:05:16Z",
+    "url": "https://github.com/john-data-chen/next-dnd-starter-kit"
+  },
+  {
+    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
+    "id": "mobcat40/ComfyUI-PromptChain",
+    "language": "Python",
+    "name": "mobcat40/ComfyUI-PromptChain",
+    "stars": 9,
+    "updated_at": "2026-06-18T01:04:53Z",
+    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
+  },
+  {
+    "description": "\ud83c\udfad 216 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 17 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 18 \u4e2a\u90e8\u95e8\u3002\u542b 50 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
+    "id": "jnMetaCode/agency-agents-zh",
+    "language": "Shell",
+    "name": "jnMetaCode/agency-agents-zh",
+    "stars": 15146,
+    "updated_at": "2026-06-18T01:03:19Z",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-18T01:02:23Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Local prompt routing studio for structured AI workflows and execution handoff.",
+    "id": "MCamner/atlas-one",
+    "language": "JavaScript",
+    "name": "MCamner/atlas-one",
+    "stars": 1,
+    "updated_at": "2026-06-18T01:02:42Z",
+    "url": "https://github.com/MCamner/atlas-one"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 35195,
+    "updated_at": "2026-06-18T01:00:40Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T01:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice along",
     "id": "grimaldost/craft-collection",
     "language": "Python",
@@ -18,15 +153,6 @@
     "url": "https://github.com/use-crux/crux"
   },
   {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "Python",
-    "name": "github/awesome-copilot",
-    "stars": 35195,
-    "updated_at": "2026-06-18T01:00:15Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
     "description": "A production-grade SvelteKit starter kit built around a real multi-user expense tracker, demonstrating technical decisio",
     "id": "john-data-chen/sveltekit-starter-kit",
     "language": "TypeScript",
@@ -34,33 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T00:57:08Z",
     "url": "https://github.com/john-data-chen/sveltekit-starter-kit"
-  },
-  {
-    "description": "Simple test prompts for debugging LLMs and LLM context",
-    "id": "korpeztv/edge-ai-debugging",
-    "language": "\u2014",
-    "name": "korpeztv/edge-ai-debugging",
-    "stars": 1,
-    "updated_at": "2026-06-18T00:56:12Z",
-    "url": "https://github.com/korpeztv/edge-ai-debugging"
-  },
-  {
-    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
-    "id": "mobcat40/ComfyUI-PromptChain",
-    "language": "Python",
-    "name": "mobcat40/ComfyUI-PromptChain",
-    "stars": 9,
-    "updated_at": "2026-06-18T00:54:24Z",
-    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
-  },
-  {
-    "description": "A production-grade Kanban board application. Showcases engineering practices, decision-making and AI-assisted optimizati",
-    "id": "john-data-chen/next-dnd-starter-kit",
-    "language": "TypeScript",
-    "name": "john-data-chen/next-dnd-starter-kit",
-    "stars": 12,
-    "updated_at": "2026-06-18T00:53:11Z",
-    "url": "https://github.com/john-data-chen/next-dnd-starter-kit"
   },
   {
     "description": "Installable library of AI coding agents, skills, commands, guides & tools \u2014 the copy-paste mirror of agentscamp.com",
@@ -79,15 +178,6 @@
     "stars": 12,
     "updated_at": "2026-06-18T00:47:52Z",
     "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T00:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
@@ -140,7 +230,7 @@
     "language": "TypeScript",
     "name": "rp1-run/rp1",
     "stars": 31,
-    "updated_at": "2026-06-18T00:38:54Z",
+    "updated_at": "2026-06-18T01:12:43Z",
     "url": "https://github.com/rp1-run/rp1"
   },
   {
@@ -184,7 +274,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 43122,
+    "stars": 43123,
     "updated_at": "2026-06-18T00:31:15Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -216,15 +306,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-18T00:17:35Z",
-    "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -232,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T00:12:58Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "AI-native product delivery protocol for PRD, mobile mini-programs, prototypes, DDD handoff, agent harness engineering, e",
-    "id": "franklinxkk/ai-delivery-spec",
-    "language": "Python",
-    "name": "franklinxkk/ai-delivery-spec",
-    "stars": 3,
-    "updated_at": "2026-06-18T00:10:38Z",
-    "url": "https://github.com/franklinxkk/ai-delivery-spec"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T23:55:51Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "ShadowQuill is a privacy\u2011first, offline and free prompt engineering/generation app powered by self-hosted local LLMs",
-    "id": "shadowquillapp/shadowquillapp",
-    "language": "TypeScript",
-    "name": "shadowquillapp/shadowquillapp",
-    "stars": 27,
-    "updated_at": "2026-06-17T23:55:32Z",
-    "url": "https://github.com/shadowquillapp/shadowquillapp"
-  },
-  {
-    "description": "AI engineering learning notes \u2014 Claude Code 6-layer architecture, LangChain, RAG, and hands-on projects",
-    "id": "zengtianli/learn",
-    "language": "\u2014",
-    "name": "zengtianli/learn",
-    "stars": 1,
-    "updated_at": "2026-06-17T23:52:56Z",
-    "url": "https://github.com/zengtianli/learn"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10179,
-    "updated_at": "2026-06-17T23:46:01Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:44:52Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Free online AI prompt generator for ChatGPT, Claude, and Midjourney. Optimize your AI interactions directly in your brow",
-    "id": "itsrkmahapatra/PromptForge",
-    "language": "HTML",
-    "name": "itsrkmahapatra/PromptForge",
-    "stars": 1,
-    "updated_at": "2026-06-17T23:44:02Z",
-    "url": "https://github.com/itsrkmahapatra/PromptForge"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19680,
-    "updated_at": "2026-06-17T23:39:13Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26585,
-    "updated_at": "2026-06-17T23:30:06Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Auto-Teaching is to find the reliable source from many websites then send to discord. Instead of looking up material,  n",
-    "id": "realBoBao/Serena_Auto-Teaching",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_Auto-Teaching",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:29:59Z",
-    "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
   }
 ]
