@@ -1,5 +1,104 @@
 [
   {
+    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 0,
+    "updated_at": "2026-06-18T07:00:07Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "Themis \u2014 a GitHub-installable agent skill for dynamic workrooms, structured disagreement, and compact shared memory.",
+    "id": "arsenelupin14/THEMIS",
+    "language": "Python",
+    "name": "arsenelupin14/THEMIS",
+    "stars": 0,
+    "updated_at": "2026-06-18T06:59:07Z",
+    "url": "https://github.com/arsenelupin14/THEMIS"
+  },
+  {
+    "description": "The Largest AI Prompts Directory for Software Engineers",
+    "id": "Dziqha/awesome-agentic-coding-prompts",
+    "language": "\u2014",
+    "name": "Dziqha/awesome-agentic-coding-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-18T06:59:06Z",
+    "url": "https://github.com/Dziqha/awesome-agentic-coding-prompts"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 759,
+    "updated_at": "2026-06-18T06:58:12Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Development workflow plugin for AI coding agents with structured req/plan/dev/review/fix loops and a lightweight quick-d",
+    "id": "KtKID/x-dev-pipeline",
+    "language": "PowerShell",
+    "name": "KtKID/x-dev-pipeline",
+    "stars": 12,
+    "updated_at": "2026-06-18T06:56:23Z",
+    "url": "https://github.com/KtKID/x-dev-pipeline"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-18T06:56:15Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "A library and semi-framework for autonomous Agent prompting that supports Go, Rust, Python, and Typescript.",
+    "id": "justinlietz93/Perfect_Prompts",
+    "language": "Python",
+    "name": "justinlietz93/Perfect_Prompts",
+    "stars": 23,
+    "updated_at": "2026-06-18T06:52:17Z",
+    "url": "https://github.com/justinlietz93/Perfect_Prompts"
+  },
+  {
+    "description": "Version control for intent, not code. Commit the prompts, notes, and decisions behind a codebase, then materialize it on",
+    "id": "lorevcs/lore",
+    "language": "Rust",
+    "name": "lorevcs/lore",
+    "stars": 3,
+    "updated_at": "2026-06-18T06:51:18Z",
+    "url": "https://github.com/lorevcs/lore"
+  },
+  {
+    "description": "\ud83d\uddff FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+    "id": "baskduf/FableCodex",
+    "language": "Python",
+    "name": "baskduf/FableCodex",
+    "stars": 278,
+    "updated_at": "2026-06-18T06:53:22Z",
+    "url": "https://github.com/baskduf/FableCodex"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 3919,
+    "updated_at": "2026-06-18T06:57:00Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 2,
+    "updated_at": "2026-06-18T06:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
     "id": "Shiyao-Huang/awesome-agent-evolution",
     "language": "JavaScript",
@@ -81,15 +180,6 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 2,
-    "updated_at": "2026-06-18T06:30:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -103,7 +193,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 32062,
+    "stars": 32102,
     "updated_at": "2026-06-18T06:29:11Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -115,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-06-18T06:29:04Z",
     "url": "https://github.com/realBoBao/Serena_Auto-Teaching"
+  },
+  {
+    "description": "Agentic prompts are the most important code you're not engineering. PromptKit fixes that \u2014 composable, version-controlle",
+    "id": "microsoft/PromptKit",
+    "language": "JavaScript",
+    "name": "microsoft/PromptKit",
+    "stars": 64,
+    "updated_at": "2026-06-18T06:28:18Z",
+    "url": "https://github.com/microsoft/PromptKit"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -167,7 +266,7 @@
     "language": "Rust",
     "name": "robertomarchioro/prompt-a-porter",
     "stars": 0,
-    "updated_at": "2026-06-18T06:20:29Z",
+    "updated_at": "2026-06-18T06:50:09Z",
     "url": "https://github.com/robertomarchioro/prompt-a-porter"
   },
   {
@@ -184,7 +283,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32546,
+    "stars": 32549,
     "updated_at": "2026-06-18T06:19:32Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -259,15 +358,6 @@
     "stars": 92,
     "updated_at": "2026-06-18T06:07:17Z",
     "url": "https://github.com/AditthyaSS/iloveAgents"
-  },
-  {
-    "description": "\ud83d\uddff FableCodex is a Codex-style coding agent workflow that plans like Fable.",
-    "id": "baskduf/FableCodex",
-    "language": "Python",
-    "name": "baskduf/FableCodex",
-    "stars": 278,
-    "updated_at": "2026-06-18T06:00:17Z",
-    "url": "https://github.com/baskduf/FableCodex"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -351,24 +441,6 @@
     "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
-    "description": "Version control for intent, not code. Commit the prompts, notes, and decisions behind a codebase, then materialize it on",
-    "id": "lorevcs/lore",
-    "language": "Rust",
-    "name": "lorevcs/lore",
-    "stars": 3,
-    "updated_at": "2026-06-18T05:40:56Z",
-    "url": "https://github.com/lorevcs/lore"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 759,
-    "updated_at": "2026-06-18T06:22:51Z",
-    "url": "https://github.com/promptdriven/pdd"
-  },
-  {
     "description": "Turning product changes into user-facing documentation",
     "id": "IreliaWuW/global-content-skill-kit",
     "language": "\u2014",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T05:38:25Z",
     "url": "https://github.com/IreliaWuW/global-content-skill-kit"
-  },
-  {
-    "description": "Defensive Claude Code scam-baiting agent harness with personas, stall tactics, anti-detection, session state, intel extr",
-    "id": "copyleftdev/kitboga",
-    "language": "\u2014",
-    "name": "copyleftdev/kitboga",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:38:07Z",
-    "url": "https://github.com/copyleftdev/kitboga"
-  },
-  {
-    "description": "A curated library of reusable AI skills and prompt templates for LLMs and AI agents to enhance reasoning, productivity, ",
-    "id": "bob798/ai-skill-kit",
-    "language": "Shell",
-    "name": "bob798/ai-skill-kit",
-    "stars": 1,
-    "updated_at": "2026-06-18T05:34:37Z",
-    "url": "https://github.com/bob798/ai-skill-kit"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12541,
-    "updated_at": "2026-06-18T05:32:36Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 53,
-    "updated_at": "2026-06-18T05:30:42Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
-    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
-    "id": "jeb-maker/lagent-quotidien",
-    "language": "HTML",
-    "name": "jeb-maker/lagent-quotidien",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:30:28Z",
-    "url": "https://github.com/jeb-maker/lagent-quotidien"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:28:37Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:28:36Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
-    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "language": "HTML",
-    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:28:35Z",
-    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
   }
 ]
