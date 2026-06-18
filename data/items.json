@@ -1,10 +1,118 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:58:00Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 287,
+    "updated_at": "2026-06-18T14:57:58Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "id": "DietrichGebert/ponytail",
+    "language": "JavaScript",
+    "name": "DietrichGebert/ponytail",
+    "stars": 35020,
+    "updated_at": "2026-06-18T14:56:39Z",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3309,
+    "updated_at": "2026-06-18T15:00:22Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:51:25Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "Awesome Happy Horse 1.0 Prompts",
+    "id": "AtlasCloudAI/awesome-happy-horse-prompts",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-happy-horse-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-18T14:51:22Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-happy-horse-prompts"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 13,
+    "updated_at": "2026-06-18T14:53:43Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "Comprehensive INT428 AI Essentials exam preparation platform for LPU students featuring notes, MCQs, flashcards, mock te",
+    "id": "Pravesh0005/INT-428-EXAM-PREP-WEBSITE",
+    "language": "HTML",
+    "name": "Pravesh0005/INT-428-EXAM-PREP-WEBSITE",
+    "stars": 1,
+    "updated_at": "2026-06-18T14:50:46Z",
+    "url": "https://github.com/Pravesh0005/INT-428-EXAM-PREP-WEBSITE"
+  },
+  {
+    "description": "Agentless prompt change intelligence + eval \u2014 watch the prompts in your codebase, detect changes, and eval them with zer",
+    "id": "GoReal-AI/echostash-oss",
+    "language": "TypeScript",
+    "name": "GoReal-AI/echostash-oss",
+    "stars": 2,
+    "updated_at": "2026-06-18T14:50:37Z",
+    "url": "https://github.com/GoReal-AI/echostash-oss"
+  },
+  {
+    "description": "(RTX\u26a1) Core Framework \u2014 Reasoning | Thinking | Xtreme. A master AI blueprint for building autonomous agents that collabo",
+    "id": "PsProsen-Dev/RTXCoreFramework",
+    "language": "\u2014",
+    "name": "PsProsen-Dev/RTXCoreFramework",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:47:22Z",
+    "url": "https://github.com/PsProsen-Dev/RTXCoreFramework"
+  },
+  {
+    "description": "Rust CLI for LLM token compression: cut AI token waste, lower AI bills, preserve context, and prove protected facts with",
+    "id": "efij/streetman",
+    "language": "Rust",
+    "name": "efij/streetman",
+    "stars": 1,
+    "updated_at": "2026-06-18T14:45:56Z",
+    "url": "https://github.com/efij/streetman"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-18T14:45:40Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
     "id": "vllm-project/semantic-router",
     "language": "Go",
     "name": "vllm-project/semantic-router",
-    "stars": 4434,
+    "stars": 4435,
     "updated_at": "2026-06-18T14:44:52Z",
     "url": "https://github.com/vllm-project/semantic-router"
   },
@@ -27,15 +135,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3309,
-    "updated_at": "2026-06-18T14:45:11Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Practical guide and toolkit for physicists and mathematicians using Claude Code \u2014 built from months on a real research p",
     "id": "Mexregkan/claude-for-researchers",
     "language": "Python",
@@ -45,31 +144,13 @@
     "url": "https://github.com/Mexregkan/claude-for-researchers"
   },
   {
-    "description": "Comprehensive INT428 AI Essentials exam preparation platform for LPU students featuring notes, MCQs, flashcards, mock te",
-    "id": "Pravesh0005/INT-428-EXAM-PREP-WEBSITE",
-    "language": "HTML",
-    "name": "Pravesh0005/INT-428-EXAM-PREP-WEBSITE",
-    "stars": 1,
-    "updated_at": "2026-06-18T14:45:19Z",
-    "url": "https://github.com/Pravesh0005/INT-428-EXAM-PREP-WEBSITE"
-  },
-  {
     "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
     "id": "Zipstack/unstract",
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 6662,
-    "updated_at": "2026-06-18T14:43:10Z",
+    "updated_at": "2026-06-18T14:57:46Z",
     "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "id": "DietrichGebert/ponytail",
-    "language": "JavaScript",
-    "name": "DietrichGebert/ponytail",
-    "stars": 34952,
-    "updated_at": "2026-06-18T14:42:38Z",
-    "url": "https://github.com/DietrichGebert/ponytail"
   },
   {
     "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
@@ -81,15 +162,6 @@
     "url": "https://github.com/rmdhananjay/contextual-memory-map"
   },
   {
-    "description": "Rust CLI for LLM token compression: cut AI token waste, lower AI bills, preserve context, and prove protected facts with",
-    "id": "efij/streetman",
-    "language": "Rust",
-    "name": "efij/streetman",
-    "stars": 1,
-    "updated_at": "2026-06-18T14:41:56Z",
-    "url": "https://github.com/efij/streetman"
-  },
-  {
     "description": "LLM prompt language based on Jinja. Banks provides tools and functions to build prompts text and chat messages from gene",
     "id": "masci/banks",
     "language": "Python",
@@ -97,15 +169,6 @@
     "stars": 127,
     "updated_at": "2026-06-18T14:41:20Z",
     "url": "https://github.com/masci/banks"
-  },
-  {
-    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
-    "id": "mrwogu/promptscript",
-    "language": "TypeScript",
-    "name": "mrwogu/promptscript",
-    "stars": 13,
-    "updated_at": "2026-06-18T14:43:02Z",
-    "url": "https://github.com/mrwogu/promptscript"
   },
   {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
@@ -153,15 +216,6 @@
     "url": "https://github.com/AltairaLabs/PromptKit"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:36:21Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "The control plane for AI prompts. Score, enforce policy, lock config, and audit every prompt \u2014 before it reaches any LLM",
     "id": "rishi-banerjee1/prompt-control-plane",
     "language": "TypeScript",
@@ -185,7 +239,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29330,
-    "updated_at": "2026-06-18T14:42:11Z",
+    "updated_at": "2026-06-18T14:57:55Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -196,24 +250,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T14:31:51Z",
     "url": "https://github.com/BrianNguyen29/x-harness"
-  },
-  {
-    "description": "Agentless prompt change intelligence + eval \u2014 watch the prompts in your codebase, detect changes, and eval them with zer",
-    "id": "GoReal-AI/echostash-oss",
-    "language": "TypeScript",
-    "name": "GoReal-AI/echostash-oss",
-    "stars": 2,
-    "updated_at": "2026-06-18T14:44:19Z",
-    "url": "https://github.com/GoReal-AI/echostash-oss"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-18T14:30:42Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 3924,
-    "updated_at": "2026-06-18T14:43:20Z",
+    "updated_at": "2026-06-18T14:54:56Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T14:03:16Z",
     "url": "https://github.com/fkenmar/atlas"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 32787,
-    "updated_at": "2026-06-18T14:02:22Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "\ud83c\uddec\ud83c\uddea \u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d4\u10dc\u10dd\u10d5\u10d0\u10dc\u10d8 guide \u10e7\u10d5\u10d4\u10da\u10d0\u10e1\u10d7\u10d5\u10d8\u10e1, \u10d5\u10d8\u10e1\u10d0\u10ea AI \u10d3\u10d0 \u10e2\u10d4\u10e5\u10dc\u10dd\u10da\u10dd\u10d2\u10d8\u10d4\u10d1\u10d8 \u10d0\u10d8\u10dc\u10e2\u10d4\u10e0\u10d4\u10e1\u10d4\u10d1\u10e1",
-    "id": "TakoTechie1/georgian-tech-resources",
-    "language": "SCSS",
-    "name": "TakoTechie1/georgian-tech-resources",
-    "stars": 6,
-    "updated_at": "2026-06-18T14:00:55Z",
-    "url": "https://github.com/TakoTechie1/georgian-tech-resources"
-  },
-  {
-    "description": "320+ curated Claude Code skills, 9 agents, 39 commands, sanitized configs & a Codex bridge \u2014 auto-indexed from skills/.",
-    "id": "shengdabai/Tony-Claude-Code-Skills",
-    "language": "HTML",
-    "name": "shengdabai/Tony-Claude-Code-Skills",
-    "stars": 1,
-    "updated_at": "2026-06-18T14:00:14Z",
-    "url": "https://github.com/shengdabai/Tony-Claude-Code-Skills"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26604,
-    "updated_at": "2026-06-18T13:59:28Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
