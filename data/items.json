@@ -1,5 +1,104 @@
 [
   {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-19T00:15:21Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thi",
+    "id": "asgeirtj/system_prompts_leaks",
+    "language": "JavaScript",
+    "name": "asgeirtj/system_prompts_leaks",
+    "stars": 43350,
+    "updated_at": "2026-06-19T00:15:23Z",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22358,
+    "updated_at": "2026-06-19T00:15:05Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T00:11:21Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Claude Code hook that silently engineers every prompt using Anthropic's 7 official prompt engineering principles",
+    "id": "bhutano/steelprompt",
+    "language": "Python",
+    "name": "bhutano/steelprompt",
+    "stars": 1,
+    "updated_at": "2026-06-19T00:09:48Z",
+    "url": "https://github.com/bhutano/steelprompt"
+  },
+  {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "id": "DietrichGebert/ponytail",
+    "language": "JavaScript",
+    "name": "DietrichGebert/ponytail",
+    "stars": 36670,
+    "updated_at": "2026-06-19T00:09:31Z",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
+    "id": "minirr890112-byte/HermesMade",
+    "language": "Shell",
+    "name": "minirr890112-byte/HermesMade",
+    "stars": 1,
+    "updated_at": "2026-06-19T00:06:10Z",
+    "url": "https://github.com/minirr890112-byte/HermesMade"
+  },
+  {
+    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
+    "id": "Paulessus/odin-gemini-mcp-bridge",
+    "language": "HTML",
+    "name": "Paulessus/odin-gemini-mcp-bridge",
+    "stars": 0,
+    "updated_at": "2026-06-19T00:03:29Z",
+    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
+  },
+  {
+    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
+    "id": "manojmallick/skillweave",
+    "language": "TypeScript",
+    "name": "manojmallick/skillweave",
+    "stars": 0,
+    "updated_at": "2026-06-19T00:02:52Z",
+    "url": "https://github.com/manojmallick/skillweave"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-06-19T00:02:01Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T00:00:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Installable, permission-bounded, multi-platform agent skills & subagents for Claude Code, Codex, Copilot & Gemini/Antigr",
     "id": "FluxonLab/Skillry",
     "language": "Python",
@@ -18,40 +117,13 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 19,
-    "updated_at": "2026-06-18T23:59:52Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:59:44Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "\ud83d\udc69\u200d\ud83d\udcbb\u270d\ufe0f Prompt orchestration with stacks you familiar with, such as Vue.",
     "id": "moeru-ai/velin",
     "language": "TypeScript",
     "name": "moeru-ai/velin",
     "stars": 47,
-    "updated_at": "2026-06-19T00:00:10Z",
+    "updated_at": "2026-06-19T00:01:57Z",
     "url": "https://github.com/moeru-ai/velin"
-  },
-  {
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "id": "DietrichGebert/ponytail",
-    "language": "JavaScript",
-    "name": "DietrichGebert/ponytail",
-    "stars": 36639,
-    "updated_at": "2026-06-18T23:57:02Z",
-    "url": "https://github.com/DietrichGebert/ponytail"
   },
   {
     "description": "Scan prompts for censorship triggers \u2014 rewrite suggestions, uncensored system presets.",
@@ -61,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T23:56:49Z",
     "url": "https://github.com/minirr890112-byte/prompt-inspector"
-  },
-  {
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thi",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "JavaScript",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 43347,
-    "updated_at": "2026-06-18T23:55:17Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -144,15 +207,6 @@
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-18T23:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
     "id": "Faudzan10/outline-driven-starter-kit",
     "language": "HTML",
@@ -184,7 +238,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 34470,
+    "stars": 34506,
     "updated_at": "2026-06-18T23:31:55Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -196,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T23:31:55Z",
     "url": "https://github.com/ONDAAA/czech-misleading-headlines"
-  },
-  {
-    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
-    "id": "manojmallick/skillweave",
-    "language": "TypeScript",
-    "name": "manojmallick/skillweave",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:47:19Z",
-    "url": "https://github.com/manojmallick/skillweave"
   },
   {
     "description": "An agentic air quality analyst workflow that uses OpenAI for natural-language reasoning, DuckDB for querying structured ",
@@ -306,15 +351,6 @@
     "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
   },
   {
-    "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
-    "id": "minirr890112-byte/HermesMade",
-    "language": "Shell",
-    "name": "minirr890112-byte/HermesMade",
-    "stars": 1,
-    "updated_at": "2026-06-18T23:14:37Z",
-    "url": "https://github.com/minirr890112-byte/HermesMade"
-  },
-  {
     "description": "Makena \u2014 a deployed RAG academic-advising chatbot for Montclair State's business school. Custom Python scraping pipeline",
     "id": "MrNabeel/makena-msu-advisor",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T22:59:32Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 760,
-    "updated_at": "2026-06-18T23:58:50Z",
-    "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-06-18T22:52:24Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
-    "id": "rmdhananjay/contextual-memory-map",
-    "language": "HTML",
-    "name": "rmdhananjay/contextual-memory-map",
-    "stars": 0,
-    "updated_at": "2026-06-18T22:50:04Z",
-    "url": "https://github.com/rmdhananjay/contextual-memory-map"
-  },
-  {
-    "description": "A lightweight file-mapping standard that lets any AI tool navigate large codebases without reading every file. One index",
-    "id": "matteo-turri/foliodux",
-    "language": "JavaScript",
-    "name": "matteo-turri/foliodux",
-    "stars": 0,
-    "updated_at": "2026-06-18T22:47:08Z",
-    "url": "https://github.com/matteo-turri/foliodux"
   }
 ]
