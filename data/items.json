@@ -1,5 +1,140 @@
 [
   {
+    "description": "\ud83c\udf0a Blue Spec is a toolkit for Security-Driven Hardening (SDH), a defensive workflow to help AI agents detect what a syste",
+    "id": "wellwelwel/blue-spec",
+    "language": "TypeScript",
+    "name": "wellwelwel/blue-spec",
+    "stars": 54,
+    "updated_at": "2026-06-19T16:15:22Z",
+    "url": "https://github.com/wellwelwel/blue-spec"
+  },
+  {
+    "description": "OpenAI-compatible media generation gateway for AI Agents. Supports multi-provider image/video generation, model routing,",
+    "id": "ang77712829/AngeMedia-gateway",
+    "language": "Python",
+    "name": "ang77712829/AngeMedia-gateway",
+    "stars": 2,
+    "updated_at": "2026-06-19T16:15:18Z",
+    "url": "https://github.com/ang77712829/AngeMedia-gateway"
+  },
+  {
+    "description": "Portable, deterministic context governance layer for AI agents \u2014 smaller, auditable prompts, only when safe.",
+    "id": "samnodehi/zam-context-plane",
+    "language": "TypeScript",
+    "name": "samnodehi/zam-context-plane",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:15:17Z",
+    "url": "https://github.com/samnodehi/zam-context-plane"
+  },
+  {
+    "description": "Forensic reference-integrity auditor for academic publishing \u2014 built for nursing and health-sciences editors who need to",
+    "id": "PitziLabs/reference-checker",
+    "language": "HTML",
+    "name": "PitziLabs/reference-checker",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:14:53Z",
+    "url": "https://github.com/PitziLabs/reference-checker"
+  },
+  {
+    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
+    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "language": "HTML",
+    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:14:25Z",
+    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:11:22Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Curated agent skills that do one thing well. Plain Markdown, trigger-activated, model-agnostic. Fork what you need, drop",
+    "id": "TheAkshitS/skills",
+    "language": "Shell",
+    "name": "TheAkshitS/skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:10:14Z",
+    "url": "https://github.com/TheAkshitS/skills"
+  },
+  {
+    "description": "Two standalone Claude Code skills: an optimizer that finds the highest-leverage move in any context, and an orchestrator",
+    "id": "Veeiy/agent-skills",
+    "language": "\u2014",
+    "name": "Veeiy/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:10:08Z",
+    "url": "https://github.com/Veeiy/agent-skills"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:06:50Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:05:35Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "Distributed Networks Institute",
+    "id": "1712n/dn-institute",
+    "language": "Python",
+    "name": "1712n/dn-institute",
+    "stars": 45,
+    "updated_at": "2026-06-19T16:05:24Z",
+    "url": "https://github.com/1712n/dn-institute"
+  },
+  {
+    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
+    "id": "rizvee/multimodel-dev-os",
+    "language": "JavaScript",
+    "name": "rizvee/multimodel-dev-os",
+    "stars": 2,
+    "updated_at": "2026-06-19T16:04:05Z",
+    "url": "https://github.com/rizvee/multimodel-dev-os"
+  },
+  {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 5,
+    "updated_at": "2026-06-19T16:03:37Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
+    "id": "Forward-Future/loop-library",
+    "language": "HTML",
+    "name": "Forward-Future/loop-library",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:15:17Z",
+    "url": "https://github.com/Forward-Future/loop-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T16:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "1282 production-ready AI agent skills with self-evolving meta-skills \u2014 783 cybersecurity, SEO, trading, marketing, autom",
     "id": "oyi77/1ai-skills",
     "language": "JavaScript",
@@ -77,7 +212,7 @@
     "language": "Python",
     "name": "Kiln-AI/Kiln",
     "stars": 4919,
-    "updated_at": "2026-06-19T15:51:01Z",
+    "updated_at": "2026-06-19T16:04:28Z",
     "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
@@ -113,7 +248,7 @@
     "language": "Go",
     "name": "AltairaLabs/PromptKit",
     "stars": 9,
-    "updated_at": "2026-06-19T15:51:35Z",
+    "updated_at": "2026-06-19T16:13:50Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
   },
   {
@@ -122,26 +257,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-19T15:51:14Z",
+    "updated_at": "2026-06-19T16:11:23Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
-    "id": "zigrivers/scaffold",
-    "language": "TypeScript",
-    "name": "zigrivers/scaffold",
-    "stars": 5,
-    "updated_at": "2026-06-19T15:48:03Z",
-    "url": "https://github.com/zigrivers/scaffold"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T15:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -149,7 +266,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1359,
-    "updated_at": "2026-06-19T15:45:07Z",
+    "updated_at": "2026-06-19T16:09:35Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -189,15 +306,6 @@
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
-    "description": "OpenAI-compatible media generation gateway for AI Agents. Supports multi-provider image/video generation, model routing,",
-    "id": "ang77712829/AngeMedia-gateway",
-    "language": "Python",
-    "name": "ang77712829/AngeMedia-gateway",
-    "stars": 2,
-    "updated_at": "2026-06-19T15:41:18Z",
-    "url": "https://github.com/ang77712829/AngeMedia-gateway"
-  },
-  {
     "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready tem",
     "id": "FlorianBruniaux/claude-code-ultimate-guide",
     "language": "Python",
@@ -205,6 +313,15 @@
     "stars": 5103,
     "updated_at": "2026-06-19T15:40:23Z",
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29382,
+    "updated_at": "2026-06-19T15:35:43Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83e\uddb8 AI \u7f16\u7a0b\u8d85\u80fd\u529b \u00b7 \u4e2d\u6587\u589e\u5f3a\u7248 \u2014 superpowers\uff08116k+ \u2b50\uff09\u5b8c\u6574\u6c49\u5316 + 6 \u4e2a\u4e2d\u56fd\u539f\u521b skills\uff0c\u8ba9 Claude Code / Copilot CLI / Hermes Agent / Cursor / Win",
@@ -238,18 +355,9 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 35302,
+    "stars": 35304,
     "updated_at": "2026-06-19T15:33:11Z",
     "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-19T15:32:54Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
   },
   {
     "description": "Spec-driven AI coding automation CLI. Workflow runner for Claude Code, OpenCode, Cursor, and other agent CLIs.",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T15:19:25Z",
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-06-19T15:19:21Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 0,
-    "updated_at": "2026-06-19T15:19:20Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26625,
-    "updated_at": "2026-06-19T15:18:33Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 1,
-    "updated_at": "2026-06-19T15:15:34Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
-    "id": "rizvee/multimodel-dev-os",
-    "language": "JavaScript",
-    "name": "rizvee/multimodel-dev-os",
-    "stars": 2,
-    "updated_at": "2026-06-19T15:15:19Z",
-    "url": "https://github.com/rizvee/multimodel-dev-os"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29380,
-    "updated_at": "2026-06-19T15:35:43Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Automated BRD generation using Python, Streamlit, and LLMs. A streamlined workflow for converting business ideas into pr",
-    "id": "AnukratiR/ai-brd-generator",
-    "language": "Python",
-    "name": "AnukratiR/ai-brd-generator",
-    "stars": 0,
-    "updated_at": "2026-06-19T15:14:20Z",
-    "url": "https://github.com/AnukratiR/ai-brd-generator"
-  },
-  {
-    "description": "Portable, deterministic context governance layer for AI agents \u2014 smaller, auditable prompts, only when safe.",
-    "id": "samnodehi/zam-context-plane",
-    "language": "TypeScript",
-    "name": "samnodehi/zam-context-plane",
-    "stars": 0,
-    "updated_at": "2026-06-19T15:08:24Z",
-    "url": "https://github.com/samnodehi/zam-context-plane"
-  },
-  {
-    "description": "A structured knowledge base covering LLM inference, RAG, agents, eval, and LLMOps \u2014 built for engineers shipping AI syst",
-    "id": "amikumar91/ai-systems-engineering",
-    "language": "JavaScript",
-    "name": "amikumar91/ai-systems-engineering",
-    "stars": 2,
-    "updated_at": "2026-06-19T15:08:43Z",
-    "url": "https://github.com/amikumar91/ai-systems-engineering"
-  },
-  {
-    "description": "A custom made repository-to-prompt packager made specifically for data analyst/scientist projects.",
-    "id": "arianmokhtariha/data2prompt",
-    "language": "Python",
-    "name": "arianmokhtariha/data2prompt",
-    "stars": 20,
-    "updated_at": "2026-06-19T15:19:58Z",
-    "url": "https://github.com/arianmokhtariha/data2prompt"
-  },
-  {
-    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
-    "id": "robertomarchioro/prompt-a-porter",
-    "language": "Rust",
-    "name": "robertomarchioro/prompt-a-porter",
-    "stars": 0,
-    "updated_at": "2026-06-19T15:06:49Z",
-    "url": "https://github.com/robertomarchioro/prompt-a-porter"
-  },
-  {
-    "description": "\u9488\u5bf9\u4e2d\u6587AI\u7f16\u7a0b\u7684Top 20 \u63d0\u793a\u8bcd\uff0c\u505askill\u7528\u4e8e\u8f85\u52a9codex/claude\u751f\u6210\u4ee3\u7801",
-    "id": "lunashia/code-generation-skill",
-    "language": "PowerShell",
-    "name": "lunashia/code-generation-skill",
-    "stars": 2,
-    "updated_at": "2026-06-19T15:01:01Z",
-    "url": "https://github.com/lunashia/code-generation-skill"
   }
 ]
