@@ -1,5 +1,50 @@
 [
   {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1358,
+    "updated_at": "2026-06-19T03:15:16Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "A comprehensive suite of protocols, meta-prompts, and orchestration tools designed to streamline software development wo",
+    "id": "J-StaR-Films-Studios/VibeCode-Protocol-Suite",
+    "language": "TypeScript",
+    "name": "J-StaR-Films-Studios/VibeCode-Protocol-Suite",
+    "stars": 22,
+    "updated_at": "2026-06-19T03:11:39Z",
+    "url": "https://github.com/J-StaR-Films-Studios/VibeCode-Protocol-Suite"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26611,
+    "updated_at": "2026-06-19T03:09:00Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 53,
+    "updated_at": "2026-06-19T03:08:22Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T03:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
     "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
     "language": "HTML",
@@ -9,6 +54,15 @@
     "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
   },
   {
+    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4445,
+    "updated_at": "2026-06-19T02:59:39Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
     "id": "edsondviana8/ai-humanizer-core",
     "language": "HTML",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T02:59:25Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26610,
-    "updated_at": "2026-06-19T02:59:15Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "",
@@ -79,15 +124,6 @@
     "stars": 49,
     "updated_at": "2026-06-19T02:46:29Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T02:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "DreamQuill v1.0 \u2014 a pure-prompt novel writing agent. Copy, paste, start writing. No install, no API key, no config. Buil",
@@ -310,7 +346,7 @@
     "id": "serenakeyitan/awesome-notebookLM-prompts",
     "language": "\u2014",
     "name": "serenakeyitan/awesome-notebookLM-prompts",
-    "stars": 3818,
+    "stars": 3820,
     "updated_at": "2026-06-19T01:56:46Z",
     "url": "https://github.com/serenakeyitan/awesome-notebookLM-prompts"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T01:21:09Z",
     "url": "https://github.com/krishsharma-code/krishsharma-code"
-  },
-  {
-    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
-    "id": "archubbuck/workspace-architect",
-    "language": "Python",
-    "name": "archubbuck/workspace-architect",
-    "stars": 15,
-    "updated_at": "2026-06-19T01:12:48Z",
-    "url": "https://github.com/archubbuck/workspace-architect"
-  },
-  {
-    "description": "Claude Code hook that engineers every prompt using Anthropic's 10 official principles \u2014 automatically in Claude Code, on",
-    "id": "bhutano/steelprompt",
-    "language": "Python",
-    "name": "bhutano/steelprompt",
-    "stars": 1,
-    "updated_at": "2026-06-19T01:02:54Z",
-    "url": "https://github.com/bhutano/steelprompt"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-19T01:02:27Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 12,
-    "updated_at": "2026-06-19T00:47:14Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
   }
 ]
