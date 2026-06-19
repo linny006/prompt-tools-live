@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29361,
+    "updated_at": "2026-06-19T08:15:20Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
+    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "language": "HTML",
+    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:14:07Z",
+    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19694,
+    "updated_at": "2026-06-19T08:13:48Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
+    "id": "zxpmail/ReqForge",
+    "language": "JavaScript",
+    "name": "zxpmail/ReqForge",
+    "stars": 11,
+    "updated_at": "2026-06-19T08:13:04Z",
+    "url": "https://github.com/zxpmail/ReqForge"
+  },
+  {
+    "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "JavaScript",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 982,
+    "updated_at": "2026-06-19T08:12:46Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to r",
+    "id": "serenakeyitan/awesome-notebookLM-prompts",
+    "language": "\u2014",
+    "name": "serenakeyitan/awesome-notebookLM-prompts",
+    "stars": 3829,
+    "updated_at": "2026-06-19T08:11:56Z",
+    "url": "https://github.com/serenakeyitan/awesome-notebookLM-prompts"
+  },
+  {
+    "description": "Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-comp",
+    "id": "mxyhi/ok-skills",
+    "language": "HTML",
+    "name": "mxyhi/ok-skills",
+    "stars": 428,
+    "updated_at": "2026-06-19T08:11:54Z",
+    "url": "https://github.com/mxyhi/ok-skills"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:11:42Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A framework for AI Assisted Coding",
+    "id": "nilukush/plan-do-check-verify-retrospect",
+    "language": "\u2014",
+    "name": "nilukush/plan-do-check-verify-retrospect",
+    "stars": 6,
+    "updated_at": "2026-06-19T08:10:43Z",
+    "url": "https://github.com/nilukush/plan-do-check-verify-retrospect"
+  },
+  {
+    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
+    "id": "elon-choo/fablever",
+    "language": "HTML",
+    "name": "elon-choo/fablever",
+    "stars": 19,
+    "updated_at": "2026-06-19T08:09:43Z",
+    "url": "https://github.com/elon-choo/fablever"
+  },
+  {
+    "description": "A plain-text prompt for LLMs that teaches the essence of elegant coding and testing\u2014save it to ~/.claude/CLAUDE.md.",
+    "id": "yegor256/prompt",
+    "language": "\u2014",
+    "name": "yegor256/prompt",
+    "stars": 151,
+    "updated_at": "2026-06-19T08:08:48Z",
+    "url": "https://github.com/yegor256/prompt"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T08:00:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Replication package for the FSE 2026 paper on mitigating prompt-induced cognitive biases in GPAI for software engineerin",
     "id": "Francesco-Sovrano/GPAI-sensitivity-to-cognitive-bias-in-software-engineering",
     "language": "Python",
@@ -25,24 +133,6 @@
     "stars": 3,
     "updated_at": "2026-06-19T07:54:19Z",
     "url": "https://github.com/oyi77/1ai-skills"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19694,
-    "updated_at": "2026-06-19T07:59:23Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:52:17Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Token-efficient context engine for AI coding agents. v2.6: Adaptive Output Gate -- self-improving + durable compression ",
@@ -81,24 +171,6 @@
     "url": "https://github.com/robertomarchioro/prompt-a-porter"
   },
   {
-    "description": "Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-comp",
-    "id": "mxyhi/ok-skills",
-    "language": "HTML",
-    "name": "mxyhi/ok-skills",
-    "stars": 428,
-    "updated_at": "2026-06-19T07:45:56Z",
-    "url": "https://github.com/mxyhi/ok-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T07:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
     "id": "ftvision/agent-prompt-observatory",
     "language": "Python",
@@ -115,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T07:39:48Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29361,
-    "updated_at": "2026-06-19T08:00:13Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
@@ -320,7 +383,7 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 6662,
-    "updated_at": "2026-06-19T07:40:10Z",
+    "updated_at": "2026-06-19T08:15:16Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T06:52:59Z",
     "url": "https://github.com/7xuanlu/boule"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-19T06:51:16Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Open-source AI learning platform featuring structured learning paths, projects, roadmaps, AI tools, challenges, exams, a",
-    "id": "DipakMandlik/AIByDM",
-    "language": "Python",
-    "name": "DipakMandlik/AIByDM",
-    "stars": 2,
-    "updated_at": "2026-06-19T06:39:33Z",
-    "url": "https://github.com/DipakMandlik/AIByDM"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 760,
-    "updated_at": "2026-06-19T06:32:16Z",
-    "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4221,
-    "updated_at": "2026-06-19T07:55:04Z",
-    "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "Stop teaching your coding agent the same lesson twice.",
-    "id": "rennzhang/oh-my-experience",
-    "language": "TypeScript",
-    "name": "rennzhang/oh-my-experience",
-    "stars": 4,
-    "updated_at": "2026-06-19T06:27:13Z",
-    "url": "https://github.com/rennzhang/oh-my-experience"
-  },
-  {
-    "description": "A Python-based AI bot that generates images using Stability AI, DALL-E 3, and Google Imagen, and posts them to Instagram",
-    "id": "yahayuta/ai_bot_app_insta",
-    "language": "Python",
-    "name": "yahayuta/ai_bot_app_insta",
-    "stars": 1,
-    "updated_at": "2026-06-19T06:40:22Z",
-    "url": "https://github.com/yahayuta/ai_bot_app_insta"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-06-19T06:21:38Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   }
 ]
