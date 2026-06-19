@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "id": "dongshuyan/compass-skills",
+    "language": "Python",
+    "name": "dongshuyan/compass-skills",
+    "stars": 296,
+    "updated_at": "2026-06-19T05:13:48Z",
+    "url": "https://github.com/dongshuyan/compass-skills"
+  },
+  {
+    "description": "\ud83c\udf19 Your codebase just hired a night shift \u2014 a full AI engineering team that plans, builds, tests, reviews, and releases t",
+    "id": "whimzyLive/nightshift-ai",
+    "language": "Shell",
+    "name": "whimzyLive/nightshift-ai",
+    "stars": 3,
+    "updated_at": "2026-06-19T05:13:39Z",
+    "url": "https://github.com/whimzyLive/nightshift-ai"
+  },
+  {
+    "description": "A skill\u00b7document\u00b7configuration harness for applying Claude Code to design-system / component-library projects.",
+    "id": "Kyungjong-kim/design-harness",
+    "language": "Shell",
+    "name": "Kyungjong-kim/design-harness",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:12:42Z",
+    "url": "https://github.com/Kyungjong-kim/design-harness"
+  },
+  {
+    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
+    "id": "mobcat40/ComfyUI-PromptChain",
+    "language": "Python",
+    "name": "mobcat40/ComfyUI-PromptChain",
+    "stars": 9,
+    "updated_at": "2026-06-19T05:07:15Z",
+    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
+  },
+  {
+    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
+    "id": "luongs3/skill-atlas",
+    "language": "HTML",
+    "name": "luongs3/skill-atlas",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:06:23Z",
+    "url": "https://github.com/luongs3/skill-atlas"
+  },
+  {
+    "description": "\u0295\u2022\u1d25\u2022\u0294 A cute terminal pet that refines your rough prompts using your Claude Code session's context, memory, and model \u2014 ",
+    "id": "zjchenQAQ/prompet",
+    "language": "JavaScript",
+    "name": "zjchenQAQ/prompet",
+    "stars": 1,
+    "updated_at": "2026-06-19T05:03:53Z",
+    "url": "https://github.com/zjchenQAQ/prompet"
+  },
+  {
+    "description": "Serena is to find the reliable source from many websites, find easier ways to tackle your problems using through discord",
+    "id": "realBoBao/Serena_The-Accountant",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_The-Accountant",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:01:17Z",
+    "url": "https://github.com/realBoBao/Serena_The-Accountant"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T05:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
     "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
     "language": "TypeScript",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 760,
-    "updated_at": "2026-06-19T04:59:13Z",
+    "updated_at": "2026-06-19T05:08:23Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -81,24 +153,6 @@
     "url": "https://github.com/microsoft/apm"
   },
   {
-    "description": "Serena is to find the reliable source from many websites, find easier ways to tackle your problems using through discord",
-    "id": "realBoBao/Serena_The-Accountant",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_The-Accountant",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:47:18Z",
-    "url": "https://github.com/realBoBao/Serena_The-Accountant"
-  },
-  {
-    "description": "\u0295\u2022\u1d25\u2022\u0294 A cute terminal pet that refines your rough prompts using your Claude Code session's context, memory, and model \u2014 ",
-    "id": "zjchenQAQ/prompet",
-    "language": "JavaScript",
-    "name": "zjchenQAQ/prompet",
-    "stars": 1,
-    "updated_at": "2026-06-19T04:47:08Z",
-    "url": "https://github.com/zjchenQAQ/prompet"
-  },
-  {
     "description": "Catalog and free tools for Claudette Agent digital products: handoff, eval, and agent-commerce kits.",
     "id": "claudette-agent/claudette-agent.github.io",
     "language": "HTML",
@@ -113,17 +167,8 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 6662,
-    "updated_at": "2026-06-19T04:56:11Z",
+    "updated_at": "2026-06-19T05:08:39Z",
     "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T04:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
@@ -142,15 +187,6 @@
     "stars": 1388,
     "updated_at": "2026-06-19T04:35:53Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "\ud83c\udf19 Your codebase just hired a night shift \u2014 a full AI engineering team that plans, builds, tests, reviews, and releases t",
-    "id": "whimzyLive/nightshift-ai",
-    "language": "Shell",
-    "name": "whimzyLive/nightshift-ai",
-    "stars": 3,
-    "updated_at": "2026-06-19T04:57:34Z",
-    "url": "https://github.com/whimzyLive/nightshift-ai"
   },
   {
     "description": "\ud83d\udcac 1,300+ AI personas for LLMs and agents.",
@@ -324,15 +360,6 @@
     "url": "https://github.com/zigrivers/scaffold"
   },
   {
-    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
-    "id": "luongs3/skill-atlas",
-    "language": "HTML",
-    "name": "luongs3/skill-atlas",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:03:20Z",
-    "url": "https://github.com/luongs3/skill-atlas"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T03:34:30Z",
     "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-06-19T03:34:16Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-06-19T03:27:02Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Symbolic Prompting: Engineering deterministic AI systems. Stop normalizing hallucinations. Learn to build traceable, sta",
-    "id": "mindhack03d/SymbolicPrompting",
-    "language": "\u2014",
-    "name": "mindhack03d/SymbolicPrompting",
-    "stars": 0,
-    "updated_at": "2026-06-19T03:26:29Z",
-    "url": "https://github.com/mindhack03d/SymbolicPrompting"
   }
 ]
