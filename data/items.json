@@ -1,5 +1,158 @@
 [
   {
+    "description": "\u0295\u2022\u1d25\u2022\u0294 A cute terminal pet that refines your rough prompts using your Claude Code session's context, memory, and model \u2014 ",
+    "id": "zjchenQAQ/prompet",
+    "language": "JavaScript",
+    "name": "zjchenQAQ/prompet",
+    "stars": 1,
+    "updated_at": "2026-06-19T05:43:20Z",
+    "url": "https://github.com/zjchenQAQ/prompet"
+  },
+  {
+    "description": "A curated guide to Claude Code skills \u2014 plus 7 originals for prompt-hardening, build orchestration, decision logging, an",
+    "id": "technoashu/skills-public",
+    "language": "Python",
+    "name": "technoashu/skills-public",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:43:08Z",
+    "url": "https://github.com/technoashu/skills-public"
+  },
+  {
+    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
+    "id": "zxpmail/ReqForge",
+    "language": "JavaScript",
+    "name": "zxpmail/ReqForge",
+    "stars": 11,
+    "updated_at": "2026-06-19T05:40:26Z",
+    "url": "https://github.com/zxpmail/ReqForge"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12550,
+    "updated_at": "2026-06-19T05:40:06Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 35275,
+    "updated_at": "2026-06-19T05:40:03Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "A collection of reusable Claude Code skills for planning, QA, process-flow diagrams, status reports, epics, and comms. D",
+    "id": "schuligan/claude-skills-collection",
+    "language": "Python",
+    "name": "schuligan/claude-skills-collection",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:40:00Z",
+    "url": "https://github.com/schuligan/claude-skills-collection"
+  },
+  {
+    "description": "A versioned library of system prompts and patterns with a tiny eval harness that A/B-scores prompt variants against gold",
+    "id": "schuligan/prompt-library",
+    "language": "Python",
+    "name": "schuligan/prompt-library",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:40:00Z",
+    "url": "https://github.com/schuligan/prompt-library"
+  },
+  {
+    "description": "Retrieval-augmented team knowledge copilot: ingest docs \u2192 embed \u2192 cited Q&A \u2192 human-reviewed write-back. Runs offline in",
+    "id": "schuligan/operations-knowledge-copilot",
+    "language": "Python",
+    "name": "schuligan/operations-knowledge-copilot",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:39:59Z",
+    "url": "https://github.com/schuligan/operations-knowledge-copilot"
+  },
+  {
+    "description": "Tell coherence from truth \u2014 an LLM prompt that lays out any argument's hidden premises, alternatives, and missing eviden",
+    "id": "flypggl-cpu/LARP",
+    "language": "\u2014",
+    "name": "flypggl-cpu/LARP",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:36:44Z",
+    "url": "https://github.com/flypggl-cpu/LARP"
+  },
+  {
+    "description": "Serena is to find the reliable source from many websites, find easier ways to tackle your problems using through discord",
+    "id": "realBoBao/Serena_The-Accountant",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_The-Accountant",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:36:38Z",
+    "url": "https://github.com/realBoBao/Serena_The-Accountant"
+  },
+  {
+    "description": "\ud83c\udf19 Your codebase just hired a night shift \u2014 a full AI engineering team that plans, builds, tests, reviews, and releases t",
+    "id": "whimzyLive/nightshift-ai",
+    "language": "Shell",
+    "name": "whimzyLive/nightshift-ai",
+    "stars": 3,
+    "updated_at": "2026-06-19T05:34:16Z",
+    "url": "https://github.com/whimzyLive/nightshift-ai"
+  },
+  {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 6662,
+    "updated_at": "2026-06-19T05:34:30Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
+    "description": "Production-ready AI Agent Factory with reusable Claude Code skills for LinkedIn content generation, design optimization,",
+    "id": "AreebaxIrfan/agent-factory-skills",
+    "language": "\u2014",
+    "name": "AreebaxIrfan/agent-factory-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:33:41Z",
+    "url": "https://github.com/AreebaxIrfan/agent-factory-skills"
+  },
+  {
+    "description": "Symbolic Prompting: Engineering deterministic AI systems. Stop normalizing hallucinations. Learn to build traceable, sta",
+    "id": "mindhack03d/SymbolicPrompting",
+    "language": "\u2014",
+    "name": "mindhack03d/SymbolicPrompting",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:32:07Z",
+    "url": "https://github.com/mindhack03d/SymbolicPrompting"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 760,
+    "updated_at": "2026-06-19T05:39:44Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:30:28Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T05:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -31,7 +184,7 @@
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 296,
+    "stars": 297,
     "updated_at": "2026-06-19T05:27:14Z",
     "url": "https://github.com/dongshuyan/compass-skills"
   },
@@ -61,24 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T05:25:07Z",
     "url": "https://github.com/Yomiracle/agent-skill-system"
-  },
-  {
-    "description": "A collection of reusable Claude Code skills for planning, QA, process-flow diagrams, status reports, epics, and comms. D",
-    "id": "schuligan/claude-skills-collection",
-    "language": "Python",
-    "name": "schuligan/claude-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:22:05Z",
-    "url": "https://github.com/schuligan/claude-skills-collection"
-  },
-  {
-    "description": "A versioned library of system prompts and patterns with a tiny eval harness that A/B-scores prompt variants against gold",
-    "id": "schuligan/prompt-library",
-    "language": "Python",
-    "name": "schuligan/prompt-library",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:22:04Z",
-    "url": "https://github.com/schuligan/prompt-library"
   },
   {
     "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
@@ -126,15 +261,6 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
-    "id": "zxpmail/ReqForge",
-    "language": "JavaScript",
-    "name": "zxpmail/ReqForge",
-    "stars": 11,
-    "updated_at": "2026-06-19T05:17:59Z",
-    "url": "https://github.com/zxpmail/ReqForge"
-  },
-  {
     "description": "Agent-centric memory architecture for long-running AI companions: continuity, routing, safety boundaries, and self-revie",
     "id": "GSL-R/arona-soul-agent-memory",
     "language": "\u2014",
@@ -142,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T05:17:53Z",
     "url": "https://github.com/GSL-R/arona-soul-agent-memory"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T05:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "\ud83c\udf19 Your codebase just hired a night shift \u2014 a full AI engineering team that plans, builds, tests, reviews, and releases t",
-    "id": "whimzyLive/nightshift-ai",
-    "language": "Shell",
-    "name": "whimzyLive/nightshift-ai",
-    "stars": 3,
-    "updated_at": "2026-06-19T05:30:15Z",
-    "url": "https://github.com/whimzyLive/nightshift-ai"
   },
   {
     "description": "A skill\u00b7document\u00b7configuration harness for applying Claude Code to design-system / component-library projects.",
@@ -189,24 +297,6 @@
     "url": "https://github.com/luongs3/skill-atlas"
   },
   {
-    "description": "\u0295\u2022\u1d25\u2022\u0294 A cute terminal pet that refines your rough prompts using your Claude Code session's context, memory, and model \u2014 ",
-    "id": "zjchenQAQ/prompet",
-    "language": "JavaScript",
-    "name": "zjchenQAQ/prompet",
-    "stars": 1,
-    "updated_at": "2026-06-19T05:03:53Z",
-    "url": "https://github.com/zjchenQAQ/prompet"
-  },
-  {
-    "description": "Serena is to find the reliable source from many websites, find easier ways to tackle your problems using through discord",
-    "id": "realBoBao/Serena_The-Accountant",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_The-Accountant",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:01:17Z",
-    "url": "https://github.com/realBoBao/Serena_The-Accountant"
-  },
-  {
     "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
     "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
     "language": "TypeScript",
@@ -223,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T04:59:33Z",
     "url": "https://github.com/Nitesh-lng/PromptManagement-Chatbot"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 760,
-    "updated_at": "2026-06-19T05:21:14Z",
-    "url": "https://github.com/promptdriven/pdd"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -288,15 +369,6 @@
     "url": "https://github.com/claudette-agent/claudette-agent.github.io"
   },
   {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 6662,
-    "updated_at": "2026-06-19T05:08:39Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
     "id": "f/prompts.chat",
     "language": "HTML",
@@ -351,15 +423,6 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "Retrieval-augmented team knowledge copilot: ingest docs \u2192 embed \u2192 cited Q&A \u2192 human-reviewed write-back. Runs offline in",
-    "id": "schuligan/operations-knowledge-copilot",
-    "language": "Python",
-    "name": "schuligan/operations-knowledge-copilot",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:21:54Z",
-    "url": "https://github.com/schuligan/operations-knowledge-copilot"
-  },
-  {
     "description": "Give any model Mythos-class operational discipline: planning loops, executed verification, and persistent memory via a d",
     "id": "aihxp/mythify",
     "language": "JavaScript",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T04:21:17Z",
     "url": "https://github.com/jfinley01/ai-prompting-portfolio"
-  },
-  {
-    "description": "Git shows what changed. TreeTrace reconstructs how you steered the agent: local, deterministic eval and regression data ",
-    "id": "TreeTraceTool/TreeTrace",
-    "language": "JavaScript",
-    "name": "TreeTraceTool/TreeTrace",
-    "stars": 3,
-    "updated_at": "2026-06-19T04:19:15Z",
-    "url": "https://github.com/TreeTraceTool/TreeTrace"
-  },
-  {
-    "description": "AI \ud65c\uc6a9 \uacfc\uc678\uc6a9 \ud575\uc2ec \ud50c\ub7ab\ud3fc \u2014 Next.js + Anthropic \uc2a4\ud2b8\ub9ac\ubc0d, \ud504\ub86c\ud504\ud2b8 \uc644\uc131\ub3c4 \uc2e4\uc2dc\uac04 \ubd84\uc11d\u00b7\ub2a5\ub825 \ucc44\uc810\u00b7\uc131\uc7a5 \ud0c0\uc784\ub77c\uc778",
-    "id": "jaeho9338-code/ai-director-studio",
-    "language": "TypeScript",
-    "name": "jaeho9338-code/ai-director-studio",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:19:05Z",
-    "url": "https://github.com/jaeho9338-code/ai-director-studio"
-  },
-  {
-    "description": "Automated recruitment pipeline using n8n and Google Gemini.",
-    "id": "asfriansah/ai-recruitment-pipeline",
-    "language": "\u2014",
-    "name": "asfriansah/ai-recruitment-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:18:14Z",
-    "url": "https://github.com/asfriansah/ai-recruitment-pipeline"
-  },
-  {
-    "description": "A skill\u00b7document\u00b7configuration harness for running Claude Code on any software project.",
-    "id": "Kyungjong-kim/claude-code-harness",
-    "language": "Shell",
-    "name": "Kyungjong-kim/claude-code-harness",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:10:09Z",
-    "url": "https://github.com/Kyungjong-kim/claude-code-harness"
-  },
-  {
-    "description": "Manage team-shared skills, subagents, and guidelines in one place \u2014 install them into any AI coding agent.",
-    "id": "tjdals12/AgentBolt",
-    "language": "TypeScript",
-    "name": "tjdals12/AgentBolt",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:25:03Z",
-    "url": "https://github.com/tjdals12/AgentBolt"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-06-19T04:06:12Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:04:24Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   }
 ]
