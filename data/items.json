@@ -1,5 +1,131 @@
 [
   {
+    "description": "Fast Rust repo map for AI coding agents: token-budgeted signatures, imports, diff, and MCP.",
+    "id": "fkenmar/atlas",
+    "language": "Rust",
+    "name": "fkenmar/atlas",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:14:49Z",
+    "url": "https://github.com/fkenmar/atlas"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2937,
+    "updated_at": "2026-06-19T07:13:43Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 6,
+    "updated_at": "2026-06-19T07:13:35Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "Serena is to find the reliable source from many websites, find easier ways to tackle your problems using through discord",
+    "id": "realBoBao/Serena_The-Accountant",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_The-Accountant",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:12:58Z",
+    "url": "https://github.com/realBoBao/Serena_The-Accountant"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29360,
+    "updated_at": "2026-06-19T07:12:49Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Git shows what changed. TreeTrace reconstructs how you steered the agent: local, deterministic eval and regression data ",
+    "id": "TreeTraceTool/TreeTrace",
+    "language": "JavaScript",
+    "name": "TreeTraceTool/TreeTrace",
+    "stars": 3,
+    "updated_at": "2026-06-19T07:11:04Z",
+    "url": "https://github.com/TreeTraceTool/TreeTrace"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-06-19T07:10:38Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:09:50Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-19T07:09:30Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Production-grade LLMOps platform \u2014 Git-style prompt versioning, A/B experiments with LLM-as-Judge scoring, drift detecti",
+    "id": "0DevDutt0/NeuralOps",
+    "language": "Python",
+    "name": "0DevDutt0/NeuralOps",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:08:24Z",
+    "url": "https://github.com/0DevDutt0/NeuralOps"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-19T07:02:29Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 6662,
+    "updated_at": "2026-06-19T07:04:54Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T07:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Self-improving playbook for Claude Code: hooks that surface relevant past-experience cards before a task and log session",
+    "id": "AlexLira42/claude-playbook-kit",
+    "language": "Shell",
+    "name": "AlexLira42/claude-playbook-kit",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:00:25Z",
+    "url": "https://github.com/AlexLira42/claude-playbook-kit"
+  },
+  {
     "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
     "id": "jeb-maker/lagent-quotidien",
     "language": "HTML",
@@ -9,15 +135,6 @@
     "url": "https://github.com/jeb-maker/lagent-quotidien"
   },
   {
-    "description": "Serena is to find the reliable source from many websites, find easier ways to tackle your problems using through discord",
-    "id": "realBoBao/Serena_The-Accountant",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_The-Accountant",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:00:04Z",
-    "url": "https://github.com/realBoBao/Serena_The-Accountant"
-  },
-  {
     "description": "\ud83e\udd16 AI PM Super Workbench | 12 Phases\u00b760+ Frameworks\u00b720+ Deliverables | LLM\u00b7RAG\u00b7Agent\u00b7Prompt Engineering\u00b7AI Safety | EU AI",
     "id": "yinjianheng/ai-pm-workbench-international",
     "language": "\u2014",
@@ -25,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T06:56:38Z",
     "url": "https://github.com/yinjianheng/ai-pm-workbench-international"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 19,
-    "updated_at": "2026-06-19T07:00:24Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
     "description": "\ud83e\udd16 AI\u4ea7\u54c1\u7ecf\u7406\u8d85\u7ea7\u5de5\u4f5c\u53f0 | 12\u9636\u6bb5\u00b760+\u6846\u67b6\u00b720+\u4ea4\u4ed8\u7269 | LLM\u00b7RAG\u00b7Agent\u00b7Prompt\u5de5\u7a0b\u00b7AI\u8bc4\u6d4b\u00b7AI\u5b89\u5168 | EU AI Act\u00b7\u6df1\u5ea6\u5408\u6210\u65b0\u89c4\u00b7Token\u7ecf\u6d4e\u5b66 | WuKong/Claude/OpenCla",
@@ -72,15 +180,6 @@
     "url": "https://github.com/7xuanlu/boule"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29360,
-    "updated_at": "2026-06-19T06:52:50Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -88,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T06:51:16Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 6662,
-    "updated_at": "2026-06-19T06:53:40Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T06:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
@@ -367,86 +448,5 @@
     "stars": 2404,
     "updated_at": "2026-06-19T05:57:42Z",
     "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 35543,
-    "updated_at": "2026-06-19T05:56:53Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "?? The World's First AI Blueprint Architect - Turn any wish into production-ready blueprints with multi-agent AI. Built ",
-    "id": "hackwithayush/jini_prompter",
-    "language": "TypeScript",
-    "name": "hackwithayush/jini_prompter",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:52:45Z",
-    "url": "https://github.com/hackwithayush/jini_prompter"
-  },
-  {
-    "description": "Behavioral diff for system prompt changes. See what breaks before it reaches production.",
-    "id": "RLASAF12/agent-review",
-    "language": "HTML",
-    "name": "RLASAF12/agent-review",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:49:31Z",
-    "url": "https://github.com/RLASAF12/agent-review"
-  },
-  {
-    "description": "Manage team-shared skills, subagents, and guidelines in one place \u2014 install them into any AI coding agent.",
-    "id": "tjdals12/AgentBolt",
-    "language": "TypeScript",
-    "name": "tjdals12/AgentBolt",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:47:18Z",
-    "url": "https://github.com/tjdals12/AgentBolt"
-  },
-  {
-    "description": "Symbolic Prompting: Engineering deterministic AI systems. Stop normalizing hallucinations. Learn to build traceable, sta",
-    "id": "mindhack03d/SymbolicPrompting",
-    "language": "\u2014",
-    "name": "mindhack03d/SymbolicPrompting",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:46:55Z",
-    "url": "https://github.com/mindhack03d/SymbolicPrompting"
-  },
-  {
-    "description": "1282 production-ready AI agent skills with self-evolving meta-skills \u2014 783 cybersecurity, SEO, trading, marketing, autom",
-    "id": "oyi77/1ai-skills",
-    "language": "Python",
-    "name": "oyi77/1ai-skills",
-    "stars": 3,
-    "updated_at": "2026-06-19T05:45:53Z",
-    "url": "https://github.com/oyi77/1ai-skills"
-  },
-  {
-    "description": "\u0295\u2022\u1d25\u2022\u0294 A cute terminal pet that refines your rough prompts using your Claude Code session's context, memory, and model \u2014 ",
-    "id": "zjchenQAQ/prompet",
-    "language": "JavaScript",
-    "name": "zjchenQAQ/prompet",
-    "stars": 1,
-    "updated_at": "2026-06-19T05:43:20Z",
-    "url": "https://github.com/zjchenQAQ/prompet"
-  },
-  {
-    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
-    "id": "zxpmail/ReqForge",
-    "language": "JavaScript",
-    "name": "zxpmail/ReqForge",
-    "stars": 11,
-    "updated_at": "2026-06-19T05:40:26Z",
-    "url": "https://github.com/zxpmail/ReqForge"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12550,
-    "updated_at": "2026-06-19T05:40:06Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   }
 ]
