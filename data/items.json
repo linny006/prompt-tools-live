@@ -1,5 +1,122 @@
 [
   {
+    "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
+    "id": "dgenio/contextweaver",
+    "language": "Python",
+    "name": "dgenio/contextweaver",
+    "stars": 8,
+    "updated_at": "2026-06-19T06:15:07Z",
+    "url": "https://github.com/dgenio/contextweaver"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:14:12Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "CLAUDE COWORK Governance templates for Claude Cowork \u2014 built from empirical research into long-horizon human-AI collabor",
+    "id": "LivingFramework/LivingFramework.github.io",
+    "language": "JavaScript",
+    "name": "LivingFramework/LivingFramework.github.io",
+    "stars": 44,
+    "updated_at": "2026-06-19T06:13:49Z",
+    "url": "https://github.com/LivingFramework/LivingFramework.github.io"
+  },
+  {
+    "description": "A versioned library of system prompts and patterns with a tiny eval harness that A/B-scores prompt variants against gold",
+    "id": "schuligan/prompt-library",
+    "language": "Python",
+    "name": "schuligan/prompt-library",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:13:22Z",
+    "url": "https://github.com/schuligan/prompt-library"
+  },
+  {
+    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
+    "id": "5uprem4/ai-skill-vault",
+    "language": "HTML",
+    "name": "5uprem4/ai-skill-vault",
+    "stars": 2,
+    "updated_at": "2026-06-19T06:12:57Z",
+    "url": "https://github.com/5uprem4/ai-skill-vault"
+  },
+  {
+    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
+    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "language": "HTML",
+    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "stars": 50,
+    "updated_at": "2026-06-19T06:11:52Z",
+    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
+  },
+  {
+    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
+    "id": "teguhimanulloh47/pirate-talk-for-claude",
+    "language": "HTML",
+    "name": "teguhimanulloh47/pirate-talk-for-claude",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:11:21Z",
+    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
+  },
+  {
+    "description": "A plain-text prompt for LLMs that teaches the essence of elegant coding and testing\u2014save it to ~/.claude/CLAUDE.md.",
+    "id": "yegor256/prompt",
+    "language": "\u2014",
+    "name": "yegor256/prompt",
+    "stars": 151,
+    "updated_at": "2026-06-19T06:13:25Z",
+    "url": "https://github.com/yegor256/prompt"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:09:36Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
+    "id": "elon-choo/fablever",
+    "language": "JavaScript",
+    "name": "elon-choo/fablever",
+    "stars": 19,
+    "updated_at": "2026-06-19T06:07:28Z",
+    "url": "https://github.com/elon-choo/fablever"
+  },
+  {
+    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
+    "id": "rmdhananjay/contextual-memory-map",
+    "language": "HTML",
+    "name": "rmdhananjay/contextual-memory-map",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:05:50Z",
+    "url": "https://github.com/rmdhananjay/contextual-memory-map"
+  },
+  {
+    "description": "A full-stack prompt intelligence platform that analyzes your unique prompting traits and refines raw natural-language pr",
+    "id": "sameernagar-hub/promptPilot",
+    "language": "Python",
+    "name": "sameernagar-hub/promptPilot",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:02:58Z",
+    "url": "https://github.com/sameernagar-hub/promptPilot"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T06:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -27,22 +144,22 @@
     "url": "https://github.com/sahil87/fab-kit"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 35314,
-    "updated_at": "2026-06-19T05:56:53Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
     "id": "Open-Less/openless",
     "language": "HTML",
     "name": "Open-Less/openless",
-    "stars": 2403,
+    "stars": 2404,
     "updated_at": "2026-06-19T05:57:42Z",
     "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 35377,
+    "updated_at": "2026-06-19T05:56:53Z",
+    "url": "https://github.com/chopratejas/headroom"
   },
   {
     "description": "Serena is to find the reliable source from many websites, find easier ways to tackle your problems using through discord",
@@ -72,15 +189,6 @@
     "url": "https://github.com/hackwithayush/jini_prompter"
   },
   {
-    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
-    "id": "elon-choo/fablever",
-    "language": "JavaScript",
-    "name": "elon-choo/fablever",
-    "stars": 19,
-    "updated_at": "2026-06-19T05:52:29Z",
-    "url": "https://github.com/elon-choo/fablever"
-  },
-  {
     "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
     "id": "promptdriven/pdd",
     "language": "Python",
@@ -95,7 +203,7 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 6662,
-    "updated_at": "2026-06-19T05:52:54Z",
+    "updated_at": "2026-06-19T06:13:48Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -133,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-06-19T05:45:53Z",
     "url": "https://github.com/oyi77/1ai-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T05:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u0295\u2022\u1d25\u2022\u0294 A cute terminal pet that refines your rough prompts using your Claude Code session's context, memory, and model \u2014 ",
@@ -187,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T05:40:00Z",
     "url": "https://github.com/schuligan/claude-skills-collection"
-  },
-  {
-    "description": "A versioned library of system prompts and patterns with a tiny eval harness that A/B-scores prompt variants against gold",
-    "id": "schuligan/prompt-library",
-    "language": "Python",
-    "name": "schuligan/prompt-library",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:40:00Z",
-    "url": "https://github.com/schuligan/prompt-library"
   },
   {
     "description": "Retrieval-augmented team knowledge copilot: ingest docs \u2192 embed \u2192 cited Q&A \u2192 human-reviewed write-back. Runs offline in",
@@ -257,7 +347,7 @@
     "language": "Python",
     "name": "dariank38/agentic-job-scraper",
     "stars": 0,
-    "updated_at": "2026-06-19T05:28:30Z",
+    "updated_at": "2026-06-19T06:07:22Z",
     "url": "https://github.com/dariank38/agentic-job-scraper"
   },
   {
@@ -274,7 +364,7 @@
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 301,
+    "stars": 303,
     "updated_at": "2026-06-19T05:27:14Z",
     "url": "https://github.com/dongshuyan/compass-skills"
   },
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T05:17:53Z",
     "url": "https://github.com/GSL-R/arona-soul-agent-memory"
-  },
-  {
-    "description": "A skill\u00b7document\u00b7configuration harness for applying Claude Code to design-system / component-library projects.",
-    "id": "Kyungjong-kim/design-harness",
-    "language": "Shell",
-    "name": "Kyungjong-kim/design-harness",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:12:42Z",
-    "url": "https://github.com/Kyungjong-kim/design-harness"
-  },
-  {
-    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
-    "id": "mobcat40/ComfyUI-PromptChain",
-    "language": "Python",
-    "name": "mobcat40/ComfyUI-PromptChain",
-    "stars": 9,
-    "updated_at": "2026-06-19T05:07:15Z",
-    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
-  },
-  {
-    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
-    "id": "luongs3/skill-atlas",
-    "language": "HTML",
-    "name": "luongs3/skill-atlas",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:06:23Z",
-    "url": "https://github.com/luongs3/skill-atlas"
-  },
-  {
-    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
-    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1644,
-    "updated_at": "2026-06-19T05:00:18Z",
-    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "A mini e-commerce chatbot built with LangChain/LangGraph, featuring a comprehensive prompt management system.",
-    "id": "Nitesh-lng/PromptManagement-Chatbot",
-    "language": "Python",
-    "name": "Nitesh-lng/PromptManagement-Chatbot",
-    "stars": 1,
-    "updated_at": "2026-06-19T04:59:33Z",
-    "url": "https://github.com/Nitesh-lng/PromptManagement-Chatbot"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:58:07Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 1725,
-    "updated_at": "2026-06-19T04:56:13Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 4,
-    "updated_at": "2026-06-19T04:55:02Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:47:33Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 2936,
-    "updated_at": "2026-06-19T04:48:30Z",
-    "url": "https://github.com/microsoft/apm"
   }
 ]
