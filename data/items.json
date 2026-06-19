@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u0295\u2022\u1d25\u2022\u0294 A cute terminal pet that refines your rough prompts using your Claude Code session's context, memory, and model \u2014 ",
+    "id": "zjchenQAQ/prompet",
+    "language": "JavaScript",
+    "name": "zjchenQAQ/prompet",
+    "stars": 1,
+    "updated_at": "2026-06-19T04:39:17Z",
+    "url": "https://github.com/zjchenQAQ/prompet"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2936,
+    "updated_at": "2026-06-19T04:39:44Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
+    "id": "f/prompts.chat",
+    "language": "HTML",
+    "name": "f/prompts.chat",
+    "stars": 163903,
+    "updated_at": "2026-06-19T04:37:05Z",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1388,
+    "updated_at": "2026-06-19T04:35:53Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "\ud83c\udf19 Your codebase just hired a night shift \u2014 a full AI engineering team that plans, builds, tests, reviews, and releases t",
+    "id": "whimzyLive/nightshift-ai",
+    "language": "Shell",
+    "name": "whimzyLive/nightshift-ai",
+    "stars": 3,
+    "updated_at": "2026-06-19T04:34:54Z",
+    "url": "https://github.com/whimzyLive/nightshift-ai"
+  },
+  {
+    "description": "\ud83d\udcac 1,300+ AI personas for LLMs and agents.",
+    "id": "KudoAI/ai-personas",
+    "language": "Python",
+    "name": "KudoAI/ai-personas",
+    "stars": 26,
+    "updated_at": "2026-06-19T04:34:36Z",
+    "url": "https://github.com/KudoAI/ai-personas"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T04:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Serena is to find the reliable source from many websites, find easier ways to tackle your problems using through discord",
     "id": "realBoBao/Serena_The-Accountant",
     "language": "JavaScript",
@@ -90,15 +153,6 @@
     "url": "https://github.com/jfinley01/ai-prompting-portfolio"
   },
   {
-    "description": "\u0295\u2022\u1d25\u2022\u0294 A cute terminal pet that refines your rough prompts using your Claude Code session's context, memory, and model \u2014 ",
-    "id": "zjchenQAQ/prompet",
-    "language": "JavaScript",
-    "name": "zjchenQAQ/prompet",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:20:34Z",
-    "url": "https://github.com/zjchenQAQ/prompet"
-  },
-  {
     "description": "Git shows what changed. TreeTrace reconstructs how you steered the agent: local, deterministic eval and regression data ",
     "id": "TreeTraceTool/TreeTrace",
     "language": "JavaScript",
@@ -108,6 +162,15 @@
     "url": "https://github.com/TreeTraceTool/TreeTrace"
   },
   {
+    "description": "AI \ud65c\uc6a9 \uacfc\uc678\uc6a9 \ud575\uc2ec \ud50c\ub7ab\ud3fc \u2014 Next.js + Anthropic \uc2a4\ud2b8\ub9ac\ubc0d, \ud504\ub86c\ud504\ud2b8 \uc644\uc131\ub3c4 \uc2e4\uc2dc\uac04 \ubd84\uc11d\u00b7\ub2a5\ub825 \ucc44\uc810\u00b7\uc131\uc7a5 \ud0c0\uc784\ub77c\uc778",
+    "id": "jaeho9338-code/ai-director-studio",
+    "language": "TypeScript",
+    "name": "jaeho9338-code/ai-director-studio",
+    "stars": 0,
+    "updated_at": "2026-06-19T04:19:05Z",
+    "url": "https://github.com/jaeho9338-code/ai-director-studio"
+  },
+  {
     "description": "Automated recruitment pipeline using n8n and Google Gemini.",
     "id": "asfriansah/ai-recruitment-pipeline",
     "language": "\u2014",
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T04:18:14Z",
     "url": "https://github.com/asfriansah/ai-recruitment-pipeline"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T04:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A skill\u00b7document\u00b7configuration harness for running Claude Code on any software project.",
@@ -328,7 +382,7 @@
     "id": "vllm-project/semantic-router",
     "language": "Go",
     "name": "vllm-project/semantic-router",
-    "stars": 4446,
+    "stars": 4448,
     "updated_at": "2026-06-19T02:59:39Z",
     "url": "https://github.com/vllm-project/semantic-router"
   },
@@ -364,7 +418,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 7631,
+    "stars": 7630,
     "updated_at": "2026-06-19T02:52:45Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T02:43:27Z",
     "url": "https://github.com/eluckydog/DreamQuill"
-  },
-  {
-    "description": "\ud83e\uddb8 AI \u7f16\u7a0b\u8d85\u80fd\u529b \u00b7 \u4e2d\u6587\u589e\u5f3a\u7248 \u2014 superpowers\uff08116k+ \u2b50\uff09\u5b8c\u6574\u6c49\u5316 + 6 \u4e2a\u4e2d\u56fd\u539f\u521b skills\uff0c\u8ba9 Claude Code / Copilot CLI / Hermes Agent / Cursor / Win",
-    "id": "jnMetaCode/superpowers-zh",
-    "language": "Shell",
-    "name": "jnMetaCode/superpowers-zh",
-    "stars": 5599,
-    "updated_at": "2026-06-19T02:43:11Z",
-    "url": "https://github.com/jnMetaCode/superpowers-zh"
-  },
-  {
-    "description": "\ud83c\udfad 216 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 17 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 18 \u4e2a\u90e8\u95e8\u3002\u542b 50 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
-    "id": "jnMetaCode/agency-agents-zh",
-    "language": "Shell",
-    "name": "jnMetaCode/agency-agents-zh",
-    "stars": 15212,
-    "updated_at": "2026-06-19T02:43:07Z",
-    "url": "https://github.com/jnMetaCode/agency-agents-zh"
-  },
-  {
-    "description": "semantically probe LLM refusal boundaries. maps where the fence actually is.",
-    "id": "numbpilled2133/refusal-mapper",
-    "language": "Python",
-    "name": "numbpilled2133/refusal-mapper",
-    "stars": 0,
-    "updated_at": "2026-06-19T02:40:39Z",
-    "url": "https://github.com/numbpilled2133/refusal-mapper"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 21,
-    "updated_at": "2026-06-19T02:39:16Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Comments for anything. In plain text. In git. \u2014 https://markback.org",
-    "id": "dandriscoll/markback",
-    "language": "Python",
-    "name": "dandriscoll/markback",
-    "stars": 0,
-    "updated_at": "2026-06-19T02:37:52Z",
-    "url": "https://github.com/dandriscoll/markback"
-  },
-  {
-    "description": "AI Prompt Generator & Optimizer \u2014 Midjourney/Flux/Video AI, bilingual, zero-dep, single-file",
-    "id": "pkokwho/tsc",
-    "language": "HTML",
-    "name": "pkokwho/tsc",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:16:10Z",
-    "url": "https://github.com/pkokwho/tsc"
   }
 ]
