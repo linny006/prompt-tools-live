@@ -1,12 +1,138 @@
 [
   {
+    "description": "PromptBeacon is a Python toolkit and CLI for monitoring how brands appear in responses from LLM-powered AI assistants li",
+    "id": "yotambraun/promptbeacon",
+    "language": "Python",
+    "name": "yotambraun/promptbeacon",
+    "stars": 1,
+    "updated_at": "2026-06-19T13:12:00Z",
+    "url": "https://github.com/yotambraun/promptbeacon"
+  },
+  {
+    "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+    "id": "majiayu000/spellbook",
+    "language": "Python",
+    "name": "majiayu000/spellbook",
+    "stars": 213,
+    "updated_at": "2026-06-19T13:11:53Z",
+    "url": "https://github.com/majiayu000/spellbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29377,
+    "updated_at": "2026-06-19T13:15:42Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A small, file-first verification harness that turns an AI agent's \"I'm done\" claim into an auditable admission decision.",
+    "id": "BrianNguyen29/x-harness",
+    "language": "Go",
+    "name": "BrianNguyen29/x-harness",
+    "stars": 1,
+    "updated_at": "2026-06-19T13:10:22Z",
+    "url": "https://github.com/BrianNguyen29/x-harness"
+  },
+  {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-06-19T13:10:02Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "Protocolo port\u00e1til de intake conversacional para agentes de IA: clarifica voz e linguagem natural antes de executar.",
+    "id": "vetlucasmartins/agentic-prompt-intake",
+    "language": "JavaScript",
+    "name": "vetlucasmartins/agentic-prompt-intake",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:08:22Z",
+    "url": "https://github.com/vetlucasmartins/agentic-prompt-intake"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "MartiniArt/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "MartiniArt/awesome-seedance-2-prompt",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:07:50Z",
+    "url": "https://github.com/MartiniArt/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "JavaScript",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 983,
+    "updated_at": "2026-06-19T13:07:36Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12552,
+    "updated_at": "2026-06-19T13:06:06Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
+    "id": "VisionaireLabs/Visionaire",
+    "language": "TypeScript",
+    "name": "VisionaireLabs/Visionaire",
+    "stars": 2,
+    "updated_at": "2026-06-19T13:02:28Z",
+    "url": "https://github.com/VisionaireLabs/Visionaire"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 288,
+    "updated_at": "2026-06-19T13:02:11Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
+    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "language": "HTML",
+    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:01:35Z",
+    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
+  },
+  {
+    "description": "A MARC21 prompt generator that converts book metadata into RDA-compliant MARCXML via AI.",
+    "id": "marisabelmunoz/Bib-Title-Generator",
+    "language": "HTML",
+    "name": "marisabelmunoz/Bib-Title-Generator",
+    "stars": 1,
+    "updated_at": "2026-06-19T13:01:18Z",
+    "url": "https://github.com/marisabelmunoz/Bib-Title-Generator"
+  },
+  {
     "description": "(RTX\u26a1) Core Framework \u2014 Reasoning | Thinking | Xtreme. A master AI blueprint for building autonomous agents that collabo",
     "id": "PsProsen-Dev/RTXCoreFramework",
     "language": "JavaScript",
     "name": "PsProsen-Dev/RTXCoreFramework",
     "stars": 0,
-    "updated_at": "2026-06-19T12:59:29Z",
+    "updated_at": "2026-06-19T13:00:59Z",
     "url": "https://github.com/PsProsen-Dev/RTXCoreFramework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T13:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -16,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T12:57:52Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29376,
-    "updated_at": "2026-06-19T12:58:52Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "A small, file-first verification harness that turns an AI agent's \"I'm done\" claim into an auditable admission decision.",
-    "id": "BrianNguyen29/x-harness",
-    "language": "Go",
-    "name": "BrianNguyen29/x-harness",
-    "stars": 1,
-    "updated_at": "2026-06-19T12:57:42Z",
-    "url": "https://github.com/BrianNguyen29/x-harness"
   },
   {
     "description": "Turn a rough idea into a hardened engineering spec: goal-formatter -> goal-spec -> spec-review. Tool-agnostic Claude Cod",
@@ -81,24 +189,6 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
-    "id": "Sunil-M02/curiosity-engine",
-    "language": "TypeScript",
-    "name": "Sunil-M02/curiosity-engine",
-    "stars": 2,
-    "updated_at": "2026-06-19T12:53:36Z",
-    "url": "https://github.com/Sunil-M02/curiosity-engine"
-  },
-  {
-    "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-    "id": "majiayu000/spellbook",
-    "language": "Python",
-    "name": "majiayu000/spellbook",
-    "stars": 213,
-    "updated_at": "2026-06-19T12:59:59Z",
-    "url": "https://github.com/majiayu000/spellbook"
-  },
-  {
     "description": "Give your AI coding agent a personality. Composable persona + style + skills for Claude Code, Codex, Gemini CLI & OpenCl",
     "id": "telagod/code-abyss",
     "language": "JavaScript",
@@ -108,15 +198,6 @@
     "url": "https://github.com/telagod/code-abyss"
   },
   {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:48:55Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
-  },
-  {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
     "id": "Faudzan10/outline-driven-starter-kit",
     "language": "HTML",
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T12:46:52Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T12:45:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
@@ -369,15 +441,6 @@
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
-    "description": "Protocolo port\u00e1til de intake conversacional para agentes de IA: clarifica voz e linguagem natural antes de executar.",
-    "id": "vetlucasmartins/agentic-prompt-intake",
-    "language": "JavaScript",
-    "name": "vetlucasmartins/agentic-prompt-intake",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:04:37Z",
-    "url": "https://github.com/vetlucasmartins/agentic-prompt-intake"
-  },
-  {
     "description": "Open-source AI learning platform featuring structured learning paths, projects, roadmaps, AI tools, challenges, exams, a",
     "id": "DipakMandlik/AIByDM",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-19T12:01:42Z",
     "url": "https://github.com/DipakMandlik/AIByDM"
-  },
-  {
-    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
-    "id": "cobusgreyling/loop-engineering",
-    "language": "JavaScript",
-    "name": "cobusgreyling/loop-engineering",
-    "stars": 413,
-    "updated_at": "2026-06-19T11:57:00Z",
-    "url": "https://github.com/cobusgreyling/loop-engineering"
-  },
-  {
-    "description": "Flexible and lightweight library for creating prompt templates",
-    "id": "Goldziher/prompt-template",
-    "language": "Python",
-    "name": "Goldziher/prompt-template",
-    "stars": 23,
-    "updated_at": "2026-06-19T11:57:29Z",
-    "url": "https://github.com/Goldziher/prompt-template"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:54:05Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "AI-powered Study Assistant built using Python and OpenAI API.",
-    "id": "DivyaTembhekar/AI-Study-Assistant-OpenAI",
-    "language": "Jupyter Notebook",
-    "name": "DivyaTembhekar/AI-Study-Assistant-OpenAI",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:53:25Z",
-    "url": "https://github.com/DivyaTembhekar/AI-Study-Assistant-OpenAI"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-06-19T12:59:06Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "Two standalone Claude Code skills: an optimizer that finds the highest-leverage move in any context, and an orchestrator",
-    "id": "Veeiy/agent-skills",
-    "language": "\u2014",
-    "name": "Veeiy/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:51:06Z",
-    "url": "https://github.com/Veeiy/agent-skills"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:51:05Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   }
 ]
