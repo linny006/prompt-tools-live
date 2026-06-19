@@ -1,5 +1,122 @@
 [
   {
+    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
+    "id": "Kenny27lokku/prompt-integrity-validator",
+    "language": "HTML",
+    "name": "Kenny27lokku/prompt-integrity-validator",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:30:08Z",
+    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29377,
+    "updated_at": "2026-06-19T13:29:27Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19697,
+    "updated_at": "2026-06-19T13:29:17Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A privacy-clean framework for evolving, routing, validating, and sharing Codex skills.",
+    "id": "kyt19970215/codex-skill-evolution-framework",
+    "language": "Python",
+    "name": "kyt19970215/codex-skill-evolution-framework",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:29:17Z",
+    "url": "https://github.com/kyt19970215/codex-skill-evolution-framework"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-19T13:29:11Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:29:11Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
+    "id": "kodancrash-oss/prompt-weaver-framework",
+    "language": "HTML",
+    "name": "kodancrash-oss/prompt-weaver-framework",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:28:55Z",
+    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
+  },
+  {
+    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
+    "id": "tech-guru254/spec-weaver",
+    "language": "HTML",
+    "name": "tech-guru254/spec-weaver",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:28:50Z",
+    "url": "https://github.com/tech-guru254/spec-weaver"
+  },
+  {
+    "description": "AI Prompt Generator & Optimizer \u2014 Midjourney/Flux/Video AI, bilingual, zero-dep, single-file",
+    "id": "pkokwho/tsc",
+    "language": "HTML",
+    "name": "pkokwho/tsc",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:24:54Z",
+    "url": "https://github.com/pkokwho/tsc"
+  },
+  {
+    "description": "Forensic reference-integrity auditor for academic publishing \u2014 built for nursing and health-sciences editors who need to",
+    "id": "PitziLabs/reference-checker",
+    "language": "HTML",
+    "name": "PitziLabs/reference-checker",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:24:31Z",
+    "url": "https://github.com/PitziLabs/reference-checker"
+  },
+  {
+    "description": "A small, file-first verification harness that turns an AI agent's \"I'm done\" claim into an auditable admission decision.",
+    "id": "BrianNguyen29/x-harness",
+    "language": "Go",
+    "name": "BrianNguyen29/x-harness",
+    "stars": 1,
+    "updated_at": "2026-06-19T13:23:33Z",
+    "url": "https://github.com/BrianNguyen29/x-harness"
+  },
+  {
+    "description": "Turn a rough idea into a hardened engineering spec: goal-formatter -> goal-spec -> spec-review. Tool-agnostic Claude Cod",
+    "id": "jgsystemsconsulting/jgs-goal-spec",
+    "language": "Python",
+    "name": "jgsystemsconsulting/jgs-goal-spec",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:18:58Z",
+    "url": "https://github.com/jgsystemsconsulting/jgs-goal-spec"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T13:15:45Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "PromptBeacon is a Python toolkit and CLI for monitoring how brands appear in responses from LLM-powered AI assistants li",
     "id": "yotambraun/promptbeacon",
     "language": "Python",
@@ -14,26 +131,8 @@
     "language": "Python",
     "name": "majiayu000/spellbook",
     "stars": 213,
-    "updated_at": "2026-06-19T13:11:53Z",
+    "updated_at": "2026-06-19T13:26:09Z",
     "url": "https://github.com/majiayu000/spellbook"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29377,
-    "updated_at": "2026-06-19T13:15:42Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "A small, file-first verification harness that turns an AI agent's \"I'm done\" claim into an auditable admission decision.",
-    "id": "BrianNguyen29/x-harness",
-    "language": "Go",
-    "name": "BrianNguyen29/x-harness",
-    "stars": 1,
-    "updated_at": "2026-06-19T13:10:22Z",
-    "url": "https://github.com/BrianNguyen29/x-harness"
   },
   {
     "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
@@ -126,15 +225,6 @@
     "url": "https://github.com/PsProsen-Dev/RTXCoreFramework"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T13:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -142,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T12:57:52Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Turn a rough idea into a hardened engineering spec: goal-formatter -> goal-spec -> spec-review. Tool-agnostic Claude Cod",
-    "id": "jgsystemsconsulting/jgs-goal-spec",
-    "language": "Python",
-    "name": "jgsystemsconsulting/jgs-goal-spec",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:57:01Z",
-    "url": "https://github.com/jgsystemsconsulting/jgs-goal-spec"
-  },
-  {
-    "description": "Forensic reference-integrity auditor for academic publishing \u2014 built for nursing and health-sciences editors who need to",
-    "id": "PitziLabs/reference-checker",
-    "language": "HTML",
-    "name": "PitziLabs/reference-checker",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:56:39Z",
-    "url": "https://github.com/PitziLabs/reference-checker"
   },
   {
     "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready tem",
@@ -324,15 +396,6 @@
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19697,
-    "updated_at": "2026-06-19T12:40:00Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T12:15:13Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "An AI prompt-skill that turns 20 cognitive biases into high-converting marketing copy. Includes playbooks for ads, landi",
-    "id": "MADEVAL/MindFluence",
-    "language": "\u2014",
-    "name": "MADEVAL/MindFluence",
-    "stars": 30,
-    "updated_at": "2026-06-19T12:09:18Z",
-    "url": "https://github.com/MADEVAL/MindFluence"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:08:45Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 2,
-    "updated_at": "2026-06-19T12:07:34Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "DreamQuill v1.0 \u2014 a pure-prompt novel writing agent. Copy, paste, start writing. No install, no API key, no config. Buil",
-    "id": "eluckydog/DreamQuill",
-    "language": "\u2014",
-    "name": "eluckydog/DreamQuill",
-    "stars": 1,
-    "updated_at": "2026-06-19T12:04:44Z",
-    "url": "https://github.com/eluckydog/DreamQuill"
-  },
-  {
-    "description": ".NET 10 Minimal API for benchmarking and evaluating Large Language Models (LLMs) for generation and rewrite tasks, featu",
-    "id": "guizama/LLMBenchmark",
-    "language": "C#",
-    "name": "guizama/LLMBenchmark",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:04:36Z",
-    "url": "https://github.com/guizama/LLMBenchmark"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 20,
-    "updated_at": "2026-06-19T12:04:23Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Open-source AI learning platform featuring structured learning paths, projects, roadmaps, AI tools, challenges, exams, a",
-    "id": "DipakMandlik/AIByDM",
-    "language": "Python",
-    "name": "DipakMandlik/AIByDM",
-    "stars": 2,
-    "updated_at": "2026-06-19T12:01:42Z",
-    "url": "https://github.com/DipakMandlik/AIByDM"
   }
 ]
