@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 11:43 UTC
+> ⏰ Last updated: 2026-06-19 11:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19697 | Python | 2026-06-19 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 2 | [SLOWSKIBhere/vrc-ai-profit-agent](https://github.com/SLOWSKIBhere/vrc-ai-profit-agent) | 0 | HTML | 2026-06-19 | 4-agent AI pipeline for small business finance — built for a real shop in rural India. Browser-only, Web Crypto security |
-| 3 | [PiyushMishra318/lumina](https://github.com/PiyushMishra318/lumina) | 0 | HTML | 2026-06-19 | Lumina is an AI-powered automation framework that analyzes videos and audio to generate Playwright test scripts. It merg |
-| 4 | [tomatikii/passion](https://github.com/tomatikii/passion) | 0 | — | 2026-06-19 | An AI skill that refuses to hand you the first draft. |
-| 5 | [Ronnie2025/ai-agent-workbench-starter-pack](https://github.com/Ronnie2025/ai-agent-workbench-starter-pack) | 0 | HTML | 2026-06-19 | AI Agent 工作台实战包 public sales page |
-| 6 | [PsProsen-Dev/RTXCoreFramework](https://github.com/PsProsen-Dev/RTXCoreFramework) | 0 | — | 2026-06-19 | (RTX⚡) Core Framework — Reasoning \| Thinking \| Xtreme. A master AI blueprint for building autonomous agents that collabo |
-| 7 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29375 | TypeScript | 2026-06-19 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 8 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-06-19 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
-| 9 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 75 | Rust | 2026-06-19 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
-| 10 | [Sharrmavishal/operating-kit](https://github.com/Sharrmavishal/operating-kit) | 0 | — | 2026-06-19 | Portable, project-agnostic operating kit for Claude Code — a disciplined builder + strategic-vetting persona, playbooks, |
-| 11 | [RudraDudhat2509/diffprompt](https://github.com/RudraDudhat2509/diffprompt) | 2 | Python | 2026-06-19 | git diff for prompt engineers  |
-| 12 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 288 | Swift | 2026-06-19 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
-| 13 | [zarahunter/seo-geo-skills](https://github.com/zarahunter/seo-geo-skills) | 0 | — | 2026-06-19 | AI SEO / GEO skill for Claude Code by Zara Hunter (Eduk8agentic) — get your content cited inside AI answers. Includes a  |
-| 14 | [Veeiy/agent-skills](https://github.com/Veeiy/agent-skills) | 0 | — | 2026-06-19 | Two standalone Claude Code skills: an optimizer that finds the highest-leverage move in any context, and an orchestrator |
-| 15 | [LiHongwei-cn/lihongwei-cn](https://github.com/LiHongwei-cn/lihongwei-cn) | 1 | Python | 2026-06-19 | MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective |
-| 16 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 3 | Python | 2026-06-19 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 3 | Python | 2026-06-19 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [comet-ml/opik](https://github.com/comet-ml/opik) | 19697 | Python | 2026-06-19 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 3 | [SLOWSKIBhere/vrc-ai-profit-agent](https://github.com/SLOWSKIBhere/vrc-ai-profit-agent) | 0 | HTML | 2026-06-19 | 4-agent AI pipeline for small business finance — built for a real shop in rural India. Browser-only, Web Crypto security |
+| 4 | [PiyushMishra318/lumina](https://github.com/PiyushMishra318/lumina) | 0 | HTML | 2026-06-19 | Lumina is an AI-powered automation framework that analyzes videos and audio to generate Playwright test scripts. It merg |
+| 5 | [tomatikii/passion](https://github.com/tomatikii/passion) | 0 | — | 2026-06-19 | An AI skill that refuses to hand you the first draft. |
+| 6 | [Ronnie2025/ai-agent-workbench-starter-pack](https://github.com/Ronnie2025/ai-agent-workbench-starter-pack) | 0 | HTML | 2026-06-19 | AI Agent 工作台实战包 public sales page |
+| 7 | [PsProsen-Dev/RTXCoreFramework](https://github.com/PsProsen-Dev/RTXCoreFramework) | 0 | — | 2026-06-19 | (RTX⚡) Core Framework — Reasoning \| Thinking \| Xtreme. A master AI blueprint for building autonomous agents that collabo |
+| 8 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 29375 | TypeScript | 2026-06-19 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 9 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 0 | JavaScript | 2026-06-19 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
+| 10 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 75 | Rust | 2026-06-19 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
+| 11 | [Sharrmavishal/operating-kit](https://github.com/Sharrmavishal/operating-kit) | 0 | — | 2026-06-19 | Portable, project-agnostic operating kit for Claude Code — a disciplined builder + strategic-vetting persona, playbooks, |
+| 12 | [RudraDudhat2509/diffprompt](https://github.com/RudraDudhat2509/diffprompt) | 2 | Python | 2026-06-19 | git diff for prompt engineers  |
+| 13 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 288 | Swift | 2026-06-19 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
+| 14 | [zarahunter/seo-geo-skills](https://github.com/zarahunter/seo-geo-skills) | 0 | — | 2026-06-19 | AI SEO / GEO skill for Claude Code by Zara Hunter (Eduk8agentic) — get your content cited inside AI answers. Includes a  |
+| 15 | [Veeiy/agent-skills](https://github.com/Veeiy/agent-skills) | 0 | — | 2026-06-19 | Two standalone Claude Code skills: an optimizer that finds the highest-leverage move in any context, and an orchestrator |
+| 16 | [LiHongwei-cn/lihongwei-cn](https://github.com/LiHongwei-cn/lihongwei-cn) | 1 | Python | 2026-06-19 | MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective |
 | 17 | [rahimahgilani/finance-gal-penny](https://github.com/rahimahgilani/finance-gal-penny) | 0 | Python | 2026-06-19 | Save your pennies with Penny - An AI-Powered Chatbot that takes a text input to generate expense visualizations and savi |
 | 18 | [AlexShchuka/neuro-matrix](https://github.com/AlexShchuka/neuro-matrix) | 3 | Python | 2026-06-19 | Claude Code plugin: runtime invariants + hooks (cycle-detector, approval gate, verification gate), four co-system agents |
 | 19 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-19 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
