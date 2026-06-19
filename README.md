@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 02:11 UTC
+> ⏰ Last updated: 2026-06-19 02:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 0 | HTML | 2026-06-19 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
-| 2 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 0 | HTML | 2026-06-19 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 3 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 0 | HTML | 2026-06-19 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 4 | [OutlineDriven/odin-reflector](https://github.com/OutlineDriven/odin-reflector) | 4 | TypeScript | 2026-06-19 | Codex CLI meta-reflection layer for Outline-Driven Development. Add-on for the Claude plugin. |
-| 5 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-06-19 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 6 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26610 | Python | 2026-06-19 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 7 | [franklinxkk/ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) | 3 | Python | 2026-06-19 | Product-side Spec-Driven Development framework — PRD, interactive prototype, DDD handoff, AI runtime governance, accepta |
-| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22361 | TypeScript | 2026-06-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 9 | [elon-choo/fablever](https://github.com/elon-choo/fablever) | 19 | JavaScript | 2026-06-19 | Make any Claude model adopt Claude Fable 5's working style in Claude Code — always-on output style + zero-dependency MCP |
-| 10 | [T-Stephen/ai-mql-engine](https://github.com/T-Stephen/ai-mql-engine) | 0 | JavaScript | 2026-06-19 | AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language |
-| 11 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 3 | Python | 2026-06-19 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 3 | Python | 2026-06-19 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 0 | HTML | 2026-06-19 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
+| 3 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 0 | HTML | 2026-06-19 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
+| 4 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 0 | HTML | 2026-06-19 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 5 | [OutlineDriven/odin-reflector](https://github.com/OutlineDriven/odin-reflector) | 4 | TypeScript | 2026-06-19 | Codex CLI meta-reflection layer for Outline-Driven Development. Add-on for the Claude plugin. |
+| 6 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-06-19 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 7 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 26610 | Python | 2026-06-19 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 8 | [franklinxkk/ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) | 3 | Python | 2026-06-19 | Product-side Spec-Driven Development framework — PRD, interactive prototype, DDD handoff, AI runtime governance, accepta |
+| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22361 | TypeScript | 2026-06-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 10 | [elon-choo/fablever](https://github.com/elon-choo/fablever) | 19 | JavaScript | 2026-06-19 | Make any Claude model adopt Claude Fable 5's working style in Claude Code — always-on output style + zero-dependency MCP |
+| 11 | [T-Stephen/ai-mql-engine](https://github.com/T-Stephen/ai-mql-engine) | 0 | JavaScript | 2026-06-19 | AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language |
 | 12 | [ekorbia/ekorbia-desktop](https://github.com/ekorbia/ekorbia-desktop) | 1 | JavaScript | 2026-06-19 | A native desktop chat and productivity environment for local AI models |
 | 13 | [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) | 3815 | — | 2026-06-19 | A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to r |
 | 14 | [promptdriven/pdd](https://github.com/promptdriven/pdd) | 760 | Python | 2026-06-19 |  Prompt Driven Development (PDD): The Last Programming Language™. Prompt files are source; code is generated output. |
@@ -74,13 +74,13 @@ expired items removed — so you can rely on what you see being current.
 | 30 | [sou350121/Agent-Playbook](https://github.com/sou350121/Agent-Playbook) | 12 | PowerShell | 2026-06-19 | ⚗️ AI Agent 生态每天海量资讯，99% 是噪音。这个仓库只做一件事：把最新碎片信号提纯为你能直接用的架构导轨、设计模式和工程实践。 |
 | 31 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-06-19 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
 | 32 | [ekayaprod/jules-agent-roster](https://github.com/ekayaprod/jules-agent-roster) | 2 | JavaScript | 2026-06-19 | The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi |
-| 33 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 35267 | Python | 2026-06-19 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
+| 33 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 35268 | Python | 2026-06-19 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
 | 34 | [MartiniArt/awesome-seedance-2-prompt](https://github.com/MartiniArt/awesome-seedance-2-prompt) | 0 | Shell | 2026-06-19 | Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art. |
 | 35 | [imran-binhasan/email-gen-assistant](https://github.com/imran-binhasan/email-gen-assistant) | 0 | Python | 2026-06-19 |  |
 | 36 | [TreeTraceTool/TreeTrace](https://github.com/TreeTraceTool/TreeTrace) | 3 | JavaScript | 2026-06-19 | Git shows what changed. TreeTrace reconstructs how you steered the agent: local, deterministic eval and regression data  |
 | 37 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1358 | Python | 2026-06-19 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
 | 38 | [thatoldfarm/system-prompt](https://github.com/thatoldfarm/system-prompt) | 5 | HTML | 2026-06-19 | A collection of system prompts and AI kernels for use with large language models. |
-| 39 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 36952 | JavaScript | 2026-06-19 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 39 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 36965 | JavaScript | 2026-06-19 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 | 40 | [ImNeo-hub/neo-design-skill](https://github.com/ImNeo-hub/neo-design-skill) | 1 | HTML | 2026-06-19 | 给 AI 看的个人品牌设计系统：用固定的配色/字体/布局规则，让 AI 产出风格统一、不像 AI 的 HTML 页面与小红书图文卡片。 |
 | 41 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 12550 | TypeScript | 2026-06-19 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
 | 42 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 43360 | JavaScript | 2026-06-19 | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thi |
