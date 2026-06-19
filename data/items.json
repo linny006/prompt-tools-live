@@ -1,21 +1,57 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3309,
+    "updated_at": "2026-06-19T09:29:32Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
     "id": "Ronnie2025/ai-agent-workbench-starter-pack",
     "language": "HTML",
     "name": "Ronnie2025/ai-agent-workbench-starter-pack",
     "stars": 0,
-    "updated_at": "2026-06-19T09:15:14Z",
+    "updated_at": "2026-06-19T09:24:55Z",
     "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29366,
-    "updated_at": "2026-06-19T09:14:45Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T09:21:58Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Automatic Prompt Optimization Framework",
+    "id": "CTLab-ITMO/CoolPrompt",
+    "language": "Python",
+    "name": "CTLab-ITMO/CoolPrompt",
+    "stars": 192,
+    "updated_at": "2026-06-19T09:20:12Z",
+    "url": "https://github.com/CTLab-ITMO/CoolPrompt"
+  },
+  {
+    "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready tem",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5100,
+    "updated_at": "2026-06-19T09:19:08Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "JavaScript",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 982,
+    "updated_at": "2026-06-19T09:19:07Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
     "description": "A collection of system prompts and AI kernels for use with large language models.",
@@ -23,8 +59,44 @@
     "language": "HTML",
     "name": "thatoldfarm/system-prompt",
     "stars": 5,
-    "updated_at": "2026-06-19T09:13:19Z",
+    "updated_at": "2026-06-19T09:18:22Z",
     "url": "https://github.com/thatoldfarm/system-prompt"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19695,
+    "updated_at": "2026-06-19T09:18:18Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems",
+    "id": "RiccardoBiosas/awesome-MLSecOps",
+    "language": "\u2014",
+    "name": "RiccardoBiosas/awesome-MLSecOps",
+    "stars": 439,
+    "updated_at": "2026-06-19T09:17:59Z",
+    "url": "https://github.com/RiccardoBiosas/awesome-MLSecOps"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 6,
+    "updated_at": "2026-06-19T09:16:54Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "# Agentic Job Scraper  AI-powered job scraping system that fetches software development job postings from Telegram chann",
+    "id": "dariank38/agentic-job-scraper",
+    "language": "Python",
+    "name": "dariank38/agentic-job-scraper",
+    "stars": 0,
+    "updated_at": "2026-06-19T09:16:21Z",
+    "url": "https://github.com/dariank38/agentic-job-scraper"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -32,8 +104,26 @@
     "language": "JavaScript",
     "name": "SidharthKriplani/genai-systems-lab",
     "stars": 0,
-    "updated_at": "2026-06-19T09:12:33Z",
+    "updated_at": "2026-06-19T09:15:55Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T09:15:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29367,
+    "updated_at": "2026-06-19T09:29:19Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
@@ -72,24 +162,6 @@
     "url": "https://github.com/zarahunter/seo-geo-skills"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19694,
-    "updated_at": "2026-06-19T09:14:00Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "JavaScript",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 982,
-    "updated_at": "2026-06-19T09:05:19Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
     "description": "(RTX\u26a1) Core Framework \u2014 Reasoning | Thinking | Xtreme. A master AI blueprint for building autonomous agents that collabo",
     "id": "PsProsen-Dev/RTXCoreFramework",
     "language": "\u2014",
@@ -117,15 +189,6 @@
     "url": "https://github.com/P-r-e-m-i-u-m/generative-ai-engineering-lab"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3309,
-    "updated_at": "2026-06-19T09:13:25Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -140,17 +203,8 @@
     "language": "Rust",
     "name": "robertomarchioro/prompt-a-porter",
     "stars": 0,
-    "updated_at": "2026-06-19T09:00:38Z",
+    "updated_at": "2026-06-19T09:26:15Z",
     "url": "https://github.com/robertomarchioro/prompt-a-porter"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T09:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 2939,
-    "updated_at": "2026-06-19T08:59:48Z",
+    "updated_at": "2026-06-19T09:22:41Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -292,7 +346,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 38204,
+    "stars": 38271,
     "updated_at": "2026-06-19T08:50:56Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -342,15 +396,6 @@
     "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
   },
   {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 6,
-    "updated_at": "2026-06-19T08:34:31Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
     "id": "edsondviana8/ai-humanizer-core",
     "language": "HTML",
@@ -387,15 +432,6 @@
     "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
   },
   {
-    "description": "# Agentic Job Scraper  AI-powered job scraping system that fetches software development job postings from Telegram chann",
-    "id": "dariank38/agentic-job-scraper",
-    "language": "Python",
-    "name": "dariank38/agentic-job-scraper",
-    "stars": 0,
-    "updated_at": "2026-06-19T08:20:24Z",
-    "url": "https://github.com/dariank38/agentic-job-scraper"
-  },
-  {
     "description": "AI Agent Full-Stack Development Roadmap",
     "id": "qufei1993/ai-agent-fullstack-roadmap",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-19T08:17:41Z",
     "url": "https://github.com/whimzyLive/nightshift-ai"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-06-19T08:17:15Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "A beginner-friendly guide to actually using Claude Chat, Claude Code, skills, subagents, and real project workflows.",
-    "id": "RainyRoot/claude-guide",
-    "language": "\u2014",
-    "name": "RainyRoot/claude-guide",
-    "stars": 1,
-    "updated_at": "2026-06-19T08:16:36Z",
-    "url": "https://github.com/RainyRoot/claude-guide"
-  },
-  {
-    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
-    "id": "zxpmail/ReqForge",
-    "language": "JavaScript",
-    "name": "zxpmail/ReqForge",
-    "stars": 11,
-    "updated_at": "2026-06-19T08:13:04Z",
-    "url": "https://github.com/zxpmail/ReqForge"
-  },
-  {
-    "description": "A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to r",
-    "id": "serenakeyitan/awesome-notebookLM-prompts",
-    "language": "\u2014",
-    "name": "serenakeyitan/awesome-notebookLM-prompts",
-    "stars": 3829,
-    "updated_at": "2026-06-19T08:11:56Z",
-    "url": "https://github.com/serenakeyitan/awesome-notebookLM-prompts"
   }
 ]
