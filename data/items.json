@@ -1,12 +1,48 @@
 [
   {
+    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
+    "id": "rizvee/multimodel-dev-os",
+    "language": "JavaScript",
+    "name": "rizvee/multimodel-dev-os",
+    "stars": 2,
+    "updated_at": "2026-06-19T20:15:03Z",
+    "url": "https://github.com/rizvee/multimodel-dev-os"
+  },
+  {
+    "description": "Audit your Claude skills for collisions. Finds why the wrong skill triggers and gives the exact fixes. Zero dependencies",
+    "id": "enmr10/skill-doctor",
+    "language": "Python",
+    "name": "enmr10/skill-doctor",
+    "stars": 0,
+    "updated_at": "2026-06-19T20:13:12Z",
+    "url": "https://github.com/enmr10/skill-doctor"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-19T20:13:06Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
     "name": "HIDORAKAI002/ai-workspace-archive",
     "stars": 19,
-    "updated_at": "2026-06-19T20:12:31Z",
+    "updated_at": "2026-06-19T20:12:58Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T20:12:56Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Methodology + prompts + Claude Code Skill behind Zombie Scavenger by Mx-Shell \u2014 the AI short PJ Ace called \"one of the b",
@@ -131,7 +167,7 @@
     "language": "HTML",
     "name": "Forward-Future/loop-library",
     "stars": 44,
-    "updated_at": "2026-06-19T20:02:13Z",
+    "updated_at": "2026-06-19T20:14:47Z",
     "url": "https://github.com/Forward-Future/loop-library"
   },
   {
@@ -151,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T20:01:18Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T20:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-19T19:31:19Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-06-19T19:28:54Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
-    "id": "Supervertaler/Supervertaler-Workbench",
-    "language": "Python",
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 42,
-    "updated_at": "2026-06-19T19:28:38Z",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
-  },
-  {
-    "description": "Repository for the code snippets from the AllThingsIDA video channel",
-    "id": "allthingsida/allthingsida",
-    "language": "Assembly",
-    "name": "allthingsida/allthingsida",
-    "stars": 134,
-    "updated_at": "2026-06-19T19:27:49Z",
-    "url": "https://github.com/allthingsida/allthingsida"
   }
 ]
