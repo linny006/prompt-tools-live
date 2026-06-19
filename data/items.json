@@ -1,5 +1,95 @@
 [
   {
+    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 148,
+    "updated_at": "2026-06-19T22:26:38Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Supplementary materials for What a Null Result Taught Us About AI Agent Evaluation",
+    "id": "clouatre-labs/prompt-repetition-experiments",
+    "language": "Python",
+    "name": "clouatre-labs/prompt-repetition-experiments",
+    "stars": 1,
+    "updated_at": "2026-06-19T22:28:12Z",
+    "url": "https://github.com/clouatre-labs/prompt-repetition-experiments"
+  },
+  {
+    "description": "Reduce LLM prompt tokens 70-97% with deterministic local compression. TypeScript, Claude, GPT, Cursor. MIT. Zero inferen",
+    "id": "wcalmels/h47-token-optimizer",
+    "language": "TypeScript",
+    "name": "wcalmels/h47-token-optimizer",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:26:13Z",
+    "url": "https://github.com/wcalmels/h47-token-optimizer"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10197,
+    "updated_at": "2026-06-19T22:23:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 4,
+    "updated_at": "2026-06-19T22:23:33Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:22:34Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-06-19T22:22:06Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:15:37Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:15:29Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T22:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udf0a Blue Spec is a toolkit for Security-Driven Hardening (SDH), a defensive workflow to help AI agents detect what a syste",
     "id": "wellwelwel/blue-spec",
     "language": "TypeScript",
@@ -14,7 +104,7 @@
     "language": "CSS",
     "name": "jnMetaCode/ai-coding-guide",
     "stars": 405,
-    "updated_at": "2026-06-19T22:11:13Z",
+    "updated_at": "2026-06-19T22:16:30Z",
     "url": "https://github.com/jnMetaCode/ai-coding-guide"
   },
   {
@@ -23,7 +113,7 @@
     "language": "JavaScript",
     "name": "jnMetaCode/superpowers-zh",
     "stars": 5619,
-    "updated_at": "2026-06-19T22:11:07Z",
+    "updated_at": "2026-06-19T22:16:23Z",
     "url": "https://github.com/jnMetaCode/superpowers-zh"
   },
   {
@@ -32,7 +122,7 @@
     "language": "Shell",
     "name": "jnMetaCode/agency-agents-zh",
     "stars": 15244,
-    "updated_at": "2026-06-19T22:11:02Z",
+    "updated_at": "2026-06-19T22:16:17Z",
     "url": "https://github.com/jnMetaCode/agency-agents-zh"
   },
   {
@@ -59,7 +149,7 @@
     "language": "Python",
     "name": "riponcm/projectmem",
     "stars": 19,
-    "updated_at": "2026-06-19T22:07:51Z",
+    "updated_at": "2026-06-19T22:19:28Z",
     "url": "https://github.com/riponcm/projectmem"
   },
   {
@@ -99,15 +189,6 @@
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10197,
-    "updated_at": "2026-06-19T22:05:23Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
     "id": "rizvee/multimodel-dev-os",
     "language": "JavaScript",
@@ -115,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T22:00:58Z",
     "url": "https://github.com/rizvee/multimodel-dev-os"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T22:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Methodology + prompts + Claude Code Skill behind Zombie Scavenger by Mx-Shell \u2014 the AI short PJ Ace called \"one of the b",
@@ -187,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T21:56:31Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:54:33Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "PromptBeacon is a Python toolkit and CLI for monitoring how brands appear in responses from LLM-powered AI assistants li",
@@ -351,31 +414,13 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:19:34Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
     "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
     "id": "Forward-Future/loop-library",
     "language": "HTML",
     "name": "Forward-Future/loop-library",
-    "stars": 63,
+    "stars": 66,
     "updated_at": "2026-06-19T21:18:59Z",
     "url": "https://github.com/Forward-Future/loop-library"
-  },
-  {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 148,
-    "updated_at": "2026-06-19T21:18:04Z",
-    "url": "https://github.com/jmagly/aiwg"
   },
   {
     "description": "WebUI-style prompt editor for ComfyUI / ComfyUI \u7684 WebUI \u5f0f\u63d0\u793a\u8bcd\u7f16\u8f91\u3001\u7ffb\u8bd1\u3001\u8865\u5168\u3001\u6536\u85cf\u548c LoRA \u6865\u63a5\u8282\u70b9",
@@ -385,15 +430,6 @@
     "stars": 15,
     "updated_at": "2026-06-19T21:18:49Z",
     "url": "https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:17:30Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
     "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T21:17:23Z",
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-06-19T21:17:17Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:17:05Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:14:58Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:12:54Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
