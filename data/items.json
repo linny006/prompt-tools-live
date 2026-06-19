@@ -1,5 +1,104 @@
 [
   {
+    "description": "Forensic reference-integrity auditor for academic publishing \u2014 built for nursing and health-sciences editors who need to",
+    "id": "PitziLabs/reference-checker",
+    "language": "HTML",
+    "name": "PitziLabs/reference-checker",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:14:56Z",
+    "url": "https://github.com/PitziLabs/reference-checker"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29377,
+    "updated_at": "2026-06-19T14:14:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:14:35Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-06-19T14:12:07Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3310,
+    "updated_at": "2026-06-19T14:14:12Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Spec-driven AI coding automation CLI. Workflow runner for Claude Code, OpenCode, Cursor, and other agent CLIs.",
+    "id": "iyaki/specralph",
+    "language": "Go",
+    "name": "iyaki/specralph",
+    "stars": 3,
+    "updated_at": "2026-06-19T14:07:17Z",
+    "url": "https://github.com/iyaki/specralph"
+  },
+  {
+    "description": "\ud83c\udf19 Your codebase just hired a night shift \u2014 a full AI engineering team that plans, builds, tests, reviews, and releases t",
+    "id": "whimzyLive/nightshift-ai",
+    "language": "Shell",
+    "name": "whimzyLive/nightshift-ai",
+    "stars": 3,
+    "updated_at": "2026-06-19T14:04:28Z",
+    "url": "https://github.com/whimzyLive/nightshift-ai"
+  },
+  {
+    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
+    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "language": "HTML",
+    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:03:33Z",
+    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
+  },
+  {
+    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
+    "id": "rizvee/multimodel-dev-os",
+    "language": "JavaScript",
+    "name": "rizvee/multimodel-dev-os",
+    "stars": 2,
+    "updated_at": "2026-06-19T14:03:29Z",
+    "url": "https://github.com/rizvee/multimodel-dev-os"
+  },
+  {
+    "description": "AI\u8d85\u7ea7\u63d0\u793a\u8bcd\u6a21\u677f\u5305 - 50\u4e2a\u9ad8\u6548\u63d0\u793a\u8bcd ",
+    "id": "LanWen902/ai-prompt-templates",
+    "language": "HTML",
+    "name": "LanWen902/ai-prompt-templates",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:01:02Z",
+    "url": "https://github.com/LanWen902/ai-prompt-templates"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T14:00:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "320+ curated Claude Code skills, 9 agents, 39 commands, sanitized configs & a Codex bridge \u2014 auto-indexed from skills/.",
     "id": "shengdabai/Tony-Claude-Code-Skills",
     "language": "HTML",
@@ -32,7 +131,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 288,
-    "updated_at": "2026-06-19T13:57:13Z",
+    "updated_at": "2026-06-19T14:06:43Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -49,18 +148,9 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 37005,
+    "stars": 37051,
     "updated_at": "2026-06-19T13:54:02Z",
     "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "Forensic reference-integrity auditor for academic publishing \u2014 built for nursing and health-sciences editors who need to",
-    "id": "PitziLabs/reference-checker",
-    "language": "HTML",
-    "name": "PitziLabs/reference-checker",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:53:51Z",
-    "url": "https://github.com/PitziLabs/reference-checker"
   },
   {
     "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
@@ -90,15 +180,6 @@
     "url": "https://github.com/kyt19970215/codex-skill-evolution-framework"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29377,
-    "updated_at": "2026-06-19T13:57:29Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Awen Music Matrix Generator \u2014 7\u7ef4\u5ea6\u751f\u6210Suno\u63d0\u793a\u8bcd\u3001\u5c01\u9762\u3001\u89c6\u9891\u63d0\u793a\u8bcd\uff0chiawen.com",
     "id": "awenstudio/awen-music",
     "language": "JavaScript",
@@ -126,13 +207,13 @@
     "url": "https://github.com/jgsystemsconsulting/jgs-goal-spec"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T13:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "description": "Track, test, and manage LLM prompt versions with confidence.",
+    "id": "Fanu-el/prvm",
+    "language": "TypeScript",
+    "name": "Fanu-el/prvm",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:10:18Z",
+    "url": "https://github.com/Fanu-el/prvm"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -171,15 +252,6 @@
     "url": "https://github.com/sharanlabs/supply-chain-ai-resilix"
   },
   {
-    "description": "AI\u8d85\u7ea7\u63d0\u793a\u8bcd\u6a21\u677f\u5305 - 50\u4e2a\u9ad8\u6548\u63d0\u793a\u8bcd ",
-    "id": "LanWen902/ai-prompt-templates",
-    "language": "HTML",
-    "name": "LanWen902/ai-prompt-templates",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:40:44Z",
-    "url": "https://github.com/LanWen902/ai-prompt-templates"
-  },
-  {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
     "id": "Paulessus/odin-gemini-mcp-bridge",
     "language": "HTML",
@@ -203,7 +275,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19697,
-    "updated_at": "2026-06-19T13:59:38Z",
+    "updated_at": "2026-06-19T14:12:20Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -241,33 +313,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T13:35:28Z",
     "url": "https://github.com/BrianNguyen29/x-harness"
-  },
-  {
-    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
-    "id": "rizvee/multimodel-dev-os",
-    "language": "JavaScript",
-    "name": "rizvee/multimodel-dev-os",
-    "stars": 2,
-    "updated_at": "2026-06-19T13:33:55Z",
-    "url": "https://github.com/rizvee/multimodel-dev-os"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3310,
-    "updated_at": "2026-06-19T13:57:33Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:30:47Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T13:00:59Z",
     "url": "https://github.com/PsProsen-Dev/RTXCoreFramework"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:57:52Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready tem",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5103,
-    "updated_at": "2026-06-19T12:55:33Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "Production-grade Claude/Cursor skills for backend, auth, database security, billing, and file uploads \u2014 stops AI coding ",
-    "id": "alyanhaider/system-architecture",
-    "language": "JavaScript",
-    "name": "alyanhaider/system-architecture",
-    "stars": 2,
-    "updated_at": "2026-06-19T12:55:02Z",
-    "url": "https://github.com/alyanhaider/system-architecture"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:53:57Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Give your AI coding agent a personality. Composable persona + style + skills for Claude Code, Codex, Gemini CLI & OpenCl",
-    "id": "telagod/code-abyss",
-    "language": "JavaScript",
-    "name": "telagod/code-abyss",
-    "stars": 230,
-    "updated_at": "2026-06-19T12:52:47Z",
-    "url": "https://github.com/telagod/code-abyss"
   }
 ]
