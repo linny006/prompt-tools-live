@@ -1,12 +1,84 @@
 [
   {
+    "description": "CDXCore: baseline improvements for local Codex workflows.",
+    "id": "ikhdark/CDXCore",
+    "language": "\u2014",
+    "name": "ikhdark/CDXCore",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:26:09Z",
+    "url": "https://github.com/ikhdark/CDXCore"
+  },
+  {
+    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
+    "id": "manojmallick/skillweave",
+    "language": "TypeScript",
+    "name": "manojmallick/skillweave",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:24:23Z",
+    "url": "https://github.com/manojmallick/skillweave"
+  },
+  {
+    "description": "Product-side Spec-Driven Development framework \u2014 PRD, interactive prototype, DDD handoff, AI runtime governance, accepta",
+    "id": "franklinxkk/ai-delivery-spec",
+    "language": "Python",
+    "name": "franklinxkk/ai-delivery-spec",
+    "stars": 3,
+    "updated_at": "2026-06-19T01:24:01Z",
+    "url": "https://github.com/franklinxkk/ai-delivery-spec"
+  },
+  {
+    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
+    "id": "LiHongwei-cn/lihongwei-cn",
+    "language": "Python",
+    "name": "LiHongwei-cn/lihongwei-cn",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:23:44Z",
+    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
+  },
+  {
     "description": "Computer Engineering Student @ DSEU | Lead Developer @ VS Gaming Studio | Building AI-Driven Web Solutions & Python Scri",
     "id": "krishsharma-code/krishsharma-code",
     "language": "\u2014",
     "name": "krishsharma-code/krishsharma-code",
     "stars": 1,
-    "updated_at": "2026-06-19T01:13:32Z",
+    "updated_at": "2026-06-19T01:21:09Z",
     "url": "https://github.com/krishsharma-code/krishsharma-code"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 760,
+    "updated_at": "2026-06-19T01:29:04Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
+    "id": "elon-choo/fablever",
+    "language": "JavaScript",
+    "name": "elon-choo/fablever",
+    "stars": 19,
+    "updated_at": "2026-06-19T01:20:10Z",
+    "url": "https://github.com/elon-choo/fablever"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22358,
+    "updated_at": "2026-06-19T01:19:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T01:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
@@ -16,24 +88,6 @@
     "stars": 15,
     "updated_at": "2026-06-19T01:12:48Z",
     "url": "https://github.com/archubbuck/workspace-architect"
-  },
-  {
-    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
-    "id": "manojmallick/skillweave",
-    "language": "TypeScript",
-    "name": "manojmallick/skillweave",
-    "stars": 0,
-    "updated_at": "2026-06-19T01:11:05Z",
-    "url": "https://github.com/manojmallick/skillweave"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22358,
-    "updated_at": "2026-06-19T01:07:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Claude Code hook that engineers every prompt using Anthropic's 10 official principles \u2014 automatically in Claude Code, on",
@@ -52,42 +106,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T01:02:27Z",
     "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 760,
-    "updated_at": "2026-06-19T01:10:36Z",
-    "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T01:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Product-side Spec-Driven Development framework \u2014 PRD, interactive prototype, DDD handoff, AI runtime governance, accepta",
-    "id": "franklinxkk/ai-delivery-spec",
-    "language": "Python",
-    "name": "franklinxkk/ai-delivery-spec",
-    "stars": 3,
-    "updated_at": "2026-06-19T00:57:02Z",
-    "url": "https://github.com/franklinxkk/ai-delivery-spec"
-  },
-  {
-    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
-    "id": "elon-choo/fablever",
-    "language": "JavaScript",
-    "name": "elon-choo/fablever",
-    "stars": 19,
-    "updated_at": "2026-06-19T00:52:56Z",
-    "url": "https://github.com/elon-choo/fablever"
   },
   {
     "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
@@ -121,7 +139,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 35264,
+    "stars": 35265,
     "updated_at": "2026-06-19T00:43:55Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -175,7 +193,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 36811,
+    "stars": 36850,
     "updated_at": "2026-06-19T00:37:02Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -202,7 +220,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 43353,
+    "stars": 43355,
     "updated_at": "2026-06-19T00:34:53Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T23:56:49Z",
     "url": "https://github.com/minirr890112-byte/prompt-inspector"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:54:13Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:50:55Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   }
 ]
