@@ -1,12 +1,111 @@
 [
   {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:26:27Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "An open standard and runtime for composing LLM tasks from small, focused, testable micro-skills \u2014 orchestration, schema ",
+    "id": "manojmallick/skillweave",
+    "language": "TypeScript",
+    "name": "manojmallick/skillweave",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:25:27Z",
+    "url": "https://github.com/manojmallick/skillweave"
+  },
+  {
+    "description": "\u610f\u56fe\u653e\u5927\u4e0e Goal Contract \u534f\u8bae\uff0c\u9762\u5411 Codex \u548c Claude Code \u7684 goal Skill",
+    "id": "KimYx0207/GoalPro",
+    "language": "\u2014",
+    "name": "KimYx0207/GoalPro",
+    "stars": 2,
+    "updated_at": "2026-06-19T08:25:09Z",
+    "url": "https://github.com/KimYx0207/GoalPro"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29361,
-    "updated_at": "2026-06-19T08:15:20Z",
+    "stars": 29363,
+    "updated_at": "2026-06-19T08:28:07Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
+    "id": "hilmifawwazsaad/DidYouKnow",
+    "language": "TypeScript",
+    "name": "hilmifawwazsaad/DidYouKnow",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:23:12Z",
+    "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
+  },
+  {
+    "description": "# Agentic Job Scraper  AI-powered job scraping system that fetches software development job postings from Telegram chann",
+    "id": "dariank38/agentic-job-scraper",
+    "language": "Python",
+    "name": "dariank38/agentic-job-scraper",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:20:24Z",
+    "url": "https://github.com/dariank38/agentic-job-scraper"
+  },
+  {
+    "description": "AI Agent Full-Stack Development Roadmap",
+    "id": "qufei1993/ai-agent-fullstack-roadmap",
+    "language": "\u2014",
+    "name": "qufei1993/ai-agent-fullstack-roadmap",
+    "stars": 1,
+    "updated_at": "2026-06-19T08:19:04Z",
+    "url": "https://github.com/qufei1993/ai-agent-fullstack-roadmap"
+  },
+  {
+    "description": "\ud83c\udf19 Your codebase just hired a night shift \u2014 a full AI engineering team that plans, builds, tests, reviews, and releases t",
+    "id": "whimzyLive/nightshift-ai",
+    "language": "Shell",
+    "name": "whimzyLive/nightshift-ai",
+    "stars": 3,
+    "updated_at": "2026-06-19T08:17:41Z",
+    "url": "https://github.com/whimzyLive/nightshift-ai"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:17:15Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "A beginner-friendly guide to actually using Claude Chat, Claude Code, skills, subagents, and real project workflows.",
+    "id": "RainyRoot/claude-guide",
+    "language": "\u2014",
+    "name": "RainyRoot/claude-guide",
+    "stars": 1,
+    "updated_at": "2026-06-19T08:16:36Z",
+    "url": "https://github.com/RainyRoot/claude-guide"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T08:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Sun Tzu's Art of War as atomic strategy recipes \u2014 a decision lens for AI agents. Winning without fighting.",
+    "id": "xAlisher/artofwar-skills",
+    "language": "Python",
+    "name": "xAlisher/artofwar-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:15:14Z",
+    "url": "https://github.com/xAlisher/artofwar-skills"
   },
   {
     "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
@@ -23,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19694,
-    "updated_at": "2026-06-19T08:13:48Z",
+    "updated_at": "2026-06-19T08:20:21Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -90,6 +189,15 @@
     "url": "https://github.com/elon-choo/fablever"
   },
   {
+    "description": "A web-based AI Assistant built using Flask and Google Gemini API that can answer questions, summarize text, generate cre",
+    "id": "ayush0singh/AI-Assistant",
+    "language": "Python",
+    "name": "ayush0singh/AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-06-19T08:08:52Z",
+    "url": "https://github.com/ayush0singh/AI-Assistant"
+  },
+  {
     "description": "A plain-text prompt for LLMs that teaches the essence of elegant coding and testing\u2014save it to ~/.claude/CLAUDE.md.",
     "id": "yegor256/prompt",
     "language": "\u2014",
@@ -97,15 +205,6 @@
     "stars": 151,
     "updated_at": "2026-06-19T08:08:48Z",
     "url": "https://github.com/yegor256/prompt"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T08:00:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Replication package for the FSE 2026 paper on mitigating prompt-induced cognitive biases in GPAI for software engineerin",
@@ -180,15 +279,6 @@
     "url": "https://github.com/ftvision/agent-prompt-observatory"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:39:48Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
     "id": "ai-boost/awesome-prompts",
     "language": "\u2014",
@@ -232,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T07:32:50Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "\u610f\u56fe\u653e\u5927\u4e0e Goal Contract \u534f\u8bae\uff0c\u9762\u5411 Codex \u548c Claude Code \u7684 goal Skill",
-    "id": "KimYx0207/GoalPro",
-    "language": "\u2014",
-    "name": "KimYx0207/GoalPro",
-    "stars": 2,
-    "updated_at": "2026-06-19T07:32:20Z",
-    "url": "https://github.com/KimYx0207/GoalPro"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T07:08:24Z",
     "url": "https://github.com/0DevDutt0/NeuralOps"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-19T07:02:29Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 6662,
-    "updated_at": "2026-06-19T08:15:16Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Self-improving playbook for Claude Code: hooks that surface relevant past-experience cards before a task and log session",
-    "id": "AlexLira42/claude-playbook-kit",
-    "language": "Shell",
-    "name": "AlexLira42/claude-playbook-kit",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:00:25Z",
-    "url": "https://github.com/AlexLira42/claude-playbook-kit"
-  },
-  {
-    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
-    "id": "jeb-maker/lagent-quotidien",
-    "language": "HTML",
-    "name": "jeb-maker/lagent-quotidien",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:00:07Z",
-    "url": "https://github.com/jeb-maker/lagent-quotidien"
-  },
-  {
-    "description": "\ud83e\udd16 AI PM Super Workbench | 12 Phases\u00b760+ Frameworks\u00b720+ Deliverables | LLM\u00b7RAG\u00b7Agent\u00b7Prompt Engineering\u00b7AI Safety | EU AI",
-    "id": "yinjianheng/ai-pm-workbench-international",
-    "language": "\u2014",
-    "name": "yinjianheng/ai-pm-workbench-international",
-    "stars": 0,
-    "updated_at": "2026-06-19T06:56:38Z",
-    "url": "https://github.com/yinjianheng/ai-pm-workbench-international"
-  },
-  {
-    "description": "\ud83e\udd16 AI\u4ea7\u54c1\u7ecf\u7406\u8d85\u7ea7\u5de5\u4f5c\u53f0 | 12\u9636\u6bb5\u00b760+\u6846\u67b6\u00b720+\u4ea4\u4ed8\u7269 | LLM\u00b7RAG\u00b7Agent\u00b7Prompt\u5de5\u7a0b\u00b7AI\u8bc4\u6d4b\u00b7AI\u5b89\u5168 | EU AI Act\u00b7\u6df1\u5ea6\u5408\u6210\u65b0\u89c4\u00b7Token\u7ecf\u6d4e\u5b66 | WuKong/Claude/OpenCla",
-    "id": "yinjianheng/ai-pm-workbench",
-    "language": "\u2014",
-    "name": "yinjianheng/ai-pm-workbench",
-    "stars": 0,
-    "updated_at": "2026-06-19T06:55:50Z",
-    "url": "https://github.com/yinjianheng/ai-pm-workbench"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-06-19T06:54:08Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
-    "id": "Kiln-AI/Kiln",
-    "language": "Python",
-    "name": "Kiln-AI/Kiln",
-    "stars": 4919,
-    "updated_at": "2026-06-19T06:53:35Z",
-    "url": "https://github.com/Kiln-AI/Kiln"
-  },
-  {
-    "description": "Lean, research-backed multi-LLM council with bias-aware judge controls (position-swap, verbosity-norm, stake-free judge)",
-    "id": "7xuanlu/boule",
-    "language": "JavaScript",
-    "name": "7xuanlu/boule",
-    "stars": 1,
-    "updated_at": "2026-06-19T06:52:59Z",
-    "url": "https://github.com/7xuanlu/boule"
   }
 ]
