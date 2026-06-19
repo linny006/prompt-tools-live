@@ -1,5 +1,113 @@
 [
   {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-06-19T17:45:07Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Full-stack prompt workspace for Claude Code and Codex with ASP.NET Core, React, PostgreSQL and SignalR.",
+    "id": "psielta/Thoth",
+    "language": "C#",
+    "name": "psielta/Thoth",
+    "stars": 0,
+    "updated_at": "2026-06-19T17:42:03Z",
+    "url": "https://github.com/psielta/Thoth"
+  },
+  {
+    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
+    "id": "AditthyaSS/iloveAgents",
+    "language": "JavaScript",
+    "name": "AditthyaSS/iloveAgents",
+    "stars": 95,
+    "updated_at": "2026-06-19T17:39:30Z",
+    "url": "https://github.com/AditthyaSS/iloveAgents"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 4,
+    "updated_at": "2026-06-19T17:41:08Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 0,
+    "updated_at": "2026-06-19T17:37:09Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "\ud83c\udf0a Blue Spec is a toolkit for Security-Driven Hardening (SDH), a defensive workflow to help AI agents detect what a syste",
+    "id": "wellwelwel/blue-spec",
+    "language": "TypeScript",
+    "name": "wellwelwel/blue-spec",
+    "stars": 54,
+    "updated_at": "2026-06-19T17:35:49Z",
+    "url": "https://github.com/wellwelwel/blue-spec"
+  },
+  {
+    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
+    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "language": "HTML",
+    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
+    "stars": 0,
+    "updated_at": "2026-06-19T17:33:59Z",
+    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-06-19T17:33:18Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": ".NET 10 Minimal API for benchmarking and evaluating Large Language Models (LLMs) for generation and rewrite tasks, featu",
+    "id": "guizama/LLMBenchmark",
+    "language": "C#",
+    "name": "guizama/LLMBenchmark",
+    "stars": 0,
+    "updated_at": "2026-06-19T17:33:15Z",
+    "url": "https://github.com/guizama/LLMBenchmark"
+  },
+  {
+    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
+    "id": "Forward-Future/loop-library",
+    "language": "HTML",
+    "name": "Forward-Future/loop-library",
+    "stars": 13,
+    "updated_at": "2026-06-19T17:32:55Z",
+    "url": "https://github.com/Forward-Future/loop-library"
+  },
+  {
+    "description": "Bilingual Claude Code and AI coding tutorials covering setup, CLI workflows, web projects, prompt engineering, MCP serve",
+    "id": "0xfnzero/AI-Code-Tutorials",
+    "language": "\u2014",
+    "name": "0xfnzero/AI-Code-Tutorials",
+    "stars": 74,
+    "updated_at": "2026-06-19T17:31:00Z",
+    "url": "https://github.com/0xfnzero/AI-Code-Tutorials"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T17:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Forensic reference-integrity auditor for academic publishing \u2014 built for nursing and health-sciences editors who need to",
     "id": "PitziLabs/reference-checker",
     "language": "HTML",
@@ -25,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T17:28:45Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
-    "id": "christopherlouet/claude-base",
-    "language": "Shell",
-    "name": "christopherlouet/claude-base",
-    "stars": 4,
-    "updated_at": "2026-06-19T17:29:17Z",
-    "url": "https://github.com/christopherlouet/claude-base"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -90,6 +189,15 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "An AI-driven international tax intelligence engine built on NotebookLM to cross-reference corporate compliance across Br",
+    "id": "Beatriz-DA/Tax-Law-for-Brazilian-Entrepreneurs-PJs",
+    "language": "\u2014",
+    "name": "Beatriz-DA/Tax-Law-for-Brazilian-Entrepreneurs-PJs",
+    "stars": 0,
+    "updated_at": "2026-06-19T17:18:41Z",
+    "url": "https://github.com/Beatriz-DA/Tax-Law-for-Brazilian-Entrepreneurs-PJs"
+  },
+  {
     "description": "HanakoPro \u6539\u9020\u7248\uff1a\u9053\u7ecf\u63d0\u793a\u8bcd\u3001\u53ef\u63a7\u8bb0\u5fc6\u3001Goal \u6a21\u5f0f\u3001\u53ef\u89c1\u7ec8\u7aef\u3001macOS \u672c\u5730\u8fd0\u884c\u4e0e\u4f1a\u8bdd/\u6d4f\u89c8\u5668\u7a33\u5b9a\u6027\u589e\u5f3a\u3002",
     "id": "JieKiYu/HanakoPro",
     "language": "JavaScript",
@@ -117,31 +225,13 @@
     "url": "https://github.com/Technyder-Inc/ai-anti-slop-vibe-coding-practices"
   },
   {
-    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
-    "id": "Forward-Future/loop-library",
-    "language": "HTML",
-    "name": "Forward-Future/loop-library",
-    "stars": 8,
-    "updated_at": "2026-06-19T17:16:02Z",
-    "url": "https://github.com/Forward-Future/loop-library"
-  },
-  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32906,
+    "stars": 32907,
     "updated_at": "2026-06-19T17:15:31Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T17:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "# Agentic Job Scraper  AI-powered job scraping system that fetches software development job postings from Telegram chann",
@@ -189,24 +279,6 @@
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   },
   {
-    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
-    "id": "robertomarchioro/prompt-a-porter",
-    "language": "Rust",
-    "name": "robertomarchioro/prompt-a-porter",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:30:30Z",
-    "url": "https://github.com/robertomarchioro/prompt-a-porter"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-06-19T17:13:26Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
     "id": "teguhimanulloh47/pirate-talk-for-claude",
     "language": "HTML",
@@ -214,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T17:13:17Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:12:54Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
   },
   {
     "description": "AI-native macOS menu bar dictation with a post-recording text pipeline.",
@@ -351,15 +414,6 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
-    "description": ".NET 10 Minimal API for benchmarking and evaluating Large Language Models (LLMs) for generation and rewrite tasks, featu",
-    "id": "guizama/LLMBenchmark",
-    "language": "C#",
-    "name": "guizama/LLMBenchmark",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:56:59Z",
-    "url": "https://github.com/guizama/LLMBenchmark"
-  },
-  {
     "description": "Comprehensive INT428 AI Essentials exam preparation platform for LPU students featuring notes, MCQs, flashcards, mock te",
     "id": "Pravesh0005/INT-428-EXAM-PREP-WEBSITE",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 28,
     "updated_at": "2026-06-19T16:47:18Z",
     "url": "https://github.com/Samix2026/saudi-legal-ai-framework"
-  },
-  {
-    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
-    "id": "zigrivers/scaffold",
-    "language": "TypeScript",
-    "name": "zigrivers/scaffold",
-    "stars": 5,
-    "updated_at": "2026-06-19T16:47:00Z",
-    "url": "https://github.com/zigrivers/scaffold"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12555,
-    "updated_at": "2026-06-19T16:46:42Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:43:39Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3310,
-    "updated_at": "2026-06-19T17:22:11Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-19T16:42:13Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Shared instructions, workflows, conventions, and memory for AI agents \u2014 across teams,  projects, and functions.",
-    "id": "fahadyaqub/agents-workbench",
-    "language": "JavaScript",
-    "name": "fahadyaqub/agents-workbench",
-    "stars": 0,
-    "updated_at": "2026-06-19T16:39:31Z",
-    "url": "https://github.com/fahadyaqub/agents-workbench"
   }
 ]
