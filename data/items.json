@@ -1,5 +1,122 @@
 [
   {
+    "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
+    "id": "CodeAlive-AI/ai-driven-development",
+    "language": "Python",
+    "name": "CodeAlive-AI/ai-driven-development",
+    "stars": 88,
+    "updated_at": "2026-06-19T19:13:22Z",
+    "url": "https://github.com/CodeAlive-AI/ai-driven-development"
+  },
+  {
+    "description": "Lean, research-backed multi-LLM council with bias-aware judge controls (position-swap, verbosity-norm, stake-free judge)",
+    "id": "7xuanlu/boule",
+    "language": "JavaScript",
+    "name": "7xuanlu/boule",
+    "stars": 1,
+    "updated_at": "2026-06-19T19:11:05Z",
+    "url": "https://github.com/7xuanlu/boule"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-06-19T19:07:25Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "Single source of truth for AI coding rules across Claude Code, Cursor, Copilot, Codex, and more. Write once, sync everyw",
+    "id": "ainova-systems/intelligence-sync",
+    "language": "Shell",
+    "name": "ainova-systems/intelligence-sync",
+    "stars": 2,
+    "updated_at": "2026-06-19T19:07:20Z",
+    "url": "https://github.com/ainova-systems/intelligence-sync"
+  },
+  {
+    "description": "A community-driven archive of leaked AI system prompts from ChatGPT, Claude, Gemini, Copilot, Cursor & more. Contributio",
+    "id": "Rahulchaube1/AI-System-Prompts-leaks",
+    "language": "JavaScript",
+    "name": "Rahulchaube1/AI-System-Prompts-leaks",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:05:58Z",
+    "url": "https://github.com/Rahulchaube1/AI-System-Prompts-leaks"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:05:19Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:04:40Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
+    "id": "rizvee/multimodel-dev-os",
+    "language": "JavaScript",
+    "name": "rizvee/multimodel-dev-os",
+    "stars": 2,
+    "updated_at": "2026-06-19T19:04:17Z",
+    "url": "https://github.com/rizvee/multimodel-dev-os"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 4,
+    "updated_at": "2026-06-19T19:03:21Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
+    "id": "Forward-Future/loop-library",
+    "language": "HTML",
+    "name": "Forward-Future/loop-library",
+    "stars": 33,
+    "updated_at": "2026-06-19T19:02:27Z",
+    "url": "https://github.com/Forward-Future/loop-library"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:01:45Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:01:10Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T19:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -9,15 +126,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
-    "id": "robertomarchioro/prompt-a-porter",
-    "language": "Rust",
-    "name": "robertomarchioro/prompt-a-porter",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:57:06Z",
-    "url": "https://github.com/robertomarchioro/prompt-a-porter"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -25,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T18:56:57Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "A community-driven archive of leaked AI system prompts from ChatGPT, Claude, Gemini, Copilot, Cursor & more. Contributio",
-    "id": "Rahulchaube1/AI-System-Prompts-leaks",
-    "language": "JavaScript",
-    "name": "Rahulchaube1/AI-System-Prompts-leaks",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:52:55Z",
-    "url": "https://github.com/Rahulchaube1/AI-System-Prompts-leaks"
   },
   {
     "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
@@ -63,21 +162,12 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T18:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
     "id": "ekayaprod/jules-agent-roster",
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 2,
-    "updated_at": "2026-06-19T18:41:48Z",
+    "updated_at": "2026-06-19T19:15:09Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -115,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T18:34:14Z",
     "url": "https://github.com/nightrunner91/jan"
-  },
-  {
-    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
-    "id": "Forward-Future/loop-library",
-    "language": "HTML",
-    "name": "Forward-Future/loop-library",
-    "stars": 31,
-    "updated_at": "2026-06-19T18:30:03Z",
-    "url": "https://github.com/Forward-Future/loop-library"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -178,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-06-19T18:28:21Z",
     "url": "https://github.com/TimsTittus/Architecter"
-  },
-  {
-    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
-    "id": "rizvee/multimodel-dev-os",
-    "language": "JavaScript",
-    "name": "rizvee/multimodel-dev-os",
-    "stars": 2,
-    "updated_at": "2026-06-19T18:26:53Z",
-    "url": "https://github.com/rizvee/multimodel-dev-os"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T17:58:56Z",
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
-    "id": "christopherlouet/claude-base",
-    "language": "Shell",
-    "name": "christopherlouet/claude-base",
-    "stars": 4,
-    "updated_at": "2026-06-19T18:55:43Z",
-    "url": "https://github.com/christopherlouet/claude-base"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:51:09Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:50:36Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
-    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "language": "HTML",
-    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:50:34Z",
-    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
-  },
-  {
-    "description": "An AI-driven international tax intelligence engine built on NotebookLM to cross-reference corporate compliance across Br",
-    "id": "Beatriz-DA/Tax-Law-for-Brazilian-Entrepreneurs-PJs",
-    "language": "\u2014",
-    "name": "Beatriz-DA/Tax-Law-for-Brazilian-Entrepreneurs-PJs",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:48:05Z",
-    "url": "https://github.com/Beatriz-DA/Tax-Law-for-Brazilian-Entrepreneurs-PJs"
-  },
-  {
-    "description": "Git shows what changed. TreeTrace reconstructs how you steered the agent: local, deterministic eval and regression data ",
-    "id": "TreeTraceTool/TreeTrace",
-    "language": "JavaScript",
-    "name": "TreeTraceTool/TreeTrace",
-    "stars": 3,
-    "updated_at": "2026-06-19T17:58:08Z",
-    "url": "https://github.com/TreeTraceTool/TreeTrace"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 49,
-    "updated_at": "2026-06-19T17:45:59Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 21,
-    "updated_at": "2026-06-19T17:45:24Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   }
 ]
