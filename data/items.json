@@ -1,5 +1,32 @@
 [
   {
+    "description": "Portable .agent.md files for AI coding assistants that actually commit to a point of view.",
+    "id": "dfinson/promptlings",
+    "language": "PowerShell",
+    "name": "dfinson/promptlings",
+    "stars": 1,
+    "updated_at": "2026-06-19T03:57:54Z",
+    "url": "https://github.com/dfinson/promptlings"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26611,
+    "updated_at": "2026-06-19T03:58:58Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T03:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Manage your team's Claude Code agents with role-based configs, A/B testing, and accuracy tracking. CLI-first.",
     "id": "karibew/crewkit-cli",
     "language": "\u2014",
@@ -25,15 +52,6 @@
     "stars": 5,
     "updated_at": "2026-06-19T03:43:07Z",
     "url": "https://github.com/zigrivers/scaffold"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26611,
-    "updated_at": "2026-06-19T03:43:07Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T03:34:16Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T03:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Accountant is to find the reliable source from many websites, find easier ways to tackle your problems using through dis",
@@ -193,7 +202,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 7630,
+    "stars": 7631,
     "updated_at": "2026-06-19T02:52:45Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 760,
-    "updated_at": "2026-06-19T02:46:42Z",
+    "updated_at": "2026-06-19T03:50:46Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -302,7 +311,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22361,
-    "updated_at": "2026-06-19T03:34:00Z",
+    "updated_at": "2026-06-19T03:48:04Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -310,7 +319,7 @@
     "id": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
     "language": "Python",
     "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "stars": 16802,
+    "stars": 16804,
     "updated_at": "2026-06-19T02:33:18Z",
     "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T01:50:26Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-19T01:47:23Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
