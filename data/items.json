@@ -1,12 +1,102 @@
 [
   {
+    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
+    "id": "rizvee/multimodel-dev-os",
+    "language": "JavaScript",
+    "name": "rizvee/multimodel-dev-os",
+    "stars": 2,
+    "updated_at": "2026-06-19T15:15:19Z",
+    "url": "https://github.com/rizvee/multimodel-dev-os"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29380,
+    "updated_at": "2026-06-19T15:14:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Shell",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:12:34Z",
+    "url": "https://github.com/l4ci/hv-skills"
+  },
+  {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 1,
+    "updated_at": "2026-06-19T15:09:01Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Portable, deterministic context governance layer for AI agents \u2014 smaller, auditable prompts, only when safe.",
+    "id": "samnodehi/zam-context-plane",
+    "language": "TypeScript",
+    "name": "samnodehi/zam-context-plane",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:08:24Z",
+    "url": "https://github.com/samnodehi/zam-context-plane"
+  },
+  {
+    "description": "A structured knowledge base covering LLM inference, RAG, agents, eval, and LLMOps \u2014 built for engineers shipping AI syst",
+    "id": "amikumar91/ai-systems-engineering",
+    "language": "JavaScript",
+    "name": "amikumar91/ai-systems-engineering",
+    "stars": 2,
+    "updated_at": "2026-06-19T15:08:43Z",
+    "url": "https://github.com/amikumar91/ai-systems-engineering"
+  },
+  {
     "description": "A custom made repository-to-prompt packager made specifically for data analyst/scientist projects.",
     "id": "arianmokhtariha/data2prompt",
     "language": "Python",
     "name": "arianmokhtariha/data2prompt",
     "stars": 20,
-    "updated_at": "2026-06-19T15:00:15Z",
+    "updated_at": "2026-06-19T15:06:00Z",
     "url": "https://github.com/arianmokhtariha/data2prompt"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:15:05Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:06:49Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "\u9488\u5bf9\u4e2d\u6587AI\u7f16\u7a0b\u7684Top 20 \u63d0\u793a\u8bcd\uff0c\u505askill\u7528\u4e8e\u8f85\u52a9codex/claude\u751f\u6210\u4ee3\u7801",
+    "id": "lunashia/code-generation-skill",
+    "language": "PowerShell",
+    "name": "lunashia/code-generation-skill",
+    "stars": 2,
+    "updated_at": "2026-06-19T15:01:01Z",
+    "url": "https://github.com/lunashia/code-generation-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T15:00:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The Linux OS for AI Agents \u2014 Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intell",
@@ -16,15 +106,6 @@
     "stars": 509,
     "updated_at": "2026-06-19T14:59:46Z",
     "url": "https://github.com/winstonkoh87/Athena-Public"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:59:35Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
@@ -41,7 +122,7 @@
     "language": "Shell",
     "name": "jnMetaCode/superpowers-zh",
     "stars": 5614,
-    "updated_at": "2026-06-19T14:57:32Z",
+    "updated_at": "2026-06-19T15:00:49Z",
     "url": "https://github.com/jnMetaCode/superpowers-zh"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
-    "id": "robertomarchioro/prompt-a-porter",
-    "language": "Rust",
-    "name": "robertomarchioro/prompt-a-porter",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:57:05Z",
-    "url": "https://github.com/robertomarchioro/prompt-a-porter"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -70,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-06-19T14:56:59Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Swarming your messy diffs before they reach production.",
+    "id": "bladeacer/lccst",
+    "language": "Python",
+    "name": "bladeacer/lccst",
+    "stars": 1,
+    "updated_at": "2026-06-19T14:56:32Z",
+    "url": "https://github.com/bladeacer/lccst"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -88,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T14:54:18Z",
     "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "A structured knowledge base covering LLM inference, RAG, agents, eval, and LLMOps \u2014 built for engineers shipping AI syst",
-    "id": "amikumar91/ai-systems-engineering",
-    "language": "JavaScript",
-    "name": "amikumar91/ai-systems-engineering",
-    "stars": 2,
-    "updated_at": "2026-06-19T14:54:38Z",
-    "url": "https://github.com/amikumar91/ai-systems-engineering"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -144,15 +216,6 @@
     "url": "https://github.com/Mr-Salticidae/becoming-a-prompt-master"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29380,
-    "updated_at": "2026-06-19T14:59:06Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
     "id": "lobisomenhomemafeminado/skill-vault",
     "language": "HTML",
@@ -176,17 +239,8 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 2939,
-    "updated_at": "2026-06-19T14:46:58Z",
+    "updated_at": "2026-06-19T15:11:45Z",
     "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T14:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
@@ -347,7 +401,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-19T14:55:04Z",
+    "updated_at": "2026-06-19T15:10:30Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -367,15 +421,6 @@
     "stars": 3,
     "updated_at": "2026-06-19T14:04:28Z",
     "url": "https://github.com/whimzyLive/nightshift-ai"
-  },
-  {
-    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
-    "id": "rizvee/multimodel-dev-os",
-    "language": "JavaScript",
-    "name": "rizvee/multimodel-dev-os",
-    "stars": 2,
-    "updated_at": "2026-06-19T14:03:29Z",
-    "url": "https://github.com/rizvee/multimodel-dev-os"
   },
   {
     "description": "AI\u8d85\u7ea7\u63d0\u793a\u8bcd\u6a21\u677f\u5305 - 50\u4e2a\u9ad8\u6548\u63d0\u793a\u8bcd ",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-19T13:58:30Z",
     "url": "https://github.com/TreeTraceTool/TreeTrace"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 19,
-    "updated_at": "2026-06-19T13:57:44Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Spec first workflow for coding agents: choose the right model per task, use strong reasoning early, split work into smal",
-    "id": "arcayne/agentic-delivery-playbook",
-    "language": "HTML",
-    "name": "arcayne/agentic-delivery-playbook",
-    "stars": 9,
-    "updated_at": "2026-06-19T13:54:09Z",
-    "url": "https://github.com/arcayne/agentic-delivery-playbook"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 37196,
-    "updated_at": "2026-06-19T13:54:02Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 11,
-    "updated_at": "2026-06-19T14:47:03Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "An (agentic) Claude/Codex/Copilot skill to aid ECRs write up preregistrations!",
-    "id": "caggursoy/biopsych-prereg-skill",
-    "language": "\u2014",
-    "name": "caggursoy/biopsych-prereg-skill",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:52:13Z",
-    "url": "https://github.com/caggursoy/biopsych-prereg-skill"
   }
 ]
