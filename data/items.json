@@ -1,12 +1,75 @@
 [
   {
-    "description": "\u0295\u2022\u1d25\u2022\u0294 A cute terminal pet that refines your rough prompts using your Claude Code session's context, memory, and model \u2014 ",
-    "id": "zjchenQAQ/prompet",
-    "language": "JavaScript",
-    "name": "zjchenQAQ/prompet",
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1644,
+    "updated_at": "2026-06-19T05:00:18Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "A mini e-commerce chatbot built with LangChain/LangGraph, featuring a comprehensive prompt management system.",
+    "id": "Nitesh-lng/PromptManagement-Chatbot",
+    "language": "Python",
+    "name": "Nitesh-lng/PromptManagement-Chatbot",
     "stars": 1,
-    "updated_at": "2026-06-19T04:39:17Z",
-    "url": "https://github.com/zjchenQAQ/prompet"
+    "updated_at": "2026-06-19T04:59:33Z",
+    "url": "https://github.com/Nitesh-lng/PromptManagement-Chatbot"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 760,
+    "updated_at": "2026-06-19T04:59:13Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-19T04:58:07Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
+    "id": "ZeroLu/awesome-gpt-image",
+    "language": "Python",
+    "name": "ZeroLu/awesome-gpt-image",
+    "stars": 1725,
+    "updated_at": "2026-06-19T04:56:13Z",
+    "url": "https://github.com/ZeroLu/awesome-gpt-image"
+  },
+  {
+    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 4,
+    "updated_at": "2026-06-19T04:55:02Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "DreamQuill v1.0 \u2014 a pure-prompt novel writing agent. Copy, paste, start writing. No install, no API key, no config. Buil",
+    "id": "eluckydog/DreamQuill",
+    "language": "\u2014",
+    "name": "eluckydog/DreamQuill",
+    "stars": 1,
+    "updated_at": "2026-06-19T04:49:02Z",
+    "url": "https://github.com/eluckydog/DreamQuill"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T04:47:33Z",
+    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Agent Package Manager",
@@ -14,15 +77,60 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 2936,
-    "updated_at": "2026-06-19T04:39:44Z",
+    "updated_at": "2026-06-19T04:48:30Z",
     "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Serena is to find the reliable source from many websites, find easier ways to tackle your problems using through discord",
+    "id": "realBoBao/Serena_The-Accountant",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_The-Accountant",
+    "stars": 0,
+    "updated_at": "2026-06-19T04:47:18Z",
+    "url": "https://github.com/realBoBao/Serena_The-Accountant"
+  },
+  {
+    "description": "\u0295\u2022\u1d25\u2022\u0294 A cute terminal pet that refines your rough prompts using your Claude Code session's context, memory, and model \u2014 ",
+    "id": "zjchenQAQ/prompet",
+    "language": "JavaScript",
+    "name": "zjchenQAQ/prompet",
+    "stars": 1,
+    "updated_at": "2026-06-19T04:47:08Z",
+    "url": "https://github.com/zjchenQAQ/prompet"
+  },
+  {
+    "description": "Catalog and free tools for Claudette Agent digital products: handoff, eval, and agent-commerce kits.",
+    "id": "claudette-agent/claudette-agent.github.io",
+    "language": "HTML",
+    "name": "claudette-agent/claudette-agent.github.io",
+    "stars": 0,
+    "updated_at": "2026-06-19T04:46:46Z",
+    "url": "https://github.com/claudette-agent/claudette-agent.github.io"
+  },
+  {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 6662,
+    "updated_at": "2026-06-19T04:56:11Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T04:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 163903,
+    "stars": 163904,
     "updated_at": "2026-06-19T04:37:05Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -41,7 +149,7 @@
     "language": "Shell",
     "name": "whimzyLive/nightshift-ai",
     "stars": 3,
-    "updated_at": "2026-06-19T04:34:54Z",
+    "updated_at": "2026-06-19T04:57:34Z",
     "url": "https://github.com/whimzyLive/nightshift-ai"
   },
   {
@@ -52,24 +160,6 @@
     "stars": 26,
     "updated_at": "2026-06-19T04:34:36Z",
     "url": "https://github.com/KudoAI/ai-personas"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T04:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Serena is to find the reliable source from many websites, find easier ways to tackle your problems using through discord",
-    "id": "realBoBao/Serena_The-Accountant",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_The-Accountant",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:28:27Z",
-    "url": "https://github.com/realBoBao/Serena_The-Accountant"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -261,6 +351,15 @@
     "url": "https://github.com/dfinson/promptlings"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22362,
+    "updated_at": "2026-06-19T03:48:04Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Manage your team's Claude Code agents with role-based configs, A/B testing, and accuracy tracking. CLI-first.",
     "id": "karibew/crewkit-cli",
     "language": "\u2014",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T03:26:29Z",
     "url": "https://github.com/mindhack03d/SymbolicPrompting"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1359,
-    "updated_at": "2026-06-19T03:18:20Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "A comprehensive suite of protocols, meta-prompts, and orchestration tools designed to streamline software development wo",
-    "id": "J-StaR-Films-Studios/VibeCode-Protocol-Suite",
-    "language": "TypeScript",
-    "name": "J-StaR-Films-Studios/VibeCode-Protocol-Suite",
-    "stars": 22,
-    "updated_at": "2026-06-19T03:11:39Z",
-    "url": "https://github.com/J-StaR-Films-Studios/VibeCode-Protocol-Suite"
-  },
-  {
-    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
-    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "language": "HTML",
-    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "stars": 0,
-    "updated_at": "2026-06-19T02:59:54Z",
-    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
-  },
-  {
-    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4448,
-    "updated_at": "2026-06-19T02:59:39Z",
-    "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-06-19T02:59:25Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "",
-    "id": "imran-binhasan/email-gen-assistant",
-    "language": "Python",
-    "name": "imran-binhasan/email-gen-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-19T02:57:55Z",
-    "url": "https://github.com/imran-binhasan/email-gen-assistant"
-  },
-  {
-    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 4,
-    "updated_at": "2026-06-19T02:56:02Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
-    "id": "YouMind-OpenLab/awesome-gpt-image-2",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 7630,
-    "updated_at": "2026-06-19T02:52:45Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 760,
-    "updated_at": "2026-06-19T04:24:16Z",
-    "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 49,
-    "updated_at": "2026-06-19T02:46:29Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "DreamQuill v1.0 \u2014 a pure-prompt novel writing agent. Copy, paste, start writing. No install, no API key, no config. Buil",
-    "id": "eluckydog/DreamQuill",
-    "language": "\u2014",
-    "name": "eluckydog/DreamQuill",
-    "stars": 1,
-    "updated_at": "2026-06-19T02:43:27Z",
-    "url": "https://github.com/eluckydog/DreamQuill"
   }
 ]
