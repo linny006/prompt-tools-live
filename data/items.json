@@ -1,5 +1,104 @@
 [
   {
+    "description": "Stop teaching your coding agent the same lesson twice.",
+    "id": "rennzhang/oh-my-experience",
+    "language": "TypeScript",
+    "name": "rennzhang/oh-my-experience",
+    "stars": 4,
+    "updated_at": "2026-06-19T06:27:13Z",
+    "url": "https://github.com/rennzhang/oh-my-experience"
+  },
+  {
+    "description": "A Python-based AI bot that generates images using Stability AI, DALL-E 3, and Google Imagen, and posts them to Instagram",
+    "id": "yahayuta/ai_bot_app_insta",
+    "language": "Python",
+    "name": "yahayuta/ai_bot_app_insta",
+    "stars": 1,
+    "updated_at": "2026-06-19T06:27:04Z",
+    "url": "https://github.com/yahayuta/ai_bot_app_insta"
+  },
+  {
+    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
+    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "language": "HTML",
+    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:21:38Z",
+    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 3,
+    "updated_at": "2026-06-19T06:21:12Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
+    "id": "Atheerameer/agentic-cli-blueprint-library",
+    "language": "HTML",
+    "name": "Atheerameer/agentic-cli-blueprint-library",
+    "stars": 1,
+    "updated_at": "2026-06-19T06:20:54Z",
+    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
+  },
+  {
+    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
+    "id": "Asir11/langgraph-agentic-workflows-tutorial",
+    "language": "HTML",
+    "name": "Asir11/langgraph-agentic-workflows-tutorial",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:20:48Z",
+    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
+  },
+  {
+    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
+    "id": "SHENG5411/grimoire-of-tools",
+    "language": "HTML",
+    "name": "SHENG5411/grimoire-of-tools",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:20:48Z",
+    "url": "https://github.com/SHENG5411/grimoire-of-tools"
+  },
+  {
+    "description": "Retrieval-augmented team knowledge copilot: ingest docs \u2192 embed \u2192 cited Q&A \u2192 human-reviewed write-back. Runs offline in",
+    "id": "schuligan/operations-knowledge-copilot",
+    "language": "Python",
+    "name": "schuligan/operations-knowledge-copilot",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:18:28Z",
+    "url": "https://github.com/schuligan/operations-knowledge-copilot"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 760,
+    "updated_at": "2026-06-19T06:19:02Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T06:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:15:27Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
     "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
     "id": "dgenio/contextweaver",
     "language": "Python",
@@ -108,15 +207,6 @@
     "url": "https://github.com/sameernagar-hub/promptPilot"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T06:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -157,7 +247,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 35377,
+    "stars": 35428,
     "updated_at": "2026-06-19T05:56:53Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -189,21 +279,12 @@
     "url": "https://github.com/hackwithayush/jini_prompter"
   },
   {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 760,
-    "updated_at": "2026-06-19T06:00:12Z",
-    "url": "https://github.com/promptdriven/pdd"
-  },
-  {
     "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
     "id": "Zipstack/unstract",
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 6662,
-    "updated_at": "2026-06-19T06:13:48Z",
+    "updated_at": "2026-06-19T06:19:42Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -274,7 +355,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 35275,
+    "stars": 35276,
     "updated_at": "2026-06-19T05:40:03Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -286,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T05:40:00Z",
     "url": "https://github.com/schuligan/claude-skills-collection"
-  },
-  {
-    "description": "Retrieval-augmented team knowledge copilot: ingest docs \u2192 embed \u2192 cited Q&A \u2192 human-reviewed write-back. Runs offline in",
-    "id": "schuligan/operations-knowledge-copilot",
-    "language": "Python",
-    "name": "schuligan/operations-knowledge-copilot",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:39:59Z",
-    "url": "https://github.com/schuligan/operations-knowledge-copilot"
   },
   {
     "description": "Tell coherence from truth \u2014 an LLM prompt that lays out any argument's hidden premises, alternatives, and missing eviden",
@@ -364,7 +436,7 @@
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 303,
+    "stars": 305,
     "updated_at": "2026-06-19T05:27:14Z",
     "url": "https://github.com/dongshuyan/compass-skills"
   },
@@ -376,77 +448,5 @@
     "stars": 19,
     "updated_at": "2026-06-19T05:25:58Z",
     "url": "https://github.com/vishal2612200/agentpack"
-  },
-  {
-    "description": "AI Prompt Slimming Toolkit - reduce token consumption 5-40% before every API call. \u4e2d\u82f1\u6587\u5197\u4f59\u68c0\u6d4b + LLM\u667a\u80fd\u538b\u7f29\u3002",
-    "id": "JING04-PRODUCER/promptslim",
-    "language": "Python",
-    "name": "JING04-PRODUCER/promptslim",
-    "stars": 1,
-    "updated_at": "2026-06-19T05:25:34Z",
-    "url": "https://github.com/JING04-PRODUCER/promptslim"
-  },
-  {
-    "description": "Testable skill memory for AI agents: SKILL.md, .memory.md, regression tests, and self-refinement.",
-    "id": "Yomiracle/agent-skill-system",
-    "language": "Python",
-    "name": "Yomiracle/agent-skill-system",
-    "stars": 1,
-    "updated_at": "2026-06-19T05:25:07Z",
-    "url": "https://github.com/Yomiracle/agent-skill-system"
-  },
-  {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 6,
-    "updated_at": "2026-06-19T05:21:26Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 45,
-    "updated_at": "2026-06-19T05:21:22Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
-    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
-    "id": "Paulessus/odin-gemini-mcp-bridge",
-    "language": "HTML",
-    "name": "Paulessus/odin-gemini-mcp-bridge",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:20:37Z",
-    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "A hands-on field guide for building, orchestrating, evaluating, and operating AI agents \u2014 agent loops, multi-agent patte",
-    "id": "shurugiken/building-ai-agents",
-    "language": "\u2014",
-    "name": "shurugiken/building-ai-agents",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:19:09Z",
-    "url": "https://github.com/shurugiken/building-ai-agents"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:18:50Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Agent-centric memory architecture for long-running AI companions: continuity, routing, safety boundaries, and self-revie",
-    "id": "GSL-R/arona-soul-agent-memory",
-    "language": "\u2014",
-    "name": "GSL-R/arona-soul-agent-memory",
-    "stars": 0,
-    "updated_at": "2026-06-19T05:17:53Z",
-    "url": "https://github.com/GSL-R/arona-soul-agent-memory"
   }
 ]
