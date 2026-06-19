@@ -1,10 +1,73 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3310,
+    "updated_at": "2026-06-19T18:45:04Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-06-19T18:41:48Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Skill do Claude para escrever em portugu\u00eas brasileiro natural, sem cara de tradu\u00e7\u00e3o nem cara de IA.",
+    "id": "JoaoAreias/escrita-natural",
+    "language": "\u2014",
+    "name": "JoaoAreias/escrita-natural",
+    "stars": 2,
+    "updated_at": "2026-06-19T18:41:43Z",
+    "url": "https://github.com/JoaoAreias/escrita-natural"
+  },
+  {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 42,
+    "updated_at": "2026-06-19T18:39:56Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:36:08Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Curated collection of AI personality alters (distinct conversational personas) for OpenWebUI, Librechat, LMStudio, Ollam",
+    "id": "nightrunner91/jan",
+    "language": "PowerShell",
+    "name": "nightrunner91/jan",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:34:14Z",
+    "url": "https://github.com/nightrunner91/jan"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T18:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
     "id": "Forward-Future/loop-library",
     "language": "HTML",
     "name": "Forward-Future/loop-library",
-    "stars": 23,
+    "stars": 27,
     "updated_at": "2026-06-19T18:30:03Z",
     "url": "https://github.com/Forward-Future/loop-library"
   },
@@ -63,15 +126,6 @@
     "url": "https://github.com/TimsTittus/Architecter"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T18:28:13Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
     "id": "rizvee/multimodel-dev-os",
     "language": "JavaScript",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T18:21:45Z",
     "url": "https://github.com/lydiesika/agent-toolkit"
-  },
-  {
-    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
-    "id": "Supervertaler/Supervertaler-Workbench",
-    "language": "Python",
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 42,
-    "updated_at": "2026-06-19T18:18:51Z",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -234,6 +279,15 @@
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
   },
   {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2940,
+    "updated_at": "2026-06-19T18:00:17Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
     "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
     "language": "HTML",
@@ -277,15 +331,6 @@
     "stars": 4,
     "updated_at": "2026-06-19T18:14:46Z",
     "url": "https://github.com/christopherlouet/claude-base"
-  },
-  {
-    "description": "Curated collection of AI personality alters (distinct conversational personas) for OpenWebUI, Librechat, LMStudio, Ollam",
-    "id": "nightrunner91/jan",
-    "language": "PowerShell",
-    "name": "nightrunner91/jan",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:52:32Z",
-    "url": "https://github.com/nightrunner91/jan"
   },
   {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
@@ -382,7 +427,7 @@
     "id": "wellwelwel/blue-spec",
     "language": "TypeScript",
     "name": "wellwelwel/blue-spec",
-    "stars": 54,
+    "stars": 55,
     "updated_at": "2026-06-19T17:35:49Z",
     "url": "https://github.com/wellwelwel/blue-spec"
   },
@@ -396,15 +441,6 @@
     "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
   },
   {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-06-19T17:33:18Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
     "description": ".NET 10 Minimal API for benchmarking and evaluating Large Language Models (LLMs) for generation and rewrite tasks, featu",
     "id": "guizama/LLMBenchmark",
     "language": "C#",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T17:33:15Z",
     "url": "https://github.com/guizama/LLMBenchmark"
-  },
-  {
-    "description": "Bilingual Claude Code and AI coding tutorials covering setup, CLI workflows, web projects, prompt engineering, MCP serve",
-    "id": "0xfnzero/AI-Code-Tutorials",
-    "language": "\u2014",
-    "name": "0xfnzero/AI-Code-Tutorials",
-    "stars": 74,
-    "updated_at": "2026-06-19T17:31:00Z",
-    "url": "https://github.com/0xfnzero/AI-Code-Tutorials"
-  },
-  {
-    "description": "Forensic reference-integrity auditor for academic publishing \u2014 built for nursing and health-sciences editors who need to",
-    "id": "PitziLabs/reference-checker",
-    "language": "HTML",
-    "name": "PitziLabs/reference-checker",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:10:32Z",
-    "url": "https://github.com/PitziLabs/reference-checker"
-  },
-  {
-    "description": "Spec-driven AI coding automation CLI. AI Loops runner for Claude Code, OpenCode, Cursor, and other agent CLIs.",
-    "id": "iyaki/specralph",
-    "language": "Go",
-    "name": "iyaki/specralph",
-    "stars": 3,
-    "updated_at": "2026-06-19T18:01:12Z",
-    "url": "https://github.com/iyaki/specralph"
-  },
-  {
-    "description": "Bilingual open-source AI learning map: RAG, agents, fine-tuning & system design (EN/ZH) | \u4e2d\u82f1\u53cc\u8bed\u5f00\u6e90 AI \u5b66\u4e60\u8def\u7ebf\u56fe\uff1aRAG\u3001\u667a\u80fd\u4f53\u3001\u5fae\u8c03\u53ca\u7cfb\u7edf\u8bbe",
-    "id": "Hao610/AI-Model-Atlas",
-    "language": "Python",
-    "name": "Hao610/AI-Model-Atlas",
-    "stars": 4,
-    "updated_at": "2026-06-19T17:28:50Z",
-    "url": "https://github.com/Hao610/AI-Model-Atlas"
   }
 ]
