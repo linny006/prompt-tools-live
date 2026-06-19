@@ -1,12 +1,102 @@
 [
   {
+    "description": "(RTX\u26a1) Core Framework \u2014 Reasoning | Thinking | Xtreme. A master AI blueprint for building autonomous agents that collabo",
+    "id": "PsProsen-Dev/RTXCoreFramework",
+    "language": "\u2014",
+    "name": "PsProsen-Dev/RTXCoreFramework",
+    "stars": 0,
+    "updated_at": "2026-06-19T10:13:48Z",
+    "url": "https://github.com/PsProsen-Dev/RTXCoreFramework"
+  },
+  {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 6662,
+    "updated_at": "2026-06-19T10:13:31Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19696,
+    "updated_at": "2026-06-19T10:12:30Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3310,
+    "updated_at": "2026-06-19T10:15:04Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Open-source AI learning platform featuring structured learning paths, projects, roadmaps, AI tools, challenges, exams, a",
+    "id": "DipakMandlik/AIByDM",
+    "language": "Python",
+    "name": "DipakMandlik/AIByDM",
+    "stars": 2,
+    "updated_at": "2026-06-19T10:09:03Z",
+    "url": "https://github.com/DipakMandlik/AIByDM"
+  },
+  {
+    "description": "\ud83e\uddd9 Democratizing best practices across 27 domains. Your AI knows everything \u2014 Grimoire makes it practice it.",
+    "id": "jeffreytse/grimoire",
+    "language": "Go",
+    "name": "jeffreytse/grimoire",
+    "stars": 12,
+    "updated_at": "2026-06-19T10:06:53Z",
+    "url": "https://github.com/jeffreytse/grimoire"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-19T10:06:14Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29370,
+    "updated_at": "2026-06-19T10:12:05Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "A beginner-friendly guide to actually using Claude Chat, Claude Code, skills, subagents, and real project workflows.",
     "id": "RainyRoot/claude-guide",
     "language": "\u2014",
     "name": "RainyRoot/claude-guide",
     "stars": 1,
-    "updated_at": "2026-06-19T09:57:44Z",
+    "updated_at": "2026-06-19T10:04:01Z",
     "url": "https://github.com/RainyRoot/claude-guide"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T10:00:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Structured Outputs",
+    "id": "dottxt-ai/outlines",
+    "language": "Python",
+    "name": "dottxt-ai/outlines",
+    "stars": 13977,
+    "updated_at": "2026-06-19T09:57:12Z",
+    "url": "https://github.com/dottxt-ai/outlines"
   },
   {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
@@ -18,24 +108,6 @@
     "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3309,
-    "updated_at": "2026-06-19T10:00:15Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Structured Outputs",
-    "id": "dottxt-ai/outlines",
-    "language": "Python",
-    "name": "dottxt-ai/outlines",
-    "stars": 13976,
-    "updated_at": "2026-06-19T09:57:12Z",
-    "url": "https://github.com/dottxt-ai/outlines"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -45,15 +117,6 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-19T09:56:12Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Turn your coding agent into a full product team \u2014 composable skills across research, marketing, product, and process. On",
     "id": "hungv47/meta-skills",
     "language": "TypeScript",
@@ -61,15 +124,6 @@
     "stars": 12,
     "updated_at": "2026-06-19T09:53:27Z",
     "url": "https://github.com/hungv47/meta-skills"
-  },
-  {
-    "description": "(RTX\u26a1) Core Framework \u2014 Reasoning | Thinking | Xtreme. A master AI blueprint for building autonomous agents that collabo",
-    "id": "PsProsen-Dev/RTXCoreFramework",
-    "language": "\u2014",
-    "name": "PsProsen-Dev/RTXCoreFramework",
-    "stars": 0,
-    "updated_at": "2026-06-19T09:53:03Z",
-    "url": "https://github.com/PsProsen-Dev/RTXCoreFramework"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -117,15 +171,6 @@
     "url": "https://github.com/swaylq/master-skill"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T09:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
     "id": "Ronnie2025/ai-agent-workbench-starter-pack",
     "language": "HTML",
@@ -135,15 +180,6 @@
     "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19695,
-    "updated_at": "2026-06-19T09:50:46Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "\u57fa\u4e8e AI Agent \u5de5\u4f5c\u6d41\u7684\u4fee\u4ed9\u4e16\u754c\u6a21\u62df\u5668\uff0c\u65e8\u5728\u8fd8\u539f\u667a\u80fd\u3001\u5f00\u653e\u7684\u4ed9\u4fa0\u4e16\u754c\u3002| An open-source Cultivation World Simulator using Agentic Workflow to create a d",
     "id": "4thfever/cultivation-world-simulator",
     "language": "Python",
@@ -151,15 +187,6 @@
     "stars": 1830,
     "updated_at": "2026-06-19T09:43:47Z",
     "url": "https://github.com/4thfever/cultivation-world-simulator"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29369,
-    "updated_at": "2026-06-19T10:00:21Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Automatic Prompt Optimization Framework",
@@ -216,15 +243,6 @@
     "url": "https://github.com/robertomarchioro/prompt-a-porter"
   },
   {
-    "description": "Open-source AI learning platform featuring structured learning paths, projects, roadmaps, AI tools, challenges, exams, a",
-    "id": "DipakMandlik/AIByDM",
-    "language": "Python",
-    "name": "DipakMandlik/AIByDM",
-    "stars": 2,
-    "updated_at": "2026-06-19T09:31:53Z",
-    "url": "https://github.com/DipakMandlik/AIByDM"
-  },
-  {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
@@ -232,6 +250,15 @@
     "stars": 12552,
     "updated_at": "2026-06-19T09:31:30Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 2940,
+    "updated_at": "2026-06-19T09:22:41Z",
+    "url": "https://github.com/microsoft/apm"
   },
   {
     "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready tem",
@@ -292,7 +319,7 @@
     "id": "vllm-project/semantic-router",
     "language": "Go",
     "name": "vllm-project/semantic-router",
-    "stars": 4451,
+    "stars": 4452,
     "updated_at": "2026-06-19T09:12:12Z",
     "url": "https://github.com/vllm-project/semantic-router"
   },
@@ -369,21 +396,12 @@
     "url": "https://github.com/tech-guru254/spec-weaver"
   },
   {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 2939,
-    "updated_at": "2026-06-19T09:22:41Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
     "id": "IBM/mcp-context-forge",
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 3926,
-    "updated_at": "2026-06-19T09:44:05Z",
+    "updated_at": "2026-06-19T10:08:05Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 49,
     "updated_at": "2026-06-19T08:56:07Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 21,
-    "updated_at": "2026-06-19T08:55:53Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "60 days. 60 prompts. 1 AI. Zero excuses. \u2014 My ABTalks Claude AI Challenge journey.",
-    "id": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
-    "language": "HTML",
-    "name": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
-    "stars": 1,
-    "updated_at": "2026-06-19T08:54:48Z",
-    "url": "https://github.com/devpal-singh-anand/ABTalks-60-Day-Claude-Challenge"
   }
 ]
