@@ -1,5 +1,86 @@
 [
   {
+    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
+    "id": "rizvee/multimodel-dev-os",
+    "language": "JavaScript",
+    "name": "rizvee/multimodel-dev-os",
+    "stars": 2,
+    "updated_at": "2026-06-19T18:26:53Z",
+    "url": "https://github.com/rizvee/multimodel-dev-os"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-19T18:26:14Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:22:38Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "AI Agent capability toolkit \u2014 behavioral rules, anti-generic design system, multi-agent orchestration, 13-platform inter",
+    "id": "lydiesika/agent-toolkit",
+    "language": "JavaScript",
+    "name": "lydiesika/agent-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:21:45Z",
+    "url": "https://github.com/lydiesika/agent-toolkit"
+  },
+  {
+    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
+    "id": "Forward-Future/loop-library",
+    "language": "HTML",
+    "name": "Forward-Future/loop-library",
+    "stars": 23,
+    "updated_at": "2026-06-19T18:20:33Z",
+    "url": "https://github.com/Forward-Future/loop-library"
+  },
+  {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 42,
+    "updated_at": "2026-06-19T18:18:51Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1392,
+    "updated_at": "2026-06-19T18:17:07Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 54,
+    "updated_at": "2026-06-19T18:16:42Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T18:15:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
     "id": "Paulessus/odin-gemini-mcp-bridge",
     "language": "HTML",
@@ -16,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-06-19T18:14:15Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
+    "id": "Agenta-AI/agenta",
+    "language": "TypeScript",
+    "name": "Agenta-AI/agenta",
+    "stars": 4222,
+    "updated_at": "2026-06-19T18:13:32Z",
+    "url": "https://github.com/Agenta-AI/agenta"
   },
   {
     "description": "Reusable skills for AI coding agents (Claude Code, Codex, Forge) covering paper review, commit triage, GPU rentals, refe",
@@ -90,15 +180,6 @@
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T18:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
     "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
     "language": "HTML",
@@ -144,15 +225,6 @@
     "url": "https://github.com/christopherlouet/claude-base"
   },
   {
-    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
-    "id": "Supervertaler/Supervertaler-Workbench",
-    "language": "Python",
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 42,
-    "updated_at": "2026-06-19T17:56:37Z",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
-  },
-  {
     "description": "Curated collection of AI personality alters (distinct conversational personas) for OpenWebUI, Librechat, LMStudio, Ollam",
     "id": "nightrunner91/jan",
     "language": "PowerShell",
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T17:51:09Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
-    "id": "Forward-Future/loop-library",
-    "language": "HTML",
-    "name": "Forward-Future/loop-library",
-    "stars": 21,
-    "updated_at": "2026-06-19T17:50:52Z",
-    "url": "https://github.com/Forward-Future/loop-library"
   },
   {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-19T17:22:01Z",
     "url": "https://github.com/RudraDudhat2509/diffprompt"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:20:49Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "HanakoPro \u6539\u9020\u7248\uff1a\u9053\u7ecf\u63d0\u793a\u8bcd\u3001\u53ef\u63a7\u8bb0\u5fc6\u3001Goal \u6a21\u5f0f\u3001\u53ef\u89c1\u7ec8\u7aef\u3001macOS \u672c\u5730\u8fd0\u884c\u4e0e\u4f1a\u8bdd/\u6d4f\u89c8\u5668\u7a33\u5b9a\u6027\u589e\u5f3a\u3002",
-    "id": "JieKiYu/HanakoPro",
-    "language": "JavaScript",
-    "name": "JieKiYu/HanakoPro",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:18:23Z",
-    "url": "https://github.com/JieKiYu/HanakoPro"
-  },
-  {
-    "description": "Ultra-deterministic, hardware-sympathetic .cursorrules V4 specification for high-frequency trading engines. Eliminates t",
-    "id": "quantart61-ux/cursorrules-v4-hft-engine",
-    "language": "\u2014",
-    "name": "quantart61-ux/cursorrules-v4-hft-engine",
-    "stars": 1,
-    "updated_at": "2026-06-19T17:16:54Z",
-    "url": "https://github.com/quantart61-ux/cursorrules-v4-hft-engine"
-  },
-  {
-    "description": "",
-    "id": "Technyder-Inc/ai-anti-slop-vibe-coding-practices",
-    "language": "Python",
-    "name": "Technyder-Inc/ai-anti-slop-vibe-coding-practices",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:16:35Z",
-    "url": "https://github.com/Technyder-Inc/ai-anti-slop-vibe-coding-practices"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 32909,
-    "updated_at": "2026-06-19T17:15:31Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "# Agentic Job Scraper  AI-powered job scraping system that fetches software development job postings from Telegram chann",
-    "id": "dariank38/agentic-job-scraper",
-    "language": "Python",
-    "name": "dariank38/agentic-job-scraper",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:15:06Z",
-    "url": "https://github.com/dariank38/agentic-job-scraper"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 2,
-    "updated_at": "2026-06-19T17:14:55Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
   }
 ]
