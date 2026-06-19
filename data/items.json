@@ -1,12 +1,75 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:00:08Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:57:06Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:56:57Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "A community-driven archive of leaked AI system prompts from ChatGPT, Claude, Gemini, Copilot, Cursor & more. Contributio",
+    "id": "Rahulchaube1/AI-System-Prompts-leaks",
+    "language": "JavaScript",
+    "name": "Rahulchaube1/AI-System-Prompts-leaks",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:52:55Z",
+    "url": "https://github.com/Rahulchaube1/AI-System-Prompts-leaks"
+  },
+  {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 42,
+    "updated_at": "2026-06-19T18:50:16Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-19T18:47:42Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-19T18:45:04Z",
+    "updated_at": "2026-06-19T18:48:06Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-19T18:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -27,15 +90,6 @@
     "url": "https://github.com/JoaoAreias/escrita-natural"
   },
   {
-    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
-    "id": "Supervertaler/Supervertaler-Workbench",
-    "language": "Python",
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "stars": 42,
-    "updated_at": "2026-06-19T18:39:56Z",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -43,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-06-19T18:36:08Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "3,300 practical techniques to cut LLM token usage by up to 90% \u2014 300 core principles + 3,000 context-specific applicatio",
+    "id": "0xgetz/awesome-token-saving",
+    "language": "\u2014",
+    "name": "0xgetz/awesome-token-saving",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:34:24Z",
+    "url": "https://github.com/0xgetz/awesome-token-saving"
   },
   {
     "description": "Curated collection of AI personality alters (distinct conversational personas) for OpenWebUI, Librechat, LMStudio, Ollam",
@@ -54,20 +117,11 @@
     "url": "https://github.com/nightrunner91/jan"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-19T18:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
     "id": "Forward-Future/loop-library",
     "language": "HTML",
     "name": "Forward-Future/loop-library",
-    "stars": 27,
+    "stars": 31,
     "updated_at": "2026-06-19T18:30:03Z",
     "url": "https://github.com/Forward-Future/loop-library"
   },
@@ -329,7 +383,7 @@
     "language": "Shell",
     "name": "christopherlouet/claude-base",
     "stars": 4,
-    "updated_at": "2026-06-19T18:14:46Z",
+    "updated_at": "2026-06-19T18:55:43Z",
     "url": "https://github.com/christopherlouet/claude-base"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 21,
     "updated_at": "2026-06-19T17:45:24Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:45:07Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Full-stack prompt workspace for Claude Code and Codex with ASP.NET Core, React, PostgreSQL and SignalR.",
-    "id": "psielta/Thoth",
-    "language": "C#",
-    "name": "psielta/Thoth",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:42:03Z",
-    "url": "https://github.com/psielta/Thoth"
-  },
-  {
-    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
-    "id": "robertomarchioro/prompt-a-porter",
-    "language": "Rust",
-    "name": "robertomarchioro/prompt-a-porter",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:37:09Z",
-    "url": "https://github.com/robertomarchioro/prompt-a-porter"
-  },
-  {
-    "description": "\ud83c\udf0a Blue Spec is a toolkit for Security-Driven Hardening (SDH), a defensive workflow to help AI agents detect what a syste",
-    "id": "wellwelwel/blue-spec",
-    "language": "TypeScript",
-    "name": "wellwelwel/blue-spec",
-    "stars": 55,
-    "updated_at": "2026-06-19T17:35:49Z",
-    "url": "https://github.com/wellwelwel/blue-spec"
-  },
-  {
-    "description": "AI Agent \u5de5\u4f5c\u53f0\u5b9e\u6218\u5305 public sales page",
-    "id": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "language": "HTML",
-    "name": "Ronnie2025/ai-agent-workbench-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:33:59Z",
-    "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
-  },
-  {
-    "description": ".NET 10 Minimal API for benchmarking and evaluating Large Language Models (LLMs) for generation and rewrite tasks, featu",
-    "id": "guizama/LLMBenchmark",
-    "language": "C#",
-    "name": "guizama/LLMBenchmark",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:33:15Z",
-    "url": "https://github.com/guizama/LLMBenchmark"
   }
 ]
