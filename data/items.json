@@ -1,12 +1,84 @@
 [
   {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 5,
+    "updated_at": "2026-06-20T03:41:49Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "247 agent skills (Cursor, Claude & Codex), 5.400+ OpenClaw skills, 123 ML notebooks, 46 research papers, 14 industry rep",
+    "id": "adriannoes/awesome-vibe-coding",
+    "language": "Jupyter Notebook",
+    "name": "adriannoes/awesome-vibe-coding",
+    "stars": 39,
+    "updated_at": "2026-06-20T03:40:57Z",
+    "url": "https://github.com/adriannoes/awesome-vibe-coding"
+  },
+  {
     "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
     "id": "gaofeng21cn/redcube-ai",
     "language": "TypeScript",
     "name": "gaofeng21cn/redcube-ai",
     "stars": 2,
-    "updated_at": "2026-06-20T03:28:36Z",
+    "updated_at": "2026-06-20T03:38:49Z",
     "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "Bilingual AI coding tutorials for Claude Code and OpenAI Codex: setup, CLI, Codex workflows, MCP, agents, code review, p",
+    "id": "0xfnzero/AI-Code-Tutorials",
+    "language": "\u2014",
+    "name": "0xfnzero/AI-Code-Tutorials",
+    "stars": 74,
+    "updated_at": "2026-06-20T03:36:48Z",
+    "url": "https://github.com/0xfnzero/AI-Code-Tutorials"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-20T03:36:38Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "\ud83e\uddd9 Democratizing best practices across 27 domains. Your AI knows everything \u2014 Grimoire makes it practice it.",
+    "id": "jeffreytse/grimoire",
+    "language": "Go",
+    "name": "jeffreytse/grimoire",
+    "stars": 12,
+    "updated_at": "2026-06-20T03:36:04Z",
+    "url": "https://github.com/jeffreytse/grimoire"
+  },
+  {
+    "description": "Statistical analysis methods for comparing prompt and model performance in LLM evaluations.",
+    "id": "ianarawjo/evalstats",
+    "language": "Python",
+    "name": "ianarawjo/evalstats",
+    "stars": 106,
+    "updated_at": "2026-06-20T03:34:14Z",
+    "url": "https://github.com/ianarawjo/evalstats"
+  },
+  {
+    "description": "Plain-text, model-agnostic AI agent development harness with 3-mode autonomy, GitNexus integration, and multi-environmen",
+    "id": "3rdAI-admin/th3rdai-harness",
+    "language": "Python",
+    "name": "3rdAI-admin/th3rdai-harness",
+    "stars": 0,
+    "updated_at": "2026-06-20T03:32:59Z",
+    "url": "https://github.com/3rdAI-admin/th3rdai-harness"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T03:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Interactive playground comparing Zero-shot, Few-shot, and Chain-of-Thought prompting head-to-head, scored by an LLM judg",
@@ -18,15 +90,6 @@
     "url": "https://github.com/rishidakshbansal2004-create/PromptWizardingStudio"
   },
   {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 19,
-    "updated_at": "2026-06-20T03:23:57Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
     "description": "\u4e00\u4e2a\u53ef\u4ee5\u5e2e\u4f60\u5feb\u901f\u53cd\u63a8\u51fa\u7f51\u9875\u4e0a\u56fe\u7247\u7684\u63d0\u793a\u8bcd\uff0c\u5e76\u5feb\u901f\u751f\u56fe\u6d4b\u8bd5\u63d0\u793a\u8bcd\u6548\u679c\u7684\u63d2\u4ef6\u3002A Chrome extension to reverse-engineer prompts from web images and instantly valida",
     "id": "kevinchin12/ImageLens",
     "language": "JavaScript",
@@ -34,15 +97,6 @@
     "stars": 117,
     "updated_at": "2026-06-20T03:21:17Z",
     "url": "https://github.com/kevinchin12/ImageLens"
-  },
-  {
-    "description": "Statistical analysis methods for comparing prompt and model performance in LLM evaluations.",
-    "id": "ianarawjo/evalstats",
-    "language": "Python",
-    "name": "ianarawjo/evalstats",
-    "stars": 106,
-    "updated_at": "2026-06-20T03:19:25Z",
-    "url": "https://github.com/ianarawjo/evalstats"
   },
   {
     "description": "Vibe Coding OS \u2014 Claude/Codex/Cursor skill framework with 139 skills, 111 commands, 95 templates, 22 tracked sources, 28",
@@ -63,15 +117,6 @@
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 5,
-    "updated_at": "2026-06-20T03:16:41Z",
-    "url": "https://github.com/danlex/suno-lab"
-  },
-  {
     "description": "Prompt engineering design for LLM",
     "id": "xlisp/prompt-engineering-design",
     "language": "Python",
@@ -79,15 +124,6 @@
     "stars": 17,
     "updated_at": "2026-06-20T03:16:22Z",
     "url": "https://github.com/xlisp/prompt-engineering-design"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T03:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -99,13 +135,13 @@
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
-    "description": "Plain-text, model-agnostic AI agent development harness with 3-mode autonomy, GitNexus integration, and multi-environmen",
-    "id": "3rdAI-admin/th3rdai-harness",
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
     "language": "Python",
-    "name": "3rdAI-admin/th3rdai-harness",
-    "stars": 0,
-    "updated_at": "2026-06-20T03:12:14Z",
-    "url": "https://github.com/3rdAI-admin/th3rdai-harness"
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 32940,
+    "updated_at": "2026-06-20T03:12:16Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "Multi-Agent AI Control Tower for Enterprise Supply Chain Crisis Intelligence",
@@ -133,15 +169,6 @@
     "stars": 949,
     "updated_at": "2026-06-20T03:06:08Z",
     "url": "https://github.com/withkynam/vibecode-pro-max-kit"
-  },
-  {
-    "description": "Bilingual Claude Code and AI coding tutorials covering setup, CLI workflows, web projects, prompt engineering, MCP serve",
-    "id": "0xfnzero/AI-Code-Tutorials",
-    "language": "\u2014",
-    "name": "0xfnzero/AI-Code-Tutorials",
-    "stars": 74,
-    "updated_at": "2026-06-20T03:06:02Z",
-    "url": "https://github.com/0xfnzero/AI-Code-Tutorials"
   },
   {
     "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 762,
-    "updated_at": "2026-06-20T03:26:34Z",
+    "updated_at": "2026-06-20T03:45:23Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-20T01:57:52Z",
     "url": "https://github.com/124-creator/ResearchLoop"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:56:36Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
-    "id": "Paulessus/odin-gemini-mcp-bridge",
-    "language": "HTML",
-    "name": "Paulessus/odin-gemini-mcp-bridge",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:54:56Z",
-    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:53:48Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   }
 ]
