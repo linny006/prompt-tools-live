@@ -1,5 +1,149 @@
 [
   {
+    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
+    "id": "product-on-purpose/writing-style-catalog",
+    "language": "Python",
+    "name": "product-on-purpose/writing-style-catalog",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:44:47Z",
+    "url": "https://github.com/product-on-purpose/writing-style-catalog"
+  },
+  {
+    "description": "\ud83c\udf3f Inclusive multilingual platform that helps Indian citizens discover government schemes through AI-powered guidance, el",
+    "id": "harshi-web-cyber/AI-government-schemes-finder",
+    "language": "\u2014",
+    "name": "harshi-web-cyber/AI-government-schemes-finder",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:44:38Z",
+    "url": "https://github.com/harshi-web-cyber/AI-government-schemes-finder"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 762,
+    "updated_at": "2026-06-20T07:43:38Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 49,
+    "updated_at": "2026-06-20T07:40:24Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 21,
+    "updated_at": "2026-06-20T07:40:01Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Concise multi-format goal creator skill for AI coding agents",
+    "id": "yinsang0910-star/goal-creator",
+    "language": "Python",
+    "name": "yinsang0910-star/goal-creator",
+    "stars": 1,
+    "updated_at": "2026-06-20T07:39:04Z",
+    "url": "https://github.com/yinsang0910-star/goal-creator"
+  },
+  {
+    "description": "Building smart, scalable AI agent systems. Harness AI. Reclaim Time. Amplify Impact.",
+    "id": "Mehtabk/DeeplyAgentic",
+    "language": "Python",
+    "name": "Mehtabk/DeeplyAgentic",
+    "stars": 2,
+    "updated_at": "2026-06-20T07:38:15Z",
+    "url": "https://github.com/Mehtabk/DeeplyAgentic"
+  },
+  {
+    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 4,
+    "updated_at": "2026-06-20T07:35:30Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "ResearchLoop V4\uff1a\u53cc Loop \u591a\u667a\u80fd\u4f53\u79d1\u7814/\u5de5\u7a0b\u534f\u4f5c\u5de5\u4f5c\u6d41\uff0c\u628a\u6a21\u7cca\u76ee\u6807\u51bb\u7ed3\u6210 Spec\uff0c\u5e76\u7528 Test Oracle\u3001Worktree Check \u4e0e\u4e09\u9053\u4eba\u7c7b\u95e8\u5b9e\u73b0\u53ef\u5ba1\u8ba1\u4ea4\u4ed8\u3002",
+    "id": "124-creator/ResearchLoop",
+    "language": "HTML",
+    "name": "124-creator/ResearchLoop",
+    "stars": 2,
+    "updated_at": "2026-06-20T07:34:47Z",
+    "url": "https://github.com/124-creator/ResearchLoop"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29402,
+    "updated_at": "2026-06-20T07:33:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A framework for LLM research and audits. Multi-prompt, multi-session, context-disciplined.",
+    "id": "Ronkupper/PRISM",
+    "language": "Python",
+    "name": "Ronkupper/PRISM",
+    "stars": 4,
+    "updated_at": "2026-06-20T07:33:10Z",
+    "url": "https://github.com/Ronkupper/PRISM"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 5,
+    "updated_at": "2026-06-20T07:32:32Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "Structural prompt analysis + output testing + rewriting. Model-agnostic via LiteLLM. FastAPI service.",
+    "id": "b0ir/prompt-evaluator",
+    "language": "Python",
+    "name": "b0ir/prompt-evaluator",
+    "stars": 1,
+    "updated_at": "2026-06-20T07:38:44Z",
+    "url": "https://github.com/b0ir/prompt-evaluator"
+  },
+  {
+    "description": "Single-kernel Codex runtime that distills skills, agents, plugins, and workflows into atomic capabilities and routes the",
+    "id": "AI-wuji/wuji-legion-codex",
+    "language": "Go",
+    "name": "AI-wuji/wuji-legion-codex",
+    "stars": 1,
+    "updated_at": "2026-06-20T07:30:39Z",
+    "url": "https://github.com/AI-wuji/wuji-legion-codex"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T07:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "HTML",
+    "name": "Open-Less/openless",
+    "stars": 2419,
+    "updated_at": "2026-06-20T07:30:23Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
     "description": "A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems",
     "id": "RiccardoBiosas/awesome-MLSecOps",
     "language": "\u2014",
@@ -36,15 +180,6 @@
     "url": "https://github.com/bladeacer/lccst"
   },
   {
-    "description": "ResearchLoop V4\uff1a\u53cc Loop \u591a\u667a\u80fd\u4f53\u79d1\u7814/\u5de5\u7a0b\u534f\u4f5c\u5de5\u4f5c\u6d41\uff0c\u628a\u6a21\u7cca\u76ee\u6807\u51bb\u7ed3\u6210 Spec\uff0c\u5e76\u7528 Test Oracle\u3001Worktree Check \u4e0e\u4e09\u9053\u4eba\u7c7b\u95e8\u5b9e\u73b0\u53ef\u5ba1\u8ba1\u4ea4\u4ed8\u3002",
-    "id": "124-creator/ResearchLoop",
-    "language": "HTML",
-    "name": "124-creator/ResearchLoop",
-    "stars": 2,
-    "updated_at": "2026-06-20T07:30:17Z",
-    "url": "https://github.com/124-creator/ResearchLoop"
-  },
-  {
     "description": "A Claude Code skill that makes coding agents write clean, idiomatic Rust \u2014 six Rust books distilled into progressive-dis",
     "id": "Newmcpe/rust-coding-skill",
     "language": "PowerShell",
@@ -70,15 +205,6 @@
     "stars": 24,
     "updated_at": "2026-06-20T07:20:09Z",
     "url": "https://github.com/Lolner95/AIGX"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T07:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u7537\u751f\u7248 dating coach skill \u2014\u2014 \u8bfb\u61c2\u4f60\u548c\u5979\u3001\u8d77\u8349\u9ad8\u5f20\u529b\u4e0d\u6389\u4ef7\u7684\u56de\u590d\u3001\u7ed9\u7ea6\u4f1a\u8282\u594f\u4e0e\u884c\u52a8\u5efa\u8bae;\u6709\u5206\u5bf8\u3001\u4e0d PUA\u3001\u4e0d\u8214\u3002\u652f\u6301 Claude Code \u4e0e OpenAI agent\u3002",
@@ -115,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T07:07:24Z",
     "url": "https://github.com/keysersoose/loop-library"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 5,
-    "updated_at": "2026-06-20T07:04:14Z",
-    "url": "https://github.com/danlex/suno-lab"
   },
   {
     "description": "Prompt engineering workbench \u2014 Chrome extension, desktop app, and web tool",
@@ -306,15 +423,6 @@
     "url": "https://github.com/ArtLjn/farm-manager-design-spec"
   },
   {
-    "description": "Structural prompt analysis + output testing + rewriting. Model-agnostic via LiteLLM. FastAPI service.",
-    "id": "b0ir/prompt-evaluator",
-    "language": "Python",
-    "name": "b0ir/prompt-evaluator",
-    "stars": 1,
-    "updated_at": "2026-06-20T07:28:59Z",
-    "url": "https://github.com/b0ir/prompt-evaluator"
-  },
-  {
     "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
     "id": "AditthyaSS/iloveAgents",
     "language": "JavaScript",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T06:23:58Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "AI dotfiles",
-    "id": "manusa/ai",
-    "language": "Shell",
-    "name": "manusa/ai",
-    "stars": 1,
-    "updated_at": "2026-06-20T06:22:59Z",
-    "url": "https://github.com/manusa/ai"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:21:35Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Token-efficient context engine for AI coding agents. v2.7: faster file-finding (icmg find --name fuzzy locator + --open/",
-    "id": "ncmonx/icemage",
-    "language": "C++",
-    "name": "ncmonx/icemage",
-    "stars": 3,
-    "updated_at": "2026-06-20T06:20:23Z",
-    "url": "https://github.com/ncmonx/icemage"
-  },
-  {
-    "description": "\ud83e\uddd9 Democratizing best practices across 27 domains. Your AI knows everything \u2014 Grimoire makes it practice it.",
-    "id": "jeffreytse/grimoire-skills",
-    "language": "Shell",
-    "name": "jeffreytse/grimoire-skills",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:14:52Z",
-    "url": "https://github.com/jeffreytse/grimoire-skills"
-  },
-  {
-    "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c470+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
-    "id": "freestylefly/awesome-gpt-image-2",
-    "language": "JavaScript",
-    "name": "freestylefly/awesome-gpt-image-2",
-    "stars": 7727,
-    "updated_at": "2026-06-20T06:13:35Z",
-    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
-  },
-  {
-    "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CL",
-    "id": "Dannykkh/skill-olympus",
-    "language": "Python",
-    "name": "Dannykkh/skill-olympus",
-    "stars": 2,
-    "updated_at": "2026-06-20T06:13:29Z",
-    "url": "https://github.com/Dannykkh/skill-olympus"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:11:12Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Tell coherence from truth \u2014 an LLM prompt that lays out any argument's hidden premises, alternatives, and missing eviden",
-    "id": "flypggl-cpu/LARP",
-    "language": "Python",
-    "name": "flypggl-cpu/LARP",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:10:42Z",
-    "url": "https://github.com/flypggl-cpu/LARP"
-  },
-  {
-    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
-    "id": "product-on-purpose/writing-style-catalog",
-    "language": "Python",
-    "name": "product-on-purpose/writing-style-catalog",
-    "stars": 0,
-    "updated_at": "2026-06-20T07:24:11Z",
-    "url": "https://github.com/product-on-purpose/writing-style-catalog"
-  },
-  {
-    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 sel",
-    "id": "withkynam/vibecode-pro-max-kit",
-    "language": "JavaScript",
-    "name": "withkynam/vibecode-pro-max-kit",
-    "stars": 951,
-    "updated_at": "2026-06-20T06:09:27Z",
-    "url": "https://github.com/withkynam/vibecode-pro-max-kit"
-  },
-  {
-    "description": "Agentless prompt change intelligence + eval \u2014 watch the prompts in your codebase, detect changes, and eval them with zer",
-    "id": "GoReal-AI/echostash-oss",
-    "language": "TypeScript",
-    "name": "GoReal-AI/echostash-oss",
-    "stars": 3,
-    "updated_at": "2026-06-20T06:08:11Z",
-    "url": "https://github.com/GoReal-AI/echostash-oss"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-20T06:05:51Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
