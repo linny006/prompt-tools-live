@@ -1,5 +1,104 @@
 [
   {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:15:15Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
+    "id": "VectorPeak/vectorpeak-agent-skills",
+    "language": "Python",
+    "name": "VectorPeak/vectorpeak-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-06-20T08:15:03Z",
+    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
+  },
+  {
+    "description": "\u5927\u5e08.skill \u2014 \u8f93\u5165\u884c\u4e1a\uff0c\u81ea\u52a8\u8c03\u7814 6 \u8f68[\u884c\u4e1a\u5927\u4f6c / \u5de5\u5177\u5730\u56fe / \u5de5\u4f5c\u6d41 / \u77e5\u8bc6\u6b63\u5178 / \u4fe1\u606f\u6e90 / \u672f\u8bed\u6807\u51c6] \u2192 \u63d0\u70bc\u4e3a\u53ef\u8fd0\u884c\u7684\u884c\u4e1a Master OS skill\uff1b\u88c5\u5230\u4efb\u610f Claude Code / OpenClaw ",
+    "id": "swaylq/master-skill",
+    "language": "Shell",
+    "name": "swaylq/master-skill",
+    "stars": 60,
+    "updated_at": "2026-06-20T08:14:22Z",
+    "url": "https://github.com/swaylq/master-skill"
+  },
+  {
+    "description": "Tell coherence from truth \u2014 an LLM prompt that lays out any argument's hidden premises, alternatives, and missing eviden",
+    "id": "flypggl-cpu/LARP",
+    "language": "Python",
+    "name": "flypggl-cpu/LARP",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:13:49Z",
+    "url": "https://github.com/flypggl-cpu/LARP"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 5,
+    "updated_at": "2026-06-20T08:13:43Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1394,
+    "updated_at": "2026-06-20T08:13:42Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Open, MIT context format for AI coding agents: centralized .aigx/ rules + a per-file boundary index that targets the rig",
+    "id": "Lolner95/AIGX",
+    "language": "JavaScript",
+    "name": "Lolner95/AIGX",
+    "stars": 24,
+    "updated_at": "2026-06-20T08:11:51Z",
+    "url": "https://github.com/Lolner95/AIGX"
+  },
+  {
+    "description": "Concise multi-format goal creator skill for AI coding agents",
+    "id": "yinsang0910-star/goal-creator",
+    "language": "Python",
+    "name": "yinsang0910-star/goal-creator",
+    "stars": 1,
+    "updated_at": "2026-06-20T08:11:10Z",
+    "url": "https://github.com/yinsang0910-star/goal-creator"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 21,
+    "updated_at": "2026-06-20T08:05:48Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 4,
+    "updated_at": "2026-06-20T08:03:05Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T08:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "ResearchLoop V4\uff1a\u53cc Loop \u591a\u667a\u80fd\u4f53\u79d1\u7814/\u5de5\u7a0b\u534f\u4f5c\u5de5\u4f5c\u6d41\uff0c\u628a\u6a21\u7cca\u76ee\u6807\u51bb\u7ed3\u6210 Spec\uff0c\u5e76\u7528 Test Oracle\u3001Worktree Check \u4e0e\u4e09\u9053\u4eba\u7c7b\u95e8\u5b9e\u73b0\u53ef\u5ba1\u8ba1\u4ea4\u4ed8\u3002",
     "id": "124-creator/ResearchLoop",
     "language": "HTML",
@@ -7,6 +106,15 @@
     "stars": 2,
     "updated_at": "2026-06-20T07:58:19Z",
     "url": "https://github.com/124-creator/ResearchLoop"
+  },
+  {
+    "description": "\u671f\u672b\u901f\u6210\u2014\u2014\u671f\u672b\u5468\u5927\u5b66\u751f\u6781\u9650\u81ea\u6551",
+    "id": "savingwings/exam-speed-master",
+    "language": "\u2014",
+    "name": "savingwings/exam-speed-master",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:56:04Z",
+    "url": "https://github.com/savingwings/exam-speed-master"
   },
   {
     "description": "Vibe Coding OS \u2014 Claude/Codex/Cursor skill framework with 139 skills, 111 commands, 95 templates, 22 tracked sources, 28",
@@ -45,24 +153,6 @@
     "url": "https://github.com/RiccardoBiosas/awesome-MLSecOps"
   },
   {
-    "description": "Concise multi-format goal creator skill for AI coding agents",
-    "id": "yinsang0910-star/goal-creator",
-    "language": "Python",
-    "name": "yinsang0910-star/goal-creator",
-    "stars": 1,
-    "updated_at": "2026-06-20T07:51:04Z",
-    "url": "https://github.com/yinsang0910-star/goal-creator"
-  },
-  {
-    "description": "Open, MIT context format for AI coding agents: centralized .aigx/ rules + a per-file boundary index that targets the rig",
-    "id": "Lolner95/AIGX",
-    "language": "JavaScript",
-    "name": "Lolner95/AIGX",
-    "stars": 24,
-    "updated_at": "2026-06-20T07:49:37Z",
-    "url": "https://github.com/Lolner95/AIGX"
-  },
-  {
     "description": "Building smart, scalable AI agent systems. Harness AI. Reclaim Time. Amplify Impact.",
     "id": "Mehtabk/DeeplyAgentic",
     "language": "Python",
@@ -79,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T07:46:11Z",
     "url": "https://github.com/realBoBao/Serena_The-Accountant"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T07:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udf3f Inclusive multilingual platform that helps Indian citizens discover government schemes through AI-powered guidance, el",
@@ -153,21 +234,12 @@
     "url": "https://github.com/Ronkupper/PRISM"
   },
   {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 5,
-    "updated_at": "2026-06-20T07:32:32Z",
-    "url": "https://github.com/danlex/suno-lab"
-  },
-  {
     "description": "Structural prompt analysis + output testing + rewriting. Model-agnostic via LiteLLM. FastAPI service.",
     "id": "b0ir/prompt-evaluator",
     "language": "Python",
     "name": "b0ir/prompt-evaluator",
     "stars": 1,
-    "updated_at": "2026-06-20T07:38:44Z",
+    "updated_at": "2026-06-20T08:04:11Z",
     "url": "https://github.com/b0ir/prompt-evaluator"
   },
   {
@@ -184,7 +256,7 @@
     "id": "Open-Less/openless",
     "language": "HTML",
     "name": "Open-Less/openless",
-    "stars": 2419,
+    "stars": 2420,
     "updated_at": "2026-06-20T07:30:23Z",
     "url": "https://github.com/Open-Less/openless"
   },
@@ -376,77 +448,5 @@
     "stars": 12,
     "updated_at": "2026-06-20T06:48:42Z",
     "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
-    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "id": "dongshuyan/compass-skills",
-    "language": "Python",
-    "name": "dongshuyan/compass-skills",
-    "stars": 380,
-    "updated_at": "2026-06-20T06:46:16Z",
-    "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
-    "id": "LouisLau-art/multi-agent-skills-catalog",
-    "language": "Python",
-    "name": "LouisLau-art/multi-agent-skills-catalog",
-    "stars": 2,
-    "updated_at": "2026-06-20T06:44:57Z",
-    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:42:38Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
-    "id": "pranavkafle/serpapi-mcp-catalog",
-    "language": "Python",
-    "name": "pranavkafle/serpapi-mcp-catalog",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:42:11Z",
-    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 21,
-    "updated_at": "2026-06-20T06:40:48Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 54,
-    "updated_at": "2026-06-20T06:40:23Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Unified design spec for an LLM agent platform \u2014 architecture decisions, module boundaries, API contracts, and coding sta",
-    "id": "ArtLjn/farm-manager-design-spec",
-    "language": "\u2014",
-    "name": "ArtLjn/farm-manager-design-spec",
-    "stars": 1,
-    "updated_at": "2026-06-20T06:36:33Z",
-    "url": "https://github.com/ArtLjn/farm-manager-design-spec"
-  },
-  {
-    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
-    "id": "AditthyaSS/iloveAgents",
-    "language": "JavaScript",
-    "name": "AditthyaSS/iloveAgents",
-    "stars": 95,
-    "updated_at": "2026-06-20T06:31:11Z",
-    "url": "https://github.com/AditthyaSS/iloveAgents"
   }
 ]
