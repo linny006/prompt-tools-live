@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u7537\u751f\u7248 dating coach skill \u2014\u2014 \u8bfb\u61c2\u4f60\u548c\u5979\u3001\u8d77\u8349\u9ad8\u5f20\u529b\u4e0d\u6389\u4ef7\u7684\u56de\u590d\u3001\u7ed9\u7ea6\u4f1a\u8282\u594f\u4e0e\u884c\u52a8\u5efa\u8bae;\u6709\u5206\u5bf8\u3001\u4e0d PUA\u3001\u4e0d\u8214\u3002\u652f\u6301 Claude Code \u4e0e OpenAI agent\u3002",
+    "id": "Patrick0308/dating-coach-skill",
+    "language": "\u2014",
+    "name": "Patrick0308/dating-coach-skill",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:14:37Z",
+    "url": "https://github.com/Patrick0308/dating-coach-skill"
+  },
+  {
+    "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
+    "id": "ftvision/agent-prompt-observatory",
+    "language": "Python",
+    "name": "ftvision/agent-prompt-observatory",
+    "stars": 1,
+    "updated_at": "2026-06-20T07:12:55Z",
+    "url": "https://github.com/ftvision/agent-prompt-observatory"
+  },
+  {
+    "description": "Swarming your messy diffs before they reach production.",
+    "id": "bladeacer/lccst",
+    "language": "Python",
+    "name": "bladeacer/lccst",
+    "stars": 1,
+    "updated_at": "2026-06-20T07:11:17Z",
+    "url": "https://github.com/bladeacer/lccst"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-06-20T07:09:15Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "A Claude Code skill that makes coding agents write clean, idiomatic Rust \u2014 six Rust books distilled into progressive-dis",
+    "id": "Newmcpe/rust-coding-skill",
+    "language": "PowerShell",
+    "name": "Newmcpe/rust-coding-skill",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:09:04Z",
+    "url": "https://github.com/Newmcpe/rust-coding-skill"
+  },
+  {
+    "description": "A curated, credited library of loops \u2014 repeatable AI-agent workflows for Claude Code, Cursor & Codex. Refactor until cle",
+    "id": "keysersoose/loop-library",
+    "language": "HTML",
+    "name": "keysersoose/loop-library",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:07:24Z",
+    "url": "https://github.com/keysersoose/loop-library"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 5,
+    "updated_at": "2026-06-20T07:04:14Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "Prompt engineering workbench \u2014 Chrome extension, desktop app, and web tool",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "HTML",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 2,
+    "updated_at": "2026-06-20T07:03:26Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "Local-first PySide6 prompt manager with versions, boards, clipboard modes, JSON export and a read-only Web/PWA companion",
+    "id": "file-bricks/ProfiPrompt",
+    "language": "Python",
+    "name": "file-bricks/ProfiPrompt",
+    "stars": 1,
+    "updated_at": "2026-06-20T07:01:31Z",
+    "url": "https://github.com/file-bricks/ProfiPrompt"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T07:00:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
     "id": "jeb-maker/lagent-quotidien",
     "language": "HTML",
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T06:56:51Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Prompt engineering workbench \u2014 Chrome extension, desktop app, and web tool",
-    "id": "DaveHomeAssist/prompt-lab",
-    "language": "HTML",
-    "name": "DaveHomeAssist/prompt-lab",
-    "stars": 2,
-    "updated_at": "2026-06-20T06:56:45Z",
-    "url": "https://github.com/DaveHomeAssist/prompt-lab"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -99,24 +180,6 @@
     "url": "https://github.com/justinstimatze/effigy"
   },
   {
-    "description": "A curated, credited library of loops \u2014 repeatable AI-agent workflows for Claude Code, Cursor & Codex. Refactor until cle",
-    "id": "keysersoose/loop-library",
-    "language": "\u2014",
-    "name": "keysersoose/loop-library",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:51:49Z",
-    "url": "https://github.com/keysersoose/loop-library"
-  },
-  {
-    "description": "Swarming your messy diffs before they reach production.",
-    "id": "bladeacer/lccst",
-    "language": "Python",
-    "name": "bladeacer/lccst",
-    "stars": 1,
-    "updated_at": "2026-06-20T06:50:06Z",
-    "url": "https://github.com/bladeacer/lccst"
-  },
-  {
     "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
     "id": "sou350121/Agent-Playbook",
     "language": "PowerShell",
@@ -142,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T06:45:38Z",
     "url": "https://github.com/124-creator/ResearchLoop"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T06:45:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
@@ -205,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T06:36:33Z",
     "url": "https://github.com/ArtLjn/farm-manager-design-spec"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 5,
-    "updated_at": "2026-06-20T06:34:43Z",
-    "url": "https://github.com/danlex/suno-lab"
   },
   {
     "description": "Structural prompt analysis + output testing + rewriting. Model-agnostic via LiteLLM. FastAPI service.",
@@ -324,15 +369,6 @@
     "url": "https://github.com/flypggl-cpu/LARP"
   },
   {
-    "description": "\u7537\u751f\u7248 dating coach skill \u2014\u2014 \u8bfb\u61c2\u4f60\u548c\u5979\u3001\u8d77\u8349\u9ad8\u5f20\u529b\u4e0d\u6389\u4ef7\u7684\u56de\u590d\u3001\u7ed9\u7ea6\u4f1a\u8282\u594f\u4e0e\u884c\u52a8\u5efa\u8bae;\u6709\u5206\u5bf8\u3001\u4e0d PUA\u3001\u4e0d\u8214\u3002\u652f\u6301 Claude Code \u4e0e OpenAI agent\u3002",
-    "id": "Patrick0308/dating-coach-skill",
-    "language": "\u2014",
-    "name": "Patrick0308/dating-coach-skill",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:10:23Z",
-    "url": "https://github.com/Patrick0308/dating-coach-skill"
-  },
-  {
     "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
     "id": "product-on-purpose/writing-style-catalog",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 10204,
     "updated_at": "2026-06-20T05:49:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "A Codex skill for honest second-pass review and pressure testing.",
-    "id": "FlyingFSR/critical-second-pass",
-    "language": "\u2014",
-    "name": "FlyingFSR/critical-second-pass",
-    "stars": 1,
-    "updated_at": "2026-06-20T05:40:22Z",
-    "url": "https://github.com/FlyingFSR/critical-second-pass"
-  },
-  {
-    "description": "Curated, verified Agent Skills powered by ModelStudio.",
-    "id": "modelstudioai/skills",
-    "language": "Python",
-    "name": "modelstudioai/skills",
-    "stars": 32,
-    "updated_at": "2026-06-20T05:37:26Z",
-    "url": "https://github.com/modelstudioai/skills"
-  },
-  {
-    "description": "\ud83c\udf19 Your codebase just hired a night shift \u2014 a full AI engineering team that plans, builds, tests, reviews, and releases t",
-    "id": "whimzyLive/nightshift-ai",
-    "language": "Shell",
-    "name": "whimzyLive/nightshift-ai",
-    "stars": 3,
-    "updated_at": "2026-06-20T05:35:49Z",
-    "url": "https://github.com/whimzyLive/nightshift-ai"
-  },
-  {
-    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
-    "id": "elon-choo/fablever",
-    "language": "HTML",
-    "name": "elon-choo/fablever",
-    "stars": 19,
-    "updated_at": "2026-06-20T05:35:43Z",
-    "url": "https://github.com/elon-choo/fablever"
   }
 ]
