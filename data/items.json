@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI-first engineering toolkit that turns coding agents (Claude Code, Codex, Cursor, Windsurf, Gemini CLI, Aider) into Sen",
+    "id": "sokpichdev/mobile-engineering-agents",
+    "language": "Swift",
+    "name": "sokpichdev/mobile-engineering-agents",
+    "stars": 0,
+    "updated_at": "2026-06-20T04:28:22Z",
+    "url": "https://github.com/sokpichdev/mobile-engineering-agents"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-06-20T04:24:34Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Serena is to find the reliable source (tech news, job news + interview questions, \u0111aily leetcode problems) from many web",
+    "id": "realBoBao/Serena_The-Accountant",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_The-Accountant",
+    "stars": 0,
+    "updated_at": "2026-06-20T04:21:53Z",
+    "url": "https://github.com/realBoBao/Serena_The-Accountant"
+  },
+  {
+    "description": "\ud83d\udcac 1,300+ AI personas for LLMs and agents.",
+    "id": "KudoAI/ai-personas",
+    "language": "Python",
+    "name": "KudoAI/ai-personas",
+    "stars": 26,
+    "updated_at": "2026-06-20T04:20:09Z",
+    "url": "https://github.com/KudoAI/ai-personas"
+  },
+  {
+    "description": "Swarming your messy diffs before they reach production.",
+    "id": "bladeacer/lccst",
+    "language": "Python",
+    "name": "bladeacer/lccst",
+    "stars": 1,
+    "updated_at": "2026-06-20T04:18:37Z",
+    "url": "https://github.com/bladeacer/lccst"
+  },
+  {
+    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
+    "id": "FURUYAN1234/nano-banana-pro",
+    "language": "JavaScript",
+    "name": "FURUYAN1234/nano-banana-pro",
+    "stars": 10,
+    "updated_at": "2026-06-20T04:18:35Z",
+    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
+  },
+  {
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1645,
+    "updated_at": "2026-06-20T04:16:05Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T04:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -25,15 +97,6 @@
     "stars": 1728,
     "updated_at": "2026-06-20T04:10:26Z",
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "Swarming your messy diffs before they reach production.",
-    "id": "bladeacer/lccst",
-    "language": "Python",
-    "name": "bladeacer/lccst",
-    "stars": 1,
-    "updated_at": "2026-06-20T04:10:11Z",
-    "url": "https://github.com/bladeacer/lccst"
   },
   {
     "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
@@ -90,15 +153,6 @@
     "url": "https://github.com/aikdna/kdna-prompt_diagnosis"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T04:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
@@ -106,15 +160,6 @@
     "stars": 1393,
     "updated_at": "2026-06-20T03:59:34Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "\ud83d\udcac 1,300+ AI personas for LLMs and agents.",
-    "id": "KudoAI/ai-personas",
-    "language": "Python",
-    "name": "KudoAI/ai-personas",
-    "stars": 26,
-    "updated_at": "2026-06-20T03:56:19Z",
-    "url": "https://github.com/KudoAI/ai-personas"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -274,7 +319,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32944,
+    "stars": 32945,
     "updated_at": "2026-06-20T03:12:16Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -355,7 +400,7 @@
     "id": "jnMetaCode/superpowers-zh",
     "language": "JavaScript",
     "name": "jnMetaCode/superpowers-zh",
-    "stars": 5627,
+    "stars": 5628,
     "updated_at": "2026-06-20T02:39:42Z",
     "url": "https://github.com/jnMetaCode/superpowers-zh"
   },
@@ -401,52 +446,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 762,
-    "updated_at": "2026-06-20T04:06:45Z",
+    "updated_at": "2026-06-20T04:29:16Z",
     "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "FishAI \u8bed\u8a00\u6a21\u578b\u6838\u5fc3 \u2014 \u63d0\u793a\u8bcd\u5de5\u7a0b\u3001\u8bb0\u5fc6\u7cfb\u7edf\u3001\u6df1\u5ea6\u601d\u8003\u89e3\u6790\uff08\u96f6\u5916\u90e8\u4f9d\u8d56\uff09",
-    "id": "FishLab-ai/fishai-ai",
-    "language": "TypeScript",
-    "name": "FishLab-ai/fishai-ai",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:33:38Z",
-    "url": "https://github.com/FishLab-ai/fishai-ai"
-  },
-  {
-    "description": "Forensic reference-integrity auditor for academic publishing \u2014 built for nursing and health-sciences editors who need to",
-    "id": "PitziLabs/reference-checker",
-    "language": "HTML",
-    "name": "PitziLabs/reference-checker",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:28:29Z",
-    "url": "https://github.com/PitziLabs/reference-checker"
-  },
-  {
-    "description": "Judgment infrastructure for human-led AI: portable Claude and Codex skills.",
-    "id": "glichtenthal/agent-skills",
-    "language": "HTML",
-    "name": "glichtenthal/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-20T03:53:54Z",
-    "url": "https://github.com/glichtenthal/agent-skills"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 21,
-    "updated_at": "2026-06-20T02:26:32Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "GPT-Image-2 API and Prompts",
-    "id": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "language": "Python",
-    "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "stars": 16822,
-    "updated_at": "2026-06-20T02:24:18Z",
-    "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
   }
 ]
