@@ -1,5 +1,86 @@
 [
   {
+    "description": "A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems",
+    "id": "RiccardoBiosas/awesome-MLSecOps",
+    "language": "\u2014",
+    "name": "RiccardoBiosas/awesome-MLSecOps",
+    "stars": 439,
+    "updated_at": "2026-06-20T07:29:58Z",
+    "url": "https://github.com/RiccardoBiosas/awesome-MLSecOps"
+  },
+  {
+    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
+    "id": "lulin70/carrymem",
+    "language": "Python",
+    "name": "lulin70/carrymem",
+    "stars": 5,
+    "updated_at": "2026-06-20T07:28:51Z",
+    "url": "https://github.com/lulin70/carrymem"
+  },
+  {
+    "description": "122 AI Agent Skills for full-lifecycle product development (PM \u00d7 UI \u00d7 Backend) | \u8986\u76d6\u4ea7\u54c1\u5168\u751f\u547d\u5468\u671f\u7684122\u4e2aAI Agent\u6280\u80fd\uff0c\u4ece\u63a2\u7d22\u53d1\u73b0\u5230\u589e\u957f\u8fd0\u8425\uff0c\u8986\u76d6\u4ea7",
+    "id": "LuckyOneTwoThree/vibe-skill",
+    "language": "JavaScript",
+    "name": "LuckyOneTwoThree/vibe-skill",
+    "stars": 20,
+    "updated_at": "2026-06-20T07:27:59Z",
+    "url": "https://github.com/LuckyOneTwoThree/vibe-skill"
+  },
+  {
+    "description": "Swarming your messy diffs before they reach production.",
+    "id": "bladeacer/lccst",
+    "language": "Python",
+    "name": "bladeacer/lccst",
+    "stars": 1,
+    "updated_at": "2026-06-20T07:26:46Z",
+    "url": "https://github.com/bladeacer/lccst"
+  },
+  {
+    "description": "ResearchLoop V4\uff1a\u53cc Loop \u591a\u667a\u80fd\u4f53\u79d1\u7814/\u5de5\u7a0b\u534f\u4f5c\u5de5\u4f5c\u6d41\uff0c\u628a\u6a21\u7cca\u76ee\u6807\u51bb\u7ed3\u6210 Spec\uff0c\u5e76\u7528 Test Oracle\u3001Worktree Check \u4e0e\u4e09\u9053\u4eba\u7c7b\u95e8\u5b9e\u73b0\u53ef\u5ba1\u8ba1\u4ea4\u4ed8\u3002",
+    "id": "124-creator/ResearchLoop",
+    "language": "HTML",
+    "name": "124-creator/ResearchLoop",
+    "stars": 2,
+    "updated_at": "2026-06-20T07:30:17Z",
+    "url": "https://github.com/124-creator/ResearchLoop"
+  },
+  {
+    "description": "A Claude Code skill that makes coding agents write clean, idiomatic Rust \u2014 six Rust books distilled into progressive-dis",
+    "id": "Newmcpe/rust-coding-skill",
+    "language": "PowerShell",
+    "name": "Newmcpe/rust-coding-skill",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:24:22Z",
+    "url": "https://github.com/Newmcpe/rust-coding-skill"
+  },
+  {
+    "description": "Curated repositories for building and operating development workflows with Codex.",
+    "id": "shinpr/awesome-codex-workflows",
+    "language": "JavaScript",
+    "name": "shinpr/awesome-codex-workflows",
+    "stars": 4,
+    "updated_at": "2026-06-20T07:23:58Z",
+    "url": "https://github.com/shinpr/awesome-codex-workflows"
+  },
+  {
+    "description": "Open, MIT context format for AI coding agents: centralized .aigx/ rules + a per-file boundary index that targets the rig",
+    "id": "Lolner95/AIGX",
+    "language": "Python",
+    "name": "Lolner95/AIGX",
+    "stars": 24,
+    "updated_at": "2026-06-20T07:20:09Z",
+    "url": "https://github.com/Lolner95/AIGX"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T07:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u7537\u751f\u7248 dating coach skill \u2014\u2014 \u8bfb\u61c2\u4f60\u548c\u5979\u3001\u8d77\u8349\u9ad8\u5f20\u529b\u4e0d\u6389\u4ef7\u7684\u56de\u590d\u3001\u7ed9\u7ea6\u4f1a\u8282\u594f\u4e0e\u884c\u52a8\u5efa\u8bae;\u6709\u5206\u5bf8\u3001\u4e0d PUA\u3001\u4e0d\u8214\u3002\u652f\u6301 Claude Code \u4e0e OpenAI agent\u3002",
     "id": "Patrick0308/dating-coach-skill",
     "language": "\u2014",
@@ -18,15 +99,6 @@
     "url": "https://github.com/ftvision/agent-prompt-observatory"
   },
   {
-    "description": "Swarming your messy diffs before they reach production.",
-    "id": "bladeacer/lccst",
-    "language": "Python",
-    "name": "bladeacer/lccst",
-    "stars": 1,
-    "updated_at": "2026-06-20T07:11:17Z",
-    "url": "https://github.com/bladeacer/lccst"
-  },
-  {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
     "id": "sauravbhattacharya001/agentlens",
     "language": "JavaScript",
@@ -34,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T07:09:15Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "A Claude Code skill that makes coding agents write clean, idiomatic Rust \u2014 six Rust books distilled into progressive-dis",
-    "id": "Newmcpe/rust-coding-skill",
-    "language": "PowerShell",
-    "name": "Newmcpe/rust-coding-skill",
-    "stars": 0,
-    "updated_at": "2026-06-20T07:09:04Z",
-    "url": "https://github.com/Newmcpe/rust-coding-skill"
   },
   {
     "description": "A curated, credited library of loops \u2014 repeatable AI-agent workflows for Claude Code, Cursor & Codex. Refactor until cle",
@@ -79,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T07:01:31Z",
     "url": "https://github.com/file-bricks/ProfiPrompt"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T07:00:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
@@ -193,18 +247,9 @@
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 377,
+    "stars": 379,
     "updated_at": "2026-06-20T06:46:16Z",
     "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "ResearchLoop V4\uff1a\u53cc Loop \u591a\u667a\u80fd\u4f53\u79d1\u7814/\u5de5\u7a0b\u534f\u4f5c\u5de5\u4f5c\u6d41\uff0c\u628a\u6a21\u7cca\u76ee\u6807\u51bb\u7ed3\u6210 Spec\uff0c\u5e76\u7528 Test Oracle\u3001Worktree Check \u4e0e\u4e09\u9053\u4eba\u7c7b\u95e8\u5b9e\u73b0\u53ef\u5ba1\u8ba1\u4ea4\u4ed8\u3002",
-    "id": "124-creator/ResearchLoop",
-    "language": "HTML",
-    "name": "124-creator/ResearchLoop",
-    "stars": 2,
-    "updated_at": "2026-06-20T06:45:38Z",
-    "url": "https://github.com/124-creator/ResearchLoop"
   },
   {
     "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
@@ -265,8 +310,8 @@
     "id": "b0ir/prompt-evaluator",
     "language": "Python",
     "name": "b0ir/prompt-evaluator",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:32:10Z",
+    "stars": 1,
+    "updated_at": "2026-06-20T07:28:59Z",
     "url": "https://github.com/b0ir/prompt-evaluator"
   },
   {
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "product-on-purpose/writing-style-catalog",
     "stars": 0,
-    "updated_at": "2026-06-20T06:09:39Z",
+    "updated_at": "2026-06-20T07:24:11Z",
     "url": "https://github.com/product-on-purpose/writing-style-catalog"
   },
   {
@@ -382,7 +427,7 @@
     "id": "withkynam/vibecode-pro-max-kit",
     "language": "JavaScript",
     "name": "withkynam/vibecode-pro-max-kit",
-    "stars": 950,
+    "stars": 951,
     "updated_at": "2026-06-20T06:09:27Z",
     "url": "https://github.com/withkynam/vibecode-pro-max-kit"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T06:05:51Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Production ready. AI Agent Workflow System for Claude Code",
-    "id": "ngocsangyem/MeowKit",
-    "language": "TypeScript",
-    "name": "ngocsangyem/MeowKit",
-    "stars": 15,
-    "updated_at": "2026-06-20T06:03:43Z",
-    "url": "https://github.com/ngocsangyem/MeowKit"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:01:04Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:00:44Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:58:08Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10204,
-    "updated_at": "2026-06-20T05:49:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
