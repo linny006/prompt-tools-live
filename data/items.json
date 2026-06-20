@@ -1,12 +1,102 @@
 [
   {
+    "description": "Vibe Coding OS \u2014 Claude/Codex/Cursor skill framework with 139 skills, 111 commands, 95 templates, 22 tracked sources, 28",
+    "id": "roronoazoroshao369/vibe-coding-os",
+    "language": "JavaScript",
+    "name": "roronoazoroshao369/vibe-coding-os",
+    "stars": 0,
+    "updated_at": "2026-06-20T03:13:42Z",
+    "url": "https://github.com/roronoazoroshao369/vibe-coding-os"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-06-20T03:13:41Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Plain-text, model-agnostic AI agent development harness with 3-mode autonomy, GitNexus integration, and multi-environmen",
+    "id": "3rdAI-admin/th3rdai-harness",
+    "language": "Python",
+    "name": "3rdAI-admin/th3rdai-harness",
+    "stars": 0,
+    "updated_at": "2026-06-20T03:12:14Z",
+    "url": "https://github.com/3rdAI-admin/th3rdai-harness"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
     "name": "HIDORAKAI002/ai-workspace-archive",
     "stars": 19,
-    "updated_at": "2026-06-20T03:00:14Z",
+    "updated_at": "2026-06-20T03:10:54Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Multi-Agent AI Control Tower for Enterprise Supply Chain Crisis Intelligence",
+    "id": "sharanlabs/supply-chain-ai-resilix",
+    "language": "TypeScript",
+    "name": "sharanlabs/supply-chain-ai-resilix",
+    "stars": 0,
+    "updated_at": "2026-06-20T03:09:15Z",
+    "url": "https://github.com/sharanlabs/supply-chain-ai-resilix"
+  },
+  {
+    "description": "63 bilingual AI marketing skills (31 VN + 31 Global) for Claude Code, OpenCode, Codex, VS Code. Marketing strategy, cont",
+    "id": "minhnv0807/ai-business-skills",
+    "language": "PowerShell",
+    "name": "minhnv0807/ai-business-skills",
+    "stars": 467,
+    "updated_at": "2026-06-20T03:06:14Z",
+    "url": "https://github.com/minhnv0807/ai-business-skills"
+  },
+  {
+    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 sel",
+    "id": "withkynam/vibecode-pro-max-kit",
+    "language": "JavaScript",
+    "name": "withkynam/vibecode-pro-max-kit",
+    "stars": 949,
+    "updated_at": "2026-06-20T03:06:08Z",
+    "url": "https://github.com/withkynam/vibecode-pro-max-kit"
+  },
+  {
+    "description": "Bilingual Claude Code and AI coding tutorials covering setup, CLI workflows, web projects, prompt engineering, MCP serve",
+    "id": "0xfnzero/AI-Code-Tutorials",
+    "language": "\u2014",
+    "name": "0xfnzero/AI-Code-Tutorials",
+    "stars": 74,
+    "updated_at": "2026-06-20T03:06:02Z",
+    "url": "https://github.com/0xfnzero/AI-Code-Tutorials"
+  },
+  {
+    "description": "Prompt engineering design for LLM",
+    "id": "xlisp/prompt-engineering-design",
+    "language": "Python",
+    "name": "xlisp/prompt-engineering-design",
+    "stars": 17,
+    "updated_at": "2026-06-20T03:05:22Z",
+    "url": "https://github.com/xlisp/prompt-engineering-design"
+  },
+  {
+    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
+    "id": "T-Stephen/ai-mql-engine",
+    "language": "JavaScript",
+    "name": "T-Stephen/ai-mql-engine",
+    "stars": 0,
+    "updated_at": "2026-06-20T03:03:12Z",
+    "url": "https://github.com/T-Stephen/ai-mql-engine"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T03:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
@@ -34,33 +124,6 @@
     "stars": 5,
     "updated_at": "2026-06-20T02:55:21Z",
     "url": "https://github.com/danlex/suno-lab"
-  },
-  {
-    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 sel",
-    "id": "withkynam/vibecode-pro-max-kit",
-    "language": "JavaScript",
-    "name": "withkynam/vibecode-pro-max-kit",
-    "stars": 949,
-    "updated_at": "2026-06-20T02:51:51Z",
-    "url": "https://github.com/withkynam/vibecode-pro-max-kit"
-  },
-  {
-    "description": "Prompt engineering design for LLM",
-    "id": "xlisp/prompt-engineering-design",
-    "language": "Python",
-    "name": "xlisp/prompt-engineering-design",
-    "stars": 17,
-    "updated_at": "2026-06-20T02:46:20Z",
-    "url": "https://github.com/xlisp/prompt-engineering-design"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T02:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -117,15 +180,6 @@
     "url": "https://github.com/tech-guru254/spec-weaver"
   },
   {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-20T02:38:21Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
     "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
     "id": "kodancrash-oss/prompt-weaver-framework",
     "language": "HTML",
@@ -180,20 +234,11 @@
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
-    "description": "Multi-Agent AI Control Tower for Enterprise Supply Chain Crisis Intelligence",
-    "id": "sharanlabs/supply-chain-ai-resilix",
-    "language": "TypeScript",
-    "name": "sharanlabs/supply-chain-ai-resilix",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:26:09Z",
-    "url": "https://github.com/sharanlabs/supply-chain-ai-resilix"
-  },
-  {
     "description": "GPT-Image-2 API and Prompts",
     "id": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
     "language": "Python",
     "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "stars": 16818,
+    "stars": 16820,
     "updated_at": "2026-06-20T02:24:18Z",
     "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
   },
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "Ohswedd/vincio",
     "stars": 1,
-    "updated_at": "2026-06-20T02:22:54Z",
+    "updated_at": "2026-06-20T03:15:25Z",
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 182,
     "updated_at": "2026-06-20T01:52:47Z",
     "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:50:45Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "\ud83c\udfad 266 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 18 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 20 \u4e2a\u90e8\u95e8\u3002\u542b 50 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
-    "id": "jnMetaCode/agency-agents-zh",
-    "language": "Shell",
-    "name": "jnMetaCode/agency-agents-zh",
-    "stars": 15249,
-    "updated_at": "2026-06-20T01:50:28Z",
-    "url": "https://github.com/jnMetaCode/agency-agents-zh"
-  },
-  {
-    "description": "A curated collection of reusable AI skills, prompts, and agent configurations. Portable across AI coding assistants and ",
-    "id": "johnoconnor0/official-claude-plugins",
-    "language": "Python",
-    "name": "johnoconnor0/official-claude-plugins",
-    "stars": 3,
-    "updated_at": "2026-06-20T01:49:11Z",
-    "url": "https://github.com/johnoconnor0/official-claude-plugins"
-  },
-  {
-    "description": "Vibe Coding OS \u2014 Claude/Codex/Cursor skill framework with 139 skills, 111 commands, 95 templates, 22 tracked sources, 28",
-    "id": "roronoazoroshao369/vibe-coding-os",
-    "language": "JavaScript",
-    "name": "roronoazoroshao369/vibe-coding-os",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:46:21Z",
-    "url": "https://github.com/roronoazoroshao369/vibe-coding-os"
-  },
-  {
-    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
-    "id": "product-on-purpose/writing-style-catalog",
-    "language": "Python",
-    "name": "product-on-purpose/writing-style-catalog",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:49:02Z",
-    "url": "https://github.com/product-on-purpose/writing-style-catalog"
   }
 ]
