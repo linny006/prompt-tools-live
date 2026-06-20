@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
+    "id": "YouMind-OpenLab/awesome-gpt-image-2",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-2",
+    "stars": 7639,
+    "updated_at": "2026-06-20T02:13:12Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-20T02:13:04Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-20T02:13:52Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "A production-tested methodology and template kit for making narrative short films and episodic series entirely with AI g",
+    "id": "billpar/ai-cinematic-pipeline",
+    "language": "Python",
+    "name": "billpar/ai-cinematic-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-20T02:11:31Z",
+    "url": "https://github.com/billpar/ai-cinematic-pipeline"
+  },
+  {
+    "description": "Multi-Agent AI Control Tower for Enterprise Supply Chain Crisis Intelligence",
+    "id": "sharanlabs/supply-chain-ai-resilix",
+    "language": "TypeScript",
+    "name": "sharanlabs/supply-chain-ai-resilix",
+    "stars": 0,
+    "updated_at": "2026-06-20T02:09:43Z",
+    "url": "https://github.com/sharanlabs/supply-chain-ai-resilix"
+  },
+  {
+    "description": "FishAI \u8bed\u8a00\u6a21\u578b\u6838\u5fc3 \u2014 \u63d0\u793a\u8bcd\u5de5\u7a0b\u3001\u8bb0\u5fc6\u7cfb\u7edf\u3001\u6df1\u5ea6\u601d\u8003\u89e3\u6790\uff08\u96f6\u5916\u90e8\u4f9d\u8d56\uff09",
+    "id": "FishLab-ai/fishai-ai",
+    "language": "TypeScript",
+    "name": "FishLab-ai/fishai-ai",
+    "stars": 0,
+    "updated_at": "2026-06-20T02:09:24Z",
+    "url": "https://github.com/FishLab-ai/fishai-ai"
+  },
+  {
+    "description": "Claude-inspired Python tool that helps organize community support needs and next steps.",
+    "id": "imanimdavisb/claude-community-resource-navigator",
+    "language": "Python",
+    "name": "imanimdavisb/claude-community-resource-navigator",
+    "stars": 0,
+    "updated_at": "2026-06-20T02:09:18Z",
+    "url": "https://github.com/imanimdavisb/claude-community-resource-navigator"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 5,
+    "updated_at": "2026-06-20T02:07:59Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 49,
+    "updated_at": "2026-06-20T02:06:58Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "Shared instructions, workflows, conventions, and memory for AI agents \u2014 across teams,  projects, and functions.",
+    "id": "fahadyaqub/agents-workbench",
+    "language": "JavaScript",
+    "name": "fahadyaqub/agents-workbench",
+    "stars": 0,
+    "updated_at": "2026-06-20T02:03:40Z",
+    "url": "https://github.com/fahadyaqub/agents-workbench"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 21,
+    "updated_at": "2026-06-20T02:01:34Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Turn Chinese articles into consistent Japanese hand-drawn editorial illustrations with a reusable Codex skill.",
+    "id": "2023Anita/japanese-handdrawn-illustrations",
+    "language": "\u2014",
+    "name": "2023Anita/japanese-handdrawn-illustrations",
+    "stars": 0,
+    "updated_at": "2026-06-20T02:01:10Z",
+    "url": "https://github.com/2023Anita/japanese-handdrawn-illustrations"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T02:00:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A library and semi-framework for autonomous Agent prompting that supports Go, Rust, Python, and Typescript.",
     "id": "justinlietz93/Perfect_Prompts",
     "language": "Python",
@@ -27,15 +144,6 @@
     "url": "https://github.com/ezBuilder/code-brain"
   },
   {
-    "description": "A production-tested methodology and template kit for making narrative short films and episodic series entirely with AI g",
-    "id": "billpar/ai-cinematic-pipeline",
-    "language": "Python",
-    "name": "billpar/ai-cinematic-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:58:20Z",
-    "url": "https://github.com/billpar/ai-cinematic-pipeline"
-  },
-  {
     "description": "ResearchLoop V4\uff1a\u53cc Loop \u591a\u667a\u80fd\u4f53\u79d1\u7814/\u5de5\u7a0b\u534f\u4f5c\u5de5\u4f5c\u6d41\uff0c\u628a\u6a21\u7cca\u76ee\u6807\u51bb\u7ed3\u6210 Spec\uff0c\u5e76\u7528 Test Oracle\u3001Worktree Check \u4e0e\u4e09\u9053\u4eba\u7c7b\u95e8\u5b9e\u73b0\u53ef\u5ba1\u8ba1\u4ea4\u4ed8\u3002",
     "id": "124-creator/ResearchLoop",
     "language": "HTML",
@@ -61,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:54:56Z",
     "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "Turn Chinese articles into consistent Japanese hand-drawn editorial illustrations with a reusable Codex skill.",
-    "id": "2023Anita/japanese-handdrawn-illustrations",
-    "language": "\u2014",
-    "name": "2023Anita/japanese-handdrawn-illustrations",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:53:51Z",
-    "url": "https://github.com/2023Anita/japanese-handdrawn-illustrations"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -162,15 +261,6 @@
     "url": "https://github.com/roronoazoroshao369/vibe-coding-os"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T01:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
     "id": "product-on-purpose/writing-style-catalog",
     "language": "Python",
@@ -178,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:49:02Z",
     "url": "https://github.com/product-on-purpose/writing-style-catalog"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 5,
-    "updated_at": "2026-06-20T01:38:18Z",
-    "url": "https://github.com/danlex/suno-lab"
   },
   {
     "description": "Vellum \u2014 LLM platform for evaluation, deployment, monitoring",
@@ -203,7 +284,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1359,
-    "updated_at": "2026-06-20T01:35:40Z",
+    "updated_at": "2026-06-20T02:02:22Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -302,24 +383,15 @@
     "language": "Shell",
     "name": "DYAI2025/Plumbline",
     "stars": 6,
-    "updated_at": "2026-06-20T01:19:51Z",
+    "updated_at": "2026-06-20T02:05:46Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:17:06Z",
-    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10199,
+    "stars": 10200,
     "updated_at": "2026-06-20T01:15:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -328,7 +400,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 38810,
+    "stars": 38836,
     "updated_at": "2026-06-20T01:14:44Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -360,15 +432,6 @@
     "url": "https://github.com/Ronnie2025/ai-agent-workbench-starter-pack"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:07:13Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Catalog and free tools for Claudette Agent digital products: handoff, eval, and agent-commerce kits.",
     "id": "claudette-agent/claudette-agent.github.io",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 22389,
     "updated_at": "2026-06-20T00:58:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Serena is to find the reliable source (tech news, job news + interview questions, \u0111aily leetcode problems) from many web",
-    "id": "realBoBao/Serena_The-Accountant",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_The-Accountant",
-    "stars": 0,
-    "updated_at": "2026-06-20T00:53:01Z",
-    "url": "https://github.com/realBoBao/Serena_The-Accountant"
-  },
-  {
-    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI i",
-    "id": "kadevin/ilab-gpt-conjure",
-    "language": "Python",
-    "name": "kadevin/ilab-gpt-conjure",
-    "stars": 536,
-    "updated_at": "2026-06-20T00:50:34Z",
-    "url": "https://github.com/kadevin/ilab-gpt-conjure"
-  },
-  {
-    "description": "Spec-driven AI coding automation CLI. AI Loops runner for Claude Code, OpenCode, Cursor, and other agent CLIs.",
-    "id": "iyaki/specralph",
-    "language": "Go",
-    "name": "iyaki/specralph",
-    "stars": 3,
-    "updated_at": "2026-06-20T00:42:37Z",
-    "url": "https://github.com/iyaki/specralph"
-  },
-  {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 12,
-    "updated_at": "2026-06-20T00:36:39Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
-    "id": "MartiniArt/awesome-seedance-2-prompt",
-    "language": "Shell",
-    "name": "MartiniArt/awesome-seedance-2-prompt",
-    "stars": 0,
-    "updated_at": "2026-06-20T00:34:44Z",
-    "url": "https://github.com/MartiniArt/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12557,
-    "updated_at": "2026-06-20T00:27:28Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thi",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "JavaScript",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 43591,
-    "updated_at": "2026-06-20T00:26:41Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
   }
 ]
