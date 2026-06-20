@@ -1,12 +1,48 @@
 [
   {
+    "description": "ResearchLoop V4\uff1a\u53cc Loop \u591a\u667a\u80fd\u4f53\u79d1\u7814/\u5de5\u7a0b\u534f\u4f5c\u5de5\u4f5c\u6d41\uff0c\u628a\u6a21\u7cca\u76ee\u6807\u51bb\u7ed3\u6210 Spec\uff0c\u5e76\u7528 Test Oracle\u3001Worktree Check \u4e0e\u4e09\u9053\u4eba\u7c7b\u95e8\u5b9e\u73b0\u53ef\u5ba1\u8ba1\u4ea4\u4ed8\u3002",
+    "id": "124-creator/ResearchLoop",
+    "language": "HTML",
+    "name": "124-creator/ResearchLoop",
+    "stars": 2,
+    "updated_at": "2026-06-20T06:45:02Z",
+    "url": "https://github.com/124-creator/ResearchLoop"
+  },
+  {
+    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
+    "id": "LouisLau-art/multi-agent-skills-catalog",
+    "language": "Python",
+    "name": "LouisLau-art/multi-agent-skills-catalog",
+    "stars": 2,
+    "updated_at": "2026-06-20T06:44:57Z",
+    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
+  },
+  {
     "description": "A curated, credited library of loops \u2014 repeatable AI-agent workflows for Claude Code, Cursor & Codex. Refactor until cle",
     "id": "keysersoose/loop-library",
     "language": "\u2014",
     "name": "keysersoose/loop-library",
     "stars": 0,
-    "updated_at": "2026-06-20T06:29:59Z",
+    "updated_at": "2026-06-20T06:44:06Z",
     "url": "https://github.com/keysersoose/loop-library"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:42:38Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
+    "id": "pranavkafle/serpapi-mcp-catalog",
+    "language": "Python",
+    "name": "pranavkafle/serpapi-mcp-catalog",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:42:11Z",
+    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
   },
   {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 21,
-    "updated_at": "2026-06-20T06:29:37Z",
+    "updated_at": "2026-06-20T06:40:48Z",
     "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 54,
+    "updated_at": "2026-06-20T06:40:23Z",
+    "url": "https://github.com/terrylica/cc-skills"
   },
   {
     "description": "Serena is to find the reliable source (tech news, job news + interview questions, \u0111aily leetcode problems) from many web",
@@ -23,8 +68,62 @@
     "language": "JavaScript",
     "name": "realBoBao/Serena_The-Accountant",
     "stars": 0,
-    "updated_at": "2026-06-20T06:27:32Z",
+    "updated_at": "2026-06-20T06:36:57Z",
     "url": "https://github.com/realBoBao/Serena_The-Accountant"
+  },
+  {
+    "description": "Unified design spec for an LLM agent platform \u2014 architecture decisions, module boundaries, API contracts, and coding sta",
+    "id": "ArtLjn/farm-manager-design-spec",
+    "language": "\u2014",
+    "name": "ArtLjn/farm-manager-design-spec",
+    "stars": 1,
+    "updated_at": "2026-06-20T06:36:33Z",
+    "url": "https://github.com/ArtLjn/farm-manager-design-spec"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 5,
+    "updated_at": "2026-06-20T06:34:43Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": " A self-hosted Claude agent that actually remembers \u2014 verbatim memory palace at zero retrieval cost, Discord + web UI, a",
+    "id": "avasol/galadriel-public",
+    "language": "Python",
+    "name": "avasol/galadriel-public",
+    "stars": 47,
+    "updated_at": "2026-06-20T06:34:03Z",
+    "url": "https://github.com/avasol/galadriel-public"
+  },
+  {
+    "description": "Structural prompt analysis + output testing + rewriting. Model-agnostic via LiteLLM. FastAPI service.",
+    "id": "b0ir/prompt-evaluator",
+    "language": "Python",
+    "name": "b0ir/prompt-evaluator",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:32:10Z",
+    "url": "https://github.com/b0ir/prompt-evaluator"
+  },
+  {
+    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
+    "id": "AditthyaSS/iloveAgents",
+    "language": "JavaScript",
+    "name": "AditthyaSS/iloveAgents",
+    "stars": 95,
+    "updated_at": "2026-06-20T06:31:11Z",
+    "url": "https://github.com/AditthyaSS/iloveAgents"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T06:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
@@ -43,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T06:23:58Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Structural prompt analysis + output testing + rewriting. Model-agnostic via LiteLLM. FastAPI service.",
-    "id": "b0ir/prompt-evaluator",
-    "language": "Python",
-    "name": "b0ir/prompt-evaluator",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:27:28Z",
-    "url": "https://github.com/b0ir/prompt-evaluator"
   },
   {
     "description": "AI dotfiles",
@@ -79,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-06-20T06:20:23Z",
     "url": "https://github.com/ncmonx/icemage"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T06:15:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83e\uddd9 Democratizing best practices across 27 domains. Your AI knows everything \u2014 Grimoire makes it practice it.",
@@ -166,7 +247,7 @@
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 373,
+    "stars": 376,
     "updated_at": "2026-06-20T06:07:23Z",
     "url": "https://github.com/dongshuyan/compass-skills"
   },
@@ -178,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T06:05:51Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 5,
-    "updated_at": "2026-06-20T06:03:25Z",
-    "url": "https://github.com/danlex/suno-lab"
   },
   {
     "description": "Swarming your messy diffs before they reach production.",
@@ -250,15 +322,6 @@
     "stars": 10204,
     "updated_at": "2026-06-20T05:49:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "ResearchLoop V4\uff1a\u53cc Loop \u591a\u667a\u80fd\u4f53\u79d1\u7814/\u5de5\u7a0b\u534f\u4f5c\u5de5\u4f5c\u6d41\uff0c\u628a\u6a21\u7cca\u76ee\u6807\u51bb\u7ed3\u6210 Spec\uff0c\u5e76\u7528 Test Oracle\u3001Worktree Check \u4e0e\u4e09\u9053\u4eba\u7c7b\u95e8\u5b9e\u73b0\u53ef\u5ba1\u8ba1\u4ea4\u4ed8\u3002",
-    "id": "124-creator/ResearchLoop",
-    "language": "HTML",
-    "name": "124-creator/ResearchLoop",
-    "stars": 2,
-    "updated_at": "2026-06-20T05:44:27Z",
-    "url": "https://github.com/124-creator/ResearchLoop"
   },
   {
     "description": "A Codex skill for honest second-pass review and pressure testing.",
@@ -346,7 +409,7 @@
     "id": "alirezarezvani/claude-skills",
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
-    "stars": 18572,
+    "stars": 18571,
     "updated_at": "2026-06-20T05:17:58Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T05:14:57Z",
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 1,
-    "updated_at": "2026-06-20T05:14:55Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:14:53Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Installable library of AI coding agents, skills, commands, guides & tools \u2014 the copy-paste mirror of agentscamp.com",
-    "id": "imtiazrayhan/agentscamp-library",
-    "language": "\u2014",
-    "name": "imtiazrayhan/agentscamp-library",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:14:46Z",
-    "url": "https://github.com/imtiazrayhan/agentscamp-library"
-  },
-  {
-    "description": "Claude-inspired Python tool that helps organize community support needs and next steps.",
-    "id": "imanimdavisb/claude-community-resource-navigator",
-    "language": "Python",
-    "name": "imanimdavisb/claude-community-resource-navigator",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:13:53Z",
-    "url": "https://github.com/imanimdavisb/claude-community-resource-navigator"
-  },
-  {
-    "description": "Catalog and free tools for Claudette Agent digital products: handoff, eval, and agent-commerce kits.",
-    "id": "claudette-agent/claudette-agent.github.io",
-    "language": "HTML",
-    "name": "claudette-agent/claudette-agent.github.io",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:12:30Z",
-    "url": "https://github.com/claudette-agent/claudette-agent.github.io"
-  },
-  {
-    "description": "Budget-aware context compression for RAG and LLM agents \u2014 BM25 relevance + MMR diversity, deterministic, zero runtime de",
-    "id": "Hritikd/winnow",
-    "language": "Python",
-    "name": "Hritikd/winnow",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:12:00Z",
-    "url": "https://github.com/Hritikd/winnow"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:10:57Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   }
 ]
