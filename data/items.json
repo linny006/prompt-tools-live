@@ -1,5 +1,104 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-20T04:15:16Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-20T04:11:40Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
+    "id": "ZeroLu/awesome-gpt-image",
+    "language": "Python",
+    "name": "ZeroLu/awesome-gpt-image",
+    "stars": 1728,
+    "updated_at": "2026-06-20T04:10:26Z",
+    "url": "https://github.com/ZeroLu/awesome-gpt-image"
+  },
+  {
+    "description": "Swarming your messy diffs before they reach production.",
+    "id": "bladeacer/lccst",
+    "language": "Python",
+    "name": "bladeacer/lccst",
+    "stars": 1,
+    "updated_at": "2026-06-20T04:10:11Z",
+    "url": "https://github.com/bladeacer/lccst"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 5,
+    "updated_at": "2026-06-20T04:09:38Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-06-20T04:05:07Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "1282 production-ready AI agent skills with self-evolving meta-skills \u2014 783 cybersecurity, SEO, trading, marketing, autom",
+    "id": "oyi77/1ai-skills",
+    "language": "JavaScript",
+    "name": "oyi77/1ai-skills",
+    "stars": 2,
+    "updated_at": "2026-06-20T04:04:54Z",
+    "url": "https://github.com/oyi77/1ai-skills"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-06-20T04:03:36Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Prompt optimizer and text rephraser for ChatGPT and Gemini \u2014 powered by Gemini, OpenAI, or Claude. Local-first, no backe",
+    "id": "piyushdoorwar/ask-better",
+    "language": "JavaScript",
+    "name": "piyushdoorwar/ask-better",
+    "stars": 0,
+    "updated_at": "2026-06-20T04:01:27Z",
+    "url": "https://github.com/piyushdoorwar/ask-better"
+  },
+  {
+    "description": "Prompt diagnosis judgment \u2014 identify why a prompt failed (task mixing, goal ambiguity, context gap), not just suggest fo",
+    "id": "aikdna/kdna-prompt_diagnosis",
+    "language": "\u2014",
+    "name": "aikdna/kdna-prompt_diagnosis",
+    "stars": 0,
+    "updated_at": "2026-06-20T04:01:08Z",
+    "url": "https://github.com/aikdna/kdna-prompt_diagnosis"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T04:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
@@ -9,24 +108,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
   {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-06-20T03:58:37Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Swarming your messy diffs before they reach production.",
-    "id": "bladeacer/lccst",
-    "language": "Python",
-    "name": "bladeacer/lccst",
-    "stars": 1,
-    "updated_at": "2026-06-20T03:56:47Z",
-    "url": "https://github.com/bladeacer/lccst"
-  },
-  {
     "description": "\ud83d\udcac 1,300+ AI personas for LLMs and agents.",
     "id": "KudoAI/ai-personas",
     "language": "Python",
@@ -34,15 +115,6 @@
     "stars": 26,
     "updated_at": "2026-06-20T03:56:19Z",
     "url": "https://github.com/KudoAI/ai-personas"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-20T03:55:38Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -72,24 +144,6 @@
     "url": "https://github.com/cameronpsutcliff/compound-ai-operating-standards"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T03:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 5,
-    "updated_at": "2026-06-20T03:41:49Z",
-    "url": "https://github.com/danlex/suno-lab"
-  },
-  {
     "description": "247 agent skills (Cursor, Claude & Codex), 5.400+ OpenClaw skills, 123 ML notebooks, 46 research papers, 14 industry rep",
     "id": "adriannoes/awesome-vibe-coding",
     "language": "Jupyter Notebook",
@@ -106,6 +160,15 @@
     "stars": 2,
     "updated_at": "2026-06-20T03:38:49Z",
     "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29395,
+    "updated_at": "2026-06-20T03:37:35Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Bilingual AI coding tutorials for Claude Code and OpenAI Codex: setup, CLI, Codex workflows, MCP, agents, code review, p",
@@ -211,7 +274,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32943,
+    "stars": 32944,
     "updated_at": "2026-06-20T03:12:16Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -338,7 +401,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 762,
-    "updated_at": "2026-06-20T03:53:22Z",
+    "updated_at": "2026-06-20T04:06:45Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -382,71 +445,8 @@
     "id": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
     "language": "Python",
     "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "stars": 16821,
+    "stars": 16822,
     "updated_at": "2026-06-20T02:24:18Z",
     "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
-  },
-  {
-    "description": "A portable memory protocol for AI agents \u2014 load it as standing rules; a curation discipline + reference spec + optional ",
-    "id": "tinqiao-oss/engramory",
-    "language": "Python",
-    "name": "tinqiao-oss/engramory",
-    "stars": 14,
-    "updated_at": "2026-06-20T02:16:28Z",
-    "url": "https://github.com/tinqiao-oss/engramory"
-  },
-  {
-    "description": "The last Claude system prompt you'll ever need. Modular, adjustable, copy-paste ready.",
-    "id": "rianhol/ultimate-claude-prompt",
-    "language": "\u2014",
-    "name": "rianhol/ultimate-claude-prompt",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:13:41Z",
-    "url": "https://github.com/rianhol/ultimate-claude-prompt"
-  },
-  {
-    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
-    "id": "YouMind-OpenLab/awesome-gpt-image-2",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 7640,
-    "updated_at": "2026-06-20T02:13:12Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
-  },
-  {
-    "description": "A production-tested methodology and template kit for making narrative short films and episodic series entirely with AI g",
-    "id": "billpar/ai-cinematic-pipeline",
-    "language": "Python",
-    "name": "billpar/ai-cinematic-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:11:31Z",
-    "url": "https://github.com/billpar/ai-cinematic-pipeline"
-  },
-  {
-    "description": "Claude-inspired Python tool that helps organize community support needs and next steps.",
-    "id": "imanimdavisb/claude-community-resource-navigator",
-    "language": "Python",
-    "name": "imanimdavisb/claude-community-resource-navigator",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:09:18Z",
-    "url": "https://github.com/imanimdavisb/claude-community-resource-navigator"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 49,
-    "updated_at": "2026-06-20T02:06:58Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "Shared instructions, workflows, conventions, and memory for AI agents \u2014 across teams,  projects, and functions.",
-    "id": "fahadyaqub/agents-workbench",
-    "language": "JavaScript",
-    "name": "fahadyaqub/agents-workbench",
-    "stars": 0,
-    "updated_at": "2026-06-20T02:03:40Z",
-    "url": "https://github.com/fahadyaqub/agents-workbench"
   }
 ]
