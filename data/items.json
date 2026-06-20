@@ -1,12 +1,129 @@
 [
   {
+    "description": "Multi-agent AI system that analyzes requirements, creates project plans, generates code, and builds software project str",
+    "id": "dev-karthikeyan/autonomous-software-engineer",
+    "language": "Python",
+    "name": "dev-karthikeyan/autonomous-software-engineer",
+    "stars": 4,
+    "updated_at": "2026-06-20T18:43:40Z",
+    "url": "https://github.com/dev-karthikeyan/autonomous-software-engineer"
+  },
+  {
+    "description": "A production-tested methodology and template kit for making narrative short films and episodic series entirely with AI g",
+    "id": "billpar/ai-cinematic-pipeline",
+    "language": "Python",
+    "name": "billpar/ai-cinematic-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:43:13Z",
+    "url": "https://github.com/billpar/ai-cinematic-pipeline"
+  },
+  {
     "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
     "id": "derob98/ailmanac",
     "language": "TypeScript",
     "name": "derob98/ailmanac",
     "stars": 0,
-    "updated_at": "2026-06-20T18:30:17Z",
+    "updated_at": "2026-06-20T18:41:44Z",
     "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "TypeScript",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 2,
+    "updated_at": "2026-06-20T18:40:52Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "A dependency-free harness for keeping an LLM-as-judge honest: gate tests on documented mis-scores, a human-in-the-loop g",
+    "id": "ozlar34/llm-judge-evals",
+    "language": "Python",
+    "name": "ozlar34/llm-judge-evals",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:40:21Z",
+    "url": "https://github.com/ozlar34/llm-judge-evals"
+  },
+  {
+    "description": "Manage hundreds of Claude Code skills without losing track. Auto-categorize, route by task, track usage, evolve with les",
+    "id": "Evgeniy-Mikhailove/skill-lifecycle",
+    "language": "Python",
+    "name": "Evgeniy-Mikhailove/skill-lifecycle",
+    "stars": 1,
+    "updated_at": "2026-06-20T18:40:14Z",
+    "url": "https://github.com/Evgeniy-Mikhailove/skill-lifecycle"
+  },
+  {
+    "description": "Open, MIT context format for AI coding agents: centralized .aigx/ rules + a per-file boundary index that targets the rig",
+    "id": "Lolner95/AIGX",
+    "language": "JavaScript",
+    "name": "Lolner95/AIGX",
+    "stars": 24,
+    "updated_at": "2026-06-20T18:39:46Z",
+    "url": "https://github.com/Lolner95/AIGX"
+  },
+  {
+    "description": "",
+    "id": "atharva557/Prompt-Chaining",
+    "language": "Python",
+    "name": "atharva557/Prompt-Chaining",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:39:32Z",
+    "url": "https://github.com/atharva557/Prompt-Chaining"
+  },
+  {
+    "description": "A hands-on Generative AI learning environment featuring practical experiments and projects for building AI-powered appli",
+    "id": "soumadip-dev/GenAI-Playground",
+    "language": "TypeScript",
+    "name": "soumadip-dev/GenAI-Playground",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:35:58Z",
+    "url": "https://github.com/soumadip-dev/GenAI-Playground"
+  },
+  {
+    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
+    "id": "product-on-purpose/writing-style-catalog",
+    "language": "Python",
+    "name": "product-on-purpose/writing-style-catalog",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:44:16Z",
+    "url": "https://github.com/product-on-purpose/writing-style-catalog"
+  },
+  {
+    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
+    "id": "rizvee/multimodel-dev-os",
+    "language": "JavaScript",
+    "name": "rizvee/multimodel-dev-os",
+    "stars": 2,
+    "updated_at": "2026-06-20T18:32:58Z",
+    "url": "https://github.com/rizvee/multimodel-dev-os"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 295,
+    "updated_at": "2026-06-20T18:31:48Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "\ud83c\udf0a Blue Spec is a toolkit for Security-Driven Hardening (SDH), a defensive workflow to help AI agents detect what a syste",
+    "id": "wellwelwel/blue-spec",
+    "language": "TypeScript",
+    "name": "wellwelwel/blue-spec",
+    "stars": 55,
+    "updated_at": "2026-06-20T18:30:56Z",
+    "url": "https://github.com/wellwelwel/blue-spec"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T18:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Agent-driven system for crafting defensible, tailored CVs & cover letters \u2014 Claude Code skills with traceable fact pools",
@@ -16,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T18:30:12Z",
     "url": "https://github.com/ozlar34/job-application-engine"
-  },
-  {
-    "description": "A production-tested methodology and template kit for making narrative short films and episodic series entirely with AI g",
-    "id": "billpar/ai-cinematic-pipeline",
-    "language": "Python",
-    "name": "billpar/ai-cinematic-pipeline",
-    "stars": 0,
-    "updated_at": "2026-06-20T18:29:41Z",
-    "url": "https://github.com/billpar/ai-cinematic-pipeline"
   },
   {
     "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
@@ -63,15 +171,6 @@
     "url": "https://github.com/DaveHomeAssist/prompt-lab"
   },
   {
-    "description": "A dependency-free harness for keeping an LLM-as-judge honest: gate tests on documented mis-scores, a human-in-the-loop g",
-    "id": "ozlar34/llm-judge-evals",
-    "language": "Python",
-    "name": "ozlar34/llm-judge-evals",
-    "stars": 0,
-    "updated_at": "2026-06-20T18:25:46Z",
-    "url": "https://github.com/ozlar34/llm-judge-evals"
-  },
-  {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
     "id": "Paulessus/odin-gemini-mcp-bridge",
     "language": "HTML",
@@ -81,11 +180,11 @@
     "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
   },
   {
-    "description": "artificial-intelligence  computer-vision  vision-language-models  multimodal  llm groq  ollama  qwen  gpt-4o  gemini  pr",
+    "description": "Vision-language AI that reviews damage-claim evidence (images + text + history) into a structured verdict \u2014 provider-agn",
     "id": "Paaarthiv/multimodal-evidence-review",
     "language": "Python",
     "name": "Paaarthiv/multimodal-evidence-review",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-20T18:21:53Z",
     "url": "https://github.com/Paaarthiv/multimodal-evidence-review"
   },
@@ -133,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T18:17:01Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T18:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Semitexa Platform UI \u2014 LLM-friendly CSS grammar, design tokens, primitive components, and AI-assisted skin generation (S",
@@ -261,15 +351,6 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 295,
-    "updated_at": "2026-06-20T18:07:45Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -306,15 +387,6 @@
     "url": "https://github.com/JayLBean/supervised-prompt-producer"
   },
   {
-    "description": "Open, MIT context format for AI coding agents: centralized .aigx/ rules + a per-file boundary index that targets the rig",
-    "id": "Lolner95/AIGX",
-    "language": "JavaScript",
-    "name": "Lolner95/AIGX",
-    "stars": 24,
-    "updated_at": "2026-06-20T18:04:58Z",
-    "url": "https://github.com/Lolner95/AIGX"
-  },
-  {
     "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
     "id": "rmdhananjay/contextual-memory-map",
     "language": "HTML",
@@ -331,6 +403,15 @@
     "stars": 0,
     "updated_at": "2026-06-20T18:01:58Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22403,
+    "updated_at": "2026-06-20T18:01:55Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Every other tool executes. This one decides what to execute. Chief of Staff skill for Claude Code.",
@@ -351,15 +432,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Manage hundreds of Claude Code skills without losing track. Auto-categorize, route by task, track usage, evolve with les",
-    "id": "Evgeniy-Mikhailove/skill-lifecycle",
-    "language": "Python",
-    "name": "Evgeniy-Mikhailove/skill-lifecycle",
-    "stars": 1,
-    "updated_at": "2026-06-20T18:00:35Z",
-    "url": "https://github.com/Evgeniy-Mikhailove/skill-lifecycle"
-  },
-  {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
     "id": "dimitardamjan7-a11y/spec-flow-framework",
     "language": "HTML",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T17:58:29Z",
     "url": "https://github.com/nightrunner91/jan"
-  },
-  {
-    "description": "A curated, credited library of loops \u2014 repeatable AI-agent workflows for Claude Code, Cursor & Codex. Refactor until cle",
-    "id": "keysersoose/loop-library",
-    "language": "HTML",
-    "name": "keysersoose/loop-library",
-    "stars": 2,
-    "updated_at": "2026-06-20T17:57:07Z",
-    "url": "https://github.com/keysersoose/loop-library"
-  },
-  {
-    "description": "Claude Skills that hold AI-generated and AI-reviewed code to a rigorous, production-grade engineering bar \u2014 automaticall",
-    "id": "Ewanjohndennis/engg-standard-skills",
-    "language": "\u2014",
-    "name": "Ewanjohndennis/engg-standard-skills",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:55:04Z",
-    "url": "https://github.com/Ewanjohndennis/engg-standard-skills"
-  },
-  {
-    "description": "Agent Skills.",
-    "id": "jae-labs/skills",
-    "language": "Python",
-    "name": "jae-labs/skills",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:54:14Z",
-    "url": "https://github.com/jae-labs/skills"
-  },
-  {
-    "description": "The complete reference and hands-on course on loop engineering \u2014 designing systems that prompt AI coding agents. 11 modu",
-    "id": "mdayan8/everything-about-loop-engineering",
-    "language": "\u2014",
-    "name": "mdayan8/everything-about-loop-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:52:01Z",
-    "url": "https://github.com/mdayan8/everything-about-loop-engineering"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1397,
-    "updated_at": "2026-06-20T17:45:52Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Portable three-file framework for building reviewable, privacy-safe AI agent workflows.",
-    "id": "dmed05/ai-workflow-builder",
-    "language": "HTML",
-    "name": "dmed05/ai-workflow-builder",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:46:31Z",
-    "url": "https://github.com/dmed05/ai-workflow-builder"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:44:25Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 2946,
-    "updated_at": "2026-06-20T18:22:10Z",
-    "url": "https://github.com/microsoft/apm"
   }
 ]
