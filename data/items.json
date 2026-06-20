@@ -1,5 +1,95 @@
 [
   {
+    "description": "A curated, credited library of loops \u2014 repeatable AI-agent workflows for Claude Code, Cursor & Codex. Refactor until cle",
+    "id": "keysersoose/loop-library",
+    "language": "\u2014",
+    "name": "keysersoose/loop-library",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:29:59Z",
+    "url": "https://github.com/keysersoose/loop-library"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 21,
+    "updated_at": "2026-06-20T06:29:37Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Serena is to find the reliable source (tech news, job news + interview questions, \u0111aily leetcode problems) from many web",
+    "id": "realBoBao/Serena_The-Accountant",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_The-Accountant",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:27:32Z",
+    "url": "https://github.com/realBoBao/Serena_The-Accountant"
+  },
+  {
+    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
+    "id": "Paulessus/odin-gemini-mcp-bridge",
+    "language": "HTML",
+    "name": "Paulessus/odin-gemini-mcp-bridge",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:25:12Z",
+    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:23:58Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Structural prompt analysis + output testing + rewriting. Model-agnostic via LiteLLM. FastAPI service.",
+    "id": "b0ir/prompt-evaluator",
+    "language": "Python",
+    "name": "b0ir/prompt-evaluator",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:27:28Z",
+    "url": "https://github.com/b0ir/prompt-evaluator"
+  },
+  {
+    "description": "AI dotfiles",
+    "id": "manusa/ai",
+    "language": "Shell",
+    "name": "manusa/ai",
+    "stars": 1,
+    "updated_at": "2026-06-20T06:22:59Z",
+    "url": "https://github.com/manusa/ai"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:21:35Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Token-efficient context engine for AI coding agents. v2.7: faster file-finding (icmg find --name fuzzy locator + --open/",
+    "id": "ncmonx/icemage",
+    "language": "C++",
+    "name": "ncmonx/icemage",
+    "stars": 3,
+    "updated_at": "2026-06-20T06:20:23Z",
+    "url": "https://github.com/ncmonx/icemage"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T06:15:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83e\uddd9 Democratizing best practices across 27 domains. Your AI knows everything \u2014 Grimoire makes it practice it.",
     "id": "jeffreytse/grimoire-skills",
     "language": "Shell",
@@ -13,7 +103,7 @@
     "id": "freestylefly/awesome-gpt-image-2",
     "language": "JavaScript",
     "name": "freestylefly/awesome-gpt-image-2",
-    "stars": 7725,
+    "stars": 7727,
     "updated_at": "2026-06-20T06:13:35Z",
     "url": "https://github.com/freestylefly/awesome-gpt-image-2"
   },
@@ -76,7 +166,7 @@
     "id": "dongshuyan/compass-skills",
     "language": "Python",
     "name": "dongshuyan/compass-skills",
-    "stars": 370,
+    "stars": 373,
     "updated_at": "2026-06-20T06:07:23Z",
     "url": "https://github.com/dongshuyan/compass-skills"
   },
@@ -115,24 +205,6 @@
     "stars": 15,
     "updated_at": "2026-06-20T06:03:43Z",
     "url": "https://github.com/ngocsangyem/MeowKit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T06:01:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 21,
-    "updated_at": "2026-06-20T06:01:09Z",
-    "url": "https://github.com/KbWen/agentic-os"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -234,15 +306,6 @@
     "url": "https://github.com/saagpatel/prompt-englab"
   },
   {
-    "description": "Token-efficient context engine for AI coding agents. v2.7: faster file-finding (icmg find --name fuzzy locator + --open/",
-    "id": "ncmonx/icemage",
-    "language": "C++",
-    "name": "ncmonx/icemage",
-    "stars": 3,
-    "updated_at": "2026-06-20T05:33:08Z",
-    "url": "https://github.com/ncmonx/icemage"
-  },
-  {
     "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
     "id": "jeb-maker/lagent-quotidien",
     "language": "HTML",
@@ -279,29 +342,11 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "Serena is to find the reliable source (tech news, job news + interview questions, \u0111aily leetcode problems) from many web",
-    "id": "realBoBao/Serena_The-Accountant",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_The-Accountant",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:21:18Z",
-    "url": "https://github.com/realBoBao/Serena_The-Accountant"
-  },
-  {
-    "description": "AI dotfiles",
-    "id": "manusa/ai",
-    "language": "Shell",
-    "name": "manusa/ai",
-    "stars": 1,
-    "updated_at": "2026-06-20T06:15:18Z",
-    "url": "https://github.com/manusa/ai"
-  },
-  {
     "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
     "id": "alirezarezvani/claude-skills",
     "language": "Python",
     "name": "alirezarezvani/claude-skills",
-    "stars": 18571,
+    "stars": 18572,
     "updated_at": "2026-06-20T05:17:58Z",
     "url": "https://github.com/alirezarezvani/claude-skills"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T05:10:57Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:09:51Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "A/B test CLAUDE.md prompt styles against your codebase \u2014 measure which instruction set produces better Claude Code outpu",
-    "id": "NickCirv/claude-prompt-lab",
-    "language": "JavaScript",
-    "name": "NickCirv/claude-prompt-lab",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:09:25Z",
-    "url": "https://github.com/NickCirv/claude-prompt-lab"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 2,
-    "updated_at": "2026-06-20T05:08:23Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-06-20T05:07:45Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:07:24Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   }
 ]
