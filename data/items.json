@@ -1,5 +1,104 @@
 [
   {
+    "description": "ResearchLoop V4\uff1a\u53cc Loop \u591a\u667a\u80fd\u4f53\u79d1\u7814/\u5de5\u7a0b\u534f\u4f5c\u5de5\u4f5c\u6d41\uff0c\u628a\u6a21\u7cca\u76ee\u6807\u51bb\u7ed3\u6210 Spec\uff0c\u5e76\u7528 Test Oracle\u3001Worktree Check \u4e0e\u4e09\u9053\u4eba\u7c7b\u95e8\u5b9e\u73b0\u53ef\u5ba1\u8ba1\u4ea4\u4ed8\u3002",
+    "id": "124-creator/ResearchLoop",
+    "language": "HTML",
+    "name": "124-creator/ResearchLoop",
+    "stars": 2,
+    "updated_at": "2026-06-20T05:44:27Z",
+    "url": "https://github.com/124-creator/ResearchLoop"
+  },
+  {
+    "description": "A Codex skill for honest second-pass review and pressure testing.",
+    "id": "FlyingFSR/critical-second-pass",
+    "language": "\u2014",
+    "name": "FlyingFSR/critical-second-pass",
+    "stars": 1,
+    "updated_at": "2026-06-20T05:40:22Z",
+    "url": "https://github.com/FlyingFSR/critical-second-pass"
+  },
+  {
+    "description": "Curated, verified Agent Skills powered by ModelStudio.",
+    "id": "modelstudioai/skills",
+    "language": "Python",
+    "name": "modelstudioai/skills",
+    "stars": 32,
+    "updated_at": "2026-06-20T05:37:26Z",
+    "url": "https://github.com/modelstudioai/skills"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 5,
+    "updated_at": "2026-06-20T05:36:10Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "\ud83c\udf19 Your codebase just hired a night shift \u2014 a full AI engineering team that plans, builds, tests, reviews, and releases t",
+    "id": "whimzyLive/nightshift-ai",
+    "language": "Shell",
+    "name": "whimzyLive/nightshift-ai",
+    "stars": 3,
+    "updated_at": "2026-06-20T05:35:49Z",
+    "url": "https://github.com/whimzyLive/nightshift-ai"
+  },
+  {
+    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
+    "id": "elon-choo/fablever",
+    "language": "HTML",
+    "name": "elon-choo/fablever",
+    "stars": 19,
+    "updated_at": "2026-06-20T05:35:43Z",
+    "url": "https://github.com/elon-choo/fablever"
+  },
+  {
+    "description": "Full-stack prompt engineering workbench \u2014 multi-provider streaming, version diffs, A/B comparison, test cases, cost trac",
+    "id": "saagpatel/prompt-englab",
+    "language": "TypeScript",
+    "name": "saagpatel/prompt-englab",
+    "stars": 0,
+    "updated_at": "2026-06-20T05:35:38Z",
+    "url": "https://github.com/saagpatel/prompt-englab"
+  },
+  {
+    "description": "Token-efficient context engine for AI coding agents. v2.6: Adaptive Output Gate -- self-improving + durable compression ",
+    "id": "ncmonx/icemage",
+    "language": "C++",
+    "name": "ncmonx/icemage",
+    "stars": 3,
+    "updated_at": "2026-06-20T05:33:08Z",
+    "url": "https://github.com/ncmonx/icemage"
+  },
+  {
+    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "id": "dongshuyan/compass-skills",
+    "language": "Python",
+    "name": "dongshuyan/compass-skills",
+    "stars": 369,
+    "updated_at": "2026-06-20T05:31:52Z",
+    "url": "https://github.com/dongshuyan/compass-skills"
+  },
+  {
+    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 0,
+    "updated_at": "2026-06-20T05:30:27Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T05:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "1282 production-ready AI agent skills with self-evolving meta-skills \u2014 783 cybersecurity, SEO, trading, marketing, autom",
     "id": "oyi77/1ai-skills",
     "language": "JavaScript",
@@ -27,24 +126,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "A Codex skill for honest second-pass review and pressure testing.",
-    "id": "FlyingFSR/critical-second-pass",
-    "language": "\u2014",
-    "name": "FlyingFSR/critical-second-pass",
-    "stars": 1,
-    "updated_at": "2026-06-20T05:25:15Z",
-    "url": "https://github.com/FlyingFSR/critical-second-pass"
-  },
-  {
-    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
-    "id": "elon-choo/fablever",
-    "language": "HTML",
-    "name": "elon-choo/fablever",
-    "stars": 19,
-    "updated_at": "2026-06-20T05:24:49Z",
-    "url": "https://github.com/elon-choo/fablever"
-  },
-  {
     "description": "Serena is to find the reliable source (tech news, job news + interview questions, \u0111aily leetcode problems) from many web",
     "id": "realBoBao/Serena_The-Accountant",
     "language": "JavaScript",
@@ -63,6 +144,15 @@
     "url": "https://github.com/manusa/ai"
   },
   {
+    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 18570,
+    "updated_at": "2026-06-20T05:17:58Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -79,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T05:15:41Z",
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T05:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Swarming your messy diffs before they reach production.",
@@ -189,15 +270,6 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 5,
-    "updated_at": "2026-06-20T05:09:55Z",
-    "url": "https://github.com/danlex/suno-lab"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -256,7 +328,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 32952,
+    "stars": 32958,
     "updated_at": "2026-06-20T05:05:17Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -293,7 +365,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 21,
-    "updated_at": "2026-06-20T05:02:31Z",
+    "updated_at": "2026-06-20T05:36:30Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-20T04:44:16Z",
     "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-06-20T04:44:00Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
-    "id": "f/prompts.chat",
-    "language": "HTML",
-    "name": "f/prompts.chat",
-    "stars": 163962,
-    "updated_at": "2026-06-20T04:33:21Z",
-    "url": "https://github.com/f/prompts.chat"
-  },
-  {
-    "description": "Prompt Architect: reusable prompt patterns, approval-gated workflows, and verification checklists for AI-assisted develo",
-    "id": "ucsahinn/prompt-architect",
-    "language": "JavaScript",
-    "name": "ucsahinn/prompt-architect",
-    "stars": 5,
-    "updated_at": "2026-06-20T04:31:17Z",
-    "url": "https://github.com/ucsahinn/prompt-architect"
-  },
-  {
-    "description": "Production-grade Claude/Cursor skills for backend, auth, database security, billing, and file uploads \u2014 stops AI coding ",
-    "id": "alyanhaider/system-architecture",
-    "language": "JavaScript",
-    "name": "alyanhaider/system-architecture",
-    "stars": 2,
-    "updated_at": "2026-06-20T04:30:38Z",
-    "url": "https://github.com/alyanhaider/system-architecture"
-  },
-  {
-    "description": "AI-first engineering toolkit that turns coding agents (Claude Code, Codex, Cursor, Windsurf, Gemini CLI, Aider) into Sen",
-    "id": "sokpichdev/mobile-engineering-agents",
-    "language": "Swift",
-    "name": "sokpichdev/mobile-engineering-agents",
-    "stars": 0,
-    "updated_at": "2026-06-20T04:28:22Z",
-    "url": "https://github.com/sokpichdev/mobile-engineering-agents"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-06-20T04:24:34Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "\ud83d\udcac 1,300+ AI personas for LLMs and agents.",
-    "id": "KudoAI/ai-personas",
-    "language": "Python",
-    "name": "KudoAI/ai-personas",
-    "stars": 26,
-    "updated_at": "2026-06-20T04:20:09Z",
-    "url": "https://github.com/KudoAI/ai-personas"
-  },
-  {
-    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
-    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1645,
-    "updated_at": "2026-06-20T04:16:05Z",
-    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
   }
 ]
