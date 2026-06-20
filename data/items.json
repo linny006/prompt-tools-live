@@ -1,12 +1,93 @@
 [
   {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "TypeScript",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 2,
+    "updated_at": "2026-06-20T03:28:36Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "Interactive playground comparing Zero-shot, Few-shot, and Chain-of-Thought prompting head-to-head, scored by an LLM judg",
+    "id": "rishidakshbansal2004-create/PromptWizardingStudio",
+    "language": "Python",
+    "name": "rishidakshbansal2004-create/PromptWizardingStudio",
+    "stars": 0,
+    "updated_at": "2026-06-20T03:24:33Z",
+    "url": "https://github.com/rishidakshbansal2004-create/PromptWizardingStudio"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-20T03:23:57Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "\u4e00\u4e2a\u53ef\u4ee5\u5e2e\u4f60\u5feb\u901f\u53cd\u63a8\u51fa\u7f51\u9875\u4e0a\u56fe\u7247\u7684\u63d0\u793a\u8bcd\uff0c\u5e76\u5feb\u901f\u751f\u56fe\u6d4b\u8bd5\u63d0\u793a\u8bcd\u6548\u679c\u7684\u63d2\u4ef6\u3002A Chrome extension to reverse-engineer prompts from web images and instantly valida",
+    "id": "kevinchin12/ImageLens",
+    "language": "JavaScript",
+    "name": "kevinchin12/ImageLens",
+    "stars": 117,
+    "updated_at": "2026-06-20T03:21:17Z",
+    "url": "https://github.com/kevinchin12/ImageLens"
+  },
+  {
+    "description": "Statistical analysis methods for comparing prompt and model performance in LLM evaluations.",
+    "id": "ianarawjo/evalstats",
+    "language": "Python",
+    "name": "ianarawjo/evalstats",
+    "stars": 106,
+    "updated_at": "2026-06-20T03:19:25Z",
+    "url": "https://github.com/ianarawjo/evalstats"
+  },
+  {
     "description": "Vibe Coding OS \u2014 Claude/Codex/Cursor skill framework with 139 skills, 111 commands, 95 templates, 22 tracked sources, 28",
     "id": "roronoazoroshao369/vibe-coding-os",
     "language": "JavaScript",
     "name": "roronoazoroshao369/vibe-coding-os",
     "stars": 0,
-    "updated_at": "2026-06-20T03:13:42Z",
+    "updated_at": "2026-06-20T03:18:44Z",
     "url": "https://github.com/roronoazoroshao369/vibe-coding-os"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 1,
+    "updated_at": "2026-06-20T03:17:23Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 5,
+    "updated_at": "2026-06-20T03:16:41Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "Prompt engineering design for LLM",
+    "id": "xlisp/prompt-engineering-design",
+    "language": "Python",
+    "name": "xlisp/prompt-engineering-design",
+    "stars": 17,
+    "updated_at": "2026-06-20T03:16:22Z",
+    "url": "https://github.com/xlisp/prompt-engineering-design"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T03:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T03:12:14Z",
     "url": "https://github.com/3rdAI-admin/th3rdai-harness"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 19,
-    "updated_at": "2026-06-20T03:10:54Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
     "description": "Multi-Agent AI Control Tower for Enterprise Supply Chain Crisis Intelligence",
@@ -72,15 +144,6 @@
     "url": "https://github.com/0xfnzero/AI-Code-Tutorials"
   },
   {
-    "description": "Prompt engineering design for LLM",
-    "id": "xlisp/prompt-engineering-design",
-    "language": "Python",
-    "name": "xlisp/prompt-engineering-design",
-    "stars": 17,
-    "updated_at": "2026-06-20T03:05:22Z",
-    "url": "https://github.com/xlisp/prompt-engineering-design"
-  },
-  {
     "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
     "id": "T-Stephen/ai-mql-engine",
     "language": "JavaScript",
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T03:03:12Z",
     "url": "https://github.com/T-Stephen/ai-mql-engine"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T03:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T02:57:59Z",
     "url": "https://github.com/rmdhananjay/contextual-memory-map"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 5,
-    "updated_at": "2026-06-20T02:55:21Z",
-    "url": "https://github.com/danlex/suno-lab"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -148,7 +193,7 @@
     "id": "jnMetaCode/superpowers-zh",
     "language": "JavaScript",
     "name": "jnMetaCode/superpowers-zh",
-    "stars": 5624,
+    "stars": 5626,
     "updated_at": "2026-06-20T02:39:42Z",
     "url": "https://github.com/jnMetaCode/superpowers-zh"
   },
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 762,
-    "updated_at": "2026-06-20T02:35:08Z",
+    "updated_at": "2026-06-20T03:26:34Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -238,18 +283,9 @@
     "id": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
     "language": "Python",
     "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "stars": 16820,
+    "stars": 16821,
     "updated_at": "2026-06-20T02:24:18Z",
     "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-20T03:15:25Z",
-    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "A portable memory protocol for AI agents \u2014 load it as standing rules; a curation discipline + reference spec + optional ",
@@ -274,7 +310,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 7639,
+    "stars": 7640,
     "updated_at": "2026-06-20T02:13:12Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:53:48Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:53:29Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
-    "id": "zigrivers/scaffold",
-    "language": "TypeScript",
-    "name": "zigrivers/scaffold",
-    "stars": 5,
-    "updated_at": "2026-06-20T01:53:22Z",
-    "url": "https://github.com/zigrivers/scaffold"
-  },
-  {
-    "description": "AI \u7f16\u7a0b\u5de5\u5177\u5b9e\u6218\u6307\u5357 \u2014 66 \u4e2a Claude Code \u6280\u5de7 + 9 \u6b3e\u5de5\u5177\u6700\u4f73\u5b9e\u8df5 + \u53ef\u590d\u5236\u914d\u7f6e\u6a21\u677f | AI Coding Tools Guide with 66 Claude Code tips",
-    "id": "jnMetaCode/ai-coding-guide",
-    "language": "CSS",
-    "name": "jnMetaCode/ai-coding-guide",
-    "stars": 405,
-    "updated_at": "2026-06-20T01:52:58Z",
-    "url": "https://github.com/jnMetaCode/ai-coding-guide"
-  },
-  {
-    "description": "Methodology + prompts + Claude Code Skill behind Zombie Scavenger by Mx-Shell \u2014 the AI short PJ Ace called \"one of the b",
-    "id": "jnMetaCode/ai-shortfilm-prompts",
-    "language": "Python",
-    "name": "jnMetaCode/ai-shortfilm-prompts",
-    "stars": 182,
-    "updated_at": "2026-06-20T01:52:47Z",
-    "url": "https://github.com/jnMetaCode/ai-shortfilm-prompts"
   }
 ]
