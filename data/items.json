@@ -1,5 +1,131 @@
 [
   {
+    "description": "\ud83d\udc4c\ud83c\udffb Pick code into Markdown. Apply Markdown to code. Built for LLMs and quick backups.",
+    "id": "rodnye/codepicker",
+    "language": "TypeScript",
+    "name": "rodnye/codepicker",
+    "stars": 9,
+    "updated_at": "2026-06-20T20:45:18Z",
+    "url": "https://github.com/rodnye/codepicker"
+  },
+  {
+    "description": "AI agents that improve themselves. Self-evolving prompts via A/B testing, multi-model critics, and safety gates. TypeScr",
+    "id": "studiomeyer-io/darwin-agents",
+    "language": "TypeScript",
+    "name": "studiomeyer-io/darwin-agents",
+    "stars": 4,
+    "updated_at": "2026-06-20T20:45:15Z",
+    "url": "https://github.com/studiomeyer-io/darwin-agents"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:43:59Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:43:07Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:43:04Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Agent Skills.",
+    "id": "jae-labs/skills",
+    "language": "Python",
+    "name": "jae-labs/skills",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:40:00Z",
+    "url": "https://github.com/jae-labs/skills"
+  },
+  {
+    "description": "Portable OpenCode workflow toolkit \u2014 6 plugins, managed agents & skills, a spec-to-code pipeline, security, and the vvoc",
+    "id": "osovv/vv-opencode",
+    "language": "TypeScript",
+    "name": "osovv/vv-opencode",
+    "stars": 6,
+    "updated_at": "2026-06-20T20:39:46Z",
+    "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
+    "description": "Agentless prompt change intelligence + eval \u2014 watch the prompts in your codebase, detect changes, and eval them with zer",
+    "id": "GoReal-AI/echostash-oss",
+    "language": "TypeScript",
+    "name": "GoReal-AI/echostash-oss",
+    "stars": 3,
+    "updated_at": "2026-06-20T20:37:39Z",
+    "url": "https://github.com/GoReal-AI/echostash-oss"
+  },
+  {
+    "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 1,
+    "updated_at": "2026-06-20T20:37:20Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
+    "id": "product-on-purpose/writing-style-catalog",
+    "language": "Python",
+    "name": "product-on-purpose/writing-style-catalog",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:45:20Z",
+    "url": "https://github.com/product-on-purpose/writing-style-catalog"
+  },
+  {
+    "description": "Reusable Codex skills, starting with budget-aware routing for cheaper bounded agents.",
+    "id": "coryparrry/codex-skills",
+    "language": "Python",
+    "name": "coryparrry/codex-skills",
+    "stars": 1,
+    "updated_at": "2026-06-20T20:35:26Z",
+    "url": "https://github.com/coryparrry/codex-skills"
+  },
+  {
+    "description": "    Resk is a robust Python library designed to enhance security and manage context when interacting with LLMs. It provi",
+    "id": "Resk-Security/Resk-LLM",
+    "language": "Python",
+    "name": "Resk-Security/Resk-LLM",
+    "stars": 20,
+    "updated_at": "2026-06-20T20:30:38Z",
+    "url": "https://github.com/Resk-Security/Resk-LLM"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-20T20:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 54,
+    "updated_at": "2026-06-20T20:30:25Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
     "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
     "id": "adrianwedd/cv",
     "language": "JavaScript",
@@ -54,15 +180,6 @@
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
-    "description": "    Resk is a robust Python library designed to enhance security and manage context when interacting with LLMs. It provi",
-    "id": "Resk-Security/Resk-LLM",
-    "language": "Python",
-    "name": "Resk-Security/Resk-LLM",
-    "stars": 20,
-    "updated_at": "2026-06-20T20:22:14Z",
-    "url": "https://github.com/Resk-Security/Resk-LLM"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -81,15 +198,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
-    "id": "product-on-purpose/writing-style-catalog",
-    "language": "Python",
-    "name": "product-on-purpose/writing-style-catalog",
-    "stars": 0,
-    "updated_at": "2026-06-20T20:26:33Z",
-    "url": "https://github.com/product-on-purpose/writing-style-catalog"
-  },
-  {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
@@ -103,7 +211,7 @@
     "id": "Forward-Future/loop-library",
     "language": "HTML",
     "name": "Forward-Future/loop-library",
-    "stars": 343,
+    "stars": 346,
     "updated_at": "2026-06-20T20:17:39Z",
     "url": "https://github.com/Forward-Future/loop-library"
   },
@@ -142,15 +250,6 @@
     "stars": 56,
     "updated_at": "2026-06-20T20:16:37Z",
     "url": "https://github.com/wellwelwel/blue-spec"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-20T20:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
@@ -247,18 +346,9 @@
     "id": "microsoft/apm",
     "language": "Python",
     "name": "microsoft/apm",
-    "stars": 2947,
-    "updated_at": "2026-06-20T20:09:21Z",
+    "stars": 2948,
+    "updated_at": "2026-06-20T20:45:19Z",
     "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-20T20:09:29Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Build high-quality software faster with AI-driven lifecycle management.",
@@ -268,6 +358,15 @@
     "stars": 0,
     "updated_at": "2026-06-20T20:08:09Z",
     "url": "https://github.com/markhazleton/devspark"
+  },
+  {
+    "description": "AI Waste Classification Web App Using Google Gemini Vision",
+    "id": "AreebaGhaffar/ecoscan",
+    "language": "TypeScript",
+    "name": "AreebaGhaffar/ecoscan",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:05:21Z",
+    "url": "https://github.com/AreebaGhaffar/ecoscan"
   },
   {
     "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T19:55:44Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "The Linux OS for AI Agents \u2014 Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intell",
-    "id": "winstonkoh87/Athena-Public",
-    "language": "Python",
-    "name": "winstonkoh87/Athena-Public",
-    "stars": 509,
-    "updated_at": "2026-06-20T19:55:08Z",
-    "url": "https://github.com/winstonkoh87/Athena-Public"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:55:02Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "\ud83d\udc4c\ud83c\udffb Pick code into Markdown. Apply Markdown to code. Built for LLMs and quick backups.",
-    "id": "rodnye/codepicker",
-    "language": "TypeScript",
-    "name": "rodnye/codepicker",
-    "stars": 9,
-    "updated_at": "2026-06-20T19:54:46Z",
-    "url": "https://github.com/rodnye/codepicker"
-  },
-  {
-    "description": "About Me Landing Page Prompt",
-    "id": "jdbostonbu-ops/About-Me",
-    "language": "HTML",
-    "name": "jdbostonbu-ops/About-Me",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:53:25Z",
-    "url": "https://github.com/jdbostonbu-ops/About-Me"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:49:29Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-20T19:48:59Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
-    "id": "areliw/mt-score-up-skill",
-    "language": "Python",
-    "name": "areliw/mt-score-up-skill",
-    "stars": 1,
-    "updated_at": "2026-06-20T19:44:31Z",
-    "url": "https://github.com/areliw/mt-score-up-skill"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:43:07Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Curated collection of AI personality alters (distinct conversational personas) for OpenWebUI, Librechat, LMStudio, Ollam",
-    "id": "nightrunner91/jan",
-    "language": "\u2014",
-    "name": "nightrunner91/jan",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:40:54Z",
-    "url": "https://github.com/nightrunner91/jan"
-  },
-  {
-    "description": "Build better AI prompts in seconds with reusable templates, a fast prompt builder, and one-click sharing.",
-    "id": "nico1008/EasyPrompt",
-    "language": "TypeScript",
-    "name": "nico1008/EasyPrompt",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:40:17Z",
-    "url": "https://github.com/nico1008/EasyPrompt"
-  },
-  {
-    "description": "Git shows what changed. TreeTrace reconstructs how you steered the agent: local, deterministic eval and regression data ",
-    "id": "TreeTraceTool/TreeTrace",
-    "language": "JavaScript",
-    "name": "TreeTraceTool/TreeTrace",
-    "stars": 3,
-    "updated_at": "2026-06-20T19:36:50Z",
-    "url": "https://github.com/TreeTraceTool/TreeTrace"
   }
 ]
