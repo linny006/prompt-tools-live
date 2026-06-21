@@ -1,5 +1,68 @@
 [
   {
+    "description": "Lean, research-backed multi-LLM council with bias-aware judge controls (position-swap, verbosity-norm, stake-free judge)",
+    "id": "7xuanlu/boule",
+    "language": "JavaScript",
+    "name": "7xuanlu/boule",
+    "stars": 1,
+    "updated_at": "2026-06-21T05:42:44Z",
+    "url": "https://github.com/7xuanlu/boule"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 764,
+    "updated_at": "2026-06-21T05:42:42Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
+    "id": "VectorPeak/vectorpeak-agent-skills",
+    "language": "Python",
+    "name": "VectorPeak/vectorpeak-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-06-21T05:41:22Z",
+    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
+  },
+  {
+    "description": "A structured knowledge base for large language model technologies, covering LLMs, Agents, RAG, model training, evaluatio",
+    "id": "VectorPeak/LLM-Wiki",
+    "language": "Python",
+    "name": "VectorPeak/LLM-Wiki",
+    "stars": 32,
+    "updated_at": "2026-06-21T05:36:54Z",
+    "url": "https://github.com/VectorPeak/LLM-Wiki"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12567,
+    "updated_at": "2026-06-21T05:33:47Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 0,
+    "updated_at": "2026-06-21T05:30:27Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-21T05:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
     "id": "KbWen/agentic-os",
     "language": "Python",
@@ -31,7 +94,7 @@
     "id": "SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools",
     "language": "Python",
     "name": "SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-21T05:23:06Z",
     "url": "https://github.com/SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools"
   },
@@ -41,26 +104,17 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 6665,
-    "updated_at": "2026-06-21T05:25:29Z",
+    "updated_at": "2026-06-21T05:38:49Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
-    "description": "Context optimization layer for LLMs. 40-65% token savings with zero quality loss. Drop-in proxy for Claude, GPT, Gemini,",
+    "description": "Context optimization layer for LLMs. 65-90% token savings with zero quality loss. Drop-in proxy for Claude, GPT, Gemini,",
     "id": "iKislay/copium",
     "language": "Python",
     "name": "iKislay/copium",
     "stars": 0,
     "updated_at": "2026-06-21T05:18:04Z",
     "url": "https://github.com/iKislay/copium"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-21T05:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
@@ -180,20 +234,11 @@
     "url": "https://github.com/iaminpwd/dotfiles"
   },
   {
-    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
-    "id": "VectorPeak/vectorpeak-agent-skills",
-    "language": "Python",
-    "name": "VectorPeak/vectorpeak-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-06-21T04:59:22Z",
-    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
-  },
-  {
     "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
     "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1652,
+    "stars": 1653,
     "updated_at": "2026-06-21T04:56:59Z",
     "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
   },
@@ -229,7 +274,7 @@
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 163991,
+    "stars": 163992,
     "updated_at": "2026-06-21T04:36:05Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -274,7 +319,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 43938,
+    "stars": 43940,
     "updated_at": "2026-06-21T04:30:07Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -292,7 +337,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 42234,
+    "stars": 42247,
     "updated_at": "2026-06-21T04:26:29Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-21T03:24:04Z",
     "url": "https://github.com/Kun-0546/agent-harness-lab"
-  },
-  {
-    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
-    "id": "Forward-Future/loop-library",
-    "language": "HTML",
-    "name": "Forward-Future/loop-library",
-    "stars": 466,
-    "updated_at": "2026-06-21T03:22:46Z",
-    "url": "https://github.com/Forward-Future/loop-library"
-  },
-  {
-    "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 11,
-    "updated_at": "2026-06-21T03:52:56Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
-    "id": "DYAI2025/Plumbline",
-    "language": "Shell",
-    "name": "DYAI2025/Plumbline",
-    "stars": 6,
-    "updated_at": "2026-06-21T03:15:24Z",
-    "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
-    "id": "Shiyao-Huang/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "Shiyao-Huang/awesome-agent-evolution",
-    "stars": 171,
-    "updated_at": "2026-06-21T03:14:51Z",
-    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
-  },
-  {
-    "description": "Model-agnostic prompt library for code and document review through cognitive lenses",
-    "id": "kphutt/prompt-lenses",
-    "language": "\u2014",
-    "name": "kphutt/prompt-lenses",
-    "stars": 1,
-    "updated_at": "2026-06-21T03:13:38Z",
-    "url": "https://github.com/kphutt/prompt-lenses"
   }
 ]
