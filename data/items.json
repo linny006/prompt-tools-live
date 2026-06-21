@@ -1,5 +1,95 @@
 [
   {
+    "description": "Fast Rust repo map for AI coding agents: token-budgeted signatures, imports, diff, and MCP.",
+    "id": "fkenmar/atlas",
+    "language": "Rust",
+    "name": "fkenmar/atlas",
+    "stars": 0,
+    "updated_at": "2026-06-21T06:28:32Z",
+    "url": "https://github.com/fkenmar/atlas"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-21T06:28:09Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
+    "id": "AditthyaSS/iloveAgents",
+    "language": "JavaScript",
+    "name": "AditthyaSS/iloveAgents",
+    "stars": 95,
+    "updated_at": "2026-06-21T06:27:19Z",
+    "url": "https://github.com/AditthyaSS/iloveAgents"
+  },
+  {
+    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
+    "id": "VectorPeak/vectorpeak-agent-skills",
+    "language": "Python",
+    "name": "VectorPeak/vectorpeak-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-06-21T06:22:16Z",
+    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
+  },
+  {
+    "description": "A structured knowledge base for large language model technologies, covering LLMs, Agents, RAG, model training, evaluatio",
+    "id": "VectorPeak/LLM-Wiki",
+    "language": "Python",
+    "name": "VectorPeak/LLM-Wiki",
+    "stars": 32,
+    "updated_at": "2026-06-21T06:20:54Z",
+    "url": "https://github.com/VectorPeak/LLM-Wiki"
+  },
+  {
+    "description": "\ud83c\udf19 Your codebase just hired a night shift \u2014 a full AI engineering team that plans, builds, tests, reviews, and releases t",
+    "id": "whimzyLive/nightshift-ai",
+    "language": "Shell",
+    "name": "whimzyLive/nightshift-ai",
+    "stars": 3,
+    "updated_at": "2026-06-21T06:20:35Z",
+    "url": "https://github.com/whimzyLive/nightshift-ai"
+  },
+  {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "TypeScript",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 2,
+    "updated_at": "2026-06-21T06:20:02Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "Serena is to find the reliable source (tech news + interview questions, job news, DSA problems) from many websites, find",
+    "id": "realBoBao/Serena_The-Accountant",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_The-Accountant",
+    "stars": 0,
+    "updated_at": "2026-06-21T06:19:13Z",
+    "url": "https://github.com/realBoBao/Serena_The-Accountant"
+  },
+  {
+    "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &",
+    "id": "0xNyk/council-of-high-intelligence",
+    "language": "Shell",
+    "name": "0xNyk/council-of-high-intelligence",
+    "stars": 982,
+    "updated_at": "2026-06-21T06:16:17Z",
+    "url": "https://github.com/0xNyk/council-of-high-intelligence"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-21T06:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -61,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T06:02:09Z",
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Serena is to find the reliable source (tech news + interview questions, job news, DSA problems) from many websites, find",
-    "id": "realBoBao/Serena_The-Accountant",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_The-Accountant",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:01:22Z",
-    "url": "https://github.com/realBoBao/Serena_The-Accountant"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-21T06:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
@@ -160,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T05:53:15Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
-    "id": "VectorPeak/vectorpeak-agent-skills",
-    "language": "Python",
-    "name": "VectorPeak/vectorpeak-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-06-21T05:48:29Z",
-    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
-  },
-  {
-    "description": "A structured knowledge base for large language model technologies, covering LLMs, Agents, RAG, model training, evaluatio",
-    "id": "VectorPeak/LLM-Wiki",
-    "language": "Python",
-    "name": "VectorPeak/LLM-Wiki",
-    "stars": 32,
-    "updated_at": "2026-06-21T05:45:59Z",
-    "url": "https://github.com/VectorPeak/LLM-Wiki"
   },
   {
     "description": "Lean, research-backed multi-LLM council with bias-aware judge controls (position-swap, verbosity-norm, stake-free judge)",
@@ -315,15 +369,6 @@
     "url": "https://github.com/dewtech-technologies/dare-method"
   },
   {
-    "description": "Fast Rust repo map for AI coding agents: token-budgeted signatures, imports, diff, and MCP.",
-    "id": "fkenmar/atlas",
-    "language": "Rust",
-    "name": "fkenmar/atlas",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:15:04Z",
-    "url": "https://github.com/fkenmar/atlas"
-  },
-  {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
     "id": "Paulessus/odin-gemini-mcp-bridge",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T04:49:41Z",
     "url": "https://github.com/MattModeCode/Promptly"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-21T04:48:40Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
-    "id": "f/prompts.chat",
-    "language": "HTML",
-    "name": "f/prompts.chat",
-    "stars": 163992,
-    "updated_at": "2026-06-21T04:36:05Z",
-    "url": "https://github.com/f/prompts.chat"
-  },
-  {
-    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 4,
-    "updated_at": "2026-06-21T04:42:05Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-21T04:31:56Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1401,
-    "updated_at": "2026-06-21T04:31:54Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   }
 ]
