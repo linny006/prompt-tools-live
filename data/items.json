@@ -1,5 +1,77 @@
 [
   {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 23,
+    "updated_at": "2026-06-21T05:29:43Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "HTML",
+    "name": "Open-Less/openless",
+    "stars": 2439,
+    "updated_at": "2026-06-21T05:26:07Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "Up to 99% token savings on AI agent context. Free. Provider-agnostic (Claude, Cursor, Codex, Cline, any MCP agent). 91.6",
+    "id": "josueramosleites-collab/nuxs",
+    "language": "JavaScript",
+    "name": "josueramosleites-collab/nuxs",
+    "stars": 0,
+    "updated_at": "2026-06-21T05:24:31Z",
+    "url": "https://github.com/josueramosleites-collab/nuxs"
+  },
+  {
+    "description": "ComfyUI nodes for Ideogram 4: extract color palettes from images, assemble/validate structured JSON prompts, embed & rec",
+    "id": "SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools",
+    "language": "Python",
+    "name": "SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools",
+    "stars": 1,
+    "updated_at": "2026-06-21T05:23:06Z",
+    "url": "https://github.com/SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools"
+  },
+  {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 6665,
+    "updated_at": "2026-06-21T05:25:29Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
+    "description": "Context optimization layer for LLMs. 40-65% token savings with zero quality loss. Drop-in proxy for Claude, GPT, Gemini,",
+    "id": "iKislay/copium",
+    "language": "Python",
+    "name": "iKislay/copium",
+    "stars": 0,
+    "updated_at": "2026-06-21T05:18:04Z",
+    "url": "https://github.com/iKislay/copium"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-21T05:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 46,
+    "updated_at": "2026-06-21T05:15:21Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -45,15 +117,6 @@
     "url": "https://github.com/dewtech-technologies/dare-method"
   },
   {
-    "description": "ComfyUI nodes for Ideogram 4: extract color palettes from images, assemble/validate structured JSON prompts, embed & rec",
-    "id": "SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools",
-    "language": "Python",
-    "name": "SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools",
-    "stars": 1,
-    "updated_at": "2026-06-21T05:11:49Z",
-    "url": "https://github.com/SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools"
-  },
-  {
     "description": "Fast Rust repo map for AI coding agents: token-budgeted signatures, imports, diff, and MCP.",
     "id": "fkenmar/atlas",
     "language": "Rust",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T05:09:38Z",
     "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "Up to 99% token savings on AI agent context. Free. Provider-agnostic (Claude, Cursor, Codex, Cline, any MCP agent). 91.6",
-    "id": "josueramosleites-collab/nuxs",
-    "language": "JavaScript",
-    "name": "josueramosleites-collab/nuxs",
-    "stars": 0,
-    "updated_at": "2026-06-21T05:09:18Z",
-    "url": "https://github.com/josueramosleites-collab/nuxs"
   },
   {
     "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
@@ -104,7 +158,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 2,
-    "updated_at": "2026-06-21T05:05:49Z",
+    "updated_at": "2026-06-21T05:28:34Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -126,15 +180,6 @@
     "url": "https://github.com/iaminpwd/dotfiles"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-21T05:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
     "id": "VectorPeak/vectorpeak-agent-skills",
     "language": "Python",
@@ -151,24 +196,6 @@
     "stars": 1652,
     "updated_at": "2026-06-21T04:56:59Z",
     "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 46,
-    "updated_at": "2026-06-21T05:15:21Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 23,
-    "updated_at": "2026-06-21T04:52:49Z",
-    "url": "https://github.com/KbWen/agentic-os"
   },
   {
     "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
@@ -202,7 +229,7 @@
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 163990,
+    "stars": 163991,
     "updated_at": "2026-06-21T04:36:05Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -247,7 +274,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 43937,
+    "stars": 43938,
     "updated_at": "2026-06-21T04:30:07Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -265,7 +292,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 42215,
+    "stars": 42234,
     "updated_at": "2026-06-21T04:26:29Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -382,7 +409,7 @@
     "id": "Forward-Future/loop-library",
     "language": "HTML",
     "name": "Forward-Future/loop-library",
-    "stars": 461,
+    "stars": 466,
     "updated_at": "2026-06-21T03:22:46Z",
     "url": "https://github.com/Forward-Future/loop-library"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T03:13:38Z",
     "url": "https://github.com/kphutt/prompt-lenses"
-  },
-  {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "HTML",
-    "name": "Open-Less/openless",
-    "stars": 2439,
-    "updated_at": "2026-06-21T03:09:41Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
-    "id": "T-Stephen/ai-mql-engine",
-    "language": "JavaScript",
-    "name": "T-Stephen/ai-mql-engine",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:05:22Z",
-    "url": "https://github.com/T-Stephen/ai-mql-engine"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-06-21T02:59:04Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   }
 ]
