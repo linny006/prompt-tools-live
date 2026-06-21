@@ -1,12 +1,75 @@
 [
   {
+    "description": "A dotfiles repo that treats AI agent behavior as infrastructure",
+    "id": "pbierkortte/ai-runbook",
+    "language": "HTML",
+    "name": "pbierkortte/ai-runbook",
+    "stars": 4,
+    "updated_at": "2026-06-21T07:56:18Z",
+    "url": "https://github.com/pbierkortte/ai-runbook"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-21T07:56:15Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
     "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
     "id": "VectorPeak/vectorpeak-agent-skills",
     "language": "Python",
     "name": "VectorPeak/vectorpeak-agent-skills",
     "stars": 2,
-    "updated_at": "2026-06-21T07:45:12Z",
+    "updated_at": "2026-06-21T07:54:30Z",
     "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
+  },
+  {
+    "description": "A hands-on Generative AI learning environment featuring practical experiments and projects for building AI-powered appli",
+    "id": "soumadip-dev/GenAI-Playground",
+    "language": "TypeScript",
+    "name": "soumadip-dev/GenAI-Playground",
+    "stars": 0,
+    "updated_at": "2026-06-21T07:52:01Z",
+    "url": "https://github.com/soumadip-dev/GenAI-Playground"
+  },
+  {
+    "description": "Local context engine for AI coding agents. Routes tasks to relevant files, tests, rules, and skills, supports prompt cac",
+    "id": "vishal2612200/agentpack",
+    "language": "Python",
+    "name": "vishal2612200/agentpack",
+    "stars": 19,
+    "updated_at": "2026-06-21T07:51:40Z",
+    "url": "https://github.com/vishal2612200/agentpack"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 42465,
+    "updated_at": "2026-06-21T07:50:56Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-21T07:45:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "An online prompt engineering tool designed to transform rough ideas, lyrics, moods, and visual concepts into polished Ve",
+    "id": "wuisabel-gif/veo3_prompt_improver",
+    "language": "HTML",
+    "name": "wuisabel-gif/veo3_prompt_improver",
+    "stars": 0,
+    "updated_at": "2026-06-21T07:39:59Z",
+    "url": "https://github.com/wuisabel-gif/veo3_prompt_improver"
   },
   {
     "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
@@ -16,15 +79,6 @@
     "stars": 46,
     "updated_at": "2026-06-21T07:39:33Z",
     "url": "https://github.com/ariffazil/arifos"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:38:36Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Curated collection of AI personality alters (distinct conversational personas) for OpenWebUI, Librechat, LMStudio, Ollam",
@@ -54,15 +108,6 @@
     "url": "https://github.com/vastavikadi/IBM-RAG-and-Agentic-AI"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 42438,
-    "updated_at": "2026-06-21T07:33:52Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
     "description": "The Linux OS for AI Agents \u2014 Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intell",
     "id": "winstonkoh87/Athena-Public",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 509,
     "updated_at": "2026-06-21T07:33:39Z",
     "url": "https://github.com/winstonkoh87/Athena-Public"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-21T07:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
@@ -115,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T07:22:15Z",
     "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
-  },
-  {
-    "description": "Local context engine for AI coding agents. Routes tasks to relevant files, tests, rules, and skills, supports prompt cac",
-    "id": "vishal2612200/agentpack",
-    "language": "Python",
-    "name": "vishal2612200/agentpack",
-    "stars": 19,
-    "updated_at": "2026-06-21T07:20:39Z",
-    "url": "https://github.com/vishal2612200/agentpack"
-  },
-  {
-    "description": "A hands-on Generative AI learning environment featuring practical experiments and projects for building AI-powered appli",
-    "id": "soumadip-dev/GenAI-Playground",
-    "language": "TypeScript",
-    "name": "soumadip-dev/GenAI-Playground",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:20:36Z",
-    "url": "https://github.com/soumadip-dev/GenAI-Playground"
   },
   {
     "description": "\u26a1 Talk less. Code better. \u2014 A Claude skill combining caveman communication + Karpathy coding principles. Works with Curs",
@@ -216,7 +234,7 @@
     "url": "https://github.com/SatyaVardhanM/Resuto"
   },
   {
-    "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "description": "180 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
     "id": "mohitagw15856/pm-claude-skills",
     "language": "JavaScript",
     "name": "mohitagw15856/pm-claude-skills",
@@ -430,23 +448,5 @@
     "stars": 982,
     "updated_at": "2026-06-21T06:16:17Z",
     "url": "https://github.com/0xNyk/council-of-high-intelligence"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:11:01Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:07:45Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
