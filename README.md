@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 01:43 UTC
+> ⏰ Last updated: 2026-06-21 01:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-06-21 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 2 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-06-21 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 3 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 0 | HTML | 2026-06-21 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 4 | [realBoBao/Serena_The-Accountant](https://github.com/realBoBao/Serena_The-Accountant) | 0 | JavaScript | 2026-06-21 | Serena is to find the reliable source (tech news, job news + interview questions, đaily leetcode problems) from many web |
-| 5 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-06-21 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 6 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-06-21 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 7 | [GERARDOBR01/visual-lv-portfolio](https://github.com/GERARDOBR01/visual-lv-portfolio) | 0 | HTML | 2026-06-21 | AI-powered Visual Merchandising assistant — RAG, multi-provider LLM integration, 6-stage reasoning pipeline. Single-file |
-| 8 | [nikolay-e/diffctx](https://github.com/nikolay-e/diffctx) | 1 | Rust | 2026-06-21 | Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co |
-| 9 | [rp1-run/rp1](https://github.com/rp1-run/rp1) | 32 | TypeScript | 2026-06-21 | Ready Player One - stop prompting; start shipping |
-| 10 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 3 | Python | 2026-06-21 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 3 | Python | 2026-06-21 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-06-21 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 3 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-06-21 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 4 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 0 | HTML | 2026-06-21 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
+| 5 | [realBoBao/Serena_The-Accountant](https://github.com/realBoBao/Serena_The-Accountant) | 0 | JavaScript | 2026-06-21 | Serena is to find the reliable source (tech news, job news + interview questions, đaily leetcode problems) from many web |
+| 6 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-06-21 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 7 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-06-21 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 8 | [GERARDOBR01/visual-lv-portfolio](https://github.com/GERARDOBR01/visual-lv-portfolio) | 0 | HTML | 2026-06-21 | AI-powered Visual Merchandising assistant — RAG, multi-provider LLM integration, 6-stage reasoning pipeline. Single-file |
+| 9 | [nikolay-e/diffctx](https://github.com/nikolay-e/diffctx) | 1 | Rust | 2026-06-21 | Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co |
+| 10 | [rp1-run/rp1](https://github.com/rp1-run/rp1) | 32 | TypeScript | 2026-06-21 | Ready Player One - stop prompting; start shipping |
 | 11 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 33119 | Python | 2026-06-21 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
 | 12 | [ashishjsharda/llm-token-surgeon](https://github.com/ashishjsharda/llm-token-surgeon) | 1 | Python | 2026-06-21 | Cut your LLM API costs 30–70% automatically. Zero accuracy loss. Works with OpenAI, Anthropic, and Gemini. |
 | 13 | [kyaukyuai/stop-slop-ja](https://github.com/kyaukyuai/stop-slop-ja) | 4 | JavaScript | 2026-06-21 | Remove AI writing patterns from Japanese prose. Japanese-localized derivative of hardikpandya/stop-slop (MIT). 19 NEVER  |
@@ -68,7 +68,7 @@ expired items removed — so you can rely on what you see being current.
 | 24 | [MartiniArt/awesome-seedance-2-prompt](https://github.com/MartiniArt/awesome-seedance-2-prompt) | 0 | Shell | 2026-06-21 | Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art. |
 | 25 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 298 | Swift | 2026-06-21 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
 | 26 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 12561 | TypeScript | 2026-06-21 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
-| 27 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 43897 | JavaScript | 2026-06-21 | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thi |
+| 27 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 43898 | JavaScript | 2026-06-21 | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thi |
 | 28 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 43406 | JavaScript | 2026-06-21 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 | 29 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 0 | HTML | 2026-06-21 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
 | 30 | [simota/agent-skills](https://github.com/simota/agent-skills) | 53 | HTML | 2026-06-21 | 124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun |
