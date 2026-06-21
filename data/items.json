@@ -1,12 +1,93 @@
 [
   {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "description": "A curated collection of AI skills, agents, and prompt engineering experiments.",
+    "id": "MS33834/AI-SKILL",
+    "language": "Python",
+    "name": "MS33834/AI-SKILL",
+    "stars": 2,
+    "updated_at": "2026-06-21T06:44:36Z",
+    "url": "https://github.com/MS33834/AI-SKILL"
+  },
+  {
+    "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "JavaScript",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1005,
+    "updated_at": "2026-06-21T06:43:48Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "WebUI-style prompt editor for ComfyUI / ComfyUI \u7684 WebUI \u5f0f\u63d0\u793a\u8bcd\u7f16\u8f91\u3001\u7ffb\u8bd1\u3001\u8865\u5168\u3001\u6536\u85cf\u548c LoRA \u6865\u63a5\u8282\u70b9",
+    "id": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge",
+    "language": "JavaScript",
+    "name": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge",
+    "stars": 17,
+    "updated_at": "2026-06-21T06:40:11Z",
+    "url": "https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Shell",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 3,
+    "updated_at": "2026-06-21T06:38:14Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "Production-ready AI coding skills and agents for Claude Code, OpenCode, and Pi. Covers TDD, .NET, Python, Rust, edge AI,",
+    "id": "michaelalber/ai-toolkit",
+    "language": "Python",
+    "name": "michaelalber/ai-toolkit",
+    "stars": 1,
+    "updated_at": "2026-06-21T06:37:32Z",
+    "url": "https://github.com/michaelalber/ai-toolkit"
+  },
+  {
+    "description": "LLM\u5bfe\u8a71\u30ed\u30b0\u3001\u9031\u6b21\u30d6\u30ed\u30b0\u3001Zenn\u8a18\u4e8b\u3001\u30d7\u30ed\u30f3\u30d7\u30c8\u8cc7\u7523\u3001\u81ea\u52d5\u5316\u30b9\u30af\u30ea\u30d7\u30c8\u3092\u7ba1\u7406 / Workspace for LLM logs, weekly blogs, Zenn articles, prompts, and automation ",
+    "id": "masa-san-jp/logs-with-llm",
+    "language": "Python",
+    "name": "masa-san-jp/logs-with-llm",
+    "stars": 1,
+    "updated_at": "2026-06-21T06:36:37Z",
+    "url": "https://github.com/masa-san-jp/logs-with-llm"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 19,
+    "updated_at": "2026-06-21T06:35:38Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 46,
+    "updated_at": "2026-06-21T06:35:16Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "TypeScript",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 2,
+    "updated_at": "2026-06-21T06:33:54Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:30:49Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-21T06:31:40Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 3,
-    "updated_at": "2026-06-21T06:30:26Z",
+    "updated_at": "2026-06-21T06:31:03Z",
     "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
@@ -23,17 +104,17 @@
     "language": "Rust",
     "name": "fkenmar/atlas",
     "stars": 0,
-    "updated_at": "2026-06-21T06:28:32Z",
+    "updated_at": "2026-06-21T06:44:21Z",
     "url": "https://github.com/fkenmar/atlas"
   },
   {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 19,
-    "updated_at": "2026-06-21T06:28:09Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-06-21T06:30:49Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
     "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "VectorPeak/vectorpeak-agent-skills",
     "stars": 2,
-    "updated_at": "2026-06-21T06:22:16Z",
+    "updated_at": "2026-06-21T06:38:43Z",
     "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
   },
   {
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "VectorPeak/LLM-Wiki",
     "stars": 32,
-    "updated_at": "2026-06-21T06:20:54Z",
+    "updated_at": "2026-06-21T06:36:57Z",
     "url": "https://github.com/VectorPeak/LLM-Wiki"
   },
   {
@@ -70,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-06-21T06:20:35Z",
     "url": "https://github.com/whimzyLive/nightshift-ai"
-  },
-  {
-    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
-    "id": "gaofeng21cn/redcube-ai",
-    "language": "TypeScript",
-    "name": "gaofeng21cn/redcube-ai",
-    "stars": 2,
-    "updated_at": "2026-06-21T06:20:02Z",
-    "url": "https://github.com/gaofeng21cn/redcube-ai"
   },
   {
     "description": "Serena is to find the reliable source (tech news + interview questions, job news, DSA problems) from many websites, find",
@@ -261,11 +333,20 @@
     "url": "https://github.com/promptdriven/pdd"
   },
   {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 6666,
+    "updated_at": "2026-06-21T05:38:49Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12568,
+    "stars": 12569,
     "updated_at": "2026-06-21T05:33:47Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
@@ -306,15 +387,6 @@
     "url": "https://github.com/SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools"
   },
   {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 6665,
-    "updated_at": "2026-06-21T05:38:49Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
     "description": "Context optimization layer for LLMs. 65-90% token savings with zero quality loss. Drop-in proxy for Claude, GPT, Gemini,",
     "id": "iKislay/copium",
     "language": "Python",
@@ -322,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T05:18:04Z",
     "url": "https://github.com/iKislay/copium"
-  },
-  {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 46,
-    "updated_at": "2026-06-21T05:15:21Z",
-    "url": "https://github.com/ariffazil/arifos"
   },
   {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T05:09:38Z",
     "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
-    "id": "Ntizar/NtizarBrainMasterMind",
-    "language": "HTML",
-    "name": "Ntizar/NtizarBrainMasterMind",
-    "stars": 2,
-    "updated_at": "2026-06-21T05:08:35Z",
-    "url": "https://github.com/Ntizar/NtizarBrainMasterMind"
-  },
-  {
-    "description": "A curated, credited library of loops \u2014 repeatable AI-agent workflows for Claude Code, Cursor & Codex. Refactor until cle",
-    "id": "keysersoose/loop-library",
-    "language": "HTML",
-    "name": "keysersoose/loop-library",
-    "stars": 3,
-    "updated_at": "2026-06-21T05:06:48Z",
-    "url": "https://github.com/keysersoose/loop-library"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-06-21T05:28:34Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "A curated collection of AI skills, agents, and prompt engineering experiments.",
-    "id": "MS33834/AI-SKILL",
-    "language": "Python",
-    "name": "MS33834/AI-SKILL",
-    "stars": 2,
-    "updated_at": "2026-06-21T05:05:20Z",
-    "url": "https://github.com/MS33834/AI-SKILL"
-  },
-  {
-    "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f \ub3d9\uc801 AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
-    "id": "iaminpwd/dotfiles",
-    "language": "Shell",
-    "name": "iaminpwd/dotfiles",
-    "stars": 0,
-    "updated_at": "2026-06-21T05:00:55Z",
-    "url": "https://github.com/iaminpwd/dotfiles"
-  },
-  {
-    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
-    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1653,
-    "updated_at": "2026-06-21T04:56:59Z",
-    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 1731,
-    "updated_at": "2026-06-21T04:52:21Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
   }
 ]
