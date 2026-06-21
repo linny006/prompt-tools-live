@@ -1,5 +1,50 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:06:00Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-06-21T04:05:58Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "FollowUp is a clinician friendly follow-up dashboard that helps reception and care teams manage one-time and periodic pa",
+    "id": "KhaledBaki/HackersAndHealersHackathon",
+    "language": "HTML",
+    "name": "KhaledBaki/HackersAndHealersHackathon",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:04:02Z",
+    "url": "https://github.com/KhaledBaki/HackersAndHealersHackathon"
+  },
+  {
+    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 4,
+    "updated_at": "2026-06-21T04:02:19Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-21T04:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Vibe Coding OS \u2014 Claude/Codex/Cursor skill framework with 139 skills, 111 commands, 95 templates, 22 tracked sources, 28",
     "id": "roronoazoroshao369/vibe-coding-os",
     "language": "JavaScript",
@@ -18,15 +63,6 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
-    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 4,
-    "updated_at": "2026-06-21T03:54:08Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
     "description": "A curated collection of AI skills, agents, and prompt engineering experiments.",
     "id": "MS33834/AI-SKILL",
     "language": "Python",
@@ -34,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-06-21T03:52:56Z",
     "url": "https://github.com/MS33834/AI-SKILL"
-  },
-  {
-    "description": "FollowUp is a clinician friendly follow-up dashboard that helps reception and care teams manage one-time and periodic pa",
-    "id": "KhaledBaki/HackersAndHealersHackathon",
-    "language": "HTML",
-    "name": "KhaledBaki/HackersAndHealersHackathon",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:52:55Z",
-    "url": "https://github.com/KhaledBaki/HackersAndHealersHackathon"
   },
   {
     "description": "Serena is to find the reliable source (tech news + interview questions, job news, DSA problems) from many websites, find",
@@ -59,7 +86,7 @@
     "language": "TypeScript",
     "name": "zigrivers/scaffold",
     "stars": 5,
-    "updated_at": "2026-06-21T03:51:00Z",
+    "updated_at": "2026-06-21T04:15:11Z",
     "url": "https://github.com/zigrivers/scaffold"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T03:47:32Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-21T03:45:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Fast Rust repo map for AI coding agents: token-budgeted signatures, imports, diff, and MCP.",
@@ -148,7 +166,7 @@
     "id": "Forward-Future/loop-library",
     "language": "HTML",
     "name": "Forward-Future/loop-library",
-    "stars": 441,
+    "stars": 442,
     "updated_at": "2026-06-21T03:22:46Z",
     "url": "https://github.com/Forward-Future/loop-library"
   },
@@ -160,6 +178,15 @@
     "stars": 11,
     "updated_at": "2026-06-21T03:52:56Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 23,
+    "updated_at": "2026-06-21T03:15:33Z",
+    "url": "https://github.com/KbWen/agentic-os"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -279,15 +306,6 @@
     "url": "https://github.com/sublimecoder/sublimecoding"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-21T02:48:56Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Structured agentic coding workflows for OpenAI Codex CLI with specialized AI subagents, planning, and quality gates.",
     "id": "shinpr/codex-workflows",
     "language": "JavaScript",
@@ -301,7 +319,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 7659,
+    "stars": 7660,
     "updated_at": "2026-06-21T02:37:34Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-21T01:53:42Z",
     "url": "https://github.com/kyaukyuai/stop-slop-ja"
-  },
-  {
-    "description": "Quillan-Ronin - Achieved A.G.I. architected A Stateful Reasoning Engine on Universal BitNet 1.58-bit logic and a 9B EGGR",
-    "id": "leeex1/Quillan-Ronin",
-    "language": "Python",
-    "name": "leeex1/Quillan-Ronin",
-    "stars": 26,
-    "updated_at": "2026-06-21T01:49:21Z",
-    "url": "https://github.com/leeex1/Quillan-Ronin"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-21T01:43:28Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
