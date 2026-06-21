@@ -1,5 +1,95 @@
 [
   {
+    "description": "Lint your LLM prompt templates in CI - catch injection-unsafe interpolation, leaked secrets, and cost bloat. Zero-dep, o",
+    "id": "baronguyen001/llm-prompt-linter",
+    "language": "Python",
+    "name": "baronguyen001/llm-prompt-linter",
+    "stars": 0,
+    "updated_at": "2026-06-21T08:44:15Z",
+    "url": "https://github.com/baronguyen001/llm-prompt-linter"
+  },
+  {
+    "description": "Local-first Chrome extension that turns images into generator-ready prompts.",
+    "id": "papperrollinggery/zhijuan-prompt-card",
+    "language": "TypeScript",
+    "name": "papperrollinggery/zhijuan-prompt-card",
+    "stars": 17,
+    "updated_at": "2026-06-21T08:39:28Z",
+    "url": "https://github.com/papperrollinggery/zhijuan-prompt-card"
+  },
+  {
+    "description": "Curated collection of AI personality alters (distinct conversational personas) for OpenWebUI, Librechat, LMStudio, Ollam",
+    "id": "nightrunner91/jan",
+    "language": "\u2014",
+    "name": "nightrunner91/jan",
+    "stars": 0,
+    "updated_at": "2026-06-21T08:38:22Z",
+    "url": "https://github.com/nightrunner91/jan"
+  },
+  {
+    "description": "Agentless prompt change intelligence + eval \u2014 watch the prompts in your codebase, detect changes, and eval them with zer",
+    "id": "GoReal-AI/echostash-oss",
+    "language": "TypeScript",
+    "name": "GoReal-AI/echostash-oss",
+    "stars": 3,
+    "updated_at": "2026-06-21T08:36:41Z",
+    "url": "https://github.com/GoReal-AI/echostash-oss"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Shell",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 3,
+    "updated_at": "2026-06-21T08:33:55Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-21T08:32:29Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Stanford STORM research method as a reusable skill for Claude Code and any LLM",
+    "id": "kamilwpaczce-svg/storm-research-method",
+    "language": "\u2014",
+    "name": "kamilwpaczce-svg/storm-research-method",
+    "stars": 0,
+    "updated_at": "2026-06-21T08:32:02Z",
+    "url": "https://github.com/kamilwpaczce-svg/storm-research-method"
+  },
+  {
+    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 sel",
+    "id": "withkynam/vibecode-pro-max-kit",
+    "language": "JavaScript",
+    "name": "withkynam/vibecode-pro-max-kit",
+    "stars": 955,
+    "updated_at": "2026-06-21T08:31:44Z",
+    "url": "https://github.com/withkynam/vibecode-pro-max-kit"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 4,
+    "updated_at": "2026-06-21T08:30:47Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-21T08:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
     "id": "jestersanjay/slim-tools-claude-harness",
     "language": "HTML",
@@ -25,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-06-21T08:28:54Z",
     "url": "https://github.com/pbierkortte/ai-runbook"
-  },
-  {
-    "description": "Local-first Chrome extension that turns images into generator-ready prompts.",
-    "id": "papperrollinggery/zhijuan-prompt-card",
-    "language": "TypeScript",
-    "name": "papperrollinggery/zhijuan-prompt-card",
-    "stars": 17,
-    "updated_at": "2026-06-21T08:27:07Z",
-    "url": "https://github.com/papperrollinggery/zhijuan-prompt-card"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -117,24 +198,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-21T08:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-21T08:14:44Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
     "id": "nikolay-e/diffctx",
     "language": "Rust",
@@ -198,6 +261,15 @@
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19705,
+    "updated_at": "2026-06-21T07:59:54Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "An AI-powered decision-making assistant built using Google AI Studio. Generates customized pros/cons lists, comparison t",
     "id": "Akshat200008/AI-Tiebreaker-App",
     "language": "\u2014",
@@ -229,7 +301,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 42520,
+    "stars": 42544,
     "updated_at": "2026-06-21T07:50:56Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -241,15 +313,6 @@
     "stars": 46,
     "updated_at": "2026-06-21T07:39:33Z",
     "url": "https://github.com/ariffazil/arifos"
-  },
-  {
-    "description": "Curated collection of AI personality alters (distinct conversational personas) for OpenWebUI, Librechat, LMStudio, Ollam",
-    "id": "nightrunner91/jan",
-    "language": "\u2014",
-    "name": "nightrunner91/jan",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:37:01Z",
-    "url": "https://github.com/nightrunner91/jan"
   },
   {
     "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-21T07:09:53Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "Resuto scans LinkedIn, runs two-stage AI relevance filtering via Claude, and generates a hallucination-proof tailored re",
-    "id": "SatyaVardhanM/Resuto",
-    "language": "Python",
-    "name": "SatyaVardhanM/Resuto",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:09:11Z",
-    "url": "https://github.com/SatyaVardhanM/Resuto"
-  },
-  {
-    "description": "180 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "JavaScript",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1005,
-    "updated_at": "2026-06-21T07:08:13Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "Are you using Claude Code to its full potential? This methodology \u2014 60 hooks, 109 skills, 15 agents, Evidence Policy \u2014 w",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 5,
-    "updated_at": "2026-06-21T07:07:57Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:05:36Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:05:27Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Some skills that I have developed based on my personal life experiences",
-    "id": "Ryan-J-H-Improving/SKILLs",
-    "language": "Python",
-    "name": "Ryan-J-H-Improving/SKILLs",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:05:49Z",
-    "url": "https://github.com/Ryan-J-H-Improving/SKILLs"
-  },
-  {
-    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
-    "id": "jeb-maker/lagent-quotidien",
-    "language": "HTML",
-    "name": "jeb-maker/lagent-quotidien",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:00:08Z",
-    "url": "https://github.com/jeb-maker/lagent-quotidien"
   }
 ]
