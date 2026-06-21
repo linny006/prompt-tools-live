@@ -1,5 +1,86 @@
 [
   {
+    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
+    "id": "VectorPeak/vectorpeak-agent-skills",
+    "language": "Python",
+    "name": "VectorPeak/vectorpeak-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-06-21T07:45:12Z",
+    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 46,
+    "updated_at": "2026-06-21T07:39:33Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-21T07:38:36Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Curated collection of AI personality alters (distinct conversational personas) for OpenWebUI, Librechat, LMStudio, Ollam",
+    "id": "nightrunner91/jan",
+    "language": "\u2014",
+    "name": "nightrunner91/jan",
+    "stars": 0,
+    "updated_at": "2026-06-21T07:37:01Z",
+    "url": "https://github.com/nightrunner91/jan"
+  },
+  {
+    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
+    "id": "LouisLau-art/multi-agent-skills-catalog",
+    "language": "Python",
+    "name": "LouisLau-art/multi-agent-skills-catalog",
+    "stars": 2,
+    "updated_at": "2026-06-21T07:35:42Z",
+    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
+  },
+  {
+    "description": "This repository contains notes and captures my learning journey of the course on Coursera by IBM on RAG and Agentic AI.",
+    "id": "vastavikadi/IBM-RAG-and-Agentic-AI",
+    "language": "\u2014",
+    "name": "vastavikadi/IBM-RAG-and-Agentic-AI",
+    "stars": 0,
+    "updated_at": "2026-06-21T07:34:26Z",
+    "url": "https://github.com/vastavikadi/IBM-RAG-and-Agentic-AI"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 42438,
+    "updated_at": "2026-06-21T07:33:52Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "The Linux OS for AI Agents \u2014 Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intell",
+    "id": "winstonkoh87/Athena-Public",
+    "language": "Python",
+    "name": "winstonkoh87/Athena-Public",
+    "stars": 509,
+    "updated_at": "2026-06-21T07:33:39Z",
+    "url": "https://github.com/winstonkoh87/Athena-Public"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-21T07:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
     "id": "ftvision/agent-prompt-observatory",
     "language": "Python",
@@ -9,31 +90,13 @@
     "url": "https://github.com/ftvision/agent-prompt-observatory"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:26:16Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
     "id": "dgenio/contextweaver",
     "language": "Python",
     "name": "dgenio/contextweaver",
     "stars": 8,
-    "updated_at": "2026-06-21T07:25:58Z",
+    "updated_at": "2026-06-21T07:44:18Z",
     "url": "https://github.com/dgenio/contextweaver"
-  },
-  {
-    "description": "This repository contains notes and captures my learning journey of the course on Coursera by IBM on RAG and Agentic AI.",
-    "id": "vastavikadi/IBM-RAG-and-Agentic-AI",
-    "language": "\u2014",
-    "name": "vastavikadi/IBM-RAG-and-Agentic-AI",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:25:56Z",
-    "url": "https://github.com/vastavikadi/IBM-RAG-and-Agentic-AI"
   },
   {
     "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
@@ -63,15 +126,6 @@
     "url": "https://github.com/vishal2612200/agentpack"
   },
   {
-    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
-    "id": "VectorPeak/vectorpeak-agent-skills",
-    "language": "Python",
-    "name": "VectorPeak/vectorpeak-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-06-21T07:20:38Z",
-    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
-  },
-  {
     "description": "A hands-on Generative AI learning environment featuring practical experiments and projects for building AI-powered appli",
     "id": "soumadip-dev/GenAI-Playground",
     "language": "TypeScript",
@@ -99,15 +153,6 @@
     "url": "https://github.com/spark2k06/Agentless"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-21T07:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T07:12:37Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Curated collection of AI personality alters (distinct conversational personas) for OpenWebUI, Librechat, LMStudio, Ollam",
-    "id": "nightrunner91/jan",
-    "language": "\u2014",
-    "name": "nightrunner91/jan",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:12:33Z",
-    "url": "https://github.com/nightrunner91/jan"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -324,15 +360,6 @@
     "url": "https://github.com/masa-san-jp/logs-with-llm"
   },
   {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 46,
-    "updated_at": "2026-06-21T06:35:16Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
     "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
     "id": "gaofeng21cn/redcube-ai",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T06:07:45Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:04:49Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:02:58Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-06-21T06:02:09Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
   }
 ]
