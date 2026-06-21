@@ -1,5 +1,86 @@
 [
   {
+    "description": "Persistent memory, BM25 code search, MCP tools, and hook guardrails for AI coding agents \u2014 Claude Code, Codex CLI & Anti",
+    "id": "ezBuilder/code-brain",
+    "language": "Python",
+    "name": "ezBuilder/code-brain",
+    "stars": 9,
+    "updated_at": "2026-06-21T08:56:25Z",
+    "url": "https://github.com/ezBuilder/code-brain"
+  },
+  {
+    "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
+    "id": "rizvee/multimodel-dev-os",
+    "language": "JavaScript",
+    "name": "rizvee/multimodel-dev-os",
+    "stars": 2,
+    "updated_at": "2026-06-21T08:55:39Z",
+    "url": "https://github.com/rizvee/multimodel-dev-os"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 764,
+    "updated_at": "2026-06-21T08:54:16Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "A dotfiles repo that treats AI agent behavior as infrastructure",
+    "id": "pbierkortte/ai-runbook",
+    "language": "HTML",
+    "name": "pbierkortte/ai-runbook",
+    "stars": 4,
+    "updated_at": "2026-06-21T08:53:57Z",
+    "url": "https://github.com/pbierkortte/ai-runbook"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-21T08:52:11Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "A curated collection of AI skills, agents, and prompt engineering experiments.",
+    "id": "MS33834/AI-SKILL",
+    "language": "Python",
+    "name": "MS33834/AI-SKILL",
+    "stars": 3,
+    "updated_at": "2026-06-21T08:48:44Z",
+    "url": "https://github.com/MS33834/AI-SKILL"
+  },
+  {
+    "description": "\u26a1 Talk less. Code better. \u2014 A Claude skill combining caveman communication + Karpathy coding principles. Works with Curs",
+    "id": "Vishnu90Coreinn/lean-dev",
+    "language": "\u2014",
+    "name": "Vishnu90Coreinn/lean-dev",
+    "stars": 1,
+    "updated_at": "2026-06-21T08:46:39Z",
+    "url": "https://github.com/Vishnu90Coreinn/lean-dev"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-21T08:45:55Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-21T08:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Lint your LLM prompt templates in CI - catch injection-unsafe interpolation, leaked secrets, and cost bloat. Zero-dep, o",
     "id": "baronguyen001/llm-prompt-linter",
     "language": "Python",
@@ -45,15 +126,6 @@
     "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-21T08:32:29Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Stanford STORM research method as a reusable skill for Claude Code and any LLM",
     "id": "kamilwpaczce-svg/storm-research-method",
     "language": "\u2014",
@@ -67,7 +139,7 @@
     "id": "withkynam/vibecode-pro-max-kit",
     "language": "JavaScript",
     "name": "withkynam/vibecode-pro-max-kit",
-    "stars": 955,
+    "stars": 956,
     "updated_at": "2026-06-21T08:31:44Z",
     "url": "https://github.com/withkynam/vibecode-pro-max-kit"
   },
@@ -79,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-06-21T08:30:47Z",
     "url": "https://github.com/christopherlouet/claude-base"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-21T08:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
@@ -106,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-06-21T08:29:35Z",
     "url": "https://github.com/kyaukyuai/stop-slop-ja"
-  },
-  {
-    "description": "A dotfiles repo that treats AI agent behavior as infrastructure",
-    "id": "pbierkortte/ai-runbook",
-    "language": "HTML",
-    "name": "pbierkortte/ai-runbook",
-    "stars": 4,
-    "updated_at": "2026-06-21T08:28:54Z",
-    "url": "https://github.com/pbierkortte/ai-runbook"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -216,15 +270,6 @@
     "url": "https://github.com/viktor-milev/claude-skills"
   },
   {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 764,
-    "updated_at": "2026-06-21T08:16:45Z",
-    "url": "https://github.com/promptdriven/pdd"
-  },
-  {
     "description": "High-value AI skills repository for Codex, Claude Code, OpenClaw, agents, prompts, and automation workflows.  \u9ad8\u4ef7\u503c\u7684 AI \u6280\u80fd",
     "id": "seaworld008/Commonly-used-high-value-skills",
     "language": "Python",
@@ -265,7 +310,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 19705,
+    "stars": 19706,
     "updated_at": "2026-06-21T07:59:54Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -301,7 +346,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 42544,
+    "stars": 42574,
     "updated_at": "2026-06-21T07:50:56Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -378,15 +423,6 @@
     "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
   },
   {
-    "description": "\u26a1 Talk less. Code better. \u2014 A Claude skill combining caveman communication + Karpathy coding principles. Works with Curs",
-    "id": "Vishnu90Coreinn/lean-dev",
-    "language": "\u2014",
-    "name": "Vishnu90Coreinn/lean-dev",
-    "stars": 1,
-    "updated_at": "2026-06-21T07:20:03Z",
-    "url": "https://github.com/Vishnu90Coreinn/lean-dev"
-  },
-  {
     "description": "Human-supervised agentic workflows for tool-restricted AI environments.",
     "id": "spark2k06/Agentless",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T07:12:37Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:11:56Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 19,
-    "updated_at": "2026-06-21T07:11:09Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Serena is to find the reliable source (tech news + interview questions, job news, DSA problems) from many websites, find",
-    "id": "realBoBao/Serena_The-Accountant",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_The-Accountant",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:10:20Z",
-    "url": "https://github.com/realBoBao/Serena_The-Accountant"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 2,
-    "updated_at": "2026-06-21T07:09:53Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
   }
 ]
