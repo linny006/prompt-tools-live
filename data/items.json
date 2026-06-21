@@ -1,5 +1,113 @@
 [
   {
+    "description": "180 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "JavaScript",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1007,
+    "updated_at": "2026-06-21T18:45:14Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "the best papers, guides, blogs and lectures on ai. grouped by level so you always know what to read next.",
+    "id": "tushaarmehtaa/zero-to-ai-native",
+    "language": "TypeScript",
+    "name": "tushaarmehtaa/zero-to-ai-native",
+    "stars": 0,
+    "updated_at": "2026-06-21T18:44:51Z",
+    "url": "https://github.com/tushaarmehtaa/zero-to-ai-native"
+  },
+  {
+    "description": "Lightweight Claude Code skills for daily AI-assisted development workflows.",
+    "id": "Chrike/coding-agent-skills",
+    "language": "\u2014",
+    "name": "Chrike/coding-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-21T18:41:39Z",
+    "url": "https://github.com/Chrike/coding-agent-skills"
+  },
+  {
+    "description": "Bilingual open-source AI learning map: RAG, agents, fine-tuning & system design (EN/ZH) | \u4e2d\u82f1\u53cc\u8bed\u5f00\u6e90 AI \u5b66\u4e60\u8def\u7ebf\u56fe\uff1aRAG\u3001\u667a\u80fd\u4f53\u3001\u5fae\u8c03\u53ca\u7cfb\u7edf\u8bbe",
+    "id": "Hao610/AI-Model-Atlas",
+    "language": "Python",
+    "name": "Hao610/AI-Model-Atlas",
+    "stars": 4,
+    "updated_at": "2026-06-21T18:40:53Z",
+    "url": "https://github.com/Hao610/AI-Model-Atlas"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 0,
+    "updated_at": "2026-06-21T18:38:42Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 4,
+    "updated_at": "2026-06-21T18:34:39Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 763,
+    "updated_at": "2026-06-21T18:34:14Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Red Team AI Benchmark: Evaluating Uncensored LLMs for Offensive Security",
+    "id": "toxy4ny/redteam-ai-benchmark",
+    "language": "Python",
+    "name": "toxy4ny/redteam-ai-benchmark",
+    "stars": 48,
+    "updated_at": "2026-06-21T18:33:39Z",
+    "url": "https://github.com/toxy4ny/redteam-ai-benchmark"
+  },
+  {
+    "description": "The most comprehensive open-source library for AI agent skills, MCP servers, and agent workflows. Install via npx skills",
+    "id": "michielhdoteth/awesome-ai-agent-tools",
+    "language": "\u2014",
+    "name": "michielhdoteth/awesome-ai-agent-tools",
+    "stars": 5,
+    "updated_at": "2026-06-21T18:33:08Z",
+    "url": "https://github.com/michielhdoteth/awesome-ai-agent-tools"
+  },
+  {
+    "description": "\ud83c\udf0a Blue Spec is a toolkit for Security-Driven Hardening (SDH), a defensive workflow to help AI agents detect what a syste",
+    "id": "wellwelwel/blue-spec",
+    "language": "TypeScript",
+    "name": "wellwelwel/blue-spec",
+    "stars": 56,
+    "updated_at": "2026-06-21T18:32:45Z",
+    "url": "https://github.com/wellwelwel/blue-spec"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-21T18:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83d\udc4c\ud83c\udffb Pick code into Markdown. Apply Markdown to code. Built for LLMs and quick backups.",
+    "id": "rodnye/codepicker",
+    "language": "TypeScript",
+    "name": "rodnye/codepicker",
+    "stars": 9,
+    "updated_at": "2026-06-21T18:45:22Z",
+    "url": "https://github.com/rodnye/codepicker"
+  },
+  {
     "description": "CASSIA: A Multi-Agent LLM-Based Single-Cell Cell Type Annotation Framework",
     "id": "ElliotXie/CASSIA",
     "language": "Python",
@@ -43,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T18:28:02Z",
     "url": "https://github.com/keilschismatic799/fable-jailbreak"
-  },
-  {
-    "description": "\ud83d\udc4c\ud83c\udffb Pick code into Markdown. Apply Markdown to code. Built for LLMs and quick backups.",
-    "id": "rodnye/codepicker",
-    "language": "TypeScript",
-    "name": "rodnye/codepicker",
-    "stars": 9,
-    "updated_at": "2026-06-21T18:27:49Z",
-    "url": "https://github.com/rodnye/codepicker"
   },
   {
     "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
@@ -198,15 +297,6 @@
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
   },
   {
-    "description": "The most comprehensive open-source library for AI agent skills, MCP servers, and agent workflows. Install via npx skills",
-    "id": "michielhdoteth/awesome-ai-agent-tools",
-    "language": "\u2014",
-    "name": "michielhdoteth/awesome-ai-agent-tools",
-    "stars": 5,
-    "updated_at": "2026-06-21T18:23:36Z",
-    "url": "https://github.com/michielhdoteth/awesome-ai-agent-tools"
-  },
-  {
     "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
     "id": "Connieverbal484/Anthropic_Hackathon",
     "language": "\u2014",
@@ -250,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T18:22:19Z",
     "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "\ud83c\udf0a Blue Spec is a toolkit for Security-Driven Hardening (SDH), a defensive workflow to help AI agents detect what a syste",
-    "id": "wellwelwel/blue-spec",
-    "language": "TypeScript",
-    "name": "wellwelwel/blue-spec",
-    "stars": 56,
-    "updated_at": "2026-06-21T18:22:59Z",
-    "url": "https://github.com/wellwelwel/blue-spec"
   },
   {
     "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-21T18:19:59Z",
     "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-21T18:19:25Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Build better AI prompts in seconds with reusable templates, a fast prompt builder, and one-click sharing.",
-    "id": "nico1008/EasyPrompt",
-    "language": "TypeScript",
-    "name": "nico1008/EasyPrompt",
-    "stars": 0,
-    "updated_at": "2026-06-21T18:19:13Z",
-    "url": "https://github.com/nico1008/EasyPrompt"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-06-21T18:18:59Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-21T18:18:45Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-06-21T18:18:33Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 3,
-    "updated_at": "2026-06-21T18:18:29Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "A dotfiles repo that treats AI agent behavior as infrastructure",
-    "id": "pbierkortte/ai-runbook",
-    "language": "HTML",
-    "name": "pbierkortte/ai-runbook",
-    "stars": 4,
-    "updated_at": "2026-06-21T18:18:19Z",
-    "url": "https://github.com/pbierkortte/ai-runbook"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 1,
-    "updated_at": "2026-06-21T18:18:15Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-06-21T18:18:14Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   }
 ]
