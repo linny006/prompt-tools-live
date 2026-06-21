@@ -1,12 +1,102 @@
 [
   {
+    "description": "A Claude Code subagent for designing & reviewing Claude 4.x prompts \u2014 system/user split, XML structure, cache placement,",
+    "id": "Michael-WhiteCapData/claude-prompt-architect",
+    "language": "\u2014",
+    "name": "Michael-WhiteCapData/claude-prompt-architect",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:28:52Z",
+    "url": "https://github.com/Michael-WhiteCapData/claude-prompt-architect"
+  },
+  {
+    "description": "A curated collection of AI skills, agents, and prompt engineering experiments.",
+    "id": "MS33834/AI-SKILL",
+    "language": "Python",
+    "name": "MS33834/AI-SKILL",
+    "stars": 2,
+    "updated_at": "2026-06-21T04:28:12Z",
+    "url": "https://github.com/MS33834/AI-SKILL"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 42163,
+    "updated_at": "2026-06-21T04:26:29Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Fast Rust repo map for AI coding agents: token-budgeted signatures, imports, diff, and MCP.",
+    "id": "fkenmar/atlas",
+    "language": "Rust",
+    "name": "fkenmar/atlas",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:24:55Z",
+    "url": "https://github.com/fkenmar/atlas"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-06-21T04:06:00Z",
+    "updated_at": "2026-06-21T04:22:59Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-21T04:22:26Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 54,
+    "updated_at": "2026-06-21T04:22:08Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
+    "id": "ZeroLu/awesome-seedance",
+    "language": "Shell",
+    "name": "ZeroLu/awesome-seedance",
+    "stars": 1970,
+    "updated_at": "2026-06-21T04:21:35Z",
+    "url": "https://github.com/ZeroLu/awesome-seedance"
+  },
+  {
+    "description": "Serena is to find the reliable source (tech news + interview questions, job news, DSA problems) from many websites, find",
+    "id": "realBoBao/Serena_The-Accountant",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_The-Accountant",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:20:07Z",
+    "url": "https://github.com/realBoBao/Serena_The-Accountant"
+  },
+  {
+    "description": "FollowUp is a clinician friendly follow-up dashboard that helps reception and care teams manage one-time and periodic pa",
+    "id": "KhaledBaki/HackersAndHealersHackathon",
+    "language": "HTML",
+    "name": "KhaledBaki/HackersAndHealersHackathon",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:16:09Z",
+    "url": "https://github.com/KhaledBaki/HackersAndHealersHackathon"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-21T04:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
@@ -18,15 +108,6 @@
     "url": "https://github.com/sauravbhattacharya001/prompt"
   },
   {
-    "description": "FollowUp is a clinician friendly follow-up dashboard that helps reception and care teams manage one-time and periodic pa",
-    "id": "KhaledBaki/HackersAndHealersHackathon",
-    "language": "HTML",
-    "name": "KhaledBaki/HackersAndHealersHackathon",
-    "stars": 0,
-    "updated_at": "2026-06-21T04:04:02Z",
-    "url": "https://github.com/KhaledBaki/HackersAndHealersHackathon"
-  },
-  {
     "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
     "id": "crisnahine/chameleon",
     "language": "Python",
@@ -34,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-06-21T04:02:19Z",
     "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-21T04:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Vibe Coding OS \u2014 Claude/Codex/Cursor skill framework with 139 skills, 111 commands, 95 templates, 22 tracked sources, 28",
@@ -63,30 +135,12 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
-    "description": "A curated collection of AI skills, agents, and prompt engineering experiments.",
-    "id": "MS33834/AI-SKILL",
-    "language": "Python",
-    "name": "MS33834/AI-SKILL",
-    "stars": 2,
-    "updated_at": "2026-06-21T03:52:56Z",
-    "url": "https://github.com/MS33834/AI-SKILL"
-  },
-  {
-    "description": "Serena is to find the reliable source (tech news + interview questions, job news, DSA problems) from many websites, find",
-    "id": "realBoBao/Serena_The-Accountant",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_The-Accountant",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:51:45Z",
-    "url": "https://github.com/realBoBao/Serena_The-Accountant"
-  },
-  {
     "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
     "id": "zigrivers/scaffold",
     "language": "TypeScript",
     "name": "zigrivers/scaffold",
     "stars": 5,
-    "updated_at": "2026-06-21T04:15:11Z",
+    "updated_at": "2026-06-21T04:27:34Z",
     "url": "https://github.com/zigrivers/scaffold"
   },
   {
@@ -108,15 +162,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Fast Rust repo map for AI coding agents: token-budgeted signatures, imports, diff, and MCP.",
-    "id": "fkenmar/atlas",
-    "language": "Rust",
-    "name": "fkenmar/atlas",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:44:26Z",
-    "url": "https://github.com/fkenmar/atlas"
-  },
-  {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
     "id": "5uprem4/ai-skill-vault",
     "language": "HTML",
@@ -133,15 +178,6 @@
     "stars": 50,
     "updated_at": "2026-06-21T03:33:20Z",
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 54,
-    "updated_at": "2026-06-21T03:30:51Z",
-    "url": "https://github.com/terrylica/cc-skills"
   },
   {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
@@ -166,7 +202,7 @@
     "id": "Forward-Future/loop-library",
     "language": "HTML",
     "name": "Forward-Future/loop-library",
-    "stars": 442,
+    "stars": 448,
     "updated_at": "2026-06-21T03:22:46Z",
     "url": "https://github.com/Forward-Future/loop-library"
   },
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 23,
-    "updated_at": "2026-06-21T03:15:33Z",
+    "updated_at": "2026-06-21T04:22:58Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -223,6 +259,15 @@
     "stars": 1,
     "updated_at": "2026-06-21T03:13:38Z",
     "url": "https://github.com/kphutt/prompt-lenses"
+  },
+  {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "HTML",
+    "name": "Open-Less/openless",
+    "stars": 2437,
+    "updated_at": "2026-06-21T03:09:41Z",
+    "url": "https://github.com/Open-Less/openless"
   },
   {
     "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
@@ -319,7 +364,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 7660,
+    "stars": 7661,
     "updated_at": "2026-06-21T02:37:34Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -346,7 +391,7 @@
     "id": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
     "language": "Python",
     "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "stars": 16843,
+    "stars": 16844,
     "updated_at": "2026-06-21T02:28:11Z",
     "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T02:07:35Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "HTML",
-    "name": "Open-Less/openless",
-    "stars": 2436,
-    "updated_at": "2026-06-21T03:09:41Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "\u221e Loop-Bazaar: 5,000+ Curated AI Agent Workflows, Repeatable Prompts, & Stop Conditions. Sorted by Community Ratings.",
-    "id": "Drvivek34/Loop-Bazaar",
-    "language": "Python",
-    "name": "Drvivek34/Loop-Bazaar",
-    "stars": 0,
-    "updated_at": "2026-06-21T02:04:13Z",
-    "url": "https://github.com/Drvivek34/Loop-Bazaar"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-21T02:01:58Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "A full-stack prompt intelligence platform that analyzes your unique prompting traits and refines raw natural-language pr",
-    "id": "sameernagar-hub/promptPilot",
-    "language": "Python",
-    "name": "sameernagar-hub/promptPilot",
-    "stars": 0,
-    "updated_at": "2026-06-21T02:01:07Z",
-    "url": "https://github.com/sameernagar-hub/promptPilot"
-  },
-  {
-    "description": "Remove AI writing patterns from Japanese prose. Japanese-localized derivative of hardikpandya/stop-slop (MIT).",
-    "id": "kyaukyuai/stop-slop-ja",
-    "language": "JavaScript",
-    "name": "kyaukyuai/stop-slop-ja",
-    "stars": 4,
-    "updated_at": "2026-06-21T01:53:42Z",
-    "url": "https://github.com/kyaukyuai/stop-slop-ja"
   }
 ]
