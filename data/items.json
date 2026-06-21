@@ -1,10 +1,118 @@
 [
   {
+    "description": "ComfyUI nodes for Ideogram 4: extract color palettes from images, assemble/validate structured JSON prompts, embed & rec",
+    "id": "SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools",
+    "language": "Python",
+    "name": "SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools",
+    "stars": 1,
+    "updated_at": "2026-06-21T04:44:25Z",
+    "url": "https://github.com/SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools"
+  },
+  {
+    "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f \ub3d9\uc801 AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
+    "id": "iaminpwd/dotfiles",
+    "language": "Shell",
+    "name": "iaminpwd/dotfiles",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:41:09Z",
+    "url": "https://github.com/iaminpwd/dotfiles"
+  },
+  {
+    "description": "DARE is a structured methodology for AI-assisted software development. Four phases (Design \u2192 Architect \u2192 Review \u2192 Execut",
+    "id": "dewtech-technologies/dare-method",
+    "language": "HTML",
+    "name": "dewtech-technologies/dare-method",
+    "stars": 3,
+    "updated_at": "2026-06-21T04:41:54Z",
+    "url": "https://github.com/dewtech-technologies/dare-method"
+  },
+  {
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
+    "id": "f/prompts.chat",
+    "language": "HTML",
+    "name": "f/prompts.chat",
+    "stars": 163990,
+    "updated_at": "2026-06-21T04:36:05Z",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "description": "Prompt editing, ANIMA prompt correction, NAIA prompt integration, and LoRA preset tools for ComfyUI.",
+    "id": "n0va39/ComfyUI-EasyUseAnima",
+    "language": "JavaScript",
+    "name": "n0va39/ComfyUI-EasyUseAnima",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:35:20Z",
+    "url": "https://github.com/n0va39/ComfyUI-EasyUseAnima"
+  },
+  {
+    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 4,
+    "updated_at": "2026-06-21T04:42:05Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 23,
+    "updated_at": "2026-06-21T04:36:33Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:31:56Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1400,
+    "updated_at": "2026-06-21T04:31:54Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Serena is to find the reliable source (tech news + interview questions, job news, DSA problems) from many websites, find",
+    "id": "realBoBao/Serena_The-Accountant",
+    "language": "JavaScript",
+    "name": "realBoBao/Serena_The-Accountant",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:31:08Z",
+    "url": "https://github.com/realBoBao/Serena_The-Accountant"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-21T04:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thi",
+    "id": "asgeirtj/system_prompts_leaks",
+    "language": "JavaScript",
+    "name": "asgeirtj/system_prompts_leaks",
+    "stars": 43931,
+    "updated_at": "2026-06-21T04:30:07Z",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
     "description": "A Claude Code subagent for designing & reviewing Claude 4.x prompts \u2014 system/user split, XML structure, cache placement,",
     "id": "Michael-WhiteCapData/claude-prompt-architect",
     "language": "\u2014",
     "name": "Michael-WhiteCapData/claude-prompt-architect",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-21T04:28:52Z",
     "url": "https://github.com/Michael-WhiteCapData/claude-prompt-architect"
   },
@@ -22,7 +130,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 42163,
+    "stars": 42179,
     "updated_at": "2026-06-21T04:26:29Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -34,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T04:24:55Z",
     "url": "https://github.com/fkenmar/atlas"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-21T04:22:59Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -72,15 +171,6 @@
     "url": "https://github.com/ZeroLu/awesome-seedance"
   },
   {
-    "description": "Serena is to find the reliable source (tech news + interview questions, job news, DSA problems) from many websites, find",
-    "id": "realBoBao/Serena_The-Accountant",
-    "language": "JavaScript",
-    "name": "realBoBao/Serena_The-Accountant",
-    "stars": 0,
-    "updated_at": "2026-06-21T04:20:07Z",
-    "url": "https://github.com/realBoBao/Serena_The-Accountant"
-  },
-  {
     "description": "FollowUp is a clinician friendly follow-up dashboard that helps reception and care teams manage one-time and periodic pa",
     "id": "KhaledBaki/HackersAndHealersHackathon",
     "language": "HTML",
@@ -90,15 +180,6 @@
     "url": "https://github.com/KhaledBaki/HackersAndHealersHackathon"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-21T04:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
     "id": "sauravbhattacharya001/prompt",
     "language": "C#",
@@ -106,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T04:05:58Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Claude Code plugin that learns your repo's conventions and injects archetype-aware guidance per edit, so generated code ",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 4,
-    "updated_at": "2026-06-21T04:02:19Z",
-    "url": "https://github.com/crisnahine/chameleon"
   },
   {
     "description": "Vibe Coding OS \u2014 Claude/Codex/Cursor skill framework with 139 skills, 111 commands, 95 templates, 22 tracked sources, 28",
@@ -140,17 +212,8 @@
     "language": "TypeScript",
     "name": "zigrivers/scaffold",
     "stars": 5,
-    "updated_at": "2026-06-21T04:27:34Z",
+    "updated_at": "2026-06-21T04:43:14Z",
     "url": "https://github.com/zigrivers/scaffold"
-  },
-  {
-    "description": "ComfyUI nodes for Ideogram 4: extract color palettes from images, assemble/validate structured JSON prompts, embed & rec",
-    "id": "SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools",
-    "language": "Python",
-    "name": "SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools",
-    "stars": 1,
-    "updated_at": "2026-06-21T03:50:49Z",
-    "url": "https://github.com/SurrealByDesign/ComfyUI-Ideogram-Palette-and-Prompt-Tools"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -202,7 +265,7 @@
     "id": "Forward-Future/loop-library",
     "language": "HTML",
     "name": "Forward-Future/loop-library",
-    "stars": 448,
+    "stars": 454,
     "updated_at": "2026-06-21T03:22:46Z",
     "url": "https://github.com/Forward-Future/loop-library"
   },
@@ -214,15 +277,6 @@
     "stars": 11,
     "updated_at": "2026-06-21T03:52:56Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 23,
-    "updated_at": "2026-06-21T04:22:58Z",
-    "url": "https://github.com/KbWen/agentic-os"
   },
   {
     "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
@@ -265,7 +319,7 @@
     "id": "Open-Less/openless",
     "language": "HTML",
     "name": "Open-Less/openless",
-    "stars": 2437,
+    "stars": 2438,
     "updated_at": "2026-06-21T03:09:41Z",
     "url": "https://github.com/Open-Less/openless"
   },
@@ -333,15 +387,6 @@
     "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
   },
   {
-    "description": "DARE is a structured methodology for AI-assisted software development. Four phases (Design \u2192 Architect \u2192 Review \u2192 Execut",
-    "id": "dewtech-technologies/dare-method",
-    "language": "HTML",
-    "name": "dewtech-technologies/dare-method",
-    "stars": 3,
-    "updated_at": "2026-06-21T02:53:12Z",
-    "url": "https://github.com/dewtech-technologies/dare-method"
-  },
-  {
     "description": "Free, production-grade Claude Code & Cursor prompts for senior engineers \u2014 code review, debugging, refactoring, system d",
     "id": "sublimecoder/sublimecoding",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 12,
     "updated_at": "2026-06-21T02:27:06Z",
     "url": "https://github.com/zxpmail/ReqForge"
-  },
-  {
-    "description": "",
-    "id": "bscordeiro/pi-twiddle",
-    "language": "TypeScript",
-    "name": "bscordeiro/pi-twiddle",
-    "stars": 0,
-    "updated_at": "2026-06-21T02:16:49Z",
-    "url": "https://github.com/bscordeiro/pi-twiddle"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 21,
-    "updated_at": "2026-06-21T02:13:16Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-06-21T02:10:12Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-21T02:07:49Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-06-21T02:07:35Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   }
 ]
