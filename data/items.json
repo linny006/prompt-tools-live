@@ -1,5 +1,59 @@
 [
   {
+    "description": "Prompt \u5de5\u7a0b\u5e73\u53f0\uff1a\u6a21\u677f\u7ba1\u7406\u3001\u7248\u672c\u63a7\u5236\u3001A/B \u6d4b\u8bd5\u3001\u8bc4\u4f30\u5f15\u64ce",
+    "id": "dirjaker/prompt_engineering",
+    "language": "HTML",
+    "name": "dirjaker/prompt_engineering",
+    "stars": 1,
+    "updated_at": "2026-06-21T16:18:28Z",
+    "url": "https://github.com/dirjaker/prompt_engineering"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-21T16:18:08Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-06-21T16:17:48Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
+    "id": "Forward-Future/loop-library",
+    "language": "HTML",
+    "name": "Forward-Future/loop-library",
+    "stars": 587,
+    "updated_at": "2026-06-21T16:17:35Z",
+    "url": "https://github.com/Forward-Future/loop-library"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 43477,
+    "updated_at": "2026-06-21T16:15:49Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-21T16:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
     "id": "ariffazil/arifos",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T16:09:14Z",
     "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Prompt \u5de5\u7a0b\u5e73\u53f0\uff1a\u6a21\u677f\u7ba1\u7406\u3001\u7248\u672c\u63a7\u5236\u3001A/B \u6d4b\u8bd5\u3001\u8bc4\u4f30\u5f15\u64ce",
-    "id": "dirjaker/prompt_engineering",
-    "language": "HTML",
-    "name": "dirjaker/prompt_engineering",
-    "stars": 1,
-    "updated_at": "2026-06-21T16:09:03Z",
-    "url": "https://github.com/dirjaker/prompt_engineering"
   },
   {
     "description": "Fast Rust repo map for AI coding agents: token-budgeted signatures, imports, diff, and MCP.",
@@ -387,15 +432,6 @@
     "url": "https://github.com/Hampto7114/detect-skill"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-21T16:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
     "id": "Wrongful-stratocracy6799/awesome-automated-ai",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T16:00:08Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-21T15:59:57Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 3,
-    "updated_at": "2026-06-21T15:59:48Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 1,
-    "updated_at": "2026-06-21T15:59:33Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Semantic diff for LLM prompts \u2014 compare prompt versions like git diff",
-    "id": "he-yufeng/PromptDiff",
-    "language": "Python",
-    "name": "he-yufeng/PromptDiff",
-    "stars": 1,
-    "updated_at": "2026-06-21T15:59:31Z",
-    "url": "https://github.com/he-yufeng/PromptDiff"
   }
 ]
