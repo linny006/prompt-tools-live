@@ -1,5 +1,113 @@
 [
   {
+    "description": "Fit text into LLM token budgets \u2014 estimate, trim, and pack prompts with zero dependencies.",
+    "id": "trananhtung/tokenfit",
+    "language": "TypeScript",
+    "name": "trananhtung/tokenfit",
+    "stars": 1,
+    "updated_at": "2026-06-22T14:14:44Z",
+    "url": "https://github.com/trananhtung/tokenfit"
+  },
+  {
+    "description": "Plug-and-play skills for Agents that give actionable steps, tool integrations, and verifiable outputs. Includes a sandbo",
+    "id": "rondomondo/agent-skills-beta",
+    "language": "HTML",
+    "name": "rondomondo/agent-skills-beta",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:10:11Z",
+    "url": "https://github.com/rondomondo/agent-skills-beta"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 46,
+    "updated_at": "2026-06-22T14:09:40Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "Zero-config LLM cost & quality monitoring for Ruby apps - automatically log AI API calls and collect user feedback for a",
+    "id": "Coolhand-Labs/coolhand-ruby",
+    "language": "Ruby",
+    "name": "Coolhand-Labs/coolhand-ruby",
+    "stars": 9,
+    "updated_at": "2026-06-22T14:09:36Z",
+    "url": "https://github.com/Coolhand-Labs/coolhand-ruby"
+  },
+  {
+    "description": "Inspectable agent skills in two files: a Markdown doc + a declarative YON protocol you can validate yourself. No arbitra",
+    "id": "allemaar/open-skills",
+    "language": "JavaScript",
+    "name": "allemaar/open-skills",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:09:29Z",
+    "url": "https://github.com/allemaar/open-skills"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 2,
+    "updated_at": "2026-06-22T14:06:00Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
+    "id": "OutlineDriven/odin-claude-plugin",
+    "language": "Python",
+    "name": "OutlineDriven/odin-claude-plugin",
+    "stars": 27,
+    "updated_at": "2026-06-22T14:01:35Z",
+    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
+    "description": "Markdown for the AI era",
+    "id": "agentmark-ai/agentmark",
+    "language": "TypeScript",
+    "name": "agentmark-ai/agentmark",
+    "stars": 351,
+    "updated_at": "2026-06-22T14:03:40Z",
+    "url": "https://github.com/agentmark-ai/agentmark"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-22T14:00:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Codes and projects from the 12-week Generative AI & Computer Vision bootcamp at Hamrah Academy. Covering CNNs, GANs, Dif",
+    "id": "ErfanMasoudiBA/GenAI-Vision-Bootcamp",
+    "language": "Jupyter Notebook",
+    "name": "ErfanMasoudiBA/GenAI-Vision-Bootcamp",
+    "stars": 1,
+    "updated_at": "2026-06-22T14:00:35Z",
+    "url": "https://github.com/ErfanMasoudiBA/GenAI-Vision-Bootcamp"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 5,
+    "updated_at": "2026-06-22T14:00:16Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10233,
+    "updated_at": "2026-06-22T13:58:24Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
@@ -16,15 +124,6 @@
     "stars": 12,
     "updated_at": "2026-06-22T13:57:01Z",
     "url": "https://github.com/Hanjo92/unity-mcp-ui-layout"
-  },
-  {
-    "description": "Markdown for the AI era",
-    "id": "agentmark-ai/agentmark",
-    "language": "TypeScript",
-    "name": "agentmark-ai/agentmark",
-    "stars": 351,
-    "updated_at": "2026-06-22T13:57:30Z",
-    "url": "https://github.com/agentmark-ai/agentmark"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -58,8 +157,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29527,
-    "updated_at": "2026-06-22T13:54:12Z",
+    "stars": 29528,
+    "updated_at": "2026-06-22T14:14:32Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -94,7 +193,7 @@
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12608,
+    "stars": 12609,
     "updated_at": "2026-06-22T13:49:00Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
@@ -135,15 +234,6 @@
     "url": "https://github.com/KongFangXun/sofagent"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-22T13:45:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -169,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T13:43:32Z",
     "url": "https://github.com/Sharrmavishal/operating-kit"
-  },
-  {
-    "description": "Plug-and-play skills for Agents that give actionable steps, tool integrations, and verifiable outputs. Includes a sandbo",
-    "id": "rondomondo/agent-skills-beta",
-    "language": "HTML",
-    "name": "rondomondo/agent-skills-beta",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:43:13Z",
-    "url": "https://github.com/rondomondo/agent-skills-beta"
   },
   {
     "description": "Control Google Jules from LLM agents with a reusable skill, API helper, and ops guides.",
@@ -232,15 +313,6 @@
     "stars": 1010,
     "updated_at": "2026-06-22T13:31:55Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 2,
-    "updated_at": "2026-06-22T13:30:39Z",
-    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
@@ -324,15 +396,6 @@
     "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
   },
   {
-    "description": "Inspectable agent skills in two files: a Markdown doc + a declarative YON protocol you can validate yourself. No arbitra",
-    "id": "allemaar/open-skills",
-    "language": "JavaScript",
-    "name": "allemaar/open-skills",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:17:59Z",
-    "url": "https://github.com/allemaar/open-skills"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-22T13:12:15Z",
     "url": "https://github.com/NoahJenkins/vgc-coach"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:09:58Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "\u4e2d\u6587\u4f18\u5148\u7684 Vibe Coding / AI coding engineering workflow guide: specs, agents, worktrees, skills, CI, and review.",
-    "id": "Lling0000/Vibe_coding_guide",
-    "language": "JavaScript",
-    "name": "Lling0000/Vibe_coding_guide",
-    "stars": 68,
-    "updated_at": "2026-06-22T13:07:53Z",
-    "url": "https://github.com/Lling0000/Vibe_coding_guide"
-  },
-  {
-    "description": "Easy-to-use, no-setup, CLI tool that finds files and folders by fuzzy name and recursively concatenates files to clipboa",
-    "id": "tigreau/catclip",
-    "language": "Go",
-    "name": "tigreau/catclip",
-    "stars": 4,
-    "updated_at": "2026-06-22T13:07:07Z",
-    "url": "https://github.com/tigreau/catclip"
-  },
-  {
-    "description": "Process raw materials from external sources into Claude Code skills. 7-step pipeline: scan, extract, context check, eval",
-    "id": "Evgeniy-Mikhailove/incoming-intel",
-    "language": "\u2014",
-    "name": "Evgeniy-Mikhailove/incoming-intel",
-    "stars": 1,
-    "updated_at": "2026-06-22T13:04:51Z",
-    "url": "https://github.com/Evgeniy-Mikhailove/incoming-intel"
-  },
-  {
-    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 54,
-    "updated_at": "2026-06-22T13:04:41Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
-    "description": "Awesome GPT-5.6 API prompts, use cases, and integrations \u2014 60 curated real-world cases for OpenAI's latest frontier mode",
-    "id": "Anil-matcha/Awesome-GPT-5.6-API-and-Prompts",
-    "language": "\u2014",
-    "name": "Anil-matcha/Awesome-GPT-5.6-API-and-Prompts",
-    "stars": 159,
-    "updated_at": "2026-06-22T13:03:45Z",
-    "url": "https://github.com/Anil-matcha/Awesome-GPT-5.6-API-and-Prompts"
-  },
-  {
-    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
-    "id": "Mr-Salticidae/knowledge-base",
-    "language": "Python",
-    "name": "Mr-Salticidae/knowledge-base",
-    "stars": 14,
-    "updated_at": "2026-06-22T13:00:47Z",
-    "url": "https://github.com/Mr-Salticidae/knowledge-base"
   }
 ]
