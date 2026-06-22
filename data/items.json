@@ -1,5 +1,68 @@
 [
   {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-06-22T07:37:12Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "\ud83e\udd16 Analyze emotions and sarcasm in real-time with an AI therapy chatbot, providing empathetic responses and tracking emot",
+    "id": "solar-thermopsis805/therapeutic-llm",
+    "language": "TypeScript",
+    "name": "solar-thermopsis805/therapeutic-llm",
+    "stars": 1,
+    "updated_at": "2026-06-22T07:34:28Z",
+    "url": "https://github.com/solar-thermopsis805/therapeutic-llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-22T07:34:12Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze the mathematical reasoning abilities of the Mistral-7B model using diverse prompting techniques on multi-step ",
+    "id": "wolfenix/llm-math-reasoning-analysis",
+    "language": "HTML",
+    "name": "wolfenix/llm-math-reasoning-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-22T07:33:55Z",
+    "url": "https://github.com/wolfenix/llm-math-reasoning-analysis"
+  },
+  {
+    "description": "\u2728 Explore essential resources and techniques for effective prompt engineering with Large Language Models, enhancing your",
+    "id": "hungf1511/awesome-prompt-engineering",
+    "language": "\u2014",
+    "name": "hungf1511/awesome-prompt-engineering",
+    "stars": 6,
+    "updated_at": "2026-06-22T07:32:14Z",
+    "url": "https://github.com/hungf1511/awesome-prompt-engineering"
+  },
+  {
+    "description": "An open Agent Skill that turns one poster into a 15-second vertical promotional video workflow and Seedance-style prompt",
+    "id": "LeechQAQ/poster-to-video",
+    "language": "PowerShell",
+    "name": "LeechQAQ/poster-to-video",
+    "stars": 0,
+    "updated_at": "2026-06-22T07:32:09Z",
+    "url": "https://github.com/LeechQAQ/poster-to-video"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-22T07:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "An online prompt engineering tool designed to transform rough ideas, lyrics, moods, and visual concepts into polished Ve",
     "id": "wuisabel-gif/veo3_prompt_improver",
     "language": "HTML",
@@ -68,8 +131,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3309,
-    "updated_at": "2026-06-22T07:30:24Z",
+    "updated_at": "2026-06-22T07:34:59Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22445,
+    "updated_at": "2026-06-22T07:24:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Vibe Coding OS \u2014 Claude/Codex/Cursor skill framework with 139 skills, 111 commands, 95 templates, 22 tracked sources, 28",
@@ -77,7 +149,7 @@
     "language": "JavaScript",
     "name": "roronoazoroshao369/vibe-coding-os",
     "stars": 0,
-    "updated_at": "2026-06-22T07:23:54Z",
+    "updated_at": "2026-06-22T07:37:15Z",
     "url": "https://github.com/roronoazoroshao369/vibe-coding-os"
   },
   {
@@ -130,8 +202,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 29497,
-    "updated_at": "2026-06-22T07:19:49Z",
+    "stars": 29498,
+    "updated_at": "2026-06-22T07:35:48Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 6,
     "updated_at": "2026-06-22T07:15:47Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-22T07:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T06:53:31Z",
     "url": "https://github.com/iaminpwd/dotfiles"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-06-22T06:54:04Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "HTML",
-    "name": "Open-Less/openless",
-    "stars": 2457,
-    "updated_at": "2026-06-22T06:51:21Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "A curated collection of AI skills, agents, and prompt engineering experiments.",
-    "id": "MS33834/AI-SKILL",
-    "language": "Python",
-    "name": "MS33834/AI-SKILL",
-    "stars": 3,
-    "updated_at": "2026-06-22T06:49:31Z",
-    "url": "https://github.com/MS33834/AI-SKILL"
-  },
-  {
-    "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
-    "id": "keilschismatic799/fable-jailbreak",
-    "language": "\u2014",
-    "name": "keilschismatic799/fable-jailbreak",
-    "stars": 0,
-    "updated_at": "2026-06-22T06:44:28Z",
-    "url": "https://github.com/keilschismatic799/fable-jailbreak"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 0,
-    "updated_at": "2026-06-22T06:44:18Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 26675,
-    "updated_at": "2026-06-22T06:43:48Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 0,
-    "updated_at": "2026-06-22T06:43:34Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
   }
 ]
