@@ -1,12 +1,102 @@
 [
   {
-    "description": "OpenCode \u591a\u667a\u80fd\u4f53\u7f16\u6392\u6280\u80fd \u2014 T1/T2/T3 + T4(batch/task) \u6df7\u5408\u7f16\u6392\uff0c\u8ba9\u590d\u6742\u4efb\u52a1\u6210\u672c\u964d\u4f4e 30-90%",
-    "id": "JINGMINGRUO/opencode-parallel-agents",
-    "language": "\u2014",
-    "name": "JINGMINGRUO/opencode-parallel-agents",
+    "description": "Evidence-first AI playbooks for ecommerce operators \u2014 free to read, one prompt to run.",
+    "id": "perceptiv-digital/ecommerce-operator-playbooks",
+    "language": "JavaScript",
+    "name": "perceptiv-digital/ecommerce-operator-playbooks",
     "stars": 0,
-    "updated_at": "2026-06-22T09:15:12Z",
-    "url": "https://github.com/JINGMINGRUO/opencode-parallel-agents"
+    "updated_at": "2026-06-22T09:30:14Z",
+    "url": "https://github.com/perceptiv-digital/ecommerce-operator-playbooks"
+  },
+  {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 1,
+    "updated_at": "2026-06-22T09:30:07Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "\u2694 18,142+ AI agent skills from 307+ GitHub repos across 14 frameworks (Claude Code, Cursor, Cline, Roo, Aider, OpenHands",
+    "id": "Bilal140202/the-lord-of-the-skills",
+    "language": "Python",
+    "name": "Bilal140202/the-lord-of-the-skills",
+    "stars": 1,
+    "updated_at": "2026-06-22T09:29:14Z",
+    "url": "https://github.com/Bilal140202/the-lord-of-the-skills"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29505,
+    "updated_at": "2026-06-22T09:29:09Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Developer focused LLM experimentation and debugging server for testing prompts, tools, MCP integrations, traces, and sch",
+    "id": "jkandasa/promptd",
+    "language": "Dart",
+    "name": "jkandasa/promptd",
+    "stars": 0,
+    "updated_at": "2026-06-22T09:27:01Z",
+    "url": "https://github.com/jkandasa/promptd"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 19712,
+    "updated_at": "2026-06-22T09:25:53Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Contradictory autobiographical memory resolution in persistent AI agents.",
+    "id": "Course-Correct-Labs/Historical-Corruption",
+    "language": "Python",
+    "name": "Course-Correct-Labs/Historical-Corruption",
+    "stars": 0,
+    "updated_at": "2026-06-22T09:25:07Z",
+    "url": "https://github.com/Course-Correct-Labs/Historical-Corruption"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5144,
+    "updated_at": "2026-06-22T09:24:21Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 85,
+    "updated_at": "2026-06-22T09:24:16Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Seedance 2.5 API guide, prompts, parameters, and examples for video generation",
+    "id": "Anil-matcha/awesome-seedance-2.5-api-prompts",
+    "language": "\u2014",
+    "name": "Anil-matcha/awesome-seedance-2.5-api-prompts",
+    "stars": 199,
+    "updated_at": "2026-06-22T09:19:04Z",
+    "url": "https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-22T09:15:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -27,15 +117,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "Seedance 2.5 API guide, prompts, parameters, and examples for video generation",
-    "id": "Anil-matcha/awesome-seedance-2.5-api-prompts",
-    "language": "\u2014",
-    "name": "Anil-matcha/awesome-seedance-2.5-api-prompts",
-    "stars": 199,
-    "updated_at": "2026-06-22T09:13:10Z",
-    "url": "https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts"
-  },
-  {
     "description": "Local context engine for AI coding agents. Routes tasks to relevant files, tests, rules, and skills, supports prompt cac",
     "id": "vishal2612200/agentpack",
     "language": "Python",
@@ -50,26 +131,8 @@
     "language": "Go",
     "name": "pedromvgomes/agentic-toolkit",
     "stars": 0,
-    "updated_at": "2026-06-22T09:12:29Z",
+    "updated_at": "2026-06-22T09:27:11Z",
     "url": "https://github.com/pedromvgomes/agentic-toolkit"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 19712,
-    "updated_at": "2026-06-22T09:12:11Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready tem",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5143,
-    "updated_at": "2026-06-22T09:10:29Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
   },
   {
     "description": "Multimodal BBQ (bias) visual question answering: pick the right answer from image + context + question + 3 options, and ",
@@ -122,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3310,
-    "updated_at": "2026-06-22T09:03:46Z",
+    "updated_at": "2026-06-22T09:29:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -142,33 +205,6 @@
     "stars": 2,
     "updated_at": "2026-06-22T09:01:07Z",
     "url": "https://github.com/Arete-Consortium/ai-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-22T09:00:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Contradictory autobiographical memory resolution in persistent AI agents.",
-    "id": "Course-Correct-Labs/Historical-Corruption",
-    "language": "Python",
-    "name": "Course-Correct-Labs/Historical-Corruption",
-    "stars": 0,
-    "updated_at": "2026-06-22T09:00:19Z",
-    "url": "https://github.com/Course-Correct-Labs/Historical-Corruption"
-  },
-  {
-    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 1,
-    "updated_at": "2026-06-22T09:00:07Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
     "description": "Unofficial Codex fieldkit for non-engineers building verifiable AI agents with starter kits, evals, safety scans, and ha",
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T08:57:16Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Evidence-first AI playbooks for ecommerce operators.",
-    "id": "perceptiv-digital/ecommerce-operator-playbooks",
-    "language": "JavaScript",
-    "name": "perceptiv-digital/ecommerce-operator-playbooks",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:56:45Z",
-    "url": "https://github.com/perceptiv-digital/ecommerce-operator-playbooks"
   },
   {
     "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
@@ -347,7 +374,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 2,
-    "updated_at": "2026-06-22T08:52:28Z",
+    "updated_at": "2026-06-22T09:29:01Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T08:50:05Z",
     "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:50:01Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-06-22T08:49:55Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-06-22T08:49:43Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
   }
 ]
