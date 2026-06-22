@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ub525\ub2e4\uc774\ube0c \ud559\uc2b5 \ub808\ud3ec\ub97c \ud1b5\uc9f8\ub85c \uc0dd\uc131\ud558\ub294 \uba54\ud0c0 \ud504\ub86c\ud504\ud2b8",
+    "id": "e9ua1/prompt-blueprints",
+    "language": "\u2014",
+    "name": "e9ua1/prompt-blueprints",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:30:20Z",
+    "url": "https://github.com/e9ua1/prompt-blueprints"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 142,
+    "updated_at": "2026-06-22T14:27:30Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:27:20Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:27:18Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
+    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
+    "language": "HTML",
+    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:27:13Z",
+    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
+  },
+  {
+    "description": "Medical consultation transcriber \u2014 audio to a structured Word document. Python pipeline: speech-to-text + Claude (Calgar",
+    "id": "salim4ek/medical-transcriber-by-salim4ek",
+    "language": "Python",
+    "name": "salim4ek/medical-transcriber-by-salim4ek",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:26:49Z",
+    "url": "https://github.com/salim4ek/medical-transcriber-by-salim4ek"
+  },
+  {
+    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 149,
+    "updated_at": "2026-06-22T14:29:17Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Plug-and-play skills for Agents that give actionable steps, tool integrations, and verifiable outputs. Includes a sandbo",
+    "id": "rondomondo/agent-skills-beta",
+    "language": "HTML",
+    "name": "rondomondo/agent-skills-beta",
+    "stars": 0,
+    "updated_at": "2026-06-22T14:25:45Z",
+    "url": "https://github.com/rondomondo/agent-skills-beta"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10233,
+    "updated_at": "2026-06-22T14:25:23Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 46,
+    "updated_at": "2026-06-22T14:25:06Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "High-value AI skills repository for Codex, Claude Code, OpenClaw, agents, prompts, and automation workflows.  \u9ad8\u4ef7\u503c\u7684 AI \u6280\u80fd",
+    "id": "seaworld008/Commonly-used-high-value-skills",
+    "language": "Python",
+    "name": "seaworld008/Commonly-used-high-value-skills",
+    "stars": 45,
+    "updated_at": "2026-06-22T14:19:21Z",
+    "url": "https://github.com/seaworld008/Commonly-used-high-value-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-22T14:15:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Fit text into LLM token budgets \u2014 estimate, trim, and pack prompts with zero dependencies.",
     "id": "trananhtung/tokenfit",
     "language": "TypeScript",
@@ -9,22 +117,13 @@
     "url": "https://github.com/trananhtung/tokenfit"
   },
   {
-    "description": "Plug-and-play skills for Agents that give actionable steps, tool integrations, and verifiable outputs. Includes a sandbo",
-    "id": "rondomondo/agent-skills-beta",
+    "description": "AI Agent Builder Kits catalog: evals, commerce metadata, handoffs, llms.txt and product manifests.",
+    "id": "claudette-agent/claudette-agent.github.io",
     "language": "HTML",
-    "name": "rondomondo/agent-skills-beta",
+    "name": "claudette-agent/claudette-agent.github.io",
     "stars": 0,
-    "updated_at": "2026-06-22T14:10:11Z",
-    "url": "https://github.com/rondomondo/agent-skills-beta"
-  },
-  {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 46,
-    "updated_at": "2026-06-22T14:09:40Z",
-    "url": "https://github.com/ariffazil/arifos"
+    "updated_at": "2026-06-22T14:13:57Z",
+    "url": "https://github.com/claudette-agent/claudette-agent.github.io"
   },
   {
     "description": "Zero-config LLM cost & quality monitoring for Ruby apps - automatically log AI API calls and collect user feedback for a",
@@ -72,15 +171,6 @@
     "url": "https://github.com/agentmark-ai/agentmark"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-22T14:00:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Codes and projects from the 12-week Generative AI & Computer Vision bootcamp at Hamrah Academy. Covering CNNs, GANs, Dif",
     "id": "ErfanMasoudiBA/GenAI-Vision-Bootcamp",
     "language": "Jupyter Notebook",
@@ -97,15 +187,6 @@
     "stars": 5,
     "updated_at": "2026-06-22T14:00:16Z",
     "url": "https://github.com/danlex/suno-lab"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10233,
-    "updated_at": "2026-06-22T13:58:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
@@ -158,7 +239,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29528,
-    "updated_at": "2026-06-22T14:14:32Z",
+    "updated_at": "2026-06-22T14:28:01Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -320,7 +401,7 @@
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 1,
-    "updated_at": "2026-06-22T13:30:08Z",
+    "updated_at": "2026-06-22T14:30:07Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
@@ -329,7 +410,7 @@
     "language": "JavaScript",
     "name": "flitzrrr/agent-skills",
     "stars": 3,
-    "updated_at": "2026-06-22T13:28:34Z",
+    "updated_at": "2026-06-22T14:28:49Z",
     "url": "https://github.com/flitzrrr/agent-skills"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 653,
     "updated_at": "2026-06-22T13:24:04Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
-  },
-  {
-    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
-    "id": "AltairaLabs/PromptKit",
-    "language": "Go",
-    "name": "AltairaLabs/PromptKit",
-    "stars": 9,
-    "updated_at": "2026-06-22T13:36:04Z",
-    "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
-    "description": "From this prompt you can create your business marketing strategy easily.",
-    "id": "krishnamodi2004/Marketing-Strategist",
-    "language": "JavaScript",
-    "name": "krishnamodi2004/Marketing-Strategist",
-    "stars": 1,
-    "updated_at": "2026-06-22T13:22:00Z",
-    "url": "https://github.com/krishnamodi2004/Marketing-Strategist"
-  },
-  {
-    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
-    "id": "Paulessus/odin-gemini-mcp-bridge",
-    "language": "HTML",
-    "name": "Paulessus/odin-gemini-mcp-bridge",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:19:43Z",
-    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:17:41Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Engineering Loop \u2014 a CLAUDE.md workflow template that turns AI coding agents into structured engineers: 9-phase process ",
-    "id": "sidan93/claude-eng-loop",
-    "language": "\u2014",
-    "name": "sidan93/claude-eng-loop",
-    "stars": 1,
-    "updated_at": "2026-06-22T13:17:10Z",
-    "url": "https://github.com/sidan93/claude-eng-loop"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-06-22T13:14:17Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:14:15Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "\ud83c\udf19 Your codebase just hired a night shift \u2014 a full AI engineering team that plans, builds, tests, reviews, and releases t",
-    "id": "whimzyLive/nightshift-ai",
-    "language": "Shell",
-    "name": "whimzyLive/nightshift-ai",
-    "stars": 3,
-    "updated_at": "2026-06-22T13:13:59Z",
-    "url": "https://github.com/whimzyLive/nightshift-ai"
-  },
-  {
-    "description": "Open-source Pokemon Champions VGC coaching skills and evaluation workspace for Codex, Claude Code, and OpenCode.",
-    "id": "NoahJenkins/vgc-coach",
-    "language": "Python",
-    "name": "NoahJenkins/vgc-coach",
-    "stars": 2,
-    "updated_at": "2026-06-22T13:12:15Z",
-    "url": "https://github.com/NoahJenkins/vgc-coach"
   }
 ]
