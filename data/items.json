@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29590,
+    "updated_at": "2026-06-23T11:48:52Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-06-23T11:48:17Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Public standalone Skill lifecycle toolkit for creating, adopting, overlaying, repairing, and evolving Agent Skills acros",
+    "id": "kun-agent-system/skill-toolkit-public",
+    "language": "Python",
+    "name": "kun-agent-system/skill-toolkit-public",
+    "stars": 0,
+    "updated_at": "2026-06-23T11:48:08Z",
+    "url": "https://github.com/kun-agent-system/skill-toolkit-public"
+  },
+  {
+    "description": "\ud83d\udd4c Provide AI-driven Islamic guidance with verified responses, ensuring users access authentic sources for their question",
+    "id": "Raj1003200/islamic-guidance-ai",
+    "language": "Python",
+    "name": "Raj1003200/islamic-guidance-ai",
+    "stars": 1,
+    "updated_at": "2026-06-23T11:48:05Z",
+    "url": "https://github.com/Raj1003200/islamic-guidance-ai"
+  },
+  {
+    "description": "Chrome extension (MV3): capture a page section, split into components, and export an AI-ready Design Package (.txt) \u2014 co",
+    "id": "urendev/element-picker",
+    "language": "JavaScript",
+    "name": "urendev/element-picker",
+    "stars": 0,
+    "updated_at": "2026-06-23T11:47:48Z",
+    "url": "https://github.com/urendev/element-picker"
+  },
+  {
+    "description": "\ud83c\udf1f Explore creative prompts for Google's Gemini 3, designed to harness its Deep Think, multimodal understanding, and long",
+    "id": "Feezah/gemini3-starter-prompts",
+    "language": "\u2014",
+    "name": "Feezah/gemini3-starter-prompts",
+    "stars": 1,
+    "updated_at": "2026-06-23T11:47:24Z",
+    "url": "https://github.com/Feezah/gemini3-starter-prompts"
+  },
+  {
+    "description": "",
+    "id": "valenciakeithdonnel/awesome-gemini-ai",
+    "language": "\u2014",
+    "name": "valenciakeithdonnel/awesome-gemini-ai",
+    "stars": 2,
+    "updated_at": "2026-06-23T11:47:23Z",
+    "url": "https://github.com/valenciakeithdonnel/awesome-gemini-ai"
+  },
+  {
+    "description": "\ud83d\ude80 Convert your project structure into a single text file for LLMs, simplifying your development workflow and enhancing p",
+    "id": "Projectcafetechnolgoies/RepoToPrompt",
+    "language": "HTML",
+    "name": "Projectcafetechnolgoies/RepoToPrompt",
+    "stars": 2,
+    "updated_at": "2026-06-23T11:47:17Z",
+    "url": "https://github.com/Projectcafetechnolgoies/RepoToPrompt"
+  },
+  {
+    "description": "\ud83d\udcca Explore how Shannon entropy and mutual information can quantify prompt quality in generative AI systems across various",
+    "id": "kadirovjr/prompt-entropy-experiment",
+    "language": "Jupyter Notebook",
+    "name": "kadirovjr/prompt-entropy-experiment",
+    "stars": 1,
+    "updated_at": "2026-06-23T11:47:07Z",
+    "url": "https://github.com/kadirovjr/prompt-entropy-experiment"
+  },
+  {
+    "description": "\ud83e\uddea Evaluate uncensored LLMs for offensive security with targeted questions and clear criteria to ensure effectiveness in ",
+    "id": "lpr021/redteam-ai-benchmark",
+    "language": "Python",
+    "name": "lpr021/redteam-ai-benchmark",
+    "stars": 2,
+    "updated_at": "2026-06-23T11:46:07Z",
+    "url": "https://github.com/lpr021/redteam-ai-benchmark"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-23T11:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -171,15 +270,6 @@
     "url": "https://github.com/Ntizar/NtizarBrainMasterMind"
   },
   {
-    "description": "Chrome extension (MV3): capture a page section, split into components, and export an AI-ready Design Package (.txt) \u2014 co",
-    "id": "urendev/element-picker",
-    "language": "JavaScript",
-    "name": "urendev/element-picker",
-    "stars": 0,
-    "updated_at": "2026-06-23T11:32:23Z",
-    "url": "https://github.com/urendev/element-picker"
-  },
-  {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
     "id": "Paulessus/odin-gemini-mcp-bridge",
     "language": "HTML",
@@ -205,15 +295,6 @@
     "stars": 5,
     "updated_at": "2026-06-23T11:30:28Z",
     "url": "https://github.com/sEbas12312nft/awesome-copilot"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-23T11:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
@@ -277,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-06-23T11:24:51Z",
     "url": "https://github.com/dariank38/agentic-job-scraper"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 29590,
-    "updated_at": "2026-06-23T11:45:05Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "An AI collaboration workspace template -- makes AI a first-class team member through standardized workspace assets (AGEN",
@@ -376,77 +448,5 @@
     "stars": 16928,
     "updated_at": "2026-06-23T11:20:14Z",
     "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
-  },
-  {
-    "description": "A Claude skill that routes your questions through four neurodivergent advisors \u2014 ADHD Hyperfocuser, Autistic Pattern-Mat",
-    "id": "stoicops/council-of-neurodivergents",
-    "language": "\u2014",
-    "name": "stoicops/council-of-neurodivergents",
-    "stars": 0,
-    "updated_at": "2026-06-23T11:20:02Z",
-    "url": "https://github.com/stoicops/council-of-neurodivergents"
-  },
-  {
-    "description": "\ud83e\udd16 Engage AI in dynamic debates with this customizable Python system, featuring unique personalities, original topics, an",
-    "id": "thucutos1fpt/Italian-AI-Debater",
-    "language": "Python",
-    "name": "thucutos1fpt/Italian-AI-Debater",
-    "stars": 1,
-    "updated_at": "2026-06-23T11:19:41Z",
-    "url": "https://github.com/thucutos1fpt/Italian-AI-Debater"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 2,
-    "updated_at": "2026-06-23T11:18:50Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "\ud83c\udf1e Manage Xeroderma Pigmentosum effectively with DermaFlow, an AI-driven web solution that provides proactive care and UV",
-    "id": "MarcoRamos016/AI-project",
-    "language": "HTML",
-    "name": "MarcoRamos016/AI-project",
-    "stars": 3,
-    "updated_at": "2026-06-23T11:18:32Z",
-    "url": "https://github.com/MarcoRamos016/AI-project"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Manage and reuse AI prompts from the command line with cueCLI for ChatGPT, Claude, and more\u2014simplifying your workflow",
-    "id": "tito1405/cueCLI",
-    "language": "JavaScript",
-    "name": "tito1405/cueCLI",
-    "stars": 3,
-    "updated_at": "2026-06-23T11:18:23Z",
-    "url": "https://github.com/tito1405/cueCLI"
-  },
-  {
-    "description": "AI Engineering Operating System \u2014 local-first architecture for AI-assisted engineering",
-    "id": "karimdhafer52/AEOS",
-    "language": "\u2014",
-    "name": "karimdhafer52/AEOS",
-    "stars": 0,
-    "updated_at": "2026-06-23T11:16:06Z",
-    "url": "https://github.com/karimdhafer52/AEOS"
-  },
-  {
-    "description": "Vibe Coding OS \u2014 Claude/Codex/Cursor skill framework with 139 skills, 111 commands, 95 templates, 22 tracked sources, 28",
-    "id": "roronoazoroshao369/vibe-coding-os",
-    "language": "JavaScript",
-    "name": "roronoazoroshao369/vibe-coding-os",
-    "stars": 0,
-    "updated_at": "2026-06-23T11:15:53Z",
-    "url": "https://github.com/roronoazoroshao369/vibe-coding-os"
-  },
-  {
-    "description": "\ud83d\udc19 AI Craft delivers structured workflow prompts for software development across AI platforms, with Claude AI workflows a",
-    "id": "R-cloud-git/ai-craft",
-    "language": "\u2014",
-    "name": "R-cloud-git/ai-craft",
-    "stars": 3,
-    "updated_at": "2026-06-23T11:15:40Z",
-    "url": "https://github.com/R-cloud-git/ai-craft"
   }
 ]
