@@ -1,12 +1,84 @@
 [
   {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-06-23T05:30:08Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
     "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
     "id": "AditthyaSS/iloveAgents",
     "language": "JavaScript",
     "name": "AditthyaSS/iloveAgents",
     "stars": 99,
-    "updated_at": "2026-06-23T05:13:35Z",
+    "updated_at": "2026-06-23T05:28:31Z",
     "url": "https://github.com/AditthyaSS/iloveAgents"
+  },
+  {
+    "description": "Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs \u2014 ",
+    "id": "Green-PT/honey-for-devs",
+    "language": "JavaScript",
+    "name": "Green-PT/honey-for-devs",
+    "stars": 2,
+    "updated_at": "2026-06-23T05:27:33Z",
+    "url": "https://github.com/Green-PT/honey-for-devs"
+  },
+  {
+    "description": "A Claude Skill that compresses messy video and podcast transcripts into dense, structured agent-ready packs. Cuts tokens",
+    "id": "xmr-gif/Crux",
+    "language": "Python",
+    "name": "xmr-gif/Crux",
+    "stars": 0,
+    "updated_at": "2026-06-23T05:24:10Z",
+    "url": "https://github.com/xmr-gif/Crux"
+  },
+  {
+    "description": "Practical AI playbooks for engineering leaders to improve delivery, decision-making, and team productivity with real wor",
+    "id": "shiphrahx/AI-for-engineering-leaders",
+    "language": "Python",
+    "name": "shiphrahx/AI-for-engineering-leaders",
+    "stars": 54,
+    "updated_at": "2026-06-23T05:23:05Z",
+    "url": "https://github.com/shiphrahx/AI-for-engineering-leaders"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 6,
+    "updated_at": "2026-06-23T05:21:51Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "Spec-driven, agentic workflow framework for AI coding agents. Turn a request into a verifiable goal loop \u2014 plan, act, ve",
+    "id": "clawplays/ospec",
+    "language": "JavaScript",
+    "name": "clawplays/ospec",
+    "stars": 552,
+    "updated_at": "2026-06-23T05:21:29Z",
+    "url": "https://github.com/clawplays/ospec"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12615,
+    "updated_at": "2026-06-23T05:17:51Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-23T05:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-23T05:03:26Z",
     "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-06-23T05:03:25Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Optimize development performance by stripping away unnecessary abstractions and focusing on raw code execution.",
-    "id": "Ricarddefensive803/caveman-skill",
-    "language": "\u2014",
-    "name": "Ricarddefensive803/caveman-skill",
-    "stars": 1,
-    "updated_at": "2026-06-23T05:03:17Z",
-    "url": "https://github.com/Ricarddefensive803/caveman-skill"
-  },
-  {
-    "description": "Organize AI conversations into clean, structured threads to refine context and improve model output quality.",
-    "id": "Robertmyerkesextremist950/metaprompt",
-    "language": "HTML",
-    "name": "Robertmyerkesextremist950/metaprompt",
-    "stars": 1,
-    "updated_at": "2026-06-23T05:03:10Z",
-    "url": "https://github.com/Robertmyerkesextremist950/metaprompt"
-  },
-  {
-    "description": "Archive 126+ iterative Suno AI music prompts with structural metatags, style descriptions, and engineering notes for imp",
-    "id": "Defectlameness737/suno-lab",
-    "language": "\u2014",
-    "name": "Defectlameness737/suno-lab",
-    "stars": 0,
-    "updated_at": "2026-06-23T05:03:08Z",
-    "url": "https://github.com/Defectlameness737/suno-lab"
-  },
-  {
-    "description": "Reduce AI token usage by 65 percent. This Claude Code skill trims filler and pleasantries while keeping technical conten",
-    "id": "salvageable-mutualfund57/caveman-distillate",
-    "language": "\u2014",
-    "name": "salvageable-mutualfund57/caveman-distillate",
-    "stars": 1,
-    "updated_at": "2026-06-23T05:03:03Z",
-    "url": "https://github.com/salvageable-mutualfund57/caveman-distillate"
-  },
-  {
-    "description": "Test security vulnerabilities in Gemini, Claude, and DeepSeek models using specialized prompt injections.",
-    "id": "pezizalescricketer968/ChatGPT-Jailbreak",
-    "language": "\u2014",
-    "name": "pezizalescricketer968/ChatGPT-Jailbreak",
-    "stars": 2,
-    "updated_at": "2026-06-23T05:02:56Z",
-    "url": "https://github.com/pezizalescricketer968/ChatGPT-Jailbreak"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-06-23T05:02:54Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
-  },
-  {
-    "description": "Orchestrate multi-agent OpenClaw workflows for code review, security checks, architecture feedback, prompt tuning, and A",
-    "id": "edwininspiring666/agencyteam-openclaw",
-    "language": "\u2014",
-    "name": "edwininspiring666/agencyteam-openclaw",
-    "stars": 0,
-    "updated_at": "2026-06-23T05:02:44Z",
-    "url": "https://github.com/edwininspiring666/agencyteam-openclaw"
   }
 ]
