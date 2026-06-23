@@ -1,12 +1,57 @@
 [
   {
+    "description": "356+ Claude Code agents, skills, hooks & subagents \u2014 one install script. Curated from 12 highest-starred community repos",
+    "id": "learn-by-exploration/ai-powerhouse",
+    "language": "Shell",
+    "name": "learn-by-exploration/ai-powerhouse",
+    "stars": 1,
+    "updated_at": "2026-06-23T06:00:15Z",
+    "url": "https://github.com/learn-by-exploration/ai-powerhouse"
+  },
+  {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-06-23T06:00:07Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
     "name": "HIDORAKAI002/ai-workspace-archive",
     "stars": 21,
-    "updated_at": "2026-06-23T05:54:59Z",
+    "updated_at": "2026-06-23T06:00:17Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs \u2014 ",
+    "id": "Green-PT/honey-for-devs",
+    "language": "JavaScript",
+    "name": "Green-PT/honey-for-devs",
+    "stars": 2,
+    "updated_at": "2026-06-23T05:58:26Z",
+    "url": "https://github.com/Green-PT/honey-for-devs"
+  },
+  {
+    "description": "AI-powered message classification system built with Streamlit and Groq LLM. Analyzes customer messages to identify inten",
+    "id": "taskeen-mustafa786/message_processing_system",
+    "language": "Python",
+    "name": "taskeen-mustafa786/message_processing_system",
+    "stars": 0,
+    "updated_at": "2026-06-23T05:56:19Z",
+    "url": "https://github.com/taskeen-mustafa786/message_processing_system"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-23T05:55:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "180 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
@@ -126,15 +171,6 @@
     "url": "https://github.com/madara88645/Compiler"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-23T05:45:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1361,
-    "updated_at": "2026-06-23T05:51:15Z",
+    "updated_at": "2026-06-23T05:55:48Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -189,15 +225,6 @@
     "url": "https://github.com/Ntizar/NtizarBrainMasterMind"
   },
   {
-    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-06-23T05:30:08Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
     "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
     "id": "AditthyaSS/iloveAgents",
     "language": "JavaScript",
@@ -205,15 +232,6 @@
     "stars": 99,
     "updated_at": "2026-06-23T05:28:31Z",
     "url": "https://github.com/AditthyaSS/iloveAgents"
-  },
-  {
-    "description": "Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs \u2014 ",
-    "id": "Green-PT/honey-for-devs",
-    "language": "JavaScript",
-    "name": "Green-PT/honey-for-devs",
-    "stars": 2,
-    "updated_at": "2026-06-23T05:52:42Z",
-    "url": "https://github.com/Green-PT/honey-for-devs"
   },
   {
     "description": "A Claude Skill that compresses messy video and podcast transcripts into dense, structured agent-ready packs. Cuts tokens",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T05:07:25Z",
     "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Compress text before it reaches the LLM. Fewer tokens, less data, less energy. Model-agnostic, runs locally, no telemetr",
-    "id": "miguemlima-creator/Brevia",
-    "language": "Python",
-    "name": "miguemlima-creator/Brevia",
-    "stars": 0,
-    "updated_at": "2026-06-23T05:07:24Z",
-    "url": "https://github.com/miguemlima-creator/Brevia"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-06-23T05:07:23Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
   }
 ]
