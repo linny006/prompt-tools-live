@@ -1,12 +1,12 @@
 [
   {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Java",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-06-25T11:15:11Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+    "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
+    "id": "CodeAlive-AI/ai-driven-development",
+    "language": "Python",
+    "name": "CodeAlive-AI/ai-driven-development",
+    "stars": 91,
+    "updated_at": "2026-06-25T11:20:58Z",
+    "url": "https://github.com/CodeAlive-AI/ai-driven-development"
   },
   {
     "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "braboj/solid-ai-templates",
     "stars": 3,
-    "updated_at": "2026-06-25T11:12:13Z",
+    "updated_at": "2026-06-25T11:20:57Z",
     "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-25T11:18:57Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-25T11:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29757,
+    "updated_at": "2026-06-25T11:15:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Java",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-06-25T11:15:11Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
     "description": " A self-hosted Claude agent that actually remembers \u2014 verbatim memory palace at zero retrieval cost, Discord + web UI, a",
@@ -41,7 +77,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3313,
-    "updated_at": "2026-06-25T11:12:08Z",
+    "updated_at": "2026-06-25T11:21:04Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Go",
     "name": "sahil87/fab-kit",
     "stars": 23,
-    "updated_at": "2026-06-25T11:09:07Z",
+    "updated_at": "2026-06-25T11:18:30Z",
     "url": "https://github.com/sahil87/fab-kit"
   },
   {
@@ -351,15 +387,6 @@
     "url": "https://github.com/Acuminate-conventionality909/aibti"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-25T11:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
     "id": "fatinzark-stack/Claude-for-Word-Desktop",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T10:59:24Z",
     "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "AI-powered marketing assistant that generates posters, captions, hashtags, and multilingual campaigns for local business",
-    "id": "801PEC/AI-Marketing-Assistant",
-    "language": "JavaScript",
-    "name": "801PEC/AI-Marketing-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-25T10:59:24Z",
-    "url": "https://github.com/801PEC/AI-Marketing-Assistant"
-  },
-  {
-    "description": "",
-    "id": "Gl00ria/AI_4_US",
-    "language": "Python",
-    "name": "Gl00ria/AI_4_US",
-    "stars": 0,
-    "updated_at": "2026-06-25T10:59:17Z",
-    "url": "https://github.com/Gl00ria/AI_4_US"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-25T10:59:17Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
   }
 ]
