@@ -1,5 +1,68 @@
 [
   {
+    "description": "Context optimization layer for LLMs. 65-90% token savings with zero quality loss. Drop-in proxy for Claude, GPT, Gemini,",
+    "id": "iKislay/copium",
+    "language": "Python",
+    "name": "iKislay/copium",
+    "stars": 3,
+    "updated_at": "2026-06-25T19:45:16Z",
+    "url": "https://github.com/iKislay/copium"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3000,
+    "updated_at": "2026-06-25T19:40:17Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 46,
+    "updated_at": "2026-06-25T19:38:42Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "Deterministic LLM framework combining strict context governance (VERITAS/DRIVE matrices) with a high-fidelity somatic si",
+    "id": "nyragrimkitten-creator/The-Veritas-Loop",
+    "language": "\u2014",
+    "name": "nyragrimkitten-creator/The-Veritas-Loop",
+    "stars": 2,
+    "updated_at": "2026-06-25T19:37:03Z",
+    "url": "https://github.com/nyragrimkitten-creator/The-Veritas-Loop"
+  },
+  {
+    "description": "Multi-agent audit master prompts (security, repo, frontend, API, perf, data, infra, AI/LLM, compliance, a11y, docs) + a ",
+    "id": "marcelrapold/auditor",
+    "language": "TypeScript",
+    "name": "marcelrapold/auditor",
+    "stars": 0,
+    "updated_at": "2026-06-25T19:36:18Z",
+    "url": "https://github.com/marcelrapold/auditor"
+  },
+  {
+    "description": "A memory bank system meant for use with LLMs for project and task management",
+    "id": "space-cadet/memory-bank",
+    "language": "JavaScript",
+    "name": "space-cadet/memory-bank",
+    "stars": 16,
+    "updated_at": "2026-06-25T19:34:54Z",
+    "url": "https://github.com/space-cadet/memory-bank"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-25T19:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T19:28:16Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 46,
-    "updated_at": "2026-06-25T19:27:19Z",
-    "url": "https://github.com/ariffazil/arifos"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -45,15 +99,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Deterministic LLM framework combining strict context governance (VERITAS/DRIVE matrices) with a high-fidelity somatic si",
-    "id": "nyragrimkitten-creator/The-Veritas-Loop",
-    "language": "\u2014",
-    "name": "nyragrimkitten-creator/The-Veritas-Loop",
-    "stars": 2,
-    "updated_at": "2026-06-25T19:25:09Z",
-    "url": "https://github.com/nyragrimkitten-creator/The-Veritas-Loop"
-  },
-  {
     "description": "A hands-on Generative AI learning environment featuring practical experiments and projects for building AI-powered appli",
     "id": "soumadip-dev/GenAI-Playground",
     "language": "TypeScript",
@@ -61,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-06-25T19:24:14Z",
     "url": "https://github.com/soumadip-dev/GenAI-Playground"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22601,
+    "updated_at": "2026-06-25T19:43:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
@@ -77,7 +131,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-06-25T19:20:09Z",
+    "updated_at": "2026-06-25T19:35:00Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -90,15 +144,6 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-25T19:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
     "id": "promptdriven/pdd",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 774,
     "updated_at": "2026-06-25T19:14:50Z",
     "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "A memory bank system meant for use with LLMs for project and task management",
-    "id": "space-cadet/memory-bank",
-    "language": "JavaScript",
-    "name": "space-cadet/memory-bank",
-    "stars": 16,
-    "updated_at": "2026-06-25T19:09:34Z",
-    "url": "https://github.com/space-cadet/memory-bank"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -133,6 +169,15 @@
     "stars": 0,
     "updated_at": "2026-06-25T19:08:59Z",
     "url": "https://github.com/coder-zzh/awesome-prompt"
+  },
+  {
+    "description": "Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie",
+    "id": "Quazmoz/agentdefaults",
+    "language": "Python",
+    "name": "Quazmoz/agentdefaults",
+    "stars": 0,
+    "updated_at": "2026-06-25T19:08:04Z",
+    "url": "https://github.com/Quazmoz/agentdefaults"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -403,50 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-25T18:56:55Z",
     "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-06-25T18:56:39Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-06-25T18:56:22Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-06-25T18:56:21Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-06-25T18:56:10Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-06-25T18:55:49Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
   }
 ]
