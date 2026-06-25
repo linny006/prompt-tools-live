@@ -1,5 +1,95 @@
 [
   {
+    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
+    "id": "luongs3/skill-atlas",
+    "language": "Python",
+    "name": "luongs3/skill-atlas",
+    "stars": 0,
+    "updated_at": "2026-06-25T01:13:37Z",
+    "url": "https://github.com/luongs3/skill-atlas"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-06-25T01:12:16Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "An online prompt engineering tool designed to transform rough ideas, lyrics, moods, and visual concepts into polished Ve",
+    "id": "wuisabel-gif/veo3_prompt_improver",
+    "language": "JavaScript",
+    "name": "wuisabel-gif/veo3_prompt_improver",
+    "stars": 0,
+    "updated_at": "2026-06-25T01:10:55Z",
+    "url": "https://github.com/wuisabel-gif/veo3_prompt_improver"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26729,
+    "updated_at": "2026-06-25T01:14:43Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-06-25T01:07:07Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "A native desktop chat and productivity environment for local AI models",
+    "id": "ekorbia/ekorbia-desktop",
+    "language": "JavaScript",
+    "name": "ekorbia/ekorbia-desktop",
+    "stars": 1,
+    "updated_at": "2026-06-25T01:05:30Z",
+    "url": "https://github.com/ekorbia/ekorbia-desktop"
+  },
+  {
+    "description": "AI\u7f51\u6587\u8bca\u65ad\u53f0\uff1a\u672c\u5730 AI \u5c0f\u8bf4\u8bca\u65ad\u4e0e AI \u62c6\u4e66\u5de5\u5177\uff0c\u627e\u51fa\u7f51\u6587\u4e3a\u4ec0\u4e48\u6ca1\u4eba\u8ffd\uff0c\u5e76\u751f\u6210\u6539\u7a3f Prompt\u3002",
+    "id": "myyimu/ai-novel-diagnosis",
+    "language": "TypeScript",
+    "name": "myyimu/ai-novel-diagnosis",
+    "stars": 7,
+    "updated_at": "2026-06-25T01:03:00Z",
+    "url": "https://github.com/myyimu/ai-novel-diagnosis"
+  },
+  {
+    "description": "A collection of utility scripts and tools that streamline my daily development workflow.",
+    "id": "FarzamMohammadi/dev-toolbox",
+    "language": "Python",
+    "name": "FarzamMohammadi/dev-toolbox",
+    "stars": 1,
+    "updated_at": "2026-06-25T01:02:47Z",
+    "url": "https://github.com/FarzamMohammadi/dev-toolbox"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-25T01:00:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Automate project security hardening by using AI agents to analyze codebase behavior and identify necessary security impr",
+    "id": "impliedtrustwencher377/blue-spec",
+    "language": "TypeScript",
+    "name": "impliedtrustwencher377/blue-spec",
+    "stars": 0,
+    "updated_at": "2026-06-25T01:00:24Z",
+    "url": "https://github.com/impliedtrustwencher377/blue-spec"
+  },
+  {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -76,7 +166,7 @@
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
     "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-25T00:57:51Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   },
@@ -151,6 +241,15 @@
     "stars": 1,
     "updated_at": "2026-06-25T00:54:47Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22560,
+    "updated_at": "2026-06-25T00:54:29Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
@@ -315,15 +414,6 @@
     "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
   },
   {
-    "description": "AI\u7f51\u6587\u8bca\u65ad\u53f0\uff1a\u672c\u5730 AI \u5c0f\u8bf4\u8bca\u65ad\u4e0e AI \u62c6\u4e66\u5de5\u5177\uff0c\u627e\u51fa\u7f51\u6587\u4e3a\u4ec0\u4e48\u6ca1\u4eba\u8ffd\uff0c\u5e76\u751f\u6210\u6539\u7a3f Prompt\u3002",
-    "id": "myyimu/ai-novel-diagnosis",
-    "language": "TypeScript",
-    "name": "myyimu/ai-novel-diagnosis",
-    "stars": 7,
-    "updated_at": "2026-06-25T00:50:54Z",
-    "url": "https://github.com/myyimu/ai-novel-diagnosis"
-  },
-  {
     "description": "Prompt linting, static risk scanning, testing, and CI tooling for AI-agent prompts \u2014 with SARIF output, schema validatio",
     "id": "mylesagnew/promptgenie",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T00:50:05Z",
     "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 3,
-    "updated_at": "2026-06-25T00:49:54Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 1,
-    "updated_at": "2026-06-25T00:49:33Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Optimize development performance by stripping away unnecessary abstractions and focusing on raw code execution.",
-    "id": "Ricarddefensive803/caveman-skill",
-    "language": "\u2014",
-    "name": "Ricarddefensive803/caveman-skill",
-    "stars": 1,
-    "updated_at": "2026-06-25T00:49:28Z",
-    "url": "https://github.com/Ricarddefensive803/caveman-skill"
-  },
-  {
-    "description": "Organize AI conversations into clean, structured threads to refine context and improve model output quality.",
-    "id": "Robertmyerkesextremist950/metaprompt",
-    "language": "HTML",
-    "name": "Robertmyerkesextremist950/metaprompt",
-    "stars": 1,
-    "updated_at": "2026-06-25T00:49:19Z",
-    "url": "https://github.com/Robertmyerkesextremist950/metaprompt"
-  },
-  {
-    "description": "Archive 126+ iterative Suno AI music prompts with structural metatags, style descriptions, and engineering notes for imp",
-    "id": "Defectlameness737/suno-lab",
-    "language": "\u2014",
-    "name": "Defectlameness737/suno-lab",
-    "stars": 0,
-    "updated_at": "2026-06-25T00:49:18Z",
-    "url": "https://github.com/Defectlameness737/suno-lab"
-  },
-  {
-    "description": "Reduce AI token usage by 65 percent. This Claude Code skill trims filler and pleasantries while keeping technical conten",
-    "id": "salvageable-mutualfund57/caveman-distillate",
-    "language": "\u2014",
-    "name": "salvageable-mutualfund57/caveman-distillate",
-    "stars": 1,
-    "updated_at": "2026-06-25T00:49:15Z",
-    "url": "https://github.com/salvageable-mutualfund57/caveman-distillate"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-06-25T00:49:07Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
-  },
-  {
-    "description": "Test security vulnerabilities in Gemini, Claude, and DeepSeek models using specialized prompt injections.",
-    "id": "pezizalescricketer968/ChatGPT-Jailbreak",
-    "language": "\u2014",
-    "name": "pezizalescricketer968/ChatGPT-Jailbreak",
-    "stars": 2,
-    "updated_at": "2026-06-25T00:49:04Z",
-    "url": "https://github.com/pezizalescricketer968/ChatGPT-Jailbreak"
-  },
-  {
-    "description": "Orchestrate multi-agent OpenClaw workflows for code review, security checks, architecture feedback, prompt tuning, and A",
-    "id": "edwininspiring666/agencyteam-openclaw",
-    "language": "\u2014",
-    "name": "edwininspiring666/agencyteam-openclaw",
-    "stars": 0,
-    "updated_at": "2026-06-25T00:48:53Z",
-    "url": "https://github.com/edwininspiring666/agencyteam-openclaw"
-  },
-  {
-    "description": "",
-    "id": "celestynallmains51/claude-nexus",
-    "language": "\u2014",
-    "name": "celestynallmains51/claude-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-25T00:48:52Z",
-    "url": "https://github.com/celestynallmains51/claude-nexus"
   }
 ]
