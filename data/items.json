@@ -1,5 +1,95 @@
 [
   {
+    "description": "Generate or rewrite prompts inside Pi with a modal prompt enhancer.",
+    "id": "bnema/pi-prompt-gen",
+    "language": "TypeScript",
+    "name": "bnema/pi-prompt-gen",
+    "stars": 1,
+    "updated_at": "2026-06-26T13:43:26Z",
+    "url": "https://github.com/bnema/pi-prompt-gen"
+  },
+  {
+    "description": "The working ~/.claude config of a senior AI engineer: RPI workflow with an adversarial reviewer trio, eval-first skills,",
+    "id": "hashbulla/dotclaude",
+    "language": "Shell",
+    "name": "hashbulla/dotclaude",
+    "stars": 0,
+    "updated_at": "2026-06-26T13:43:19Z",
+    "url": "https://github.com/hashbulla/dotclaude"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-06-26T13:38:26Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22624,
+    "updated_at": "2026-06-26T13:37:51Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-26T13:33:05Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-06-26T13:32:59Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "A reproducible research study of citation-grounding and safety-routing for reducing hallucination in Taiwan-law legal as",
+    "id": "Lucien-1127/zhiyan-legal",
+    "language": "Python",
+    "name": "Lucien-1127/zhiyan-legal",
+    "stars": 1,
+    "updated_at": "2026-06-26T13:32:54Z",
+    "url": "https://github.com/Lucien-1127/zhiyan-legal"
+  },
+  {
+    "description": "Masters thesis - captures pre-launch noise, runs it through a LLM and predicts how a product will land competitively onc",
+    "id": "Meah01/LLM-prelaunch-buzz-postlaunch-predictor",
+    "language": "Jupyter Notebook",
+    "name": "Meah01/LLM-prelaunch-buzz-postlaunch-predictor",
+    "stars": 0,
+    "updated_at": "2026-06-26T13:32:41Z",
+    "url": "https://github.com/Meah01/LLM-prelaunch-buzz-postlaunch-predictor"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 3964,
+    "updated_at": "2026-06-26T13:44:56Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-26T13:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -41,17 +131,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 29829,
-    "updated_at": "2026-06-26T13:28:45Z",
+    "updated_at": "2026-06-26T13:41:20Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-26T13:25:53Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -135,15 +216,6 @@
     "url": "https://github.com/daskrank/lostware"
   },
   {
-    "description": "A reproducible research study of citation-grounding and safety-routing for reducing hallucination in Taiwan-law legal as",
-    "id": "Lucien-1127/zhiyan-legal",
-    "language": "Python",
-    "name": "Lucien-1127/zhiyan-legal",
-    "stars": 1,
-    "updated_at": "2026-06-26T13:13:49Z",
-    "url": "https://github.com/Lucien-1127/zhiyan-legal"
-  },
-  {
     "description": "Local hooks that catch vague AI-agent prompts before they burn tokens.",
     "id": "akg268/prompt-preflight",
     "language": "Python",
@@ -207,15 +279,6 @@
     "url": "https://github.com/dhernz/site-to-prompt"
   },
   {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 3964,
-    "updated_at": "2026-06-26T13:24:03Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
     "id": "jestersanjay/slim-tools-claude-harness",
     "language": "HTML",
@@ -248,7 +311,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 19890,
-    "updated_at": "2026-06-26T13:08:01Z",
+    "updated_at": "2026-06-26T13:40:58Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T13:03:08Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-06-26T13:22:44Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
-    "id": "VisionaireLabs/Visionaire",
-    "language": "TypeScript",
-    "name": "VisionaireLabs/Visionaire",
-    "stars": 2,
-    "updated_at": "2026-06-26T12:59:13Z",
-    "url": "https://github.com/VisionaireLabs/Visionaire"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 24,
-    "updated_at": "2026-06-26T12:59:12Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "A decentralized Markdown compiler for LLM prompts \u2014 modular imports, cross-compilation, and AI-native agentic orchestrat",
-    "id": "glenzli/vasmc",
-    "language": "TypeScript",
-    "name": "glenzli/vasmc",
-    "stars": 1,
-    "updated_at": "2026-06-26T12:59:08Z",
-    "url": "https://github.com/glenzli/vasmc"
-  },
-  {
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
-    "id": "Agenta-AI/agenta",
-    "language": "TypeScript",
-    "name": "Agenta-AI/agenta",
-    "stars": 4244,
-    "updated_at": "2026-06-26T13:02:39Z",
-    "url": "https://github.com/Agenta-AI/agenta"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 6672,
-    "updated_at": "2026-06-26T12:51:57Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 328,
-    "updated_at": "2026-06-26T13:23:44Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
   }
 ]
