@@ -1,12 +1,30 @@
 [
   {
-    "description": "Rolling-wave Codex skills for shaping, implementing, reviewing, and completing one concrete slice at a time.",
-    "id": "rijkvanzanten/rolling-wave-engineering",
+    "description": "AI skills for Claude Code, Cursor, and other coding agents. Build reliable AI features with DSPy \u2014 classification, RAG, ",
+    "id": "lebsral/DSPy-Programming-not-prompting-LMs-skills",
+    "language": "Python",
+    "name": "lebsral/DSPy-Programming-not-prompting-LMs-skills",
+    "stars": 6,
+    "updated_at": "2026-06-27T17:44:16Z",
+    "url": "https://github.com/lebsral/DSPy-Programming-not-prompting-LMs-skills"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
-    "name": "rijkvanzanten/rolling-wave-engineering",
-    "stars": 12,
-    "updated_at": "2026-06-27T17:29:40Z",
-    "url": "https://github.com/rijkvanzanten/rolling-wave-engineering"
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 24,
+    "updated_at": "2026-06-27T17:45:16Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "A balanced, intent-anchored review protocol that replaces the one-sided critic \u2014 preserve-first, sizes to the task, opti",
+    "id": "matteolopreti/spatiotemporal-critique",
+    "language": "Python",
+    "name": "matteolopreti/spatiotemporal-critique",
+    "stars": 0,
+    "updated_at": "2026-06-27T17:43:13Z",
+    "url": "https://github.com/matteolopreti/spatiotemporal-critique"
   },
   {
     "description": "AI-powered Advertising & Marketing Operating System for structured copywriting, SEO, branding, UGC and prompt engineerin",
@@ -14,8 +32,143 @@
     "language": "\u2014",
     "name": "souvik997-sudo/AI-Advertising-Operating-System",
     "stars": 0,
-    "updated_at": "2026-06-27T17:29:35Z",
+    "updated_at": "2026-06-27T17:43:12Z",
     "url": "https://github.com/souvik997-sudo/AI-Advertising-Operating-System"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-27T17:42:44Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 46,
+    "updated_at": "2026-06-27T17:42:13Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "Make any AI remember you in 60 seconds \u2014 portable identity for ChatGPT, Claude, Gemini. Zero vendor lock-in.",
+    "id": "MirrorDNA-Reflection-Protocol/active-mirror-identity",
+    "language": "Python",
+    "name": "MirrorDNA-Reflection-Protocol/active-mirror-identity",
+    "stars": 0,
+    "updated_at": "2026-06-27T17:41:45Z",
+    "url": "https://github.com/MirrorDNA-Reflection-Protocol/active-mirror-identity"
+  },
+  {
+    "description": "A reference implementation of the agentic-AI artifact taxonomy, showing a clean public/private artifact separation patte",
+    "id": "ElvinMorales/journal-agent",
+    "language": "Python",
+    "name": "ElvinMorales/journal-agent",
+    "stars": 1,
+    "updated_at": "2026-06-27T17:41:37Z",
+    "url": "https://github.com/ElvinMorales/journal-agent"
+  },
+  {
+    "description": "60 days. 60 prompts. 1 AI. Zero excuses. \u2014 My ABTalks Claude AI Challenge journey.",
+    "id": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
+    "language": "HTML",
+    "name": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
+    "stars": 1,
+    "updated_at": "2026-06-27T17:39:58Z",
+    "url": "https://github.com/devpal-singh-anand/ABTalks-60-Day-Claude-Challenge"
+  },
+  {
+    "description": "Resuto scans LinkedIn, runs two-stage AI relevance filtering via Claude, and generates a hallucination-proof tailored re",
+    "id": "SatyaVardhanM/Resuto",
+    "language": "Python",
+    "name": "SatyaVardhanM/Resuto",
+    "stars": 0,
+    "updated_at": "2026-06-27T17:39:24Z",
+    "url": "https://github.com/SatyaVardhanM/Resuto"
+  },
+  {
+    "description": "\ubcf5\uc7a1\ud55c \uc694\uccad\uc744 \ubc94\uc704\uac00 \uba85\ud655\ud55c \uc791\uc5c5\uc73c\ub85c \ubcc0\ud658\ud558\uace0 \uc801\ud569\ud55c \uc6cc\ud06c\ud50c\ub85c\ub85c \ub77c\uc6b0\ud305\ud558\ub294 \uc0c1\uc6a9 \ubaa8\ub4c8\ud615 AI \uc2e4\ud589 \ud504\ub808\uc784\uc6cc\ud06c",
+    "id": "ghd2958/masterwork-gpt",
+    "language": "\u2014",
+    "name": "ghd2958/masterwork-gpt",
+    "stars": 0,
+    "updated_at": "2026-06-27T17:38:34Z",
+    "url": "https://github.com/ghd2958/masterwork-gpt"
+  },
+  {
+    "description": "Catch the AI rules you already changed before they break your build \u2014 a local linter for your .cursorrules, CLAUDE.md, a",
+    "id": "Cruxia-Labs/sagrada-linter",
+    "language": "Python",
+    "name": "Cruxia-Labs/sagrada-linter",
+    "stars": 0,
+    "updated_at": "2026-06-27T17:37:16Z",
+    "url": "https://github.com/Cruxia-Labs/sagrada-linter"
+  },
+  {
+    "description": "Typed building blocks for everything around your LLM call.",
+    "id": "use-crux/crux",
+    "language": "TypeScript",
+    "name": "use-crux/crux",
+    "stars": 0,
+    "updated_at": "2026-06-27T17:35:35Z",
+    "url": "https://github.com/use-crux/crux"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-06-27T17:33:32Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Cross-agent prompt pocket: remember your most-used prompts and pick one to run. Works on Claude Code, Codex, OpenCode, C",
+    "id": "lxb12123/prompt-pocket",
+    "language": "JavaScript",
+    "name": "lxb12123/prompt-pocket",
+    "stars": 3,
+    "updated_at": "2026-06-27T17:32:49Z",
+    "url": "https://github.com/lxb12123/prompt-pocket"
+  },
+  {
+    "description": "Rolling-wave Codex skills for shaping, implementing, reviewing, and completing one concrete slice at a time.",
+    "id": "rijkvanzanten/rolling-wave-engineering",
+    "language": "\u2014",
+    "name": "rijkvanzanten/rolling-wave-engineering",
+    "stars": 12,
+    "updated_at": "2026-06-27T17:32:28Z",
+    "url": "https://github.com/rijkvanzanten/rolling-wave-engineering"
+  },
+  {
+    "description": "Turn Claude Code into a phase-aware, multi-team software factory: hard-gated pipeline, Clean Architecture + Effect stand",
+    "id": "dustin-olenslager/claude-phalanx",
+    "language": "Shell",
+    "name": "dustin-olenslager/claude-phalanx",
+    "stars": 0,
+    "updated_at": "2026-06-27T17:32:25Z",
+    "url": "https://github.com/dustin-olenslager/claude-phalanx"
+  },
+  {
+    "description": "Point your AI at this repo before you vibe-code a website. The common security flaws, exploits, and missing pieces in AI",
+    "id": "LxveAce/vibe-coding-website-security",
+    "language": "PowerShell",
+    "name": "LxveAce/vibe-coding-website-security",
+    "stars": 1,
+    "updated_at": "2026-06-27T17:31:31Z",
+    "url": "https://github.com/LxveAce/vibe-coding-website-security"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-27T17:30:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -25,15 +178,6 @@
     "stars": 1452,
     "updated_at": "2026-06-27T17:29:21Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Turn Claude Code into a phase-aware, multi-team software factory: hard-gated pipeline, Clean Architecture + Effect stand",
-    "id": "dustin-olenslager/claude-phalanx",
-    "language": "Shell",
-    "name": "dustin-olenslager/claude-phalanx",
-    "stars": 0,
-    "updated_at": "2026-06-27T17:28:41Z",
-    "url": "https://github.com/dustin-olenslager/claude-phalanx"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -50,7 +194,7 @@
     "language": "TypeScript",
     "name": "manojmallick/skillweave",
     "stars": 0,
-    "updated_at": "2026-06-27T17:25:17Z",
+    "updated_at": "2026-06-27T17:32:41Z",
     "url": "https://github.com/manojmallick/skillweave"
   },
   {
@@ -61,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-06-27T17:23:54Z",
     "url": "https://github.com/Norinatiring463/loop-engineering"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10297,
+    "updated_at": "2026-06-27T17:22:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Automate project security hardening by using AI agents to analyze codebase behavior and identify necessary security impr",
@@ -189,15 +342,6 @@
     "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
   },
   {
-    "description": "Cross-agent prompt pocket: remember your most-used prompts and pick one to run. Works on Claude Code, Codex, OpenCode, C",
-    "id": "lxb12123/prompt-pocket",
-    "language": "JavaScript",
-    "name": "lxb12123/prompt-pocket",
-    "stars": 3,
-    "updated_at": "2026-06-27T17:18:20Z",
-    "url": "https://github.com/lxb12123/prompt-pocket"
-  },
-  {
     "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
     "id": "sonu1611/sillytavern-ai-character-chat",
     "language": "\u2014",
@@ -223,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-06-27T17:16:53Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-27T17:16:11Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
@@ -313,140 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-27T17:14:20Z",
     "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-06-27T17:14:00Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 2,
-    "updated_at": "2026-06-27T17:13:46Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-06-27T17:13:40Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 1,
-    "updated_at": "2026-06-27T17:13:36Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-27T17:13:31Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 1,
-    "updated_at": "2026-06-27T17:13:30Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-06-27T17:13:02Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-06-27T17:12:57Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-06-27T17:12:42Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-06-27T17:12:17Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-27T17:12:16Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-06-27T17:12:12Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 2,
-    "updated_at": "2026-06-27T17:11:59Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-27T17:11:40Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-06-27T17:11:14Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
   }
 ]
