@@ -1,12 +1,111 @@
 [
   {
-    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "description": "A nostalgic, faithful recreation of the original Nov-2022 ChatGPT UI, powered by gpt-4o-mini with a GPT-3.5-era persona.",
+    "id": "arshawnarbabi/ThrowbackGPT",
+    "language": "TypeScript",
+    "name": "arshawnarbabi/ThrowbackGPT",
+    "stars": 0,
+    "updated_at": "2026-06-27T09:44:15Z",
+    "url": "https://github.com/arshawnarbabi/ThrowbackGPT"
+  },
+  {
+    "description": "A portable agent skill (SKILL.md + reference playbooks) for writing top-conference embodied-AI papers \u2014 distilled from 6",
+    "id": "OpenGHz/embodied-ai-paper-writer",
+    "language": "Python",
+    "name": "OpenGHz/embodied-ai-paper-writer",
+    "stars": 2,
+    "updated_at": "2026-06-27T09:43:44Z",
+    "url": "https://github.com/OpenGHz/embodied-ai-paper-writer"
+  },
+  {
+    "description": "Unified prompt engineering and text optimization suite for macOS and Chrome, powered by Google Gemini.",
+    "id": "Sreeram5678/Axiom",
     "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "name": "Sreeram5678/Axiom",
     "stars": 1,
-    "updated_at": "2026-06-27T09:30:08Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+    "updated_at": "2026-06-27T09:43:19Z",
+    "url": "https://github.com/Sreeram5678/Axiom"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 29859,
+    "updated_at": "2026-06-27T09:45:06Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
+    "id": "Paulessus/odin-gemini-mcp-bridge",
+    "language": "HTML",
+    "name": "Paulessus/odin-gemini-mcp-bridge",
+    "stars": 0,
+    "updated_at": "2026-06-27T09:38:46Z",
+    "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-27T09:38:41Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-27T09:38:35Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "A practical portfolio and meta-analysis of advanced prompt engineering. This project not only demonstrates core techniqu",
+    "id": "Waqas01CP/Applied-LLM-Workflow-Research",
+    "language": "Python",
+    "name": "Waqas01CP/Applied-LLM-Workflow-Research",
+    "stars": 0,
+    "updated_at": "2026-06-27T09:36:45Z",
+    "url": "https://github.com/Waqas01CP/Applied-LLM-Workflow-Research"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-06-27T09:35:12Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
+    "id": "product-on-purpose/writing-style-catalog",
+    "language": "Python",
+    "name": "product-on-purpose/writing-style-catalog",
+    "stars": 0,
+    "updated_at": "2026-06-27T09:35:08Z",
+    "url": "https://github.com/product-on-purpose/writing-style-catalog"
+  },
+  {
+    "description": "Patch Claude Code to use the FlashHash method for compaction -- 1mtok > 50ktok compaction in <10s with perfect context p",
+    "id": "jaredboynton/patchpress",
+    "language": "JavaScript",
+    "name": "jaredboynton/patchpress",
+    "stars": 1,
+    "updated_at": "2026-06-27T09:34:40Z",
+    "url": "https://github.com/jaredboynton/patchpress"
+  },
+  {
+    "description": "OpenAI-compatible media generation gateway for AI Agents. Supports multi-provider image/video generation, model routing,",
+    "id": "ang77712829/AngeMedia-gateway",
+    "language": "Python",
+    "name": "ang77712829/AngeMedia-gateway",
+    "stars": 2,
+    "updated_at": "2026-06-27T09:33:56Z",
+    "url": "https://github.com/ang77712829/AngeMedia-gateway"
   },
   {
     "description": "AI-powered Advertising & Marketing Operating System for structured copywriting, SEO, branding, UGC and prompt engineerin",
@@ -14,8 +113,44 @@
     "language": "\u2014",
     "name": "souvik997-sudo/AI-Advertising-Operating-System",
     "stars": 0,
-    "updated_at": "2026-06-27T09:29:50Z",
+    "updated_at": "2026-06-27T09:33:41Z",
     "url": "https://github.com/souvik997-sudo/AI-Advertising-Operating-System"
+  },
+  {
+    "description": "\ud83c\udf1e Manage Xeroderma Pigmentosum effectively with DermaFlow, an AI-driven web solution that provides proactive care and UV",
+    "id": "MarcoRamos016/AI-project",
+    "language": "HTML",
+    "name": "MarcoRamos016/AI-project",
+    "stars": 3,
+    "updated_at": "2026-06-27T09:31:29Z",
+    "url": "https://github.com/MarcoRamos016/AI-project"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Manage and reuse AI prompts from the command line with cueCLI for ChatGPT, Claude, and more\u2014simplifying your workflow",
+    "id": "tito1405/cueCLI",
+    "language": "JavaScript",
+    "name": "tito1405/cueCLI",
+    "stars": 3,
+    "updated_at": "2026-06-27T09:31:25Z",
+    "url": "https://github.com/tito1405/cueCLI"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-27T09:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 1,
+    "updated_at": "2026-06-27T09:30:08Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -34,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-06-27T09:28:40Z",
     "url": "https://github.com/R-cloud-git/ai-craft"
-  },
-  {
-    "description": "A nostalgic, faithful recreation of the original Nov-2022 ChatGPT UI, powered by gpt-4o-mini with a GPT-3.5-era persona.",
-    "id": "arshawnarbabi/ThrowbackGPT",
-    "language": "TypeScript",
-    "name": "arshawnarbabi/ThrowbackGPT",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:27:59Z",
-    "url": "https://github.com/arshawnarbabi/ThrowbackGPT"
   },
   {
     "description": "Curated collection of AI personality alters (distinct conversational personas) for OpenWebUI, Librechat, LMStudio, Ollam",
@@ -194,7 +320,7 @@
     "language": "\u2014",
     "name": "ariaramin/design-patterns-skill",
     "stars": 1,
-    "updated_at": "2026-06-27T09:23:04Z",
+    "updated_at": "2026-06-27T09:31:32Z",
     "url": "https://github.com/ariaramin/design-patterns-skill"
   },
   {
@@ -261,15 +387,6 @@
     "url": "https://github.com/Open-Less/openless"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-27T09:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
     "id": "braboj/solid-ai-templates",
     "language": "Python",
@@ -324,15 +441,6 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-06-27T09:26:10Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-27T09:08:09Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:06:52Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Lever-GaoKao: \u57fa\u4e8e\u4eba\u751f\u6760\u6746\u7406\u5ff5\u7684\u9ad8\u8003\u5fd7\u613f\u586b\u62a5\u667a\u80fd\u4f53",
-    "id": "XucroYuri/lever-gaokao",
-    "language": "Python",
-    "name": "XucroYuri/lever-gaokao",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:06:05Z",
-    "url": "https://github.com/XucroYuri/lever-gaokao"
-  },
-  {
-    "description": "A template language for composable LLM prompt engineering. Write prompts with variables, loops, conditionals, functions,",
-    "id": "dean0x/mdscript",
-    "language": "Rust",
-    "name": "dean0x/mdscript",
-    "stars": 2,
-    "updated_at": "2026-06-27T09:05:24Z",
-    "url": "https://github.com/dean0x/mdscript"
-  },
-  {
-    "description": "Semantic diff for LLM prompts \u2014 compare prompt versions like git diff",
-    "id": "he-yufeng/PromptDiff",
-    "language": "Python",
-    "name": "he-yufeng/PromptDiff",
-    "stars": 3,
-    "updated_at": "2026-06-27T09:05:05Z",
-    "url": "https://github.com/he-yufeng/PromptDiff"
-  },
-  {
-    "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
-    "id": "kochetkov-ma/claude-brewcode",
-    "language": "MDX",
-    "name": "kochetkov-ma/claude-brewcode",
-    "stars": 28,
-    "updated_at": "2026-06-27T09:04:59Z",
-    "url": "https://github.com/kochetkov-ma/claude-brewcode"
-  },
-  {
-    "description": "Prompt-engineering study on LLM math reasoning (GSM8K) and code generation (HumanEval): zero/few-shot, self-consistency,",
-    "id": "he-yufeng/gsm8k-prompt-engineering",
-    "language": "Python",
-    "name": "he-yufeng/gsm8k-prompt-engineering",
-    "stars": 4,
-    "updated_at": "2026-06-27T09:04:49Z",
-    "url": "https://github.com/he-yufeng/gsm8k-prompt-engineering"
-  },
-  {
-    "description": "Prompt templates for Claude, ChatGPT, and developers: code review, debugging, security, architecture, and AI workflows",
-    "id": "HumanKaylee/prompt-starter-pack",
-    "language": "HTML",
-    "name": "HumanKaylee/prompt-starter-pack",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:04:41Z",
-    "url": "https://github.com/HumanKaylee/prompt-starter-pack"
-  },
-  {
-    "description": "ADAF \u2014 AI-driven architecture framework: feed it to an AI (Claude/GPT) to generate a proven backend architecture, then v",
-    "id": "yao-beyond/myGamefi",
-    "language": "Java",
-    "name": "yao-beyond/myGamefi",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:01:56Z",
-    "url": "https://github.com/yao-beyond/myGamefi"
-  },
-  {
-    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
-    "id": "christopherlouet/claude-base",
-    "language": "Shell",
-    "name": "christopherlouet/claude-base",
-    "stars": 5,
-    "updated_at": "2026-06-27T09:00:35Z",
-    "url": "https://github.com/christopherlouet/claude-base"
-  },
-  {
-    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI i",
-    "id": "kadevin/ilab-gpt-conjure",
-    "language": "JavaScript",
-    "name": "kadevin/ilab-gpt-conjure",
-    "stars": 582,
-    "updated_at": "2026-06-27T08:58:58Z",
-    "url": "https://github.com/kadevin/ilab-gpt-conjure"
-  },
-  {
-    "description": "Loop \u5de5\u7a0b\u5b66\u4e60\u624b\u518c\uff1a\u8ba9 AI Agent \u81ea\u5df1\u8dd1\u8d77\u6765\u3002\u7cfb\u7edf\u68b3\u7406 ReAct\u3001Reflexion \u5230 Claude Code /loop \u7684\u6f14\u8fdb\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "awch-D/Loop-Engineering-Handbook",
-    "language": "HTML",
-    "name": "awch-D/Loop-Engineering-Handbook",
-    "stars": 0,
-    "updated_at": "2026-06-27T08:57:10Z",
-    "url": "https://github.com/awch-D/Loop-Engineering-Handbook"
-  },
-  {
-    "description": "Shiva's personal Claude Code plugins. v0.1.0 ships /shva:brief-me \u2014 domain-agnostic pre-project vocabulary briefing for ",
-    "id": "Shivak11/shva-marketplace",
-    "language": "HTML",
-    "name": "Shivak11/shva-marketplace",
-    "stars": 0,
-    "updated_at": "2026-06-27T08:55:37Z",
-    "url": "https://github.com/Shivak11/shva-marketplace"
   }
 ]
