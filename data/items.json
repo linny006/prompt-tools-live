@@ -1,5 +1,77 @@
 [
   {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 1,
+    "updated_at": "2026-06-27T12:30:08Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "MartiniArt/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "MartiniArt/awesome-seedance-2-prompt",
+    "stars": 7,
+    "updated_at": "2026-06-27T12:24:40Z",
+    "url": "https://github.com/MartiniArt/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "\u76ae\u514b\u65af\u5f0f\u77ed\u5267\u751f\u4ea7\u7ebf \u00b7 Claude Code agent \u7cfb\u7edf\uff1a9\u9636\u6bb5\u6d41\u6c34\u7ebf(\u7f16\u6392\u5668+\u8111\u4fe1\u4efb\u8bc4\u5ba1+\u6587\u4ef6\u5373\u8bb0\u5fc6)\uff0c\u4ece\u4e00\u53e5\u8bdd\u521b\u610f\u5230\u53ef\u5582\u89c6\u9891/\u8bed\u97f3\u6a21\u578b\u7684\u6210\u7247\u84dd\u56fe",
+    "id": "Eleven1111/pixar-short-agent",
+    "language": "\u2014",
+    "name": "Eleven1111/pixar-short-agent",
+    "stars": 0,
+    "updated_at": "2026-06-27T12:24:17Z",
+    "url": "https://github.com/Eleven1111/pixar-short-agent"
+  },
+  {
+    "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
+    "id": "kochetkov-ma/claude-brewcode",
+    "language": "MDX",
+    "name": "kochetkov-ma/claude-brewcode",
+    "stars": 28,
+    "updated_at": "2026-06-27T12:23:45Z",
+    "url": "https://github.com/kochetkov-ma/claude-brewcode"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12687,
+    "updated_at": "2026-06-27T12:23:27Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "\u53bb AI \u5473\u8bbe\u8ba1\u7cfb\u7edf\u5e93 \u00b7 6 \u7f8e\u5b66\u5bb6\u65cf \u00d7 64 \u5957\u8bbe\u8ba1\u7cfb\u7edf \u00b7 \u590d\u5236\u4e00\u6bb5\u63d0\u793a\u8bcd\u7c98\u7ed9\u4efb\u610f AI \u5c31\u51fa\u7247\u4e0d\u98d8 \u00b7 \u542b\u5728\u7ebf\u9884\u89c8\u7ad9 | Anti-slop design systems for any AI \u2014 64 curated desig",
+    "id": "simonlin1212/SDesign",
+    "language": "HTML",
+    "name": "simonlin1212/SDesign",
+    "stars": 0,
+    "updated_at": "2026-06-27T12:22:35Z",
+    "url": "https://github.com/simonlin1212/SDesign"
+  },
+  {
+    "description": "Overclock your Claude \u2014 optimize instructions across all surfaces (CLAUDE.md, Preferences, Cowork, rules)",
+    "id": "fioenix/hatch",
+    "language": "Go",
+    "name": "fioenix/hatch",
+    "stars": 7,
+    "updated_at": "2026-06-27T12:21:05Z",
+    "url": "https://github.com/fioenix/hatch"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-27T12:15:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
     "id": "Sunil-M02/curiosity-engine",
     "language": "TypeScript",
@@ -16,15 +88,6 @@
     "stars": 1035,
     "updated_at": "2026-06-27T12:15:08Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "Overclock your Claude \u2014 optimize instructions across all surfaces (CLAUDE.md, Preferences, Cowork, rules)",
-    "id": "fioenix/hatch",
-    "language": "Go",
-    "name": "fioenix/hatch",
-    "stars": 7,
-    "updated_at": "2026-06-27T12:14:43Z",
-    "url": "https://github.com/fioenix/hatch"
   },
   {
     "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
@@ -130,7 +193,7 @@
     "id": "kyoka-shuiyue/prompt-refiner",
     "language": "\u2014",
     "name": "kyoka-shuiyue/prompt-refiner",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-27T12:09:15Z",
     "url": "https://github.com/kyoka-shuiyue/prompt-refiner"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-27T12:03:04Z",
     "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Metodologia Protocolo Hidra Automa\u00e7\u00e3o de Prospec\u00e7\u00e3o B2B com IA e Anti-Bloqueio. Gera\u00e7\u00e3o de Leads Ecossistema de 50 Skill",
-    "id": "paulo-leads/protocolo-hidra",
-    "language": "Python",
-    "name": "paulo-leads/protocolo-hidra",
-    "stars": 0,
-    "updated_at": "2026-06-27T12:02:44Z",
-    "url": "https://github.com/paulo-leads/protocolo-hidra"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-27T12:02:43Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-06-27T12:02:38Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-06-27T12:02:36Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-27T12:02:09Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-27T12:02:04Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-06-27T12:01:42Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
   }
 ]
