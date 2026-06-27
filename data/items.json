@@ -1,5 +1,86 @@
 [
   {
+    "description": "A multi-dimensional framework for evaluating the reliability of large language models under real-world interaction condi",
+    "id": "Harshrudrawar/llm-reliability-evaluation",
+    "language": "Python",
+    "name": "Harshrudrawar/llm-reliability-evaluation",
+    "stars": 0,
+    "updated_at": "2026-06-27T02:44:30Z",
+    "url": "https://github.com/Harshrudrawar/llm-reliability-evaluation"
+  },
+  {
+    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
+    "id": "product-on-purpose/writing-style-catalog",
+    "language": "Python",
+    "name": "product-on-purpose/writing-style-catalog",
+    "stars": 0,
+    "updated_at": "2026-06-27T02:43:17Z",
+    "url": "https://github.com/product-on-purpose/writing-style-catalog"
+  },
+  {
+    "description": "\ud83d\udc0c An open research project where anyone can forge AI values ",
+    "id": "xiaojialove-DRP/the42post",
+    "language": "JavaScript",
+    "name": "xiaojialove-DRP/the42post",
+    "stars": 1,
+    "updated_at": "2026-06-27T02:37:25Z",
+    "url": "https://github.com/xiaojialove-DRP/the42post"
+  },
+  {
+    "description": "AI-powered Resume Reviewer using Groq & Llama 3.3 that analyzes PDF resumes, generates ATS scores, identifies missing ke",
+    "id": "AkashBharangar/ai-resume-reviewer",
+    "language": "Python",
+    "name": "AkashBharangar/ai-resume-reviewer",
+    "stars": 0,
+    "updated_at": "2026-06-27T02:36:32Z",
+    "url": "https://github.com/AkashBharangar/ai-resume-reviewer"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-06-27T02:34:11Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
+    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
+    "language": "HTML",
+    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
+    "stars": 1,
+    "updated_at": "2026-06-27T02:30:57Z",
+    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
+  },
+  {
+    "description": "Patch Claude Code to use the FlashHash method for compaction -- 1mtok > 50ktok compaction in <10s with perfect context p",
+    "id": "jaredboynton/patchpress",
+    "language": "JavaScript",
+    "name": "jaredboynton/patchpress",
+    "stars": 1,
+    "updated_at": "2026-06-27T02:30:52Z",
+    "url": "https://github.com/jaredboynton/patchpress"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 0,
+    "updated_at": "2026-06-27T02:30:51Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-27T02:30:22Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -45,15 +126,6 @@
     "url": "https://github.com/impliedtrustwencher377/blue-spec"
   },
   {
-    "description": "\ud83d\udc0c An open research project where anyone can forge AI values ",
-    "id": "xiaojialove-DRP/the42post",
-    "language": "JavaScript",
-    "name": "xiaojialove-DRP/the42post",
-    "stars": 1,
-    "updated_at": "2026-06-27T02:24:24Z",
-    "url": "https://github.com/xiaojialove-DRP/the42post"
-  },
-  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -61,15 +133,6 @@
     "stars": 24,
     "updated_at": "2026-06-27T02:24:18Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
-    "id": "product-on-purpose/writing-style-catalog",
-    "language": "Python",
-    "name": "product-on-purpose/writing-style-catalog",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:23:51Z",
-    "url": "https://github.com/product-on-purpose/writing-style-catalog"
   },
   {
     "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
@@ -351,15 +414,6 @@
     "url": "https://github.com/Hampto7114/detect-skill"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-27T02:15:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
     "id": "Wrongful-stratocracy6799/awesome-automated-ai",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-27T02:14:17Z",
     "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Optimize development performance by stripping away unnecessary abstractions and focusing on raw code execution.",
-    "id": "Ricarddefensive803/caveman-skill",
-    "language": "\u2014",
-    "name": "Ricarddefensive803/caveman-skill",
-    "stars": 1,
-    "updated_at": "2026-06-27T02:14:14Z",
-    "url": "https://github.com/Ricarddefensive803/caveman-skill"
-  },
-  {
-    "description": "Archive 126+ iterative Suno AI music prompts with structural metatags, style descriptions, and engineering notes for imp",
-    "id": "Defectlameness737/suno-lab",
-    "language": "\u2014",
-    "name": "Defectlameness737/suno-lab",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:14:04Z",
-    "url": "https://github.com/Defectlameness737/suno-lab"
-  },
-  {
-    "description": "Organize AI conversations into clean, structured threads to refine context and improve model output quality.",
-    "id": "Robertmyerkesextremist950/metaprompt",
-    "language": "HTML",
-    "name": "Robertmyerkesextremist950/metaprompt",
-    "stars": 1,
-    "updated_at": "2026-06-27T02:14:02Z",
-    "url": "https://github.com/Robertmyerkesextremist950/metaprompt"
-  },
-  {
-    "description": "Reduce AI token usage by 65 percent. This Claude Code skill trims filler and pleasantries while keeping technical conten",
-    "id": "salvageable-mutualfund57/caveman-distillate",
-    "language": "\u2014",
-    "name": "salvageable-mutualfund57/caveman-distillate",
-    "stars": 1,
-    "updated_at": "2026-06-27T02:13:58Z",
-    "url": "https://github.com/salvageable-mutualfund57/caveman-distillate"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-06-27T02:13:48Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
-  },
-  {
-    "description": "Test security vulnerabilities in Gemini, Claude, and DeepSeek models using specialized prompt injections.",
-    "id": "pezizalescricketer968/ChatGPT-Jailbreak",
-    "language": "\u2014",
-    "name": "pezizalescricketer968/ChatGPT-Jailbreak",
-    "stars": 2,
-    "updated_at": "2026-06-27T02:13:47Z",
-    "url": "https://github.com/pezizalescricketer968/ChatGPT-Jailbreak"
   }
 ]
