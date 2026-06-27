@@ -1,5 +1,185 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:14:14Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "OpenAI-compatible media generation gateway for AI Agents. Supports multi-provider image/video generation, model routing,",
+    "id": "ang77712829/AngeMedia-gateway",
+    "language": "Python",
+    "name": "ang77712829/AngeMedia-gateway",
+    "stars": 2,
+    "updated_at": "2026-06-27T10:11:53Z",
+    "url": "https://github.com/ang77712829/AngeMedia-gateway"
+  },
+  {
+    "description": "SEO Content Engine for LLMs - a prompt-engineering system that turns any capable AI into a world-class SEO strategist: g",
+    "id": "MADEVAL/RankWise",
+    "language": "Python",
+    "name": "MADEVAL/RankWise",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:11:39Z",
+    "url": "https://github.com/MADEVAL/RankWise"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-27T10:10:57Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Unified prompt engineering and text optimization suite for macOS and Chrome, powered by Google Gemini.",
+    "id": "Sreeram5678/Axiom",
+    "language": "JavaScript",
+    "name": "Sreeram5678/Axiom",
+    "stars": 1,
+    "updated_at": "2026-06-27T10:10:38Z",
+    "url": "https://github.com/Sreeram5678/Axiom"
+  },
+  {
+    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
+    "id": "product-on-purpose/writing-style-catalog",
+    "language": "Python",
+    "name": "product-on-purpose/writing-style-catalog",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:10:16Z",
+    "url": "https://github.com/product-on-purpose/writing-style-catalog"
+  },
+  {
+    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
+    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "language": "HTML",
+    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:10:06Z",
+    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
+  },
+  {
+    "description": "Claude Code skills that enforce Level 4+ agency behavior \u2014 based on the 5-level framework by @stephsmithio",
+    "id": "jpoindexter/high-agency-skills",
+    "language": "Shell",
+    "name": "jpoindexter/high-agency-skills",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:10:02Z",
+    "url": "https://github.com/jpoindexter/high-agency-skills"
+  },
+  {
+    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
+    "id": "SHENG5411/grimoire-of-tools",
+    "language": "HTML",
+    "name": "SHENG5411/grimoire-of-tools",
+    "stars": 1,
+    "updated_at": "2026-06-27T10:09:16Z",
+    "url": "https://github.com/SHENG5411/grimoire-of-tools"
+  },
+  {
+    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
+    "id": "Atheerameer/agentic-cli-blueprint-library",
+    "language": "HTML",
+    "name": "Atheerameer/agentic-cli-blueprint-library",
+    "stars": 1,
+    "updated_at": "2026-06-27T10:09:15Z",
+    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
+  },
+  {
+    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
+    "id": "Asir11/langgraph-agentic-workflows-tutorial",
+    "language": "HTML",
+    "name": "Asir11/langgraph-agentic-workflows-tutorial",
+    "stars": 1,
+    "updated_at": "2026-06-27T10:09:13Z",
+    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "Python",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 7,
+    "updated_at": "2026-06-27T10:08:28Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "A curated guide to convention files AI agents read, write, and act on: AGENTS.md, CLAUDE.md, SKILL.md, llms.txt, MCP con",
+    "id": "ItamarZand88/awesome-agent-conventions",
+    "language": "Python",
+    "name": "ItamarZand88/awesome-agent-conventions",
+    "stars": 21,
+    "updated_at": "2026-06-27T10:06:51Z",
+    "url": "https://github.com/ItamarZand88/awesome-agent-conventions"
+  },
+  {
+    "description": "Agent-ready skill for humanizing AI-generated Chinese text with platform adaptation, protected facts, and safety checks.",
+    "id": "coinluu/humanize-ai-text-skill",
+    "language": "\u2014",
+    "name": "coinluu/humanize-ai-text-skill",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:06:36Z",
+    "url": "https://github.com/coinluu/humanize-ai-text-skill"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:05:12Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "Production ready. AI Agent Workflow System for Claude Code",
+    "id": "ngocsangyem/MeowKit",
+    "language": "TypeScript",
+    "name": "ngocsangyem/MeowKit",
+    "stars": 15,
+    "updated_at": "2026-06-27T10:04:35Z",
+    "url": "https://github.com/ngocsangyem/MeowKit"
+  },
+  {
+    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
+    "id": "5uprem4/ai-skill-vault",
+    "language": "HTML",
+    "name": "5uprem4/ai-skill-vault",
+    "stars": 3,
+    "updated_at": "2026-06-27T10:01:20Z",
+    "url": "https://github.com/5uprem4/ai-skill-vault"
+  },
+  {
+    "description": "A portable agent skill (SKILL.md + reference playbooks) for writing top-conference embodied-AI papers \u2014 distilled from 6",
+    "id": "OpenGHz/embodied-ai-paper-writer",
+    "language": "Python",
+    "name": "OpenGHz/embodied-ai-paper-writer",
+    "stars": 2,
+    "updated_at": "2026-06-27T10:15:20Z",
+    "url": "https://github.com/OpenGHz/embodied-ai-paper-writer"
+  },
+  {
+    "description": "A reusable, domain-agnostic self-improving loop for Claude Code \u2014 an adversarially-gated evaluator\u2013optimizer that runs u",
+    "id": "mboss37/selfsmith",
+    "language": "Shell",
+    "name": "mboss37/selfsmith",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:00:48Z",
+    "url": "https://github.com/mboss37/selfsmith"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-27T10:00:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -81,15 +261,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
-    "description": "Production ready. AI Agent Workflow System for Claude Code",
-    "id": "ngocsangyem/MeowKit",
-    "language": "TypeScript",
-    "name": "ngocsangyem/MeowKit",
-    "stars": 15,
-    "updated_at": "2026-06-27T09:58:14Z",
-    "url": "https://github.com/ngocsangyem/MeowKit"
-  },
-  {
     "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
     "id": "Tymooh/GPT-DUEL-ARENA",
     "language": "\u2014",
@@ -108,15 +279,6 @@
     "url": "https://github.com/jaskaranhundal/usap-skills"
   },
   {
-    "description": "Unified prompt engineering and text optimization suite for macOS and Chrome, powered by Google Gemini.",
-    "id": "Sreeram5678/Axiom",
-    "language": "JavaScript",
-    "name": "Sreeram5678/Axiom",
-    "stars": 1,
-    "updated_at": "2026-06-27T09:51:46Z",
-    "url": "https://github.com/Sreeram5678/Axiom"
-  },
-  {
     "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
     "id": "zxpmail/ReqForge",
     "language": "JavaScript",
@@ -133,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-06-27T09:49:06Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-27T09:49:02Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -178,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T09:44:15Z",
     "url": "https://github.com/arshawnarbabi/ThrowbackGPT"
-  },
-  {
-    "description": "A portable agent skill (SKILL.md + reference playbooks) for writing top-conference embodied-AI papers \u2014 distilled from 6",
-    "id": "OpenGHz/embodied-ai-paper-writer",
-    "language": "Python",
-    "name": "OpenGHz/embodied-ai-paper-writer",
-    "stars": 2,
-    "updated_at": "2026-06-27T09:43:44Z",
-    "url": "https://github.com/OpenGHz/embodied-ai-paper-writer"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -243,15 +387,6 @@
     "url": "https://github.com/derob98/ailmanac"
   },
   {
-    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
-    "id": "product-on-purpose/writing-style-catalog",
-    "language": "Python",
-    "name": "product-on-purpose/writing-style-catalog",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:35:08Z",
-    "url": "https://github.com/product-on-purpose/writing-style-catalog"
-  },
-  {
     "description": "Patch Claude Code to use the FlashHash method for compaction -- 1mtok > 50ktok compaction in <10s with perfect context p",
     "id": "jaredboynton/patchpress",
     "language": "JavaScript",
@@ -259,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-06-27T09:34:40Z",
     "url": "https://github.com/jaredboynton/patchpress"
-  },
-  {
-    "description": "OpenAI-compatible media generation gateway for AI Agents. Supports multi-provider image/video generation, model routing,",
-    "id": "ang77712829/AngeMedia-gateway",
-    "language": "Python",
-    "name": "ang77712829/AngeMedia-gateway",
-    "stars": 2,
-    "updated_at": "2026-06-27T09:33:56Z",
-    "url": "https://github.com/ang77712829/AngeMedia-gateway"
   },
   {
     "description": "AI-powered Advertising & Marketing Operating System for structured copywriting, SEO, branding, UGC and prompt engineerin",
@@ -322,131 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-27T09:26:34Z",
     "url": "https://github.com/xiaojialove-DRP/the42post"
-  },
-  {
-    "description": "Scans every prompt you type into Claude, ChatGPT, and Gemini in real time. The moment it detects something sensitive \u2014 I",
-    "id": "JonBoyle82/Guardian-AI",
-    "language": "HTML",
-    "name": "JonBoyle82/Guardian-AI",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:25:28Z",
-    "url": "https://github.com/JonBoyle82/Guardian-AI"
-  },
-  {
-    "description": "Agent-ready skill for humanizing AI-generated Chinese text with platform adaptation, protected facts, and safety checks.",
-    "id": "coinluu/humanize-ai-text-skill",
-    "language": "\u2014",
-    "name": "coinluu/humanize-ai-text-skill",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:24:59Z",
-    "url": "https://github.com/coinluu/humanize-ai-text-skill"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:24:58Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:24:20Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:24:19Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:24:05Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:24:01Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:23:32Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3019,
-    "updated_at": "2026-06-27T09:23:14Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "Claude Code Mastery 2026 \u2013 176 Expert Tips & Cheatsheet from 17 Repositories",
-    "id": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "language": "HTML",
-    "name": "yanweijie19791019-pixel/claude-code-mastery-compass",
-    "stars": 1,
-    "updated_at": "2026-06-27T09:23:09Z",
-    "url": "https://github.com/yanweijie19791019-pixel/claude-code-mastery-compass"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:23:06Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "An AI agent skill for implementing design patterns, strictly based on 'Dive Into Design Patterns' by Alexander Shvets. E",
-    "id": "ariaramin/design-patterns-skill",
-    "language": "\u2014",
-    "name": "ariaramin/design-patterns-skill",
-    "stars": 1,
-    "updated_at": "2026-06-27T09:31:32Z",
-    "url": "https://github.com/ariaramin/design-patterns-skill"
-  },
-  {
-    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
-    "id": "rmdhananjay/contextual-memory-map",
-    "language": "HTML",
-    "name": "rmdhananjay/contextual-memory-map",
-    "stars": 0,
-    "updated_at": "2026-06-27T09:20:49Z",
-    "url": "https://github.com/rmdhananjay/contextual-memory-map"
-  },
-  {
-    "description": "Proof-oriented registry of reusable AI-agent operating loops",
-    "id": "mrsarac/awesome-agentic-loops",
-    "language": "Python",
-    "name": "mrsarac/awesome-agentic-loops",
-    "stars": 2,
-    "updated_at": "2026-06-27T09:20:23Z",
-    "url": "https://github.com/mrsarac/awesome-agentic-loops"
   }
 ]
