@@ -1,5 +1,68 @@
 [
   {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-06-28T01:30:10Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 1,
+    "updated_at": "2026-06-28T01:30:08Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
+    "id": "Zyonic88/Aevryn",
+    "language": "Python",
+    "name": "Zyonic88/Aevryn",
+    "stars": 0,
+    "updated_at": "2026-06-28T01:24:59Z",
+    "url": "https://github.com/Zyonic88/Aevryn"
+  },
+  {
+    "description": "Applied AI project portfolio featuring prompt systems, research tools, privacy-first utilities, and deployable product p",
+    "id": "atomicdjt/AI-Project-Portfolio",
+    "language": "TypeScript",
+    "name": "atomicdjt/AI-Project-Portfolio",
+    "stars": 0,
+    "updated_at": "2026-06-28T01:24:53Z",
+    "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
+  },
+  {
+    "description": "Two lines of code to give your LLM eyes. One attribute.",
+    "id": "askable-ui/askable",
+    "language": "TypeScript",
+    "name": "askable-ui/askable",
+    "stars": 11,
+    "updated_at": "2026-06-28T01:24:38Z",
+    "url": "https://github.com/askable-ui/askable"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 47,
+    "updated_at": "2026-06-28T01:23:44Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-28T01:15:22Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Create. Use. Share. ChatGPT prompts",
     "id": "timqian/openprompt.co",
     "language": "JavaScript",
@@ -27,24 +90,6 @@
     "url": "https://github.com/pixelnull/sillytavern-DeepLore"
   },
   {
-    "description": "Applied AI project portfolio featuring prompt systems, research tools, privacy-first utilities, and deployable product p",
-    "id": "atomicdjt/AI-Project-Portfolio",
-    "language": "TypeScript",
-    "name": "atomicdjt/AI-Project-Portfolio",
-    "stars": 0,
-    "updated_at": "2026-06-28T01:10:37Z",
-    "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
-  },
-  {
-    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
-    "id": "Zyonic88/Aevryn",
-    "language": "Python",
-    "name": "Zyonic88/Aevryn",
-    "stars": 0,
-    "updated_at": "2026-06-28T01:10:24Z",
-    "url": "https://github.com/Zyonic88/Aevryn"
-  },
-  {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
     "id": "sauravbhattacharya001/agentlens",
     "language": "JavaScript",
@@ -70,15 +115,6 @@
     "stars": 33,
     "updated_at": "2026-06-28T01:00:45Z",
     "url": "https://github.com/FlyFission/nuclear-grade-context-engineering"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-28T01:00:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI coding workflow guardrail CLI optimized for TypeScript and Node.js projects.",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 3021,
-    "updated_at": "2026-06-28T01:10:12Z",
+    "updated_at": "2026-06-28T01:25:47Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-28T00:30:50Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 129,
-    "updated_at": "2026-06-28T00:30:28Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-06-28T00:30:23Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4610,
-    "updated_at": "2026-06-28T00:30:23Z",
-    "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-06-28T00:30:21Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
   }
 ]
