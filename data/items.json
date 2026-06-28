@@ -1,5 +1,68 @@
 [
   {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 1,
+    "updated_at": "2026-06-28T14:30:07Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-28T14:30:01Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 0,
+    "updated_at": "2026-06-28T14:29:48Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "\ud83e\udd16 Analyze emotions and sarcasm in real-time with an AI therapy chatbot, providing empathetic responses and tracking emot",
+    "id": "solar-thermopsis805/therapeutic-llm",
+    "language": "TypeScript",
+    "name": "solar-thermopsis805/therapeutic-llm",
+    "stars": 2,
+    "updated_at": "2026-06-28T14:29:44Z",
+    "url": "https://github.com/solar-thermopsis805/therapeutic-llm"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-06-28T14:29:34Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "A framework for LLM-orchestrated research and audits. Multi-prompt, multi-session, context-disciplined.",
+    "id": "Ronkupper/PRISM",
+    "language": "Python",
+    "name": "Ronkupper/PRISM",
+    "stars": 5,
+    "updated_at": "2026-06-28T14:29:25Z",
+    "url": "https://github.com/Ronkupper/PRISM"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-28T14:29:18Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83d\udd0d Analyze the mathematical reasoning abilities of the Mistral-7B model using diverse prompting techniques on multi-step ",
     "id": "wolfenix/llm-math-reasoning-analysis",
     "language": "HTML",
@@ -52,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-06-28T14:27:23Z",
     "url": "https://github.com/hungf1511/awesome-prompt-engineering"
-  },
-  {
-    "description": "A framework for LLM-orchestrated research and audits. Multi-prompt, multi-session, context-disciplined.",
-    "id": "Ronkupper/PRISM",
-    "language": "Python",
-    "name": "Ronkupper/PRISM",
-    "stars": 5,
-    "updated_at": "2026-06-28T14:26:19Z",
-    "url": "https://github.com/Ronkupper/PRISM"
   },
   {
     "description": "One workflow framework, every coding agent. Install your AI-coding discipline into Claude Code, Cursor, GitHub Copilot, ",
@@ -133,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-06-28T14:22:13Z",
     "url": "https://github.com/mtsalhudarowokele/PrismIA"
-  },
-  {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 0,
-    "updated_at": "2026-06-28T14:27:50Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
     "description": "An open-source framework of reusable AI Interaction Profiles that transform everyday AI conversations into opportunities",
@@ -252,15 +297,6 @@
     "url": "https://github.com/Merveil22/spotify-playlist-dating-redflag-analysis"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-28T14:15:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
     "id": "eric-sabe/engsys",
     "language": "JavaScript",
@@ -295,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-06-28T14:09:37Z",
     "url": "https://github.com/RafaelC22V/agentic-ai-mentorship-program"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-28T14:09:31Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\ud83d\udd04 Enable seamless AI conversations with a universal file format that saves and transfers your chat history across platfo",
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-28T14:02:02Z",
     "url": "https://github.com/MunnaXbadmash/ai-dev-assistant-framework"
-  },
-  {
-    "description": "Never lose project context when switching AI chats. Structured checkpoint prompts for Claude, ChatGPT, Gemini.",
-    "id": "erzhan2403/ai-checkpoint",
-    "language": "\u2014",
-    "name": "erzhan2403/ai-checkpoint",
-    "stars": 0,
-    "updated_at": "2026-06-28T14:01:37Z",
-    "url": "https://github.com/erzhan2403/ai-checkpoint"
-  },
-  {
-    "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
-    "id": "Tymooh/GPT-DUEL-ARENA",
-    "language": "\u2014",
-    "name": "Tymooh/GPT-DUEL-ARENA",
-    "stars": 1,
-    "updated_at": "2026-06-28T14:00:52Z",
-    "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-28T14:00:21Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
