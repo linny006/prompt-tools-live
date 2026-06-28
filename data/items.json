@@ -1,5 +1,59 @@
 [
   {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 1,
+    "updated_at": "2026-06-28T19:00:08Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-28T18:59:32Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A visual prompt engineering toolkit for ComfyUI. Chain prompts together, see what fires, lock what works.",
+    "id": "mobcat40/ComfyUI-PromptChain",
+    "language": "Python",
+    "name": "mobcat40/ComfyUI-PromptChain",
+    "stars": 10,
+    "updated_at": "2026-06-28T18:58:46Z",
+    "url": "https://github.com/mobcat40/ComfyUI-PromptChain"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-28T18:58:29Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "A reproducible research study of citation-grounding and safety-routing for reducing hallucination in Taiwan-law legal as",
+    "id": "Lucien-1127/zhiyan-legal",
+    "language": "Python",
+    "name": "Lucien-1127/zhiyan-legal",
+    "stars": 1,
+    "updated_at": "2026-06-28T18:57:25Z",
+    "url": "https://github.com/Lucien-1127/zhiyan-legal"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-28T18:57:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
     "id": "dimitardamjan7-a11y/spec-flow-framework",
     "language": "HTML",
@@ -135,15 +189,6 @@
     "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-28T18:45:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
     "id": "Donnatruculent617/Codex-Mini",
     "language": "\u2014",
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T18:44:46Z",
     "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-06-28T18:44:36Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
@@ -412,41 +448,5 @@
     "stars": 11,
     "updated_at": "2026-06-28T18:38:45Z",
     "url": "https://github.com/askable-ui/askable"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-06-28T18:38:21Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-06-28T18:37:47Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-06-28T18:37:42Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-06-28T18:37:37Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
   }
 ]
