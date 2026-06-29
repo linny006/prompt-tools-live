@@ -1,5 +1,140 @@
 [
   {
+    "description": "\u2728 A community library of helpful, reusable AI prompts \u2014 for productivity, writing, research, and career growth. No codin",
+    "id": "jacqle331/copilot-prompts",
+    "language": "\u2014",
+    "name": "jacqle331/copilot-prompts",
+    "stars": 2,
+    "updated_at": "2026-06-29T14:28:37Z",
+    "url": "https://github.com/jacqle331/copilot-prompts"
+  },
+  {
+    "description": "Compile human language into token-efficient machine-readable task packets for LLM agents",
+    "id": "aDragon0707/token-prompt-compiler",
+    "language": "JavaScript",
+    "name": "aDragon0707/token-prompt-compiler",
+    "stars": 1,
+    "updated_at": "2026-06-29T14:26:54Z",
+    "url": "https://github.com/aDragon0707/token-prompt-compiler"
+  },
+  {
+    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
+    "id": "netopsengineer/axiom",
+    "language": "Shell",
+    "name": "netopsengineer/axiom",
+    "stars": 1,
+    "updated_at": "2026-06-29T14:26:40Z",
+    "url": "https://github.com/netopsengineer/axiom"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10321,
+    "updated_at": "2026-06-29T14:30:18Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 4939,
+    "updated_at": "2026-06-29T14:23:50Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
+  },
+  {
+    "description": "Multi-perspective code review council for Claude Code. 3 advisors by default, 10 agents in deep mode (Opus + Codex). Evi",
+    "id": "Zandereins/hydra",
+    "language": "Python",
+    "name": "Zandereins/hydra",
+    "stars": 3,
+    "updated_at": "2026-06-29T14:23:12Z",
+    "url": "https://github.com/Zandereins/hydra"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 3978,
+    "updated_at": "2026-06-29T14:22:47Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30041,
+    "updated_at": "2026-06-29T14:22:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u901a\u7528 AI Coding \u94c1\u5f8b CLAUDE.md \u6a21\u677f \u2014 11 \u6761 operational \u94c1\u5f8b, \u8de8\u9879\u76ee\u590d\u7528",
+    "id": "evan966890/ai-coding-ironrules",
+    "language": "Python",
+    "name": "evan966890/ai-coding-ironrules",
+    "stars": 1,
+    "updated_at": "2026-06-29T14:21:51Z",
+    "url": "https://github.com/evan966890/ai-coding-ironrules"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20001,
+    "updated_at": "2026-06-29T14:20:20Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Claude Code skill for strategic SEO link insertion and editorial outreach \u2014 blue ocean keyword gaps, 9 placement variati",
+    "id": "ChiefStarKid/link-pitch",
+    "language": "\u2014",
+    "name": "ChiefStarKid/link-pitch",
+    "stars": 0,
+    "updated_at": "2026-06-29T14:18:53Z",
+    "url": "https://github.com/ChiefStarKid/link-pitch"
+  },
+  {
+    "description": "Guida pratica, collaborativa e continuamente aggiornata sull'impiego dell'Intelligenza Artificiale nella professione di ",
+    "id": "C3I-ITA/ai-professione-ingegnere",
+    "language": "CSS",
+    "name": "C3I-ITA/ai-professione-ingegnere",
+    "stars": 0,
+    "updated_at": "2026-06-29T14:18:15Z",
+    "url": "https://github.com/C3I-ITA/ai-professione-ingegnere"
+  },
+  {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 6677,
+    "updated_at": "2026-06-29T14:16:52Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-06-29T14:15:38Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-29T14:15:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
     "id": "Ohswedd/vincio",
     "language": "Python",
@@ -7,6 +142,15 @@
     "stars": 2,
     "updated_at": "2026-06-29T14:14:59Z",
     "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "Visiora is an AI-powered platform that helps creators move from imagination to execution by enhancing prompts, evaluatin",
+    "id": "Anusha-Sundar-2912/Visiora",
+    "language": "JavaScript",
+    "name": "Anusha-Sundar-2912/Visiora",
+    "stars": 0,
+    "updated_at": "2026-06-29T14:14:28Z",
+    "url": "https://github.com/Anusha-Sundar-2912/Visiora"
   },
   {
     "description": "Claude Harness Creator: Build Production-Ready AI Workflows in Minutes 2026",
@@ -18,15 +162,6 @@
     "url": "https://github.com/said-1366/Claude-Harness-Architect"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30037,
-    "updated_at": "2026-06-29T14:13:02Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Codex skills for personalized multi-session teaching with a stable learner profile and course-local lesson workspace.",
     "id": "Messiah-Leo/teach-profile-skills",
     "language": "Python",
@@ -34,6 +169,15 @@
     "stars": 0,
     "updated_at": "2026-06-29T14:11:40Z",
     "url": "https://github.com/Messiah-Leo/teach-profile-skills"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 644,
+    "updated_at": "2026-06-29T14:11:34Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
@@ -61,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-06-29T14:08:31Z",
     "url": "https://github.com/filippopiunti/cavemanXsubagent"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20001,
-    "updated_at": "2026-06-29T14:14:29Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -121,18 +256,9 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8813,
+    "stars": 8814,
     "updated_at": "2026-06-29T14:05:50Z",
     "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 3977,
-    "updated_at": "2026-06-29T14:09:27Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -198,15 +324,6 @@
     "url": "https://github.com/Astik1804/LLM-Validator"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-29T14:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "320+ curated Claude Code skills, 9 agents, 39 commands, sanitized configs & a Codex bridge \u2014 auto-indexed from skills/.",
     "id": "shengdabai/Tony-Claude-Code-Skills",
     "language": "HTML",
@@ -221,7 +338,7 @@
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 1,
-    "updated_at": "2026-06-29T14:00:08Z",
+    "updated_at": "2026-06-29T14:30:07Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
@@ -247,7 +364,7 @@
     "id": "mohitagw15856/pm-claude-skills",
     "language": "JavaScript",
     "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1071,
+    "stars": 1072,
     "updated_at": "2026-06-29T13:57:30Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-29T13:49:08Z",
     "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Open-source prompt version control for AI teams. Git-style history, automated evals, one-click rollback for LLM prompts.",
-    "id": "PromptMatrix/Promptmatrix",
-    "language": "Python",
-    "name": "PromptMatrix/Promptmatrix",
-    "stars": 0,
-    "updated_at": "2026-06-29T13:48:53Z",
-    "url": "https://github.com/PromptMatrix/Promptmatrix"
-  },
-  {
-    "description": "A balanced, intent-anchored review protocol that replaces the one-sided critic \u2014 preserve-first, sizes to the task, opti",
-    "id": "matteolopreti/spatiotemporal-critique",
-    "language": "Python",
-    "name": "matteolopreti/spatiotemporal-critique",
-    "stars": 0,
-    "updated_at": "2026-06-29T13:48:36Z",
-    "url": "https://github.com/matteolopreti/spatiotemporal-critique"
-  },
-  {
-    "description": "Open-source prompt version control for AI teams. Git-style history, automated evals, one-click rollback for LLM prompts.",
-    "id": "PromptMatrix/promptmatrix.github.io",
-    "language": "JavaScript",
-    "name": "PromptMatrix/promptmatrix.github.io",
-    "stars": 2,
-    "updated_at": "2026-06-29T13:48:34Z",
-    "url": "https://github.com/PromptMatrix/promptmatrix.github.io"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 0,
-    "updated_at": "2026-06-29T13:48:20Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-06-29T13:48:16Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-06-29T13:48:03Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-06-29T13:48:00Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-06-29T13:47:55Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-06-29T13:47:49Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-29T13:47:19Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 0,
-    "updated_at": "2026-06-29T13:46:54Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-06-29T13:46:53Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Multi-perspective code review council for Claude Code. 3 advisors by default, 10 agents in deep mode (Opus + Codex). Evi",
-    "id": "Zandereins/hydra",
-    "language": "Python",
-    "name": "Zandereins/hydra",
-    "stars": 3,
-    "updated_at": "2026-06-29T14:01:15Z",
-    "url": "https://github.com/Zandereins/hydra"
   }
 ]
