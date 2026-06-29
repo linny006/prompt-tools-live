@@ -1,5 +1,77 @@
 [
   {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 1,
+    "updated_at": "2026-06-29T06:30:08Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
+    "id": "Zyonic88/Aevryn",
+    "language": "Python",
+    "name": "Zyonic88/Aevryn",
+    "stars": 0,
+    "updated_at": "2026-06-29T06:30:05Z",
+    "url": "https://github.com/Zyonic88/Aevryn"
+  },
+  {
+    "description": "Production-ready AI coding skills for APIs. Installable skills for Claude Code, Cursor, Codex CLI, Gemini CLI, and moder",
+    "id": "ashish7802/awesome-api-skills",
+    "language": "JavaScript",
+    "name": "ashish7802/awesome-api-skills",
+    "stars": 0,
+    "updated_at": "2026-06-29T06:29:44Z",
+    "url": "https://github.com/ashish7802/awesome-api-skills"
+  },
+  {
+    "description": "FDE Consultants Protocoles \u2014 open-source Forward Deployed Engineer + DeepSCR protocol: turn any coding agent (Claude Cod",
+    "id": "selectess/fde-consultants-protocoles",
+    "language": "HTML",
+    "name": "selectess/fde-consultants-protocoles",
+    "stars": 1,
+    "updated_at": "2026-06-29T06:29:40Z",
+    "url": "https://github.com/selectess/fde-consultants-protocoles"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-06-29T06:28:08Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Local-only MCP server and CLI for AI agents to create video ad briefs, hooks, UGC scripts, storyboards, and AdsTurbo-rea",
+    "id": "AdsTurbo/adsturbo-creative-mcp",
+    "language": "TypeScript",
+    "name": "AdsTurbo/adsturbo-creative-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-29T06:27:09Z",
+    "url": "https://github.com/AdsTurbo/adsturbo-creative-mcp"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-06-29T06:26:33Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-29T06:24:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
     "id": "VectorPeak/vectorpeak-agent-skills",
     "language": "Python",
@@ -58,18 +130,9 @@
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
-    "stars": 574,
+    "stars": 575,
     "updated_at": "2026-06-29T06:20:06Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
-    "id": "Zyonic88/Aevryn",
-    "language": "Python",
-    "name": "Zyonic88/Aevryn",
-    "stars": 0,
-    "updated_at": "2026-06-29T06:19:44Z",
-    "url": "https://github.com/Zyonic88/Aevryn"
   },
   {
     "description": "Turn Claude Code into a phase-aware, multi-team software factory: hard-gated pipeline, Clean Architecture + Effect stand",
@@ -117,15 +180,6 @@
     "url": "https://github.com/Harshrudrawar/llm-reliability-evaluation"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-29T06:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "11-pass pipeline for reverse-engineering vague/lossy user prompts into structured analysis. Steel-manned restatement, ab",
     "id": "akashmukherjee333/4eyes",
     "language": "Python",
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-29T06:12:22Z",
     "url": "https://github.com/a00rmonicaalambert12/cursor-rules-template"
-  },
-  {
-    "description": "FDE Consultants Protocoles \u2014 open-source Forward Deployed Engineer + DeepSCR protocol: turn any coding agent (Claude Cod",
-    "id": "selectess/fde-consultants-protocoles",
-    "language": "HTML",
-    "name": "selectess/fde-consultants-protocoles",
-    "stars": 1,
-    "updated_at": "2026-06-29T06:11:31Z",
-    "url": "https://github.com/selectess/fde-consultants-protocoles"
   },
   {
     "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
@@ -241,15 +286,6 @@
     "stars": 4,
     "updated_at": "2026-06-29T06:05:11Z",
     "url": "https://github.com/iKislay/copium"
-  },
-  {
-    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 1,
-    "updated_at": "2026-06-29T06:00:08Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
     "description": "Cross-agent prompt pocket: remember your most-used prompts and pick one to run. Works on Claude Code, Codex, OpenCode, C",
@@ -355,27 +391,9 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 53282,
+    "stars": 53290,
     "updated_at": "2026-06-29T05:37:05Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Production-ready AI coding skills for APIs. Installable skills for Claude Code, Cursor, Codex CLI, Gemini CLI, and moder",
-    "id": "ashish7802/awesome-api-skills",
-    "language": "TypeScript",
-    "name": "ashish7802/awesome-api-skills",
-    "stars": 0,
-    "updated_at": "2026-06-29T06:19:55Z",
-    "url": "https://github.com/ashish7802/awesome-api-skills"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-06-29T06:14:39Z",
-    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "Claude/Copilot skill for generating and beautifying resumes \u2014 7 print-ready HTML templates, structured data pipeline, th",
@@ -383,7 +401,7 @@
     "language": "HTML",
     "name": "yanliudesign/resume-builder-skill",
     "stars": 1,
-    "updated_at": "2026-06-29T05:33:01Z",
+    "updated_at": "2026-06-29T06:30:22Z",
     "url": "https://github.com/yanliudesign/resume-builder-skill"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-29T05:28:39Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "\u4e2d\u6587 AI \u5b66\u4e60\u8def\u7ebf\u56fe\uff1a\u4ece AI \u4f7f\u7528\u3001AI \u5e94\u7528\u5f00\u53d1\u5230 RAG\u3001Agent\u3001Prompt \u548c\u5927\u6a21\u578b\u57fa\u7840\u3002",
-    "id": "aifeng-asu/chinese-ai-learning-roadmap",
-    "language": "\u2014",
-    "name": "aifeng-asu/chinese-ai-learning-roadmap",
-    "stars": 0,
-    "updated_at": "2026-06-29T05:28:22Z",
-    "url": "https://github.com/aifeng-asu/chinese-ai-learning-roadmap"
-  },
-  {
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "id": "DietrichGebert/ponytail",
-    "language": "JavaScript",
-    "name": "DietrichGebert/ponytail",
-    "stars": 65373,
-    "updated_at": "2026-06-29T05:26:32Z",
-    "url": "https://github.com/DietrichGebert/ponytail"
   }
 ]
