@@ -1,5 +1,95 @@
 [
   {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 1,
+    "updated_at": "2026-06-29T02:30:07Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Curated, verified Agent Skills powered by ModelStudio.",
+    "id": "modelstudioai/skills",
+    "language": "Python",
+    "name": "modelstudioai/skills",
+    "stars": 36,
+    "updated_at": "2026-06-29T02:29:15Z",
+    "url": "https://github.com/modelstudioai/skills"
+  },
+  {
+    "description": "Reusable Claude Code skills: teach-while-building, factual rigor, an automation system-map generator, and Anthropic's be",
+    "id": "nataliacorrea03/claude-code-skills",
+    "language": "\u2014",
+    "name": "nataliacorrea03/claude-code-skills",
+    "stars": 0,
+    "updated_at": "2026-06-29T02:29:09Z",
+    "url": "https://github.com/nataliacorrea03/claude-code-skills"
+  },
+  {
+    "description": "Paste-and-build recipes for Claude Code: a birthday-text auto-sender and the FITFO decision-forcing skill. Companion to ",
+    "id": "nataliacorrea03/claude-code-recipes",
+    "language": "\u2014",
+    "name": "nataliacorrea03/claude-code-recipes",
+    "stars": 0,
+    "updated_at": "2026-06-29T02:24:44Z",
+    "url": "https://github.com/nataliacorrea03/claude-code-recipes"
+  },
+  {
+    "description": "Turn rough ideas into agent-ready prompts with confirmation, safety gates, and Codex/Claude Code dispatch support.",
+    "id": "polychrome7/your-prompt-engineer",
+    "language": "\u2014",
+    "name": "polychrome7/your-prompt-engineer",
+    "stars": 0,
+    "updated_at": "2026-06-29T02:23:25Z",
+    "url": "https://github.com/polychrome7/your-prompt-engineer"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 35868,
+    "updated_at": "2026-06-29T02:25:17Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "A Windows-friendly AI agent coding workbench for Codex, Claude Code, Cursor, Antigravity, MCP, GitHub Actions, prompt ev",
+    "id": "Yaked1/ai-lab-codex-workbench",
+    "language": "Python",
+    "name": "Yaked1/ai-lab-codex-workbench",
+    "stars": 0,
+    "updated_at": "2026-06-29T02:20:32Z",
+    "url": "https://github.com/Yaked1/ai-lab-codex-workbench"
+  },
+  {
+    "description": "JD Decoder & Offer Strategy OS \u2014 decode any job description into Match Score, Resume Tailor, Interview Predictor, and a ",
+    "id": "yanliudesign/job-description-skill",
+    "language": "\u2014",
+    "name": "yanliudesign/job-description-skill",
+    "stars": 2,
+    "updated_at": "2026-06-29T02:16:52Z",
+    "url": "https://github.com/yanliudesign/job-description-skill"
+  },
+  {
+    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
+    "id": "YouMind-OpenLab/awesome-gpt-image-2",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-2",
+    "stars": 7891,
+    "updated_at": "2026-06-29T02:16:44Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-29T02:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u591a\u667a\u80fd\u4f53\u534f\u540c\u5f71\u89c6\u5de5\u4e1a\u5316AI\u5de5\u4f5c\u53f0 | \u5185\u7f6e\u7f16\u5267\u5ba4SOP + AI\u89c6\u9891\u5206\u955c\u63d0\u793a\u8bcd\u5f15\u64ce + \u957f\u6587\u672c\u6df1\u5ea6\u5904\u7406 | \u652f\u630112+ LLM\u670d\u52a1\u5546",
     "id": "slipknot0130/Film-Production-Toolkit",
     "language": "Python",
@@ -13,7 +103,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 53141,
+    "stars": 53150,
     "updated_at": "2026-06-29T02:14:13Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -31,18 +121,9 @@
     "id": "Imbad0202/academic-research-skills-codex",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills-codex",
-    "stars": 4958,
+    "stars": 4959,
     "updated_at": "2026-06-29T02:09:38Z",
     "url": "https://github.com/Imbad0202/academic-research-skills-codex"
-  },
-  {
-    "description": "Turn rough ideas into agent-ready prompts with confirmation, safety gates, and Codex/Claude Code dispatch support.",
-    "id": "polychrome7/your-prompt-engineer",
-    "language": "\u2014",
-    "name": "polychrome7/your-prompt-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-29T02:08:19Z",
-    "url": "https://github.com/polychrome7/your-prompt-engineer"
   },
   {
     "description": "LLM\u5e94\u7528&Agent\u5f00\u53d1\u9762\u8bd5\u9898\u5168\u96c6\uff1a21\u4e2a\u4e13\u9898\u3001380+\u9053\u9898\u300141000+\u884c\u3001\u8986\u76d6Python/FastAPI/LangChain/CICD",
@@ -88,33 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T02:01:28Z",
     "url": "https://github.com/Norinatiring463/loop-engineering"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "Python",
-    "name": "github/awesome-copilot",
-    "stars": 35868,
-    "updated_at": "2026-06-29T02:13:42Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-29T02:00:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 1,
-    "updated_at": "2026-06-29T02:00:08Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
     "description": "Automate project security hardening by using AI agents to analyze codebase behavior and identify necessary security impr",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-29T01:52:03Z",
     "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-06-29T01:51:59Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 1,
-    "updated_at": "2026-06-29T01:51:57Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-06-29T01:51:57Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-06-29T01:51:24Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-06-29T01:51:03Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-06-29T01:50:48Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
   }
 ]
