@@ -1,5 +1,68 @@
 [
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 53618,
+    "updated_at": "2026-06-29T15:00:05Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "\ud83c\udf1e Manage Xeroderma Pigmentosum effectively with DermaFlow, an AI-driven web solution that provides proactive care and UV",
+    "id": "MarcoRamos016/AI-project",
+    "language": "HTML",
+    "name": "MarcoRamos016/AI-project",
+    "stars": 3,
+    "updated_at": "2026-06-29T14:58:17Z",
+    "url": "https://github.com/MarcoRamos016/AI-project"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Manage and reuse AI prompts from the command line with cueCLI for ChatGPT, Claude, and more\u2014simplifying your workflow",
+    "id": "tito1405/cueCLI",
+    "language": "JavaScript",
+    "name": "tito1405/cueCLI",
+    "stars": 3,
+    "updated_at": "2026-06-29T14:58:03Z",
+    "url": "https://github.com/tito1405/cueCLI"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-06-29T14:57:45Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Open-source prompt version control for AI teams. Git-style history, automated evals, one-click rollback for LLM prompts.",
+    "id": "PromptMatrix/Promptmatrix",
+    "language": "Python",
+    "name": "PromptMatrix/Promptmatrix",
+    "stars": 0,
+    "updated_at": "2026-06-29T14:58:42Z",
+    "url": "https://github.com/PromptMatrix/Promptmatrix"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-29T14:56:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 2,
+    "updated_at": "2026-06-29T14:55:49Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
     "description": "\ud83d\udc19 AI Craft delivers structured workflow prompts for software development across AI platforms, with Claude AI workflows a",
     "id": "R-cloud-git/ai-craft",
     "language": "\u2014",
@@ -7,6 +70,15 @@
     "stars": 3,
     "updated_at": "2026-06-29T14:55:26Z",
     "url": "https://github.com/R-cloud-git/ai-craft"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30044,
+    "updated_at": "2026-06-29T14:55:01Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
@@ -90,24 +162,6 @@
     "url": "https://github.com/dustin-olenslager/claude-phalanx"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30043,
-    "updated_at": "2026-06-29T14:55:01Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 2,
-    "updated_at": "2026-06-29T14:55:49Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
-  },
-  {
     "description": "A framework for LLM-orchestrated research and audits. Multi-prompt, multi-session, context-disciplined.",
     "id": "Ronkupper/PRISM",
     "language": "Python",
@@ -142,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T14:45:56Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-29T14:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Multi-Agent AI Control Tower for Enterprise Supply Chain Crisis Intelligence",
@@ -252,21 +297,12 @@
     "url": "https://github.com/luiseiman/dotforge"
   },
   {
-    "description": "Open-source prompt version control for AI teams. Git-style history, automated evals, one-click rollback for LLM prompts.",
-    "id": "PromptMatrix/Promptmatrix",
-    "language": "Python",
-    "name": "PromptMatrix/Promptmatrix",
-    "stars": 0,
-    "updated_at": "2026-06-29T14:43:39Z",
-    "url": "https://github.com/PromptMatrix/Promptmatrix"
-  },
-  {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
     "id": "fkiene/llmtrim",
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 135,
-    "updated_at": "2026-06-29T14:54:40Z",
+    "updated_at": "2026-06-29T14:59:59Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6677,
     "updated_at": "2026-06-29T14:36:35Z",
     "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-06-29T14:15:38Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 2,
-    "updated_at": "2026-06-29T14:14:59Z",
-    "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "Visiora is an AI-powered platform that helps creators move from imagination to execution by enhancing prompts, evaluatin",
-    "id": "Anusha-Sundar-2912/Visiora",
-    "language": "JavaScript",
-    "name": "Anusha-Sundar-2912/Visiora",
-    "stars": 0,
-    "updated_at": "2026-06-29T14:14:28Z",
-    "url": "https://github.com/Anusha-Sundar-2912/Visiora"
-  },
-  {
-    "description": "Claude Harness Creator: Build Production-Ready AI Workflows in Minutes 2026",
-    "id": "said-1366/Claude-Harness-Architect",
-    "language": "HTML",
-    "name": "said-1366/Claude-Harness-Architect",
-    "stars": 0,
-    "updated_at": "2026-06-29T14:13:25Z",
-    "url": "https://github.com/said-1366/Claude-Harness-Architect"
   }
 ]
