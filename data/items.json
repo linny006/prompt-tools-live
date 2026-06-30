@@ -1,5 +1,113 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-06-30T12:42:27Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
+    "id": "Nayjest/ai-microcore",
+    "language": "Python",
+    "name": "Nayjest/ai-microcore",
+    "stars": 106,
+    "updated_at": "2026-06-30T12:45:03Z",
+    "url": "https://github.com/Nayjest/ai-microcore"
+  },
+  {
+    "description": "Claude Code plugin that learns your repo's conventions and shows the model a real example from your own code before each",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 8,
+    "updated_at": "2026-06-30T12:40:46Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 24,
+    "updated_at": "2026-06-30T12:39:40Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "MartiniArt/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "MartiniArt/awesome-seedance-2-prompt",
+    "stars": 8,
+    "updated_at": "2026-06-30T12:38:03Z",
+    "url": "https://github.com/MartiniArt/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "Multi-perspective code review council for Claude Code. 3 advisors by default, 10 agents in deep mode (Opus + Codex). Evi",
+    "id": "Zandereins/hydra",
+    "language": "Python",
+    "name": "Zandereins/hydra",
+    "stars": 3,
+    "updated_at": "2026-06-30T12:36:27Z",
+    "url": "https://github.com/Zandereins/hydra"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 48,
+    "updated_at": "2026-06-30T12:36:26Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12713,
+    "updated_at": "2026-06-30T12:35:44Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20072,
+    "updated_at": "2026-06-30T12:35:08Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30133,
+    "updated_at": "2026-06-30T12:33:33Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Portable reviewer/worker workflow kit for AI coding agents. Reduce premium model context waste by moving execution, retr",
+    "id": "ningbo00/token-saver-loop",
+    "language": "Python",
+    "name": "ningbo00/token-saver-loop",
+    "stars": 4,
+    "updated_at": "2026-06-30T12:32:16Z",
+    "url": "https://github.com/ningbo00/token-saver-loop"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-06-30T12:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -16,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T12:28:49Z",
     "url": "https://github.com/fabriziosalmi/ai-security"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 24,
-    "updated_at": "2026-06-30T12:27:40Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
     "description": "Installable Hermes Agent profile for C4 architecture, Mixture-of-Agents routing, four-layer agent trees, and recursive i",
@@ -72,15 +171,6 @@
     "url": "https://github.com/robertomarchioro/prompt-a-porter"
   },
   {
-    "description": "Portable reviewer/worker workflow kit for AI coding agents. Reduce premium model context waste by moving execution, retr",
-    "id": "ningbo00/token-saver-loop",
-    "language": "Python",
-    "name": "ningbo00/token-saver-loop",
-    "stars": 4,
-    "updated_at": "2026-06-30T12:24:10Z",
-    "url": "https://github.com/ningbo00/token-saver-loop"
-  },
-  {
     "description": "Local hooks that catch vague AI-agent prompts before they burn tokens.",
     "id": "akg268/prompt-preflight",
     "language": "Python",
@@ -97,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T12:22:05Z",
     "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 48,
-    "updated_at": "2026-06-30T12:21:53Z",
-    "url": "https://github.com/ariffazil/arifos"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -153,20 +234,11 @@
     "url": "https://github.com/ai-boost/awesome-prompts"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-06-30T12:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
     "id": "AgustiPuigserver/opus-prompt-architect",
     "language": "HTML",
     "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 48,
+    "stars": 52,
     "updated_at": "2026-06-30T12:14:21Z",
     "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
   },
@@ -184,18 +256,9 @@
     "id": "heavenaruba/codified-prompt-rule-engine",
     "language": "HTML",
     "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 47,
+    "stars": 52,
     "updated_at": "2026-06-30T12:13:38Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30131,
-    "updated_at": "2026-06-30T12:27:35Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -211,7 +274,7 @@
     "id": "kaderkck/hewn-forge",
     "language": "HTML",
     "name": "kaderkck/hewn-forge",
-    "stars": 47,
+    "stars": 50,
     "updated_at": "2026-06-30T12:10:37Z",
     "url": "https://github.com/kaderkck/hewn-forge"
   },
@@ -265,7 +328,7 @@
     "id": "vikashjeyaraman/opencouncil-contract-inspector",
     "language": "HTML",
     "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 47,
+    "stars": 49,
     "updated_at": "2026-06-30T12:07:03Z",
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   },
@@ -286,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T12:06:22Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20071,
-    "updated_at": "2026-06-30T12:29:05Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Automate project security hardening by using AI agents to analyze codebase behavior and identify necessary security impr",
@@ -356,7 +410,7 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 0,
-    "updated_at": "2026-06-30T12:02:58Z",
+    "updated_at": "2026-06-30T12:45:25Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -364,7 +418,7 @@
     "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
     "language": "HTML",
     "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 47,
+    "stars": 49,
     "updated_at": "2026-06-30T12:02:57Z",
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   },
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-30T12:02:13Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:01:51Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:01:49Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-06-30T12:01:48Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:01:35Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:01:06Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-06-30T12:00:43Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
   }
 ]
