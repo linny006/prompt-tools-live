@@ -1,5 +1,113 @@
 [
   {
+    "description": "Framework italiano di prompt engineering con 2000 prompt, SUPERBIBLIOTECA e Prometeus Marcelus per prompt verificabili, ",
+    "id": "manzo8b/marcelus-v-v01",
+    "language": "\u2014",
+    "name": "manzo8b/marcelus-v-v01",
+    "stars": 1,
+    "updated_at": "2026-07-01T05:45:00Z",
+    "url": "https://github.com/manzo8b/marcelus-v-v01"
+  },
+  {
+    "description": "Free AI prompts for ChatGPT, Claude, Gemini, SEO, blogging, marketing & productivity.",
+    "id": "kshare-official/kshare-official.github.io",
+    "language": "HTML",
+    "name": "kshare-official/kshare-official.github.io",
+    "stars": 0,
+    "updated_at": "2026-07-01T05:43:16Z",
+    "url": "https://github.com/kshare-official/kshare-official.github.io"
+  },
+  {
+    "description": "Production-ready AI Agent Team template for Claude Code \u2014 14 specialists, Agile+Scrum+TDD enforced via skill/hook/DoD 3-",
+    "id": "pcliangx/AppGenesisForge",
+    "language": "Python",
+    "name": "pcliangx/AppGenesisForge",
+    "stars": 461,
+    "updated_at": "2026-07-01T05:42:49Z",
+    "url": "https://github.com/pcliangx/AppGenesisForge"
+  },
+  {
+    "description": "Blueprint repository for Claude Code projects \u2014 RPI methodology, known agent error patterns, operational rules, and proj",
+    "id": "juan294/cc-rpi",
+    "language": "Shell",
+    "name": "juan294/cc-rpi",
+    "stars": 5,
+    "updated_at": "2026-07-01T05:40:57Z",
+    "url": "https://github.com/juan294/cc-rpi"
+  },
+  {
+    "description": "A tool that compiles messy natural language prompts into a structured intermediate representation (IR) and optionally se",
+    "id": "madara88645/Compiler",
+    "language": "Python",
+    "name": "madara88645/Compiler",
+    "stars": 25,
+    "updated_at": "2026-07-01T05:39:47Z",
+    "url": "https://github.com/madara88645/Compiler"
+  },
+  {
+    "description": "A local-first kanban for the tasks you delegate to AI coding agents \u2014 prompt-first cards, live timers, drag-and-drop.",
+    "id": "davidcjw/agent-task-board",
+    "language": "JavaScript",
+    "name": "davidcjw/agent-task-board",
+    "stars": 0,
+    "updated_at": "2026-07-01T05:36:49Z",
+    "url": "https://github.com/davidcjw/agent-task-board"
+  },
+  {
+    "description": "\u901a\u7528 AI Coding \u94c1\u5f8b CLAUDE.md \u6a21\u677f \u2014 11 \u6761 operational \u94c1\u5f8b, \u8de8\u9879\u76ee\u590d\u7528",
+    "id": "evan966890/ai-coding-ironrules",
+    "language": "Python",
+    "name": "evan966890/ai-coding-ironrules",
+    "stars": 1,
+    "updated_at": "2026-07-01T05:33:22Z",
+    "url": "https://github.com/evan966890/ai-coding-ironrules"
+  },
+  {
+    "description": "AI data product portfolio for intelligent analytics, NL2SQL workflow, prompt evaluation, and AI product case studies.",
+    "id": "Leeli911/ai-data-product-portfolio",
+    "language": "Python",
+    "name": "Leeli911/ai-data-product-portfolio",
+    "stars": 0,
+    "updated_at": "2026-07-01T05:31:09Z",
+    "url": "https://github.com/Leeli911/ai-data-product-portfolio"
+  },
+  {
+    "description": "Curated map of self-evolving LLM agents \u2014 90+ papers, taxonomy, misevolution safety, 2 runnable demos.",
+    "id": "sukoji/awesome-self-evolving-agents",
+    "language": "Python",
+    "name": "sukoji/awesome-self-evolving-agents",
+    "stars": 0,
+    "updated_at": "2026-07-01T05:30:48Z",
+    "url": "https://github.com/sukoji/awesome-self-evolving-agents"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12717,
+    "updated_at": "2026-07-01T05:30:29Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 0,
+    "updated_at": "2026-07-01T05:30:24Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-01T05:30:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -63,24 +171,6 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
-    "description": "Curated map of self-evolving LLM agents \u2014 90+ papers, taxonomy, misevolution safety, 2 runnable demos.",
-    "id": "sukoji/awesome-self-evolving-agents",
-    "language": "Python",
-    "name": "sukoji/awesome-self-evolving-agents",
-    "stars": 0,
-    "updated_at": "2026-07-01T05:24:07Z",
-    "url": "https://github.com/sukoji/awesome-self-evolving-agents"
-  },
-  {
-    "description": "Free AI prompts for ChatGPT, Claude, Gemini, SEO, blogging, marketing & productivity.",
-    "id": "kshare-official/kshare-official.github.io",
-    "language": "HTML",
-    "name": "kshare-official/kshare-official.github.io",
-    "stars": 0,
-    "updated_at": "2026-07-01T05:23:52Z",
-    "url": "https://github.com/kshare-official/kshare-official.github.io"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -115,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-01T05:17:42Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "A local-first kanban for the tasks you delegate to AI coding agents \u2014 prompt-first cards, live timers, drag-and-drop.",
-    "id": "davidcjw/agent-task-board",
-    "language": "JavaScript",
-    "name": "davidcjw/agent-task-board",
-    "stars": 0,
-    "updated_at": "2026-07-01T05:17:00Z",
-    "url": "https://github.com/davidcjw/agent-task-board"
   },
   {
     "description": "A free Claude skill for sharper consulting thinking ;case interview prep, strategy frameworks, and business problem-solv",
@@ -162,15 +243,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-01T05:15:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
     "id": "github/awesome-copilot",
     "language": "Python",
@@ -189,12 +261,21 @@
     "url": "https://github.com/hassaanghaffar923-rgb/auraprompt-backend"
   },
   {
+    "description": "AI\u534f\u4f5c\u9879\u76ee\u5168\u751f\u547d\u5468\u671f\u6846\u67b6 \u00b7 A methodology framework for full-lifecycle human-AI collaboration \u2014 empirically tested, multi-model revi",
+    "id": "redamancy231-create/ai-collaboration-framework",
+    "language": "Markdown",
+    "name": "redamancy231-create/ai-collaboration-framework",
+    "stars": 0,
+    "updated_at": "2026-07-01T05:13:22Z",
+    "url": "https://github.com/redamancy231-create/ai-collaboration-framework"
+  },
+  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1377,
-    "updated_at": "2026-07-01T05:08:50Z",
+    "updated_at": "2026-07-01T05:37:33Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-01T04:56:55Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-07-01T04:56:39Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-07-01T04:56:33Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 0,
-    "updated_at": "2026-07-01T04:56:03Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-07-01T04:56:03Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-07-01T04:55:01Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-01T04:54:02Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-07-01T04:53:31Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-01T04:53:24Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-07-01T04:53:14Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
   }
 ]
