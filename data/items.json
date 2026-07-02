@@ -1,5 +1,158 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3320,
+    "updated_at": "2026-07-02T10:14:54Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Strip large base64 data-URIs and raw base64 blobs out of source code before sending it to an LLM \u2014 save context window a",
+    "id": "oratis/llm-context-code-stripper",
+    "language": "TypeScript",
+    "name": "oratis/llm-context-code-stripper",
+    "stars": 0,
+    "updated_at": "2026-07-02T10:12:01Z",
+    "url": "https://github.com/oratis/llm-context-code-stripper"
+  },
+  {
+    "description": "A production-grade multi-platform monorepo demonstrating shared business logic across Web and Mobile. Showcases engineer",
+    "id": "john-data-chen/turborepo-starter-kit",
+    "language": "TypeScript",
+    "name": "john-data-chen/turborepo-starter-kit",
+    "stars": 16,
+    "updated_at": "2026-07-02T10:12:00Z",
+    "url": "https://github.com/john-data-chen/turborepo-starter-kit"
+  },
+  {
+    "description": "Local-first AI agent memory and coordination framework for Cursor, Claude, Codex, Copilot, and ChatGPT.",
+    "id": "brennin0820/nightraven",
+    "language": "TypeScript",
+    "name": "brennin0820/nightraven",
+    "stars": 0,
+    "updated_at": "2026-07-02T10:11:52Z",
+    "url": "https://github.com/brennin0820/nightraven"
+  },
+  {
+    "description": "\u300a\u672b\u65e5NPC\u90fd\u4e0d\u592a\u6b63\u5e38\u300b\u7684 Agent Skills \u4ed3\u5e93 \u00b7 \u53ef\u590d\u7528\u5de5\u4f5c\u6d41\u6280\u80fd",
+    "id": "madnpc/skills",
+    "language": "Shell",
+    "name": "madnpc/skills",
+    "stars": 2,
+    "updated_at": "2026-07-02T10:10:25Z",
+    "url": "https://github.com/madnpc/skills"
+  },
+  {
+    "description": "Turns vague requests into structured prompts, execution plans, and policy-aware workflows \u2014 with readiness verdicts, PR ",
+    "id": "madara88645/Compiler",
+    "language": "Python",
+    "name": "madara88645/Compiler",
+    "stars": 25,
+    "updated_at": "2026-07-02T10:13:59Z",
+    "url": "https://github.com/madara88645/Compiler"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-07-02T10:08:24Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-02T10:07:54Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open collection of AI skills and prompts, featuring super-background for customer due diligence.",
+    "id": "yanyuchao586-png/Bowen-Zhao",
+    "language": "PowerShell",
+    "name": "yanyuchao586-png/Bowen-Zhao",
+    "stars": 0,
+    "updated_at": "2026-07-02T10:07:41Z",
+    "url": "https://github.com/yanyuchao586-png/Bowen-Zhao"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "Python",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 8,
+    "updated_at": "2026-07-02T10:07:40Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-02T10:07:19Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83c\udf0a Blue Spec is a toolkit for Security-Driven Hardening, a defensive workflow to help AI agents detect what a system does",
+    "id": "wellwelwel/blue-spec",
+    "language": "TypeScript",
+    "name": "wellwelwel/blue-spec",
+    "stars": 68,
+    "updated_at": "2026-07-02T10:07:50Z",
+    "url": "https://github.com/wellwelwel/blue-spec"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30286,
+    "updated_at": "2026-07-02T10:13:14Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "High-performance computer vision implementation featuring real-time image segmentation matrices, dynamic alpha-channel c",
+    "id": "eddy-747/AI-Background-Remover-For-PC-2026",
+    "language": "C++",
+    "name": "eddy-747/AI-Background-Remover-For-PC-2026",
+    "stars": 1,
+    "updated_at": "2026-07-02T10:04:29Z",
+    "url": "https://github.com/eddy-747/AI-Background-Remover-For-PC-2026"
+  },
+  {
+    "description": "210 evaluated academic Claude/agent skills across 16 research domains \u2014 bioinformatics, cheminformatics, data science, d",
+    "id": "AlterLab-IEU/AlterLab-Academic-Skills",
+    "language": "Python",
+    "name": "AlterLab-IEU/AlterLab-Academic-Skills",
+    "stars": 37,
+    "updated_at": "2026-07-02T10:04:23Z",
+    "url": "https://github.com/AlterLab-IEU/AlterLab-Academic-Skills"
+  },
+  {
+    "description": "A mined, cited, searchable corpus of implementation patterns from open-source AI-agent and research repos - queryable by",
+    "id": "mattiasutancykeln/gems",
+    "language": "JavaScript",
+    "name": "mattiasutancykeln/gems",
+    "stars": 0,
+    "updated_at": "2026-07-02T10:02:49Z",
+    "url": "https://github.com/mattiasutancykeln/gems"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-02T10:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -16,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-02T09:59:56Z",
     "url": "https://github.com/idaibin/aicraft"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30285,
-    "updated_at": "2026-07-02T09:58:44Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -52,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T09:56:16Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "210 evaluated academic Claude/agent skills across 16 research domains \u2014 bioinformatics, cheminformatics, data science, d",
-    "id": "AlterLab-IEU/AlterLab-Academic-Skills",
-    "language": "Python",
-    "name": "AlterLab-IEU/AlterLab-Academic-Skills",
-    "stars": 37,
-    "updated_at": "2026-07-02T09:56:11Z",
-    "url": "https://github.com/AlterLab-IEU/AlterLab-Academic-Skills"
   },
   {
     "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
@@ -97,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T09:55:08Z",
     "url": "https://github.com/ashish7802/awesome-api-skills"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "Python",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 8,
-    "updated_at": "2026-07-02T09:55:08Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Turns vague requests into structured prompts, execution plans, and policy-aware workflows \u2014 with readiness verdicts, PR ",
-    "id": "madara88645/Compiler",
-    "language": "Python",
-    "name": "madara88645/Compiler",
-    "stars": 25,
-    "updated_at": "2026-07-02T09:54:45Z",
-    "url": "https://github.com/madara88645/Compiler"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -207,30 +324,12 @@
     "url": "https://github.com/Mr-Salticidae/knowledge-base"
   },
   {
-    "description": "A mined, cited, searchable corpus of implementation patterns from open-source AI-agent and research repos - queryable by",
-    "id": "mattiasutancykeln/gems",
-    "language": "JavaScript",
-    "name": "mattiasutancykeln/gems",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:51:43Z",
-    "url": "https://github.com/mattiasutancykeln/gems"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3320,
-    "updated_at": "2026-07-02T10:00:27Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20217,
-    "updated_at": "2026-07-02T09:51:02Z",
+    "updated_at": "2026-07-02T10:12:15Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -268,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T09:47:07Z",
     "url": "https://github.com/CyrilLeMat/temper-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-02T09:45:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Behavioral diff for system prompt changes. See what breaks before it reaches production.",
@@ -342,6 +432,15 @@
     "url": "https://github.com/Klau2424/tokenbench"
   },
   {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 6683,
+    "updated_at": "2026-07-02T10:11:00Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T09:37:17Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-07-02T09:35:41Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:35:24Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Structured, spec-driven development workflow for AI coding agents.",
-    "id": "sahil87/fab-kit",
-    "language": "Go",
-    "name": "sahil87/fab-kit",
-    "stars": 23,
-    "updated_at": "2026-07-02T09:33:10Z",
-    "url": "https://github.com/sahil87/fab-kit"
-  },
-  {
-    "description": "AgentAmb \u2014 Instruction Ambiguity Expander. Paste any agent instruction and see every interpretation it might take, ranke",
-    "id": "RLASAF12/agent-amb",
-    "language": "HTML",
-    "name": "RLASAF12/agent-amb",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:32:13Z",
-    "url": "https://github.com/RLASAF12/agent-amb"
-  },
-  {
-    "description": "A Windows-friendly AI agent coding and prompting workbench for Codex, Claude Code, Cursor, Antigravity, Copilot, MCP, sa",
-    "id": "Yaked1/ai-lab-codex-workbench",
-    "language": "Python",
-    "name": "Yaked1/ai-lab-codex-workbench",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:31:35Z",
-    "url": "https://github.com/Yaked1/ai-lab-codex-workbench"
-  },
-  {
-    "description": "Distill anything. Wear anyone. \u2014 agent-native persona distillation framework.",
-    "id": "TTigger/mask",
-    "language": "TypeScript",
-    "name": "TTigger/mask",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:30:21Z",
-    "url": "https://github.com/TTigger/mask"
-  },
-  {
-    "description": "Custom configuration for Claude Code that turns it into a disciplined engineering partner with structured workflows, str",
-    "id": "domengabrovsek/claude",
-    "language": "Shell",
-    "name": "domengabrovsek/claude",
-    "stars": 13,
-    "updated_at": "2026-07-02T09:29:31Z",
-    "url": "https://github.com/domengabrovsek/claude"
-  },
-  {
-    "description": "A comprehensive, ethical workflow skill designed to assist in conducting thorough, source-grounded journalistic investig",
-    "id": "carlosceja27/journalism-agent",
-    "language": "\u2014",
-    "name": "carlosceja27/journalism-agent",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:28:11Z",
-    "url": "https://github.com/carlosceja27/journalism-agent"
-  },
-  {
-    "description": "A statistical analysis agent that audits datasets, runs corrected analyses, and produces APA-formatted research reports.",
-    "id": "carlosceja27/quant-researcher",
-    "language": "\u2014",
-    "name": "carlosceja27/quant-researcher",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:28:08Z",
-    "url": "https://github.com/carlosceja27/quant-researcher"
-  },
-  {
-    "description": "Evidence-based AI tutoring skill grounded in cognitive science. Enforces retrieval practice, spaced repetition, and the ",
-    "id": "carlosceja27/ai-tutor",
-    "language": "\u2014",
-    "name": "carlosceja27/ai-tutor",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:27:47Z",
-    "url": "https://github.com/carlosceja27/ai-tutor"
-  },
-  {
-    "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
-    "id": "Norinatiring463/loop-engineering",
-    "language": "Python",
-    "name": "Norinatiring463/loop-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-02T09:27:32Z",
-    "url": "https://github.com/Norinatiring463/loop-engineering"
   }
 ]
