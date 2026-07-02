@@ -1,5 +1,122 @@
 [
   {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-07-02T16:15:19Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Local-first desktop app for managing, analyzing and optimizing prompt collections \u2014 offline, private, Tauri + React + Ru",
+    "id": "xxammaxx/promptvault-lite",
+    "language": "TypeScript",
+    "name": "xxammaxx/promptvault-lite",
+    "stars": 0,
+    "updated_at": "2026-07-02T16:10:58Z",
+    "url": "https://github.com/xxammaxx/promptvault-lite"
+  },
+  {
+    "description": "Turn rough AI product ideas into practical Chinese PRDs.",
+    "id": "yufengxie08-pixel/ai-pm-prd-coach",
+    "language": "\u2014",
+    "name": "yufengxie08-pixel/ai-pm-prd-coach",
+    "stars": 0,
+    "updated_at": "2026-07-02T16:10:48Z",
+    "url": "https://github.com/yufengxie08-pixel/ai-pm-prd-coach"
+  },
+  {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 10,
+    "updated_at": "2026-07-02T16:10:21Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "Claude Code skill: minimize token usage across four levers (concise prose, clean memory, precise action, lean output) wi",
+    "id": "G10DC/chisel",
+    "language": "JavaScript",
+    "name": "G10DC/chisel",
+    "stars": 0,
+    "updated_at": "2026-07-02T16:09:47Z",
+    "url": "https://github.com/G10DC/chisel"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30307,
+    "updated_at": "2026-07-02T16:15:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20232,
+    "updated_at": "2026-07-02T16:08:18Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Production-minded harness for configuring, testing, deploying, and QA-ing a multilingual LLM conversational AI across ma",
+    "id": "Drzymek92/market-bot-configurator",
+    "language": "Python",
+    "name": "Drzymek92/market-bot-configurator",
+    "stars": 0,
+    "updated_at": "2026-07-02T16:07:53Z",
+    "url": "https://github.com/Drzymek92/market-bot-configurator"
+  },
+  {
+    "description": "A battle-tested multi-model academic pipeline: 8-stage workflow from research design through blind peer review, defense ",
+    "id": "redamancy231-create/ma-case-study-pipeline",
+    "language": "Markdown",
+    "name": "redamancy231-create/ma-case-study-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-02T16:02:08Z",
+    "url": "https://github.com/redamancy231-create/ma-case-study-pipeline"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3321,
+    "updated_at": "2026-07-02T16:06:32Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI agents now operate with authority. Authority without discipline is how complex systems fail. Nuclear\u2019s control loop, ",
+    "id": "FlyFission/nuclear-grade-context-engineering",
+    "language": "Python",
+    "name": "FlyFission/nuclear-grade-context-engineering",
+    "stars": 33,
+    "updated_at": "2026-07-02T16:01:55Z",
+    "url": "https://github.com/FlyFission/nuclear-grade-context-engineering"
+  },
+  {
+    "description": "Test suites + deterministic Python for your agent skills' decision logic. Adversarial persona reviewers write the tests;",
+    "id": "CyrilLeMat/temper-skills",
+    "language": "Python",
+    "name": "CyrilLeMat/temper-skills",
+    "stars": 0,
+    "updated_at": "2026-07-02T16:02:50Z",
+    "url": "https://github.com/CyrilLeMat/temper-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-02T16:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -14,7 +131,7 @@
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4257,
-    "updated_at": "2026-07-02T15:59:17Z",
+    "updated_at": "2026-07-02T16:01:10Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -40,18 +157,9 @@
     "id": "notsegun/fable-5-skill",
     "language": "\u2014",
     "name": "notsegun/fable-5-skill",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-07-02T15:57:13Z",
     "url": "https://github.com/notsegun/fable-5-skill"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30306,
-    "updated_at": "2026-07-02T16:00:15Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
@@ -63,15 +171,6 @@
     "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "JavaScript",
-    "name": "spidey889/context-generator",
-    "stars": 10,
-    "updated_at": "2026-07-02T15:54:55Z",
-    "url": "https://github.com/spidey889/context-generator"
-  },
-  {
     "description": "Swarming your messy diffs before they reach production.",
     "id": "bladeacer/lccst",
     "language": "Python",
@@ -81,24 +180,6 @@
     "url": "https://github.com/bladeacer/lccst"
   },
   {
-    "description": "A battle-tested multi-model academic pipeline: 8-stage workflow from research design through blind peer review, defense ",
-    "id": "redamancy231-create/ma-case-study-pipeline",
-    "language": "Markdown",
-    "name": "redamancy231-create/ma-case-study-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:53:01Z",
-    "url": "https://github.com/redamancy231-create/ma-case-study-pipeline"
-  },
-  {
-    "description": "Test suites + deterministic Python for your agent skills' decision logic. Adversarial persona reviewers write the tests;",
-    "id": "CyrilLeMat/temper-skills",
-    "language": "Python",
-    "name": "CyrilLeMat/temper-skills",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:53:34Z",
-    "url": "https://github.com/CyrilLeMat/temper-skills"
-  },
-  {
     "description": "A controlled-experiment lab for studying how tool-using LLM agents behave \u2014 vary tools, personas, and conversation histo",
     "id": "Null-Square/agent-behavior-lab",
     "language": "TypeScript",
@@ -106,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T15:52:31Z",
     "url": "https://github.com/Null-Square/agent-behavior-lab"
-  },
-  {
-    "description": "Claude Code skill: minimize token usage (concise prose, clean memory, precise action) without losing quality. Bilingual ",
-    "id": "G10DC/chisel",
-    "language": "JavaScript",
-    "name": "G10DC/chisel",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:51:33Z",
-    "url": "https://github.com/G10DC/chisel"
   },
   {
     "description": "Lead your own AI team. Role-aware persistent memory for solo multi-persona Claude Code workflows.",
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "Nayjest/ai-microcore",
     "stars": 106,
-    "updated_at": "2026-07-02T15:52:39Z",
+    "updated_at": "2026-07-02T16:13:40Z",
     "url": "https://github.com/Nayjest/ai-microcore"
   },
   {
@@ -207,30 +279,12 @@
     "url": "https://github.com/Ohswedd/vincio"
   },
   {
-    "description": "Production-minded harness for configuring, testing, deploying, and QA-ing a multilingual LLM conversational AI across ma",
-    "id": "Drzymek92/market-bot-configurator",
-    "language": "Python",
-    "name": "Drzymek92/market-bot-configurator",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:46:04Z",
-    "url": "https://github.com/Drzymek92/market-bot-configurator"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-02T15:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "210 evaluated academic Claude/agent skills across 16 research domains \u2014 bioinformatics, cheminformatics, data science, d",
     "id": "AlterLab-IEU/AlterLab-Academic-Skills",
     "language": "Python",
     "name": "AlterLab-IEU/AlterLab-Academic-Skills",
     "stars": 37,
-    "updated_at": "2026-07-02T15:44:47Z",
+    "updated_at": "2026-07-02T16:07:06Z",
     "url": "https://github.com/AlterLab-IEU/AlterLab-Academic-Skills"
   },
   {
@@ -268,24 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T15:43:08Z",
     "url": "https://github.com/Jonas0017/aAlianca"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20229,
-    "updated_at": "2026-07-02T15:40:52Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3321,
-    "updated_at": "2026-07-02T15:48:21Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "The Linux OS for AI Agents \u2014 Persistent memory, structured reasoning, and governed autonomy for any LLM. Own the state. ",
@@ -412,41 +448,5 @@
     "stars": 3994,
     "updated_at": "2026-07-02T15:48:37Z",
     "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "\u300a\u672b\u65e5NPC\u90fd\u4e0d\u592a\u6b63\u5e38\u300b\u7684 Agent Skills \u4ed3\u5e93 \u00b7 \u53ef\u590d\u7528\u5de5\u4f5c\u6d41\u6280\u80fd",
-    "id": "madnpc/skills",
-    "language": "Shell",
-    "name": "madnpc/skills",
-    "stars": 2,
-    "updated_at": "2026-07-02T15:29:21Z",
-    "url": "https://github.com/madnpc/skills"
-  },
-  {
-    "description": "Claude Code skill for balanced AI code & writing review \u2014 a preserve-first protocol + multi-model critic panel (Ollama, ",
-    "id": "matteolopreti/spatiotemporal-critique",
-    "language": "Python",
-    "name": "matteolopreti/spatiotemporal-critique",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:29:18Z",
-    "url": "https://github.com/matteolopreti/spatiotemporal-critique"
-  },
-  {
-    "description": "Structured, spec-driven development workflow for AI coding agents.",
-    "id": "sahil87/fab-kit",
-    "language": "Go",
-    "name": "sahil87/fab-kit",
-    "stars": 23,
-    "updated_at": "2026-07-02T15:29:17Z",
-    "url": "https://github.com/sahil87/fab-kit"
-  },
-  {
-    "description": "Prompt-TDD \u00b7 Prompt\u5bf9\u7167\u5b9e\u9a8c\u65b9\u6cd5\u8bba\u6848\u4f8b\u624b\u518c \u2014 SOP + \u4e24\u4e2a\u771f\u5b9e\u5b9e\u9a8c + \u5206\u6790\u5de5\u5177 + \u6838\u5fc3\u6559\u8bad. v0.1-methodology. CC BY 4.0",
-    "id": "redamancy231-create/prompt-tdd-methodology",
-    "language": "Markdown",
-    "name": "redamancy231-create/prompt-tdd-methodology",
-    "stars": 0,
-    "updated_at": "2026-07-02T15:23:35Z",
-    "url": "https://github.com/redamancy231-create/prompt-tdd-methodology"
   }
 ]
