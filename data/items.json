@@ -1,5 +1,167 @@
 [
   {
+    "description": "collect related papers",
+    "id": "llmhacking/papers",
+    "language": "\u2014",
+    "name": "llmhacking/papers",
+    "stars": 9,
+    "updated_at": "2026-07-02T03:00:21Z",
+    "url": "https://github.com/llmhacking/papers"
+  },
+  {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 1,
+    "updated_at": "2026-07-02T03:00:08Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Reusable AI skills, prompts, and agent workflows.",
+    "id": "idaibin/aicraft",
+    "language": "Python",
+    "name": "idaibin/aicraft",
+    "stars": 1,
+    "updated_at": "2026-07-02T02:58:44Z",
+    "url": "https://github.com/idaibin/aicraft"
+  },
+  {
+    "description": "Distill anything. Wear anyone. \u2014 agent-native persona distillation framework.",
+    "id": "TTigger/mask",
+    "language": "TypeScript",
+    "name": "TTigger/mask",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:58:09Z",
+    "url": "https://github.com/TTigger/mask"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:58:02Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u6392\u76d8\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
+    "id": "Brhiza/mingyu",
+    "language": "TypeScript",
+    "name": "Brhiza/mingyu",
+    "stars": 174,
+    "updated_at": "2026-07-02T02:57:11Z",
+    "url": "https://github.com/Brhiza/mingyu"
+  },
+  {
+    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
+    "id": "product-on-purpose/writing-style-catalog",
+    "language": "Python",
+    "name": "product-on-purpose/writing-style-catalog",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:57:05Z",
+    "url": "https://github.com/product-on-purpose/writing-style-catalog"
+  },
+  {
+    "description": "Embedded SDK for selecting skills, composing model context, and preserving replayable evidence for production AI workflo",
+    "id": "KKenny0/skillplane",
+    "language": "Python",
+    "name": "KKenny0/skillplane",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:55:18Z",
+    "url": "https://github.com/KKenny0/skillplane"
+  },
+  {
+    "description": "LemGen AI Design MCP \u2014 OpenClaw skill and MCP server for curated AI image/video prompts, prompt enhancement, and LemGen ",
+    "id": "aithink001/lemgen-ai-design-mcp",
+    "language": "TypeScript",
+    "name": "aithink001/lemgen-ai-design-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:54:45Z",
+    "url": "https://github.com/aithink001/lemgen-ai-design-mcp"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "Python",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 8,
+    "updated_at": "2026-07-02T02:54:26Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:54:08Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10369,
+    "updated_at": "2026-07-02T02:53:24Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
+    "id": "kimtth/azure-openai-llm-wiki",
+    "language": "Python",
+    "name": "kimtth/azure-openai-llm-wiki",
+    "stars": 402,
+    "updated_at": "2026-07-02T02:53:19Z",
+    "url": "https://github.com/kimtth/azure-openai-llm-wiki"
+  },
+  {
+    "description": "\u63a2\u7d22\u5728\u65e5\u5e38\u5f00\u53d1\u4e2d\uff0c\u8ba9 AI \u7f16\u7a0b\u52a9\u624b\u4fdd\u6301\u4e0a\u4e0b\u6587\u8fde\u8d2f\u4e0e\u6267\u884c\u7eaa\u5f8b\u7684\u534f\u4f5c\u5de5\u4f5c\u6d41\u3002Exploring practical collaboration patterns for AI coding assistants.",
+    "id": "MagicKidd/Rokid-agentic-workflow",
+    "language": "Python",
+    "name": "MagicKidd/Rokid-agentic-workflow",
+    "stars": 2,
+    "updated_at": "2026-07-02T02:52:16Z",
+    "url": "https://github.com/MagicKidd/Rokid-agentic-workflow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30243,
+    "updated_at": "2026-07-02T02:55:31Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Codex skill for turning product plans into coherent ImageGen visual blueprint prompt packs",
+    "id": "Shiaoming123/product-blueprint-imagegen",
+    "language": "Python",
+    "name": "Shiaoming123/product-blueprint-imagegen",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:49:46Z",
+    "url": "https://github.com/Shiaoming123/product-blueprint-imagegen"
+  },
+  {
+    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
+    "id": "5uprem4/ai-skill-vault",
+    "language": "HTML",
+    "name": "5uprem4/ai-skill-vault",
+    "stars": 3,
+    "updated_at": "2026-07-02T02:47:37Z",
+    "url": "https://github.com/5uprem4/ai-skill-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-02T02:45:21Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A reproducible research study of citation-grounding and safety-routing for reducing hallucination in Taiwan-law legal as",
     "id": "Lucien-1127/zhiyan-legal",
     "language": "Python",
@@ -16,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T02:44:44Z",
     "url": "https://github.com/XuebinMa/AIWiki"
-  },
-  {
-    "description": "collect related papers",
-    "id": "llmhacking/papers",
-    "language": "\u2014",
-    "name": "llmhacking/papers",
-    "stars": 9,
-    "updated_at": "2026-07-02T02:44:15Z",
-    "url": "https://github.com/llmhacking/papers"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -90,15 +243,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
-    "id": "kimtth/azure-openai-llm-wiki",
-    "language": "Python",
-    "name": "kimtth/azure-openai-llm-wiki",
-    "stars": 402,
-    "updated_at": "2026-07-02T02:36:21Z",
-    "url": "https://github.com/kimtth/azure-openai-llm-wiki"
-  },
-  {
     "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
     "id": "tech-guru254/spec-weaver",
     "language": "HTML",
@@ -112,7 +256,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 35773,
+    "stars": 35776,
     "updated_at": "2026-07-02T02:33:18Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -124,33 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T02:33:11Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u6392\u76d8\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
-    "id": "Brhiza/mingyu",
-    "language": "TypeScript",
-    "name": "Brhiza/mingyu",
-    "stars": 174,
-    "updated_at": "2026-07-02T02:31:54Z",
-    "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-02T02:30:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 1,
-    "updated_at": "2026-07-02T02:30:07Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
     "description": "",
@@ -198,15 +315,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10368,
-    "updated_at": "2026-07-02T02:27:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Local-first agent skill for deterministic prompt regression reports",
     "id": "rogerchappel/prompt-regression-skill",
     "language": "JavaScript",
@@ -225,15 +333,6 @@
     "url": "https://github.com/Dxl0820/agent-skill-os"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30241,
-    "updated_at": "2026-07-02T02:23:53Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AsymVerify: SemEval-2026 Task 6 CLARITY political evasion detection system (2nd of 41 teams)",
     "id": "kaons-research/AsymVerify-ACL",
     "language": "TeX",
@@ -250,24 +349,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T02:20:02Z",
     "url": "https://github.com/ykrishhh/ai-system-prompts"
-  },
-  {
-    "description": "Embedded SDK for selecting skills, composing model context, and preserving replayable evidence for production AI workflo",
-    "id": "KKenny0/skillplane",
-    "language": "Python",
-    "name": "KKenny0/skillplane",
-    "stars": 0,
-    "updated_at": "2026-07-02T02:19:32Z",
-    "url": "https://github.com/KKenny0/skillplane"
-  },
-  {
-    "description": "Reusable AI skills, prompts, and agent workflows.",
-    "id": "idaibin/aicraft",
-    "language": "Python",
-    "name": "idaibin/aicraft",
-    "stars": 1,
-    "updated_at": "2026-07-02T02:37:17Z",
-    "url": "https://github.com/idaibin/aicraft"
   },
   {
     "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
@@ -292,7 +373,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 55280,
+    "stars": 55284,
     "updated_at": "2026-07-02T02:11:20Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -302,7 +383,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 741,
-    "updated_at": "2026-07-02T02:10:29Z",
+    "updated_at": "2026-07-02T02:56:24Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -355,7 +436,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 36037,
+    "stars": 36038,
     "updated_at": "2026-07-02T02:01:36Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-02T01:59:12Z",
     "url": "https://github.com/alwkala/Cinematic-Landing-Kit"
-  },
-  {
-    "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
-    "id": "Norinatiring463/loop-engineering",
-    "language": "Python",
-    "name": "Norinatiring463/loop-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-02T01:58:58Z",
-    "url": "https://github.com/Norinatiring463/loop-engineering"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-02T01:58:01Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 21,
-    "updated_at": "2026-07-02T01:57:42Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Automate project security hardening by using AI agents to analyze codebase behavior and identify necessary security impr",
-    "id": "impliedtrustwencher377/blue-spec",
-    "language": "TypeScript",
-    "name": "impliedtrustwencher377/blue-spec",
-    "stars": 0,
-    "updated_at": "2026-07-02T01:55:47Z",
-    "url": "https://github.com/impliedtrustwencher377/blue-spec"
-  },
-  {
-    "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
-    "id": "keilschismatic799/fable-jailbreak",
-    "language": "\u2014",
-    "name": "keilschismatic799/fable-jailbreak",
-    "stars": 0,
-    "updated_at": "2026-07-02T01:53:53Z",
-    "url": "https://github.com/keilschismatic799/fable-jailbreak"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 0,
-    "updated_at": "2026-07-02T01:53:43Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 0,
-    "updated_at": "2026-07-02T01:52:47Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-07-02T01:52:36Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-07-02T01:52:24Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
   }
 ]
