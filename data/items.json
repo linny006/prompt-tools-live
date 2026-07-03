@@ -1,5 +1,131 @@
 [
   {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-03T09:00:08Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "claude code\u7528\u30d7\u30e9\u30b0\u30a4\u30f3",
+    "id": "kozakikaoru/company",
+    "language": "Shell",
+    "name": "kozakikaoru/company",
+    "stars": 0,
+    "updated_at": "2026-07-03T08:59:50Z",
+    "url": "https://github.com/kozakikaoru/company"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30351,
+    "updated_at": "2026-07-03T08:58:14Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 24,
+    "updated_at": "2026-07-03T08:58:13Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 22,
+    "updated_at": "2026-07-03T08:57:03Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "\u628a\u4e66\u3001\u957f\u89c6\u9891\u3001\u64ad\u5ba2\u7b49\u9ad8\u4ef7\u503c\u5185\u5bb9\u84b8\u998f\u6210\u53ef\u6267\u884c\u7684 Agent Skills",
+    "id": "kangarooking/cangjie-skill",
+    "language": "\u2014",
+    "name": "kangarooking/cangjie-skill",
+    "stars": 1524,
+    "updated_at": "2026-07-03T08:54:55Z",
+    "url": "https://github.com/kangarooking/cangjie-skill"
+  },
+  {
+    "description": "Local context engine for AI coding agents. Routes tasks to relevant files, tests, rules, and skills, supports prompt cac",
+    "id": "vishal2612200/agentpack",
+    "language": "Python",
+    "name": "vishal2612200/agentpack",
+    "stars": 21,
+    "updated_at": "2026-07-03T08:53:23Z",
+    "url": "https://github.com/vishal2612200/agentpack"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 3996,
+    "updated_at": "2026-07-03T08:51:49Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "Curated map of self-evolving LLM agents \u2014 90+ papers, taxonomy, misevolution safety, 2 runnable demos.",
+    "id": "sukoji/awesome-self-evolving-agents",
+    "language": "Python",
+    "name": "sukoji/awesome-self-evolving-agents",
+    "stars": 2,
+    "updated_at": "2026-07-03T08:51:26Z",
+    "url": "https://github.com/sukoji/awesome-self-evolving-agents"
+  },
+  {
+    "description": "A Claude Agent Skill that humanizes AI-written marketing and long-form copy: landing pages, sales pages, e-books, case s",
+    "id": "forint573/miAI-Humanizer-Skill-Awesome",
+    "language": "Python",
+    "name": "forint573/miAI-Humanizer-Skill-Awesome",
+    "stars": 1,
+    "updated_at": "2026-07-03T08:48:13Z",
+    "url": "https://github.com/forint573/miAI-Humanizer-Skill-Awesome"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 746,
+    "updated_at": "2026-07-03T08:47:41Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 23,
+    "updated_at": "2026-07-03T08:47:25Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 6686,
+    "updated_at": "2026-07-03T08:46:03Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-03T08:45:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A lightweight Pal team layer for Codex-first AI workflows. AgentPal helps organize specialized Pals with roles, knowledg",
     "id": "AgentPal/AgentPal",
     "language": "Python",
@@ -36,15 +162,6 @@
     "url": "https://github.com/EvoMap/evolver"
   },
   {
-    "description": "A Claude Agent Skill that humanizes AI-written marketing and long-form copy: landing pages, sales pages, e-books, case s",
-    "id": "forint573/miAI-Humanizer-Skill-Awesome",
-    "language": "Python",
-    "name": "forint573/miAI-Humanizer-Skill-Awesome",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:38:50Z",
-    "url": "https://github.com/forint573/miAI-Humanizer-Skill-Awesome"
-  },
-  {
     "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
     "id": "nikolay-e/diffctx",
     "language": "Rust",
@@ -70,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T08:36:03Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30351,
-    "updated_at": "2026-07-03T08:34:44Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
@@ -126,24 +234,6 @@
     "url": "https://github.com/pbierkortte/ai-runbook"
   },
   {
-    "description": "Structured, spec-driven development workflow for AI coding agents.",
-    "id": "sahil87/fab-kit",
-    "language": "Go",
-    "name": "sahil87/fab-kit",
-    "stars": 23,
-    "updated_at": "2026-07-03T08:31:23Z",
-    "url": "https://github.com/sahil87/fab-kit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-03T08:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
     "id": "gaofeng21cn/redcube-ai",
     "language": "TypeScript",
@@ -160,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T08:30:19Z",
     "url": "https://github.com/impliedtrustwencher377/blue-spec"
-  },
-  {
-    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-03T08:30:07Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -324,15 +405,6 @@
     "url": "https://github.com/TurniSaha/boris-says"
   },
   {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 3996,
-    "updated_at": "2026-07-03T08:44:11Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
     "description": "Prompt is all you need: AAPS turns prompts into structured, verifiable pipelines.",
     "id": "lachlanchen/AAPS",
     "language": "JavaScript",
@@ -373,80 +445,8 @@
     "id": "vllm-project/semantic-router",
     "language": "Go",
     "name": "vllm-project/semantic-router",
-    "stars": 4751,
+    "stars": 4752,
     "updated_at": "2026-07-03T08:25:30Z",
     "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-07-03T08:25:10Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:25:02Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5306,
-    "updated_at": "2026-07-03T08:24:30Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:24:18Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "A Claude Code skill written by Claude Fable 5 itself: transfers Fable 5's operating discipline to Opus, Sonnet & Haiku \u2014",
-    "id": "uladzemer/fable-thinking",
-    "language": "\u2014",
-    "name": "uladzemer/fable-thinking",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:23:52Z",
-    "url": "https://github.com/uladzemer/fable-thinking"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:23:46Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:23:24Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:23:11Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
   }
 ]
