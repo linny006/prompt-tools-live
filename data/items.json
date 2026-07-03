@@ -1,5 +1,149 @@
 [
   {
+    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u6392\u76d8\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
+    "id": "Brhiza/mingyu",
+    "language": "TypeScript",
+    "name": "Brhiza/mingyu",
+    "stars": 176,
+    "updated_at": "2026-07-03T21:43:02Z",
+    "url": "https://github.com/Brhiza/mingyu"
+  },
+  {
+    "description": "Design template engine + narrative engine + media pipeline. 17 AI image platforms, 4 narrative models, HTMX Web UI, MCP ",
+    "id": "veawho/via54Design",
+    "language": "Go",
+    "name": "veawho/via54Design",
+    "stars": 1,
+    "updated_at": "2026-07-03T21:41:40Z",
+    "url": "https://github.com/veawho/via54Design"
+  },
+  {
+    "description": "Reviewable agent skills for coding agents: smaller diffs, token economy, delivery gates, frontend verification, and Loop",
+    "id": "markoblogo/abvx-agent-skills",
+    "language": "Python",
+    "name": "markoblogo/abvx-agent-skills",
+    "stars": 3,
+    "updated_at": "2026-07-03T21:41:21Z",
+    "url": "https://github.com/markoblogo/abvx-agent-skills"
+  },
+  {
+    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
+    "id": "Zyonic88/Aevryn",
+    "language": "Python",
+    "name": "Zyonic88/Aevryn",
+    "stars": 0,
+    "updated_at": "2026-07-03T21:40:38Z",
+    "url": "https://github.com/Zyonic88/Aevryn"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 56225,
+    "updated_at": "2026-07-03T21:42:24Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "CacheCatch audits AI agent context and shows what to move so repeated tokens hit cache instead of full-price input \u2014 it ",
+    "id": "ShayanSpiel/CacheCatch",
+    "language": "TypeScript",
+    "name": "ShayanSpiel/CacheCatch",
+    "stars": 0,
+    "updated_at": "2026-07-03T21:40:14Z",
+    "url": "https://github.com/ShayanSpiel/CacheCatch"
+  },
+  {
+    "description": "The Vibe Coding Operating System.",
+    "id": "manusco/resonance",
+    "language": "Python",
+    "name": "manusco/resonance",
+    "stars": 36,
+    "updated_at": "2026-07-03T21:39:42Z",
+    "url": "https://github.com/manusco/resonance"
+  },
+  {
+    "description": "Claude Code orchestration template for specialized agents, reusable skills, spend gates, and optional Codex review workf",
+    "id": "jeroromano/claude-code-orchestration-template",
+    "language": "\u2014",
+    "name": "jeroromano/claude-code-orchestration-template",
+    "stars": 0,
+    "updated_at": "2026-07-03T21:38:46Z",
+    "url": "https://github.com/jeroromano/claude-code-orchestration-template"
+  },
+  {
+    "description": "A readable notation for verified AI-agent loops: goals, context, authority, cycles, verifiers, stop rules, and return ar",
+    "id": "fyzycyst/Agentic_Loop_Notation",
+    "language": "Python",
+    "name": "fyzycyst/Agentic_Loop_Notation",
+    "stars": 2,
+    "updated_at": "2026-07-03T21:37:21Z",
+    "url": "https://github.com/fyzycyst/Agentic_Loop_Notation"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-07-03T21:35:53Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "PAD+ AI \u2014 cognitive pipeline layer for LLMs. 22-stage reasoning, 6 memory types, PAD+ emotion model, personality evoluti",
+    "id": "Ovladimirovich/pad-plus-ai",
+    "language": "Python",
+    "name": "Ovladimirovich/pad-plus-ai",
+    "stars": 1,
+    "updated_at": "2026-07-03T21:35:46Z",
+    "url": "https://github.com/Ovladimirovich/pad-plus-ai"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 0,
+    "updated_at": "2026-07-03T21:34:02Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 0,
+    "updated_at": "2026-07-03T21:32:51Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "Claude Code skill: diga 'mega brain' e o modelo comuta pra profundidade m\u00e1xima \u2014 s\u00eanior, decidido, pronto pra execu\u00e7\u00e3o. ",
+    "id": "fslot/mega-brain",
+    "language": "\u2014",
+    "name": "fslot/mega-brain",
+    "stars": 0,
+    "updated_at": "2026-07-03T21:31:44Z",
+    "url": "https://github.com/fslot/mega-brain"
+  },
+  {
+    "description": "The missing brain for AI coding agents \u2014 verification gates written before the code, Reflexion-style memory that learns ",
+    "id": "haidrrrry/loop-engineering-skills",
+    "language": "Shell",
+    "name": "haidrrrry/loop-engineering-skills",
+    "stars": 1,
+    "updated_at": "2026-07-03T21:30:44Z",
+    "url": "https://github.com/haidrrrry/loop-engineering-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-03T21:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -22,18 +166,9 @@
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1487,
+    "stars": 1488,
     "updated_at": "2026-07-03T21:29:09Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Design template engine + narrative engine + media pipeline. 17 AI image platforms, 4 narrative models, HTMX Web UI, MCP ",
-    "id": "veawho/via54Design",
-    "language": "Go",
-    "name": "veawho/via54Design",
-    "stars": 1,
-    "updated_at": "2026-07-03T21:29:05Z",
-    "url": "https://github.com/veawho/via54Design"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -43,33 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T21:27:25Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Claude Code skill: diga 'mega brain' e o modelo comuta pra profundidade m\u00e1xima \u2014 s\u00eanior, decidido, pronto pra execu\u00e7\u00e3o. ",
-    "id": "fslot/mega-brain",
-    "language": "\u2014",
-    "name": "fslot/mega-brain",
-    "stars": 0,
-    "updated_at": "2026-07-03T21:26:51Z",
-    "url": "https://github.com/fslot/mega-brain"
-  },
-  {
-    "description": "The missing brain for AI coding agents \u2014 verification gates written before the code, Reflexion-style memory that learns ",
-    "id": "haidrrrry/loop-engineering-skills",
-    "language": "Shell",
-    "name": "haidrrrry/loop-engineering-skills",
-    "stars": 1,
-    "updated_at": "2026-07-03T21:25:40Z",
-    "url": "https://github.com/haidrrrry/loop-engineering-skills"
-  },
-  {
-    "description": "The Vibe Coding Operating System.",
-    "id": "manusco/resonance",
-    "language": "Python",
-    "name": "manusco/resonance",
-    "stars": 36,
-    "updated_at": "2026-07-03T21:23:15Z",
-    "url": "https://github.com/manusco/resonance"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -90,24 +198,6 @@
     "url": "https://github.com/outpostmyles/outpost"
   },
   {
-    "description": "CacheCatch audits AI agent context and shows what to move so repeated tokens hit cache instead of full-price input \u2014 it ",
-    "id": "ShayanSpiel/CacheCatch",
-    "language": "TypeScript",
-    "name": "ShayanSpiel/CacheCatch",
-    "stars": 0,
-    "updated_at": "2026-07-03T21:19:55Z",
-    "url": "https://github.com/ShayanSpiel/CacheCatch"
-  },
-  {
-    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u6392\u76d8\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
-    "id": "Brhiza/mingyu",
-    "language": "TypeScript",
-    "name": "Brhiza/mingyu",
-    "stars": 176,
-    "updated_at": "2026-07-03T21:18:01Z",
-    "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
     "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
     "id": "subkoks/agents-md",
     "language": "Shell",
@@ -115,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T21:16:24Z",
     "url": "https://github.com/subkoks/agents-md"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-03T21:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
-    "id": "robertomarchioro/prompt-a-porter",
-    "language": "Rust",
-    "name": "robertomarchioro/prompt-a-porter",
-    "stars": 0,
-    "updated_at": "2026-07-03T21:27:19Z",
-    "url": "https://github.com/robertomarchioro/prompt-a-porter"
   },
   {
     "description": "Odin Gemini CLI 2.0: Outline-Driven Dev Skills & Agents 2026",
@@ -376,77 +448,5 @@
     "stars": 153,
     "updated_at": "2026-07-03T21:02:55Z",
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-07-03T21:02:37Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-07-03T21:02:10Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Claude Code skills that cut agentic cost ~80% by routing well-specified bulk work to cheaper models \u2014 with benchmarks pr",
-    "id": "enes-yangin/tokenwise",
-    "language": "Python",
-    "name": "enes-yangin/tokenwise",
-    "stars": 0,
-    "updated_at": "2026-07-03T21:02:05Z",
-    "url": "https://github.com/enes-yangin/tokenwise"
-  },
-  {
-    "description": "Claude Skill for defensive vulnerability analysis: CVSS v3.1/v4.0 scoring, exploit-quality assessment, EPSS/KEV/SSVC pri",
-    "id": "david500900/cvss-exploit-evaluator",
-    "language": "Python",
-    "name": "david500900/cvss-exploit-evaluator",
-    "stars": 0,
-    "updated_at": "2026-07-03T21:01:55Z",
-    "url": "https://github.com/david500900/cvss-exploit-evaluator"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-03T21:01:40Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Short, opinionated field notes from building and shipping LLM agents.",
-    "id": "leotavares26/building-agents-notes",
-    "language": "\u2014",
-    "name": "leotavares26/building-agents-notes",
-    "stars": 0,
-    "updated_at": "2026-07-03T21:01:10Z",
-    "url": "https://github.com/leotavares26/building-agents-notes"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-07-03T21:01:07Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-07-03T21:00:42Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
   }
 ]
