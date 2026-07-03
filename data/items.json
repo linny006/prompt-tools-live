@@ -1,12 +1,192 @@
 [
   {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-03T09:30:08Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor",
+    "id": "promptslab/Awesome-Prompt-Engineering",
+    "language": "TypeScript",
+    "name": "promptslab/Awesome-Prompt-Engineering",
+    "stars": 6118,
+    "updated_at": "2026-07-03T09:29:42Z",
+    "url": "https://github.com/promptslab/Awesome-Prompt-Engineering"
+  },
+  {
+    "description": "MCP-first prompt governance, refinement, and engineering evidence correlation",
+    "id": "Coding-Autopilot-System/Promptimprover",
+    "language": "TypeScript",
+    "name": "Coding-Autopilot-System/Promptimprover",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:29:22Z",
+    "url": "https://github.com/Coding-Autopilot-System/Promptimprover"
+  },
+  {
+    "description": "Production-ready AI coding skills for APIs. Installable skills for Claude Code, Cursor, Codex CLI, Gemini CLI, and moder",
+    "id": "ashish7802/awesome-api-skills",
+    "language": "JavaScript",
+    "name": "ashish7802/awesome-api-skills",
+    "stars": 2,
+    "updated_at": "2026-07-03T09:29:06Z",
+    "url": "https://github.com/ashish7802/awesome-api-skills"
+  },
+  {
+    "description": "An open-source generator for AI image and text prompts that automatically builds richer, more detailed prompts than most",
+    "id": "junebug12851/random-ai-prompt",
+    "language": "JavaScript",
+    "name": "junebug12851/random-ai-prompt",
+    "stars": 8,
+    "updated_at": "2026-07-03T09:28:54Z",
+    "url": "https://github.com/junebug12851/random-ai-prompt"
+  },
+  {
+    "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice along",
+    "id": "grimaldost/craft-collection",
+    "language": "Python",
+    "name": "grimaldost/craft-collection",
+    "stars": 1,
+    "updated_at": "2026-07-03T09:28:10Z",
+    "url": "https://github.com/grimaldost/craft-collection"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:27:55Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
     "description": "Turns vague requests into structured prompts, execution plans, and policy-aware workflows \u2014 with readiness verdicts, PR ",
     "id": "madara88645/Compiler",
     "language": "Python",
     "name": "madara88645/Compiler",
     "stars": 25,
-    "updated_at": "2026-07-03T09:15:00Z",
+    "updated_at": "2026-07-03T09:27:21Z",
     "url": "https://github.com/madara88645/Compiler"
+  },
+  {
+    "description": "\ud83c\udccf Three models gang up and out-argue the lone star. A Claude Code skill: a panel of Opus 4.8 + GPT-5.5 + Gemini 3.1 Pro ",
+    "id": "raydocs/fusion-deck",
+    "language": "Shell",
+    "name": "raydocs/fusion-deck",
+    "stars": 1,
+    "updated_at": "2026-07-03T09:27:20Z",
+    "url": "https://github.com/raydocs/fusion-deck"
+  },
+  {
+    "description": "\ud83c\udff0 883+ Universal Agentic Skills for Claude Code, Gemini CLI, Cursor & More \u2014 Curated by Rootcastle Engineering & Innovat",
+    "id": "rootcastleco/rei-skills",
+    "language": "Python",
+    "name": "rootcastleco/rei-skills",
+    "stars": 5,
+    "updated_at": "2026-07-03T09:27:06Z",
+    "url": "https://github.com/rootcastleco/rei-skills"
+  },
+  {
+    "description": "Local-first Chrome extension for reverse-engineering image prompts and visual marketing diagnosis with your own Vision A",
+    "id": "wildbyteai/promptlens",
+    "language": "JavaScript",
+    "name": "wildbyteai/promptlens",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:26:05Z",
+    "url": "https://github.com/wildbyteai/promptlens"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 24,
+    "updated_at": "2026-07-03T09:26:02Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "TypeScript",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 2,
+    "updated_at": "2026-07-03T09:25:24Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "Shareable baseline configuration for Claude Code and Codex \u2014 global instructions, subagents, and skills in a single tree",
+    "id": "casoon/ai-agent-config",
+    "language": "Python",
+    "name": "casoon/ai-agent-config",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:24:41Z",
+    "url": "https://github.com/casoon/ai-agent-config"
+  },
+  {
+    "description": "Agent Skill system for turning ecommerce product briefs, selling points, and reference assets into validated AI video-ge",
+    "id": "HXZ09845/ecommerce-sku-skill-builder",
+    "language": "Python",
+    "name": "HXZ09845/ecommerce-sku-skill-builder",
+    "stars": 1,
+    "updated_at": "2026-07-03T09:23:34Z",
+    "url": "https://github.com/HXZ09845/ecommerce-sku-skill-builder"
+  },
+  {
+    "description": "Local-only MCP server and CLI for AI agents to create video ad briefs, hooks, UGC scripts, storyboards, and AdsTurbo-rea",
+    "id": "AdsTurbo/adsturbo-creative-mcp",
+    "language": "TypeScript",
+    "name": "AdsTurbo/adsturbo-creative-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:18:45Z",
+    "url": "https://github.com/AdsTurbo/adsturbo-creative-mcp"
+  },
+  {
+    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4752,
+    "updated_at": "2026-07-03T09:18:01Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:17:59Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Experimental runtime governance definitions for AI/LLM behavior: MARGPA, MARGD, ARGD, DAGD, and related docs.",
+    "id": "nazuna-2371/margpa",
+    "language": "\u2014",
+    "name": "nazuna-2371/margpa",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:17:59Z",
+    "url": "https://github.com/nazuna-2371/margpa"
+  },
+  {
+    "description": "How I build production software with AI agents \u2014 reusable skills, adversarial review agents, and machine-enforced qualit",
+    "id": "rustidi98/ai-engineering-showcase",
+    "language": "Shell",
+    "name": "rustidi98/ai-engineering-showcase",
+    "stars": 0,
+    "updated_at": "2026-07-03T09:16:53Z",
+    "url": "https://github.com/rustidi98/ai-engineering-showcase"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-03T09:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -22,7 +202,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 30352,
+    "stars": 30353,
     "updated_at": "2026-07-03T09:14:20Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -34,15 +214,6 @@
     "stars": 48,
     "updated_at": "2026-07-03T09:11:50Z",
     "url": "https://github.com/ariffazil/arifos"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 24,
-    "updated_at": "2026-07-03T09:11:09Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
     "description": "Unified OpenAI-compatible AI gateway for 10+ providers \u2014 with prompt workflows (Action/Template), quality monitoring, an",
@@ -90,11 +261,20 @@
     "url": "https://github.com/crisnahine/chameleon"
   },
   {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 747,
+    "updated_at": "2026-07-03T09:06:06Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
     "description": "21 Lessons, Get Started Building with Generative AI ",
     "id": "microsoft/generative-ai-for-beginners",
     "language": "Jupyter Notebook",
     "name": "microsoft/generative-ai-for-beginners",
-    "stars": 112600,
+    "stars": 112601,
     "updated_at": "2026-07-03T09:05:48Z",
     "url": "https://github.com/microsoft/generative-ai-for-beginners"
   },
@@ -121,27 +301,9 @@
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12741,
+    "stars": 12742,
     "updated_at": "2026-07-03T09:01:00Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-03T09:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-03T09:00:08Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
     "description": "A production-ready local Persian AI agent powered by Ollama and Dorna-Llama3. Features real-time asynchronous token stre",
@@ -194,7 +356,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 3996,
-    "updated_at": "2026-07-03T08:51:49Z",
+    "updated_at": "2026-07-03T09:25:15Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -211,18 +373,9 @@
     "id": "forint573/miAI-Humanizer-Skill-Awesome",
     "language": "Python",
     "name": "forint573/miAI-Humanizer-Skill-Awesome",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-03T08:48:13Z",
     "url": "https://github.com/forint573/miAI-Humanizer-Skill-Awesome"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 746,
-    "updated_at": "2026-07-03T09:06:06Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
     "description": "Structured, spec-driven development workflow for AI coding agents.",
@@ -239,7 +392,7 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 6686,
-    "updated_at": "2026-07-03T08:46:03Z",
+    "updated_at": "2026-07-03T09:27:48Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -295,158 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-03T08:37:42Z",
     "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:36:03Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 12,
-    "updated_at": "2026-07-03T08:43:12Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "Agent Skill system for turning ecommerce product briefs, selling points, and reference assets into validated AI video-ge",
-    "id": "HXZ09845/ecommerce-sku-skill-builder",
-    "language": "Python",
-    "name": "HXZ09845/ecommerce-sku-skill-builder",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:32:42Z",
-    "url": "https://github.com/HXZ09845/ecommerce-sku-skill-builder"
-  },
-  {
-    "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
-    "id": "Norinatiring463/loop-engineering",
-    "language": "Python",
-    "name": "Norinatiring463/loop-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:32:33Z",
-    "url": "https://github.com/Norinatiring463/loop-engineering"
-  },
-  {
-    "description": "A dotfiles repo that treats AI agent behavior as infrastructure",
-    "id": "pbierkortte/ai-runbook",
-    "language": "HTML",
-    "name": "pbierkortte/ai-runbook",
-    "stars": 4,
-    "updated_at": "2026-07-03T08:31:58Z",
-    "url": "https://github.com/pbierkortte/ai-runbook"
-  },
-  {
-    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
-    "id": "gaofeng21cn/redcube-ai",
-    "language": "TypeScript",
-    "name": "gaofeng21cn/redcube-ai",
-    "stars": 2,
-    "updated_at": "2026-07-03T08:30:22Z",
-    "url": "https://github.com/gaofeng21cn/redcube-ai"
-  },
-  {
-    "description": "Automate project security hardening by using AI agents to analyze codebase behavior and identify necessary security impr",
-    "id": "impliedtrustwencher377/blue-spec",
-    "language": "TypeScript",
-    "name": "impliedtrustwencher377/blue-spec",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:30:19Z",
-    "url": "https://github.com/impliedtrustwencher377/blue-spec"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:29:40Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-    "id": "majiayu000/spellbook",
-    "language": "Python",
-    "name": "majiayu000/spellbook",
-    "stars": 230,
-    "updated_at": "2026-07-03T08:29:35Z",
-    "url": "https://github.com/majiayu000/spellbook"
-  },
-  {
-    "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy ",
-    "id": "eljulians/skillfile",
-    "language": "Rust",
-    "name": "eljulians/skillfile",
-    "stars": 134,
-    "updated_at": "2026-07-03T08:31:40Z",
-    "url": "https://github.com/eljulians/skillfile"
-  },
-  {
-    "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
-    "id": "keilschismatic799/fable-jailbreak",
-    "language": "\u2014",
-    "name": "keilschismatic799/fable-jailbreak",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:29:02Z",
-    "url": "https://github.com/keilschismatic799/fable-jailbreak"
-  },
-  {
-    "description": "A field-tested multi-model academic pipeline: 8-stage workflow from research design through blind peer review, defense s",
-    "id": "redamancy231-create/ma-case-study-pipeline",
-    "language": "Markdown",
-    "name": "redamancy231-create/ma-case-study-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:28:42Z",
-    "url": "https://github.com/redamancy231-create/ma-case-study-pipeline"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:28:32Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:28:32Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Prompt-TDD \u00b7 Prompt \u5bf9\u7167\u5b9e\u9a8c\u65b9\u6cd5\u8bba\u6848\u4f8b\u624b\u518c \u2014 SOP\u3001\u5206\u6790\u5de5\u5177\u4e0e\u4e24\u4e2a\u771f\u5b9e\u5bf9\u7167\u5b9e\u9a8c\uff08\u542b\u9634\u6027\u7ed3\u679c\uff09\u3002A casebook for controlled prompt-engineering experiments. CC ",
-    "id": "redamancy231-create/prompt-tdd-methodology",
-    "language": "Markdown",
-    "name": "redamancy231-create/prompt-tdd-methodology",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:28:25Z",
-    "url": "https://github.com/redamancy231-create/prompt-tdd-methodology"
-  },
-  {
-    "description": "Independent Review Toolkit \u00b7 \u72ec\u7acb\u5ba1\u67e5\u5de5\u5177\u5305 \u2014 field-tested SOP and prompt templates for bias-resistant multi-model review. Deri",
-    "id": "redamancy231-create/independent-review-toolkit",
-    "language": "Markdown",
-    "name": "redamancy231-create/independent-review-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:28:24Z",
-    "url": "https://github.com/redamancy231-create/independent-review-toolkit"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-07-03T08:27:57Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
   }
 ]
