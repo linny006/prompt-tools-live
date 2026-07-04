@@ -1,5 +1,113 @@
 [
   {
+    "description": "Token-compression skill. An adaptation of caveman \u2014 short common words, trust context, say just enough, be laconic.",
+    "id": "GabrielBarberini/laconic",
+    "language": "Python",
+    "name": "GabrielBarberini/laconic",
+    "stars": 17,
+    "updated_at": "2026-07-04T13:57:33Z",
+    "url": "https://github.com/GabrielBarberini/laconic"
+  },
+  {
+    "description": " Chrome Extension for tracking AI token usage across Claude, ChatGPT, and Gemini.  Auto-switches models when context lim",
+    "id": "sainathgoud1229/my-token-tracker-01",
+    "language": "JavaScript",
+    "name": "sainathgoud1229/my-token-tracker-01",
+    "stars": 0,
+    "updated_at": "2026-07-04T13:55:58Z",
+    "url": "https://github.com/sainathgoud1229/my-token-tracker-01"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-04T13:55:04Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22908,
+    "updated_at": "2026-07-04T13:54:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Community skills for Claude Code: token optimization, productivity workflows, and development best practices. All skills",
+    "id": "valorisa/Claude-Skills",
+    "language": "Python",
+    "name": "valorisa/Claude-Skills",
+    "stars": 3,
+    "updated_at": "2026-07-04T13:53:03Z",
+    "url": "https://github.com/valorisa/Claude-Skills"
+  },
+  {
+    "description": "AI-powered equity research workflow that transforms publicly available financial information into structured fundamental",
+    "id": "ritikkhaitan29-dotcom/AI-Equity-Research-Agent",
+    "language": "\u2014",
+    "name": "ritikkhaitan29-dotcom/AI-Equity-Research-Agent",
+    "stars": 1,
+    "updated_at": "2026-07-04T13:51:21Z",
+    "url": "https://github.com/ritikkhaitan29-dotcom/AI-Equity-Research-Agent"
+  },
+  {
+    "description": "Claude Code commands for a 10x-value planning & execution workflow \u2014 interview \u2192 plan \u2192 adversarial review \u2192 milestone r",
+    "id": "fivesmallq/claude-10x-workflow",
+    "language": "\u2014",
+    "name": "fivesmallq/claude-10x-workflow",
+    "stars": 0,
+    "updated_at": "2026-07-04T13:50:43Z",
+    "url": "https://github.com/fivesmallq/claude-10x-workflow"
+  },
+  {
+    "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship, with a harness deciding ",
+    "id": "minhtran3124/agent-harness",
+    "language": "Python",
+    "name": "minhtran3124/agent-harness",
+    "stars": 1,
+    "updated_at": "2026-07-04T13:57:58Z",
+    "url": "https://github.com/minhtran3124/agent-harness"
+  },
+  {
+    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u6392\u76d8\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
+    "id": "Brhiza/mingyu",
+    "language": "TypeScript",
+    "name": "Brhiza/mingyu",
+    "stars": 176,
+    "updated_at": "2026-07-04T13:49:51Z",
+    "url": "https://github.com/Brhiza/mingyu"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 0,
+    "updated_at": "2026-07-04T13:49:11Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-04T13:45:32Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-04T13:45:22Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
     "id": "AgustiPuigserver/opus-prompt-architect",
     "language": "HTML",
@@ -45,24 +153,6 @@
     "url": "https://github.com/kyt19970215/codex-skill-evolution-framework"
   },
   {
-    "description": "Community skills for Claude Code: token optimization, productivity workflows, and development best practices. All skills",
-    "id": "valorisa/Claude-Skills",
-    "language": "Python",
-    "name": "valorisa/Claude-Skills",
-    "stars": 3,
-    "updated_at": "2026-07-04T13:44:27Z",
-    "url": "https://github.com/valorisa/Claude-Skills"
-  },
-  {
-    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u6392\u76d8\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
-    "id": "Brhiza/mingyu",
-    "language": "TypeScript",
-    "name": "Brhiza/mingyu",
-    "stars": 176,
-    "updated_at": "2026-07-04T13:43:21Z",
-    "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
     "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
     "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
     "language": "TypeScript",
@@ -86,7 +176,7 @@
     "language": "TypeScript",
     "name": "atomicdjt/AI-Project-Portfolio",
     "stars": 0,
-    "updated_at": "2026-07-04T13:41:41Z",
+    "updated_at": "2026-07-04T13:59:21Z",
     "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
   },
   {
@@ -131,7 +221,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-04T13:38:49Z",
+    "updated_at": "2026-07-04T13:53:19Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -153,21 +243,12 @@
     "url": "https://github.com/rmdhananjay/contextual-memory-map"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-04T13:36:53Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
     "id": "ariffazil/arifos",
     "language": "Python",
     "name": "ariffazil/arifos",
     "stars": 48,
-    "updated_at": "2026-07-04T13:36:51Z",
+    "updated_at": "2026-07-04T13:53:29Z",
     "url": "https://github.com/ariffazil/arifos"
   },
   {
@@ -342,15 +423,6 @@
     "url": "https://github.com/herreravalenz6620/context-compression"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-04T13:30:21Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A layered Codex harness for long-term knowledge work, project bootstrapping, reusable workflows, and project-specific AG",
     "id": "ctrlcakepro/chilon-knowledge-work-harness",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-04T13:28:54Z",
     "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Lead your own AI team. Role-aware persistent memory for solo multi-persona Claude Code workflows.",
-    "id": "Jin-HoMLee/claude-personas",
-    "language": "Shell",
-    "name": "Jin-HoMLee/claude-personas",
-    "stars": 3,
-    "updated_at": "2026-07-04T13:28:44Z",
-    "url": "https://github.com/Jin-HoMLee/claude-personas"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-07-04T13:28:35Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-07-04T13:28:21Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-07-04T13:28:03Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-07-04T13:28:01Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-07-04T13:28:00Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "AI-powered equity research workflow that transforms publicly available financial information into structured fundamental",
-    "id": "ritikkhaitan29-dotcom/AI-Equity-Research-Agent",
-    "language": "\u2014",
-    "name": "ritikkhaitan29-dotcom/AI-Equity-Research-Agent",
-    "stars": 1,
-    "updated_at": "2026-07-04T13:27:44Z",
-    "url": "https://github.com/ritikkhaitan29-dotcom/AI-Equity-Research-Agent"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-07-04T13:27:43Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
   }
 ]
