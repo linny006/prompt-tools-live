@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10392,
+    "updated_at": "2026-07-04T01:15:18Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Stop AI coding agents from shipping untested changes. MIT-licensed operating contract, rules, and commands for Claude Co",
+    "id": "aico-platform/ai-coding-guardrails",
+    "language": "Shell",
+    "name": "aico-platform/ai-coding-guardrails",
+    "stars": 0,
+    "updated_at": "2026-07-04T01:15:02Z",
+    "url": "https://github.com/aico-platform/ai-coding-guardrails"
+  },
+  {
+    "description": "Claude Code skill: turn your session logs into an RPG character sheet \u2014 fixed-scale stats, class, achievements, avatar, ",
+    "id": "timoncool/ai-collab-profile",
+    "language": "Python",
+    "name": "timoncool/ai-collab-profile",
+    "stars": 0,
+    "updated_at": "2026-07-04T01:14:20Z",
+    "url": "https://github.com/timoncool/ai-collab-profile"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-04T01:14:14Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
+    "id": "luongs3/skill-atlas",
+    "language": "Python",
+    "name": "luongs3/skill-atlas",
+    "stars": 0,
+    "updated_at": "2026-07-04T01:14:03Z",
+    "url": "https://github.com/luongs3/skill-atlas"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-04T01:13:47Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Ecossistema de tutoria via IA que busca e estrutura provas da web. Integra Cloudflare Workers, GitHub Actions, OpenHands",
     "id": "TouchRefletz/maia.edu",
     "language": "JavaScript",
@@ -45,15 +99,6 @@
     "url": "https://github.com/mahdidjemaci/production-rag"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-04T01:12:12Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T01:11:59Z",
     "url": "https://github.com/wolfenix/llm-math-reasoning-analysis"
-  },
-  {
-    "description": "Claude Code skill: turn your session logs into an RPG character sheet \u2014 fixed-scale stats, class, achievements, avatar, ",
-    "id": "timoncool/ai-collab-profile",
-    "language": "Python",
-    "name": "timoncool/ai-collab-profile",
-    "stars": 0,
-    "updated_at": "2026-07-04T01:10:09Z",
-    "url": "https://github.com/timoncool/ai-collab-profile"
   },
   {
     "description": "\u2728 Explore essential resources and techniques for effective prompt engineering with Large Language Models, enhancing your",
@@ -171,15 +207,6 @@
     "url": "https://github.com/mtsalhudarowokele/PrismIA"
   },
   {
-    "description": "Stop AI coding agents from shipping untested changes. MIT-licensed operating contract, rules, and commands for Claude Co",
-    "id": "aico-platform/ai-coding-guardrails",
-    "language": "Shell",
-    "name": "aico-platform/ai-coding-guardrails",
-    "stars": 0,
-    "updated_at": "2026-07-04T01:04:03Z",
-    "url": "https://github.com/aico-platform/ai-coding-guardrails"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -205,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-07-04T01:00:39Z",
     "url": "https://github.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-04T01:00:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83e\udd16 Enhance your GitHub Copilot experience with curated prompts and instructions for diverse languages and tasks to boost ",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-04T00:37:39Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "A structured knowledge base for large language model technologies, covering LLMs, Agents, RAG, model training, evaluatio",
-    "id": "VectorPeak/LLM-Wiki",
-    "language": "HTML",
-    "name": "VectorPeak/LLM-Wiki",
-    "stars": 30,
-    "updated_at": "2026-07-04T00:35:53Z",
-    "url": "https://github.com/VectorPeak/LLM-Wiki"
-  },
-  {
-    "description": "A curated collection of AI skills, agents, and prompt engineering experiments.",
-    "id": "MS33834/AI-SKILL",
-    "language": "Python",
-    "name": "MS33834/AI-SKILL",
-    "stars": 3,
-    "updated_at": "2026-07-04T00:34:02Z",
-    "url": "https://github.com/MS33834/AI-SKILL"
   }
 ]
