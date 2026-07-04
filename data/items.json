@@ -1,5 +1,149 @@
 [
   {
+    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u6392\u76d8\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
+    "id": "Brhiza/mingyu",
+    "language": "TypeScript",
+    "name": "Brhiza/mingyu",
+    "stars": 176,
+    "updated_at": "2026-07-04T08:59:55Z",
+    "url": "https://github.com/Brhiza/mingyu"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Java",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-07-04T08:56:31Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-04T08:54:15Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Structured multi-round deliberation, con",
+    "id": "0xNyk/council-of-high-intelligence",
+    "language": "Shell",
+    "name": "0xNyk/council-of-high-intelligence",
+    "stars": 3214,
+    "updated_at": "2026-07-04T08:53:40Z",
+    "url": "https://github.com/0xNyk/council-of-high-intelligence"
+  },
+  {
+    "description": "AI-ready project/product management toolkit for turning project chaos into structured prompts, docs, decisions, risks, a",
+    "id": "he8um/oh-my-pm",
+    "language": "TypeScript",
+    "name": "he8um/oh-my-pm",
+    "stars": 1,
+    "updated_at": "2026-07-04T08:53:36Z",
+    "url": "https://github.com/he8um/oh-my-pm"
+  },
+  {
+    "description": "Prompt optimizer and text rephraser for ChatGPT and Gemini \u2014 powered by Gemini, OpenAI, or Claude. Local-first, no backe",
+    "id": "piyushdoorwar/ask-better",
+    "language": "JavaScript",
+    "name": "piyushdoorwar/ask-better",
+    "stars": 0,
+    "updated_at": "2026-07-04T08:52:47Z",
+    "url": "https://github.com/piyushdoorwar/ask-better"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12748,
+    "updated_at": "2026-07-04T08:52:37Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Generate cybersecurity prompt datasets for Heretic abliteration and AI safety research",
+    "id": "SherifEldeeb/cyber-prompt-gen",
+    "language": "Python",
+    "name": "SherifEldeeb/cyber-prompt-gen",
+    "stars": 0,
+    "updated_at": "2026-07-04T08:51:36Z",
+    "url": "https://github.com/SherifEldeeb/cyber-prompt-gen"
+  },
+  {
+    "description": "git for prompts - version, diff & share your LLM prompts, locally. Local-first CLI for prompt engineering with OpenAI/An",
+    "id": "YousofEbrahimi/promptstash",
+    "language": "TypeScript",
+    "name": "YousofEbrahimi/promptstash",
+    "stars": 1,
+    "updated_at": "2026-07-04T08:55:22Z",
+    "url": "https://github.com/YousofEbrahimi/promptstash"
+  },
+  {
+    "description": "A Windows-friendly AI agent coding and prompting workbench for Codex, Claude Code, Cursor, Antigravity, Copilot, MCP, sa",
+    "id": "Yaked1/ai-lab-codex-workbench",
+    "language": "Python",
+    "name": "Yaked1/ai-lab-codex-workbench",
+    "stars": 0,
+    "updated_at": "2026-07-04T08:50:07Z",
+    "url": "https://github.com/Yaked1/ai-lab-codex-workbench"
+  },
+  {
+    "description": "AI engineering notes \u2014 LLMs in production, prompts, and software design. Moss Gu's blog, home of Design is Code.",
+    "id": "mossgreen/mossgreen.github.io",
+    "language": "CSS",
+    "name": "mossgreen/mossgreen.github.io",
+    "stars": 10,
+    "updated_at": "2026-07-04T08:48:51Z",
+    "url": "https://github.com/mossgreen/mossgreen.github.io"
+  },
+  {
+    "description": "The canonical standard for building production-grade agentic products \u2014 autonomy ladder, composition patterns, the 7-lay",
+    "id": "Moai-Team-LLC/agentic-product-standard",
+    "language": "Shell",
+    "name": "Moai-Team-LLC/agentic-product-standard",
+    "stars": 13,
+    "updated_at": "2026-07-04T08:48:23Z",
+    "url": "https://github.com/Moai-Team-LLC/agentic-product-standard"
+  },
+  {
+    "description": "C# SDK for the Vellum AI API -- prompt engineering, evaluation, deployment, and workflow orchestration",
+    "id": "tryAGI/Vellum",
+    "language": "C#",
+    "name": "tryAGI/Vellum",
+    "stars": 0,
+    "updated_at": "2026-07-04T08:47:10Z",
+    "url": "https://github.com/tryAGI/Vellum"
+  },
+  {
+    "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor",
+    "id": "promptslab/Awesome-Prompt-Engineering",
+    "language": "TypeScript",
+    "name": "promptslab/Awesome-Prompt-Engineering",
+    "stars": 6124,
+    "updated_at": "2026-07-04T08:46:47Z",
+    "url": "https://github.com/promptslab/Awesome-Prompt-Engineering"
+  },
+  {
+    "description": "# Agentic Job Scraper - an AI-powered job monitoring system that scrapes Telegram channels, RSS feeds (V2EX, \u7535\u9e2d\u793e\u533a), and ",
+    "id": "dariank38/agentic-job-scraper",
+    "language": "TypeScript",
+    "name": "dariank38/agentic-job-scraper",
+    "stars": 5,
+    "updated_at": "2026-07-04T08:45:59Z",
+    "url": "https://github.com/dariank38/agentic-job-scraper"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-04T08:45:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udff0 883+ Universal Agentic Skills for Claude Code, Gemini CLI, Cursor & More \u2014 Curated by Rootcastle Engineering & Innovat",
     "id": "rootcastleco/rei-skills",
     "language": "Python",
@@ -18,15 +162,6 @@
     "url": "https://github.com/sdsrss/agentsmd"
   },
   {
-    "description": "git for prompts - version, diff & share your LLM prompts, locally. Local-first CLI for prompt engineering with OpenAI/An",
-    "id": "YousofEbrahimi/promptstash",
-    "language": "TypeScript",
-    "name": "YousofEbrahimi/promptstash",
-    "stars": 1,
-    "updated_at": "2026-07-04T08:42:52Z",
-    "url": "https://github.com/YousofEbrahimi/promptstash"
-  },
-  {
     "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
     "id": "SoliEstre/EstreGenesis",
     "language": "JavaScript",
@@ -34,15 +169,6 @@
     "stars": 7,
     "updated_at": "2026-07-04T08:41:15Z",
     "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
-    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u6392\u76d8\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
-    "id": "Brhiza/mingyu",
-    "language": "TypeScript",
-    "name": "Brhiza/mingyu",
-    "stars": 176,
-    "updated_at": "2026-07-04T08:38:53Z",
-    "url": "https://github.com/Brhiza/mingyu"
   },
   {
     "description": "Business-specific AI benchmark packs for repeatable workflow regression checks.",
@@ -61,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T08:35:50Z",
     "url": "https://github.com/HiAPIAI/awesome-seedance-2-5-prompts"
-  },
-  {
-    "description": "AI engineering notes \u2014 LLMs in production, prompts, and software design. Moss Gu's blog, home of Design is Code.",
-    "id": "mossgreen/mossgreen.github.io",
-    "language": "CSS",
-    "name": "mossgreen/mossgreen.github.io",
-    "stars": 10,
-    "updated_at": "2026-07-04T08:35:00Z",
-    "url": "https://github.com/mossgreen/mossgreen.github.io"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -97,15 +214,6 @@
     "stars": 22,
     "updated_at": "2026-07-04T08:31:45Z",
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-04T08:30:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
@@ -243,24 +351,6 @@
     "url": "https://github.com/Abed-Zahed/claude-skills-kit"
   },
   {
-    "description": "AI-ready project/product management toolkit for turning project chaos into structured prompts, docs, decisions, risks, a",
-    "id": "he8um/oh-my-pm",
-    "language": "TypeScript",
-    "name": "he8um/oh-my-pm",
-    "stars": 1,
-    "updated_at": "2026-07-04T08:09:58Z",
-    "url": "https://github.com/he8um/oh-my-pm"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Java",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-07-04T08:08:49Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
     "description": "Production ready. AI Agent Workflow System for Claude Code",
     "id": "ngocsangyem/MeowKit",
     "language": "TypeScript",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T08:02:57Z",
     "url": "https://github.com/impliedtrustwencher377/blue-spec"
-  },
-  {
-    "description": "AI\u6444\u5f71\u5e08 / Codex skill for Xiaohongshu(XHS/RedNote) sample analysis, photography shoot scripts, lighting plans, posing guid",
-    "id": "1sh1ro/ai4-photographer",
-    "language": "\u2014",
-    "name": "1sh1ro/ai4-photographer",
-    "stars": 0,
-    "updated_at": "2026-07-04T08:01:43Z",
-    "url": "https://github.com/1sh1ro/ai4-photographer"
-  },
-  {
-    "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
-    "id": "keilschismatic799/fable-jailbreak",
-    "language": "\u2014",
-    "name": "keilschismatic799/fable-jailbreak",
-    "stars": 0,
-    "updated_at": "2026-07-04T08:01:26Z",
-    "url": "https://github.com/keilschismatic799/fable-jailbreak"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 1,
-    "updated_at": "2026-07-04T08:01:18Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 0,
-    "updated_at": "2026-07-04T08:00:28Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-07-04T08:00:24Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-07-04T08:00:10Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-07-04T08:00:08Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-07-04T08:00:04Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-07-04T07:59:59Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-07-04T07:59:27Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
   }
 ]
