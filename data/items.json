@@ -1,12 +1,21 @@
 [
   {
-    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
-    "id": "Mr-Salticidae/knowledge-base",
-    "language": "Python",
-    "name": "Mr-Salticidae/knowledge-base",
-    "stars": 15,
-    "updated_at": "2026-07-05T01:14:26Z",
-    "url": "https://github.com/Mr-Salticidae/knowledge-base"
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-05T01:20:23Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-07-05T01:20:21Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
     "description": "AI prompt workflows for fabricating, interviewing, and refining VeritySpec workspaces from rough product, software, game",
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "Jason-Furr/verity-foundry",
     "stars": 0,
-    "updated_at": "2026-07-05T01:12:21Z",
+    "updated_at": "2026-07-05T01:20:11Z",
     "url": "https://github.com/Jason-Furr/verity-foundry"
+  },
+  {
+    "description": "Claude Code skill: surface your unknowns with interactive HTML artifacts \u2014 packaging of Thariq Shihipar's 'A Field Guide",
+    "id": "droppedoutofcontext/finding-unknowns",
+    "language": "JavaScript",
+    "name": "droppedoutofcontext/finding-unknowns",
+    "stars": 0,
+    "updated_at": "2026-07-05T01:17:47Z",
+    "url": "https://github.com/droppedoutofcontext/finding-unknowns"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-05T01:15:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
+    "id": "Mr-Salticidae/knowledge-base",
+    "language": "Python",
+    "name": "Mr-Salticidae/knowledge-base",
+    "stars": 15,
+    "updated_at": "2026-07-05T01:14:26Z",
+    "url": "https://github.com/Mr-Salticidae/knowledge-base"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-05T01:02:05Z",
     "url": "https://github.com/Sr-Claude/tokerizen"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-05T01:00:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Generate verification-focused operating prompts for AI agents.",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-05T00:27:20Z",
     "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4781,
-    "updated_at": "2026-07-05T00:26:53Z",
-    "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-07-05T00:26:51Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-07-05T00:26:34Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
   }
 ]
