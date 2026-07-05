@@ -1,5 +1,131 @@
 [
   {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 783,
+    "updated_at": "2026-07-05T06:28:56Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "A small kit of Cline rules that make smaller/weaker models work reliably: enforced step-by-step reasoning, per-folder do",
+    "id": "jpbaking/cline-rules",
+    "language": "Shell",
+    "name": "jpbaking/cline-rules",
+    "stars": 1,
+    "updated_at": "2026-07-05T06:29:02Z",
+    "url": "https://github.com/jpbaking/cline-rules"
+  },
+  {
+    "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
+    "id": "hilmifawwazsaad/DidYouKnow",
+    "language": "TypeScript",
+    "name": "hilmifawwazsaad/DidYouKnow",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:27:39Z",
+    "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
+  },
+  {
+    "description": "CLI to manage AI coding skills across Claude Code, Gemini CLI, Codex, Aider, Amp & Factory Droid. Disable unused skills ",
+    "id": "nikolas-sapa/skillswitch",
+    "language": "TypeScript",
+    "name": "nikolas-sapa/skillswitch",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:27:26Z",
+    "url": "https://github.com/nikolas-sapa/skillswitch"
+  },
+  {
+    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
+    "id": "LouisLau-art/multi-agent-skills-catalog",
+    "language": "Python",
+    "name": "LouisLau-art/multi-agent-skills-catalog",
+    "stars": 2,
+    "updated_at": "2026-07-05T06:26:55Z",
+    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
+  },
+  {
+    "description": "An open-source generator for AI image and text prompts that automatically builds richer, more detailed prompts than most",
+    "id": "junebug12851/random-ai-prompt",
+    "language": "JavaScript",
+    "name": "junebug12851/random-ai-prompt",
+    "stars": 8,
+    "updated_at": "2026-07-05T06:24:19Z",
+    "url": "https://github.com/junebug12851/random-ai-prompt"
+  },
+  {
+    "description": "Tell coherence from truth \u2014 an LLM prompt that lays out any argument's hidden premises, alternatives, and missing eviden",
+    "id": "flypggl-cpu/LARP",
+    "language": "Python",
+    "name": "flypggl-cpu/LARP",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:23:41Z",
+    "url": "https://github.com/flypggl-cpu/LARP"
+  },
+  {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "TypeScript",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 2,
+    "updated_at": "2026-07-05T06:23:06Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "The repository does not contain the complete code, whereof involves the ENT Handbook which was authored by the SFO UK. W",
+    "id": "Morano-git/ent-rag-code-reference",
+    "language": "Python",
+    "name": "Morano-git/ent-rag-code-reference",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:22:40Z",
+    "url": "https://github.com/Morano-git/ent-rag-code-reference"
+  },
+  {
+    "description": "Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs \u2014 ",
+    "id": "Green-PT/honey-for-devs",
+    "language": "JavaScript",
+    "name": "Green-PT/honey-for-devs",
+    "stars": 134,
+    "updated_at": "2026-07-05T06:19:55Z",
+    "url": "https://github.com/Green-PT/honey-for-devs"
+  },
+  {
+    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
+    "id": "Mr-Salticidae/knowledge-base",
+    "language": "Python",
+    "name": "Mr-Salticidae/knowledge-base",
+    "stars": 15,
+    "updated_at": "2026-07-05T06:17:13Z",
+    "url": "https://github.com/Mr-Salticidae/knowledge-base"
+  },
+  {
+    "description": "Persistent memory and session handoff for AI agents \u2014 provenance-labeled context, gated writes that can refuse, hostile ",
+    "id": "schmerbert/TheMarble",
+    "language": "Python",
+    "name": "schmerbert/TheMarble",
+    "stars": 2,
+    "updated_at": "2026-07-05T06:16:34Z",
+    "url": "https://github.com/schmerbert/TheMarble"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-05T06:15:22Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
+    "id": "pranavkafle/serpapi-mcp-catalog",
+    "language": "Python",
+    "name": "pranavkafle/serpapi-mcp-catalog",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:15:19Z",
+    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
+  },
+  {
     "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
     "id": "AditthyaSS/iloveAgents",
     "language": "JavaScript",
@@ -9,22 +135,13 @@
     "url": "https://github.com/AditthyaSS/iloveAgents"
   },
   {
-    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
-    "id": "gaofeng21cn/redcube-ai",
-    "language": "TypeScript",
-    "name": "gaofeng21cn/redcube-ai",
-    "stars": 2,
-    "updated_at": "2026-07-05T06:11:43Z",
-    "url": "https://github.com/gaofeng21cn/redcube-ai"
-  },
-  {
-    "description": "An open-source generator for AI image and text prompts that automatically builds richer, more detailed prompts than most",
-    "id": "junebug12851/random-ai-prompt",
-    "language": "JavaScript",
-    "name": "junebug12851/random-ai-prompt",
-    "stars": 8,
-    "updated_at": "2026-07-05T06:10:50Z",
-    "url": "https://github.com/junebug12851/random-ai-prompt"
+    "description": "Codex skill pack for rewriting rough prompts and learning prompt style from local evidence",
+    "id": "ilyaforfun/supadupaprompt-codex",
+    "language": "Python",
+    "name": "ilyaforfun/supadupaprompt-codex",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:12:30Z",
+    "url": "https://github.com/ilyaforfun/supadupaprompt-codex"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -43,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-05T06:07:34Z",
     "url": "https://github.com/davidcjw/agent-task-board"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 783,
-    "updated_at": "2026-07-05T06:10:29Z",
-    "url": "https://github.com/promptdriven/pdd"
   },
   {
     "description": "Claude Code skills for Claude Fable 5 / Mythos 5: fable-work (orchestrate hard multi-step work) + fable-safe-prompt (cut",
@@ -79,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-05T06:00:59Z",
     "url": "https://github.com/inverse-architecture978/ai-logo-generator"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-05T06:00:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Build and manage agents for the Gemini Enterprise Agent Platform with this command-line interface and skill library.",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-05T05:48:49Z",
     "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:48:37Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-07-05T05:48:23Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:48:19Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-07-05T05:48:06Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-07-05T05:47:55Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-07-05T05:47:46Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 3,
-    "updated_at": "2026-07-05T05:47:37Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:47:16Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 2,
-    "updated_at": "2026-07-05T05:47:15Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 2,
-    "updated_at": "2026-07-05T05:47:12Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-07-05T05:46:46Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
   }
 ]
