@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
+    "id": "AditthyaSS/iloveAgents",
+    "language": "JavaScript",
+    "name": "AditthyaSS/iloveAgents",
+    "stars": 109,
+    "updated_at": "2026-07-05T06:12:59Z",
+    "url": "https://github.com/AditthyaSS/iloveAgents"
+  },
+  {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "TypeScript",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 2,
+    "updated_at": "2026-07-05T06:11:43Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "An open-source generator for AI image and text prompts that automatically builds richer, more detailed prompts than most",
+    "id": "junebug12851/random-ai-prompt",
+    "language": "JavaScript",
+    "name": "junebug12851/random-ai-prompt",
+    "stars": 8,
+    "updated_at": "2026-07-05T06:10:50Z",
+    "url": "https://github.com/junebug12851/random-ai-prompt"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 25,
+    "updated_at": "2026-07-05T06:09:29Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "A local-first kanban for the tasks you delegate to AI coding agents \u2014 prompt-first cards, live timers, drag-and-drop.",
+    "id": "davidcjw/agent-task-board",
+    "language": "JavaScript",
+    "name": "davidcjw/agent-task-board",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:07:34Z",
+    "url": "https://github.com/davidcjw/agent-task-board"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 783,
+    "updated_at": "2026-07-05T06:10:29Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Claude Code skills for Claude Fable 5 / Mythos 5: fable-work (orchestrate hard multi-step work) + fable-safe-prompt (cut",
+    "id": "hunghy93-pixel/FableWorks",
+    "language": "\u2014",
+    "name": "hunghy93-pixel/FableWorks",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:03:17Z",
+    "url": "https://github.com/hunghy93-pixel/FableWorks"
+  },
+  {
+    "description": "A full-stack AI prompt management vault. Features a FastAPI REST backend gated by JWT access/refresh token pairs, SQLAlc",
+    "id": "H8rsh100/promptvault",
+    "language": "Python",
+    "name": "H8rsh100/promptvault",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:02:15Z",
+    "url": "https://github.com/H8rsh100/promptvault"
+  },
+  {
+    "description": "Generate professional logos using artificial intelligence and download them as high-quality PNG or SVG files.",
+    "id": "inverse-architecture978/ai-logo-generator",
+    "language": "JavaScript",
+    "name": "inverse-architecture978/ai-logo-generator",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:00:59Z",
+    "url": "https://github.com/inverse-architecture978/ai-logo-generator"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-05T06:00:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Build and manage agents for the Gemini Enterprise Agent Platform with this command-line interface and skill library.",
+    "id": "adamantine-tracthouse487/agents-cli",
+    "language": "Python",
+    "name": "adamantine-tracthouse487/agents-cli",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:00:19Z",
+    "url": "https://github.com/adamantine-tracthouse487/agents-cli"
+  },
+  {
     "description": "Provide AI agents with scalable internet access through one API, SSE streams, and an MCP server with 91 tools.",
     "id": "Sibealhidrotic500/Agent-Span",
     "language": "Rust",
@@ -45,20 +144,11 @@
     "url": "https://github.com/Norinatiring463/loop-engineering"
   },
   {
-    "description": "A local-first kanban for the tasks you delegate to AI coding agents \u2014 prompt-first cards, live timers, drag-and-drop.",
-    "id": "davidcjw/agent-task-board",
-    "language": "JavaScript",
-    "name": "davidcjw/agent-task-board",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:57:49Z",
-    "url": "https://github.com/davidcjw/agent-task-board"
-  },
-  {
     "description": "\ud83c\udfad 266 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 18 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 20 \u4e2a\u90e8\u95e8\u3002\u542b 50 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
     "id": "jnMetaCode/agency-agents-zh",
     "language": "Shell",
     "name": "jnMetaCode/agency-agents-zh",
-    "stars": 16616,
+    "stars": 16617,
     "updated_at": "2026-07-05T05:57:07Z",
     "url": "https://github.com/jnMetaCode/agency-agents-zh"
   },
@@ -189,15 +279,6 @@
     "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
   },
   {
-    "description": "A full-stack AI prompt management vault. Features a FastAPI REST backend gated by JWT access/refresh token pairs, SQLAlc",
-    "id": "H8rsh100/promptvault",
-    "language": "Python",
-    "name": "H8rsh100/promptvault",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:51:38Z",
-    "url": "https://github.com/H8rsh100/promptvault"
-  },
-  {
     "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
     "id": "sonu1611/sillytavern-ai-character-chat",
     "language": "\u2014",
@@ -223,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-07-05T05:50:31Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
-    "id": "gaofeng21cn/redcube-ai",
-    "language": "TypeScript",
-    "name": "gaofeng21cn/redcube-ai",
-    "stars": 2,
-    "updated_at": "2026-07-05T05:50:21Z",
-    "url": "https://github.com/gaofeng21cn/redcube-ai"
   },
   {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T05:46:46Z",
     "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-07-05T05:46:21Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-07-05T05:46:02Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-07-05T05:45:58Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-07-05T05:45:58Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Claude Code skills for Claude Fable 5 / Mythos 5: fable-work (orchestrate hard multi-step work) + fable-safe-prompt (cut",
-    "id": "hunghy93-pixel/FableWorks",
-    "language": "\u2014",
-    "name": "hunghy93-pixel/FableWorks",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:45:31Z",
-    "url": "https://github.com/hunghy93-pixel/FableWorks"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:45:25Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-05T05:45:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:44:52Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
   }
 ]
