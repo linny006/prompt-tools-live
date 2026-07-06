@@ -1,5 +1,113 @@
 [
   {
+    "description": "BYOK VS Code extension that rewrites rough developer prompts into clear, token-aware instructions for Codex and coding a",
+    "id": "hatimshahera/prompt-saver-for-codex",
+    "language": "TypeScript",
+    "name": "hatimshahera/prompt-saver-for-codex",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:07:27Z",
+    "url": "https://github.com/hatimshahera/prompt-saver-for-codex"
+  },
+  {
+    "description": "Generate Markdown handoff briefs from ChatGPT shared links for Codex, Cursor, Claude, and other AI coding tools.",
+    "id": "hatimshahera/context-handoff-generator",
+    "language": "TypeScript",
+    "name": "hatimshahera/context-handoff-generator",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:07:24Z",
+    "url": "https://github.com/hatimshahera/context-handoff-generator"
+  },
+  {
+    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
+    "id": "carlwelchdesign/supraconscious-avatar-ai",
+    "language": "TypeScript",
+    "name": "carlwelchdesign/supraconscious-avatar-ai",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:06:06Z",
+    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
+    "description": "Find what your AI agent gets wrong \u2014 before you have a rubric. Qualitative eval for PMs.",
+    "id": "aws-samples/sample-GEDD",
+    "language": "Python",
+    "name": "aws-samples/sample-GEDD",
+    "stars": 8,
+    "updated_at": "2026-07-06T17:05:57Z",
+    "url": "https://github.com/aws-samples/sample-GEDD"
+  },
+  {
+    "description": "A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other ",
+    "id": "zuoxu3310/AGENTOS",
+    "language": "Python",
+    "name": "zuoxu3310/AGENTOS",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:05:44Z",
+    "url": "https://github.com/zuoxu3310/AGENTOS"
+  },
+  {
+    "description": "\u7d66\u975e\u6280\u8853\u7528\u6236\u8207 AI agent \u4f7f\u7528\u8005\u7684\u4e2d\u6587 meta instruction\uff1a\u91cd\u9ede\u4e0d\u662f\u8b93 AI \u76f2\u76ee\u670d\u5f9e\uff0c\u800c\u662f\u8981\u6c42\u5148\u6838\u5be6\u3001\u5c11\u4e82\u52d5\u3001\u53ef\u9a57\u6536\u3001\u51fa\u4e8b\u53ef\u8ffd\u6eaf\u3002",
+    "id": "prompt-templates/Adam-AI-Instructions",
+    "language": "HTML",
+    "name": "prompt-templates/Adam-AI-Instructions",
+    "stars": 4,
+    "updated_at": "2026-07-06T17:05:19Z",
+    "url": "https://github.com/prompt-templates/Adam-AI-Instructions"
+  },
+  {
+    "description": "\u57fa\u4e8e AI Agent \u5de5\u4f5c\u6d41\u7684\u4fee\u4ed9\u4e16\u754c\u6a21\u62df\u5668\uff0c\u65e8\u5728\u8fd8\u539f\u667a\u80fd\u3001\u5f00\u653e\u7684\u4ed9\u4fa0\u4e16\u754c\u3002| An open-source Cultivation World Simulator using Agentic Workflow to create a d",
+    "id": "4thfever/cultivation-world-simulator",
+    "language": "Python",
+    "name": "4thfever/cultivation-world-simulator",
+    "stars": 1915,
+    "updated_at": "2026-07-06T17:04:42Z",
+    "url": "https://github.com/4thfever/cultivation-world-simulator"
+  },
+  {
+    "description": "Deterministic LLM framework combining strict context governance (veritas/sim frameworks) with a high-fidelity somatic si",
+    "id": "nyragrimkitten-creator/The-Veritas-Loop",
+    "language": "\u2014",
+    "name": "nyragrimkitten-creator/The-Veritas-Loop",
+    "stars": 2,
+    "updated_at": "2026-07-06T17:01:38Z",
+    "url": "https://github.com/nyragrimkitten-creator/The-Veritas-Loop"
+  },
+  {
+    "description": "PromptOS is a centralized prompt intelligence system that understands, evolves, and adapts across domains. Acting as a P",
+    "id": "Yuvadi29/PromptOS",
+    "language": "TypeScript",
+    "name": "Yuvadi29/PromptOS",
+    "stars": 16,
+    "updated_at": "2026-07-06T17:01:38Z",
+    "url": "https://github.com/Yuvadi29/PromptOS"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-06T17:00:50Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-06T17:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-06T17:00:23Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
     "id": "Nyanna/XY.AI.Workbench",
     "language": "Java",
@@ -45,15 +153,6 @@
     "url": "https://github.com/solune-lab/prd-master"
   },
   {
-    "description": "A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other ",
-    "id": "zuoxu3310/AGENTOS",
-    "language": "Python",
-    "name": "zuoxu3310/AGENTOS",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:55:59Z",
-    "url": "https://github.com/zuoxu3310/AGENTOS"
-  },
-  {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
     "id": "Magma1321/mythos-agent-pipe",
     "language": "HTML",
@@ -61,24 +160,6 @@
     "stars": 151,
     "updated_at": "2026-07-06T16:55:57Z",
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
-    "id": "carlwelchdesign/supraconscious-avatar-ai",
-    "language": "TypeScript",
-    "name": "carlwelchdesign/supraconscious-avatar-ai",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:55:43Z",
-    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
-  },
-  {
-    "description": "Deterministic LLM framework combining strict context governance (veritas/sim frameworks) with a high-fidelity somatic si",
-    "id": "nyragrimkitten-creator/The-Veritas-Loop",
-    "language": "\u2014",
-    "name": "nyragrimkitten-creator/The-Veritas-Loop",
-    "stars": 2,
-    "updated_at": "2026-07-06T16:55:32Z",
-    "url": "https://github.com/nyragrimkitten-creator/The-Veritas-Loop"
   },
   {
     "description": "Lint and score any AI agent SKILL.md against the official Claude, Codex, and Antigravity authoring guides \u2014 offline Dart",
@@ -95,7 +176,7 @@
     "language": "TypeScript",
     "name": "akazah/prompt-anonymizer",
     "stars": 23,
-    "updated_at": "2026-07-06T16:57:52Z",
+    "updated_at": "2026-07-06T17:14:56Z",
     "url": "https://github.com/akazah/prompt-anonymizer"
   },
   {
@@ -106,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-07-06T16:54:38Z",
     "url": "https://github.com/gaofeng21cn/redcube-ai"
-  },
-  {
-    "description": "\u57fa\u4e8e AI Agent \u5de5\u4f5c\u6d41\u7684\u4fee\u4ed9\u4e16\u754c\u6a21\u62df\u5668\uff0c\u65e8\u5728\u8fd8\u539f\u667a\u80fd\u3001\u5f00\u653e\u7684\u4ed9\u4fa0\u4e16\u754c\u3002| An open-source Cultivation World Simulator using Agentic Workflow to create a d",
-    "id": "4thfever/cultivation-world-simulator",
-    "language": "Python",
-    "name": "4thfever/cultivation-world-simulator",
-    "stars": 1915,
-    "updated_at": "2026-07-06T16:53:46Z",
-    "url": "https://github.com/4thfever/cultivation-world-simulator"
   },
   {
     "description": "AI-writing humanizer for KO/EN/ZH/JA",
@@ -158,26 +230,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3324,
-    "updated_at": "2026-07-06T16:59:31Z",
+    "updated_at": "2026-07-06T17:14:57Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "PromptOS is a centralized prompt intelligence system that understands, evolves, and adapts across domains. Acting as a P",
-    "id": "Yuvadi29/PromptOS",
-    "language": "TypeScript",
-    "name": "Yuvadi29/PromptOS",
-    "stars": 16,
-    "updated_at": "2026-07-06T16:49:05Z",
-    "url": "https://github.com/Yuvadi29/PromptOS"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-06T16:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Portable AI Dev OS for Codex, Antigravity, Cursor, Claude, Gemini, and multimodel coding workflows.",
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20357,
-    "updated_at": "2026-07-06T16:54:23Z",
+    "updated_at": "2026-07-06T17:10:27Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T16:35:32Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "\u7e41\u9ad4\u4e2d\u6587\u5beb\u4f5c skill \u5de5\u5177\u93c8 for Claude Code\uff1ahumanizer-tw\uff08\u53bb AI \u5473\uff09+ good-writing-zh\uff08\u7bc0\u594f\u6253\u78e8\uff1aPG\uff0f\u4f59\u5149\u4e2d\uff0f\u738b\u9f0e\u921e + \u6280\u8853\u6587\u4ef6\u4fdd\u5b88\u6a21\u5f0f\uff09+ fable-econ\uff0ffable-exp",
-    "id": "aeopress/writing-skills.TW",
-    "language": "\u2014",
-    "name": "aeopress/writing-skills.TW",
-    "stars": 2,
-    "updated_at": "2026-07-06T16:35:32Z",
-    "url": "https://github.com/aeopress/writing-skills.TW"
-  },
-  {
-    "description": "A Claude Code skill for discovering your unknowns (unknown unknowns / unknown knowns) before, during, and after implemen",
-    "id": "baizhiyuan/finding-unknowns-skill",
-    "language": "Shell",
-    "name": "baizhiyuan/finding-unknowns-skill",
-    "stars": 2,
-    "updated_at": "2026-07-06T16:35:06Z",
-    "url": "https://github.com/baizhiyuan/finding-unknowns-skill"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:35:02Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-07-06T16:34:37Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:34:32Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Portable Agent Skill for small, verified coding-agent changes",
-    "id": "zaingz/coding-quality-loop",
-    "language": "Python",
-    "name": "zaingz/coding-quality-loop",
-    "stars": 0,
-    "updated_at": "2026-07-06T16:34:12Z",
-    "url": "https://github.com/zaingz/coding-quality-loop"
   }
 ]
