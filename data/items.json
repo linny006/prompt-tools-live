@@ -1,5 +1,77 @@
 [
   {
+    "description": "A local-first kanban for the tasks you delegate to AI coding agents \u2014 prompt-first cards, live timers, drag-and-drop.",
+    "id": "davidcjw/agent-task-board",
+    "language": "JavaScript",
+    "name": "davidcjw/agent-task-board",
+    "stars": 0,
+    "updated_at": "2026-07-06T04:59:45Z",
+    "url": "https://github.com/davidcjw/agent-task-board"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 49,
+    "updated_at": "2026-07-06T04:59:34Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 60,
+    "updated_at": "2026-07-06T04:54:35Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 5,
+    "updated_at": "2026-07-06T04:53:33Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "The system your AI agents are missing \u2014 synced instructions, workflow skills, hardened secrets, and autonomous loops acr",
+    "id": "arndvs/ctrlshft",
+    "language": "Shell",
+    "name": "arndvs/ctrlshft",
+    "stars": 0,
+    "updated_at": "2026-07-06T04:53:03Z",
+    "url": "https://github.com/arndvs/ctrlshft"
+  },
+  {
+    "description": "Universal AI skill: converts messy chat transcripts into rigorous /goal loop prompts for agentic models like Anthropic F",
+    "id": "Alt3r3dP3rc3ption/chat2goal",
+    "language": "Python",
+    "name": "Alt3r3dP3rc3ption/chat2goal",
+    "stars": 0,
+    "updated_at": "2026-07-06T04:51:23Z",
+    "url": "https://github.com/Alt3r3dP3rc3ption/chat2goal"
+  },
+  {
+    "description": "Anonymize / mask personal information before sending prompts to chat AI (like ChatGPT provided by OpenAI)",
+    "id": "akazah/prompt-anonymizer",
+    "language": "TypeScript",
+    "name": "akazah/prompt-anonymizer",
+    "stars": 23,
+    "updated_at": "2026-07-06T04:48:12Z",
+    "url": "https://github.com/akazah/prompt-anonymizer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-06T04:45:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -63,15 +135,6 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
-    "description": "Universal AI skill: converts messy chat transcripts into rigorous /goal loop prompts for agentic models like Anthropic F",
-    "id": "Alt3r3dP3rc3ption/chat2goal",
-    "language": "Python",
-    "name": "Alt3r3dP3rc3ption/chat2goal",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:43:30Z",
-    "url": "https://github.com/Alt3r3dP3rc3ption/chat2goal"
-  },
-  {
     "description": "\u61c2\u5e95\u5c42\u7b97\u6cd5\u903b\u8f91\u7684 AI \u4ea7\u54c1\u4e0e\u589e\u957f\u8fd0\u8425\u3002\u5305\u542b\u57fa\u4e8e OpenClaw \u5f00\u53d1\u7684 RAG \u95ee\u8bca\u7cfb\u7edf\u3001YOLOv8 \u76d1\u63a7\u5927\u5c4f\u6838\u5fc3\u903b\u8f91\uff0c\u4ee5\u53ca AI \u9a71\u52a8\u7684\u6d41\u91cf\u589e\u957f\u5b9e\u6218\u3002",
     "id": "Xi-3/AI-Product-Portfolio",
     "language": "Python",
@@ -85,7 +148,7 @@
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 164810,
+    "stars": 164812,
     "updated_at": "2026-07-06T04:32:23Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -108,20 +171,11 @@
     "url": "https://github.com/ncmonx/icemage"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-06T04:30:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20324,
+    "stars": 20326,
     "updated_at": "2026-07-06T04:30:16Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -288,15 +342,6 @@
     "url": "https://github.com/impliedtrustwencher377/blue-spec"
   },
   {
-    "description": "A local-first kanban for the tasks you delegate to AI coding agents \u2014 prompt-first cards, live timers, drag-and-drop.",
-    "id": "davidcjw/agent-task-board",
-    "language": "JavaScript",
-    "name": "davidcjw/agent-task-board",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:10:55Z",
-    "url": "https://github.com/davidcjw/agent-task-board"
-  },
-  {
     "description": "Blueprint for AI agent behavior: method, judgment, failure modes, evaluation, and domain decision rules.",
     "id": "PhilipJohnBasile/agent-brain-blueprint",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T04:07:14Z",
     "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-07-06T04:07:14Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-07-06T04:06:06Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Guida pratica, collaborativa e continuamente aggiornata sull'impiego dell'Intelligenza Artificiale nella professione di ",
-    "id": "C3I-ITA/ai-professione-ingegnere",
-    "language": "CSS",
-    "name": "C3I-ITA/ai-professione-ingegnere",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:05:58Z",
-    "url": "https://github.com/C3I-ITA/ai-professione-ingegnere"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-06T04:05:14Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-07-06T04:04:43Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
   }
 ]
