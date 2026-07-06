@@ -1,5 +1,95 @@
 [
   {
+    "description": "Prompt engineering workbench for AI coding agents inside VS Code: versioned Markdown prompts, child prompt generation, k",
+    "id": "psielta/Sobek",
+    "language": "TypeScript",
+    "name": "psielta/Sobek",
+    "stars": 0,
+    "updated_at": "2026-07-06T23:30:26Z",
+    "url": "https://github.com/psielta/Sobek"
+  },
+  {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-06T23:30:24Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Finding Your Unknowns skill for coding agents: blindspot pass, vocabulary building, design directions, mock-before-wire,",
+    "id": "hanqyu/finding-your-unknowns-skill",
+    "language": "\u2014",
+    "name": "hanqyu/finding-your-unknowns-skill",
+    "stars": 0,
+    "updated_at": "2026-07-06T23:27:45Z",
+    "url": "https://github.com/hanqyu/finding-your-unknowns-skill"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-06T23:27:26Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "id": "DietrichGebert/ponytail",
+    "language": "JavaScript",
+    "name": "DietrichGebert/ponytail",
+    "stars": 75911,
+    "updated_at": "2026-07-06T23:23:32Z",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "description": "A dotfiles repo that treats AI agent behavior as infrastructure",
+    "id": "pbierkortte/ai-runbook",
+    "language": "HTML",
+    "name": "pbierkortte/ai-runbook",
+    "stars": 4,
+    "updated_at": "2026-07-06T23:22:50Z",
+    "url": "https://github.com/pbierkortte/ai-runbook"
+  },
+  {
+    "description": "Local-first desktop app for managing, analyzing and optimizing prompt collections \u2014 offline, private, Tauri + React + Ru",
+    "id": "xxammaxx/promptvault-lite",
+    "language": "TypeScript",
+    "name": "xxammaxx/promptvault-lite",
+    "stars": 0,
+    "updated_at": "2026-07-06T23:22:09Z",
+    "url": "https://github.com/xxammaxx/promptvault-lite"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-06T23:20:50Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-06T23:18:26Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-06T23:15:22Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -32,7 +122,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22981,
-    "updated_at": "2026-07-06T23:15:13Z",
+    "updated_at": "2026-07-06T23:16:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -126,24 +216,6 @@
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-06T23:00:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-06T23:00:24Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
     "description": "Token-optimized middleware for LLM coding agents \u2014 30\u201390% fewer tokens on the shell commands your agent runs all day. A ",
     "id": "turanheydarli/bani.sh",
     "language": "Go",
@@ -167,7 +239,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 785,
-    "updated_at": "2026-07-06T23:02:51Z",
+    "updated_at": "2026-07-06T23:28:22Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -175,7 +247,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 30563,
+    "stars": 30564,
     "updated_at": "2026-07-06T22:57:42Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -225,15 +297,6 @@
     "url": "https://github.com/projectbom/dev-guard"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-06T22:51:56Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -257,7 +320,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 2,
-    "updated_at": "2026-07-06T22:46:46Z",
+    "updated_at": "2026-07-06T23:19:56Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -275,7 +338,7 @@
     "language": "Python",
     "name": "grimaldost/craft-collection",
     "stars": 1,
-    "updated_at": "2026-07-06T22:45:54Z",
+    "updated_at": "2026-07-06T23:16:40Z",
     "url": "https://github.com/grimaldost/craft-collection"
   },
   {
@@ -295,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T22:45:01Z",
     "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
-    "description": "Local-first desktop app for managing, analyzing and optimizing prompt collections \u2014 offline, private, Tauri + React + Ru",
-    "id": "xxammaxx/promptvault-lite",
-    "language": "TypeScript",
-    "name": "xxammaxx/promptvault-lite",
-    "stars": 0,
-    "updated_at": "2026-07-06T23:11:37Z",
-    "url": "https://github.com/xxammaxx/promptvault-lite"
   },
   {
     "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
@@ -351,15 +405,6 @@
     "url": "https://github.com/whimzyLive/nightshift-ai"
   },
   {
-    "description": "A dotfiles repo that treats AI agent behavior as infrastructure",
-    "id": "pbierkortte/ai-runbook",
-    "language": "HTML",
-    "name": "pbierkortte/ai-runbook",
-    "stars": 4,
-    "updated_at": "2026-07-06T22:37:23Z",
-    "url": "https://github.com/pbierkortte/ai-runbook"
-  },
-  {
     "description": "Engineering architecture for runtime state modulation in Large Language Models.",
     "id": "divinecanon/signalengine-EN",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T22:27:03Z",
     "url": "https://github.com/inverse-architecture978/ai-logo-generator"
-  },
-  {
-    "description": "Build and manage agents for the Gemini Enterprise Agent Platform with this command-line interface and skill library.",
-    "id": "adamantine-tracthouse487/agents-cli",
-    "language": "Python",
-    "name": "adamantine-tracthouse487/agents-cli",
-    "stars": 0,
-    "updated_at": "2026-07-06T22:26:30Z",
-    "url": "https://github.com/adamantine-tracthouse487/agents-cli"
-  },
-  {
-    "description": "Coordinate 18 AI personas across multiple LLM providers to deliberate and solve complex problems with a single command.",
-    "id": "Pistoncomplexion189/council-of-high-intelligence",
-    "language": "Shell",
-    "name": "Pistoncomplexion189/council-of-high-intelligence",
-    "stars": 0,
-    "updated_at": "2026-07-06T22:26:21Z",
-    "url": "https://github.com/Pistoncomplexion189/council-of-high-intelligence"
-  },
-  {
-    "description": "Provide AI agents with scalable internet access through one API, SSE streams, and an MCP server with 91 tools.",
-    "id": "Sibealhidrotic500/Agent-Span",
-    "language": "Rust",
-    "name": "Sibealhidrotic500/Agent-Span",
-    "stars": 0,
-    "updated_at": "2026-07-06T22:26:19Z",
-    "url": "https://github.com/Sibealhidrotic500/Agent-Span"
-  },
-  {
-    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
-    "id": "Sungmin-Cho/claude-deep-suite",
-    "language": "JavaScript",
-    "name": "Sungmin-Cho/claude-deep-suite",
-    "stars": 6,
-    "updated_at": "2026-07-06T22:24:32Z",
-    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
-  },
-  {
-    "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
-    "id": "Norinatiring463/loop-engineering",
-    "language": "Python",
-    "name": "Norinatiring463/loop-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-06T22:23:54Z",
-    "url": "https://github.com/Norinatiring463/loop-engineering"
   }
 ]
