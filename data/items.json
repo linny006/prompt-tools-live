@@ -1,12 +1,21 @@
 [
   {
-    "description": "An AI mentor that teaches you to fix real GitHub issues instead of solving them for you \u2014 built to get first-time contri",
-    "id": "asmit25805/firstpr",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "asmit25805/firstpr",
-    "stars": 0,
-    "updated_at": "2026-07-07T16:13:56Z",
-    "url": "https://github.com/asmit25805/firstpr"
+    "name": "langfuse/langfuse",
+    "stars": 30624,
+    "updated_at": "2026-07-07T16:14:38Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 4,
+    "updated_at": "2026-07-07T16:14:04Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
@@ -16,6 +25,42 @@
     "stars": 0,
     "updated_at": "2026-07-07T16:13:43Z",
     "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "An AI mentor that teaches you to fix real GitHub issues instead of solving them for you \u2014 built to get first-time contri",
+    "id": "asmit25805/firstpr",
+    "language": "TypeScript",
+    "name": "asmit25805/firstpr",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:15:20Z",
+    "url": "https://github.com/asmit25805/firstpr"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10438,
+    "updated_at": "2026-07-07T16:14:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Typed building blocks for everything around your LLM call.",
+    "id": "use-crux/crux",
+    "language": "TypeScript",
+    "name": "use-crux/crux",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:13:33Z",
+    "url": "https://github.com/use-crux/crux"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:13:00Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
     "description": "Agent skills by Titus Kirch \u2014 installable via skills.sh in Claude Code, Cursor, Windsurf and friends.",
@@ -34,15 +79,6 @@
     "stars": 2375,
     "updated_at": "2026-07-07T16:10:43Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30624,
-    "updated_at": "2026-07-07T16:12:51Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Eval arena for the Claude API: agentic tool-use loop, Zod structured outputs, two-stage RAG (embed then rerank), LLM-as-",
@@ -115,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-07-07T16:02:52Z",
     "url": "https://github.com/Jin-HoMLee/claude-personas"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 4,
-    "updated_at": "2026-07-07T16:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
@@ -205,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-07-07T15:51:48Z",
     "url": "https://github.com/backblaze-b2-samples/image-generation-prompt-flow"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10438,
-    "updated_at": "2026-07-07T16:13:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Local tool that turns Final Fantasy XIV character screenshots into editable character profiles and character-card prompt",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T15:28:32Z",
     "url": "https://github.com/ralfyishere/rules-with-receipts"
-  },
-  {
-    "description": "Free book: AI Workflow for Game Designers \u2014 No Fabricated Numbers. Full text free in this repo (CC BY-NC-SA). English ed",
-    "id": "eremes81/game-design-ai-practice-en",
-    "language": "HTML",
-    "name": "eremes81/game-design-ai-practice-en",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:28:24Z",
-    "url": "https://github.com/eremes81/game-design-ai-practice-en"
-  },
-  {
-    "description": "Battle-tested markdown rules, constraints, and guidelines for steering AI coding agents (Claude Code, Codex, OpenClaw)",
-    "id": "MasihMoafi/Skills-I-use",
-    "language": "\u2014",
-    "name": "MasihMoafi/Skills-I-use",
-    "stars": 1,
-    "updated_at": "2026-07-07T15:27:22Z",
-    "url": "https://github.com/MasihMoafi/Skills-I-use"
   }
 ]
