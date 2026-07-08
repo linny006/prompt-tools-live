@@ -1,5 +1,122 @@
 [
   {
+    "description": "500+ AI prompts using the RTFC framework (Role, Task, Format, Constraints). Free 15-prompt sample. Premium packs for sal",
+    "id": "ic3bl3u-bit/ai-prompt-engineering-toolkit",
+    "language": "HTML",
+    "name": "ic3bl3u-bit/ai-prompt-engineering-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-08T01:14:58Z",
+    "url": "https://github.com/ic3bl3u-bit/ai-prompt-engineering-toolkit"
+  },
+  {
+    "description": "\ud83e\uddea Evaluate uncensored LLMs for offensive security with targeted questions and clear criteria to ensure effectiveness in ",
+    "id": "lpr021/redteam-ai-benchmark",
+    "language": "Python",
+    "name": "lpr021/redteam-ai-benchmark",
+    "stars": 2,
+    "updated_at": "2026-07-08T01:14:34Z",
+    "url": "https://github.com/lpr021/redteam-ai-benchmark"
+  },
+  {
+    "description": "Local-first memory layer for AI coding agents. Captures issues, attempts, decisions, and cross-project library gotchas \u2014",
+    "id": "riponcm/projectmem",
+    "language": "Python",
+    "name": "riponcm/projectmem",
+    "stars": 140,
+    "updated_at": "2026-07-08T01:13:09Z",
+    "url": "https://github.com/riponcm/projectmem"
+  },
+  {
+    "description": "One workflow framework, every coding agent. Install your AI-coding discipline into Claude Code, Cursor, GitHub Copilot, ",
+    "id": "lee77840/omniconductor",
+    "language": "Shell",
+    "name": "lee77840/omniconductor",
+    "stars": 0,
+    "updated_at": "2026-07-08T01:13:00Z",
+    "url": "https://github.com/lee77840/omniconductor"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-07-08T01:12:02Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10445,
+    "updated_at": "2026-07-08T01:11:42Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83e\udd16 Analyze emotions and sarcasm in real-time with an AI therapy chatbot, providing empathetic responses and tracking emot",
+    "id": "solar-thermopsis805/therapeutic-llm",
+    "language": "TypeScript",
+    "name": "solar-thermopsis805/therapeutic-llm",
+    "stars": 2,
+    "updated_at": "2026-07-08T01:10:41Z",
+    "url": "https://github.com/solar-thermopsis805/therapeutic-llm"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 0,
+    "updated_at": "2026-07-08T01:10:35Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
+    "id": "mahdidjemaci/production-rag",
+    "language": "Python",
+    "name": "mahdidjemaci/production-rag",
+    "stars": 2,
+    "updated_at": "2026-07-08T01:10:32Z",
+    "url": "https://github.com/mahdidjemaci/production-rag"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze the mathematical reasoning abilities of the Mistral-7B model using diverse prompting techniques on multi-step ",
+    "id": "wolfenix/llm-math-reasoning-analysis",
+    "language": "HTML",
+    "name": "wolfenix/llm-math-reasoning-analysis",
+    "stars": 0,
+    "updated_at": "2026-07-08T01:10:08Z",
+    "url": "https://github.com/wolfenix/llm-math-reasoning-analysis"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-08T01:09:57Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 61,
+    "updated_at": "2026-07-08T01:09:17Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 4,
+    "updated_at": "2026-07-08T01:08:54Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "RWANG:MasterPlan \u2014 universal, agent-agnostic architecture-first project protocol. Drop one file into any project and you",
     "id": "Freshair129/RWANG-PROMAX",
     "language": "Shell",
@@ -108,15 +225,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 4,
-    "updated_at": "2026-07-08T01:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -196,15 +304,6 @@
     "stars": 6,
     "updated_at": "2026-07-08T00:50:39Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10444,
-    "updated_at": "2026-07-08T00:54:38Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T00:41:07Z",
     "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
-  },
-  {
-    "description": "500+ AI prompts using the RTFC framework (Role, Task, Format, Constraints). Free 15-prompt sample. Premium packs for sal",
-    "id": "ic3bl3u-bit/ai-prompt-engineering-toolkit",
-    "language": "HTML",
-    "name": "ic3bl3u-bit/ai-prompt-engineering-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-08T00:40:37Z",
-    "url": "https://github.com/ic3bl3u-bit/ai-prompt-engineering-toolkit"
-  },
-  {
-    "description": "\ud83d\udc19 A curated set of Codex and OpenClaw skills for workflow automation, technical debugging, and agent-assisted developmen",
-    "id": "vincentkoc/dotskills",
-    "language": "JavaScript",
-    "name": "vincentkoc/dotskills",
-    "stars": 96,
-    "updated_at": "2026-07-08T00:40:00Z",
-    "url": "https://github.com/vincentkoc/dotskills"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-07-08T00:37:45Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 785,
-    "updated_at": "2026-07-08T01:06:32Z",
-    "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "Cost-discipline skills for Claude Code by Carlynn Espinoza: token-efficiency-check + check-cost. Spend as little as poss",
-    "id": "carlynn-espinoza/claude-cost-skills",
-    "language": "\u2014",
-    "name": "carlynn-espinoza/claude-cost-skills",
-    "stars": 0,
-    "updated_at": "2026-07-08T00:36:30Z",
-    "url": "https://github.com/carlynn-espinoza/claude-cost-skills"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-08T00:34:12Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "\u4e2d\u6587 AI \u56fe\u7247\u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5973\u88c5\u3001\u7ae5\u88c5\u3001\u7535\u5546\u4e3b\u56fe\u3001\u4ea7\u54c1\u6444\u5f71\u3001\u5c0f\u7ea2\u4e66\u5c01\u9762\u548c\u5e7f\u544a\u6d77\u62a5\u3002",
-    "id": "gpt-img-2/ai-image-prompt-cookbook",
-    "language": "\u2014",
-    "name": "gpt-img-2/ai-image-prompt-cookbook",
-    "stars": 70,
-    "updated_at": "2026-07-08T00:33:36Z",
-    "url": "https://github.com/gpt-img-2/ai-image-prompt-cookbook"
-  },
-  {
-    "description": "\u221e Loop-Bazaar: 5,000+ Curated AI Agent Workflows, Repeatable Prompts, & Stop Conditions. Sorted by Community Ratings.",
-    "id": "Drvivek34/Loop-Bazaar",
-    "language": "Python",
-    "name": "Drvivek34/Loop-Bazaar",
-    "stars": 0,
-    "updated_at": "2026-07-08T00:30:29Z",
-    "url": "https://github.com/Drvivek34/Loop-Bazaar"
-  },
-  {
-    "description": "A Codex CLI plugin that grades how you collaborate with Codex across 9 dimensions in 3 categories \u2014 your Codex model wri",
-    "id": "LeifDiao/codex-radar",
-    "language": "\u2014",
-    "name": "LeifDiao/codex-radar",
-    "stars": 11,
-    "updated_at": "2026-07-08T00:26:02Z",
-    "url": "https://github.com/LeifDiao/codex-radar"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
-    "id": "MartiniArt/awesome-seedance-2-prompt",
-    "language": "Shell",
-    "name": "MartiniArt/awesome-seedance-2-prompt",
-    "stars": 8,
-    "updated_at": "2026-07-08T00:24:53Z",
-    "url": "https://github.com/MartiniArt/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Free Claude Code & Cursor prompts for senior engineers \u2014 code review, debugging, refactoring, system design, CLAUDE.m",
-    "id": "sublimecoder/sublimecoding",
-    "language": "\u2014",
-    "name": "sublimecoder/sublimecoding",
-    "stars": 0,
-    "updated_at": "2026-07-08T00:22:13Z",
-    "url": "https://github.com/sublimecoder/sublimecoding"
   }
 ]
