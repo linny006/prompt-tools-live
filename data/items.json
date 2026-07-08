@@ -1,5 +1,104 @@
 [
   {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 25,
+    "updated_at": "2026-07-08T03:15:06Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Verdict-first output for AI coding agents. Tiny prompt + installer for Claude Code, Codex, Gemini, Cursor, opencode, and",
+    "id": "jqbit/TLDR",
+    "language": "JavaScript",
+    "name": "jqbit/TLDR",
+    "stars": 14,
+    "updated_at": "2026-07-08T03:13:31Z",
+    "url": "https://github.com/jqbit/TLDR"
+  },
+  {
+    "description": "\ud83e\udde0 Local-first LLM state branching & debugging. Capture, visualize, branch, and regression-test LLM calls as a DAG. Free ",
+    "id": "Medhovarsh/forkmind",
+    "language": "JavaScript",
+    "name": "Medhovarsh/forkmind",
+    "stars": 0,
+    "updated_at": "2026-07-08T03:13:00Z",
+    "url": "https://github.com/Medhovarsh/forkmind"
+  },
+  {
+    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
+    "id": "archubbuck/workspace-architect",
+    "language": "Python",
+    "name": "archubbuck/workspace-architect",
+    "stars": 16,
+    "updated_at": "2026-07-08T03:09:33Z",
+    "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "Your Professional AI Prompt Management Platform, create and optimize your AI prompts with our intelligent platform. Trac",
+    "id": "Promplify/promplify-web",
+    "language": "TypeScript",
+    "name": "Promplify/promplify-web",
+    "stars": 7,
+    "updated_at": "2026-07-08T03:04:15Z",
+    "url": "https://github.com/Promplify/promplify-web"
+  },
+  {
+    "description": "One workflow framework, every coding agent. Install your AI-coding discipline into Claude Code, Cursor, GitHub Copilot, ",
+    "id": "lee77840/omniconductor",
+    "language": "Shell",
+    "name": "lee77840/omniconductor",
+    "stars": 0,
+    "updated_at": "2026-07-08T03:02:05Z",
+    "url": "https://github.com/lee77840/omniconductor"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-08T03:01:13Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
+    "id": "T-Stephen/ai-mql-engine",
+    "language": "JavaScript",
+    "name": "T-Stephen/ai-mql-engine",
+    "stars": 0,
+    "updated_at": "2026-07-08T03:00:52Z",
+    "url": "https://github.com/T-Stephen/ai-mql-engine"
+  },
+  {
+    "description": "\ud83d\udc19 A curated set of Codex and OpenClaw skills for workflow automation, technical debugging, and agent-assisted developmen",
+    "id": "vincentkoc/dotskills",
+    "language": "JavaScript",
+    "name": "vincentkoc/dotskills",
+    "stars": 96,
+    "updated_at": "2026-07-08T03:00:30Z",
+    "url": "https://github.com/vincentkoc/dotskills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 4,
+    "updated_at": "2026-07-08T03:00:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-08T03:00:23Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
     "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI i",
     "id": "kadevin/ilab-gpt-conjure",
     "language": "JavaScript",
@@ -7,6 +106,15 @@
     "stars": 618,
     "updated_at": "2026-07-08T03:00:03Z",
     "url": "https://github.com/kadevin/ilab-gpt-conjure"
+  },
+  {
+    "description": "Audit-first Hebrew CI/OSINT assistant built around the principle: No source = no fact.",
+    "id": "Mais-M/sourcewise",
+    "language": "\u2014",
+    "name": "Mais-M/sourcewise",
+    "stars": 0,
+    "updated_at": "2026-07-08T02:59:02Z",
+    "url": "https://github.com/Mais-M/sourcewise"
   },
   {
     "description": "\ucd08\uae09\uc790\ub97c \uc704\ud55c AI Engineer 100\uc77c \ucee4\ub9ac\ud058\ub7fc \u2014 Python\ubd80\ud130 RAG\uae4c\uc9c0 + \ub9e4\uc77c AI \ub274\uc2a4 \uc790\ub3d9 \ud050\ub808\uc774\uc158",
@@ -32,17 +140,8 @@
     "language": "Shell",
     "name": "DYAI2025/Plumbline",
     "stars": 6,
-    "updated_at": "2026-07-08T02:57:32Z",
+    "updated_at": "2026-07-08T03:06:02Z",
     "url": "https://github.com/DYAI2025/Plumbline"
-  },
-  {
-    "description": "\ud83d\udc19 A curated set of Codex and OpenClaw skills for workflow automation, technical debugging, and agent-assisted developmen",
-    "id": "vincentkoc/dotskills",
-    "language": "JavaScript",
-    "name": "vincentkoc/dotskills",
-    "stars": 96,
-    "updated_at": "2026-07-08T02:57:14Z",
-    "url": "https://github.com/vincentkoc/dotskills"
   },
   {
     "description": "Spanish-language Claude enablement kit: curated official sources, a training plan, and ready CLAUDE.md / settings.json t",
@@ -144,15 +243,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 4,
-    "updated_at": "2026-07-08T02:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
     "id": "Atheerameer/agentic-cli-blueprint-library",
     "language": "HTML",
@@ -207,15 +297,6 @@
     "url": "https://github.com/X-RayLuan/awesome-ceo-stack"
   },
   {
-    "description": "\ud83e\udde0 Local-first LLM state branching & debugging. Capture, visualize, branch, and regression-test LLM calls as a DAG. Free ",
-    "id": "Medhovarsh/forkmind",
-    "language": "JavaScript",
-    "name": "Medhovarsh/forkmind",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:41:03Z",
-    "url": "https://github.com/Medhovarsh/forkmind"
-  },
-  {
     "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
     "id": "Norinatiring463/loop-engineering",
     "language": "Python",
@@ -256,7 +337,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 36298,
+    "stars": 36301,
     "updated_at": "2026-07-08T02:36:23Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T02:33:46Z",
     "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "id": "dongshuyan/compass-skills",
-    "language": "Python",
-    "name": "dongshuyan/compass-skills",
-    "stars": 534,
-    "updated_at": "2026-07-08T02:32:51Z",
-    "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 2,
-    "updated_at": "2026-07-08T02:32:45Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-08T02:31:56Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "\ud83c\udf9e\ufe0f The ultimate Seedance-2 video prompt dataset (12GB+). 2000+ video generation prompts with full metadata and preview f",
-    "id": "Goku-OpenLab/seedance-2-prompts-datasets",
-    "language": "Python",
-    "name": "Goku-OpenLab/seedance-2-prompts-datasets",
-    "stars": 2,
-    "updated_at": "2026-07-08T02:31:52Z",
-    "url": "https://github.com/Goku-OpenLab/seedance-2-prompts-datasets"
-  },
-  {
-    "description": "hermeneutic is an evidence-first drift gate for AI agents. It mines corrections from your AI chat logs (prior response, ",
-    "id": "hermes-labs-ai/hermeneutic",
-    "language": "Python",
-    "name": "hermes-labs-ai/hermeneutic",
-    "stars": 2,
-    "updated_at": "2026-07-08T02:31:38Z",
-    "url": "https://github.com/hermes-labs-ai/hermeneutic"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-07-08T02:31:22Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:30:59Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:30:45Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-07-08T02:30:29Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
   }
 ]
