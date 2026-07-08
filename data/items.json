@@ -1,5 +1,104 @@
 [
   {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
+    "language": "JavaScript",
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 2234,
+    "updated_at": "2026-07-08T19:59:54Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "ContextHeadroom by Sharad Khare - AI context optimization and headroom analysis for better LLM prompt performance",
+    "id": "sharadkhare/contextheadroom",
+    "language": "Python",
+    "name": "sharadkhare/contextheadroom",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:58:45Z",
+    "url": "https://github.com/sharadkhare/contextheadroom"
+  },
+  {
+    "description": "TokenLens by Sharad Khare - AI token optimization, prompt compression, and context efficiency analytics toolkit",
+    "id": "sharadkhare/tokenlens",
+    "language": "Python",
+    "name": "sharadkhare/tokenlens",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:58:43Z",
+    "url": "https://github.com/sharadkhare/tokenlens"
+  },
+  {
+    "description": "Creative intelligence MCP \u2014 score your prompt before you spend the credit",
+    "id": "Lulu-The-Narwhal/dali-mcp",
+    "language": "Python",
+    "name": "Lulu-The-Narwhal/dali-mcp",
+    "stars": 5,
+    "updated_at": "2026-07-08T19:58:18Z",
+    "url": "https://github.com/Lulu-The-Narwhal/dali-mcp"
+  },
+  {
+    "description": "A hands-on Generative AI learning environment featuring practical experiments and projects for building AI-powered appli",
+    "id": "soumadip-dev/GenAI-Playground",
+    "language": "Python",
+    "name": "soumadip-dev/GenAI-Playground",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:57:50Z",
+    "url": "https://github.com/soumadip-dev/GenAI-Playground"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:57:39Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:55:39Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
+    "id": "areliw/mt-score-up-skill",
+    "language": "Python",
+    "name": "areliw/mt-score-up-skill",
+    "stars": 1,
+    "updated_at": "2026-07-08T19:54:44Z",
+    "url": "https://github.com/areliw/mt-score-up-skill"
+  },
+  {
+    "description": "\ud83c\udf0a Security-Driven Hardening: Blue Spec is a defensive workflow to help AI agents detect what your system actually does a",
+    "id": "wellwelwel/blue-spec",
+    "language": "TypeScript",
+    "name": "wellwelwel/blue-spec",
+    "stars": 69,
+    "updated_at": "2026-07-08T19:54:41Z",
+    "url": "https://github.com/wellwelwel/blue-spec"
+  },
+  {
+    "description": "Metodologia Protocolo Hidra Automa\u00e7\u00e3o de Prospec\u00e7\u00e3o B2B com IA e Anti-Bloqueio. Gera\u00e7\u00e3o de Leads Ecossistema de 50 Skill",
+    "id": "paulo-leads/protocolo-hidra",
+    "language": "JavaScript",
+    "name": "paulo-leads/protocolo-hidra",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:53:37Z",
+    "url": "https://github.com/paulo-leads/protocolo-hidra"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-08T19:52:00Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
     "id": "jeb-maker/lagent-quotidien",
     "language": "HTML",
@@ -43,24 +142,6 @@
     "stars": 4,
     "updated_at": "2026-07-08T19:46:07Z",
     "url": "https://github.com/05satyam/instruct_vault"
-  },
-  {
-    "description": "Metodologia Protocolo Hidra Automa\u00e7\u00e3o de Prospec\u00e7\u00e3o B2B com IA e Anti-Bloqueio. Gera\u00e7\u00e3o de Leads Ecossistema de 50 Skill",
-    "id": "paulo-leads/protocolo-hidra",
-    "language": "JavaScript",
-    "name": "paulo-leads/protocolo-hidra",
-    "stars": 0,
-    "updated_at": "2026-07-08T19:45:43Z",
-    "url": "https://github.com/paulo-leads/protocolo-hidra"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-08T19:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
@@ -126,15 +207,6 @@
     "url": "https://github.com/christopherlouet/claude-base"
   },
   {
-    "description": "A hands-on Generative AI learning environment featuring practical experiments and projects for building AI-powered appli",
-    "id": "soumadip-dev/GenAI-Playground",
-    "language": "Python",
-    "name": "soumadip-dev/GenAI-Playground",
-    "stars": 0,
-    "updated_at": "2026-07-08T19:40:12Z",
-    "url": "https://github.com/soumadip-dev/GenAI-Playground"
-  },
-  {
     "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
     "id": "heavenaruba/codified-prompt-rule-engine",
     "language": "HTML",
@@ -153,15 +225,6 @@
     "url": "https://github.com/use-crux/crux"
   },
   {
-    "description": "Portable 'judgment skills' for Thai medical technologists \u2014 paste one markdown file into your AI chat (Claude/ChatGPT/Ge",
-    "id": "areliw/mt-score-up-skill",
-    "language": "Python",
-    "name": "areliw/mt-score-up-skill",
-    "stars": 1,
-    "updated_at": "2026-07-08T19:37:26Z",
-    "url": "https://github.com/areliw/mt-score-up-skill"
-  },
-  {
     "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
     "id": "gaofeng21cn/redcube-ai",
     "language": "TypeScript",
@@ -178,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T19:37:32Z",
     "url": "https://github.com/SWEStash/swe-workflow-skills"
-  },
-  {
-    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
-    "id": "conorbronsdon/avoid-ai-writing",
-    "language": "JavaScript",
-    "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 2234,
-    "updated_at": "2026-07-08T19:36:12Z",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
   },
   {
     "description": "Chrome extension that queues prompts for ChatGPT and auto-sends the next one when the current reply finishes. Auto theme",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T19:24:15Z",
     "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-07-08T19:24:11Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-07-08T19:24:04Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-07-08T19:24:00Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 3,
-    "updated_at": "2026-07-08T19:23:23Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-07-08T19:23:16Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-07-08T19:23:12Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
   }
 ]
