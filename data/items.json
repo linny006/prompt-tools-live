@@ -1,5 +1,32 @@
 [
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 57878,
+    "updated_at": "2026-07-08T22:49:21Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Metodologia Protocolo Hidra Automa\u00e7\u00e3o de Prospec\u00e7\u00e3o B2B com IA e Anti-Bloqueio. Gera\u00e7\u00e3o de Leads Ecossistema de 50 Skill",
+    "id": "paulo-leads/protocolo-hidra",
+    "language": "Python",
+    "name": "paulo-leads/protocolo-hidra",
+    "stars": 0,
+    "updated_at": "2026-07-08T22:48:03Z",
+    "url": "https://github.com/paulo-leads/protocolo-hidra"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-08T22:45:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A comprehensive SWE workflow, encoded. Might be useful to you too.",
     "id": "SWEStash/swe-workflow-skills",
     "language": "JavaScript",
@@ -16,15 +43,6 @@
     "stars": 152,
     "updated_at": "2026-07-08T22:45:08Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Metodologia Protocolo Hidra Automa\u00e7\u00e3o de Prospec\u00e7\u00e3o B2B com IA e Anti-Bloqueio. Gera\u00e7\u00e3o de Leads Ecossistema de 50 Skill",
-    "id": "paulo-leads/protocolo-hidra",
-    "language": "Python",
-    "name": "paulo-leads/protocolo-hidra",
-    "stars": 0,
-    "updated_at": "2026-07-08T22:44:41Z",
-    "url": "https://github.com/paulo-leads/protocolo-hidra"
   },
   {
     "description": "Reproducible LLM context benchmark dashboard with plugin datasets, async runs, statistical analysis, and exportable repo",
@@ -77,7 +95,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-08T22:40:09Z",
+    "updated_at": "2026-07-08T22:46:33Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T22:36:21Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 57878,
-    "updated_at": "2026-07-08T22:36:12Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Automate project security hardening by using AI agents to analyze codebase behavior and identify necessary security impr",
@@ -277,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T22:30:40Z",
     "url": "https://github.com/Paulessus/odin-gemini-mcp-bridge"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 3,
-    "updated_at": "2026-07-08T22:30:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
