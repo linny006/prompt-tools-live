@@ -1,12 +1,48 @@
 [
   {
+    "description": "\u8d34\u5165\u5c97\u4f4d\u63cf\u8ff0(Job Description),\u57fa\u4e8e\u771f\u5b9e\u7b80\u5386\u7d20\u6750\u751f\u6210\u6c42\u804c\u6253\u62db\u547c\u8bed\u4e0e\u81ea\u6211\u4ecb\u7ecd | Flask + LLM | \u53ea\u6311\u4e0d\u7f16",
+    "id": "Liyaxuxu/icebreaker-hr",
+    "language": "HTML",
+    "name": "Liyaxuxu/icebreaker-hr",
+    "stars": 0,
+    "updated_at": "2026-07-08T04:29:37Z",
+    "url": "https://github.com/Liyaxuxu/icebreaker-hr"
+  },
+  {
+    "description": "Token-efficient serialization for LLM context \u2014 Maya-inspired, benchmark-validated. ~60% fewer tokens than JSON with equ",
+    "id": "hmenchaca2/Vigesimal",
+    "language": "Python",
+    "name": "hmenchaca2/Vigesimal",
+    "stars": 0,
+    "updated_at": "2026-07-08T04:29:29Z",
+    "url": "https://github.com/hmenchaca2/Vigesimal"
+  },
+  {
+    "description": "\ud83d\udd0d Run efficient evaluations for prompt and LLM regression testing with this lightweight, secret-free evaluation harness.",
+    "id": "aaddii09/llm-eval-harness",
+    "language": "Python",
+    "name": "aaddii09/llm-eval-harness",
+    "stars": 1,
+    "updated_at": "2026-07-08T04:28:26Z",
+    "url": "https://github.com/aaddii09/llm-eval-harness"
+  },
+  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 57608,
-    "updated_at": "2026-07-08T04:27:56Z",
+    "updated_at": "2026-07-08T04:28:24Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 4,
+    "updated_at": "2026-07-08T04:28:12Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Code and Codex skills for LinkedIn growth: write human-sounding posts, craft comments that get noticed, analyze y",
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 786,
-    "updated_at": "2026-07-08T04:23:39Z",
+    "updated_at": "2026-07-08T04:30:07Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -81,21 +117,12 @@
     "url": "https://github.com/Comnaemman/Master-Guide-to-Nano-Banana-Pro-Prompts"
   },
   {
-    "description": "Token-efficient serialization for LLM context \u2014 Maya-inspired, benchmark-validated. ~60% fewer tokens than JSON with equ",
-    "id": "hmenchaca2/Vigesimal",
-    "language": "Python",
-    "name": "hmenchaca2/Vigesimal",
-    "stars": 0,
-    "updated_at": "2026-07-08T04:23:02Z",
-    "url": "https://github.com/hmenchaca2/Vigesimal"
-  },
-  {
     "description": "Multi-task AI app \u2014 Summarize, Translate, Explain, Email, Rewrite using OpenAI & Google Gemini model",
     "id": "Abhishek-369V/Universal_AI_Utility_App",
     "language": "Python",
     "name": "Abhishek-369V/Universal_AI_Utility_App",
     "stars": 1,
-    "updated_at": "2026-07-08T04:22:45Z",
+    "updated_at": "2026-07-08T04:28:42Z",
     "url": "https://github.com/Abhishek-369V/Universal_AI_Utility_App"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T04:16:00Z",
     "url": "https://github.com/Hemang648/Gen-AI_Powered_email_suggested-response_system"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 4,
-    "updated_at": "2026-07-08T04:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83e\uddea Evaluate uncensored LLMs for offensive security with targeted questions and clear criteria to ensure effectiveness in ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T04:04:17Z",
     "url": "https://github.com/Monsterw31/prom-playground"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Discover and explore a collection of system prompts and messages, contributing to better understanding and developmen",
-    "id": "reis428/system_prompts_leaks",
-    "language": "JavaScript",
-    "name": "reis428/system_prompts_leaks",
-    "stars": 9,
-    "updated_at": "2026-07-08T04:03:45Z",
-    "url": "https://github.com/reis428/system_prompts_leaks"
-  },
-  {
-    "description": "\ud83d\udd0d Optimize recruitment processes using AI and data analysis to reduce bias and enhance decision-making accuracy.",
-    "id": "mtsalhudarowokele/PrismIA",
-    "language": "\u2014",
-    "name": "mtsalhudarowokele/PrismIA",
-    "stars": 4,
-    "updated_at": "2026-07-08T04:03:31Z",
-    "url": "https://github.com/mtsalhudarowokele/PrismIA"
   }
 ]
