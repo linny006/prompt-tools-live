@@ -1,5 +1,41 @@
 [
   {
+    "description": "A custom AI agent that gives real-time weather-based outfit advice, built with a self-hosted vLLM model. Features persis",
+    "id": "Zahid-Abbas-Ali-Baig/weather_Agent",
+    "language": "Python",
+    "name": "Zahid-Abbas-Ali-Baig/weather_Agent",
+    "stars": 0,
+    "updated_at": "2026-07-09T11:47:17Z",
+    "url": "https://github.com/Zahid-Abbas-Ali-Baig/weather_Agent"
+  },
+  {
+    "description": "German AI Text Humanizer / deutscher Humanizer Skill for Claude Code and Codex: audits German AI-writing patterns with 6",
+    "id": "marmbiz/humanizer-de",
+    "language": "Python",
+    "name": "marmbiz/humanizer-de",
+    "stars": 54,
+    "updated_at": "2026-07-09T11:46:33Z",
+    "url": "https://github.com/marmbiz/humanizer-de"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30786,
+    "updated_at": "2026-07-09T11:47:37Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-09T11:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T11:42:38Z",
     "url": "https://github.com/impliedtrustwencher377/blue-spec"
-  },
-  {
-    "description": "German AI Text Humanizer / deutscher Humanizer Skill for Claude Code and Codex: audits German AI-writing patterns with 6",
-    "id": "marmbiz/humanizer-de",
-    "language": "Python",
-    "name": "marmbiz/humanizer-de",
-    "stars": 54,
-    "updated_at": "2026-07-09T11:42:24Z",
-    "url": "https://github.com/marmbiz/humanizer-de"
   },
   {
     "description": "Deterministic shared glossary and terminology drift detection for AI coding agents.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-09T11:33:28Z",
     "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4878,
-    "updated_at": "2026-07-09T11:33:26Z",
-    "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-07-09T11:33:04Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-07-09T11:33:03Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
   }
 ]
