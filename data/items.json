@@ -1,5 +1,158 @@
 [
   {
+    "description": "Curated collection of Claude system prompts, multi-model prompts, prompt engineering patterns, and Python tools for prom",
+    "id": "FreeAutomation-Tech/claude-prompt-kit",
+    "language": "Python",
+    "name": "FreeAutomation-Tech/claude-prompt-kit",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:30:03Z",
+    "url": "https://github.com/FreeAutomation-Tech/claude-prompt-kit"
+  },
+  {
+    "description": "Context Engineering library for LLM pipelines. Compression, token budgeting, context modes, and provider-agnostic execut",
+    "id": "studentleaner/ContextFlow",
+    "language": "Python",
+    "name": "studentleaner/ContextFlow",
+    "stars": 4,
+    "updated_at": "2026-07-09T09:29:51Z",
+    "url": "https://github.com/studentleaner/ContextFlow"
+  },
+  {
+    "description": "Universal schema-based runtime for prompts, skills, and AI composition. Framework-independent, portable, and enterprise-",
+    "id": "studentleaner/Axiom",
+    "language": "Python",
+    "name": "studentleaner/Axiom",
+    "stars": 3,
+    "updated_at": "2026-07-09T09:29:16Z",
+    "url": "https://github.com/studentleaner/Axiom"
+  },
+  {
+    "description": "Lightweight Claude Code skills for daily AI-assisted development workflows.",
+    "id": "Chrike/coding-agent-skills",
+    "language": "\u2014",
+    "name": "Chrike/coding-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:27:36Z",
+    "url": "https://github.com/Chrike/coding-agent-skills"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20453,
+    "updated_at": "2026-07-09T09:29:10Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Local context engine for AI coding agents. Routes tasks to relevant files, tests, rules, and skills, supports prompt cac",
+    "id": "vishal2612200/agentpack",
+    "language": "Python",
+    "name": "vishal2612200/agentpack",
+    "stars": 21,
+    "updated_at": "2026-07-09T09:29:51Z",
+    "url": "https://github.com/vishal2612200/agentpack"
+  },
+  {
+    "description": "Curated engineering skill catalog with mirror parity, governance, and validation automation (Hermes as integration examp",
+    "id": "Mr-Wolv/Skill_Playground_Bakr101_2026",
+    "language": "Python",
+    "name": "Mr-Wolv/Skill_Playground_Bakr101_2026",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:23:31Z",
+    "url": "https://github.com/Mr-Wolv/Skill_Playground_Bakr101_2026"
+  },
+  {
+    "description": "Proof-oriented registry of reusable AI-agent operating loops",
+    "id": "mrsarac/awesome-agentic-loops",
+    "language": "Python",
+    "name": "mrsarac/awesome-agentic-loops",
+    "stars": 3,
+    "updated_at": "2026-07-09T09:20:52Z",
+    "url": "https://github.com/mrsarac/awesome-agentic-loops"
+  },
+  {
+    "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
+    "id": "Norinatiring463/loop-engineering",
+    "language": "Python",
+    "name": "Norinatiring463/loop-engineering",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:19:29Z",
+    "url": "https://github.com/Norinatiring463/loop-engineering"
+  },
+  {
+    "description": "\ud83c\udfa8 AI Image Prompt Generator with 5000+ prompts in 18 languages. Create perfect prompts fin your native language. \u6781\u7b80\u7684\u56fe\u50cf\u63d0\u793a",
+    "id": "rockbenben/img-prompt",
+    "language": "TypeScript",
+    "name": "rockbenben/img-prompt",
+    "stars": 335,
+    "updated_at": "2026-07-09T09:26:40Z",
+    "url": "https://github.com/rockbenben/img-prompt"
+  },
+  {
+    "description": "Automate project security hardening by using AI agents to analyze codebase behavior and identify necessary security impr",
+    "id": "impliedtrustwencher377/blue-spec",
+    "language": "TypeScript",
+    "name": "impliedtrustwencher377/blue-spec",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:17:09Z",
+    "url": "https://github.com/impliedtrustwencher377/blue-spec"
+  },
+  {
+    "description": "A practical collection of agentic practices and workflows, including reusable skills, commands, reference notes, and bas",
+    "id": "AgenticPW/AgenticPW",
+    "language": "\u2014",
+    "name": "AgenticPW/AgenticPW",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:16:08Z",
+    "url": "https://github.com/AgenticPW/AgenticPW"
+  },
+  {
+    "description": "One desktop window for ChatGPT, Claude, Gemini, Grok, Perplexity, Qwen, DeepSeek and Z.ai. Fast, private, fully local. B",
+    "id": "Michel-IT/Kotodama",
+    "language": "Rust",
+    "name": "Michel-IT/Kotodama",
+    "stars": 3,
+    "updated_at": "2026-07-09T09:15:56Z",
+    "url": "https://github.com/Michel-IT/Kotodama"
+  },
+  {
+    "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
+    "id": "keilschismatic799/fable-jailbreak",
+    "language": "\u2014",
+    "name": "keilschismatic799/fable-jailbreak",
+    "stars": 0,
+    "updated_at": "2026-07-09T09:15:40Z",
+    "url": "https://github.com/keilschismatic799/fable-jailbreak"
+  },
+  {
+    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
+    "id": "aesirsennamarilandica604/image-to-prompt",
+    "language": "JavaScript",
+    "name": "aesirsennamarilandica604/image-to-prompt",
+    "stars": 1,
+    "updated_at": "2026-07-09T09:15:31Z",
+    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 3,
+    "updated_at": "2026-07-09T09:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30780,
+    "updated_at": "2026-07-09T09:28:05Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
     "id": "micrometeoric-eye978/academic-research-skills",
     "language": "\u2014",
@@ -88,6 +241,15 @@
     "stars": 1,
     "updated_at": "2026-07-09T09:13:16Z",
     "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 26940,
+    "updated_at": "2026-07-09T09:13:12Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
@@ -286,167 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-09T09:07:29Z",
     "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30779,
-    "updated_at": "2026-07-09T09:15:07Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:06:56Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "A small library of Claude skills, built for real analytical work and validated before publishing.",
-    "id": "viktor-milev/claude-skills",
-    "language": "HTML",
-    "name": "viktor-milev/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:06:35Z",
-    "url": "https://github.com/viktor-milev/claude-skills"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:06:25Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:06:12Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 3,
-    "updated_at": "2026-07-09T09:05:59Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 1,
-    "updated_at": "2026-07-09T09:05:36Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Optimize development performance by stripping away unnecessary abstractions and focusing on raw code execution.",
-    "id": "Ricarddefensive803/caveman-skill",
-    "language": "\u2014",
-    "name": "Ricarddefensive803/caveman-skill",
-    "stars": 1,
-    "updated_at": "2026-07-09T09:05:29Z",
-    "url": "https://github.com/Ricarddefensive803/caveman-skill"
-  },
-  {
-    "description": "A custom AI agent that gives real-time weather-based outfit advice, built with a self-hosted vLLM model. Features persis",
-    "id": "Zahid-Abbas-Ali-Baig/weather_Agent",
-    "language": "Python",
-    "name": "Zahid-Abbas-Ali-Baig/weather_Agent",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:05:27Z",
-    "url": "https://github.com/Zahid-Abbas-Ali-Baig/weather_Agent"
-  },
-  {
-    "description": "Organize AI conversations into clean, structured threads to refine context and improve model output quality.",
-    "id": "Robertmyerkesextremist950/metaprompt",
-    "language": "HTML",
-    "name": "Robertmyerkesextremist950/metaprompt",
-    "stars": 1,
-    "updated_at": "2026-07-09T09:05:20Z",
-    "url": "https://github.com/Robertmyerkesextremist950/metaprompt"
-  },
-  {
-    "description": "Archive 126+ iterative Suno AI music prompts with structural metatags, style descriptions, and engineering notes for imp",
-    "id": "Defectlameness737/suno-lab",
-    "language": "\u2014",
-    "name": "Defectlameness737/suno-lab",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:05:18Z",
-    "url": "https://github.com/Defectlameness737/suno-lab"
-  },
-  {
-    "description": "Reduce AI token usage by 65 percent. This Claude Code skill trims filler and pleasantries while keeping technical conten",
-    "id": "salvageable-mutualfund57/caveman-distillate",
-    "language": "\u2014",
-    "name": "salvageable-mutualfund57/caveman-distillate",
-    "stars": 1,
-    "updated_at": "2026-07-09T09:05:14Z",
-    "url": "https://github.com/salvageable-mutualfund57/caveman-distillate"
-  },
-  {
-    "description": "Test security vulnerabilities in Gemini, Claude, and DeepSeek models using specialized prompt injections.",
-    "id": "pezizalescricketer968/ChatGPT-Jailbreak",
-    "language": "\u2014",
-    "name": "pezizalescricketer968/ChatGPT-Jailbreak",
-    "stars": 4,
-    "updated_at": "2026-07-09T09:05:01Z",
-    "url": "https://github.com/pezizalescricketer968/ChatGPT-Jailbreak"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-07-09T09:04:59Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
-  },
-  {
-    "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
-    "id": "LucioLiu/nuwa",
-    "language": "\u2014",
-    "name": "LucioLiu/nuwa",
-    "stars": 1,
-    "updated_at": "2026-07-09T09:04:57Z",
-    "url": "https://github.com/LucioLiu/nuwa"
-  },
-  {
-    "description": "",
-    "id": "celestynallmains51/claude-nexus",
-    "language": "\u2014",
-    "name": "celestynallmains51/claude-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:04:52Z",
-    "url": "https://github.com/celestynallmains51/claude-nexus"
-  },
-  {
-    "description": "Orchestrate multi-agent OpenClaw workflows for code review, security checks, architecture feedback, prompt tuning, and A",
-    "id": "edwininspiring666/agencyteam-openclaw",
-    "language": "\u2014",
-    "name": "edwininspiring666/agencyteam-openclaw",
-    "stars": 0,
-    "updated_at": "2026-07-09T09:04:51Z",
-    "url": "https://github.com/edwininspiring666/agencyteam-openclaw"
-  },
-  {
-    "description": "Build 20 n8n AI prompts with model tips, cost estimates, and ready-to-use workflow guidance",
-    "id": "Michl4119/n8n-prompt-library",
-    "language": "\u2014",
-    "name": "Michl4119/n8n-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-09T09:04:43Z",
-    "url": "https://github.com/Michl4119/n8n-prompt-library"
   }
 ]
