@@ -1,12 +1,111 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
+    "id": "ralphmoran/ticket-lens",
+    "language": "JavaScript",
+    "name": "ralphmoran/ticket-lens",
+    "stars": 1,
+    "updated_at": "2026-07-09T20:28:29Z",
+    "url": "https://github.com/ralphmoran/ticket-lens"
+  },
+  {
+    "description": "A mobile-first AI game that turns visible photo traits into playful public style/vibe matches using a privacy-safe Gemin",
+    "id": "ihabkhaled/TwinzyAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/TwinzyAI",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:28:25Z",
+    "url": "https://github.com/ihabkhaled/TwinzyAI"
+  },
+  {
+    "description": "Curated engineering skill catalog with mirror parity, governance, and validation automation (Hermes as integration examp",
+    "id": "Mr-Wolv/Skill_Playground_Bakr101_2026",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10479,
-    "updated_at": "2026-07-09T20:14:40Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "Mr-Wolv/Skill_Playground_Bakr101_2026",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:28:10Z",
+    "url": "https://github.com/Mr-Wolv/Skill_Playground_Bakr101_2026"
+  },
+  {
+    "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
+    "id": "Tymooh/GPT-DUEL-ARENA",
+    "language": "\u2014",
+    "name": "Tymooh/GPT-DUEL-ARENA",
+    "stars": 1,
+    "updated_at": "2026-07-09T20:27:59Z",
+    "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:26:56Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Prompt AI with XML to project [ALPHA]",
+    "id": "two-tech-dev/pxml",
+    "language": "TypeScript",
+    "name": "two-tech-dev/pxml",
+    "stars": 2,
+    "updated_at": "2026-07-09T20:26:45Z",
+    "url": "https://github.com/two-tech-dev/pxml"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:26:21Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:25:18Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-09T20:23:24Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:22:28Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Field-tested local AI stack optimizations for HermesAgent, LM Studio, and Qwen 3.6 models \u2014 including the Caduceus v1.6 ",
+    "id": "Stacey2911/hermes-local-ai-stack",
+    "language": "Jinja",
+    "name": "Stacey2911/hermes-local-ai-stack",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:21:05Z",
+    "url": "https://github.com/Stacey2911/hermes-local-ai-stack"
+  },
+  {
+    "description": "Voice-first conversational AI demo with layered prompts, safety guardrails, MCP tool-calling, and a from-scratch eval fr",
+    "id": "ying2sun/ai-companion-chatbot-demo",
+    "language": "Python",
+    "name": "ying2sun/ai-companion-chatbot-demo",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:20:40Z",
+    "url": "https://github.com/ying2sun/ai-companion-chatbot-demo"
   },
   {
     "description": "Memory for AI agents that learns from failures \u2014 lessons, known-issues injection, per-model trust. Embedded, file-based,",
@@ -14,8 +113,44 @@
     "language": "Python",
     "name": "Ma4etaSS/errlore",
     "stars": 0,
-    "updated_at": "2026-07-09T20:14:15Z",
+    "updated_at": "2026-07-09T20:19:37Z",
     "url": "https://github.com/Ma4etaSS/errlore"
+  },
+  {
+    "description": "MCP server + skill pack for Claude Code, Codex CLI, Cursor, Cline, and Windsurf: scopes vague requests into a reviewable",
+    "id": "Vovy-AI/vovy-cli",
+    "language": "TypeScript",
+    "name": "Vovy-AI/vovy-cli",
+    "stars": 0,
+    "updated_at": "2026-07-09T20:19:33Z",
+    "url": "https://github.com/Vovy-AI/vovy-cli"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30818,
+    "updated_at": "2026-07-09T20:16:41Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 4,
+    "updated_at": "2026-07-09T20:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10479,
+    "updated_at": "2026-07-09T20:24:19Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -34,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T20:13:14Z",
     "url": "https://github.com/Coding-Autopilot-System/Promptimprover"
-  },
-  {
-    "description": "Prompt AI with XML to project [ALPHA]",
-    "id": "two-tech-dev/pxml",
-    "language": "TypeScript",
-    "name": "two-tech-dev/pxml",
-    "stars": 2,
-    "updated_at": "2026-07-09T20:13:12Z",
-    "url": "https://github.com/two-tech-dev/pxml"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -167,7 +293,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 3156,
-    "updated_at": "2026-07-09T20:03:16Z",
+    "updated_at": "2026-07-09T20:18:03Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -234,15 +360,6 @@
     "url": "https://github.com/tito1405/cueCLI"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 4,
-    "updated_at": "2026-07-09T20:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -306,15 +423,6 @@
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
-    "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
-    "id": "Tymooh/GPT-DUEL-ARENA",
-    "language": "\u2014",
-    "name": "Tymooh/GPT-DUEL-ARENA",
-    "stars": 1,
-    "updated_at": "2026-07-09T19:55:10Z",
-    "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
-  },
-  {
     "description": "Designing and building scalable AI systems - from deep neural networks to production-ready LLM applications.",
     "id": "douglasmitsue/ai-systems-engineering-portfolio",
     "language": "\u2014",
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-09T19:53:34Z",
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 1,
-    "updated_at": "2026-07-09T19:51:29Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-07-09T19:51:11Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Offline TikTok API docs mirror with AI agent skill (SKILL.md) for Claude Code, MCP agents & LLM-powered dev tools. Cover",
-    "id": "rioanandaputra-bot/tiktok-docs",
-    "language": "Python",
-    "name": "rioanandaputra-bot/tiktok-docs",
-    "stars": 1,
-    "updated_at": "2026-07-09T19:50:51Z",
-    "url": "https://github.com/rioanandaputra-bot/tiktok-docs"
-  },
-  {
-    "description": "Stop Building the Wrong Thing. Turn ideas into structured, agent-ready PRDs that AI coding tools can actually execute.",
-    "id": "solune-lab/prd-master",
-    "language": "TypeScript",
-    "name": "solune-lab/prd-master",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:50:18Z",
-    "url": "https://github.com/solune-lab/prd-master"
-  },
-  {
-    "description": "A portable, field-parameterized genius-builder brain for AI coding assistants (Claude Code, Codex, Cursor, Copilot). Lea",
-    "id": "mehrad-dm/mastermind",
-    "language": "Shell",
-    "name": "mehrad-dm/mastermind",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:47:58Z",
-    "url": "https://github.com/mehrad-dm/mastermind"
-  },
-  {
-    "description": "A mobile-first AI game that turns visible photo traits into playful public style/vibe matches using a privacy-safe Gemin",
-    "id": "ihabkhaled/TwinzyAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/TwinzyAI",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:47:33Z",
-    "url": "https://github.com/ihabkhaled/TwinzyAI"
-  },
-  {
-    "description": "\u270d\ufe0f AI autocomplete for natural language and code, plus one-click commit messages \u2014 powered by Claude Code",
-    "id": "trentmcnitt/bespoke-ai-vscode-ext",
-    "language": "TypeScript",
-    "name": "trentmcnitt/bespoke-ai-vscode-ext",
-    "stars": 11,
-    "updated_at": "2026-07-09T19:46:09Z",
-    "url": "https://github.com/trentmcnitt/bespoke-ai-vscode-ext"
-  },
-  {
-    "description": "claude code skill for fable 5 level engineering discipline (anthropic, claude)",
-    "id": "notsegun/not-fable-5",
-    "language": "\u2014",
-    "name": "notsegun/not-fable-5",
-    "stars": 3,
-    "updated_at": "2026-07-09T19:44:30Z",
-    "url": "https://github.com/notsegun/not-fable-5"
-  },
-  {
-    "description": "MCP server + skill pack for Claude Code, Codex CLI, Cursor, Cline, and Windsurf: scopes vague requests into a reviewable",
-    "id": "Vovy-AI/vovy-cli",
-    "language": "TypeScript",
-    "name": "Vovy-AI/vovy-cli",
-    "stars": 0,
-    "updated_at": "2026-07-09T20:05:54Z",
-    "url": "https://github.com/Vovy-AI/vovy-cli"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:39:27Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\uae38\uac8c \uc4f0\uc9c0 \ub9d0\uace0, \ub05d\uae4c\uc9c0 \uc2e4\ud589\ub418\uac8c. \uac70\uce5c \uc694\uccad\uc744 \uacb0\uacfc\u00b7\uac80\uc99d\uae4c\uc9c0 \ub2eb\ud78c \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8\ub85c \ubc14\uafb8\ub294 \uc2a4\ud0ac.",
-    "id": "HeiTuz/master-prompt-writer",
-    "language": "JavaScript",
-    "name": "HeiTuz/master-prompt-writer",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:39:25Z",
-    "url": "https://github.com/HeiTuz/master-prompt-writer"
-  },
-  {
-    "description": "Extract structured thinking profiles from public figures to evaluate your real-world decisions using any AI model.",
-    "id": "tacticalwarningsubscriptionwarrant526/borrowed-brain-pro",
-    "language": "\u2014",
-    "name": "tacticalwarningsubscriptionwarrant526/borrowed-brain-pro",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:36:25Z",
-    "url": "https://github.com/tacticalwarningsubscriptionwarrant526/borrowed-brain-pro"
   }
 ]
