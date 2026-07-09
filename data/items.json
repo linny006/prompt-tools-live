@@ -1,12 +1,57 @@
 [
   {
-    "description": "Multi-Agent AI Control Tower for Enterprise Supply Chain Crisis Intelligence",
-    "id": "sharanlabs/supply-chain-ai-resilix",
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
     "language": "TypeScript",
-    "name": "sharanlabs/supply-chain-ai-resilix",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 50,
+    "updated_at": "2026-07-09T17:45:07Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "Ecossistema de tutoria via IA que busca e estrutura provas da web. Integra Cloudflare Workers, GitHub Actions, OpenHands",
+    "id": "TouchRefletz/maia.edu",
+    "language": "JavaScript",
+    "name": "TouchRefletz/maia.edu",
     "stars": 0,
-    "updated_at": "2026-07-09T17:29:54Z",
-    "url": "https://github.com/sharanlabs/supply-chain-ai-resilix"
+    "updated_at": "2026-07-09T17:44:46Z",
+    "url": "https://github.com/TouchRefletz/maia.edu"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 58129,
+    "updated_at": "2026-07-09T17:44:36Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 21,
+    "updated_at": "2026-07-09T17:44:25Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Your AI coding agent starts every session knowing your repos, your clients, and how you work \u2014 a plain git repo of markd",
+    "id": "bks-lab/open-bridge",
+    "language": "Python",
+    "name": "bks-lab/open-bridge",
+    "stars": 6,
+    "updated_at": "2026-07-09T17:43:03Z",
+    "url": "https://github.com/bks-lab/open-bridge"
+  },
+  {
+    "description": "A comprehensive SWE workflow, encoded. Might be useful to you too.",
+    "id": "SWEStash/swe-workflow-skills",
+    "language": "JavaScript",
+    "name": "SWEStash/swe-workflow-skills",
+    "stars": 0,
+    "updated_at": "2026-07-09T17:40:31Z",
+    "url": "https://github.com/SWEStash/swe-workflow-skills"
   },
   {
     "description": "\ud83c\udfad Persona \u2014 role-based operating modes for Claude. Hire an expert, not a tool: each persona is a mindset, a method, a qu",
@@ -14,8 +59,116 @@
     "language": "Shell",
     "name": "palusc/dotpersona",
     "stars": 1,
-    "updated_at": "2026-07-09T17:27:29Z",
+    "updated_at": "2026-07-09T17:40:04Z",
     "url": "https://github.com/palusc/dotpersona"
+  },
+  {
+    "description": "Open-source prompt version control for AI teams. Git-style history, automated evals, one-click rollback for LLM prompts.",
+    "id": "PromptMatrix/promptmatrix.github.io",
+    "language": "JavaScript",
+    "name": "PromptMatrix/promptmatrix.github.io",
+    "stars": 1,
+    "updated_at": "2026-07-09T17:39:57Z",
+    "url": "https://github.com/PromptMatrix/promptmatrix.github.io"
+  },
+  {
+    "description": "Multi-platform AI assistant skills and workflows. Serious engineering. Also fun.",
+    "id": "axiomantic/spellbook",
+    "language": "Python",
+    "name": "axiomantic/spellbook",
+    "stars": 7,
+    "updated_at": "2026-07-09T17:36:31Z",
+    "url": "https://github.com/axiomantic/spellbook"
+  },
+  {
+    "description": "Claude plays Tekken 5 against you on PCSX2 \u2014 it counter-picks your character, writes a conditional game plan, and adapts",
+    "id": "teuzowebdeveloper9/play-with-claude",
+    "language": "Python",
+    "name": "teuzowebdeveloper9/play-with-claude",
+    "stars": 0,
+    "updated_at": "2026-07-09T17:35:46Z",
+    "url": "https://github.com/teuzowebdeveloper9/play-with-claude"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 2,
+    "updated_at": "2026-07-09T17:35:25Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "Reusable UI/UX design skills for AI coding agents \u2014 Codex, Claude Code, ZCode, and more.",
+    "id": "touchine-ojo/OJO-Design-Skills",
+    "language": "Shell",
+    "name": "touchine-ojo/OJO-Design-Skills",
+    "stars": 2,
+    "updated_at": "2026-07-09T17:34:27Z",
+    "url": "https://github.com/touchine-ojo/OJO-Design-Skills"
+  },
+  {
+    "description": "Prompt AI with XML to project [ALPHA]",
+    "id": "two-tech-dev/pxml",
+    "language": "TypeScript",
+    "name": "two-tech-dev/pxml",
+    "stars": 2,
+    "updated_at": "2026-07-09T17:32:59Z",
+    "url": "https://github.com/two-tech-dev/pxml"
+  },
+  {
+    "description": "",
+    "id": "05satyam/instruct_vault",
+    "language": "Python",
+    "name": "05satyam/instruct_vault",
+    "stars": 4,
+    "updated_at": "2026-07-09T17:31:58Z",
+    "url": "https://github.com/05satyam/instruct_vault"
+  },
+  {
+    "description": "Local-first toolkit for clean-room AI skill restructuring and Skill Card generation.",
+    "id": "wangshishuo999-max/skill-studio-lite",
+    "language": "Python",
+    "name": "wangshishuo999-max/skill-studio-lite",
+    "stars": 1,
+    "updated_at": "2026-07-09T17:31:58Z",
+    "url": "https://github.com/wangshishuo999-max/skill-studio-lite"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 4,
+    "updated_at": "2026-07-09T17:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-09T17:30:24Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-09T17:30:02Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "Multi-Agent AI Control Tower for Enterprise Supply Chain Crisis Intelligence",
+    "id": "sharanlabs/supply-chain-ai-resilix",
+    "language": "TypeScript",
+    "name": "sharanlabs/supply-chain-ai-resilix",
+    "stars": 0,
+    "updated_at": "2026-07-09T17:29:54Z",
+    "url": "https://github.com/sharanlabs/supply-chain-ai-resilix"
   },
   {
     "description": "Lightweight Claude Code skills for daily AI-assisted development workflows.",
@@ -59,17 +212,8 @@
     "language": "TypeScript",
     "name": "gaofeng21cn/redcube-ai",
     "stars": 2,
-    "updated_at": "2026-07-09T17:22:52Z",
+    "updated_at": "2026-07-09T17:45:03Z",
     "url": "https://github.com/gaofeng21cn/redcube-ai"
-  },
-  {
-    "description": "Local-first toolkit for clean-room AI skill restructuring and Skill Card generation.",
-    "id": "wangshishuo999-max/skill-studio-lite",
-    "language": "Python",
-    "name": "wangshishuo999-max/skill-studio-lite",
-    "stars": 1,
-    "updated_at": "2026-07-09T17:23:26Z",
-    "url": "https://github.com/wangshishuo999-max/skill-studio-lite"
   },
   {
     "description": "Highly deterministic LLM code generation via versioned prompt files (.svi). Turn AI outputs into a reproducible build st",
@@ -104,26 +248,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20496,
-    "updated_at": "2026-07-09T17:19:10Z",
+    "updated_at": "2026-07-09T17:43:40Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 2,
-    "updated_at": "2026-07-09T17:19:09Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
-  },
-  {
-    "description": "Prompt AI with XML to project [ALPHA]",
-    "id": "two-tech-dev/pxml",
-    "language": "TypeScript",
-    "name": "two-tech-dev/pxml",
-    "stars": 2,
-    "updated_at": "2026-07-09T17:17:45Z",
-    "url": "https://github.com/two-tech-dev/pxml"
   },
   {
     "description": "Qualitative Neural Networks as a deep-think paradigm  ",
@@ -160,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T17:16:07Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 4,
-    "updated_at": "2026-07-09T17:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T17:08:05Z",
     "url": "https://github.com/jennifer-shipley-ai/prompt-engineering-library-for-PMs"
-  },
-  {
-    "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
-    "id": "LucioLiu/nuwa",
-    "language": "\u2014",
-    "name": "LucioLiu/nuwa",
-    "stars": 1,
-    "updated_at": "2026-07-09T17:07:52Z",
-    "url": "https://github.com/LucioLiu/nuwa"
-  },
-  {
-    "description": "CCDD \u2014 Context Contract-Driven Development: metodolog\u00eda para agentes de IA confiables que trata el contexto del LLM como",
-    "id": "MauricioPerera/ccdd",
-    "language": "Python",
-    "name": "MauricioPerera/ccdd",
-    "stars": 0,
-    "updated_at": "2026-07-09T17:07:23Z",
-    "url": "https://github.com/MauricioPerera/ccdd"
-  },
-  {
-    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
-    "id": "jeb-maker/lagent-quotidien",
-    "language": "HTML",
-    "name": "jeb-maker/lagent-quotidien",
-    "stars": 0,
-    "updated_at": "2026-07-09T17:06:32Z",
-    "url": "https://github.com/jeb-maker/lagent-quotidien"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-09T17:30:02Z",
-    "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
-    "description": "Oversized bootstrap files silently truncate. Audit and trim OpenClaw bootstrap surfaces before sessions start broken.",
-    "id": "escoffier-labs/bootstrap-doctor",
-    "language": "Python",
-    "name": "escoffier-labs/bootstrap-doctor",
-    "stars": 2,
-    "updated_at": "2026-07-09T17:05:45Z",
-    "url": "https://github.com/escoffier-labs/bootstrap-doctor"
-  },
-  {
-    "description": "# Agentic Job Scraper - an AI-powered job monitoring system that scrapes Telegram channels, RSS feeds (V2EX, \u7535\u9e2d\u793e\u533a), and ",
-    "id": "dariank38/agentic-job-scraper",
-    "language": "TypeScript",
-    "name": "dariank38/agentic-job-scraper",
-    "stars": 5,
-    "updated_at": "2026-07-09T17:04:08Z",
-    "url": "https://github.com/dariank38/agentic-job-scraper"
-  },
-  {
-    "description": "Every other tool executes. This one decides what to execute. Chief of Staff skill for Claude Code.",
-    "id": "JimmySadek/strategic-partner",
-    "language": "Shell",
-    "name": "JimmySadek/strategic-partner",
-    "stars": 24,
-    "updated_at": "2026-07-09T17:01:36Z",
-    "url": "https://github.com/JimmySadek/strategic-partner"
-  },
-  {
-    "description": "A mobile-first AI game that turns visible photo traits into playful public style/vibe matches using a privacy-safe Gemin",
-    "id": "ihabkhaled/TwinzyAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/TwinzyAI",
-    "stars": 0,
-    "updated_at": "2026-07-09T17:01:19Z",
-    "url": "https://github.com/ihabkhaled/TwinzyAI"
-  },
-  {
-    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-09T17:30:24Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Build a spec-first, quality-gated AI dev framework for Claude Code with TDD, sub-agents, and review checkpoints for reli",
-    "id": "Justnessresponse962/ai-dev-framework",
-    "language": "\u2014",
-    "name": "Justnessresponse962/ai-dev-framework",
-    "stars": 0,
-    "updated_at": "2026-07-09T17:00:06Z",
-    "url": "https://github.com/Justnessresponse962/ai-dev-framework"
-  },
-  {
-    "description": "Build production-grade Claude Code project templates with specialized agents, reusable skills, rules, and hooks for fast",
-    "id": "IuliaIvanaPatras/claude-code-templates",
-    "language": "Shell",
-    "name": "IuliaIvanaPatras/claude-code-templates",
-    "stars": 1,
-    "updated_at": "2026-07-09T17:00:04Z",
-    "url": "https://github.com/IuliaIvanaPatras/claude-code-templates"
-  },
-  {
-    "description": "Build and run your AI Studio app locally with Gemini API support for fast setup and deployment",
-    "id": "Overfed-leap533/promptbuilder",
-    "language": "TypeScript",
-    "name": "Overfed-leap533/promptbuilder",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:59:57Z",
-    "url": "https://github.com/Overfed-leap533/promptbuilder"
-  },
-  {
-    "description": "Route OpenAI calls to 20+ free AI providers with fallback, 429 handling, and zero dependencies",
-    "id": "Kanjan4466/free-ai-router",
-    "language": "\u2014",
-    "name": "Kanjan4466/free-ai-router",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:59:46Z",
-    "url": "https://github.com/Kanjan4466/free-ai-router"
   }
 ]
