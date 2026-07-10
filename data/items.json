@@ -1,5 +1,140 @@
 [
   {
+    "description": "Portable Agent Skills for AI-assisted engineering workflows",
+    "id": "barlevalon/skills",
+    "language": "JavaScript",
+    "name": "barlevalon/skills",
+    "stars": 2,
+    "updated_at": "2026-07-10T12:29:33Z",
+    "url": "https://github.com/barlevalon/skills"
+  },
+  {
+    "description": "Inspectable agent skills in two files: a Markdown doc + a declarative YON protocol you can validate yourself. No arbitra",
+    "id": "allemaar/open-skills",
+    "language": "JavaScript",
+    "name": "allemaar/open-skills",
+    "stars": 0,
+    "updated_at": "2026-07-10T12:27:38Z",
+    "url": "https://github.com/allemaar/open-skills"
+  },
+  {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "Go",
+    "name": "sachncs/promptsheon",
+    "stars": 0,
+    "updated_at": "2026-07-10T12:29:53Z",
+    "url": "https://github.com/sachncs/promptsheon"
+  },
+  {
+    "description": "",
+    "id": "ImdataScientistSachin/llm-playbook",
+    "language": "Python",
+    "name": "ImdataScientistSachin/llm-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-10T12:25:52Z",
+    "url": "https://github.com/ImdataScientistSachin/llm-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30870,
+    "updated_at": "2026-07-10T12:25:31Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The safe and simple Human In The Loop lab notebook for coordinating AI sessions with packets & provenance, all with trac",
+    "id": "Wonderforge-Lab/CapstanAI-LabNote",
+    "language": "\u2014",
+    "name": "Wonderforge-Lab/CapstanAI-LabNote",
+    "stars": 0,
+    "updated_at": "2026-07-10T12:23:35Z",
+    "url": "https://github.com/Wonderforge-Lab/CapstanAI-LabNote"
+  },
+  {
+    "description": "Agent skills we use daily in the studio \u2014 reusable, on-demand context for Claude Code, Cursor & other skills.sh-compatib",
+    "id": "stealth-engine/skills",
+    "language": "TypeScript",
+    "name": "stealth-engine/skills",
+    "stars": 2,
+    "updated_at": "2026-07-10T12:23:24Z",
+    "url": "https://github.com/stealth-engine/skills"
+  },
+  {
+    "description": "Self-grilling Codex skill for refining prompts into executable briefs.",
+    "id": "kyoka-shuiyue/prompt-refiner",
+    "language": "\u2014",
+    "name": "kyoka-shuiyue/prompt-refiner",
+    "stars": 1,
+    "updated_at": "2026-07-10T12:22:54Z",
+    "url": "https://github.com/kyoka-shuiyue/prompt-refiner"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 58300,
+    "updated_at": "2026-07-10T12:18:16Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
+    "id": "Sungmin-Cho/claude-deep-suite",
+    "language": "JavaScript",
+    "name": "Sungmin-Cho/claude-deep-suite",
+    "stars": 6,
+    "updated_at": "2026-07-10T12:17:51Z",
+    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
+  },
+  {
+    "description": "Behavioral inference methodologies and architectural deconstructions of enterprise LLM safety guardrails (Claude, Gemini",
+    "id": "shahbaaz-devsec/AI-Red-Teaming-Methodologies",
+    "language": "\u2014",
+    "name": "shahbaaz-devsec/AI-Red-Teaming-Methodologies",
+    "stars": 0,
+    "updated_at": "2026-07-10T12:17:49Z",
+    "url": "https://github.com/shahbaaz-devsec/AI-Red-Teaming-Methodologies"
+  },
+  {
+    "description": "Terraform for AI agents \u2014 34 experts, 21 platforms, zero deps. One config source, native files for Cursor, Claude Code, ",
+    "id": "CohesiumAI/assemble",
+    "language": "JavaScript",
+    "name": "CohesiumAI/assemble",
+    "stars": 11,
+    "updated_at": "2026-07-10T12:16:14Z",
+    "url": "https://github.com/CohesiumAI/assemble"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-10T12:15:39Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 4,
+    "updated_at": "2026-07-10T12:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Structured prompt editor with AI refinement, version history, and diff tracking \u2014 built with React, Zustand, and the Ant",
+    "id": "blockpilgrim/promptburger",
+    "language": "TypeScript",
+    "name": "blockpilgrim/promptburger",
+    "stars": 0,
+    "updated_at": "2026-07-10T12:13:57Z",
+    "url": "https://github.com/blockpilgrim/promptburger"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -25,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T12:11:40Z",
     "url": "https://github.com/flypggl-cpu/LARP"
-  },
-  {
-    "description": "Portable Agent Skills for AI-assisted engineering workflows",
-    "id": "barlevalon/skills",
-    "language": "JavaScript",
-    "name": "barlevalon/skills",
-    "stars": 2,
-    "updated_at": "2026-07-10T12:11:15Z",
-    "url": "https://github.com/barlevalon/skills"
   },
   {
     "description": "\ud83c\udfad Persona \u2014 role-based operating modes for Claude. Hire an expert, not a tool: each persona is a mindset, a method, a qu",
@@ -81,15 +207,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Terraform for AI agents \u2014 34 experts, 21 platforms, zero deps. One config source, native files for Cursor, Claude Code, ",
-    "id": "CohesiumAI/assemble",
-    "language": "JavaScript",
-    "name": "CohesiumAI/assemble",
-    "stars": 11,
-    "updated_at": "2026-07-10T12:09:46Z",
-    "url": "https://github.com/CohesiumAI/assemble"
-  },
-  {
     "description": "Ecossistema de tutoria via IA que busca e estrutura provas da web. Integra Cloudflare Workers, GitHub Actions, OpenHands",
     "id": "TouchRefletz/maia.edu",
     "language": "JavaScript",
@@ -108,21 +225,12 @@
     "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
-    "description": "",
-    "id": "ImdataScientistSachin/llm-playbook",
-    "language": "Python",
-    "name": "ImdataScientistSachin/llm-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-10T12:08:13Z",
-    "url": "https://github.com/ImdataScientistSachin/llm-playbook"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3360,
-    "updated_at": "2026-07-10T12:14:44Z",
+    "updated_at": "2026-07-10T12:25:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -171,15 +279,6 @@
     "url": "https://github.com/spidey889/context-generator"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30868,
-    "updated_at": "2026-07-10T12:12:33Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Claude Code that gets sharper every session: runtime discipline and instinct memory (the 7 Laws of AI Agent Discipline)",
     "id": "naimkatiman/continuous-improvement",
     "language": "JavaScript",
@@ -194,7 +293,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-10T12:08:55Z",
+    "updated_at": "2026-07-10T12:30:21Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -212,17 +311,8 @@
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 2,
-    "updated_at": "2026-07-10T12:00:27Z",
+    "updated_at": "2026-07-10T12:30:25Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 4,
-    "updated_at": "2026-07-10T12:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83e\udea2 Multi-Agent framework family for AI-powered product development \u2014 PM \u00b7 Design \u00b7 Engineering  | \u9762\u5411 AI \u539f\u751f\u4ea7\u54c1\u5f00\u53d1\u7684\u591a\u667a\u80fd\u4f53\uff08Multi",
@@ -250,15 +340,6 @@
     "stars": 4,
     "updated_at": "2026-07-10T11:59:40Z",
     "url": "https://github.com/spark2k06/Agentless"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 58298,
-    "updated_at": "2026-07-10T11:56:54Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -346,18 +427,9 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 4352,
+    "stars": 4353,
     "updated_at": "2026-07-10T11:52:01Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
-    "id": "sachncs/promptsheon",
-    "language": "Go",
-    "name": "sachncs/promptsheon",
-    "stars": 0,
-    "updated_at": "2026-07-10T11:51:54Z",
-    "url": "https://github.com/sachncs/promptsheon"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T11:49:18Z",
     "url": "https://github.com/WenyuChiou/fable-method-harness"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-07-10T11:48:34Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Extract structured thinking profiles from public figures to evaluate your real-world decisions using any AI model.",
-    "id": "tacticalwarningsubscriptionwarrant526/borrowed-brain-pro",
-    "language": "\u2014",
-    "name": "tacticalwarningsubscriptionwarrant526/borrowed-brain-pro",
-    "stars": 0,
-    "updated_at": "2026-07-10T11:48:32Z",
-    "url": "https://github.com/tacticalwarningsubscriptionwarrant526/borrowed-brain-pro"
-  },
-  {
-    "description": "Compare multiple prompt versions with zero-config CLI A/B tests.",
-    "id": "howiprompt/prompt-compare",
-    "language": "Python",
-    "name": "howiprompt/prompt-compare",
-    "stars": 0,
-    "updated_at": "2026-07-10T11:46:31Z",
-    "url": "https://github.com/howiprompt/prompt-compare"
-  },
-  {
-    "description": "Structured prompt editor with AI refinement, version history, and diff tracking \u2014 built with React, Zustand, and the Ant",
-    "id": "blockpilgrim/promptburger",
-    "language": "TypeScript",
-    "name": "blockpilgrim/promptburger",
-    "stars": 0,
-    "updated_at": "2026-07-10T12:13:57Z",
-    "url": "https://github.com/blockpilgrim/promptburger"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-07-10T11:46:08Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
-    "id": "rmdhananjay/contextual-memory-map",
-    "language": "HTML",
-    "name": "rmdhananjay/contextual-memory-map",
-    "stars": 0,
-    "updated_at": "2026-07-10T11:46:00Z",
-    "url": "https://github.com/rmdhananjay/contextual-memory-map"
-  },
-  {
-    "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
-    "id": "Norinatiring463/loop-engineering",
-    "language": "Python",
-    "name": "Norinatiring463/loop-engineering",
-    "stars": 1,
-    "updated_at": "2026-07-10T11:45:26Z",
-    "url": "https://github.com/Norinatiring463/loop-engineering"
-  },
-  {
-    "description": "Automate project security hardening by using AI agents to analyze codebase behavior and identify necessary security impr",
-    "id": "impliedtrustwencher377/blue-spec",
-    "language": "TypeScript",
-    "name": "impliedtrustwencher377/blue-spec",
-    "stars": 0,
-    "updated_at": "2026-07-10T11:43:10Z",
-    "url": "https://github.com/impliedtrustwencher377/blue-spec"
   }
 ]
