@@ -1,5 +1,41 @@
 [
   {
+    "description": "A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems",
+    "id": "RiccardoBiosas/awesome-MLSecOps",
+    "language": "\u2014",
+    "name": "RiccardoBiosas/awesome-MLSecOps",
+    "stars": 437,
+    "updated_at": "2026-07-10T13:00:58Z",
+    "url": "https://github.com/RiccardoBiosas/awesome-MLSecOps"
+  },
+  {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "Go",
+    "name": "sachncs/promptsheon",
+    "stars": 0,
+    "updated_at": "2026-07-10T13:00:48Z",
+    "url": "https://github.com/sachncs/promptsheon"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 4,
+    "updated_at": "2026-07-10T13:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
+    "id": "Kushagra1A/openpi",
+    "language": "Python",
+    "name": "Kushagra1A/openpi",
+    "stars": 6,
+    "updated_at": "2026-07-10T12:59:29Z",
+    "url": "https://github.com/Kushagra1A/openpi"
+  },
+  {
     "description": "",
     "id": "RafaelC22V/agentic-ai-mentorship-program",
     "language": "\u2014",
@@ -32,17 +68,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3360,
-    "updated_at": "2026-07-10T12:59:37Z",
+    "updated_at": "2026-07-10T13:01:10Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
-    "id": "sachncs/promptsheon",
-    "language": "Go",
-    "name": "sachncs/promptsheon",
-    "stars": 0,
-    "updated_at": "2026-07-10T13:00:18Z",
-    "url": "https://github.com/sachncs/promptsheon"
   },
   {
     "description": "\ud83d\udd04 Enable seamless AI conversations with a universal file format that saves and transfers your chat history across platfo",
@@ -288,13 +315,13 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 4,
-    "updated_at": "2026-07-10T12:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "github/awesome-copilot",
+    "stars": 36407,
+    "updated_at": "2026-07-10T12:45:28Z",
+    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "AEL Sovereign CS50x Master Citadel & AI Prompt Engineering Engine",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T12:31:52Z",
     "url": "https://github.com/pedromvgomes/agentic-toolkit"
-  },
-  {
-    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-10T12:30:25Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Portable Agent Skills for AI-assisted engineering workflows",
-    "id": "barlevalon/skills",
-    "language": "JavaScript",
-    "name": "barlevalon/skills",
-    "stars": 2,
-    "updated_at": "2026-07-10T12:29:33Z",
-    "url": "https://github.com/barlevalon/skills"
-  },
-  {
-    "description": "Inspectable agent skills in two files: a Markdown doc + a declarative YON protocol you can validate yourself. No arbitra",
-    "id": "allemaar/open-skills",
-    "language": "JavaScript",
-    "name": "allemaar/open-skills",
-    "stars": 0,
-    "updated_at": "2026-07-10T12:27:38Z",
-    "url": "https://github.com/allemaar/open-skills"
   }
 ]
