@@ -1,21 +1,120 @@
 [
   {
-    "description": "Token-optimized middleware for LLM coding agents \u2014 30\u201390% fewer tokens on the shell commands your agent runs all day. A ",
-    "id": "turanheydarli/bani.sh",
-    "language": "Go",
-    "name": "turanheydarli/bani.sh",
-    "stars": 3,
-    "updated_at": "2026-07-10T23:13:03Z",
-    "url": "https://github.com/turanheydarli/bani.sh"
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-10T23:26:59Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-10T23:25:55Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Prompt engineering workbench for AI coding agents inside VS Code: versioned Markdown prompts, child prompt generation, k",
+    "id": "psielta/Sobek",
+    "language": "TypeScript",
+    "name": "psielta/Sobek",
+    "stars": 1,
+    "updated_at": "2026-07-10T23:24:35Z",
+    "url": "https://github.com/psielta/Sobek"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 790,
+    "updated_at": "2026-07-10T23:24:40Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6",
+    "id": "asgeirtj/system_prompts_leaks",
+    "language": "JavaScript",
+    "name": "asgeirtj/system_prompts_leaks",
+    "stars": 55808,
+    "updated_at": "2026-07-10T23:19:21Z",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "description": "Research: Does multilingual self-consistency improve LLM reasoning beyond math? Empirical study across 6 benchmarks (com",
+    "id": "DHIWAHAR-K/Beyond-English-Multilingual-Self-Consistency-for-Robust-LLM-Reasoning",
+    "language": "Python",
+    "name": "DHIWAHAR-K/Beyond-English-Multilingual-Self-Consistency-for-Robust-LLM-Reasoning",
+    "stars": 0,
+    "updated_at": "2026-07-10T23:17:36Z",
+    "url": "https://github.com/DHIWAHAR-K/Beyond-English-Multilingual-Self-Consistency-for-Robust-LLM-Reasoning"
   },
   {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 58393,
-    "updated_at": "2026-07-10T23:14:17Z",
+    "stars": 58396,
+    "updated_at": "2026-07-10T23:24:37Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Autonomous multi-agent research system built with LangGraph that conducts comprehensive investigations on individuals an",
+    "id": "Akhera24/deep-research-ai-agent",
+    "language": "Python",
+    "name": "Akhera24/deep-research-ai-agent",
+    "stars": 1,
+    "updated_at": "2026-07-10T23:16:42Z",
+    "url": "https://github.com/Akhera24/deep-research-ai-agent"
+  },
+  {
+    "description": "Tell coherence from truth \u2014 an LLM prompt that lays out any argument's hidden premises, alternatives, and missing eviden",
+    "id": "flypggl-cpu/LARP",
+    "language": "Python",
+    "name": "flypggl-cpu/LARP",
+    "stars": 0,
+    "updated_at": "2026-07-10T23:16:32Z",
+    "url": "https://github.com/flypggl-cpu/LARP"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-07-10T23:15:54Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "\ud83e\udd4b 12 skills para Claude Code que le dan disciplina de ingeniero senior a cualquier modelo: planea antes de codear, mejor",
+    "id": "kitoep/sensei",
+    "language": "\u2014",
+    "name": "kitoep/sensei",
+    "stars": 0,
+    "updated_at": "2026-07-10T23:15:32Z",
+    "url": "https://github.com/kitoep/sensei"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 5,
+    "updated_at": "2026-07-10T23:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Token-optimized middleware for LLM coding agents \u2014 30\u201390% fewer tokens on the shell commands your agent runs all day. A ",
+    "id": "turanheydarli/bani.sh",
+    "language": "Go",
+    "name": "turanheydarli/bani.sh",
+    "stars": 3,
+    "updated_at": "2026-07-10T23:17:23Z",
+    "url": "https://github.com/turanheydarli/bani.sh"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -34,33 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T23:11:53Z",
     "url": "https://github.com/kimsanguine/AI_Human"
-  },
-  {
-    "description": "Prompt engineering workbench for AI coding agents inside VS Code: versioned Markdown prompts, child prompt generation, k",
-    "id": "psielta/Sobek",
-    "language": "TypeScript",
-    "name": "psielta/Sobek",
-    "stars": 1,
-    "updated_at": "2026-07-10T23:11:07Z",
-    "url": "https://github.com/psielta/Sobek"
-  },
-  {
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "JavaScript",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 55807,
-    "updated_at": "2026-07-10T23:11:07Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-10T23:11:03Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -151,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T23:01:59Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 5,
-    "updated_at": "2026-07-10T23:00:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-10T22:52:41Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-10T22:51:47Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-07-10T22:51:39Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-07-10T22:51:31Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-07-10T22:51:20Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Prompt-engineering and project-roadmap plugin that crafts Anthropic-grade prompts and picks, surveys, and tracks your ne",
-    "id": "V-Songbird/foreman",
-    "language": "JavaScript",
-    "name": "V-Songbird/foreman",
-    "stars": 0,
-    "updated_at": "2026-07-10T22:51:15Z",
-    "url": "https://github.com/V-Songbird/foreman"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-07-10T22:50:54Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-07-10T22:50:39Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
   }
 ]
