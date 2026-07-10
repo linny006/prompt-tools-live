@@ -1,5 +1,140 @@
 [
   {
+    "description": "A plug-and-play framework for AI-assisted software development, enhancing context-aware collaboration in complex codebas",
+    "id": "MunnaXbadmash/ai-dev-assistant-framework",
+    "language": "\u2014",
+    "name": "MunnaXbadmash/ai-dev-assistant-framework",
+    "stars": 5,
+    "updated_at": "2026-07-10T09:45:03Z",
+    "url": "https://github.com/MunnaXbadmash/ai-dev-assistant-framework"
+  },
+  {
+    "description": "\ud83c\udff0 883+ Universal Agentic Skills for Claude Code, Gemini CLI, Cursor & More \u2014 Curated by Rootcastle Engineering & Innovat",
+    "id": "rootcastleco/rei-skills",
+    "language": "Python",
+    "name": "rootcastleco/rei-skills",
+    "stars": 5,
+    "updated_at": "2026-07-10T09:44:50Z",
+    "url": "https://github.com/rootcastleco/rei-skills"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Shell",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 3,
+    "updated_at": "2026-07-10T09:44:43Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
+    "id": "Tymooh/GPT-DUEL-ARENA",
+    "language": "\u2014",
+    "name": "Tymooh/GPT-DUEL-ARENA",
+    "stars": 1,
+    "updated_at": "2026-07-10T09:43:43Z",
+    "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-10T09:39:46Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Local-first CLI for AI coding agents with persistent memory, handoffs, and token-aware context.",
+    "id": "simony-816/briefops",
+    "language": "TypeScript",
+    "name": "simony-816/briefops",
+    "stars": 3,
+    "updated_at": "2026-07-10T09:39:35Z",
+    "url": "https://github.com/simony-816/briefops"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 66,
+    "updated_at": "2026-07-10T09:38:08Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-07-10T09:37:45Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 30858,
+    "updated_at": "2026-07-10T09:37:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-10T09:36:28Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "AI dotfiles",
+    "id": "manusa/ai",
+    "language": "Shell",
+    "name": "manusa/ai",
+    "stars": 1,
+    "updated_at": "2026-07-10T09:36:16Z",
+    "url": "https://github.com/manusa/ai"
+  },
+  {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "Go",
+    "name": "sachncs/promptsheon",
+    "stars": 0,
+    "updated_at": "2026-07-10T09:35:12Z",
+    "url": "https://github.com/sachncs/promptsheon"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 18,
+    "updated_at": "2026-07-10T09:31:29Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 58273,
+    "updated_at": "2026-07-10T09:31:04Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 4,
+    "updated_at": "2026-07-10T09:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
     "id": "J-nowcow/awesome-korean-agent-skills",
     "language": "\u2014",
@@ -14,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20508,
-    "updated_at": "2026-07-10T09:27:20Z",
+    "updated_at": "2026-07-10T09:33:48Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -54,15 +189,6 @@
     "url": "https://github.com/AbdulrahmanAlaasi/briefsmith"
   },
   {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 66,
-    "updated_at": "2026-07-10T09:23:37Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
     "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
     "id": "jeb-maker/lagent-quotidien",
     "language": "HTML",
@@ -70,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T09:22:40Z",
     "url": "https://github.com/jeb-maker/lagent-quotidien"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 30856,
-    "updated_at": "2026-07-10T09:30:08Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Permanent prompt memory, visual diffs, and human notes for AI apps. Track every LLM prompt change as a versioned snapsho",
@@ -99,15 +216,6 @@
     "url": "https://github.com/tacticalwarningsubscriptionwarrant526/borrowed-brain-pro"
   },
   {
-    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
-    "id": "sachncs/promptsheon",
-    "language": "Go",
-    "name": "sachncs/promptsheon",
-    "stars": 0,
-    "updated_at": "2026-07-10T09:21:18Z",
-    "url": "https://github.com/sachncs/promptsheon"
-  },
-  {
     "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
     "id": "Norinatiring463/loop-engineering",
     "language": "Python",
@@ -124,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T09:16:05Z",
     "url": "https://github.com/impliedtrustwencher377/blue-spec"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 4,
-    "updated_at": "2026-07-10T09:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
@@ -243,15 +342,6 @@
     "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
   },
   {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-07-10T09:25:02Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
     "id": "herreravalenz6620/context-compression",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-10T09:07:44Z",
     "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-07-10T09:07:39Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 2,
-    "updated_at": "2026-07-10T09:07:37Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 2,
-    "updated_at": "2026-07-10T09:07:31Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 58273,
-    "updated_at": "2026-07-10T09:07:26Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Master Prompt Builder \u2014 PRIME framework prompt generator for Cursor AI. Mac + Windows.",
-    "id": "lijojosepeter/master-prompt-builder",
-    "language": "Python",
-    "name": "lijojosepeter/master-prompt-builder",
-    "stars": 0,
-    "updated_at": "2026-07-10T09:07:21Z",
-    "url": "https://github.com/lijojosepeter/master-prompt-builder"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-07-10T09:07:01Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
-    "id": "Acuminate-conventionality909/aibti",
-    "language": "HTML",
-    "name": "Acuminate-conventionality909/aibti",
-    "stars": 1,
-    "updated_at": "2026-07-10T09:06:44Z",
-    "url": "https://github.com/Acuminate-conventionality909/aibti"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-07-10T09:06:20Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 2,
-    "updated_at": "2026-07-10T09:06:17Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-07-10T09:06:12Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
   }
 ]
