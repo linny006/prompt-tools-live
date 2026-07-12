@@ -1,12 +1,102 @@
 [
   {
+    "description": "Fork of Anthropic's skill-creator. Audited improvements: orphaned references wired into SKILL.md, Claude.ai/Cowork docs ",
+    "id": "rolling-codes/-the-better-skill-creator-skill-",
+    "language": "Python",
+    "name": "rolling-codes/-the-better-skill-creator-skill-",
+    "stars": 0,
+    "updated_at": "2026-07-12T13:50:17Z",
+    "url": "https://github.com/rolling-codes/-the-better-skill-creator-skill-"
+  },
+  {
+    "description": "German AI Text Humanizer / deutscher Humanizer Skill for Claude Code and Codex: audits German AI-writing patterns with 6",
+    "id": "marmbiz/humanizer-de",
+    "language": "Python",
+    "name": "marmbiz/humanizer-de",
+    "stars": 54,
+    "updated_at": "2026-07-12T13:49:25Z",
+    "url": "https://github.com/marmbiz/humanizer-de"
+  },
+  {
+    "description": "Ecossistema de tutoria via IA que busca e estrutura provas da web. Integra Cloudflare Workers, GitHub Actions, OpenHands",
+    "id": "TouchRefletz/maia.edu",
+    "language": "JavaScript",
+    "name": "TouchRefletz/maia.edu",
+    "stars": 0,
+    "updated_at": "2026-07-12T13:49:07Z",
+    "url": "https://github.com/TouchRefletz/maia.edu"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3190,
+    "updated_at": "2026-07-12T13:48:17Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5416,
+    "updated_at": "2026-07-12T13:47:45Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-07-12T13:47:40Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
     "description": "Practical skills, prompts, workflows, templates, and checklists for building better products with Lovable.",
     "id": "ubin8/Lovable-Cookbook",
     "language": "\u2014",
     "name": "ubin8/Lovable-Cookbook",
     "stars": 0,
-    "updated_at": "2026-07-12T13:45:03Z",
+    "updated_at": "2026-07-12T13:46:17Z",
     "url": "https://github.com/ubin8/Lovable-Cookbook"
+  },
+  {
+    "description": "A secure AI system designed using system prompts, guardrails, and jailbreak testing as part of the Decode Labs Prompt En",
+    "id": "Kiran-Sarwar/prompt-engineering-project-4",
+    "language": "\u2014",
+    "name": "Kiran-Sarwar/prompt-engineering-project-4",
+    "stars": 0,
+    "updated_at": "2026-07-12T13:46:14Z",
+    "url": "https://github.com/Kiran-Sarwar/prompt-engineering-project-4"
+  },
+  {
+    "description": "Workflow-oriented Agent Skills for writing, coding, research, and decision alignment.",
+    "id": "ssdiwu/507-skills",
+    "language": "Python",
+    "name": "ssdiwu/507-skills",
+    "stars": 0,
+    "updated_at": "2026-07-12T13:45:45Z",
+    "url": "https://github.com/ssdiwu/507-skills"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-07-12T13:45:32Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 5,
+    "updated_at": "2026-07-12T13:45:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Code \u306e\u500b\u4eba\u30b0\u30ed\u30fc\u30d0\u30eb\u30cf\u30fc\u30cd\u30b9 (skills / CLAUDE.md \u5e38\u6642\u30eb\u30fc\u30eb) \u3092\u4e00\u5143\u7ba1\u7406\u3057\u3066\u5404\u74b0\u5883\u306b\u5c55\u958b\u3059\u308b",
@@ -43,15 +133,6 @@
     "stars": 152,
     "updated_at": "2026-07-12T13:43:21Z",
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Ecossistema de tutoria via IA que busca e estrutura provas da web. Integra Cloudflare Workers, GitHub Actions, OpenHands",
-    "id": "TouchRefletz/maia.edu",
-    "language": "JavaScript",
-    "name": "TouchRefletz/maia.edu",
-    "stars": 0,
-    "updated_at": "2026-07-12T13:40:14Z",
-    "url": "https://github.com/TouchRefletz/maia.edu"
   },
   {
     "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
@@ -196,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-07-12T13:30:23Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 5,
-    "updated_at": "2026-07-12T13:30:22Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "",
@@ -376,77 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-12T13:26:17Z",
     "url": "https://github.com/cronux-ind/ai-video-generation-workflow"
-  },
-  {
-    "description": "Identify and protect personal data in text by intercepting and masking PII using Java middleware for enhanced data priva",
-    "id": "AraLeo5/Semantic-Privacy-Guard",
-    "language": "HTML",
-    "name": "AraLeo5/Semantic-Privacy-Guard",
-    "stars": 2,
-    "updated_at": "2026-07-12T13:26:00Z",
-    "url": "https://github.com/AraLeo5/Semantic-Privacy-Guard"
-  },
-  {
-    "description": "Manage GitHub pull requests, issues, notifications, and local git tasks in one self-hosted app built with Go and React.",
-    "id": "djbroiscool90/github-command-center",
-    "language": "TypeScript",
-    "name": "djbroiscool90/github-command-center",
-    "stars": 1,
-    "updated_at": "2026-07-12T13:25:55Z",
-    "url": "https://github.com/djbroiscool90/github-command-center"
-  },
-  {
-    "description": "Analyze git code changes to generate structured review reports using flexible AI models and integrated workflows.",
-    "id": "ridwan230598/agent-review",
-    "language": "TypeScript",
-    "name": "ridwan230598/agent-review",
-    "stars": 1,
-    "updated_at": "2026-07-12T13:25:51Z",
-    "url": "https://github.com/ridwan230598/agent-review"
-  },
-  {
-    "description": "Curate and access a comprehensive list of AI image generation APIs, SDKs, and tools designed for developer integration a",
-    "id": "yassine3010/awesome-image-generation",
-    "language": "\u2014",
-    "name": "yassine3010/awesome-image-generation",
-    "stars": 0,
-    "updated_at": "2026-07-12T13:25:48Z",
-    "url": "https://github.com/yassine3010/awesome-image-generation"
-  },
-  {
-    "description": "Monitor GPU performance on Apple Silicon and NVIDIA devices using a cross-platform terminal interface with real-time dat",
-    "id": "Adeel-khalid11/gptop",
-    "language": "\u2014",
-    "name": "Adeel-khalid11/gptop",
-    "stars": 0,
-    "updated_at": "2026-07-12T13:25:46Z",
-    "url": "https://github.com/Adeel-khalid11/gptop"
-  },
-  {
-    "description": "Generate AI-driven skills efficiently with a comprehensive toolkit designed for creating, managing, and deploying custom",
-    "id": "sethikasithum/skill-generator",
-    "language": "Python",
-    "name": "sethikasithum/skill-generator",
-    "stars": 0,
-    "updated_at": "2026-07-12T13:25:39Z",
-    "url": "https://github.com/sethikasithum/skill-generator"
-  },
-  {
-    "description": "Inject prompts into AI chat web pages via URL parameters for easy sharing and optional automatic submission across major",
-    "id": "Amjad-Mehmood/universal-ai-url-prompt",
-    "language": "JavaScript",
-    "name": "Amjad-Mehmood/universal-ai-url-prompt",
-    "stars": 1,
-    "updated_at": "2026-07-12T13:25:03Z",
-    "url": "https://github.com/Amjad-Mehmood/universal-ai-url-prompt"
-  },
-  {
-    "description": "Secure large language model access by enforcing role-based controls, detecting prompt injection and PII, while optimizin",
-    "id": "jyotisin/secure-llm-gateway",
-    "language": "\u2014",
-    "name": "jyotisin/secure-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-07-12T13:24:27Z",
-    "url": "https://github.com/jyotisin/secure-llm-gateway"
   }
 ]
