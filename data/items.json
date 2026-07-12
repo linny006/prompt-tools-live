@@ -1,5 +1,149 @@
 [
   {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-12T04:57:54Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Discipline skills that close the cheap-model\u2192frontier gap on process and derive-the-non-obvious work \u2014 measured, not ass",
+    "id": "Cklaus1/tierless",
+    "language": "Python",
+    "name": "Cklaus1/tierless",
+    "stars": 0,
+    "updated_at": "2026-07-12T04:57:37Z",
+    "url": "https://github.com/Cklaus1/tierless"
+  },
+  {
+    "description": "Fabio: agente de Claude Code que emula la disciplina operativa de un modelo de frontera sobre Opus, via un pipeline de r",
+    "id": "SiniLab/claude-code-fabio-agent",
+    "language": "\u2014",
+    "name": "SiniLab/claude-code-fabio-agent",
+    "stars": 0,
+    "updated_at": "2026-07-12T04:57:21Z",
+    "url": "https://github.com/SiniLab/claude-code-fabio-agent"
+  },
+  {
+    "description": "A mobile-first AI game that turns visible photo traits into playful public style/vibe matches using a privacy-safe Gemin",
+    "id": "ihabkhaled/TwinzyAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/TwinzyAI",
+    "stars": 0,
+    "updated_at": "2026-07-12T04:56:52Z",
+    "url": "https://github.com/ihabkhaled/TwinzyAI"
+  },
+  {
+    "description": "Fork of Anthropic's skill-creator. Audited improvements: orphaned references wired into SKILL.md, Claude.ai/Cowork docs ",
+    "id": "rolling-codes/-the-better-skill-creator-skill-",
+    "language": "Python",
+    "name": "rolling-codes/-the-better-skill-creator-skill-",
+    "stars": 0,
+    "updated_at": "2026-07-12T04:56:22Z",
+    "url": "https://github.com/rolling-codes/-the-better-skill-creator-skill-"
+  },
+  {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 10,
+    "updated_at": "2026-07-12T04:54:59Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "\u57fa\u4e8e AI Agent \u5de5\u4f5c\u6d41\u7684\u4fee\u4ed9\u4e16\u754c\u6a21\u62df\u5668\uff0c\u65e8\u5728\u8fd8\u539f\u667a\u80fd\u3001\u5f00\u653e\u7684\u4ed9\u4fa0\u4e16\u754c\u3002| An open-source Cultivation World Simulator using Agentic Workflow to create a d",
+    "id": "4thfever/cultivation-world-simulator",
+    "language": "Python",
+    "name": "4thfever/cultivation-world-simulator",
+    "stars": 1924,
+    "updated_at": "2026-07-12T04:54:54Z",
+    "url": "https://github.com/4thfever/cultivation-world-simulator"
+  },
+  {
+    "description": "LLM Agent \u914d\u7f6e\u5b8c\u6574\u6027\u81ea\u6821\u9a8c | \u4e09\u90e8\u66f2\u8bba\u6587 + 150\u4efb\u52a1\u5b9e\u9a8c | \u4e09\u5c42\u67b6\u6784(\u673a\u68b0/\u795e\u7ecf/\u56e0\u679c) | DeepSeek V4 \u57fa\u7840\u8bbe\u65bd\u4f18\u5316 | \u72ec\u7acb\u7814\u7a76",
+    "id": "YuhaoLin2005/hermes-workspace",
+    "language": "Python",
+    "name": "YuhaoLin2005/hermes-workspace",
+    "stars": 0,
+    "updated_at": "2026-07-12T04:49:40Z",
+    "url": "https://github.com/YuhaoLin2005/hermes-workspace"
+  },
+  {
+    "description": "Gemini Omni API Prompts collection updated in real time every day, designed to help creators find inspiration faster. Fr",
+    "id": "AtlasCloudAI/awesome-gemini-omni-prompts",
+    "language": "JavaScript",
+    "name": "AtlasCloudAI/awesome-gemini-omni-prompts",
+    "stars": 8,
+    "updated_at": "2026-07-12T04:49:34Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts"
+  },
+  {
+    "description": "Awesome Happy Horse 1.0 Prompts",
+    "id": "AtlasCloudAI/awesome-happy-horse-prompts",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-happy-horse-prompts",
+    "stars": 2,
+    "updated_at": "2026-07-12T04:49:23Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-happy-horse-prompts"
+  },
+  {
+    "description": "awesome-seedance-2-prompt",
+    "id": "AtlasCloudAI/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-seedance-2-prompts",
+    "stars": 6,
+    "updated_at": "2026-07-12T04:49:10Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Local-first prompt workbench for importing, searching, editing, evaluating, and exporting prompt corpora.",
+    "id": "BjornMelin/promptbar",
+    "language": "TypeScript",
+    "name": "BjornMelin/promptbar",
+    "stars": 0,
+    "updated_at": "2026-07-12T04:49:18Z",
+    "url": "https://github.com/BjornMelin/promptbar"
+  },
+  {
+    "description": "Awesome GPT Image 2 Prompts",
+    "id": "AtlasCloudAI/awesome-gpt-image-2-prompts",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-gpt-image-2-prompts",
+    "stars": 10,
+    "updated_at": "2026-07-12T04:48:57Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "description": "Spec-driven, agentic workflow framework for AI coding agents. Turn a request into a verifiable goal loop \u2014 plan, act, ve",
+    "id": "clawplays/ospec",
+    "language": "JavaScript",
+    "name": "clawplays/ospec",
+    "stars": 559,
+    "updated_at": "2026-07-12T04:48:43Z",
+    "url": "https://github.com/clawplays/ospec"
+  },
+  {
+    "description": "MindSpark - Mind Map for Everyone",
+    "id": "prasadpatil25/MindSpark",
+    "language": "JavaScript",
+    "name": "prasadpatil25/MindSpark",
+    "stars": 23,
+    "updated_at": "2026-07-12T04:46:58Z",
+    "url": "https://github.com/prasadpatil25/MindSpark"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 5,
+    "updated_at": "2026-07-12T04:45:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Structured multi-round deliberation, con",
     "id": "0xNyk/council-of-high-intelligence",
     "language": "Shell",
@@ -9,21 +153,12 @@
     "url": "https://github.com/0xNyk/council-of-high-intelligence"
   },
   {
-    "description": "A mobile-first AI game that turns visible photo traits into playful public style/vibe matches using a privacy-safe Gemin",
-    "id": "ihabkhaled/TwinzyAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/TwinzyAI",
-    "stars": 0,
-    "updated_at": "2026-07-12T04:44:31Z",
-    "url": "https://github.com/ihabkhaled/TwinzyAI"
-  },
-  {
     "description": "Reusable AI skills, prompts, and agent workflows.",
     "id": "idaibin/aicraft",
     "language": "Python",
     "name": "idaibin/aicraft",
     "stars": 2,
-    "updated_at": "2026-07-12T04:44:11Z",
+    "updated_at": "2026-07-12T04:51:05Z",
     "url": "https://github.com/idaibin/aicraft"
   },
   {
@@ -40,7 +175,7 @@
     "id": "kangarooking/cangjie-skill",
     "language": "Python",
     "name": "kangarooking/cangjie-skill",
-    "stars": 2436,
+    "stars": 2437,
     "updated_at": "2026-07-12T04:42:18Z",
     "url": "https://github.com/kangarooking/cangjie-skill"
   },
@@ -61,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-07-12T04:41:49Z",
     "url": "https://github.com/gaofeng21cn/redcube-ai"
-  },
-  {
-    "description": "LLM Agent \u914d\u7f6e\u5b8c\u6574\u6027\u81ea\u6821\u9a8c | \u4e09\u90e8\u66f2\u8bba\u6587 + 150\u4efb\u52a1\u5b9e\u9a8c | \u4e09\u5c42\u67b6\u6784(\u673a\u68b0/\u795e\u7ecf/\u56e0\u679c) | DeepSeek V4 \u57fa\u7840\u8bbe\u65bd\u4f18\u5316 | \u72ec\u7acb\u7814\u7a76",
-    "id": "YuhaoLin2005/hermes-workspace",
-    "language": "Python",
-    "name": "YuhaoLin2005/hermes-workspace",
-    "stars": 0,
-    "updated_at": "2026-07-12T04:41:29Z",
-    "url": "https://github.com/YuhaoLin2005/hermes-workspace"
   },
   {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
@@ -104,7 +230,7 @@
     "language": "Python",
     "name": "majiayu000/spellbook",
     "stars": 234,
-    "updated_at": "2026-07-12T04:43:58Z",
+    "updated_at": "2026-07-12T04:54:32Z",
     "url": "https://github.com/majiayu000/spellbook"
   },
   {
@@ -162,24 +288,6 @@
     "url": "https://github.com/Norinatiring463/loop-engineering"
   },
   {
-    "description": "Fork of Anthropic's skill-creator. Audited improvements: orphaned references wired into SKILL.md, Claude.ai/Cowork docs ",
-    "id": "rolling-codes/-the-better-skill-creator-skill-",
-    "language": "Python",
-    "name": "rolling-codes/-the-better-skill-creator-skill-",
-    "stars": 0,
-    "updated_at": "2026-07-12T04:32:06Z",
-    "url": "https://github.com/rolling-codes/-the-better-skill-creator-skill-"
-  },
-  {
-    "description": "Fabio: agente de Claude Code que emula la disciplina operativa de un modelo de frontera sobre Opus, via un pipeline de r",
-    "id": "SiniLab/claude-code-fabio-agent",
-    "language": "\u2014",
-    "name": "SiniLab/claude-code-fabio-agent",
-    "stars": 0,
-    "updated_at": "2026-07-12T04:31:40Z",
-    "url": "https://github.com/SiniLab/claude-code-fabio-agent"
-  },
-  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -214,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-07-12T04:30:24Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 5,
-    "updated_at": "2026-07-12T04:30:22Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -349,104 +448,5 @@
     "stars": 153,
     "updated_at": "2026-07-12T04:27:23Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-12T04:26:31Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "MindSpark - Mind Map for Everyone",
-    "id": "prasadpatil25/MindSpark",
-    "language": "JavaScript",
-    "name": "prasadpatil25/MindSpark",
-    "stars": 23,
-    "updated_at": "2026-07-12T04:26:27Z",
-    "url": "https://github.com/prasadpatil25/MindSpark"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-07-12T04:25:59Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-07-12T04:25:37Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-07-12T04:25:23Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-07-12T04:25:12Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-07-12T04:25:11Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-07-12T04:24:57Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Production-ready AI coding skills and agents for Claude Code, OpenCode, and Pi. Covers TDD, .NET, Python, Rust, edge AI,",
-    "id": "michaelalber/ai-toolkit",
-    "language": "Python",
-    "name": "michaelalber/ai-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-12T04:24:39Z",
-    "url": "https://github.com/michaelalber/ai-toolkit"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-07-12T04:24:33Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
-    "id": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "language": "\u2014",
-    "name": "adlaiponderous700/claude-skill-cinematic-prompt",
-    "stars": 3,
-    "updated_at": "2026-07-12T04:24:21Z",
-    "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
   }
 ]
