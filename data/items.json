@@ -1,5 +1,41 @@
 [
   {
+    "description": "Skills for your skills: local governance for agent skill libraries.",
+    "id": "MisterBrookT/skill2",
+    "language": "Python",
+    "name": "MisterBrookT/skill2",
+    "stars": 4,
+    "updated_at": "2026-07-13T15:17:56Z",
+    "url": "https://github.com/MisterBrookT/skill2"
+  },
+  {
+    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI i",
+    "id": "kadevin/ilab-gpt-conjure",
+    "language": "JavaScript",
+    "name": "kadevin/ilab-gpt-conjure",
+    "stars": 625,
+    "updated_at": "2026-07-13T15:16:11Z",
+    "url": "https://github.com/kadevin/ilab-gpt-conjure"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 5,
+    "updated_at": "2026-07-13T15:15:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Creative intelligence MCP \u2014 score your prompt before you spend the credit",
+    "id": "Lulu-The-Narwhal/dali-mcp",
+    "language": "Python",
+    "name": "Lulu-The-Narwhal/dali-mcp",
+    "stars": 7,
+    "updated_at": "2026-07-13T15:15:20Z",
+    "url": "https://github.com/Lulu-The-Narwhal/dali-mcp"
+  },
+  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -7,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-07-13T15:14:58Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 0,
+    "updated_at": "2026-07-13T15:14:05Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
     "description": "AI music DNA hybridizer that turns playlists into Suno-ready prompts and lyrics.",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "omar-y-abdi/furl-ctx",
     "stars": 2,
-    "updated_at": "2026-07-13T15:12:57Z",
+    "updated_at": "2026-07-13T15:17:41Z",
     "url": "https://github.com/omar-y-abdi/furl-ctx"
   },
   {
@@ -189,15 +234,6 @@
     "url": "https://github.com/greerviau/wingman"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 5,
-    "updated_at": "2026-07-13T15:00:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
     "id": "Norinatiring463/loop-engineering",
     "language": "Python",
@@ -232,15 +268,6 @@
     "stars": 31,
     "updated_at": "2026-07-13T15:02:53Z",
     "url": "https://github.com/tizzy916/humanities-writing-companion"
-  },
-  {
-    "description": "Skills for your skills: local governance for agent skill libraries.",
-    "id": "MisterBrookT/skill2",
-    "language": "Python",
-    "name": "MisterBrookT/skill2",
-    "stars": 4,
-    "updated_at": "2026-07-13T14:55:43Z",
-    "url": "https://github.com/MisterBrookT/skill2"
   },
   {
     "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-13T14:50:31Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-07-13T14:49:57Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-07-13T14:49:41Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-07-13T14:49:35Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
   }
 ]
