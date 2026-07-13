@@ -1,12 +1,165 @@
 [
   {
+    "description": "Lazy Chameleon: synthetic parameter generator that turns flash-class LLMs into frontier-grade reasoners at inference tim",
+    "id": "xanstomper/lazy-chameleon",
+    "language": "Python",
+    "name": "xanstomper/lazy-chameleon",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:45:10Z",
+    "url": "https://github.com/xanstomper/lazy-chameleon"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-07-13T23:44:41Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
+    "id": "tech-guru254/spec-weaver",
+    "language": "HTML",
+    "name": "tech-guru254/spec-weaver",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:44:34Z",
+    "url": "https://github.com/tech-guru254/spec-weaver"
+  },
+  {
+    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
+    "id": "kodancrash-oss/prompt-weaver-framework",
+    "language": "HTML",
+    "name": "kodancrash-oss/prompt-weaver-framework",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:44:26Z",
+    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:43:39Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:43:04Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 2,
+    "updated_at": "2026-07-13T23:42:05Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
+    "id": "rmdhananjay/contextual-memory-map",
+    "language": "HTML",
+    "name": "rmdhananjay/contextual-memory-map",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:41:17Z",
+    "url": "https://github.com/rmdhananjay/contextual-memory-map"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-07-13T23:39:03Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-13T23:29:15Z",
+    "updated_at": "2026-07-13T23:38:05Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Single source of truth for AI coding rules across Claude Code, Cursor, Copilot, Codex, and more. Write once, sync everyw",
+    "id": "ainova-systems/intelligence-sync",
+    "language": "Shell",
+    "name": "ainova-systems/intelligence-sync",
+    "stars": 3,
+    "updated_at": "2026-07-13T23:36:21Z",
+    "url": "https://github.com/ainova-systems/intelligence-sync"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:35:47Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 58961,
+    "updated_at": "2026-07-13T23:33:49Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:33:38Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
+    "id": "zxpmail/ReqForge",
+    "language": "JavaScript",
+    "name": "zxpmail/ReqForge",
+    "stars": 18,
+    "updated_at": "2026-07-13T23:32:59Z",
+    "url": "https://github.com/zxpmail/ReqForge"
+  },
+  {
+    "description": "21 Lessons, Get Started Building with Generative AI ",
+    "id": "microsoft/generative-ai-for-beginners",
+    "language": "Jupyter Notebook",
+    "name": "microsoft/generative-ai-for-beginners",
+    "stars": 112961,
+    "updated_at": "2026-07-13T23:32:42Z",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:31:03Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 5,
+    "updated_at": "2026-07-13T23:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A battle-tested behavioral framework for running long-horizon RPG campaigns with LLMs. Stops voice drift, canon contamin",
@@ -23,7 +176,7 @@
     "language": "Shell",
     "name": "greerviau/wingman",
     "stars": 1,
-    "updated_at": "2026-07-13T23:28:21Z",
+    "updated_at": "2026-07-13T23:44:33Z",
     "url": "https://github.com/greerviau/wingman"
   },
   {
@@ -50,7 +203,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 799,
-    "updated_at": "2026-07-13T23:25:09Z",
+    "updated_at": "2026-07-13T23:38:17Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -97,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T23:15:42Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 5,
-    "updated_at": "2026-07-13T23:15:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -304,149 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T23:04:08Z",
     "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-07-13T23:04:06Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:03:57Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:03:53Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 151,
-    "updated_at": "2026-07-13T23:03:45Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:03:25Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-07-13T23:03:00Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 2,
-    "updated_at": "2026-07-13T23:02:55Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:01:58Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-07-13T23:01:52Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "\ud83c\udf0a Lagune is your security copilot as you build, your Blue Team when you audit, whether you're a developer or not.",
-    "id": "wellwelwel/lagune",
-    "language": "TypeScript",
-    "name": "wellwelwel/lagune",
-    "stars": 72,
-    "updated_at": "2026-07-13T23:07:00Z",
-    "url": "https://github.com/wellwelwel/lagune"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-13T23:01:06Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "One file teaches your LLM a complete development system \u2014 TRL + AAA + Memory",
-    "id": "TRUGS-LLC/TRUGS-AGENT",
-    "language": "Python",
-    "name": "TRUGS-LLC/TRUGS-AGENT",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:00:42Z",
-    "url": "https://github.com/TRUGS-LLC/TRUGS-AGENT"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10536,
-    "updated_at": "2026-07-13T23:17:20Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-07-13T23:00:33Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31073,
-    "updated_at": "2026-07-13T23:00:13Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-07-13T23:00:10Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
   }
 ]
