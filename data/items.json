@@ -1,5 +1,77 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:25:53Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Plugin para Claude Code com 40 skills de outbound B2B + briefing can\u00f4nico que persiste entre sess\u00f5es. Tunado para lemlis",
+    "id": "henriquecaner/next-level-outreach",
+    "language": "TypeScript",
+    "name": "henriquecaner/next-level-outreach",
+    "stars": 3,
+    "updated_at": "2026-07-13T12:22:58Z",
+    "url": "https://github.com/henriquecaner/next-level-outreach"
+  },
+  {
+    "description": "Tell coherence from truth \u2014 an LLM prompt that lays out any argument's hidden premises, alternatives, and missing eviden",
+    "id": "flypggl-cpu/LARP",
+    "language": "Python",
+    "name": "flypggl-cpu/LARP",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:22:27Z",
+    "url": "https://github.com/flypggl-cpu/LARP"
+  },
+  {
+    "description": "Evidence-first skills for Codex, Cursor, and Claude Code: research, debugging, planning, execution, review, and goal loo",
+    "id": "JinPLu/Teamwork",
+    "language": "Python",
+    "name": "JinPLu/Teamwork",
+    "stars": 6,
+    "updated_at": "2026-07-13T12:21:21Z",
+    "url": "https://github.com/JinPLu/Teamwork"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20577,
+    "updated_at": "2026-07-13T12:20:41Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Lazy Chameleon: synthetic parameter generator that turns flash-class LLMs into frontier-grade reasoners at inference tim",
+    "id": "xanstomper/lazy-chameleon",
+    "language": "Python",
+    "name": "xanstomper/lazy-chameleon",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:19:05Z",
+    "url": "https://github.com/xanstomper/lazy-chameleon"
+  },
+  {
+    "description": " .gitignore for AI coding agents \u2014 tell Claude/Cursor what NOT to read",
+    "id": "0xByteBard404/readignore",
+    "language": "Go",
+    "name": "0xByteBard404/readignore",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:18:21Z",
+    "url": "https://github.com/0xByteBard404/readignore"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 5,
+    "updated_at": "2026-07-13T12:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -7,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T12:14:49Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:13:31Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
@@ -43,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-13T12:11:28Z",
     "url": "https://github.com/omar-y-abdi/furl-ctx"
-  },
-  {
-    "description": "Evidence-first skills for Codex, Cursor, and Claude Code: research, debugging, planning, execution, review, and goal loo",
-    "id": "JinPLu/Teamwork",
-    "language": "Python",
-    "name": "JinPLu/Teamwork",
-    "stars": 6,
-    "updated_at": "2026-07-13T12:11:10Z",
-    "url": "https://github.com/JinPLu/Teamwork"
   },
   {
     "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
@@ -126,21 +180,12 @@
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 5,
-    "updated_at": "2026-07-13T12:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
     "id": "IBM/mcp-context-forge",
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4081,
-    "updated_at": "2026-07-13T12:15:11Z",
+    "updated_at": "2026-07-13T12:25:24Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -166,8 +211,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31039,
-    "updated_at": "2026-07-13T11:55:17Z",
+    "stars": 31040,
+    "updated_at": "2026-07-13T12:25:36Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T11:35:39Z",
     "url": "https://github.com/keilschismatic799/fable-jailbreak"
-  },
-  {
-    "description": "Web dashboard for promptci regression-test reports",
-    "id": "kibin28-glitch/prompt-ci-dashboard",
-    "language": "TypeScript",
-    "name": "kibin28-glitch/prompt-ci-dashboard",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:35:32Z",
-    "url": "https://github.com/kibin28-glitch/prompt-ci-dashboard"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 1,
-    "updated_at": "2026-07-13T11:35:28Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:34:33Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-07-13T11:34:29Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:34:15Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
   }
 ]
