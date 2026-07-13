@@ -1,5 +1,158 @@
 [
   {
+    "description": "El m\u00e9todo para gobernar skills de IA sobre datos reales: golden sets, puertas de no-regresi\u00f3n, verificador independiente",
+    "id": "jleonceo/gobernanza-skills-analiticas",
+    "language": "\u2014",
+    "name": "jleonceo/gobernanza-skills-analiticas",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:44:39Z",
+    "url": "https://github.com/jleonceo/gobernanza-skills-analiticas"
+  },
+  {
+    "description": "Lazy Chameleon: synthetic parameter generator that turns flash-class LLMs into frontier-grade reasoners at inference tim",
+    "id": "xanstomper/lazy-chameleon",
+    "language": "Python",
+    "name": "xanstomper/lazy-chameleon",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:45:23Z",
+    "url": "https://github.com/xanstomper/lazy-chameleon"
+  },
+  {
+    "description": "Eval-driven development for LLM accounting skills. 50 test cases \u00b7 66% \u2192 100% in 6 iterations \u00b7 results reproducible wit",
+    "id": "jleonceo/llm-eval-contable",
+    "language": "Python",
+    "name": "jleonceo/llm-eval-contable",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:43:00Z",
+    "url": "https://github.com/jleonceo/llm-eval-contable"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 26,
+    "updated_at": "2026-07-13T12:44:48Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31042,
+    "updated_at": "2026-07-13T12:42:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "write once in markdown. forge for any harness.",
+    "id": "odysseusdev/hephaestus",
+    "language": "TypeScript",
+    "name": "odysseusdev/hephaestus",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:41:58Z",
+    "url": "https://github.com/odysseusdev/hephaestus"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:43:50Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "How a non-coder builds real software with Claude Code: governance, guardrails, and session rituals - not code reading.",
+    "id": "Arlenjim/claude-code-for-non-coders",
+    "language": "JavaScript",
+    "name": "Arlenjim/claude-code-for-non-coders",
+    "stars": 10,
+    "updated_at": "2026-07-13T12:44:37Z",
+    "url": "https://github.com/Arlenjim/claude-code-for-non-coders"
+  },
+  {
+    "description": "21 Lessons, Get Started Building with Generative AI ",
+    "id": "microsoft/generative-ai-for-beginners",
+    "language": "Jupyter Notebook",
+    "name": "microsoft/generative-ai-for-beginners",
+    "stars": 112940,
+    "updated_at": "2026-07-13T12:39:36Z",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
+    "description": "\ud83e\uddb8 AI \u7f16\u7a0b\u8d85\u80fd\u529b \u00b7 \u4e2d\u6587\u589e\u5f3a\u7248 \u2014 superpowers\uff08116k+ \u2b50\uff09\u5b8c\u6574\u6c49\u5316 + 6 \u4e2a\u4e2d\u56fd\u539f\u521b skills\uff0c\u8ba9 Claude Code / Copilot CLI / Hermes Agent / Cursor / Win",
+    "id": "jnMetaCode/superpowers-zh",
+    "language": "JavaScript",
+    "name": "jnMetaCode/superpowers-zh",
+    "stars": 6820,
+    "updated_at": "2026-07-13T12:36:59Z",
+    "url": "https://github.com/jnMetaCode/superpowers-zh"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10530,
+    "updated_at": "2026-07-13T12:36:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 9,
+    "updated_at": "2026-07-13T12:35:08Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4948,
+    "updated_at": "2026-07-13T12:32:44Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:32:15Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-13T12:30:45Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 5,
+    "updated_at": "2026-07-13T12:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": " .gitignore for AI coding agents \u2014 tell Claude/Cursor what NOT to read",
+    "id": "0xByteBard404/readignore",
+    "language": "Go",
+    "name": "0xByteBard404/readignore",
+    "stars": 0,
+    "updated_at": "2026-07-13T12:30:18Z",
+    "url": "https://github.com/0xByteBard404/readignore"
+  },
+  {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
     "id": "dimitardamjan7-a11y/spec-flow-framework",
     "language": "HTML",
@@ -18,13 +171,13 @@
     "url": "https://github.com/blue-1ms/steady-catch"
   },
   {
-    "description": "write once in markdown. forge for any harness.",
-    "id": "odysseusdev/hephaestus",
-    "language": "TypeScript",
-    "name": "odysseusdev/hephaestus",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:29:48Z",
-    "url": "https://github.com/odysseusdev/hephaestus"
+    "description": "You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session.",
+    "id": "greerviau/wingman",
+    "language": "Shell",
+    "name": "greerviau/wingman",
+    "stars": 1,
+    "updated_at": "2026-07-13T12:29:04Z",
+    "url": "https://github.com/greerviau/wingman"
   },
   {
     "description": "CLAUDE COWORK Governance templates for Claude Cowork \u2014 built from empirical research into long-horizon human-AI collabor",
@@ -34,24 +187,6 @@
     "stars": 44,
     "updated_at": "2026-07-13T12:27:53Z",
     "url": "https://github.com/LivingFramework/LivingFramework.github.io"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 5,
-    "updated_at": "2026-07-13T12:26:02Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:29:06Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "AI-assisted native PHP portfolio CMS with admin dashboard, public website, blog, portfolio, services, gallery, FAQs, con",
@@ -95,26 +230,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20578,
-    "updated_at": "2026-07-13T12:29:58Z",
+    "updated_at": "2026-07-13T12:42:35Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Lazy Chameleon: synthetic parameter generator that turns flash-class LLMs into frontier-grade reasoners at inference tim",
-    "id": "xanstomper/lazy-chameleon",
-    "language": "Python",
-    "name": "xanstomper/lazy-chameleon",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:19:05Z",
-    "url": "https://github.com/xanstomper/lazy-chameleon"
-  },
-  {
-    "description": " .gitignore for AI coding agents \u2014 tell Claude/Cursor what NOT to read",
-    "id": "0xByteBard404/readignore",
-    "language": "Go",
-    "name": "0xByteBard404/readignore",
-    "stars": 0,
-    "updated_at": "2026-07-13T12:30:18Z",
-    "url": "https://github.com/0xByteBard404/readignore"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -133,15 +250,6 @@
     "stars": 152,
     "updated_at": "2026-07-13T12:13:29Z",
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "\ud83e\uddb8 AI \u7f16\u7a0b\u8d85\u80fd\u529b \u00b7 \u4e2d\u6587\u589e\u5f3a\u7248 \u2014 superpowers\uff08116k+ \u2b50\uff09\u5b8c\u6574\u6c49\u5316 + 6 \u4e2a\u4e2d\u56fd\u539f\u521b skills\uff0c\u8ba9 Claude Code / Copilot CLI / Hermes Agent / Cursor / Win",
-    "id": "jnMetaCode/superpowers-zh",
-    "language": "JavaScript",
-    "name": "jnMetaCode/superpowers-zh",
-    "stars": 6819,
-    "updated_at": "2026-07-13T12:12:17Z",
-    "url": "https://github.com/jnMetaCode/superpowers-zh"
   },
   {
     "description": "\uae38\uac8c \uc4f0\uc9c0 \ub9d0\uace0, \ub05d\uae4c\uc9c0 \uc2e4\ud589\ub418\uac8c. \uac70\uce5c \uc694\uccad\uc744 \uacb0\uacfc\u00b7\uac80\uc99d\uae4c\uc9c0 \ub2eb\ud78c \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8\ub85c \ubc14\uafb8\ub294 \uc2a4\ud0ac.",
@@ -198,15 +306,6 @@
     "url": "https://github.com/flexigpt/flexigpt-app"
   },
   {
-    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4948,
-    "updated_at": "2026-07-13T12:30:09Z",
-    "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
     "description": "Switch AIs without re-explaining everything.",
     "id": "spidey889/context-generator",
     "language": "JavaScript",
@@ -239,7 +338,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4081,
-    "updated_at": "2026-07-13T12:29:17Z",
+    "updated_at": "2026-07-13T12:40:54Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -259,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-07-13T11:56:51Z",
     "url": "https://github.com/ssdiwu/507-skills"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31040,
-    "updated_at": "2026-07-13T12:25:36Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-13T11:50:13Z",
     "url": "https://github.com/two-tech-dev/pxml"
-  },
-  {
-    "description": "Chinese-first Codex skill pack for intent alignment, dynamic routing, lightweight development, code review, UI design, a",
-    "id": "CCDawn/codex-skills",
-    "language": "Python",
-    "name": "CCDawn/codex-skills",
-    "stars": 2,
-    "updated_at": "2026-07-13T11:49:01Z",
-    "url": "https://github.com/CCDawn/codex-skills"
-  },
-  {
-    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
-    "id": "rmdhananjay/contextual-memory-map",
-    "language": "HTML",
-    "name": "rmdhananjay/contextual-memory-map",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:48:50Z",
-    "url": "https://github.com/rmdhananjay/contextual-memory-map"
-  },
-  {
-    "description": "A Flutter AI package for Google Gemini \u2014 clean API, streaming, smart defaults, and built-in prompt engineering. More pro",
-    "id": "MohamedOsama26/flutter_mind",
-    "language": "Dart",
-    "name": "MohamedOsama26/flutter_mind",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:48:07Z",
-    "url": "https://github.com/MohamedOsama26/flutter_mind"
-  },
-  {
-    "description": "Typed building blocks for everything around your LLM call.",
-    "id": "use-crux/crux",
-    "language": "TypeScript",
-    "name": "use-crux/crux",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:46:10Z",
-    "url": "https://github.com/use-crux/crux"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 165,
-    "updated_at": "2026-07-13T11:46:09Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Research archive \u2014 eight published papers, Mahdi Ledger, and empirical foundations of the LC-OS governance framework.",
-    "id": "LivingFramework/LC-OS",
-    "language": "\u2014",
-    "name": "LivingFramework/LC-OS",
-    "stars": 2,
-    "updated_at": "2026-07-13T11:45:40Z",
-    "url": "https://github.com/LivingFramework/LC-OS"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:45:09Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Simulate neural network conversations using this Python and Flask-based service for smart, contextual AI responses.",
-    "id": "mensal-familyhemiramphidae391/claudefreemodel",
-    "language": "\u2014",
-    "name": "mensal-familyhemiramphidae391/claudefreemodel",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:45:03Z",
-    "url": "https://github.com/mensal-familyhemiramphidae391/claudefreemodel"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:44:53Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "Structured personality protocol for AI \u2014 cards that talk, fuse, split, debate. Local-first, LLM-agnostic.",
-    "id": "hugepan/PEVM-core",
-    "language": "\u2014",
-    "name": "hugepan/PEVM-core",
-    "stars": 0,
-    "updated_at": "2026-07-13T11:44:01Z",
-    "url": "https://github.com/hugepan/PEVM-core"
   }
 ]
