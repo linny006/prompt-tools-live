@@ -1,11 +1,128 @@
 [
   {
+    "description": "GXP \u2014 Guided eXecution Protocol: a verification-first, binary-criteria workflow for bounded AI agents.",
+    "id": "TinkerandScribe/gxp",
+    "language": "Shell",
+    "name": "TinkerandScribe/gxp",
+    "stars": 0,
+    "updated_at": "2026-07-14T00:14:32Z",
+    "url": "https://github.com/TinkerandScribe/gxp"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-14T00:13:16Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
+    "id": "Zyonic88/Aevryn",
+    "language": "Python",
+    "name": "Zyonic88/Aevryn",
+    "stars": 0,
+    "updated_at": "2026-07-14T00:12:49Z",
+    "url": "https://github.com/Zyonic88/Aevryn"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-07-14T00:09:52Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 0,
+    "updated_at": "2026-07-14T00:09:38Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 58963,
+    "updated_at": "2026-07-14T00:09:21Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-14T00:08:32Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Ecossistema de tutoria via IA que busca e estrutura provas da web. Integra Cloudflare Workers, GitHub Actions, OpenHands",
+    "id": "TouchRefletz/maia.edu",
+    "language": "JavaScript",
+    "name": "TouchRefletz/maia.edu",
+    "stars": 0,
+    "updated_at": "2026-07-14T00:08:21Z",
+    "url": "https://github.com/TouchRefletz/maia.edu"
+  },
+  {
+    "description": "A coding-discipline spec for OpenAI's Codex CLI, enforced by native Codex hooks + a rule-hit telemetry loop. Turns an AG",
+    "id": "sdsrss/agentsmd",
+    "language": "JavaScript",
+    "name": "sdsrss/agentsmd",
+    "stars": 0,
+    "updated_at": "2026-07-14T00:06:54Z",
+    "url": "https://github.com/sdsrss/agentsmd"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-14T00:05:50Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-14T00:03:43Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-07-14T00:02:54Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 5,
+    "updated_at": "2026-07-14T00:02:41Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "YAML composer for assembling agent prompts, hooks, and MCP configs",
     "id": "swoofer/promptweave",
     "language": "TypeScript",
     "name": "swoofer/promptweave",
     "stars": 0,
-    "updated_at": "2026-07-14T00:02:33Z",
+    "updated_at": "2026-07-14T00:03:33Z",
     "url": "https://github.com/swoofer/promptweave"
   },
   {
@@ -54,15 +171,6 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 5,
-    "updated_at": "2026-07-14T00:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
     "id": "Asir11/langgraph-agentic-workflows-tutorial",
     "language": "HTML",
@@ -106,15 +214,6 @@
     "stars": 152,
     "updated_at": "2026-07-13T23:58:29Z",
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 58962,
-    "updated_at": "2026-07-13T23:58:23Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "State-of-the-Art (2026) Claude Code skills for building and auditing software \u2014 40+ domain & language skills, BUILD/AUDI",
@@ -349,104 +448,5 @@
     "stars": 18,
     "updated_at": "2026-07-13T23:32:59Z",
     "url": "https://github.com/zxpmail/ReqForge"
-  },
-  {
-    "description": "21 Lessons, Get Started Building with Generative AI ",
-    "id": "microsoft/generative-ai-for-beginners",
-    "language": "Jupyter Notebook",
-    "name": "microsoft/generative-ai-for-beginners",
-    "stars": 112961,
-    "updated_at": "2026-07-13T23:32:42Z",
-    "url": "https://github.com/microsoft/generative-ai-for-beginners"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:31:03Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:26:59Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
-    "id": "Zyonic88/Aevryn",
-    "language": "Python",
-    "name": "Zyonic88/Aevryn",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:26:26Z",
-    "url": "https://github.com/Zyonic88/Aevryn"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 799,
-    "updated_at": "2026-07-13T23:38:17Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:22:57Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "A coding-discipline spec for OpenAI's Codex CLI, enforced by native Codex hooks + a rule-hit telemetry loop. Turns an AG",
-    "id": "sdsrss/agentsmd",
-    "language": "JavaScript",
-    "name": "sdsrss/agentsmd",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:22:32Z",
-    "url": "https://github.com/sdsrss/agentsmd"
-  },
-  {
-    "description": "AI coding workflow guardrail CLI optimized for TypeScript and Node.js projects.",
-    "id": "projectbom/dev-guard",
-    "language": "TypeScript",
-    "name": "projectbom/dev-guard",
-    "stars": 1,
-    "updated_at": "2026-07-13T23:22:14Z",
-    "url": "https://github.com/projectbom/dev-guard"
-  },
-  {
-    "description": "Azure OpenAI Copilot Studio Personal Agent - Production-tested system instructions for enterprise AI agents",
-    "id": "cgfixit/AzureAI-CopilotStudio-PersonalAgent-Instructions",
-    "language": "Shell",
-    "name": "cgfixit/AzureAI-CopilotStudio-PersonalAgent-Instructions",
-    "stars": 1,
-    "updated_at": "2026-07-13T23:16:31Z",
-    "url": "https://github.com/cgfixit/AzureAI-CopilotStudio-PersonalAgent-Instructions"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:15:42Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:15:03Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   }
 ]
