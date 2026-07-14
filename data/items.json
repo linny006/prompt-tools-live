@@ -1,11 +1,92 @@
 [
   {
+    "description": "Dual-track AI reference architecture: RAG system design & AI Security Engineering (EN/ZH) | \u53cc\u8f68 AI \u53c2\u8003\u67b6\u6784\uff1aRAG \u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5b89\u5168\u5de5\u7a0b",
+    "id": "Hao610/AI-Model-Atlas",
+    "language": "Python",
+    "name": "Hao610/AI-Model-Atlas",
+    "stars": 5,
+    "updated_at": "2026-07-14T09:30:12Z",
+    "url": "https://github.com/Hao610/AI-Model-Atlas"
+  },
+  {
+    "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
+    "id": "truongnat/simple-skills",
+    "language": "JavaScript",
+    "name": "truongnat/simple-skills",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:29:43Z",
+    "url": "https://github.com/truongnat/simple-skills"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31114,
+    "updated_at": "2026-07-14T09:29:08Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\ude80\ud83d\udcaaMaximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/\u4e2d\u6587/Espa\u00f1",
+    "id": "rockbenben/ChatGPT-Shortcut",
+    "language": "TypeScript",
+    "name": "rockbenben/ChatGPT-Shortcut",
+    "stars": 8616,
+    "updated_at": "2026-07-14T09:28:58Z",
+    "url": "https://github.com/rockbenben/ChatGPT-Shortcut"
+  },
+  {
+    "description": "\ud83e\udd16 Simulate AI with go-llm, your unified Go SDK for various Large Language Models, enabling seamless application developm",
+    "id": "Tberke0/go-llm",
+    "language": "Go",
+    "name": "Tberke0/go-llm",
+    "stars": 1,
+    "updated_at": "2026-07-14T09:28:54Z",
+    "url": "https://github.com/Tberke0/go-llm"
+  },
+  {
+    "description": "\ud83d\ude80 Orchestrate parallel Claude Code workers with persistent state and behavioral governance for efficient, autonomous cod",
+    "id": "AudiRamadyan/claude-swarm",
+    "language": "\u2014",
+    "name": "AudiRamadyan/claude-swarm",
+    "stars": 1,
+    "updated_at": "2026-07-14T09:28:40Z",
+    "url": "https://github.com/AudiRamadyan/claude-swarm"
+  },
+  {
+    "description": "\ud83d\udcc4 Enhance your document insights with GenAI, a Retrieval-Augmented Generation API that answers questions from your uploa",
+    "id": "thesiddguy/GenAI",
+    "language": "HTML",
+    "name": "thesiddguy/GenAI",
+    "stars": 0,
+    "updated_at": "2026-07-14T09:28:26Z",
+    "url": "https://github.com/thesiddguy/GenAI"
+  },
+  {
+    "description": "\u58a8\u5bb6\u300c\u7ecf\u8bf4\u53cc\u94fe\u300d\u2014\u2014 \u4e2d\u6587\u5927\u6a21\u578b\u8bed\u4e49\u7ea6\u675f\u63a8\u7406\u67b6\u6784\uff0c\u8ba9 AI \u7528\u4e2d\u6587\u63a8\u7406\u4e0d\u8dd1\u504f",
+    "id": "llxpy/-MoLock",
+    "language": "\u2014",
+    "name": "llxpy/-MoLock",
+    "stars": 1,
+    "updated_at": "2026-07-14T09:28:20Z",
+    "url": "https://github.com/llxpy/-MoLock"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 5,
+    "updated_at": "2026-07-14T09:27:54Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Persona is a plugin for OpenCode that adapts the assistant to each user's professional role.",
     "id": "RuloGB/opencode-persona",
     "language": "TypeScript",
     "name": "RuloGB/opencode-persona",
     "stars": 0,
-    "updated_at": "2026-07-14T09:27:35Z",
+    "updated_at": "2026-07-14T09:28:34Z",
     "url": "https://github.com/RuloGB/opencode-persona"
   },
   {
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T09:27:12Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Dual-track AI reference architecture: RAG system design & AI Security Engineering (EN/ZH) | \u53cc\u8f68 AI \u53c2\u8003\u67b6\u6784\uff1aRAG \u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5b89\u5168\u5de5\u7a0b",
-    "id": "Hao610/AI-Model-Atlas",
-    "language": "Python",
-    "name": "Hao610/AI-Model-Atlas",
-    "stars": 5,
-    "updated_at": "2026-07-14T09:26:20Z",
-    "url": "https://github.com/Hao610/AI-Model-Atlas"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -72,15 +144,6 @@
     "url": "https://github.com/ZaykorDev/AsesorAIrrechisimo"
   },
   {
-    "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
-    "id": "truongnat/simple-skills",
-    "language": "JavaScript",
-    "name": "truongnat/simple-skills",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:24:06Z",
-    "url": "https://github.com/truongnat/simple-skills"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -88,15 +151,6 @@
     "stars": 3364,
     "updated_at": "2026-07-14T09:26:29Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\u58a8\u5bb6\u300c\u7ecf\u8bf4\u53cc\u94fe\u300d\u2014\u2014 \u4e2d\u6587\u5927\u6a21\u578b\u8bed\u4e49\u7ea6\u675f\u63a8\u7406\u67b6\u6784\uff0c\u8ba9 AI \u7528\u4e2d\u6587\u63a8\u7406\u4e0d\u8dd1\u504f",
-    "id": "llxpy/-MoLock",
-    "language": "\u2014",
-    "name": "llxpy/-MoLock",
-    "stars": 1,
-    "updated_at": "2026-07-14T09:23:24Z",
-    "url": "https://github.com/llxpy/-MoLock"
   },
   {
     "description": "MIT reusable AI skills for Codex and Claude Code: safe publishing, research briefs, case studies, web scraping, copy cle",
@@ -189,15 +243,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31113,
-    "updated_at": "2026-07-14T09:25:52Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Semantic diff for LLM prompts \u2014 compare prompt versions like git diff",
     "id": "he-yufeng/PromptDiff",
     "language": "Python",
@@ -205,15 +250,6 @@
     "stars": 6,
     "updated_at": "2026-07-14T09:15:46Z",
     "url": "https://github.com/he-yufeng/PromptDiff"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 5,
-    "updated_at": "2026-07-14T09:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Shrink LLM prompts by 40-70% while preserving meaning, semantic chunking + extractive summarization",
@@ -412,41 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-14T08:59:13Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "",
-    "id": "TheEspresso/prompt-engineering",
-    "language": "\u2014",
-    "name": "TheEspresso/prompt-engineering",
-    "stars": 2,
-    "updated_at": "2026-07-14T08:58:14Z",
-    "url": "https://github.com/TheEspresso/prompt-engineering"
-  },
-  {
-    "description": "Feed your entire codebase to any LLM in one shot. No attachment limits, no upload hassles.",
-    "id": "nesvet/fln",
-    "language": "TypeScript",
-    "name": "nesvet/fln",
-    "stars": 4,
-    "updated_at": "2026-07-14T08:58:14Z",
-    "url": "https://github.com/nesvet/fln"
-  },
-  {
-    "description": "\ud83d\ude80 Explore Prometheus and Grafana in this self-contained playground with a mock metrics server for learning and simulatin",
-    "id": "Monsterw31/prom-playground",
-    "language": "Python",
-    "name": "Monsterw31/prom-playground",
-    "stars": 0,
-    "updated_at": "2026-07-14T08:58:03Z",
-    "url": "https://github.com/Monsterw31/prom-playground"
-  },
-  {
-    "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
-    "id": "liyue-aigc/female-portrait-director",
-    "language": "\u2014",
-    "name": "liyue-aigc/female-portrait-director",
-    "stars": 717,
-    "updated_at": "2026-07-14T08:57:30Z",
-    "url": "https://github.com/liyue-aigc/female-portrait-director"
   }
 ]
