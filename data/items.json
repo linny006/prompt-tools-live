@@ -1,5 +1,59 @@
 [
   {
+    "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
+    "id": "Norinatiring463/loop-engineering",
+    "language": "Python",
+    "name": "Norinatiring463/loop-engineering",
+    "stars": 1,
+    "updated_at": "2026-07-15T12:44:25Z",
+    "url": "https://github.com/Norinatiring463/loop-engineering"
+  },
+  {
+    "description": "Open-source cheat sheets for Claude Code, Codex, Cursor, Copilot, Grok, MCP, AGENTS.md, CLAUDE.md, prompts, and team AI ",
+    "id": "AnkitParekh007/ai-tools-cheatsheets",
+    "language": "JavaScript",
+    "name": "AnkitParekh007/ai-tools-cheatsheets",
+    "stars": 0,
+    "updated_at": "2026-07-15T12:43:33Z",
+    "url": "https://github.com/AnkitParekh007/ai-tools-cheatsheets"
+  },
+  {
+    "description": "An independent senior code reviewer packaged as a folder. Catches real bugs using a strict three-element rule (where, tr",
+    "id": "shifteddevlabs/check-point",
+    "language": "\u2014",
+    "name": "shifteddevlabs/check-point",
+    "stars": 0,
+    "updated_at": "2026-07-15T12:43:27Z",
+    "url": "https://github.com/shifteddevlabs/check-point"
+  },
+  {
+    "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 5,
+    "updated_at": "2026-07-15T12:42:51Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Agent skills for agentic coding tools. Extremely opinionated. Updated (almost) daily.",
+    "id": "JHostalek/dotclaude",
+    "language": "Shell",
+    "name": "JHostalek/dotclaude",
+    "stars": 10,
+    "updated_at": "2026-07-15T12:41:50Z",
+    "url": "https://github.com/JHostalek/dotclaude"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-15T12:41:49Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
     "id": "crisnahine/chameleon",
     "language": "Python",
@@ -108,15 +162,6 @@
     "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
   },
   {
-    "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Shell",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 5,
-    "updated_at": "2026-07-15T12:38:33Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
     "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
     "id": "Maxiesuggestive393/claude-code-cli",
     "language": "TypeScript",
@@ -139,7 +184,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 7929,
+    "stars": 7930,
     "updated_at": "2026-07-15T12:38:00Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -250,15 +295,6 @@
     "stars": 135,
     "updated_at": "2026-07-15T12:34:00Z",
     "url": "https://github.com/AnastasiyaW/claude-code-config"
-  },
-  {
-    "description": "Agent skills for agentic coding tools. Extremely opinionated. Updated (almost) daily.",
-    "id": "JHostalek/dotclaude",
-    "language": "Shell",
-    "name": "JHostalek/dotclaude",
-    "stars": 10,
-    "updated_at": "2026-07-15T12:33:58Z",
-    "url": "https://github.com/JHostalek/dotclaude"
   },
   {
     "description": "Generate production-ready cinematic video prompts for Higgsfield AI from reference images and project briefs.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T12:30:50Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 3,
-    "updated_at": "2026-07-15T12:30:29Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-15T12:30:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 1,
-    "updated_at": "2026-07-15T12:30:07Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Optimize development performance by stripping away unnecessary abstractions and focusing on raw code execution.",
-    "id": "Ricarddefensive803/caveman-skill",
-    "language": "\u2014",
-    "name": "Ricarddefensive803/caveman-skill",
-    "stars": 1,
-    "updated_at": "2026-07-15T12:29:55Z",
-    "url": "https://github.com/Ricarddefensive803/caveman-skill"
   }
 ]
