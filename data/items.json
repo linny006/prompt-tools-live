@@ -1,5 +1,41 @@
 [
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 59333,
+    "updated_at": "2026-07-15T18:17:31Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 2,
+    "updated_at": "2026-07-15T18:16:36Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-15T18:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:15:18Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -158,7 +194,7 @@
     "language": "HTML",
     "name": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
     "stars": 1,
-    "updated_at": "2026-07-15T18:04:35Z",
+    "updated_at": "2026-07-15T18:17:47Z",
     "url": "https://github.com/devpal-singh-anand/ABTalks-60-Day-Claude-Challenge"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/spidey889/context-generator"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-15T18:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
     "id": "promptdriven/pdd",
     "language": "Python",
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23291,
-    "updated_at": "2026-07-15T18:11:51Z",
+    "updated_at": "2026-07-15T18:15:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -329,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3367,
-    "updated_at": "2026-07-15T18:11:38Z",
+    "updated_at": "2026-07-15T18:15:57Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-15T17:36:47Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "An intelligent Retrieval-Augmented Generation (RAG) chatbot and document analysis platform for tax legislation.",
-    "id": "rayyanfaisal475207/TaxIQ",
-    "language": "Python",
-    "name": "rayyanfaisal475207/TaxIQ",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:36:01Z",
-    "url": "https://github.com/rayyanfaisal475207/TaxIQ"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1572,
-    "updated_at": "2026-07-15T17:35:56Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 26,
-    "updated_at": "2026-07-15T17:35:33Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   }
 ]
