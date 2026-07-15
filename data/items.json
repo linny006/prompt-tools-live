@@ -1,5 +1,41 @@
 [
   {
+    "description": "High-performance tool for managing LLM conversations and workflows as DAGs.",
+    "id": "fundamental-research-labs/langdag",
+    "language": "Go",
+    "name": "fundamental-research-labs/langdag",
+    "stars": 28,
+    "updated_at": "2026-07-15T23:35:14Z",
+    "url": "https://github.com/fundamental-research-labs/langdag"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-07-15T23:33:02Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session.",
+    "id": "greerviau/wingman",
+    "language": "Shell",
+    "name": "greerviau/wingman",
+    "stars": 1,
+    "updated_at": "2026-07-15T23:31:30Z",
+    "url": "https://github.com/greerviau/wingman"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-15T23:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "MCP server for LLM-operable Midjourney image generation \u2014 compose, generate, inspect with vision, curate, log. 20 tools.",
     "id": "laffeyp/cascade-img",
     "language": "Python",
@@ -99,15 +135,6 @@
     "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
   },
   {
-    "description": "You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session.",
-    "id": "greerviau/wingman",
-    "language": "Shell",
-    "name": "greerviau/wingman",
-    "stars": 1,
-    "updated_at": "2026-07-15T23:20:41Z",
-    "url": "https://github.com/greerviau/wingman"
-  },
-  {
     "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
     "id": "linnetforeign896/app-monitor",
     "language": "Swift",
@@ -196,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-07-15T23:15:28Z",
     "url": "https://github.com/minirr890112-byte/HermesMade"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-15T23:15:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-15T23:06:06Z",
     "url": "https://github.com/adlaiponderous700/claude-skill-cinematic-prompt"
-  },
-  {
-    "description": "Analyze resumes against job descriptions using Claude AI to generate match scores, gap insights, and improvement actions",
-    "id": "Lynnastretched449/ai-hiring-workflow-engine",
-    "language": "Python",
-    "name": "Lynnastretched449/ai-hiring-workflow-engine",
-    "stars": 1,
-    "updated_at": "2026-07-15T23:05:59Z",
-    "url": "https://github.com/Lynnastretched449/ai-hiring-workflow-engine"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-07-15T23:05:54Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
   }
 ]
