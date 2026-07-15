@@ -1,5 +1,23 @@
 [
   {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 165,
+    "updated_at": "2026-07-15T19:42:52Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-15T19:42:40Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session.",
     "id": "greerviau/wingman",
     "language": "Shell",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10577,
-    "updated_at": "2026-07-15T19:41:55Z",
+    "updated_at": "2026-07-15T19:43:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -79,24 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-15T19:30:54Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-15T19:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 165,
-    "updated_at": "2026-07-15T19:30:20Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "Quality gate for Agent Skills: inspect, pressure test, validate, and grade skills before release.",
