@@ -1,12 +1,111 @@
 [
   {
+    "description": "\u2728 Free AI image prompt library \u2014 globally curated, daily updated. Full prompt text, preview images, 10 languages. Browse",
+    "id": "ai-moge/awesome-image-prompts",
+    "language": "\u2014",
+    "name": "ai-moge/awesome-image-prompts",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:29:36Z",
+    "url": "https://github.com/ai-moge/awesome-image-prompts"
+  },
+  {
+    "description": "AI-powered n8n workflow generating personalized LinkedIn connection notes using Groq and Llama.",
+    "id": "biradarpranav/AI-LinkedIn-Personalization-Workflow",
+    "language": "\u2014",
+    "name": "biradarpranav/AI-LinkedIn-Personalization-Workflow",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:29:25Z",
+    "url": "https://github.com/biradarpranav/AI-LinkedIn-Personalization-Workflow"
+  },
+  {
+    "description": "Build better AI prompts in seconds with reusable templates, a fast prompt builder, and one-click sharing.",
+    "id": "nico1008/EasyPrompt",
+    "language": "TypeScript",
+    "name": "nico1008/EasyPrompt",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:27:41Z",
+    "url": "https://github.com/nico1008/EasyPrompt"
+  },
+  {
+    "description": "You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session.",
+    "id": "greerviau/wingman",
+    "language": "Shell",
+    "name": "greerviau/wingman",
+    "stars": 1,
+    "updated_at": "2026-07-15T18:27:15Z",
+    "url": "https://github.com/greerviau/wingman"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 36615,
+    "updated_at": "2026-07-15T18:26:05Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "\ud83d\udc69\u200d\ud83d\udcbb\u270d\ufe0f Prompt orchestration with Vue/React components. Compatible on any Node.js/browser runtime. No more context renderi",
+    "id": "moeru-ai/velin",
+    "language": "TypeScript",
+    "name": "moeru-ai/velin",
+    "stars": 51,
+    "updated_at": "2026-07-15T18:27:09Z",
+    "url": "https://github.com/moeru-ai/velin"
+  },
+  {
+    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
+    "id": "Muizzkolapo/agent-actions",
+    "language": "Python",
+    "name": "Muizzkolapo/agent-actions",
+    "stars": 8,
+    "updated_at": "2026-07-15T18:24:07Z",
+    "url": "https://github.com/Muizzkolapo/agent-actions"
+  },
+  {
+    "description": "AI music DNA hybridizer that turns playlists into Suno-ready prompts and lyrics.",
+    "id": "danielalvesrs/suno-music-dna",
+    "language": "TypeScript",
+    "name": "danielalvesrs/suno-music-dna",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:21:48Z",
+    "url": "https://github.com/danielalvesrs/suno-music-dna"
+  },
+  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 59333,
-    "updated_at": "2026-07-15T18:17:31Z",
+    "stars": 59336,
+    "updated_at": "2026-07-15T18:20:52Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "60 days. 60 prompts. 1 AI. Zero excuses. \u2014 My ABTalks Claude AI Challenge journey.",
+    "id": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
+    "language": "HTML",
+    "name": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
+    "stars": 1,
+    "updated_at": "2026-07-15T18:19:19Z",
+    "url": "https://github.com/devpal-singh-anand/ABTalks-60-Day-Claude-Challenge"
+  },
+  {
+    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
+    "id": "AditthyaSS/iloveAgents",
+    "language": "JavaScript",
+    "name": "AditthyaSS/iloveAgents",
+    "stars": 114,
+    "updated_at": "2026-07-15T18:19:11Z",
+    "url": "https://github.com/AditthyaSS/iloveAgents"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-15T18:18:02Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
@@ -16,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-07-15T18:16:36Z",
     "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-15T18:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -72,15 +162,6 @@
     "url": "https://github.com/benmfzen/know-no-hearsay"
   },
   {
-    "description": "Build better AI prompts in seconds with reusable templates, a fast prompt builder, and one-click sharing.",
-    "id": "nico1008/EasyPrompt",
-    "language": "TypeScript",
-    "name": "nico1008/EasyPrompt",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:12:31Z",
-    "url": "https://github.com/nico1008/EasyPrompt"
-  },
-  {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
     "id": "J-nowcow/awesome-korean-agent-skills",
     "language": "\u2014",
@@ -88,15 +169,6 @@
     "stars": 24,
     "updated_at": "2026-07-15T18:10:08Z",
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session.",
-    "id": "greerviau/wingman",
-    "language": "Shell",
-    "name": "greerviau/wingman",
-    "stars": 1,
-    "updated_at": "2026-07-15T18:14:27Z",
-    "url": "https://github.com/greerviau/wingman"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -171,6 +243,15 @@
     "url": "https://github.com/Colonyfitzprovide/Agent-Skills-Library-2026"
   },
   {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3246,
+    "updated_at": "2026-07-15T18:05:23Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
     "id": "vikashjeyaraman/opencouncil-contract-inspector",
     "language": "HTML",
@@ -178,24 +259,6 @@
     "stars": 151,
     "updated_at": "2026-07-15T18:04:49Z",
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "\ud83d\udc69\u200d\ud83d\udcbb\u270d\ufe0f Prompt orchestration with Vue/React components. Compatible on any Node.js/browser runtime. No more context renderi",
-    "id": "moeru-ai/velin",
-    "language": "TypeScript",
-    "name": "moeru-ai/velin",
-    "stars": 51,
-    "updated_at": "2026-07-15T18:04:43Z",
-    "url": "https://github.com/moeru-ai/velin"
-  },
-  {
-    "description": "60 days. 60 prompts. 1 AI. Zero excuses. \u2014 My ABTalks Claude AI Challenge journey.",
-    "id": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
-    "language": "HTML",
-    "name": "devpal-singh-anand/ABTalks-60-Day-Claude-Challenge",
-    "stars": 1,
-    "updated_at": "2026-07-15T18:17:47Z",
-    "url": "https://github.com/devpal-singh-anand/ABTalks-60-Day-Claude-Challenge"
   },
   {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
@@ -239,8 +302,17 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 795,
-    "updated_at": "2026-07-15T18:14:57Z",
+    "updated_at": "2026-07-15T18:26:56Z",
     "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10575,
+    "updated_at": "2026-07-15T18:00:25Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Arize Phoenix APIs.json profile for API Evangelist catalog",
@@ -257,7 +329,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23291,
-    "updated_at": "2026-07-15T18:15:53Z",
+    "updated_at": "2026-07-15T18:21:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -337,7 +409,7 @@
     "id": "darrenhinde/OpenAgentsControl",
     "language": "TypeScript",
     "name": "darrenhinde/OpenAgentsControl",
-    "stars": 4574,
+    "stars": 4575,
     "updated_at": "2026-07-15T17:51:26Z",
     "url": "https://github.com/darrenhinde/OpenAgentsControl"
   },
@@ -356,7 +428,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3367,
-    "updated_at": "2026-07-15T18:15:57Z",
+    "updated_at": "2026-07-15T18:28:07Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T17:48:03Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
-    "id": "LucioLiu/nuwa",
-    "language": "\u2014",
-    "name": "LucioLiu/nuwa",
-    "stars": 2,
-    "updated_at": "2026-07-15T17:47:06Z",
-    "url": "https://github.com/LucioLiu/nuwa"
-  },
-  {
-    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
-    "id": "christopherlouet/claude-base",
-    "language": "Shell",
-    "name": "christopherlouet/claude-base",
-    "stars": 5,
-    "updated_at": "2026-07-15T17:45:16Z",
-    "url": "https://github.com/christopherlouet/claude-base"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10574,
-    "updated_at": "2026-07-15T18:00:25Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:41:44Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:40:41Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Say it naturally. HumanToAction turns rough requests into execution-ready agent briefs.",
-    "id": "The-Tesseract-Team/human-to-action",
-    "language": "Python",
-    "name": "The-Tesseract-Team/human-to-action",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:39:08Z",
-    "url": "https://github.com/The-Tesseract-Team/human-to-action"
-  },
-  {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-07-15T17:36:48Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-15T17:36:47Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
