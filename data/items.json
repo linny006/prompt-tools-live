@@ -1,5 +1,167 @@
 [
   {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 165,
+    "updated_at": "2026-07-15T19:30:20Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 59341,
+    "updated_at": "2026-07-15T19:30:19Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Quality gate for Agent Skills: inspect, pressure test, validate, and grade skills before release.",
+    "id": "zztimur/skill-forge",
+    "language": "Python",
+    "name": "zztimur/skill-forge",
+    "stars": 0,
+    "updated_at": "2026-07-15T19:29:10Z",
+    "url": "https://github.com/zztimur/skill-forge"
+  },
+  {
+    "description": "Single source of truth for AI coding rules across Claude Code, Cursor, Copilot, Codex, and more. Write once, sync everyw",
+    "id": "ainova-systems/intelligence-sync",
+    "language": "Shell",
+    "name": "ainova-systems/intelligence-sync",
+    "stars": 3,
+    "updated_at": "2026-07-15T19:29:08Z",
+    "url": "https://github.com/ainova-systems/intelligence-sync"
+  },
+  {
+    "description": "Psychometric profiling for LLMs \u2014 run public-domain personality tests (OEJTS) and manipulation-resistance probes against",
+    "id": "spyrad/persona-forge",
+    "language": "TypeScript",
+    "name": "spyrad/persona-forge",
+    "stars": 0,
+    "updated_at": "2026-07-15T19:28:40Z",
+    "url": "https://github.com/spyrad/persona-forge"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31211,
+    "updated_at": "2026-07-15T19:30:05Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-15T19:26:01Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-07-15T19:23:58Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
+    "id": "Magma1321/mythos-agent-pipe",
+    "language": "HTML",
+    "name": "Magma1321/mythos-agent-pipe",
+    "stars": 153,
+    "updated_at": "2026-07-15T19:22:20Z",
+    "url": "https://github.com/Magma1321/mythos-agent-pipe"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 23,
+    "updated_at": "2026-07-15T19:21:30Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "Optimal-path problem solving for AI agents \u2014 triage, prune, investigate. MCP server + agent skill combining Newton's Ana",
+    "id": "1111111111111111111114oLvT2/inquisitor",
+    "language": "Python",
+    "name": "1111111111111111111114oLvT2/inquisitor",
+    "stars": 5,
+    "updated_at": "2026-07-15T19:20:59Z",
+    "url": "https://github.com/1111111111111111111114oLvT2/inquisitor"
+  },
+  {
+    "description": "Hide secrets & PII in logs, prompts, and text before they leak \u2014 with a reversible layer that keeps them out of your Ope",
+    "id": "umudhasanli/flare-redact",
+    "language": "TypeScript",
+    "name": "umudhasanli/flare-redact",
+    "stars": 6,
+    "updated_at": "2026-07-15T19:20:18Z",
+    "url": "https://github.com/umudhasanli/flare-redact"
+  },
+  {
+    "description": "Windows \u672c\u5730\u5f00\u6e90 AI \u63d0\u793a\u8bcd\u52a9\u624b\uff0c\u652f\u6301\u53cc\u8bed\u63d0\u793a\u8bcd\u7ec4\u5408\u3001\u4f18\u5316\u3001\u8bcd\u5e93\u7ba1\u7406\u4e0e\u56fe\u7247\u8f6c\u63d0\u793a\u8bcd\u3002",
+    "id": "bilinanxi/promptmate",
+    "language": "TypeScript",
+    "name": "bilinanxi/promptmate",
+    "stars": 0,
+    "updated_at": "2026-07-15T19:19:37Z",
+    "url": "https://github.com/bilinanxi/promptmate"
+  },
+  {
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "id": "AgustiPuigserver/opus-prompt-architect",
+    "language": "HTML",
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "stars": 153,
+    "updated_at": "2026-07-15T19:19:06Z",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-15T19:19:04Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
+    "id": "heavenaruba/codified-prompt-rule-engine",
+    "language": "HTML",
+    "name": "heavenaruba/codified-prompt-rule-engine",
+    "stars": 153,
+    "updated_at": "2026-07-15T19:18:40Z",
+    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
+  },
+  {
+    "description": "A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and pa",
+    "id": "google/mantis",
+    "language": "\u2014",
+    "name": "google/mantis",
+    "stars": 276,
+    "updated_at": "2026-07-15T19:17:21Z",
+    "url": "https://github.com/google/mantis"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-15T19:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
     "id": "danlex/suno-lab",
     "language": "Python",
@@ -7,15 +169,6 @@
     "stars": 8,
     "updated_at": "2026-07-15T19:14:48Z",
     "url": "https://github.com/danlex/suno-lab"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 59338,
-    "updated_at": "2026-07-15T19:09:56Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -90,15 +243,6 @@
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-15T19:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
     "id": "Kenny27lokku/prompt-integrity-validator",
     "language": "HTML",
@@ -162,15 +306,6 @@
     "url": "https://github.com/AETHER-ENGINEERS/AETHER-ENGINEERS"
   },
   {
-    "description": "Optimal-path problem solving for AI agents \u2014 triage, prune, investigate. MCP server + agent skill combining Newton's Ana",
-    "id": "1111111111111111111114oLvT2/inquisitor",
-    "language": "Python",
-    "name": "1111111111111111111114oLvT2/inquisitor",
-    "stars": 5,
-    "updated_at": "2026-07-15T18:57:24Z",
-    "url": "https://github.com/1111111111111111111114oLvT2/inquisitor"
-  },
-  {
     "description": "Build better AI prompts in seconds with reusable templates, a fast prompt builder, and one-click sharing.",
     "id": "nico1008/EasyPrompt",
     "language": "TypeScript",
@@ -216,15 +351,6 @@
     "url": "https://github.com/omar-y-abdi/furl-ctx"
   },
   {
-    "description": "Psychometric profiling for LLMs \u2014 run public-domain personality tests (OEJTS) and manipulation-resistance probes against",
-    "id": "spyrad/persona-forge",
-    "language": "TypeScript",
-    "name": "spyrad/persona-forge",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:53:40Z",
-    "url": "https://github.com/spyrad/persona-forge"
-  },
-  {
     "description": "Tell coherence from truth \u2014 an LLM prompt that lays out any argument's hidden premises, alternatives, and missing eviden",
     "id": "flypggl-cpu/LARP",
     "language": "Python",
@@ -248,7 +374,7 @@
     "language": "Shell",
     "name": "greerviau/wingman",
     "stars": 1,
-    "updated_at": "2026-07-15T18:51:25Z",
+    "updated_at": "2026-07-15T19:17:28Z",
     "url": "https://github.com/greerviau/wingman"
   },
   {
@@ -297,15 +423,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 165,
-    "updated_at": "2026-07-15T19:07:33Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
     "description": "\ud83d\udc3e Une m\u00e9thode open source pour qu'une IA m\u00e8ne une recherche web fiable, sourc\u00e9e et v\u00e9rifi\u00e9e, en orchestrant des sous-age",
     "id": "smartellhuss-afk/patte-griffue-research",
     "language": "JavaScript",
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-15T18:42:17Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Dockerized multimodal AI video-captioning agent using Gemini, Qwen, and Claude for frame-validated styled captions.",
-    "id": "sagarms260500-sudo/caption-agent",
-    "language": "Python",
-    "name": "sagarms260500-sudo/caption-agent",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:40:40Z",
-    "url": "https://github.com/sagarms260500-sudo/caption-agent"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31210,
-    "updated_at": "2026-07-15T19:15:12Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI music DNA hybridizer that turns playlists into Suno-ready prompts and lyrics.",
-    "id": "danielalvesrs/suno-music-dna",
-    "language": "TypeScript",
-    "name": "danielalvesrs/suno-music-dna",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:38:19Z",
-    "url": "https://github.com/danielalvesrs/suno-music-dna"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:36:21Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Vellum \u2014 LLM platform for evaluation, deployment, monitoring",
-    "id": "api-evangelist/vellum",
-    "language": "\u2014",
-    "name": "api-evangelist/vellum",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:35:26Z",
-    "url": "https://github.com/api-evangelist/vellum"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23293,
-    "updated_at": "2026-07-15T18:34:31Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:33:49Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Building AI applications while learning LLMs, RAG, AI Agents, and Prompt Engineering.",
-    "id": "SanaSehgal/ai-engineering-journey",
-    "language": "\u2014",
-    "name": "SanaSehgal/ai-engineering-journey",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:33:01Z",
-    "url": "https://github.com/SanaSehgal/ai-engineering-journey"
-  },
-  {
-    "description": "\ud83d\udc69\u200d\ud83d\udcbb\u270d\ufe0f Prompt orchestration with Vue/React components. Compatible on any Node.js/browser runtime. No more context renderi",
-    "id": "moeru-ai/velin",
-    "language": "TypeScript",
-    "name": "moeru-ai/velin",
-    "stars": 51,
-    "updated_at": "2026-07-15T18:40:20Z",
-    "url": "https://github.com/moeru-ai/velin"
-  },
-  {
-    "description": "\u2728 Free AI image prompt library \u2014 globally curated, daily updated. Full prompt text, preview images, 10 languages. Browse",
-    "id": "ai-moge/awesome-image-prompts",
-    "language": "\u2014",
-    "name": "ai-moge/awesome-image-prompts",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:29:36Z",
-    "url": "https://github.com/ai-moge/awesome-image-prompts"
-  },
-  {
-    "description": "AI-powered n8n workflow generating personalized LinkedIn connection notes using Groq and Llama.",
-    "id": "biradarpranav/AI-LinkedIn-Personalization-Workflow",
-    "language": "\u2014",
-    "name": "biradarpranav/AI-LinkedIn-Personalization-Workflow",
-    "stars": 0,
-    "updated_at": "2026-07-15T18:29:25Z",
-    "url": "https://github.com/biradarpranav/AI-LinkedIn-Personalization-Workflow"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "Python",
-    "name": "github/awesome-copilot",
-    "stars": 36617,
-    "updated_at": "2026-07-15T18:26:05Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
-    "id": "Muizzkolapo/agent-actions",
-    "language": "Python",
-    "name": "Muizzkolapo/agent-actions",
-    "stars": 8,
-    "updated_at": "2026-07-15T18:53:14Z",
-    "url": "https://github.com/Muizzkolapo/agent-actions"
   }
 ]
