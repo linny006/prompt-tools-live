@@ -1,30 +1,93 @@
 [
   {
+    "description": "A system-prompt spec for calibrated reasoning over agreeableness \u2014 explicit confidence, steelmanning, and misframe rejec",
+    "id": "tonirissanen2nd/thinking-partner-mode",
+    "language": "\u2014",
+    "name": "tonirissanen2nd/thinking-partner-mode",
+    "stars": 0,
+    "updated_at": "2026-07-15T09:44:56Z",
+    "url": "https://github.com/tonirissanen2nd/thinking-partner-mode"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 165,
+    "updated_at": "2026-07-15T09:44:47Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Moved to IchenDEV/prompt-optimizer-plugins. Historical Fable 5 v1.0.0 repository.",
+    "id": "IchenDEV/claude-fable-5-prompt-optimizer",
+    "language": "\u2014",
+    "name": "IchenDEV/claude-fable-5-prompt-optimizer",
+    "stars": 0,
+    "updated_at": "2026-07-15T09:43:16Z",
+    "url": "https://github.com/IchenDEV/claude-fable-5-prompt-optimizer"
+  },
+  {
+    "description": "Dual-protocol prompt optimizer plugins for GPT-5.6 and Claude Fable 5, compatible with Codex and Claude Code.",
+    "id": "IchenDEV/prompt-optimizer-plugins",
+    "language": "\u2014",
+    "name": "IchenDEV/prompt-optimizer-plugins",
+    "stars": 0,
+    "updated_at": "2026-07-15T09:42:59Z",
+    "url": "https://github.com/IchenDEV/prompt-optimizer-plugins"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31189,
+    "updated_at": "2026-07-15T09:42:18Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
     "name": "HIDORAKAI002/ai-workspace-archive",
     "stars": 26,
-    "updated_at": "2026-07-15T09:32:34Z",
+    "updated_at": "2026-07-15T09:42:06Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3365,
-    "updated_at": "2026-07-15T09:32:34Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+    "id": "majiayu000/spellbook",
+    "language": "Python",
+    "name": "majiayu000/spellbook",
+    "stars": 234,
+    "updated_at": "2026-07-15T09:38:10Z",
+    "url": "https://github.com/majiayu000/spellbook"
   },
   {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 76,
-    "updated_at": "2026-07-15T09:31:16Z",
-    "url": "https://github.com/KbWen/agentic-os"
+    "description": "AI agent helping new immigrants navigate Israeli bureaucracy using Vertex AI, RAG, and text-to-SQL",
+    "id": "abernatkunin/OlehAssistAgent",
+    "language": "Jupyter Notebook",
+    "name": "abernatkunin/OlehAssistAgent",
+    "stars": 0,
+    "updated_at": "2026-07-15T09:37:13Z",
+    "url": "https://github.com/abernatkunin/OlehAssistAgent"
+  },
+  {
+    "description": "Forge production-grade AI prompts for cinematic hero sections \u2014 14 archetypes, 12 mood palettes, live previews. React + ",
+    "id": "Yosoyun/herosmith",
+    "language": "TypeScript",
+    "name": "Yosoyun/herosmith",
+    "stars": 0,
+    "updated_at": "2026-07-15T09:36:26Z",
+    "url": "https://github.com/Yosoyun/herosmith"
+  },
+  {
+    "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
+    "id": "liyue-aigc/female-portrait-director",
+    "language": "\u2014",
+    "name": "liyue-aigc/female-portrait-director",
+    "stars": 818,
+    "updated_at": "2026-07-15T09:34:08Z",
+    "url": "https://github.com/liyue-aigc/female-portrait-director"
   },
   {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
@@ -32,8 +95,35 @@
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 6,
-    "updated_at": "2026-07-15T09:30:27Z",
+    "updated_at": "2026-07-15T09:32:56Z",
     "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3365,
+    "updated_at": "2026-07-15T09:34:50Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Practical Generative AI projects covering LLMs, RAG, AI agents, SQL agents, tool calling, and Streamlit applications bui",
+    "id": "pranayprasad7001/generative-ai-projects",
+    "language": "Python",
+    "name": "pranayprasad7001/generative-ai-projects",
+    "stars": 0,
+    "updated_at": "2026-07-15T09:32:20Z",
+    "url": "https://github.com/pranayprasad7001/generative-ai-projects"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 76,
+    "updated_at": "2026-07-15T09:42:13Z",
+    "url": "https://github.com/KbWen/agentic-os"
   },
   {
     "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
@@ -70,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T09:29:22Z",
     "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31189,
-    "updated_at": "2026-07-15T09:32:45Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
@@ -175,7 +256,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 37904,
+    "stars": 37906,
     "updated_at": "2026-07-15T09:22:42Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -367,86 +448,5 @@
     "stars": 1187,
     "updated_at": "2026-07-15T09:15:53Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:15:39Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:15:23Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 152,
-    "updated_at": "2026-07-15T09:15:22Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:15:08Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "\u9762\u5411 GPT-5.6 \u7684 Prompt \u7f16\u8bd1 Codex Skill\uff1a\u628a\u5df2\u6709\u63d0\u793a\u8bcd\u6216\u7c97\u7565\u9700\u6c42\u6574\u7406\u4e3a\u6700\u5c0f\u5145\u5206\u4efb\u52a1\u89c4\u8303",
-    "id": "supbewhy-sudo/supbewhy-pts",
-    "language": "Python",
-    "name": "supbewhy-sudo/supbewhy-pts",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:15:06Z",
-    "url": "https://github.com/supbewhy-sudo/supbewhy-pts"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:14:47Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:14:45Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:14:39Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 2,
-    "updated_at": "2026-07-15T09:14:17Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
   }
 ]
