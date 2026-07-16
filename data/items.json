@@ -1,12 +1,111 @@
 [
   {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-16T02:44:22Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
+    "id": "zxpmail/ReqForge",
+    "language": "JavaScript",
+    "name": "zxpmail/ReqForge",
+    "stars": 18,
+    "updated_at": "2026-07-16T02:43:41Z",
+    "url": "https://github.com/zxpmail/ReqForge"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-07-16T02:42:39Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
+    "id": "ZeroLu/awesome-seedance",
+    "language": "Shell",
+    "name": "ZeroLu/awesome-seedance",
+    "stars": 2135,
+    "updated_at": "2026-07-16T02:41:47Z",
+    "url": "https://github.com/ZeroLu/awesome-seedance"
+  },
+  {
+    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
+    "id": "kimtth/azure-openai-llm-wiki",
+    "language": "Python",
+    "name": "kimtth/azure-openai-llm-wiki",
+    "stars": 403,
+    "updated_at": "2026-07-16T02:41:09Z",
+    "url": "https://github.com/kimtth/azure-openai-llm-wiki"
+  },
+  {
     "description": "Universal AI-native project workflow for Cursor, Claude Code, Codex, TRAE, Qoder, CodeBuddy and other AI coding assistan",
     "id": "AlanHuang168/AI-Project-Workflow",
     "language": "JavaScript",
     "name": "AlanHuang168/AI-Project-Workflow",
     "stars": 11,
-    "updated_at": "2026-07-16T02:29:54Z",
+    "updated_at": "2026-07-16T02:40:35Z",
     "url": "https://github.com/AlanHuang168/AI-Project-Workflow"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 36635,
+    "updated_at": "2026-07-16T02:40:09Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 9,
+    "updated_at": "2026-07-16T02:39:30Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "",
+    "id": "ZhiMaHang/playbook",
+    "language": "Shell",
+    "name": "ZhiMaHang/playbook",
+    "stars": 0,
+    "updated_at": "2026-07-16T02:39:18Z",
+    "url": "https://github.com/ZhiMaHang/playbook"
+  },
+  {
+    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
+    "id": "Mr-Salticidae/knowledge-base",
+    "language": "Python",
+    "name": "Mr-Salticidae/knowledge-base",
+    "stars": 17,
+    "updated_at": "2026-07-16T02:36:04Z",
+    "url": "https://github.com/Mr-Salticidae/knowledge-base"
+  },
+  {
+    "description": "You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session.",
+    "id": "greerviau/wingman",
+    "language": "Shell",
+    "name": "greerviau/wingman",
+    "stars": 1,
+    "updated_at": "2026-07-16T02:30:34Z",
+    "url": "https://github.com/greerviau/wingman"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-16T02:30:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ready-to-use context files that make Claude (or any AI assistant) dramatically more useful. Role-based CLAUDE.md templat",
@@ -27,15 +126,6 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
-    "id": "zxpmail/ReqForge",
-    "language": "JavaScript",
-    "name": "zxpmail/ReqForge",
-    "stars": 18,
-    "updated_at": "2026-07-16T02:26:40Z",
-    "url": "https://github.com/zxpmail/ReqForge"
-  },
-  {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
     "id": "vikashjeyaraman/opencouncil-contract-inspector",
     "language": "HTML",
@@ -54,24 +144,6 @@
     "url": "https://github.com/danlex/suno-lab"
   },
   {
-    "description": "",
-    "id": "ZhiMaHang/playbook",
-    "language": "Shell",
-    "name": "ZhiMaHang/playbook",
-    "stars": 0,
-    "updated_at": "2026-07-16T02:19:18Z",
-    "url": "https://github.com/ZhiMaHang/playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-16T02:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Agent Package Manager",
     "id": "microsoft/apm",
     "language": "Python",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T02:13:51Z",
     "url": "https://github.com/f4sT357/Gen_Ai_Normalizer_For_Power_Users"
-  },
-  {
-    "description": "You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session.",
-    "id": "greerviau/wingman",
-    "language": "Shell",
-    "name": "greerviau/wingman",
-    "stars": 1,
-    "updated_at": "2026-07-16T02:21:06Z",
-    "url": "https://github.com/greerviau/wingman"
   },
   {
     "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
@@ -166,7 +229,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27047,
+    "stars": 27048,
     "updated_at": "2026-07-16T02:02:49Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -383,70 +446,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 795,
-    "updated_at": "2026-07-16T01:47:45Z",
+    "updated_at": "2026-07-16T02:44:19Z",
     "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "\ud83c\udfa7 \u534e\u8bed\u6d41\u884c\u521b\u4f5c Skill\uff1a\u628a\u7075\u611f\u788e\u7247\u53d8\u6210\u6709\u753b\u9762\u3001\u6709 Hook\u3001\u6709\u539f\u521b\u6027\u68c0\u67e5\u7684\u6b4c\u66f2\u65b9\u6848\u3002",
-    "id": "aimonj0729-ai/jay-chou-skill",
-    "language": "Python",
-    "name": "aimonj0729-ai/jay-chou-skill",
-    "stars": 2,
-    "updated_at": "2026-07-16T01:39:46Z",
-    "url": "https://github.com/aimonj0729-ai/jay-chou-skill"
-  },
-  {
-    "description": "Extract structured thinking profiles from public figures to evaluate your real-world decisions using any AI model.",
-    "id": "tacticalwarningsubscriptionwarrant526/borrowed-brain-pro",
-    "language": "\u2014",
-    "name": "tacticalwarningsubscriptionwarrant526/borrowed-brain-pro",
-    "stars": 0,
-    "updated_at": "2026-07-16T01:39:41Z",
-    "url": "https://github.com/tacticalwarningsubscriptionwarrant526/borrowed-brain-pro"
-  },
-  {
-    "description": "\ud83e\udded AI \u529e\u516c\u5ba4 Landing Page \u4f5c\u6218\u5ba4\uff1a\u7528 Living Brief \u8c03\u5ea6\u591a\u667a\u80fd\u4f53\uff0c\u628a\u6df7\u4e71\u9700\u6c42\u4f1a\u53d8\u6210\u53ef\u4ea4\u4ed8\u9875\u9762\u3002",
-    "id": "aimonj0729-ai/ai-office-landing-skill",
-    "language": "Shell",
-    "name": "aimonj0729-ai/ai-office-landing-skill",
-    "stars": 1,
-    "updated_at": "2026-07-16T01:38:37Z",
-    "url": "https://github.com/aimonj0729-ai/ai-office-landing-skill"
-  },
-  {
-    "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
-    "id": "Norinatiring463/loop-engineering",
-    "language": "Python",
-    "name": "Norinatiring463/loop-engineering",
-    "stars": 1,
-    "updated_at": "2026-07-16T01:36:45Z",
-    "url": "https://github.com/Norinatiring463/loop-engineering"
-  },
-  {
-    "description": "A collection of system prompts and AI kernels for use with large language models.",
-    "id": "thatoldfarm/system-prompt",
-    "language": "HTML",
-    "name": "thatoldfarm/system-prompt",
-    "stars": 6,
-    "updated_at": "2026-07-16T01:36:33Z",
-    "url": "https://github.com/thatoldfarm/system-prompt"
-  },
-  {
-    "description": "Reusable AI skills, prompts, and agent workflows.",
-    "id": "idaibin/aicraft",
-    "language": "Python",
-    "name": "idaibin/aicraft",
-    "stars": 2,
-    "updated_at": "2026-07-16T01:36:26Z",
-    "url": "https://github.com/idaibin/aicraft"
-  },
-  {
-    "description": "A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and pa",
-    "id": "google/mantis",
-    "language": "\u2014",
-    "name": "google/mantis",
-    "stars": 289,
-    "updated_at": "2026-07-16T01:35:58Z",
-    "url": "https://github.com/google/mantis"
   }
 ]
