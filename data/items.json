@@ -1,11 +1,38 @@
 [
   {
+    "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship, with a harness deciding ",
+    "id": "minhtran3124/agent-harness",
+    "language": "Shell",
+    "name": "minhtran3124/agent-harness",
+    "stars": 1,
+    "updated_at": "2026-07-16T14:17:08Z",
+    "url": "https://github.com/minhtran3124/agent-harness"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 0,
+    "updated_at": "2026-07-16T14:16:24Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-16T14:15:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Deepdive skill for Claude Code \u2014 11-phase research pipeline: plan-review gate, parallel sub-agent search with circuit br",
     "id": "Socialpranker/deepdive",
     "language": "Python",
     "name": "Socialpranker/deepdive",
     "stars": 5,
-    "updated_at": "2026-07-16T14:15:08Z",
+    "updated_at": "2026-07-16T14:18:56Z",
     "url": "https://github.com/Socialpranker/deepdive"
   },
   {
@@ -22,7 +49,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31269,
+    "stars": 31270,
     "updated_at": "2026-07-16T14:12:53Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -72,21 +99,12 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
   {
-    "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship, with a harness deciding ",
-    "id": "minhtran3124/agent-harness",
-    "language": "Shell",
-    "name": "minhtran3124/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-07-16T14:12:03Z",
-    "url": "https://github.com/minhtran3124/agent-harness"
-  },
-  {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
     "id": "IBM/mcp-context-forge",
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4101,
-    "updated_at": "2026-07-16T14:15:07Z",
+    "updated_at": "2026-07-16T14:18:39Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -117,7 +135,7 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "AIOS (Artificial Intelligence Operating System) is an AI-powered educational framework for creating structured learning ",
+    "description": "AI-powered framework for building structured learning content using reusable prompts, AI agents, templates and automated",
     "id": "fdeniz07/AIOS",
     "language": "\u2014",
     "name": "fdeniz07/AIOS",
@@ -198,21 +216,12 @@
     "url": "https://github.com/eljulians/skillfile"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-16T14:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4298,
-    "updated_at": "2026-07-16T13:59:46Z",
+    "updated_at": "2026-07-16T14:17:44Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T13:42:20Z",
     "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4983,
-    "updated_at": "2026-07-16T13:42:14Z",
-    "url": "https://github.com/vllm-project/semantic-router"
   }
 ]
