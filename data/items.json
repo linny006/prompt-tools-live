@@ -1,5 +1,32 @@
 [
   {
+    "description": "Bootstrap the 45ck agent stack with shared skills, Claude and Codex agents, project tooling, and embedded packs",
+    "id": "blinnieinfertile577/skill-harness",
+    "language": "JavaScript",
+    "name": "blinnieinfertile577/skill-harness",
+    "stars": 1,
+    "updated_at": "2026-07-16T19:30:36Z",
+    "url": "https://github.com/blinnieinfertile577/skill-harness"
+  },
+  {
+    "description": "Build a self-improving agent system prompt for coding, research, automation, and long-running projects",
+    "id": "unofficial-necturus123/most-capable-agent-system-prompt",
+    "language": "\u2014",
+    "name": "unofficial-necturus123/most-capable-agent-system-prompt",
+    "stars": 0,
+    "updated_at": "2026-07-16T19:30:34Z",
+    "url": "https://github.com/unofficial-necturus123/most-capable-agent-system-prompt"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-16T19:30:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A multi-modal AI integrating Grok, OpenAI, and Gemini for retrieval-augmented generation (RAG), semantic search, and str",
     "id": "is-leeroy-jenkins/Buddy",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T19:22:30Z",
     "url": "https://github.com/trenchant-rogaine315/ai-engineer-vault"
-  },
-  {
-    "description": "Learn Claude and Claude Code best practices for skills, MCP tools, and agentic workflows in one living guide",
-    "id": "Priyamo4482/claude-best-practices",
-    "language": "\u2014",
-    "name": "Priyamo4482/claude-best-practices",
-    "stars": 0,
-    "updated_at": "2026-07-16T19:22:28Z",
-    "url": "https://github.com/Priyamo4482/claude-best-practices"
-  },
-  {
-    "description": "Multi-agent AI prompt system that turns restaurant data into reports, built around a hard anti-fabrication discipline. P",
-    "id": "pascal-gonsales/restaurant-ai-agents",
-    "language": "Python",
-    "name": "pascal-gonsales/restaurant-ai-agents",
-    "stars": 0,
-    "updated_at": "2026-07-16T19:22:27Z",
-    "url": "https://github.com/pascal-gonsales/restaurant-ai-agents"
-  },
-  {
-    "description": "Exports source repositories into compact Markdown context files for LLM prompting and codebase review",
-    "id": "msaly/repo-context-exporter",
-    "language": "\u2014",
-    "name": "msaly/repo-context-exporter",
-    "stars": 0,
-    "updated_at": "2026-07-16T19:22:26Z",
-    "url": "https://github.com/msaly/repo-context-exporter"
   }
 ]
