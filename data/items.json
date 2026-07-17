@@ -1,12 +1,165 @@
 [
   {
+    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
+    "id": "lulin70/carrymem",
+    "language": "Python",
+    "name": "lulin70/carrymem",
+    "stars": 5,
+    "updated_at": "2026-07-17T15:44:06Z",
+    "url": "https://github.com/lulin70/carrymem"
+  },
+  {
+    "description": "Project-neutral coding-agent instructions with a reproducible multi-model eval harness.",
+    "id": "astandrik/my_instructions",
+    "language": "Python",
+    "name": "astandrik/my_instructions",
+    "stars": 6,
+    "updated_at": "2026-07-17T15:43:23Z",
+    "url": "https://github.com/astandrik/my_instructions"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 49,
+    "updated_at": "2026-07-17T15:42:43Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "A system-prompt spec for calibrated reasoning over agreeableness \u2014 explicit confidence, steelmanning, and misframe rejec",
+    "id": "tonirissanen2nd/thinking-partner-mode",
+    "language": "\u2014",
+    "name": "tonirissanen2nd/thinking-partner-mode",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:42:39Z",
+    "url": "https://github.com/tonirissanen2nd/thinking-partner-mode"
+  },
+  {
     "description": "Independent, reproducible weekly research observing how LLMs actually behave \u2014 not which one is 'best'.",
     "id": "ai-behavior-observatory/ai-behavior-observatory",
     "language": "Python",
     "name": "ai-behavior-observatory/ai-behavior-observatory",
     "stars": 0,
-    "updated_at": "2026-07-17T15:28:48Z",
+    "updated_at": "2026-07-17T15:42:37Z",
     "url": "https://github.com/ai-behavior-observatory/ai-behavior-observatory"
+  },
+  {
+    "description": "Notebook-style doodle visuals for WeChat articles. \u9762\u5411\u5fae\u4fe1\u516c\u4f17\u53f7\u6587\u7ae0\u7684\u624b\u5e10\u6d82\u9e26\u98ce\u914d\u56fe\u6280\u80fd",
+    "id": "oneszc/inknote-wechat-illustrations",
+    "language": "\u2014",
+    "name": "oneszc/inknote-wechat-illustrations",
+    "stars": 2,
+    "updated_at": "2026-07-17T15:40:22Z",
+    "url": "https://github.com/oneszc/inknote-wechat-illustrations"
+  },
+  {
+    "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 13,
+    "updated_at": "2026-07-17T15:40:16Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
+    "id": "truongnat/simple-skills",
+    "language": "Python",
+    "name": "truongnat/simple-skills",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:40:11Z",
+    "url": "https://github.com/truongnat/simple-skills"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3369,
+    "updated_at": "2026-07-17T15:42:35Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "",
+    "id": "aks-builds/context-budget-alloc",
+    "language": "TypeScript",
+    "name": "aks-builds/context-budget-alloc",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:39:28Z",
+    "url": "https://github.com/aks-builds/context-budget-alloc"
+  },
+  {
+    "description": "A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and pa",
+    "id": "google/mantis",
+    "language": "\u2014",
+    "name": "google/mantis",
+    "stars": 401,
+    "updated_at": "2026-07-17T15:38:27Z",
+    "url": "https://github.com/google/mantis"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 8,
+    "updated_at": "2026-07-17T15:37:55Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "Autonomous multi-agent research system built with LangGraph that conducts comprehensive investigations on individuals an",
+    "id": "Akhera24/deep-research-ai-agent",
+    "language": "Python",
+    "name": "Akhera24/deep-research-ai-agent",
+    "stars": 1,
+    "updated_at": "2026-07-17T15:37:03Z",
+    "url": "https://github.com/Akhera24/deep-research-ai-agent"
+  },
+  {
+    "description": "AI agent orchestration kit for Windows, Linux/MacOS with Codex skills, hooks, routing rules and profiles for Claude, Ope",
+    "id": "FernandoBolzan/Orquestrador-Maestro",
+    "language": "Python",
+    "name": "FernandoBolzan/Orquestrador-Maestro",
+    "stars": 24,
+    "updated_at": "2026-07-17T15:33:33Z",
+    "url": "https://github.com/FernandoBolzan/Orquestrador-Maestro"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20650,
+    "updated_at": "2026-07-17T15:32:05Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 4592,
+    "updated_at": "2026-07-17T15:45:19Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 7,
+    "updated_at": "2026-07-17T15:31:03Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-17T15:30:39Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Tested prompts for the writing every founder puts off: launch tweets, Show HN, README intros, cold emails, changelogs, a",
@@ -16,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:28:31Z",
     "url": "https://github.com/aicompanyendlessinnovations/dev-launch-pack"
-  },
-  {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 49,
-    "updated_at": "2026-07-17T15:28:11Z",
-    "url": "https://github.com/ariffazil/arifos"
   },
   {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
@@ -54,21 +198,12 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3369,
-    "updated_at": "2026-07-17T15:29:57Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
     "id": "Agenta-AI/agenta",
     "language": "TypeScript",
     "name": "Agenta-AI/agenta",
     "stars": 4298,
-    "updated_at": "2026-07-17T15:27:41Z",
+    "updated_at": "2026-07-17T15:43:59Z",
     "url": "https://github.com/Agenta-AI/agenta"
   },
   {
@@ -79,6 +214,15 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:23:55Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Enterprise conversational AI assistant built with LangChain, LLMs, FastAPI, prompt engineering, and intelligent chat wor",
+    "id": "gireeshvuyyuru501-design/enterprise-llm-chat-assistant",
+    "language": "Jupyter Notebook",
+    "name": "gireeshvuyyuru501-design/enterprise-llm-chat-assistant",
+    "stars": 1,
+    "updated_at": "2026-07-17T15:23:41Z",
+    "url": "https://github.com/gireeshvuyyuru501-design/enterprise-llm-chat-assistant"
   },
   {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
@@ -117,21 +261,12 @@
     "url": "https://github.com/iiizzzyyy/promptmetrics"
   },
   {
-    "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 13,
-    "updated_at": "2026-07-17T15:20:49Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
     "description": "Agent Package Manager",
     "id": "microsoft/apm",
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 3269,
-    "updated_at": "2026-07-17T15:20:03Z",
+    "updated_at": "2026-07-17T15:38:32Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -157,7 +292,7 @@
     "id": "vakovalskii/qwen-native-agents",
     "language": "Python",
     "name": "vakovalskii/qwen-native-agents",
-    "stars": 19,
+    "stars": 20,
     "updated_at": "2026-07-17T15:17:22Z",
     "url": "https://github.com/vakovalskii/qwen-native-agents"
   },
@@ -187,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-07-17T15:16:11Z",
     "url": "https://github.com/kish21/product-playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-17T15:15:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -270,15 +396,6 @@
     "url": "https://github.com/kerasum2704/discipline-duel-v1"
   },
   {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 7,
-    "updated_at": "2026-07-17T15:12:47Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
     "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
     "id": "Despairing-taka262/xios-aim-assist-script",
     "language": "HTML",
@@ -297,15 +414,6 @@
     "url": "https://github.com/linnetforeign896/app-monitor"
   },
   {
-    "description": "",
-    "id": "aks-builds/context-budget-alloc",
-    "language": "TypeScript",
-    "name": "aks-builds/context-budget-alloc",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:11:12Z",
-    "url": "https://github.com/aks-builds/context-budget-alloc"
-  },
-  {
     "description": "Extract structured thinking profiles from public figures to evaluate your real-world decisions using any AI model.",
     "id": "tacticalwarningsubscriptionwarrant526/borrowed-brain-pro",
     "language": "\u2014",
@@ -313,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:10:59Z",
     "url": "https://github.com/tacticalwarningsubscriptionwarrant526/borrowed-brain-pro"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20649,
-    "updated_at": "2026-07-17T15:23:46Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:07:25Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:07:17Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:07:04Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:07:04Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "AIOS is a repository-driven AI engineering framework that standardizes how AI assistants collaborate with software proje",
-    "id": "fdeniz07/AIOS",
-    "language": "Python",
-    "name": "fdeniz07/AIOS",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:06:59Z",
-    "url": "https://github.com/fdeniz07/AIOS"
-  },
-  {
-    "description": "A template language for composable LLM prompt engineering. Write prompts with variables, loops, conditionals, functions,",
-    "id": "dean0x/mdscript",
-    "language": "Rust",
-    "name": "dean0x/mdscript",
-    "stars": 2,
-    "updated_at": "2026-07-17T15:06:14Z",
-    "url": "https://github.com/dean0x/mdscript"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:05:43Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:05:36Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "AI Novel Diagnosis Desk\uff1a\u4e00\u7ad9\u5f0f AI \u7f51\u6587\u8bca\u65ad\u5de5\u4f5c\u53f0\uff0c\u53ef\u81ea\u52a8\u89e3\u6790\u5c0f\u8bf4\u6587\u672c\uff0c\u751f\u6210\u5c0f\u8bf4\u4eba\u7269\u5173\u7cfb\u56fe\u8c31\uff0c\u8bca\u65ad\u8bfb\u8005\u6d41\u5931\u539f\u56e0\uff0c\u5e76\u8f93\u51fa\u53ef\u6267\u884c\u7684\u667a\u80fd\u6539\u7a3f Prompt\u3002",
-    "id": "myyimu/ai-novel-diagnosis",
-    "language": "TypeScript",
-    "name": "myyimu/ai-novel-diagnosis",
-    "stars": 13,
-    "updated_at": "2026-07-17T15:04:56Z",
-    "url": "https://github.com/myyimu/ai-novel-diagnosis"
-  },
-  {
-    "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
-    "id": "keilschismatic799/fable-jailbreak",
-    "language": "\u2014",
-    "name": "keilschismatic799/fable-jailbreak",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:03:56Z",
-    "url": "https://github.com/keilschismatic799/fable-jailbreak"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 1,
-    "updated_at": "2026-07-17T15:03:49Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 1,
-    "updated_at": "2026-07-17T15:03:00Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
   }
 ]
