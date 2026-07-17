@@ -1,5 +1,95 @@
 [
   {
+    "description": "A public AI Engineering roadmap featuring hands-on projects, LLMs, RAG, AI Agents, LangGraph, and production-ready AI sy",
+    "id": "akmayank94/ai-engineering-roadmap",
+    "language": "Python",
+    "name": "akmayank94/ai-engineering-roadmap",
+    "stars": 2,
+    "updated_at": "2026-07-17T15:58:59Z",
+    "url": "https://github.com/akmayank94/ai-engineering-roadmap"
+  },
+  {
+    "description": "Production-grade Codex skills with explicit triggers, deterministic validation, and reusable AI agent workflows.",
+    "id": "libenxier-beep/codex-custom-skills",
+    "language": "Python",
+    "name": "libenxier-beep/codex-custom-skills",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:59:04Z",
+    "url": "https://github.com/libenxier-beep/codex-custom-skills"
+  },
+  {
+    "description": "Notebook-style doodle visuals for WeChat articles. \u9762\u5411\u5fae\u4fe1\u516c\u4f17\u53f7\u6587\u7ae0\u7684\u624b\u5e10\u6d82\u9e26\u98ce\u914d\u56fe\u6280\u80fd",
+    "id": "oneszc/inknote-wechat-illustrations",
+    "language": "\u2014",
+    "name": "oneszc/inknote-wechat-illustrations",
+    "stars": 2,
+    "updated_at": "2026-07-17T15:58:04Z",
+    "url": "https://github.com/oneszc/inknote-wechat-illustrations"
+  },
+  {
+    "description": "Vibe Coding \u8f7b\u91cf\u9879\u76ee\u5b9e\u9a8c\u5ba4\uff1aWeb \u5e94\u7528\u3001\u684c\u9762\u5de5\u5177\u3001Prompt \u8d44\u6599\u5e93\u4e0e Codex Skills",
+    "id": "jiaxuan-tao/vibe-coding-lab",
+    "language": "JavaScript",
+    "name": "jiaxuan-tao/vibe-coding-lab",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:57:34Z",
+    "url": "https://github.com/jiaxuan-tao/vibe-coding-lab"
+  },
+  {
+    "description": "Independent, reproducible weekly research observing how LLMs actually behave \u2014 not which one is 'best'.",
+    "id": "ai-behavior-observatory/ai-behavior-observatory",
+    "language": "Python",
+    "name": "ai-behavior-observatory/ai-behavior-observatory",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:57:18Z",
+    "url": "https://github.com/ai-behavior-observatory/ai-behavior-observatory"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 49,
+    "updated_at": "2026-07-17T15:56:49Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31337,
+    "updated_at": "2026-07-17T15:56:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A curated prompt library for PMs covering discovery, strategy, stakeholder comms, interviews, and data analysis. Built i",
+    "id": "Sanjayh1/pm-prompt-library",
+    "language": "\u2014",
+    "name": "Sanjayh1/pm-prompt-library",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:59:41Z",
+    "url": "https://github.com/Sanjayh1/pm-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-17T15:50:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10599,
+    "updated_at": "2026-07-17T15:49:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -40,7 +130,7 @@
     "id": "kyegomez/swarms",
     "language": "Python",
     "name": "kyegomez/swarms",
-    "stars": 6950,
+    "stars": 6951,
     "updated_at": "2026-07-17T15:48:07Z",
     "url": "https://github.com/kyegomez/swarms"
   },
@@ -70,15 +160,6 @@
     "stars": 234,
     "updated_at": "2026-07-17T15:45:32Z",
     "url": "https://github.com/majiayu000/spellbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-17T15:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -126,15 +207,6 @@
     "url": "https://github.com/astandrik/my_instructions"
   },
   {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 49,
-    "updated_at": "2026-07-17T15:42:43Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
     "description": "A system-prompt spec for calibrated reasoning over agreeableness \u2014 explicit confidence, steelmanning, and misframe rejec",
     "id": "tonirissanen2nd/thinking-partner-mode",
     "language": "\u2014",
@@ -142,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:42:39Z",
     "url": "https://github.com/tonirissanen2nd/thinking-partner-mode"
-  },
-  {
-    "description": "Independent, reproducible weekly research observing how LLMs actually behave \u2014 not which one is 'best'.",
-    "id": "ai-behavior-observatory/ai-behavior-observatory",
-    "language": "Python",
-    "name": "ai-behavior-observatory/ai-behavior-observatory",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:49:30Z",
-    "url": "https://github.com/ai-behavior-observatory/ai-behavior-observatory"
-  },
-  {
-    "description": "Notebook-style doodle visuals for WeChat articles. \u9762\u5411\u5fae\u4fe1\u516c\u4f17\u53f7\u6587\u7ae0\u7684\u624b\u5e10\u6d82\u9e26\u98ce\u914d\u56fe\u6280\u80fd",
-    "id": "oneszc/inknote-wechat-illustrations",
-    "language": "\u2014",
-    "name": "oneszc/inknote-wechat-illustrations",
-    "stars": 2,
-    "updated_at": "2026-07-17T15:40:22Z",
-    "url": "https://github.com/oneszc/inknote-wechat-illustrations"
   },
   {
     "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
@@ -185,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3369,
-    "updated_at": "2026-07-17T15:42:35Z",
+    "updated_at": "2026-07-17T15:57:32Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -196,6 +250,15 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:39:28Z",
     "url": "https://github.com/aks-builds/context-budget-alloc"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3270,
+    "updated_at": "2026-07-17T15:38:32Z",
+    "url": "https://github.com/microsoft/apm"
   },
   {
     "description": "A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and pa",
@@ -238,8 +301,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20650,
-    "updated_at": "2026-07-17T15:32:05Z",
+    "stars": 20651,
+    "updated_at": "2026-07-17T15:54:19Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -277,15 +340,6 @@
     "stars": 32269,
     "updated_at": "2026-07-17T15:26:10Z",
     "url": "https://github.com/linshenkx/prompt-optimizer"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31336,
-    "updated_at": "2026-07-17T15:29:26Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one ",
@@ -351,15 +405,6 @@
     "url": "https://github.com/iiizzzyyy/promptmetrics"
   },
   {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3269,
-    "updated_at": "2026-07-17T15:38:32Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -382,7 +427,7 @@
     "id": "vakovalskii/qwen-native-agents",
     "language": "Python",
     "name": "vakovalskii/qwen-native-agents",
-    "stars": 20,
+    "stars": 21,
     "updated_at": "2026-07-17T15:17:22Z",
     "url": "https://github.com/vakovalskii/qwen-native-agents"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:17:11Z",
     "url": "https://github.com/CZL1998/skill-roast"
-  },
-  {
-    "description": "A guided, principle-driven Claude Code skill set: 18 commands that take your idea \u2192 shipped, one phase at a time, with e",
-    "id": "kish21/product-playbook",
-    "language": "Python",
-    "name": "kish21/product-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-17T15:16:11Z",
-    "url": "https://github.com/kish21/product-playbook"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:15:37Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 150,
-    "updated_at": "2026-07-17T15:15:02Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:14:09Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:13:56Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
   }
 ]
