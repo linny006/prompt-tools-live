@@ -1,5 +1,50 @@
 [
   {
+    "description": "LLM Agent for Large-Scale Data Processing on Models with Limited Context.",
+    "id": "cizekmilan/llm-large-data-agent",
+    "language": "Python",
+    "name": "cizekmilan/llm-large-data-agent",
+    "stars": 0,
+    "updated_at": "2026-07-17T22:15:21Z",
+    "url": "https://github.com/cizekmilan/llm-large-data-agent"
+  },
+  {
+    "description": "Aura Frog \u2014 Claude Code plugin \u2014 10 agents, 5-phase TDD workflow, 3-tier rules, 27 hooks. Stop prompting. Start shipping",
+    "id": "nguyenthienthanh/aura-frog",
+    "language": "JavaScript",
+    "name": "nguyenthienthanh/aura-frog",
+    "stars": 24,
+    "updated_at": "2026-07-17T22:14:48Z",
+    "url": "https://github.com/nguyenthienthanh/aura-frog"
+  },
+  {
+    "description": "Measuring which LLM tier (foundation / instruction-tuned / SLM) you actually need for Florida Building Code lookups \u2014 wi",
+    "id": "dotnetspark/fbc-model-routing-benchmark",
+    "language": "Jupyter Notebook",
+    "name": "dotnetspark/fbc-model-routing-benchmark",
+    "stars": 0,
+    "updated_at": "2026-07-17T22:14:33Z",
+    "url": "https://github.com/dotnetspark/fbc-model-routing-benchmark"
+  },
+  {
+    "description": "\ud83d\udc19 AI Craft delivers structured workflow prompts for software development across AI platforms, with Claude AI workflows a",
+    "id": "R-cloud-git/ai-craft",
+    "language": "\u2014",
+    "name": "R-cloud-git/ai-craft",
+    "stars": 3,
+    "updated_at": "2026-07-17T22:13:19Z",
+    "url": "https://github.com/R-cloud-git/ai-craft"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-17T22:13:08Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai",
     "id": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
     "language": "\u2014",
@@ -108,15 +153,6 @@
     "url": "https://github.com/kaderkck/hewn-forge"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-17T22:00:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -214,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T21:55:30Z",
     "url": "https://github.com/allemaar/open-skills"
-  },
-  {
-    "description": "LLM Agent for Large-Scale Data Processing on Models with Limited Context.",
-    "id": "cizekmilan/llm-large-data-agent",
-    "language": "Python",
-    "name": "cizekmilan/llm-large-data-agent",
-    "stars": 0,
-    "updated_at": "2026-07-17T21:55:15Z",
-    "url": "https://github.com/cizekmilan/llm-large-data-agent"
   },
   {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T21:42:26Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Tested prompts for the writing every founder puts off: launch tweets, Show HN, README intros, cold emails, changelogs, a",
-    "id": "aicompanyendlessinnovations/dev-launch-pack",
-    "language": "HTML",
-    "name": "aicompanyendlessinnovations/dev-launch-pack",
-    "stars": 0,
-    "updated_at": "2026-07-17T21:41:20Z",
-    "url": "https://github.com/aicompanyendlessinnovations/dev-launch-pack"
-  },
-  {
-    "description": "Runbook AI: Operational Memory & Execution Discipline for Coding Agents 2026",
-    "id": "rmdhananjay/contextual-memory-map",
-    "language": "HTML",
-    "name": "rmdhananjay/contextual-memory-map",
-    "stars": 0,
-    "updated_at": "2026-07-17T21:39:59Z",
-    "url": "https://github.com/rmdhananjay/contextual-memory-map"
-  },
-  {
-    "description": "Tell coherence from truth \u2014 an LLM prompt that lays out any argument's hidden premises, alternatives, and missing eviden",
-    "id": "flypggl-cpu/LARP",
-    "language": "Python",
-    "name": "flypggl-cpu/LARP",
-    "stars": 0,
-    "updated_at": "2026-07-17T21:38:42Z",
-    "url": "https://github.com/flypggl-cpu/LARP"
   }
 ]
