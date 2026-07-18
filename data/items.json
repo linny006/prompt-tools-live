@@ -1,5 +1,68 @@
 [
   {
+    "description": "Local context engine for AI coding agents. Routes tasks to relevant files, tests, rules, and skills, supports prompt cac",
+    "id": "vishal2612200/agentpack",
+    "language": "Python",
+    "name": "vishal2612200/agentpack",
+    "stars": 21,
+    "updated_at": "2026-07-18T03:29:58Z",
+    "url": "https://github.com/vishal2612200/agentpack"
+  },
+  {
+    "description": " Agent\u9a71\u52a8\u7684\u591a\u573a\u666f\u89c6\u9891\u81ea\u52a8\u751f\u6210\u7cfb\u7edf",
+    "id": "Y-w1234/ai-short-drama-platform",
+    "language": "Python",
+    "name": "Y-w1234/ai-short-drama-platform",
+    "stars": 0,
+    "updated_at": "2026-07-18T03:29:48Z",
+    "url": "https://github.com/Y-w1234/ai-short-drama-platform"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 799,
+    "updated_at": "2026-07-18T03:27:29Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
+    "id": "truongnat/simple-skills",
+    "language": "Python",
+    "name": "truongnat/simple-skills",
+    "stars": 0,
+    "updated_at": "2026-07-18T03:26:37Z",
+    "url": "https://github.com/truongnat/simple-skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-18T03:26:28Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-07-18T03:25:49Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-18T03:25:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
     "id": "Sunwood-ai-labs/OpenFace",
     "language": "CSS",
@@ -22,7 +85,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 8310,
+    "stars": 8312,
     "updated_at": "2026-07-18T03:23:01Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -72,24 +135,6 @@
     "url": "https://github.com/TFD-42/Wild_Root_Prompt"
   },
   {
-    "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
-    "id": "truongnat/simple-skills",
-    "language": "Python",
-    "name": "truongnat/simple-skills",
-    "stars": 0,
-    "updated_at": "2026-07-18T03:17:25Z",
-    "url": "https://github.com/truongnat/simple-skills"
-  },
-  {
-    "description": " Agent\u9a71\u52a8\u7684\u591a\u573a\u666f\u89c6\u9891\u81ea\u52a8\u751f\u6210\u7cfb\u7edf",
-    "id": "Y-w1234/ai-short-drama-platform",
-    "language": "Python",
-    "name": "Y-w1234/ai-short-drama-platform",
-    "stars": 0,
-    "updated_at": "2026-07-18T03:16:48Z",
-    "url": "https://github.com/Y-w1234/ai-short-drama-platform"
-  },
-  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 23372,
     "updated_at": "2026-07-18T03:15:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-18T03:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-18T02:31:51Z",
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Strategic Executive Technology Hub \u2014 an AI brand-audit system built on deterministic context orchestration and a statist",
-    "id": "j-manchesterllc/SETH",
-    "language": "TypeScript",
-    "name": "j-manchesterllc/SETH",
-    "stars": 2,
-    "updated_at": "2026-07-18T02:31:38Z",
-    "url": "https://github.com/j-manchesterllc/SETH"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 1,
-    "updated_at": "2026-07-18T02:31:36Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
-    "id": "Norinatiring463/loop-engineering",
-    "language": "Python",
-    "name": "Norinatiring463/loop-engineering",
-    "stars": 1,
-    "updated_at": "2026-07-18T02:31:36Z",
-    "url": "https://github.com/Norinatiring463/loop-engineering"
-  },
-  {
-    "description": "\u57fa\u4e8e\u5de5\u4f5c\u533a\u6587\u4ef6\u4f20\u9012\u7684\u6a21\u5757\u5316 Agent Skill \u91d1\u878d\u5206\u6790\u5de5\u4f5c\u6d41",
-    "id": "BTspaceC/SAS-FAS-analyst",
-    "language": "Python",
-    "name": "BTspaceC/SAS-FAS-analyst",
-    "stars": 2,
-    "updated_at": "2026-07-18T02:30:27Z",
-    "url": "https://github.com/BTspaceC/SAS-FAS-analyst"
   }
 ]
