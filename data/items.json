@@ -1,5 +1,131 @@
 [
   {
+    "description": "Tested prompts for the writing every founder puts off: launch tweets, Show HN, README intros, cold emails, changelogs, a",
+    "id": "aicompanyendlessinnovations/dev-launch-pack",
+    "language": "HTML",
+    "name": "aicompanyendlessinnovations/dev-launch-pack",
+    "stars": 0,
+    "updated_at": "2026-07-18T02:59:55Z",
+    "url": "https://github.com/aicompanyendlessinnovations/dev-launch-pack"
+  },
+  {
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1769,
+    "updated_at": "2026-07-18T02:58:27Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
+    "id": "truongnat/simple-skills",
+    "language": "Python",
+    "name": "truongnat/simple-skills",
+    "stars": 0,
+    "updated_at": "2026-07-18T02:55:54Z",
+    "url": "https://github.com/truongnat/simple-skills"
+  },
+  {
+    "description": "329 agent skills (Cursor, Claude Code & Codex), 5,380 OpenClaw skills, 201 ML notebooks, 51 research papers, 16 industry",
+    "id": "adriannoes/awesome-agentic-ai",
+    "language": "Jupyter Notebook",
+    "name": "adriannoes/awesome-agentic-ai",
+    "stars": 45,
+    "updated_at": "2026-07-18T02:54:39Z",
+    "url": "https://github.com/adriannoes/awesome-agentic-ai"
+  },
+  {
+    "description": "Validate, pressure-test, and release-gate SKILL.md packages for OpenAI and portable agent runtimes.",
+    "id": "zztimur/skill-forge",
+    "language": "Python",
+    "name": "zztimur/skill-forge",
+    "stars": 1,
+    "updated_at": "2026-07-18T02:54:13Z",
+    "url": "https://github.com/zztimur/skill-forge"
+  },
+  {
+    "description": "Workflow stack for disciplined AI coding agents.",
+    "id": "yarlson/yarstack",
+    "language": "Shell",
+    "name": "yarlson/yarstack",
+    "stars": 3,
+    "updated_at": "2026-07-18T02:53:55Z",
+    "url": "https://github.com/yarlson/yarstack"
+  },
+  {
+    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
+    "id": "ZeroLu/awesome-gpt-image",
+    "language": "Python",
+    "name": "ZeroLu/awesome-gpt-image",
+    "stars": 1904,
+    "updated_at": "2026-07-18T02:52:05Z",
+    "url": "https://github.com/ZeroLu/awesome-gpt-image"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts and multilingual examples for EvoLink.",
+    "id": "Evolink-AI/awesome-seedance-2.0-prompts",
+    "language": "Python",
+    "name": "Evolink-AI/awesome-seedance-2.0-prompts",
+    "stars": 1,
+    "updated_at": "2026-07-18T02:50:32Z",
+    "url": "https://github.com/Evolink-AI/awesome-seedance-2.0-prompts"
+  },
+  {
+    "description": "Reverse engineer any repo into it's original prompt",
+    "id": "filiksyos/gitreverse",
+    "language": "TypeScript",
+    "name": "filiksyos/gitreverse",
+    "stars": 1209,
+    "updated_at": "2026-07-18T02:49:59Z",
+    "url": "https://github.com/filiksyos/gitreverse"
+  },
+  {
+    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
+    "id": "Sunwood-ai-labs/OpenFace",
+    "language": "CSS",
+    "name": "Sunwood-ai-labs/OpenFace",
+    "stars": 0,
+    "updated_at": "2026-07-18T02:48:44Z",
+    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
+  },
+  {
+    "description": "Reproducible instruction manifest generator powered by local LLMs via Ollama. 173 prompt engineering techniques across 1",
+    "id": "TFD-42/Wild_Root_Prompt",
+    "language": "Python",
+    "name": "TFD-42/Wild_Root_Prompt",
+    "stars": 1,
+    "updated_at": "2026-07-18T02:48:36Z",
+    "url": "https://github.com/TFD-42/Wild_Root_Prompt"
+  },
+  {
+    "description": "Tool-neutral AI Engineering System: 174 reusable skills (installable as Claude Code plugins) for planning and building s",
+    "id": "ahtishamshahzad/agent_dev_flow",
+    "language": "JavaScript",
+    "name": "ahtishamshahzad/agent_dev_flow",
+    "stars": 0,
+    "updated_at": "2026-07-18T02:46:57Z",
+    "url": "https://github.com/ahtishamshahzad/agent_dev_flow"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 38272,
+    "updated_at": "2026-07-18T02:59:38Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-18T02:45:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -18,33 +144,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
   {
-    "description": "Reproducible instruction manifest generator powered by local LLMs via Ollama. 173 prompt engineering techniques across 1",
-    "id": "TFD-42/Wild_Root_Prompt",
-    "language": "Python",
-    "name": "TFD-42/Wild_Root_Prompt",
-    "stars": 1,
-    "updated_at": "2026-07-18T02:43:56Z",
-    "url": "https://github.com/TFD-42/Wild_Root_Prompt"
-  },
-  {
-    "description": "Reverse engineer any repo into it's original prompt",
-    "id": "filiksyos/gitreverse",
-    "language": "TypeScript",
-    "name": "filiksyos/gitreverse",
-    "stars": 1209,
-    "updated_at": "2026-07-18T02:43:36Z",
-    "url": "https://github.com/filiksyos/gitreverse"
-  },
-  {
-    "description": "Tool-neutral AI Engineering System: 174 reusable skills (installable as Claude Code plugins) for planning and building s",
-    "id": "ahtishamshahzad/agent_dev_flow",
-    "language": "JavaScript",
-    "name": "ahtishamshahzad/agent_dev_flow",
-    "stars": 0,
-    "updated_at": "2026-07-18T02:40:45Z",
-    "url": "https://github.com/ahtishamshahzad/agent_dev_flow"
-  },
-  {
     "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assis",
     "id": "coco-research/coco",
     "language": "Python",
@@ -61,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T02:40:39Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 38270,
-    "updated_at": "2026-07-18T02:39:02Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "lintlang is a static linter for AI agent configs, tool descriptions, and system prompts that runs zero-LLM quality gatin",
@@ -261,24 +351,6 @@
     "url": "https://github.com/BTspaceC/SAS-FAS-analyst"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-18T02:30:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Workflow stack for disciplined AI coding agents.",
-    "id": "yarlson/yarstack",
-    "language": "Shell",
-    "name": "yarlson/yarstack",
-    "stars": 3,
-    "updated_at": "2026-07-18T02:30:15Z",
-    "url": "https://github.com/yarlson/yarstack"
-  },
-  {
     "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
     "id": "keilschismatic799/fable-jailbreak",
     "language": "\u2014",
@@ -322,24 +394,6 @@
     "stars": 2,
     "updated_at": "2026-07-18T02:27:03Z",
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Validate, pressure-test, and release-gate SKILL.md packages for OpenAI and portable agent runtimes.",
-    "id": "zztimur/skill-forge",
-    "language": "Python",
-    "name": "zztimur/skill-forge",
-    "stars": 1,
-    "updated_at": "2026-07-18T02:27:01Z",
-    "url": "https://github.com/zztimur/skill-forge"
-  },
-  {
-    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
-    "id": "Sunwood-ai-labs/OpenFace",
-    "language": "CSS",
-    "name": "Sunwood-ai-labs/OpenFace",
-    "stars": 0,
-    "updated_at": "2026-07-18T02:26:59Z",
-    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
   },
   {
     "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-18T02:25:48Z",
     "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 2,
-    "updated_at": "2026-07-18T02:25:41Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-07-18T02:24:41Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Local-first Chrome extension that turns images into generator-ready prompts.",
-    "id": "papperrollinggery/zhijuan-prompt-card",
-    "language": "TypeScript",
-    "name": "papperrollinggery/zhijuan-prompt-card",
-    "stars": 122,
-    "updated_at": "2026-07-18T02:24:34Z",
-    "url": "https://github.com/papperrollinggery/zhijuan-prompt-card"
-  },
-  {
-    "description": "Documentaci\u00f3n t\u00e9cnica de un clasificador LLM seguro, auditable y multi-proveedor",
-    "id": "franciscorafaelsr/analizador-solicitudes-llm-public",
-    "language": "Python",
-    "name": "franciscorafaelsr/analizador-solicitudes-llm-public",
-    "stars": 1,
-    "updated_at": "2026-07-18T02:24:22Z",
-    "url": "https://github.com/franciscorafaelsr/analizador-solicitudes-llm-public"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-18T02:23:55Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-07-18T02:23:55Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
   }
 ]
