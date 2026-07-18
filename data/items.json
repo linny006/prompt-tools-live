@@ -1,21 +1,129 @@
 [
   {
-    "description": "Screenplay breakdown & AI prompt-pack studio \u2014 import a script, get scenes, elements, bibles, shot lists & a timeline, t",
-    "id": "wassermanproductions/scriptbreak",
-    "language": "HTML",
-    "name": "wassermanproductions/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-07-18T05:39:06Z",
-    "url": "https://github.com/wassermanproductions/scriptbreak"
+    "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
+    "id": "jamestexas/agents",
+    "language": "Shell",
+    "name": "jamestexas/agents",
+    "stars": 2,
+    "updated_at": "2026-07-18T05:45:07Z",
+    "url": "https://github.com/jamestexas/agents"
+  },
+  {
+    "description": "Comprehensive AI prompt engineering skills for Claude Code, ChatGPT (GPTs & Codex CLI plugin), and Gemini Gems. Model-sp",
+    "id": "treylom/prompt-engineering-skills",
+    "language": "\u2014",
+    "name": "treylom/prompt-engineering-skills",
+    "stars": 145,
+    "updated_at": "2026-07-18T05:44:12Z",
+    "url": "https://github.com/treylom/prompt-engineering-skills"
+  },
+  {
+    "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
+    "id": "Norinatiring463/loop-engineering",
+    "language": "Python",
+    "name": "Norinatiring463/loop-engineering",
+    "stars": 1,
+    "updated_at": "2026-07-18T05:43:03Z",
+    "url": "https://github.com/Norinatiring463/loop-engineering"
+  },
+  {
+    "description": "Vibe coding \u67b6\u6784\u56fe\u751f\u6210\u4e0e\u4ee3\u7801\u5e93\u7406\u89e3",
+    "id": "like041123/arch-vision-skill",
+    "language": "\u2014",
+    "name": "like041123/arch-vision-skill",
+    "stars": 1,
+    "updated_at": "2026-07-18T05:42:44Z",
+    "url": "https://github.com/like041123/arch-vision-skill"
+  },
+  {
+    "description": "AI \u667a\u80fd\u4f53\u642d\u5efa\u5168\u6d41\u7a0b\u6307\u5357\uff08\u67b6\u6784/\u63d0\u793a\u8bcd/\u5de5\u5177/\u8bc4\u4f30\uff09",
+    "id": "like041123/agent-builder-skill",
+    "language": "\u2014",
+    "name": "like041123/agent-builder-skill",
+    "stars": 1,
+    "updated_at": "2026-07-18T05:42:27Z",
+    "url": "https://github.com/like041123/agent-builder-skill"
   },
   {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 38285,
-    "updated_at": "2026-07-18T05:38:55Z",
+    "stars": 38286,
+    "updated_at": "2026-07-18T05:43:29Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "\u5fae\u4fe1\u516c\u4f17\u53f7\u5185\u5bb9\u6df1\u5ea6\u5206\u6790\uff08\u8d28\u91cf\u8bc4\u5206/\u4e92\u52a8\u6570\u636e/\u7b56\u7565\u8bca\u65ad\uff09",
+    "id": "like041123/wechat-content-analysis-skill",
+    "language": "\u2014",
+    "name": "like041123/wechat-content-analysis-skill",
+    "stars": 1,
+    "updated_at": "2026-07-18T05:41:52Z",
+    "url": "https://github.com/like041123/wechat-content-analysis-skill"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-18T05:41:32Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Screenplay breakdown & AI prompt-pack studio \u2014 import a script, get scenes, elements, bibles, shot lists & a timeline, t",
+    "id": "wassermanproductions/scriptbreak",
+    "language": "HTML",
+    "name": "wassermanproductions/scriptbreak",
+    "stars": 1,
+    "updated_at": "2026-07-18T05:41:31Z",
+    "url": "https://github.com/wassermanproductions/scriptbreak"
+  },
+  {
+    "description": "Unified AI collaboration rules \u2014 5 profiles, 13 capability packs, multi-tool sync (Claude/Gemini/Cursor/Copilot/Trae). R",
+    "id": "weed33834/AI-RULE",
+    "language": "Python",
+    "name": "weed33834/AI-RULE",
+    "stars": 0,
+    "updated_at": "2026-07-18T05:41:17Z",
+    "url": "https://github.com/weed33834/AI-RULE"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-07-18T05:40:50Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-18T05:39:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
+    "id": "aesirsennamarilandica604/image-to-prompt",
+    "language": "JavaScript",
+    "name": "aesirsennamarilandica604/image-to-prompt",
+    "stars": 1,
+    "updated_at": "2026-07-18T05:39:26Z",
+    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
+  },
+  {
+    "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
+    "id": "keilschismatic799/fable-jailbreak",
+    "language": "\u2014",
+    "name": "keilschismatic799/fable-jailbreak",
+    "stars": 0,
+    "updated_at": "2026-07-18T05:39:20Z",
+    "url": "https://github.com/keilschismatic799/fable-jailbreak"
   },
   {
     "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
@@ -279,15 +387,6 @@
     "url": "https://github.com/fonscutup654/ELAI-DevKit"
   },
   {
-    "description": "Comprehensive AI prompt engineering skills for Claude Code, ChatGPT (GPTs & Codex CLI plugin), and Gemini Gems. Model-sp",
-    "id": "treylom/prompt-engineering-skills",
-    "language": "\u2014",
-    "name": "treylom/prompt-engineering-skills",
-    "stars": 145,
-    "updated_at": "2026-07-18T05:32:03Z",
-    "url": "https://github.com/treylom/prompt-engineering-skills"
-  },
-  {
     "description": "Analyze your prompt history to determine your AI interaction style and behavioral patterns using local CLI tools.",
     "id": "Acuminate-conventionality909/aibti",
     "language": "HTML",
@@ -342,15 +441,6 @@
     "url": "https://github.com/Hampto7114/detect-skill"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-18T05:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
     "id": "Wrongful-stratocracy6799/awesome-automated-ai",
     "language": "TypeScript",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T05:30:05Z",
     "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-07-18T05:29:54Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 3,
-    "updated_at": "2026-07-18T05:29:42Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 1,
-    "updated_at": "2026-07-18T05:29:32Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "AI-agent & automation engineer \u2014 n8n, OpenClaw/Hermes, bots, prompt engineering. Building agents from Bandung, Indonesia",
-    "id": "mifdlaldev/mifdlaldev",
-    "language": "\u2014",
-    "name": "mifdlaldev/mifdlaldev",
-    "stars": 0,
-    "updated_at": "2026-07-18T05:29:27Z",
-    "url": "https://github.com/mifdlaldev/mifdlaldev"
-  },
-  {
-    "description": "Optimize development performance by stripping away unnecessary abstractions and focusing on raw code execution.",
-    "id": "Ricarddefensive803/caveman-skill",
-    "language": "\u2014",
-    "name": "Ricarddefensive803/caveman-skill",
-    "stars": 1,
-    "updated_at": "2026-07-18T05:29:13Z",
-    "url": "https://github.com/Ricarddefensive803/caveman-skill"
-  },
-  {
-    "description": "Reduce AI token usage by 65 percent. This Claude Code skill trims filler and pleasantries while keeping technical conten",
-    "id": "salvageable-mutualfund57/caveman-distillate",
-    "language": "\u2014",
-    "name": "salvageable-mutualfund57/caveman-distillate",
-    "stars": 1,
-    "updated_at": "2026-07-18T05:29:07Z",
-    "url": "https://github.com/salvageable-mutualfund57/caveman-distillate"
-  },
-  {
-    "description": "Archive 126+ iterative Suno AI music prompts with structural metatags, style descriptions, and engineering notes for imp",
-    "id": "Defectlameness737/suno-lab",
-    "language": "\u2014",
-    "name": "Defectlameness737/suno-lab",
-    "stars": 1,
-    "updated_at": "2026-07-18T05:29:05Z",
-    "url": "https://github.com/Defectlameness737/suno-lab"
-  },
-  {
-    "description": "Organize AI conversations into clean, structured threads to refine context and improve model output quality.",
-    "id": "Robertmyerkesextremist950/metaprompt",
-    "language": "HTML",
-    "name": "Robertmyerkesextremist950/metaprompt",
-    "stars": 2,
-    "updated_at": "2026-07-18T05:29:01Z",
-    "url": "https://github.com/Robertmyerkesextremist950/metaprompt"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-07-18T05:28:48Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
-  },
-  {
-    "description": "Test security vulnerabilities in Gemini, Claude, and DeepSeek models using specialized prompt injections.",
-    "id": "pezizalescricketer968/ChatGPT-Jailbreak",
-    "language": "\u2014",
-    "name": "pezizalescricketer968/ChatGPT-Jailbreak",
-    "stars": 8,
-    "updated_at": "2026-07-18T05:28:48Z",
-    "url": "https://github.com/pezizalescricketer968/ChatGPT-Jailbreak"
   }
 ]
