@@ -1,12 +1,102 @@
 [
   {
+    "description": "AI Agent \u5de5\u7a0b\u5e08\u9762\u8bd5\u8d44\u6599\u5e93 - \u56fd\u5185\u5927\u5382\u9762\u7ecf\u3001\u5c97\u4f4d\u8981\u6c42\u3001\u9ad8\u9891\u9762\u8bd5\u9898",
+    "id": "Zchary1106/agent-interview-hub",
+    "language": "Python",
+    "name": "Zchary1106/agent-interview-hub",
+    "stars": 115,
+    "updated_at": "2026-07-19T02:45:05Z",
+    "url": "https://github.com/Zchary1106/agent-interview-hub"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-19T02:43:55Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-07-19T02:43:05Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
     "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
     "id": "clay-good/agent-replay",
     "language": "TypeScript",
     "name": "clay-good/agent-replay",
     "stars": 6,
-    "updated_at": "2026-07-19T02:29:59Z",
+    "updated_at": "2026-07-19T02:42:09Z",
     "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Official profile of Faramarz Kowsari \u2014 Author, Software Engineer & AI Researcher. Documenting publications, AI projects,",
+    "id": "FaramarzKowsari/FaramarzKowsari",
+    "language": "\u2014",
+    "name": "FaramarzKowsari/FaramarzKowsari",
+    "stars": 1,
+    "updated_at": "2026-07-19T02:41:34Z",
+    "url": "https://github.com/FaramarzKowsari/FaramarzKowsari"
+  },
+  {
+    "description": "ORION \u2014 Open Reasoning & Intelligent Orchestration Network. A model-agnostic, open-source AI operating pattern that make",
+    "id": "FutronPrime/orion-os",
+    "language": "Shell",
+    "name": "FutronPrime/orion-os",
+    "stars": 2,
+    "updated_at": "2026-07-19T02:40:49Z",
+    "url": "https://github.com/FutronPrime/orion-os"
+  },
+  {
+    "description": "A continuously evolving personal Agent Skill for reproducing lailai's writing, thinking, design, and working style.",
+    "id": "lailai0916/lailai-skill",
+    "language": "Python",
+    "name": "lailai0916/lailai-skill",
+    "stars": 0,
+    "updated_at": "2026-07-19T02:39:41Z",
+    "url": "https://github.com/lailai0916/lailai-skill"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 7,
+    "updated_at": "2026-07-19T02:36:38Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts and multilingual examples for EvoLink.",
+    "id": "Evolink-AI/awesome-seedance-2.0-prompts",
+    "language": "Python",
+    "name": "Evolink-AI/awesome-seedance-2.0-prompts",
+    "stars": 1,
+    "updated_at": "2026-07-19T02:33:53Z",
+    "url": "https://github.com/Evolink-AI/awesome-seedance-2.0-prompts"
+  },
+  {
+    "description": "\ud83c\udf9e\ufe0f The ultimate Seedance-2 video prompt dataset (12GB+). 2000+ video generation prompts with full metadata and preview f",
+    "id": "Goku-OpenLab/seedance-2-prompts-datasets",
+    "language": "Python",
+    "name": "Goku-OpenLab/seedance-2-prompts-datasets",
+    "stars": 2,
+    "updated_at": "2026-07-19T02:32:10Z",
+    "url": "https://github.com/Goku-OpenLab/seedance-2-prompts-datasets"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-19T02:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -27,15 +117,6 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 7,
-    "updated_at": "2026-07-19T02:24:50Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
     "description": "Local-first prompt template, snapshot, and review workspace for developers",
     "id": "as569951728/dev-ai-toolkit",
     "language": "TypeScript",
@@ -49,18 +130,9 @@
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-19T02:22:54Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "A continuously evolving personal Agent Skill for reproducing lailai's writing, thinking, design, and working style.",
-    "id": "lailai0916/lailai-skill",
-    "language": "Python",
-    "name": "lailai0916/lailai-skill",
-    "stars": 0,
-    "updated_at": "2026-07-19T02:20:57Z",
-    "url": "https://github.com/lailai0916/lailai-skill"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -68,17 +140,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3372,
-    "updated_at": "2026-07-19T02:25:53Z",
+    "updated_at": "2026-07-19T02:42:26Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-19T02:15:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -103,7 +166,7 @@
     "id": "stevan-michael/user-package-public",
     "language": "\u2014",
     "name": "stevan-michael/user-package-public",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-19T02:08:47Z",
     "url": "https://github.com/stevan-michael/user-package-public"
   },
@@ -144,21 +207,12 @@
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   },
   {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-07-19T02:04:23Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
     "description": "Governed workflow runtime for AI agents: scope complex requests, coordinate local Skills, verify delivery, and preserve ",
     "id": "foryourhealth111-pixel/Vibe-Skills",
     "language": "Python",
     "name": "foryourhealth111-pixel/Vibe-Skills",
     "stars": 2393,
-    "updated_at": "2026-07-19T02:21:55Z",
+    "updated_at": "2026-07-19T02:32:48Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
   {
@@ -178,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T02:00:29Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "ORION \u2014 Open Reasoning & Intelligent Orchestration Network. A model-agnostic, open-source AI operating pattern that make",
-    "id": "FutronPrime/orion-os",
-    "language": "Shell",
-    "name": "FutronPrime/orion-os",
-    "stars": 1,
-    "updated_at": "2026-07-19T01:58:39Z",
-    "url": "https://github.com/FutronPrime/orion-os"
   },
   {
     "description": "One file teaches your LLM a complete development system \u2014 TRL + AAA + Memory",
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 802,
-    "updated_at": "2026-07-19T02:15:58Z",
+    "updated_at": "2026-07-19T02:45:20Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T01:40:24Z",
     "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-07-19T01:39:49Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-07-19T01:39:27Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 0,
-    "updated_at": "2026-07-19T01:38:40Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 59,
-    "updated_at": "2026-07-19T01:38:01Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Hold every model to the standard of your best one. A model-gated behavioral protocol for Claude Code: distilled rules in",
-    "id": "jared-the-automator/spirit-level",
-    "language": "Python",
-    "name": "jared-the-automator/spirit-level",
-    "stars": 0,
-    "updated_at": "2026-07-19T01:37:50Z",
-    "url": "https://github.com/jared-the-automator/spirit-level"
   }
 ]
