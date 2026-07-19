@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-19 18:30 UTC
+> ⏰ Last updated: 2026-07-19 18:33 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,14 +43,14 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Hardik-369/AI-Engineering-Handbook](https://github.com/Hardik-369/AI-Engineering-Handbook) | 0 | — | 2026-07-19 | The complete AI engineering handbook: LLM foundations, prompt engineering, context engineering, loop engineering, graph  |
-| 2 | [ariffazil/arifos](https://github.com/ariffazil/arifos) | 49 | Python | 2026-07-19 | arifOS — Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) · ASI (Heart) · APEX (Judge). Buil |
-| 3 | [Aadityadhangar/AI-Project-Planning-Agent](https://github.com/Aadityadhangar/AI-Project-Planning-Agent) | 1 | — | 2026-07-19 | AI-powered project planning and task reminder system built with n8n, OpenAI, Google Sheets, and Gmail. |
-| 4 | [devpal-singh-anand/ABTalks-60-Day-Claude-Challenge](https://github.com/devpal-singh-anand/ABTalks-60-Day-Claude-Challenge) | 1 | HTML | 2026-07-19 | 60 days. 60 prompts. 1 AI. Zero excuses. — My ABTalks Claude AI Challenge journey. |
-| 5 | [greerviau/wingman](https://github.com/greerviau/wingman) | 2 | Shell | 2026-07-19 | You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session. |
-| 6 | [Nyanna/XY.AI.Workbench](https://github.com/Nyanna/XY.AI.Workbench) | 1 | Java | 2026-07-19 | XY.AI Workbench – Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R |
-| 7 | [raywincruz07-collab/economic-framing-annotation](https://github.com/raywincruz07-collab/economic-framing-annotation) | 0 | TeX | 2026-07-19 | An LLM-Assisted Computational Content Analysis of Economic Threat and Benefit Framing |
-| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10624 | Python | 2026-07-19 | AI Observability & Evaluation |
-| 9 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-07-19 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-07-19 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 3 | [ariffazil/arifos](https://github.com/ariffazil/arifos) | 49 | Python | 2026-07-19 | arifOS — Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) · ASI (Heart) · APEX (Judge). Buil |
+| 4 | [Aadityadhangar/AI-Project-Planning-Agent](https://github.com/Aadityadhangar/AI-Project-Planning-Agent) | 1 | — | 2026-07-19 | AI-powered project planning and task reminder system built with n8n, OpenAI, Google Sheets, and Gmail. |
+| 5 | [devpal-singh-anand/ABTalks-60-Day-Claude-Challenge](https://github.com/devpal-singh-anand/ABTalks-60-Day-Claude-Challenge) | 1 | HTML | 2026-07-19 | 60 days. 60 prompts. 1 AI. Zero excuses. — My ABTalks Claude AI Challenge journey. |
+| 6 | [greerviau/wingman](https://github.com/greerviau/wingman) | 2 | Shell | 2026-07-19 | You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session. |
+| 7 | [Nyanna/XY.AI.Workbench](https://github.com/Nyanna/XY.AI.Workbench) | 1 | Java | 2026-07-19 | XY.AI Workbench – Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R |
+| 8 | [raywincruz07-collab/economic-framing-annotation](https://github.com/raywincruz07-collab/economic-framing-annotation) | 0 | TeX | 2026-07-19 | An LLM-Assisted Computational Content Analysis of Economic Threat and Benefit Framing |
+| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10624 | Python | 2026-07-19 | AI Observability & Evaluation |
 | 10 | [helloworld-x3/LocalPipe](https://github.com/helloworld-x3/LocalPipe) | 1 | Python | 2026-07-19 | AI creative localization pipeline: deconstruct → culture-profile transcreation → fidelity loop → taboo check. 不只是翻译，是创意的 |
 | 11 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1195 | HTML | 2026-07-19 | In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs & more) |
 | 12 | [vk-09857/ai-repo-maintenance-agent](https://github.com/vk-09857/ai-repo-maintenance-agent) | 6 | Python | 2026-07-19 | AI-powered GitHub repository maintenance agent that analyzes repositories, generates meaningful improvements with LLMs,  |
