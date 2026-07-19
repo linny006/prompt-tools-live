@@ -1,5 +1,50 @@
 [
   {
+    "description": "Model-agnostic prompt library for code and document review through cognitive lenses",
+    "id": "kphutt/prompt-lenses",
+    "language": "\u2014",
+    "name": "kphutt/prompt-lenses",
+    "stars": 1,
+    "updated_at": "2026-07-19T14:44:33Z",
+    "url": "https://github.com/kphutt/prompt-lenses"
+  },
+  {
+    "description": "One command generates a complete technical interview prep system: deep-dive episodes, NotebookLM podcasts, and a Gemini ",
+    "id": "kphutt/interview-prep",
+    "language": "Python",
+    "name": "kphutt/interview-prep",
+    "stars": 1,
+    "updated_at": "2026-07-19T14:44:20Z",
+    "url": "https://github.com/kphutt/interview-prep"
+  },
+  {
+    "description": "Quick slots for the AI prompts you\u2019re tired of typing. A keyboard-first prompt clipboard for everyday AI work.",
+    "id": "1beenlee/prompt-hotbar",
+    "language": "TypeScript",
+    "name": "1beenlee/prompt-hotbar",
+    "stars": 0,
+    "updated_at": "2026-07-19T14:44:15Z",
+    "url": "https://github.com/1beenlee/prompt-hotbar"
+  },
+  {
+    "description": "\u57fa\u4e8e AI Agent \u5de5\u4f5c\u6d41\u7684\u4fee\u4ed9\u4e16\u754c\u6a21\u62df\u5668\uff0c\u65e8\u5728\u8fd8\u539f\u667a\u80fd\u3001\u5f00\u653e\u7684\u4ed9\u4fa0\u4e16\u754c\u3002| An open-source Cultivation World Simulator using Agentic Workflow to create a d",
+    "id": "4thfever/cultivation-world-simulator",
+    "language": "Python",
+    "name": "4thfever/cultivation-world-simulator",
+    "stars": 1950,
+    "updated_at": "2026-07-19T14:44:10Z",
+    "url": "https://github.com/4thfever/cultivation-world-simulator"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-19T14:44:09Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -106,15 +151,6 @@
     "stars": 17749,
     "updated_at": "2026-07-19T14:32:55Z",
     "url": "https://github.com/jnMetaCode/agency-agents-zh"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-19T14:30:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Essai : pourquoi il n'existe pas de format universel (Markdown/JSON/XML/YAML) pour parler \u00e0 un LLM, \u00e7a d\u00e9pend qui lit et",
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-19T14:06:58Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Reviewable capability layer for coding agents. Portable skills, delivery gates, workflow patterns, and verification-firs",
-    "id": "markoblogo/abvx-agent-skills",
-    "language": "Python",
-    "name": "markoblogo/abvx-agent-skills",
-    "stars": 4,
-    "updated_at": "2026-07-19T14:06:40Z",
-    "url": "https://github.com/markoblogo/abvx-agent-skills"
-  },
-  {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:05:03Z",
-    "url": "https://github.com/agungkesmas/recallfox"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:05:02Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "An Agentic-AI Training by **CodeCraft Learning Hub** on LLM's, RAG, Prompt Engineering, Context Engineering, n8n workflo",
-    "id": "gnanadeep30805/Agentic_AI-Training",
-    "language": "Python",
-    "name": "gnanadeep30805/Agentic_AI-Training",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:03:05Z",
-    "url": "https://github.com/gnanadeep30805/Agentic_AI-Training"
   }
 ]
