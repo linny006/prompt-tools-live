@@ -1,12 +1,84 @@
 [
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 60144,
+    "updated_at": "2026-07-19T18:45:10Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "Go",
+    "name": "sachncs/promptsheon",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:45:01Z",
+    "url": "https://github.com/sachncs/promptsheon"
+  },
+  {
+    "description": "The Psychodrama Protocol: put your decision on stage. Adversarial decision review for Claude Code \u2014 per-thesis panel vot",
+    "id": "CryptoColobrod/psychodrama-protocol",
+    "language": "\u2014",
+    "name": "CryptoColobrod/psychodrama-protocol",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:43:50Z",
+    "url": "https://github.com/CryptoColobrod/psychodrama-protocol"
+  },
+  {
+    "description": "A rulebook that teaches any AI (Claude, ChatGPT, Gemini) to write natural business Macedonian instead of translated-soun",
+    "id": "dancommun/business-macedonian",
+    "language": "HTML",
+    "name": "dancommun/business-macedonian",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:41:48Z",
+    "url": "https://github.com/dancommun/business-macedonian"
+  },
+  {
+    "description": "A linear, single-pass checklist for catching AI-writing tics in prose \u2014 for students, professionals, and anyone editing ",
+    "id": "johnclayconnell/aitics",
+    "language": "\u2014",
+    "name": "johnclayconnell/aitics",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:40:37Z",
+    "url": "https://github.com/johnclayconnell/aitics"
+  },
+  {
+    "description": "Learn safe, practical AI agent development with Codex and AGENTS.md\u2014in 10 minutes.",
+    "id": "daisukewatanabejapan/hajimete-ai-agent-development",
+    "language": "\u2014",
+    "name": "daisukewatanabejapan/hajimete-ai-agent-development",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:39:20Z",
+    "url": "https://github.com/daisukewatanabejapan/hajimete-ai-agent-development"
+  },
+  {
     "description": "The complete AI engineering handbook: LLM foundations, prompt engineering, context engineering, loop engineering, graph ",
     "id": "Hardik-369/AI-Engineering-Handbook",
     "language": "\u2014",
     "name": "Hardik-369/AI-Engineering-Handbook",
     "stars": 0,
-    "updated_at": "2026-07-19T18:32:33Z",
+    "updated_at": "2026-07-19T18:37:49Z",
     "url": "https://github.com/Hardik-369/AI-Engineering-Handbook"
+  },
+  {
+    "description": "Bilingual (English/Persian) prompt system that turns any LLM chat into an honest resume-tailoring strategist. One resume",
+    "id": "Reyhanehl/tailored-resume",
+    "language": "HTML",
+    "name": "Reyhanehl/tailored-resume",
+    "stars": 1,
+    "updated_at": "2026-07-19T18:36:06Z",
+    "url": "https://github.com/Reyhanehl/tailored-resume"
+  },
+  {
+    "description": "Semantic compression for IDE\u2194LLM communication \u2014 CLI, MCP server, and VS Code extension, with a Context Router, team-sha",
+    "id": "Neolambo/glyph-compress",
+    "language": "JavaScript",
+    "name": "Neolambo/glyph-compress",
+    "stars": 2,
+    "updated_at": "2026-07-19T18:35:24Z",
+    "url": "https://github.com/Neolambo/glyph-compress"
   },
   {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 6,
-    "updated_at": "2026-07-19T18:30:29Z",
+    "updated_at": "2026-07-19T18:33:53Z",
     "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10624,
-    "updated_at": "2026-07-19T18:25:10Z",
+    "updated_at": "2026-07-19T18:39:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -144,6 +216,15 @@
     "url": "https://github.com/M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0"
   },
   {
+    "description": "Structured Outputs",
+    "id": "dottxt-ai/outlines",
+    "language": "Python",
+    "name": "dottxt-ai/outlines",
+    "stars": 14549,
+    "updated_at": "2026-07-19T18:06:40Z",
+    "url": "https://github.com/dottxt-ai/outlines"
+  },
+  {
     "description": "A lightweight, local-first macOS prompt manager for reusable AI templates\u2014one hotkey away.",
     "id": "Ares960826/Quiver",
     "language": "Rust",
@@ -196,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T18:02:33Z",
     "url": "https://github.com/VSSK007/ZodicogAI"
-  },
-  {
-    "description": "A beginner-friendly guide to safe AI agent development with Codex and AGENTS.md.",
-    "id": "daisukewatanabejapan/hajimete-ai-agent-development",
-    "language": "\u2014",
-    "name": "daisukewatanabejapan/hajimete-ai-agent-development",
-    "stars": 0,
-    "updated_at": "2026-07-19T18:24:20Z",
-    "url": "https://github.com/daisukewatanabejapan/hajimete-ai-agent-development"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T17:51:35Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:51:34Z",
-    "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
-    "description": "An open-source operating system for Claude Code \u2014 persistent Obsidian-vault memory, a self-checkpointing two-verb sessio",
-    "id": "wrg32786/aigent-os",
-    "language": "JavaScript",
-    "name": "wrg32786/aigent-os",
-    "stars": 5,
-    "updated_at": "2026-07-19T18:07:53Z",
-    "url": "https://github.com/wrg32786/aigent-os"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:50:13Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:49:51Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Measured token routing for Codex, Claude Code, Hermes, GG Coder and any CLI agent. Less noise. Better judgment.",
-    "id": "Supersynergy/agent-token-saver",
-    "language": "Python",
-    "name": "Supersynergy/agent-token-saver",
-    "stars": 4,
-    "updated_at": "2026-07-19T17:49:43Z",
-    "url": "https://github.com/Supersynergy/agent-token-saver"
-  },
-  {
-    "description": "AI-powered personal portfolio showcasing prompt engineering, LLM orchestration, and AI-assisted development projects.",
-    "id": "MD-NAVED/mohammad-naved-portfolio",
-    "language": "TypeScript",
-    "name": "MD-NAVED/mohammad-naved-portfolio",
-    "stars": 1,
-    "updated_at": "2026-07-19T17:46:50Z",
-    "url": "https://github.com/MD-NAVED/mohammad-naved-portfolio"
-  },
-  {
-    "description": "100+ tested, copy-paste AI prompts for everyday life \u2014 one new skill every day at dailyskill.ai",
-    "id": "vinusmark1-cpu/dailyskill-prompt-library",
-    "language": "\u2014",
-    "name": "vinusmark1-cpu/dailyskill-prompt-library",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:45:53Z",
-    "url": "https://github.com/vinusmark1-cpu/dailyskill-prompt-library"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-19T17:45:29Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   }
 ]
