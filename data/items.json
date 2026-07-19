@@ -1,5 +1,158 @@
 [
   {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-19T07:45:26Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 6,
+    "updated_at": "2026-07-19T07:44:23Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 10,
+    "updated_at": "2026-07-19T07:44:21Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "LLM-based privacy risk classifier achieving 97% recall and 84% precision on a 10-service benchmark \u2014 ensemble design, it",
+    "id": "Jatin23K/TLDR-Shield",
+    "language": "JavaScript",
+    "name": "Jatin23K/TLDR-Shield",
+    "stars": 1,
+    "updated_at": "2026-07-19T07:40:32Z",
+    "url": "https://github.com/Jatin23K/TLDR-Shield"
+  },
+  {
+    "description": "Codex skill for crafting Anima-friendly prompt blocks for ComfyUI and RunningHub workflows.",
+    "id": "AI-KSK/anima-prompt-crafter-skill",
+    "language": "Python",
+    "name": "AI-KSK/anima-prompt-crafter-skill",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:37:54Z",
+    "url": "https://github.com/AI-KSK/anima-prompt-crafter-skill"
+  },
+  {
+    "description": "Your personal prompt library \u2014 organized automatically, always within reach.",
+    "id": "mehdirt/Deja",
+    "language": "TypeScript",
+    "name": "mehdirt/Deja",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:37:53Z",
+    "url": "https://github.com/mehdirt/Deja"
+  },
+  {
+    "description": "The most comprehensive open-source AI skills library for LLMs, AI agents, prompt engineering, deep research, and product",
+    "id": "Rahulchaube1/Rahul-Chaube-Skills",
+    "language": "\u2014",
+    "name": "Rahulchaube1/Rahul-Chaube-Skills",
+    "stars": 3,
+    "updated_at": "2026-07-19T07:37:44Z",
+    "url": "https://github.com/Rahulchaube1/Rahul-Chaube-Skills"
+  },
+  {
+    "description": "Token-lean sessions at the harness level \u2014 a terse output style, output-shrinking hooks, and log compression cut both in",
+    "id": "V-Songbird/hush",
+    "language": "JavaScript",
+    "name": "V-Songbird/hush",
+    "stars": 24,
+    "updated_at": "2026-07-19T07:36:07Z",
+    "url": "https://github.com/V-Songbird/hush"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20687,
+    "updated_at": "2026-07-19T07:34:54Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 26,
+    "updated_at": "2026-07-19T07:34:36Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "Congestion monitoring where rules control execution and the LLM only judges triggered anomalies. Training-free, promptin",
+    "id": "jwhitekim/congestion-agent",
+    "language": "Python",
+    "name": "jwhitekim/congestion-agent",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:34:26Z",
+    "url": "https://github.com/jwhitekim/congestion-agent"
+  },
+  {
+    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
+    "id": "lulin70/carrymem",
+    "language": "Python",
+    "name": "lulin70/carrymem",
+    "stars": 5,
+    "updated_at": "2026-07-19T07:35:07Z",
+    "url": "https://github.com/lulin70/carrymem"
+  },
+  {
+    "description": "Makes AI work like AI \u2014 no human time estimates, no asking for accessible data, no emotional labor.",
+    "id": "88plug/dehumanize",
+    "language": "Shell",
+    "name": "88plug/dehumanize",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:31:58Z",
+    "url": "https://github.com/88plug/dehumanize"
+  },
+  {
+    "description": "Enforce full agent authority on reversible work: run commands yourself, never yield instructions back to the operator. S",
+    "id": "88plug/be-the-whole-bitch",
+    "language": "Python",
+    "name": "88plug/be-the-whole-bitch",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:31:54Z",
+    "url": "https://github.com/88plug/be-the-whole-bitch"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 10,
+    "updated_at": "2026-07-19T07:30:38Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "AI Product Teardown Workbench for classifying repositories, mapping AI surfaces, extracting reusable patterns, and draft",
+    "id": "sushuqiong/ai-product-teardown-studio",
+    "language": "Python",
+    "name": "sushuqiong/ai-product-teardown-studio",
+    "stars": 0,
+    "updated_at": "2026-07-19T07:30:47Z",
+    "url": "https://github.com/sushuqiong/ai-product-teardown-studio"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-19T07:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
     "id": "AgustiPuigserver/opus-prompt-architect",
     "language": "HTML",
@@ -27,24 +180,6 @@
     "url": "https://github.com/blundergoat/goat-flow"
   },
   {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "JavaScript",
-    "name": "spidey889/context-generator",
-    "stars": 10,
-    "updated_at": "2026-07-19T07:26:59Z",
-    "url": "https://github.com/spidey889/context-generator"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 6,
-    "updated_at": "2026-07-19T07:26:19Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
     "description": "Prompt-engineering and project-roadmap plugin that crafts Anthropic-grade prompts and picks, surveys, and tracks your ne",
     "id": "V-Songbird/foreman",
     "language": "JavaScript",
@@ -52,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T07:25:57Z",
     "url": "https://github.com/V-Songbird/foreman"
-  },
-  {
-    "description": "LLM-based privacy risk classifier achieving 97% recall and 84% precision on a 10-service benchmark \u2014 ensemble design, it",
-    "id": "Jatin23K/TLDR-Shield",
-    "language": "JavaScript",
-    "name": "Jatin23K/TLDR-Shield",
-    "stars": 1,
-    "updated_at": "2026-07-19T07:24:33Z",
-    "url": "https://github.com/Jatin23K/TLDR-Shield"
   },
   {
     "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
@@ -81,15 +207,6 @@
     "url": "https://github.com/VSSK007/ZodicogAI"
   },
   {
-    "description": "AI Product Teardown Workbench for classifying repositories, mapping AI surfaces, extracting reusable patterns, and draft",
-    "id": "sushuqiong/ai-product-teardown-studio",
-    "language": "Python",
-    "name": "sushuqiong/ai-product-teardown-studio",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:21:41Z",
-    "url": "https://github.com/sushuqiong/ai-product-teardown-studio"
-  },
-  {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
     "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
     "language": "HTML",
@@ -104,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3379,
-    "updated_at": "2026-07-19T07:28:24Z",
+    "updated_at": "2026-07-19T07:45:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -122,7 +239,7 @@
     "language": "TypeScript",
     "name": "drferdii/Myprompt",
     "stars": 7,
-    "updated_at": "2026-07-19T07:20:15Z",
+    "updated_at": "2026-07-19T07:41:50Z",
     "url": "https://github.com/drferdii/Myprompt"
   },
   {
@@ -133,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T07:19:44Z",
     "url": "https://github.com/M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0"
-  },
-  {
-    "description": "Enforce full agent authority on reversible work: run commands yourself, never yield instructions back to the operator. S",
-    "id": "88plug/be-the-whole-bitch",
-    "language": "Python",
-    "name": "88plug/be-the-whole-bitch",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:19:11Z",
-    "url": "https://github.com/88plug/be-the-whole-bitch"
   },
   {
     "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
@@ -160,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T07:15:35Z",
     "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-19T07:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
@@ -279,15 +378,6 @@
     "url": "https://github.com/tacticalwarningsubscriptionwarrant526/borrowed-brain-pro"
   },
   {
-    "description": "Token-lean sessions at the harness level \u2014 a terse output style, output-shrinking hooks, and log compression cut both in",
-    "id": "V-Songbird/hush",
-    "language": "JavaScript",
-    "name": "V-Songbird/hush",
-    "stars": 24,
-    "updated_at": "2026-07-19T07:10:55Z",
-    "url": "https://github.com/V-Songbird/hush"
-  },
-  {
     "description": "Claude Code plugins for spec-first development: every agent claim cites a source, every code change traces to a requirem",
     "id": "NVZver/claude-marketplace",
     "language": "Shell",
@@ -310,7 +400,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23398,
+    "stars": 23399,
     "updated_at": "2026-07-19T07:09:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T07:05:29Z",
     "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
-    "id": "keilschismatic799/fable-jailbreak",
-    "language": "\u2014",
-    "name": "keilschismatic799/fable-jailbreak",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:05:28Z",
-    "url": "https://github.com/keilschismatic799/fable-jailbreak"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 59,
-    "updated_at": "2026-07-19T07:05:28Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:03:59Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 1,
-    "updated_at": "2026-07-19T07:03:55Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-07-19T07:03:49Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:03:40Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-07-19T07:03:31Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:03:31Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:03:26Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:02:55Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
   }
 ]
