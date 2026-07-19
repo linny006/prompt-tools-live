@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u26a1 Semantic compression for IDE\u2194LLM communication. Save 80%+ tokens with radical glyphs. Supports OpenAI, Claude, VS Code",
+    "id": "Neolambo/glyph-compress",
+    "language": "JavaScript",
+    "name": "Neolambo/glyph-compress",
+    "stars": 2,
+    "updated_at": "2026-07-19T12:14:20Z",
+    "url": "https://github.com/Neolambo/glyph-compress"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-19T12:14:14Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "RAG pipeline that answers financial variance questions from SEC filings. Faithfulness eval, cross-encoder re-ranking, mu",
+    "id": "redsandr/rag-variance-explainer",
+    "language": "Python",
+    "name": "redsandr/rag-variance-explainer",
+    "stars": 1,
+    "updated_at": "2026-07-19T12:13:38Z",
+    "url": "https://github.com/redsandr/rag-variance-explainer"
+  },
+  {
+    "description": "The official CLI for the PromptVM platform",
+    "id": "AIEngineering26/promptvm-cli",
+    "language": "Go",
+    "name": "AIEngineering26/promptvm-cli",
+    "stars": 0,
+    "updated_at": "2026-07-19T12:13:04Z",
+    "url": "https://github.com/AIEngineering26/promptvm-cli"
+  },
+  {
+    "description": "Lossless, structure-aware compression of logs, JSON & CSV to cut LLM prompt tokens. Lossless or no-op \u2014 never lossy.",
+    "id": "antrixy/ctxfold",
+    "language": "JavaScript",
+    "name": "antrixy/ctxfold",
+    "stars": 0,
+    "updated_at": "2026-07-19T12:09:58Z",
+    "url": "https://github.com/antrixy/ctxfold"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-19T12:09:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-19T12:09:19Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
     "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
     "id": "ariffazil/arifos",
     "language": "Python",
@@ -36,15 +99,6 @@
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:07:49Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
     "id": "Sunwood-ai-labs/OpenFace",
     "language": "CSS",
@@ -52,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T12:07:01Z",
     "url": "https://github.com/Sunwood-ai-labs/OpenFace"
-  },
-  {
-    "description": "\u26a1 Semantic compression for IDE\u2194LLM communication. Save 80%+ tokens with radical glyphs. Supports OpenAI, Claude, VS Code",
-    "id": "Neolambo/glyph-compress",
-    "language": "JavaScript",
-    "name": "Neolambo/glyph-compress",
-    "stars": 2,
-    "updated_at": "2026-07-19T12:06:55Z",
-    "url": "https://github.com/Neolambo/glyph-compress"
   },
   {
     "description": "Agent authority guardrails for Claude Code & Grok \u2014 stop yield-back; drive reversible work yourself.",
@@ -108,15 +153,6 @@
     "url": "https://github.com/88plug/dehumanize"
   },
   {
-    "description": "The official CLI for the PromptVM platform",
-    "id": "AIEngineering26/promptvm-cli",
-    "language": "Go",
-    "name": "AIEngineering26/promptvm-cli",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:05:31Z",
-    "url": "https://github.com/AIEngineering26/promptvm-cli"
-  },
-  {
     "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
     "id": "OutlineDriven/odin-claude-plugin",
     "language": "Python",
@@ -135,15 +171,6 @@
     "url": "https://github.com/Onnson/context-overflow"
   },
   {
-    "description": "Lossless, structure-aware compression of logs, JSON & CSV to cut LLM prompt tokens. Lossless or no-op \u2014 never lossy.",
-    "id": "antrixy/ctxfold",
-    "language": "JavaScript",
-    "name": "antrixy/ctxfold",
-    "stars": 0,
-    "updated_at": "2026-07-19T12:02:48Z",
-    "url": "https://github.com/antrixy/ctxfold"
-  },
-  {
     "description": "Essai : pourquoi il n'existe pas de format universel (Markdown/JSON/XML/YAML) pour parler \u00e0 un LLM, \u00e7a d\u00e9pend qui lit et",
     "id": "ismael-joffroy-chandoutis/le-bon-format-n-existe-pas",
     "language": "\u2014",
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T12:01:50Z",
     "url": "https://github.com/ismael-joffroy-chandoutis/le-bon-format-n-existe-pas"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-19T12:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T11:37:07Z",
     "url": "https://github.com/NVZver/claude-marketplace"
-  },
-  {
-    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
-    "id": "Muizzkolapo/agent-actions",
-    "language": "Python",
-    "name": "Muizzkolapo/agent-actions",
-    "stars": 8,
-    "updated_at": "2026-07-19T11:37:03Z",
-    "url": "https://github.com/Muizzkolapo/agent-actions"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3384,
-    "updated_at": "2026-07-19T11:36:46Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
