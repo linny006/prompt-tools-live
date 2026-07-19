@@ -1,12 +1,84 @@
 [
   {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 6,
+    "updated_at": "2026-07-19T02:29:59Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 152,
+    "updated_at": "2026-07-19T02:28:52Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-07-19T02:26:35Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 7,
+    "updated_at": "2026-07-19T02:24:50Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "Local-first prompt template, snapshot, and review workspace for developers",
+    "id": "as569951728/dev-ai-toolkit",
+    "language": "TypeScript",
+    "name": "as569951728/dev-ai-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-19T02:23:19Z",
+    "url": "https://github.com/as569951728/dev-ai-toolkit"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-19T02:22:54Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "A continuously evolving personal Agent Skill for reproducing lailai's writing, thinking, design, and working style.",
     "id": "lailai0916/lailai-skill",
     "language": "Python",
     "name": "lailai0916/lailai-skill",
     "stars": 0,
-    "updated_at": "2026-07-19T02:12:35Z",
+    "updated_at": "2026-07-19T02:20:57Z",
     "url": "https://github.com/lailai0916/lailai-skill"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3372,
+    "updated_at": "2026-07-19T02:25:53Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-19T02:15:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -81,6 +153,15 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
+    "description": "Governed workflow runtime for AI agents: scope complex requests, coordinate local Skills, verify delivery, and preserve ",
+    "id": "foryourhealth111-pixel/Vibe-Skills",
+    "language": "Python",
+    "name": "foryourhealth111-pixel/Vibe-Skills",
+    "stars": 2393,
+    "updated_at": "2026-07-19T02:21:55Z",
+    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
+  },
+  {
     "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
     "id": "wesleysimplicio/simplicio-dev-cli",
     "language": "Python",
@@ -97,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T02:00:29Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-19T02:00:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "ORION \u2014 Open Reasoning & Intelligent Orchestration Network. A model-agnostic, open-source AI operating pattern that make",
@@ -144,15 +216,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3371,
-    "updated_at": "2026-07-19T02:13:56Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
     "id": "crisnahine/chameleon",
     "language": "Python",
@@ -185,7 +248,7 @@
     "language": "TypeScript",
     "name": "1beenlee/prompt-hotbar",
     "stars": 0,
-    "updated_at": "2026-07-19T01:54:04Z",
+    "updated_at": "2026-07-19T02:20:11Z",
     "url": "https://github.com/1beenlee/prompt-hotbar"
   },
   {
@@ -194,7 +257,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 802,
-    "updated_at": "2026-07-19T01:55:06Z",
+    "updated_at": "2026-07-19T02:15:58Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T01:37:50Z",
     "url": "https://github.com/jared-the-automator/spirit-level"
-  },
-  {
-    "description": "Extract structured thinking profiles from public figures to evaluate your real-world decisions using any AI model.",
-    "id": "tacticalwarningsubscriptionwarrant526/borrowed-brain-pro",
-    "language": "\u2014",
-    "name": "tacticalwarningsubscriptionwarrant526/borrowed-brain-pro",
-    "stars": 0,
-    "updated_at": "2026-07-19T01:37:47Z",
-    "url": "https://github.com/tacticalwarningsubscriptionwarrant526/borrowed-brain-pro"
-  },
-  {
-    "description": "A Claude / AI security review prompt for shipping safe apps. TRAP (True Readiness Audit Prompt) turns Claude Code, Curso",
-    "id": "bikr/TRAP",
-    "language": "\u2014",
-    "name": "bikr/TRAP",
-    "stars": 4,
-    "updated_at": "2026-07-19T01:38:01Z",
-    "url": "https://github.com/bikr/TRAP"
-  },
-  {
-    "description": "Portable Claude skills you upload once to claude.ai (or drop into Claude Code): branded Word & PowerPoint generation, pl",
-    "id": "dzivkovi/claude-skills",
-    "language": "Python",
-    "name": "dzivkovi/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-07-19T01:37:44Z",
-    "url": "https://github.com/dzivkovi/claude-skills"
-  },
-  {
-    "description": "Installable library of AI coding agents, skills, commands, guides & tools \u2014 the copy-paste mirror of agentscamp.com",
-    "id": "imtiazrayhan/agentscamp-library",
-    "language": "\u2014",
-    "name": "imtiazrayhan/agentscamp-library",
-    "stars": 1,
-    "updated_at": "2026-07-19T01:36:33Z",
-    "url": "https://github.com/imtiazrayhan/agentscamp-library"
-  },
-  {
-    "description": "A gift from Fable, with Fable, for us all \u2014 paste one prompt into Claude Code (Fable 5) and it turns YOUR project into a",
-    "id": "DanManREAL-DEVELOPER/danmanreal.com_FABLES_INFLUENCE",
-    "language": "HTML",
-    "name": "DanManREAL-DEVELOPER/danmanreal.com_FABLES_INFLUENCE",
-    "stars": 2,
-    "updated_at": "2026-07-19T01:35:50Z",
-    "url": "https://github.com/DanManREAL-DEVELOPER/danmanreal.com_FABLES_INFLUENCE"
-  },
-  {
-    "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
-    "id": "Norinatiring463/loop-engineering",
-    "language": "Python",
-    "name": "Norinatiring463/loop-engineering",
-    "stars": 1,
-    "updated_at": "2026-07-19T01:34:53Z",
-    "url": "https://github.com/Norinatiring463/loop-engineering"
-  },
-  {
-    "description": "Companion source code for AI APIs in Practice, a visual engineering book on multimodal AI, agents, RAG, evaluation, gove",
-    "id": "FaramarzKowsari/ai-api-playbook",
-    "language": "Python",
-    "name": "FaramarzKowsari/ai-api-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-19T01:32:05Z",
-    "url": "https://github.com/FaramarzKowsari/ai-api-playbook"
   }
 ]
