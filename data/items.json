@@ -1,12 +1,21 @@
 [
   {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-07-19T11:15:13Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
+    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
+    "id": "Muizzkolapo/agent-actions",
+    "language": "Python",
+    "name": "Muizzkolapo/agent-actions",
+    "stars": 8,
+    "updated_at": "2026-07-19T11:20:10Z",
+    "url": "https://github.com/Muizzkolapo/agent-actions"
+  },
+  {
+    "description": "A buddy check for your prompts \u2014 before they reach an LLM. On-device, reversible anonymization that catches the PII you ",
+    "id": "akazah/prompt-anonymizer",
+    "language": "TypeScript",
+    "name": "akazah/prompt-anonymizer",
+    "stars": 28,
+    "updated_at": "2026-07-19T11:18:29Z",
+    "url": "https://github.com/akazah/prompt-anonymizer"
   },
   {
     "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
@@ -14,8 +23,44 @@
     "language": "TypeScript",
     "name": "clay-good/agent-replay",
     "stars": 6,
-    "updated_at": "2026-07-19T11:15:00Z",
+    "updated_at": "2026-07-19T11:17:11Z",
     "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "AI agent guardrails for Claude Code & Grok \u2014 no human-time, access-asks, or emotional labor.",
+    "id": "88plug/dehumanize",
+    "language": "Shell",
+    "name": "88plug/dehumanize",
+    "stars": 0,
+    "updated_at": "2026-07-19T11:16:41Z",
+    "url": "https://github.com/88plug/dehumanize"
+  },
+  {
+    "description": "Agent authority guardrails for Claude Code & Grok \u2014 stop yield-back; drive reversible work yourself.",
+    "id": "88plug/be-the-whole-bitch",
+    "language": "Python",
+    "name": "88plug/be-the-whole-bitch",
+    "stars": 0,
+    "updated_at": "2026-07-19T11:16:39Z",
+    "url": "https://github.com/88plug/be-the-whole-bitch"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-19T11:15:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-07-19T11:15:13Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
   },
   {
     "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
@@ -149,7 +194,7 @@
     "language": "\u2014",
     "name": "derrickxu1220/data-cartoon-synth",
     "stars": 0,
-    "updated_at": "2026-07-19T11:03:57Z",
+    "updated_at": "2026-07-19T11:20:26Z",
     "url": "https://github.com/derrickxu1220/data-cartoon-synth"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 165,
     "updated_at": "2026-07-19T11:00:44Z",
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-19T11:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 802,
-    "updated_at": "2026-07-19T10:44:22Z",
+    "updated_at": "2026-07-19T11:17:30Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-19T10:35:42Z",
     "url": "https://github.com/omar-y-abdi/furl-ctx"
-  },
-  {
-    "description": "Enterprise-grade AI testing platform for evaluating LLMs, RAG systems, AI agents, prompts, and AI applications using mod",
-    "id": "MK-MAN0JKUMAR/enterprise-ai-testing-platform",
-    "language": "Python",
-    "name": "MK-MAN0JKUMAR/enterprise-ai-testing-platform",
-    "stars": 0,
-    "updated_at": "2026-07-19T10:29:10Z",
-    "url": "https://github.com/MK-MAN0JKUMAR/enterprise-ai-testing-platform"
-  },
-  {
-    "description": "Nuwa \u2014 a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
-    "id": "LucioLiu/nuwa",
-    "language": "\u2014",
-    "name": "LucioLiu/nuwa",
-    "stars": 2,
-    "updated_at": "2026-07-19T10:28:47Z",
-    "url": "https://github.com/LucioLiu/nuwa"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 1,
-    "updated_at": "2026-07-19T10:28:03Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 152,
-    "updated_at": "2026-07-19T10:25:16Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   }
 ]
