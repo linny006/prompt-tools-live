@@ -1,5 +1,50 @@
 [
   {
+    "description": "Extract structured information from unstructured text using Prompt Engineering and Google's Gemini LLM.",
+    "id": "Eisha017/LLM-Information-Extraction",
+    "language": "Python",
+    "name": "Eisha017/LLM-Information-Extraction",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:17:35Z",
+    "url": "https://github.com/Eisha017/LLM-Information-Extraction"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 1,
+    "updated_at": "2026-07-20T16:17:05Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Codex skill for Krea 2 prompt creation, reverse prompting, conversion, repair, evaluation, and ComfyUI/RunningHub node p",
+    "id": "AI-KSK/krea2-prompt-suite",
+    "language": "\u2014",
+    "name": "AI-KSK/krea2-prompt-suite",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:17:00Z",
+    "url": "https://github.com/AI-KSK/krea2-prompt-suite"
+  },
+  {
+    "description": "The operating system I wrap around coding agents to ship and maintain production software: durable context, decision dis",
+    "id": "SFX-TECH/agentic-harness",
+    "language": "Shell",
+    "name": "SFX-TECH/agentic-harness",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:15:56Z",
+    "url": "https://github.com/SFX-TECH/agentic-harness"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T16:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
     "id": "ariffazil/arifos",
     "language": "Python",
@@ -9,15 +54,6 @@
     "url": "https://github.com/ariffazil/arifos"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31499,
-    "updated_at": "2026-07-20T16:14:30Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
@@ -25,6 +61,15 @@
     "stars": 8785,
     "updated_at": "2026-07-20T16:14:44Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31500,
+    "updated_at": "2026-07-20T16:16:48Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A practical collection of Suno prompts, prompt templates, examples, genres, lyrics, and prompt engineering resources for",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T16:11:53Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Extract structured information from unstructured text using Prompt Engineering and Google's Gemini LLM.",
-    "id": "Eisha017/LLM-Information-Extraction",
-    "language": "Python",
-    "name": "Eisha017/LLM-Information-Extraction",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:09:36Z",
-    "url": "https://github.com/Eisha017/LLM-Information-Extraction"
   },
   {
     "description": "Reusable AI agent skills for idea validation, startup research, and workspace memory. Install with npx skills add.",
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3403,
-    "updated_at": "2026-07-20T16:11:52Z",
+    "updated_at": "2026-07-20T16:16:27Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T16:02:29Z",
     "url": "https://github.com/aegntic/cognitive-os"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T16:00:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie",
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "yahordauksha/agentic-sdlc-pipeline",
     "stars": 1,
-    "updated_at": "2026-07-20T15:52:04Z",
+    "updated_at": "2026-07-20T16:17:36Z",
     "url": "https://github.com/yahordauksha/agentic-sdlc-pipeline"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10641,
-    "updated_at": "2026-07-20T16:13:29Z",
+    "updated_at": "2026-07-20T16:15:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -340,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T15:45:30Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 1,
-    "updated_at": "2026-07-20T16:10:42Z",
-    "url": "https://github.com/rockerlabs/keel"
   },
   {
     "description": "\u4e00\u5957\u9762\u5411\u804c\u573a\u4eba\u7684 AI \u5b9e\u6218\u5de5\u4f5c\u574a\uff1a\u4ece\u9ad8\u8d28\u91cf\u5bf9\u8bdd\u4e0e\u667a\u80fd\u4f53\u534f\u4f5c\uff0c\u5230\u53ef\u9a8c\u6536\u4ea4\u4ed8\u548c\u81ea\u7136\u8bed\u8a00\u7f16\u7a0b\u3002",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-20T15:31:28Z",
     "url": "https://github.com/pbierkortte/ai-runbook"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:27:42Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "The operating system I wrap around coding agents to ship and maintain production software: durable context, decision dis",
-    "id": "SFX-TECH/agentic-harness",
-    "language": "Shell",
-    "name": "SFX-TECH/agentic-harness",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:39:41Z",
-    "url": "https://github.com/SFX-TECH/agentic-harness"
   }
 ]
