@@ -1,12 +1,66 @@
 [
   {
+    "description": "make your agents prove it. a portable skill for moving AI-built work from vibes to grounded, tested, adversarial, operat",
+    "id": "voltrace-io/vibes-to-verified",
+    "language": "Python",
+    "name": "voltrace-io/vibes-to-verified",
+    "stars": 0,
+    "updated_at": "2026-07-20T04:29:37Z",
+    "url": "https://github.com/voltrace-io/vibes-to-verified"
+  },
+  {
+    "description": "Observation logs and analysis reports on LLM behavior, produced through DDL (Dialogue Design Language). Includes Context",
+    "id": "YUZU-DDL/My-DDL-Reports",
+    "language": "\u2014",
+    "name": "YUZU-DDL/My-DDL-Reports",
+    "stars": 0,
+    "updated_at": "2026-07-20T04:29:03Z",
+    "url": "https://github.com/YUZU-DDL/My-DDL-Reports"
+  },
+  {
+    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4994,
+    "updated_at": "2026-07-20T04:25:55Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "A claims editor for DTC supplement and wellness copy. Quotes the passage, cites the FDA/FTC rule, hands it back. It will",
+    "id": "NFTYoginis/claimline",
+    "language": "Python",
+    "name": "NFTYoginis/claimline",
+    "stars": 0,
+    "updated_at": "2026-07-20T04:24:13Z",
+    "url": "https://github.com/NFTYoginis/claimline"
+  },
+  {
     "description": "Hey LLM, you okay? \u2014 pyramid-ordered LLM testing CLI for CI/CD. One YAML for every layer, LLM-as-a-judge gates, and A/B ",
     "id": "mykim-aus/hey-llm-you-okay",
     "language": "TypeScript",
     "name": "mykim-aus/hey-llm-you-okay",
-    "stars": 0,
-    "updated_at": "2026-07-20T04:14:12Z",
+    "stars": 1,
+    "updated_at": "2026-07-20T04:23:32Z",
     "url": "https://github.com/mykim-aus/hey-llm-you-okay"
+  },
+  {
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
+    "id": "f/prompts.chat",
+    "language": "HTML",
+    "name": "f/prompts.chat",
+    "stars": 166035,
+    "updated_at": "2026-07-20T04:19:59Z",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T04:15:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "daisukewatanabejapan/hajimete-ai-agent-development",
     "stars": 0,
-    "updated_at": "2026-07-20T04:13:07Z",
+    "updated_at": "2026-07-20T04:27:27Z",
     "url": "https://github.com/daisukewatanabejapan/hajimete-ai-agent-development"
   },
   {
@@ -117,21 +171,12 @@
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T04:00:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-20T03:59:01Z",
+    "updated_at": "2026-07-20T04:18:12Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -238,7 +283,7 @@
     "id": "kangarooking/cangjie-skill",
     "language": "Python",
     "name": "kangarooking/cangjie-skill",
-    "stars": 3885,
+    "stars": 3890,
     "updated_at": "2026-07-20T03:46:25Z",
     "url": "https://github.com/kangarooking/cangjie-skill"
   },
@@ -351,15 +396,6 @@
     "url": "https://github.com/gaia-research/skill-fuse"
   },
   {
-    "description": "Observation logs and analysis reports on LLM behavior, produced through DDL (Dialogue Design Language). Includes Context",
-    "id": "YUZU-DDL/My-DDL-Reports",
-    "language": "\u2014",
-    "name": "YUZU-DDL/My-DDL-Reports",
-    "stars": 0,
-    "updated_at": "2026-07-20T03:28:49Z",
-    "url": "https://github.com/YUZU-DDL/My-DDL-Reports"
-  },
-  {
     "description": "Interview questions and prep for AI Engineer, LLM Engineer, and Applied AI roles. Built for software engineers breaking ",
     "id": "ombharatiya/AI-Engineer-Interview-Questions",
     "language": "Python",
@@ -373,7 +409,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 8687,
+    "stars": 8689,
     "updated_at": "2026-07-20T03:25:10Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -412,41 +448,5 @@
     "stars": 43,
     "updated_at": "2026-07-20T03:18:32Z",
     "url": "https://github.com/majiayu000/awesome-goal-prompts"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
-    "id": "ZeroLu/awesome-seedance",
-    "language": "Shell",
-    "name": "ZeroLu/awesome-seedance",
-    "stars": 2152,
-    "updated_at": "2026-07-20T03:18:28Z",
-    "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "",
-    "id": "ZhiMaHang/playbook",
-    "language": "Shell",
-    "name": "ZhiMaHang/playbook",
-    "stars": 1,
-    "updated_at": "2026-07-20T03:17:25Z",
-    "url": "https://github.com/ZhiMaHang/playbook"
-  },
-  {
-    "description": "Official Muse Video preview prompts, playable clips, native-audio shot briefs, continuity workflows, and 14-language gui",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T03:17:08Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1604,
-    "updated_at": "2026-07-20T03:13:41Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   }
 ]
