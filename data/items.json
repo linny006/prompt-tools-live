@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u5c0f\u4f18AIGC\uff08\u6296\u97f3\u5c0f\u4f18\u4e0eAIGC\u7684\u5947\u5999\u5192\u9669\uff09\u7684 AI \u6444\u5f71\u5267\u7ec4 skill \u2014\u2014 \u7535\u5f71\u6444\u5f71\u7ea7\u751f\u56fe\u63d0\u793a\u8bcd\u751f\u6210\u5668\uff0c\u53ef\u88c5\u5165 Claude Code / Codex / Hermes",
+    "id": "wubo0927/xiaoyou-aigc-cinematic-director",
+    "language": "\u2014",
+    "name": "wubo0927/xiaoyou-aigc-cinematic-director",
+    "stars": 13,
+    "updated_at": "2026-07-20T05:00:13Z",
+    "url": "https://github.com/wubo0927/xiaoyou-aigc-cinematic-director"
+  },
+  {
+    "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 9,
+    "updated_at": "2026-07-20T04:59:05Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-07-20T04:56:20Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 4994,
+    "updated_at": "2026-07-20T04:53:37Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-20T04:52:41Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Military-inspired command and control operating system for AI agents.",
+    "id": "wnsdy95/cannae-os",
+    "language": "JavaScript",
+    "name": "wnsdy95/cannae-os",
+    "stars": 2,
+    "updated_at": "2026-07-20T04:51:31Z",
+    "url": "https://github.com/wnsdy95/cannae-os"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-07-20T04:51:04Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "ShuTong Protocol \u2014 A cognitive-layer human-AI collaboration protocol. Core thesis: AI is not an answer machine, but a co",
+    "id": "VZIQAQ/shutong-protocol",
+    "language": "\u2014",
+    "name": "VZIQAQ/shutong-protocol",
+    "stars": 0,
+    "updated_at": "2026-07-20T04:50:34Z",
+    "url": "https://github.com/VZIQAQ/shutong-protocol"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-07-20T04:50:00Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T04:48:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Learn safe, practical AI agent development with Codex and AGENTS.md\u2014in 10 minutes.",
     "id": "daisukewatanabejapan/hajimete-ai-agent-development",
     "language": "Python",
@@ -7,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-07-20T04:48:02Z",
     "url": "https://github.com/daisukewatanabejapan/hajimete-ai-agent-development"
+  },
+  {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 6710,
+    "updated_at": "2026-07-20T04:46:50Z",
+    "url": "https://github.com/Zipstack/unstract"
   },
   {
     "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
@@ -34,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T04:45:33Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T04:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -108,24 +198,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "ShuTong Protocol \u2014 A cognitive-layer human-AI collaboration protocol. Core thesis: AI is not an answer machine, but a co",
-    "id": "VZIQAQ/shutong-protocol",
-    "language": "\u2014",
-    "name": "VZIQAQ/shutong-protocol",
-    "stars": 0,
-    "updated_at": "2026-07-20T04:35:51Z",
-    "url": "https://github.com/VZIQAQ/shutong-protocol"
-  },
-  {
-    "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 9,
-    "updated_at": "2026-07-20T04:34:24Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
     "description": "One workflow framework, every coding agent. Install your AI-coding discipline into Claude Code, Cursor, GitHub Copilot, ",
     "id": "lee77840/omniconductor",
     "language": "Shell",
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T04:29:37Z",
     "url": "https://github.com/voltrace-io/vibes-to-verified"
-  },
-  {
-    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4994,
-    "updated_at": "2026-07-20T04:25:55Z",
-    "url": "https://github.com/vllm-project/semantic-router"
   },
   {
     "description": "A claims editor for DTC supplement and wellness copy. Quotes the passage, cites the FDA/FTC rule, hands it back. It will",
@@ -382,71 +445,8 @@
     "id": "kangarooking/cangjie-skill",
     "language": "Python",
     "name": "kangarooking/cangjie-skill",
-    "stars": 3892,
+    "stars": 3894,
     "updated_at": "2026-07-20T03:46:25Z",
     "url": "https://github.com/kangarooking/cangjie-skill"
-  },
-  {
-    "description": "\ud83c\udfad 267 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 18 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 20 \u4e2a\u90e8\u95e8\u3002\u542b 52 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
-    "id": "jnMetaCode/agency-agents-zh",
-    "language": "Shell",
-    "name": "jnMetaCode/agency-agents-zh",
-    "stars": 17844,
-    "updated_at": "2026-07-20T03:45:32Z",
-    "url": "https://github.com/jnMetaCode/agency-agents-zh"
-  },
-  {
-    "description": "Prompt refinement and workflow orchestration for Codex: turn vague ideas into scoped goals, reviewable SPECs, validation",
-    "id": "Nam-Cheol/namba-ai",
-    "language": "Go",
-    "name": "Nam-Cheol/namba-ai",
-    "stars": 11,
-    "updated_at": "2026-07-20T03:45:11Z",
-    "url": "https://github.com/Nam-Cheol/namba-ai"
-  },
-  {
-    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
-    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1772,
-    "updated_at": "2026-07-20T03:43:02Z",
-    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
-    "id": "ryanportfolio/savetokens",
-    "language": "HTML",
-    "name": "ryanportfolio/savetokens",
-    "stars": 1,
-    "updated_at": "2026-07-20T03:59:18Z",
-    "url": "https://github.com/ryanportfolio/savetokens"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-20T03:38:16Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
-    "id": "Mr-Salticidae/knowledge-base",
-    "language": "Python",
-    "name": "Mr-Salticidae/knowledge-base",
-    "stars": 17,
-    "updated_at": "2026-07-20T03:37:40Z",
-    "url": "https://github.com/Mr-Salticidae/knowledge-base"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 1908,
-    "updated_at": "2026-07-20T03:37:25Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
   }
 ]
