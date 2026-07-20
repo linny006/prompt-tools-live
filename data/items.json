@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1604,
+    "updated_at": "2026-07-20T03:13:41Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Free, tested AI skills, prompts & image style guides for Claude, ChatGPT, Cursor & agent tools. Organised by department.",
+    "id": "whatsuppiyush/god-of-skills",
+    "language": "\u2014",
+    "name": "whatsuppiyush/god-of-skills",
+    "stars": 1,
+    "updated_at": "2026-07-20T03:11:45Z",
+    "url": "https://github.com/whatsuppiyush/god-of-skills"
+  },
+  {
+    "description": "Fully private multilingual prompt-engineering UI for local Ollama. Voice dictation, JSON profile ZIP export. Collaborate",
+    "id": "JeanSebastienBash/PromptDeMerde",
+    "language": "JavaScript",
+    "name": "JeanSebastienBash/PromptDeMerde",
+    "stars": 0,
+    "updated_at": "2026-07-20T03:09:19Z",
+    "url": "https://github.com/JeanSebastienBash/PromptDeMerde"
+  },
+  {
+    "description": "Hey LLM, you okay? \u2014 pyramid-ordered LLM testing CLI for CI/CD. One YAML for every layer, LLM-as-a-judge gates, and A/B ",
+    "id": "mykim-aus/hey-llm-you-okay",
+    "language": "TypeScript",
+    "name": "mykim-aus/hey-llm-you-okay",
+    "stars": 0,
+    "updated_at": "2026-07-20T03:08:26Z",
+    "url": "https://github.com/mykim-aus/hey-llm-you-okay"
+  },
+  {
+    "description": "Private Skill distribution platform for AI coding agents: publish, install, update, and rollback team skills across Curs",
+    "id": "ginuim/skill-base",
+    "language": "Vue",
+    "name": "ginuim/skill-base",
+    "stars": 113,
+    "updated_at": "2026-07-20T03:08:09Z",
+    "url": "https://github.com/ginuim/skill-base"
+  },
+  {
+    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
+    "id": "ryanportfolio/savetokens",
+    "language": "HTML",
+    "name": "ryanportfolio/savetokens",
+    "stars": 1,
+    "updated_at": "2026-07-20T03:07:50Z",
+    "url": "https://github.com/ryanportfolio/savetokens"
+  },
+  {
+    "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 9,
+    "updated_at": "2026-07-20T03:07:12Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-20T03:05:23Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-07-20T03:04:50Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-07-20T03:03:28Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Prompt engineering for people who don't trust vibes -- Strict tools for critical cases, flexible ones for creative ones ",
+    "id": "tobs-code/prompts",
+    "language": "\u2014",
+    "name": "tobs-code/prompts",
+    "stars": 7,
+    "updated_at": "2026-07-20T03:00:47Z",
+    "url": "https://github.com/tobs-code/prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T03:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
     "id": "astorie-ai/awesome-seedance-2-prompt",
     "language": "Shell",
@@ -27,15 +135,6 @@
     "url": "https://github.com/clawplays/ospec"
   },
   {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T02:52:45Z",
-    "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
     "description": "A tool that contains many tools",
     "id": "WinriseF/CtxRun",
     "language": "TypeScript",
@@ -52,15 +151,6 @@
     "stars": 10,
     "updated_at": "2026-07-20T02:45:36Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T02:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -189,15 +279,6 @@
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   },
   {
-    "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 9,
-    "updated_at": "2026-07-20T02:27:52Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
     "id": "teguhimanulloh47/pirate-talk-for-claude",
     "language": "HTML",
@@ -212,7 +293,7 @@
     "language": "Go",
     "name": "Nam-Cheol/namba-ai",
     "stars": 11,
-    "updated_at": "2026-07-20T02:49:58Z",
+    "updated_at": "2026-07-20T03:13:55Z",
     "url": "https://github.com/Nam-Cheol/namba-ai"
   },
   {
@@ -355,7 +436,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 38506,
+    "stars": 38507,
     "updated_at": "2026-07-20T01:48:04Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -367,86 +448,5 @@
     "stars": 2194,
     "updated_at": "2026-07-20T01:46:44Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 818,
-    "updated_at": "2026-07-20T01:45:17Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Congestion monitoring where rules control execution and the LLM only judges triggered anomalies. Training-free, promptin",
-    "id": "jwhitekim/congestion-agent",
-    "language": "Python",
-    "name": "jwhitekim/congestion-agent",
-    "stars": 0,
-    "updated_at": "2026-07-20T01:44:14Z",
-    "url": "https://github.com/jwhitekim/congestion-agent"
-  },
-  {
-    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
-    "id": "luongs3/skill-atlas",
-    "language": "Python",
-    "name": "luongs3/skill-atlas",
-    "stars": 0,
-    "updated_at": "2026-07-20T01:41:53Z",
-    "url": "https://github.com/luongs3/skill-atlas"
-  },
-  {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-07-20T01:37:26Z",
-    "url": "https://github.com/agungkesmas/recallfox"
-  },
-  {
-    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 4993,
-    "updated_at": "2026-07-20T01:36:27Z",
-    "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "AI agents now operate with authority. Authority without discipline is how complex systems fail. Nuclear\u2019s control loop, ",
-    "id": "FlyFission/nuclear-grade-context-engineering",
-    "language": "Python",
-    "name": "FlyFission/nuclear-grade-context-engineering",
-    "stars": 32,
-    "updated_at": "2026-07-20T01:35:23Z",
-    "url": "https://github.com/FlyFission/nuclear-grade-context-engineering"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27108,
-    "updated_at": "2026-07-20T01:34:03Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Framework port\u00e1til de governan\u00e7a para agentes de IA: requisitos determin\u00edsticos, contexto enxuto e fluxos audit\u00e1veis par",
-    "id": "jcempro/agents.md",
-    "language": "JavaScript",
-    "name": "jcempro/agents.md",
-    "stars": 2,
-    "updated_at": "2026-07-20T01:33:51Z",
-    "url": "https://github.com/jcempro/agents.md"
-  },
-  {
-    "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CL",
-    "id": "Dannykkh/skill-olympus",
-    "language": "Python",
-    "name": "Dannykkh/skill-olympus",
-    "stars": 3,
-    "updated_at": "2026-07-20T01:29:55Z",
-    "url": "https://github.com/Dannykkh/skill-olympus"
   }
 ]
