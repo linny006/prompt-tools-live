@@ -1,12 +1,84 @@
 [
   {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "astorie-ai/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "astorie-ai/awesome-seedance-2-prompt",
+    "stars": 10,
+    "updated_at": "2026-07-20T02:58:12Z",
+    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
+    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "language": "HTML",
+    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "stars": 0,
+    "updated_at": "2026-07-20T02:54:34Z",
+    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
+  },
+  {
+    "description": "Spec-driven, agentic workflow framework for AI coding agents. Turn a request into a verifiable goal loop \u2014 plan, act, ve",
+    "id": "clawplays/ospec",
+    "language": "JavaScript",
+    "name": "clawplays/ospec",
+    "stars": 525,
+    "updated_at": "2026-07-20T02:54:00Z",
+    "url": "https://github.com/clawplays/ospec"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-20T02:52:45Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "A tool that contains many tools",
+    "id": "WinriseF/CtxRun",
+    "language": "TypeScript",
+    "name": "WinriseF/CtxRun",
+    "stars": 7,
+    "updated_at": "2026-07-20T02:51:08Z",
+    "url": "https://github.com/WinriseF/CtxRun"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 10,
+    "updated_at": "2026-07-20T02:45:36Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T02:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 2,
-    "updated_at": "2026-07-20T02:45:15Z",
+    "updated_at": "2026-07-20T02:45:27Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20709,
+    "updated_at": "2026-07-20T02:44:14Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Workflow stack for disciplined AI coding agents.",
@@ -99,15 +171,6 @@
     "url": "https://github.com/5uprem4/ai-skill-vault"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T02:30:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "LLM-based privacy risk classifier achieving 97% recall and 84% precision on a 10-service benchmark \u2014 ensemble design, it",
     "id": "Jatin23K/TLDR-Shield",
     "language": "JavaScript",
@@ -149,7 +212,7 @@
     "language": "Go",
     "name": "Nam-Cheol/namba-ai",
     "stars": 11,
-    "updated_at": "2026-07-20T02:24:13Z",
+    "updated_at": "2026-07-20T02:49:58Z",
     "url": "https://github.com/Nam-Cheol/namba-ai"
   },
   {
@@ -292,7 +355,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 38505,
+    "stars": 38506,
     "updated_at": "2026-07-20T01:48:04Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -364,7 +427,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27107,
+    "stars": 27108,
     "updated_at": "2026-07-20T01:34:03Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-20T01:29:55Z",
     "url": "https://github.com/Dannykkh/skill-olympus"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 59,
-    "updated_at": "2026-07-20T01:29:36Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 52,
-    "updated_at": "2026-07-20T01:27:42Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "\u4e00\u5957\u9762\u5411\u804c\u573a\u4eba\u7684 AI \u5b9e\u6218\u5de5\u4f5c\u574a\uff1a\u4ece\u9ad8\u8d28\u91cf\u5bf9\u8bdd\u4e0e\u667a\u80fd\u4f53\u534f\u4f5c\uff0c\u5230\u53ef\u9a8c\u6536\u4ea4\u4ed8\u548c\u81ea\u7136\u8bed\u8a00\u7f16\u7a0b\u3002",
-    "id": "qinxujunai/ai-work-method",
-    "language": "TypeScript",
-    "name": "qinxujunai/ai-work-method",
-    "stars": 0,
-    "updated_at": "2026-07-20T01:26:57Z",
-    "url": "https://github.com/qinxujunai/ai-work-method"
-  },
-  {
-    "description": "High-value AI skills repository for Codex, Claude Code, OpenClaw, agents, prompts, and automation workflows.  \u9ad8\u4ef7\u503c\u7684 AI \u6280\u80fd",
-    "id": "seaworld008/Commonly-used-high-value-skills",
-    "language": "Python",
-    "name": "seaworld008/Commonly-used-high-value-skills",
-    "stars": 62,
-    "updated_at": "2026-07-20T01:25:37Z",
-    "url": "https://github.com/seaworld008/Commonly-used-high-value-skills"
-  },
-  {
-    "description": "Getting my feet wet in this new AI driven world. ",
-    "id": "Rlspark87/rachel_portfoliio",
-    "language": "HTML",
-    "name": "Rlspark87/rachel_portfoliio",
-    "stars": 1,
-    "updated_at": "2026-07-20T01:24:17Z",
-    "url": "https://github.com/Rlspark87/rachel_portfoliio"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 21,
-    "updated_at": "2026-07-20T01:21:11Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Ecossistema de tutoria via IA que busca e estrutura provas da web. Integra Cloudflare Workers, GitHub Actions, OpenHands",
-    "id": "TouchRefletz/maia.edu",
-    "language": "JavaScript",
-    "name": "TouchRefletz/maia.edu",
-    "stars": 1,
-    "updated_at": "2026-07-20T01:20:21Z",
-    "url": "https://github.com/TouchRefletz/maia.edu"
   }
 ]
