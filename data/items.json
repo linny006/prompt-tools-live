@@ -1,12 +1,39 @@
 [
   {
-    "description": "OpenCode \u5168\u6d41\u7a0b\u5f00\u53d1\u7f16\u6392\u63d2\u4ef6\uff1a\u8986\u76d6\u9700\u6c42\u3001\u8bbe\u8ba1\u3001DAG \u4efb\u52a1\u3001\u5e76\u884c\u7f16\u7801\u3001\u6d4b\u8bd5\u3001\u5ba1\u67e5\u4e0e\u81ea\u52a8\u5408\u5e76\u3002 | Full-lifecycle development orchestration plugin for OpenCode, from ",
-    "id": "devcxl/opencode-cabbage",
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
     "language": "TypeScript",
-    "name": "devcxl/opencode-cabbage",
+    "name": "langwatch/langwatch",
+    "stars": 3403,
+    "updated_at": "2026-07-20T11:59:01Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "SOON Python implementation \u2014 soon-format on PyPI",
+    "id": "soon-format/soon-python",
+    "language": "Python",
+    "name": "soon-format/soon-python",
     "stars": 0,
-    "updated_at": "2026-07-20T11:43:55Z",
-    "url": "https://github.com/devcxl/opencode-cabbage"
+    "updated_at": "2026-07-20T11:58:45Z",
+    "url": "https://github.com/soon-format/soon-python"
+  },
+  {
+    "description": "SOON TypeScript/JavaScript implementation \u2014 @soon-format/soon on npm",
+    "id": "soon-format/soon-typescript",
+    "language": "TypeScript",
+    "name": "soon-format/soon-typescript",
+    "stars": 0,
+    "updated_at": "2026-07-20T11:58:38Z",
+    "url": "https://github.com/soon-format/soon-typescript"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4113,
+    "updated_at": "2026-07-20T11:56:04Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "Context compression for AI agents \u2014 cut token usage costs with retrievable CCR compression. Rust core + Python API, Clau",
@@ -14,8 +41,116 @@
     "language": "Python",
     "name": "omar-y-abdi/furl-ctx",
     "stars": 2,
-    "updated_at": "2026-07-20T11:43:49Z",
+    "updated_at": "2026-07-20T11:55:49Z",
     "url": "https://github.com/omar-y-abdi/furl-ctx"
+  },
+  {
+    "description": "OpenCode \u5168\u6d41\u7a0b\u5f00\u53d1\u7f16\u6392\u63d2\u4ef6\uff1a\u8986\u76d6\u9700\u6c42\u3001\u8bbe\u8ba1\u3001DAG \u4efb\u52a1\u3001\u5e76\u884c\u7f16\u7801\u3001\u6d4b\u8bd5\u3001\u5ba1\u67e5\u4e0e\u81ea\u52a8\u5408\u5e76\u3002 | Full-lifecycle development orchestration plugin for OpenCode, from ",
+    "id": "devcxl/opencode-cabbage",
+    "language": "TypeScript",
+    "name": "devcxl/opencode-cabbage",
+    "stars": 0,
+    "updated_at": "2026-07-20T11:55:48Z",
+    "url": "https://github.com/devcxl/opencode-cabbage"
+  },
+  {
+    "description": "\ucd08\uae09\uc790\ub97c \uc704\ud55c AI Engineer 100\uc77c \ucee4\ub9ac\ud058\ub7fc \u2014 Python\ubd80\ud130 RAG\uae4c\uc9c0 + \ub9e4\uc77c AI \ub274\uc2a4 \uc790\ub3d9 \ud050\ub808\uc774\uc158",
+    "id": "kimsanguine/AI_Human",
+    "language": "Shell",
+    "name": "kimsanguine/AI_Human",
+    "stars": 0,
+    "updated_at": "2026-07-20T11:55:05Z",
+    "url": "https://github.com/kimsanguine/AI_Human"
+  },
+  {
+    "description": "A lightweight protocol for more rigorous, context-aware human\u2013AI collaboration.",
+    "id": "gorgomannaro/collaborative-protocol",
+    "language": "\u2014",
+    "name": "gorgomannaro/collaborative-protocol",
+    "stars": 0,
+    "updated_at": "2026-07-20T11:54:18Z",
+    "url": "https://github.com/gorgomannaro/collaborative-protocol"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-07-20T11:52:54Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Creating a plugin marketplace for AI agent add-ons that's not available via plugin",
+    "id": "ekawijayasusilo/personal-claude-setup",
+    "language": "\u2014",
+    "name": "ekawijayasusilo/personal-claude-setup",
+    "stars": 0,
+    "updated_at": "2026-07-20T11:52:33Z",
+    "url": "https://github.com/ekawijayasusilo/personal-claude-setup"
+  },
+  {
+    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
+    "id": "Magma1321/mythos-agent-pipe",
+    "language": "HTML",
+    "name": "Magma1321/mythos-agent-pipe",
+    "stars": 153,
+    "updated_at": "2026-07-20T11:51:58Z",
+    "url": "https://github.com/Magma1321/mythos-agent-pipe"
+  },
+  {
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "id": "AgustiPuigserver/opus-prompt-architect",
+    "language": "HTML",
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "stars": 155,
+    "updated_at": "2026-07-20T11:49:38Z",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
+  },
+  {
+    "description": "Production RAG system with semantic search, source-cited answers, anti-hallucination guardrails, and streaming \u2014 built w",
+    "id": "AnicetFantomas/Vidya",
+    "language": "TypeScript",
+    "name": "AnicetFantomas/Vidya",
+    "stars": 0,
+    "updated_at": "2026-07-20T11:46:06Z",
+    "url": "https://github.com/AnicetFantomas/Vidya"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20719,
+    "updated_at": "2026-07-20T11:45:40Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-20T11:45:28Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T11:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "SOON specification, conformance suite & benchmarks \u2014 the token-efficient replacement for JSON in LLM prompts",
+    "id": "soon-format/soon",
+    "language": "Python",
+    "name": "soon-format/soon",
+    "stars": 2,
+    "updated_at": "2026-07-20T11:45:10Z",
+    "url": "https://github.com/soon-format/soon"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -23,7 +158,7 @@
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 170,
-    "updated_at": "2026-07-20T11:42:24Z",
+    "updated_at": "2026-07-20T11:55:46Z",
     "url": "https://github.com/fkiene/llmtrim"
   },
   {
@@ -54,15 +189,6 @@
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20718,
-    "updated_at": "2026-07-20T11:37:06Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
     "id": "EvoMap/awesome-agent-evolution",
     "language": "JavaScript",
@@ -70,15 +196,6 @@
     "stars": 174,
     "updated_at": "2026-07-20T11:36:42Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4113,
-    "updated_at": "2026-07-20T11:43:45Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "A local-first prompt manager and reusable template launcher.",
@@ -121,7 +238,7 @@
     "id": "ErfanMasoudiBA/GenAI-Vision-Bootcamp",
     "language": "Jupyter Notebook",
     "name": "ErfanMasoudiBA/GenAI-Vision-Bootcamp",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-20T11:31:42Z",
     "url": "https://github.com/ErfanMasoudiBA/GenAI-Vision-Bootcamp"
   },
@@ -142,15 +259,6 @@
     "stars": 166,
     "updated_at": "2026-07-20T11:30:54Z",
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T11:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Flatten a codebase into one LLM-friendly file: file tree, smart filtering, a token budget, and a built-in MCP server for",
@@ -274,7 +382,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 8754,
+    "stars": 8756,
     "updated_at": "2026-07-20T11:11:53Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -286,15 +394,6 @@
     "stars": 1606,
     "updated_at": "2026-07-20T11:09:57Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Creating a plugin marketplace for AI agent add-ons that's not available via plugin",
-    "id": "ekawijayasusilo/personal-claude-setup",
-    "language": "\u2014",
-    "name": "ekawijayasusilo/personal-claude-setup",
-    "stars": 0,
-    "updated_at": "2026-07-20T11:06:11Z",
-    "url": "https://github.com/ekawijayasusilo/personal-claude-setup"
   },
   {
     "description": "\ud83c\udfaf Full-stack engineer & AI/ML enthusiast building production-grade web apps and LLM-powered systems | React \u00b7 Node.js \u00b7 ",
@@ -349,104 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-20T10:53:33Z",
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Official Muse Video preview prompts, playable clips, native-audio shot briefs, continuity workflows, and 14-language gui",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:53:14Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "Reproducible AI image prompts, model comparison fixtures, and OpenAI-compatible API recipes by APIMart Labs.",
-    "id": "luyx-66/ai-generation-benchmarks",
-    "language": "HTML",
-    "name": "luyx-66/ai-generation-benchmarks",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:52:41Z",
-    "url": "https://github.com/luyx-66/ai-generation-benchmarks"
-  },
-  {
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "JavaScript",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 59165,
-    "updated_at": "2026-07-20T10:52:23Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "PowerShell tool for exporting AI-ready repository context.",
-    "id": "Y-Yokoyama0519/ai-repo-context",
-    "language": "PowerShell",
-    "name": "Y-Yokoyama0519/ai-repo-context",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:51:29Z",
-    "url": "https://github.com/Y-Yokoyama0519/ai-repo-context"
-  },
-  {
-    "description": "Multi-advisor deliberation for AI agents. Multi cognitive lenses, 5-round process, confidence-weighted verdicts. One cou",
-    "id": "BhavanPatel/council-of-minds",
-    "language": "Shell",
-    "name": "BhavanPatel/council-of-minds",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:47:12Z",
-    "url": "https://github.com/BhavanPatel/council-of-minds"
-  },
-  {
-    "description": "Source-backed Muse Image prompts, official agentic editing cases, reusable workflows, preview media, and 14-language gui",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:47:10Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-20T11:45:16Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 12,
-    "updated_at": "2026-07-20T10:44:25Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "Curated collection of AI agent skills for Antigravity, Claude Code, OpenCode & similar AI coding assistants",
-    "id": "flitzrrr/agent-skills",
-    "language": "JavaScript",
-    "name": "flitzrrr/agent-skills",
-    "stars": 4,
-    "updated_at": "2026-07-20T10:43:28Z",
-    "url": "https://github.com/flitzrrr/agent-skills"
-  },
-  {
-    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
-    "id": "AltairaLabs/PromptKit",
-    "language": "Go",
-    "name": "AltairaLabs/PromptKit",
-    "stars": 10,
-    "updated_at": "2026-07-20T10:43:03Z",
-    "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:42:02Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   }
 ]
