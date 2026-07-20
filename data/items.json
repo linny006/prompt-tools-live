@@ -1,12 +1,12 @@
 [
   {
-    "description": "\u5c0f\u4f18AIGC\uff08\u6296\u97f3\u5c0f\u4f18\u4e0eAIGC\u7684\u5947\u5999\u5192\u9669\uff09\u7684 AI \u6444\u5f71\u5267\u7ec4 skill \u2014\u2014 \u7535\u5f71\u6444\u5f71\u7ea7\u751f\u56fe\u63d0\u793a\u8bcd\u751f\u6210\u5668\uff0c\u53ef\u88c5\u5165 Claude Code / Codex / Hermes",
-    "id": "wubo0927/xiaoyou-aigc-cinematic-director",
-    "language": "\u2014",
-    "name": "wubo0927/xiaoyou-aigc-cinematic-director",
-    "stars": 13,
-    "updated_at": "2026-07-20T05:00:13Z",
-    "url": "https://github.com/wubo0927/xiaoyou-aigc-cinematic-director"
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 60424,
+    "updated_at": "2026-07-20T05:15:22Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
@@ -14,8 +14,116 @@
     "language": "Python",
     "name": "crisnahine/chameleon",
     "stars": 9,
-    "updated_at": "2026-07-20T04:59:05Z",
+    "updated_at": "2026-07-20T05:14:42Z",
     "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "Observation logs and analysis reports on LLM behavior, produced through DDL (Dialogue Design Language). Includes Context",
+    "id": "YUZU-DDL/My-DDL-Reports",
+    "language": "\u2014",
+    "name": "YUZU-DDL/My-DDL-Reports",
+    "stars": 0,
+    "updated_at": "2026-07-20T05:14:38Z",
+    "url": "https://github.com/YUZU-DDL/My-DDL-Reports"
+  },
+  {
+    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
+    "id": "Mr-Salticidae/knowledge-base",
+    "language": "Python",
+    "name": "Mr-Salticidae/knowledge-base",
+    "stars": 17,
+    "updated_at": "2026-07-20T05:11:37Z",
+    "url": "https://github.com/Mr-Salticidae/knowledge-base"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12885,
+    "updated_at": "2026-07-20T05:11:35Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
+    "id": "Sungmin-Cho/claude-deep-suite",
+    "language": "JavaScript",
+    "name": "Sungmin-Cho/claude-deep-suite",
+    "stars": 6,
+    "updated_at": "2026-07-20T05:10:34Z",
+    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
+  },
+  {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "Python",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 2,
+    "updated_at": "2026-07-20T05:09:44Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "Open-source toolbox for harness engineering: composable primitives for building robust LLM/agent harnesses.",
+    "id": "dr-gareth-roberts/harness-engineering",
+    "language": "Python",
+    "name": "dr-gareth-roberts/harness-engineering",
+    "stars": 2,
+    "updated_at": "2026-07-20T05:09:43Z",
+    "url": "https://github.com/dr-gareth-roberts/harness-engineering"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 49,
+    "updated_at": "2026-07-20T05:09:29Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
+    "id": "juventini10/Five-layer-memory-system",
+    "language": "Python",
+    "name": "juventini10/Five-layer-memory-system",
+    "stars": 1,
+    "updated_at": "2026-07-20T05:08:19Z",
+    "url": "https://github.com/juventini10/Five-layer-memory-system"
+  },
+  {
+    "description": "Context engineering toolkit for LLMs \u2014 pack, cache, debug, red-team, and orchestrate context windows. Council of Experts",
+    "id": "dr-gareth-roberts/context-engineering",
+    "language": "Python",
+    "name": "dr-gareth-roberts/context-engineering",
+    "stars": 2,
+    "updated_at": "2026-07-20T05:11:39Z",
+    "url": "https://github.com/dr-gareth-roberts/context-engineering"
+  },
+  {
+    "description": "100+ tested, copy-paste AI prompts for everyday life \u2014 one new skill every day at dailyskill.ai",
+    "id": "vinusmark1-cpu/dailyskill-prompt-library",
+    "language": "\u2014",
+    "name": "vinusmark1-cpu/dailyskill-prompt-library",
+    "stars": 0,
+    "updated_at": "2026-07-20T05:01:58Z",
+    "url": "https://github.com/vinusmark1-cpu/dailyskill-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T05:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\u5c0f\u4f18AIGC\uff08\u6296\u97f3\u5c0f\u4f18\u4e0eAIGC\u7684\u5947\u5999\u5192\u9669\uff09\u7684 AI \u6444\u5f71\u5267\u7ec4 skill \u2014\u2014 \u7535\u5f71\u6444\u5f71\u7ea7\u751f\u56fe\u63d0\u793a\u8bcd\u751f\u6210\u5668\uff0c\u53ef\u88c5\u5165 Claude Code / Codex / Hermes",
+    "id": "wubo0927/xiaoyou-aigc-cinematic-director",
+    "language": "\u2014",
+    "name": "wubo0927/xiaoyou-aigc-cinematic-director",
+    "stars": 13,
+    "updated_at": "2026-07-20T05:00:13Z",
+    "url": "https://github.com/wubo0927/xiaoyou-aigc-cinematic-director"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -81,15 +189,6 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T04:48:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Learn safe, practical AI agent development with Codex and AGENTS.md\u2014in 10 minutes.",
     "id": "daisukewatanabejapan/hajimete-ai-agent-development",
     "language": "Python",
@@ -142,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T04:42:10Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Observation logs and analysis reports on LLM behavior, produced through DDL (Dialogue Design Language). Includes Context",
-    "id": "YUZU-DDL/My-DDL-Reports",
-    "language": "\u2014",
-    "name": "YUZU-DDL/My-DDL-Reports",
-    "stars": 0,
-    "updated_at": "2026-07-20T04:41:43Z",
-    "url": "https://github.com/YUZU-DDL/My-DDL-Reports"
   },
   {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
@@ -238,18 +328,9 @@
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 166035,
+    "stars": 166036,
     "updated_at": "2026-07-20T04:19:59Z",
     "url": "https://github.com/f/prompts.chat"
-  },
-  {
-    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
-    "id": "Sungmin-Cho/claude-deep-suite",
-    "language": "JavaScript",
-    "name": "Sungmin-Cho/claude-deep-suite",
-    "stars": 6,
-    "updated_at": "2026-07-20T04:14:01Z",
-    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
   },
   {
     "description": "Structured, spec-driven development workflow for AI coding agents.",
@@ -367,86 +448,5 @@
     "stars": 150,
     "updated_at": "2026-07-20T03:55:24Z",
     "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 1,
-    "updated_at": "2026-07-20T03:54:16Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-07-20T03:53:36Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 10,
-    "updated_at": "2026-07-20T03:53:27Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-07-20T03:52:31Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 1,
-    "updated_at": "2026-07-20T03:50:12Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Curated AI product photography prompts for ecommerce, ads, catalog images, and brand campaigns. Includes studio, lifesty",
-    "id": "photoshootapp/product-photoshoot-prompts",
-    "language": "\u2014",
-    "name": "photoshootapp/product-photoshoot-prompts",
-    "stars": 0,
-    "updated_at": "2026-07-20T03:49:23Z",
-    "url": "https://github.com/photoshootapp/product-photoshoot-prompts"
-  },
-  {
-    "description": "Create. Use. Share. ChatGPT prompts",
-    "id": "timqian/openprompt.co",
-    "language": "JavaScript",
-    "name": "timqian/openprompt.co",
-    "stars": 1221,
-    "updated_at": "2026-07-20T03:47:51Z",
-    "url": "https://github.com/timqian/openprompt.co"
-  },
-  {
-    "description": "A library of reusable instructions and Claude Code skills for AI coding agents.",
-    "id": "konstruktoid/agent-instructions-skills",
-    "language": "\u2014",
-    "name": "konstruktoid/agent-instructions-skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T03:46:55Z",
-    "url": "https://github.com/konstruktoid/agent-instructions-skills"
-  },
-  {
-    "description": "\u628a\u4e66\u3001\u957f\u89c6\u9891\u3001\u64ad\u5ba2\u7b49\u9ad8\u4ef7\u503c\u5185\u5bb9\u84b8\u998f\u6210\u53ef\u6267\u884c\u7684 Agent Skills",
-    "id": "kangarooking/cangjie-skill",
-    "language": "Python",
-    "name": "kangarooking/cangjie-skill",
-    "stars": 3894,
-    "updated_at": "2026-07-20T03:46:25Z",
-    "url": "https://github.com/kangarooking/cangjie-skill"
   }
 ]
