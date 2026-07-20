@@ -1,5 +1,122 @@
 [
   {
+    "description": "Structured Outputs",
+    "id": "dottxt-ai/outlines",
+    "language": "Python",
+    "name": "dottxt-ai/outlines",
+    "stars": 14560,
+    "updated_at": "2026-07-20T07:29:28Z",
+    "url": "https://github.com/dottxt-ai/outlines"
+  },
+  {
+    "description": "Production-ready AI coding skills for APIs. Installable skills for Claude Code, Cursor, Codex CLI, Gemini CLI, and moder",
+    "id": "ashish7802/awesome-api-skills",
+    "language": "JavaScript",
+    "name": "ashish7802/awesome-api-skills",
+    "stars": 9,
+    "updated_at": "2026-07-20T07:30:00Z",
+    "url": "https://github.com/ashish7802/awesome-api-skills"
+  },
+  {
+    "description": "NL-to-SQL over SQLite scored by execution accuracy (not string match) \u2014 benchmarks zero-shot/few-shot/self-correction an",
+    "id": "tkarim45/text-to-sql",
+    "language": "Python",
+    "name": "tkarim45/text-to-sql",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:26:41Z",
+    "url": "https://github.com/tkarim45/text-to-sql"
+  },
+  {
+    "description": "Benchmark LLM structured-output reliability: valid-JSON/schema-adherence/field-accuracy across plain \u2192 schema-in-prompt ",
+    "id": "tkarim45/structured-output-eval",
+    "language": "Python",
+    "name": "tkarim45/structured-output-eval",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:26:34Z",
+    "url": "https://github.com/tkarim45/structured-output-eval"
+  },
+  {
+    "description": "A persistent, observable, and collaborative context infrastructure",
+    "id": "lilhammerfun/clumsies",
+    "language": "Zig",
+    "name": "lilhammerfun/clumsies",
+    "stars": 17,
+    "updated_at": "2026-07-20T07:26:28Z",
+    "url": "https://github.com/lilhammerfun/clumsies"
+  },
+  {
+    "description": "\u2699\ufe0f Unified master LLM agent pipeline unifying 10 frameworks: AI Scientist v2, Self-Refine, Reflexion, Meta-Prompting, To",
+    "id": "faresrafat3/arsenal-unified-master-pipeline",
+    "language": "Mermaid",
+    "name": "faresrafat3/arsenal-unified-master-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:26:19Z",
+    "url": "https://github.com/faresrafat3/arsenal-unified-master-pipeline"
+  },
+  {
+    "description": "ARSENAL-powered epistemic research kit: claim lattices, dialectic briefs, freelance scopes, and Kaggle notebook spines (",
+    "id": "faresrafat3/epistemic-forge",
+    "language": "Python",
+    "name": "faresrafat3/epistemic-forge",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:24:24Z",
+    "url": "https://github.com/faresrafat3/epistemic-forge"
+  },
+  {
+    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
+    "id": "netopsengineer/axiom",
+    "language": "Python",
+    "name": "netopsengineer/axiom",
+    "stars": 3,
+    "updated_at": "2026-07-20T07:23:02Z",
+    "url": "https://github.com/netopsengineer/axiom"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20714,
+    "updated_at": "2026-07-20T07:30:23Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:22:06Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 23,
+    "updated_at": "2026-07-20T07:19:06Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:18:36Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T07:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "",
     "id": "newesp/my-skills",
     "language": "\u2014",
@@ -27,15 +144,6 @@
     "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
   },
   {
-    "description": "ARSENAL-powered epistemic research kit: claim lattices, dialectic briefs, freelance scopes, and Kaggle notebook spines (",
-    "id": "faresrafat3/epistemic-forge",
-    "language": "Python",
-    "name": "faresrafat3/epistemic-forge",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:09:59Z",
-    "url": "https://github.com/faresrafat3/epistemic-forge"
-  },
-  {
     "description": "Hey LLM, you okay? \u2014 pyramid-ordered LLM testing CLI for CI/CD. One YAML for every layer, LLM-as-a-judge gates, and A/B ",
     "id": "mykim-aus/hey-llm-you-okay",
     "language": "TypeScript",
@@ -43,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T07:09:23Z",
     "url": "https://github.com/mykim-aus/hey-llm-you-okay"
-  },
-  {
-    "description": "\u2699\ufe0f Unified master LLM agent pipeline unifying 10 frameworks: AI Scientist v2, Self-Refine, Reflexion, Meta-Prompting, To",
-    "id": "faresrafat3/arsenal-unified-master-pipeline",
-    "language": "Mermaid",
-    "name": "faresrafat3/arsenal-unified-master-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:09:17Z",
-    "url": "https://github.com/faresrafat3/arsenal-unified-master-pipeline"
   },
   {
     "description": "Your AI content engine. Research, write, publish posts that sound like you. Zero code, any niche, any platform.",
@@ -106,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T07:02:48Z",
     "url": "https://github.com/Aditya-dxt/Aditya-dxt"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T07:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Behavioral diffs and regression gates for prompts and agents. Prompt or agent? Run both against the same suite and diff ",
@@ -292,7 +382,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 4646,
+    "stars": 4645,
     "updated_at": "2026-07-20T06:45:07Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -313,15 +403,6 @@
     "stars": 26,
     "updated_at": "2026-07-20T06:41:17Z",
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "Structured Outputs",
-    "id": "dottxt-ai/outlines",
-    "language": "Python",
-    "name": "dottxt-ai/outlines",
-    "stars": 14560,
-    "updated_at": "2026-07-20T06:49:00Z",
-    "url": "https://github.com/dottxt-ai/outlines"
   },
   {
     "description": "A production-grade multi-platform monorepo demonstrating shared business logic across Web and Mobile. Showcases engineer",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T06:38:29Z",
     "url": "https://github.com/YUZU-DDL/AI-Dialogue-Legacy"
-  },
-  {
-    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
-    "id": "T-Stephen/ai-mql-engine",
-    "language": "JavaScript",
-    "name": "T-Stephen/ai-mql-engine",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:37:32Z",
-    "url": "https://github.com/T-Stephen/ai-mql-engine"
-  },
-  {
-    "description": "Auto harness engineering meta-repo: discuss \u2192 curate \u2192 bootstrap a context-engineered project for Claude Code, Cursor, C",
-    "id": "glowElephant/context-forge",
-    "language": "Python",
-    "name": "glowElephant/context-forge",
-    "stars": 2,
-    "updated_at": "2026-07-20T06:37:25Z",
-    "url": "https://github.com/glowElephant/context-forge"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 52,
-    "updated_at": "2026-07-20T06:36:47Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 21,
-    "updated_at": "2026-07-20T06:36:03Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Make Chinese and mixed Chinese-English text sound more natural by removing formulaic GPT-style phrasing.",
-    "id": "YanhanLi/deai-zh-gpt-style",
-    "language": "\u2014",
-    "name": "YanhanLi/deai-zh-gpt-style",
-    "stars": 1,
-    "updated_at": "2026-07-20T06:34:55Z",
-    "url": "https://github.com/YanhanLi/deai-zh-gpt-style"
-  },
-  {
-    "description": "A claims editor for DTC supplement and wellness copy. Quotes the passage, cites the FDA/FTC rule, hands it back. It will",
-    "id": "NFTYoginis/claimline",
-    "language": "Python",
-    "name": "NFTYoginis/claimline",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:32:20Z",
-    "url": "https://github.com/NFTYoginis/claimline"
-  },
-  {
-    "description": "Opinionated guide to AI coding agents, workflows, MCP, verification, and safe execution.",
-    "id": "ashishkaloge/awesome-agentic-engineering",
-    "language": "\u2014",
-    "name": "ashishkaloge/awesome-agentic-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:30:43Z",
-    "url": "https://github.com/ashishkaloge/awesome-agentic-engineering"
-  },
-  {
-    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
-    "id": "cobusgreyling/loop-engineering",
-    "language": "JavaScript",
-    "name": "cobusgreyling/loop-engineering",
-    "stars": 8710,
-    "updated_at": "2026-07-20T06:26:45Z",
-    "url": "https://github.com/cobusgreyling/loop-engineering"
-  },
-  {
-    "description": "The 21 agentic design patterns, distilled to concepts (no code) \u2014 a design-phase reference for building AI agents. Works",
-    "id": "eshwarvijay/agent-architecture",
-    "language": "\u2014",
-    "name": "eshwarvijay/agent-architecture",
-    "stars": 6,
-    "updated_at": "2026-07-20T06:25:51Z",
-    "url": "https://github.com/eshwarvijay/agent-architecture"
   }
 ]
