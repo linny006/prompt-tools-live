@@ -1,12 +1,75 @@
 [
   {
+    "description": "Prompt operations packs for structured AI prompt management, versioning, and deployment across operator workflows.",
+    "id": "Hardonian/prompt-ops-hardonia-packs",
+    "language": "Python",
+    "name": "Hardonian/prompt-ops-hardonia-packs",
+    "stars": 0,
+    "updated_at": "2026-07-20T00:27:30Z",
+    "url": "https://github.com/Hardonian/prompt-ops-hardonia-packs"
+  },
+  {
     "description": "AI agents now operate with authority. Authority without discipline is how complex systems fail. Nuclear\u2019s control loop, ",
     "id": "FlyFission/nuclear-grade-context-engineering",
     "language": "Python",
     "name": "FlyFission/nuclear-grade-context-engineering",
     "stars": 32,
-    "updated_at": "2026-07-20T00:15:29Z",
+    "updated_at": "2026-07-20T00:24:28Z",
     "url": "https://github.com/FlyFission/nuclear-grade-context-engineering"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20708,
+    "updated_at": "2026-07-20T00:23:16Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Free Claude Code & Cursor prompts for senior engineers \u2014 code review, debugging, refactoring, system design, CLAUDE.m",
+    "id": "sublimecoder/sublimecoding",
+    "language": "\u2014",
+    "name": "sublimecoder/sublimecoding",
+    "stars": 0,
+    "updated_at": "2026-07-20T00:23:03Z",
+    "url": "https://github.com/sublimecoder/sublimecoding"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12884,
+    "updated_at": "2026-07-20T00:22:23Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 9,
+    "updated_at": "2026-07-20T00:19:13Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 804,
+    "updated_at": "2026-07-20T00:29:49Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T00:16:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
@@ -72,15 +135,6 @@
     "url": "https://github.com/ariffazil/arifos"
   },
   {
-    "description": "Prompt operations packs for structured AI prompt management, versioning, and deployment across operator workflows.",
-    "id": "Hardonian/prompt-ops-hardonia-packs",
-    "language": "Python",
-    "name": "Hardonian/prompt-ops-hardonia-packs",
-    "stars": 0,
-    "updated_at": "2026-07-20T00:11:41Z",
-    "url": "https://github.com/Hardonian/prompt-ops-hardonia-packs"
-  },
-  {
     "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
     "id": "minirr890112-byte/HermesMade",
     "language": "Shell",
@@ -124,24 +178,6 @@
     "stars": 155,
     "updated_at": "2026-07-20T00:01:18Z",
     "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T00:01:07Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 9,
-    "updated_at": "2026-07-20T00:00:14Z",
-    "url": "https://github.com/crisnahine/chameleon"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T23:33:05Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Measured token routing for Codex, Claude Code, Hermes, GG Coder and any CLI agent. Less noise. Better judgment.",
-    "id": "Supersynergy/agent-token-saver",
-    "language": "Python",
-    "name": "Supersynergy/agent-token-saver",
-    "stars": 4,
-    "updated_at": "2026-07-19T23:32:20Z",
-    "url": "https://github.com/Supersynergy/agent-token-saver"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:31:42Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:29:28Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:24:31Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   }
 ]
