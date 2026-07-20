@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u4e2d\u6587\u7f51\u6587 AI \u521b\u4f5c\u5de5\u4f5c\u6d41 | Claude Code & OpenClaw skill for outlines, characters, serialized chapters, and continuity checks.",
+    "id": "tinylion1024/web-novel-master",
+    "language": "Python",
+    "name": "tinylion1024/web-novel-master",
+    "stars": 5,
+    "updated_at": "2026-07-20T16:55:29Z",
+    "url": "https://github.com/tinylion1024/web-novel-master"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3403,
+    "updated_at": "2026-07-20T16:58:32Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Structured prompting convention to optimize reasoning precision, execution consistency, and token efficiency",
+    "id": "TimIsabella/HighSignalPrompting",
+    "language": "\u2014",
+    "name": "TimIsabella/HighSignalPrompting",
+    "stars": 1,
+    "updated_at": "2026-07-20T16:53:30Z",
+    "url": "https://github.com/TimIsabella/HighSignalPrompting"
+  },
+  {
+    "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
+    "id": "kochetkov-ma/claude-brewcode",
+    "language": "MDX",
+    "name": "kochetkov-ma/claude-brewcode",
+    "stars": 29,
+    "updated_at": "2026-07-20T16:52:49Z",
+    "url": "https://github.com/kochetkov-ma/claude-brewcode"
+  },
+  {
+    "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 9,
+    "updated_at": "2026-07-20T16:52:36Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:51:42Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:47:46Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 10,
+    "updated_at": "2026-07-20T16:47:06Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T16:45:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -27,21 +108,12 @@
     "url": "https://github.com/VioletScar-Hui/Build_Great_Loop"
   },
   {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 10,
-    "updated_at": "2026-07-20T16:41:01Z",
-    "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31501,
-    "updated_at": "2026-07-20T16:40:36Z",
+    "updated_at": "2026-07-20T16:56:24Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -121,7 +193,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 8789,
+    "stars": 8790,
     "updated_at": "2026-07-20T16:34:01Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -151,15 +223,6 @@
     "stars": 7,
     "updated_at": "2026-07-20T16:37:45Z",
     "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T16:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
@@ -221,7 +284,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20722,
-    "updated_at": "2026-07-20T16:41:23Z",
+    "updated_at": "2026-07-20T16:46:18Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-20T16:09:07Z",
     "url": "https://github.com/fightZy/simple-skills"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:09:06Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Quarterdeck \u2014 A ponte de comando para Claude Code. 26 agentes especializados em 8 squads com orquestra\u00e7\u00e3o paralela e out",
-    "id": "Pl3ntz/quarterdeck",
-    "language": "Python",
-    "name": "Pl3ntz/quarterdeck",
-    "stars": 1,
-    "updated_at": "2026-07-20T16:08:45Z",
-    "url": "https://github.com/Pl3ntz/quarterdeck"
-  },
-  {
-    "description": "AI agent orchestration kit for Windows, Linux/MacOS with Codex skills, hooks, routing rules and profiles for Claude, Ope",
-    "id": "FernandoBolzan/Orquestrador-Maestro",
-    "language": "Python",
-    "name": "FernandoBolzan/Orquestrador-Maestro",
-    "stars": 28,
-    "updated_at": "2026-07-20T16:07:54Z",
-    "url": "https://github.com/FernandoBolzan/Orquestrador-Maestro"
-  },
-  {
-    "description": "Agent skills by Titus Kirch \u2014 installable via skills.sh in Claude Code, Cursor, Windsurf and friends.",
-    "id": "TitusKirch/skills",
-    "language": "JavaScript",
-    "name": "TitusKirch/skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:05:09Z",
-    "url": "https://github.com/TitusKirch/skills"
-  },
-  {
-    "description": "A comprehensive hands-on journey through modern NLP and Large Language Models (LLMs), combining NPTEL coursework with pr",
-    "id": "abhinandan6123/NPTEL_LLM_Journey",
-    "language": "\u2014",
-    "name": "abhinandan6123/NPTEL_LLM_Journey",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:04:02Z",
-    "url": "https://github.com/abhinandan6123/NPTEL_LLM_Journey"
-  },
-  {
-    "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 9,
-    "updated_at": "2026-07-20T16:03:29Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3403,
-    "updated_at": "2026-07-20T16:44:03Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
