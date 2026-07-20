@@ -1,5 +1,113 @@
 [
   {
+    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
+    "id": "archubbuck/workspace-architect",
+    "language": "Python",
+    "name": "archubbuck/workspace-architect",
+    "stars": 17,
+    "updated_at": "2026-07-20T21:29:46Z",
+    "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "Interactive platform to master prompt engineering for AI models",
+    "id": "BOSSincrypto/promptcraft",
+    "language": "TypeScript",
+    "name": "BOSSincrypto/promptcraft",
+    "stars": 0,
+    "updated_at": "2026-07-20T21:29:08Z",
+    "url": "https://github.com/BOSSincrypto/promptcraft"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 36823,
+    "updated_at": "2026-07-20T21:29:08Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Film Language Operating System for director-level, Seedance-ready cinematic video prompts.",
+    "id": "mariozhaofan-pixel/director-seedance-prompt",
+    "language": "\u2014",
+    "name": "mariozhaofan-pixel/director-seedance-prompt",
+    "stars": 11,
+    "updated_at": "2026-07-20T21:28:30Z",
+    "url": "https://github.com/mariozhaofan-pixel/director-seedance-prompt"
+  },
+  {
+    "description": "LLM- \u0438 \u043c\u0435\u0434\u0438\u0430\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440 \u043d\u0430 TypeScript: Structured Outputs, \u0432\u0435\u0440\u0441\u0438\u043e\u043d\u0438\u0440\u0443\u0435\u043c\u044b\u0435 \u043f\u0440\u043e\u043c\u043f\u0442\u044b, evals, \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u043c\u043e\u0435 \u0438\u0441\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435, TTS, Rem",
+    "id": "NataAntro/chronica-ai-video-pipeline",
+    "language": "TypeScript",
+    "name": "NataAntro/chronica-ai-video-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-20T21:27:46Z",
+    "url": "https://github.com/NataAntro/chronica-ai-video-pipeline"
+  },
+  {
+    "description": "70 tested Claude Cowork prompts organized by task \u2014 documents, spreadsheets, decks, research, email, projects, team work",
+    "id": "claude-cowork-training/claude-cowork-prompts",
+    "language": "\u2014",
+    "name": "claude-cowork-training/claude-cowork-prompts",
+    "stars": 0,
+    "updated_at": "2026-07-20T21:27:13Z",
+    "url": "https://github.com/claude-cowork-training/claude-cowork-prompts"
+  },
+  {
+    "description": "Practice-built skills that give AI agents practical judgment for product, web, engineering, delivery, go-to-market, comm",
+    "id": "sebastian-software/skills.sebastian-software.com",
+    "language": "Python",
+    "name": "sebastian-software/skills.sebastian-software.com",
+    "stars": 0,
+    "updated_at": "2026-07-20T21:25:05Z",
+    "url": "https://github.com/sebastian-software/skills.sebastian-software.com"
+  },
+  {
+    "description": "Community skills for Claude Code: token optimization, productivity workflows, and development best practices. All skills",
+    "id": "valorisa/Claude-Skills",
+    "language": "Python",
+    "name": "valorisa/Claude-Skills",
+    "stars": 4,
+    "updated_at": "2026-07-20T21:24:15Z",
+    "url": "https://github.com/valorisa/Claude-Skills"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10642,
+    "updated_at": "2026-07-20T21:23:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-07-20T21:20:53Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T21:20:10Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 0,
+    "updated_at": "2026-07-20T21:19:57Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
     "description": "Combine a workspace or folder into a single Markdown/text file with filters and token estimates.",
     "id": "rsitech-ai/codebase-combiner",
     "language": "Swift",
@@ -9,15 +117,6 @@
     "url": "https://github.com/rsitech-ai/codebase-combiner"
   },
   {
-    "description": "Community skills for Claude Code: token optimization, productivity workflows, and development best practices. All skills",
-    "id": "valorisa/Claude-Skills",
-    "language": "Python",
-    "name": "valorisa/Claude-Skills",
-    "stars": 4,
-    "updated_at": "2026-07-20T21:17:22Z",
-    "url": "https://github.com/valorisa/Claude-Skills"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -25,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T21:16:09Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T21:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
@@ -61,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T21:13:58Z",
     "url": "https://github.com/Sunwood-ai-labs/OpenFace"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "Python",
-    "name": "github/awesome-copilot",
-    "stars": 36823,
-    "updated_at": "2026-07-20T21:13:41Z",
-    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "Official Muse Video preview prompts, playable clips, native-audio shot briefs, continuity workflows, and 14-language gui",
@@ -149,7 +230,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-20T21:08:44Z",
+    "updated_at": "2026-07-20T21:28:38Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -347,7 +428,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3404,
-    "updated_at": "2026-07-20T21:16:03Z",
+    "updated_at": "2026-07-20T21:25:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-20T20:45:44Z",
     "url": "https://github.com/OutlineDriven/odin-reflector"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-20T20:45:27Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-07-20T20:44:57Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-07-20T20:43:42Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-07-20T20:42:57Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-07-20T20:37:32Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 153,
-    "updated_at": "2026-07-20T20:36:35Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Reverse-engineer your own behavior to its root cause: three cooperating Claude Code agents that turn self-observations i",
-    "id": "mojtabanorouzie/prism-cognitive-model",
-    "language": "\u2014",
-    "name": "mojtabanorouzie/prism-cognitive-model",
-    "stars": 0,
-    "updated_at": "2026-07-20T20:35:44Z",
-    "url": "https://github.com/mojtabanorouzie/prism-cognitive-model"
-  },
-  {
-    "description": "Agent Skills for character LoRA dataset tagging: booru tag auditing (keep/delete/replace with visual verification, dual-",
-    "id": "storyAura/lora-tagging-skills",
-    "language": "\u2014",
-    "name": "storyAura/lora-tagging-skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T20:35:18Z",
-    "url": "https://github.com/storyAura/lora-tagging-skills"
-  },
-  {
-    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
-    "id": "adrianwedd/cv",
-    "language": "JavaScript",
-    "name": "adrianwedd/cv",
-    "stars": 4,
-    "updated_at": "2026-07-20T20:30:53Z",
-    "url": "https://github.com/adrianwedd/cv"
   }
 ]
