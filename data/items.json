@@ -1,12 +1,129 @@
 [
   {
+    "description": "Prompts to creating a programming copilot.",
+    "id": "henriqueamotta/copilot-modes-rails",
+    "language": "\u2014",
+    "name": "henriqueamotta/copilot-modes-rails",
+    "stars": 0,
+    "updated_at": "2026-07-20T15:43:40Z",
+    "url": "https://github.com/henriqueamotta/copilot-modes-rails"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 1,
+    "updated_at": "2026-07-20T15:42:42Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "\u4e00\u5957\u9762\u5411\u804c\u573a\u4eba\u7684 AI \u5b9e\u6218\u5de5\u4f5c\u574a\uff1a\u4ece\u9ad8\u8d28\u91cf\u5bf9\u8bdd\u4e0e\u667a\u80fd\u4f53\u534f\u4f5c\uff0c\u5230\u53ef\u9a8c\u6536\u4ea4\u4ed8\u548c\u81ea\u7136\u8bed\u8a00\u7f16\u7a0b\u3002",
+    "id": "qinxujunai/ai-work-method",
+    "language": "TypeScript",
+    "name": "qinxujunai/ai-work-method",
+    "stars": 0,
+    "updated_at": "2026-07-20T15:41:42Z",
+    "url": "https://github.com/qinxujunai/ai-work-method"
+  },
+  {
+    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
+    "id": "archubbuck/workspace-architect",
+    "language": "Python",
+    "name": "archubbuck/workspace-architect",
+    "stars": 16,
+    "updated_at": "2026-07-20T15:41:28Z",
+    "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-07-20T15:41:17Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 49,
+    "updated_at": "2026-07-20T15:39:27Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 6711,
+    "updated_at": "2026-07-20T15:44:52Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
+    "description": "Design patterns, anti-patterns, safety checklists, and practical recipes for reliable AI agent loops.",
+    "id": "h-kod/loop-engineering-patterns",
+    "language": "\u2014",
+    "name": "h-kod/loop-engineering-patterns",
+    "stars": 0,
+    "updated_at": "2026-07-20T15:35:45Z",
+    "url": "https://github.com/h-kod/loop-engineering-patterns"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-07-20T15:35:07Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
     "stars": 36808,
-    "updated_at": "2026-07-20T15:29:13Z",
+    "updated_at": "2026-07-20T15:33:42Z",
     "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Developer bootstrapper for AI-assisted IDEs: project-aware setup for Cursor, VS Code & Windsurf with file-based handoff ",
+    "id": "agent-kit-startup/agent-kit",
+    "language": "TypeScript",
+    "name": "agent-kit-startup/agent-kit",
+    "stars": 0,
+    "updated_at": "2026-07-20T15:32:02Z",
+    "url": "https://github.com/agent-kit-startup/agent-kit"
+  },
+  {
+    "description": "A dotfiles repo that treats AI agent behavior as infrastructure",
+    "id": "pbierkortte/ai-runbook",
+    "language": "Python",
+    "name": "pbierkortte/ai-runbook",
+    "stars": 4,
+    "updated_at": "2026-07-20T15:31:28Z",
+    "url": "https://github.com/pbierkortte/ai-runbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T15:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31496,
+    "updated_at": "2026-07-20T15:28:06Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -18,13 +135,13 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 1,
-    "updated_at": "2026-07-20T15:27:04Z",
-    "url": "https://github.com/rockerlabs/keel"
+    "description": "A practical collection of Suno prompts, prompt templates, examples, genres, lyrics, and prompt engineering resources for",
+    "id": "AlijeeWrites/suno-prompts",
+    "language": "\u2014",
+    "name": "AlijeeWrites/suno-prompts",
+    "stars": 0,
+    "updated_at": "2026-07-20T15:25:31Z",
+    "url": "https://github.com/AlijeeWrites/suno-prompts"
   },
   {
     "description": "The operating system I wrap around coding agents to ship and maintain production software: durable context, decision dis",
@@ -32,7 +149,7 @@
     "language": "Shell",
     "name": "SFX-TECH/agentic-harness",
     "stars": 0,
-    "updated_at": "2026-07-20T15:24:06Z",
+    "updated_at": "2026-07-20T15:39:41Z",
     "url": "https://github.com/SFX-TECH/agentic-harness"
   },
   {
@@ -41,7 +158,7 @@
     "language": "Shell",
     "name": "greerviau/wingman",
     "stars": 2,
-    "updated_at": "2026-07-20T15:22:54Z",
+    "updated_at": "2026-07-20T15:37:16Z",
     "url": "https://github.com/greerviau/wingman"
   },
   {
@@ -99,15 +216,6 @@
     "url": "https://github.com/juventini10/Five-layer-memory-system"
   },
   {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 49,
-    "updated_at": "2026-07-20T15:18:33Z",
-    "url": "https://github.com/ariffazil/arifos"
-  },
-  {
     "description": "Plug-and-play skills and prompts for every AI coding agent",
     "id": "Amey-Thakur/AI-SKILLS",
     "language": "JavaScript",
@@ -115,15 +223,6 @@
     "stars": 4,
     "updated_at": "2026-07-20T15:17:32Z",
     "url": "https://github.com/Amey-Thakur/AI-SKILLS"
-  },
-  {
-    "description": "Prompts to creating a programming copilot.",
-    "id": "henriqueamotta/copilot-modes-rails",
-    "language": "\u2014",
-    "name": "henriqueamotta/copilot-modes-rails",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:17:15Z",
-    "url": "https://github.com/henriqueamotta/copilot-modes-rails"
   },
   {
     "description": "Why \"act as an expert\" prompting fails on accuracy \u2014 and how procedural SKILL.md files solve it. Research + worked examp",
@@ -160,15 +259,6 @@
     "stars": 47,
     "updated_at": "2026-07-20T15:16:12Z",
     "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T15:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
@@ -297,15 +387,6 @@
     "url": "https://github.com/5uprem4/ai-skill-vault"
   },
   {
-    "description": "A dotfiles repo that treats AI agent behavior as infrastructure",
-    "id": "pbierkortte/ai-runbook",
-    "language": "HTML",
-    "name": "pbierkortte/ai-runbook",
-    "stars": 4,
-    "updated_at": "2026-07-20T15:06:11Z",
-    "url": "https://github.com/pbierkortte/ai-runbook"
-  },
-  {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
     "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
     "language": "HTML",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T15:03:41Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:03:39Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "\u4e00\u5957\u9762\u5411\u804c\u573a\u4eba\u7684 AI \u5b9e\u6218\u5de5\u4f5c\u574a\uff1a\u4ece\u9ad8\u8d28\u91cf\u5bf9\u8bdd\u4e0e\u667a\u80fd\u4f53\u534f\u4f5c\uff0c\u5230\u53ef\u9a8c\u6536\u4ea4\u4ed8\u548c\u81ea\u7136\u8bed\u8a00\u7f16\u7a0b\u3002",
-    "id": "qinxujunai/ai-work-method",
-    "language": "TypeScript",
-    "name": "qinxujunai/ai-work-method",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:02:30Z",
-    "url": "https://github.com/qinxujunai/ai-work-method"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:02:17Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:02:08Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 9,
-    "updated_at": "2026-07-20T15:00:46Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31494,
-    "updated_at": "2026-07-20T15:28:06Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "SOON TypeScript/JavaScript implementation \u2014 @soon-format/soon on npm",
-    "id": "soon-format/soon-typescript",
-    "language": "TypeScript",
-    "name": "soon-format/soon-typescript",
-    "stars": 1,
-    "updated_at": "2026-07-20T14:58:08Z",
-    "url": "https://github.com/soon-format/soon-typescript"
-  },
-  {
-    "description": "Structured Outputs",
-    "id": "dottxt-ai/outlines",
-    "language": "Python",
-    "name": "dottxt-ai/outlines",
-    "stars": 14571,
-    "updated_at": "2026-07-20T14:57:51Z",
-    "url": "https://github.com/dottxt-ai/outlines"
-  },
-  {
-    "description": "SOON Python implementation \u2014 soon-format on PyPI",
-    "id": "soon-format/soon-python",
-    "language": "Python",
-    "name": "soon-format/soon-python",
-    "stars": 0,
-    "updated_at": "2026-07-20T14:57:18Z",
-    "url": "https://github.com/soon-format/soon-python"
   }
 ]
