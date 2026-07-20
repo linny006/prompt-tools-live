@@ -1,5 +1,113 @@
 [
   {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-20T01:45:29Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 818,
+    "updated_at": "2026-07-20T01:45:17Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Congestion monitoring where rules control execution and the LLM only judges triggered anomalies. Training-free, promptin",
+    "id": "jwhitekim/congestion-agent",
+    "language": "Python",
+    "name": "jwhitekim/congestion-agent",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:44:14Z",
+    "url": "https://github.com/jwhitekim/congestion-agent"
+  },
+  {
+    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
+    "id": "luongs3/skill-atlas",
+    "language": "Python",
+    "name": "luongs3/skill-atlas",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:41:53Z",
+    "url": "https://github.com/luongs3/skill-atlas"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:37:26Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "AI agents now operate with authority. Authority without discipline is how complex systems fail. Nuclear\u2019s control loop, ",
+    "id": "FlyFission/nuclear-grade-context-engineering",
+    "language": "Python",
+    "name": "FlyFission/nuclear-grade-context-engineering",
+    "stars": 32,
+    "updated_at": "2026-07-20T01:35:23Z",
+    "url": "https://github.com/FlyFission/nuclear-grade-context-engineering"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27106,
+    "updated_at": "2026-07-20T01:34:03Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-20T01:44:32Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Framework port\u00e1til de governan\u00e7a para agentes de IA: requisitos determin\u00edsticos, contexto enxuto e fluxos audit\u00e1veis par",
+    "id": "jcempro/agents.md",
+    "language": "JavaScript",
+    "name": "jcempro/agents.md",
+    "stars": 2,
+    "updated_at": "2026-07-20T01:33:51Z",
+    "url": "https://github.com/jcempro/agents.md"
+  },
+  {
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 5,
+    "updated_at": "2026-07-20T01:31:51Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 7,
+    "updated_at": "2026-07-20T01:31:28Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T01:31:04Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CL",
     "id": "Dannykkh/skill-olympus",
     "language": "Python",
@@ -16,15 +124,6 @@
     "stars": 59,
     "updated_at": "2026-07-20T01:29:36Z",
     "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Framework port\u00e1til de governan\u00e7a para agentes de IA: requisitos determin\u00edsticos, contexto enxuto e fluxos audit\u00e1veis par",
-    "id": "jcempro/agents.md",
-    "language": "JavaScript",
-    "name": "jcempro/agents.md",
-    "stars": 2,
-    "updated_at": "2026-07-20T01:29:28Z",
-    "url": "https://github.com/jcempro/agents.md"
   },
   {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
@@ -90,6 +189,15 @@
     "url": "https://github.com/TouchRefletz/maia.edu"
   },
   {
+    "description": "Enter the name of a scenic spot or city to generate a popular travel note on Xiaohongshu with one click: title + body te",
+    "id": "bethel-mark/travel-xhs-content",
+    "language": "\u2014",
+    "name": "bethel-mark/travel-xhs-content",
+    "stars": 1,
+    "updated_at": "2026-07-20T01:17:23Z",
+    "url": "https://github.com/bethel-mark/travel-xhs-content"
+  },
+  {
     "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
     "id": "sachncs/promptsheon",
     "language": "Go",
@@ -99,13 +207,13 @@
     "url": "https://github.com/sachncs/promptsheon"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
+    "id": "wshobson/agents",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T01:16:11Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "wshobson/agents",
+    "stars": 38066,
+    "updated_at": "2026-07-20T01:09:04Z",
+    "url": "https://github.com/wshobson/agents"
   },
   {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
@@ -144,15 +252,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 5,
-    "updated_at": "2026-07-20T01:02:21Z",
-    "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
     "description": "",
     "id": "rustyorb/spdustin-ChatGPT-AutoExpert",
     "language": "\u2014",
@@ -171,15 +270,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 7,
-    "updated_at": "2026-07-20T00:54:53Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
     "description": "A Claude Code skill that composes sub-agents on the fly \u2014 plus the live probe evidence for how the sub-agent boundary ac",
     "id": "OpenCnid/subagent-composition",
     "language": "Shell",
@@ -196,15 +286,6 @@
     "stars": 13,
     "updated_at": "2026-07-20T00:47:37Z",
     "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-07-20T00:46:48Z",
-    "url": "https://github.com/agungkesmas/recallfox"
   },
   {
     "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
@@ -232,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T00:27:30Z",
     "url": "https://github.com/Hardonian/prompt-ops-hardonia-packs"
-  },
-  {
-    "description": "AI agents now operate with authority. Authority without discipline is how complex systems fail. Nuclear\u2019s control loop, ",
-    "id": "FlyFission/nuclear-grade-context-engineering",
-    "language": "Python",
-    "name": "FlyFission/nuclear-grade-context-engineering",
-    "stars": 32,
-    "updated_at": "2026-07-20T00:56:38Z",
-    "url": "https://github.com/FlyFission/nuclear-grade-context-engineering"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -295,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T00:15:06Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27104,
-    "updated_at": "2026-07-20T00:14:33Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T00:00:09Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 150,
-    "updated_at": "2026-07-19T23:59:37Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-07-19T23:57:51Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 1,
-    "updated_at": "2026-07-19T23:57:43Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 1,
-    "updated_at": "2026-07-19T23:57:41Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 10,
-    "updated_at": "2026-07-19T23:57:03Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Grounded, evaluated LLM pipeline that tailors a CV to a job description \u2014 forced structured output, evals (deterministic",
-    "id": "kgtceo/ai-job-copilot",
-    "language": "Python",
-    "name": "kgtceo/ai-job-copilot",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:56:20Z",
-    "url": "https://github.com/kgtceo/ai-job-copilot"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 152,
-    "updated_at": "2026-07-19T23:54:31Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   }
 ]
