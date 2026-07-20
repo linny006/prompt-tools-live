@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 21,
+    "updated_at": "2026-07-20T17:14:43Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
+    "id": "Sunwood-ai-labs/OpenFace",
+    "language": "CSS",
+    "name": "Sunwood-ai-labs/OpenFace",
+    "stars": 1,
+    "updated_at": "2026-07-20T17:13:17Z",
+    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-07-20T17:11:57Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10642,
+    "updated_at": "2026-07-20T17:10:52Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 10,
+    "updated_at": "2026-07-20T17:09:57Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Guide p\u00e9dagogique pour comprendre, pr\u00e9venir et ma\u00eetriser la d\u00e9rive des co\u00fbts des LLM : tokens, budgets, contexte, agents",
+    "id": "valorisa/llm-cost-safety-guide",
+    "language": "\u2014",
+    "name": "valorisa/llm-cost-safety-guide",
+    "stars": 0,
+    "updated_at": "2026-07-20T17:09:39Z",
+    "url": "https://github.com/valorisa/llm-cost-safety-guide"
+  },
+  {
+    "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 6963,
+    "updated_at": "2026-07-20T17:07:45Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "Claude Code skills for running models cost-effectively: security gates (secret scanner, commit-gate), model-quality tool",
+    "id": "Evan-Daruwalla/claude-skill-suite",
+    "language": "JavaScript",
+    "name": "Evan-Daruwalla/claude-skill-suite",
+    "stars": 0,
+    "updated_at": "2026-07-20T17:07:38Z",
+    "url": "https://github.com/Evan-Daruwalla/claude-skill-suite"
+  },
+  {
+    "description": "Ecossistema de tutoria via IA que busca e estrutura provas da web. Integra Cloudflare Workers, GitHub Actions, OpenHands",
+    "id": "TouchRefletz/maia.edu",
+    "language": "JavaScript",
+    "name": "TouchRefletz/maia.edu",
+    "stars": 1,
+    "updated_at": "2026-07-20T17:05:47Z",
+    "url": "https://github.com/TouchRefletz/maia.edu"
+  },
+  {
+    "description": "Design patterns, anti-patterns, safety checklists, and practical recipes for reliable AI agent loops.",
+    "id": "h-kod/loop-engineering-patterns",
+    "language": "\u2014",
+    "name": "h-kod/loop-engineering-patterns",
+    "stars": 0,
+    "updated_at": "2026-07-20T17:02:29Z",
+    "url": "https://github.com/h-kod/loop-engineering-patterns"
+  },
+  {
+    "description": "\uacf5\uac1c \ud569\uaca9 \uc790\uae30\uc18c\uac1c\uc11c 223\uac74 \ubd84\uc11d\uc744 \ubc14\ud0d5\uc73c\ub85c \ubb38\ud56d\u00b7\uc0ac\uc2e4\u00b7\uc9c1\ubb34 \uc801\ud569\uc131\uc744 \uac80\uc99d\ud558\ub294 \ud55c\uad6d\uc5b4 Codex Skill",
+    "id": "seolbbb/write-korean-cover-letter",
+    "language": "\u2014",
+    "name": "seolbbb/write-korean-cover-letter",
+    "stars": 0,
+    "updated_at": "2026-07-20T17:11:45Z",
+    "url": "https://github.com/seolbbb/write-korean-cover-letter"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T17:00:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u4e2d\u6587\u7f51\u6587 AI \u521b\u4f5c\u5de5\u4f5c\u6d41 | Claude Code & OpenClaw skill for outlines, characters, serialized chapters, and continuity checks.",
     "id": "tinylion1024/web-novel-master",
     "language": "Python",
@@ -14,7 +122,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3403,
-    "updated_at": "2026-07-20T16:58:32Z",
+    "updated_at": "2026-07-20T17:14:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -72,15 +180,6 @@
     "url": "https://github.com/Eval-core/evalcore"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T16:45:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -113,7 +212,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31501,
-    "updated_at": "2026-07-20T16:56:24Z",
+    "updated_at": "2026-07-20T17:05:52Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T16:19:47Z",
     "url": "https://github.com/pappcorn/ai-native"
-  },
-  {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 26,
-    "updated_at": "2026-07-20T16:19:22Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "Safely build, preview, sync, back up, and restore global AI agent rules for Codex and Antigravity.",
-    "id": "SesamePasteNoodles/agent-rules-sync",
-    "language": "PowerShell",
-    "name": "SesamePasteNoodles/agent-rules-sync",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:17:43Z",
-    "url": "https://github.com/SesamePasteNoodles/agent-rules-sync"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 1,
-    "updated_at": "2026-07-20T16:17:05Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "Codex skill for Krea 2 prompt creation, reverse prompting, conversion, repair, evaluation, and ComfyUI/RunningHub node p",
-    "id": "AI-KSK/krea2-prompt-suite",
-    "language": "Python",
-    "name": "AI-KSK/krea2-prompt-suite",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:17:00Z",
-    "url": "https://github.com/AI-KSK/krea2-prompt-suite"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-20T16:16:53Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "The operating system I wrap around coding agents to ship and maintain production software: durable context, decision dis",
-    "id": "SFX-TECH/agentic-harness",
-    "language": "Shell",
-    "name": "SFX-TECH/agentic-harness",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:15:56Z",
-    "url": "https://github.com/SFX-TECH/agentic-harness"
-  },
-  {
-    "description": "Dynamic Human Layer with semi-automatic cross-model calibration, semantic fidelity, source fit, and evidence-aware respo",
-    "id": "FMStupid173/calm-agent",
-    "language": "Python",
-    "name": "FMStupid173/calm-agent",
-    "stars": 2,
-    "updated_at": "2026-07-20T16:13:01Z",
-    "url": "https://github.com/FMStupid173/calm-agent"
-  },
-  {
-    "description": "Prompts to creating a programming copilot.",
-    "id": "henriqueamotta/copilot-modes-rails",
-    "language": "\u2014",
-    "name": "henriqueamotta/copilot-modes-rails",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:26:13Z",
-    "url": "https://github.com/henriqueamotta/copilot-modes-rails"
-  },
-  {
-    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
-    "id": "lulin70/carrymem",
-    "language": "Python",
-    "name": "lulin70/carrymem",
-    "stars": 5,
-    "updated_at": "2026-07-20T16:12:00Z",
-    "url": "https://github.com/lulin70/carrymem"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:11:53Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Reusable AI agent skills for idea validation, startup research, and workspace memory. Install with npx skills add.",
-    "id": "fightZy/simple-skills",
-    "language": "Python",
-    "name": "fightZy/simple-skills",
-    "stars": 1,
-    "updated_at": "2026-07-20T16:09:07Z",
-    "url": "https://github.com/fightZy/simple-skills"
   }
 ]
