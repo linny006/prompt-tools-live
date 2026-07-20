@@ -1,11 +1,110 @@
 [
   {
+    "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CL",
+    "id": "Dannykkh/skill-olympus",
+    "language": "Python",
+    "name": "Dannykkh/skill-olympus",
+    "stars": 3,
+    "updated_at": "2026-07-20T01:29:55Z",
+    "url": "https://github.com/Dannykkh/skill-olympus"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 59,
+    "updated_at": "2026-07-20T01:29:36Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Framework port\u00e1til de governan\u00e7a para agentes de IA: requisitos determin\u00edsticos, contexto enxuto e fluxos audit\u00e1veis par",
+    "id": "jcempro/agents.md",
+    "language": "JavaScript",
+    "name": "jcempro/agents.md",
+    "stars": 2,
+    "updated_at": "2026-07-20T01:29:28Z",
+    "url": "https://github.com/jcempro/agents.md"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 52,
+    "updated_at": "2026-07-20T01:27:42Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "\u4e00\u5957\u9762\u5411\u804c\u573a\u4eba\u7684 AI \u5b9e\u6218\u5de5\u4f5c\u574a\uff1a\u4ece\u9ad8\u8d28\u91cf\u5bf9\u8bdd\u4e0e\u667a\u80fd\u4f53\u534f\u4f5c\uff0c\u5230\u53ef\u9a8c\u6536\u4ea4\u4ed8\u548c\u81ea\u7136\u8bed\u8a00\u7f16\u7a0b\u3002",
+    "id": "qinxujunai/ai-work-method",
+    "language": "TypeScript",
+    "name": "qinxujunai/ai-work-method",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:26:57Z",
+    "url": "https://github.com/qinxujunai/ai-work-method"
+  },
+  {
+    "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 9,
+    "updated_at": "2026-07-20T01:26:15Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "High-value AI skills repository for Codex, Claude Code, OpenClaw, agents, prompts, and automation workflows.  \u9ad8\u4ef7\u503c\u7684 AI \u6280\u80fd",
+    "id": "seaworld008/Commonly-used-high-value-skills",
+    "language": "Python",
+    "name": "seaworld008/Commonly-used-high-value-skills",
+    "stars": 62,
+    "updated_at": "2026-07-20T01:25:37Z",
+    "url": "https://github.com/seaworld008/Commonly-used-high-value-skills"
+  },
+  {
+    "description": "Getting my feet wet in this new AI driven world. ",
+    "id": "Rlspark87/rachel_portfoliio",
+    "language": "HTML",
+    "name": "Rlspark87/rachel_portfoliio",
+    "stars": 1,
+    "updated_at": "2026-07-20T01:24:17Z",
+    "url": "https://github.com/Rlspark87/rachel_portfoliio"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 21,
+    "updated_at": "2026-07-20T01:21:11Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Ecossistema de tutoria via IA que busca e estrutura provas da web. Integra Cloudflare Workers, GitHub Actions, OpenHands",
+    "id": "TouchRefletz/maia.edu",
+    "language": "JavaScript",
+    "name": "TouchRefletz/maia.edu",
+    "stars": 1,
+    "updated_at": "2026-07-20T01:20:21Z",
+    "url": "https://github.com/TouchRefletz/maia.edu"
+  },
+  {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "Go",
+    "name": "sachncs/promptsheon",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:17:13Z",
+    "url": "https://github.com/sachncs/promptsheon"
+  },
+  {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
     "id": "linny006/prompt-tools-live",
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 7,
-    "updated_at": "2026-07-20T01:10:17Z",
+    "updated_at": "2026-07-20T01:16:11Z",
     "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
@@ -45,7 +144,7 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
+    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
     "id": "Eval-core/evalcore",
     "language": "Rust",
     "name": "Eval-core/evalcore",
@@ -70,24 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T00:59:26Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Automatically analyzes your codebase to learn conventions, then guides AI-generated code to follow team idioms, architec",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 9,
-    "updated_at": "2026-07-20T00:58:27Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "Getting my feet wet in this new AI driven world. ",
-    "id": "Rlspark87/rachel_portfoliio",
-    "language": "HTML",
-    "name": "Rlspark87/rachel_portfoliio",
-    "stars": 1,
-    "updated_at": "2026-07-20T00:58:03Z",
-    "url": "https://github.com/Rlspark87/rachel_portfoliio"
   },
   {
     "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
@@ -126,15 +207,6 @@
     "url": "https://github.com/agungkesmas/recallfox"
   },
   {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 59,
-    "updated_at": "2026-07-20T00:42:09Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
     "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
     "id": "simota/agent-skills",
     "language": "HTML",
@@ -148,7 +220,7 @@
     "id": "foryourhealth111-pixel/Vibe-Skills",
     "language": "Python",
     "name": "foryourhealth111-pixel/Vibe-Skills",
-    "stars": 2399,
+    "stars": 2398,
     "updated_at": "2026-07-20T00:33:25Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
@@ -279,15 +351,6 @@
     "url": "https://github.com/minirr890112-byte/HermesMade"
   },
   {
-    "description": "Framework port\u00e1til de governan\u00e7a para agentes de IA: requisitos determin\u00edsticos, contexto enxuto e fluxos audit\u00e1veis par",
-    "id": "jcempro/agents.md",
-    "language": "JavaScript",
-    "name": "jcempro/agents.md",
-    "stars": 2,
-    "updated_at": "2026-07-20T00:09:07Z",
-    "url": "https://github.com/jcempro/agents.md"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 152,
     "updated_at": "2026-07-19T23:54:31Z",
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:54:05Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-19T23:53:29Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-07-19T23:52:32Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-07-19T23:52:11Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:51:43Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 2,
-    "updated_at": "2026-07-19T23:51:15Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:51:12Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   }
 ]
