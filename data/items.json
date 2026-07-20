@@ -1,11 +1,101 @@
 [
   {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 36822,
+    "updated_at": "2026-07-20T21:00:24Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 52,
+    "updated_at": "2026-07-20T20:58:16Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 21,
+    "updated_at": "2026-07-20T20:57:17Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-07-20T20:56:22Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
+    "id": "aliasunder/agent-plugins",
+    "language": "\u2014",
+    "name": "aliasunder/agent-plugins",
+    "stars": 0,
+    "updated_at": "2026-07-20T20:53:33Z",
+    "url": "https://github.com/aliasunder/agent-plugins"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 26,
+    "updated_at": "2026-07-20T20:49:12Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3404,
+    "updated_at": "2026-07-20T20:58:41Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "ARSENAL-powered epistemic research kit: claim lattices, dialectic briefs, freelance scopes, and Kaggle notebook spines (",
+    "id": "faresrafat3/epistemic-forge",
+    "language": "Python",
+    "name": "faresrafat3/epistemic-forge",
+    "stars": 0,
+    "updated_at": "2026-07-20T20:47:19Z",
+    "url": "https://github.com/faresrafat3/epistemic-forge"
+  },
+  {
+    "description": "Codex CLI meta-reflection layer for Outline-Driven Development. Add-on for the Claude plugin.",
+    "id": "OutlineDriven/odin-reflector",
+    "language": "TypeScript",
+    "name": "OutlineDriven/odin-reflector",
+    "stars": 9,
+    "updated_at": "2026-07-20T20:45:44Z",
+    "url": "https://github.com/OutlineDriven/odin-reflector"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T20:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 2,
-    "updated_at": "2026-07-20T20:45:14Z",
+    "updated_at": "2026-07-20T20:45:27Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
@@ -81,15 +171,6 @@
     "url": "https://github.com/adrianwedd/cv"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T20:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
     "id": "conorbronsdon/avoid-ai-writing",
     "language": "JavaScript",
@@ -122,7 +203,7 @@
     "language": "\u2014",
     "name": "zapier/wade-skills",
     "stars": 0,
-    "updated_at": "2026-07-20T20:29:24Z",
+    "updated_at": "2026-07-20T20:57:46Z",
     "url": "https://github.com/zapier/wade-skills"
   },
   {
@@ -140,7 +221,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20723,
-    "updated_at": "2026-07-20T20:25:42Z",
+    "updated_at": "2026-07-20T20:59:17Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -275,7 +356,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10642,
-    "updated_at": "2026-07-20T20:43:47Z",
+    "updated_at": "2026-07-20T20:59:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T20:03:31Z",
     "url": "https://github.com/SWEStash/swe-workflow-skills"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-07-20T20:02:01Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-20T20:00:16Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-07-20T19:59:33Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "A template language for composable LLM prompt engineering. Write prompts with variables, loops, conditionals, functions,",
-    "id": "dean0x/mdscript",
-    "language": "Rust",
-    "name": "dean0x/mdscript",
-    "stars": 2,
-    "updated_at": "2026-07-20T20:01:17Z",
-    "url": "https://github.com/dean0x/mdscript"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-20T19:58:46Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "AI-native Product Management workflow: Custom Claude skills for spec writing, story creation, and architecture review",
-    "id": "JuanDRF2/claude-pm-skills",
-    "language": "Python",
-    "name": "JuanDRF2/claude-pm-skills",
-    "stars": 0,
-    "updated_at": "2026-07-20T19:56:09Z",
-    "url": "https://github.com/JuanDRF2/claude-pm-skills"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 152,
-    "updated_at": "2026-07-20T19:52:23Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "Production-ready skills for Claude Code and multi-agent systems",
-    "id": "AreteDriver/ai-skills",
-    "language": "Python",
-    "name": "AreteDriver/ai-skills",
-    "stars": 3,
-    "updated_at": "2026-07-20T19:49:35Z",
-    "url": "https://github.com/AreteDriver/ai-skills"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-07-20T19:49:12Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   }
 ]
