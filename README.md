@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-20 23:28 UTC
+> ⏰ Last updated: 2026-07-20 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 0 | HTML | 2026-07-20 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 2 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 8817 | JavaScript | 2026-07-20 | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch |
-| 3 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3405 | TypeScript | 2026-07-20 | The platform for LLM evaluations and AI agent testing |
-| 4 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-07-20 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 5 | [ricardorqr/improve-prompt-plugin](https://github.com/ricardorqr/improve-prompt-plugin) | 0 | Shell | 2026-07-20 | A Claude Code plugin that rewrites draft prompts into clearer, more effective ones — two improved variants plus a recomm |
-| 6 | [Sungmin-Cho/claude-deep-suite](https://github.com/Sungmin-Cho/claude-deep-suite) | 6 | JavaScript | 2026-07-20 | Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a |
-| 7 | [minirr890112-byte/HermesMade](https://github.com/minirr890112-byte/HermesMade) | 3 | Shell | 2026-07-20 | AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for  |
-| 8 | [mykim-aus/hey-llm-you-okay](https://github.com/mykim-aus/hey-llm-you-okay) | 1 | TypeScript | 2026-07-20 | Hey LLM, you okay? — pyramid-ordered LLM testing CLI for CI/CD. One YAML for every layer, LLM-as-a-judge gates, and A/B  |
-| 9 | [Sunwood-ai-labs/OpenFace](https://github.com/Sunwood-ai-labs/OpenFace) | 1 | CSS | 2026-07-20 | A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages. |
-| 10 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-20 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 11 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 7 | Python | 2026-07-20 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 7 | Python | 2026-07-20 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 0 | HTML | 2026-07-20 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
+| 3 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 8817 | JavaScript | 2026-07-20 | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch |
+| 4 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3405 | TypeScript | 2026-07-20 | The platform for LLM evaluations and AI agent testing |
+| 5 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-07-20 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 6 | [ricardorqr/improve-prompt-plugin](https://github.com/ricardorqr/improve-prompt-plugin) | 0 | Shell | 2026-07-20 | A Claude Code plugin that rewrites draft prompts into clearer, more effective ones — two improved variants plus a recomm |
+| 7 | [Sungmin-Cho/claude-deep-suite](https://github.com/Sungmin-Cho/claude-deep-suite) | 6 | JavaScript | 2026-07-20 | Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a |
+| 8 | [minirr890112-byte/HermesMade](https://github.com/minirr890112-byte/HermesMade) | 3 | Shell | 2026-07-20 | AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for  |
+| 9 | [mykim-aus/hey-llm-you-okay](https://github.com/mykim-aus/hey-llm-you-okay) | 1 | TypeScript | 2026-07-20 | Hey LLM, you okay? — pyramid-ordered LLM testing CLI for CI/CD. One YAML for every layer, LLM-as-a-judge gates, and A/B  |
+| 10 | [Sunwood-ai-labs/OpenFace](https://github.com/Sunwood-ai-labs/OpenFace) | 1 | CSS | 2026-07-20 | A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages. |
+| 11 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-20 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
 | 12 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 0 | HTML | 2026-07-20 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
 | 13 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-07-20 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
 | 14 | [agungkesmas/recallfox](https://github.com/agungkesmas/recallfox) | 0 | JavaScript | 2026-07-20 | Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho |
