@@ -1,19 +1,118 @@
 [
   {
+    "description": "Multi-advisor deliberation for AI agents. Multi cognitive lenses, 5-round process, confidence-weighted verdicts. One cou",
+    "id": "BhavanPatel/council-of-minds",
+    "language": "Shell",
+    "name": "BhavanPatel/council-of-minds",
+    "stars": 0,
+    "updated_at": "2026-07-20T09:12:52Z",
+    "url": "https://github.com/BhavanPatel/council-of-minds"
+  },
+  {
+    "description": "Runtime-aware Skill routing for Codex: choose the smallest verifiable Skill set across single tasks, phased work, and ma",
+    "id": "eric861129/Workflow-skill-router",
+    "language": "JavaScript",
+    "name": "eric861129/Workflow-skill-router",
+    "stars": 7,
+    "updated_at": "2026-07-20T09:12:29Z",
+    "url": "https://github.com/eric861129/Workflow-skill-router"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 1,
+    "updated_at": "2026-07-20T09:12:21Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "ARSENAL-powered epistemic research kit: claim lattices, dialectic briefs, freelance scopes, and Kaggle notebook spines (",
+    "id": "faresrafat3/epistemic-forge",
+    "language": "Python",
+    "name": "faresrafat3/epistemic-forge",
+    "stars": 0,
+    "updated_at": "2026-07-20T09:09:31Z",
+    "url": "https://github.com/faresrafat3/epistemic-forge"
+  },
+  {
+    "description": "\ud83c\udf93 Claude Code skill \u2014 AI prompt library for academic paper writing, polishing, reviewing, translating and submitting to ",
+    "id": "cLin-c/paper-skill",
+    "language": "Python",
+    "name": "cLin-c/paper-skill",
+    "stars": 61,
+    "updated_at": "2026-07-20T09:08:52Z",
+    "url": "https://github.com/cLin-c/paper-skill"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-20T09:06:30Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31465,
+    "updated_at": "2026-07-20T09:03:39Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A local-first prompt manager and reusable template launcher.",
+    "id": "Ares960826/Quiver",
+    "language": "\u2014",
+    "name": "Ares960826/Quiver",
+    "stars": 0,
+    "updated_at": "2026-07-20T09:03:22Z",
+    "url": "https://github.com/Ares960826/Quiver"
+  },
+  {
     "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
     "id": "derob98/ailmanac",
     "language": "MDX",
     "name": "derob98/ailmanac",
     "stars": 7,
-    "updated_at": "2026-07-20T08:59:50Z",
+    "updated_at": "2026-07-20T09:05:20Z",
     "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "Python",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 2,
+    "updated_at": "2026-07-20T09:01:46Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12888,
+    "updated_at": "2026-07-20T09:01:15Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-20T09:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 8730,
+    "stars": 8735,
     "updated_at": "2026-07-20T08:59:03Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -25,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-07-20T08:57:07Z",
     "url": "https://github.com/timurgaleev/vibestack"
-  },
-  {
-    "description": "ARSENAL-powered epistemic research kit: claim lattices, dialectic briefs, freelance scopes, and Kaggle notebook spines (",
-    "id": "faresrafat3/epistemic-forge",
-    "language": "Python",
-    "name": "faresrafat3/epistemic-forge",
-    "stars": 0,
-    "updated_at": "2026-07-20T08:56:44Z",
-    "url": "https://github.com/faresrafat3/epistemic-forge"
   },
   {
     "description": "Lead your own AI team. Role-aware persistent memory for solo multi-persona Claude Code workflows.",
@@ -52,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T08:54:31Z",
     "url": "https://github.com/ai-moge/awesome-image-prompts"
-  },
-  {
-    "description": "A local-first prompt manager and reusable template launcher.",
-    "id": "Ares960826/Quiver",
-    "language": "\u2014",
-    "name": "Ares960826/Quiver",
-    "stars": 0,
-    "updated_at": "2026-07-20T08:54:27Z",
-    "url": "https://github.com/Ares960826/Quiver"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -90,6 +171,15 @@
     "url": "https://github.com/aimer1124/local-voice-input"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20715,
+    "updated_at": "2026-07-20T09:14:11Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Multi-agent development pipeline for Claude Code \u2014 plan, design-gate, execute in parallel worktrees, review, UAT, merge.",
     "id": "buya-v/claude-softhouse",
     "language": "Shell",
@@ -106,15 +196,6 @@
     "stars": 26,
     "updated_at": "2026-07-20T08:51:25Z",
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "Multi-advisor deliberation for AI agents. Multi cognitive lenses, 5-round process, confidence-weighted verdicts. One cou",
-    "id": "BhavanPatel/council-of-minds",
-    "language": "Shell",
-    "name": "BhavanPatel/council-of-minds",
-    "stars": 0,
-    "updated_at": "2026-07-20T08:51:21Z",
-    "url": "https://github.com/BhavanPatel/council-of-minds"
   },
   {
     "description": "\u2699\ufe0f Unified master LLM agent pipeline unifying 10 frameworks: AI Scientist v2, Self-Refine, Reflexion, Meta-Prompting, To",
@@ -171,15 +252,6 @@
     "url": "https://github.com/P-r-e-m-i-u-m/generative-ai-engineering-lab"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-20T08:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -203,7 +275,7 @@
     "language": "TypeScript",
     "name": "whimzyLive/nightshift-ai",
     "stars": 4,
-    "updated_at": "2026-07-20T09:00:14Z",
+    "updated_at": "2026-07-20T09:05:15Z",
     "url": "https://github.com/whimzyLive/nightshift-ai"
   },
   {
@@ -279,15 +351,6 @@
     "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31464,
-    "updated_at": "2026-07-20T08:31:26Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
     "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
     "language": "HTML",
@@ -351,15 +414,6 @@
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
-    "description": "\ud83c\udf93 Claude Code skill \u2014 AI prompt library for academic paper writing, polishing, reviewing, translating and submitting to ",
-    "id": "cLin-c/paper-skill",
-    "language": "Python",
-    "name": "cLin-c/paper-skill",
-    "stars": 61,
-    "updated_at": "2026-07-20T08:19:10Z",
-    "url": "https://github.com/cLin-c/paper-skill"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -387,66 +441,12 @@
     "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
   },
   {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-07-20T08:24:24Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel",
     "id": "UditAkhourii/adhd",
     "language": "TypeScript",
     "name": "UditAkhourii/adhd",
-    "stars": 1067,
+    "stars": 1072,
     "updated_at": "2026-07-20T08:03:47Z",
     "url": "https://github.com/UditAkhourii/adhd"
-  },
-  {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 7,
-    "updated_at": "2026-07-20T08:03:17Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 1,
-    "updated_at": "2026-07-20T08:55:04Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "Structured Outputs",
-    "id": "dottxt-ai/outlines",
-    "language": "Python",
-    "name": "dottxt-ai/outlines",
-    "stars": 14562,
-    "updated_at": "2026-07-20T08:54:06Z",
-    "url": "https://github.com/dottxt-ai/outlines"
-  },
-  {
-    "description": "A repo-local operating system for AI coding agents. Install one agent-os/ kernel and give Claude Code, Codex, and other ",
-    "id": "zuoxu3310/AGENTOS",
-    "language": "Python",
-    "name": "zuoxu3310/AGENTOS",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:59:58Z",
-    "url": "https://github.com/zuoxu3310/AGENTOS"
-  },
-  {
-    "description": "Your AI content engine. Research, write, publish posts that sound like you. Zero code, any niche, any platform.",
-    "id": "Huzaifa-ali/post-kit",
-    "language": "\u2014",
-    "name": "Huzaifa-ali/post-kit",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:56:16Z",
-    "url": "https://github.com/Huzaifa-ali/post-kit"
   }
 ]
