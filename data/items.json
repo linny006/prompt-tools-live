@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI-powered Resume Screening using Groq LLM and Pydantic",
+    "id": "taniyaNegi10/AI_Resume_Screener",
+    "language": "Python",
+    "name": "taniyaNegi10/AI_Resume_Screener",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:30:06Z",
+    "url": "https://github.com/taniyaNegi10/AI_Resume_Screener"
+  },
+  {
+    "description": "Personal GitHub profile \u00b7 \u4e2a\u4eba GitHub \u4e3b\u9875",
+    "id": "redamancy231-create/redamancy231-create",
+    "language": "\u2014",
+    "name": "redamancy231-create/redamancy231-create",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:28:01Z",
+    "url": "https://github.com/redamancy231-create/redamancy231-create"
+  },
+  {
+    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
+    "id": "solo-vey/Ordo",
+    "language": "Python",
+    "name": "solo-vey/Ordo",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:26:51Z",
+    "url": "https://github.com/solo-vey/Ordo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10656,
+    "updated_at": "2026-07-21T15:26:48Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:25:17Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Hey LLM, you okay? \u2014 pyramid-ordered LLM testing CLI for CI/CD. One YAML for every layer, LLM-as-a-judge gates, and A/B ",
+    "id": "mykim-aus/hey-llm-you-okay",
+    "language": "TypeScript",
+    "name": "mykim-aus/hey-llm-you-okay",
+    "stars": 1,
+    "updated_at": "2026-07-21T15:24:26Z",
+    "url": "https://github.com/mykim-aus/hey-llm-you-okay"
+  },
+  {
+    "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy ",
+    "id": "eljulians/skillfile",
+    "language": "Rust",
+    "name": "eljulians/skillfile",
+    "stars": 137,
+    "updated_at": "2026-07-21T15:23:30Z",
+    "url": "https://github.com/eljulians/skillfile"
+  },
+  {
+    "description": "A Codex CLI plugin that grades how you collaborate with Codex across 9 dimensions in 3 categories \u2014 your Codex model wri",
+    "id": "lemomo-ai/codex-radar",
+    "language": "\u2014",
+    "name": "lemomo-ai/codex-radar",
+    "stars": 17,
+    "updated_at": "2026-07-21T15:18:15Z",
+    "url": "https://github.com/lemomo-ai/codex-radar"
+  },
+  {
+    "description": "A Claude Code plugin that grades your collaboration with AI across 9 dimensions in 3 categories \u2014 with a free-form AI di",
+    "id": "lemomo-ai/claude-radar",
+    "language": "\u2014",
+    "name": "lemomo-ai/claude-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T15:18:13Z",
+    "url": "https://github.com/lemomo-ai/claude-radar"
+  },
+  {
+    "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-07-21T15:26:24Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-21T15:15:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Framework agn\u00f3stico de orquestra\u00e7\u00e3o multi-agente para integrar uma squad aut\u00f4noma de IA (PO, Tech Lead, Dev, QA e Ops) d",
     "id": "rcelebrone/DotAgents",
     "language": "Shell",
@@ -9,12 +108,21 @@
     "url": "https://github.com/rcelebrone/DotAgents"
   },
   {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:13:26Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
     "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship, with a harness deciding ",
     "id": "minhtran3124/agent-harness",
     "language": "Shell",
     "name": "minhtran3124/agent-harness",
     "stars": 2,
-    "updated_at": "2026-07-21T15:13:24Z",
+    "updated_at": "2026-07-21T15:25:31Z",
     "url": "https://github.com/minhtran3124/agent-harness"
   },
   {
@@ -45,6 +153,15 @@
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20748,
+    "updated_at": "2026-07-21T15:10:25Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
     "id": "Sunwood-ai-labs/OpenFace",
     "language": "CSS",
@@ -72,6 +189,15 @@
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
   },
   {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "JavaScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 8930,
+    "updated_at": "2026-07-21T15:08:51Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -79,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T15:08:06Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Personal GitHub profile \u00b7 \u4e2a\u4eba GitHub \u4e3b\u9875",
-    "id": "redamancy231-create/redamancy231-create",
-    "language": "\u2014",
-    "name": "redamancy231-create/redamancy231-create",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:07:41Z",
-    "url": "https://github.com/redamancy231-create/redamancy231-create"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:07:20Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
@@ -140,7 +248,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31575,
-    "updated_at": "2026-07-21T15:13:23Z",
+    "updated_at": "2026-07-21T15:28:52Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -232,33 +340,6 @@
     "stars": 6968,
     "updated_at": "2026-07-21T15:02:10Z",
     "url": "https://github.com/kyegomez/swarms"
-  },
-  {
-    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
-    "id": "solo-vey/Ordo",
-    "language": "Python",
-    "name": "solo-vey/Ordo",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:01:45Z",
-    "url": "https://github.com/solo-vey/Ordo"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-21T15:00:46Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20747,
-    "updated_at": "2026-07-21T15:10:25Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Hypothesis-driven problem solving for AI agents: probe, falsify, escalate \u2014 never blind-retry. MCP server + agent skill ",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T14:54:27Z",
     "url": "https://github.com/TitusKirch/skills"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-07-21T14:51:35Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
-    "id": "cobusgreyling/loop-engineering",
-    "language": "JavaScript",
-    "name": "cobusgreyling/loop-engineering",
-    "stars": 8929,
-    "updated_at": "2026-07-21T15:08:51Z",
-    "url": "https://github.com/cobusgreyling/loop-engineering"
-  },
-  {
-    "description": "A Gang of Four for AI Engineering \u2014 94 design patterns for LLM systems, grounded in transformer mechanics",
-    "id": "jlldavies/go4-llm-design-patterns",
-    "language": "Python",
-    "name": "jlldavies/go4-llm-design-patterns",
-    "stars": 1,
-    "updated_at": "2026-07-21T14:49:37Z",
-    "url": "https://github.com/jlldavies/go4-llm-design-patterns"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-21T14:48:19Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Local-first creative concept-engineering forge that turns source art into visual intelligence, reusable structures, conc",
-    "id": "M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0",
-    "language": "Python",
-    "name": "M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:15:03Z",
-    "url": "https://github.com/M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0"
-  },
-  {
-    "description": "Structured Outputs",
-    "id": "dottxt-ai/outlines",
-    "language": "Python",
-    "name": "dottxt-ai/outlines",
-    "stars": 14696,
-    "updated_at": "2026-07-21T14:45:44Z",
-    "url": "https://github.com/dottxt-ai/outlines"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-21T14:45:31Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 2,
-    "updated_at": "2026-07-21T15:14:59Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
-    "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
-    "id": "jamestexas/agents",
-    "language": "Shell",
-    "name": "jamestexas/agents",
-    "stars": 2,
-    "updated_at": "2026-07-21T14:44:29Z",
-    "url": "https://github.com/jamestexas/agents"
   }
 ]
