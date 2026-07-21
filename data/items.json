@@ -1,5 +1,77 @@
 [
   {
+    "description": "A terminal script manager and launcher for humans and AI agents: Put any script, prompt, or program in one library; skit",
+    "id": "t41372/skit",
+    "language": "Python",
+    "name": "t41372/skit",
+    "stars": 4,
+    "updated_at": "2026-07-21T23:30:16Z",
+    "url": "https://github.com/t41372/skit"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 61006,
+    "updated_at": "2026-07-21T23:27:23Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "The skill files from the book Claude Code Skills: The SKILL.md Playbook, laid out chapter by chapter, plus three shell s",
+    "id": "regardo911/skill-md-playbook",
+    "language": "Shell",
+    "name": "regardo911/skill-md-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-21T23:25:37Z",
+    "url": "https://github.com/regardo911/skill-md-playbook"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-07-21T23:23:48Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
+    "id": "AnastasiyaW/claude-code-config",
+    "language": "Python",
+    "name": "AnastasiyaW/claude-code-config",
+    "stars": 138,
+    "updated_at": "2026-07-21T23:17:23Z",
+    "url": "https://github.com/AnastasiyaW/claude-code-config"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 8,
+    "updated_at": "2026-07-21T23:16:50Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-07-21T23:16:44Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-21T23:15:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -36,15 +108,6 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:13:16Z",
-    "url": "https://github.com/agungkesmas/recallfox"
-  },
-  {
     "description": "The Linux OS for AI Agents \u2014 Persistent memory, structured reasoning, and governed autonomy for any LLM. Own the state. ",
     "id": "winstonkoh87/Athena-Public",
     "language": "Python",
@@ -68,17 +131,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10661,
-    "updated_at": "2026-07-21T23:12:04Z",
+    "updated_at": "2026-07-21T23:26:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The skill files from the book Claude Code Skills: The SKILL.md Playbook, laid out chapter by chapter, plus three shell s",
-    "id": "regardo911/skill-md-playbook",
-    "language": "Shell",
-    "name": "regardo911/skill-md-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:09:50Z",
-    "url": "https://github.com/regardo911/skill-md-playbook"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -158,7 +212,7 @@
     "language": "TypeScript",
     "name": "use-crux/crux",
     "stars": 0,
-    "updated_at": "2026-07-21T23:04:34Z",
+    "updated_at": "2026-07-21T23:29:14Z",
     "url": "https://github.com/use-crux/crux"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 153,
     "updated_at": "2026-07-21T23:03:21Z",
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
-    "id": "AnastasiyaW/claude-code-config",
-    "language": "Python",
-    "name": "AnastasiyaW/claude-code-config",
-    "stars": 138,
-    "updated_at": "2026-07-21T23:02:59Z",
-    "url": "https://github.com/AnastasiyaW/claude-code-config"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -223,15 +268,6 @@
     "stars": 155,
     "updated_at": "2026-07-21T23:01:13Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-21T23:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T22:45:34Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-21T22:45:28Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-07-21T22:43:01Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 7,
-    "updated_at": "2026-07-21T22:42:02Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-07-21T22:41:23Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   }
 ]
