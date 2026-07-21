@@ -1,5 +1,113 @@
 [
   {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-21T01:45:17Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Request compiler and preflight gate for AI coding hosts like Codex, Claude Code, and OpenCode.",
+    "id": "piklen/briefsmith",
+    "language": "TypeScript",
+    "name": "piklen/briefsmith",
+    "stars": 0,
+    "updated_at": "2026-07-21T01:44:45Z",
+    "url": "https://github.com/piklen/briefsmith"
+  },
+  {
+    "description": "AI-powered interactive classroom platform \u2014 \u591a\u667a\u80fd\u4f53\u667a\u80fd\u6559\u5b66\u5e73\u53f0",
+    "id": "weed33834/nova",
+    "language": "TypeScript",
+    "name": "weed33834/nova",
+    "stars": 0,
+    "updated_at": "2026-07-21T01:44:17Z",
+    "url": "https://github.com/weed33834/nova"
+  },
+  {
+    "description": "Applied AI project portfolio featuring prompt systems, research tools, privacy-first utilities, and deployable product p",
+    "id": "atomicdjt/AI-Project-Portfolio",
+    "language": "JavaScript",
+    "name": "atomicdjt/AI-Project-Portfolio",
+    "stars": 0,
+    "updated_at": "2026-07-21T01:45:11Z",
+    "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
+  },
+  {
+    "description": "Universal AI dev team workflow system for Claude Code \u2014 18 specialist agents, lazy-load rules, parallel-safe by path/con",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 2,
+    "updated_at": "2026-07-21T01:43:37Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 28,
+    "updated_at": "2026-07-21T01:41:09Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-07-21T01:38:19Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 820,
+    "updated_at": "2026-07-21T01:37:55Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Spec-driven coding skills for AI agents: plan with acceptance criteria, self-correct from feedback, and remember reusabl",
+    "id": "H2Sxxa/spec-coding-skills",
+    "language": "TypeScript",
+    "name": "H2Sxxa/spec-coding-skills",
+    "stars": 3,
+    "updated_at": "2026-07-21T01:34:18Z",
+    "url": "https://github.com/H2Sxxa/spec-coding-skills"
+  },
+  {
+    "description": "A Claude Code plugin that rewrites draft prompts into clearer, more effective ones \u2014 two improved variants plus a recomm",
+    "id": "ricardorqr/improve-prompt-plugin",
+    "language": "Shell",
+    "name": "ricardorqr/improve-prompt-plugin",
+    "stars": 0,
+    "updated_at": "2026-07-21T01:33:19Z",
+    "url": "https://github.com/ricardorqr/improve-prompt-plugin"
+  },
+  {
+    "description": "RobustnessPilot \u2014 Automated LLM evaluation framework testing 3 models (14B\u201370B params) across 23 failure modes with 7 pr",
+    "id": "Hrushitha12/llm_robustness_test_diversity",
+    "language": "Java",
+    "name": "Hrushitha12/llm_robustness_test_diversity",
+    "stars": 0,
+    "updated_at": "2026-07-21T01:31:50Z",
+    "url": "https://github.com/Hrushitha12/llm_robustness_test_diversity"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-21T01:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
@@ -45,15 +153,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
   },
   {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:22:55Z",
-    "url": "https://github.com/agungkesmas/recallfox"
-  },
-  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
@@ -81,6 +180,15 @@
     "url": "https://github.com/pascal-gonsales/restaurant-ai-agents"
   },
   {
+    "description": "A production-style, full-stack GenAI application that turns raw customer feedback into structured business insight.",
+    "id": "saurabhzaiswal/GenAI-Customer-Review-Analyzer",
+    "language": "TypeScript",
+    "name": "saurabhzaiswal/GenAI-Customer-Review-Analyzer",
+    "stars": 0,
+    "updated_at": "2026-07-21T01:17:01Z",
+    "url": "https://github.com/saurabhzaiswal/GenAI-Customer-Review-Analyzer"
+  },
+  {
     "description": "\ud83d\udcda Notes, concepts & exercises from a Prompt Engineering course \u2014 covering LLMs, zero-shot, few-shot, chain-of-thought, R",
     "id": "Skakarla2023/prompt-engineering-fundamentals",
     "language": "\u2014",
@@ -88,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T01:16:51Z",
     "url": "https://github.com/Skakarla2023/prompt-engineering-fundamentals"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-21T01:15:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
@@ -203,7 +302,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20729,
-    "updated_at": "2026-07-21T01:29:39Z",
+    "updated_at": "2026-07-21T01:33:22Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -256,7 +355,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 60746,
+    "stars": 60750,
     "updated_at": "2026-07-21T00:49:47Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -306,15 +405,6 @@
     "url": "https://github.com/HeiTuz/MPW"
   },
   {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-21T00:45:28Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T00:29:03Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "A lightweight project planning framework for agentic workflows - A standalone / optionally-installable module in my Hori",
-    "id": "HorizonBrute/HorizonBrute-Horizon_Lightweight_Agentic_Project_Plans_LAPP",
-    "language": "Python",
-    "name": "HorizonBrute/HorizonBrute-Horizon_Lightweight_Agentic_Project_Plans_LAPP",
-    "stars": 0,
-    "updated_at": "2026-07-21T00:28:09Z",
-    "url": "https://github.com/HorizonBrute/HorizonBrute-Horizon_Lightweight_Agentic_Project_Plans_LAPP"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
-    "id": "astorie-ai/awesome-seedance-2-prompt",
-    "language": "Shell",
-    "name": "astorie-ai/awesome-seedance-2-prompt",
-    "stars": 10,
-    "updated_at": "2026-07-21T00:24:55Z",
-    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Free Claude Code & Cursor prompts for senior engineers \u2014 code review, debugging, refactoring, system design, CLAUDE.m",
-    "id": "sublimecoder/sublimecoding",
-    "language": "\u2014",
-    "name": "sublimecoder/sublimecoding",
-    "stars": 0,
-    "updated_at": "2026-07-21T00:22:07Z",
-    "url": "https://github.com/sublimecoder/sublimecoding"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12895,
-    "updated_at": "2026-07-21T00:21:44Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "A native desktop chat and productivity environment for local AI models",
-    "id": "ekorbia/ekorbia-desktop",
-    "language": "JavaScript",
-    "name": "ekorbia/ekorbia-desktop",
-    "stars": 1,
-    "updated_at": "2026-07-21T00:30:30Z",
-    "url": "https://github.com/ekorbia/ekorbia-desktop"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23446,
-    "updated_at": "2026-07-21T01:19:39Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10642,
-    "updated_at": "2026-07-21T01:25:45Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-07-21T00:15:48Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-07-21T00:15:08Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-21T00:11:58Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   }
 ]
