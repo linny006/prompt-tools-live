@@ -1,12 +1,30 @@
 [
   {
-    "description": "Source-backed Muse Image prompts, official agentic editing cases, reusable workflows, preview media, and 14-language gui",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "description": "\ud83c\udf9e\ufe0f The ultimate Seedance-2 video prompt dataset (12GB+). 2000+ video generation prompts with full metadata and preview f",
+    "id": "Goku-OpenLab/seedance-2-prompts-datasets",
+    "language": "Python",
+    "name": "Goku-OpenLab/seedance-2-prompts-datasets",
+    "stars": 3,
+    "updated_at": "2026-07-21T13:45:03Z",
+    "url": "https://github.com/Goku-OpenLab/seedance-2-prompts-datasets"
+  },
+  {
+    "description": "AI-assisted context management and prompt compression toolkit for developer productivity, ADR workflows, and LLM token o",
+    "id": "AybarsBarut/Nexus-APCP",
+    "language": "Python",
+    "name": "AybarsBarut/Nexus-APCP",
+    "stars": 3,
+    "updated_at": "2026-07-21T13:44:52Z",
+    "url": "https://github.com/AybarsBarut/Nexus-APCP"
+  },
+  {
+    "description": "Personal clone & aggregation of AI prompts from open-source repos. 2,247 prompts (text + visual styles) in a searchable ",
+    "id": "ambatra/prompt-library",
+    "language": "HTML",
+    "name": "ambatra/prompt-library",
     "stars": 0,
-    "updated_at": "2026-07-21T13:28:22Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+    "updated_at": "2026-07-21T13:43:34Z",
+    "url": "https://github.com/ambatra/prompt-library"
   },
   {
     "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
@@ -14,8 +32,116 @@
     "language": "CSS",
     "name": "Sunwood-ai-labs/OpenFace",
     "stars": 1,
-    "updated_at": "2026-07-21T13:28:08Z",
+    "updated_at": "2026-07-21T13:42:00Z",
     "url": "https://github.com/Sunwood-ai-labs/OpenFace"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31571,
+    "updated_at": "2026-07-21T13:45:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-21T13:39:56Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
+    "id": "lulin70/carrymem",
+    "language": "Python",
+    "name": "lulin70/carrymem",
+    "stars": 5,
+    "updated_at": "2026-07-21T13:37:30Z",
+    "url": "https://github.com/lulin70/carrymem"
+  },
+  {
+    "description": "CLI chatbot + FastAPI backend \u2014 Groq, Gemini, OpenRouter through one unified adapter interface. Conversation memory, JSO",
+    "id": "Riyasharma-17/CLI-Multi-Provider-AI-Chatbot",
+    "language": "Python",
+    "name": "Riyasharma-17/CLI-Multi-Provider-AI-Chatbot",
+    "stars": 1,
+    "updated_at": "2026-07-21T13:37:25Z",
+    "url": "https://github.com/Riyasharma-17/CLI-Multi-Provider-AI-Chatbot"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10653,
+    "updated_at": "2026-07-21T13:37:13Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 577,
+    "updated_at": "2026-07-21T13:35:28Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
+    "id": "Mr-Salticidae/knowledge-base",
+    "language": "Python",
+    "name": "Mr-Salticidae/knowledge-base",
+    "stars": 18,
+    "updated_at": "2026-07-21T13:34:14Z",
+    "url": "https://github.com/Mr-Salticidae/knowledge-base"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-07-21T13:34:06Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Cross-agent toolkit for prompts and coding-agent skills",
+    "id": "sungjunlee/craftkit",
+    "language": "JavaScript",
+    "name": "sungjunlee/craftkit",
+    "stars": 0,
+    "updated_at": "2026-07-21T13:33:30Z",
+    "url": "https://github.com/sungjunlee/craftkit"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-07-21T13:33:29Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-21T13:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Source-backed Muse Image prompts, official agentic editing cases, reusable workflows, preview media, and 14-language gui",
+    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "stars": 0,
+    "updated_at": "2026-07-21T13:28:22Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
   },
   {
     "description": "keying in those words to understand them better (Next.js + Llama LLM + decap CMS)",
@@ -36,15 +162,6 @@
     "url": "https://github.com/ezBuilder/code-brain"
   },
   {
-    "description": "Cross-agent toolkit for prompts and coding-agent skills",
-    "id": "sungjunlee/craftkit",
-    "language": "JavaScript",
-    "name": "sungjunlee/craftkit",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:27:10Z",
-    "url": "https://github.com/sungjunlee/craftkit"
-  },
-  {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
     "id": "5uprem4/ai-skill-vault",
     "language": "HTML",
@@ -59,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-21T13:29:24Z",
+    "updated_at": "2026-07-21T13:44:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -144,15 +261,6 @@
     "url": "https://github.com/Li-Hongmin/AgentIME"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31569,
-    "updated_at": "2026-07-21T13:28:47Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
     "id": "Kenny27lokku/prompt-integrity-validator",
     "language": "HTML",
@@ -178,33 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T13:21:11Z",
     "url": "https://github.com/redamancy231-create/ma-case-study-pipeline"
-  },
-  {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "TypeScript",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 4,
-    "updated_at": "2026-07-21T13:20:00Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
-    "description": "AI-assisted context management and prompt compression toolkit for developer productivity, ADR workflows, and LLM token o",
-    "id": "AybarsBarut/Nexus-APCP",
-    "language": "Python",
-    "name": "AybarsBarut/Nexus-APCP",
-    "stars": 3,
-    "updated_at": "2026-07-21T13:19:07Z",
-    "url": "https://github.com/AybarsBarut/Nexus-APCP"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-21T13:15:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A prompt-based AI project runtime for structured activation, roadmap-first execution, active-step artifacts and handoff ",
@@ -292,7 +373,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 59449,
+    "stars": 59453,
     "updated_at": "2026-07-21T13:05:47Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T12:59:07Z",
     "url": "https://github.com/ohmuyi/muyi-skills"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-07-21T12:58:24Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-07-21T12:57:41Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "A Laravel package for versioned AI prompt management with variable interpolation, performance tracking & A/B testing.",
-    "id": "promptphp/deck",
-    "language": "PHP",
-    "name": "promptphp/deck",
-    "stars": 99,
-    "updated_at": "2026-07-21T12:57:32Z",
-    "url": "https://github.com/promptphp/deck"
-  },
-  {
-    "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
-    "id": "Jia-Ethan/codex-keysmith",
-    "language": "Python",
-    "name": "Jia-Ethan/codex-keysmith",
-    "stars": 1222,
-    "updated_at": "2026-07-21T12:56:37Z",
-    "url": "https://github.com/Jia-Ethan/codex-keysmith"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 0,
-    "updated_at": "2026-07-21T12:53:24Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 2,
-    "updated_at": "2026-07-21T12:49:52Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
-  },
-  {
-    "description": "RAG application: ask questions about your YouTube watch history, answered strictly from video transcripts. FastAPI \u00b7 Chr",
-    "id": "DhakshanaS/my-youtube-guru",
-    "language": "Python",
-    "name": "DhakshanaS/my-youtube-guru",
-    "stars": 0,
-    "updated_at": "2026-07-21T12:48:05Z",
-    "url": "https://github.com/DhakshanaS/my-youtube-guru"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-21T12:45:30Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-21T12:43:48Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   }
 ]
