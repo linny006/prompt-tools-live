@@ -1,5 +1,95 @@
 [
   {
+    "description": "A Gang of Four for AI Engineering \u2014 94 design patterns for LLM systems, grounded in transformer mechanics",
+    "id": "jlldavies/go4-llm-design-patterns",
+    "language": "Python",
+    "name": "jlldavies/go4-llm-design-patterns",
+    "stars": 1,
+    "updated_at": "2026-07-21T14:49:37Z",
+    "url": "https://github.com/jlldavies/go4-llm-design-patterns"
+  },
+  {
+    "description": "Free open-source AI prompts, Google Flow templates, Veo workflows and creator resources.",
+    "id": "shoaibmshareef10-stack/awesome-ai-creator-toolkit",
+    "language": "\u2014",
+    "name": "shoaibmshareef10-stack/awesome-ai-creator-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-21T14:50:59Z",
+    "url": "https://github.com/shoaibmshareef10-stack/awesome-ai-creator-toolkit"
+  },
+  {
+    "description": "Local-first creative concept-engineering forge that turns source art into visual intelligence, reusable structures, conc",
+    "id": "M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0",
+    "language": "Python",
+    "name": "M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:46:35Z",
+    "url": "https://github.com/M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0"
+  },
+  {
+    "description": "Agent skills by Titus Kirch \u2014 installable via skills.sh in Claude Code, Cursor, Windsurf and friends.",
+    "id": "TitusKirch/skills",
+    "language": "JavaScript",
+    "name": "TitusKirch/skills",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:45:57Z",
+    "url": "https://github.com/TitusKirch/skills"
+  },
+  {
+    "description": "Structured Outputs",
+    "id": "dottxt-ai/outlines",
+    "language": "Python",
+    "name": "dottxt-ai/outlines",
+    "stars": 14687,
+    "updated_at": "2026-07-21T14:45:44Z",
+    "url": "https://github.com/dottxt-ai/outlines"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-21T14:45:31Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-21T14:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
+    "id": "Sunwood-ai-labs/OpenFace",
+    "language": "CSS",
+    "name": "Sunwood-ai-labs/OpenFace",
+    "stars": 1,
+    "updated_at": "2026-07-21T14:50:52Z",
+    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
+  },
+  {
+    "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-07-21T14:44:33Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
+    "id": "jamestexas/agents",
+    "language": "Shell",
+    "name": "jamestexas/agents",
+    "stars": 2,
+    "updated_at": "2026-07-21T14:44:29Z",
+    "url": "https://github.com/jamestexas/agents"
+  },
+  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -7,6 +97,15 @@
     "stars": 10,
     "updated_at": "2026-07-21T14:44:26Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Designed and developed an AI-powered Loan Management Solution using Salesforce Agentforce to automate customer support a",
+    "id": "aadityaagrawal11/Loan-Management",
+    "language": "Apex",
+    "name": "aadityaagrawal11/Loan-Management",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:42:05Z",
+    "url": "https://github.com/aadityaagrawal11/Loan-Management"
   },
   {
     "description": "Syx is an experimental local AI memory system for long-running projects and coding agents. It explores active context, d",
@@ -32,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31574,
-    "updated_at": "2026-07-21T14:40:06Z",
+    "updated_at": "2026-07-21T14:47:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -68,17 +167,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20747,
-    "updated_at": "2026-07-21T14:40:14Z",
+    "updated_at": "2026-07-21T14:46:30Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Free open-source AI prompts, Google Flow templates, Veo workflows and creator resources.",
-    "id": "shoaibmshareef10-stack/awesome-ai-creator-toolkit",
-    "language": "\u2014",
-    "name": "shoaibmshareef10-stack/awesome-ai-creator-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-21T14:43:30Z",
-    "url": "https://github.com/shoaibmshareef10-stack/awesome-ai-creator-toolkit"
   },
   {
     "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
@@ -133,24 +223,6 @@
     "stars": 4,
     "updated_at": "2026-07-21T14:32:39Z",
     "url": "https://github.com/lemomo-ai/claude-radar"
-  },
-  {
-    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
-    "id": "Sunwood-ai-labs/OpenFace",
-    "language": "CSS",
-    "name": "Sunwood-ai-labs/OpenFace",
-    "stars": 1,
-    "updated_at": "2026-07-21T14:44:55Z",
-    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-21T14:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -270,21 +342,12 @@
     "url": "https://github.com/derob98/ailmanac"
   },
   {
-    "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 2,
-    "updated_at": "2026-07-21T14:44:33Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
     "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
     "stars": 8928,
-    "updated_at": "2026-07-21T14:19:27Z",
+    "updated_at": "2026-07-21T14:50:02Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
   {
@@ -304,15 +367,6 @@
     "stars": 22,
     "updated_at": "2026-07-21T14:18:40Z",
     "url": "https://github.com/lf1up/careersim"
-  },
-  {
-    "description": "Structured Outputs",
-    "id": "dottxt-ai/outlines",
-    "language": "Python",
-    "name": "dottxt-ai/outlines",
-    "stars": 14684,
-    "updated_at": "2026-07-21T14:18:13Z",
-    "url": "https://github.com/dottxt-ai/outlines"
   },
   {
     "description": "Portable Agent Skill for small, verified coding-agent changes",
@@ -378,15 +432,6 @@
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
   },
   {
-    "description": "Local-first creative concept-engineering forge that turns source art into visual intelligence, reusable structures, conc",
-    "id": "M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0",
-    "language": "Python",
-    "name": "M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0",
-    "stars": 0,
-    "updated_at": "2026-07-21T14:44:51Z",
-    "url": "https://github.com/M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0"
-  },
-  {
     "description": "A deterministic, gated workflow for building software with AI agents \u2014 from problem statement to shipped, reviewed code.",
     "id": "sakhujarohan/keel",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T14:04:29Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Military-inspired command and control operating system for AI agents.",
-    "id": "wnsdy95/cannae-os",
-    "language": "JavaScript",
-    "name": "wnsdy95/cannae-os",
-    "stars": 2,
-    "updated_at": "2026-07-21T14:02:07Z",
-    "url": "https://github.com/wnsdy95/cannae-os"
-  },
-  {
-    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
-    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1774,
-    "updated_at": "2026-07-21T14:00:56Z",
-    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "Multi-provider AI chatbot with CLI and FastAPI interfaces. Supports Groq, Gemini, and OpenRouter through a unified adapt",
-    "id": "Riyasharma-17/CLI-Multi-Provider-AI-Chatbot",
-    "language": "Python",
-    "name": "Riyasharma-17/CLI-Multi-Provider-AI-Chatbot",
-    "stars": 2,
-    "updated_at": "2026-07-21T14:00:23Z",
-    "url": "https://github.com/Riyasharma-17/CLI-Multi-Provider-AI-Chatbot"
-  },
-  {
-    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
-    "id": "lulin70/carrymem",
-    "language": "Python",
-    "name": "lulin70/carrymem",
-    "stars": 6,
-    "updated_at": "2026-07-21T14:00:00Z",
-    "url": "https://github.com/lulin70/carrymem"
-  },
-  {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "TypeScript",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 5,
-    "updated_at": "2026-07-21T13:59:53Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
   }
 ]
