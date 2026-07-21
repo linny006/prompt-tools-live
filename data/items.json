@@ -1,5 +1,176 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31580,
+    "updated_at": "2026-07-21T16:43:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Synthelion compresses prompts before they reach any AI model \u2014 cutting token usage by up to 70%, reducing API costs, and",
+    "id": "francescopaolopassaro/Synthelion",
+    "language": "Python",
+    "name": "francescopaolopassaro/Synthelion",
+    "stars": 1,
+    "updated_at": "2026-07-21T16:44:07Z",
+    "url": "https://github.com/francescopaolopassaro/Synthelion"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2198,
+    "updated_at": "2026-07-21T16:42:31Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Claude Code skill - minimize token usage without degrading quality (concise prose, clean memory, precise action, lean ou",
+    "id": "G10DC/chisel",
+    "language": "JavaScript",
+    "name": "G10DC/chisel",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:42:12Z",
+    "url": "https://github.com/G10DC/chisel"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:41:35Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Composable multi-agent framework for GitHub Copilot \u2014 persona grafting, cognitive identity caching, and agent fusion for",
+    "id": "CTOUT/Symdicate",
+    "language": "Shell",
+    "name": "CTOUT/Symdicate",
+    "stars": 1,
+    "updated_at": "2026-07-21T16:40:48Z",
+    "url": "https://github.com/CTOUT/Symdicate"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:40:12Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 8,
+    "updated_at": "2026-07-21T16:40:06Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-21T16:39:18Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
+    "id": "Jia-Ethan/codex-keysmith",
+    "language": "Python",
+    "name": "Jia-Ethan/codex-keysmith",
+    "stars": 1246,
+    "updated_at": "2026-07-21T16:38:49Z",
+    "url": "https://github.com/Jia-Ethan/codex-keysmith"
+  },
+  {
+    "description": "Evidence-first skills for Codex, Cursor, and Claude Code: research, debugging, planning, execution, review, and goal loo",
+    "id": "JinPLu/Teamwork",
+    "language": "Python",
+    "name": "JinPLu/Teamwork",
+    "stars": 8,
+    "updated_at": "2026-07-21T16:38:34Z",
+    "url": "https://github.com/JinPLu/Teamwork"
+  },
+  {
+    "description": "A Codex skill that routes model choice, reasoning effort, and context strategy at useful task boundaries.",
+    "id": "robertiuoras/Codex-skill-model-reasoning-router",
+    "language": "JavaScript",
+    "name": "robertiuoras/Codex-skill-model-reasoning-router",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:38:22Z",
+    "url": "https://github.com/robertiuoras/Codex-skill-model-reasoning-router"
+  },
+  {
+    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
+    "id": "solo-vey/Ordo",
+    "language": "Python",
+    "name": "solo-vey/Ordo",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:37:51Z",
+    "url": "https://github.com/solo-vey/Ordo"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:36:37Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Interactive platform to master prompt engineering for AI models",
+    "id": "BOSSincrypto/promptcraft",
+    "language": "TypeScript",
+    "name": "BOSSincrypto/promptcraft",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:35:33Z",
+    "url": "https://github.com/BOSSincrypto/promptcraft"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 60948,
+    "updated_at": "2026-07-21T16:34:25Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Context compression for AI agents \u2014 cut token usage costs with retrievable CCR compression. Rust core + Python API, Clau",
+    "id": "omar-y-abdi/furl-ctx",
+    "language": "Python",
+    "name": "omar-y-abdi/furl-ctx",
+    "stars": 2,
+    "updated_at": "2026-07-21T16:43:16Z",
+    "url": "https://github.com/omar-y-abdi/furl-ctx"
+  },
+  {
+    "description": "Getting my feet wet in this new AI driven world. ",
+    "id": "Rlspark87/rachel_portfoliio",
+    "language": "HTML",
+    "name": "Rlspark87/rachel_portfoliio",
+    "stars": 1,
+    "updated_at": "2026-07-21T16:31:49Z",
+    "url": "https://github.com/Rlspark87/rachel_portfoliio"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-21T16:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
     "id": "nikolay-e/diffctx",
     "language": "Rust",
@@ -27,15 +198,6 @@
     "url": "https://github.com/spidey889/context-generator"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-21T16:27:43Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "\ud83d\udccb Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your",
     "id": "V-Songbird/foreman",
     "language": "JavaScript",
@@ -52,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T16:26:16Z",
     "url": "https://github.com/Trilldog13/ai-recruitment-frameworks"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31580,
-    "updated_at": "2026-07-21T16:25:16Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
@@ -108,15 +261,6 @@
     "url": "https://github.com/tech-guru254/spec-weaver"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 60942,
-    "updated_at": "2026-07-21T16:30:24Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
     "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
     "id": "kodancrash-oss/prompt-weaver-framework",
     "language": "HTML",
@@ -148,7 +292,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 8932,
+    "stars": 8934,
     "updated_at": "2026-07-21T16:19:19Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -166,8 +310,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20752,
-    "updated_at": "2026-07-21T16:17:27Z",
+    "stars": 20753,
+    "updated_at": "2026-07-21T16:42:26Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -189,21 +333,12 @@
     "url": "https://github.com/Forktomorrow/nailong-image-transform-skill"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-21T16:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-21T16:23:52Z",
+    "updated_at": "2026-07-21T16:37:49Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -243,15 +378,6 @@
     "url": "https://github.com/debojyotisaha-dev/enterprise-AI-agents"
   },
   {
-    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
-    "id": "solo-vey/Ordo",
-    "language": "Python",
-    "name": "solo-vey/Ordo",
-    "stars": 0,
-    "updated_at": "2026-07-21T16:26:41Z",
-    "url": "https://github.com/solo-vey/Ordo"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -288,15 +414,6 @@
     "url": "https://github.com/kgtceo/prompt-lab"
   },
   {
-    "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
-    "id": "Jia-Ethan/codex-keysmith",
-    "language": "Python",
-    "name": "Jia-Ethan/codex-keysmith",
-    "stars": 1244,
-    "updated_at": "2026-07-21T16:00:26Z",
-    "url": "https://github.com/Jia-Ethan/codex-keysmith"
-  },
-  {
     "description": "\u5267\u672c\u4e0e\u591a\u53c2\u8003\u56fe \u2192 Seedance 2.0 \u7cbe\u7b80\u63d0\u793a\u8bcd\u4e0e\u79bb\u7ebf HTML \u5206\u955c\u8868\uff08\u4e2d\u6587 / English / \u53cc\u8bed\uff09",
     "id": "vutifi0-collab/babylon-seedance-storyboard-master",
     "language": "PowerShell",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T15:58:22Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 8,
-    "updated_at": "2026-07-21T15:57:31Z",
-    "url": "https://github.com/danlex/suno-lab"
-  },
-  {
-    "description": "Evidence-driven engineering control plane for AI coding agents. Full Codex workflows, Claude Code MCP preview, bounded g",
-    "id": "JarodFroneman/jstack",
-    "language": "Python",
-    "name": "JarodFroneman/jstack",
-    "stars": 0,
-    "updated_at": "2026-07-21T16:07:48Z",
-    "url": "https://github.com/JarodFroneman/jstack"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:56:22Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Context compression for AI agents \u2014 cut token usage costs with retrievable CCR compression. Rust core + Python API, Clau",
-    "id": "omar-y-abdi/furl-ctx",
-    "language": "Python",
-    "name": "omar-y-abdi/furl-ctx",
-    "stars": 2,
-    "updated_at": "2026-07-21T16:22:41Z",
-    "url": "https://github.com/omar-y-abdi/furl-ctx"
-  },
-  {
-    "description": "\ud83e\udd2b Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression c",
-    "id": "V-Songbird/hush",
-    "language": "JavaScript",
-    "name": "V-Songbird/hush",
-    "stars": 24,
-    "updated_at": "2026-07-21T15:52:16Z",
-    "url": "https://github.com/V-Songbird/hush"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:51:48Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Task With Questions: Claude Code Skill",
-    "id": "fabkury/twq",
-    "language": "\u2014",
-    "name": "fabkury/twq",
-    "stars": 1,
-    "updated_at": "2026-07-21T15:51:22Z",
-    "url": "https://github.com/fabkury/twq"
-  },
-  {
-    "description": "Universal AI dev team workflow system for Claude Code \u2014 18 specialist agents, lazy-load rules, parallel-safe by path/con",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 2,
-    "updated_at": "2026-07-21T15:50:40Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "The most frequently used agent skills of Wade Foster, CEO of Zapier",
-    "id": "zapier/wade-skills",
-    "language": "\u2014",
-    "name": "zapier/wade-skills",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:49:44Z",
-    "url": "https://github.com/zapier/wade-skills"
-  },
-  {
-    "description": "Open-source MCP server that cuts LLM token usage up to 98% \u2014 content-aware compression + AST code reading for Claude Cod",
-    "id": "arthjean/distill",
-    "language": "TypeScript",
-    "name": "arthjean/distill",
-    "stars": 5,
-    "updated_at": "2026-07-21T15:49:22Z",
-    "url": "https://github.com/arthjean/distill"
-  },
-  {
-    "description": "\u7eaf\u5ba2\u6237\u7aef\u804c\u573a AI \u5de5\u5177\u7ad9\uff1aMarkdown \u7b80\u5386\u3001Prompt \u89e3\u6784\u3001\u6587\u98ce\u6da6\u8272\u3002\u81ea\u5e26 API Key\uff0c\u6570\u636e\u53ea\u7559\u5728\u6d4f\u89c8\u5668\u3002",
-    "id": "amching/auwe",
-    "language": "TypeScript",
-    "name": "amching/auwe",
-    "stars": 4,
-    "updated_at": "2026-07-21T15:47:35Z",
-    "url": "https://github.com/amching/auwe"
-  },
-  {
-    "description": "You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session.",
-    "id": "greerviau/wingman",
-    "language": "Shell",
-    "name": "greerviau/wingman",
-    "stars": 2,
-    "updated_at": "2026-07-21T15:47:32Z",
-    "url": "https://github.com/greerviau/wingman"
-  },
-  {
-    "description": "AI-powered Resume Screening using Groq LLM and Pydantic",
-    "id": "taniyaNegi10/AI_Resume_Screener",
-    "language": "Python",
-    "name": "taniyaNegi10/AI_Resume_Screener",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:46:54Z",
-    "url": "https://github.com/taniyaNegi10/AI_Resume_Screener"
   }
 ]
