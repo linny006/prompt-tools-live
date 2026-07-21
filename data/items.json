@@ -1,12 +1,39 @@
 [
   {
-    "description": "Windows \u684c\u9762 AI \u751f\u56fe\u5de5\u5177,\u805a\u5408 17 \u4e2a\u514d\u8d39/\u4ed8\u8d39\u63a5\u53e3(FLUX \u00b7 DALL-E 3 \u00b7 Gemini \u00b7 \u7845\u57fa\u6d41\u52a8),\u667a\u80fd\u8def\u7531\u3001\u56fe\u751f\u56fe\u3001 \u6279\u91cf\u53d8\u4f53\uff0cAI \u63d0\u793a\u8bcd\u4f18\u5316\uff0c\u96f6\u6210\u672c\u8d77\u6b65\uff0c\u6570\u636e\u5b8c\u5168\u672c\u5730\u5b58\u653e",
-    "id": "Aswellle/2image",
-    "language": "Python",
-    "name": "Aswellle/2image",
+    "description": "Structured prompting convention to optimize reasoning precision, execution consistency, and token efficiency",
+    "id": "TimIsabella/HighSignalPrompting",
+    "language": "\u2014",
+    "name": "TimIsabella/HighSignalPrompting",
+    "stars": 1,
+    "updated_at": "2026-07-21T20:45:32Z",
+    "url": "https://github.com/TimIsabella/HighSignalPrompting"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 2,
-    "updated_at": "2026-07-21T20:29:26Z",
-    "url": "https://github.com/Aswellle/2image"
+    "updated_at": "2026-07-21T20:45:29Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "A Claude Code plugin that rewrites draft prompts into clearer, more effective ones \u2014 two improved variants plus a recomm",
+    "id": "ricardorqr/improve-prompt-plugin",
+    "language": "Shell",
+    "name": "ricardorqr/improve-prompt-plugin",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:42:23Z",
+    "url": "https://github.com/ricardorqr/improve-prompt-plugin"
+  },
+  {
+    "description": "Synthelion compresses prompts before they reach any AI model \u2014 cutting token usage by up to 70%, reducing API costs, and",
+    "id": "francescopaolopassaro/Synthelion",
+    "language": "Python",
+    "name": "francescopaolopassaro/Synthelion",
+    "stars": 1,
+    "updated_at": "2026-07-21T20:42:09Z",
+    "url": "https://github.com/francescopaolopassaro/Synthelion"
   },
   {
     "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
@@ -14,8 +41,71 @@
     "language": "CSS",
     "name": "Sunwood-ai-labs/OpenFace",
     "stars": 1,
-    "updated_at": "2026-07-21T20:28:59Z",
+    "updated_at": "2026-07-21T20:40:46Z",
     "url": "https://github.com/Sunwood-ai-labs/OpenFace"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:38:05Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:37:15Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "JavaScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 8945,
+    "updated_at": "2026-07-21T20:36:36Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:34:41Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "Go",
+    "name": "sachncs/promptsheon",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:33:10Z",
+    "url": "https://github.com/sachncs/promptsheon"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-21T20:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Windows \u684c\u9762 AI \u751f\u56fe\u5de5\u5177,\u805a\u5408 17 \u4e2a\u514d\u8d39/\u4ed8\u8d39\u63a5\u53e3(FLUX \u00b7 DALL-E 3 \u00b7 Gemini \u00b7 \u7845\u57fa\u6d41\u52a8),\u667a\u80fd\u8def\u7531\u3001\u56fe\u751f\u56fe\u3001 \u6279\u91cf\u53d8\u4f53\uff0cAI \u63d0\u793a\u8bcd\u4f18\u5316\uff0c\u96f6\u6210\u672c\u8d77\u6b65\uff0c\u6570\u636e\u5b8c\u5168\u672c\u5730\u5b58\u653e",
+    "id": "Aswellle/2image",
+    "language": "Python",
+    "name": "Aswellle/2image",
+    "stars": 2,
+    "updated_at": "2026-07-21T20:29:26Z",
+    "url": "https://github.com/Aswellle/2image"
   },
   {
     "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
@@ -36,6 +126,15 @@
     "url": "https://github.com/adrianwedd/cv"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23462,
+    "updated_at": "2026-07-21T20:45:22Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
@@ -52,24 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T20:24:30Z",
     "url": "https://github.com/wnsdy95/cannae-os"
-  },
-  {
-    "description": "Synthelion compresses prompts before they reach any AI model \u2014 cutting token usage by up to 70%, reducing API costs, and",
-    "id": "francescopaolopassaro/Synthelion",
-    "language": "Python",
-    "name": "francescopaolopassaro/Synthelion",
-    "stars": 1,
-    "updated_at": "2026-07-21T20:24:28Z",
-    "url": "https://github.com/francescopaolopassaro/Synthelion"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-21T20:23:18Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
     "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
@@ -108,12 +189,21 @@
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10660,
+    "updated_at": "2026-07-21T20:17:24Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
     "id": "derob98/ailmanac",
     "language": "MDX",
     "name": "derob98/ailmanac",
     "stars": 7,
-    "updated_at": "2026-07-21T20:16:49Z",
+    "updated_at": "2026-07-21T20:40:40Z",
     "url": "https://github.com/derob98/ailmanac"
   },
   {
@@ -142,15 +232,6 @@
     "stars": 9,
     "updated_at": "2026-07-21T20:15:36Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-21T20:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
@@ -243,15 +324,6 @@
     "url": "https://github.com/mehrad-dm/mastermind"
   },
   {
-    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
-    "id": "sachncs/promptsheon",
-    "language": "Go",
-    "name": "sachncs/promptsheon",
-    "stars": 0,
-    "updated_at": "2026-07-21T20:11:02Z",
-    "url": "https://github.com/sachncs/promptsheon"
-  },
-  {
     "description": "Testovac\u00ed Repozit\u00e1r pre Online Kurz ChatGPT",
     "id": "miroslav-reiter/chatgpt-lab",
     "language": "\u2014",
@@ -259,24 +331,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T20:10:23Z",
     "url": "https://github.com/miroslav-reiter/chatgpt-lab"
-  },
-  {
-    "description": "Structured prompting convention to optimize reasoning precision, execution consistency, and token efficiency",
-    "id": "TimIsabella/HighSignalPrompting",
-    "language": "\u2014",
-    "name": "TimIsabella/HighSignalPrompting",
-    "stars": 1,
-    "updated_at": "2026-07-21T20:10:18Z",
-    "url": "https://github.com/TimIsabella/HighSignalPrompting"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23461,
-    "updated_at": "2026-07-21T20:25:54Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CL",
@@ -365,7 +419,7 @@
     "language": "TypeScript",
     "name": "use-crux/crux",
     "stars": 0,
-    "updated_at": "2026-07-21T20:24:07Z",
+    "updated_at": "2026-07-21T20:30:56Z",
     "url": "https://github.com/use-crux/crux"
   },
   {
@@ -376,15 +430,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T19:58:54Z",
     "url": "https://github.com/redsandr/rag-variance-explainer"
-  },
-  {
-    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
-    "id": "cobusgreyling/loop-engineering",
-    "language": "JavaScript",
-    "name": "cobusgreyling/loop-engineering",
-    "stars": 8944,
-    "updated_at": "2026-07-21T19:54:26Z",
-    "url": "https://github.com/cobusgreyling/loop-engineering"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -403,50 +448,5 @@
     "stars": 59,
     "updated_at": "2026-07-21T19:50:54Z",
     "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-21T19:50:52Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10659,
-    "updated_at": "2026-07-21T20:17:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "A Claude / AI security review prompt for shipping safe apps. TRAP (True Readiness Audit Prompt) turns Claude Code, Curso",
-    "id": "bikr/TRAP",
-    "language": "\u2014",
-    "name": "bikr/TRAP",
-    "stars": 10,
-    "updated_at": "2026-07-21T20:09:39Z",
-    "url": "https://github.com/bikr/TRAP"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-21T19:46:21Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-21T19:45:32Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   }
 ]
