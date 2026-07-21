@@ -1,5 +1,104 @@
 [
   {
+    "description": "Typed building blocks for everything around your LLM call.",
+    "id": "use-crux/crux",
+    "language": "TypeScript",
+    "name": "use-crux/crux",
+    "stars": 0,
+    "updated_at": "2026-07-21T20:00:06Z",
+    "url": "https://github.com/use-crux/crux"
+  },
+  {
+    "description": "RAG pipeline that answers financial variance questions from SEC filings. Faithfulness eval, cross-encoder re-ranking, mu",
+    "id": "redsandr/rag-variance-explainer",
+    "language": "Python",
+    "name": "redsandr/rag-variance-explainer",
+    "stars": 2,
+    "updated_at": "2026-07-21T19:58:54Z",
+    "url": "https://github.com/redsandr/rag-variance-explainer"
+  },
+  {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "JavaScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 8944,
+    "updated_at": "2026-07-21T19:54:26Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Java",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-07-21T19:52:41Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 59,
+    "updated_at": "2026-07-21T19:50:54Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-21T19:50:52Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Structured prompting convention to optimize reasoning precision, execution consistency, and token efficiency",
+    "id": "TimIsabella/HighSignalPrompting",
+    "language": "\u2014",
+    "name": "TimIsabella/HighSignalPrompting",
+    "stars": 1,
+    "updated_at": "2026-07-21T19:49:11Z",
+    "url": "https://github.com/TimIsabella/HighSignalPrompting"
+  },
+  {
+    "description": "A Claude / AI security review prompt for shipping safe apps. TRAP (True Readiness Audit Prompt) turns Claude Code, Curso",
+    "id": "bikr/TRAP",
+    "language": "\u2014",
+    "name": "bikr/TRAP",
+    "stars": 10,
+    "updated_at": "2026-07-21T19:48:12Z",
+    "url": "https://github.com/bikr/TRAP"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 0,
+    "updated_at": "2026-07-21T19:46:21Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-21T19:45:32Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-21T19:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -9,12 +108,21 @@
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
+    "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-07-21T19:44:23Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
     "description": "\ud83c\udf70 PromptLayer - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.",
     "id": "MagnivOrg/prompt-layer-library",
     "language": "Python",
     "name": "MagnivOrg/prompt-layer-library",
     "stars": 779,
-    "updated_at": "2026-07-21T19:44:56Z",
+    "updated_at": "2026-07-21T19:47:50Z",
     "url": "https://github.com/MagnivOrg/prompt-layer-library"
   },
   {
@@ -153,24 +261,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Structured prompting convention to optimize reasoning precision, execution consistency, and token efficiency",
-    "id": "TimIsabella/HighSignalPrompting",
-    "language": "\u2014",
-    "name": "TimIsabella/HighSignalPrompting",
-    "stars": 1,
-    "updated_at": "2026-07-21T19:30:32Z",
-    "url": "https://github.com/TimIsabella/HighSignalPrompting"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-21T19:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The harness for coding agents - copy-paste operating rules that keep an AI coding agent honest on a codebase that has to",
     "id": "chocomyong/harness-kit",
     "language": "Shell",
@@ -234,21 +324,12 @@
     "url": "https://github.com/kaderkck/hewn-forge"
   },
   {
-    "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 2,
-    "updated_at": "2026-07-21T19:44:23Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
     "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
     "id": "Kiln-AI/Kiln",
     "language": "Python",
     "name": "Kiln-AI/Kiln",
     "stars": 4971,
-    "updated_at": "2026-07-21T19:24:49Z",
+    "updated_at": "2026-07-21T19:59:52Z",
     "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-21T19:15:31Z",
     "url": "https://github.com/OutlineDriven/odin-reflector"
-  },
-  {
-    "description": "A Claude Code plugin that rewrites draft prompts into clearer, more effective ones \u2014 two improved variants plus a recomm",
-    "id": "ricardorqr/improve-prompt-plugin",
-    "language": "Shell",
-    "name": "ricardorqr/improve-prompt-plugin",
-    "stars": 0,
-    "updated_at": "2026-07-21T19:14:54Z",
-    "url": "https://github.com/ricardorqr/improve-prompt-plugin"
-  },
-  {
-    "description": "AI nutrition coach API built with FastAPI and PostgreSQL. Users track meals, weight, and mood, get AI meal plans, chat w",
-    "id": "yasasbanukaofficial/naurish-ai-agent",
-    "language": "Python",
-    "name": "yasasbanukaofficial/naurish-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-07-21T19:14:12Z",
-    "url": "https://github.com/yasasbanukaofficial/naurish-ai-agent"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-07-21T19:12:32Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "Miniguia de estudos sobre Como Funcionam os Bancos desenvolvido no NotebookLM para o desafio de projeto da DIO. Foco em ",
-    "id": "Manoela777/miniguia-estudos-notebooklm",
-    "language": "\u2014",
-    "name": "Manoela777/miniguia-estudos-notebooklm",
-    "stars": 0,
-    "updated_at": "2026-07-21T19:12:25Z",
-    "url": "https://github.com/Manoela777/miniguia-estudos-notebooklm"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 8,
-    "updated_at": "2026-07-21T19:12:20Z",
-    "url": "https://github.com/danlex/suno-lab"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-07-21T19:10:59Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-07-21T19:09:57Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-07-21T19:09:31Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-07-21T19:07:28Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   }
 ]
