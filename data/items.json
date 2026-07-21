@@ -1,11 +1,101 @@
 [
   {
+    "description": "A reusable library of named prompt \"modes\" (SECURITYMODE, STAFFENGINEER, TESTMODE, etc.) for getting consistent, high-qu",
+    "id": "kirti/claude-power-modes",
+    "language": "\u2014",
+    "name": "kirti/claude-power-modes",
+    "stars": 0,
+    "updated_at": "2026-07-21T04:09:18Z",
+    "url": "https://github.com/kirti/claude-power-modes"
+  },
+  {
+    "description": "Version-controlled catalog of Dryvist LLM prompts",
+    "id": "dryvist/ai-llm-prompts",
+    "language": "Nix",
+    "name": "dryvist/ai-llm-prompts",
+    "stars": 0,
+    "updated_at": "2026-07-21T04:07:40Z",
+    "url": "https://github.com/dryvist/ai-llm-prompts"
+  },
+  {
+    "description": "25+ hands-on AI/LLM projects, reusable agent skills, and an email-to-live-doc pipeline. Python + OpenAI/Azure OpenAI.",
+    "id": "kuldeepz/ai-projects-portfolio",
+    "language": "HTML",
+    "name": "kuldeepz/ai-projects-portfolio",
+    "stars": 0,
+    "updated_at": "2026-07-21T04:07:17Z",
+    "url": "https://github.com/kuldeepz/ai-projects-portfolio"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 10,
+    "updated_at": "2026-07-21T04:06:32Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
+    "id": "f/prompts.chat",
+    "language": "HTML",
+    "name": "f/prompts.chat",
+    "stars": 166091,
+    "updated_at": "2026-07-21T04:06:14Z",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "description": "Provider-neutral frameworks and TypeScript tooling for cinematic AI content planning, storyboards, prompt compilation, c",
+    "id": "shrishmanglik/auteur-frameworks",
+    "language": "TypeScript",
+    "name": "shrishmanglik/auteur-frameworks",
+    "stars": 0,
+    "updated_at": "2026-07-21T04:06:09Z",
+    "url": "https://github.com/shrishmanglik/auteur-frameworks"
+  },
+  {
+    "description": "A multilingual Agent Skill Pack that turns AI agents into guided learning coaches.",
+    "id": "vesperchinn/learn-anything-skill",
+    "language": "Python",
+    "name": "vesperchinn/learn-anything-skill",
+    "stars": 0,
+    "updated_at": "2026-07-21T04:04:31Z",
+    "url": "https://github.com/vesperchinn/learn-anything-skill"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-07-21T04:03:02Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "A full prompt-writing studio in a single ComfyUI node - AI editing, style targeting, prompt browsing, and wireless promp",
+    "id": "pixelpainter/comfyui-AI-prompt-editor",
+    "language": "JavaScript",
+    "name": "pixelpainter/comfyui-AI-prompt-editor",
+    "stars": 0,
+    "updated_at": "2026-07-21T04:02:45Z",
+    "url": "https://github.com/pixelpainter/comfyui-AI-prompt-editor"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-21T04:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A.I. Sorcery",
     "id": "4ndr0666/gpt",
     "language": "Python",
     "name": "4ndr0666/gpt",
     "stars": 13,
-    "updated_at": "2026-07-21T04:00:01Z",
+    "updated_at": "2026-07-21T04:04:11Z",
     "url": "https://github.com/4ndr0666/gpt"
   },
   {
@@ -108,15 +198,6 @@
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   },
   {
-    "description": "A reusable library of named prompt \"modes\" (SECURITYMODE, STAFFENGINEER, TESTMODE, etc.) for getting consistent, high-qu",
-    "id": "kirti/claude-power-modes",
-    "language": "\u2014",
-    "name": "kirti/claude-power-modes",
-    "stars": 0,
-    "updated_at": "2026-07-21T03:50:56Z",
-    "url": "https://github.com/kirti/claude-power-modes"
-  },
-  {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
     "id": "tuantranute-it/icm-graph-context-flow",
     "language": "HTML",
@@ -144,15 +225,6 @@
     "url": "https://github.com/faresrafat3/epistemic-forge"
   },
   {
-    "description": "A full prompt-writing studio in a single ComfyUI node - AI editing, style targeting, prompt browsing, and wireless promp",
-    "id": "pixelpainter/comfyui-AI-prompt-editor",
-    "language": "JavaScript",
-    "name": "pixelpainter/comfyui-AI-prompt-editor",
-    "stars": 0,
-    "updated_at": "2026-07-21T03:47:17Z",
-    "url": "https://github.com/pixelpainter/comfyui-AI-prompt-editor"
-  },
-  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -160,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T03:45:28Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-21T03:45:22Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-powered multi-agent classroom that turns any topic into an interactive learning experience",
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T03:44:10Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "A multilingual Agent Skill Pack that turns AI agents into guided learning coaches.",
-    "id": "vesperchinn/learn-anything-skill",
-    "language": "Python",
-    "name": "vesperchinn/learn-anything-skill",
-    "stars": 0,
-    "updated_at": "2026-07-21T03:43:41Z",
-    "url": "https://github.com/vesperchinn/learn-anything-skill"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -306,15 +360,6 @@
     "url": "https://github.com/crisnahine/chameleon"
   },
   {
-    "description": "Version-controlled catalog of Dryvist LLM prompts",
-    "id": "dryvist/ai-llm-prompts",
-    "language": "Nix",
-    "name": "dryvist/ai-llm-prompts",
-    "stars": 0,
-    "updated_at": "2026-07-21T03:29:13Z",
-    "url": "https://github.com/dryvist/ai-llm-prompts"
-  },
-  {
     "description": "Reproducible AI image prompts, model comparison fixtures, and OpenAI-compatible API recipes by APIMart Labs.",
     "id": "luyx-66/ai-generation-benchmarks",
     "language": "HTML",
@@ -346,8 +391,8 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 8864,
-    "updated_at": "2026-07-21T03:24:44Z",
+    "stars": 8865,
+    "updated_at": "2026-07-21T04:06:55Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
   {
@@ -400,53 +445,8 @@
     "id": "ZeroLu/awesome-gpt-image",
     "language": "Python",
     "name": "ZeroLu/awesome-gpt-image",
-    "stars": 1911,
+    "stars": 1912,
     "updated_at": "2026-07-21T03:17:49Z",
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
-    "id": "Sungmin-Cho/claude-deep-suite",
-    "language": "JavaScript",
-    "name": "Sungmin-Cho/claude-deep-suite",
-    "stars": 6,
-    "updated_at": "2026-07-21T03:16:52Z",
-    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
-  },
-  {
-    "description": "Gemini\u306e\u6027\u80fd\u3092\u6700\u5927\u5316\u3057\u4f5c\u696d\u3092\u52b9\u7387\u5316\u3059\u308bAI\u7528OS\u30d7\u30ed\u30f3\u30d7\u30c8 | System prompt (AI OS) to maximize Gemini 3.0 performance and efficiency.",
-    "id": "nitagon0083/SpriteSystem",
-    "language": "HTML",
-    "name": "nitagon0083/SpriteSystem",
-    "stars": 0,
-    "updated_at": "2026-07-21T03:16:18Z",
-    "url": "https://github.com/nitagon0083/SpriteSystem"
-  },
-  {
-    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
-    "id": "Mr-Salticidae/knowledge-base",
-    "language": "Python",
-    "name": "Mr-Salticidae/knowledge-base",
-    "stars": 17,
-    "updated_at": "2026-07-21T03:13:31Z",
-    "url": "https://github.com/Mr-Salticidae/knowledge-base"
-  },
-  {
-    "description": "Evidence-first skills for Codex, Cursor, and Claude Code: research, debugging, planning, execution, review, and goal loo",
-    "id": "JinPLu/Teamwork",
-    "language": "Python",
-    "name": "JinPLu/Teamwork",
-    "stars": 7,
-    "updated_at": "2026-07-21T03:12:10Z",
-    "url": "https://github.com/JinPLu/Teamwork"
-  },
-  {
-    "description": "\ud83c\udf4c The largest Nano Banana Pro prompt library \u2014 26,648 prompts, daily updates, HuggingFace dataset download. More than an",
-    "id": "goku-open/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-nano-banana-pro-prompts",
-    "stars": 0,
-    "updated_at": "2026-07-21T03:11:41Z",
-    "url": "https://github.com/goku-open/awesome-nano-banana-pro-prompts"
   }
 ]
