@@ -1,5 +1,59 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3411,
+    "updated_at": "2026-07-21T16:13:31Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 11,
+    "updated_at": "2026-07-21T16:12:15Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "Hands-on study companion for the Claude Certified Architect - Foundations (CCA-F) exam.",
+    "id": "jamesbuckett/ccaf-exam-tutorial",
+    "language": "HTML",
+    "name": "jamesbuckett/ccaf-exam-tutorial",
+    "stars": 13,
+    "updated_at": "2026-07-21T16:12:04Z",
+    "url": "https://github.com/jamesbuckett/ccaf-exam-tutorial"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-07-21T16:10:55Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-21T16:10:47Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI-powered engineering agents for database migration, cloud automation, serverless development and DevOps workflows.",
+    "id": "debojyotisaha-dev/enterprise-AI-agents",
+    "language": "\u2014",
+    "name": "debojyotisaha-dev/enterprise-AI-agents",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:10:27Z",
+    "url": "https://github.com/debojyotisaha-dev/enterprise-AI-agents"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -22,8 +76,8 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 8931,
-    "updated_at": "2026-07-21T16:08:46Z",
+    "stars": 8932,
+    "updated_at": "2026-07-21T16:14:24Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T16:05:27Z",
     "url": "https://github.com/JeanSebastienBash/PromptDeMerde"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-21T16:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A tiny evaluation harness as a product \u2014 run a prompt over test cases, an independent judge scores pass/fail, and get a ",
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31578,
-    "updated_at": "2026-07-21T15:57:45Z",
+    "updated_at": "2026-07-21T16:11:29Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T15:37:39Z",
     "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
-    "description": "Personal GitHub profile \u00b7 \u4e2a\u4eba GitHub \u4e3b\u9875",
-    "id": "redamancy231-create/redamancy231-create",
-    "language": "\u2014",
-    "name": "redamancy231-create/redamancy231-create",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:37:22Z",
-    "url": "https://github.com/redamancy231-create/redamancy231-create"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3411,
-    "updated_at": "2026-07-21T16:10:44Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship, with a harness deciding ",
-    "id": "minhtran3124/agent-harness",
-    "language": "Shell",
-    "name": "minhtran3124/agent-harness",
-    "stars": 2,
-    "updated_at": "2026-07-21T15:35:46Z",
-    "url": "https://github.com/minhtran3124/agent-harness"
-  },
-  {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-07-21T15:34:34Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Modular AI assistant with long-term memory, plugin SDK, and universal LLM routing. Built with Prompt Engineering.",
-    "id": "KORESHon/Neyra-AIAssist",
-    "language": "Python",
-    "name": "KORESHon/Neyra-AIAssist",
-    "stars": 2,
-    "updated_at": "2026-07-21T15:57:09Z",
-    "url": "https://github.com/KORESHon/Neyra-AIAssist"
   }
 ]
