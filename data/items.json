@@ -1,8 +1,89 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20751,
+    "updated_at": "2026-07-21T16:09:20Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
+    "id": "solo-vey/Ordo",
+    "language": "Python",
+    "name": "solo-vey/Ordo",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:09:01Z",
+    "url": "https://github.com/solo-vey/Ordo"
+  },
+  {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "JavaScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 8931,
+    "updated_at": "2026-07-21T16:08:46Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:08:18Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-07-21T16:07:35Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "Fully private multilingual prompt-engineering UI for local Ollama. Voice dictation, JSON profile ZIP export. Collaborate",
+    "id": "JeanSebastienBash/PromptDeMerde",
+    "language": "JavaScript",
+    "name": "JeanSebastienBash/PromptDeMerde",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:05:27Z",
+    "url": "https://github.com/JeanSebastienBash/PromptDeMerde"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-21T16:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A tiny evaluation harness as a product \u2014 run a prompt over test cases, an independent judge scores pass/fail, and get a ",
+    "id": "kgtceo/prompt-lab",
+    "language": "Python",
+    "name": "kgtceo/prompt-lab",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:00:28Z",
+    "url": "https://github.com/kgtceo/prompt-lab"
+  },
+  {
+    "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
+    "id": "Jia-Ethan/codex-keysmith",
+    "language": "Python",
+    "name": "Jia-Ethan/codex-keysmith",
+    "stars": 1244,
+    "updated_at": "2026-07-21T16:00:26Z",
+    "url": "https://github.com/Jia-Ethan/codex-keysmith"
+  },
+  {
     "description": "\u5267\u672c\u4e0e\u591a\u53c2\u8003\u56fe \u2192 Seedance 2.0 \u7cbe\u7b80\u63d0\u793a\u8bcd\u4e0e\u79bb\u7ebf HTML \u5206\u955c\u8868\uff08\u4e2d\u6587 / English / \u53cc\u8bed\uff09",
     "id": "vutifi0-collab/babylon-seedance-storyboard-master",
-    "language": "\u2014",
+    "language": "PowerShell",
     "name": "vutifi0-collab/babylon-seedance-storyboard-master",
     "stars": 0,
     "updated_at": "2026-07-21T15:59:41Z",
@@ -40,9 +121,27 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31576,
+    "stars": 31578,
     "updated_at": "2026-07-21T15:57:45Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 8,
+    "updated_at": "2026-07-21T15:57:31Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 4971,
+    "updated_at": "2026-07-21T16:06:21Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
     "description": "Evidence-driven engineering control plane for AI coding agents. Full Codex workflows, Claude Code MCP preview, bounded g",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "JarodFroneman/jstack",
     "stars": 0,
-    "updated_at": "2026-07-21T15:56:23Z",
+    "updated_at": "2026-07-21T16:07:48Z",
     "url": "https://github.com/JarodFroneman/jstack"
   },
   {
@@ -68,7 +167,7 @@
     "language": "Python",
     "name": "omar-y-abdi/furl-ctx",
     "stars": 2,
-    "updated_at": "2026-07-21T15:52:36Z",
+    "updated_at": "2026-07-21T16:09:25Z",
     "url": "https://github.com/omar-y-abdi/furl-ctx"
   },
   {
@@ -171,15 +270,6 @@
     "url": "https://github.com/twhsi/skills"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-21T15:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -205,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T15:44:16Z",
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
-    "id": "cobusgreyling/loop-engineering",
-    "language": "JavaScript",
-    "name": "cobusgreyling/loop-engineering",
-    "stars": 8930,
-    "updated_at": "2026-07-21T15:59:33Z",
-    "url": "https://github.com/cobusgreyling/loop-engineering"
   },
   {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
@@ -338,17 +419,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-21T16:00:22Z",
+    "updated_at": "2026-07-21T16:10:44Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20750,
-    "updated_at": "2026-07-21T15:44:31Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship, with a harness deciding ",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T15:57:09Z",
     "url": "https://github.com/KORESHon/Neyra-AIAssist"
-  },
-  {
-    "description": "Research-first scouting agent skill for dependency, API, SaaS, prior-art, and build-versus-buy decisions before writing ",
-    "id": "fahrellgiovanny/nothing-new-under-the-sun",
-    "language": "\u2014",
-    "name": "fahrellgiovanny/nothing-new-under-the-sun",
-    "stars": 2,
-    "updated_at": "2026-07-21T15:31:08Z",
-    "url": "https://github.com/fahrellgiovanny/nothing-new-under-the-sun"
-  },
-  {
-    "description": "A local, deterministic instruction compiler for paste-capable AI text fields.",
-    "id": "Li-Hongmin/AgentIME",
-    "language": "Swift",
-    "name": "Li-Hongmin/AgentIME",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:30:48Z",
-    "url": "https://github.com/Li-Hongmin/AgentIME"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:29:03Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
-    "id": "Jia-Ethan/codex-keysmith",
-    "language": "Python",
-    "name": "Jia-Ethan/codex-keysmith",
-    "stars": 1243,
-    "updated_at": "2026-07-21T16:00:26Z",
-    "url": "https://github.com/Jia-Ethan/codex-keysmith"
-  },
-  {
-    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
-    "id": "solo-vey/Ordo",
-    "language": "Python",
-    "name": "solo-vey/Ordo",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:26:51Z",
-    "url": "https://github.com/solo-vey/Ordo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10656,
-    "updated_at": "2026-07-21T15:26:48Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy ",
-    "id": "eljulians/skillfile",
-    "language": "Rust",
-    "name": "eljulians/skillfile",
-    "stars": 137,
-    "updated_at": "2026-07-21T15:23:30Z",
-    "url": "https://github.com/eljulians/skillfile"
-  },
-  {
-    "description": "A Codex CLI plugin that grades how you collaborate with Codex across 9 dimensions in 3 categories \u2014 your Codex model wri",
-    "id": "lemomo-ai/codex-radar",
-    "language": "\u2014",
-    "name": "lemomo-ai/codex-radar",
-    "stars": 17,
-    "updated_at": "2026-07-21T15:18:15Z",
-    "url": "https://github.com/lemomo-ai/codex-radar"
   }
 ]
