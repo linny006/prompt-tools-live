@@ -1,12 +1,84 @@
 [
   {
+    "description": "A.I. Sorcery",
+    "id": "4ndr0666/gpt",
+    "language": "Python",
+    "name": "4ndr0666/gpt",
+    "stars": 13,
+    "updated_at": "2026-07-21T03:14:29Z",
+    "url": "https://github.com/4ndr0666/gpt"
+  },
+  {
+    "description": "Version-controlled catalog of Dryvist LLM prompts",
+    "id": "dryvist/ai-llm-prompts",
+    "language": "Nix",
+    "name": "dryvist/ai-llm-prompts",
+    "stars": 0,
+    "updated_at": "2026-07-21T03:14:20Z",
+    "url": "https://github.com/dryvist/ai-llm-prompts"
+  },
+  {
+    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
+    "id": "Mr-Salticidae/knowledge-base",
+    "language": "Python",
+    "name": "Mr-Salticidae/knowledge-base",
+    "stars": 17,
+    "updated_at": "2026-07-21T03:13:31Z",
+    "url": "https://github.com/Mr-Salticidae/knowledge-base"
+  },
+  {
+    "description": "Evidence-first skills for Codex, Cursor, and Claude Code: research, debugging, planning, execution, review, and goal loo",
+    "id": "JinPLu/Teamwork",
+    "language": "Python",
+    "name": "JinPLu/Teamwork",
+    "stars": 7,
+    "updated_at": "2026-07-21T03:12:10Z",
+    "url": "https://github.com/JinPLu/Teamwork"
+  },
+  {
+    "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
+    "id": "juventini10/Five-layer-memory-system",
+    "language": "Python",
+    "name": "juventini10/Five-layer-memory-system",
+    "stars": 3,
+    "updated_at": "2026-07-21T03:10:48Z",
+    "url": "https://github.com/juventini10/Five-layer-memory-system"
+  },
+  {
+    "description": "Reusable prompts, workflows, and operating instructions for Codex and AI agents.",
+    "id": "zc-xzc/prompt-library",
+    "language": "\u2014",
+    "name": "zc-xzc/prompt-library",
+    "stars": 0,
+    "updated_at": "2026-07-21T03:09:43Z",
+    "url": "https://github.com/zc-xzc/prompt-library"
+  },
+  {
     "description": "SaaS product hero illustrations \u2014 real UI card \u00d7 line-art scene \u00d7 single accent color \u00b7 Claude Code Skill",
     "id": "yanliudesign/saas-illustration",
     "language": "\u2014",
     "name": "yanliudesign/saas-illustration",
-    "stars": 0,
-    "updated_at": "2026-07-21T02:59:08Z",
+    "stars": 1,
+    "updated_at": "2026-07-21T03:08:30Z",
     "url": "https://github.com/yanliudesign/saas-illustration"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 805,
+    "updated_at": "2026-07-21T03:08:25Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "\uac1c\uc778\uc6a9 AI \uc5d0\uc774\uc804\ud2b8 \uc6b4\uc6a9 \ud45c\uc900  \ub3c4\uad6c \ub3c5\ub9bd\uc801\uc778 \ud558\ub124\uc2a4/\ub8e8\ud504 \ud504\ub808\uc784\uc6cc\ud06c\uc640 \uc7ac\uc0ac\uc6a9 \ud15c\ud50c\ub9bf",
+    "id": "SJ-history/ai-engineering",
+    "language": "\u2014",
+    "name": "SJ-history/ai-engineering",
+    "stars": 0,
+    "updated_at": "2026-07-21T03:06:07Z",
+    "url": "https://github.com/SJ-history/ai-engineering"
   },
   {
     "description": "ARSENAL-powered epistemic research kit: claim lattices, dialectic briefs, freelance scopes, and Kaggle notebook spines (",
@@ -14,8 +86,35 @@
     "language": "Python",
     "name": "faresrafat3/epistemic-forge",
     "stars": 0,
-    "updated_at": "2026-07-21T02:59:07Z",
+    "updated_at": "2026-07-21T03:14:11Z",
     "url": "https://github.com/faresrafat3/epistemic-forge"
+  },
+  {
+    "description": "A multilingual Agent Skill Pack that turns AI agents into guided learning coaches.",
+    "id": "vesperchinn/learn-anything-skill",
+    "language": "Python",
+    "name": "vesperchinn/learn-anything-skill",
+    "stars": 0,
+    "updated_at": "2026-07-21T03:01:26Z",
+    "url": "https://github.com/vesperchinn/learn-anything-skill"
+  },
+  {
+    "description": "Multi-agent AI prompt system that turns restaurant data into reports, built around a hard anti-fabrication discipline. P",
+    "id": "pascal-gonsales/restaurant-ai-agents",
+    "language": "Python",
+    "name": "pascal-gonsales/restaurant-ai-agents",
+    "stars": 0,
+    "updated_at": "2026-07-21T03:01:00Z",
+    "url": "https://github.com/pascal-gonsales/restaurant-ai-agents"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-21T03:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship, with a harness deciding ",
@@ -52,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T02:56:41Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Reusable prompts, workflows, and operating instructions for Codex and AI agents.",
-    "id": "zc-xzc/prompt-library",
-    "language": "Python",
-    "name": "zc-xzc/prompt-library",
-    "stars": 0,
-    "updated_at": "2026-07-21T02:55:27Z",
-    "url": "https://github.com/zc-xzc/prompt-library"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -153,20 +243,11 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-21T02:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 60769,
+    "stars": 60773,
     "updated_at": "2026-07-21T02:45:04Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -259,6 +340,15 @@
     "stars": 1,
     "updated_at": "2026-07-21T02:33:06Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83d\ude80 The largest downloadable GPT Image 2 prompt library \u2014 15,672 prompts and growing, daily updates with HuggingFace datas",
+    "id": "goku-open/awesome-gpt-image-2-prompts",
+    "language": "TypeScript",
+    "name": "goku-open/awesome-gpt-image-2-prompts",
+    "stars": 0,
+    "updated_at": "2026-07-21T02:29:02Z",
+    "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
   },
   {
     "description": "A production-style, full-stack GenAI application that turns raw customer feedback into structured business insight.",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T02:07:14Z",
     "url": "https://github.com/hahalee000000/helen"
-  },
-  {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 165,
-    "updated_at": "2026-07-21T02:06:19Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-07-21T02:06:14Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-07-21T02:04:10Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "\u5728 ComfyUI \u91cc\u83b7\u5f97 WebUI \u5f0f\u63d0\u793a\u8bcd\u4f53\u9a8c\uff1a\u4e2d\u6587\u7ffb\u8bd1\u3001Tag \u81ea\u52a8\u8865\u5168\u3001LoRA \u7ba1\u7406\u3001\u63d0\u793a\u8bcd\u5e02\u573a\u548c\u9ad8\u7ea7\u6a21\u5757\u63a5\u5165\u3002",
-    "id": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge",
-    "language": "JavaScript",
-    "name": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge",
-    "stars": 27,
-    "updated_at": "2026-07-21T02:00:17Z",
-    "url": "https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:59:29Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:56:20Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:56:19Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
-    "id": "maruwork/veil",
-    "language": "Python",
-    "name": "maruwork/veil",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:57:25Z",
-    "url": "https://github.com/maruwork/veil"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:54:43Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:54:36Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
   }
 ]
