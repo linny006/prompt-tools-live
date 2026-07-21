@@ -1,5 +1,50 @@
 [
   {
+    "description": "A production-style, full-stack GenAI application that turns raw customer feedback into structured business insight.",
+    "id": "saurabhzaiswal/GenAI-Customer-Review-Analyzer",
+    "language": "TypeScript",
+    "name": "saurabhzaiswal/GenAI-Customer-Review-Analyzer",
+    "stars": 0,
+    "updated_at": "2026-07-21T02:22:10Z",
+    "url": "https://github.com/saurabhzaiswal/GenAI-Customer-Review-Analyzer"
+  },
+  {
+    "description": "A Claude Code plugin - a development harness that runs your work through a creative \u2192 implement \u2192 review loop, builds th",
+    "id": "drobins25/craft",
+    "language": "Shell",
+    "name": "drobins25/craft",
+    "stars": 32,
+    "updated_at": "2026-07-21T02:18:59Z",
+    "url": "https://github.com/drobins25/craft"
+  },
+  {
+    "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship, with a harness deciding ",
+    "id": "minhtran3124/agent-harness",
+    "language": "Shell",
+    "name": "minhtran3124/agent-harness",
+    "stars": 2,
+    "updated_at": "2026-07-21T02:18:57Z",
+    "url": "https://github.com/minhtran3124/agent-harness"
+  },
+  {
+    "description": "An AI agent that grows your LinkedIn authority by drafting expertise-signaling comments. Built in public, one layer at a",
+    "id": "abdou-roa/linkrowth",
+    "language": "TypeScript",
+    "name": "abdou-roa/linkrowth",
+    "stars": 7,
+    "updated_at": "2026-07-21T02:16:51Z",
+    "url": "https://github.com/abdou-roa/linkrowth"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-21T02:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
     "id": "ryanportfolio/savetokens",
     "language": "HTML",
@@ -50,7 +95,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3406,
-    "updated_at": "2026-07-21T02:12:24Z",
+    "updated_at": "2026-07-21T02:20:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T02:04:10Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-21T02:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u5728 ComfyUI \u91cc\u83b7\u5f97 WebUI \u5f0f\u63d0\u793a\u8bcd\u4f53\u9a8c\uff1a\u4e2d\u6587\u7ffb\u8bd1\u3001Tag \u81ea\u52a8\u8865\u5168\u3001LoRA \u7ba1\u7406\u3001\u63d0\u793a\u8bcd\u5e02\u573a\u548c\u9ad8\u7ea7\u6a21\u5757\u63a5\u5165\u3002",
@@ -355,7 +391,7 @@
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
-    "stars": 820,
+    "stars": 821,
     "updated_at": "2026-07-21T01:37:55Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T01:25:35Z",
     "url": "https://github.com/kiro0x/five-character-engine"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 52,
-    "updated_at": "2026-07-21T01:23:04Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 4675,
-    "updated_at": "2026-07-21T01:18:51Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 21,
-    "updated_at": "2026-07-21T01:18:06Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Multi-agent AI prompt system that turns restaurant data into reports, built around a hard anti-fabrication discipline. P",
-    "id": "pascal-gonsales/restaurant-ai-agents",
-    "language": "Python",
-    "name": "pascal-gonsales/restaurant-ai-agents",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:17:09Z",
-    "url": "https://github.com/pascal-gonsales/restaurant-ai-agents"
   }
 ]
