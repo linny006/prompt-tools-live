@@ -1,5 +1,32 @@
 [
   {
+    "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship, with a harness deciding ",
+    "id": "minhtran3124/agent-harness",
+    "language": "Shell",
+    "name": "minhtran3124/agent-harness",
+    "stars": 2,
+    "updated_at": "2026-07-21T11:16:15Z",
+    "url": "https://github.com/minhtran3124/agent-harness"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-21T11:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-21T11:15:09Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
     "description": "Multi-perspective code review council for Claude Code. 3 advisors by default, 10 agents in deep mode (Opus + Codex). Evi",
     "id": "Zandereins/hydra",
     "language": "Python",
@@ -7,15 +34,6 @@
     "stars": 4,
     "updated_at": "2026-07-21T11:14:10Z",
     "url": "https://github.com/Zandereins/hydra"
-  },
-  {
-    "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship, with a harness deciding ",
-    "id": "minhtran3124/agent-harness",
-    "language": "Shell",
-    "name": "minhtran3124/agent-harness",
-    "stars": 2,
-    "updated_at": "2026-07-21T11:15:10Z",
-    "url": "https://github.com/minhtran3124/agent-harness"
   },
   {
     "description": "Research-first AI agent skill for dependency, API, SaaS, prior-art, and build-versus-buy decisions before writing code.",
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4115,
-    "updated_at": "2026-07-21T11:09:50Z",
+    "updated_at": "2026-07-21T11:16:58Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -185,7 +203,7 @@
     "language": "\u2014",
     "name": "miroslav-reiter/chatgpt-lab",
     "stars": 2,
-    "updated_at": "2026-07-21T11:02:11Z",
+    "updated_at": "2026-07-21T11:16:55Z",
     "url": "https://github.com/miroslav-reiter/chatgpt-lab"
   },
   {
@@ -205,15 +223,6 @@
     "stars": 11,
     "updated_at": "2026-07-21T11:01:41Z",
     "url": "https://github.com/RBraga01/a-team"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-21T11:00:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Community skills for Claude Code: token optimization, productivity workflows, and development best practices. All skills",
@@ -355,7 +364,7 @@
     "id": "shoaibmshareef10-stack/awesome-ai-creator-toolkit",
     "language": "\u2014",
     "name": "shoaibmshareef10-stack/awesome-ai-creator-toolkit",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-21T10:53:40Z",
     "url": "https://github.com/shoaibmshareef10-stack/awesome-ai-creator-toolkit"
   },
@@ -439,14 +448,5 @@
     "stars": 1614,
     "updated_at": "2026-07-21T10:44:56Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31562,
-    "updated_at": "2026-07-21T10:53:00Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
