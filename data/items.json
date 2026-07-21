@@ -1,5 +1,122 @@
 [
   {
+    "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-07-21T09:57:51Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:56:43Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Four AI skills that write the hardest parts of your economics paper - introduction, abstract, conclusion, and title - wi",
+    "id": "mimaowang/econ-writing-skills",
+    "language": "Python",
+    "name": "mimaowang/econ-writing-skills",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:55:26Z",
+    "url": "https://github.com/mimaowang/econ-writing-skills"
+  },
+  {
+    "description": "Dense answers from your AI coding agent. Honest about token savings. Laravel/PHP aware.",
+    "id": "ousid/lean",
+    "language": "JavaScript",
+    "name": "ousid/lean",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:54:43Z",
+    "url": "https://github.com/ousid/lean"
+  },
+  {
+    "description": "\ud83e\udd2b Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression c",
+    "id": "V-Songbird/hush",
+    "language": "JavaScript",
+    "name": "V-Songbird/hush",
+    "stars": 24,
+    "updated_at": "2026-07-21T09:54:37Z",
+    "url": "https://github.com/V-Songbird/hush"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8864,
+    "updated_at": "2026-07-21T09:52:13Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "Context compression for AI agents \u2014 cut token usage costs with retrievable CCR compression. Rust core + Python API, Clau",
+    "id": "omar-y-abdi/furl-ctx",
+    "language": "Python",
+    "name": "omar-y-abdi/furl-ctx",
+    "stars": 2,
+    "updated_at": "2026-07-21T09:57:43Z",
+    "url": "https://github.com/omar-y-abdi/furl-ctx"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-07-21T09:51:01Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:47:05Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:46:39Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:46:03Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
+    "id": "juventini10/Five-layer-memory-system",
+    "language": "Python",
+    "name": "juventini10/Five-layer-memory-system",
+    "stars": 3,
+    "updated_at": "2026-07-21T09:45:32Z",
+    "url": "https://github.com/juventini10/Five-layer-memory-system"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-21T09:45:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Reproducible diversity for LLM data generation \u2014 seed generations from curated trait lattices",
     "id": "sam-at-axiotic/traitseed",
     "language": "Python",
@@ -16,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T09:44:07Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-21T09:43:57Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "The harness for coding agents - copy-paste operating rules that keep an AI coding agent honest on a codebase that has to",
@@ -81,15 +189,6 @@
     "url": "https://github.com/sankara226/PROMPT-LIBRARY"
   },
   {
-    "description": "Dense answers from your AI coding agent. Honest about token savings. Laravel/PHP aware.",
-    "id": "ousid/lean",
-    "language": "JavaScript",
-    "name": "ousid/lean",
-    "stars": 0,
-    "updated_at": "2026-07-21T09:39:30Z",
-    "url": "https://github.com/ousid/lean"
-  },
-  {
     "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
     "id": "Zipstack/unstract",
     "language": "Python",
@@ -113,7 +212,7 @@
     "language": "Python",
     "name": "vacterro/FastPrompter",
     "stars": 6,
-    "updated_at": "2026-07-21T09:38:07Z",
+    "updated_at": "2026-07-21T09:56:39Z",
     "url": "https://github.com/vacterro/FastPrompter"
   },
   {
@@ -144,15 +243,6 @@
     "url": "https://github.com/vllm-project/semantic-router"
   },
   {
-    "description": "\ud83e\udd2b Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression c",
-    "id": "V-Songbird/hush",
-    "language": "JavaScript",
-    "name": "V-Songbird/hush",
-    "stars": 24,
-    "updated_at": "2026-07-21T09:36:00Z",
-    "url": "https://github.com/V-Songbird/hush"
-  },
-  {
     "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
     "id": "iaminpwd/dotfiles",
     "language": "Shell",
@@ -175,7 +265,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27133,
+    "stars": 27134,
     "updated_at": "2026-07-21T09:34:48Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -189,15 +279,6 @@
     "url": "https://github.com/eljulians/skillfile"
   },
   {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-07-21T09:32:18Z",
-    "url": "https://github.com/agungkesmas/recallfox"
-  },
-  {
     "description": "\u2728 Free AI image prompt library \u2014 globally curated, daily updated. Full prompt text, preview images, 10 languages. Browse",
     "id": "ai-moge/awesome-image-prompts",
     "language": "\u2014",
@@ -205,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T09:31:00Z",
     "url": "https://github.com/ai-moge/awesome-image-prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-21T09:30:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
@@ -257,7 +329,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3410,
-    "updated_at": "2026-07-21T09:31:25Z",
+    "updated_at": "2026-07-21T09:59:01Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -306,15 +378,6 @@
     "url": "https://github.com/Aditya-dxt/Aditya-dxt"
   },
   {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "TypeScript",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 4,
-    "updated_at": "2026-07-21T09:21:29Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
     "description": "Military-inspired command and control operating system for AI agents.",
     "id": "wnsdy95/cannae-os",
     "language": "JavaScript",
@@ -356,17 +419,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31555,
-    "updated_at": "2026-07-21T09:40:57Z",
+    "updated_at": "2026-07-21T09:55:04Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Context compression for AI agents \u2014 cut token usage costs with retrievable CCR compression. Rust core + Python API, Clau",
-    "id": "omar-y-abdi/furl-ctx",
-    "language": "Python",
-    "name": "omar-y-abdi/furl-ctx",
-    "stars": 2,
-    "updated_at": "2026-07-21T09:43:08Z",
-    "url": "https://github.com/omar-y-abdi/furl-ctx"
   },
   {
     "description": "Pattern-based scaffold for systematic AI agent work, with honest capability boundaries. Inspired by observed Claude Myth",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T09:14:57Z",
     "url": "https://github.com/jidarin9383/darin-broll-skill"
-  },
-  {
-    "description": "Arknights Operator Mental Contour Distillation Protocol \u2014 Structured AI Skill Generation with Dual-Track Architecture",
-    "id": "riceshowerX/arknights-operator-skill",
-    "language": "Python",
-    "name": "riceshowerX/arknights-operator-skill",
-    "stars": 5,
-    "updated_at": "2026-07-21T09:09:43Z",
-    "url": "https://github.com/riceshowerX/arknights-operator-skill"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 10,
-    "updated_at": "2026-07-21T09:09:00Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
-    "id": "mrwogu/promptscript",
-    "language": "TypeScript",
-    "name": "mrwogu/promptscript",
-    "stars": 577,
-    "updated_at": "2026-07-21T09:19:51Z",
-    "url": "https://github.com/mrwogu/promptscript"
-  },
-  {
-    "description": "Agent \u610f\u56fe\u5bf9\u9f50\u5668\uff1a\u901a\u8fc7\u663e\u5f0f /align \u5c06\u7c97\u7cd9\u8bf7\u6c42\u8f6c\u4e3a\u53ef\u6267\u884c\u3001\u53ef\u9a8c\u8bc1\u3001\u53ef\u8de8\u4f1a\u8bdd\u4ea4\u63a5\u7684 Agent Brief\u3002",
-    "id": "20231118185SSPU/prompt-optimizer",
-    "language": "TypeScript",
-    "name": "20231118185SSPU/prompt-optimizer",
-    "stars": 1,
-    "updated_at": "2026-07-21T09:07:48Z",
-    "url": "https://github.com/20231118185SSPU/prompt-optimizer"
-  },
-  {
-    "description": "Claude Code skill for balanced AI code & writing review \u2014 a preserve-first protocol + multi-model critic panel (Ollama, ",
-    "id": "matteolopreti/spatiotemporal-critique",
-    "language": "Python",
-    "name": "matteolopreti/spatiotemporal-critique",
-    "stars": 0,
-    "updated_at": "2026-07-21T09:03:56Z",
-    "url": "https://github.com/matteolopreti/spatiotemporal-critique"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-21T09:03:29Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   }
 ]
