@@ -1,5 +1,50 @@
 [
   {
+    "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
+    "id": "CodeAlive-AI/ai-driven-development",
+    "language": "Python",
+    "name": "CodeAlive-AI/ai-driven-development",
+    "stars": 102,
+    "updated_at": "2026-07-21T17:42:29Z",
+    "url": "https://github.com/CodeAlive-AI/ai-driven-development"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 577,
+    "updated_at": "2026-07-21T17:44:28Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "Getting my feet wet in this new AI driven world. ",
+    "id": "Rlspark87/rachel_portfoliio",
+    "language": "HTML",
+    "name": "Rlspark87/rachel_portfoliio",
+    "stars": 1,
+    "updated_at": "2026-07-21T17:41:44Z",
+    "url": "https://github.com/Rlspark87/rachel_portfoliio"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-21T17:41:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-21T17:41:29Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
     "description": "\u628a\u958b\u767c\u898f\u7bc4\u5beb\u6210\u6a5f\u5668\u53ef\u8b80\u7684\u7d04\u675f\uff0c\u8b93 Claude \u81ea\u52d5\u9075\u5b88 TDD\u3001ADR\u3001commit \u9598\u9580\u8207\u767c\u5e03\u6aa2\u67e5",
     "id": "astroicers/AI-SOP-Protocol",
     "language": "Shell",
@@ -22,7 +67,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 60954,
+    "stars": 60956,
     "updated_at": "2026-07-21T17:37:58Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -124,15 +169,6 @@
     "stars": 5,
     "updated_at": "2026-07-21T17:30:38Z",
     "url": "https://github.com/Eulex0x/cleanmyprompt"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-21T17:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A tiny evaluation harness as a product \u2014 run a prompt over test cases, an independent judge scores pass/fail, and get a ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T17:14:47Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "A Codex skill that routes model choice, reasoning effort, and context strategy at useful task boundaries.",
-    "id": "robertiuoras/Codex-skill-model-reasoning-router",
-    "language": "JavaScript",
-    "name": "robertiuoras/Codex-skill-model-reasoning-router",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:13:17Z",
-    "url": "https://github.com/robertiuoras/Codex-skill-model-reasoning-router"
-  },
-  {
-    "description": "Local-first creative concept-engineering forge that turns source art into visual intelligence, reusable structures, conc",
-    "id": "M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0",
-    "language": "Python",
-    "name": "M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:36:26Z",
-    "url": "https://github.com/M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0"
-  },
-  {
-    "description": "Source-backed Muse Image prompts, official agentic editing cases, reusable workflows, preview media, and 14-language gui",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:12:36Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Does your AI agent actually follow rules? 13 pre-registered experiments + 5-layer verification architecture. Paper, data",
-    "id": "YuhaoLin2005/hermes-workspace",
-    "language": "Python",
-    "name": "YuhaoLin2005/hermes-workspace",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:11:58Z",
-    "url": "https://github.com/YuhaoLin2005/hermes-workspace"
   }
 ]
