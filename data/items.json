@@ -1,12 +1,21 @@
 [
   {
-    "description": "Multi-provider AI chatbot with CLI and FastAPI interfaces. Supports Groq, Gemini, and OpenRouter through a unified adapt",
-    "id": "Riyasharma-17/CLI-Multi-Provider-AI-Chatbot",
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "JavaScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 8926,
+    "updated_at": "2026-07-21T14:12:58Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
+    "id": "solo-vey/Ordo",
     "language": "Python",
-    "name": "Riyasharma-17/CLI-Multi-Provider-AI-Chatbot",
-    "stars": 1,
-    "updated_at": "2026-07-21T14:00:23Z",
-    "url": "https://github.com/Riyasharma-17/CLI-Multi-Provider-AI-Chatbot"
+    "name": "solo-vey/Ordo",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:10:12Z",
+    "url": "https://github.com/solo-vey/Ordo"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -14,33 +23,159 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31571,
-    "updated_at": "2026-07-21T13:57:07Z",
+    "updated_at": "2026-07-21T14:13:08Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 4,
-    "updated_at": "2026-07-21T13:59:53Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1615,
+    "updated_at": "2026-07-21T14:09:41Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Portable Agent Skill for small, verified coding-agent changes",
+    "id": "zaingz/coding-quality-loop",
+    "language": "Python",
+    "name": "zaingz/coding-quality-loop",
+    "stars": 5,
+    "updated_at": "2026-07-21T14:10:01Z",
+    "url": "https://github.com/zaingz/coding-quality-loop"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20746,
-    "updated_at": "2026-07-21T13:56:43Z",
+    "stars": 20747,
+    "updated_at": "2026-07-21T14:13:40Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
+    "id": "aidyou/chatspeed",
+    "language": "Rust",
+    "name": "aidyou/chatspeed",
+    "stars": 20,
+    "updated_at": "2026-07-21T14:06:37Z",
+    "url": "https://github.com/aidyou/chatspeed"
+  },
+  {
+    "description": "\u7ed9AI\u5f53\u8001\u677f\uff1aAgent\u4f5c\u6218\u56e2\u961f \u2014 21\u7ae0\u667a\u80fd\u4f53\u56e2\u961f\u5b9e\u6218\u624b\u518c | Being the Boss of AI: Agent Combat Team \u2014 21-Chapter Practical Handbook",
+    "id": "Madapexai/ai-agent-team-book",
+    "language": "HTML",
+    "name": "Madapexai/ai-agent-team-book",
+    "stars": 2,
+    "updated_at": "2026-07-21T14:06:30Z",
+    "url": "https://github.com/Madapexai/ai-agent-team-book"
+  },
+  {
+    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
+    "id": "ZeroLu/awesome-gpt-image",
+    "language": "Python",
+    "name": "ZeroLu/awesome-gpt-image",
+    "stars": 1912,
+    "updated_at": "2026-07-21T14:04:40Z",
+    "url": "https://github.com/ZeroLu/awesome-gpt-image"
+  },
+  {
+    "description": "Local-first creative concept-engineering forge that turns source art into visual intelligence, reusable structures, conc",
+    "id": "M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0",
+    "language": "Python",
+    "name": "M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:04:39Z",
+    "url": "https://github.com/M-TEKA-T-A-MXZTAR/MXZTAR-forge-v2.0"
+  },
+  {
+    "description": "A deterministic, gated workflow for building software with AI agents \u2014 from problem statement to shipped, reviewed code.",
+    "id": "sakhujarohan/keel",
+    "language": "\u2014",
+    "name": "sakhujarohan/keel",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:15:24Z",
+    "url": "https://github.com/sakhujarohan/keel"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:04:29Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Military-inspired command and control operating system for AI agents.",
+    "id": "wnsdy95/cannae-os",
+    "language": "JavaScript",
+    "name": "wnsdy95/cannae-os",
+    "stars": 2,
+    "updated_at": "2026-07-21T14:02:07Z",
+    "url": "https://github.com/wnsdy95/cannae-os"
+  },
+  {
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1774,
+    "updated_at": "2026-07-21T14:00:56Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-21T14:00:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Multi-provider AI chatbot with CLI and FastAPI interfaces. Supports Groq, Gemini, and OpenRouter through a unified adapt",
+    "id": "Riyasharma-17/CLI-Multi-Provider-AI-Chatbot",
+    "language": "Python",
+    "name": "Riyasharma-17/CLI-Multi-Provider-AI-Chatbot",
+    "stars": 2,
+    "updated_at": "2026-07-21T14:00:23Z",
+    "url": "https://github.com/Riyasharma-17/CLI-Multi-Provider-AI-Chatbot"
+  },
+  {
+    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
+    "id": "lulin70/carrymem",
+    "language": "Python",
+    "name": "lulin70/carrymem",
+    "stars": 6,
+    "updated_at": "2026-07-21T14:00:00Z",
+    "url": "https://github.com/lulin70/carrymem"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 5,
+    "updated_at": "2026-07-21T13:59:53Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
+    "id": "Sunwood-ai-labs/OpenFace",
+    "language": "CSS",
+    "name": "Sunwood-ai-labs/OpenFace",
+    "stars": 1,
+    "updated_at": "2026-07-21T13:57:43Z",
+    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
   },
   {
     "description": "Assignments and projects for the FlyRank General AI Fluency internship track.",
     "id": "Mairaarshad19/FlyRankInternship-GeneralAIFluency",
     "language": "\u2014",
     "name": "Mairaarshad19/FlyRankInternship-GeneralAIFluency",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-21T13:56:42Z",
     "url": "https://github.com/Mairaarshad19/FlyRankInternship-GeneralAIFluency"
   },
@@ -67,7 +202,7 @@
     "id": "denfry/claude-skills",
     "language": "Python",
     "name": "denfry/claude-skills",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-21T13:56:01Z",
     "url": "https://github.com/denfry/claude-skills"
   },
@@ -94,7 +229,7 @@
     "id": "tirthankar95/agentic-physics-question-generator",
     "language": "Python",
     "name": "tirthankar95/agentic-physics-question-generator",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-07-21T13:54:16Z",
     "url": "https://github.com/tirthankar95/agentic-physics-question-generator"
   },
@@ -157,7 +292,7 @@
     "id": "ManishBokadia/GenAI-Powered-Data-Analytics-Forage",
     "language": "Jupyter Notebook",
     "name": "ManishBokadia/GenAI-Powered-Data-Analytics-Forage",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-21T13:51:16Z",
     "url": "https://github.com/ManishBokadia/GenAI-Powered-Data-Analytics-Forage"
   },
@@ -243,15 +378,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-21T13:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83c\udf9e\ufe0f The ultimate Seedance-2 video prompt dataset (12GB+). 2000+ video generation prompts with full metadata and preview f",
     "id": "Goku-OpenLab/seedance-2-prompts-datasets",
     "language": "Python",
@@ -288,15 +414,6 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
-    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
-    "id": "Sunwood-ai-labs/OpenFace",
-    "language": "CSS",
-    "name": "Sunwood-ai-labs/OpenFace",
-    "stars": 1,
-    "updated_at": "2026-07-21T13:57:43Z",
-    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -304,15 +421,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T13:39:56Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
-    "id": "lulin70/carrymem",
-    "language": "Python",
-    "name": "lulin70/carrymem",
-    "stars": 5,
-    "updated_at": "2026-07-21T14:00:00Z",
-    "url": "https://github.com/lulin70/carrymem"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -340,113 +448,5 @@
     "stars": 18,
     "updated_at": "2026-07-21T13:34:14Z",
     "url": "https://github.com/Mr-Salticidae/knowledge-base"
-  },
-  {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-07-21T13:34:06Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "keying in those words to understand them better (Next.js + Llama LLM + decap CMS)",
-    "id": "joncoded/keywords",
-    "language": "TypeScript",
-    "name": "joncoded/keywords",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:28:03Z",
-    "url": "https://github.com/joncoded/keywords"
-  },
-  {
-    "description": "Persistent memory, BM25 code search, MCP tools, and hook guardrails for AI coding agents \u2014 Claude Code, Codex CLI & Anti",
-    "id": "ezBuilder/code-brain",
-    "language": "Python",
-    "name": "ezBuilder/code-brain",
-    "stars": 10,
-    "updated_at": "2026-07-21T13:27:45Z",
-    "url": "https://github.com/ezBuilder/code-brain"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-07-21T13:27:04Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "JD-driven Chinese resume optimization skill for China job seekers. \u89e3\u6790\u5c97\u4f4d JD\u3001\u8bca\u65ad\u7b80\u5386\u7f3a\u53e3\u3001\u751f\u6210\u771f\u5b9e\u53ef\u4fe1\u7684\u4e2d\u6587\u5b9a\u5236\u7b80\u5386\u3001ATS \u7eaf\u6587\u672c\u7248\u548c\u9762\u8bd5\u8ffd\u95ee\u3002",
-    "id": "coinluu/resume-jd-optimizer-cn",
-    "language": "\u2014",
-    "name": "coinluu/resume-jd-optimizer-cn",
-    "stars": 135,
-    "updated_at": "2026-07-21T13:26:43Z",
-    "url": "https://github.com/coinluu/resume-jd-optimizer-cn"
-  },
-  {
-    "description": "Agent-ready skill for humanizing AI-generated Chinese text with platform adaptation, protected facts, and safety checks.",
-    "id": "coinluu/humanize-ai-text-skill",
-    "language": "\u2014",
-    "name": "coinluu/humanize-ai-text-skill",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:26:32Z",
-    "url": "https://github.com/coinluu/humanize-ai-text-skill"
-  },
-  {
-    "description": "Agent-agnostic Markdown skill for Xiaohongshu topic planning, trend matching, scoring, and risk review. No code dependen",
-    "id": "coinluu/xhs-topic-strategist-skill",
-    "language": "\u2014",
-    "name": "coinluu/xhs-topic-strategist-skill",
-    "stars": 17,
-    "updated_at": "2026-07-21T13:26:29Z",
-    "url": "https://github.com/coinluu/xhs-topic-strategist-skill"
-  },
-  {
-    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
-    "id": "sachncs/promptsheon",
-    "language": "Go",
-    "name": "sachncs/promptsheon",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:25:28Z",
-    "url": "https://github.com/sachncs/promptsheon"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-07-21T13:25:26Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
-    "id": "solo-vey/Ordo",
-    "language": "Python",
-    "name": "solo-vey/Ordo",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:24:57Z",
-    "url": "https://github.com/solo-vey/Ordo"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:24:53Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:24:21Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   }
 ]
