@@ -1,5 +1,50 @@
 [
   {
+    "description": "Reusable, cross-platform Agent Skills by ohmuyi.",
+    "id": "ohmuyi/muyi-skills",
+    "language": "Python",
+    "name": "ohmuyi/muyi-skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:48:59Z",
+    "url": "https://github.com/ohmuyi/muyi-skills"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 9,
+    "updated_at": "2026-07-22T14:47:35Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
+    "id": "xvyimu/MindSync",
+    "language": "TypeScript",
+    "name": "xvyimu/MindSync",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:45:59Z",
+    "url": "https://github.com/xvyimu/MindSync"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-22T14:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-22T14:45:29Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
     "description": "Research-first scouting agent skill for dependency, API, SaaS, prior-art, and build-versus-buy decisions before writing ",
     "id": "fahrellgiovanny/nothing-new-under-the-sun",
     "language": "\u2014",
@@ -7,6 +52,24 @@
     "stars": 6,
     "updated_at": "2026-07-22T14:44:48Z",
     "url": "https://github.com/fahrellgiovanny/nothing-new-under-the-sun"
+  },
+  {
+    "description": "A public AI Engineering roadmap featuring hands-on projects, LLMs, RAG, AI Agents, LangGraph, and production-ready AI sy",
+    "id": "akmayank94/ai-engineering-roadmap",
+    "language": "Python",
+    "name": "akmayank94/ai-engineering-roadmap",
+    "stars": 2,
+    "updated_at": "2026-07-22T14:44:21Z",
+    "url": "https://github.com/akmayank94/ai-engineering-roadmap"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-22T14:43:48Z",
+    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\ud83d\udc19 One brain, many arms \u2014 a curated prompt library for long-horizon agent work, compiled to each host (Claude Code \u00b7 grok",
@@ -54,15 +117,6 @@
     "url": "https://github.com/imagineVid/Awesome-qwen-image-3-0-prompts-and-skills"
   },
   {
-    "description": "Claude Code skill that transforms vague prompts into structured, expert-level prompts using 7 research-backed   framewor",
-    "id": "ckelsoe/prompt-architect",
-    "language": "JavaScript",
-    "name": "ckelsoe/prompt-architect",
-    "stars": 254,
-    "updated_at": "2026-07-22T14:40:15Z",
-    "url": "https://github.com/ckelsoe/prompt-architect"
-  },
-  {
     "description": "AI-powered IT Support Ticket Assistant built with n8n and Google Gemini. Automatically analyzes customer support request",
     "id": "LuthandoYekani/AI-Support-Ticket-Assistant",
     "language": "\u2014",
@@ -72,12 +126,21 @@
     "url": "https://github.com/LuthandoYekani/AI-Support-Ticket-Assistant"
   },
   {
+    "description": "Claude Code skill that transforms vague prompts into structured, expert-level prompts using 7 research-backed   framewor",
+    "id": "ckelsoe/prompt-architect",
+    "language": "JavaScript",
+    "name": "ckelsoe/prompt-architect",
+    "stars": 254,
+    "updated_at": "2026-07-22T14:40:15Z",
+    "url": "https://github.com/ckelsoe/prompt-architect"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31655,
-    "updated_at": "2026-07-22T14:39:47Z",
+    "updated_at": "2026-07-22T14:48:40Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -97,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T14:38:49Z",
     "url": "https://github.com/ericsun271/mission-alignment"
-  },
-  {
-    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
-    "id": "xvyimu/MindSync",
-    "language": "TypeScript",
-    "name": "xvyimu/MindSync",
-    "stars": 0,
-    "updated_at": "2026-07-22T14:38:00Z",
-    "url": "https://github.com/xvyimu/MindSync"
-  },
-  {
-    "description": "A public AI Engineering roadmap featuring hands-on projects, LLMs, RAG, AI Agents, LangGraph, and production-ready AI sy",
-    "id": "akmayank94/ai-engineering-roadmap",
-    "language": "Python",
-    "name": "akmayank94/ai-engineering-roadmap",
-    "stars": 2,
-    "updated_at": "2026-07-22T14:44:21Z",
-    "url": "https://github.com/akmayank94/ai-engineering-roadmap"
   },
   {
     "description": "Structured prompting convention to optimize reasoning precision, execution consistency, and token efficiency",
@@ -151,15 +196,6 @@
     "stars": 174,
     "updated_at": "2026-07-22T14:31:56Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-22T14:30:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "sebtosca/PromptGuard",
     "stars": 1,
-    "updated_at": "2026-07-22T14:28:11Z",
+    "updated_at": "2026-07-22T14:49:36Z",
     "url": "https://github.com/sebtosca/PromptGuard"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4121,
-    "updated_at": "2026-07-22T14:26:35Z",
+    "updated_at": "2026-07-22T14:49:12Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -257,17 +293,17 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20769,
-    "updated_at": "2026-07-22T14:44:49Z",
+    "updated_at": "2026-07-22T14:50:18Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
+    "description": "Agent skills for Claude Code where every entry ships with receipts: accuracy-gated benchmarks vs baseline AND placebo. R",
+    "id": "sjh9714/skill-receipts",
     "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-22T14:43:48Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "name": "sjh9714/skill-receipts",
+    "stars": 2,
+    "updated_at": "2026-07-22T14:22:49Z",
+    "url": "https://github.com/sjh9714/skill-receipts"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10674,
-    "updated_at": "2026-07-22T14:22:30Z",
+    "updated_at": "2026-07-22T14:50:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -310,7 +346,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 38955,
+    "stars": 38956,
     "updated_at": "2026-07-22T14:18:58Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "solo-vey/Ordo",
     "stars": 0,
-    "updated_at": "2026-07-22T14:44:52Z",
+    "updated_at": "2026-07-22T14:48:47Z",
     "url": "https://github.com/solo-vey/Ordo"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 153,
     "updated_at": "2026-07-22T14:12:04Z",
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "A linear, single-pass checklist for catching AI-writing tics in prose \u2014 for students, professionals, and anyone editing ",
-    "id": "johnclayconnell/aitics",
-    "language": "\u2014",
-    "name": "johnclayconnell/aitics",
-    "stars": 0,
-    "updated_at": "2026-07-22T14:12:04Z",
-    "url": "https://github.com/johnclayconnell/aitics"
-  },
-  {
-    "description": "A provider-aware Markdown protocol for turning coding goals into risk-classified, verifiable execution graphs.",
-    "id": "impacifist/graph-engineered-agents",
-    "language": "Python",
-    "name": "impacifist/graph-engineered-agents",
-    "stars": 0,
-    "updated_at": "2026-07-22T14:10:26Z",
-    "url": "https://github.com/impacifist/graph-engineered-agents"
-  },
-  {
-    "description": "",
-    "id": "asa834/paperforge-2026-paper-workflow",
-    "language": "HTML",
-    "name": "asa834/paperforge-2026-paper-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-22T14:10:05Z",
-    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-22T14:08:00Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
