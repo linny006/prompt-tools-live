@@ -1,5 +1,68 @@
 [
   {
+    "description": "Structured cognitive workflows for AI \u2014 not one-line prompts, but step-by-step investigation skills with source tiering,",
+    "id": "KIRRAWA/cogniforge",
+    "language": "Shell",
+    "name": "KIRRAWA/cogniforge",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:11:26Z",
+    "url": "https://github.com/KIRRAWA/cogniforge"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 9,
+    "updated_at": "2026-07-22T04:09:18Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Generating Logically Consistent and Novel Physics Word Problems with LLMs",
+    "id": "tirthankar95/agentic-physics-question-generator",
+    "language": "Python",
+    "name": "tirthankar95/agentic-physics-question-generator",
+    "stars": 3,
+    "updated_at": "2026-07-22T04:08:07Z",
+    "url": "https://github.com/tirthankar95/agentic-physics-question-generator"
+  },
+  {
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
+    "id": "f/prompts.chat",
+    "language": "HTML",
+    "name": "f/prompts.chat",
+    "stars": 166166,
+    "updated_at": "2026-07-22T04:07:26Z",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 23,
+    "updated_at": "2026-07-22T04:05:17Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:03:58Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-22T04:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u628a\u958b\u767c\u898f\u7bc4\u5beb\u6210\u6a5f\u5668\u53ef\u8b80\u7684\u7d04\u675f\uff0c\u8b93 Claude \u81ea\u52d5\u9075\u5b88 TDD\u3001ADR\u3001commit \u9598\u9580\u8207\u767c\u5e03\u6aa2\u67e5",
     "id": "astroicers/AI-SOP-Protocol",
     "language": "Shell",
@@ -49,7 +112,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 38847,
+    "stars": 38848,
     "updated_at": "2026-07-22T03:55:07Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -144,15 +207,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-22T03:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A production-style, full-stack GenAI application that turns raw customer feedback into structured business insight.",
     "id": "saurabhzaiswal/GenAI-Customer-Review-Analyzer",
     "language": "Python",
@@ -211,7 +265,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31606,
+    "stars": 31607,
     "updated_at": "2026-07-22T03:38:32Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -337,7 +391,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 9004,
+    "stars": 9007,
     "updated_at": "2026-07-22T03:24:43Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -394,59 +448,5 @@
     "stars": 155,
     "updated_at": "2026-07-22T03:16:07Z",
     "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 1913,
-    "updated_at": "2026-07-22T03:15:55Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 155,
-    "updated_at": "2026-07-22T03:13:54Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "\u8bf4\u4eba\u8bdd\uff5c\u4e2d\u6587\u4f18\u5148\u7684\u53bb AI \u5473\u6539\u5199 skill\uff1a\u4fdd\u4e8b\u5b9e\u3001\u5206\u573a\u666f\u3001\u6539\u5b8c\u53ef\u76f4\u63a5\u53d1\u3002Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT \u2014 removes ",
-    "id": "MrGeDiao/shuorenhua",
-    "language": "Python",
-    "name": "MrGeDiao/shuorenhua",
-    "stars": 785,
-    "updated_at": "2026-07-22T03:12:21Z",
-    "url": "https://github.com/MrGeDiao/shuorenhua"
-  },
-  {
-    "description": "Self-hosted visual prompt notebook with encrypted AI and image-host settings",
-    "id": "shynloc/prompt-notebook",
-    "language": "TypeScript",
-    "name": "shynloc/prompt-notebook",
-    "stars": 0,
-    "updated_at": "2026-07-22T03:07:34Z",
-    "url": "https://github.com/shynloc/prompt-notebook"
-  },
-  {
-    "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 14,
-    "updated_at": "2026-07-22T03:04:07Z",
-    "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
-    "description": "Local-first intent-to-specification compiler with supervised inference, resilient fallbacks, and reproducible evaluation",
-    "id": "PatrickDev-it/cowork-prompt-enhancer",
-    "language": "TypeScript",
-    "name": "PatrickDev-it/cowork-prompt-enhancer",
-    "stars": 0,
-    "updated_at": "2026-07-22T03:07:47Z",
-    "url": "https://github.com/PatrickDev-it/cowork-prompt-enhancer"
   }
 ]
