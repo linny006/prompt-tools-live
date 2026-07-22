@@ -1,5 +1,86 @@
 [
   {
+    "description": "Prompt & context engineering for agents as a Claude Code plugin \u2014 sharpen requests, forge agent system prompts, review t",
+    "id": "emtcmca/promptsmith",
+    "language": "\u2014",
+    "name": "emtcmca/promptsmith",
+    "stars": 2,
+    "updated_at": "2026-07-22T05:00:16Z",
+    "url": "https://github.com/emtcmca/promptsmith"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-07-22T04:59:50Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 0,
+    "updated_at": "2026-07-22T04:59:26Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "\ud83d\udcac 1,300+ AI personas for LLMs and agents.",
+    "id": "KudoAI/ai-personas",
+    "language": "Python",
+    "name": "KudoAI/ai-personas",
+    "stars": 26,
+    "updated_at": "2026-07-22T04:58:59Z",
+    "url": "https://github.com/KudoAI/ai-personas"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-07-22T04:53:27Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship, with a harness deciding ",
+    "id": "minhtran3124/agent-harness",
+    "language": "Shell",
+    "name": "minhtran3124/agent-harness",
+    "stars": 2,
+    "updated_at": "2026-07-22T04:50:13Z",
+    "url": "https://github.com/minhtran3124/agent-harness"
+  },
+  {
+    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
+    "id": "Forest-Project-Lab/doctrine",
+    "language": "Python",
+    "name": "Forest-Project-Lab/doctrine",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:48:48Z",
+    "url": "https://github.com/Forest-Project-Lab/doctrine"
+  },
+  {
+    "description": "Universal AI dev team workflow system for Claude Code \u2014 18 specialist agents, lazy-load rules, parallel-safe by path/con",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 2,
+    "updated_at": "2026-07-22T04:48:46Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-22T04:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Prompt operating system: routes each software task to a layered stack of behavioral rules, domain knowledge, skills, and",
     "id": "gthgomez/Babel",
     "language": "TypeScript",
@@ -16,15 +97,6 @@
     "stars": 7,
     "updated_at": "2026-07-22T04:41:24Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship, with a harness deciding ",
-    "id": "minhtran3124/agent-harness",
-    "language": "Shell",
-    "name": "minhtran3124/agent-harness",
-    "stars": 2,
-    "updated_at": "2026-07-22T04:42:15Z",
-    "url": "https://github.com/minhtran3124/agent-harness"
   },
   {
     "description": "Kill the AI slop. Prompt tools and design skills for original UI and creative workflows.",
@@ -52,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T04:37:09Z",
     "url": "https://github.com/Raphasha27/ai-prompt-cli"
-  },
-  {
-    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
-    "id": "Forest-Project-Lab/doctrine",
-    "language": "Python",
-    "name": "Forest-Project-Lab/doctrine",
-    "stars": 1,
-    "updated_at": "2026-07-22T04:35:56Z",
-    "url": "https://github.com/Forest-Project-Lab/doctrine"
   },
   {
     "description": "Self-hosted visual prompt notebook with encrypted AI and image-host settings",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T04:30:30Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-22T04:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local-first semantic prompt sanitization for external LLMs \u2014 abstract secrets, paths, and project fingerprints while pre",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T03:51:22Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "100+ tested, copy-paste AI prompts for everyday life \u2014 one new skill every day at dailyskill.ai",
-    "id": "vinusmark1-cpu/dailyskill-prompt-library",
-    "language": "\u2014",
-    "name": "vinusmark1-cpu/dailyskill-prompt-library",
-    "stars": 0,
-    "updated_at": "2026-07-22T03:50:10Z",
-    "url": "https://github.com/vinusmark1-cpu/dailyskill-prompt-library"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-07-22T03:50:09Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "ARSENAL-powered epistemic research kit: claim lattices, dialectic briefs, freelance scopes, and Kaggle notebook spines (",
-    "id": "faresrafat3/epistemic-forge",
-    "language": "Python",
-    "name": "faresrafat3/epistemic-forge",
-    "stars": 0,
-    "updated_at": "2026-07-22T03:46:49Z",
-    "url": "https://github.com/faresrafat3/epistemic-forge"
-  },
-  {
-    "description": "Stops your AI agent from committing to the first idea that compiles. Brainstorm, stress-test, then build \u2014 with ATAM and",
-    "id": "Arsxxi/Iterative-dev-workflow",
-    "language": "JavaScript",
-    "name": "Arsxxi/Iterative-dev-workflow",
-    "stars": 1,
-    "updated_at": "2026-07-22T03:46:16Z",
-    "url": "https://github.com/Arsxxi/Iterative-dev-workflow"
-  },
-  {
-    "description": "Exploring artificial intelligence for cybersecurity through practical projects, tools, prompts, automation, and research",
-    "id": "itsawaisamjad007/ai-for-cybersecurity",
-    "language": "\u2014",
-    "name": "itsawaisamjad007/ai-for-cybersecurity",
-    "stars": 0,
-    "updated_at": "2026-07-22T03:45:45Z",
-    "url": "https://github.com/itsawaisamjad007/ai-for-cybersecurity"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-22T03:45:27Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   }
 ]
