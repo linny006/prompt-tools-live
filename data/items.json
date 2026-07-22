@@ -1,5 +1,86 @@
 [
   {
+    "description": "Stops your AI agent from committing to the first idea that compiles. Brainstorm, stress-test, then build \u2014 with ATAM and",
+    "id": "Arsxxi/Iterative-dev-workflow",
+    "language": "Shell",
+    "name": "Arsxxi/Iterative-dev-workflow",
+    "stars": 1,
+    "updated_at": "2026-07-22T07:06:43Z",
+    "url": "https://github.com/Arsxxi/Iterative-dev-workflow"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:05:40Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "TypeScript",
+    "name": "llwslc/proteus",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:05:20Z",
+    "url": "https://github.com/llwslc/proteus"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3411,
+    "updated_at": "2026-07-22T07:07:51Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "Go",
+    "name": "sachncs/promptsheon",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:04:06Z",
+    "url": "https://github.com/sachncs/promptsheon"
+  },
+  {
+    "description": "Stop your AI coding agent from over-engineering \u2014 a 6-rule skill for Claude Code / Codex / Cursor, plus a reproducible o",
+    "id": "sjh9714/underkill",
+    "language": "TypeScript",
+    "name": "sjh9714/underkill",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:02:58Z",
+    "url": "https://github.com/sjh9714/underkill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-22T07:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:00:12Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
+    "id": "eric-sabe/engsys",
+    "language": "JavaScript",
+    "name": "eric-sabe/engsys",
+    "stars": 1,
+    "updated_at": "2026-07-22T06:59:54Z",
+    "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
     "description": "setup-tool \u2014 Agent \u5de5\u5177\u5b89\u88c5\u7ba1\u5bb6\uff08Claude Code \u4e3a\u4e3b\uff0c\u652f\u6301 SKILL.md \u7684 agent CLI \u901a\u7528\uff09\uff1a\u786e\u8ba4\u8eab\u4efd \u2192 \u4f53\u7cfb\u6bd4\u8f83 \u2192 \u8def\u7531\u5b89\u88c5 \u2192 \u5b9e\u6d4b\u9a8c\u8bc1 \u2192 \u751f\u6210 Word \u8bf4\u660e\u4e66\u3002\u652f\u6301 skill / ",
     "id": "2021291696/setup-tool",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "TypeScript",
     "name": "xvyimu/MindSync",
     "stars": 0,
-    "updated_at": "2026-07-22T06:58:41Z",
+    "updated_at": "2026-07-22T07:01:20Z",
     "url": "https://github.com/xvyimu/MindSync"
   },
   {
@@ -27,13 +108,13 @@
     "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-22T06:56:46Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 9029,
+    "updated_at": "2026-07-22T06:56:28Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
   },
   {
     "description": "Production-ready AI coding skills and agents for Claude Code, OpenCode, and Pi. Covers TDD, .NET, Python, Rust, edge AI,",
@@ -162,15 +243,6 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-22T06:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -198,15 +270,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
-    "id": "sachncs/promptsheon",
-    "language": "Go",
-    "name": "sachncs/promptsheon",
-    "stars": 0,
-    "updated_at": "2026-07-22T06:44:05Z",
-    "url": "https://github.com/sachncs/promptsheon"
-  },
-  {
     "description": "The open-source studio behind Hashiden \u2014 renders on-chain play into a 24/7 show: canon, chapters, ceremonies, character ",
     "id": "LifeOrDream/hashiden-content-engine",
     "language": "TypeScript",
@@ -223,15 +286,6 @@
     "stars": 23481,
     "updated_at": "2026-07-22T06:39:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
-    "id": "llwslc/proteus",
-    "language": "TypeScript",
-    "name": "llwslc/proteus",
-    "stars": 0,
-    "updated_at": "2026-07-22T07:00:20Z",
-    "url": "https://github.com/llwslc/proteus"
   },
   {
     "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
@@ -333,15 +387,6 @@
     "url": "https://github.com/JeanSebastienBash/PromptDeMerde"
   },
   {
-    "description": "Stop your AI coding agent from over-engineering \u2014 a 6-rule skill for Claude Code / Codex / Cursor, plus a reproducible o",
-    "id": "sjh9714/underkill",
-    "language": "TypeScript",
-    "name": "sjh9714/underkill",
-    "stars": 0,
-    "updated_at": "2026-07-22T06:31:02Z",
-    "url": "https://github.com/sjh9714/underkill"
-  },
-  {
     "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
     "id": "terrylica/cc-skills",
     "language": "Shell",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T06:28:38Z",
     "url": "https://github.com/agungkesmas/recallfox"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-07-22T06:28:20Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 1,
-    "updated_at": "2026-07-22T06:28:19Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 1,
-    "updated_at": "2026-07-22T06:28:05Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27152,
-    "updated_at": "2026-07-22T06:27:12Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Military-inspired command and control operating system for AI agents.",
-    "id": "wnsdy95/cannae-os",
-    "language": "JavaScript",
-    "name": "wnsdy95/cannae-os",
-    "stars": 2,
-    "updated_at": "2026-07-22T06:26:37Z",
-    "url": "https://github.com/wnsdy95/cannae-os"
   }
 ]
