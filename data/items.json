@@ -1,5 +1,131 @@
 [
   {
+    "description": "setup-tool \u2014 Agent \u5de5\u5177\u5b89\u88c5\u7ba1\u5bb6\uff08Claude Code \u4e3a\u4e3b\uff0c\u652f\u6301 SKILL.md \u7684 agent CLI \u901a\u7528\uff09\uff1a\u786e\u8ba4\u8eab\u4efd \u2192 \u4f53\u7cfb\u6bd4\u8f83 \u2192 \u8def\u7531\u5b89\u88c5 \u2192 \u5b9e\u6d4b\u9a8c\u8bc1 \u2192 \u751f\u6210 Word \u8bf4\u660e\u4e66\u3002\u652f\u6301 skill / ",
+    "id": "2021291696/setup-tool",
+    "language": "Python",
+    "name": "2021291696/setup-tool",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:15:00Z",
+    "url": "https://github.com/2021291696/setup-tool"
+  },
+  {
+    "description": "30 raw outputs from GPT Image 2, Flux 2 Flex, and Gemini 2.5 Flash, plus 50 reproducible prompts and API guides by APIMa",
+    "id": "luyx-66/ai-generation-benchmarks",
+    "language": "HTML",
+    "name": "luyx-66/ai-generation-benchmarks",
+    "stars": 1,
+    "updated_at": "2026-07-22T07:14:40Z",
+    "url": "https://github.com/luyx-66/ai-generation-benchmarks"
+  },
+  {
+    "description": "Manage, organize, and instantly access AI prompts and clipboard history directly within VS Code.",
+    "id": "winterdrive/vscode-quick-prompt",
+    "language": "TypeScript",
+    "name": "winterdrive/vscode-quick-prompt",
+    "stars": 3,
+    "updated_at": "2026-07-22T07:14:53Z",
+    "url": "https://github.com/winterdrive/vscode-quick-prompt"
+  },
+  {
+    "description": "Lightweight Claude Code skills for daily AI-assisted development workflows.",
+    "id": "Chrike/coding-agent-skills",
+    "language": "JavaScript",
+    "name": "Chrike/coding-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:13:56Z",
+    "url": "https://github.com/Chrike/coding-agent-skills"
+  },
+  {
+    "description": "The enforcement layer for AI-native development: a state-machine CLI that owns truth (gates, transitions, merge oracle, ",
+    "id": "Shreyash3007/aegis",
+    "language": "TypeScript",
+    "name": "Shreyash3007/aegis",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:13:17Z",
+    "url": "https://github.com/Shreyash3007/aegis"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:13:10Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:12:19Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
+    "id": "xvyimu/MindSync",
+    "language": "TypeScript",
+    "name": "xvyimu/MindSync",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:12:10Z",
+    "url": "https://github.com/xvyimu/MindSync"
+  },
+  {
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "TypeScript",
+    "name": "llwslc/proteus",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:15:23Z",
+    "url": "https://github.com/llwslc/proteus"
+  },
+  {
+    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
+    "id": "netopsengineer/axiom",
+    "language": "Python",
+    "name": "netopsengineer/axiom",
+    "stars": 3,
+    "updated_at": "2026-07-22T07:11:13Z",
+    "url": "https://github.com/netopsengineer/axiom"
+  },
+  {
+    "description": "Like Stack Overflow, but for context engineering \u2014 thinking techniques for humans and AI agents, one corpus, two doors.",
+    "id": "Onnson/context-overflow",
+    "language": "TypeScript",
+    "name": "Onnson/context-overflow",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:09:41Z",
+    "url": "https://github.com/Onnson/context-overflow"
+  },
+  {
+    "description": "\ud83e\udde0 Five-Layer Memory System v4.0.0 - A universal memory skill for AI agents",
+    "id": "juventini10/Five-layer-memory-system",
+    "language": "Python",
+    "name": "juventini10/Five-layer-memory-system",
+    "stars": 0,
+    "updated_at": "2026-07-22T07:11:15Z",
+    "url": "https://github.com/juventini10/Five-layer-memory-system"
+  },
+  {
+    "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
+    "id": "AmadeusITGroup/ai-primitives-hub",
+    "language": "TypeScript",
+    "name": "AmadeusITGroup/ai-primitives-hub",
+    "stars": 48,
+    "updated_at": "2026-07-22T07:09:11Z",
+    "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-22T07:08:48Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Stops your AI agent from committing to the first idea that compiles. Brainstorm, stress-test, then build \u2014 with ATAM and",
     "id": "Arsxxi/Iterative-dev-workflow",
     "language": "Shell",
@@ -9,30 +135,12 @@
     "url": "https://github.com/Arsxxi/Iterative-dev-workflow"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-22T07:05:40Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
-    "id": "llwslc/proteus",
-    "language": "TypeScript",
-    "name": "llwslc/proteus",
-    "stars": 0,
-    "updated_at": "2026-07-22T07:05:20Z",
-    "url": "https://github.com/llwslc/proteus"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-22T07:07:51Z",
+    "updated_at": "2026-07-22T07:09:22Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -54,15 +162,6 @@
     "url": "https://github.com/sjh9714/underkill"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-22T07:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
     "id": "jeb-maker/lagent-quotidien",
     "language": "HTML",
@@ -81,29 +180,11 @@
     "url": "https://github.com/eric-sabe/engsys"
   },
   {
-    "description": "setup-tool \u2014 Agent \u5de5\u5177\u5b89\u88c5\u7ba1\u5bb6\uff08Claude Code \u4e3a\u4e3b\uff0c\u652f\u6301 SKILL.md \u7684 agent CLI \u901a\u7528\uff09\uff1a\u786e\u8ba4\u8eab\u4efd \u2192 \u4f53\u7cfb\u6bd4\u8f83 \u2192 \u8def\u7531\u5b89\u88c5 \u2192 \u5b9e\u6d4b\u9a8c\u8bc1 \u2192 \u751f\u6210 Word \u8bf4\u660e\u4e66\u3002\u652f\u6301 skill / ",
-    "id": "2021291696/setup-tool",
-    "language": "Python",
-    "name": "2021291696/setup-tool",
-    "stars": 0,
-    "updated_at": "2026-07-22T06:59:05Z",
-    "url": "https://github.com/2021291696/setup-tool"
-  },
-  {
-    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
-    "id": "xvyimu/MindSync",
-    "language": "TypeScript",
-    "name": "xvyimu/MindSync",
-    "stars": 0,
-    "updated_at": "2026-07-22T07:01:20Z",
-    "url": "https://github.com/xvyimu/MindSync"
-  },
-  {
     "description": "\u9762\u5411\u4e2d\u6587\u5f00\u53d1\u8005\u7684 Claude Code Skills / Agents / Plugins \u7cbe\u9009\u4e0e\u539f\u521b\u6280\u80fd\u5e93\uff5c\u6309\u573a\u666f\u5206\u7c7b\uff5c\u590d\u5236\u5373\u88c5\uff5c\u6301\u7eed\u66f4\u65b0",
     "id": "laolaoshiren/claude-code-skills-zh",
     "language": "Python",
     "name": "laolaoshiren/claude-code-skills-zh",
-    "stars": 666,
+    "stars": 668,
     "updated_at": "2026-07-22T06:56:47Z",
     "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
   },
@@ -112,7 +193,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 9029,
+    "stars": 9030,
     "updated_at": "2026-07-22T06:56:28Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -207,15 +288,6 @@
     "url": "https://github.com/wubo0927/xiaoyou-aigc-cinematic-director"
   },
   {
-    "description": "The enforcement layer for AI-native development: a state-machine CLI that owns truth (gates, transitions, merge oracle, ",
-    "id": "Shreyash3007/aegis",
-    "language": "TypeScript",
-    "name": "Shreyash3007/aegis",
-    "stars": 0,
-    "updated_at": "2026-07-22T06:46:47Z",
-    "url": "https://github.com/Shreyash3007/aegis"
-  },
-  {
     "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
     "id": "ftvision/agent-prompt-observatory",
     "language": "Python",
@@ -283,7 +355,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23481,
+    "stars": 23482,
     "updated_at": "2026-07-22T06:39:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -360,15 +432,6 @@
     "url": "https://github.com/rubicanjr/grok-prompt-engineer"
   },
   {
-    "description": "Lightweight Claude Code skills for daily AI-assisted development workflows.",
-    "id": "Chrike/coding-agent-skills",
-    "language": "JavaScript",
-    "name": "Chrike/coding-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-22T06:32:07Z",
-    "url": "https://github.com/Chrike/coding-agent-skills"
-  },
-  {
     "description": "Token-efficient context engine for AI coding agents. v2.18.0: proactive filter-coverage telemetry (savings self-diagnosi",
     "id": "ncmonx/icemage",
     "language": "C++",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T06:31:09Z",
     "url": "https://github.com/JeanSebastienBash/PromptDeMerde"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 59,
-    "updated_at": "2026-07-22T06:30:40Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-07-22T06:30:18Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "\u26a1 ZeroToken Skill \u2014 \u8ba9 Agent \u7528\u6700\u5c11\u7684 token \u505a\u6700\u51c6\u7684\u4e8b\u3002\u63d0\u793a\u8bcd\u7eaa\u5f8b\u89c4\u8303\uff1a\u538b\u7f29\u65e0\u6548\u4e0a\u4e0b\u6587\u3001\u65e0\u6548\u89e3\u91ca\u3001\u65e0\u6548\u5de5\u5177\u8c03\u7528\u3001\u65e0\u6548\u8f93\u51fa\uff0c\u51c6\u786e\u6027\u4e0d\u964d\u3002",
-    "id": "phoenixlucky/zerotoken-skill",
-    "language": "Python",
-    "name": "phoenixlucky/zerotoken-skill",
-    "stars": 9,
-    "updated_at": "2026-07-22T06:29:58Z",
-    "url": "https://github.com/phoenixlucky/zerotoken-skill"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 3,
-    "updated_at": "2026-07-22T06:29:37Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Official Muse Video preview prompts, playable clips, native-audio shot briefs, continuity workflows, and 14-language gui",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-07-22T06:29:10Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-07-22T06:28:42Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-07-22T06:28:38Z",
-    "url": "https://github.com/agungkesmas/recallfox"
   }
 ]
