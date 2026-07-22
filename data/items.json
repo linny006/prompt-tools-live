@@ -1,12 +1,57 @@
 [
   {
-    "description": "Free open-source AI prompts, Google Flow templates, Veo workflows and creator resources.",
-    "id": "shoaibmshareef10-stack/awesome-ai-creator-toolkit",
-    "language": "\u2014",
-    "name": "shoaibmshareef10-stack/awesome-ai-creator-toolkit",
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-22T10:45:15Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Test an agent skill's conversation like code \u2014 script-first specs, real sandboxed tmux captures with true ANSI colors, v",
+    "id": "Sma1lboy/skill-story",
+    "language": "JavaScript",
+    "name": "Sma1lboy/skill-story",
+    "stars": 0,
+    "updated_at": "2026-07-22T10:44:08Z",
+    "url": "https://github.com/Sma1lboy/skill-story"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 94,
+    "updated_at": "2026-07-22T10:43:58Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Portable Agent Skills for AI-assisted engineering workflows",
+    "id": "barlevalon/skills",
+    "language": "JavaScript",
+    "name": "barlevalon/skills",
+    "stars": 2,
+    "updated_at": "2026-07-22T10:41:38Z",
+    "url": "https://github.com/barlevalon/skills"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
     "stars": 1,
-    "updated_at": "2026-07-22T10:29:11Z",
-    "url": "https://github.com/shoaibmshareef10-stack/awesome-ai-creator-toolkit"
+    "updated_at": "2026-07-22T10:41:26Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "OpenCode fork for flexible System/Tone prompt control, token-saving pruning, and built-in Codex prompts.",
+    "id": "Krablante/opencodez",
+    "language": "TypeScript",
+    "name": "Krablante/opencodez",
+    "stars": 5,
+    "updated_at": "2026-07-22T10:40:30Z",
+    "url": "https://github.com/Krablante/opencodez"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -14,26 +59,98 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20765,
-    "updated_at": "2026-07-22T10:27:51Z",
+    "updated_at": "2026-07-22T10:40:30Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "An operating contract for AI assistants. Kills hedging, covert softening, invented rules, and sycophancy. Public domain.",
+    "description": "An operating contract for AI assistants. Stops hedging, covert softening, invented platform rules, and sycophancy. Blind",
     "id": "thebgtagency/spine-protocol",
     "language": "JavaScript",
     "name": "thebgtagency/spine-protocol",
     "stars": 1,
-    "updated_at": "2026-07-22T10:27:47Z",
+    "updated_at": "2026-07-22T10:40:04Z",
     "url": "https://github.com/thebgtagency/spine-protocol"
   },
   {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
+    "description": "Safely build, preview, sync, back up, and restore global AI agent rules for Codex and Antigravity.",
+    "id": "SesamePasteNoodles/agent-rules-sync",
+    "language": "PowerShell",
+    "name": "SesamePasteNoodles/agent-rules-sync",
     "stars": 0,
-    "updated_at": "2026-07-22T10:26:49Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
+    "updated_at": "2026-07-22T10:39:38Z",
+    "url": "https://github.com/SesamePasteNoodles/agent-rules-sync"
+  },
+  {
+    "description": "An atelier for Opencode, Claude Code, and other coding agents: spec-driven workflows, deep thinking, and code quality.",
+    "id": "martinffx/atelier",
+    "language": "TypeScript",
+    "name": "martinffx/atelier",
+    "stars": 36,
+    "updated_at": "2026-07-22T10:35:55Z",
+    "url": "https://github.com/martinffx/atelier"
+  },
+  {
+    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
+    "id": "AnastasiyaW/claude-code-config",
+    "language": "Python",
+    "name": "AnastasiyaW/claude-code-config",
+    "stars": 138,
+    "updated_at": "2026-07-22T10:35:15Z",
+    "url": "https://github.com/AnastasiyaW/claude-code-config"
+  },
+  {
+    "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles ",
+    "id": "PromptPartner/agentsmith",
+    "language": "Shell",
+    "name": "PromptPartner/agentsmith",
+    "stars": 314,
+    "updated_at": "2026-07-22T10:34:26Z",
+    "url": "https://github.com/PromptPartner/agentsmith"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 807,
+    "updated_at": "2026-07-22T10:32:27Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 10,
+    "updated_at": "2026-07-22T10:31:46Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "Free open-source AI prompts, Google Flow templates, Veo workflows and creator resources.",
+    "id": "shoaibmshareef10-stack/awesome-ai-creator-toolkit",
+    "language": "\u2014",
+    "name": "shoaibmshareef10-stack/awesome-ai-creator-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-22T10:31:44Z",
+    "url": "https://github.com/shoaibmshareef10-stack/awesome-ai-creator-toolkit"
+  },
+  {
+    "description": "A composable Loop Engineering skill group for Codex and Claude Code - interview your task and emit a top-tier, paste-rea",
+    "id": "VioletScar-Hui/Build_Great_Loop",
+    "language": "Python",
+    "name": "VioletScar-Hui/Build_Great_Loop",
+    "stars": 1,
+    "updated_at": "2026-07-22T10:30:35Z",
+    "url": "https://github.com/VioletScar-Hui/Build_Great_Loop"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-22T10:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
@@ -43,6 +160,15 @@
     "stars": 5,
     "updated_at": "2026-07-22T10:29:59Z",
     "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 0,
+    "updated_at": "2026-07-22T10:26:49Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -90,15 +216,6 @@
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-22T10:20:26Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
     "id": "derob98/ailmanac",
     "language": "MDX",
@@ -112,7 +229,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27153,
+    "stars": 27154,
     "updated_at": "2026-07-22T10:16:52Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -144,15 +261,6 @@
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-22T10:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
     "id": "edsondviana8/ai-humanizer-core",
     "language": "HTML",
@@ -160,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T10:15:01Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "OpenCode fork for flexible System/Tone prompt control, token-saving pruning, and built-in Codex prompts.",
-    "id": "Krablante/opencodez",
-    "language": "TypeScript",
-    "name": "Krablante/opencodez",
-    "stars": 5,
-    "updated_at": "2026-07-22T10:20:27Z",
-    "url": "https://github.com/Krablante/opencodez"
   },
   {
     "description": "\u591a\u6a21\u578b\u534f\u540c\u5b66\u672f\u6d41\u6c34\u7ebf\u2014\u20148\u9636\u6bb5+\u5f00\u5377/\u76f2\u7b54\u5bf9\u7167\u5b9e\u9a8c\uff0c\u8bba\u6587\u662f\u6d4b\u8bd5\u7528\u4f8b\u3001\u6d41\u6c34\u7ebf\u662f\u6838\u5fc3\u4ea4\u4ed8\u7269 | 8-stage multi-model academic pipeline with cross-blind review, defense sim",
@@ -265,7 +364,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 9064,
+    "stars": 9067,
     "updated_at": "2026-07-22T10:02:29Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -284,7 +383,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31639,
-    "updated_at": "2026-07-22T09:59:29Z",
+    "updated_at": "2026-07-22T10:42:02Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -324,21 +423,12 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 94,
-    "updated_at": "2026-07-22T10:20:58Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3411,
-    "updated_at": "2026-07-22T10:22:55Z",
+    "updated_at": "2026-07-22T10:42:42Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -355,98 +445,8 @@
     "id": "jnMetaCode/agency-agents-zh",
     "language": "Shell",
     "name": "jnMetaCode/agency-agents-zh",
-    "stars": 18119,
+    "stars": 18120,
     "updated_at": "2026-07-22T09:52:13Z",
     "url": "https://github.com/jnMetaCode/agency-agents-zh"
-  },
-  {
-    "description": "\ud83e\udd2b Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression c",
-    "id": "V-Songbird/hush",
-    "language": "JavaScript",
-    "name": "V-Songbird/hush",
-    "stars": 24,
-    "updated_at": "2026-07-22T09:51:33Z",
-    "url": "https://github.com/V-Songbird/hush"
-  },
-  {
-    "description": "Nuwa - a prompt architect that compiles deployable, self-growing AI-agent homes: one agent or a whole collaborating team",
-    "id": "LucioLiu/nuwa",
-    "language": "Python",
-    "name": "LucioLiu/nuwa",
-    "stars": 2,
-    "updated_at": "2026-07-22T09:51:19Z",
-    "url": "https://github.com/LucioLiu/nuwa"
-  },
-  {
-    "description": "A practical collection of agentic practices and workflows, including reusable skills, commands, reference notes, and bas",
-    "id": "AgenticPW/AgenticPW",
-    "language": "\u2014",
-    "name": "AgenticPW/AgenticPW",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:47:03Z",
-    "url": "https://github.com/AgenticPW/AgenticPW"
-  },
-  {
-    "description": "A drop-in operating protocol that turns an AI coding agent from \"describe \u2192 it does it \u2192 you eyeball it \u2192 ship\" into a v",
-    "id": "vlr-code/PayneSDD",
-    "language": "Shell",
-    "name": "vlr-code/PayneSDD",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:46:42Z",
-    "url": "https://github.com/vlr-code/PayneSDD"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-22T09:45:27Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Production RAG system with semantic search, source-cited answers, anti-hallucination guardrails, and streaming \u2014 built w",
-    "id": "AnicetFantomas/Vidya",
-    "language": "TypeScript",
-    "name": "AnicetFantomas/Vidya",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:44:42Z",
-    "url": "https://github.com/AnicetFantomas/Vidya"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 822,
-    "updated_at": "2026-07-22T09:43:52Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles ",
-    "id": "PromptPartner/agentsmith",
-    "language": "Shell",
-    "name": "PromptPartner/agentsmith",
-    "stars": 314,
-    "updated_at": "2026-07-22T10:07:37Z",
-    "url": "https://github.com/PromptPartner/agentsmith"
-  },
-  {
-    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
-    "id": "Mr-Salticidae/knowledge-base",
-    "language": "Python",
-    "name": "Mr-Salticidae/knowledge-base",
-    "stars": 18,
-    "updated_at": "2026-07-22T09:43:44Z",
-    "url": "https://github.com/Mr-Salticidae/knowledge-base"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:43:20Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
