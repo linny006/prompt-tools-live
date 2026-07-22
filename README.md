@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 04:29 UTC
+> ⏰ Last updated: 2026-07-22 04:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [wozqhl/PromptSanctum](https://github.com/wozqhl/PromptSanctum) | 0 | Python | 2026-07-22 | Local-first semantic prompt sanitization for external LLMs — abstract secrets, paths, and project fingerprints while pre |
-| 2 | [Sungmin-Cho/claude-deep-suite](https://github.com/Sungmin-Cho/claude-deep-suite) | 6 | JavaScript | 2026-07-22 | Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a |
-| 3 | [M2Station/M2_PROMPT](https://github.com/M2Station/M2_PROMPT) | 0 | JavaScript | 2026-07-22 | [M2] Fast prompt authoring & management desktop app — multi-section Markdown/WYSIWYG editor, snippet palettes, structure |
-| 4 | [astroicers/AI-SOP-Protocol](https://github.com/astroicers/AI-SOP-Protocol) | 3 | Shell | 2026-07-22 | 把開發規範寫成機器可讀的約束，讓 Claude 自動遵守 TDD、ADR、commit 閘門與發布檢查 |
-| 5 | [minhtran3124/agent-harness](https://github.com/minhtran3124/agent-harness) | 2 | Shell | 2026-07-22 | Risk-gated /skills for Claude Code — 14 invocable skills carry a change from brainstorm → ship, with a harness deciding  |
-| 6 | [renoise-ai/awesome-seedance-prompts](https://github.com/renoise-ai/awesome-seedance-prompts) | 3 | TypeScript | 2026-07-22 | A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to |
-| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10664 | Python | 2026-07-22 | AI Observability & Evaluation |
-| 8 | [wnsdy95/cannae-os](https://github.com/wnsdy95/cannae-os) | 2 | JavaScript | 2026-07-22 | Military-inspired command and control operating system for AI agents. |
-| 9 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 0 | HTML | 2026-07-22 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
-| 10 | [AtlasCloudAI/awesome-gemini-omni-prompts](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts) | 12 | JavaScript | 2026-07-22 | Gemini Omni API Prompts collection updated in real time every day, designed to help creators find inspiration faster. Fr |
-| 11 | [hysohail/agentic-experiment-designer](https://github.com/hysohail/agentic-experiment-designer) | 0 | HTML | 2026-07-22 | Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement |
-| 12 | [AtlasCloudAI/awesome-happy-horse-prompts](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts) | 2 | TypeScript | 2026-07-22 | Awesome Happy Horse 1.0 Prompts |
-| 13 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 150 | HTML | 2026-07-22 | HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code |
-| 14 | [lemomo-ai/codex-radar](https://github.com/lemomo-ai/codex-radar) | 17 | — | 2026-07-22 | A Codex CLI plugin that grades how you collaborate with Codex across 9 dimensions in 3 categories — your Codex model wri |
-| 15 | [lemomo-ai/claude-radar](https://github.com/lemomo-ai/claude-radar) | 4 | — | 2026-07-22 | A Claude Code plugin that grades your collaboration with AI across 9 dimensions in 3 categories — with a free-form AI di |
-| 16 | [AtlasCloudAI/awesome-seedance-2-prompts](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts) | 8 | TypeScript | 2026-07-22 | awesome-seedance-2-prompt |
-| 17 | [AtlasCloudAI/awesome-gpt-image-2-prompts](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts) | 12 | TypeScript | 2026-07-22 | Awesome GPT Image 2 Prompts |
-| 18 | [KIRRAWA/cogniforge](https://github.com/KIRRAWA/cogniforge) | 1 | Shell | 2026-07-22 | Structured cognitive workflows for AI — not one-line prompts, but step-by-step investigation skills with source tiering, |
-| 19 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-07-22 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-07-22 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [wozqhl/PromptSanctum](https://github.com/wozqhl/PromptSanctum) | 0 | Python | 2026-07-22 | Local-first semantic prompt sanitization for external LLMs — abstract secrets, paths, and project fingerprints while pre |
+| 3 | [Sungmin-Cho/claude-deep-suite](https://github.com/Sungmin-Cho/claude-deep-suite) | 6 | JavaScript | 2026-07-22 | Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a |
+| 4 | [M2Station/M2_PROMPT](https://github.com/M2Station/M2_PROMPT) | 0 | JavaScript | 2026-07-22 | [M2] Fast prompt authoring & management desktop app — multi-section Markdown/WYSIWYG editor, snippet palettes, structure |
+| 5 | [astroicers/AI-SOP-Protocol](https://github.com/astroicers/AI-SOP-Protocol) | 3 | Shell | 2026-07-22 | 把開發規範寫成機器可讀的約束，讓 Claude 自動遵守 TDD、ADR、commit 閘門與發布檢查 |
+| 6 | [minhtran3124/agent-harness](https://github.com/minhtran3124/agent-harness) | 2 | Shell | 2026-07-22 | Risk-gated /skills for Claude Code — 14 invocable skills carry a change from brainstorm → ship, with a harness deciding  |
+| 7 | [renoise-ai/awesome-seedance-prompts](https://github.com/renoise-ai/awesome-seedance-prompts) | 3 | TypeScript | 2026-07-22 | A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to |
+| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10664 | Python | 2026-07-22 | AI Observability & Evaluation |
+| 9 | [wnsdy95/cannae-os](https://github.com/wnsdy95/cannae-os) | 2 | JavaScript | 2026-07-22 | Military-inspired command and control operating system for AI agents. |
+| 10 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 0 | HTML | 2026-07-22 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
+| 11 | [AtlasCloudAI/awesome-gemini-omni-prompts](https://github.com/AtlasCloudAI/awesome-gemini-omni-prompts) | 12 | JavaScript | 2026-07-22 | Gemini Omni API Prompts collection updated in real time every day, designed to help creators find inspiration faster. Fr |
+| 12 | [hysohail/agentic-experiment-designer](https://github.com/hysohail/agentic-experiment-designer) | 0 | HTML | 2026-07-22 | Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement |
+| 13 | [AtlasCloudAI/awesome-happy-horse-prompts](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts) | 2 | TypeScript | 2026-07-22 | Awesome Happy Horse 1.0 Prompts |
+| 14 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 150 | HTML | 2026-07-22 | HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code |
+| 15 | [lemomo-ai/codex-radar](https://github.com/lemomo-ai/codex-radar) | 17 | — | 2026-07-22 | A Codex CLI plugin that grades how you collaborate with Codex across 9 dimensions in 3 categories — your Codex model wri |
+| 16 | [lemomo-ai/claude-radar](https://github.com/lemomo-ai/claude-radar) | 4 | — | 2026-07-22 | A Claude Code plugin that grades your collaboration with AI across 9 dimensions in 3 categories — with a free-form AI di |
+| 17 | [AtlasCloudAI/awesome-seedance-2-prompts](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts) | 8 | TypeScript | 2026-07-22 | awesome-seedance-2-prompt |
+| 18 | [AtlasCloudAI/awesome-gpt-image-2-prompts](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts) | 12 | TypeScript | 2026-07-22 | Awesome GPT Image 2 Prompts |
+| 19 | [KIRRAWA/cogniforge](https://github.com/KIRRAWA/cogniforge) | 1 | Shell | 2026-07-22 | Structured cognitive workflows for AI — not one-line prompts, but step-by-step investigation skills with source tiering, |
 | 20 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 23479 | TypeScript | 2026-07-22 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 21 | [sairaman436/vybe-intelligence-vault](https://github.com/sairaman436/vybe-intelligence-vault) | 9 | JavaScript | 2026-07-22 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
 | 22 | [tirthankar95/agentic-physics-question-generator](https://github.com/tirthankar95/agentic-physics-question-generator) | 3 | Python | 2026-07-22 | Generating Logically Consistent and Novel Physics Word Problems with LLMs |
