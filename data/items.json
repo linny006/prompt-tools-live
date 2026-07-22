@@ -1,5 +1,113 @@
 [
   {
+    "description": "Self-hosted AI prompt orchestration. Connect agents, collaborate on prompts, track everything.",
+    "id": "Getorquesta/orquesta-oss",
+    "language": "TypeScript",
+    "name": "Getorquesta/orquesta-oss",
+    "stars": 1,
+    "updated_at": "2026-07-22T02:29:52Z",
+    "url": "https://github.com/Getorquesta/orquesta-oss"
+  },
+  {
+    "description": "A collection of custom skills for academic writing, automation, specialized workflows, and more to come.",
+    "id": "xjsongphy/skills",
+    "language": "Python",
+    "name": "xjsongphy/skills",
+    "stars": 6,
+    "updated_at": "2026-07-22T02:28:45Z",
+    "url": "https://github.com/xjsongphy/skills"
+  },
+  {
+    "description": "A profession-agnostic Agent Skills OS that interviews how you work, compiles a personalized workflow architecture, and i",
+    "id": "mfarzanansari/praxis-workflow-os",
+    "language": "Python",
+    "name": "mfarzanansari/praxis-workflow-os",
+    "stars": 0,
+    "updated_at": "2026-07-22T02:26:59Z",
+    "url": "https://github.com/mfarzanansari/praxis-workflow-os"
+  },
+  {
+    "description": "AI prompts for extracting and auditing financial metrics from earnings reports",
+    "id": "dkim03307/ai-equity-research-workflow",
+    "language": "\u2014",
+    "name": "dkim03307/ai-equity-research-workflow",
+    "stars": 0,
+    "updated_at": "2026-07-22T02:26:23Z",
+    "url": "https://github.com/dkim03307/ai-equity-research-workflow"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 152,
+    "updated_at": "2026-07-22T02:26:19Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-07-22T02:24:08Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "Offizielle Begleitmaterialien zum Bestseller 'KI f\u00fcr Content Creation'. Lebendiges Repo mit Beispielen, Prompts & Ressou",
+    "id": "aloth/KI-Buch-Begleitmaterialien",
+    "language": "\u2014",
+    "name": "aloth/KI-Buch-Begleitmaterialien",
+    "stars": 2,
+    "updated_at": "2026-07-22T02:23:02Z",
+    "url": "https://github.com/aloth/KI-Buch-Begleitmaterialien"
+  },
+  {
+    "description": "A muted, poetic paper-poster Agent Skill for low-saturation zine-style image generation.",
+    "id": "moonlin1213/muted-zine-poster-v01",
+    "language": "\u2014",
+    "name": "moonlin1213/muted-zine-poster-v01",
+    "stars": 0,
+    "updated_at": "2026-07-22T02:22:35Z",
+    "url": "https://github.com/moonlin1213/muted-zine-poster-v01"
+  },
+  {
+    "description": "\u2697\ufe0f Experimental \u2014 A genius-builder brain for your AI coding tools: sharp defaults, real judgment, and the discipline to ",
+    "id": "mehrad-dm/mastermind",
+    "language": "Python",
+    "name": "mehrad-dm/mastermind",
+    "stars": 12,
+    "updated_at": "2026-07-22T02:20:54Z",
+    "url": "https://github.com/mehrad-dm/mastermind"
+  },
+  {
+    "description": "Framework port\u00e1til de governan\u00e7a para agentes de IA: requisitos determin\u00edsticos, contexto enxuto e fluxos audit\u00e1veis par",
+    "id": "jcempro/agents.md",
+    "language": "JavaScript",
+    "name": "jcempro/agents.md",
+    "stars": 1,
+    "updated_at": "2026-07-22T02:19:41Z",
+    "url": "https://github.com/jcempro/agents.md"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 8,
+    "updated_at": "2026-07-22T02:19:08Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-22T02:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -85,7 +193,7 @@
     "id": "dottxt-ai/outlines",
     "language": "Python",
     "name": "dottxt-ai/outlines",
-    "stars": 14860,
+    "stars": 14863,
     "updated_at": "2026-07-22T02:01:31Z",
     "url": "https://github.com/dottxt-ai/outlines"
   },
@@ -99,15 +207,6 @@
     "url": "https://github.com/Dranser/skills-graph"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-22T02:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83d\ude80\ud83d\udcaaMaximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/\u4e2d\u6587/Espa\u00f1",
     "id": "rockbenben/ChatGPT-Shortcut",
     "language": "TypeScript",
@@ -117,13 +216,13 @@
     "url": "https://github.com/rockbenben/ChatGPT-Shortcut"
   },
   {
-    "description": "Framework port\u00e1til de governan\u00e7a para agentes de IA: requisitos determin\u00edsticos, contexto enxuto e fluxos audit\u00e1veis par",
-    "id": "jcempro/agents.md",
-    "language": "JavaScript",
-    "name": "jcempro/agents.md",
-    "stars": 1,
-    "updated_at": "2026-07-22T02:00:15Z",
-    "url": "https://github.com/jcempro/agents.md"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10664,
+    "updated_at": "2026-07-22T01:59:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -187,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T01:52:58Z",
     "url": "https://github.com/ryanportfolio/savetokens"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 8,
-    "updated_at": "2026-07-22T01:52:56Z",
-    "url": "https://github.com/danlex/suno-lab"
   },
   {
     "description": "Matt Pocock \u6280\u80fd\u96c6\u7684\u4e2d\u6587\u7ffb\u8bd1\u7248 \u2014 \u5730\u9053\u4e2d\u6587\uff0c\u539f\u6c41\u539f\u5473\u7684\u6280\u672f\u672f\u8bed\u3002\u57fa\u4e8e mattpocock/skills \u590d\u523b\u3002\u6bcf\u65e5\u4e2d\u534812\u70b9\u949f\u540c\u6b65",
@@ -301,7 +391,7 @@
     "id": "MrGeDiao/shuorenhua",
     "language": "Python",
     "name": "MrGeDiao/shuorenhua",
-    "stars": 783,
+    "stars": 784,
     "updated_at": "2026-07-22T01:32:25Z",
     "url": "https://github.com/MrGeDiao/shuorenhua"
   },
@@ -328,7 +418,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 8522,
+    "stars": 8524,
     "updated_at": "2026-07-22T01:27:35Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -358,95 +448,5 @@
     "stars": 53,
     "updated_at": "2026-07-22T01:21:34Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "\ud83d\ude80 The largest downloadable GPT Image 2 prompt library \u2014 15,672 prompts and growing, daily updates with HuggingFace datas",
-    "id": "goku-open/awesome-gpt-image-2-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-gpt-image-2-prompts",
-    "stars": 0,
-    "updated_at": "2026-07-22T01:21:06Z",
-    "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
-  },
-  {
-    "description": "Grounded, evaluated LLM pipeline that tailors a CV to a job description \u2014 forced structured output, evals (deterministic",
-    "id": "kgtceo/ai-job-copilot",
-    "language": "Python",
-    "name": "kgtceo/ai-job-copilot",
-    "stars": 0,
-    "updated_at": "2026-07-22T01:18:47Z",
-    "url": "https://github.com/kgtceo/ai-job-copilot"
-  },
-  {
-    "description": "A production-style, full-stack GenAI application that turns raw customer feedback into structured business insight.",
-    "id": "saurabhzaiswal/GenAI-Customer-Review-Analyzer",
-    "language": "TypeScript",
-    "name": "saurabhzaiswal/GenAI-Customer-Review-Analyzer",
-    "stars": 0,
-    "updated_at": "2026-07-22T01:17:27Z",
-    "url": "https://github.com/saurabhzaiswal/GenAI-Customer-Review-Analyzer"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 22,
-    "updated_at": "2026-07-22T01:16:38Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "[ENG]Outputs a structured YAML format to explain the situation to other AIs when stuck on an implementation issue. / [JP",
-    "id": "DovahkiinYuzuko/somebody-help-me",
-    "language": "\u2014",
-    "name": "DovahkiinYuzuko/somebody-help-me",
-    "stars": 0,
-    "updated_at": "2026-07-22T01:16:24Z",
-    "url": "https://github.com/DovahkiinYuzuko/somebody-help-me"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10663,
-    "updated_at": "2026-07-22T01:59:41Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Enterprise-grade AI testing platform for evaluating LLMs, RAG systems, AI agents, prompts, and AI applications using mod",
-    "id": "MK-MAN0JKUMAR/enterprise-ai-quality-engineering-platform",
-    "language": "Python",
-    "name": "MK-MAN0JKUMAR/enterprise-ai-quality-engineering-platform",
-    "stars": 0,
-    "updated_at": "2026-07-22T01:14:35Z",
-    "url": "https://github.com/MK-MAN0JKUMAR/enterprise-ai-quality-engineering-platform"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-07-22T01:13:04Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "A tiny evaluation harness as a product \u2014 run a prompt over test cases, an independent judge scores pass/fail, and get a ",
-    "id": "kgtceo/prompt-lab",
-    "language": "Python",
-    "name": "kgtceo/prompt-lab",
-    "stars": 0,
-    "updated_at": "2026-07-22T01:11:42Z",
-    "url": "https://github.com/kgtceo/prompt-lab"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-07-22T01:08:48Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   }
 ]
