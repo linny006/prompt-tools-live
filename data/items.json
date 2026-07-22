@@ -1,5 +1,122 @@
 [
   {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-07-22T00:26:59Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-07-22T00:25:53Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "A terminal script manager and launcher for humans and AI agents: Put any script, prompt, or program in one library; skit",
+    "id": "t41372/skit",
+    "language": "Python",
+    "name": "t41372/skit",
+    "stars": 4,
+    "updated_at": "2026-07-22T00:25:21Z",
+    "url": "https://github.com/t41372/skit"
+  },
+  {
+    "description": "A buddy check for your prompts \u2014 before they reach an LLM. On-device, reversible anonymization that catches the PII you ",
+    "id": "akazah/prompt-anonymizer",
+    "language": "TypeScript",
+    "name": "akazah/prompt-anonymizer",
+    "stars": 28,
+    "updated_at": "2026-07-22T00:23:29Z",
+    "url": "https://github.com/akazah/prompt-anonymizer"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "astorie-ai/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "astorie-ai/awesome-seedance-2-prompt",
+    "stars": 10,
+    "updated_at": "2026-07-22T00:23:22Z",
+    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "Hands-on coursework from Anthropic's \"Building with the Claude API\" and \"Introduction to Agents\" courses: 26 notebooks c",
+    "id": "MauricioTorrez1/Claude_Course",
+    "language": "Jupyter Notebook",
+    "name": "MauricioTorrez1/Claude_Course",
+    "stars": 0,
+    "updated_at": "2026-07-22T00:22:34Z",
+    "url": "https://github.com/MauricioTorrez1/Claude_Course"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Free Claude Code & Cursor prompts for senior engineers \u2014 code review, debugging, refactoring, system design, CLAUDE.m",
+    "id": "sublimecoder/sublimecoding",
+    "language": "\u2014",
+    "name": "sublimecoder/sublimecoding",
+    "stars": 0,
+    "updated_at": "2026-07-22T00:20:24Z",
+    "url": "https://github.com/sublimecoder/sublimecoding"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12913,
+    "updated_at": "2026-07-22T00:19:48Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-07-22T00:19:41Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 8,
+    "updated_at": "2026-07-22T00:19:10Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": "A modular Python AI Interview Agent demonstrating local LLM integration, prompt engineering, interview workflow automati",
+    "id": "nirajnale/smarthire-ai-interview-agent",
+    "language": "Python",
+    "name": "nirajnale/smarthire-ai-interview-agent",
+    "stars": 0,
+    "updated_at": "2026-07-22T00:18:46Z",
+    "url": "https://github.com/nirajnale/smarthire-ai-interview-agent"
+  },
+  {
+    "description": "Prompt engineering patterns for character AI on local LLMs (Gemma 4B\u219226B). 10-persona evaluation methodology.",
+    "id": "nskit-io/avatar-chat",
+    "language": "\u2014",
+    "name": "nskit-io/avatar-chat",
+    "stars": 1,
+    "updated_at": "2026-07-22T00:16:48Z",
+    "url": "https://github.com/nskit-io/avatar-chat"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-22T00:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A profession-agnostic Agent Skills OS that interviews how you work, compiles a personalized workflow architecture, and i",
     "id": "mfarzanansari/praxis-workflow-os",
     "language": "Python",
@@ -72,15 +189,6 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 2,
-    "updated_at": "2026-07-22T00:04:41Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
     "id": "github/awesome-copilot",
     "language": "Python",
@@ -108,21 +216,12 @@
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
-    "description": "A terminal script manager and launcher for humans and AI agents: Put any script, prompt, or program in one library; skit",
-    "id": "t41372/skit",
-    "language": "Python",
-    "name": "t41372/skit",
-    "stars": 4,
-    "updated_at": "2026-07-22T00:01:46Z",
-    "url": "https://github.com/t41372/skit"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23467,
-    "updated_at": "2026-07-22T00:12:37Z",
+    "updated_at": "2026-07-22T00:29:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -133,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T00:00:48Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-22T00:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -211,18 +301,9 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 8964,
+    "stars": 8966,
     "updated_at": "2026-07-21T23:57:58Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
-  },
-  {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 8,
-    "updated_at": "2026-07-21T23:57:39Z",
-    "url": "https://github.com/danlex/suno-lab"
   },
   {
     "description": "Self-evolving persona LLM agent template for group chats: self-scores every reply, learns from its own successes and fai",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T23:48:32Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:48:00Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-07-21T23:47:07Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-21T23:45:31Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "The skill files from the book Claude Code Skills: The SKILL.md Playbook, laid out chapter by chapter, plus three shell s",
-    "id": "regardo911/skill-md-playbook",
-    "language": "Shell",
-    "name": "regardo911/skill-md-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:44:59Z",
-    "url": "https://github.com/regardo911/skill-md-playbook"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 27,
-    "updated_at": "2026-07-21T23:44:34Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-07-21T23:44:15Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "The definitive guide to Spec-Driven Development: build software with AI agents, from method to production code. Book in ",
-    "id": "felipefontoura/spec-driven-development-book",
-    "language": "\u2014",
-    "name": "felipefontoura/spec-driven-development-book",
-    "stars": 1,
-    "updated_at": "2026-07-21T23:43:28Z",
-    "url": "https://github.com/felipefontoura/spec-driven-development-book"
-  },
-  {
-    "description": "Build-A-Prompt \u2014 a single-file, browser-only prompt builder that keeps the guardrails on: pick a role, subject, style, a",
-    "id": "advokat-frida/build-a-prompt",
-    "language": "HTML",
-    "name": "advokat-frida/build-a-prompt",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:42:53Z",
-    "url": "https://github.com/advokat-frida/build-a-prompt"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:42:17Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   }
 ]
