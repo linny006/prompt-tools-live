@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 18:44 UTC
+> ⏰ Last updated: 2026-07-22 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SomaxSoma/understand-first](https://github.com/SomaxSoma/understand-first) | 0 | — | 2026-07-22 | A Claude Skill that teaches properly before it starts asking questions. Cognitive Apprenticeship first, Socratic explora |
-| 2 | [jleonceo/orquestacion-enjambres-ia](https://github.com/jleonceo/orquestacion-enjambres-ia) | 0 | Python | 2026-07-22 | Orquestación de IA multiagente: un registro de agentes autogenerado + una evaluación a ciegas que demuestra que el enrut |
-| 3 | [jleonceo/llm-eval-contable](https://github.com/jleonceo/llm-eval-contable) | 0 | Python | 2026-07-22 | Eval-driven development for LLM accounting skills. 50 test cases · 66% → 100% in 6 iterations · results reproducible wit |
-| 4 | [promptdriven/pdd](https://github.com/promptdriven/pdd) | 807 | Python | 2026-07-22 |  Prompt Driven Development (PDD): The Last Programming Language™. Prompt files are source; code is generated output. |
-| 5 | [jleonceo/gobernanza-skills-analiticas](https://github.com/jleonceo/gobernanza-skills-analiticas) | 0 | — | 2026-07-22 | El método para gobernar skills de IA sobre datos reales: golden sets, puertas de no-regresión, verificador independiente |
-| 6 | [jleonceo/claude-code-context-management](https://github.com/jleonceo/claude-code-context-management) | 0 | — | 2026-07-22 | Cómo evitar que CLAUDE.md y MEMORY.md saturen el contexto de Claude Code: una arquitectura de descarga fundamentada en l |
-| 7 | [jleonceo/agent-memory-governance](https://github.com/jleonceo/agent-memory-governance) | 0 | Python | 2026-07-22 | Gobernanza de memoria persistente para agentes IA: linter de corpus, log automático y citas re-ejecutables. Tres piezas  |
-| 8 | [use-crux/crux](https://github.com/use-crux/crux) | 0 | TypeScript | 2026-07-22 | Typed building blocks for everything around your LLM call. |
-| 9 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-22 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 10 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-07-22 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 11 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-07-22 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 12 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-22 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 13 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-07-22 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 14 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-07-22 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 15 | [arndvs/ctrlshft](https://github.com/arndvs/ctrlshft) | 0 | Shell | 2026-07-22 | The system your AI agents are missing — synced instructions, workflow skills, hardened secrets, and autonomous loops acr |
-| 16 | [toverux/grimoire](https://github.com/toverux/grimoire) | 1 | TypeScript | 2026-07-22 | 🤖 Curated agent skills for AI agents — one coherent engineering loop that compounds: grill → spec → implement → review → |
-| 17 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 7 | Python | 2026-07-22 | State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software — 40+ domain & language skil |
-| 18 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 823 | Swift | 2026-07-22 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
-| 19 | [archubbuck/workspace-architect](https://github.com/archubbuck/workspace-architect) | 17 | Python | 2026-07-22 | Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a |
-| 20 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10678 | Python | 2026-07-22 | AI Observability & Evaluation |
-| 21 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-07-22 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-07-22 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [SomaxSoma/understand-first](https://github.com/SomaxSoma/understand-first) | 0 | — | 2026-07-22 | A Claude Skill that teaches properly before it starts asking questions. Cognitive Apprenticeship first, Socratic explora |
+| 3 | [jleonceo/orquestacion-enjambres-ia](https://github.com/jleonceo/orquestacion-enjambres-ia) | 0 | Python | 2026-07-22 | Orquestación de IA multiagente: un registro de agentes autogenerado + una evaluación a ciegas que demuestra que el enrut |
+| 4 | [jleonceo/llm-eval-contable](https://github.com/jleonceo/llm-eval-contable) | 0 | Python | 2026-07-22 | Eval-driven development for LLM accounting skills. 50 test cases · 66% → 100% in 6 iterations · results reproducible wit |
+| 5 | [promptdriven/pdd](https://github.com/promptdriven/pdd) | 807 | Python | 2026-07-22 |  Prompt Driven Development (PDD): The Last Programming Language™. Prompt files are source; code is generated output. |
+| 6 | [jleonceo/gobernanza-skills-analiticas](https://github.com/jleonceo/gobernanza-skills-analiticas) | 0 | — | 2026-07-22 | El método para gobernar skills de IA sobre datos reales: golden sets, puertas de no-regresión, verificador independiente |
+| 7 | [jleonceo/claude-code-context-management](https://github.com/jleonceo/claude-code-context-management) | 0 | — | 2026-07-22 | Cómo evitar que CLAUDE.md y MEMORY.md saturen el contexto de Claude Code: una arquitectura de descarga fundamentada en l |
+| 8 | [jleonceo/agent-memory-governance](https://github.com/jleonceo/agent-memory-governance) | 0 | Python | 2026-07-22 | Gobernanza de memoria persistente para agentes IA: linter de corpus, log automático y citas re-ejecutables. Tres piezas  |
+| 9 | [use-crux/crux](https://github.com/use-crux/crux) | 0 | TypeScript | 2026-07-22 | Typed building blocks for everything around your LLM call. |
+| 10 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 0 | JavaScript | 2026-07-22 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 11 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-07-22 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 12 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-07-22 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 13 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-22 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 14 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-07-22 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
+| 15 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-07-22 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 16 | [arndvs/ctrlshft](https://github.com/arndvs/ctrlshft) | 0 | Shell | 2026-07-22 | The system your AI agents are missing — synced instructions, workflow skills, hardened secrets, and autonomous loops acr |
+| 17 | [toverux/grimoire](https://github.com/toverux/grimoire) | 1 | TypeScript | 2026-07-22 | 🤖 Curated agent skills for AI agents — one coherent engineering loop that compounds: grill → spec → implement → review → |
+| 18 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 7 | Python | 2026-07-22 | State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software — 40+ domain & language skil |
+| 19 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 823 | Swift | 2026-07-22 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
+| 20 | [archubbuck/workspace-architect](https://github.com/archubbuck/workspace-architect) | 17 | Python | 2026-07-22 | Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a |
+| 21 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10678 | Python | 2026-07-22 | AI Observability & Evaluation |
 | 22 | [SidharthKriplani/genai-systems-lab](https://github.com/SidharthKriplani/genai-systems-lab) | 1 | JavaScript | 2026-07-22 | Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs — RAG failure simulation,  |
 | 23 | [TimIsabella/HighSignalPrompting](https://github.com/TimIsabella/HighSignalPrompting) | 1 | Python | 2026-07-22 | Structured prompting convention to optimize reasoning precision, execution consistency, and token efficiency |
 | 24 | [llwslc/proteus](https://github.com/llwslc/proteus) | 0 | HTML | 2026-07-22 | UI kits grown by AI from a prompt-tree spec — one 37-control Base UI contract, six radically different design languages, |
