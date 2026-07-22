@@ -1,12 +1,48 @@
 [
   {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
+    "description": "A Claude Code orchestration protocol prototype for approved plans, bounded agent roles, and verified parallel work.",
+    "id": "Jacky040124/claude-team-orchestrator",
+    "language": "\u2014",
+    "name": "Jacky040124/claude-team-orchestrator",
+    "stars": 4,
+    "updated_at": "2026-07-22T00:44:40Z",
+    "url": "https://github.com/Jacky040124/claude-team-orchestrator"
+  },
+  {
+    "description": "Framework port\u00e1til de governan\u00e7a para agentes de IA: requisitos determin\u00edsticos, contexto enxuto e fluxos audit\u00e1veis par",
+    "id": "jcempro/agents.md",
+    "language": "JavaScript",
+    "name": "jcempro/agents.md",
     "stars": 1,
-    "updated_at": "2026-07-22T00:26:59Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
+    "updated_at": "2026-07-22T00:43:28Z",
+    "url": "https://github.com/jcempro/agents.md"
+  },
+  {
+    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
+    "id": "danlex/suno-lab",
+    "language": "Python",
+    "name": "danlex/suno-lab",
+    "stars": 8,
+    "updated_at": "2026-07-22T00:41:22Z",
+    "url": "https://github.com/danlex/suno-lab"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 807,
+    "updated_at": "2026-07-22T00:38:30Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Hypothesis-driven problem solving for AI agents: probe, falsify, escalate \u2014 never blind-retry. MCP server + agent skill ",
+    "id": "1111111111111111111114oLvT2/inquisitor",
+    "language": "Python",
+    "name": "1111111111111111111114oLvT2/inquisitor",
+    "stars": 4,
+    "updated_at": "2026-07-22T00:37:20Z",
+    "url": "https://github.com/1111111111111111111114oLvT2/inquisitor"
   },
   {
     "description": "Smart git diff context for LLMs - selects the minimal code fragments needed to understand a change. Also exports full co",
@@ -14,8 +50,35 @@
     "language": "Rust",
     "name": "nikolay-e/diffctx",
     "stars": 2,
-    "updated_at": "2026-07-22T00:25:53Z",
+    "updated_at": "2026-07-22T00:33:11Z",
     "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-07-22T00:32:24Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-22T00:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-07-22T00:26:59Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
   },
   {
     "description": "A terminal script manager and launcher for humans and AI agents: Put any script, prompt, or program in one library; skit",
@@ -81,15 +144,6 @@
     "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
-    "description": "126+ iterative Suno AI prompts for cinematic orchestral music. 16 architectural forms explored (bolero, passacaglia, fug",
-    "id": "danlex/suno-lab",
-    "language": "Python",
-    "name": "danlex/suno-lab",
-    "stars": 8,
-    "updated_at": "2026-07-22T00:19:10Z",
-    "url": "https://github.com/danlex/suno-lab"
-  },
-  {
     "description": "A modular Python AI Interview Agent demonstrating local LLM integration, prompt engineering, interview workflow automati",
     "id": "nirajnale/smarthire-ai-interview-agent",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T00:16:48Z",
     "url": "https://github.com/nskit-io/avatar-chat"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-22T00:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A profession-agnostic Agent Skills OS that interviews how you work, compiles a personalized workflow architecture, and i",
@@ -221,7 +266,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23467,
-    "updated_at": "2026-07-22T00:29:44Z",
+    "updated_at": "2026-07-22T00:41:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -270,15 +315,6 @@
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
   },
   {
-    "description": "Framework port\u00e1til de governan\u00e7a para agentes de IA: requisitos determin\u00edsticos, contexto enxuto e fluxos audit\u00e1veis par",
-    "id": "jcempro/agents.md",
-    "language": "JavaScript",
-    "name": "jcempro/agents.md",
-    "stars": 1,
-    "updated_at": "2026-07-21T23:58:42Z",
-    "url": "https://github.com/jcempro/agents.md"
-  },
-  {
     "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
     "id": "Asir11/langgraph-agentic-workflows-tutorial",
     "language": "HTML",
@@ -301,7 +337,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 8966,
+    "stars": 8968,
     "updated_at": "2026-07-21T23:57:58Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T23:50:49Z",
     "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:50:44Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:50:41Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Typed building blocks for everything around your LLM call.",
-    "id": "use-crux/crux",
-    "language": "TypeScript",
-    "name": "use-crux/crux",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:49:26Z",
-    "url": "https://github.com/use-crux/crux"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:48:32Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
   }
 ]
