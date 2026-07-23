@@ -1,5 +1,59 @@
 [
   {
+    "description": "Domain experts skill for Claude Code \u2014 summon 1-3 opinionated experts (fields, schools of thought, named people) from a ",
+    "id": "xtompie/expert",
+    "language": "\u2014",
+    "name": "xtompie/expert",
+    "stars": 0,
+    "updated_at": "2026-07-23T21:17:41Z",
+    "url": "https://github.com/xtompie/expert"
+  },
+  {
+    "description": "Unified AI collaboration rules \u2014 5 profiles, 13 capability packs, multi-tool sync (Claude/Gemini/Cursor/Copilot/Trae). R",
+    "id": "weed33834/AI-RULE",
+    "language": "Python",
+    "name": "weed33834/AI-RULE",
+    "stars": 3,
+    "updated_at": "2026-07-23T21:16:48Z",
+    "url": "https://github.com/weed33834/AI-RULE"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-07-23T21:16:02Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-23T21:15:59Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-23T21:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "20 power-user skills for Claude Code: session memory and consolidation, context compression, multi-agent orchestration, ",
+    "id": "irfad7/claude-power-skills",
+    "language": "\u2014",
+    "name": "irfad7/claude-power-skills",
+    "stars": 4,
+    "updated_at": "2026-07-23T21:15:26Z",
+    "url": "https://github.com/irfad7/claude-power-skills"
+  },
+  {
     "description": "Give Claude your law firm's memory. A CLAUDE.md template plus voice, intake rules, templates and matter notes in one fol",
     "id": "irfad7/Firm-Brain-Starter",
     "language": "\u2014",
@@ -7,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-07-23T21:14:45Z",
     "url": "https://github.com/irfad7/Firm-Brain-Starter"
+  },
+  {
+    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude. foundation: eight standalone smiths that build, audit, a",
+    "id": "revenantworks/citadel",
+    "language": "HTML",
+    "name": "revenantworks/citadel",
+    "stars": 0,
+    "updated_at": "2026-07-23T21:14:37Z",
+    "url": "https://github.com/revenantworks/citadel"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -144,15 +207,6 @@
     "url": "https://github.com/omar-y-abdi/furl-ctx"
   },
   {
-    "description": "Domain experts skill for Claude Code \u2014 summon 1-3 opinionated experts (fields, schools of thought, named people) from a ",
-    "id": "xtompie/expert",
-    "language": "\u2014",
-    "name": "xtompie/expert",
-    "stars": 0,
-    "updated_at": "2026-07-23T21:07:14Z",
-    "url": "https://github.com/xtompie/expert"
-  },
-  {
     "description": "\u26a1 The prompt amplifier \u2014 open-source BYOK prompt enhancer for any input field on any site. Chrome \u00b7 Firefox \u00b7 Edge",
     "id": "Sina-Amare/promptamp",
     "language": "TypeScript",
@@ -187,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-07-23T21:05:52Z",
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude. foundation: eight standalone smiths that build, audit, a",
-    "id": "revenantworks/citadel",
-    "language": "HTML",
-    "name": "revenantworks/citadel",
-    "stars": 0,
-    "updated_at": "2026-07-23T21:14:37Z",
-    "url": "https://github.com/revenantworks/citadel"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -248,17 +293,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10703,
-    "updated_at": "2026-07-23T21:00:36Z",
+    "updated_at": "2026-07-23T21:16:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-23T21:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "RealityPrompt Engine \u2014 g\u00e9n\u00e9rateur de prompts \u00e9ditoriaux, React + IA (Google Gemini via serverless)",
@@ -412,41 +448,5 @@
     "stars": 6980,
     "updated_at": "2026-07-23T20:52:02Z",
     "url": "https://github.com/kyegomez/swarms"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 54,
-    "updated_at": "2026-07-23T20:48:42Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 23,
-    "updated_at": "2026-07-23T20:48:34Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-07-23T20:47:04Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-07-23T20:46:26Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   }
 ]
