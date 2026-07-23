@@ -1,5 +1,113 @@
 [
   {
+    "description": "Platform-neutral Agent Skill for building focused routers from overlapping skills.",
+    "id": "youaifuou/skill-router",
+    "language": "\u2014",
+    "name": "youaifuou/skill-router",
+    "stars": 1,
+    "updated_at": "2026-07-23T05:44:04Z",
+    "url": "https://github.com/youaifuou/skill-router"
+  },
+  {
+    "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
+    "id": "hilmifawwazsaad/DidYouKnow",
+    "language": "TypeScript",
+    "name": "hilmifawwazsaad/DidYouKnow",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:42:31Z",
+    "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
+  },
+  {
+    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
+    "id": "LouisLau-art/multi-agent-skills-catalog",
+    "language": "Python",
+    "name": "LouisLau-art/multi-agent-skills-catalog",
+    "stars": 2,
+    "updated_at": "2026-07-23T05:37:56Z",
+    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-23T05:37:19Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 5030,
+    "updated_at": "2026-07-23T05:36:52Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-23T05:35:11Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
+    "id": "pranavkafle/serpapi-mcp-catalog",
+    "language": "Python",
+    "name": "pranavkafle/serpapi-mcp-catalog",
+    "stars": 1,
+    "updated_at": "2026-07-23T05:34:51Z",
+    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
+  },
+  {
+    "description": "Lightweight Claude Code skills for daily AI-assisted development workflows.",
+    "id": "Chrike/coding-agent-skills",
+    "language": "JavaScript",
+    "name": "Chrike/coding-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:34:29Z",
+    "url": "https://github.com/Chrike/coding-agent-skills"
+  },
+  {
+    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
+    "id": "xvyimu/MindSync",
+    "language": "TypeScript",
+    "name": "xvyimu/MindSync",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:31:21Z",
+    "url": "https://github.com/xvyimu/MindSync"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20782,
+    "updated_at": "2026-07-23T05:31:06Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:30:29Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-23T05:30:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -27,15 +135,6 @@
     "url": "https://github.com/wrg32786/aigent-os"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-23T05:30:14Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "Stops your AI agent from committing to the first idea that compiles. Brainstorm, stress-test, then build \u2014 with ATAM and",
     "id": "Arsxxi/iterative-dev-workflow",
     "language": "JavaScript",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "dgenio/contextweaver",
     "stars": 8,
-    "updated_at": "2026-07-23T05:23:04Z",
+    "updated_at": "2026-07-23T05:42:41Z",
     "url": "https://github.com/dgenio/contextweaver"
   },
   {
@@ -99,31 +198,13 @@
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-23T05:16:09Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10686,
-    "updated_at": "2026-07-23T05:15:47Z",
+    "updated_at": "2026-07-23T05:40:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 5030,
-    "updated_at": "2026-07-23T05:07:35Z",
-    "url": "https://github.com/vllm-project/semantic-router"
   },
   {
     "description": "\ud83d\udcca Git-style diff and version control for LLM prompts",
@@ -149,7 +230,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 810,
-    "updated_at": "2026-07-23T05:16:15Z",
+    "updated_at": "2026-07-23T05:44:58Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -160,15 +241,6 @@
     "stars": 12928,
     "updated_at": "2026-07-23T05:03:06Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
-    "id": "xvyimu/MindSync",
-    "language": "TypeScript",
-    "name": "xvyimu/MindSync",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:02:16Z",
-    "url": "https://github.com/xvyimu/MindSync"
   },
   {
     "description": "[M2] Fast prompt authoring & management desktop app \u2014 multi-section Markdown/WYSIWYG editor, snippet palettes, structure",
@@ -266,7 +338,7 @@
     "language": "\u2014",
     "name": "nicmeliones/pancakes-for-protagonists",
     "stars": 0,
-    "updated_at": "2026-07-23T04:46:21Z",
+    "updated_at": "2026-07-23T05:44:17Z",
     "url": "https://github.com/nicmeliones/pancakes-for-protagonists"
   },
   {
@@ -275,7 +347,7 @@
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 2,
-    "updated_at": "2026-07-23T04:45:28Z",
+    "updated_at": "2026-07-23T05:45:15Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 153,
     "updated_at": "2026-07-23T04:20:44Z",
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "An open-source AI skill for commercial SVG research, strategy, and premium prompt engineering \u2014 for Etsy sellers using C",
-    "id": "moiz-za/svg-design-intelligence-system",
-    "language": "Markdown",
-    "name": "moiz-za/svg-design-intelligence-system",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:20:38Z",
-    "url": "https://github.com/moiz-za/svg-design-intelligence-system"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 155,
-    "updated_at": "2026-07-23T04:18:40Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-23T04:18:35Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 155,
-    "updated_at": "2026-07-23T04:18:09Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Open-source Agentic Operating System for building AI teams. Create modular Skills, Agents, Meta-Agents, Workflows, Memor",
-    "id": "Pouya-Mansournia/FoundryOS",
-    "language": "Python",
-    "name": "Pouya-Mansournia/FoundryOS",
-    "stars": 4,
-    "updated_at": "2026-07-23T04:17:52Z",
-    "url": "https://github.com/Pouya-Mansournia/FoundryOS"
-  },
-  {
-    "description": "My personal Claude setup \u2013 11 custom skills, CLAUDE.md config and a complete prompting guide for vibe coding and multi-a",
-    "id": "DjordjeMojsilovic/Djordjes-Claude-Setup",
-    "language": "\u2014",
-    "name": "DjordjeMojsilovic/Djordjes-Claude-Setup",
-    "stars": 4,
-    "updated_at": "2026-07-23T04:17:35Z",
-    "url": "https://github.com/DjordjeMojsilovic/Djordjes-Claude-Setup"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 152,
-    "updated_at": "2026-07-23T04:13:28Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:12:51Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   }
 ]
