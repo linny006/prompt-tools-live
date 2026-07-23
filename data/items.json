@@ -1,5 +1,104 @@
 [
   {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "Go",
+    "name": "sachncs/promptsheon",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:14:35Z",
+    "url": "https://github.com/sachncs/promptsheon"
+  },
+  {
+    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
+    "id": "F-e-u-e-r/opus-pack",
+    "language": "Python",
+    "name": "F-e-u-e-r/opus-pack",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:14:29Z",
+    "url": "https://github.com/F-e-u-e-r/opus-pack"
+  },
+  {
+    "description": "Copy-paste AI prompts (\"spells\") for high-agency builders \u2014 company-level output from a single human. Each post ships a ",
+    "id": "nicmeliones/pancakes-for-protagonists",
+    "language": "\u2014",
+    "name": "nicmeliones/pancakes-for-protagonists",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:13:57Z",
+    "url": "https://github.com/nicmeliones/pancakes-for-protagonists"
+  },
+  {
+    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
+    "id": "xvyimu/MindSync",
+    "language": "TypeScript",
+    "name": "xvyimu/MindSync",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:13:16Z",
+    "url": "https://github.com/xvyimu/MindSync"
+  },
+  {
+    "description": "German AI Text Humanizer for Claude Code & Codex. Audits 69 German AI-writing patterns using deterministic linters and e",
+    "id": "marmbiz/humanizer-de",
+    "language": "Python",
+    "name": "marmbiz/humanizer-de",
+    "stars": 66,
+    "updated_at": "2026-07-23T06:11:51Z",
+    "url": "https://github.com/marmbiz/humanizer-de"
+  },
+  {
+    "description": "Source Code for ECAI 2024 Paper \"Leveraging Foundation Models for Zero-Shot IoT Sensing\"",
+    "id": "schrodingho/FM_ZSL_IoT",
+    "language": "Python",
+    "name": "schrodingho/FM_ZSL_IoT",
+    "stars": 14,
+    "updated_at": "2026-07-23T06:07:17Z",
+    "url": "https://github.com/schrodingho/FM_ZSL_IoT"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-07-23T06:06:06Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "Snippets and prompts that expand wherever you type. One library, synced across Chrome and mobile.  Stress the model, not",
+    "id": "locoprice/SprintBrain",
+    "language": "TypeScript",
+    "name": "locoprice/SprintBrain",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:03:57Z",
+    "url": "https://github.com/locoprice/SprintBrain"
+  },
+  {
+    "description": "\u4ece\u5546\u54c1\u53c2\u8003\u56fe\u6df1\u5ea6\u63a8\u6f14\u6700\u5c0f\u5145\u5206\u56fe\u7ec4\uff0c\u8f93\u51fa\u9010\u5f20\u4e2d\u6587\u56fe\u751f\u56fe\u5206\u955c\u63d0\u793a\u8bcd\uff0c\u5e76\u652f\u6301\u53ef\u9009\u751f\u56fe\u3002",
+    "id": "GOOOXG/ecommerce-detail-page-skill",
+    "language": "Python",
+    "name": "GOOOXG/ecommerce-detail-page-skill",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:03:56Z",
+    "url": "https://github.com/GOOOXG/ecommerce-detail-page-skill"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 2,
+    "updated_at": "2026-07-23T06:01:08Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-23T06:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Gemini Omni API Prompts collection updated in real time every day, designed to help creators find inspiration faster. Fr",
     "id": "AtlasCloudAI/awesome-gemini-omni-prompts",
     "language": "JavaScript",
@@ -216,15 +315,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-23T05:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Platform-neutral Agent Skill for building focused routers from overlapping skills.",
     "id": "youaifuou/skill-router",
     "language": "\u2014",
@@ -248,8 +338,17 @@
     "language": "JavaScript",
     "name": "tensely0228/intent-clarifier",
     "stars": 0,
-    "updated_at": "2026-07-23T05:42:19Z",
+    "updated_at": "2026-07-23T06:10:35Z",
     "url": "https://github.com/tensely0228/intent-clarifier"
+  },
+  {
+    "description": "Runtime-aware Skill routing for Codex: choose the smallest verifiable Skill set across single tasks, phased work, and ma",
+    "id": "eric861129/Workflow-skill-router",
+    "language": "Python",
+    "name": "eric861129/Workflow-skill-router",
+    "stars": 8,
+    "updated_at": "2026-07-23T05:39:04Z",
+    "url": "https://github.com/eric861129/Workflow-skill-router"
   },
   {
     "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
@@ -297,20 +396,11 @@
     "url": "https://github.com/Chrike/coding-agent-skills"
   },
   {
-    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
-    "id": "xvyimu/MindSync",
-    "language": "TypeScript",
-    "name": "xvyimu/MindSync",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:31:21Z",
-    "url": "https://github.com/xvyimu/MindSync"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20781,
+    "stars": 20783,
     "updated_at": "2026-07-23T05:31:06Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T05:22:29Z",
     "url": "https://github.com/Arsxxi/iterative-dev-workflow"
-  },
-  {
-    "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
-    "id": "dgenio/contextweaver",
-    "language": "Python",
-    "name": "dgenio/contextweaver",
-    "stars": 8,
-    "updated_at": "2026-07-23T05:42:41Z",
-    "url": "https://github.com/dgenio/contextweaver"
-  },
-  {
-    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
-    "id": "Kiln-AI/Kiln",
-    "language": "Python",
-    "name": "Kiln-AI/Kiln",
-    "stars": 4969,
-    "updated_at": "2026-07-23T05:58:08Z",
-    "url": "https://github.com/Kiln-AI/Kiln"
-  },
-  {
-    "description": "Observable AI behavior research using question-taxonomy analysis and coding-agent tool-call traces.",
-    "id": "js2dosan/agent-question-and-tool-trace-research",
-    "language": "Python",
-    "name": "js2dosan/agent-question-and-tool-trace-research",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:18:44Z",
-    "url": "https://github.com/js2dosan/agent-question-and-tool-trace-research"
-  },
-  {
-    "description": "AiRouter - 345+ expert AI agents with intelligent routing. One prompt, matched to the best specialist. \u667a\u80fdAI\u4e13\u5bb6\u8def\u7531\u3002",
-    "id": "ya-chang/airouter",
-    "language": "TypeScript",
-    "name": "ya-chang/airouter",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:18:13Z",
-    "url": "https://github.com/ya-chang/airouter"
-  },
-  {
-    "description": "Open-source coding agent for real software work. Plans, reviews, and implements tasks with an explicit, inspectable inst",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:51:25Z",
-    "url": "https://github.com/gthgomez/Babel"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:17:25Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10686,
-    "updated_at": "2026-07-23T05:40:05Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83d\udcca Git-style diff and version control for LLM prompts",
-    "id": "ManasVardhan/promptdiff",
-    "language": "Python",
-    "name": "ManasVardhan/promptdiff",
-    "stars": 1,
-    "updated_at": "2026-07-23T05:06:24Z",
-    "url": "https://github.com/ManasVardhan/promptdiff"
-  },
-  {
-    "description": "\u4ece\u5546\u54c1\u53c2\u8003\u56fe\u6df1\u5ea6\u63a8\u6f14\u6700\u5c0f\u5145\u5206\u56fe\u7ec4\uff0c\u8f93\u51fa\u9010\u5f20\u4e2d\u6587\u56fe\u751f\u56fe\u5206\u955c\u63d0\u793a\u8bcd\uff0c\u5e76\u652f\u6301\u53ef\u9009\u751f\u56fe\u3002",
-    "id": "GOOOXG/ecommerce-detail-page-skill",
-    "language": "Python",
-    "name": "GOOOXG/ecommerce-detail-page-skill",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:06:12Z",
-    "url": "https://github.com/GOOOXG/ecommerce-detail-page-skill"
-  },
-  {
-    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
-    "id": "promptdriven/pdd",
-    "language": "Python",
-    "name": "promptdriven/pdd",
-    "stars": 810,
-    "updated_at": "2026-07-23T05:44:58Z",
-    "url": "https://github.com/promptdriven/pdd"
   }
 ]
