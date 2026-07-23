@@ -1,12 +1,30 @@
 [
   {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12935,
-    "updated_at": "2026-07-23T16:30:09Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4128,
+    "updated_at": "2026-07-23T16:45:13Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "Codes and projects from the 12-week Generative AI & Computer Vision bootcamp at Hamrah Academy. Covering CNNs, GANs, Dif",
+    "id": "ErfanMasoudiBA/GenAI-Vision-Bootcamp",
+    "language": "Jupyter Notebook",
+    "name": "ErfanMasoudiBA/GenAI-Vision-Bootcamp",
+    "stars": 2,
+    "updated_at": "2026-07-23T16:44:58Z",
+    "url": "https://github.com/ErfanMasoudiBA/GenAI-Vision-Bootcamp"
+  },
+  {
+    "description": "AI keeps skipping steps? Super-Spec enforces every step with evidence. Seven-gate engineering discipline for AI coding a",
+    "id": "wlj103/super-spec",
+    "language": "\u2014",
+    "name": "wlj103/super-spec",
+    "stars": 1,
+    "updated_at": "2026-07-23T16:44:50Z",
+    "url": "https://github.com/wlj103/super-spec"
   },
   {
     "description": "Prompt Engineering Tool: Anti-Ambiguity \u00d7 Web Pre-Search \u00d7 ELO Ranking \u2014 forge production-grade AI prompts for Claude, G",
@@ -14,8 +32,152 @@
     "language": "\u2014",
     "name": "wlj103/super-prompt",
     "stars": 2,
-    "updated_at": "2026-07-23T16:28:07Z",
+    "updated_at": "2026-07-23T16:44:41Z",
     "url": "https://github.com/wlj103/super-prompt"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31733,
+    "updated_at": "2026-07-23T16:44:35Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse-backend",
+    "language": "Python",
+    "name": "StephenQiu30/lanverse-backend",
+    "stars": 1,
+    "updated_at": "2026-07-23T16:43:59Z",
+    "url": "https://github.com/StephenQiu30/lanverse-backend"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 476,
+    "updated_at": "2026-07-23T16:44:48Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "A hands-on progression through the modern LLM stack on a 1.5B CPU model: prompt engineering, RAG from scratch, and tool-",
+    "id": "dgsolera-ai/llm-systems-from-scratch",
+    "language": "Jupyter Notebook",
+    "name": "dgsolera-ai/llm-systems-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-07-23T16:43:08Z",
+    "url": "https://github.com/dgsolera-ai/llm-systems-from-scratch"
+  },
+  {
+    "description": "A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and pa",
+    "id": "google/mantis",
+    "language": "\u2014",
+    "name": "google/mantis",
+    "stars": 496,
+    "updated_at": "2026-07-23T16:41:57Z",
+    "url": "https://github.com/google/mantis"
+  },
+  {
+    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
+    "id": "Zyonic88/Aevryn",
+    "language": "Python",
+    "name": "Zyonic88/Aevryn",
+    "stars": 0,
+    "updated_at": "2026-07-23T16:41:19Z",
+    "url": "https://github.com/Zyonic88/Aevryn"
+  },
+  {
+    "description": "Schema-validated LLM extraction eval harness (Anthropic Claude): failure taxonomy (correct/missing/wrong/hallucinated), ",
+    "id": "johncarmack1984/llm-extract-evals",
+    "language": "TypeScript",
+    "name": "johncarmack1984/llm-extract-evals",
+    "stars": 0,
+    "updated_at": "2026-07-23T16:41:07Z",
+    "url": "https://github.com/johncarmack1984/llm-extract-evals"
+  },
+  {
+    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 5034,
+    "updated_at": "2026-07-23T16:41:03Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "Meridian - A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversa",
+    "id": "MathisVerstrepen/Meridian",
+    "language": "Python",
+    "name": "MathisVerstrepen/Meridian",
+    "stars": 20,
+    "updated_at": "2026-07-23T16:40:00Z",
+    "url": "https://github.com/MathisVerstrepen/Meridian"
+  },
+  {
+    "description": "Prompt-engineered methodology: messy music collection \u2192 clean, queryable taste profile. A Lentago Labs prompt-spec sibli",
+    "id": "lentago/music-curator",
+    "language": "Python",
+    "name": "lentago/music-curator",
+    "stars": 0,
+    "updated_at": "2026-07-23T16:37:56Z",
+    "url": "https://github.com/lentago/music-curator"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 0,
+    "updated_at": "2026-07-23T16:37:18Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "Portable Agent Skill for small, verified coding-agent changes",
+    "id": "zaingz/coding-quality-loop",
+    "language": "Python",
+    "name": "zaingz/coding-quality-loop",
+    "stars": 5,
+    "updated_at": "2026-07-23T16:36:36Z",
+    "url": "https://github.com/zaingz/coding-quality-loop"
+  },
+  {
+    "description": "Human-led AI workflows for real B2B sales work.",
+    "id": "shaunmarsden/practical-ai-sales-workflows",
+    "language": "\u2014",
+    "name": "shaunmarsden/practical-ai-sales-workflows",
+    "stars": 0,
+    "updated_at": "2026-07-23T16:38:27Z",
+    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
+  },
+  {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 6721,
+    "updated_at": "2026-07-23T16:32:10Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-23T16:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12935,
+    "updated_at": "2026-07-23T16:30:09Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -68,7 +230,7 @@
     "language": "Python",
     "name": "KudoAI/ai-personas",
     "stars": 26,
-    "updated_at": "2026-07-23T16:26:01Z",
+    "updated_at": "2026-07-23T16:31:56Z",
     "url": "https://github.com/KudoAI/ai-personas"
   },
   {
@@ -81,15 +243,6 @@
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   },
   {
-    "description": "Prompt-engineered methodology: messy music collection \u2192 clean, queryable taste profile. A Lentago Labs prompt-spec sibli",
-    "id": "lentago/music-curator",
-    "language": "Python",
-    "name": "lentago/music-curator",
-    "stars": 0,
-    "updated_at": "2026-07-23T16:25:16Z",
-    "url": "https://github.com/lentago/music-curator"
-  },
-  {
     "description": "\u26a1 The prompt amplifier \u2014 open-source BYOK prompt enhancer for any input field on any site. Chrome \u00b7 Firefox \u00b7 Edge",
     "id": "Sina-Amare/promptamp",
     "language": "TypeScript",
@@ -97,6 +250,15 @@
     "stars": 1,
     "updated_at": "2026-07-23T16:24:35Z",
     "url": "https://github.com/Sina-Amare/promptamp"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10699,
+    "updated_at": "2026-07-23T16:24:26Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A portable memory protocol for AI agents \u2014 load it as standing rules; a curation discipline + reference spec + optional ",
@@ -115,15 +277,6 @@
     "stars": 7,
     "updated_at": "2026-07-23T16:30:19Z",
     "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31732,
-    "updated_at": "2026-07-23T16:27:50Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -198,24 +351,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and pa",
-    "id": "google/mantis",
-    "language": "\u2014",
-    "name": "google/mantis",
-    "stars": 496,
-    "updated_at": "2026-07-23T16:15:34Z",
-    "url": "https://github.com/google/mantis"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-23T16:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
     "id": "llwslc/proteus",
     "language": "HTML",
@@ -241,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T16:11:07Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "AI keeps skipping steps? Super-Spec enforces every step with evidence. Seven-gate engineering discipline for AI coding a",
-    "id": "wlj103/super-spec",
-    "language": "\u2014",
-    "name": "wlj103/super-spec",
-    "stars": 1,
-    "updated_at": "2026-07-23T16:11:00Z",
-    "url": "https://github.com/wlj103/super-spec"
   },
   {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
@@ -322,131 +448,5 @@
     "stars": 113,
     "updated_at": "2026-07-23T16:00:13Z",
     "url": "https://github.com/AditthyaSS/iloveAgents"
-  },
-  {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 18,
-    "updated_at": "2026-07-23T16:00:09Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "Kill the AI slop. Prompt tools and design skills for original UI and creative workflows.",
-    "id": "Glenskii/Glenski-Toolkit",
-    "language": "Python",
-    "name": "Glenskii/Glenski-Toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:59:59Z",
-    "url": "https://github.com/Glenskii/Glenski-Toolkit"
-  },
-  {
-    "description": "Adaptive AI mock interview platform for AI Engineer roles \u2014 CrewAI multi-agent orchestration, deterministic difficulty/c",
-    "id": "ruthuraraj-ml/adaptive-ai-interview-system",
-    "language": "Python",
-    "name": "ruthuraraj-ml/adaptive-ai-interview-system",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:59:34Z",
-    "url": "https://github.com/ruthuraraj-ml/adaptive-ai-interview-system"
-  },
-  {
-    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
-    "id": "rehan243/RAG-Enterprise-Search",
-    "language": "Python",
-    "name": "rehan243/RAG-Enterprise-Search",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:57:05Z",
-    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
-    "id": "Zyonic88/Aevryn",
-    "language": "Python",
-    "name": "Zyonic88/Aevryn",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:56:05Z",
-    "url": "https://github.com/Zyonic88/Aevryn"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 3,
-    "updated_at": "2026-07-23T15:55:24Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-07-23T15:51:28Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "Lightweight Claude Code skills for daily AI-assisted development workflows.",
-    "id": "Chrike/coding-agent-skills",
-    "language": "JavaScript",
-    "name": "Chrike/coding-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:51:24Z",
-    "url": "https://github.com/Chrike/coding-agent-skills"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-07-23T15:51:08Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3415,
-    "updated_at": "2026-07-23T15:53:21Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:50:28Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:49:29Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:49:17Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:49:07Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   }
 ]
