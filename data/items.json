@@ -1,11 +1,56 @@
 [
   {
+    "description": "Kill the AI slop. Prompt tools and design skills for original UI and creative workflows.",
+    "id": "Glenskii/Glenski-Toolkit",
+    "language": "Python",
+    "name": "Glenskii/Glenski-Toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-23T20:03:49Z",
+    "url": "https://github.com/Glenskii/Glenski-Toolkit"
+  },
+  {
+    "description": "Structured prompting convention to optimize reasoning precision, execution consistency, and token efficiency",
+    "id": "TimIsabella/HighSignalPrompting",
+    "language": "Python",
+    "name": "TimIsabella/HighSignalPrompting",
+    "stars": 1,
+    "updated_at": "2026-07-23T20:03:38Z",
+    "url": "https://github.com/TimIsabella/HighSignalPrompting"
+  },
+  {
+    "description": "\u26a1 The prompt amplifier \u2014 open-source BYOK prompt enhancer for any input field on any site. Chrome \u00b7 Firefox \u00b7 Edge",
+    "id": "Sina-Amare/promptamp",
+    "language": "TypeScript",
+    "name": "Sina-Amare/promptamp",
+    "stars": 1,
+    "updated_at": "2026-07-23T20:03:22Z",
+    "url": "https://github.com/Sina-Amare/promptamp"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-23T20:02:42Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-23T20:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
     "id": "ariffazil/arifos",
     "language": "Python",
     "name": "ariffazil/arifos",
     "stars": 49,
-    "updated_at": "2026-07-23T19:57:32Z",
+    "updated_at": "2026-07-23T20:00:30Z",
     "url": "https://github.com/ariffazil/arifos"
   },
   {
@@ -23,7 +68,7 @@
     "language": "TypeScript",
     "name": "jmagly/aiwg",
     "stars": 168,
-    "updated_at": "2026-07-23T19:57:23Z",
+    "updated_at": "2026-07-23T20:03:21Z",
     "url": "https://github.com/jmagly/aiwg"
   },
   {
@@ -70,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-07-23T19:54:30Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27184,
+    "updated_at": "2026-07-23T19:52:28Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -153,15 +207,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-23T19:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -169,33 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T19:43:48Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "\u26a1 The prompt amplifier \u2014 open-source BYOK prompt enhancer for any input field on any site. Chrome \u00b7 Firefox \u00b7 Edge",
-    "id": "Sina-Amare/promptamp",
-    "language": "TypeScript",
-    "name": "Sina-Amare/promptamp",
-    "stars": 1,
-    "updated_at": "2026-07-23T19:42:20Z",
-    "url": "https://github.com/Sina-Amare/promptamp"
-  },
-  {
-    "description": "Structured prompting convention to optimize reasoning precision, execution consistency, and token efficiency",
-    "id": "TimIsabella/HighSignalPrompting",
-    "language": "Python",
-    "name": "TimIsabella/HighSignalPrompting",
-    "stars": 1,
-    "updated_at": "2026-07-23T19:41:57Z",
-    "url": "https://github.com/TimIsabella/HighSignalPrompting"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27183,
-    "updated_at": "2026-07-23T19:52:28Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -223,15 +241,6 @@
     "stars": 10,
     "updated_at": "2026-07-23T19:35:08Z",
     "url": "https://github.com/JHostalek/dotclaude"
-  },
-  {
-    "description": "Kill the AI slop. Prompt tools and design skills for original UI and creative workflows.",
-    "id": "Glenskii/Glenski-Toolkit",
-    "language": "Python",
-    "name": "Glenskii/Glenski-Toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:35:06Z",
-    "url": "https://github.com/Glenskii/Glenski-Toolkit"
   },
   {
     "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T19:02:27Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:02:26Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   }
 ]
