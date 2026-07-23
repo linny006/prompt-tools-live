@@ -1,12 +1,57 @@
 [
   {
-    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
-    "id": "solo-vey/Ordo",
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 3,
+    "updated_at": "2026-07-23T11:29:50Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "AI keeps skipping steps? Super-Spec enforces every step with evidence. Stop vibe coding, start spec driving. Anti-corner",
+    "id": "wlj103/super-spec",
+    "language": "\u2014",
+    "name": "wlj103/super-spec",
+    "stars": 1,
+    "updated_at": "2026-07-23T11:27:33Z",
+    "url": "https://github.com/wlj103/super-spec"
+  },
+  {
+    "description": "Route your prompts to the right AI by enchanting it: coding tasks to Claude   Code, simple questions to your local model",
+    "id": "PTB-0/prompt-router",
+    "language": "TypeScript",
+    "name": "PTB-0/prompt-router",
+    "stars": 1,
+    "updated_at": "2026-07-23T11:27:13Z",
+    "url": "https://github.com/PTB-0/prompt-router"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31716,
+    "updated_at": "2026-07-23T11:28:13Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "solo-vey/Ordo",
-    "stars": 0,
-    "updated_at": "2026-07-23T11:15:01Z",
-    "url": "https://github.com/solo-vey/Ordo"
+    "name": "comet-ml/opik",
+    "stars": 20793,
+    "updated_at": "2026-07-23T11:24:06Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "C\u00f3digo, artefactos y ejemplos del libro \u00abDel vibe coding al Spec-Driven Development: Spec-Kit y agentes de IA en proyect",
+    "id": "JoaquinRuiz/del-vibe-coding-al-spec-driven-development-libro",
+    "language": "Shell",
+    "name": "JoaquinRuiz/del-vibe-coding-al-spec-driven-development-libro",
+    "stars": 1,
+    "updated_at": "2026-07-23T11:22:46Z",
+    "url": "https://github.com/JoaquinRuiz/del-vibe-coding-al-spec-driven-development-libro"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -14,8 +59,71 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3413,
-    "updated_at": "2026-07-23T11:14:33Z",
+    "updated_at": "2026-07-23T11:21:43Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 10,
+    "updated_at": "2026-07-23T11:21:26Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
+    "id": "xvyimu/MindSync",
+    "language": "TypeScript",
+    "name": "xvyimu/MindSync",
+    "stars": 0,
+    "updated_at": "2026-07-23T11:21:04Z",
+    "url": "https://github.com/xvyimu/MindSync"
+  },
+  {
+    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
+    "id": "Sungmin-Cho/claude-deep-suite",
+    "language": "JavaScript",
+    "name": "Sungmin-Cho/claude-deep-suite",
+    "stars": 6,
+    "updated_at": "2026-07-23T11:18:57Z",
+    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
+  },
+  {
+    "description": "Reusable, cross-platform Agent Skills by ohmuyi.",
+    "id": "ohmuyi/muyi-skills",
+    "language": "Python",
+    "name": "ohmuyi/muyi-skills",
+    "stars": 0,
+    "updated_at": "2026-07-23T11:17:22Z",
+    "url": "https://github.com/ohmuyi/muyi-skills"
+  },
+  {
+    "description": "\u26a1 The prompt amplifier \u2014 open-source BYOK prompt enhancer for any input field on any site. Chrome \u00b7 Firefox \u00b7 Edge",
+    "id": "Sina-Amare/promptamp",
+    "language": "TypeScript",
+    "name": "Sina-Amare/promptamp",
+    "stars": 1,
+    "updated_at": "2026-07-23T11:16:16Z",
+    "url": "https://github.com/Sina-Amare/promptamp"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-23T11:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
+    "id": "solo-vey/Ordo",
+    "language": "Python",
+    "name": "solo-vey/Ordo",
+    "stars": 0,
+    "updated_at": "2026-07-23T11:28:33Z",
+    "url": "https://github.com/solo-vey/Ordo"
   },
   {
     "description": "\u628a\u56fe\u7247\u4e2d\u7684\u5173\u952e\u89c6\u89c9\u5143\u7d20\u66ff\u6362\u6210\u5976\u9f99\uff0c\u540c\u65f6\u4fdd\u7559\u6784\u56fe\u3001\u6587\u5b57\u4e0e\u753b\u98ce\u3002",
@@ -63,6 +171,15 @@
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   },
   {
+    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
+    "id": "Atheerameer/agentic-cli-blueprint-library",
+    "language": "HTML",
+    "name": "Atheerameer/agentic-cli-blueprint-library",
+    "stars": 1,
+    "updated_at": "2026-07-23T11:10:02Z",
+    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
+  },
+  {
     "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
     "id": "Asir11/langgraph-agentic-workflows-tutorial",
     "language": "HTML",
@@ -81,15 +198,6 @@
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
   },
   {
-    "description": "AI keeps skipping steps? Super-Spec enforces every step with evidence. Anti-corner-cutting, evidence-based verification,",
-    "id": "wlj103/super-spec",
-    "language": "\u2014",
-    "name": "wlj103/super-spec",
-    "stars": 1,
-    "updated_at": "2026-07-23T11:09:27Z",
-    "url": "https://github.com/wlj103/super-spec"
-  },
-  {
     "description": "Composable multi-agent framework for GitHub Copilot \u2014 persona grafting, cognitive identity caching, and agent fusion for",
     "id": "CTOUT/Symdicate",
     "language": "Shell",
@@ -97,6 +205,15 @@
     "stars": 1,
     "updated_at": "2026-07-23T11:08:33Z",
     "url": "https://github.com/CTOUT/Symdicate"
+  },
+  {
+    "description": "Practice-built skills that give AI agents practical judgment for product, web, engineering, delivery, go-to-market, comm",
+    "id": "sebastian-software/skills.sebastian-software.com",
+    "language": "Python",
+    "name": "sebastian-software/skills.sebastian-software.com",
+    "stars": 0,
+    "updated_at": "2026-07-23T11:08:22Z",
+    "url": "https://github.com/sebastian-software/skills.sebastian-software.com"
   },
   {
     "description": "Portable, validation-first workspace and localhost gateway foundation for governed multi-agent development.",
@@ -135,15 +252,6 @@
     "url": "https://github.com/derob98/ailmanac"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31716,
-    "updated_at": "2026-07-23T11:12:30Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Free prompt templates for Claude, ChatGPT, and developers: code review, debugging, security, architecture, and AI workfl",
     "id": "HumanKaylee/prompt-starter-pack",
     "language": "HTML",
@@ -151,6 +259,15 @@
     "stars": 1,
     "updated_at": "2026-07-23T11:05:30Z",
     "url": "https://github.com/HumanKaylee/prompt-starter-pack"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4126,
+    "updated_at": "2026-07-23T11:20:00Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -234,15 +351,6 @@
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-23T11:00:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
     "id": "truongnat/simple-skills",
     "language": "Python",
@@ -288,15 +396,6 @@
     "url": "https://github.com/atc-net/atc-agentic-toolkit"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 3,
-    "updated_at": "2026-07-23T10:54:14Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "\ud83c\udfa8 Curated Seedream 5.0 Pro prompts with previews \u2014 auto-generated README, EN/\u4e2d\u6587",
     "id": "velokey-ai/awesome-seedream-5.0-pro-prompts",
     "language": "Python",
@@ -306,6 +405,15 @@
     "url": "https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts"
   },
   {
+    "description": "A Claude Code skill that turns vague requirements into production-grade specs \u2014 by interviewing you like a senior archit",
+    "id": "Sorbh/interview-me",
+    "language": "\u2014",
+    "name": "Sorbh/interview-me",
+    "stars": 39,
+    "updated_at": "2026-07-23T10:53:19Z",
+    "url": "https://github.com/Sorbh/interview-me"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -313,24 +421,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T10:53:17Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4126,
-    "updated_at": "2026-07-23T11:05:27Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20792,
-    "updated_at": "2026-07-23T11:13:45Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
@@ -347,26 +437,8 @@
     "language": "\u2014",
     "name": "Vaibhavchauhan-ops/practical-ai-for-business-operations",
     "stars": 0,
-    "updated_at": "2026-07-23T11:07:08Z",
+    "updated_at": "2026-07-23T11:18:11Z",
     "url": "https://github.com/Vaibhavchauhan-ops/practical-ai-for-business-operations"
-  },
-  {
-    "description": "Practice-built skills that give AI agents practical judgment for product, web, engineering, delivery, go-to-market, comm",
-    "id": "sebastian-software/skills.sebastian-software.com",
-    "language": "Python",
-    "name": "sebastian-software/skills.sebastian-software.com",
-    "stars": 0,
-    "updated_at": "2026-07-23T11:08:22Z",
-    "url": "https://github.com/sebastian-software/skills.sebastian-software.com"
-  },
-  {
-    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
-    "id": "AltairaLabs/PromptKit",
-    "language": "Go",
-    "name": "AltairaLabs/PromptKit",
-    "stars": 10,
-    "updated_at": "2026-07-23T11:12:56Z",
-    "url": "https://github.com/AltairaLabs/PromptKit"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -376,77 +448,5 @@
     "stars": 174,
     "updated_at": "2026-07-23T10:49:05Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "A hands-on exploration of Generative AI - prompt engineering, LLMs, agentic systems, RAG, and LangGraph workflows.",
-    "id": "devanshibhatt23/GenAI-Course",
-    "language": "Python",
-    "name": "devanshibhatt23/GenAI-Course",
-    "stars": 0,
-    "updated_at": "2026-07-23T10:46:16Z",
-    "url": "https://github.com/devanshibhatt23/GenAI-Course"
-  },
-  {
-    "description": "AI-powered Streamlit application that converts vague civil engineering questions into optimized prompts, generates struc",
-    "id": "LARSA-ux/Civil-AI-Prompt-Studio",
-    "language": "Python",
-    "name": "LARSA-ux/Civil-AI-Prompt-Studio",
-    "stars": 0,
-    "updated_at": "2026-07-23T10:45:49Z",
-    "url": "https://github.com/LARSA-ux/Civil-AI-Prompt-Studio"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-07-23T10:45:30Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "An Intelligent AI Voice Assistant powered by Gemini API.",
-    "id": "atishay-jain-ai/Yukti-AI",
-    "language": "JavaScript",
-    "name": "atishay-jain-ai/Yukti-AI",
-    "stars": 0,
-    "updated_at": "2026-07-23T10:45:17Z",
-    "url": "https://github.com/atishay-jain-ai/Yukti-AI"
-  },
-  {
-    "description": "Human-led AI workflows for real B2B sales work.",
-    "id": "shaunmarsden/practical-ai-sales-workflows",
-    "language": "\u2014",
-    "name": "shaunmarsden/practical-ai-sales-workflows",
-    "stars": 0,
-    "updated_at": "2026-07-23T10:45:08Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1633,
-    "updated_at": "2026-07-23T10:44:20Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
-    "id": "iaminpwd/dotfiles",
-    "language": "Shell",
-    "name": "iaminpwd/dotfiles",
-    "stars": 0,
-    "updated_at": "2026-07-23T10:43:44Z",
-    "url": "https://github.com/iaminpwd/dotfiles"
-  },
-  {
-    "description": "\u26a1 The prompt amplifier \u2014 open-source BYOK prompt enhancer for any input field on any site. Chrome \u00b7 Firefox \u00b7 Edge",
-    "id": "Sina-Amare/promptamp",
-    "language": "TypeScript",
-    "name": "Sina-Amare/promptamp",
-    "stars": 1,
-    "updated_at": "2026-07-23T10:42:50Z",
-    "url": "https://github.com/Sina-Amare/promptamp"
   }
 ]
