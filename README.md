@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-23 05:15 UTC
+> ⏰ Last updated: 2026-07-23 05:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10686 | Python | 2026-07-23 | AI Observability & Evaluation |
-| 2 | [gthgomez/Babel](https://github.com/gthgomez/Babel) | 0 | TypeScript | 2026-07-23 | Open-source coding agent for real software work. Plans, reviews, and implements tasks with an explicit, inspectable inst |
-| 3 | [ManasVardhan/promptdiff](https://github.com/ManasVardhan/promptdiff) | 1 | Python | 2026-07-23 | 📊 Git-style diff and version control for LLM prompts |
-| 4 | [GOOOXG/ecommerce-detail-page-skill](https://github.com/GOOOXG/ecommerce-detail-page-skill) | 0 | Python | 2026-07-23 | 从商品参考图深度推演最小充分图组，输出逐张中文图生图分镜提示词，并支持可选生图。 |
-| 5 | [promptdriven/pdd](https://github.com/promptdriven/pdd) | 810 | Python | 2026-07-23 |  Prompt Driven Development (PDD): The Last Programming Language™. Prompt files are source; code is generated output. |
-| 6 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 12928 | TypeScript | 2026-07-23 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
-| 7 | [xvyimu/MindSync](https://github.com/xvyimu/MindSync) | 0 | TypeScript | 2026-07-23 | MindSync — local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network. |
-| 8 | [M2Station/M2_PROMPT](https://github.com/M2Station/M2_PROMPT) | 0 | JavaScript | 2026-07-23 | [M2] Fast prompt authoring & management desktop app — multi-section Markdown/WYSIWYG editor, snippet palettes, structure |
-| 9 | [V-Songbird/foreman](https://github.com/V-Songbird/foreman) | 7 | JavaScript | 2026-07-23 | 📋 Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your |
-| 10 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-07-23 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-07-23 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10686 | Python | 2026-07-23 | AI Observability & Evaluation |
+| 3 | [gthgomez/Babel](https://github.com/gthgomez/Babel) | 0 | TypeScript | 2026-07-23 | Open-source coding agent for real software work. Plans, reviews, and implements tasks with an explicit, inspectable inst |
+| 4 | [ManasVardhan/promptdiff](https://github.com/ManasVardhan/promptdiff) | 1 | Python | 2026-07-23 | 📊 Git-style diff and version control for LLM prompts |
+| 5 | [GOOOXG/ecommerce-detail-page-skill](https://github.com/GOOOXG/ecommerce-detail-page-skill) | 0 | Python | 2026-07-23 | 从商品参考图深度推演最小充分图组，输出逐张中文图生图分镜提示词，并支持可选生图。 |
+| 6 | [promptdriven/pdd](https://github.com/promptdriven/pdd) | 810 | Python | 2026-07-23 |  Prompt Driven Development (PDD): The Last Programming Language™. Prompt files are source; code is generated output. |
+| 7 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 12928 | TypeScript | 2026-07-23 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
+| 8 | [xvyimu/MindSync](https://github.com/xvyimu/MindSync) | 0 | TypeScript | 2026-07-23 | MindSync — local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network. |
+| 9 | [M2Station/M2_PROMPT](https://github.com/M2Station/M2_PROMPT) | 0 | JavaScript | 2026-07-23 | [M2] Fast prompt authoring & management desktop app — multi-section Markdown/WYSIWYG editor, snippet palettes, structure |
+| 10 | [V-Songbird/foreman](https://github.com/V-Songbird/foreman) | 7 | JavaScript | 2026-07-23 | 📋 Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your |
 | 11 | [5dive-ai/skills](https://github.com/5dive-ai/skills) | 1 | — | 2026-07-23 | Skills published by 5dive — drop-in SKILL.md bundles for Claude Code, openclaw, hermes, and any harness that loads skill |
 | 12 | [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault) | 166 | HTML | 2026-07-23 | Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks |
 | 13 | [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill) | 116 | Python | 2026-07-23 | World-class creative director in a skill. Methodology-driven ideation (SIT, TRIZ, Lateral Thinking, bisociation) + a Can |
