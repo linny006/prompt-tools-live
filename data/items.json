@@ -1,5 +1,113 @@
 [
   {
+    "description": "Seedance 2.0 Shot Design Skills",
+    "id": "woodfantasy/Seedance2.0-ShotDesign-Skills",
+    "language": "Python",
+    "name": "woodfantasy/Seedance2.0-ShotDesign-Skills",
+    "stars": 80,
+    "updated_at": "2026-07-23T03:59:45Z",
+    "url": "https://github.com/woodfantasy/Seedance2.0-ShotDesign-Skills"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 61283,
+    "updated_at": "2026-07-23T03:59:24Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "AI-writing humanizer for KO/EN/ZH/JA",
+    "id": "devswha/patina",
+    "language": "JavaScript",
+    "name": "devswha/patina",
+    "stars": 268,
+    "updated_at": "2026-07-23T04:00:19Z",
+    "url": "https://github.com/devswha/patina"
+  },
+  {
+    "description": "100+ tested, copy-paste AI prompts for everyday life \u2014 one new skill every day at dailyskill.ai",
+    "id": "vinusmark1-cpu/dailyskill-prompt-library",
+    "language": "\u2014",
+    "name": "vinusmark1-cpu/dailyskill-prompt-library",
+    "stars": 0,
+    "updated_at": "2026-07-23T03:50:10Z",
+    "url": "https://github.com/vinusmark1-cpu/dailyskill-prompt-library"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-23T03:50:07Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-07-23T03:48:50Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 0,
+    "updated_at": "2026-07-23T03:48:08Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-23T03:47:31Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-07-23T03:45:47Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-07-23T03:45:30Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-23T03:45:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "21 Lessons, Get Started Building with Generative AI ",
+    "id": "microsoft/generative-ai-for-beginners",
+    "language": "Jupyter Notebook",
+    "name": "microsoft/generative-ai-for-beginners",
+    "stars": 113407,
+    "updated_at": "2026-07-23T03:43:21Z",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -41,7 +149,7 @@
     "language": "TypeScript",
     "name": "gthgomez/Babel",
     "stars": 0,
-    "updated_at": "2026-07-23T03:42:27Z",
+    "updated_at": "2026-07-23T04:00:17Z",
     "url": "https://github.com/gthgomez/Babel"
   },
   {
@@ -61,15 +169,6 @@
     "stars": 167,
     "updated_at": "2026-07-23T03:40:46Z",
     "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "Seedance 2.0 Shot Design Skills",
-    "id": "woodfantasy/Seedance2.0-ShotDesign-Skills",
-    "language": "Python",
-    "name": "woodfantasy/Seedance2.0-ShotDesign-Skills",
-    "stars": 80,
-    "updated_at": "2026-07-23T03:40:32Z",
-    "url": "https://github.com/woodfantasy/Seedance2.0-ShotDesign-Skills"
   },
   {
     "description": "Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-comp",
@@ -103,36 +202,18 @@
     "id": "pixelpainter/comfyui-AI-prompt-editor",
     "language": "JavaScript",
     "name": "pixelpainter/comfyui-AI-prompt-editor",
-    "stars": 14,
+    "stars": 15,
     "updated_at": "2026-07-23T03:35:15Z",
     "url": "https://github.com/pixelpainter/comfyui-AI-prompt-editor"
-  },
-  {
-    "description": "AI-writing humanizer for KO/EN/ZH/JA",
-    "id": "devswha/patina",
-    "language": "JavaScript",
-    "name": "devswha/patina",
-    "stars": 268,
-    "updated_at": "2026-07-23T03:34:21Z",
-    "url": "https://github.com/devswha/patina"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31682,
+    "stars": 31683,
     "updated_at": "2026-07-23T03:33:25Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-23T03:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
@@ -166,7 +247,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 9171,
+    "stars": 9172,
     "updated_at": "2026-07-23T03:25:22Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -315,15 +396,6 @@
     "url": "https://github.com/github/awesome-copilot"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-23T02:56:01Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -376,77 +448,5 @@
     "stars": 27167,
     "updated_at": "2026-07-23T02:51:25Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "An evidence editor for completion reports written by autonomous coding and operations agents.",
-    "id": "InsightfulMinds/proof-before-done-editor",
-    "language": "\u2014",
-    "name": "InsightfulMinds/proof-before-done-editor",
-    "stars": 0,
-    "updated_at": "2026-07-23T02:50:36Z",
-    "url": "https://github.com/InsightfulMinds/proof-before-done-editor"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts and multilingual examples for EvoLink.",
-    "id": "Evolink-AI/awesome-seedance-2.0-prompts",
-    "language": "Python",
-    "name": "Evolink-AI/awesome-seedance-2.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-07-23T02:50:24Z",
-    "url": "https://github.com/Evolink-AI/awesome-seedance-2.0-prompts"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
-    "id": "ZeroLu/awesome-seedance",
-    "language": "Shell",
-    "name": "ZeroLu/awesome-seedance",
-    "stars": 2177,
-    "updated_at": "2026-07-23T02:50:04Z",
-    "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-07-23T02:49:16Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "\ud83e\udd17 The largest downloadable SeedDance 2 prompt library \u2014 8,105 prompts and growing, daily updates with HuggingFace datase",
-    "id": "goku-open/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-seedance-2-prompts",
-    "stars": 0,
-    "updated_at": "2026-07-23T02:48:55Z",
-    "url": "https://github.com/goku-open/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Official Muse Video preview prompts, playable clips, native-audio shot briefs, continuity workflows, and 14-language gui",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-07-23T02:48:52Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-07-23T02:46:43Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 1,
-    "updated_at": "2026-07-23T02:46:39Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
   }
 ]
