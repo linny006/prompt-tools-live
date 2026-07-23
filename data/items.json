@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10686,
+    "updated_at": "2026-07-23T05:14:22Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source coding agent for real software work. Plans, reviews, and implements tasks with an explicit, inspectable inst",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:12:32Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "\ud83d\udcca Git-style diff and version control for LLM prompts",
+    "id": "ManasVardhan/promptdiff",
+    "language": "Python",
+    "name": "ManasVardhan/promptdiff",
+    "stars": 1,
+    "updated_at": "2026-07-23T05:06:24Z",
+    "url": "https://github.com/ManasVardhan/promptdiff"
+  },
+  {
+    "description": "\u4ece\u5546\u54c1\u53c2\u8003\u56fe\u6df1\u5ea6\u63a8\u6f14\u6700\u5c0f\u5145\u5206\u56fe\u7ec4\uff0c\u8f93\u51fa\u9010\u5f20\u4e2d\u6587\u56fe\u751f\u56fe\u5206\u955c\u63d0\u793a\u8bcd\uff0c\u5e76\u652f\u6301\u53ef\u9009\u751f\u56fe\u3002",
+    "id": "GOOOXG/ecommerce-detail-page-skill",
+    "language": "Python",
+    "name": "GOOOXG/ecommerce-detail-page-skill",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:06:12Z",
+    "url": "https://github.com/GOOOXG/ecommerce-detail-page-skill"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 810,
+    "updated_at": "2026-07-23T05:13:16Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12928,
+    "updated_at": "2026-07-23T05:03:06Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
+    "id": "xvyimu/MindSync",
+    "language": "TypeScript",
+    "name": "xvyimu/MindSync",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:02:16Z",
+    "url": "https://github.com/xvyimu/MindSync"
+  },
+  {
+    "description": "[M2] Fast prompt authoring & management desktop app \u2014 multi-section Markdown/WYSIWYG editor, snippet palettes, structure",
+    "id": "M2Station/M2_PROMPT",
+    "language": "JavaScript",
+    "name": "M2Station/M2_PROMPT",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:01:06Z",
+    "url": "https://github.com/M2Station/M2_PROMPT"
+  },
+  {
+    "description": "\ud83d\udccb Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your",
+    "id": "V-Songbird/foreman",
+    "language": "JavaScript",
+    "name": "V-Songbird/foreman",
+    "stars": 7,
+    "updated_at": "2026-07-23T05:00:39Z",
+    "url": "https://github.com/V-Songbird/foreman"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-23T05:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Skills published by 5dive \u2014 drop-in SKILL.md bundles for Claude Code, openclaw, hermes, and any harness that loads skill",
     "id": "5dive-ai/skills",
     "language": "\u2014",
@@ -36,15 +126,6 @@
     "url": "https://github.com/llwslc/proteus"
   },
   {
-    "description": "Prompt operating system for AI software work. Assembles an explicit, inspectable instruction stack (rules, domain knowle",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:58:02Z",
-    "url": "https://github.com/gthgomez/Babel"
-  },
-  {
     "description": "\u2728 Free AI image prompt library \u2014 globally curated, daily updated. Full prompt text, preview images, 10 languages. Browse",
     "id": "ai-moge/awesome-image-prompts",
     "language": "\u2014",
@@ -72,15 +153,6 @@
     "url": "https://github.com/smixs/visual-skills"
   },
   {
-    "description": "\ud83d\udccb Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your",
-    "id": "V-Songbird/foreman",
-    "language": "JavaScript",
-    "name": "V-Songbird/foreman",
-    "stars": 7,
-    "updated_at": "2026-07-23T04:51:32Z",
-    "url": "https://github.com/V-Songbird/foreman"
-  },
-  {
     "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
     "id": "sergeeey/Claude-cod-top-2026",
     "language": "Python",
@@ -106,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T04:45:28Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-23T04:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
@@ -180,15 +243,6 @@
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
-    "description": "\u4ece\u5546\u54c1\u53c2\u8003\u56fe\u6df1\u5ea6\u63a8\u6f14\u6700\u5c0f\u5145\u5206\u56fe\u7ec4\uff0c\u8f93\u51fa\u9010\u5f20\u4e2d\u6587\u56fe\u751f\u56fe\u5206\u955c\u63d0\u793a\u8bcd\uff0c\u5e76\u652f\u6301\u53ef\u9009\u751f\u56fe\u3002",
-    "id": "GOOOXG/ecommerce-detail-page-skill",
-    "language": "Python",
-    "name": "GOOOXG/ecommerce-detail-page-skill",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:29:17Z",
-    "url": "https://github.com/GOOOXG/ecommerce-detail-page-skill"
-  },
-  {
     "description": "Opinionated guide to AI coding agents, workflows, MCP, verification, and safe execution.",
     "id": "ashishkaloge/awesome-agentic-engineering",
     "language": "\u2014",
@@ -196,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T04:24:27Z",
     "url": "https://github.com/ashishkaloge/awesome-agentic-engineering"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10686,
-    "updated_at": "2026-07-23T04:48:26Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -328,7 +373,7 @@
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 166225,
+    "stars": 166227,
     "updated_at": "2026-07-23T04:06:17Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -364,7 +409,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 61289,
+    "stars": 61292,
     "updated_at": "2026-07-23T04:03:47Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -401,52 +446,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-23T03:50:07Z",
+    "updated_at": "2026-07-23T05:14:45Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-07-23T03:48:50Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-07-23T03:48:08Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-23T03:47:31Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-07-23T03:45:47Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "21 Lessons, Get Started Building with Generative AI ",
-    "id": "microsoft/generative-ai-for-beginners",
-    "language": "Jupyter Notebook",
-    "name": "microsoft/generative-ai-for-beginners",
-    "stars": 113410,
-    "updated_at": "2026-07-23T03:43:21Z",
-    "url": "https://github.com/microsoft/generative-ai-for-beginners"
   }
 ]
