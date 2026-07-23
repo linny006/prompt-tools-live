@@ -1,12 +1,84 @@
 [
   {
-    "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
-    "id": "ftvision/agent-prompt-observatory",
-    "language": "Python",
-    "name": "ftvision/agent-prompt-observatory",
+    "description": "Clarify vague requests into clear goals, layered needs, personal constraints, and direct answers.",
+    "id": "tensely0228/intent-clarifier",
+    "language": "JavaScript",
+    "name": "tensely0228/intent-clarifier",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:59:09Z",
+    "url": "https://github.com/tensely0228/intent-clarifier"
+  },
+  {
+    "description": "Curated Seedance 2.5 video prompts (100+ full 30s storyboards, 20 languages) + an installable Agent Skill for controllab",
+    "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
     "stars": 2,
-    "updated_at": "2026-07-23T06:45:12Z",
-    "url": "https://github.com/ftvision/agent-prompt-observatory"
+    "updated_at": "2026-07-23T06:59:06Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
+  },
+  {
+    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
+    "id": "eric-sabe/engsys",
+    "language": "JavaScript",
+    "name": "eric-sabe/engsys",
+    "stars": 1,
+    "updated_at": "2026-07-23T06:58:01Z",
+    "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-23T06:55:31Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-07-23T06:55:19Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "HTML",
+    "name": "llwslc/proteus",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:53:43Z",
+    "url": "https://github.com/llwslc/proteus"
+  },
+  {
+    "description": "\u5c06\u4efb\u610f\u8f93\u5165\u6539\u5199\u4e3a\u4fdd\u771f\u3001\u7d27\u51d1\u3001\u53ef\u6267\u884c\u4e14\u53ef\u9a8c\u8bc1\u7684\u63d0\u793a\u8bcd\uff5cCodex Skill + Plugin",
+    "id": "denghuancong11/-Ai-",
+    "language": "Python",
+    "name": "denghuancong11/-Ai-",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:51:29Z",
+    "url": "https://github.com/denghuancong11/-Ai-"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1630,
+    "updated_at": "2026-07-23T06:50:49Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "AI-writing humanizer for KO/EN/ZH/JA",
+    "id": "devswha/patina",
+    "language": "JavaScript",
+    "name": "devswha/patina",
+    "stars": 268,
+    "updated_at": "2026-07-23T06:49:09Z",
+    "url": "https://github.com/devswha/patina"
   },
   {
     "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
@@ -14,8 +86,53 @@
     "language": "JavaScript",
     "name": "T-Stephen/ai-mql-engine",
     "stars": 0,
-    "updated_at": "2026-07-23T06:45:16Z",
+    "updated_at": "2026-07-23T06:48:57Z",
     "url": "https://github.com/T-Stephen/ai-mql-engine"
+  },
+  {
+    "description": "\u4ece\u5546\u54c1\u53c2\u8003\u56fe\u6df1\u5ea6\u63a8\u6f14\u6700\u5c0f\u5145\u5206\u56fe\u7ec4\uff0c\u8f93\u51fa\u9010\u5f20\u4e2d\u6587\u56fe\u751f\u56fe\u5206\u955c\u63d0\u793a\u8bcd\uff0c\u5e76\u652f\u6301\u53ef\u9009\u751f\u56fe\u3002",
+    "id": "GOOOXG/ecommerce-detail-page-skill",
+    "language": "Python",
+    "name": "GOOOXG/ecommerce-detail-page-skill",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:47:39Z",
+    "url": "https://github.com/GOOOXG/ecommerce-detail-page-skill"
+  },
+  {
+    "description": "Make AI agents pursue the actual goal, not an easy-to-game proxy.",
+    "id": "bomkino/actual-goal",
+    "language": "\u2014",
+    "name": "bomkino/actual-goal",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:46:33Z",
+    "url": "https://github.com/bomkino/actual-goal"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-23T06:45:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 1,
+    "updated_at": "2026-07-23T06:45:18Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
+    "id": "ftvision/agent-prompt-observatory",
+    "language": "Python",
+    "name": "ftvision/agent-prompt-observatory",
+    "stars": 2,
+    "updated_at": "2026-07-23T06:45:12Z",
+    "url": "https://github.com/ftvision/agent-prompt-observatory"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -63,15 +180,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Curated Seedance 2.5 video prompts (100+ full 30s storyboards, 20 languages) + an installable Agent Skill for controllab",
-    "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "stars": 2,
-    "updated_at": "2026-07-23T06:40:30Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
-  },
-  {
     "description": "A curated set of production-ready Claude prompts for real engineering work: code review, security, testing, DevOps, and ",
     "id": "razorphish/claude-prompts-for-engineers",
     "language": "\u2014",
@@ -79,6 +187,15 @@
     "stars": 0,
     "updated_at": "2026-07-23T06:36:36Z",
     "url": "https://github.com/razorphish/claude-prompts-for-engineers"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20785,
+    "updated_at": "2026-07-23T06:51:54Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
@@ -108,21 +225,12 @@
     "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-23T06:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3413,
-    "updated_at": "2026-07-23T06:39:48Z",
+    "updated_at": "2026-07-23T06:58:25Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -142,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-07-23T06:26:14Z",
     "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "\u5c06\u4efb\u610f\u8f93\u5165\u6539\u5199\u4e3a\u4fdd\u771f\u3001\u7d27\u51d1\u3001\u53ef\u6267\u884c\u4e14\u53ef\u9a8c\u8bc1\u7684\u63d0\u793a\u8bcd\uff5cCodex Skill + Plugin",
-    "id": "denghuancong11/-Ai-",
-    "language": "Python",
-    "name": "denghuancong11/-Ai-",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:25:43Z",
-    "url": "https://github.com/denghuancong11/-Ai-"
   },
   {
     "description": "Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for",
@@ -274,7 +373,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27170,
+    "stars": 27171,
     "updated_at": "2026-07-23T06:07:32Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -288,24 +387,6 @@
     "url": "https://github.com/schrodingho/FM_ZSL_IoT"
   },
   {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-07-23T06:44:59Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "\u4ece\u5546\u54c1\u53c2\u8003\u56fe\u6df1\u5ea6\u63a8\u6f14\u6700\u5c0f\u5145\u5206\u56fe\u7ec4\uff0c\u8f93\u51fa\u9010\u5f20\u4e2d\u6587\u56fe\u751f\u56fe\u5206\u955c\u63d0\u793a\u8bcd\uff0c\u5e76\u652f\u6301\u53ef\u9009\u751f\u56fe\u3002",
-    "id": "GOOOXG/ecommerce-detail-page-skill",
-    "language": "Python",
-    "name": "GOOOXG/ecommerce-detail-page-skill",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:03:56Z",
-    "url": "https://github.com/GOOOXG/ecommerce-detail-page-skill"
-  },
-  {
     "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
     "id": "wesleysimplicio/simplicio-dev-cli",
     "language": "Python",
@@ -313,6 +394,15 @@
     "stars": 2,
     "updated_at": "2026-07-23T06:01:08Z",
     "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8869,
+    "updated_at": "2026-07-23T06:01:04Z",
+    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "Gemini Omni API Prompts collection updated in real time every day, designed to help creators find inspiration faster. Fr",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T05:57:48Z",
     "url": "https://github.com/mifdlaldev/mifdlaldev"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:57:25Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 150,
-    "updated_at": "2026-07-23T05:56:38Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:55:04Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-07-23T05:54:36Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 1,
-    "updated_at": "2026-07-23T05:54:35Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 1,
-    "updated_at": "2026-07-23T05:54:33Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": " A curated system of production-ready Claude Code skills with quantitative evaluation reports, golden test fixtures, and",
-    "id": "johnqtcg/awesome-skills",
-    "language": "Python",
-    "name": "johnqtcg/awesome-skills",
-    "stars": 27,
-    "updated_at": "2026-07-23T05:54:08Z",
-    "url": "https://github.com/johnqtcg/awesome-skills"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-23T05:51:58Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-07-23T05:48:50Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:47:40Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   }
 ]
