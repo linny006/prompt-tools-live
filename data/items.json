@@ -1,5 +1,86 @@
 [
   {
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "HTML",
+    "name": "llwslc/proteus",
+    "stars": 0,
+    "updated_at": "2026-07-23T16:04:20Z",
+    "url": "https://github.com/llwslc/proteus"
+  },
+  {
+    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
+    "id": "xvyimu/MindSync",
+    "language": "TypeScript",
+    "name": "xvyimu/MindSync",
+    "stars": 1,
+    "updated_at": "2026-07-23T16:03:07Z",
+    "url": "https://github.com/xvyimu/MindSync"
+  },
+  {
+    "description": "Prompt Engineering Tool: Anti-Ambiguity \u00d7 Web Pre-Search \u00d7 ELO Ranking \u2014 forge production-grade AI prompts for Claude, G",
+    "id": "wlj103/super-prompt",
+    "language": "\u2014",
+    "name": "wlj103/super-prompt",
+    "stars": 2,
+    "updated_at": "2026-07-23T16:03:02Z",
+    "url": "https://github.com/wlj103/super-prompt"
+  },
+  {
+    "description": "\u6807\u51c6\u5316 Skills\u3001Agents\u3001Rules\u3001Commands\u3001Hooks \u4e0e MCP\uff0c\u5e76\u901a\u8fc7 Adapter \u63a5\u5165\u4e0d\u540c AI Agent\u3002",
+    "id": "zenHeart/ai-jue",
+    "language": "TypeScript",
+    "name": "zenHeart/ai-jue",
+    "stars": 0,
+    "updated_at": "2026-07-23T16:04:08Z",
+    "url": "https://github.com/zenHeart/ai-jue"
+  },
+  {
+    "description": "\u591a\u6a21\u578b\u534f\u540c\u5b66\u672f\u6d41\u6c34\u7ebf\u2014\u20148\u9636\u6bb5+\u5f00\u5377/\u76f2\u7b54\u5bf9\u7167\u5b9e\u9a8c\uff0c\u8bba\u6587\u662f\u6d4b\u8bd5\u7528\u4f8b\u3001\u6d41\u6c34\u7ebf\u662f\u6838\u5fc3\u4ea4\u4ed8\u7269 | 8-stage multi-model academic pipeline with cross-blind review, defense sim",
+    "id": "redamancy231-create/ma-case-study-pipeline",
+    "language": "Markdown",
+    "name": "redamancy231-create/ma-case-study-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-23T16:02:14Z",
+    "url": "https://github.com/redamancy231-create/ma-case-study-pipeline"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-23T16:00:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Drop-in instructions, prompts, and workflows to reduce token usage across Codex, Claude Code, GitHub Copilot, Cursor, an",
+    "id": "ravinperera/ai-token-efficiency-playbook",
+    "language": "Python",
+    "name": "ravinperera/ai-token-efficiency-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-23T16:00:30Z",
+    "url": "https://github.com/ravinperera/ai-token-efficiency-playbook"
+  },
+  {
+    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
+    "id": "AditthyaSS/iloveAgents",
+    "language": "JavaScript",
+    "name": "AditthyaSS/iloveAgents",
+    "stars": 113,
+    "updated_at": "2026-07-23T16:00:13Z",
+    "url": "https://github.com/AditthyaSS/iloveAgents"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 18,
+    "updated_at": "2026-07-23T16:00:09Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
     "description": "Kill the AI slop. Prompt tools and design skills for original UI and creative workflows.",
     "id": "Glenskii/Glenski-Toolkit",
     "language": "Python",
@@ -43,24 +124,6 @@
     "stars": 3,
     "updated_at": "2026-07-23T15:55:24Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "Guided Prompt Forging \u2014 Anti-Ambiguity Interception \u00d7 Pre-Search \u00d7 Layered Guidance \u00d7 ELO Ranking",
-    "id": "wlj103/super-prompt",
-    "language": "\u2014",
-    "name": "wlj103/super-prompt",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:55:14Z",
-    "url": "https://github.com/wlj103/super-prompt"
-  },
-  {
-    "description": "\u591a\u6a21\u578b\u534f\u540c\u5b66\u672f\u6d41\u6c34\u7ebf\u2014\u20148\u9636\u6bb5+\u5f00\u5377/\u76f2\u7b54\u5bf9\u7167\u5b9e\u9a8c\uff0c\u8bba\u6587\u662f\u6d4b\u8bd5\u7528\u4f8b\u3001\u6d41\u6c34\u7ebf\u662f\u6838\u5fc3\u4ea4\u4ed8\u7269 | 8-stage multi-model academic pipeline with cross-blind review, defense sim",
-    "id": "redamancy231-create/ma-case-study-pipeline",
-    "language": "Markdown",
-    "name": "redamancy231-create/ma-case-study-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:51:37Z",
-    "url": "https://github.com/redamancy231-create/ma-case-study-pipeline"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -149,7 +212,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31732,
-    "updated_at": "2026-07-23T15:58:11Z",
+    "updated_at": "2026-07-23T16:03:38Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -162,15 +225,6 @@
     "url": "https://github.com/mark68-h2o/portfolio-cms"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-23T15:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The most comprehensive free Claude Code course \u2014 16 phases, 55 modules, EN + VI \ud83d\ude80",
     "id": "ShipWithAI/claude-code-mastery",
     "language": "MDX",
@@ -180,21 +234,12 @@
     "url": "https://github.com/ShipWithAI/claude-code-mastery"
   },
   {
-    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
-    "id": "llwslc/proteus",
-    "language": "HTML",
-    "name": "llwslc/proteus",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:41:40Z",
-    "url": "https://github.com/llwslc/proteus"
-  },
-  {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
     "id": "IBM/mcp-context-forge",
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4128,
-    "updated_at": "2026-07-23T15:59:39Z",
+    "updated_at": "2026-07-23T16:02:45Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "sergeeey/Claude-cod-top-2026",
     "stars": 7,
-    "updated_at": "2026-07-23T15:51:02Z",
+    "updated_at": "2026-07-23T16:01:05Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
@@ -293,17 +338,8 @@
     "language": "\u2014",
     "name": "Nanfor-Iberica/nanfor-ai-prompt-library",
     "stars": 1,
-    "updated_at": "2026-07-23T15:31:38Z",
+    "updated_at": "2026-07-23T16:05:28Z",
     "url": "https://github.com/Nanfor-Iberica/nanfor-ai-prompt-library"
-  },
-  {
-    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
-    "id": "xvyimu/MindSync",
-    "language": "TypeScript",
-    "name": "xvyimu/MindSync",
-    "stars": 1,
-    "updated_at": "2026-07-23T15:29:11Z",
-    "url": "https://github.com/xvyimu/MindSync"
   },
   {
     "description": "Lightweight markdown-based workflow for collaborating with AI coding assistants using spec-driven development methodolog",
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "ur-grue/autopunk-media-skills",
     "stars": 16,
-    "updated_at": "2026-07-23T15:27:45Z",
+    "updated_at": "2026-07-23T16:01:29Z",
     "url": "https://github.com/ur-grue/autopunk-media-skills"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T15:21:28Z",
     "url": "https://github.com/StephenQiu30/lanverse-backend"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20798,
-    "updated_at": "2026-07-23T15:56:56Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-07-23T15:18:05Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23529,
-    "updated_at": "2026-07-23T15:17:53Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 9,
-    "updated_at": "2026-07-23T15:16:23Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   }
 ]
