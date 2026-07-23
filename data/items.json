@@ -1,11 +1,110 @@
 [
   {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 27,
+    "updated_at": "2026-07-23T05:29:40Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "\u5728 ComfyUI \u91cc\u83b7\u5f97 WebUI \u5f0f\u63d0\u793a\u8bcd\u4f53\u9a8c\uff1a\u4e2d\u6587\u7ffb\u8bd1\u3001Tag \u81ea\u52a8\u8865\u5168\u3001LoRA \u7ba1\u7406\u3001\u63d0\u793a\u8bcd\u5e02\u573a\u548c\u9ad8\u7ea7\u6a21\u5757\u63a5\u5165\u3002",
+    "id": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge",
+    "language": "JavaScript",
+    "name": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge",
+    "stars": 30,
+    "updated_at": "2026-07-23T05:28:40Z",
+    "url": "https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge"
+  },
+  {
+    "description": "An open-source operating system for Claude Code \u2014 persistent Obsidian-vault memory, a self-checkpointing two-verb sessio",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 8,
+    "updated_at": "2026-07-23T05:24:15Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-23T05:30:14Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Stops your AI agent from committing to the first idea that compiles. Brainstorm, stress-test, then build \u2014 with ATAM and",
+    "id": "Arsxxi/iterative-dev-workflow",
+    "language": "JavaScript",
+    "name": "Arsxxi/iterative-dev-workflow",
+    "stars": 1,
+    "updated_at": "2026-07-23T05:22:29Z",
+    "url": "https://github.com/Arsxxi/iterative-dev-workflow"
+  },
+  {
+    "description": "Budget-aware context compilation and context firewall for tool-heavy AI agents.",
+    "id": "dgenio/contextweaver",
+    "language": "Python",
+    "name": "dgenio/contextweaver",
+    "stars": 8,
+    "updated_at": "2026-07-23T05:23:04Z",
+    "url": "https://github.com/dgenio/contextweaver"
+  },
+  {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 4969,
+    "updated_at": "2026-07-23T05:18:49Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
+  },
+  {
+    "description": "Observable AI behavior research using question-taxonomy analysis and coding-agent tool-call traces.",
+    "id": "js2dosan/agent-question-and-tool-trace-research",
+    "language": "Python",
+    "name": "js2dosan/agent-question-and-tool-trace-research",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:18:44Z",
+    "url": "https://github.com/js2dosan/agent-question-and-tool-trace-research"
+  },
+  {
+    "description": "AiRouter - 345+ expert AI agents with intelligent routing. One prompt, matched to the best specialist. \u667a\u80fdAI\u4e13\u5bb6\u8def\u7531\u3002",
+    "id": "ya-chang/airouter",
+    "language": "TypeScript",
+    "name": "ya-chang/airouter",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:18:13Z",
+    "url": "https://github.com/ya-chang/airouter"
+  },
+  {
+    "description": "Open-source coding agent for real software work. Plans, reviews, and implements tasks with an explicit, inspectable inst",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:17:26Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:17:25Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
     "id": "linny006/prompt-tools-live",
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 6,
-    "updated_at": "2026-07-23T05:15:29Z",
+    "updated_at": "2026-07-23T05:16:09Z",
     "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
@@ -18,13 +117,13 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Open-source coding agent for real software work. Plans, reviews, and implements tasks with an explicit, inspectable inst",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:12:32Z",
-    "url": "https://github.com/gthgomez/Babel"
+    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 5030,
+    "updated_at": "2026-07-23T05:07:35Z",
+    "url": "https://github.com/vllm-project/semantic-router"
   },
   {
     "description": "\ud83d\udcca Git-style diff and version control for LLM prompts",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 810,
-    "updated_at": "2026-07-23T05:13:16Z",
+    "updated_at": "2026-07-23T05:16:15Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T04:12:51Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:09:06Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Uses an LLM to evaluate the quality of test cases generated by another LLM",
-    "id": "sabrinajohanson/llm-as-judge",
-    "language": "Python",
-    "name": "sabrinajohanson/llm-as-judge",
-    "stars": 2,
-    "updated_at": "2026-07-23T04:08:23Z",
-    "url": "https://github.com/sabrinajohanson/llm-as-judge"
-  },
-  {
-    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
-    "id": "f/prompts.chat",
-    "language": "HTML",
-    "name": "f/prompts.chat",
-    "stars": 166227,
-    "updated_at": "2026-07-23T04:06:17Z",
-    "url": "https://github.com/f/prompts.chat"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-07-23T04:04:51Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 1,
-    "updated_at": "2026-07-23T04:04:20Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "AI-writing humanizer for KO/EN/ZH/JA",
-    "id": "devswha/patina",
-    "language": "JavaScript",
-    "name": "devswha/patina",
-    "stars": 268,
-    "updated_at": "2026-07-23T04:03:56Z",
-    "url": "https://github.com/devswha/patina"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 61292,
-    "updated_at": "2026-07-23T04:03:47Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "An evidence editor for completion reports written by autonomous coding and operations agents.",
-    "id": "InsightfulMinds/proof-before-done-editor",
-    "language": "HTML",
-    "name": "InsightfulMinds/proof-before-done-editor",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:00:15Z",
-    "url": "https://github.com/InsightfulMinds/proof-before-done-editor"
-  },
-  {
-    "description": "Seedance 2.0 Shot Design Skills",
-    "id": "woodfantasy/Seedance2.0-ShotDesign-Skills",
-    "language": "Python",
-    "name": "woodfantasy/Seedance2.0-ShotDesign-Skills",
-    "stars": 80,
-    "updated_at": "2026-07-23T03:59:45Z",
-    "url": "https://github.com/woodfantasy/Seedance2.0-ShotDesign-Skills"
-  },
-  {
-    "description": "100+ tested, copy-paste AI prompts for everyday life \u2014 one new skill every day at dailyskill.ai",
-    "id": "vinusmark1-cpu/dailyskill-prompt-library",
-    "language": "\u2014",
-    "name": "vinusmark1-cpu/dailyskill-prompt-library",
-    "stars": 0,
-    "updated_at": "2026-07-23T03:50:10Z",
-    "url": "https://github.com/vinusmark1-cpu/dailyskill-prompt-library"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-07-23T05:14:45Z",
-    "url": "https://github.com/event4u-app/agent-config"
   }
 ]
