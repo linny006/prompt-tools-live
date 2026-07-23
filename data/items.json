@@ -1,5 +1,50 @@
 [
   {
+    "description": "Clarify vague requests into clear goals, layered needs, personal constraints, and direct answers.",
+    "id": "tensely0228/intent-clarifier",
+    "language": "JavaScript",
+    "name": "tensely0228/intent-clarifier",
+    "stars": 0,
+    "updated_at": "2026-07-23T08:00:19Z",
+    "url": "https://github.com/tensely0228/intent-clarifier"
+  },
+  {
+    "description": "Make AI agents pursue the actual goal, not an easy-to-game proxy.",
+    "id": "bomkino/actual-goal",
+    "language": "\u2014",
+    "name": "bomkino/actual-goal",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:59:37Z",
+    "url": "https://github.com/bomkino/actual-goal"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-07-23T07:56:25Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Reverse engineer any repo into it's original prompt",
+    "id": "filiksyos/gitreverse",
+    "language": "TypeScript",
+    "name": "filiksyos/gitreverse",
+    "stars": 1234,
+    "updated_at": "2026-07-23T07:52:18Z",
+    "url": "https://github.com/filiksyos/gitreverse"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-23T07:45:41Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -7,6 +52,24 @@
     "stars": 2,
     "updated_at": "2026-07-23T07:45:30Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20785,
+    "updated_at": "2026-07-23T07:50:50Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31698,
+    "updated_at": "2026-07-23T07:53:19Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83d\udccb Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27173,
-    "updated_at": "2026-07-23T07:43:27Z",
+    "updated_at": "2026-07-23T07:56:36Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Rust",
     "name": "robertomarchioro/prompt-a-porter",
     "stars": 0,
-    "updated_at": "2026-07-23T07:36:51Z",
+    "updated_at": "2026-07-23T07:55:24Z",
     "url": "https://github.com/robertomarchioro/prompt-a-porter"
   },
   {
@@ -103,7 +166,7 @@
     "id": "UditAkhourii/adhd",
     "language": "TypeScript",
     "name": "UditAkhourii/adhd",
-    "stars": 1958,
+    "stars": 1961,
     "updated_at": "2026-07-23T07:31:26Z",
     "url": "https://github.com/UditAkhourii/adhd"
   },
@@ -126,12 +189,21 @@
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
+    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 5032,
+    "updated_at": "2026-07-23T07:29:05Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
     "description": "Switch AIs without re-explaining everything.",
     "id": "spidey889/context-generator",
     "language": "JavaScript",
     "name": "spidey889/context-generator",
     "stars": 10,
-    "updated_at": "2026-07-23T07:28:19Z",
+    "updated_at": "2026-07-23T07:56:14Z",
     "url": "https://github.com/spidey889/context-generator"
   },
   {
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T07:43:12Z",
     "url": "https://github.com/solo-vey/Ordo"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31697,
-    "updated_at": "2026-07-23T07:44:27Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
@@ -175,7 +238,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 61314,
+    "stars": 61315,
     "updated_at": "2026-07-23T07:25:31Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -198,12 +261,21 @@
     "url": "https://github.com/llwslc/proteus"
   },
   {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 823,
+    "updated_at": "2026-07-23T07:23:48Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
     "description": "Claude skill: turn a script into a director's shotlist for Seedance 2.0 \u2014 an editable HTML production board with copy-re",
     "id": "afloy011-spec/seedance-shotlist-director-en",
     "language": "HTML",
     "name": "afloy011-spec/seedance-shotlist-director-en",
     "stars": 0,
-    "updated_at": "2026-07-23T07:22:23Z",
+    "updated_at": "2026-07-23T07:22:52Z",
     "url": "https://github.com/afloy011-spec/seedance-shotlist-director-en"
   },
   {
@@ -225,15 +297,6 @@
     "url": "https://github.com/juliandickie/creators-studio"
   },
   {
-    "description": "Clarify vague requests into clear goals, layered needs, personal constraints, and direct answers.",
-    "id": "tensely0228/intent-clarifier",
-    "language": "JavaScript",
-    "name": "tensely0228/intent-clarifier",
-    "stars": 0,
-    "updated_at": "2026-07-23T07:18:44Z",
-    "url": "https://github.com/tensely0228/intent-clarifier"
-  },
-  {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
     "id": "SidharthKriplani/genai-systems-lab",
     "language": "JavaScript",
@@ -241,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T07:15:39Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-23T07:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -320,7 +374,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3413,
-    "updated_at": "2026-07-23T07:08:07Z",
+    "updated_at": "2026-07-23T07:50:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -329,7 +383,7 @@
     "language": "Python",
     "name": "sebastian-software/skills.sebastian-software.com",
     "stars": 0,
-    "updated_at": "2026-07-23T07:42:59Z",
+    "updated_at": "2026-07-23T08:00:28Z",
     "url": "https://github.com/sebastian-software/skills.sebastian-software.com"
   },
   {
@@ -337,7 +391,7 @@
     "id": "jnMetaCode/superpowers-zh",
     "language": "JavaScript",
     "name": "jnMetaCode/superpowers-zh",
-    "stars": 7154,
+    "stars": 7156,
     "updated_at": "2026-07-23T07:03:34Z",
     "url": "https://github.com/jnMetaCode/superpowers-zh"
   },
@@ -346,7 +400,7 @@
     "id": "jnMetaCode/agency-agents-zh",
     "language": "Shell",
     "name": "jnMetaCode/agency-agents-zh",
-    "stars": 18182,
+    "stars": 18186,
     "updated_at": "2026-07-23T07:03:27Z",
     "url": "https://github.com/jnMetaCode/agency-agents-zh"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T06:58:01Z",
     "url": "https://github.com/eric-sabe/engsys"
-  },
-  {
-    "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles ",
-    "id": "PromptPartner/agentsmith",
-    "language": "Shell",
-    "name": "PromptPartner/agentsmith",
-    "stars": 296,
-    "updated_at": "2026-07-23T06:52:31Z",
-    "url": "https://github.com/PromptPartner/agentsmith"
-  },
-  {
-    "description": "\u5c06\u4efb\u610f\u8f93\u5165\u6539\u5199\u4e3a\u4fdd\u771f\u3001\u7d27\u51d1\u3001\u53ef\u6267\u884c\u4e14\u53ef\u9a8c\u8bc1\u7684\u63d0\u793a\u8bcd\uff5cCodex Skill + Plugin",
-    "id": "denghuancong11/-Ai-",
-    "language": "Python",
-    "name": "denghuancong11/-Ai-",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:51:29Z",
-    "url": "https://github.com/denghuancong11/-Ai-"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1630,
-    "updated_at": "2026-07-23T06:50:49Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "AI-writing humanizer for KO/EN/ZH/JA",
-    "id": "devswha/patina",
-    "language": "JavaScript",
-    "name": "devswha/patina",
-    "stars": 268,
-    "updated_at": "2026-07-23T07:22:50Z",
-    "url": "https://github.com/devswha/patina"
-  },
-  {
-    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
-    "id": "T-Stephen/ai-mql-engine",
-    "language": "JavaScript",
-    "name": "T-Stephen/ai-mql-engine",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:48:57Z",
-    "url": "https://github.com/T-Stephen/ai-mql-engine"
-  },
-  {
-    "description": "\u4ece\u5546\u54c1\u53c2\u8003\u56fe\u6df1\u5ea6\u63a8\u6f14\u6700\u5c0f\u5145\u5206\u56fe\u7ec4\uff0c\u8f93\u51fa\u9010\u5f20\u4e2d\u6587\u56fe\u751f\u56fe\u5206\u955c\u63d0\u793a\u8bcd\uff0c\u5e76\u652f\u6301\u53ef\u9009\u751f\u56fe\u3002",
-    "id": "GOOOXG/ecommerce-detail-page-skill",
-    "language": "Python",
-    "name": "GOOOXG/ecommerce-detail-page-skill",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:47:39Z",
-    "url": "https://github.com/GOOOXG/ecommerce-detail-page-skill"
   }
 ]
