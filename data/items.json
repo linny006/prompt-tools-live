@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83d\udccb Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your",
+    "id": "V-Songbird/foreman",
+    "language": "JavaScript",
+    "name": "V-Songbird/foreman",
+    "stars": 9,
+    "updated_at": "2026-07-23T07:43:51Z",
+    "url": "https://github.com/V-Songbird/foreman"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27173,
+    "updated_at": "2026-07-23T07:43:27Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AI response-style skill: short when stakes are low, rigorous when they're high. Auto risk-based escalation, ADHD-friendl",
+    "id": "andreavadacchino/fuoco-chiaro",
+    "language": "\u2014",
+    "name": "andreavadacchino/fuoco-chiaro",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:41:52Z",
+    "url": "https://github.com/andreavadacchino/fuoco-chiaro"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 1,
+    "updated_at": "2026-07-23T07:39:27Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:36:51Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "id": "AgustiPuigserver/opus-prompt-architect",
+    "language": "HTML",
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "stars": 155,
+    "updated_at": "2026-07-23T07:35:37Z",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
+  },
+  {
+    "description": "One command generates a complete technical interview prep system: deep-dive episodes, NotebookLM podcasts, and a Gemini ",
+    "id": "kphutt/interview-prep",
+    "language": "Python",
+    "name": "kphutt/interview-prep",
+    "stars": 1,
+    "updated_at": "2026-07-23T07:35:22Z",
+    "url": "https://github.com/kphutt/interview-prep"
+  },
+  {
+    "description": "AI dev that actually gets things done",
+    "id": "chernistry/kotef",
+    "language": "TypeScript",
+    "name": "chernistry/kotef",
+    "stars": 32,
+    "updated_at": "2026-07-23T07:34:20Z",
+    "url": "https://github.com/chernistry/kotef"
+  },
+  {
+    "description": "Argus v4.6 : protocole operationnel d'elite pour Claude Code. /argus bascule l'agent en posture preuve avant affirmation",
+    "id": "skyllon/argus",
+    "language": "\u2014",
+    "name": "skyllon/argus",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:33:11Z",
+    "url": "https://github.com/skyllon/argus"
+  },
+  {
+    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
+    "id": "xvyimu/MindSync",
+    "language": "TypeScript",
+    "name": "xvyimu/MindSync",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:40:59Z",
+    "url": "https://github.com/xvyimu/MindSync"
+  },
+  {
+    "description": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel",
+    "id": "UditAkhourii/adhd",
+    "language": "TypeScript",
+    "name": "UditAkhourii/adhd",
+    "stars": 1958,
+    "updated_at": "2026-07-23T07:31:26Z",
+    "url": "https://github.com/UditAkhourii/adhd"
+  },
+  {
+    "description": "Curated Seedance 2.5 video prompts (100+ full 30s storyboards, 20 languages) + an installable Agent Skill for controllab",
+    "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "stars": 2,
+    "updated_at": "2026-07-23T07:30:25Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
+  },
+  {
     "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
     "id": "sergeeey/Claude-cod-top-2026",
     "language": "Python",
@@ -18,21 +126,21 @@
     "url": "https://github.com/spidey889/context-generator"
   },
   {
-    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
-    "id": "xvyimu/MindSync",
-    "language": "TypeScript",
-    "name": "xvyimu/MindSync",
+    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
+    "id": "solo-vey/Ordo",
+    "language": "Python",
+    "name": "solo-vey/Ordo",
     "stars": 0,
-    "updated_at": "2026-07-23T07:27:15Z",
-    "url": "https://github.com/xvyimu/MindSync"
+    "updated_at": "2026-07-23T07:43:12Z",
+    "url": "https://github.com/solo-vey/Ordo"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31696,
-    "updated_at": "2026-07-23T07:26:59Z",
+    "stars": 31697,
+    "updated_at": "2026-07-23T07:44:27Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -45,11 +153,20 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
+    "description": "Agentic AI, Unpacked \u2014 a 6-episode YouTube series + companion book. Build AI agents from scratch: the loop, real tools, ",
+    "id": "AutomateCodeLab/AgenticAI-Unpacked",
+    "language": "Python",
+    "name": "AutomateCodeLab/AgenticAI-Unpacked",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:26:55Z",
+    "url": "https://github.com/AutomateCodeLab/AgenticAI-Unpacked"
+  },
+  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 61310,
+    "stars": 61314,
     "updated_at": "2026-07-23T07:25:31Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -97,6 +214,15 @@
     "stars": 2,
     "updated_at": "2026-07-23T07:16:28Z",
     "url": "https://github.com/juliandickie/creators-studio"
+  },
+  {
+    "description": "Clarify vague requests into clear goals, layered needs, personal constraints, and direct answers.",
+    "id": "tensely0228/intent-clarifier",
+    "language": "JavaScript",
+    "name": "tensely0228/intent-clarifier",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:18:44Z",
+    "url": "https://github.com/tensely0228/intent-clarifier"
   },
   {
     "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
@@ -153,15 +279,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Clarify vague requests into clear goals, layered needs, personal constraints, and direct answers.",
-    "id": "tensely0228/intent-clarifier",
-    "language": "JavaScript",
-    "name": "tensely0228/intent-clarifier",
-    "stars": 0,
-    "updated_at": "2026-07-23T07:15:54Z",
-    "url": "https://github.com/tensely0228/intent-clarifier"
-  },
-  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -178,15 +295,6 @@
     "stars": 3,
     "updated_at": "2026-07-23T07:09:44Z",
     "url": "https://github.com/netopsengineer/axiom"
-  },
-  {
-    "description": "\ud83d\udccb Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your",
-    "id": "V-Songbird/foreman",
-    "language": "JavaScript",
-    "name": "V-Songbird/foreman",
-    "stars": 9,
-    "updated_at": "2026-07-23T07:09:28Z",
-    "url": "https://github.com/V-Songbird/foreman"
   },
   {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
@@ -212,7 +320,7 @@
     "language": "Python",
     "name": "sebastian-software/skills.sebastian-software.com",
     "stars": 0,
-    "updated_at": "2026-07-23T07:03:53Z",
+    "updated_at": "2026-07-23T07:42:59Z",
     "url": "https://github.com/sebastian-software/skills.sebastian-software.com"
   },
   {
@@ -270,15 +378,6 @@
     "url": "https://github.com/arikitos/prompt-forge"
   },
   {
-    "description": "Curated Seedance 2.5 video prompts (100+ full 30s storyboards, 20 languages) + an installable Agent Skill for controllab",
-    "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "stars": 2,
-    "updated_at": "2026-07-23T07:30:25Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
-  },
-  {
     "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
     "id": "eric-sabe/engsys",
     "language": "JavaScript",
@@ -286,6 +385,15 @@
     "stars": 1,
     "updated_at": "2026-07-23T06:58:01Z",
     "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
+    "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles ",
+    "id": "PromptPartner/agentsmith",
+    "language": "Shell",
+    "name": "PromptPartner/agentsmith",
+    "stars": 296,
+    "updated_at": "2026-07-23T06:52:31Z",
+    "url": "https://github.com/PromptPartner/agentsmith"
   },
   {
     "description": "\u5c06\u4efb\u610f\u8f93\u5165\u6539\u5199\u4e3a\u4fdd\u771f\u3001\u7d27\u51d1\u3001\u53ef\u6267\u884c\u4e14\u53ef\u9a8c\u8bc1\u7684\u63d0\u793a\u8bcd\uff5cCodex Skill + Plugin",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T06:46:33Z",
     "url": "https://github.com/bomkino/actual-goal"
-  },
-  {
-    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 1,
-    "updated_at": "2026-07-23T06:45:18Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
-    "id": "ftvision/agent-prompt-observatory",
-    "language": "Python",
-    "name": "ftvision/agent-prompt-observatory",
-    "stars": 2,
-    "updated_at": "2026-07-23T06:45:12Z",
-    "url": "https://github.com/ftvision/agent-prompt-observatory"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10689,
-    "updated_at": "2026-07-23T06:42:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-07-23T06:42:16Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Snippets and prompts that expand wherever you type. One library, synced across Chrome and mobile.  Stress the model, not",
-    "id": "locoprice/SprintBrain",
-    "language": "TypeScript",
-    "name": "locoprice/SprintBrain",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:42:05Z",
-    "url": "https://github.com/locoprice/SprintBrain"
-  },
-  {
-    "description": "Agentic RAG over your docs: LangGraph agent, hybrid retrieval, Gemini + Claude routing, streaming chat UI, WhatsApp deli",
-    "id": "FrancoCazal/WhisperDocs",
-    "language": "Python",
-    "name": "FrancoCazal/WhisperDocs",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:41:41Z",
-    "url": "https://github.com/FrancoCazal/WhisperDocs"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 59,
-    "updated_at": "2026-07-23T06:41:33Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:41:14Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "A curated set of production-ready Claude prompts for real engineering work: code review, security, testing, DevOps, and ",
-    "id": "razorphish/claude-prompts-for-engineers",
-    "language": "\u2014",
-    "name": "razorphish/claude-prompts-for-engineers",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:36:36Z",
-    "url": "https://github.com/razorphish/claude-prompts-for-engineers"
-  },
-  {
-    "description": "The working language for talking to AI models \u2014 verbs as contracts, the grammar of a request, and a linter that shows yo",
-    "id": "tobyjackson/speaking-model",
-    "language": "HTML",
-    "name": "tobyjackson/speaking-model",
-    "stars": 1,
-    "updated_at": "2026-07-23T06:36:33Z",
-    "url": "https://github.com/tobyjackson/speaking-model"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20785,
-    "updated_at": "2026-07-23T07:29:48Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 3,
-    "updated_at": "2026-07-23T06:31:18Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
   }
 ]
