@@ -1,5 +1,59 @@
 [
   {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "JavaScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 9212,
+    "updated_at": "2026-07-23T10:07:29Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31711,
+    "updated_at": "2026-07-23T10:06:52Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Human-led AI workflows for real B2B sales work.",
+    "id": "shaunmarsden/practical-ai-sales-workflows",
+    "language": "\u2014",
+    "name": "shaunmarsden/practical-ai-sales-workflows",
+    "stars": 0,
+    "updated_at": "2026-07-23T10:04:28Z",
+    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
+  },
+  {
+    "description": "The Linux OS for AI Agents \u2014 Persistent memory, structured reasoning, and governed autonomy for any LLM. Own the state. ",
+    "id": "winstonkoh87/Athena-Public",
+    "language": "Python",
+    "name": "winstonkoh87/Athena-Public",
+    "stars": 543,
+    "updated_at": "2026-07-23T10:04:01Z",
+    "url": "https://github.com/winstonkoh87/Athena-Public"
+  },
+  {
+    "description": "A Codex skill that keeps human outcomes and creative intent ahead of overengineering.",
+    "id": "bish-x/creator-vibe",
+    "language": "\u2014",
+    "name": "bish-x/creator-vibe",
+    "stars": 4,
+    "updated_at": "2026-07-23T10:01:18Z",
+    "url": "https://github.com/bish-x/creator-vibe"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-23T10:00:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u5728\u542f\u52a8 Codex \u6216\u5176\u4ed6\u5de5\u7a0b\u578b AI \u4efb\u52a1\u524d\uff0c\u6821\u51c6\u76ee\u6807\u3001\u4e0a\u4e0b\u6587\u3001\u8303\u56f4\u3001\u6a21\u578b\u914d\u7f6e\u3001\u9a8c\u6536\u4e0e\u6062\u590d\u65b9\u5f0f\u3002",
     "id": "yazige/codex-task-coach",
     "language": "\u2014",
@@ -23,17 +77,8 @@
     "language": "Python",
     "name": "sebastian-software/skills.sebastian-software.com",
     "stars": 0,
-    "updated_at": "2026-07-23T09:58:57Z",
+    "updated_at": "2026-07-23T10:02:12Z",
     "url": "https://github.com/sebastian-software/skills.sebastian-software.com"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31710,
-    "updated_at": "2026-07-23T09:55:57Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -50,8 +95,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3413,
-    "updated_at": "2026-07-23T09:54:36Z",
+    "updated_at": "2026-07-23T10:01:02Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-07-23T09:46:33Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
   },
   {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -61,24 +115,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T09:45:33Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-23T09:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "The Linux OS for AI Agents \u2014 Persistent memory, structured reasoning, and governed autonomy for any LLM. Own the state. ",
-    "id": "winstonkoh87/Athena-Public",
-    "language": "Python",
-    "name": "winstonkoh87/Athena-Public",
-    "stars": 543,
-    "updated_at": "2026-07-23T09:57:01Z",
-    "url": "https://github.com/winstonkoh87/Athena-Public"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -153,12 +189,21 @@
     "url": "https://github.com/derob98/ailmanac"
   },
   {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 2,
+    "updated_at": "2026-07-23T09:35:23Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
     "description": "Turns vague requests into structured prompts, execution plans, and policy-aware workflows \u2014 with readiness verdicts, PR ",
     "id": "madara88645/Compiler",
     "language": "Python",
     "name": "madara88645/Compiler",
     "stars": 25,
-    "updated_at": "2026-07-23T09:35:16Z",
+    "updated_at": "2026-07-23T10:05:26Z",
     "url": "https://github.com/madara88645/Compiler"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Go",
     "name": "vllm-project/semantic-router",
     "stars": 5031,
-    "updated_at": "2026-07-23T09:33:37Z",
+    "updated_at": "2026-07-23T10:01:56Z",
     "url": "https://github.com/vllm-project/semantic-router"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 6713,
-    "updated_at": "2026-07-23T09:54:29Z",
+    "updated_at": "2026-07-23T10:04:24Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20789,
-    "updated_at": "2026-07-23T09:52:46Z",
+    "updated_at": "2026-07-23T10:05:25Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -297,15 +342,6 @@
     "url": "https://github.com/GOOOXG/ecommerce-detail-page-skill"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 2,
-    "updated_at": "2026-07-23T09:35:23Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
     "id": "F-e-u-e-r/opus-pack",
     "language": "Python",
@@ -313,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T09:13:17Z",
     "url": "https://github.com/F-e-u-e-r/opus-pack"
-  },
-  {
-    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
-    "id": "Sunil-M02/curiosity-engine",
-    "language": "TypeScript",
-    "name": "Sunil-M02/curiosity-engine",
-    "stars": 2,
-    "updated_at": "2026-07-23T09:46:33Z",
-    "url": "https://github.com/Sunil-M02/curiosity-engine"
   },
   {
     "description": "A template language for composable LLM prompt engineering. Write prompts with variables, loops, conditionals, functions,",
@@ -387,15 +414,6 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
-    "description": "Human-led AI workflows for real B2B sales work.",
-    "id": "shaunmarsden/practical-ai-sales-workflows",
-    "language": "\u2014",
-    "name": "shaunmarsden/practical-ai-sales-workflows",
-    "stars": 0,
-    "updated_at": "2026-07-23T09:59:45Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
-  },
-  {
     "description": "Cross-agent SKILL.md workflows for product architecture, UX audits, prompt clarity, work synthesis, and hands-on practic",
     "id": "m1nga/skill-builder",
     "language": "Shell",
@@ -419,17 +437,8 @@
     "language": "JavaScript",
     "name": "Arsxxi/iterative-dev-workflow",
     "stars": 1,
-    "updated_at": "2026-07-23T08:58:57Z",
+    "updated_at": "2026-07-23T10:06:46Z",
     "url": "https://github.com/Arsxxi/iterative-dev-workflow"
-  },
-  {
-    "description": "A Codex skill that keeps human outcomes and creative intent ahead of overengineering.",
-    "id": "bish-x/creator-vibe",
-    "language": "\u2014",
-    "name": "bish-x/creator-vibe",
-    "stars": 4,
-    "updated_at": "2026-07-23T08:57:46Z",
-    "url": "https://github.com/bish-x/creator-vibe"
   },
   {
     "description": "AI session handoff manager for VS Code.",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-23T09:47:15Z",
     "url": "https://github.com/Pain-Labs/Edo-Tensei"
-  },
-  {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "JavaScript",
-    "name": "spidey889/context-generator",
-    "stars": 10,
-    "updated_at": "2026-07-23T09:37:01Z",
-    "url": "https://github.com/spidey889/context-generator"
   }
 ]
