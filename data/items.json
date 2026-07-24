@@ -1,5 +1,86 @@
 [
   {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 37005,
+    "updated_at": "2026-07-24T20:06:13Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Prompt engineering projects, structured AI workflows, evaluation methods, and documented case studies.",
+    "id": "Dai2santos-RJ/prompt-engineering-portfolio",
+    "language": "\u2014",
+    "name": "Dai2santos-RJ/prompt-engineering-portfolio",
+    "stars": 1,
+    "updated_at": "2026-07-24T20:06:13Z",
+    "url": "https://github.com/Dai2santos-RJ/prompt-engineering-portfolio"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-24T20:05:18Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-07-24T20:05:10Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "ContextIQ is an open-source framework for LLM token optimization, context engineering, deterministic prompt compression ",
+    "id": "ancyonio/ContextIQ",
+    "language": "Python",
+    "name": "ancyonio/ContextIQ",
+    "stars": 1,
+    "updated_at": "2026-07-24T20:03:19Z",
+    "url": "https://github.com/ancyonio/ContextIQ"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-24T20:02:35Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-07-24T20:02:32Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-24T20:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A quality engineering workflow built entirely as agent configuration: one slash command, one skill, and seven subagents ",
+    "id": "JeanSantos89/QE-agents-workflow",
+    "language": "Markdown",
+    "name": "JeanSantos89/QE-agents-workflow",
+    "stars": 1,
+    "updated_at": "2026-07-24T20:00:23Z",
+    "url": "https://github.com/JeanSantos89/QE-agents-workflow"
+  },
+  {
     "description": "Agent skills for Claude Code where every entry ships with receipts: accuracy-gated benchmarks vs baseline AND placebo. R",
     "id": "sjh9714/skill-receipts",
     "language": "JavaScript",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10718,
-    "updated_at": "2026-07-24T19:56:19Z",
+    "updated_at": "2026-07-24T20:01:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -81,15 +162,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-24T19:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -104,7 +176,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 21,
-    "updated_at": "2026-07-24T19:48:27Z",
+    "updated_at": "2026-07-24T20:01:26Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T19:34:47Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Prompt engineering projects, structured AI workflows, evaluation methods, and documented case studies.",
-    "id": "Dai2santos-RJ/prompt-engineering-portfolio",
-    "language": "\u2014",
-    "name": "Dai2santos-RJ/prompt-engineering-portfolio",
-    "stars": 1,
-    "updated_at": "2026-07-24T19:34:05Z",
-    "url": "https://github.com/Dai2santos-RJ/prompt-engineering-portfolio"
   },
   {
     "description": "Evidence-locked scientific visual compiler for auditable research figures",
@@ -232,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T19:26:57Z",
     "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "A quality engineering workflow built entirely as agent configuration: one slash command, one skill, and seven subagents ",
-    "id": "JeanSantos89/QE-agents-workflow",
-    "language": "Markdown",
-    "name": "JeanSantos89/QE-agents-workflow",
-    "stars": 1,
-    "updated_at": "2026-07-24T20:00:23Z",
-    "url": "https://github.com/JeanSantos89/QE-agents-workflow"
   },
   {
     "description": "MCP Server that offers high-performance prompt optimization server with real-time streaming, pattern-based enhancement, ",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-24T19:21:17Z",
     "url": "https://github.com/tacticalwarningsubscriptionwarrant526/borrowed-brain-pro"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 152,
-    "updated_at": "2026-07-24T19:21:08Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-07-24T19:20:13Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
-    "id": "Norinatiring463/loop-engineering",
-    "language": "Python",
-    "name": "Norinatiring463/loop-engineering",
-    "stars": 1,
-    "updated_at": "2026-07-24T19:18:30Z",
-    "url": "https://github.com/Norinatiring463/loop-engineering"
-  },
-  {
-    "description": "Developer bootstrapper for AI-assisted IDEs: project-aware setup for Cursor, VS Code & Windsurf with file-based handoff ",
-    "id": "agent-kit-startup/agent-kit",
-    "language": "TypeScript",
-    "name": "agent-kit-startup/agent-kit",
-    "stars": 4,
-    "updated_at": "2026-07-24T19:16:56Z",
-    "url": "https://github.com/agent-kit-startup/agent-kit"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-07-24T19:14:41Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-07-24T19:14:41Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   }
 ]
