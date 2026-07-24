@@ -1,12 +1,102 @@
 [
   {
+    "description": "Platform-neutral Agent Skill for building focused routers from overlapping skills.",
+    "id": "youaifuou/skill-router",
+    "language": "\u2014",
+    "name": "youaifuou/skill-router",
+    "stars": 1,
+    "updated_at": "2026-07-24T03:58:09Z",
+    "url": "https://github.com/youaifuou/skill-router"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-07-24T03:57:48Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
+    "id": "maruwork/veil",
+    "language": "Python",
+    "name": "maruwork/veil",
+    "stars": 0,
+    "updated_at": "2026-07-24T03:54:47Z",
+    "url": "https://github.com/maruwork/veil"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 61885,
+    "updated_at": "2026-07-24T03:53:03Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
+    "id": "Zyonic88/Aevryn",
+    "language": "Python",
+    "name": "Zyonic88/Aevryn",
+    "stars": 0,
+    "updated_at": "2026-07-24T03:51:52Z",
+    "url": "https://github.com/Zyonic88/Aevryn"
+  },
+  {
     "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
     "id": "jmagly/aiwg",
     "language": "TypeScript",
     "name": "jmagly/aiwg",
     "stars": 168,
-    "updated_at": "2026-07-24T03:50:00Z",
+    "updated_at": "2026-07-24T03:51:43Z",
     "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-07-24T03:51:08Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "100+ tested, copy-paste AI prompts for everyday life \u2014 one new skill every day at dailyskill.ai",
+    "id": "vinusmark1-cpu/dailyskill-prompt-library",
+    "language": "\u2014",
+    "name": "vinusmark1-cpu/dailyskill-prompt-library",
+    "stars": 0,
+    "updated_at": "2026-07-24T03:50:51Z",
+    "url": "https://github.com/vinusmark1-cpu/dailyskill-prompt-library"
+  },
+  {
+    "description": "AI dotfiles",
+    "id": "manusa/ai",
+    "language": "Shell",
+    "name": "manusa/ai",
+    "stars": 1,
+    "updated_at": "2026-07-24T03:50:26Z",
+    "url": "https://github.com/manusa/ai"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-24T03:50:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-07-24T03:50:17Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -25,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T03:49:37Z",
     "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
-  },
-  {
-    "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
-    "id": "maruwork/veil",
-    "language": "Python",
-    "name": "maruwork/veil",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:49:04Z",
-    "url": "https://github.com/maruwork/veil"
   },
   {
     "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
@@ -67,8 +148,8 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 39257,
-    "updated_at": "2026-07-24T03:48:18Z",
+    "stars": 39258,
+    "updated_at": "2026-07-24T04:00:17Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
@@ -117,15 +198,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-24T03:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -162,15 +234,6 @@
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-07-24T03:48:13Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
     "description": "Branch-aware AI grilling with user-controlled follow-up ceilings and adaptive early stopping",
     "id": "yuexiongHNU/grill-me-plus",
     "language": "Python",
@@ -180,15 +243,6 @@
     "url": "https://github.com/yuexiongHNU/grill-me-plus"
   },
   {
-    "description": "A curated list of MLSecOps tools and resources for securing machine learning and AI systems - adversarial ML defense, LL",
-    "id": "RiccardoBiosas/awesome-MLSecOps",
-    "language": "Astro",
-    "name": "RiccardoBiosas/awesome-MLSecOps",
-    "stars": 439,
-    "updated_at": "2026-07-24T03:35:52Z",
-    "url": "https://github.com/RiccardoBiosas/awesome-MLSecOps"
-  },
-  {
     "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
     "id": "Raymondhou0917/speak-human-tw",
     "language": "\u2014",
@@ -196,15 +250,6 @@
     "stars": 689,
     "updated_at": "2026-07-24T03:35:44Z",
     "url": "https://github.com/Raymondhou0917/speak-human-tw"
-  },
-  {
-    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
-    "id": "Zyonic88/Aevryn",
-    "language": "Python",
-    "name": "Zyonic88/Aevryn",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:49:51Z",
-    "url": "https://github.com/Zyonic88/Aevryn"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -247,7 +292,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 9269,
+    "stars": 9271,
     "updated_at": "2026-07-24T03:25:04Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -355,18 +400,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23548,
+    "stars": 23549,
     "updated_at": "2026-07-24T03:11:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:09:47Z",
-    "url": "https://github.com/agungkesmas/recallfox"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-24T03:02:04Z",
     "url": "https://github.com/gaofeng21cn/redcube-ai"
-  },
-  {
-    "description": "Helen Agent Develop Language ",
-    "id": "hahalee000000/helen",
-    "language": "Python",
-    "name": "hahalee000000/helen",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:01:36Z",
-    "url": "https://github.com/hahalee000000/helen"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27188,
-    "updated_at": "2026-07-24T03:00:50Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\u26a1 ZeroToken Skill \u2014 \u8ba9 Agent \u7528\u6700\u5c11\u7684 token \u505a\u6700\u51c6\u7684\u4e8b\u3002\u63d0\u793a\u8bcd\u7eaa\u5f8b\u89c4\u8303\uff1a\u538b\u7f29\u65e0\u6548\u4e0a\u4e0b\u6587\u3001\u65e0\u6548\u89e3\u91ca\u3001\u65e0\u6548\u5de5\u5177\u8c03\u7528\u3001\u65e0\u6548\u8f93\u51fa\uff0c\u51c6\u786e\u6027\u4e0d\u964d\u3002",
-    "id": "phoenixlucky/zerotoken-skill",
-    "language": "Python",
-    "name": "phoenixlucky/zerotoken-skill",
-    "stars": 9,
-    "updated_at": "2026-07-24T02:57:54Z",
-    "url": "https://github.com/phoenixlucky/zerotoken-skill"
-  },
-  {
-    "description": "Lossless, structure-aware compression of logs, JSON & CSV to cut LLM prompt tokens. Lossless or no-op \u2014 never lossy.",
-    "id": "antrixy/ctxfold",
-    "language": "JavaScript",
-    "name": "antrixy/ctxfold",
-    "stars": 0,
-    "updated_at": "2026-07-24T02:57:42Z",
-    "url": "https://github.com/antrixy/ctxfold"
   }
 ]
