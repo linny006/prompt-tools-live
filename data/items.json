@@ -1,5 +1,86 @@
 [
   {
+    "description": "Claude skill that reads a job description and hands back an HTML report \u2014 match score, resume tailor, interview predicto",
+    "id": "yanliudesign/job-description-skill",
+    "language": "\u2014",
+    "name": "yanliudesign/job-description-skill",
+    "stars": 74,
+    "updated_at": "2026-07-24T01:29:26Z",
+    "url": "https://github.com/yanliudesign/job-description-skill"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 2,
+    "updated_at": "2026-07-24T01:27:21Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "\ud83d\udccb Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your",
+    "id": "V-Songbird/foreman",
+    "language": "JavaScript",
+    "name": "V-Songbird/foreman",
+    "stars": 11,
+    "updated_at": "2026-07-24T01:25:59Z",
+    "url": "https://github.com/V-Songbird/foreman"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 54,
+    "updated_at": "2026-07-24T01:25:05Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "\ud83d\ude80 The largest downloadable GPT Image 2 prompt library \u2014 15,672 prompts and growing, daily updates with HuggingFace datas",
+    "id": "goku-open/awesome-gpt-image-2-prompts",
+    "language": "TypeScript",
+    "name": "goku-open/awesome-gpt-image-2-prompts",
+    "stars": 0,
+    "updated_at": "2026-07-24T01:24:55Z",
+    "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 23,
+    "updated_at": "2026-07-24T01:20:05Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Storage of Personal Skills",
+    "id": "ydna564/Skills",
+    "language": "\u2014",
+    "name": "ydna564/Skills",
+    "stars": 1,
+    "updated_at": "2026-07-24T01:18:44Z",
+    "url": "https://github.com/ydna564/Skills"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-07-24T01:15:59Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-24T01:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
     "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
     "language": "TypeScript",
@@ -45,15 +126,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 2,
-    "updated_at": "2026-07-24T01:06:54Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
-  },
-  {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
     "id": "sauravbhattacharya001/agentlens",
     "language": "JavaScript",
@@ -70,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T01:05:11Z",
     "url": "https://github.com/agungkesmas/recallfox"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-24T01:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10706,
-    "updated_at": "2026-07-24T00:47:25Z",
+    "updated_at": "2026-07-24T01:28:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -169,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T00:39:20Z",
     "url": "https://github.com/washyaderner/hermes"
-  },
-  {
-    "description": "Storage of Personal Skills",
-    "id": "ydna564/Skills",
-    "language": "\u2014",
-    "name": "ydna564/Skills",
-    "stars": 1,
-    "updated_at": "2026-07-24T00:38:52Z",
-    "url": "https://github.com/ydna564/Skills"
   },
   {
     "description": "A Windows desktop tool that analyzes code changes and generates validated unit test cases, Excel documents, and release ",
@@ -202,7 +256,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 60038,
+    "stars": 60041,
     "updated_at": "2026-07-24T00:33:44Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -239,7 +293,7 @@
     "language": "Shell",
     "name": "levi-qiao/octopus-skill",
     "stars": 31,
-    "updated_at": "2026-07-24T01:08:06Z",
+    "updated_at": "2026-07-24T01:20:17Z",
     "url": "https://github.com/levi-qiao/octopus-skill"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-24T00:04:15Z",
     "url": "https://github.com/omar-y-abdi/furl-ctx"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:03:42Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Lightweight desktop app for private, local AI \u2014 multi-tab chat, folder RAG, RSS/URL watches, and a quick-query overlay. ",
-    "id": "ekorbia/ekorbia-desktop",
-    "language": "JavaScript",
-    "name": "ekorbia/ekorbia-desktop",
-    "stars": 1,
-    "updated_at": "2026-07-24T00:02:39Z",
-    "url": "https://github.com/ekorbia/ekorbia-desktop"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:02:14Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 150,
-    "updated_at": "2026-07-24T00:02:07Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:00:43Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-07-24T00:00:29Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
   }
 ]
