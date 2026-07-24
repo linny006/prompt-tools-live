@@ -1,12 +1,48 @@
 [
   {
-    "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
-    "id": "truongnat/simple-skills",
+    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
+    "id": "Zyonic88/Aevryn",
     "language": "Python",
-    "name": "truongnat/simple-skills",
+    "name": "Zyonic88/Aevryn",
     "stars": 0,
-    "updated_at": "2026-07-24T05:15:25Z",
-    "url": "https://github.com/truongnat/simple-skills"
+    "updated_at": "2026-07-24T05:29:48Z",
+    "url": "https://github.com/Zyonic88/Aevryn"
+  },
+  {
+    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
+    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "language": "TypeScript",
+    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-24T05:28:25Z",
+    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
+  },
+  {
+    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude. foundation: eight standalone smiths that build, audit, a",
+    "id": "revenantworks/citadel",
+    "language": "Python",
+    "name": "revenantworks/citadel",
+    "stars": 0,
+    "updated_at": "2026-07-24T05:28:01Z",
+    "url": "https://github.com/revenantworks/citadel"
+  },
+  {
+    "description": "\uc6b0\uc988\ubca0\ud0a4\uc2a4\ud0c4 \uc7ac\ub798\uc2dc\uc7a5 \uc2e4\uc2dc\uac04 \uc2dc\uc138 \uc870\ud68c \uc11c\ube44\uc2a4 BozorCheck\uc758 AI \ud30c\ud2b8 \u2014 Dify \uc6cc\ud06c\ud50c\ub85c\uc6b0 3\uc885 DSL (KMU \u00d7 TUIT \uae00\ub85c\ubc8c \ud574\ucee4\ud1a4 3\uc704)",
+    "id": "hyunbean/tuit_hackathon_dify",
+    "language": "Python",
+    "name": "hyunbean/tuit_hackathon_dify",
+    "stars": 0,
+    "updated_at": "2026-07-24T05:25:40Z",
+    "url": "https://github.com/hyunbean/tuit_hackathon_dify"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 28,
+    "updated_at": "2026-07-24T05:25:06Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
     "description": "\ud83d\udce6 Pack your codebase into a single formatted Markdown prompt for LLMs, optimized for minimum tokens.",
@@ -14,8 +50,53 @@
     "language": "Python",
     "name": "iamraydoan/ai-pack",
     "stars": 1,
-    "updated_at": "2026-07-24T05:13:49Z",
+    "updated_at": "2026-07-24T05:24:47Z",
     "url": "https://github.com/iamraydoan/ai-pack"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 18,
+    "updated_at": "2026-07-24T05:24:28Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
+    "id": "Sungmin-Cho/claude-deep-suite",
+    "language": "JavaScript",
+    "name": "Sungmin-Cho/claude-deep-suite",
+    "stars": 6,
+    "updated_at": "2026-07-24T05:19:27Z",
+    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
+  },
+  {
+    "description": "AI session handoff manager for VS Code.",
+    "id": "Pain-Labs/Edo-Tensei",
+    "language": "TypeScript",
+    "name": "Pain-Labs/Edo-Tensei",
+    "stars": 3,
+    "updated_at": "2026-07-24T05:15:47Z",
+    "url": "https://github.com/Pain-Labs/Edo-Tensei"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-24T05:15:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
+    "id": "truongnat/simple-skills",
+    "language": "Python",
+    "name": "truongnat/simple-skills",
+    "stars": 0,
+    "updated_at": "2026-07-24T05:15:25Z",
+    "url": "https://github.com/truongnat/simple-skills"
   },
   {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
@@ -86,17 +167,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3416,
-    "updated_at": "2026-07-24T05:12:39Z",
+    "updated_at": "2026-07-24T05:27:16Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
-    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
-    "language": "TypeScript",
-    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-24T05:08:32Z",
-    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
   },
   {
     "description": "nightshift is a free Claude Code plugin that turns one terminal into a full software-delivery team \u2014 it reads a ticket a",
@@ -157,8 +229,8 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 39266,
-    "updated_at": "2026-07-24T05:00:43Z",
+    "stars": 39267,
+    "updated_at": "2026-07-24T05:29:36Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 5039,
     "updated_at": "2026-07-24T05:00:31Z",
     "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-24T05:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udf0a Lagune is your security copilot as you build, your Blue Team when you audit, whether you're a developer or not (no API",
@@ -360,15 +423,6 @@
     "url": "https://github.com/Leo-maomao/pm-copilot"
   },
   {
-    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
-    "id": "Zyonic88/Aevryn",
-    "language": "Python",
-    "name": "Zyonic88/Aevryn",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:25:28Z",
-    "url": "https://github.com/Zyonic88/Aevryn"
-  },
-  {
     "description": "13 Claude Code skills + 1 hook: full engineering discipline (TDD, root-cause debugging, verification) with zero narratio",
     "id": "StarchyBomb/superlazy",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 67,
     "updated_at": "2026-07-24T04:22:28Z",
     "url": "https://github.com/marmbiz/humanizer-de"
-  },
-  {
-    "description": "My personal collection of handcrafted AI agent skills \u2014 original prompting modules for code quality, knowledge explorati",
-    "id": "unix2dos/skills",
-    "language": "Python",
-    "name": "unix2dos/skills",
-    "stars": 3,
-    "updated_at": "2026-07-24T04:20:54Z",
-    "url": "https://github.com/unix2dos/skills"
-  },
-  {
-    "description": "Helen Agent Develop Language ",
-    "id": "hahalee000000/helen",
-    "language": "Python",
-    "name": "hahalee000000/helen",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:19:34Z",
-    "url": "https://github.com/hahalee000000/helen"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts and multilingual examples for EvoLink.",
-    "id": "Evolink-AI/awesome-seedance-2.0-prompts",
-    "language": "Python",
-    "name": "Evolink-AI/awesome-seedance-2.0-prompts",
-    "stars": 2,
-    "updated_at": "2026-07-24T04:18:41Z",
-    "url": "https://github.com/Evolink-AI/awesome-seedance-2.0-prompts"
-  },
-  {
-    "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
-    "id": "maruwork/veil",
-    "language": "Python",
-    "name": "maruwork/veil",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:18:06Z",
-    "url": "https://github.com/maruwork/veil"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 1,
-    "updated_at": "2026-07-24T04:16:14Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 150,
-    "updated_at": "2026-07-24T04:15:33Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
   }
 ]
