@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-24 12:15 UTC
+> ⏰ Last updated: 2026-07-24 12:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1406 | Python | 2026-07-24 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
-| 2 | [souvik997-sudo/AI-Advertising-Operating-System](https://github.com/souvik997-sudo/AI-Advertising-Operating-System) | 0 | — | 2026-07-24 | AI-powered Advertising & Marketing Operating System for structured copywriting, SEO, branding, UGC and prompt engineerin |
-| 3 | [kodancrash-oss/prompt-weaver-framework](https://github.com/kodancrash-oss/prompt-weaver-framework) | 1 | HTML | 2026-07-24 | Best Free Prompt Architect AI 2026 – Build Production Prompts with Claude's Interview Framework |
-| 4 | [Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement](https://github.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement) | 1 | — | 2026-07-24 | 🛡️ Verify civic engagement with the Zero Trust Advocacy Prompt, a framework that demands accountability from bureaucrati |
-| 5 | [sEbas12312nft/awesome-copilot](https://github.com/sEbas12312nft/awesome-copilot) | 5 | JavaScript | 2026-07-24 | 🤖 Enhance your GitHub Copilot experience with curated prompts and instructions for diverse languages and tasks to boost  |
-| 6 | [soyona/spec-driven-solo](https://github.com/soyona/spec-driven-solo) | 2 | Shell | 2026-07-24 | 🚀 专为 ChatGPT Plus (Web) + Codex / Cline / Roo-Cline 架构设计的全栈三轨工程规范。通过资产轨、记忆轨、源码轨及 3 次报错硬熔断机制，彻底终结 AI 编程幻觉与长对话失忆。Spec-Driv |
-| 7 | [Sunwood-ai-labs/OpenFace](https://github.com/Sunwood-ai-labs/OpenFace) | 2 | CSS | 2026-07-24 | A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages. |
-| 8 | [winstonkoh87/Athena-Public](https://github.com/winstonkoh87/Athena-Public) | 543 | Python | 2026-07-24 | The Linux OS for AI Agents — Persistent memory, structured reasoning, and governed autonomy for any LLM. Own the state.  |
-| 9 | [hkm-a/genie](https://github.com/hkm-a/genie) | 0 | TypeScript | 2026-07-24 | AI 提示词工作台：场景目录、变量填充、多厂商 LLM、Tauri 桌面端 |
-| 10 | [Faudzan10/outline-driven-starter-kit](https://github.com/Faudzan10/outline-driven-starter-kit) | 1 | HTML | 2026-07-24 | One-Click AI Dev Environment Setup 2026 – Outline-Driven CLI Instant Init |
-| 11 | [JeanSebastienBash/PromptDeMerde](https://github.com/JeanSebastienBash/PromptDeMerde) | 0 | JavaScript | 2026-07-24 | Fully private multilingual prompt-engineering UI for local Ollama. Voice dictation, JSON profile ZIP export. Collaborate |
-| 12 | [edsondviana8/ai-humanizer-core](https://github.com/edsondviana8/ai-humanizer-core) | 1 | HTML | 2026-07-24 | Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clichés |
-| 13 | [SUASTELARA/Supercharged-AI-Dev-Tools](https://github.com/SUASTELARA/Supercharged-AI-Dev-Tools) | 4 | — | 2026-07-24 | 🛠️ Elevate your coding with Supercharged AI Dev Tools, an open-source directory of AI-powered solutions to boost product |
-| 14 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-07-24 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
-| 15 | [harryvondiesel-web/5-persona-advisory-board](https://github.com/harryvondiesel-web/5-persona-advisory-board) | 0 | — | 2026-07-24 | A reusable AI skill for stress-testing high-leverage decisions through five strategic lenses. |
-| 16 | [gomzkov/scout](https://github.com/gomzkov/scout) | 0 | JavaScript | 2026-07-24 | Surfaces the question you didn't know to ask. Agent skill for Claude Code, Cursor, and Codex. |
-| 17 | [Merveil22/spotify-playlist-dating-redflag-analysis](https://github.com/Merveil22/spotify-playlist-dating-redflag-analysis) | 1 | Python | 2026-07-24 | 🎶 Analyze Spotify playlists to uncover "dating red flag" insights using data scraping and GenAI for a fun personality br |
-| 18 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31781 | TypeScript | 2026-07-24 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 19 | [b0ir/prompt-evaluator](https://github.com/b0ir/prompt-evaluator) | 1 | Python | 2026-07-24 | Structural prompt analysis + output testing + rewriting. Model-agnostic via LiteLLM. FastAPI service. |
-| 20 | [sou350121/Agent-Playbook](https://github.com/sou350121/Agent-Playbook) | 13 | PowerShell | 2026-07-24 | ⚗️ AI Agent 生态每天海量资讯，99% 是噪音。这个仓库只做一件事：把最新碎片信号提纯为你能直接用的架构导轨、设计模式和工程实践。 |
-| 21 | [Shreyash3007/aegis](https://github.com/Shreyash3007/aegis) | 0 | TypeScript | 2026-07-24 | The enforcement layer for AI-native development: a state-machine CLI that owns truth (gates, transitions, merge oracle,  |
-| 22 | [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault) | 166 | HTML | 2026-07-24 | Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks |
-| 23 | [sergeeey/Claude-cod-top-2026](https://github.com/sergeeey/Claude-cod-top-2026) | 7 | Python | 2026-07-24 | Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e |
-| 24 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-07-24 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 25 | [levi-qiao/octopus-skill](https://github.com/levi-qiao/octopus-skill) | 32 | Shell | 2026-07-24 | 🐙 Graph engineering for long-horizon agents — a curated prompt library wiring specialized clean-context roles (executor  |
-| 26 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-07-24 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 27 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 39328 | Python | 2026-07-24 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| 28 | [Kushagra1A/openpi](https://github.com/Kushagra1A/openpi) | 6 | Python | 2026-07-24 | 🤖 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl |
-| 29 | [rizvee/multimodel-dev-os](https://github.com/rizvee/multimodel-dev-os) | 2 | JavaScript | 2026-07-24 | Portable, validation-first workspace and localhost gateway foundation for governed multi-agent development. |
-| 30 | [RafaelC22V/agentic-ai-mentorship-program](https://github.com/RafaelC22V/agentic-ai-mentorship-program) | 1 | — | 2026-07-24 |  |
-| 31 | [R-Dilipkumar/llm-study-mode-prompt](https://github.com/R-Dilipkumar/llm-study-mode-prompt) | 1 | — | 2026-07-24 | 🎓 Enhance learning with a tailored tutoring prompt system for Large Language Models, promoting active engagement and per |
-| 32 | [AFRATUL1/AI-dropin-spec](https://github.com/AFRATUL1/AI-dropin-spec) | 0 | — | 2026-07-24 | 🔄 Enable seamless AI conversations with a universal file format that saves and transfers your chat history across platfo |
-| 33 | [Robin-Goerlach/SASD-Development-Standard](https://github.com/Robin-Goerlach/SASD-Development-Standard) | 0 | Python | 2026-07-24 | Open, practical development standard for solo developers and small teams. Defines repeatable project lifecycles, archite |
-| 34 | [EpicSaleh/freelancer-opportunity-finder](https://github.com/EpicSaleh/freelancer-opportunity-finder) | 1 | JavaScript | 2026-07-24 | 🔍 Automate job discovery on Freelancer.com with AI-driven insights and tailored project recommendations for freelancers. |
-| 35 | [benja0191928/awesome-llm-prompts](https://github.com/benja0191928/awesome-llm-prompts) | 3 | — | 2026-07-24 | 📝 Discover and use powerful prompts for LLMs to enhance your AI interactions and boost productivity in coding and creati |
-| 36 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2209 | JavaScript | 2026-07-24 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 37 | [thucutos1fpt/Italian-AI-Debater](https://github.com/thucutos1fpt/Italian-AI-Debater) | 1 | Python | 2026-07-24 | 🤖 Engage AI in dynamic debates with this customizable Python system, featuring unique personalities, original topics, an |
-| 38 | [MarcoRamos016/AI-project](https://github.com/MarcoRamos016/AI-project) | 3 | HTML | 2026-07-24 | 🌞 Manage Xeroderma Pigmentosum effectively with DermaFlow, an AI-driven web solution that provides proactive care and UV |
-| 39 | [tito1405/cueCLI](https://github.com/tito1405/cueCLI) | 3 | JavaScript | 2026-07-24 | 🛠️ Manage and reuse AI prompts from the command line with cueCLI for ChatGPT, Claude, and more—simplifying your workflow |
-| 40 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-07-24 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 41 | [saurabhzaiswal/GenAI-Customer-Review-Analyzer](https://github.com/saurabhzaiswal/GenAI-Customer-Review-Analyzer) | 1 | TypeScript | 2026-07-24 | A production-style, full-stack GenAI application that turns raw customer feedback into structured business insight. |
-| 42 | [R-cloud-git/ai-craft](https://github.com/R-cloud-git/ai-craft) | 3 | — | 2026-07-24 | 🐙 AI Craft delivers structured workflow prompts for software development across AI platforms, with Claude AI workflows a |
-| 43 | [agungkesmas/recallfox](https://github.com/agungkesmas/recallfox) | 0 | JavaScript | 2026-07-24 | Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho |
-| 44 | [KingFishyXMesa/fuzz2-producer-ai-angklungmann](https://github.com/KingFishyXMesa/fuzz2-producer-ai-angklungmann) | 3 | — | 2026-07-24 | Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai |
-| 45 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-07-24 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 46 | [MunnaXbadmash/ai-dev-assistant-framework](https://github.com/MunnaXbadmash/ai-dev-assistant-framework) | 5 | — | 2026-07-24 | A plug-and-play framework for AI-assisted software development, enhancing context-aware collaboration in complex codebas |
-| 47 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-07-24 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 48 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-07-24 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 49 | [StarDust130/Orion](https://github.com/StarDust130/Orion) | 0 | TypeScript | 2026-07-24 | 🎯Building a Production LLM Application |
-| 50 | [Tymooh/GPT-DUEL-ARENA](https://github.com/Tymooh/GPT-DUEL-ARENA) | 0 | — | 2026-07-24 | AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI |
+| 1 | [F-e-u-e-r/opus-pack](https://github.com/F-e-u-e-r/opus-pack) | 1 | Python | 2026-07-24 | Distilled operating skills for daily-driver Claude models — few dense rules, executable gates over long prose. |
+| 2 | [Sunwood-ai-labs/OpenFace](https://github.com/Sunwood-ai-labs/OpenFace) | 2 | CSS | 2026-07-24 | A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages. |
+| 3 | [astorie-ai/awesome-seedance-2-prompt](https://github.com/astorie-ai/awesome-seedance-2-prompt) | 10 | Shell | 2026-07-24 | Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art. |
+| 4 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 12947 | TypeScript | 2026-07-24 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
+| 5 | [alonbaron/claude-skills](https://github.com/alonbaron/claude-skills) | 5 | — | 2026-07-24 | Six Claude Code skills (architect, review-swarm, ask-the-council, prompt-generator, up-to-date, ponytail) bundled as an  |
+| 6 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 31782 | TypeScript | 2026-07-24 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 7 | [derob98/ailmanac](https://github.com/derob98/ailmanac) | 7 | MDX | 2026-07-24 | AILmanac — the always-current, community almanac for getting the most out of Claude and every AI. For all levels. |
+| 8 | [toolkitaiprompt-ui/AI-Prompt-Toolkit](https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit) | 1 | TypeScript | 2026-07-24 | 🚀 AI Prompt Toolkit — 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida |
+| 9 | [Mairaarshad19/FlyRankInternship-GeneralAIFluency](https://github.com/Mairaarshad19/FlyRankInternship-GeneralAIFluency) | 1 | HTML | 2026-07-24 | Assignments and projects for the FlyRank General AI Fluency internship track. |
+| 10 | [solar-thermopsis805/therapeutic-llm](https://github.com/solar-thermopsis805/therapeutic-llm) | 2 | TypeScript | 2026-07-24 | 🤖 Analyze emotions and sarcasm in real-time with an AI therapy chatbot, providing empathetic responses and tracking emot |
+| 11 | [mahdidjemaci/production-rag](https://github.com/mahdidjemaci/production-rag) | 2 | Python | 2026-07-24 | 🔍 Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal  |
+| 12 | [wolfenix/llm-math-reasoning-analysis](https://github.com/wolfenix/llm-math-reasoning-analysis) | 0 | HTML | 2026-07-24 | 🔍 Analyze the mathematical reasoning abilities of the Mistral-7B model using diverse prompting techniques on multi-step  |
+| 13 | [CodeAlive-AI/ai-driven-development](https://github.com/CodeAlive-AI/ai-driven-development) | 107 | Python | 2026-07-24 | Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope |
+| 14 | [souvik997-sudo/AI-Advertising-Operating-System](https://github.com/souvik997-sudo/AI-Advertising-Operating-System) | 0 | — | 2026-07-24 | AI-powered Advertising & Marketing Operating System for structured copywriting, SEO, branding, UGC and prompt engineerin |
+| 15 | [JoinDataaxy/dataaxy-ai-role-fit-starter](https://github.com/JoinDataaxy/dataaxy-ai-role-fit-starter) | 0 | — | 2026-07-24 | GitHub starter kit for building an evidence-led AI role-fit assistant portfolio project |
+| 16 | [beausee/coniunctio-intelligentiarum](https://github.com/beausee/coniunctio-intelligentiarum) | 0 | Python | 2026-07-24 | The union of intelligences — a harness that bridges a human mind and an AI mind: unskippable gates, structural memory &  |
+| 17 | [5uprem4/ai-skill-vault](https://github.com/5uprem4/ai-skill-vault) | 3 | HTML | 2026-07-24 | Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub |
+| 18 | [sergeeey/Claude-cod-top-2026](https://github.com/sergeeey/Claude-cod-top-2026) | 7 | Python | 2026-07-24 | Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e |
+| 19 | [yahyambk57-stack/Ai-Object-Isolation-Toolkit](https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit) | 50 | HTML | 2026-07-24 | 2026 Next-Gen AI Photo Background Remover & Object Removal Tool |
+| 20 | [hysohail/agentic-experiment-designer](https://github.com/hysohail/agentic-experiment-designer) | 1 | HTML | 2026-07-24 | Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement |
+| 21 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 150 | HTML | 2026-07-24 | HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code |
+| 22 | [soyona/spec-driven-solo](https://github.com/soyona/spec-driven-solo) | 2 | Shell | 2026-07-24 | 🚀 专为 ChatGPT Plus (Web) + Codex / Cline / Roo-Cline 架构设计的全栈三轨工程规范。通过资产轨、记忆轨、源码轨及 3 次报错硬熔断机制，彻底终结 AI 编程幻觉与长对话失忆。Spec-Driv |
+| 23 | [subhacademic-cmd/prompt-craft-ecommerce-visuals](https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals) | 0 | HTML | 2026-07-24 | AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library ✨ |
+| 24 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1406 | Python | 2026-07-24 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
+| 25 | [TheEspresso/prompt-engineering](https://github.com/TheEspresso/prompt-engineering) | 2 | — | 2026-07-24 |  |
+| 26 | [Monsterw31/prom-playground](https://github.com/Monsterw31/prom-playground) | 0 | Python | 2026-07-24 | 🚀 Explore Prometheus and Grafana in this self-contained playground with a mock metrics server for learning and simulatin |
+| 27 | [SHENG5411/grimoire-of-tools](https://github.com/SHENG5411/grimoire-of-tools) | 1 | HTML | 2026-07-24 | Ultimate AI Spellbook Workflows 2026 – Build Multi-Platform Skills & Automation |
+| 28 | [Atheerameer/agentic-cli-blueprint-library](https://github.com/Atheerameer/agentic-cli-blueprint-library) | 1 | HTML | 2026-07-24 | Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts |
+| 29 | [Asir11/langgraph-agentic-workflows-tutorial](https://github.com/Asir11/langgraph-agentic-workflows-tutorial) | 1 | HTML | 2026-07-24 | Build LLM Agents in 2026 🚀 - LangChain & LangGraph Projects & Tutorials |
+| 30 | [teguhimanulloh47/pirate-talk-for-claude](https://github.com/teguhimanulloh47/pirate-talk-for-claude) | 0 | HTML | 2026-07-24 | Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub |
+| 31 | [reis428/system_prompts_leaks](https://github.com/reis428/system_prompts_leaks) | 10 | JavaScript | 2026-07-24 | 🛠️ Discover and explore a collection of system prompts and messages, contributing to better understanding and developmen |
+| 32 | [mtsalhudarowokele/PrismIA](https://github.com/mtsalhudarowokele/PrismIA) | 4 | — | 2026-07-24 | 🔍 Optimize recruitment processes using AI and data analysis to reduce bias and enhance decision-making accuracy. |
+| 33 | [Zipstack/unstract](https://github.com/Zipstack/unstract) | 6858 | Python | 2026-07-24 | LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows |
+| 34 | [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | 4134 | Python | 2026-07-24 | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi |
+| 35 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-07-24 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 36 | [tech-guru254/spec-weaver](https://github.com/tech-guru254/spec-weaver) | 1 | HTML | 2026-07-24 | Top AI Prompt Optimizer 2026 – Transform Vague Requests Into Structured Dev Specs |
+| 37 | [Kenny27lokku/prompt-integrity-validator](https://github.com/Kenny27lokku/prompt-integrity-validator) | 0 | HTML | 2026-07-24 | Lint Your Prompts, Ship Better Agents – Prompt Refiner 2026 Rule Engine |
+| 38 | [kodancrash-oss/prompt-weaver-framework](https://github.com/kodancrash-oss/prompt-weaver-framework) | 1 | HTML | 2026-07-24 | Best Free Prompt Architect AI 2026 – Build Production Prompts with Claude's Interview Framework |
+| 39 | [Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement](https://github.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement) | 1 | — | 2026-07-24 | 🛡️ Verify civic engagement with the Zero Trust Advocacy Prompt, a framework that demands accountability from bureaucrati |
+| 40 | [sEbas12312nft/awesome-copilot](https://github.com/sEbas12312nft/awesome-copilot) | 5 | JavaScript | 2026-07-24 | 🤖 Enhance your GitHub Copilot experience with curated prompts and instructions for diverse languages and tasks to boost  |
+| 41 | [winstonkoh87/Athena-Public](https://github.com/winstonkoh87/Athena-Public) | 543 | Python | 2026-07-24 | The Linux OS for AI Agents — Persistent memory, structured reasoning, and governed autonomy for any LLM. Own the state.  |
+| 42 | [hkm-a/genie](https://github.com/hkm-a/genie) | 0 | TypeScript | 2026-07-24 | AI 提示词工作台：场景目录、变量填充、多厂商 LLM、Tauri 桌面端 |
+| 43 | [Faudzan10/outline-driven-starter-kit](https://github.com/Faudzan10/outline-driven-starter-kit) | 1 | HTML | 2026-07-24 | One-Click AI Dev Environment Setup 2026 – Outline-Driven CLI Instant Init |
+| 44 | [JeanSebastienBash/PromptDeMerde](https://github.com/JeanSebastienBash/PromptDeMerde) | 0 | JavaScript | 2026-07-24 | Fully-privacy multilingual prompt-engineering UI for local Ollama. Voice dictation, JSON profile ZIP export. Collaborate |
+| 45 | [edsondviana8/ai-humanizer-core](https://github.com/edsondviana8/ai-humanizer-core) | 1 | HTML | 2026-07-24 | Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clichés |
+| 46 | [SUASTELARA/Supercharged-AI-Dev-Tools](https://github.com/SUASTELARA/Supercharged-AI-Dev-Tools) | 4 | — | 2026-07-24 | 🛠️ Elevate your coding with Supercharged AI Dev Tools, an open-source directory of AI-powered solutions to boost product |
+| 47 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-07-24 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
+| 48 | [harryvondiesel-web/5-persona-advisory-board](https://github.com/harryvondiesel-web/5-persona-advisory-board) | 0 | — | 2026-07-24 | A reusable AI skill for stress-testing high-leverage decisions through five strategic lenses. |
+| 49 | [gomzkov/scout](https://github.com/gomzkov/scout) | 0 | JavaScript | 2026-07-24 | Surfaces the question you didn't know to ask. Agent skill for Claude Code, Cursor, and Codex. |
+| 50 | [Merveil22/spotify-playlist-dating-redflag-analysis](https://github.com/Merveil22/spotify-playlist-dating-redflag-analysis) | 1 | Python | 2026-07-24 | 🎶 Analyze Spotify playlists to uncover "dating red flag" insights using data scraping and GenAI for a fun personality br |
 <!-- TRACKER_TABLE_END -->
 
 ---
