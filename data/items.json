@@ -1,12 +1,120 @@
 [
   {
+    "description": "AI \u5beb\u4f5c\u75d5\u8de1\u6e05\u9664\u6280\u80fd\uff0c\u53f0\u7063\u5728\u5730\u5f37\u5316\u7248\u3002\u6db5\u84cb 46 \u7a2e\u6a21\u5f0f\uff0c\u542b\u4e2d\u570b\u7528\u8a9e\u5075\u6e2c\u3001\u4e2d\u6587\u6a19\u9ede\u4fdd\u8b77\u3001\u8a9e\u57df\u5c0d\u7167\uff0c\u53ef\u7528\u65bc\u4efb\u4f55\u652f\u63f4 skill \u7684 agent\u3002",
+    "id": "nagameTW/humanizer-zh-tw",
+    "language": "Python",
+    "name": "nagameTW/humanizer-zh-tw",
+    "stars": 3,
+    "updated_at": "2026-07-24T14:29:32Z",
+    "url": "https://github.com/nagameTW/humanizer-zh-tw"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 0,
+    "updated_at": "2026-07-24T14:29:09Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Opinionated guide to AI coding agents, workflows, MCP, verification, and safe execution.",
+    "id": "ashishkaloge/awesome-agentic-engineering",
+    "language": "\u2014",
+    "name": "ashishkaloge/awesome-agentic-engineering",
+    "stars": 0,
+    "updated_at": "2026-07-24T14:28:36Z",
+    "url": "https://github.com/ashishkaloge/awesome-agentic-engineering"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31794,
+    "updated_at": "2026-07-24T14:27:26Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A portable SKILL.md plugin that preserves AI coding context across sessions with structured, validated Markdown checkpoi",
+    "id": "guoq01/conversation-state-skill",
+    "language": "Shell",
+    "name": "guoq01/conversation-state-skill",
+    "stars": 0,
+    "updated_at": "2026-07-24T14:27:22Z",
+    "url": "https://github.com/guoq01/conversation-state-skill"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 49,
+    "updated_at": "2026-07-24T14:28:35Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3416,
+    "updated_at": "2026-07-24T14:27:14Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "GEN AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
+    "id": "piyalidas10/AI",
+    "language": "Python",
+    "name": "piyalidas10/AI",
+    "stars": 0,
+    "updated_at": "2026-07-24T14:26:13Z",
+    "url": "https://github.com/piyalidas10/AI"
+  },
+  {
+    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
+    "id": "netopsengineer/axiom",
+    "language": "Python",
+    "name": "netopsengineer/axiom",
+    "stars": 3,
+    "updated_at": "2026-07-24T14:25:46Z",
+    "url": "https://github.com/netopsengineer/axiom"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-07-24T14:25:20Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-24T14:23:55Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Persona is a plugin for OpenCode that adapts the assistant to each user's professional role.",
     "id": "RuloGB/opencode-persona",
     "language": "TypeScript",
     "name": "RuloGB/opencode-persona",
     "stars": 0,
-    "updated_at": "2026-07-24T14:23:23Z",
+    "updated_at": "2026-07-24T14:24:18Z",
     "url": "https://github.com/RuloGB/opencode-persona"
+  },
+  {
+    "description": "MindSpark - Mind Map for Everyone",
+    "id": "prasadpatil25/MindSpark",
+    "language": "JavaScript",
+    "name": "prasadpatil25/MindSpark",
+    "stars": 25,
+    "updated_at": "2026-07-24T14:23:21Z",
+    "url": "https://github.com/prasadpatil25/MindSpark"
   },
   {
     "description": "Human-led AI workflows for real B2B sales work.",
@@ -16,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T14:23:04Z",
     "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
-  },
-  {
-    "description": "AI \u5beb\u4f5c\u75d5\u8de1\u6e05\u9664\u6280\u80fd\uff0c\u53f0\u7063\u5728\u5730\u5f37\u5316\u7248\u3002\u6db5\u84cb 46 \u7a2e\u6a21\u5f0f\uff0c\u542b\u4e2d\u570b\u7528\u8a9e\u5075\u6e2c\u3001\u4e2d\u6587\u6a19\u9ede\u4fdd\u8b77\u3001\u8a9e\u57df\u5c0d\u7167\uff0c\u53ef\u7528\u65bc\u4efb\u4f55\u652f\u63f4 skill \u7684 agent\u3002",
-    "id": "nagameTW/humanizer-zh-tw",
-    "language": "Python",
-    "name": "nagameTW/humanizer-zh-tw",
-    "stars": 3,
-    "updated_at": "2026-07-24T14:22:11Z",
-    "url": "https://github.com/nagameTW/humanizer-zh-tw"
   },
   {
     "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
@@ -45,15 +144,6 @@
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31792,
-    "updated_at": "2026-07-24T14:22:20Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Reusable, cross-platform Agent Skills by ohmuyi.",
     "id": "ohmuyi/muyi-skills",
     "language": "Python",
@@ -61,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T14:18:52Z",
     "url": "https://github.com/ohmuyi/muyi-skills"
-  },
-  {
-    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
-    "id": "ariffazil/arifos",
-    "language": "Python",
-    "name": "ariffazil/arifos",
-    "stars": 49,
-    "updated_at": "2026-07-24T14:18:28Z",
-    "url": "https://github.com/ariffazil/arifos"
   },
   {
     "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
@@ -117,15 +198,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-24T14:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -153,21 +225,12 @@
     "url": "https://github.com/Mr-Salticidae/becoming-a-prompt-master"
   },
   {
-    "description": "MindSpark - Mind Map for Everyone",
-    "id": "prasadpatil25/MindSpark",
-    "language": "JavaScript",
-    "name": "prasadpatil25/MindSpark",
-    "stars": 25,
-    "updated_at": "2026-07-24T14:23:21Z",
-    "url": "https://github.com/prasadpatil25/MindSpark"
-  },
-  {
     "description": "A minimalist yet powerful prompt engine crafted for seamless AI execution. Engineered to bridge the gap between simple i",
     "id": "drferdii/Myprompt",
     "language": "TypeScript",
     "name": "drferdii/Myprompt",
     "stars": 7,
-    "updated_at": "2026-07-24T14:20:09Z",
+    "updated_at": "2026-07-24T14:30:27Z",
     "url": "https://github.com/drferdii/Myprompt"
   },
   {
@@ -203,7 +266,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-24T14:10:47Z",
+    "updated_at": "2026-07-24T14:30:12Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-24T14:02:31Z",
     "url": "https://github.com/jessieamphibian646/Rocket-Fury-Pro"
-  },
-  {
-    "description": "Enhance Rainbow Six Siege with ESP, aimbot, wallhack, no recoil, and triggerbot features for increased control in matche",
-    "id": "imanijab4641/R6-Fury-Pro",
-    "language": "Python",
-    "name": "imanijab4641/R6-Fury-Pro",
-    "stars": 0,
-    "updated_at": "2026-07-24T14:02:28Z",
-    "url": "https://github.com/imanijab4641/R6-Fury-Pro"
-  },
-  {
-    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
-    "id": "Ekmsi8525/agentsmith",
-    "language": "\u2014",
-    "name": "Ekmsi8525/agentsmith",
-    "stars": 0,
-    "updated_at": "2026-07-24T14:02:25Z",
-    "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-07-24T14:01:58Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-07-24T14:01:19Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-07-24T14:00:58Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 153,
-    "updated_at": "2026-07-24T14:00:25Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "320+ curated Claude Code skills, 9 agents, 39 commands, sanitized configs & a Codex bridge \u2014 auto-indexed from skills/.",
-    "id": "shengdabai/Tony-Claude-Code-Skills",
-    "language": "HTML",
-    "name": "shengdabai/Tony-Claude-Code-Skills",
-    "stars": 1,
-    "updated_at": "2026-07-24T14:00:15Z",
-    "url": "https://github.com/shengdabai/Tony-Claude-Code-Skills"
   }
 ]
