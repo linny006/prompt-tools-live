@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agent skills for Claude Code where every entry ships with receipts: accuracy-gated benchmarks vs baseline AND placebo. R",
+    "id": "sjh9714/skill-receipts",
+    "language": "JavaScript",
+    "name": "sjh9714/skill-receipts",
+    "stars": 1,
+    "updated_at": "2026-07-25T04:28:56Z",
+    "url": "https://github.com/sjh9714/skill-receipts"
+  },
+  {
+    "description": "Helen Agent Develop Language ",
+    "id": "hahalee000000/helen",
+    "language": "Python",
+    "name": "hahalee000000/helen",
+    "stars": 0,
+    "updated_at": "2026-07-25T04:27:16Z",
+    "url": "https://github.com/hahalee000000/helen"
+  },
+  {
+    "description": "An unofficial, scenario-driven study guide, practice environment, and hands-on lab repository for the Claude Certified A",
+    "id": "raybeecham/claude-certified-associate-foundations",
+    "language": "Python",
+    "name": "raybeecham/claude-certified-associate-foundations",
+    "stars": 0,
+    "updated_at": "2026-07-25T04:26:30Z",
+    "url": "https://github.com/raybeecham/claude-certified-associate-foundations"
+  },
+  {
+    "description": "Prompt generator for AI webapp demo generation",
+    "id": "josuebrunel/deepsitepromptgen",
+    "language": "Go",
+    "name": "josuebrunel/deepsitepromptgen",
+    "stars": 0,
+    "updated_at": "2026-07-25T04:25:30Z",
+    "url": "https://github.com/josuebrunel/deepsitepromptgen"
+  },
+  {
+    "description": "",
+    "id": "asa834/paperforge-2026-paper-workflow",
+    "language": "HTML",
+    "name": "asa834/paperforge-2026-paper-workflow",
+    "stars": 0,
+    "updated_at": "2026-07-25T04:24:18Z",
+    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
+  },
+  {
+    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
+    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "language": "Jupyter Notebook",
+    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "stars": 1,
+    "updated_at": "2026-07-25T04:24:15Z",
+    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
+  },
+  {
+    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
+    "id": "afrazpindari14-commits/Ontology-Playground",
+    "language": "TypeScript",
+    "name": "afrazpindari14-commits/Ontology-Playground",
+    "stars": 0,
+    "updated_at": "2026-07-25T04:24:09Z",
+    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-25T04:23:13Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
     "id": "Discriminative-shoji607/ui-skills",
     "language": "TypeScript",
@@ -117,24 +189,6 @@
     "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
   },
   {
-    "description": "Agent skills for Claude Code where every entry ships with receipts: accuracy-gated benchmarks vs baseline AND placebo. R",
-    "id": "sjh9714/skill-receipts",
-    "language": "JavaScript",
-    "name": "sjh9714/skill-receipts",
-    "stars": 1,
-    "updated_at": "2026-07-25T04:19:34Z",
-    "url": "https://github.com/sjh9714/skill-receipts"
-  },
-  {
-    "description": "An unofficial, scenario-driven study guide, practice environment, and hands-on lab repository for the Claude Certified A",
-    "id": "raybeecham/claude-certified-associate-foundations",
-    "language": "Python",
-    "name": "raybeecham/claude-certified-associate-foundations",
-    "stars": 0,
-    "updated_at": "2026-07-25T04:22:57Z",
-    "url": "https://github.com/raybeecham/claude-certified-associate-foundations"
-  },
-  {
     "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
     "id": "linnetforeign896/app-monitor",
     "language": "Swift",
@@ -216,20 +270,11 @@
     "url": "https://github.com/Norinatiring463/loop-engineering"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-25T04:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 62238,
+    "stars": 62241,
     "updated_at": "2026-07-25T04:14:13Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-25T04:09:43Z",
     "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-07-25T04:09:39Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-07-25T04:08:40Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-07-25T04:08:00Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-25T04:07:51Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 152,
-    "updated_at": "2026-07-25T04:07:26Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   }
 ]
