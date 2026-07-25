@@ -1,11 +1,110 @@
 [
   {
+    "description": "\ud83d\udd0d Analyze the mathematical reasoning abilities of the Mistral-7B model using diverse prompting techniques on multi-step ",
+    "id": "wolfenix/llm-math-reasoning-analysis",
+    "language": "HTML",
+    "name": "wolfenix/llm-math-reasoning-analysis",
+    "stars": 0,
+    "updated_at": "2026-07-25T08:34:50Z",
+    "url": "https://github.com/wolfenix/llm-math-reasoning-analysis"
+  },
+  {
+    "description": "A CLAUDE.md kept current with actual model behaviour. Four principles derived from Andrej Karpathy's observations on LLM",
+    "id": "makieali/claude-code-engineer",
+    "language": "\u2014",
+    "name": "makieali/claude-code-engineer",
+    "stars": 0,
+    "updated_at": "2026-07-25T08:34:44Z",
+    "url": "https://github.com/makieali/claude-code-engineer"
+  },
+  {
+    "description": "\ud83c\udfafBuilding a Production LLM Application",
+    "id": "StarDust130/Orion",
+    "language": "Python",
+    "name": "StarDust130/Orion",
+    "stars": 0,
+    "updated_at": "2026-07-25T08:34:21Z",
+    "url": "https://github.com/StarDust130/Orion"
+  },
+  {
+    "description": "Audit AI skills and prompts for what they actually cost per trigger \u2014 and for reference files your model can never reach",
+    "id": "yosishe/token-efficient-skill-optimizer",
+    "language": "Python",
+    "name": "yosishe/token-efficient-skill-optimizer",
+    "stars": 0,
+    "updated_at": "2026-07-25T08:33:14Z",
+    "url": "https://github.com/yosishe/token-efficient-skill-optimizer"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 0,
+    "updated_at": "2026-07-25T08:33:05Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-07-25T08:32:58Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "HTML",
+    "name": "llwslc/proteus",
+    "stars": 2,
+    "updated_at": "2026-07-25T08:33:12Z",
+    "url": "https://github.com/llwslc/proteus"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-25T08:32:26Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "The documents every startup should have, compiled into an AI-readable knowledge base \u2014 templates, a prompt library, and ",
+    "id": "fritzhand/startup-stack",
+    "language": "JavaScript",
+    "name": "fritzhand/startup-stack",
+    "stars": 2,
+    "updated_at": "2026-07-25T08:32:24Z",
+    "url": "https://github.com/fritzhand/startup-stack"
+  },
+  {
+    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
+    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "language": "TypeScript",
+    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-25T08:31:00Z",
+    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-25T08:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "XRON: A lossless data serialization format that reduces JSON LLM token consumption by up to 80%. Optimize context window",
     "id": "gordongeraghty/XRON",
     "language": "TypeScript",
     "name": "gordongeraghty/XRON",
     "stars": 1,
-    "updated_at": "2026-07-25T08:30:14Z",
+    "updated_at": "2026-07-25T08:34:30Z",
     "url": "https://github.com/gordongeraghty/XRON"
   },
   {
@@ -25,15 +124,6 @@
     "stars": 7,
     "updated_at": "2026-07-25T08:29:15Z",
     "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
-    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
-    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
-    "language": "TypeScript",
-    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-25T08:29:09Z",
-    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
   },
   {
     "description": "\ud83d\ude80 Explore Prometheus and Grafana in this self-contained playground with a mock metrics server for learning and simulatin",
@@ -99,15 +189,6 @@
     "url": "https://github.com/wrg32786/aigent-os"
   },
   {
-    "description": "\ud83c\udfafBuilding a Production LLM Application",
-    "id": "StarDust130/Orion",
-    "language": "Python",
-    "name": "StarDust130/Orion",
-    "stars": 0,
-    "updated_at": "2026-07-25T08:24:33Z",
-    "url": "https://github.com/StarDust130/Orion"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Verify civic engagement with the Zero Trust Advocacy Prompt, a framework that demands accountability from bureaucrati",
     "id": "Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement",
     "language": "\u2014",
@@ -153,15 +234,6 @@
     "url": "https://github.com/SUASTELARA/Supercharged-AI-Dev-Tools"
   },
   {
-    "description": "Audits and optimizes AI skills and prompts for token/cost efficiency \u2014 with the evidence chain published, not just the t",
-    "id": "yosishe/token-efficient-skill-optimizer",
-    "language": "Python",
-    "name": "yosishe/token-efficient-skill-optimizer",
-    "stars": 0,
-    "updated_at": "2026-07-25T08:21:57Z",
-    "url": "https://github.com/yosishe/token-efficient-skill-optimizer"
-  },
-  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -187,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-25T08:20:12Z",
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "The documents every startup should have, compiled into an AI-readable knowledge base \u2014 templates, a prompt library, and ",
-    "id": "fritzhand/startup-stack",
-    "language": "JavaScript",
-    "name": "fritzhand/startup-stack",
-    "stars": 2,
-    "updated_at": "2026-07-25T08:19:31Z",
-    "url": "https://github.com/fritzhand/startup-stack"
   },
   {
     "description": "\ud83d\udc4c\ud83c\udffb Pick code into Markdown. Apply Markdown to code. Built for LLMs and quick backups.",
@@ -232,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-07-25T08:15:36Z",
     "url": "https://github.com/devcxl/opencode-cabbage"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-25T08:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
@@ -284,7 +338,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3416,
-    "updated_at": "2026-07-25T08:28:18Z",
+    "updated_at": "2026-07-25T08:33:12Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-25T08:07:03Z",
     "url": "https://github.com/KingFishyXMesa/fuzz2-producer-ai-angklungmann"
-  },
-  {
-    "description": "A plug-and-play framework for AI-assisted software development, enhancing context-aware collaboration in complex codebas",
-    "id": "MunnaXbadmash/ai-dev-assistant-framework",
-    "language": "\u2014",
-    "name": "MunnaXbadmash/ai-dev-assistant-framework",
-    "stars": 5,
-    "updated_at": "2026-07-25T08:06:41Z",
-    "url": "https://github.com/MunnaXbadmash/ai-dev-assistant-framework"
-  },
-  {
-    "description": " A curated system of production-ready Claude Code skills with quantitative evaluation reports, golden test fixtures, and",
-    "id": "johnqtcg/awesome-skills",
-    "language": "Python",
-    "name": "johnqtcg/awesome-skills",
-    "stars": 27,
-    "updated_at": "2026-07-25T08:06:41Z",
-    "url": "https://github.com/johnqtcg/awesome-skills"
-  },
-  {
-    "description": "A hands-on exploration of Generative AI - prompt engineering, LLMs, agentic systems, RAG, and LangGraph workflows.",
-    "id": "devanshibhatt23/GenAI-Course",
-    "language": "Python",
-    "name": "devanshibhatt23/GenAI-Course",
-    "stars": 0,
-    "updated_at": "2026-07-25T08:06:02Z",
-    "url": "https://github.com/devanshibhatt23/GenAI-Course"
-  },
-  {
-    "description": "herramienta avanzada para mejorar prompts con react vite y gemini",
-    "id": "Hefestion1989/promptmaster-ai",
-    "language": "TypeScript",
-    "name": "Hefestion1989/promptmaster-ai",
-    "stars": 0,
-    "updated_at": "2026-07-25T08:05:45Z",
-    "url": "https://github.com/Hefestion1989/promptmaster-ai"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 832,
-    "updated_at": "2026-07-25T08:15:15Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
-    "id": "Tymooh/GPT-DUEL-ARENA",
-    "language": "\u2014",
-    "name": "Tymooh/GPT-DUEL-ARENA",
-    "stars": 0,
-    "updated_at": "2026-07-25T08:05:28Z",
-    "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
   }
 ]
