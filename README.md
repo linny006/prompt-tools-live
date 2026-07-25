@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-25 19:30 UTC
+> ⏰ Last updated: 2026-07-25 19:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tolvi-labs/bastion](https://github.com/tolvi-labs/bastion) | 0 | Shell | 2026-07-25 | Pre-code crucible, a Claude Code skill (/bastion) that interrogates your plan against the Developer Vault before you wri |
-| 2 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2210 | JavaScript | 2026-07-25 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 3 | [Nerovonayub/the-stoic-caveman-upgrade](https://github.com/Nerovonayub/the-stoic-caveman-upgrade) | 0 | Python | 2026-07-25 | 🪨 The Stoic Caveman Upgrade — a Claude Code skill that protects step-by-step action explanations while cutting output-to |
-| 4 | [Maxma1104/agent-rules-gallery](https://github.com/Maxma1104/agent-rules-gallery) | 0 | TypeScript | 2026-07-25 | 100 real-world AGENTS.md examples for AI coding agents. Search by stack, compare patterns, and generate a source-backed  |
-| 5 | [rizvee/multimodel-dev-os](https://github.com/rizvee/multimodel-dev-os) | 2 | JavaScript | 2026-07-25 | Portable, validation-first workspace and localhost gateway foundation for governed multi-agent development. |
-| 6 | [Draagon/wizardsofodd](https://github.com/Draagon/wizardsofodd) | 1 | TypeScript | 2026-07-25 | A live AI wizard-council app + a reference implementation of MetaObjects: one metadata spine drives the DB schema, API t |
-| 7 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-07-25 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
-| 8 | [jcempro/agents.md](https://github.com/jcempro/agents.md) | 3 | JavaScript | 2026-07-25 | Framework portátil de governança para agentes de IA: requisitos determinísticos, contexto enxuto e fluxos auditáveis par |
-| 9 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 153 | HTML | 2026-07-25 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
-| 10 | [llwslc/proteus](https://github.com/llwslc/proteus) | 2 | HTML | 2026-07-25 | UI kits grown by AI from a prompt-tree spec — one 37-control Base UI contract, six radically different design languages, |
-| 11 | [imohitparkash/multi-agent-debate](https://github.com/imohitparkash/multi-agent-debate) | 0 | Python | 2026-07-25 | A free reimplementation of Du et al.'s multi-agent debate paper (ICML 2024) — LLM agents critique each other's reasoning |
-| 12 | [sairaman436/vybe-intelligence-vault](https://github.com/sairaman436/vybe-intelligence-vault) | 9 | JavaScript | 2026-07-25 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
-| 13 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-07-25 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 14 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-07-25 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-07-25 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [tolvi-labs/bastion](https://github.com/tolvi-labs/bastion) | 0 | Shell | 2026-07-25 | Pre-code crucible, a Claude Code skill (/bastion) that interrogates your plan against the Developer Vault before you wri |
+| 3 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2210 | JavaScript | 2026-07-25 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 4 | [Nerovonayub/the-stoic-caveman-upgrade](https://github.com/Nerovonayub/the-stoic-caveman-upgrade) | 0 | Python | 2026-07-25 | 🪨 The Stoic Caveman Upgrade — a Claude Code skill that protects step-by-step action explanations while cutting output-to |
+| 5 | [Maxma1104/agent-rules-gallery](https://github.com/Maxma1104/agent-rules-gallery) | 0 | TypeScript | 2026-07-25 | 100 real-world AGENTS.md examples for AI coding agents. Search by stack, compare patterns, and generate a source-backed  |
+| 6 | [rizvee/multimodel-dev-os](https://github.com/rizvee/multimodel-dev-os) | 2 | JavaScript | 2026-07-25 | Portable, validation-first workspace and localhost gateway foundation for governed multi-agent development. |
+| 7 | [Draagon/wizardsofodd](https://github.com/Draagon/wizardsofodd) | 1 | TypeScript | 2026-07-25 | A live AI wizard-council app + a reference implementation of MetaObjects: one metadata spine drives the DB schema, API t |
+| 8 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-07-25 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
+| 9 | [jcempro/agents.md](https://github.com/jcempro/agents.md) | 3 | JavaScript | 2026-07-25 | Framework portátil de governança para agentes de IA: requisitos determinísticos, contexto enxuto e fluxos auditáveis par |
+| 10 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 153 | HTML | 2026-07-25 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
+| 11 | [llwslc/proteus](https://github.com/llwslc/proteus) | 2 | HTML | 2026-07-25 | UI kits grown by AI from a prompt-tree spec — one 37-control Base UI contract, six radically different design languages, |
+| 12 | [imohitparkash/multi-agent-debate](https://github.com/imohitparkash/multi-agent-debate) | 0 | Python | 2026-07-25 | A free reimplementation of Du et al.'s multi-agent debate paper (ICML 2024) — LLM agents critique each other's reasoning |
+| 13 | [sairaman436/vybe-intelligence-vault](https://github.com/sairaman436/vybe-intelligence-vault) | 9 | JavaScript | 2026-07-25 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
+| 14 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-07-25 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 15 | [AgustiPuigserver/opus-prompt-architect](https://github.com/AgustiPuigserver/opus-prompt-architect) | 155 | HTML | 2026-07-25 | Best Prompt Engineering Tools for 2026 AI Workflow Optimization |
 | 16 | [heavenaruba/codified-prompt-rule-engine](https://github.com/heavenaruba/codified-prompt-rule-engine) | 155 | HTML | 2026-07-25 | Top 10 Claude Prompt Optimization Frameworks 2026 |
 | 17 | [jorgehc1/less-tokens](https://github.com/jorgehc1/less-tokens) | 0 | HTML | 2026-07-25 | Optimize your requests for LLMs (ChatGPT, Claude, Gemini) and save up to 90% on API costs. |
