@@ -1,5 +1,140 @@
 [
   {
+    "description": "Pre-code crucible, a Claude Code skill (/bastion) that interrogates your plan against the Developer Vault before you wri",
+    "id": "tolvi-labs/bastion",
+    "language": "Shell",
+    "name": "tolvi-labs/bastion",
+    "stars": 0,
+    "updated_at": "2026-07-25T19:30:17Z",
+    "url": "https://github.com/tolvi-labs/bastion"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2210,
+    "updated_at": "2026-07-25T19:29:07Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "\ud83e\udea8 The Stoic Caveman Upgrade \u2014 a Claude Code skill that protects step-by-step action explanations while cutting output-to",
+    "id": "Nerovonayub/the-stoic-caveman-upgrade",
+    "language": "Python",
+    "name": "Nerovonayub/the-stoic-caveman-upgrade",
+    "stars": 0,
+    "updated_at": "2026-07-25T19:25:38Z",
+    "url": "https://github.com/Nerovonayub/the-stoic-caveman-upgrade"
+  },
+  {
+    "description": "100 real-world AGENTS.md examples for AI coding agents. Search by stack, compare patterns, and generate a source-backed ",
+    "id": "Maxma1104/agent-rules-gallery",
+    "language": "TypeScript",
+    "name": "Maxma1104/agent-rules-gallery",
+    "stars": 0,
+    "updated_at": "2026-07-25T19:22:20Z",
+    "url": "https://github.com/Maxma1104/agent-rules-gallery"
+  },
+  {
+    "description": "Portable, validation-first workspace and localhost gateway foundation for governed multi-agent development.",
+    "id": "rizvee/multimodel-dev-os",
+    "language": "JavaScript",
+    "name": "rizvee/multimodel-dev-os",
+    "stars": 2,
+    "updated_at": "2026-07-25T19:21:30Z",
+    "url": "https://github.com/rizvee/multimodel-dev-os"
+  },
+  {
+    "description": "A live AI wizard-council app + a reference implementation of MetaObjects: one metadata spine drives the DB schema, API t",
+    "id": "Draagon/wizardsofodd",
+    "language": "TypeScript",
+    "name": "Draagon/wizardsofodd",
+    "stars": 1,
+    "updated_at": "2026-07-25T19:21:36Z",
+    "url": "https://github.com/Draagon/wizardsofodd"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 1,
+    "updated_at": "2026-07-25T19:20:07Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Framework port\u00e1til de governan\u00e7a para agentes de IA: requisitos determin\u00edsticos, contexto enxuto e fluxos audit\u00e1veis par",
+    "id": "jcempro/agents.md",
+    "language": "JavaScript",
+    "name": "jcempro/agents.md",
+    "stars": 3,
+    "updated_at": "2026-07-25T19:19:25Z",
+    "url": "https://github.com/jcempro/agents.md"
+  },
+  {
+    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
+    "id": "Magma1321/mythos-agent-pipe",
+    "language": "HTML",
+    "name": "Magma1321/mythos-agent-pipe",
+    "stars": 153,
+    "updated_at": "2026-07-25T19:18:51Z",
+    "url": "https://github.com/Magma1321/mythos-agent-pipe"
+  },
+  {
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "HTML",
+    "name": "llwslc/proteus",
+    "stars": 2,
+    "updated_at": "2026-07-25T19:18:44Z",
+    "url": "https://github.com/llwslc/proteus"
+  },
+  {
+    "description": "A free reimplementation of Du et al.'s multi-agent debate paper (ICML 2024) \u2014 LLM agents critique each other's reasoning",
+    "id": "imohitparkash/multi-agent-debate",
+    "language": "Python",
+    "name": "imohitparkash/multi-agent-debate",
+    "stars": 0,
+    "updated_at": "2026-07-25T19:17:38Z",
+    "url": "https://github.com/imohitparkash/multi-agent-debate"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 9,
+    "updated_at": "2026-07-25T19:17:27Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-25T19:15:31Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-25T19:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "id": "AgustiPuigserver/opus-prompt-architect",
+    "language": "HTML",
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "stars": 155,
+    "updated_at": "2026-07-25T19:15:18Z",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
+  },
+  {
     "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
     "id": "heavenaruba/codified-prompt-rule-engine",
     "language": "HTML",
@@ -36,15 +171,6 @@
     "url": "https://github.com/shortcuts/radin"
   },
   {
-    "description": "100 real AGENTS.md files, pinned to commits, fingerprinted, searchable, and tagged by observable patterns.",
-    "id": "Maxma1104/agent-rules-gallery",
-    "language": "TypeScript",
-    "name": "Maxma1104/agent-rules-gallery",
-    "stars": 0,
-    "updated_at": "2026-07-25T19:10:41Z",
-    "url": "https://github.com/Maxma1104/agent-rules-gallery"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -72,15 +198,6 @@
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   },
   {
-    "description": "\ud83e\udea8 The Stoic Caveman Upgrade \u2014 a Claude Code skill that protects step-by-step action explanations while cutting output-to",
-    "id": "Nerovonayub/the-stoic-caveman-upgrade",
-    "language": "Python",
-    "name": "Nerovonayub/the-stoic-caveman-upgrade",
-    "stars": 0,
-    "updated_at": "2026-07-25T19:05:37Z",
-    "url": "https://github.com/Nerovonayub/the-stoic-caveman-upgrade"
-  },
-  {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
     "id": "jestersanjay/slim-tools-claude-harness",
     "language": "HTML",
@@ -88,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-25T19:05:16Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-25T19:03:37Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Version control for the AI development journey \u2014 git records what changed, Chronicle records what was asked. Local-first",
@@ -135,15 +243,6 @@
     "url": "https://github.com/MilenaMP/miniguia-estudos-notebooklm"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2210,
-    "updated_at": "2026-07-25T19:01:29Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "A methodology, not a grab bag. Composable Claude skills that fix AI slop upstream: turn a vague idea into a real spec. d",
     "id": "ccst-llc/skills",
     "language": "\u2014",
@@ -151,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-25T19:00:30Z",
     "url": "https://github.com/ccst-llc/skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-25T19:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T18:45:03Z",
     "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Optimize Rocket League gameplay with ball prediction, aimbots, boost management, ESP, and precise hitbox overlays for Wi",
-    "id": "jessieamphibian646/Rocket-Fury-Pro",
-    "language": "Python",
-    "name": "jessieamphibian646/Rocket-Fury-Pro",
-    "stars": 0,
-    "updated_at": "2026-07-25T18:44:52Z",
-    "url": "https://github.com/jessieamphibian646/Rocket-Fury-Pro"
-  },
-  {
-    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
-    "id": "Ekmsi8525/agentsmith",
-    "language": "\u2014",
-    "name": "Ekmsi8525/agentsmith",
-    "stars": 0,
-    "updated_at": "2026-07-25T18:44:51Z",
-    "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "Enhance Rainbow Six Siege with ESP, aimbot, wallhack, no recoil, and triggerbot features for increased control in matche",
-    "id": "imanijab4641/R6-Fury-Pro",
-    "language": "Python",
-    "name": "imanijab4641/R6-Fury-Pro",
-    "stars": 0,
-    "updated_at": "2026-07-25T18:44:45Z",
-    "url": "https://github.com/imanijab4641/R6-Fury-Pro"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20849,
-    "updated_at": "2026-07-25T18:44:28Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-07-25T18:44:20Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-07-25T18:43:44Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "A modular Swift package for integrating AI providers in agnostic way, supporting (Claude, ChatGPT and local execution). ",
-    "id": "molayab/swift-ai-provider-kit",
-    "language": "Swift",
-    "name": "molayab/swift-ai-provider-kit",
-    "stars": 1,
-    "updated_at": "2026-07-25T18:43:41Z",
-    "url": "https://github.com/molayab/swift-ai-provider-kit"
-  },
-  {
-    "description": "Evidence-locked scientific visual compiler for auditable research figures",
-    "id": "KaiyiHu/ResearchFigureSkill",
-    "language": "Python",
-    "name": "KaiyiHu/ResearchFigureSkill",
-    "stars": 2,
-    "updated_at": "2026-07-25T18:43:38Z",
-    "url": "https://github.com/KaiyiHu/ResearchFigureSkill"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-07-25T18:43:30Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-07-25T18:43:21Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
   }
 ]
