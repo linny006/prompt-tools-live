@@ -1,5 +1,131 @@
 [
   {
+    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
+    "id": "lulin70/carrymem",
+    "language": "Python",
+    "name": "lulin70/carrymem",
+    "stars": 6,
+    "updated_at": "2026-07-25T01:29:46Z",
+    "url": "https://github.com/lulin70/carrymem"
+  },
+  {
+    "description": "\u30bf\u30b9\u30af\u3054\u3068\u306b\u6700\u9069\u306a Claude \u30e2\u30c7\u30eb\u3068 effort \u3092\u63d0\u6848\u3057\u3001\u305d\u306e\u30e2\u30c7\u30eb\u5411\u3051\u306b\u6700\u9069\u5316\u3057\u305f\u30d7\u30ed\u30f3\u30d7\u30c8\u3092\u6e21\u3059 Claude Code skill\u3002",
+    "id": "kazuyakurashima/which-model",
+    "language": "Python",
+    "name": "kazuyakurashima/which-model",
+    "stars": 0,
+    "updated_at": "2026-07-25T01:29:22Z",
+    "url": "https://github.com/kazuyakurashima/which-model"
+  },
+  {
+    "description": "Public Liang Wenfeng persona skill distilled from a long founder speech transcript for Codex and OpenPersona workflows",
+    "id": "HUAN2022A/liang-wenfeng-skill",
+    "language": "\u2014",
+    "name": "HUAN2022A/liang-wenfeng-skill",
+    "stars": 0,
+    "updated_at": "2026-07-25T01:28:27Z",
+    "url": "https://github.com/HUAN2022A/liang-wenfeng-skill"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-07-25T01:28:20Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "AI & NLP systems designer \u2014 prompt engineering, LLM automation, crisis intelligence",
+    "id": "fujimargiati/fujimargiati",
+    "language": "\u2014",
+    "name": "fujimargiati/fujimargiati",
+    "stars": 0,
+    "updated_at": "2026-07-25T01:27:13Z",
+    "url": "https://github.com/fujimargiati/fujimargiati"
+  },
+  {
+    "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CL",
+    "id": "Dannykkh/skill-olympus",
+    "language": "Python",
+    "name": "Dannykkh/skill-olympus",
+    "stars": 3,
+    "updated_at": "2026-07-25T01:25:50Z",
+    "url": "https://github.com/Dannykkh/skill-olympus"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 54,
+    "updated_at": "2026-07-25T01:25:35Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "\ud83d\ude80 The largest downloadable GPT Image 2 prompt library \u2014 15,672 prompts and growing, daily updates with HuggingFace datas",
+    "id": "goku-open/awesome-gpt-image-2-prompts",
+    "language": "TypeScript",
+    "name": "goku-open/awesome-gpt-image-2-prompts",
+    "stars": 0,
+    "updated_at": "2026-07-25T01:25:05Z",
+    "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
+  },
+  {
+    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude. foundation: eight standalone smiths that build, audit, a",
+    "id": "revenantworks/citadel",
+    "language": "Python",
+    "name": "revenantworks/citadel",
+    "stars": 0,
+    "updated_at": "2026-07-25T01:22:43Z",
+    "url": "https://github.com/revenantworks/citadel"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10723,
+    "updated_at": "2026-07-25T01:23:53Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 23,
+    "updated_at": "2026-07-25T01:20:58Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Gemini\u306e\u6027\u80fd\u3092\u6700\u5927\u5316\u3057\u4f5c\u696d\u3092\u52b9\u7387\u5316\u3059\u308bAI\u7528OS\u30d7\u30ed\u30f3\u30d7\u30c8 | System prompt (AI OS) to maximize Gemini 3.0 performance and efficiency.",
+    "id": "nitagon0083/SpriteSystem",
+    "language": "HTML",
+    "name": "nitagon0083/SpriteSystem",
+    "stars": 0,
+    "updated_at": "2026-07-25T01:17:38Z",
+    "url": "https://github.com/nitagon0083/SpriteSystem"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-07-25T01:16:49Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-25T01:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -41,7 +167,7 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 812,
-    "updated_at": "2026-07-25T01:11:08Z",
+    "updated_at": "2026-07-25T01:29:04Z",
     "url": "https://github.com/promptdriven/pdd"
   },
   {
@@ -180,15 +306,6 @@
     "url": "https://github.com/kerasum2704/discipline-duel-v1"
   },
   {
-    "description": "Gemini\u306e\u6027\u80fd\u3092\u6700\u5927\u5316\u3057\u4f5c\u696d\u3092\u52b9\u7387\u5316\u3059\u308bAI\u7528OS\u30d7\u30ed\u30f3\u30d7\u30c8 | System prompt (AI OS) to maximize Gemini 3.0 performance and efficiency.",
-    "id": "nitagon0083/SpriteSystem",
-    "language": "HTML",
-    "name": "nitagon0083/SpriteSystem",
-    "stars": 0,
-    "updated_at": "2026-07-25T01:07:03Z",
-    "url": "https://github.com/nitagon0083/SpriteSystem"
-  },
-  {
     "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
     "id": "Despairing-taka262/xios-aim-assist-script",
     "language": "HTML",
@@ -196,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-07-25T01:06:43Z",
     "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-25T01:06:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T00:57:07Z",
     "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-07-25T00:57:02Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-07-25T00:56:53Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-07-25T00:56:26Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10723,
-    "updated_at": "2026-07-25T01:07:18Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-07-25T00:56:05Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-07-25T00:56:02Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
-    "id": "wrg32786/aigent-os",
-    "language": "JavaScript",
-    "name": "wrg32786/aigent-os",
-    "stars": 11,
-    "updated_at": "2026-07-25T00:55:53Z",
-    "url": "https://github.com/wrg32786/aigent-os"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-07-25T00:55:02Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-25T00:54:05Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-07-25T00:53:44Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-07-25T00:53:33Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-07-25T00:52:58Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
   }
 ]
