@@ -1,5 +1,104 @@
 [
   {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 4,
+    "updated_at": "2026-07-26T12:41:44Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Military-inspired command and control operating system for AI agents.",
+    "id": "wnsdy95/cannae-os",
+    "language": "JavaScript",
+    "name": "wnsdy95/cannae-os",
+    "stars": 2,
+    "updated_at": "2026-07-26T12:41:25Z",
+    "url": "https://github.com/wnsdy95/cannae-os"
+  },
+  {
+    "description": "Production-ready multi-provider AI chatbot with CLI, REST API, and Gradio UI. Built using FastAPI, LangChain, Docker, an",
+    "id": "Riyasharma-17/CLI-Multi-Provider-AI-Chatbot",
+    "language": "Python",
+    "name": "Riyasharma-17/CLI-Multi-Provider-AI-Chatbot",
+    "stars": 2,
+    "updated_at": "2026-07-26T12:39:46Z",
+    "url": "https://github.com/Riyasharma-17/CLI-Multi-Provider-AI-Chatbot"
+  },
+  {
+    "description": "1282 production-ready AI agent skills with self-evolving meta-skills \u2014 783 cybersecurity, SEO, trading, marketing, autom",
+    "id": "oyi77/1ai-skills",
+    "language": "Python",
+    "name": "oyi77/1ai-skills",
+    "stars": 6,
+    "updated_at": "2026-07-26T12:38:18Z",
+    "url": "https://github.com/oyi77/1ai-skills"
+  },
+  {
+    "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
+    "id": "CodeAlive-AI/ai-driven-development",
+    "language": "Python",
+    "name": "CodeAlive-AI/ai-driven-development",
+    "stars": 109,
+    "updated_at": "2026-07-26T12:38:03Z",
+    "url": "https://github.com/CodeAlive-AI/ai-driven-development"
+  },
+  {
+    "description": "C# SDK for the Vellum AI API -- prompt engineering, evaluation, deployment, and workflow orchestration",
+    "id": "tryAGI/Vellum",
+    "language": "C#",
+    "name": "tryAGI/Vellum",
+    "stars": 0,
+    "updated_at": "2026-07-26T12:37:03Z",
+    "url": "https://github.com/tryAGI/Vellum"
+  },
+  {
+    "description": "AI prompt engineering toolkit + local LLM optimization guides (170 tok/s on RTX 3090 with Qwen 3.6-35B-A3B)",
+    "id": "ic3bl3u-bit/ai-prompt-engineering-toolkit",
+    "language": "HTML",
+    "name": "ic3bl3u-bit/ai-prompt-engineering-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-26T12:36:42Z",
+    "url": "https://github.com/ic3bl3u-bit/ai-prompt-engineering-toolkit"
+  },
+  {
+    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 49,
+    "updated_at": "2026-07-26T12:32:56Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "Agentic triage engine that classifies incoming healthcare member requests by type and urgency and runs a governed multi-",
+    "id": "sharkgitz/triagesense",
+    "language": "Python",
+    "name": "sharkgitz/triagesense",
+    "stars": 1,
+    "updated_at": "2026-07-26T12:32:16Z",
+    "url": "https://github.com/sharkgitz/triagesense"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-26T12:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-07-26T12:30:15Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -22,7 +121,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 39583,
+    "stars": 39584,
     "updated_at": "2026-07-26T12:26:24Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -34,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T12:25:41Z",
     "url": "https://github.com/iaminpwd/dotfiles"
-  },
-  {
-    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
-    "id": "ariffazil/arifOS",
-    "language": "Python",
-    "name": "ariffazil/arifOS",
-    "stars": 49,
-    "updated_at": "2026-07-26T12:24:56Z",
-    "url": "https://github.com/ariffazil/arifOS"
   },
   {
     "description": "Lossless, structure-aware compression of logs, JSON & CSV to cut LLM prompt tokens. Lossless or no-op \u2014 never lossy.",
@@ -58,7 +148,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20874,
+    "stars": 20875,
     "updated_at": "2026-07-26T12:23:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -180,15 +270,6 @@
     "url": "https://github.com/linnnn89/grill-me-for-ui"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-26T12:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -214,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T12:13:38Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-07-26T12:30:15Z",
-    "url": "https://github.com/agungkesmas/recallfox"
   },
   {
     "description": "A multi-agent system that automates software project construction.",
@@ -259,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-07-26T12:12:11Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "1282 production-ready AI agent skills with self-evolving meta-skills \u2014 783 cybersecurity, SEO, trading, marketing, autom",
-    "id": "oyi77/1ai-skills",
-    "language": "Python",
-    "name": "oyi77/1ai-skills",
-    "stars": 6,
-    "updated_at": "2026-07-26T12:09:40Z",
-    "url": "https://github.com/oyi77/1ai-skills"
   },
   {
     "description": "Orquestaci\u00f3n de IA multiagente: un registro de agentes autogenerado + una evaluaci\u00f3n a ciegas que demuestra que el enrut",
@@ -338,7 +401,7 @@
     "language": "Python",
     "name": "yptang98/CostMarshal",
     "stars": 2,
-    "updated_at": "2026-07-26T12:11:52Z",
+    "updated_at": "2026-07-26T12:33:02Z",
     "url": "https://github.com/yptang98/CostMarshal"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-26T12:02:09Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "",
-    "id": "AlexandrKotelnikov/llm-navigation-lab",
-    "language": "Python",
-    "name": "AlexandrKotelnikov/llm-navigation-lab",
-    "stars": 2,
-    "updated_at": "2026-07-26T12:12:32Z",
-    "url": "https://github.com/AlexandrKotelnikov/llm-navigation-lab"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-26T11:58:52Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-07-26T11:58:51Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-07-26T11:58:07Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-07-26T11:57:55Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 0,
-    "updated_at": "2026-07-26T11:57:54Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "",
-    "id": "asa834/paperforge-2026-paper-workflow",
-    "language": "HTML",
-    "name": "asa834/paperforge-2026-paper-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-26T11:57:50Z",
-    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
   }
 ]
