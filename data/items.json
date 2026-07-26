@@ -1,5 +1,131 @@
 [
   {
+    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
+    "id": "Sunwood-ai-labs/OpenFace",
+    "language": "CSS",
+    "name": "Sunwood-ai-labs/OpenFace",
+    "stars": 3,
+    "updated_at": "2026-07-26T09:44:17Z",
+    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-07-26T09:43:37Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
+    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "language": "TypeScript",
+    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-26T09:43:36Z",
+    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
+  },
+  {
+    "description": "Write software specifications an AI coding agent can execute: EARS/SHALL requirements, a determinism boundary, and a /sp",
+    "id": "hmbseaotter/agent-specification-toolkit",
+    "language": "HTML",
+    "name": "hmbseaotter/agent-specification-toolkit",
+    "stars": 2,
+    "updated_at": "2026-07-26T09:40:21Z",
+    "url": "https://github.com/hmbseaotter/agent-specification-toolkit"
+  },
+  {
+    "description": "LLM-based privacy risk classifier achieving 97% recall and 84% precision on a 10-service benchmark \u2014 ensemble design, it",
+    "id": "Jatin23K/TLDR-Shield",
+    "language": "JavaScript",
+    "name": "Jatin23K/TLDR-Shield",
+    "stars": 1,
+    "updated_at": "2026-07-26T09:37:43Z",
+    "url": "https://github.com/Jatin23K/TLDR-Shield"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-26T09:36:46Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 179,
+    "updated_at": "2026-07-26T09:42:21Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "AI tool directory with copy ready prompt templates in 16 languages",
+    "id": "handminJ/prompt-100",
+    "language": "TypeScript",
+    "name": "handminJ/prompt-100",
+    "stars": 0,
+    "updated_at": "2026-07-26T09:35:14Z",
+    "url": "https://github.com/handminJ/prompt-100"
+  },
+  {
+    "description": "Lean, adaptive multi-agent engineering setup for Codex CLI with focused specialists, reusable skills, safe defaults, and",
+    "id": "gabriele-mastrapasqua/codex-lean-team",
+    "language": "Shell",
+    "name": "gabriele-mastrapasqua/codex-lean-team",
+    "stars": 3,
+    "updated_at": "2026-07-26T09:34:53Z",
+    "url": "https://github.com/gabriele-mastrapasqua/codex-lean-team"
+  },
+  {
+    "description": "Rules and prompts that stop Claude Code / Cursor from breaking working code. Copy-paste. (EN/KR)",
+    "id": "avenna01-ceo/claude-code-survival-kr",
+    "language": "HTML",
+    "name": "avenna01-ceo/claude-code-survival-kr",
+    "stars": 1,
+    "updated_at": "2026-07-26T09:34:48Z",
+    "url": "https://github.com/avenna01-ceo/claude-code-survival-kr"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-07-26T09:34:11Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-07-26T09:33:45Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-26T09:30:56Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 39557,
+    "updated_at": "2026-07-26T09:41:15Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -25,15 +151,6 @@
     "stars": 3419,
     "updated_at": "2026-07-26T09:30:19Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
-    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
-    "language": "TypeScript",
-    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-26T09:27:48Z",
-    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -67,18 +184,9 @@
     "id": "tuantranute-it/icm-graph-context-flow",
     "language": "HTML",
     "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-26T09:26:07Z",
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 179,
-    "updated_at": "2026-07-26T09:30:29Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -211,7 +319,7 @@
     "id": "Ekmsi8525/agentsmith",
     "language": "\u2014",
     "name": "Ekmsi8525/agentsmith",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-26T09:21:38Z",
     "url": "https://github.com/Ekmsi8525/agentsmith"
   },
@@ -232,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T09:21:13Z",
     "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "LLM-based privacy risk classifier achieving 97% recall and 84% precision on a 10-service benchmark \u2014 ensemble design, it",
-    "id": "Jatin23K/TLDR-Shield",
-    "language": "JavaScript",
-    "name": "Jatin23K/TLDR-Shield",
-    "stars": 1,
-    "updated_at": "2026-07-26T09:20:59Z",
-    "url": "https://github.com/Jatin23K/TLDR-Shield"
   },
   {
     "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
@@ -315,15 +414,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-26T09:15:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
     "id": "Norinatiring463/loop-engineering",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-26T09:14:07Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Token-efficient AI agent skill that cuts output tokens without breaking grammar. Installs for Claude Code, Cursor, Codex",
-    "id": "DeepakGanapathi97/introvert",
-    "language": "JavaScript",
-    "name": "DeepakGanapathi97/introvert",
-    "stars": 0,
-    "updated_at": "2026-07-26T09:13:41Z",
-    "url": "https://github.com/DeepakGanapathi97/introvert"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 150,
-    "updated_at": "2026-07-26T09:13:40Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 39554,
-    "updated_at": "2026-07-26T09:29:28Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
-    "id": "AnastasiyaW/claude-code-config",
-    "language": "Python",
-    "name": "AnastasiyaW/claude-code-config",
-    "stars": 138,
-    "updated_at": "2026-07-26T09:12:10Z",
-    "url": "https://github.com/AnastasiyaW/claude-code-config"
-  },
-  {
-    "description": "A gamified skill tree for becoming an AI-augmented developer \u2014 27 skills, 6 tiers, earn XP and level up.",
-    "id": "plumbgoat/ai-dev-roadmap",
-    "language": "HTML",
-    "name": "plumbgoat/ai-dev-roadmap",
-    "stars": 3,
-    "updated_at": "2026-07-26T09:12:09Z",
-    "url": "https://github.com/plumbgoat/ai-dev-roadmap"
-  },
-  {
-    "description": "Bypass Anthropic security restrictions by injecting custom workflows into the Claude Code CLI to enable restricted model",
-    "id": "keilschismatic799/fable-jailbreak",
-    "language": "\u2014",
-    "name": "keilschismatic799/fable-jailbreak",
-    "stars": 1,
-    "updated_at": "2026-07-26T09:11:44Z",
-    "url": "https://github.com/keilschismatic799/fable-jailbreak"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 2,
-    "updated_at": "2026-07-26T09:11:32Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 1,
-    "updated_at": "2026-07-26T09:10:45Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-07-26T09:10:42Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-07-26T09:10:31Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
   }
 ]
