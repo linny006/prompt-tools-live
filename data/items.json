@@ -1,5 +1,131 @@
 [
   {
+    "description": "A curated, opinionated set of OpenCode plugins for spec-first, review-driven, safer agentic development.",
+    "id": "osovv/vv-opencode",
+    "language": "TypeScript",
+    "name": "osovv/vv-opencode",
+    "stars": 10,
+    "updated_at": "2026-07-26T18:28:15Z",
+    "url": "https://github.com/osovv/vv-opencode"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 62561,
+    "updated_at": "2026-07-26T18:24:52Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "HTML",
+    "name": "llwslc/proteus",
+    "stars": 2,
+    "updated_at": "2026-07-26T18:24:37Z",
+    "url": "https://github.com/llwslc/proteus"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-07-26T18:22:28Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Three always-on rules for coding agents: treat external content as data, treat measurements as tool claims, and source f",
+    "id": "84emllc/claude-agent-rules",
+    "language": "\u2014",
+    "name": "84emllc/claude-agent-rules",
+    "stars": 0,
+    "updated_at": "2026-07-26T18:21:14Z",
+    "url": "https://github.com/84emllc/claude-agent-rules"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-26T18:20:53Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "A mobile-first AI game that turns visible photo traits into playful public style/vibe matches using a privacy-safe Gemin",
+    "id": "ihabkhaled/TwinzyAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/TwinzyAI",
+    "stars": 1,
+    "updated_at": "2026-07-26T18:20:53Z",
+    "url": "https://github.com/ihabkhaled/TwinzyAI"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3419,
+    "updated_at": "2026-07-26T18:26:10Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Open-source coding agent for real software work. Plans, reviews, and implements tasks with an explicit, inspectable inst",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-07-26T18:19:18Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
+    "id": "Caseinpainthindu889/ai-copywriter",
+    "language": "\u2014",
+    "name": "Caseinpainthindu889/ai-copywriter",
+    "stars": 1,
+    "updated_at": "2026-07-26T18:18:50Z",
+    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
+  },
+  {
+    "description": "Production-ready Claude Code & Runner skills by Bhavesh Khaple. Reusable slash-command workflows for agent design, LLM p",
+    "id": "BhaveshKhaple/bhavesh-claude-skills",
+    "language": "\u2014",
+    "name": "BhaveshKhaple/bhavesh-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-26T18:18:21Z",
+    "url": "https://github.com/BhaveshKhaple/bhavesh-claude-skills"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27217,
+    "updated_at": "2026-07-26T18:17:36Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-26T18:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-07-26T18:15:20Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -58,25 +184,16 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 60641,
+    "stars": 60645,
     "updated_at": "2026-07-26T18:06:24Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
-    "id": "llwslc/proteus",
-    "language": "HTML",
-    "name": "llwslc/proteus",
-    "stars": 2,
-    "updated_at": "2026-07-26T18:05:22Z",
-    "url": "https://github.com/llwslc/proteus"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 31886,
+    "stars": 31887,
     "updated_at": "2026-07-26T18:04:38Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -144,15 +261,6 @@
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 62560,
-    "updated_at": "2026-07-26T18:09:34Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
     "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
     "language": "HTML",
@@ -187,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-07-26T18:00:25Z",
     "url": "https://github.com/LearnPrompt/goodcaseai"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-26T18:00:22Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -243,15 +342,6 @@
     "url": "https://github.com/Zipstack/unstract"
   },
   {
-    "description": "A mobile-first AI game that turns visible photo traits into playful public style/vibe matches using a privacy-safe Gemin",
-    "id": "ihabkhaled/TwinzyAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/TwinzyAI",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:55:29Z",
-    "url": "https://github.com/ihabkhaled/TwinzyAI"
-  },
-  {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
     "id": "Faudzan10/outline-driven-starter-kit",
     "language": "HTML",
@@ -268,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T17:54:59Z",
     "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:54:59Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
   },
   {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-26T17:51:42Z",
     "url": "https://github.com/imanijab4641/R6-Fury-Pro"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:51:22Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:50:36Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
-    "id": "OutlineDriven/odin-claude-plugin",
-    "language": "Python",
-    "name": "OutlineDriven/odin-claude-plugin",
-    "stars": 32,
-    "updated_at": "2026-07-26T17:50:14Z",
-    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:50:13Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-07-26T17:49:09Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:49:03Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "Extract structured thinking profiles from public figures to evaluate your real-world decisions using any AI model.",
-    "id": "tacticalwarningsubscriptionwarrant526/borrowed-brain-pro",
-    "language": "\u2014",
-    "name": "tacticalwarningsubscriptionwarrant526/borrowed-brain-pro",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:48:22Z",
-    "url": "https://github.com/tacticalwarningsubscriptionwarrant526/borrowed-brain-pro"
-  },
-  {
-    "description": "End-to-end agentic data-science system: LLM planning + MCP tool execution over deterministic analytics, with full tracea",
-    "id": "Padraigobrien08/agentic-data-science-system",
-    "language": "Python",
-    "name": "Padraigobrien08/agentic-data-science-system",
-    "stars": 1,
-    "updated_at": "2026-07-26T17:53:58Z",
-    "url": "https://github.com/Padraigobrien08/agentic-data-science-system"
-  },
-  {
-    "description": "Agent Skill: carry one delegated goal from a single sentence to multiple shipped batches, without step-by-step approval.",
-    "id": "CrisisAlpha-Lab/autonomous-goal-pipeline",
-    "language": "\u2014",
-    "name": "CrisisAlpha-Lab/autonomous-goal-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-26T17:47:09Z",
-    "url": "https://github.com/CrisisAlpha-Lab/autonomous-goal-pipeline"
   }
 ]
