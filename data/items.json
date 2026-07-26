@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 54,
+    "updated_at": "2026-07-26T06:27:20Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 23,
+    "updated_at": "2026-07-26T06:27:16Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Behavioral observability experiment for self- and judge-updated LLM telemetry.",
+    "id": "RyoSpiralArchitect/nirvana_telemetry",
+    "language": "JavaScript",
+    "name": "RyoSpiralArchitect/nirvana_telemetry",
+    "stars": 0,
+    "updated_at": "2026-07-26T06:26:58Z",
+    "url": "https://github.com/RyoSpiralArchitect/nirvana_telemetry"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-26T06:26:08Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Optimize your requests for LLMs (ChatGPT, Claude, Gemini) and save up to 90% on API costs.",
     "id": "jorgehc1/less-tokens",
     "language": "HTML",
@@ -16,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-07-26T06:22:11Z",
     "url": "https://github.com/mazze93/prepend-prompt"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-26T06:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
@@ -67,7 +94,7 @@
     "id": "sachncs/promptsheon",
     "language": "Go",
     "name": "sachncs/promptsheon",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-26T06:08:22Z",
     "url": "https://github.com/sachncs/promptsheon"
   },
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "omar-y-abdi/furl-ctx",
     "stars": 2,
-    "updated_at": "2026-07-26T06:23:51Z",
+    "updated_at": "2026-07-26T06:27:55Z",
     "url": "https://github.com/omar-y-abdi/furl-ctx"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-26T05:53:22Z",
     "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-07-26T05:53:02Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-07-26T05:52:33Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-07-26T05:52:23Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   }
 ]
