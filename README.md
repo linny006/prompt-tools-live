@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-26 12:43 UTC
+> ⏰ Last updated: 2026-07-26 12:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,34 +42,34 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [rockerlabs/keel](https://github.com/rockerlabs/keel) | 4 | Shell | 2026-07-26 | A thin, model-agnostic layer for what an AI agent loads, when, and how much — principles + plain-Bash tools. |
-| 2 | [wnsdy95/cannae-os](https://github.com/wnsdy95/cannae-os) | 2 | JavaScript | 2026-07-26 | Military-inspired command and control operating system for AI agents. |
-| 3 | [Riyasharma-17/CLI-Multi-Provider-AI-Chatbot](https://github.com/Riyasharma-17/CLI-Multi-Provider-AI-Chatbot) | 2 | Python | 2026-07-26 | Production-ready multi-provider AI chatbot with CLI, REST API, and Gradio UI. Built using FastAPI, LangChain, Docker, an |
-| 4 | [oyi77/1ai-skills](https://github.com/oyi77/1ai-skills) | 6 | Python | 2026-07-26 | 1282 production-ready AI agent skills with self-evolving meta-skills — 783 cybersecurity, SEO, trading, marketing, autom |
-| 5 | [CodeAlive-AI/ai-driven-development](https://github.com/CodeAlive-AI/ai-driven-development) | 109 | Python | 2026-07-26 | Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope |
-| 6 | [tryAGI/Vellum](https://github.com/tryAGI/Vellum) | 0 | C# | 2026-07-26 | C# SDK for the Vellum AI API -- prompt engineering, evaluation, deployment, and workflow orchestration |
-| 7 | [ic3bl3u-bit/ai-prompt-engineering-toolkit](https://github.com/ic3bl3u-bit/ai-prompt-engineering-toolkit) | 0 | HTML | 2026-07-26 | AI prompt engineering toolkit + local LLM optimization guides (170 tok/s on RTX 3090 with Qwen 3.6-35B-A3B) |
-| 8 | [ariffazil/arifOS](https://github.com/ariffazil/arifOS) | 49 | Python | 2026-07-26 | [L0 CONSTITUTION] arifOS — constitutional MCP kernel. Law, identity, F1–F13, VAULT999. Judges but never executes. DITEMP |
-| 9 | [sharkgitz/triagesense](https://github.com/sharkgitz/triagesense) | 1 | Python | 2026-07-26 | Agentic triage engine that classifies incoming healthcare member requests by type and urgency and runs a governed multi- |
-| 10 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 7 | Python | 2026-07-26 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 11 | [agungkesmas/recallfox](https://github.com/agungkesmas/recallfox) | 0 | JavaScript | 2026-07-26 | Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho |
-| 12 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 21 | TypeScript | 2026-07-26 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 13 | [agbelemi/google-flow-scripting-skill](https://github.com/agbelemi/google-flow-scripting-skill) | 0 | Python | 2026-07-26 | Google Flow Prompt Guide: Veo Character Consistency, Storyboarding and Continuity |
-| 14 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 39584 | Python | 2026-07-26 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| 15 | [iaminpwd/dotfiles](https://github.com/iaminpwd/dotfiles) | 0 | Shell | 2026-07-26 | 환경 설정 파일 백업 및 AI 프롬프트 관리 레포지토리 |
-| 16 | [antrixy/ctxfold](https://github.com/antrixy/ctxfold) | 0 | JavaScript | 2026-07-26 | Lossless, structure-aware compression of logs, JSON & CSV to cut LLM prompt tokens. Lossless or no-op — never lossy. |
-| 17 | [comet-ml/opik](https://github.com/comet-ml/opik) | 20875 | Python | 2026-07-26 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 18 | [astorie-ai/awesome-seedance-2-prompt](https://github.com/astorie-ai/awesome-seedance-2-prompt) | 10 | Shell | 2026-07-26 | Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art. |
-| 19 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 12972 | TypeScript | 2026-07-26 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
-| 20 | [sachncs/promptsheon](https://github.com/sachncs/promptsheon) | 1 | Go | 2026-07-26 | Git-native version control for AI agents — content-addressable prompt management, evaluation engine, and agent configura |
-| 21 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 180 | Rust | 2026-07-26 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
-| 22 | [BhaveshKhaple/bhavesh-claude-skills](https://github.com/BhaveshKhaple/bhavesh-claude-skills) | 0 | — | 2026-07-26 | Production-ready Claude Code & Runner skills by Bhavesh Khaple. Reusable slash-command workflows for agent design, LLM p |
-| 23 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 833 | Swift | 2026-07-26 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
-| 24 | [yj972/know-before-act](https://github.com/yj972/know-before-act) | 1 | — | 2026-07-26 | A lightweight agent protocol for reducing uncertainty before execution. |
-| 25 | [toolkitaiprompt-ui/AI-Prompt-Toolkit](https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit) | 2 | TypeScript | 2026-07-26 | 🚀 AI Prompt Toolkit — 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida |
-| 26 | [martonpaulo/skills](https://github.com/martonpaulo/skills) | 0 | Python | 2026-07-26 | My personal Agent Skills for coding agents: engineering workflows plus a few personal-use tools. Personalized forks, wit |
-| 27 | [linkpranay-ai/context-engineering-protocol](https://github.com/linkpranay-ai/context-engineering-protocol) | 0 | Python | 2026-07-26 | Portable AI coding-agent skills for source-attributed, human-approved context packages. |
-| 28 | [aklmans/ai-first-dotfiles](https://github.com/aklmans/ai-first-dotfiles) | 0 | Shell | 2026-07-26 | Practical macOS dotfiles for keyboard-driven workspaces, a compact desktop UI, terminal tools, and local AI prompt/agent |
+| 1 | [aklmans/ai-first-dotfiles](https://github.com/aklmans/ai-first-dotfiles) | 0 | Shell | 2026-07-26 | Practical macOS dotfiles for keyboard-driven workspaces, a compact desktop UI, terminal tools, and local AI prompt/agent |
+| 2 | [CodeAlive-AI/ai-driven-development](https://github.com/CodeAlive-AI/ai-driven-development) | 109 | Python | 2026-07-26 | Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope |
+| 3 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 7 | Python | 2026-07-26 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 4 | [rockerlabs/keel](https://github.com/rockerlabs/keel) | 4 | Shell | 2026-07-26 | A thin, model-agnostic layer for what an AI agent loads, when, and how much — principles + plain-Bash tools. |
+| 5 | [wnsdy95/cannae-os](https://github.com/wnsdy95/cannae-os) | 2 | JavaScript | 2026-07-26 | Military-inspired command and control operating system for AI agents. |
+| 6 | [Riyasharma-17/CLI-Multi-Provider-AI-Chatbot](https://github.com/Riyasharma-17/CLI-Multi-Provider-AI-Chatbot) | 2 | Python | 2026-07-26 | Production-ready multi-provider AI chatbot with CLI, REST API, and Gradio UI. Built using FastAPI, LangChain, Docker, an |
+| 7 | [oyi77/1ai-skills](https://github.com/oyi77/1ai-skills) | 6 | Python | 2026-07-26 | 1282 production-ready AI agent skills with self-evolving meta-skills — 783 cybersecurity, SEO, trading, marketing, autom |
+| 8 | [tryAGI/Vellum](https://github.com/tryAGI/Vellum) | 0 | C# | 2026-07-26 | C# SDK for the Vellum AI API -- prompt engineering, evaluation, deployment, and workflow orchestration |
+| 9 | [ic3bl3u-bit/ai-prompt-engineering-toolkit](https://github.com/ic3bl3u-bit/ai-prompt-engineering-toolkit) | 0 | HTML | 2026-07-26 | AI prompt engineering toolkit + local LLM optimization guides (170 tok/s on RTX 3090 with Qwen 3.6-35B-A3B) |
+| 10 | [ariffazil/arifOS](https://github.com/ariffazil/arifOS) | 49 | Python | 2026-07-26 | [L0 CONSTITUTION] arifOS — constitutional MCP kernel. Law, identity, F1–F13, VAULT999. Judges but never executes. DITEMP |
+| 11 | [sharkgitz/triagesense](https://github.com/sharkgitz/triagesense) | 1 | Python | 2026-07-26 | Agentic triage engine that classifies incoming healthcare member requests by type and urgency and runs a governed multi- |
+| 12 | [agungkesmas/recallfox](https://github.com/agungkesmas/recallfox) | 0 | JavaScript | 2026-07-26 | Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho |
+| 13 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 21 | TypeScript | 2026-07-26 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 14 | [agbelemi/google-flow-scripting-skill](https://github.com/agbelemi/google-flow-scripting-skill) | 0 | Python | 2026-07-26 | Google Flow Prompt Guide: Veo Character Consistency, Storyboarding and Continuity |
+| 15 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 39584 | Python | 2026-07-26 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 16 | [iaminpwd/dotfiles](https://github.com/iaminpwd/dotfiles) | 0 | Shell | 2026-07-26 | 환경 설정 파일 백업 및 AI 프롬프트 관리 레포지토리 |
+| 17 | [antrixy/ctxfold](https://github.com/antrixy/ctxfold) | 0 | JavaScript | 2026-07-26 | Lossless, structure-aware compression of logs, JSON & CSV to cut LLM prompt tokens. Lossless or no-op — never lossy. |
+| 18 | [comet-ml/opik](https://github.com/comet-ml/opik) | 20875 | Python | 2026-07-26 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 19 | [astorie-ai/awesome-seedance-2-prompt](https://github.com/astorie-ai/awesome-seedance-2-prompt) | 10 | Shell | 2026-07-26 | Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art. |
+| 20 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 12972 | TypeScript | 2026-07-26 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
+| 21 | [sachncs/promptsheon](https://github.com/sachncs/promptsheon) | 1 | Go | 2026-07-26 | Git-native version control for AI agents — content-addressable prompt management, evaluation engine, and agent configura |
+| 22 | [fkiene/llmtrim](https://github.com/fkiene/llmtrim) | 180 | Rust | 2026-07-26 | Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr |
+| 23 | [BhaveshKhaple/bhavesh-claude-skills](https://github.com/BhaveshKhaple/bhavesh-claude-skills) | 0 | — | 2026-07-26 | Production-ready Claude Code & Runner skills by Bhavesh Khaple. Reusable slash-command workflows for agent design, LLM p |
+| 24 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 833 | Swift | 2026-07-26 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
+| 25 | [yj972/know-before-act](https://github.com/yj972/know-before-act) | 1 | — | 2026-07-26 | A lightweight agent protocol for reducing uncertainty before execution. |
+| 26 | [toolkitaiprompt-ui/AI-Prompt-Toolkit](https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit) | 2 | TypeScript | 2026-07-26 | 🚀 AI Prompt Toolkit — 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida |
+| 27 | [martonpaulo/skills](https://github.com/martonpaulo/skills) | 0 | Python | 2026-07-26 | My personal Agent Skills for coding agents: engineering workflows plus a few personal-use tools. Personalized forks, wit |
+| 28 | [linkpranay-ai/context-engineering-protocol](https://github.com/linkpranay-ai/context-engineering-protocol) | 0 | Python | 2026-07-26 | Portable AI coding-agent skills for source-attributed, human-approved context packages. |
 | 29 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 1 | HTML | 2026-07-26 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
 | 30 | [linnnn89/grill-me-for-ui](https://github.com/linnnn89/grill-me-for-ui) | 0 | — | 2026-07-26 | Design Intelligence Router for AI UI design and vibe coding: interview-first UX, Art Direction, UI Briefs, design-system |
 | 31 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-07-26 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
