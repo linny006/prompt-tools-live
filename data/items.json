@@ -1,21 +1,174 @@
 [
   {
+    "description": "Semantic compression for IDE\u2194LLM communication \u2014 CLI, MCP server, and VS Code extension, with a Context Router, team-sha",
+    "id": "Neolambo/glyph-compress",
+    "language": "JavaScript",
+    "name": "Neolambo/glyph-compress",
+    "stars": 3,
+    "updated_at": "2026-07-27T16:45:25Z",
+    "url": "https://github.com/Neolambo/glyph-compress"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 3,
+    "updated_at": "2026-07-27T16:45:36Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 11,
+    "updated_at": "2026-07-27T16:45:07Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
+    "id": "piyalidas10/AI",
+    "language": "Python",
+    "name": "piyalidas10/AI",
+    "stars": 2,
+    "updated_at": "2026-07-27T16:45:04Z",
+    "url": "https://github.com/piyalidas10/AI"
+  },
+  {
+    "description": "Multi-agent business strategy system for Claude Code: 5 knowledge bases, 66 agents and analytical tools, one /strategy c",
+    "id": "bruno-org/OpenPMStrategy",
+    "language": "\u2014",
+    "name": "bruno-org/OpenPMStrategy",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:44:22Z",
+    "url": "https://github.com/bruno-org/OpenPMStrategy"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-07-27T16:44:38Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
     "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
     "id": "truongnat/simple-skills",
     "language": "Python",
     "name": "truongnat/simple-skills",
     "stars": 1,
-    "updated_at": "2026-07-27T16:32:00Z",
+    "updated_at": "2026-07-27T16:43:11Z",
     "url": "https://github.com/truongnat/simple-skills"
+  },
+  {
+    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
+    "id": "Forest-Project-Lab/doctrine",
+    "language": "Python",
+    "name": "Forest-Project-Lab/doctrine",
+    "stars": 2,
+    "updated_at": "2026-07-27T16:43:08Z",
+    "url": "https://github.com/Forest-Project-Lab/doctrine"
+  },
+  {
+    "description": "Agentic prompt optimizer \u2014 rewrites any prompt for any AI model (Claude, GPT, Gemini, Kimi, DeepSeek, Qwen, Llama, Grok,",
+    "id": "umairshoaiby/promptloop",
+    "language": "HTML",
+    "name": "umairshoaiby/promptloop",
+    "stars": 1,
+    "updated_at": "2026-07-27T16:42:54Z",
+    "url": "https://github.com/umairshoaiby/promptloop"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 12977,
+    "updated_at": "2026-07-27T16:41:39Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 5058,
+    "updated_at": "2026-07-27T16:39:55Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "git diff for your agent's context window. See exactly what your LLM saw \u2014 turn by turn, block by block.",
+    "id": "salmanzafar949/ctxdiff",
+    "language": "Python",
+    "name": "salmanzafar949/ctxdiff",
+    "stars": 4,
+    "updated_at": "2026-07-27T16:38:12Z",
+    "url": "https://github.com/salmanzafar949/ctxdiff"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-07-27T16:37:13Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "RobustnessPilot \u2014 Automated LLM evaluation framework testing 3 models (14B\u201370B params) across 23 failure modes with 7 pr",
+    "id": "Hrushitha12/llm_robustness_test_diversity",
+    "language": "Java",
+    "name": "Hrushitha12/llm_robustness_test_diversity",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:35:34Z",
+    "url": "https://github.com/Hrushitha12/llm_robustness_test_diversity"
   },
   {
     "description": "AWS PartyRock AI applications and case studies demonstrating generative AI, prompt engineering, and AI-assisted data ana",
     "id": "LuthandoYekani/AWS-PartyRock-Projects",
     "language": "\u2014",
     "name": "LuthandoYekani/AWS-PartyRock-Projects",
-    "stars": 1,
-    "updated_at": "2026-07-27T16:30:52Z",
+    "stars": 2,
+    "updated_at": "2026-07-27T16:39:01Z",
     "url": "https://github.com/LuthandoYekani/AWS-PartyRock-Projects"
+  },
+  {
+    "description": "A profiler for your agentic harness. Price every line of CLAUDE.md, every skill, subagent and MCP tool schema \u2014 then fin",
+    "id": "alebgl77/harnessmeter",
+    "language": "TypeScript",
+    "name": "alebgl77/harnessmeter",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:33:10Z",
+    "url": "https://github.com/alebgl77/harnessmeter"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Python",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-07-27T16:32:45Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-27T16:32:07Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
+    "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "language": "JavaScript",
+    "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:31:20Z",
+    "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
   },
   {
     "description": "Explorador interactivo de system prompts para modelos de IA y entornos Arena.",
@@ -25,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T16:30:47Z",
     "url": "https://github.com/borjamoskv/arena-system-prompts-explorer"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-27T16:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Multi-agent business strategy system for Claude Code: 5 knowledge bases, 66 agents and analytical tools, one /strategy c",
-    "id": "bruno-org/OpenPMStrategy",
-    "language": "\u2014",
-    "name": "bruno-org/OpenPMStrategy",
-    "stars": 0,
-    "updated_at": "2026-07-27T16:30:08Z",
-    "url": "https://github.com/bruno-org/OpenPMStrategy"
   },
   {
     "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
@@ -72,15 +207,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
-    "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
-    "language": "JavaScript",
-    "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
-    "stars": 0,
-    "updated_at": "2026-07-27T16:31:20Z",
-    "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
-  },
-  {
     "description": "Typed building blocks for everything around your LLM call.",
     "id": "use-crux/crux",
     "language": "TypeScript",
@@ -95,7 +221,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31955,
-    "updated_at": "2026-07-27T16:30:28Z",
+    "updated_at": "2026-07-27T16:38:25Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -122,7 +248,7 @@
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 62755,
-    "updated_at": "2026-07-27T16:22:43Z",
+    "updated_at": "2026-07-27T16:40:00Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -135,15 +261,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
-    "id": "piyalidas10/AI",
-    "language": "Python",
-    "name": "piyalidas10/AI",
-    "stars": 2,
-    "updated_at": "2026-07-27T16:21:04Z",
-    "url": "https://github.com/piyalidas10/AI"
-  },
-  {
     "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
@@ -153,13 +270,13 @@
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
-    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
-    "id": "Forest-Project-Lab/doctrine",
+    "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
+    "id": "Jia-Ethan/codex-keysmith",
     "language": "Python",
-    "name": "Forest-Project-Lab/doctrine",
-    "stars": 2,
-    "updated_at": "2026-07-27T16:20:54Z",
-    "url": "https://github.com/Forest-Project-Lab/doctrine"
+    "name": "Jia-Ethan/codex-keysmith",
+    "stars": 1860,
+    "updated_at": "2026-07-27T16:18:30Z",
+    "url": "https://github.com/Jia-Ethan/codex-keysmith"
   },
   {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
@@ -171,21 +288,12 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "RobustnessPilot \u2014 Automated LLM evaluation framework testing 3 models (14B\u201370B params) across 23 failure modes with 7 pr",
-    "id": "Hrushitha12/llm_robustness_test_diversity",
-    "language": "Java",
-    "name": "Hrushitha12/llm_robustness_test_diversity",
-    "stars": 0,
-    "updated_at": "2026-07-27T16:17:13Z",
-    "url": "https://github.com/Hrushitha12/llm_robustness_test_diversity"
-  },
-  {
     "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
     "id": "Liplus-Project/liplus-language",
     "language": "Python",
     "name": "Liplus-Project/liplus-language",
     "stars": 3,
-    "updated_at": "2026-07-27T16:16:51Z",
+    "updated_at": "2026-07-27T16:43:27Z",
     "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
@@ -230,7 +338,7 @@
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
     "stars": 39772,
-    "updated_at": "2026-07-27T16:24:43Z",
+    "updated_at": "2026-07-27T16:42:18Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
@@ -252,15 +360,6 @@
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   },
   {
-    "description": "A profiler for your agentic harness. Price every line of CLAUDE.md, every skill, subagent and MCP tool schema \u2014 then fin",
-    "id": "alebgl77/harnessmeter",
-    "language": "TypeScript",
-    "name": "alebgl77/harnessmeter",
-    "stars": 0,
-    "updated_at": "2026-07-27T16:11:16Z",
-    "url": "https://github.com/alebgl77/harnessmeter"
-  },
-  {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
     "id": "teguhimanulloh47/pirate-talk-for-claude",
     "language": "HTML",
@@ -268,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T16:11:11Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Python",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-07-27T16:11:05Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -347,7 +437,7 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 6932,
-    "updated_at": "2026-07-27T16:08:07Z",
+    "updated_at": "2026-07-27T16:44:35Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T16:07:57Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Claude Code Plugin instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 50,
-    "updated_at": "2026-07-27T16:07:42Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-07-27T16:07:38Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
-    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
-    "language": "TypeScript",
-    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-07-27T16:07:17Z",
-    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
-  },
-  {
-    "description": "Free open-source AI Character Prompt Builder. Create consistent AI character prompts, character templates, and reusable ",
-    "id": "AlijeeWrites/ai-character-prompt-builder",
-    "language": "HTML",
-    "name": "AlijeeWrites/ai-character-prompt-builder",
-    "stars": 0,
-    "updated_at": "2026-07-27T16:04:30Z",
-    "url": "https://github.com/AlijeeWrites/ai-character-prompt-builder"
-  },
-  {
-    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
-    "id": "solo-vey/Ordo",
-    "language": "Python",
-    "name": "solo-vey/Ordo",
-    "stars": 1,
-    "updated_at": "2026-07-27T16:04:08Z",
-    "url": "https://github.com/solo-vey/Ordo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10764,
-    "updated_at": "2026-07-27T16:03:34Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 2,
-    "updated_at": "2026-07-27T16:03:30Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
-    "id": "Jia-Ethan/codex-keysmith",
-    "language": "Python",
-    "name": "Jia-Ethan/codex-keysmith",
-    "stars": 1859,
-    "updated_at": "2026-07-27T16:18:30Z",
-    "url": "https://github.com/Jia-Ethan/codex-keysmith"
-  },
-  {
-    "description": "\ud83e\uddd9 Official best-practice skill library for grimoire \u2014 1000+ skills across engineering, testing, security, and more",
-    "id": "jeffreytse/grimoire-core",
-    "language": "JavaScript",
-    "name": "jeffreytse/grimoire-core",
-    "stars": 2,
-    "updated_at": "2026-07-27T16:01:22Z",
-    "url": "https://github.com/jeffreytse/grimoire-core"
-  },
-  {
-    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
-    "id": "FoxsterDev/ai-research-hub",
-    "language": "Python",
-    "name": "FoxsterDev/ai-research-hub",
-    "stars": 4,
-    "updated_at": "2026-07-27T15:59:03Z",
-    "url": "https://github.com/FoxsterDev/ai-research-hub"
   }
 ]
