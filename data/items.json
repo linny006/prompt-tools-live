@@ -1,12 +1,147 @@
 [
   {
-    "description": "80 free prompt-only Custom GPT tools with complete prompts, conversation starters, and direct ChatGPT links.",
+    "description": "LLM capture proxy with Anthropic cache_control TTL stamping, vision handoff, concurrency gating, rate limiting, and a li",
+    "id": "codegiveness/umans-gate",
+    "language": "TypeScript",
+    "name": "codegiveness/umans-gate",
+    "stars": 1,
+    "updated_at": "2026-07-27T12:44:06Z",
+    "url": "https://github.com/codegiveness/umans-gate"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-27T12:39:56Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Human-led AI workflows for real B2B sales work.",
+    "id": "shaunmarsden/practical-ai-sales-workflows",
+    "language": "\u2014",
+    "name": "shaunmarsden/practical-ai-sales-workflows",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:39:41Z",
+    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-07-27T12:38:57Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Documentation and prompt engineering framework for AI alignment based on unity consciousness principles. Includes system",
+    "id": "TechNickAI/heartcentered.ai",
+    "language": "HTML",
+    "name": "TechNickAI/heartcentered.ai",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:37:00Z",
+    "url": "https://github.com/TechNickAI/heartcentered.ai"
+  },
+  {
+    "description": "80 public prompt-only Custom GPT tools with complete prompts, conversation starters, and direct ChatGPT links.",
     "id": "KikuAI-Lab/custom-gpt-prompts",
     "language": "\u2014",
     "name": "KikuAI-Lab/custom-gpt-prompts",
     "stars": 0,
-    "updated_at": "2026-07-27T12:30:01Z",
+    "updated_at": "2026-07-27T12:35:54Z",
     "url": "https://github.com/KikuAI-Lab/custom-gpt-prompts"
+  },
+  {
+    "description": "Design minimal AI agent packs for Codex and Claude from project descriptions.",
+    "id": "ikonushok/agent-pack-designer",
+    "language": "Python",
+    "name": "ikonushok/agent-pack-designer",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:35:42Z",
+    "url": "https://github.com/ikonushok/agent-pack-designer"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31942,
+    "updated_at": "2026-07-27T12:44:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Semantic compression for IDE\u2194LLM communication \u2014 CLI, MCP server, and VS Code extension, with a Context Router, team-sha",
+    "id": "Neolambo/glyph-compress",
+    "language": "JavaScript",
+    "name": "Neolambo/glyph-compress",
+    "stars": 3,
+    "updated_at": "2026-07-27T12:34:31Z",
+    "url": "https://github.com/Neolambo/glyph-compress"
+  },
+  {
+    "description": "CLI tool for bundling project files as LLM context.",
+    "id": "rasros/lx",
+    "language": "Go",
+    "name": "rasros/lx",
+    "stars": 50,
+    "updated_at": "2026-07-27T12:38:05Z",
+    "url": "https://github.com/rasros/lx"
+  },
+  {
+    "description": "Makes your AI agent answer like a briefing to a busy, skeptical boss. Conclusion first, no padding, no agreement it does",
+    "id": "zzjiho/espresso",
+    "language": "JavaScript",
+    "name": "zzjiho/espresso",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:34:05Z",
+    "url": "https://github.com/zzjiho/espresso"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3421,
+    "updated_at": "2026-07-27T12:45:18Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Snippets and prompts that expand wherever you type. One library, synced across Chrome and mobile.  Stress the model, not",
+    "id": "locoprice/SprintBrain",
+    "language": "TypeScript",
+    "name": "locoprice/SprintBrain",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:45:14Z",
+    "url": "https://github.com/locoprice/SprintBrain"
+  },
+  {
+    "description": "Drop-in CLAUDE.md / MEMORY.md templates + a readable reference RAG pipeline. Cut coding-agent token cost, improve retrie",
+    "id": "Paulyang5049/context-graph-engineering",
+    "language": "Python",
+    "name": "Paulyang5049/context-graph-engineering",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:32:04Z",
+    "url": "https://github.com/Paulyang5049/context-graph-engineering"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-27T12:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Cache-optimised architecture and Shadow VFS framework for token-efficient LLM agents.",
+    "id": "neuronaline/ai-memory-context-management",
+    "language": "\u2014",
+    "name": "neuronaline/ai-memory-context-management",
+    "stars": 7,
+    "updated_at": "2026-07-27T12:30:30Z",
+    "url": "https://github.com/neuronaline/ai-memory-context-management"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -16,6 +151,15 @@
     "stars": 1,
     "updated_at": "2026-07-27T12:29:46Z",
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-27T12:29:33Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
@@ -43,15 +187,6 @@
     "stars": 26,
     "updated_at": "2026-07-27T12:27:08Z",
     "url": "https://github.com/frankxai/claude-skills-library"
-  },
-  {
-    "description": "Drop-in CLAUDE.md / MEMORY.md templates + a readable reference RAG pipeline. Cut coding-agent token cost, improve retrie",
-    "id": "Paulyang5049/context-graph-engineering",
-    "language": "Python",
-    "name": "Paulyang5049/context-graph-engineering",
-    "stars": 0,
-    "updated_at": "2026-07-27T12:26:42Z",
-    "url": "https://github.com/Paulyang5049/context-graph-engineering"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -108,24 +243,6 @@
     "url": "https://github.com/avenna01-ceo/claude-code-survival-kr"
   },
   {
-    "description": "CLI tool for bundling project files as LLM context.",
-    "id": "rasros/lx",
-    "language": "Go",
-    "name": "rasros/lx",
-    "stars": 50,
-    "updated_at": "2026-07-27T12:28:27Z",
-    "url": "https://github.com/rasros/lx"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-27T12:29:33Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -135,15 +252,6 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-27T12:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
     "id": "Sunwood-ai-labs/OpenFace",
     "language": "CSS",
@@ -151,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T12:15:16Z",
     "url": "https://github.com/Sunwood-ai-labs/OpenFace"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31942,
-    "updated_at": "2026-07-27T12:30:17Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Quality/cost-aware operating layer for Codex: skill routing, safety hooks, source provenance, evals, and CI-backed relea",
@@ -194,7 +293,7 @@
     "language": "TypeScript",
     "name": "Sunil-M02/curiosity-engine",
     "stars": 2,
-    "updated_at": "2026-07-27T12:08:57Z",
+    "updated_at": "2026-07-27T12:44:06Z",
     "url": "https://github.com/Sunil-M02/curiosity-engine"
   },
   {
@@ -223,15 +322,6 @@
     "stars": 5,
     "updated_at": "2026-07-27T12:06:07Z",
     "url": "https://github.com/christopherlouet/claude-base"
-  },
-  {
-    "description": "Semantic compression for IDE\u2194LLM communication \u2014 CLI, MCP server, and VS Code extension, with a Context Router, team-sha",
-    "id": "Neolambo/glyph-compress",
-    "language": "JavaScript",
-    "name": "Neolambo/glyph-compress",
-    "stars": 3,
-    "updated_at": "2026-07-27T12:04:55Z",
-    "url": "https://github.com/Neolambo/glyph-compress"
   },
   {
     "description": "AI-powered market analysis platform that provides in-depth insights acorss multiple business domains.",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T11:55:56Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Design minimal AI agent packs for Codex and Claude from project descriptions.",
-    "id": "ikonushok/agent-pack-designer",
-    "language": "Python",
-    "name": "ikonushok/agent-pack-designer",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:55:37Z",
-    "url": "https://github.com/ikonushok/agent-pack-designer"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-07-27T11:54:08Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-07-27T11:49:01Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Web formativa y gratuita (prototipo) para crear tu primer asistente de IA, sin programar. La cara visible de un ecosiste",
-    "id": "jleonceo/tu-primer-asistente-ia-web",
-    "language": "Astro",
-    "name": "jleonceo/tu-primer-asistente-ia-web",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:46:50Z",
-    "url": "https://github.com/jleonceo/tu-primer-asistente-ia-web"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 3,
-    "updated_at": "2026-07-27T11:45:34Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Stop the burn on your plan. Open-source tool batching and polling policy for Codex and AI coding agents.",
-    "id": "frizas/tokenshade",
-    "language": "JavaScript",
-    "name": "frizas/tokenshade",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:45:22Z",
-    "url": "https://github.com/frizas/tokenshade"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:44:27Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Drop-in instructions, prompts, and workflows to reduce token usage across Codex, Claude Code, GitHub Copilot, Cursor, an",
-    "id": "ravinperera/ai-token-efficiency-playbook",
-    "language": "Python",
-    "name": "ravinperera/ai-token-efficiency-playbook",
-    "stars": 9,
-    "updated_at": "2026-07-27T11:44:12Z",
-    "url": "https://github.com/ravinperera/ai-token-efficiency-playbook"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-27T11:44:12Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1659,
-    "updated_at": "2026-07-27T11:43:55Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   }
 ]
