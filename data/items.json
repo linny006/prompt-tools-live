@@ -1,5 +1,131 @@
 [
   {
+    "description": "ChatGPT, related application + prompt engineering list",
+    "id": "koji/LLM-PromptEngineering-Agents",
+    "language": "\u2014",
+    "name": "koji/LLM-PromptEngineering-Agents",
+    "stars": 36,
+    "updated_at": "2026-07-27T05:43:57Z",
+    "url": "https://github.com/koji/LLM-PromptEngineering-Agents"
+  },
+  {
+    "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
+    "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "language": "JavaScript",
+    "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "stars": 0,
+    "updated_at": "2026-07-27T05:43:48Z",
+    "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
+  },
+  {
+    "description": "CI/CD pipeline that catches LLM prompt quality regressions before they ship \u2014 golden-dataset eval, statistical drift det",
+    "id": "kushimahar/model-regression-detection-system",
+    "language": "Python",
+    "name": "kushimahar/model-regression-detection-system",
+    "stars": 0,
+    "updated_at": "2026-07-27T05:42:42Z",
+    "url": "https://github.com/kushimahar/model-regression-detection-system"
+  },
+  {
+    "description": "Prompt engineering workbench \u2014 Chrome extension, desktop app, and web tool",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "HTML",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 2,
+    "updated_at": "2026-07-27T05:42:07Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "A Windows desktop tool that analyzes code changes and generates validated unit test cases, Excel documents, and release ",
+    "id": "WoongyuChoi/promptcase-studio",
+    "language": "Python",
+    "name": "WoongyuChoi/promptcase-studio",
+    "stars": 0,
+    "updated_at": "2026-07-27T05:40:06Z",
+    "url": "https://github.com/WoongyuChoi/promptcase-studio"
+  },
+  {
+    "description": "Evaluate and optimize your AI agent context. Save tokens, save money.",
+    "id": "warrenth/ctxcraft",
+    "language": "Shell",
+    "name": "warrenth/ctxcraft",
+    "stars": 13,
+    "updated_at": "2026-07-27T05:36:45Z",
+    "url": "https://github.com/warrenth/ctxcraft"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 7,
+    "updated_at": "2026-07-27T05:36:01Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "Reverse engineer any repo into it's original prompt",
+    "id": "filiksyos/gitreverse",
+    "language": "TypeScript",
+    "name": "filiksyos/gitreverse",
+    "stars": 1263,
+    "updated_at": "2026-07-27T05:34:31Z",
+    "url": "https://github.com/filiksyos/gitreverse"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-07-27T05:33:54Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Design minimal AI agent packs for Codex and Claude from project descriptions.",
+    "id": "ikonushok/agent-pack-designer",
+    "language": "\u2014",
+    "name": "ikonushok/agent-pack-designer",
+    "stars": 0,
+    "updated_at": "2026-07-27T05:33:21Z",
+    "url": "https://github.com/ikonushok/agent-pack-designer"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-27T05:34:11Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23637,
+    "updated_at": "2026-07-27T05:36:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-27T05:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
+    "id": "Caseinpainthindu889/ai-copywriter",
+    "language": "\u2014",
+    "name": "Caseinpainthindu889/ai-copywriter",
+    "stars": 1,
+    "updated_at": "2026-07-27T05:30:06Z",
+    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
+  },
+  {
     "description": "",
     "id": "asa834/paperforge-2026-paper-workflow",
     "language": "HTML",
@@ -198,15 +324,6 @@
     "url": "https://github.com/llxpy/-MoLock"
   },
   {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 7,
-    "updated_at": "2026-07-27T05:19:02Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
     "description": "A Claude Code skill that gives agents an operating profile \u2014 mindset and working style, not just voice. Built for AI-emp",
     "id": "qc2174/personas",
     "language": "\u2014",
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T05:15:38Z",
     "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 12977,
-    "updated_at": "2026-07-27T05:15:31Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-27T05:15:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "The largest community-driven library of Agent Skills (SKILL.md + scripts/references/examples) for Claude, Codex, Gemini ",
-    "id": "JayRHa/AgentSkills",
-    "language": "Python",
-    "name": "JayRHa/AgentSkills",
-    "stars": 3,
-    "updated_at": "2026-07-27T05:14:53Z",
-    "url": "https://github.com/JayRHa/AgentSkills"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-07-27T05:14:34Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
-    "id": "sachncs/promptsheon",
-    "language": "Go",
-    "name": "sachncs/promptsheon",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:14:00Z",
-    "url": "https://github.com/sachncs/promptsheon"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:13:40Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27222,
-    "updated_at": "2026-07-27T05:13:23Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 3,
-    "updated_at": "2026-07-27T05:13:13Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23637,
-    "updated_at": "2026-07-27T05:30:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:12:51Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-07-27T05:12:38Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 2,
-    "updated_at": "2026-07-27T05:12:23Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:12:21Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
   }
 ]
