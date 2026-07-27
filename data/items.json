@@ -1,5 +1,194 @@
 [
   {
+    "description": "Drop-in CLAUDE.md / MEMORY.md templates + a readable reference RAG pipeline. Cut coding-agent token cost, improve retrie",
+    "id": "Paulyang5049/context-graph-engineering",
+    "language": "Python",
+    "name": "Paulyang5049/context-graph-engineering",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:12:56Z",
+    "url": "https://github.com/Paulyang5049/context-graph-engineering"
+  },
+  {
+    "description": "Quality/cost-aware operating layer for Codex: skill routing, safety hooks, source provenance, evals, and CI-backed relea",
+    "id": "srednoff888-art/srednoff-os",
+    "language": "Python",
+    "name": "srednoff888-art/srednoff-os",
+    "stars": 1,
+    "updated_at": "2026-07-27T12:12:26Z",
+    "url": "https://github.com/srednoff888-art/srednoff-os"
+  },
+  {
+    "description": "\ud83d\udce6 Herramienta visual para organizar prompts, auditor\u00edas, bugs y backlog t\u00e9cnico. Next.js + TypeScript + Tailwind",
+    "id": "smouj/prompt-organizer",
+    "language": "Python",
+    "name": "smouj/prompt-organizer",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:12:00Z",
+    "url": "https://github.com/smouj/prompt-organizer"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 176,
+    "updated_at": "2026-07-27T12:12:00Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31941,
+    "updated_at": "2026-07-27T12:14:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-07-27T12:08:57Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "Portable AI coding-agent skills for source-attributed, human-approved context packages.",
+    "id": "linkpranay-ai/context-engineering-protocol",
+    "language": "Python",
+    "name": "linkpranay-ai/context-engineering-protocol",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:10:20Z",
+    "url": "https://github.com/linkpranay-ai/context-engineering-protocol"
+  },
+  {
+    "description": "The union of intelligences \u2014 a harness that bridges a human mind and an AI mind: unskippable gates, structural memory & ",
+    "id": "beausee/coniunctio-intelligentiarum",
+    "language": "Python",
+    "name": "beausee/coniunctio-intelligentiarum",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:06:09Z",
+    "url": "https://github.com/beausee/coniunctio-intelligentiarum"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-07-27T12:06:07Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Semantic compression for IDE\u2194LLM communication \u2014 CLI, MCP server, and VS Code extension, with a Context Router, team-sha",
+    "id": "Neolambo/glyph-compress",
+    "language": "JavaScript",
+    "name": "Neolambo/glyph-compress",
+    "stars": 3,
+    "updated_at": "2026-07-27T12:04:55Z",
+    "url": "https://github.com/Neolambo/glyph-compress"
+  },
+  {
+    "description": "AI-powered market analysis platform that provides in-depth insights acorss multiple business domains.",
+    "id": "Amanmeena0/MarketScout",
+    "language": "Python",
+    "name": "Amanmeena0/MarketScout",
+    "stars": 3,
+    "updated_at": "2026-07-27T12:04:44Z",
+    "url": "https://github.com/Amanmeena0/MarketScout"
+  },
+  {
+    "description": "AI coding assistant for VS Code \u2014 free BYOK (Claude, GPT-4o, DeepSeek, Qwen), unlimited local Ollama, 20 free cloud edit",
+    "id": "Adilaw12/freebird-vscode",
+    "language": "TypeScript",
+    "name": "Adilaw12/freebird-vscode",
+    "stars": 2,
+    "updated_at": "2026-07-27T12:04:17Z",
+    "url": "https://github.com/Adilaw12/freebird-vscode"
+  },
+  {
+    "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy ",
+    "id": "eljulians/skillfile",
+    "language": "Rust",
+    "name": "eljulians/skillfile",
+    "stars": 138,
+    "updated_at": "2026-07-27T12:03:54Z",
+    "url": "https://github.com/eljulians/skillfile"
+  },
+  {
+    "description": "Tapir skills for engineering judgment, app-icon craft, and presentation design.",
+    "id": "SuperTapir/tapir-skills",
+    "language": "JavaScript",
+    "name": "SuperTapir/tapir-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:03:07Z",
+    "url": "https://github.com/SuperTapir/tapir-skills"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 103,
+    "updated_at": "2026-07-27T12:02:44Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Model-agnostic AI response evaluation handbook with evidence-based rubrics, calibration guides, case studies, and reusab",
+    "id": "h2so4nackl-code/ai-response-evaluation-lab",
+    "language": "\u2014",
+    "name": "h2so4nackl-code/ai-response-evaluation-lab",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:02:34Z",
+    "url": "https://github.com/h2so4nackl-code/ai-response-evaluation-lab"
+  },
+  {
+    "description": "Practical, model-agnostic prompt engineering knowledge base for AI evaluation, technical QA, troubleshooting, and softwa",
+    "id": "h2so4nackl-code/ai-prompt-engineering",
+    "language": "\u2014",
+    "name": "h2so4nackl-code/ai-prompt-engineering",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:02:32Z",
+    "url": "https://github.com/h2so4nackl-code/ai-prompt-engineering"
+  },
+  {
+    "description": "AI evaluation, prompt engineering, technical QA, and testing portfolio",
+    "id": "h2so4nackl-code/h2so4nackl-code",
+    "language": "\u2014",
+    "name": "h2so4nackl-code/h2so4nackl-code",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:02:30Z",
+    "url": "https://github.com/h2so4nackl-code/h2so4nackl-code"
+  },
+  {
+    "description": "AI-powered Cover Letter Generator using Python and Google Gemini that creates professional ATS-friendly cover letters fr",
+    "id": "chaitanyaramisetti4589-gif/ai_cover_letter_generator",
+    "language": "Python",
+    "name": "chaitanyaramisetti4589-gif/ai_cover_letter_generator",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:01:23Z",
+    "url": "https://github.com/chaitanyaramisetti4589-gif/ai_cover_letter_generator"
+  },
+  {
+    "description": "VibeWalk a digital step counter application with AI integration for Multiple Sections",
+    "id": "Ayush08k/VibeWalk",
+    "language": "TypeScript",
+    "name": "Ayush08k/VibeWalk",
+    "stars": 1,
+    "updated_at": "2026-07-27T12:00:54Z",
+    "url": "https://github.com/Ayush08k/VibeWalk"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-27T12:00:43Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
     "id": "solo-vey/Ordo",
     "language": "Python",
@@ -32,7 +221,7 @@
     "language": "JavaScript",
     "name": "sdsrss/agentsmd",
     "stars": 2,
-    "updated_at": "2026-07-27T11:56:11Z",
+    "updated_at": "2026-07-27T12:01:00Z",
     "url": "https://github.com/sdsrss/agentsmd"
   },
   {
@@ -54,24 +243,6 @@
     "url": "https://github.com/ikonushok/agent-pack-designer"
   },
   {
-    "description": "Model-agnostic AI response evaluation handbook with rubrics, examples, calibration guides, case studies, and templates",
-    "id": "h2so4nackl-code/ai-response-evaluation-lab",
-    "language": "\u2014",
-    "name": "h2so4nackl-code/ai-response-evaluation-lab",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:54:58Z",
-    "url": "https://github.com/h2so4nackl-code/ai-response-evaluation-lab"
-  },
-  {
-    "description": "VibeWalk a digital step counter application with AI integration for Multiple Sections",
-    "id": "Ayush08k/VibeWalk",
-    "language": "TypeScript",
-    "name": "Ayush08k/VibeWalk",
-    "stars": 1,
-    "updated_at": "2026-07-27T11:54:33Z",
-    "url": "https://github.com/Ayush08k/VibeWalk"
-  },
-  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -79,24 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T11:54:08Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 31938,
-    "updated_at": "2026-07-27T11:58:50Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy ",
-    "id": "eljulians/skillfile",
-    "language": "Rust",
-    "name": "eljulians/skillfile",
-    "stars": 138,
-    "updated_at": "2026-07-27T11:51:30Z",
-    "url": "https://github.com/eljulians/skillfile"
   },
   {
     "description": "Free n8n AI lead scoring workflow and US first-sale automation template pack for AI builders stuck at zero revenue",
@@ -124,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T11:46:50Z",
     "url": "https://github.com/jleonceo/tu-primer-asistente-ia-web"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-27T11:46:12Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -234,15 +378,6 @@
     "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
   },
   {
-    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
-    "id": "christopherlouet/claude-base",
-    "language": "Shell",
-    "name": "christopherlouet/claude-base",
-    "stars": 5,
-    "updated_at": "2026-07-27T11:39:25Z",
-    "url": "https://github.com/christopherlouet/claude-base"
-  },
-  {
     "description": "Agent skills for agentic coding tools. Extremely opinionated. Updated (almost) daily.",
     "id": "JHostalek/dotclaude",
     "language": "\u2014",
@@ -302,7 +437,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-27T11:27:32Z",
+    "updated_at": "2026-07-27T12:14:57Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -313,140 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T11:26:06Z",
     "url": "https://github.com/codegiveness/umans-gate"
-  },
-  {
-    "description": "Reusable Codex skills for engineering rigor, workflows, and AI-assisted development.",
-    "id": "kabudu/codex-skills",
-    "language": "\u2014",
-    "name": "kabudu/codex-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:26:00Z",
-    "url": "https://github.com/kabudu/codex-skills"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 1,
-    "updated_at": "2026-07-27T11:25:11Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 2,
-    "updated_at": "2026-07-27T11:25:07Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "",
-    "id": "asa834/paperforge-2026-paper-workflow",
-    "language": "HTML",
-    "name": "asa834/paperforge-2026-paper-workflow",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:25:04Z",
-    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:24:47Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 3,
-    "updated_at": "2026-07-27T11:24:14Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:23:31Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
-  },
-  {
-    "description": "Access curated prompts and output examples to optimize image generation with the GPT-Image-2 API.",
-    "id": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "language": "\u2014",
-    "name": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "stars": 1,
-    "updated_at": "2026-07-27T11:23:21Z",
-    "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "Official Muse Video preview prompts, playable clips, native-audio shot briefs, continuity workflows, and 14-language gui",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:23:15Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 1,
-    "updated_at": "2026-07-27T11:23:13Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Enhance video production workflows with AI tools, 4K export support, and professional effects for CapCut.",
-    "id": "Kentlight970/Edit-Master-Pro",
-    "language": "Python",
-    "name": "Kentlight970/Edit-Master-Pro",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:22:54Z",
-    "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "Auto-derives codebase conventions from repo analysis and injects archetype-aware guidance into AI-generated code, enforc",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 9,
-    "updated_at": "2026-07-27T11:22:51Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
-    "id": "calabashspouter212/scriptbreak",
-    "language": "\u2014",
-    "name": "calabashspouter212/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:22:23Z",
-    "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "Build cinematic scroll-driven 2.5D websites using a framework-agnostic prompt system for coding agents.",
-    "id": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "language": "\u2014",
-    "name": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "stars": 1,
-    "updated_at": "2026-07-27T11:22:21Z",
-    "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 834,
-    "updated_at": "2026-07-27T11:22:21Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
   }
 ]
