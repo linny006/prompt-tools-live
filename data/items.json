@@ -1,12 +1,93 @@
 [
   {
+    "description": "Hermes skill + disciplined recipe for building production AI agents: skill files as employees, deterministic verificatio",
+    "id": "Ratinsharma/create-ai-agent",
+    "language": "Python",
+    "name": "Ratinsharma/create-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-07-27T00:43:58Z",
+    "url": "https://github.com/Ratinsharma/create-ai-agent"
+  },
+  {
+    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
+    "id": "Forest-Project-Lab/doctrine",
+    "language": "Python",
+    "name": "Forest-Project-Lab/doctrine",
+    "stars": 1,
+    "updated_at": "2026-07-27T00:36:46Z",
+    "url": "https://github.com/Forest-Project-Lab/doctrine"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20899,
+    "updated_at": "2026-07-27T00:35:17Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-07-27T00:35:13Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Agent skills by Titus Kirch \u2014 installable via skills.sh in Claude Code, Codex, Cursor, OpenCode and friends.",
+    "id": "TitusKirch/skills",
+    "language": "Shell",
+    "name": "TitusKirch/skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T00:43:07Z",
+    "url": "https://github.com/TitusKirch/skills"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 3,
+    "updated_at": "2026-07-27T00:34:35Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "The only token-saving agent rules you may need.",
+    "id": "ramaikn/ponycave",
+    "language": "\u2014",
+    "name": "ramaikn/ponycave",
+    "stars": 0,
+    "updated_at": "2026-07-27T00:34:02Z",
+    "url": "https://github.com/ramaikn/ponycave"
+  },
+  {
     "description": "AI automation offer validation kit for people paying for tools but still seeing  deposits",
     "id": "avenna01-ceo/claude-code-survival-kr",
     "language": "HTML",
     "name": "avenna01-ceo/claude-code-survival-kr",
     "stars": 2,
-    "updated_at": "2026-07-27T00:28:16Z",
+    "updated_at": "2026-07-27T00:31:15Z",
     "url": "https://github.com/avenna01-ceo/claude-code-survival-kr"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-27T00:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 39622,
+    "updated_at": "2026-07-27T00:39:04Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "Quillan-Ronin - an attempt at a mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v6.",
@@ -16,15 +97,6 @@
     "stars": 26,
     "updated_at": "2026-07-27T00:28:13Z",
     "url": "https://github.com/leeex1/Quillan-Ronin"
-  },
-  {
-    "description": "The only token-saving agent rules you may need.",
-    "id": "ramaikn/ponycave",
-    "language": "\u2014",
-    "name": "ramaikn/ponycave",
-    "stars": 0,
-    "updated_at": "2026-07-27T00:27:58Z",
-    "url": "https://github.com/ramaikn/ponycave"
   },
   {
     "description": "Structured visual analysis and multi-provider image generation from reference images.",
@@ -81,15 +153,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 13,
-    "updated_at": "2026-07-27T00:17:32Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T00:15:51Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-27T00:15:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -193,7 +247,7 @@
     "id": "tanghua-git/skill-ai-prompt-architect",
     "language": "\u2014",
     "name": "tanghua-git/skill-ai-prompt-architect",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-27T00:06:02Z",
     "url": "https://github.com/tanghua-git/skill-ai-prompt-architect"
   },
@@ -284,7 +338,7 @@
     "language": "Shell",
     "name": "Liplus-Project/liplus-language",
     "stars": 3,
-    "updated_at": "2026-07-27T00:16:09Z",
+    "updated_at": "2026-07-27T00:43:24Z",
     "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-26T23:52:36Z",
     "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 0,
-    "updated_at": "2026-07-26T23:52:26Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-07-26T23:52:10Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 0,
-    "updated_at": "2026-07-26T23:51:10Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
-  },
-  {
-    "description": "Access curated prompts and output examples to optimize image generation with the GPT-Image-2 API.",
-    "id": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "language": "\u2014",
-    "name": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "stars": 1,
-    "updated_at": "2026-07-26T23:51:04Z",
-    "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "Enhance video production workflows with AI tools, 4K export support, and professional effects for CapCut.",
-    "id": "Kentlight970/Edit-Master-Pro",
-    "language": "Python",
-    "name": "Kentlight970/Edit-Master-Pro",
-    "stars": 0,
-    "updated_at": "2026-07-26T23:50:46Z",
-    "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
-    "id": "calabashspouter212/scriptbreak",
-    "language": "\u2014",
-    "name": "calabashspouter212/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-07-26T23:50:15Z",
-    "url": "https://github.com/calabashspouter212/scriptbreak"
   }
 ]
