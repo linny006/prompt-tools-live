@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-07-27T23:29:39Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
+    "id": "grigb/gas-prompt-library",
+    "language": "Python",
+    "name": "grigb/gas-prompt-library",
+    "stars": 3,
+    "updated_at": "2026-07-27T23:25:52Z",
+    "url": "https://github.com/grigb/gas-prompt-library"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-27T23:23:26Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "An opinionated LLM-as-judge harness: CRISP scenario taxonomy, cross-family judge enforcement, deterministic safety keys,",
+    "id": "Arash-yazdani/crisp-eval",
+    "language": "Python",
+    "name": "Arash-yazdani/crisp-eval",
+    "stars": 0,
+    "updated_at": "2026-07-27T23:22:03Z",
+    "url": "https://github.com/Arash-yazdani/crisp-eval"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 7,
+    "updated_at": "2026-07-27T23:16:35Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Open-source LLM observability + agent reliability platform. Drop-in proxy for OpenAI/Anthropic with traces, evals, ro",
+    "id": "Siddharthpatni/Sentinel",
+    "language": "Python",
+    "name": "Siddharthpatni/Sentinel",
+    "stars": 0,
+    "updated_at": "2026-07-27T23:15:47Z",
+    "url": "https://github.com/Siddharthpatni/Sentinel"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-27T23:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -45,15 +108,6 @@
     "url": "https://github.com/minirr890112-byte/HermesMade"
   },
   {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 7,
-    "updated_at": "2026-07-27T23:09:15Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -79,15 +133,6 @@
     "stars": 155,
     "updated_at": "2026-07-27T23:07:33Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-07-27T23:05:53Z",
-    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10768,
-    "updated_at": "2026-07-27T23:01:46Z",
+    "updated_at": "2026-07-27T23:26:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -180,15 +225,6 @@
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-27T23:00:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Measured token routing for Codex, Claude Code, Hermes, GG Coder and any CLI agent. Less noise. Better judgment.",
     "id": "Supersynergy/agent-token-saver",
     "language": "Python",
@@ -205,6 +241,15 @@
     "stars": 1,
     "updated_at": "2026-07-27T22:58:20Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 31964,
+    "updated_at": "2026-07-27T22:58:03Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Anti-AI-slop design rules for web UI, with the A/B evidence behind every rule. The default moved in 2026: indigo is out,",
@@ -324,21 +369,12 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "An opinionated LLM-as-judge harness: CRISP scenario taxonomy, cross-family judge enforcement, deterministic safety keys,",
-    "id": "Arash-yazdani/crisp-eval",
-    "language": "Python",
-    "name": "Arash-yazdani/crisp-eval",
-    "stars": 0,
-    "updated_at": "2026-07-27T22:44:51Z",
-    "url": "https://github.com/Arash-yazdani/crisp-eval"
-  },
-  {
     "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
     "id": "Liplus-Project/liplus-language",
     "language": "Python",
     "name": "Liplus-Project/liplus-language",
     "stars": 3,
-    "updated_at": "2026-07-27T23:15:09Z",
+    "updated_at": "2026-07-27T23:22:01Z",
     "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-27T22:30:41Z",
     "url": "https://github.com/oeo/monkdev"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-07-27T22:30:36Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-07-27T22:29:28Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-07-27T22:29:00Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
-    "id": "Sunwood-ai-labs/OpenFace",
-    "language": "CSS",
-    "name": "Sunwood-ai-labs/OpenFace",
-    "stars": 3,
-    "updated_at": "2026-07-27T22:23:11Z",
-    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
   }
 ]
