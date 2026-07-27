@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "truongnat/simple-skills",
     "stars": 1,
-    "updated_at": "2026-07-27T16:30:18Z",
+    "updated_at": "2026-07-27T16:32:00Z",
     "url": "https://github.com/truongnat/simple-skills"
+  },
+  {
+    "description": "AWS PartyRock AI applications and case studies demonstrating generative AI, prompt engineering, and AI-assisted data ana",
+    "id": "LuthandoYekani/AWS-PartyRock-Projects",
+    "language": "\u2014",
+    "name": "LuthandoYekani/AWS-PartyRock-Projects",
+    "stars": 1,
+    "updated_at": "2026-07-27T16:30:52Z",
+    "url": "https://github.com/LuthandoYekani/AWS-PartyRock-Projects"
+  },
+  {
+    "description": "Explorador interactivo de system prompts para modelos de IA y entornos Arena.",
+    "id": "borjamoskv/arena-system-prompts-explorer",
+    "language": "Python",
+    "name": "borjamoskv/arena-system-prompts-explorer",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:30:47Z",
+    "url": "https://github.com/borjamoskv/arena-system-prompts-explorer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-27T16:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Multi-agent business strategy system for Claude Code: 5 knowledge bases, 66 agents and analytical tools, one /strategy c",
@@ -16,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-07-27T16:30:08Z",
     "url": "https://github.com/bruno-org/OpenPMStrategy"
+  },
+  {
+    "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
+    "id": "iaminpwd/dotfiles",
+    "language": "Shell",
+    "name": "iaminpwd/dotfiles",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:29:50Z",
+    "url": "https://github.com/iaminpwd/dotfiles"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -36,21 +72,12 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "AWS PartyRock AI applications and case studies demonstrating generative AI, prompt engineering, and AI-assisted data ana",
-    "id": "LuthandoYekani/AWS-PartyRock-Projects",
-    "language": "\u2014",
-    "name": "LuthandoYekani/AWS-PartyRock-Projects",
-    "stars": 1,
-    "updated_at": "2026-07-27T16:29:34Z",
-    "url": "https://github.com/LuthandoYekani/AWS-PartyRock-Projects"
-  },
-  {
     "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
     "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
     "language": "JavaScript",
     "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
     "stars": 0,
-    "updated_at": "2026-07-27T16:25:52Z",
+    "updated_at": "2026-07-27T16:31:20Z",
     "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
   },
   {
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31955,
-    "updated_at": "2026-07-27T16:29:20Z",
+    "updated_at": "2026-07-27T16:30:28Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T16:16:51Z",
     "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-27T16:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -391,7 +409,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10763,
+    "stars": 10764,
     "updated_at": "2026-07-27T16:03:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-27T15:59:03Z",
     "url": "https://github.com/FoxsterDev/ai-research-hub"
-  },
-  {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 2,
-    "updated_at": "2026-07-27T15:59:02Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4146,
-    "updated_at": "2026-07-27T16:27:22Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
   }
 ]
