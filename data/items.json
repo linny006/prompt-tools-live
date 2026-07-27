@@ -1,39 +1,129 @@
 [
   {
-    "description": "AI platform with three-layer recursive memory (260-year capacity), pre-positioned retrieval AI, and granular context com",
-    "id": "beilusaiying/always-accompany",
-    "language": "JavaScript",
-    "name": "beilusaiying/always-accompany",
-    "stars": 71,
-    "updated_at": "2026-07-27T15:00:03Z",
-    "url": "https://github.com/beilusaiying/always-accompany"
+    "description": "Assistente virtual para educa\u00e7\u00e3o financeira desenvolvido em Python com conceitos de IA Generativa, Engenharia de Prompt ",
+    "id": "renatorodri-sec/finance-ai-assistant",
+    "language": "Python",
+    "name": "renatorodri-sec/finance-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-27T15:14:10Z",
+    "url": "https://github.com/renatorodri-sec/finance-ai-assistant"
   },
   {
-    "description": "A practical guide to AI",
-    "id": "bestdeejay-design/awesome-ai-handbook",
-    "language": "HTML",
-    "name": "bestdeejay-design/awesome-ai-handbook",
+    "description": "Open-source Claude Code skills that bring planning, building, and verification gates to agentic coding workflows.",
+    "id": "adamlinscott/claude-skills",
+    "language": "TypeScript",
+    "name": "adamlinscott/claude-skills",
+    "stars": 3,
+    "updated_at": "2026-07-27T15:12:56Z",
+    "url": "https://github.com/adamlinscott/claude-skills"
+  },
+  {
+    "description": "A modular behavioral kernel for LLM agents. composable rule modules, documented rationale, testable compliance. By Brain",
+    "id": "Brainboxai-IL/agent-kernel",
+    "language": "Python",
+    "name": "Brainboxai-IL/agent-kernel",
     "stars": 0,
-    "updated_at": "2026-07-27T14:59:45Z",
-    "url": "https://github.com/bestdeejay-design/awesome-ai-handbook"
+    "updated_at": "2026-07-27T15:09:28Z",
+    "url": "https://github.com/Brainboxai-IL/agent-kernel"
+  },
+  {
+    "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
+    "id": "truongnat/simple-skills",
+    "language": "Python",
+    "name": "truongnat/simple-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T15:08:34Z",
+    "url": "https://github.com/truongnat/simple-skills"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 3,
+    "updated_at": "2026-07-27T15:08:27Z",
+    "url": "https://github.com/nikolay-e/diffctx"
   },
   {
     "description": "A field guide to the five engineering layers of AI-assisted development: prompt \u2192 context \u2192 harness \u2192 loop \u2192 graph. Engl",
     "id": "qwerfunch/ai-engineering-layers",
     "language": "\u2014",
     "name": "qwerfunch/ai-engineering-layers",
-    "stars": 0,
-    "updated_at": "2026-07-27T14:55:38Z",
+    "stars": 1,
+    "updated_at": "2026-07-27T15:07:18Z",
     "url": "https://github.com/qwerfunch/ai-engineering-layers"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 62740,
+    "updated_at": "2026-07-27T15:07:06Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "A practical guide to AI: from running your first local model to building your own agents. 52 files covering LLMs, Ollama",
+    "id": "bestdeejay-design/awesome-ai-handbook",
+    "language": "HTML",
+    "name": "bestdeejay-design/awesome-ai-handbook",
+    "stars": 0,
+    "updated_at": "2026-07-27T15:05:53Z",
+    "url": "https://github.com/bestdeejay-design/awesome-ai-handbook"
+  },
+  {
+    "description": "AI platform with three-layer recursive memory (260-year capacity), pre-positioned retrieval AI, and granular context com",
+    "id": "beilusaiying/always-accompany",
+    "language": "JavaScript",
+    "name": "beilusaiying/always-accompany",
+    "stars": 71,
+    "updated_at": "2026-07-27T15:05:16Z",
+    "url": "https://github.com/beilusaiying/always-accompany"
+  },
+  {
+    "description": "An autonomous multi-agent AI system for structured document generation. Implements a Planner \u2192 Executor \u2192 Reflection wor",
+    "id": "sushantkothari/autonomous-document-ai-agent",
+    "language": "Python",
+    "name": "sushantkothari/autonomous-document-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-07-27T15:05:15Z",
+    "url": "https://github.com/sushantkothari/autonomous-document-ai-agent"
   },
   {
     "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
     "id": "Jia-Ethan/codex-keysmith",
     "language": "Python",
     "name": "Jia-Ethan/codex-keysmith",
-    "stars": 1856,
-    "updated_at": "2026-07-27T14:54:58Z",
+    "stars": 1858,
+    "updated_at": "2026-07-27T15:05:08Z",
     "url": "https://github.com/Jia-Ethan/codex-keysmith"
+  },
+  {
+    "description": "A guided, principle-driven Claude Code skill set: 18 commands that take your idea \u2192 shipped, one phase at a time, with e",
+    "id": "kish21/product-playbook",
+    "language": "Python",
+    "name": "kish21/product-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-27T15:03:36Z",
+    "url": "https://github.com/kish21/product-playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-27T15:00:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
+    "id": "aidyou/chatspeed",
+    "language": "Rust",
+    "name": "aidyou/chatspeed",
+    "stars": 21,
+    "updated_at": "2026-07-27T14:58:33Z",
+    "url": "https://github.com/aidyou/chatspeed"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -59,17 +149,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 31951,
-    "updated_at": "2026-07-27T14:59:57Z",
+    "updated_at": "2026-07-27T15:10:36Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Assistente virtual para educa\u00e7\u00e3o financeira desenvolvido em Python com conceitos de IA Generativa, Engenharia de Prompt ",
-    "id": "renatorodri-sec/finance-ai-assistant",
-    "language": "Python",
-    "name": "renatorodri-sec/finance-ai-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-27T14:53:32Z",
-    "url": "https://github.com/renatorodri-sec/finance-ai-assistant"
   },
   {
     "description": "Artificial Intelligence",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T14:53:04Z",
     "url": "https://github.com/rafaelfgx/AI"
-  },
-  {
-    "description": "An autonomous multi-agent AI system for structured document generation. Implements a Planner \u2192 Executor \u2192 Reflection wor",
-    "id": "sushantkothari/autonomous-document-ai-agent",
-    "language": "Python",
-    "name": "sushantkothari/autonomous-document-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-07-27T14:52:52Z",
-    "url": "https://github.com/sushantkothari/autonomous-document-ai-agent"
   },
   {
     "description": "\u628a\u958b\u767c\u898f\u7bc4\u5beb\u6210\u6a5f\u5668\u53ef\u8b80\u7684\u7d04\u675f\uff0c\u8b93 Claude \u81ea\u52d5\u9075\u5b88 TDD\u3001ADR\u3001commit \u9598\u9580\u8207\u767c\u5e03\u6aa2\u67e5",
@@ -162,21 +234,12 @@
     "url": "https://github.com/soumadip-dev/GenAI-Playground"
   },
   {
-    "description": "A modular behavioral kernel for LLM agents. composable rule modules, documented rationale, testable compliance. By Brain",
-    "id": "Brainboxai-IL/agent-kernel",
-    "language": "Python",
-    "name": "Brainboxai-IL/agent-kernel",
-    "stars": 0,
-    "updated_at": "2026-07-27T14:48:34Z",
-    "url": "https://github.com/Brainboxai-IL/agent-kernel"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20912,
-    "updated_at": "2026-07-27T14:47:18Z",
+    "updated_at": "2026-07-27T15:15:01Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "TinkerandScribe/gxp",
     "stars": 0,
-    "updated_at": "2026-07-27T14:47:08Z",
+    "updated_at": "2026-07-27T15:13:05Z",
     "url": "https://github.com/TinkerandScribe/gxp"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
     "stars": 39763,
-    "updated_at": "2026-07-27T14:56:53Z",
+    "updated_at": "2026-07-27T15:06:16Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
@@ -223,24 +286,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T14:45:43Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-27T14:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
-    "id": "truongnat/simple-skills",
-    "language": "Python",
-    "name": "truongnat/simple-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T14:44:05Z",
-    "url": "https://github.com/truongnat/simple-skills"
   },
   {
     "description": "Product Build Gate (hplan) + 5 agent-PM lifecycle plugins \u2014 6 plugins, 43 skills, 18 commands for PMs who decide what, w",
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10763,
-    "updated_at": "2026-07-27T14:54:44Z",
+    "updated_at": "2026-07-27T15:10:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Python",
     "name": "Liplus-Project/liplus-language",
     "stars": 3,
-    "updated_at": "2026-07-27T14:58:30Z",
+    "updated_at": "2026-07-27T15:00:38Z",
     "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T14:35:05Z",
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 62739,
-    "updated_at": "2026-07-27T14:34:56Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 3,
-    "updated_at": "2026-07-27T14:34:40Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
-    "id": "lulin70/carrymem",
-    "language": "Python",
-    "name": "lulin70/carrymem",
-    "stars": 6,
-    "updated_at": "2026-07-27T14:32:59Z",
-    "url": "https://github.com/lulin70/carrymem"
-  },
-  {
-    "description": "Free open-source AI Character Prompt Builder. Create consistent AI character prompts, character templates, and reusable ",
-    "id": "AlijeeWrites/ai-character-prompt-builder",
-    "language": "HTML",
-    "name": "AlijeeWrites/ai-character-prompt-builder",
-    "stars": 0,
-    "updated_at": "2026-07-27T14:30:50Z",
-    "url": "https://github.com/AlijeeWrites/ai-character-prompt-builder"
-  },
-  {
-    "description": "\u57fa\u4e8e AI Agent \u5de5\u4f5c\u6d41\u7684\u4fee\u4ed9\u4e16\u754c\u6a21\u62df\u5668\uff0c\u65e8\u5728\u8fd8\u539f\u667a\u80fd\u3001\u5f00\u653e\u7684\u4ed9\u4fa0\u4e16\u754c\u3002| An open-source Cultivation World Simulator using Agentic Workflow to create a d",
-    "id": "4thfever/cultivation-world-simulator",
-    "language": "Python",
-    "name": "4thfever/cultivation-world-simulator",
-    "stars": 1976,
-    "updated_at": "2026-07-27T14:30:38Z",
-    "url": "https://github.com/4thfever/cultivation-world-simulator"
   }
 ]
