@@ -1,12 +1,129 @@
 [
   {
+    "description": "Turns vague requests into structured prompts, execution plans, and policy-aware workflows \u2014 with readiness verdicts, PR ",
+    "id": "madara88645/Compiler",
+    "language": "Python",
+    "name": "madara88645/Compiler",
+    "stars": 25,
+    "updated_at": "2026-07-27T18:44:13Z",
+    "url": "https://github.com/madara88645/Compiler"
+  },
+  {
+    "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 6994,
+    "updated_at": "2026-07-27T18:42:54Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "Open library of small, install-and-own Claude Code skills and commands, including a wording linter and a pre-public secr",
+    "id": "JayOfemi/claude-toolbox",
+    "language": "JavaScript",
+    "name": "JayOfemi/claude-toolbox",
+    "stars": 1,
+    "updated_at": "2026-07-27T18:42:53Z",
+    "url": "https://github.com/JayOfemi/claude-toolbox"
+  },
+  {
+    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
+    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "language": "HTML",
+    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "stars": 1,
+    "updated_at": "2026-07-27T18:40:42Z",
+    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
+  },
+  {
+    "description": "Bilingual zh-TW and English video prompt generator for Seedance 2.0 and Grok Imagine: form assembly plus 24 templates, a",
+    "id": "stevenke1981/prompt-words",
+    "language": "TypeScript",
+    "name": "stevenke1981/prompt-words",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:39:10Z",
+    "url": "https://github.com/stevenke1981/prompt-words"
+  },
+  {
+    "description": "Open source framework for spec-driven agentic software engineering. PRDs, prompts, agents, skills, workflows, and coding",
+    "id": "Enovatr-Labs/SpecRoute",
+    "language": "Shell",
+    "name": "Enovatr-Labs/SpecRoute",
+    "stars": 2,
+    "updated_at": "2026-07-27T18:45:03Z",
+    "url": "https://github.com/Enovatr-Labs/SpecRoute"
+  },
+  {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "Go",
+    "name": "sachncs/promptsheon",
+    "stars": 1,
+    "updated_at": "2026-07-27T18:38:05Z",
+    "url": "https://github.com/sachncs/promptsheon"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:36:50Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10766,
+    "updated_at": "2026-07-27T18:43:28Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 1,
+    "updated_at": "2026-07-27T18:36:19Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "A free cross-platform editorial standard for AI writing.",
+    "id": "jposluns/ai-language",
+    "language": "HTML",
+    "name": "jposluns/ai-language",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:33:06Z",
+    "url": "https://github.com/jposluns/ai-language"
+  },
+  {
+    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
+    "id": "yptang98/CostMarshal",
+    "language": "Python",
+    "name": "yptang98/CostMarshal",
+    "stars": 2,
+    "updated_at": "2026-07-27T18:32:37Z",
+    "url": "https://github.com/yptang98/CostMarshal"
+  },
+  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "JavaScript",
     "name": "sairaman436/vybe-intelligence-vault",
     "stars": 10,
-    "updated_at": "2026-07-27T18:30:18Z",
+    "updated_at": "2026-07-27T18:32:31Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-27T18:30:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Measured token routing for Codex, Claude Code, Hermes, GG Coder and any CLI agent. Less noise. Better judgment.",
@@ -16,15 +133,6 @@
     "stars": 5,
     "updated_at": "2026-07-27T18:29:22Z",
     "url": "https://github.com/Supersynergy/agent-token-saver"
-  },
-  {
-    "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-    "id": "kyegomez/swarms",
-    "language": "Python",
-    "name": "kyegomez/swarms",
-    "stars": 6994,
-    "updated_at": "2026-07-27T18:29:05Z",
-    "url": "https://github.com/kyegomez/swarms"
   },
   {
     "description": "Audit-first AI design review skill. Find implementation blockers, define falsifiable experiments, and keep residual risk",
@@ -54,15 +162,6 @@
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
   },
   {
-    "description": "A free cross-platform editorial standard for AI writing.",
-    "id": "jposluns/ai-language",
-    "language": "HTML",
-    "name": "jposluns/ai-language",
-    "stars": 0,
-    "updated_at": "2026-07-27T18:26:26Z",
-    "url": "https://github.com/jposluns/ai-language"
-  },
-  {
     "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
     "id": "Asir11/langgraph-agentic-workflows-tutorial",
     "language": "HTML",
@@ -79,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T18:26:11Z",
     "url": "https://github.com/jkandasa/promptd"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10765,
-    "updated_at": "2026-07-27T18:30:07Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "60 days. 60 prompts. 1 AI. Zero excuses. \u2014 My ABTalks Claude AI Challenge journey.",
@@ -252,15 +342,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 0,
-    "updated_at": "2026-07-27T18:17:29Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
     "id": "nikolay-e/diffctx",
     "language": "Rust",
@@ -275,7 +356,7 @@
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
     "stars": 39778,
-    "updated_at": "2026-07-27T18:28:11Z",
+    "updated_at": "2026-07-27T18:41:26Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
@@ -288,21 +369,12 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-27T18:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23662,
-    "updated_at": "2026-07-27T18:13:02Z",
+    "updated_at": "2026-07-27T18:32:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-27T18:05:03Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Claude Code skill for AI filmmaking \u2014 shot lists, keyframe & video prompts, with 10 director-style overlays (Spielberg, ",
-    "id": "wuwangzhang1216/DirectorSKILL",
-    "language": "\u2014",
-    "name": "wuwangzhang1216/DirectorSKILL",
-    "stars": 16,
-    "updated_at": "2026-07-27T18:03:53Z",
-    "url": "https://github.com/wuwangzhang1216/DirectorSKILL"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-27T17:58:48Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-07-27T17:58:47Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Free open-source AI Character Prompt Builder. Create consistent AI character prompts, character templates, and reusable ",
-    "id": "AlijeeWrites/ai-character-prompt-builder",
-    "language": "HTML",
-    "name": "AlijeeWrites/ai-character-prompt-builder",
-    "stars": 0,
-    "updated_at": "2026-07-27T17:58:31Z",
-    "url": "https://github.com/AlijeeWrites/ai-character-prompt-builder"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1659,
-    "updated_at": "2026-07-27T17:58:24Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 1,
-    "updated_at": "2026-07-27T17:58:04Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Universal AI job search engine powered by Gemini AI, Django, and React. Translates plain text inputs for any profession ",
-    "id": "actualprashanna/ai-job-scout",
-    "language": "\u2014",
-    "name": "actualprashanna/ai-job-scout",
-    "stars": 0,
-    "updated_at": "2026-07-27T17:56:26Z",
-    "url": "https://github.com/actualprashanna/ai-job-scout"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4146,
-    "updated_at": "2026-07-27T18:10:37Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
   }
 ]
