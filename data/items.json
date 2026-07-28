@@ -1,5 +1,131 @@
 [
   {
+    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
+    "id": "Forest-Project-Lab/doctrine",
+    "language": "Python",
+    "name": "Forest-Project-Lab/doctrine",
+    "stars": 2,
+    "updated_at": "2026-07-28T02:29:24Z",
+    "url": "https://github.com/Forest-Project-Lab/doctrine"
+  },
+  {
+    "description": "Design minimal AI agent packs for Codex and Claude from project descriptions.",
+    "id": "ikonushok/agent-pack-designer",
+    "language": "Python",
+    "name": "ikonushok/agent-pack-designer",
+    "stars": 3,
+    "updated_at": "2026-07-28T02:26:33Z",
+    "url": "https://github.com/ikonushok/agent-pack-designer"
+  },
+  {
+    "description": "Prompt compiler for LLM agents: modular Markdown \u2192 XML system prompts + experiment manifests (persona, multi-agent, MCP-",
+    "id": "corba777/persona_composer",
+    "language": "Python",
+    "name": "corba777/persona_composer",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:26:15Z",
+    "url": "https://github.com/corba777/persona_composer"
+  },
+  {
+    "description": "A beginner-friendly guide to building and launching apps with Base44\u2014using plain-English prompts, practical examples, an",
+    "id": "cporter202/vibe-coding-with-base44",
+    "language": "\u2014",
+    "name": "cporter202/vibe-coding-with-base44",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:25:57Z",
+    "url": "https://github.com/cporter202/vibe-coding-with-base44"
+  },
+  {
+    "description": "Six lean, repo-agnostic plugins for AI coding agents, in one marketplace. forge runs the engineering workflow: tasks, pr",
+    "id": "samuel-stidham/smithy",
+    "language": "Python",
+    "name": "samuel-stidham/smithy",
+    "stars": 1,
+    "updated_at": "2026-07-28T02:24:36Z",
+    "url": "https://github.com/samuel-stidham/smithy"
+  },
+  {
+    "description": "Free open-source AI prompts, Google Flow templates, Veo workflows and creator resources.",
+    "id": "shoaibmshareef10-stack/awesome-ai-creator-toolkit",
+    "language": "\u2014",
+    "name": "shoaibmshareef10-stack/awesome-ai-creator-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-28T02:23:50Z",
+    "url": "https://github.com/shoaibmshareef10-stack/awesome-ai-creator-toolkit"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 2,
+    "updated_at": "2026-07-28T02:21:35Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude. foundation: eight standalone smiths that build, audit, a",
+    "id": "revenantworks/citadel",
+    "language": "Python",
+    "name": "revenantworks/citadel",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:21:13Z",
+    "url": "https://github.com/revenantworks/citadel"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 7,
+    "updated_at": "2026-07-28T02:20:25Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 5060,
+    "updated_at": "2026-07-28T02:19:26Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "An eval harness that gates deployment and measures its own judges. Three LLM judges score a system under test against a ",
+    "id": "jkelly-dev1/llm-eval-gate",
+    "language": "Python",
+    "name": "jkelly-dev1/llm-eval-gate",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:18:10Z",
+    "url": "https://github.com/jkelly-dev1/llm-eval-gate"
+  },
+  {
+    "description": "Study guides, official exam documents, and preparation resources for the Anthropic Claude certifications: Associate, Dev",
+    "id": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
+    "language": "\u2014",
+    "name": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
+    "stars": 4,
+    "updated_at": "2026-07-28T02:18:09Z",
+    "url": "https://github.com/Amey-Thakur/CLAUDE-CERTIFICATIONS"
+  },
+  {
+    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
+    "id": "AshwinUgale/muteval",
+    "language": "Python",
+    "name": "AshwinUgale/muteval",
+    "stars": 1,
+    "updated_at": "2026-07-28T02:17:48Z",
+    "url": "https://github.com/AshwinUgale/muteval"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-28T02:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Companion code for Delta: Closing the Specification Gap by Sandeep Dhuri \u2014 the Specification Frame, the Ten Laws, and 10",
     "id": "sandeep-dhuri/specification-frame",
     "language": "Java",
@@ -7,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T02:15:00Z",
     "url": "https://github.com/sandeep-dhuri/specification-frame"
-  },
-  {
-    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
-    "id": "Forest-Project-Lab/doctrine",
-    "language": "Python",
-    "name": "Forest-Project-Lab/doctrine",
-    "stars": 2,
-    "updated_at": "2026-07-28T02:14:25Z",
-    "url": "https://github.com/Forest-Project-Lab/doctrine"
   },
   {
     "description": "Bifang: commercial short-video director-thinking skills for Codex agents",
@@ -41,7 +158,7 @@
     "language": "TypeScript",
     "name": "whimzyLive/nightshift-ai",
     "stars": 3,
-    "updated_at": "2026-07-28T02:11:02Z",
+    "updated_at": "2026-07-28T02:27:04Z",
     "url": "https://github.com/whimzyLive/nightshift-ai"
   },
   {
@@ -54,15 +171,6 @@
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
   },
   {
-    "description": "Study guides, official exam documents, and preparation resources for the Anthropic Claude certifications: Associate, Dev",
-    "id": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
-    "language": "\u2014",
-    "name": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
-    "stars": 4,
-    "updated_at": "2026-07-28T02:10:13Z",
-    "url": "https://github.com/Amey-Thakur/CLAUDE-CERTIFICATIONS"
-  },
-  {
     "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
     "id": "ariffazil/arifOS",
     "language": "Python",
@@ -70,24 +178,6 @@
     "stars": 49,
     "updated_at": "2026-07-28T02:07:13Z",
     "url": "https://github.com/ariffazil/arifOS"
-  },
-  {
-    "description": "A beginner-friendly guide to building and launching apps with Base44\u2014using plain-English prompts, practical examples, an",
-    "id": "cporter202/vibe-coding-with-base44",
-    "language": "\u2014",
-    "name": "cporter202/vibe-coding-with-base44",
-    "stars": 0,
-    "updated_at": "2026-07-28T02:06:55Z",
-    "url": "https://github.com/cporter202/vibe-coding-with-base44"
-  },
-  {
-    "description": "Prompt compiler for LLM agents: modular Markdown \u2192 XML system prompts + experiment manifests (persona, multi-agent, MCP-",
-    "id": "corba777/persona_composer",
-    "language": "Python",
-    "name": "corba777/persona_composer",
-    "stars": 0,
-    "updated_at": "2026-07-28T02:06:04Z",
-    "url": "https://github.com/corba777/persona_composer"
   },
   {
     "description": "Source-backed Muse Image prompts, official agentic editing cases, reusable workflows, preview media, and 14-language gui",
@@ -126,15 +216,6 @@
     "url": "https://github.com/kadevin/ilab-conjure"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-28T02:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Plugin para Claude Code com 40 skills de outbound B2B + briefing can\u00f4nico que persiste entre sess\u00f5es. Tunado para lemlis",
     "id": "henriquecaner/next-level-outreach",
     "language": "TypeScript",
@@ -142,15 +223,6 @@
     "stars": 4,
     "updated_at": "2026-07-28T01:59:27Z",
     "url": "https://github.com/henriquecaner/next-level-outreach"
-  },
-  {
-    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude. foundation: eight standalone smiths that build, audit, a",
-    "id": "revenantworks/citadel",
-    "language": "Python",
-    "name": "revenantworks/citadel",
-    "stars": 0,
-    "updated_at": "2026-07-28T01:59:26Z",
-    "url": "https://github.com/revenantworks/citadel"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -319,7 +391,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 8858,
+    "stars": 8859,
     "updated_at": "2026-07-28T01:27:49Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -328,7 +400,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 37110,
+    "stars": 37112,
     "updated_at": "2026-07-28T01:26:02Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -369,15 +441,6 @@
     "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
   },
   {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 7,
-    "updated_at": "2026-07-28T01:18:23Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
     "description": "Helen Agent Develop Language ",
     "id": "hahalee000000/helen",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-28T01:17:56Z",
     "url": "https://github.com/hahalee000000/helen"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 23,
-    "updated_at": "2026-07-28T01:15:39Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-07-28T01:51:09Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-07-28T01:11:46Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Documentation and prompt engineering framework for AI alignment based on unity consciousness principles. Includes system",
-    "id": "TechNickAI/heartcentered.ai",
-    "language": "HTML",
-    "name": "TechNickAI/heartcentered.ai",
-    "stars": 0,
-    "updated_at": "2026-07-28T01:11:45Z",
-    "url": "https://github.com/TechNickAI/heartcentered.ai"
-  },
-  {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 168,
-    "updated_at": "2026-07-28T01:10:13Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "CrewScore \u2014 offline structural production-readiness scorecard for AI agent system prompts. Lint hygiene, apply fix patte",
-    "id": "shmindmaster/crewscore",
-    "language": "Python",
-    "name": "shmindmaster/crewscore",
-    "stars": 0,
-    "updated_at": "2026-07-28T01:08:11Z",
-    "url": "https://github.com/shmindmaster/crewscore"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-28T01:07:52Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
