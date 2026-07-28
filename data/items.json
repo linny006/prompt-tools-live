@@ -1,5 +1,140 @@
 [
   {
+    "description": "Companion code for Delta: Closing the Specification Gap by Sandeep Dhuri \u2014 the Specification Frame, the Ten Laws, and 10",
+    "id": "sandeep-dhuri/specification-frame",
+    "language": "Java",
+    "name": "sandeep-dhuri/specification-frame",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:15:00Z",
+    "url": "https://github.com/sandeep-dhuri/specification-frame"
+  },
+  {
+    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
+    "id": "Forest-Project-Lab/doctrine",
+    "language": "Python",
+    "name": "Forest-Project-Lab/doctrine",
+    "stars": 2,
+    "updated_at": "2026-07-28T02:14:25Z",
+    "url": "https://github.com/Forest-Project-Lab/doctrine"
+  },
+  {
+    "description": "Bifang: commercial short-video director-thinking skills for Codex agents",
+    "id": "hack8998110-cloud/bifang",
+    "language": "PowerShell",
+    "name": "hack8998110-cloud/bifang",
+    "stars": 1,
+    "updated_at": "2026-07-28T02:13:02Z",
+    "url": "https://github.com/hack8998110-cloud/bifang"
+  },
+  {
+    "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
+    "id": "oscargbocanegra/llms-engineering-main",
+    "language": "Jupyter Notebook",
+    "name": "oscargbocanegra/llms-engineering-main",
+    "stars": 1,
+    "updated_at": "2026-07-28T02:12:13Z",
+    "url": "https://github.com/oscargbocanegra/llms-engineering-main"
+  },
+  {
+    "description": "nightshift is a free Claude Code plugin that turns one terminal into a full software-delivery team \u2014 it reads a ticket a",
+    "id": "whimzyLive/nightshift-ai",
+    "language": "TypeScript",
+    "name": "whimzyLive/nightshift-ai",
+    "stars": 3,
+    "updated_at": "2026-07-28T02:11:02Z",
+    "url": "https://github.com/whimzyLive/nightshift-ai"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 1,
+    "updated_at": "2026-07-28T02:11:02Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Study guides, official exam documents, and preparation resources for the Anthropic Claude certifications: Associate, Dev",
+    "id": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
+    "language": "\u2014",
+    "name": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
+    "stars": 4,
+    "updated_at": "2026-07-28T02:10:13Z",
+    "url": "https://github.com/Amey-Thakur/CLAUDE-CERTIFICATIONS"
+  },
+  {
+    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 49,
+    "updated_at": "2026-07-28T02:07:13Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "A beginner-friendly guide to building and launching apps with Base44\u2014using plain-English prompts, practical examples, an",
+    "id": "cporter202/vibe-coding-with-base44",
+    "language": "\u2014",
+    "name": "cporter202/vibe-coding-with-base44",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:06:55Z",
+    "url": "https://github.com/cporter202/vibe-coding-with-base44"
+  },
+  {
+    "description": "Prompt compiler for LLM agents: modular Markdown \u2192 XML system prompts + experiment manifests (persona, multi-agent, MCP-",
+    "id": "corba777/persona_composer",
+    "language": "Python",
+    "name": "corba777/persona_composer",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:06:04Z",
+    "url": "https://github.com/corba777/persona_composer"
+  },
+  {
+    "description": "Source-backed Muse Image prompts, official agentic editing cases, reusable workflows, preview media, and 14-language gui",
+    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:04:42Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+  },
+  {
+    "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+    "id": "shinpr/claude-code-workflows",
+    "language": "JavaScript",
+    "name": "shinpr/claude-code-workflows",
+    "stars": 651,
+    "updated_at": "2026-07-28T02:04:10Z",
+    "url": "https://github.com/shinpr/claude-code-workflows"
+  },
+  {
+    "description": "Universal AI job search engine powered by Gemini AI, Django, and React. Translates plain text inputs for any profession ",
+    "id": "actualprashanna/ai-job-scout",
+    "language": "Python",
+    "name": "actualprashanna/ai-job-scout",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:03:14Z",
+    "url": "https://github.com/actualprashanna/ai-job-scout"
+  },
+  {
+    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI i",
+    "id": "kadevin/ilab-conjure",
+    "language": "JavaScript",
+    "name": "kadevin/ilab-conjure",
+    "stars": 655,
+    "updated_at": "2026-07-28T02:06:16Z",
+    "url": "https://github.com/kadevin/ilab-conjure"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-28T02:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Plugin para Claude Code com 40 skills de outbound B2B + briefing can\u00f4nico que persiste entre sess\u00f5es. Tunado para lemlis",
     "id": "henriquecaner/next-level-outreach",
     "language": "TypeScript",
@@ -16,33 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T01:59:26Z",
     "url": "https://github.com/revenantworks/citadel"
-  },
-  {
-    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
-    "id": "Forest-Project-Lab/doctrine",
-    "language": "Python",
-    "name": "Forest-Project-Lab/doctrine",
-    "stars": 2,
-    "updated_at": "2026-07-28T01:59:24Z",
-    "url": "https://github.com/Forest-Project-Lab/doctrine"
-  },
-  {
-    "description": "Companion code for Delta: Closing the Specification Gap by Sandeep Dhuri \u2014 the Specification Frame, the Ten Laws, and 10",
-    "id": "sandeep-dhuri/specification-frame",
-    "language": "Java",
-    "name": "sandeep-dhuri/specification-frame",
-    "stars": 0,
-    "updated_at": "2026-07-28T01:58:59Z",
-    "url": "https://github.com/sandeep-dhuri/specification-frame"
-  },
-  {
-    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
-    "id": "ariffazil/arifOS",
-    "language": "Python",
-    "name": "ariffazil/arifOS",
-    "stars": 49,
-    "updated_at": "2026-07-28T01:58:28Z",
-    "url": "https://github.com/ariffazil/arifOS"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -153,15 +261,6 @@
     "url": "https://github.com/terrylica/cc-skills"
   },
   {
-    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI i",
-    "id": "kadevin/ilab-conjure",
-    "language": "JavaScript",
-    "name": "kadevin/ilab-conjure",
-    "stars": 655,
-    "updated_at": "2026-07-28T01:46:03Z",
-    "url": "https://github.com/kadevin/ilab-conjure"
-  },
-  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -169,33 +268,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T01:45:30Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-28T01:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Study guides, official exam documents, and preparation resources for the Anthropic Claude certifications: Associate, Dev",
-    "id": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
-    "language": "\u2014",
-    "name": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
-    "stars": 4,
-    "updated_at": "2026-07-28T01:41:06Z",
-    "url": "https://github.com/Amey-Thakur/CLAUDE-CERTIFICATIONS"
-  },
-  {
-    "description": "Prompt compiler for LLM agents: modular Markdown \u2192 XML system prompts + experiment manifests (persona, multi-agent, MCP-",
-    "id": "corba777/persona_composer",
-    "language": "Python",
-    "name": "corba777/persona_composer",
-    "stars": 0,
-    "updated_at": "2026-07-28T01:39:19Z",
-    "url": "https://github.com/corba777/persona_composer"
   },
   {
     "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
@@ -216,6 +288,15 @@
     "url": "https://github.com/codegiveness/umans-gate"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10770,
+    "updated_at": "2026-07-28T01:31:24Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
     "id": "maruwork/veil",
     "language": "Python",
@@ -223,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T01:29:46Z",
     "url": "https://github.com/maruwork/veil"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10769,
-    "updated_at": "2026-07-28T01:31:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf4c The largest Nano Banana Pro prompt library \u2014 26,648 prompts, daily updates, HuggingFace dataset download. More than an",
@@ -247,7 +319,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 8856,
+    "stars": 8858,
     "updated_at": "2026-07-28T01:27:49Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T01:07:52Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-28T01:07:21Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 1,
-    "updated_at": "2026-07-28T01:06:40Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 14,
-    "updated_at": "2026-07-28T01:04:45Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Pass the baton before your context runs out: a Stop-hook + skill that hands a long agent session off to a fresh one to c",
-    "id": "Rorogogogo/baton-pass",
-    "language": "Go",
-    "name": "Rorogogogo/baton-pass",
-    "stars": 4,
-    "updated_at": "2026-07-28T01:50:56Z",
-    "url": "https://github.com/Rorogogogo/baton-pass"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 2,
-    "updated_at": "2026-07-28T01:04:28Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-07-28T01:03:55Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-07-28T01:02:02Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20926,
-    "updated_at": "2026-07-28T01:00:07Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
