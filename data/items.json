@@ -1,10 +1,73 @@
 [
   {
+    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 12,
+    "updated_at": "2026-07-28T17:04:39Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "Open skills, harnesses, hooks, and verifiers for giving probabilistic AI a control layer.",
+    "id": "Kosmoray/dayan-agent-skills",
+    "language": "Python",
+    "name": "Kosmoray/dayan-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-28T17:04:19Z",
+    "url": "https://github.com/Kosmoray/dayan-agent-skills"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-28T17:02:49Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Reusable AI agent skills for Cursor & Claude Code \u2014 brainstorm \u2192 interview \u2192 plan \u2192 execute \u2192 review",
+    "id": "ayberkcansever/ai-skills",
+    "language": "JavaScript",
+    "name": "ayberkcansever/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-07-28T17:02:33Z",
+    "url": "https://github.com/ayberkcansever/ai-skills"
+  },
+  {
+    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
+    "id": "AnastasiyaW/codex-claude-code-config",
+    "language": "Python",
+    "name": "AnastasiyaW/codex-claude-code-config",
+    "stars": 138,
+    "updated_at": "2026-07-28T17:01:26Z",
+    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-28T17:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Official Profile of the Curriculum Architect. Engineering institutional agility for AWC and UArizona Yuma. Grounded i",
+    "id": "alanpruitt/alanpruitt",
+    "language": "\u2014",
+    "name": "alanpruitt/alanpruitt",
+    "stars": 0,
+    "updated_at": "2026-07-28T17:01:24Z",
+    "url": "https://github.com/alanpruitt/alanpruitt"
+  },
+  {
     "description": "From public static void main to autonomous multi-agent systems \u2014 a code-first journey through Java, Spring AI, Google AD",
     "id": "krishkumar4400/AgenticJVM",
     "language": "Java",
     "name": "krishkumar4400/AgenticJVM",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-28T16:56:57Z",
     "url": "https://github.com/krishkumar4400/AgenticJVM"
   },
@@ -18,6 +81,15 @@
     "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
   },
   {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-07-28T16:55:36Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
     "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
     "id": "Muizzkolapo/agent-actions",
     "language": "Python",
@@ -27,20 +99,11 @@
     "url": "https://github.com/Muizzkolapo/agent-actions"
   },
   {
-    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
-    "id": "wrg32786/aigent-os",
-    "language": "JavaScript",
-    "name": "wrg32786/aigent-os",
-    "stars": 12,
-    "updated_at": "2026-07-28T16:55:28Z",
-    "url": "https://github.com/wrg32786/aigent-os"
-  },
-  {
     "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
     "id": "llwslc/proteus",
     "language": "HTML",
     "name": "llwslc/proteus",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-28T16:55:14Z",
     "url": "https://github.com/llwslc/proteus"
   },
@@ -85,7 +148,7 @@
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
     "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-28T16:53:39Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   },
@@ -180,15 +243,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-28T16:45:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "38 portable Agent Skills for disciplined, reviewable AI-assisted work across Codex, Claude Code, GitHub Copilot, and com",
     "id": "nevitonsantana/adaptive-skills",
     "language": "Python",
@@ -220,7 +274,7 @@
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-28T16:44:04Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
@@ -394,59 +448,5 @@
     "stars": 28,
     "updated_at": "2026-07-28T16:28:26Z",
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32028,
-    "updated_at": "2026-07-28T16:25:03Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-28T16:24:10Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "\ud83e\udd16 Grumpy Guy AI \u2014 Opinionated, character-driven LLM assistant with personality-biased prompt engineering.",
-    "id": "DLinacre/grumpy-guy-ai",
-    "language": "TypeScript",
-    "name": "DLinacre/grumpy-guy-ai",
-    "stars": 0,
-    "updated_at": "2026-07-28T16:23:18Z",
-    "url": "https://github.com/DLinacre/grumpy-guy-ai"
-  },
-  {
-    "description": "Multi-perspective code review council for Claude Code. 3 advisors by default, 10 agents in deep mode (Opus + Codex). Evi",
-    "id": "Zandereins/hydra",
-    "language": "Python",
-    "name": "Zandereins/hydra",
-    "stars": 4,
-    "updated_at": "2026-07-28T16:17:53Z",
-    "url": "https://github.com/Zandereins/hydra"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3426,
-    "updated_at": "2026-07-28T16:59:20Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Lightweight Claude Code skills for daily AI-assisted development workflows.",
-    "id": "Chrike/coding-agent-skills",
-    "language": "JavaScript",
-    "name": "Chrike/coding-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-07-28T16:17:14Z",
-    "url": "https://github.com/Chrike/coding-agent-skills"
   }
 ]
