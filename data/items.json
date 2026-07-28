@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Python",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-07-28T15:39:28Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 10,
+    "updated_at": "2026-07-28T15:37:09Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "CrewScore \u2014 offline structural production-readiness scorecard for AI agent system prompts. Lint hygiene, apply fix patte",
+    "id": "shmindmaster/crewscore",
+    "language": "Python",
+    "name": "shmindmaster/crewscore",
+    "stars": 0,
+    "updated_at": "2026-07-28T15:37:23Z",
+    "url": "https://github.com/shmindmaster/crewscore"
+  },
+  {
+    "description": "Developer focused LLM experimentation and debugging server for testing prompts, tools, MCP integrations, traces, and sch",
+    "id": "jkandasa/promptd",
+    "language": "Dart",
+    "name": "jkandasa/promptd",
+    "stars": 0,
+    "updated_at": "2026-07-28T15:36:29Z",
+    "url": "https://github.com/jkandasa/promptd"
+  },
+  {
+    "description": "You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session.",
+    "id": "greerviau/wingman",
+    "language": "Shell",
+    "name": "greerviau/wingman",
+    "stars": 2,
+    "updated_at": "2026-07-28T15:35:12Z",
+    "url": "https://github.com/greerviau/wingman"
+  },
+  {
+    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
+    "id": "kreftamarcio/prompt-forge",
+    "language": "TypeScript",
+    "name": "kreftamarcio/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-07-28T15:32:08Z",
+    "url": "https://github.com/kreftamarcio/prompt-forge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-28T15:30:42Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
     "id": "SoliEstre/EstreGenesis",
     "language": "JavaScript",
@@ -7,6 +70,24 @@
     "stars": 7,
     "updated_at": "2026-07-28T15:30:24Z",
     "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4151,
+    "updated_at": "2026-07-28T15:39:10Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 4,
+    "updated_at": "2026-07-28T15:28:08Z",
+    "url": "https://github.com/rockerlabs/keel"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -27,15 +108,6 @@
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
   },
   {
-    "description": "CrewScore \u2014 offline structural production-readiness scorecard for AI agent system prompts. Lint hygiene, apply fix patte",
-    "id": "shmindmaster/crewscore",
-    "language": "Python",
-    "name": "shmindmaster/crewscore",
-    "stars": 0,
-    "updated_at": "2026-07-28T15:25:46Z",
-    "url": "https://github.com/shmindmaster/crewscore"
-  },
-  {
     "description": "Protect LLM inputs from prompt injection, jailbreaking, data exfiltration and more - before they reach your AI.",
     "id": "mughalhere/prompt-protection",
     "language": "TypeScript",
@@ -49,7 +121,7 @@
     "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
     "language": "TypeScript",
     "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "stars": 23,
+    "stars": 24,
     "updated_at": "2026-07-28T15:25:20Z",
     "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
   },
@@ -86,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-28T15:22:48Z",
+    "updated_at": "2026-07-28T15:37:33Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -95,7 +167,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32025,
-    "updated_at": "2026-07-28T15:27:58Z",
+    "updated_at": "2026-07-28T15:35:37Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -104,7 +176,7 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 6941,
-    "updated_at": "2026-07-28T15:22:13Z",
+    "updated_at": "2026-07-28T15:39:17Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -162,6 +234,15 @@
     "url": "https://github.com/hahalee000000/helen"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10781,
+    "updated_at": "2026-07-28T15:37:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
@@ -185,7 +266,7 @@
     "language": "Python",
     "name": "crisnahine/chameleon",
     "stars": 9,
-    "updated_at": "2026-07-28T15:18:25Z",
+    "updated_at": "2026-07-28T15:38:05Z",
     "url": "https://github.com/crisnahine/chameleon"
   },
   {
@@ -212,7 +293,7 @@
     "language": "JavaScript",
     "name": "Amey-Thakur/AI-SKILLS",
     "stars": 4,
-    "updated_at": "2026-07-28T15:16:57Z",
+    "updated_at": "2026-07-28T15:37:13Z",
     "url": "https://github.com/Amey-Thakur/AI-SKILLS"
   },
   {
@@ -223,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T15:16:38Z",
     "url": "https://github.com/astroicers/AI-SOP-Protocol"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-28T15:15:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -320,7 +392,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-28T15:09:17Z",
+    "updated_at": "2026-07-28T15:38:48Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-28T15:03:05Z",
     "url": "https://github.com/LearnPrompt/goodcaseai"
-  },
-  {
-    "description": "Curated SenseNova U1 Pro prompt library with official showcase media, reproducible production briefs, 14 languages, and ",
-    "id": "imagineVid/Awesome-sensenova-u1-pro-prompts-and-skills",
-    "language": "JavaScript",
-    "name": "imagineVid/Awesome-sensenova-u1-pro-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-07-28T15:02:32Z",
-    "url": "https://github.com/imagineVid/Awesome-sensenova-u1-pro-prompts-and-skills"
-  },
-  {
-    "description": "Curated Qwen Image 3.0 prompt library \u2014 source-backed official showcases, reusable production workflows, preview media, ",
-    "id": "imagineVid/Awesome-qwen-image-3-0-prompts-and-skills",
-    "language": "JavaScript",
-    "name": "imagineVid/Awesome-qwen-image-3-0-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-07-28T15:02:24Z",
-    "url": "https://github.com/imagineVid/Awesome-qwen-image-3-0-prompts-and-skills"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 10,
-    "updated_at": "2026-07-28T15:01:55Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "A demeanor file for AI coding agents \u2014 how to carry yourself, not just what to output. Born from real Opus 5 transcripts",
-    "id": "Pudgey/demeanor",
-    "language": "\u2014",
-    "name": "Pudgey/demeanor",
-    "stars": 1,
-    "updated_at": "2026-07-28T15:01:50Z",
-    "url": "https://github.com/Pudgey/demeanor"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20941,
-    "updated_at": "2026-07-28T15:30:05Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Turns a messy music collection into a queryable Obsidian vault: dedup and merge tooling over directory trees, Spotify fo",
-    "id": "lentago/music-curator",
-    "language": "Python",
-    "name": "lentago/music-curator",
-    "stars": 0,
-    "updated_at": "2026-07-28T15:00:52Z",
-    "url": "https://github.com/lentago/music-curator"
-  },
-  {
-    "description": "An Agent Skill that makes any AI explain like Richard Feynman: mechanism before name, one honest analogy with its limits",
-    "id": "guicortei/feynman-technique",
-    "language": "\u2014",
-    "name": "guicortei/feynman-technique",
-    "stars": 0,
-    "updated_at": "2026-07-28T14:58:49Z",
-    "url": "https://github.com/guicortei/feynman-technique"
-  },
-  {
-    "description": "Semantic compression for IDE\u2194LLM communication \u2014 CLI, MCP server, and VS Code extension, with a Context Router, team-sha",
-    "id": "Neolambo/glyph-compress",
-    "language": "JavaScript",
-    "name": "Neolambo/glyph-compress",
-    "stars": 3,
-    "updated_at": "2026-07-28T14:58:15Z",
-    "url": "https://github.com/Neolambo/glyph-compress"
   }
 ]
