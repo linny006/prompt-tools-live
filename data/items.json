@@ -1,5 +1,86 @@
 [
   {
+    "description": "Memory-driven design system for AI coding agents using context-and-memory package that instructs **any AI coding agent**",
+    "id": "alwkala/Cinematic-Landing-Kit",
+    "language": "HTML",
+    "name": "alwkala/Cinematic-Landing-Kit",
+    "stars": 6,
+    "updated_at": "2026-07-28T03:13:41Z",
+    "url": "https://github.com/alwkala/Cinematic-Landing-Kit"
+  },
+  {
+    "description": "Route every doc by who reads it, when - 7 delivery patterns + budget guards that stop CLAUDE.md / agent-memory bloat (me",
+    "id": "kai-chop/claude-md-who-reads-when",
+    "language": "Python",
+    "name": "kai-chop/claude-md-who-reads-when",
+    "stars": 0,
+    "updated_at": "2026-07-28T03:11:01Z",
+    "url": "https://github.com/kai-chop/claude-md-who-reads-when"
+  },
+  {
+    "description": "LLM capture proxy with Anthropic cache_control TTL stamping, vision handoff, concurrency gating, rate limiting, and a li",
+    "id": "codegiveness/umans-gate",
+    "language": "TypeScript",
+    "name": "codegiveness/umans-gate",
+    "stars": 1,
+    "updated_at": "2026-07-28T03:10:42Z",
+    "url": "https://github.com/codegiveness/umans-gate"
+  },
+  {
+    "description": "Aura Frog \u2014 Claude Code plugin \u2014 10 agents, 5-phase TDD workflow, 3-tier rules, 27 hooks. Stop prompting. Start shipping",
+    "id": "nguyenthienthanh/aura-frog",
+    "language": "JavaScript",
+    "name": "nguyenthienthanh/aura-frog",
+    "stars": 24,
+    "updated_at": "2026-07-28T03:09:55Z",
+    "url": "https://github.com/nguyenthienthanh/aura-frog"
+  },
+  {
+    "description": "CV de Ramiro Guevara \u2014 AI Systems Architect \u00b7 Multi-Agent AI Engineer \u00b7 Anthropic Certified \u00b7 Builder de sistemas IA en ",
+    "id": "proofbyhuman/cv-ramiro-guevara",
+    "language": "HTML",
+    "name": "proofbyhuman/cv-ramiro-guevara",
+    "stars": 0,
+    "updated_at": "2026-07-28T03:09:20Z",
+    "url": "https://github.com/proofbyhuman/cv-ramiro-guevara"
+  },
+  {
+    "description": "Study guide for all four Anthropic Claude certifications: Associate, Developer, and Architect Foundations and Profession",
+    "id": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
+    "language": "\u2014",
+    "name": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
+    "stars": 4,
+    "updated_at": "2026-07-28T03:07:49Z",
+    "url": "https://github.com/Amey-Thakur/CLAUDE-CERTIFICATIONS"
+  },
+  {
+    "description": "AI-powered CLI assistant \u2014 query LLMs, manage prompts, and automate workflows from your terminal",
+    "id": "Raphasha27/ai-prompt-cli",
+    "language": "Python",
+    "name": "Raphasha27/ai-prompt-cli",
+    "stars": 1,
+    "updated_at": "2026-07-28T03:05:24Z",
+    "url": "https://github.com/Raphasha27/ai-prompt-cli"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-07-28T03:05:10Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-28T03:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
     "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
     "language": "TypeScript",
@@ -18,15 +99,6 @@
     "url": "https://github.com/StephenQiu30/lanverse"
   },
   {
-    "description": "Study guide for all four Anthropic Claude certifications: Associate, Developer, and Architect Foundations and Profession",
-    "id": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
-    "language": "\u2014",
-    "name": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
-    "stars": 4,
-    "updated_at": "2026-07-28T02:57:08Z",
-    "url": "https://github.com/Amey-Thakur/CLAUDE-CERTIFICATIONS"
-  },
-  {
     "description": "Universal AI dev team workflow system for Claude Code \u2014 18 specialist agents, lazy-load rules, parallel-safe by path/con",
     "id": "nuttaruj/rolepod",
     "language": "Shell",
@@ -34,6 +106,15 @@
     "stars": 2,
     "updated_at": "2026-07-28T02:56:59Z",
     "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "\u200bA behavioral specification for AI agents in high-compliance environments. Uses semantic primitives to constrain probabi",
+    "id": "mc-qms/qms-agent-governance",
+    "language": "\u2014",
+    "name": "mc-qms/qms-agent-governance",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:54:46Z",
+    "url": "https://github.com/mc-qms/qms-agent-governance"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -63,21 +144,12 @@
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
   },
   {
-    "description": "AI-powered CLI assistant \u2014 query LLMs, manage prompts, and automate workflows from your terminal",
-    "id": "Raphasha27/ai-prompt-cli",
-    "language": "Python",
-    "name": "Raphasha27/ai-prompt-cli",
-    "stars": 1,
-    "updated_at": "2026-07-28T02:54:36Z",
-    "url": "https://github.com/Raphasha27/ai-prompt-cli"
-  },
-  {
     "description": "ARIOS - Artificial Renewable Intelligence Operating System",
     "id": "Phuire-Research/SuiteCascadeSystem",
     "language": "TypeScript",
     "name": "Phuire-Research/SuiteCascadeSystem",
     "stars": 1,
-    "updated_at": "2026-07-28T02:52:13Z",
+    "updated_at": "2026-07-28T03:07:13Z",
     "url": "https://github.com/Phuire-Research/SuiteCascadeSystem"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T02:51:24Z",
     "url": "https://github.com/hack8998110-cloud/bifang"
-  },
-  {
-    "description": "LLM capture proxy with Anthropic cache_control TTL stamping, vision handoff, concurrency gating, rate limiting, and a li",
-    "id": "codegiveness/umans-gate",
-    "language": "TypeScript",
-    "name": "codegiveness/umans-gate",
-    "stars": 1,
-    "updated_at": "2026-07-28T02:50:58Z",
-    "url": "https://github.com/codegiveness/umans-gate"
   },
   {
     "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude. foundation: eight standalone smiths that build, audit, a",
@@ -133,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T02:45:36Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-28T02:45:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Tapir skills for engineering judgment, app-icon craft, and presentation design.",
@@ -175,7 +229,7 @@
     "id": "cporter202/vibe-coding-with-base44",
     "language": "\u2014",
     "name": "cporter202/vibe-coding-with-base44",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-28T02:43:04Z",
     "url": "https://github.com/cporter202/vibe-coding-with-base44"
   },
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "Forest-Project-Lab/doctrine",
     "stars": 2,
-    "updated_at": "2026-07-28T02:39:26Z",
+    "updated_at": "2026-07-28T03:15:21Z",
     "url": "https://github.com/Forest-Project-Lab/doctrine"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T02:15:00Z",
     "url": "https://github.com/sandeep-dhuri/specification-frame"
-  },
-  {
-    "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
-    "id": "oscargbocanegra/llms-engineering-main",
-    "language": "Jupyter Notebook",
-    "name": "oscargbocanegra/llms-engineering-main",
-    "stars": 1,
-    "updated_at": "2026-07-28T02:12:13Z",
-    "url": "https://github.com/oscargbocanegra/llms-engineering-main"
-  },
-  {
-    "description": "nightshift is a free Claude Code plugin that turns one terminal into a full software-delivery team \u2014 it reads a ticket a",
-    "id": "whimzyLive/nightshift-ai",
-    "language": "TypeScript",
-    "name": "whimzyLive/nightshift-ai",
-    "stars": 3,
-    "updated_at": "2026-07-28T02:57:13Z",
-    "url": "https://github.com/whimzyLive/nightshift-ai"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-07-28T02:11:02Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
-    "id": "ariffazil/arifOS",
-    "language": "Python",
-    "name": "ariffazil/arifOS",
-    "stars": 49,
-    "updated_at": "2026-07-28T02:07:13Z",
-    "url": "https://github.com/ariffazil/arifOS"
-  },
-  {
-    "description": "Source-backed Muse Image prompts, official agentic editing cases, reusable workflows, preview media, and 14-language gui",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-07-28T02:04:42Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Universal AI job search engine powered by Gemini AI, Django, and React. Translates plain text inputs for any profession ",
-    "id": "actualprashanna/ai-job-scout",
-    "language": "Python",
-    "name": "actualprashanna/ai-job-scout",
-    "stars": 0,
-    "updated_at": "2026-07-28T02:03:14Z",
-    "url": "https://github.com/actualprashanna/ai-job-scout"
   }
 ]
