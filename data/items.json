@@ -1,5 +1,68 @@
 [
   {
+    "description": "Study guides, official exam documents, and preparation resources for the Anthropic Claude certifications: Associate, Dev",
+    "id": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
+    "language": "\u2014",
+    "name": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
+    "stars": 4,
+    "updated_at": "2026-07-28T01:41:06Z",
+    "url": "https://github.com/Amey-Thakur/CLAUDE-CERTIFICATIONS"
+  },
+  {
+    "description": "Prompt compiler for LLM agents: modular Markdown \u2192 XML system prompts + experiment manifests (persona, multi-agent, MCP-",
+    "id": "corba777/persona_composer",
+    "language": "Python",
+    "name": "corba777/persona_composer",
+    "stars": 0,
+    "updated_at": "2026-07-28T01:39:19Z",
+    "url": "https://github.com/corba777/persona_composer"
+  },
+  {
+    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 49,
+    "updated_at": "2026-07-28T01:39:09Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
+    "id": "Sungmin-Cho/claude-deep-suite",
+    "language": "JavaScript",
+    "name": "Sungmin-Cho/claude-deep-suite",
+    "stars": 6,
+    "updated_at": "2026-07-28T01:37:32Z",
+    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
+  },
+  {
+    "description": "LLM capture proxy with Anthropic cache_control TTL stamping, vision handoff, concurrency gating, rate limiting, and a li",
+    "id": "codegiveness/umans-gate",
+    "language": "TypeScript",
+    "name": "codegiveness/umans-gate",
+    "stars": 1,
+    "updated_at": "2026-07-28T01:34:43Z",
+    "url": "https://github.com/codegiveness/umans-gate"
+  },
+  {
+    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
+    "id": "Forest-Project-Lab/doctrine",
+    "language": "Python",
+    "name": "Forest-Project-Lab/doctrine",
+    "stars": 2,
+    "updated_at": "2026-07-28T01:31:43Z",
+    "url": "https://github.com/Forest-Project-Lab/doctrine"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-28T01:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Reduce AI wording drift by capturing and syncing user-approved vocabulary rules across AI tools.",
     "id": "maruwork/veil",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10769,
-    "updated_at": "2026-07-28T01:29:28Z",
+    "updated_at": "2026-07-28T01:31:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -27,20 +90,11 @@
     "url": "https://github.com/goku-open/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "LLM capture proxy with Anthropic cache_control TTL stamping, vision handoff, concurrency gating, rate limiting, and a li",
-    "id": "codegiveness/umans-gate",
-    "language": "TypeScript",
-    "name": "codegiveness/umans-gate",
-    "stars": 1,
-    "updated_at": "2026-07-28T01:28:49Z",
-    "url": "https://github.com/codegiveness/umans-gate"
-  },
-  {
     "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 8853,
+    "stars": 8854,
     "updated_at": "2026-07-28T01:27:49Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -52,24 +106,6 @@
     "stars": 37109,
     "updated_at": "2026-07-28T01:26:02Z",
     "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "Study guides, official exam documents, and preparation resources for the Anthropic Claude certifications: Associate, Dev",
-    "id": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
-    "language": "\u2014",
-    "name": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
-    "stars": 4,
-    "updated_at": "2026-07-28T01:24:57Z",
-    "url": "https://github.com/Amey-Thakur/CLAUDE-CERTIFICATIONS"
-  },
-  {
-    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
-    "id": "Sungmin-Cho/claude-deep-suite",
-    "language": "JavaScript",
-    "name": "Sungmin-Cho/claude-deep-suite",
-    "stars": 6,
-    "updated_at": "2026-07-28T01:24:55Z",
-    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
   },
   {
     "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude. foundation: eight standalone smiths that build, audit, a",
@@ -88,15 +124,6 @@
     "stars": 62,
     "updated_at": "2026-07-28T01:23:22Z",
     "url": "https://github.com/nelsonwerd/idea-to-ship-skills"
-  },
-  {
-    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
-    "id": "Forest-Project-Lab/doctrine",
-    "language": "Python",
-    "name": "Forest-Project-Lab/doctrine",
-    "stars": 2,
-    "updated_at": "2026-07-28T01:22:55Z",
-    "url": "https://github.com/Forest-Project-Lab/doctrine"
   },
   {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
@@ -153,21 +180,12 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-28T01:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-28T01:24:38Z",
+    "updated_at": "2026-07-28T01:44:23Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -301,7 +319,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 62798,
+    "stars": 62799,
     "updated_at": "2026-07-28T00:58:35Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -383,7 +401,7 @@
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 3,
-    "updated_at": "2026-07-28T00:45:33Z",
+    "updated_at": "2026-07-28T01:45:15Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-28T00:25:20Z",
     "url": "https://github.com/synaptiai/synapti-marketplace"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
-    "id": "astorie-ai/awesome-seedance-2-prompt",
-    "language": "Shell",
-    "name": "astorie-ai/awesome-seedance-2-prompt",
-    "stars": 10,
-    "updated_at": "2026-07-28T00:23:48Z",
-    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 5060,
-    "updated_at": "2026-07-28T00:22:35Z",
-    "url": "https://github.com/vllm-project/semantic-router"
   }
 ]
