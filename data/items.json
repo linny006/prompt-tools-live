@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10772,
-    "updated_at": "2026-07-28T05:15:18Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "description": "Plug-and-play skills and prompts for every AI coding agent",
+    "id": "Amey-Thakur/AI-SKILLS",
+    "language": "JavaScript",
+    "name": "Amey-Thakur/AI-SKILLS",
+    "stars": 4,
+    "updated_at": "2026-07-28T05:29:59Z",
+    "url": "https://github.com/Amey-Thakur/AI-SKILLS"
   },
   {
     "description": "nightshift is a free Claude Code plugin that turns one terminal into a full software-delivery team \u2014 it reads a ticket a",
@@ -14,26 +14,35 @@
     "language": "TypeScript",
     "name": "whimzyLive/nightshift-ai",
     "stars": 3,
-    "updated_at": "2026-07-28T05:13:18Z",
+    "updated_at": "2026-07-28T05:28:37Z",
     "url": "https://github.com/whimzyLive/nightshift-ai"
   },
   {
-    "description": "Plug-and-play skills and prompts for every AI coding agent",
-    "id": "Amey-Thakur/AI-SKILLS",
-    "language": "JavaScript",
-    "name": "Amey-Thakur/AI-SKILLS",
-    "stars": 4,
-    "updated_at": "2026-07-28T05:12:46Z",
-    "url": "https://github.com/Amey-Thakur/AI-SKILLS"
+    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
+    "id": "LouisLau-art/multi-agent-skills-catalog",
+    "language": "Python",
+    "name": "LouisLau-art/multi-agent-skills-catalog",
+    "stars": 2,
+    "updated_at": "2026-07-28T05:28:21Z",
+    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
   },
   {
-    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
-    "id": "Forest-Project-Lab/doctrine",
+    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
+    "id": "pranavkafle/serpapi-mcp-catalog",
     "language": "Python",
-    "name": "Forest-Project-Lab/doctrine",
-    "stars": 2,
-    "updated_at": "2026-07-28T05:11:44Z",
-    "url": "https://github.com/Forest-Project-Lab/doctrine"
+    "name": "pranavkafle/serpapi-mcp-catalog",
+    "stars": 1,
+    "updated_at": "2026-07-28T05:25:37Z",
+    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 36,
+    "updated_at": "2026-07-28T05:23:50Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
     "description": "Study guide for all four Anthropic Claude certifications: Associate, Developer, and Architect Foundations and Profession",
@@ -41,8 +50,17 @@
     "language": "\u2014",
     "name": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
     "stars": 4,
-    "updated_at": "2026-07-28T05:11:11Z",
+    "updated_at": "2026-07-28T05:23:04Z",
     "url": "https://github.com/Amey-Thakur/CLAUDE-CERTIFICATIONS"
+  },
+  {
+    "description": "Controlled, reviewable agentic coding workflows for OpenAI Codex CLI with task-specific subagents, explicit planning, TD",
+    "id": "shinpr/codex-workflows",
+    "language": "JavaScript",
+    "name": "shinpr/codex-workflows",
+    "stars": 28,
+    "updated_at": "2026-07-28T05:23:20Z",
+    "url": "https://github.com/shinpr/codex-workflows"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -50,8 +68,80 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27239,
-    "updated_at": "2026-07-28T05:06:50Z",
+    "updated_at": "2026-07-28T05:21:24Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "A Windows desktop tool that analyzes code changes and generates validated unit test cases, Excel documents, and release ",
+    "id": "WoongyuChoi/promptcase-studio",
+    "language": "Python",
+    "name": "WoongyuChoi/promptcase-studio",
+    "stars": 0,
+    "updated_at": "2026-07-28T05:20:44Z",
+    "url": "https://github.com/WoongyuChoi/promptcase-studio"
+  },
+  {
+    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
+    "id": "Forest-Project-Lab/doctrine",
+    "language": "Python",
+    "name": "Forest-Project-Lab/doctrine",
+    "stars": 2,
+    "updated_at": "2026-07-28T05:29:59Z",
+    "url": "https://github.com/Forest-Project-Lab/doctrine"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 29,
+    "updated_at": "2026-07-28T05:19:19Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "LFX Mentorship Fall 2026 coding challenge: AI-assisted extraction of architectural parameters from RISC-V specifications",
+    "id": "RAJVEER42/lfx-param-extraction",
+    "language": "Python",
+    "name": "RAJVEER42/lfx-param-extraction",
+    "stars": 0,
+    "updated_at": "2026-07-28T05:17:39Z",
+    "url": "https://github.com/RAJVEER42/lfx-param-extraction"
+  },
+  {
+    "description": "Open-source framework for reproducible A/B evaluation of agent skills and instructions",
+    "id": "Dhi13man/skivolve",
+    "language": "Python",
+    "name": "Dhi13man/skivolve",
+    "stars": 1,
+    "updated_at": "2026-07-28T05:19:41Z",
+    "url": "https://github.com/Dhi13man/skivolve"
+  },
+  {
+    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
+    "id": "teguhimanulloh47/pirate-talk-for-claude",
+    "language": "HTML",
+    "name": "teguhimanulloh47/pirate-talk-for-claude",
+    "stars": 2,
+    "updated_at": "2026-07-28T05:16:22Z",
+    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-28T05:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10773,
+    "updated_at": "2026-07-28T05:15:18Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Auto-derives codebase conventions from repo analysis and injects archetype-aware guidance into AI-generated code, enforc",
@@ -99,15 +189,6 @@
     "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts"
   },
   {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 36,
-    "updated_at": "2026-07-28T05:02:43Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
@@ -151,15 +232,6 @@
     "stars": 37123,
     "updated_at": "2026-07-28T05:01:14Z",
     "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-28T05:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Smart, source-faithful text trimming for high-signal LLM prompts.",
@@ -211,7 +283,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 62826,
+    "stars": 62827,
     "updated_at": "2026-07-28T04:57:35Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -301,18 +373,9 @@
     "id": "whaojie797-design/Novera-AI-pipeline",
     "language": "Python",
     "name": "whaojie797-design/Novera-AI-pipeline",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-28T04:53:56Z",
     "url": "https://github.com/whaojie797-design/Novera-AI-pipeline"
-  },
-  {
-    "description": "A Windows desktop tool that analyzes code changes and generates validated unit test cases, Excel documents, and release ",
-    "id": "WoongyuChoi/promptcase-studio",
-    "language": "Python",
-    "name": "WoongyuChoi/promptcase-studio",
-    "stars": 0,
-    "updated_at": "2026-07-28T04:52:18Z",
-    "url": "https://github.com/WoongyuChoi/promptcase-studio"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -351,15 +414,6 @@
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   },
   {
-    "description": "LFX Mentorship Fall 2026 coding challenge: AI-assisted extraction of architectural parameters from RISC-V specifications",
-    "id": "RAJVEER42/lfx-param-extraction",
-    "language": "Python",
-    "name": "RAJVEER42/lfx-param-extraction",
-    "stars": 0,
-    "updated_at": "2026-07-28T04:49:08Z",
-    "url": "https://github.com/RAJVEER42/lfx-param-extraction"
-  },
-  {
     "description": "\u770b\u6e05\u4ec0\u4e48\u771f\u6709\u6548\uff0c\u5173\u6ce8\u6301\u7eed\u4ea7\u51fa\u7684\u4eba\u3002Creator-first AI case platform: real cases with full prompts, creator tracking, cross-model stability l",
     "id": "LearnPrompt/goodcaseai",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-28T04:46:17Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 3,
-    "updated_at": "2026-07-28T04:45:37Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Keep one fresh turn-level anchor in Claude Code while pruning historical copies to avoid context and token buildup.",
-    "id": "lllq-123/claude-code-turn-anchor",
-    "language": "Python",
-    "name": "lllq-123/claude-code-turn-anchor",
-    "stars": 0,
-    "updated_at": "2026-07-28T04:42:57Z",
-    "url": "https://github.com/lllq-123/claude-code-turn-anchor"
-  },
-  {
-    "description": "Route every doc by who reads it, when - 7 delivery patterns + budget guards that stop CLAUDE.md / agent-memory bloat (me",
-    "id": "kai-chop/claude-md-who-reads-when",
-    "language": "Python",
-    "name": "kai-chop/claude-md-who-reads-when",
-    "stars": 0,
-    "updated_at": "2026-07-28T04:41:51Z",
-    "url": "https://github.com/kai-chop/claude-md-who-reads-when"
-  },
-  {
-    "description": "Evaluation framework for LLM knowledge inputs \u2014 prompts, RAG corpora, skills, agent workflows. Fix the model, vary the a",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 14,
-    "updated_at": "2026-07-28T04:47:32Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-07-28T04:40:43Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "AI agent memory system and Memory Bank templates for Codex, Claude Code, Cursor, Cline, AGENTS.md, context engineering, ",
-    "id": "wjlbhlbh/memory_system_templates",
-    "language": "PowerShell",
-    "name": "wjlbhlbh/memory_system_templates",
-    "stars": 0,
-    "updated_at": "2026-07-28T04:34:17Z",
-    "url": "https://github.com/wjlbhlbh/memory_system_templates"
   }
 ]
