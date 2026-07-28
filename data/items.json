@@ -1,5 +1,41 @@
 [
   {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 3,
+    "updated_at": "2026-07-28T11:45:14Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-28T11:44:37Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-28T11:44:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 10,
+    "updated_at": "2026-07-28T11:43:32Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
     "description": "Lovable AI landing page prompts: the complete 2026 guide with copy-paste templates, real-world examples, an SEO checklis",
     "id": "AlijeeWrites/lovable-landing-page-prompt-guide",
     "language": "\u2014",
@@ -9,6 +45,15 @@
     "url": "https://github.com/AlijeeWrites/lovable-landing-page-prompt-guide"
   },
   {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 185,
+    "updated_at": "2026-07-28T11:41:51Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
     "description": "A guided, principle-driven Claude Code skill set: 18 commands that take your idea \u2192 shipped, one phase at a time, with e",
     "id": "kish21/product-playbook",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T11:40:43Z",
     "url": "https://github.com/kish21/product-playbook"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-07-28T11:40:40Z",
-    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "Auto-derives codebase conventions from repo analysis and injects archetype-aware guidance into AI-generated code, enforc",
@@ -115,24 +151,6 @@
     "stars": 16,
     "updated_at": "2026-07-28T11:33:49Z",
     "url": "https://github.com/ur-grue/autopunk-media-skills"
-  },
-  {
-    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
-    "id": "AltairaLabs/PromptKit",
-    "language": "Go",
-    "name": "AltairaLabs/PromptKit",
-    "stars": 10,
-    "updated_at": "2026-07-28T11:43:32Z",
-    "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-28T11:30:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T11:02:49Z",
     "url": "https://github.com/jkandasa/promptd"
-  },
-  {
-    "description": "A practical Claude Code guide with clear mental models and copy-paste examples \u2014 setup, prompt engineering, slash comman",
-    "id": "wesammustafa/Claude-Code-Everything-You-Need-to-Know",
-    "language": "Python",
-    "name": "wesammustafa/Claude-Code-Everything-You-Need-to-Know",
-    "stars": 2390,
-    "updated_at": "2026-07-28T11:00:38Z",
-    "url": "https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know"
-  },
-  {
-    "description": "The largest community-driven library of Agent Skills (SKILL.md + scripts/references/examples) for Claude, Codex, Gemini ",
-    "id": "JayRHa/AgentSkills",
-    "language": "Python",
-    "name": "JayRHa/AgentSkills",
-    "stars": 3,
-    "updated_at": "2026-07-28T10:59:08Z",
-    "url": "https://github.com/JayRHa/AgentSkills"
   }
 ]
