@@ -1,5 +1,104 @@
 [
   {
+    "description": "Future-first, production-safe guidance for writing modern Svelte 5 and SvelteKit code with AI agents.",
+    "id": "fifidayone/svelte-edge",
+    "language": "\u2014",
+    "name": "fifidayone/svelte-edge",
+    "stars": 0,
+    "updated_at": "2026-07-28T18:39:20Z",
+    "url": "https://github.com/fifidayone/svelte-edge"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-28T18:38:25Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Study guide for all four Anthropic Claude certifications: Associate, Developer, and Architect Foundations and Profession",
+    "id": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
+    "language": "\u2014",
+    "name": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
+    "stars": 4,
+    "updated_at": "2026-07-28T18:38:12Z",
+    "url": "https://github.com/Amey-Thakur/CLAUDE-CERTIFICATIONS"
+  },
+  {
+    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
+    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "language": "TypeScript",
+    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-07-28T18:37:05Z",
+    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-07-28T18:36:19Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "\ud83c\udf0a Lagune is your security copilot as you build, your Blue Team when you audit, whether you're a developer or not (no API",
+    "id": "wellwelwel/lagune",
+    "language": "TypeScript",
+    "name": "wellwelwel/lagune",
+    "stars": 74,
+    "updated_at": "2026-07-28T18:38:25Z",
+    "url": "https://github.com/wellwelwel/lagune"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 39916,
+    "updated_at": "2026-07-28T18:33:25Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Java",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-07-28T18:33:00Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "An Agent Skill that makes any AI explain like Richard Feynman: mechanism before name, one honest analogy with its limits",
+    "id": "guicortei/feynman-technique",
+    "language": "Python",
+    "name": "guicortei/feynman-technique",
+    "stars": 0,
+    "updated_at": "2026-07-28T18:31:46Z",
+    "url": "https://github.com/guicortei/feynman-technique"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-28T18:30:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
+    "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "language": "JavaScript",
+    "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "stars": 0,
+    "updated_at": "2026-07-28T18:30:24Z",
+    "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
+  },
+  {
     "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
     "id": "AltairaLabs/PromptKit",
     "language": "Go",
@@ -18,15 +117,6 @@
     "url": "https://github.com/llwslc/proteus"
   },
   {
-    "description": "Study guide for all four Anthropic Claude certifications: Associate, Developer, and Architect Foundations and Profession",
-    "id": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
-    "language": "\u2014",
-    "name": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
-    "stars": 4,
-    "updated_at": "2026-07-28T18:28:57Z",
-    "url": "https://github.com/Amey-Thakur/CLAUDE-CERTIFICATIONS"
-  },
-  {
     "description": "A free cross-platform editorial standard for AI writing.",
     "id": "jposluns/ai-language",
     "language": "HTML",
@@ -41,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32031,
-    "updated_at": "2026-07-28T18:27:13Z",
+    "updated_at": "2026-07-28T18:31:56Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -59,7 +149,7 @@
     "language": "HTML",
     "name": "Shashwatss10/PromithicAI",
     "stars": 2,
-    "updated_at": "2026-07-28T18:26:26Z",
+    "updated_at": "2026-07-28T18:37:07Z",
     "url": "https://github.com/Shashwatss10/PromithicAI"
   },
   {
@@ -70,24 +160,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T18:26:12Z",
     "url": "https://github.com/Neolambo/glyph-compress"
-  },
-  {
-    "description": "An Agent Skill that makes any AI explain like Richard Feynman: mechanism before name, one honest analogy with its limits",
-    "id": "guicortei/feynman-technique",
-    "language": "Python",
-    "name": "guicortei/feynman-technique",
-    "stars": 0,
-    "updated_at": "2026-07-28T18:25:56Z",
-    "url": "https://github.com/guicortei/feynman-technique"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Java",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-07-28T18:25:12Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
     "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
@@ -135,20 +207,11 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 39916,
-    "updated_at": "2026-07-28T18:21:22Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
     "description": " Eval-driven multimodal agent for identifying trees, logs, bark, leaves and wood from photographs. Dendrology is the ref",
     "id": "Dendro-Inspector/Dendro-Inspector",
     "language": "Python",
     "name": "Dendro-Inspector/Dendro-Inspector",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-07-28T18:21:12Z",
     "url": "https://github.com/Dendro-Inspector/Dendro-Inspector"
   },
@@ -205,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T18:15:51Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-28T18:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -351,24 +405,6 @@
     "url": "https://github.com/ralphmoran/ticket-lens"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-28T18:22:04Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
-    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
-    "language": "TypeScript",
-    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-07-28T18:02:39Z",
-    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
-  },
-  {
     "description": "Broadcast one prompt to 2-6 AI models and stream their answers side-by-side, with a Judge synthesizer, tool calling, eva",
     "id": "zmustafa/MultiChat",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-28T17:50:40Z",
     "url": "https://github.com/M4NT/token-the-ripper"
-  },
-  {
-    "description": "Reusable SDD templates and agent workflows for Codex, Claude Code, and other AI coding tools. Define, implement, and ver",
-    "id": "alabenkhlifa/Specs-Driven-Development-Skills-Templates",
-    "language": "Python",
-    "name": "alabenkhlifa/Specs-Driven-Development-Skills-Templates",
-    "stars": 0,
-    "updated_at": "2026-07-28T17:50:14Z",
-    "url": "https://github.com/alabenkhlifa/Specs-Driven-Development-Skills-Templates"
-  },
-  {
-    "description": "Awesome ChatGPT Prompts for Business - Curated Collection of 207+ Prompts",
-    "id": "kyleqarbour-dot/awesome-chatgpt-prompts-for-business",
-    "language": "\u2014",
-    "name": "kyleqarbour-dot/awesome-chatgpt-prompts-for-business",
-    "stars": 0,
-    "updated_at": "2026-07-28T17:50:09Z",
-    "url": "https://github.com/kyleqarbour-dot/awesome-chatgpt-prompts-for-business"
-  },
-  {
-    "description": "Bilingual zh-TW and English video prompt generator for Seedance 2.0 and Grok Imagine: form assembly plus 24 templates, a",
-    "id": "stevenke1981/prompt-words",
-    "language": "TypeScript",
-    "name": "stevenke1981/prompt-words",
-    "stars": 0,
-    "updated_at": "2026-07-28T17:48:05Z",
-    "url": "https://github.com/stevenke1981/prompt-words"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1668,
-    "updated_at": "2026-07-28T17:46:29Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   }
 ]
