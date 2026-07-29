@@ -1,5 +1,59 @@
 [
   {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "Python",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 3,
+    "updated_at": "2026-07-29T16:45:12Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
+    "id": "gufranco/claude-engineering-rules",
+    "language": "Python",
+    "name": "gufranco/claude-engineering-rules",
+    "stars": 1,
+    "updated_at": "2026-07-29T16:44:43Z",
+    "url": "https://github.com/gufranco/claude-engineering-rules"
+  },
+  {
+    "description": "A public-domain visual prompt forge: 2,000 signals across 16 creative axes.",
+    "id": "androotandtheretinue/prompt-forge",
+    "language": "HTML",
+    "name": "androotandtheretinue/prompt-forge",
+    "stars": 5,
+    "updated_at": "2026-07-29T16:44:17Z",
+    "url": "https://github.com/androotandtheretinue/prompt-forge"
+  },
+  {
+    "description": "Turns a vague request into an explicit work order, so local coding models execute instead of guessing. A cheap cloud mod",
+    "id": "NathanMaine/Promptx",
+    "language": "Python",
+    "name": "NathanMaine/Promptx",
+    "stars": 0,
+    "updated_at": "2026-07-29T16:43:56Z",
+    "url": "https://github.com/NathanMaine/Promptx"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-29T16:43:21Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27263,
+    "updated_at": "2026-07-29T16:44:11Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -18,13 +72,13 @@
     "url": "https://github.com/solo-vey/Ordo"
   },
   {
-    "description": "Turns a vague request into an explicit work order, so local coding models execute instead of guessing. A cheap cloud mod",
-    "id": "NathanMaine/Promptx",
-    "language": "Python",
-    "name": "NathanMaine/Promptx",
-    "stars": 0,
-    "updated_at": "2026-07-29T16:40:24Z",
-    "url": "https://github.com/NathanMaine/Promptx"
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-07-29T16:41:31Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
     "description": "A multi-modal AI integrating Grok, OpenAI, and Gemini for retrieval-augmented generation (RAG), semantic search, and str",
@@ -104,7 +158,7 @@
     "language": "JavaScript",
     "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
     "stars": 0,
-    "updated_at": "2026-07-29T16:42:48Z",
+    "updated_at": "2026-07-29T16:44:57Z",
     "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
   },
   {
@@ -135,15 +189,6 @@
     "url": "https://github.com/robertaustinbell/bobert-agent-template"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-29T16:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -160,15 +205,6 @@
     "stars": 12994,
     "updated_at": "2026-07-29T16:29:16Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
-    "id": "gufranco/claude-engineering-rules",
-    "language": "Python",
-    "name": "gufranco/claude-engineering-rules",
-    "stars": 1,
-    "updated_at": "2026-07-29T16:29:12Z",
-    "url": "https://github.com/gufranco/claude-engineering-rules"
   },
   {
     "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
@@ -220,8 +256,8 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 63152,
-    "updated_at": "2026-07-29T16:20:31Z",
+    "stars": 63153,
+    "updated_at": "2026-07-29T16:44:00Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 36,
-    "updated_at": "2026-07-29T16:33:36Z",
+    "updated_at": "2026-07-29T16:43:59Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T16:01:42Z",
     "url": "https://github.com/OmniOrigin-Group/promptsqueeze-php-middleware"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 3,
-    "updated_at": "2026-07-29T16:00:59Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "Open-source, local-first, Production grade intelligent prompt management system.",
-    "id": "Lancer59/llmpivot",
-    "language": "Python",
-    "name": "Lancer59/llmpivot",
-    "stars": 0,
-    "updated_at": "2026-07-29T15:59:52Z",
-    "url": "https://github.com/Lancer59/llmpivot"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-29T16:31:58Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Suite de skills de agente (en espa\u00f1ol) para construir software por fases con gates de revisi\u00f3n humana: an\u00e1lisis antes de",
-    "id": "alexismaya/skills-lab",
-    "language": "Shell",
-    "name": "alexismaya/skills-lab",
-    "stars": 0,
-    "updated_at": "2026-07-29T15:57:15Z",
-    "url": "https://github.com/alexismaya/skills-lab"
   }
 ]
