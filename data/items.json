@@ -1,5 +1,131 @@
 [
   {
+    "description": "An open Agent Skill for original warm humanist editorial illustrations, inspired by the visual language seen on Anthropi",
+    "id": "rancy777/warm-humanist-editorial-art",
+    "language": "\u2014",
+    "name": "rancy777/warm-humanist-editorial-art",
+    "stars": 0,
+    "updated_at": "2026-07-29T09:29:47Z",
+    "url": "https://github.com/rancy777/warm-humanist-editorial-art"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 40007,
+    "updated_at": "2026-07-29T09:29:40Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5588,
+    "updated_at": "2026-07-29T09:29:32Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Your agent learns from its mistakes instead of repeating them. Turns each session's corrections into memory rules that a",
+    "id": "Droi-D/hindsight",
+    "language": "\u2014",
+    "name": "Droi-D/hindsight",
+    "stars": 0,
+    "updated_at": "2026-07-29T09:25:51Z",
+    "url": "https://github.com/Droi-D/hindsight"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 10,
+    "updated_at": "2026-07-29T09:25:08Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
+    "id": "Sunwood-ai-labs/OpenFace",
+    "language": "CSS",
+    "name": "Sunwood-ai-labs/OpenFace",
+    "stars": 3,
+    "updated_at": "2026-07-29T09:22:04Z",
+    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
+  },
+  {
+    "description": "OMK \u2014 Observe. Measure. Know. Make every knowledge change in your AI application evidence-backed.",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 14,
+    "updated_at": "2026-07-29T09:21:29Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "\u5c06 X/Twitter \u5e16\u5b50\u4e8c\u5ea6\u521b\u4f5c\u4e3a\u53ef\u5ba1\u7a3f\u3001\u53ef\u5206\u6b65\u9aa4\u53d1\u5e03\u7684\u5c0f\u7ea2\u4e66\u957f\u6587\u8349\u7a3f\uff5c\u672c\u5730\u8fd0\u884c\uff5c\u591a\u6a21\u578b\u81ea\u52a8\u964d\u7ea7",
+    "id": "soyona/x-to-xhs",
+    "language": "JavaScript",
+    "name": "soyona/x-to-xhs",
+    "stars": 1,
+    "updated_at": "2026-07-29T09:20:31Z",
+    "url": "https://github.com/soyona/x-to-xhs"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 3,
+    "updated_at": "2026-07-29T09:20:22Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 65,
+    "updated_at": "2026-07-29T09:20:18Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "AI engineering notes \u2014 LLMs in production, prompts, and software design. Moss Gu's blog, home of Design is Code.",
+    "id": "mossgreen/mossgreen.github.io",
+    "language": "CSS",
+    "name": "mossgreen/mossgreen.github.io",
+    "stars": 10,
+    "updated_at": "2026-07-29T09:20:14Z",
+    "url": "https://github.com/mossgreen/mossgreen.github.io"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-29T09:19:53Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Drop-in Agent Skills, subagents, output styles, hooks & config templates for Claude Code (~/.claude) and OpenAI Codex CL",
+    "id": "dayfinggg/claude-code-codex-skills",
+    "language": "PowerShell",
+    "name": "dayfinggg/claude-code-codex-skills",
+    "stars": 1,
+    "updated_at": "2026-07-29T09:19:37Z",
+    "url": "https://github.com/dayfinggg/claude-code-codex-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-29T09:18:05Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u628a\u958b\u767c\u898f\u7bc4\u5beb\u6210\u6a5f\u5668\u53ef\u8b80\u7684\u7d04\u675f\uff0c\u8b93 Claude \u81ea\u52d5\u9075\u5b88 TDD\u3001ADR\u3001commit \u9598\u9580\u8207\u767c\u5e03\u6aa2\u67e5",
     "id": "astroicers/AI-SOP-Protocol",
     "language": "Shell",
@@ -25,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-07-29T09:16:55Z",
     "url": "https://github.com/Dendro-Inspector/Dendro-Inspector"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-29T09:15:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
@@ -95,7 +212,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32075,
-    "updated_at": "2026-07-29T09:08:29Z",
+    "updated_at": "2026-07-29T09:27:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -126,15 +243,6 @@
     "url": "https://github.com/Leo-maomao/pm-copilot"
   },
   {
-    "description": "AI engineering notes \u2014 LLMs in production, prompts, and software design. Moss Gu's blog, home of Design is Code.",
-    "id": "mossgreen/mossgreen.github.io",
-    "language": "CSS",
-    "name": "mossgreen/mossgreen.github.io",
-    "stars": 10,
-    "updated_at": "2026-07-29T09:05:13Z",
-    "url": "https://github.com/mossgreen/mossgreen.github.io"
-  },
-  {
     "description": "Engineering standards, review lenses and skills for AI coding agents. One AGENTS.md is the source of truth; thin pointer",
     "id": "jgobuilds/ai-standards-public",
     "language": "Python",
@@ -144,30 +252,12 @@
     "url": "https://github.com/jgobuilds/ai-standards-public"
   },
   {
-    "description": "\u5c06 X/Twitter \u5e16\u5b50\u4e8c\u5ea6\u521b\u4f5c\u4e3a\u53ef\u5ba1\u7a3f\u3001\u53ef\u5206\u6b65\u9aa4\u53d1\u5e03\u7684\u5c0f\u7ea2\u4e66\u957f\u6587\u8349\u7a3f\uff5c\u672c\u5730\u8fd0\u884c\uff5c\u591a\u6a21\u578b\u81ea\u52a8\u964d\u7ea7",
-    "id": "soyona/x-to-xhs",
-    "language": "JavaScript",
-    "name": "soyona/x-to-xhs",
-    "stars": 1,
-    "updated_at": "2026-07-29T09:04:49Z",
-    "url": "https://github.com/soyona/x-to-xhs"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 40004,
-    "updated_at": "2026-07-29T09:17:30Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20955,
-    "updated_at": "2026-07-29T09:09:53Z",
+    "updated_at": "2026-07-29T09:27:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -229,7 +319,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 9563,
+    "stars": 9564,
     "updated_at": "2026-07-29T08:54:18Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -239,7 +329,7 @@
     "language": "JavaScript",
     "name": "devswha/patina",
     "stars": 277,
-    "updated_at": "2026-07-29T08:53:27Z",
+    "updated_at": "2026-07-29T09:24:30Z",
     "url": "https://github.com/devswha/patina"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-29T08:43:21Z",
     "url": "https://github.com/GeiserX/lynxprompt-mcp"
-  },
-  {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "TypeScript",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 4,
-    "updated_at": "2026-07-29T08:41:14Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 6948,
-    "updated_at": "2026-07-29T09:09:38Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "14-arm ablation study on deep research pipelines (pre-citation, post-hoc citation repair, research/writing separation) o",
-    "id": "alloevil/deepresearch-arms-lab",
-    "language": "HTML",
-    "name": "alloevil/deepresearch-arms-lab",
-    "stars": 0,
-    "updated_at": "2026-07-29T08:40:44Z",
-    "url": "https://github.com/alloevil/deepresearch-arms-lab"
-  },
-  {
-    "description": "Orbital BI is a full-stack AI-powered Business Intelligence platform that enables users to upload datasets, automaticall",
-    "id": "Revatigc/orbital-bi-platform",
-    "language": "JavaScript",
-    "name": "Revatigc/orbital-bi-platform",
-    "stars": 0,
-    "updated_at": "2026-07-29T08:40:43Z",
-    "url": "https://github.com/Revatigc/orbital-bi-platform"
-  },
-  {
-    "description": "OMK \u2014 Observe. Measure. Know. Make every knowledge change in your AI application evidence-backed.",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 14,
-    "updated_at": "2026-07-29T08:37:18Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 3,
-    "updated_at": "2026-07-29T08:36:58Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 18,
-    "updated_at": "2026-07-29T08:36:52Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 152,
-    "updated_at": "2026-07-29T08:36:03Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 1,
-    "updated_at": "2026-07-29T08:35:22Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "\ud83c\udfac SuperMickey \u2014 \u628a\u597d\u83b1\u575e\u5236\u7247\u5382\u88c5\u8fdb\u4e00\u6761\u547d\u4ee4\uff1a\u4e00\u53e5\u8bdd\u8fdb\uff0c\u53f2\u8bd7\u51fa\u30024\u5c42\u67b6\u6784 \u00d7 4\u5927\u751f\u4ea7Agent \u00d7 25\u5b57\u6bb5\u955c\u5934\u5361 \u00d7 149\u9879\u5bfc\u6f14\u7ea7\u6280\u80fd \u00d7 11\u5927\u9898\u6750\u4e16\u754c\u3002We don't sell tools. We deliver ",
-    "id": "geniusdapeng-collab/super-mickey",
-    "language": "JavaScript",
-    "name": "geniusdapeng-collab/super-mickey",
-    "stars": 1,
-    "updated_at": "2026-07-29T08:35:12Z",
-    "url": "https://github.com/geniusdapeng-collab/super-mickey"
   }
 ]
