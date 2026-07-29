@@ -1,10 +1,127 @@
 [
   {
+    "description": "LLM capture proxy with Anthropic cache_control TTL stamping, vision handoff, concurrency gating, rate limiting, and a li",
+    "id": "codegiveness/umans-gate",
+    "language": "TypeScript",
+    "name": "codegiveness/umans-gate",
+    "stars": 1,
+    "updated_at": "2026-07-29T05:42:37Z",
+    "url": "https://github.com/codegiveness/umans-gate"
+  },
+  {
+    "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
+    "id": "hilmifawwazsaad/DidYouKnow",
+    "language": "TypeScript",
+    "name": "hilmifawwazsaad/DidYouKnow",
+    "stars": 1,
+    "updated_at": "2026-07-29T05:40:29Z",
+    "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
+  },
+  {
+    "description": "Suite de skills de agente (en espa\u00f1ol) para construir software por fases con gates de revisi\u00f3n humana: an\u00e1lisis antes de",
+    "id": "alexismaya/skills-lab",
+    "language": "Shell",
+    "name": "alexismaya/skills-lab",
+    "stars": 0,
+    "updated_at": "2026-07-29T05:37:48Z",
+    "url": "https://github.com/alexismaya/skills-lab"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 1,
+    "updated_at": "2026-07-29T05:37:47Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 3,
+    "updated_at": "2026-07-29T05:37:02Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 36,
+    "updated_at": "2026-07-29T05:35:31Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
+    "id": "LouisLau-art/multi-agent-skills-catalog",
+    "language": "Python",
+    "name": "LouisLau-art/multi-agent-skills-catalog",
+    "stars": 2,
+    "updated_at": "2026-07-29T05:34:56Z",
+    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
+  },
+  {
+    "description": "What did you forget to tell your AI agent? Paste a system prompt, see which failure modes it never guards against \u2014 prom",
+    "id": "shmindmaster/crewscore",
+    "language": "Python",
+    "name": "shmindmaster/crewscore",
+    "stars": 0,
+    "updated_at": "2026-07-29T05:41:44Z",
+    "url": "https://github.com/shmindmaster/crewscore"
+  },
+  {
+    "description": "\u628a\u6a21\u7cca\u60f3\u6cd5\u6574\u7406\u6210\u53ef\u76f4\u63a5\u6267\u884c\u7684 Agent \u63d0\u793a\u8bcd\uff1a\u81ea\u52a8\u9009\u89d2\u3001\u9010\u8f6e\u6f84\u6e05\u3001\u6743\u9650\u8fb9\u754c\u3001\u9a8c\u6536\u6807\u51c6\u4e0e\u9a8c\u8bc1\u8bc1\u636e\u3002",
+    "id": "936220035/execution-prompt-builder",
+    "language": "Python",
+    "name": "936220035/execution-prompt-builder",
+    "stars": 3,
+    "updated_at": "2026-07-29T05:33:39Z",
+    "url": "https://github.com/936220035/execution-prompt-builder"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3426,
+    "updated_at": "2026-07-29T05:43:23Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI Agent Pipeline demonstrating LLM token optimization, multi-agent debugging, and CI/CD deployment. Includes cost reduc",
+    "id": "raoopriyanka/ai_agent_pipeline",
+    "language": "Python",
+    "name": "raoopriyanka/ai_agent_pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-29T05:32:43Z",
+    "url": "https://github.com/raoopriyanka/ai_agent_pipeline"
+  },
+  {
+    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
+    "id": "pranavkafle/serpapi-mcp-catalog",
+    "language": "Python",
+    "name": "pranavkafle/serpapi-mcp-catalog",
+    "stars": 1,
+    "updated_at": "2026-07-29T05:32:10Z",
+    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-29T05:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 39970,
+    "stars": 39969,
     "updated_at": "2026-07-29T05:28:30Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -34,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T05:28:07Z",
     "url": "https://github.com/jkandasa/promptd"
-  },
-  {
-    "description": "AI Agent Pipeline demonstrating LLM token optimization, multi-agent debugging, and CI/CD deployment. Includes cost reduc",
-    "id": "raoopriyanka/ai_agent_pipeline",
-    "language": "Python",
-    "name": "raoopriyanka/ai_agent_pipeline",
-    "stars": 1,
-    "updated_at": "2026-07-29T05:27:46Z",
-    "url": "https://github.com/raoopriyanka/ai_agent_pipeline"
   },
   {
     "description": "A transparent evaluation dashboard for comparing Felo, ChatGPT, Gemini, Claude, and other Generative AI tools.",
@@ -108,15 +216,6 @@
     "url": "https://github.com/StephenQiu30/lanverse"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-29T05:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
     "id": "lobisomenhomemafeminado/skill-vault",
     "language": "HTML",
@@ -124,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T05:15:01Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 3,
-    "updated_at": "2026-07-29T05:22:45Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -160,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T05:14:16Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "LLM capture proxy with Anthropic cache_control TTL stamping, vision handoff, concurrency gating, rate limiting, and a li",
-    "id": "codegiveness/umans-gate",
-    "language": "TypeScript",
-    "name": "codegiveness/umans-gate",
-    "stars": 1,
-    "updated_at": "2026-07-29T05:14:08Z",
-    "url": "https://github.com/codegiveness/umans-gate"
   },
   {
     "description": "Production rules and 5 skills for building agentic AI systems \u2014 design review, agent scaffolding, tool schema design, in",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T04:52:08Z",
     "url": "https://github.com/theluckystrike/claudflow.com"
-  },
-  {
-    "description": "Claude Prompt Library -- 30+ ready-to-use prompt templates for coding, writing, analysis, and business. Search, filter, ",
-    "id": "theluckystrike/claudhq.com",
-    "language": "HTML",
-    "name": "theluckystrike/claudhq.com",
-    "stars": 2,
-    "updated_at": "2026-07-29T04:52:00Z",
-    "url": "https://github.com/theluckystrike/claudhq.com"
-  },
-  {
-    "description": "What did you forget to tell your AI agent? Paste a system prompt, see which failure modes it never guards against \u2014 prom",
-    "id": "shmindmaster/crewscore",
-    "language": "Python",
-    "name": "shmindmaster/crewscore",
-    "stars": 0,
-    "updated_at": "2026-07-29T05:27:50Z",
-    "url": "https://github.com/shmindmaster/crewscore"
-  },
-  {
-    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
-    "id": "ryanportfolio/savetokens",
-    "language": "HTML",
-    "name": "ryanportfolio/savetokens",
-    "stars": 1,
-    "updated_at": "2026-07-29T04:47:42Z",
-    "url": "https://github.com/ryanportfolio/savetokens"
-  },
-  {
-    "description": "A holy, minimalist CLI toolkit and MCP server designed exclusively for LLM coding agents.",
-    "id": "oeo/monkdev",
-    "language": "TypeScript",
-    "name": "oeo/monkdev",
-    "stars": 6,
-    "updated_at": "2026-07-29T04:47:39Z",
-    "url": "https://github.com/oeo/monkdev"
-  },
-  {
-    "description": "Claude Code skills for marketing operators: cold outreach, funnel diagnosis, lifecycle email, campaign briefs and an ant",
-    "id": "coteyanezg/claude-marketing-skills",
-    "language": "\u2014",
-    "name": "coteyanezg/claude-marketing-skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T04:45:38Z",
-    "url": "https://github.com/coteyanezg/claude-marketing-skills"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 3,
-    "updated_at": "2026-07-29T04:41:44Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Claude Agent Skill that eliminates generic AI-generated design. Stop your AI shipping the same purple-gradient, Inter-fo",
-    "id": "Ferousco-dev/anti-slop-design",
-    "language": "Python",
-    "name": "Ferousco-dev/anti-slop-design",
-    "stars": 1,
-    "updated_at": "2026-07-29T04:38:19Z",
-    "url": "https://github.com/Ferousco-dev/anti-slop-design"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27253,
-    "updated_at": "2026-07-29T04:35:54Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Regression tests for your prompts, as a GitHub check. Fails a PR on a statistically significant prompt regression. Offli",
-    "id": "bengodgart/prompt-regression-action",
-    "language": "Python",
-    "name": "bengodgart/prompt-regression-action",
-    "stars": 0,
-    "updated_at": "2026-07-29T04:33:30Z",
-    "url": "https://github.com/bengodgart/prompt-regression-action"
   }
 ]
