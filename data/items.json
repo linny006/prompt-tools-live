@@ -1,12 +1,66 @@
 [
   {
+    "description": "Turns a vague request into an explicit work order, so local coding models execute instead of guessing. A cheap cloud mod",
+    "id": "NathanMaine/Promptx",
+    "language": "Python",
+    "name": "NathanMaine/Promptx",
+    "stars": 0,
+    "updated_at": "2026-07-29T17:59:13Z",
+    "url": "https://github.com/NathanMaine/Promptx"
+  },
+  {
+    "description": "Cut the tokens your IDE-to-LLM coding session is billed for. Stops re-sending files the model already has, places provid",
+    "id": "Neolambo/glyph-compress",
+    "language": "JavaScript",
+    "name": "Neolambo/glyph-compress",
+    "stars": 3,
+    "updated_at": "2026-07-29T17:57:17Z",
+    "url": "https://github.com/Neolambo/glyph-compress"
+  },
+  {
+    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
+    "id": "FoxsterDev/ai-research-hub",
+    "language": "Python",
+    "name": "FoxsterDev/ai-research-hub",
+    "stars": 4,
+    "updated_at": "2026-07-29T17:55:46Z",
+    "url": "https://github.com/FoxsterDev/ai-research-hub"
+  },
+  {
     "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
     "id": "conorbronsdon/avoid-ai-writing",
     "language": "JavaScript",
     "name": "conorbronsdon/avoid-ai-writing",
     "stars": 2679,
-    "updated_at": "2026-07-29T17:52:53Z",
+    "updated_at": "2026-07-29T17:55:44Z",
     "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-29T17:54:36Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-07-29T17:54:12Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-29T17:53:46Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
@@ -34,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T17:45:41Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-29T17:45:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10801,
-    "updated_at": "2026-07-29T17:51:33Z",
+    "updated_at": "2026-07-29T17:55:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -142,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T17:35:13Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Cut the tokens your IDE-to-LLM coding session is billed for. Stops re-sending files the model already has, places provid",
-    "id": "Neolambo/glyph-compress",
-    "language": "JavaScript",
-    "name": "Neolambo/glyph-compress",
-    "stars": 3,
-    "updated_at": "2026-07-29T17:34:08Z",
-    "url": "https://github.com/Neolambo/glyph-compress"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T17:32:24Z",
     "url": "https://github.com/xdmanflow/Cavalons-Internship"
-  },
-  {
-    "description": "Turns a vague request into an explicit work order, so local coding models execute instead of guessing. A cheap cloud mod",
-    "id": "NathanMaine/Promptx",
-    "language": "Python",
-    "name": "NathanMaine/Promptx",
-    "stars": 0,
-    "updated_at": "2026-07-29T17:32:08Z",
-    "url": "https://github.com/NathanMaine/Promptx"
   },
   {
     "description": "Agent skill that generates images through your locally installed, OAuth-authenticated Codex CLI \u2014 no API keys, exact-siz",
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "joaquimscosta/arkhe-claude-plugins",
     "stars": 21,
-    "updated_at": "2026-07-29T17:32:03Z",
+    "updated_at": "2026-07-29T18:00:27Z",
     "url": "https://github.com/joaquimscosta/arkhe-claude-plugins"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-29T17:14:52Z",
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "AI Coding workflow console with Prompt Template, Generation Trace, Knowledge Reference and Human Review.",
-    "id": "jameswilson87156-del/devflow-copilot",
-    "language": "Vue",
-    "name": "jameswilson87156-del/devflow-copilot",
-    "stars": 1,
-    "updated_at": "2026-07-29T17:14:36Z",
-    "url": "https://github.com/jameswilson87156-del/devflow-copilot"
-  },
-  {
-    "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
-    "id": "iaminpwd/dotfiles",
-    "language": "Shell",
-    "name": "iaminpwd/dotfiles",
-    "stars": 1,
-    "updated_at": "2026-07-29T17:13:13Z",
-    "url": "https://github.com/iaminpwd/dotfiles"
-  },
-  {
-    "description": "Source-backed Muse Image prompts, official agentic editing cases, reusable workflows, preview media, and 14-language gui",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T17:10:42Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
   }
 ]
