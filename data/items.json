@@ -1,5 +1,50 @@
 [
   {
+    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 12,
+    "updated_at": "2026-07-29T13:18:18Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "A structured, evidence-based framework for evaluating LLMs, prompts, translation systems, medical AI, Arabic language, A",
+    "id": "jehadsobohai/AI-Evaluation-Framework",
+    "language": "\u2014",
+    "name": "jehadsobohai/AI-Evaluation-Framework",
+    "stars": 1,
+    "updated_at": "2026-07-29T13:18:09Z",
+    "url": "https://github.com/jehadsobohai/AI-Evaluation-Framework"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-29T13:17:19Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-07-29T13:16:34Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-29T13:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "LFX Mentorship Fall 2026 coding challenge: AI-assisted extraction of architectural parameters from RISC-V specifications",
     "id": "RAJVEER42/lfx-param-extraction",
     "language": "Python",
@@ -9,6 +54,24 @@
     "url": "https://github.com/RAJVEER42/lfx-param-extraction"
   },
   {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Python",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-07-29T13:13:49Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32092,
+    "updated_at": "2026-07-29T13:12:34Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
     "id": "piyalidas10/AI",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T13:12:23Z",
     "url": "https://github.com/piyalidas10/AI"
-  },
-  {
-    "description": "A structured, evidence-based framework for evaluating LLMs, prompts, translation systems, medical AI, Arabic language, A",
-    "id": "jehadsobohai/AI-Evaluation-Framework",
-    "language": "\u2014",
-    "name": "jehadsobohai/AI-Evaluation-Framework",
-    "stars": 1,
-    "updated_at": "2026-07-29T13:12:13Z",
-    "url": "https://github.com/jehadsobohai/AI-Evaluation-Framework"
   },
   {
     "description": "A Claude Skill that makes AI-generated code look like it was actually hand-rolled by an engineering student",
@@ -50,8 +104,17 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-29T13:10:47Z",
+    "updated_at": "2026-07-29T13:19:25Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4152,
+    "updated_at": "2026-07-29T13:20:40Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "Codes and projects from the 12-week Generative AI & Computer Vision bootcamp at Hamrah Academy. Covering CNNs, GANs, Dif",
@@ -113,7 +176,7 @@
     "language": "\u2014",
     "name": "shaunmarsden/practical-ai-sales-workflows",
     "stars": 0,
-    "updated_at": "2026-07-29T13:03:37Z",
+    "updated_at": "2026-07-29T13:19:14Z",
     "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
   },
   {
@@ -124,15 +187,6 @@
     "stars": 155,
     "updated_at": "2026-07-29T13:03:23Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32092,
-    "updated_at": "2026-07-29T13:12:34Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Drop-in Agent Skills, subagents, output styles, hooks & config templates for Claude Code (~/.claude) and OpenAI Codex CL",
@@ -153,15 +207,6 @@
     "url": "https://github.com/solo-vey/Ordo"
   },
   {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Python",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-07-29T13:13:49Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
-  },
-  {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
     "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
     "language": "HTML",
@@ -178,15 +223,6 @@
     "stars": 4,
     "updated_at": "2026-07-29T13:00:40Z",
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-29T13:00:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
@@ -239,7 +275,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-29T13:10:59Z",
+    "updated_at": "2026-07-29T13:18:04Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -277,15 +313,6 @@
     "stars": 4,
     "updated_at": "2026-07-29T12:51:02Z",
     "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4153,
-    "updated_at": "2026-07-29T13:10:00Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
@@ -356,7 +383,7 @@
     "language": "CSS",
     "name": "Sunwood-ai-labs/OpenFace",
     "stars": 3,
-    "updated_at": "2026-07-29T12:52:15Z",
+    "updated_at": "2026-07-29T13:20:17Z",
     "url": "https://github.com/Sunwood-ai-labs/OpenFace"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T12:29:51Z",
     "url": "https://github.com/KostiKoNeuro/vibe-coding-benchmark-2026"
-  },
-  {
-    "description": "\u590d\u76d8 Claude Code / Codex \u957f\u5bf9\u8bdd\uff1a\u6cbf\u4f60\u81ea\u5df1\u7684\u539f\u8bdd\u91cd\u5efa\u8ba8\u8bba\u8def\u5f84\uff0c\u770b\u6e05\u601d\u8def\u5728\u54ea\u91cc\u8f6c\u5411\u3001\u54ea\u4e9b\u95ee\u9898\u8fd8\u672a\u89e3\u51b3\u3002\u96f6\u4f9d\u8d56\u3001\u5168\u672c\u5730\u3002 Turn long Claude Code and Codex conversations into ",
-    "id": "belchingleo/breadcrumbs",
-    "language": "Python",
-    "name": "belchingleo/breadcrumbs",
-    "stars": 0,
-    "updated_at": "2026-07-29T12:27:56Z",
-    "url": "https://github.com/belchingleo/breadcrumbs"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-07-29T12:25:20Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-07-29T12:24:13Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   }
 ]
