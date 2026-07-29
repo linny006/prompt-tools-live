@@ -1,12 +1,39 @@
 [
   {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 186,
+    "updated_at": "2026-07-29T11:36:08Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "\ud83c\udfa8 Curated Seedream 5.0 Pro prompts with previews \u2014 auto-generated README, EN/\u4e2d\u6587",
+    "id": "velokey-ai/awesome-seedream-5.0-pro-prompts",
     "language": "Python",
-    "name": "StephenQiu30/lanverse",
+    "name": "velokey-ai/awesome-seedream-5.0-pro-prompts",
     "stars": 1,
-    "updated_at": "2026-07-29T11:28:41Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
+    "updated_at": "2026-07-29T11:36:08Z",
+    "url": "https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts"
+  },
+  {
+    "description": "The documents every startup should have, compiled into an AI-readable knowledge base \u2014 templates, a prompt library, and ",
+    "id": "fritzhand/startup-stack",
+    "language": "JavaScript",
+    "name": "fritzhand/startup-stack",
+    "stars": 3,
+    "updated_at": "2026-07-29T11:35:56Z",
+    "url": "https://github.com/fritzhand/startup-stack"
+  },
+  {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-07-29T11:35:30Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,8 +41,89 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 0,
-    "updated_at": "2026-07-29T11:26:32Z",
+    "updated_at": "2026-07-29T11:35:08Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 14,
+    "updated_at": "2026-07-29T11:34:35Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "B\u00e4rnd\u00fctsch for AI assistants. A tool-agnostic rulebook that makes any LLM write real Bernese German, plus a Claude Code ",
+    "id": "sapn95/berndeutsch-schrybwys",
+    "language": "\u2014",
+    "name": "sapn95/berndeutsch-schrybwys",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:33:44Z",
+    "url": "https://github.com/sapn95/berndeutsch-schrybwys"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-07-29T11:32:59Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "A terminal script manager and launcher \u2014 Put any script, prompt, or program in one library; skit turns its inputs and fl",
+    "id": "t41372/skit",
+    "language": "Python",
+    "name": "t41372/skit",
+    "stars": 5,
+    "updated_at": "2026-07-29T11:32:35Z",
+    "url": "https://github.com/t41372/skit"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 7,
+    "updated_at": "2026-07-29T11:32:31Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32086,
+    "updated_at": "2026-07-29T11:32:07Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-29T11:30:41Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
+    "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "language": "JavaScript",
+    "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "stars": 0,
+    "updated_at": "2026-07-29T11:29:54Z",
+    "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Python",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-07-29T11:36:16Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
   },
   {
     "description": "Community-maintained catalog of AI agent skills \u2014 structured, searchable and integrated with the OpenModels ecosystem.",
@@ -34,15 +142,6 @@
     "stars": 518,
     "updated_at": "2026-07-29T11:25:09Z",
     "url": "https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32086,
-    "updated_at": "2026-07-29T11:30:15Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -207,15 +306,6 @@
     "url": "https://github.com/tech-guru254/spec-weaver"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-29T11:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
     "id": "kodancrash-oss/prompt-weaver-framework",
     "language": "HTML",
@@ -223,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T11:15:26Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
-    "id": "Sunil-M02/curiosity-engine",
-    "language": "TypeScript",
-    "name": "Sunil-M02/curiosity-engine",
-    "stars": 2,
-    "updated_at": "2026-07-29T11:14:53Z",
-    "url": "https://github.com/Sunil-M02/curiosity-engine"
   },
   {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
@@ -315,15 +396,6 @@
     "url": "https://github.com/domengabrovsek/claude"
   },
   {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 186,
-    "updated_at": "2026-07-29T11:12:20Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T10:55:18Z",
     "url": "https://github.com/Vispute15/LLM-eval-harness"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3426,
-    "updated_at": "2026-07-29T11:24:54Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The app is a fictional online electronics store (ElectroShop) with a real LangGraph agent wired to a live SQLite databas",
-    "id": "Ashu1514/Customer-Support-Agent",
-    "language": "TypeScript",
-    "name": "Ashu1514/Customer-Support-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:53:58Z",
-    "url": "https://github.com/Ashu1514/Customer-Support-Agent"
-  },
-  {
-    "description": "CLI tool that finds files and folders by fuzzy name and recursively concatenates files to your clipboard as AI context f",
-    "id": "tigreau/catclip",
-    "language": "Go",
-    "name": "tigreau/catclip",
-    "stars": 5,
-    "updated_at": "2026-07-29T10:53:12Z",
-    "url": "https://github.com/tigreau/catclip"
-  },
-  {
-    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
-    "id": "Mr-Salticidae/knowledge-base",
-    "language": "Python",
-    "name": "Mr-Salticidae/knowledge-base",
-    "stars": 19,
-    "updated_at": "2026-07-29T10:50:30Z",
-    "url": "https://github.com/Mr-Salticidae/knowledge-base"
-  },
-  {
-    "description": "A coding-discipline spec for OpenAI's Codex CLI, enforced by native Codex hooks + a rule-hit telemetry loop. Turns an AG",
-    "id": "sdsrss/agentsmd",
-    "language": "JavaScript",
-    "name": "sdsrss/agentsmd",
-    "stars": 2,
-    "updated_at": "2026-07-29T10:57:28Z",
-    "url": "https://github.com/sdsrss/agentsmd"
-  },
-  {
-    "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy ",
-    "id": "eljulians/skillfile",
-    "language": "Rust",
-    "name": "eljulians/skillfile",
-    "stars": 137,
-    "updated_at": "2026-07-29T10:48:39Z",
-    "url": "https://github.com/eljulians/skillfile"
-  },
-  {
-    "description": ".clinerules is the rule-file convention used by the Cline open-source AI coding agent. Projects expose persistent guidan",
-    "id": "api-evangelist/clinerules",
-    "language": "\u2014",
-    "name": "api-evangelist/clinerules",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:48:17Z",
-    "url": "https://github.com/api-evangelist/clinerules"
-  },
-  {
-    "description": "An open-source AI skill for commercial SVG research, strategy, and premium prompt engineering \u2014 for Etsy sellers using C",
-    "id": "moiz-za/svg-design-intelligence-system",
-    "language": "Markdown",
-    "name": "moiz-za/svg-design-intelligence-system",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:47:01Z",
-    "url": "https://github.com/moiz-za/svg-design-intelligence-system"
   }
 ]
