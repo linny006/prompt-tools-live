@@ -1,11 +1,29 @@
 [
   {
+    "description": "Local hooks that catch vague AI-agent prompts before they burn tokens.",
+    "id": "akg268/prompt-preflight",
+    "language": "Python",
+    "name": "akg268/prompt-preflight",
+    "stars": 3,
+    "updated_at": "2026-07-29T00:59:44Z",
+    "url": "https://github.com/akg268/prompt-preflight"
+  },
+  {
+    "description": "Exercises and notes from Anthropic's 'Building with the Claude API' course \u2014 API fundamentals, prompt engineering & eval",
+    "id": "shingieuihos/building-with-the-claude-api",
+    "language": "Python",
+    "name": "shingieuihos/building-with-the-claude-api",
+    "stars": 0,
+    "updated_at": "2026-07-29T00:59:25Z",
+    "url": "https://github.com/shingieuihos/building-with-the-claude-api"
+  },
+  {
     "description": "What did you forget to tell your AI agent? Paste a system prompt, see which failure modes it never guards against \u2014 prom",
     "id": "shmindmaster/crewscore",
     "language": "Python",
     "name": "shmindmaster/crewscore",
     "stars": 0,
-    "updated_at": "2026-07-29T00:55:57Z",
+    "updated_at": "2026-07-29T00:57:37Z",
     "url": "https://github.com/shmindmaster/crewscore"
   },
   {
@@ -14,8 +32,17 @@
     "language": "JavaScript",
     "name": "SWEStash/swe-workflow-skills",
     "stars": 0,
-    "updated_at": "2026-07-29T00:55:36Z",
+    "updated_at": "2026-07-29T00:57:00Z",
     "url": "https://github.com/SWEStash/swe-workflow-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-29T00:56:20Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Agent Skill that eliminates generic AI-generated design. Stop your AI shipping the same purple-gradient, Inter-fo",
@@ -70,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T00:45:52Z",
     "url": "https://github.com/slowdini/slow-powers"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-29T00:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T23:58:56Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 150,
-    "updated_at": "2026-07-28T23:58:49Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 152,
-    "updated_at": "2026-07-28T23:56:22Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   }
 ]
