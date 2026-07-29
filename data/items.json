@@ -1,5 +1,113 @@
 [
   {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 3,
+    "updated_at": "2026-07-29T19:45:31Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Stop replaying the transcript: capsule session state + rolling memory for LLM CLIs (Claude Code, Codex). Measured: \u221290.3",
+    "id": "Rudekwydra/burnless",
+    "language": "Python",
+    "name": "Rudekwydra/burnless",
+    "stars": 2,
+    "updated_at": "2026-07-29T19:44:34Z",
+    "url": "https://github.com/Rudekwydra/burnless"
+  },
+  {
+    "description": "Claude Code skill for Ideogram AI image generation \u2014 structured JSON caption prompting, color palette control, and MCP-b",
+    "id": "devkindhq/ideogram-ai-toolkit",
+    "language": "\u2014",
+    "name": "devkindhq/ideogram-ai-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-29T19:44:27Z",
+    "url": "https://github.com/devkindhq/ideogram-ai-toolkit"
+  },
+  {
+    "description": "Lightweight Claude Code skills for daily AI-assisted development workflows.",
+    "id": "Chrike/coding-agent-skills",
+    "language": "JavaScript",
+    "name": "Chrike/coding-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-07-29T19:44:21Z",
+    "url": "https://github.com/Chrike/coding-agent-skills"
+  },
+  {
+    "description": "Auto-routes Claude Code prompts to appropriate thinking budgets based on complexity scoring. PowerShell-based hook into ",
+    "id": "Qcko/claude-code-effort-router",
+    "language": "PowerShell",
+    "name": "Qcko/claude-code-effort-router",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:39:48Z",
+    "url": "https://github.com/Qcko/claude-code-effort-router"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Java",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:36:43Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 2,
+    "updated_at": "2026-07-29T19:35:28Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
+    "id": "jamestexas/agents",
+    "language": "Shell",
+    "name": "jamestexas/agents",
+    "stars": 2,
+    "updated_at": "2026-07-29T19:33:49Z",
+    "url": "https://github.com/jamestexas/agents"
+  },
+  {
+    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
+    "id": "Magma1321/mythos-agent-pipe",
+    "language": "HTML",
+    "name": "Magma1321/mythos-agent-pipe",
+    "stars": 153,
+    "updated_at": "2026-07-29T19:33:46Z",
+    "url": "https://github.com/Magma1321/mythos-agent-pipe"
+  },
+  {
+    "description": "Developer bootstrapper for AI-assisted IDEs: project-aware setup for Cursor, VS Code & Windsurf with file-based handoff ",
+    "id": "agent-kit-startup/agent-kit",
+    "language": "TypeScript",
+    "name": "agent-kit-startup/agent-kit",
+    "stars": 5,
+    "updated_at": "2026-07-29T19:33:27Z",
+    "url": "https://github.com/agent-kit-startup/agent-kit"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 3,
+    "updated_at": "2026-07-29T19:30:40Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-29T19:30:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A Codex skill that preserves project intent, survives context compaction, stops repeated failures, and verifies real out",
     "id": "comprono/dont-x-smart-be-smart-skill",
     "language": "Python",
@@ -23,17 +131,8 @@
     "language": "Python",
     "name": "Muizzkolapo/agent-actions",
     "stars": 8,
-    "updated_at": "2026-07-29T19:26:37Z",
+    "updated_at": "2026-07-29T19:41:30Z",
     "url": "https://github.com/Muizzkolapo/agent-actions"
-  },
-  {
-    "description": "Claude Code skill for Ideogram AI image generation \u2014 structured JSON caption prompting, color palette control, and MCP-b",
-    "id": "devkindhq/ideogram-ai-toolkit",
-    "language": "\u2014",
-    "name": "devkindhq/ideogram-ai-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-29T19:26:12Z",
-    "url": "https://github.com/devkindhq/ideogram-ai-toolkit"
   },
   {
     "description": "An agent-agnostic toolkit that equips any AI agent to help a beginner start pickling at home safely. Attach one Markdown",
@@ -77,7 +176,7 @@
     "language": "Python",
     "name": "sergeeey/Claude-cod-top-2026",
     "stars": 7,
-    "updated_at": "2026-07-29T19:20:06Z",
+    "updated_at": "2026-07-29T19:44:59Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
@@ -131,7 +230,7 @@
     "language": "Shell",
     "name": "DYAI2025/Plumbline",
     "stars": 6,
-    "updated_at": "2026-07-29T19:21:13Z",
+    "updated_at": "2026-07-29T19:45:00Z",
     "url": "https://github.com/DYAI2025/Plumbline"
   },
   {
@@ -151,6 +250,15 @@
     "stars": 3,
     "updated_at": "2026-07-29T19:17:35Z",
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32107,
+    "updated_at": "2026-07-29T19:17:23Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Structured Outputs",
@@ -196,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T19:16:16Z",
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-29T19:15:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Comprehensive reference guide for using XML tags in Claude prompts - Czech edition.",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T19:00:35Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Broadcast one prompt to 2-6 AI models and stream their answers side-by-side, with a Judge synthesizer, tool calling, eva",
-    "id": "zmustafa/MultiChat",
-    "language": "TypeScript",
-    "name": "zmustafa/MultiChat",
-    "stars": 1,
-    "updated_at": "2026-07-29T18:59:10Z",
-    "url": "https://github.com/zmustafa/MultiChat"
-  },
-  {
-    "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
-    "id": "jamestexas/agents",
-    "language": "Shell",
-    "name": "jamestexas/agents",
-    "stars": 2,
-    "updated_at": "2026-07-29T18:58:21Z",
-    "url": "https://github.com/jamestexas/agents"
-  },
-  {
-    "description": "Open-source framework for reproducible A/B evaluation of agent skills and instructions",
-    "id": "Dhi13man/skivolve",
-    "language": "Python",
-    "name": "Dhi13man/skivolve",
-    "stars": 1,
-    "updated_at": "2026-07-29T19:11:33Z",
-    "url": "https://github.com/Dhi13man/skivolve"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-07-29T18:58:00Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 2,
-    "updated_at": "2026-07-29T18:58:00Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-29T18:57:58Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 2,
-    "updated_at": "2026-07-29T18:57:56Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 6950,
-    "updated_at": "2026-07-29T18:57:28Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 1,
-    "updated_at": "2026-07-29T18:54:51Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20962,
-    "updated_at": "2026-07-29T18:54:29Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "A compiler for AI coding tasks: pre-resolves repo facts (callers, git history, blast radius, bug-site source) before you",
-    "id": "Cranot/compile-code",
-    "language": "Python",
-    "name": "Cranot/compile-code",
-    "stars": 28,
-    "updated_at": "2026-07-29T18:53:35Z",
-    "url": "https://github.com/Cranot/compile-code"
   }
 ]
