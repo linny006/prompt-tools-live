@@ -1,5 +1,194 @@
 [
   {
+    "description": "Bilingual agent workflow contracts, PR review templates, and sync automation for AI-assisted development",
+    "id": "wlvh/coding-workflow",
+    "language": "Python",
+    "name": "wlvh/coding-workflow",
+    "stars": 5,
+    "updated_at": "2026-07-29T02:45:05Z",
+    "url": "https://github.com/wlvh/coding-workflow"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 3,
+    "updated_at": "2026-07-29T02:44:25Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
+    "id": "ZeroLu/awesome-seedance",
+    "language": "Shell",
+    "name": "ZeroLu/awesome-seedance",
+    "stars": 2221,
+    "updated_at": "2026-07-29T02:43:31Z",
+    "url": "https://github.com/ZeroLu/awesome-seedance"
+  },
+  {
+    "description": "Curated, verified Agent Skills powered by ModelStudio.",
+    "id": "modelstudioai/skills",
+    "language": "Python",
+    "name": "modelstudioai/skills",
+    "stars": 43,
+    "updated_at": "2026-07-29T02:43:18Z",
+    "url": "https://github.com/modelstudioai/skills"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 39951,
+    "updated_at": "2026-07-29T02:43:04Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 834,
+    "updated_at": "2026-07-29T02:42:40Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
+    "id": "Leo-maomao/pm-copilot",
+    "language": "Python",
+    "name": "Leo-maomao/pm-copilot",
+    "stars": 3,
+    "updated_at": "2026-07-29T02:42:38Z",
+    "url": "https://github.com/Leo-maomao/pm-copilot"
+  },
+  {
+    "description": "\ud83e\udd17 The largest downloadable SeedDance 2 prompt library \u2014 8,105 prompts and growing, daily updates with HuggingFace datase",
+    "id": "goku-open/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "goku-open/awesome-seedance-2-prompts",
+    "stars": 1,
+    "updated_at": "2026-07-29T02:42:22Z",
+    "url": "https://github.com/goku-open/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Ready-to-use system prompts for Agentic Code Review.",
+    "id": "baz-scm/awesome-reviewers",
+    "language": "SCSS",
+    "name": "baz-scm/awesome-reviewers",
+    "stars": 140,
+    "updated_at": "2026-07-29T02:42:19Z",
+    "url": "https://github.com/baz-scm/awesome-reviewers"
+  },
+  {
+    "description": "Official Muse Video preview prompts, playable clips, native-audio shot briefs, continuity workflows, and 14-language gui",
+    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "stars": 0,
+    "updated_at": "2026-07-29T02:42:07Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "An SOP that makes an LLM write a real commerce operating plan \u2014 or admit it can't. Evidence-burden rule + the test recor",
+    "id": "nhppyqys/commerce-playbook",
+    "language": "\u2014",
+    "name": "nhppyqys/commerce-playbook",
+    "stars": 2,
+    "updated_at": "2026-07-29T02:40:37Z",
+    "url": "https://github.com/nhppyqys/commerce-playbook"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 152,
+    "updated_at": "2026-07-29T02:40:33Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "Claude Agent Skill that eliminates generic AI-generated design. Stop your AI shipping the same purple-gradient, Inter-fo",
+    "id": "Ferousco-dev/anti-slop-design",
+    "language": "Python",
+    "name": "Ferousco-dev/anti-slop-design",
+    "stars": 0,
+    "updated_at": "2026-07-29T02:40:34Z",
+    "url": "https://github.com/Ferousco-dev/anti-slop-design"
+  },
+  {
+    "description": "prompts for steering general AI conversations, development, etc.",
+    "id": "andrew4328/steer.lm",
+    "language": "\u2014",
+    "name": "andrew4328/steer.lm",
+    "stars": 1,
+    "updated_at": "2026-07-29T02:40:11Z",
+    "url": "https://github.com/andrew4328/steer.lm"
+  },
+  {
+    "description": "A structured, evidence-based framework for evaluating LLMs, prompts, translation systems, medical AI, Arabic language, A",
+    "id": "jehadsobohai/AI-Evaluation-Framework",
+    "language": "\u2014",
+    "name": "jehadsobohai/AI-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-07-29T02:39:57Z",
+    "url": "https://github.com/jehadsobohai/AI-Evaluation-Framework"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts and multilingual examples for EvoLink.",
+    "id": "Evolink-AI/awesome-seedance-2.0-prompts",
+    "language": "Python",
+    "name": "Evolink-AI/awesome-seedance-2.0-prompts",
+    "stars": 3,
+    "updated_at": "2026-07-29T02:39:52Z",
+    "url": "https://github.com/Evolink-AI/awesome-seedance-2.0-prompts"
+  },
+  {
+    "description": "True autopilot for coding agents: prompts that keep agents working for days with automatic review, testing, adversarial ",
+    "id": "Mpayro/Advanced-Agent-Harness",
+    "language": "Python",
+    "name": "Mpayro/Advanced-Agent-Harness",
+    "stars": 0,
+    "updated_at": "2026-07-29T02:37:21Z",
+    "url": "https://github.com/Mpayro/Advanced-Agent-Harness"
+  },
+  {
+    "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
+    "id": "iaminpwd/dotfiles",
+    "language": "Shell",
+    "name": "iaminpwd/dotfiles",
+    "stars": 1,
+    "updated_at": "2026-07-29T02:37:20Z",
+    "url": "https://github.com/iaminpwd/dotfiles"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 7,
+    "updated_at": "2026-07-29T02:34:14Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 1,
+    "updated_at": "2026-07-29T02:33:40Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-29T02:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": " A curated system of production-ready Claude Code skills with quantitative evaluation reports, golden test fixtures, and",
     "id": "johnqtcg/awesome-skills",
     "language": "Python",
@@ -25,15 +214,6 @@
     "stars": 7,
     "updated_at": "2026-07-29T02:23:05Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 39945,
-    "updated_at": "2026-07-29T02:22:38Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "Chinese-first Codex skill pack for intent alignment, dynamic routing, lightweight development, code review, UI design, a",
@@ -81,22 +261,13 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
-    "id": "Leo-maomao/pm-copilot",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "Leo-maomao/pm-copilot",
-    "stars": 3,
-    "updated_at": "2026-07-29T02:15:49Z",
-    "url": "https://github.com/Leo-maomao/pm-copilot"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-29T02:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "Arize-ai/phoenix",
+    "stars": 10788,
+    "updated_at": "2026-07-29T02:12:18Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Turn rough ideas into role-aware, execution-ready Agent prompts.",
@@ -133,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T02:07:35Z",
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "A structured, evidence-based framework for evaluating LLMs, prompts, translation systems, medical AI, Arabic language, A",
-    "id": "jehadsobohai/AI-Evaluation-Framework",
-    "language": "\u2014",
-    "name": "jehadsobohai/AI-Evaluation-Framework",
-    "stars": 0,
-    "updated_at": "2026-07-29T02:06:43Z",
-    "url": "https://github.com/jehadsobohai/AI-Evaluation-Framework"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -198,39 +360,12 @@
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   },
   {
-    "description": "Ready-to-use system prompts for Agentic Code Review.",
-    "id": "baz-scm/awesome-reviewers",
-    "language": "SCSS",
-    "name": "baz-scm/awesome-reviewers",
-    "stars": 140,
-    "updated_at": "2026-07-29T02:00:49Z",
-    "url": "https://github.com/baz-scm/awesome-reviewers"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10787,
-    "updated_at": "2026-07-29T02:12:18Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "An SOP that makes an LLM write a real commerce operating plan \u2014 or admit it can't. Evidence-burden rule + the test recor",
-    "id": "nhppyqys/commerce-playbook",
-    "language": "\u2014",
-    "name": "nhppyqys/commerce-playbook",
-    "stars": 2,
-    "updated_at": "2026-07-29T01:57:57Z",
-    "url": "https://github.com/nhppyqys/commerce-playbook"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-29T02:28:21Z",
+    "updated_at": "2026-07-29T02:44:04Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -252,20 +387,11 @@
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   },
   {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 834,
-    "updated_at": "2026-07-29T02:20:08Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
     "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
     "id": "Jia-Ethan/codex-keysmith",
     "language": "Python",
     "name": "Jia-Ethan/codex-keysmith",
-    "stars": 1989,
+    "stars": 1990,
     "updated_at": "2026-07-29T01:54:09Z",
     "url": "https://github.com/Jia-Ethan/codex-keysmith"
   },
@@ -322,131 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-29T01:45:43Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 2,
-    "updated_at": "2026-07-29T01:44:28Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Helen Agent Develop Language ",
-    "id": "hahalee000000/helen",
-    "language": "Python",
-    "name": "hahalee000000/helen",
-    "stars": 2,
-    "updated_at": "2026-07-29T01:42:10Z",
-    "url": "https://github.com/hahalee000000/helen"
-  },
-  {
-    "description": "What did you forget to tell your AI agent? Paste a system prompt, see which failure modes it never guards against \u2014 prom",
-    "id": "shmindmaster/crewscore",
-    "language": "Python",
-    "name": "shmindmaster/crewscore",
-    "stars": 0,
-    "updated_at": "2026-07-29T01:40:59Z",
-    "url": "https://github.com/shmindmaster/crewscore"
-  },
-  {
-    "description": "Carry project state across AI coding-agent and chat sessions: a timestamped briefing paired with your AGENTS.md/CLAUDE.m",
-    "id": "CaptCanadaMan/session-briefing",
-    "language": "Python",
-    "name": "CaptCanadaMan/session-briefing",
-    "stars": 0,
-    "updated_at": "2026-07-29T01:39:26Z",
-    "url": "https://github.com/CaptCanadaMan/session-briefing"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23710,
-    "updated_at": "2026-07-29T01:30:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83c\udf4c The largest Nano Banana Pro prompt library \u2014 26,648 prompts, daily updates, HuggingFace dataset download. More than an",
-    "id": "goku-open/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-nano-banana-pro-prompts",
-    "stars": 1,
-    "updated_at": "2026-07-29T01:28:50Z",
-    "url": "https://github.com/goku-open/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2216,
-    "updated_at": "2026-07-29T01:28:47Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
-    "id": "YouMind-OpenLab/awesome-gpt-image-2",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 8914,
-    "updated_at": "2026-07-29T01:28:30Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
-  },
-  {
-    "description": "Local-first tool that strips emails, secrets, paths, and other identifying content out of your prompts before they reach",
-    "id": "Nano-Collective/prompt-scrubber",
-    "language": "TypeScript",
-    "name": "Nano-Collective/prompt-scrubber",
-    "stars": 8,
-    "updated_at": "2026-07-29T01:27:06Z",
-    "url": "https://github.com/Nano-Collective/prompt-scrubber"
-  },
-  {
-    "description": "\u901a\u7528 AI Coding \u94c1\u5f8b CLAUDE.md \u6a21\u677f \u2014 11 \u6761 operational \u94c1\u5f8b, \u8de8\u9879\u76ee\u590d\u7528",
-    "id": "evan966890/ai-coding-ironrules",
-    "language": "Python",
-    "name": "evan966890/ai-coding-ironrules",
-    "stars": 1,
-    "updated_at": "2026-07-29T01:26:41Z",
-    "url": "https://github.com/evan966890/ai-coding-ironrules"
-  },
-  {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 7,
-    "updated_at": "2026-07-29T01:23:21Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 54,
-    "updated_at": "2026-07-29T01:22:30Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
-    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
-    "language": "TypeScript",
-    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-07-29T01:22:21Z",
-    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
-  },
-  {
-    "description": "Battle-tested prompt design patterns, structured output schemas, and Guardrail templates for reliable LLM outputs at ent",
-    "id": "iszgroup/enterprise-ai-prompt-patterns",
-    "language": "\u2014",
-    "name": "iszgroup/enterprise-ai-prompt-patterns",
-    "stars": 0,
-    "updated_at": "2026-07-29T01:22:12Z",
-    "url": "https://github.com/iszgroup/enterprise-ai-prompt-patterns"
   }
 ]
