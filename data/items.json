@@ -1,12 +1,48 @@
 [
   {
-    "description": "AI Agent Pipeline demonstrating LLM token optimization, multi-agent debugging, and CI/CD deployment. Includes cost reduc",
-    "id": "raoopriyanka/ai_agent_pipeline",
+    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
+    "id": "AditthyaSS/iloveAgents",
+    "language": "JavaScript",
+    "name": "AditthyaSS/iloveAgents",
+    "stars": 115,
+    "updated_at": "2026-07-29T04:43:58Z",
+    "url": "https://github.com/AditthyaSS/iloveAgents"
+  },
+  {
+    "description": "A transparent evaluation dashboard for comparing Felo, ChatGPT, Gemini, Claude, and other Generative AI tools.",
+    "id": "TKshiro/genai-promptops-evaluator",
     "language": "Python",
-    "name": "raoopriyanka/ai_agent_pipeline",
-    "stars": 1,
-    "updated_at": "2026-07-29T04:28:52Z",
-    "url": "https://github.com/raoopriyanka/ai_agent_pipeline"
+    "name": "TKshiro/genai-promptops-evaluator",
+    "stars": 0,
+    "updated_at": "2026-07-29T04:42:49Z",
+    "url": "https://github.com/TKshiro/genai-promptops-evaluator"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 3,
+    "updated_at": "2026-07-29T04:41:44Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
+    "id": "Sungmin-Cho/claude-deep-suite",
+    "language": "JavaScript",
+    "name": "Sungmin-Cho/claude-deep-suite",
+    "stars": 6,
+    "updated_at": "2026-07-29T04:39:25Z",
+    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
+  },
+  {
+    "description": "Claude Agent Skill that eliminates generic AI-generated design. Stop your AI shipping the same purple-gradient, Inter-fo",
+    "id": "Ferousco-dev/anti-slop-design",
+    "language": "Python",
+    "name": "Ferousco-dev/anti-slop-design",
+    "stars": 0,
+    "updated_at": "2026-07-29T04:38:19Z",
+    "url": "https://github.com/Ferousco-dev/anti-slop-design"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -14,8 +50,80 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27253,
-    "updated_at": "2026-07-29T04:28:44Z",
+    "updated_at": "2026-07-29T04:35:54Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Regression tests for your prompts, as a GitHub check. Fails a PR on a statistically significant prompt regression. Offli",
+    "id": "bengodgart/prompt-regression-action",
+    "language": "Python",
+    "name": "bengodgart/prompt-regression-action",
+    "stars": 0,
+    "updated_at": "2026-07-29T04:33:30Z",
+    "url": "https://github.com/bengodgart/prompt-regression-action"
+  },
+  {
+    "description": "What did you forget to tell your AI agent? Paste a system prompt, see which failure modes it never guards against \u2014 prom",
+    "id": "shmindmaster/crewscore",
+    "language": "Python",
+    "name": "shmindmaster/crewscore",
+    "stars": 0,
+    "updated_at": "2026-07-29T04:32:59Z",
+    "url": "https://github.com/shmindmaster/crewscore"
+  },
+  {
+    "description": "Self-grilling Codex skill for refining prompts into executable briefs.",
+    "id": "kyoka-shuiyue/prompt-refiner",
+    "language": "\u2014",
+    "name": "kyoka-shuiyue/prompt-refiner",
+    "stars": 1,
+    "updated_at": "2026-07-29T04:33:05Z",
+    "url": "https://github.com/kyoka-shuiyue/prompt-refiner"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10790,
+    "updated_at": "2026-07-29T04:32:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 2,
+    "updated_at": "2026-07-29T04:31:17Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-07-29T04:30:37Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-29T04:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI Agent Pipeline demonstrating LLM token optimization, multi-agent debugging, and CI/CD deployment. Includes cost reduc",
+    "id": "raoopriyanka/ai_agent_pipeline",
+    "language": "Python",
+    "name": "raoopriyanka/ai_agent_pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-29T04:28:52Z",
+    "url": "https://github.com/raoopriyanka/ai_agent_pipeline"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -36,13 +144,13 @@
     "url": "https://github.com/JackyMe/ai-knowledge-base"
   },
   {
-    "description": "Regression tests for your prompts, as a GitHub check. Fails a PR on a statistically significant prompt regression. Offli",
-    "id": "bengodgart/prompt-regression-action",
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
     "language": "Python",
-    "name": "bengodgart/prompt-regression-action",
-    "stars": 0,
-    "updated_at": "2026-07-29T04:26:50Z",
-    "url": "https://github.com/bengodgart/prompt-regression-action"
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 39964,
+    "updated_at": "2026-07-29T04:41:43Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "Lightweight Claude Code skills for daily AI-assisted development workflows.",
@@ -153,24 +261,6 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-29T04:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 39963,
-    "updated_at": "2026-07-29T04:27:25Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
     "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
     "language": "HTML",
@@ -232,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T04:10:28Z",
     "url": "https://github.com/StephenQiu30/lanverse"
-  },
-  {
-    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
-    "id": "Sungmin-Cho/claude-deep-suite",
-    "language": "JavaScript",
-    "name": "Sungmin-Cho/claude-deep-suite",
-    "stars": 6,
-    "updated_at": "2026-07-29T04:09:33Z",
-    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
   },
   {
     "description": "Five-role decision review Codex Skill for stress-testing strategy, risks, assumptions, alternatives, simplicity, and exe",
@@ -315,15 +396,6 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "What did you forget to tell your AI agent? Paste a system prompt, see which failure modes it never guards against \u2014 prom",
-    "id": "shmindmaster/crewscore",
-    "language": "Python",
-    "name": "shmindmaster/crewscore",
-    "stars": 0,
-    "updated_at": "2026-07-29T04:25:40Z",
-    "url": "https://github.com/shmindmaster/crewscore"
-  },
-  {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
     "id": "teguhimanulloh47/pirate-talk-for-claude",
     "language": "HTML",
@@ -376,77 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-29T03:55:10Z",
     "url": "https://github.com/oeo/monkdev"
-  },
-  {
-    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
-    "id": "AditthyaSS/iloveAgents",
-    "language": "JavaScript",
-    "name": "AditthyaSS/iloveAgents",
-    "stars": 115,
-    "updated_at": "2026-07-29T03:50:45Z",
-    "url": "https://github.com/AditthyaSS/iloveAgents"
-  },
-  {
-    "description": "Open skills, harnesses, hooks, and verifiers for giving probabilistic AI a control layer.",
-    "id": "Kosmoray/dayan-agent-skills",
-    "language": "Python",
-    "name": "Kosmoray/dayan-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-29T03:50:06Z",
-    "url": "https://github.com/Kosmoray/dayan-agent-skills"
-  },
-  {
-    "description": "Auto-derives codebase conventions from repo analysis and injects archetype-aware guidance into AI-generated code, enforc",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 9,
-    "updated_at": "2026-07-29T03:49:50Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Free Claude Code & Cursor prompts for senior engineers \u2014 plus AIOS, an open-source markdown memory system for coding ",
-    "id": "sublimecoder/sublimecoding",
-    "language": "\u2014",
-    "name": "sublimecoder/sublimecoding",
-    "stars": 0,
-    "updated_at": "2026-07-29T03:49:43Z",
-    "url": "https://github.com/sublimecoder/sublimecoding"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-07-29T04:26:35Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "LLM capture proxy with Anthropic cache_control TTL stamping, vision handoff, concurrency gating, rate limiting, and a li",
-    "id": "codegiveness/umans-gate",
-    "language": "TypeScript",
-    "name": "codegiveness/umans-gate",
-    "stars": 1,
-    "updated_at": "2026-07-29T03:48:33Z",
-    "url": "https://github.com/codegiveness/umans-gate"
-  },
-  {
-    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 5072,
-    "updated_at": "2026-07-29T03:48:07Z",
-    "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "Companion code for Delta: Closing the Specification Gap by Sandeep Dhuri \u2014 the Specification Frame, the Ten Laws, and 10",
-    "id": "sandeep-dhuri/specification-frame",
-    "language": "Java",
-    "name": "sandeep-dhuri/specification-frame",
-    "stars": 0,
-    "updated_at": "2026-07-29T03:46:32Z",
-    "url": "https://github.com/sandeep-dhuri/specification-frame"
   }
 ]
