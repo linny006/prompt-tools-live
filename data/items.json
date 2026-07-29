@@ -1,12 +1,66 @@
 [
   {
-    "description": "Ready-to-use system prompts for Agentic Code Review.",
-    "id": "baz-scm/awesome-reviewers",
-    "language": "SCSS",
-    "name": "baz-scm/awesome-reviewers",
-    "stars": 140,
-    "updated_at": "2026-07-29T02:00:12Z",
-    "url": "https://github.com/baz-scm/awesome-reviewers"
+    "description": "Turn rough ideas into role-aware, execution-ready Agent prompts.",
+    "id": "936220035/execution-prompt-builder",
+    "language": "Python",
+    "name": "936220035/execution-prompt-builder",
+    "stars": 0,
+    "updated_at": "2026-07-29T02:12:11Z",
+    "url": "https://github.com/936220035/execution-prompt-builder"
+  },
+  {
+    "description": "Exercises and notes from Anthropic's 'Building with the Claude API' course \u2014 API fundamentals, prompt engineering & eval",
+    "id": "shingieuihos/building-with-the-claude-api",
+    "language": "Python",
+    "name": "shingieuihos/building-with-the-claude-api",
+    "stars": 0,
+    "updated_at": "2026-07-29T02:11:20Z",
+    "url": "https://github.com/shingieuihos/building-with-the-claude-api"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-07-29T02:09:40Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Source-backed Muse Image prompts, official agentic editing cases, reusable workflows, preview media, and 14-language gui",
+    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "stars": 0,
+    "updated_at": "2026-07-29T02:07:35Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+  },
+  {
+    "description": "A structured, evidence-based framework for evaluating LLMs, prompts, translation systems, medical AI, Arabic language, A",
+    "id": "jehadsobohai/AI-Evaluation-Framework",
+    "language": "\u2014",
+    "name": "jehadsobohai/AI-Evaluation-Framework",
+    "stars": 0,
+    "updated_at": "2026-07-29T02:06:43Z",
+    "url": "https://github.com/jehadsobohai/AI-Evaluation-Framework"
+  },
+  {
+    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
+    "id": "5uprem4/ai-skill-vault",
+    "language": "HTML",
+    "name": "5uprem4/ai-skill-vault",
+    "stars": 4,
+    "updated_at": "2026-07-29T02:06:28Z",
+    "url": "https://github.com/5uprem4/ai-skill-vault"
+  },
+  {
+    "description": "\ud83c\udfac SuperMickey \u2014 \u628a\u597d\u83b1\u575e\u5236\u7247\u5382\u88c5\u8fdb\u4e00\u6761\u547d\u4ee4\uff1a\u4e00\u53e5\u8bdd\u8fdb\uff0c\u53f2\u8bd7\u51fa\u30024\u5c42\u67b6\u6784 \u00d7 4\u5927\u751f\u4ea7Agent \u00d7 25\u5b57\u6bb5\u955c\u5934\u5361 \u00d7 149\u9879\u5bfc\u6f14\u7ea7\u6280\u80fd \u00d7 11\u5927\u9898\u6750\u4e16\u754c\u3002We don't sell tools. We deliver ",
+    "id": "geniusdapeng-collab/super-mickey",
+    "language": "JavaScript",
+    "name": "geniusdapeng-collab/super-mickey",
+    "stars": 1,
+    "updated_at": "2026-07-29T02:06:25Z",
+    "url": "https://github.com/geniusdapeng-collab/super-mickey"
   },
   {
     "description": "LLM capture proxy with Anthropic cache_control TTL stamping, vision handoff, concurrency gating, rate limiting, and a li",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "codegiveness/umans-gate",
     "stars": 1,
-    "updated_at": "2026-07-29T01:59:40Z",
+    "updated_at": "2026-07-29T02:05:02Z",
     "url": "https://github.com/codegiveness/umans-gate"
   },
   {
@@ -23,8 +77,53 @@
     "language": "TypeScript",
     "name": "42Midnight/Pixium",
     "stars": 3,
-    "updated_at": "2026-07-29T01:59:29Z",
+    "updated_at": "2026-07-29T02:05:01Z",
     "url": "https://github.com/42Midnight/Pixium"
+  },
+  {
+    "description": "A Claude Code skill that runs code-changing tasks with reviewed plans, controlled multi-agent edits, and evidence-backed",
+    "id": "MillenClaassen/orchestrate-code-task",
+    "language": "\u2014",
+    "name": "MillenClaassen/orchestrate-code-task",
+    "stars": 1,
+    "updated_at": "2026-07-29T02:04:14Z",
+    "url": "https://github.com/MillenClaassen/orchestrate-code-task"
+  },
+  {
+    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
+    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "language": "HTML",
+    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "stars": 50,
+    "updated_at": "2026-07-29T02:03:19Z",
+    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
+  },
+  {
+    "description": "Ready-to-use system prompts for Agentic Code Review.",
+    "id": "baz-scm/awesome-reviewers",
+    "language": "SCSS",
+    "name": "baz-scm/awesome-reviewers",
+    "stars": 140,
+    "updated_at": "2026-07-29T02:00:49Z",
+    "url": "https://github.com/baz-scm/awesome-reviewers"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-29T02:00:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10787,
+    "updated_at": "2026-07-29T02:12:18Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
@@ -32,7 +131,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-29T01:59:23Z",
+    "updated_at": "2026-07-29T02:05:01Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -40,18 +139,9 @@
     "id": "nhppyqys/commerce-playbook",
     "language": "\u2014",
     "name": "nhppyqys/commerce-playbook",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-29T01:57:57Z",
     "url": "https://github.com/nhppyqys/commerce-playbook"
-  },
-  {
-    "description": "\ud83c\udfac SuperMickey \u2014 \u628a\u597d\u83b1\u575e\u5236\u7247\u5382\u88c5\u8fdb\u4e00\u6761\u547d\u4ee4\uff1a\u4e00\u53e5\u8bdd\u8fdb\uff0c\u53f2\u8bd7\u51fa\u30024\u5c42\u67b6\u6784 \u00d7 4\u5927\u751f\u4ea7Agent \u00d7 25\u5b57\u6bb5\u955c\u5934\u5361 \u00d7 149\u9879\u5bfc\u6f14\u7ea7\u6280\u80fd \u00d7 11\u5927\u9898\u6750\u4e16\u754c\u3002We don't sell tools. We deliver ",
-    "id": "geniusdapeng-collab/super-mickey",
-    "language": "JavaScript",
-    "name": "geniusdapeng-collab/super-mickey",
-    "stars": 0,
-    "updated_at": "2026-07-29T01:57:56Z",
-    "url": "https://github.com/geniusdapeng-collab/super-mickey"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -59,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3426,
-    "updated_at": "2026-07-29T01:59:40Z",
+    "updated_at": "2026-07-29T02:14:26Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -86,7 +176,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 834,
-    "updated_at": "2026-07-29T02:00:01Z",
+    "updated_at": "2026-07-29T02:01:51Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -162,15 +252,6 @@
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-29T01:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
     "id": "edsondviana8/ai-humanizer-core",
     "language": "HTML",
@@ -211,7 +292,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 39936,
+    "stars": 39938,
     "updated_at": "2026-07-29T01:40:31Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -229,7 +310,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23709,
+    "stars": 23710,
     "updated_at": "2026-07-29T01:30:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-29T01:15:42Z",
     "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-07-29T01:14:25Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Free library of original guides on working with AI. 22 guides, five layers, three depths, no signup. Source for corewise",
-    "id": "ryanportfolio/Corewise.Academy",
-    "language": "MDX",
-    "name": "ryanportfolio/Corewise.Academy",
-    "stars": 0,
-    "updated_at": "2026-07-29T01:14:02Z",
-    "url": "https://github.com/ryanportfolio/Corewise.Academy"
-  },
-  {
-    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
-    "id": "ralphmoran/ticket-lens",
-    "language": "JavaScript",
-    "name": "ralphmoran/ticket-lens",
-    "stars": 2,
-    "updated_at": "2026-07-29T01:14:01Z",
-    "url": "https://github.com/ralphmoran/ticket-lens"
-  },
-  {
-    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
-    "id": "ryanportfolio/savetokens",
-    "language": "HTML",
-    "name": "ryanportfolio/savetokens",
-    "stars": 1,
-    "updated_at": "2026-07-29T01:13:56Z",
-    "url": "https://github.com/ryanportfolio/savetokens"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 2,
-    "updated_at": "2026-07-29T01:09:49Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-07-29T01:09:31Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-07-29T01:08:49Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "\ud83d\udcac 1,400+ AI personas for LLMs and agents.",
-    "id": "KudoAI/ai-personas",
-    "language": "Python",
-    "name": "KudoAI/ai-personas",
-    "stars": 26,
-    "updated_at": "2026-07-29T01:09:05Z",
-    "url": "https://github.com/KudoAI/ai-personas"
-  },
-  {
-    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
-    "id": "sauravbhattacharya001/agentlens",
-    "language": "JavaScript",
-    "name": "sauravbhattacharya001/agentlens",
-    "stars": 2,
-    "updated_at": "2026-07-29T01:05:37Z",
-    "url": "https://github.com/sauravbhattacharya001/agentlens"
   }
 ]
