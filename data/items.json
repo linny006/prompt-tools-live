@@ -1,5 +1,149 @@
 [
   {
+    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
+    "id": "ai-boost/awesome-prompts",
+    "language": "\u2014",
+    "name": "ai-boost/awesome-prompts",
+    "stars": 8595,
+    "updated_at": "2026-07-30T12:15:18Z",
+    "url": "https://github.com/ai-boost/awesome-prompts"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3431,
+    "updated_at": "2026-07-30T12:15:24Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32161,
+    "updated_at": "2026-07-30T12:12:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "When coding with AI, it's an IDE-independent, single-file universal rule system that also allows it to truly learn thing",
+    "id": "Omeraydognn/vibecodingwithedu",
+    "language": "JavaScript",
+    "name": "Omeraydognn/vibecodingwithedu",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:09:28Z",
+    "url": "https://github.com/Omeraydognn/vibecodingwithedu"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:08:45Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Curated collection of reusable JSON prompt templates & style references for AI image generation. Updated daily.",
+    "id": "VigoZhao/AI-Visual-Prompt-Cookbook",
+    "language": "Python",
+    "name": "VigoZhao/AI-Visual-Prompt-Cookbook",
+    "stars": 524,
+    "updated_at": "2026-07-30T12:08:28Z",
+    "url": "https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:07:41Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Claude Code skill for Ideogram AI image generation \u2014 structured JSON caption prompting, color palette control, and MCP-b",
+    "id": "devkindhq/ideogram-ai-toolkit",
+    "language": "\u2014",
+    "name": "devkindhq/ideogram-ai-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:07:40Z",
+    "url": "https://github.com/devkindhq/ideogram-ai-toolkit"
+  },
+  {
+    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 49,
+    "updated_at": "2026-07-30T12:06:57Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "Agent skills for Claude Code where every entry ships with receipts: accuracy-gated benchmarks vs baseline AND placebo. R",
+    "id": "sjh9714/skill-receipts",
+    "language": "JavaScript",
+    "name": "sjh9714/skill-receipts",
+    "stars": 2,
+    "updated_at": "2026-07-30T12:06:41Z",
+    "url": "https://github.com/sjh9714/skill-receipts"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:05:58Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 20981,
+    "updated_at": "2026-07-30T12:14:13Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:03:23Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 3,
+    "updated_at": "2026-07-30T12:02:29Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-07-30T12:02:04Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-30T12:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
     "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
     "language": "JavaScript",
@@ -14,7 +158,7 @@
     "language": "MDX",
     "name": "derob98/ailmanac",
     "stars": 7,
-    "updated_at": "2026-07-30T11:57:14Z",
+    "updated_at": "2026-07-30T12:07:54Z",
     "url": "https://github.com/derob98/ailmanac"
   },
   {
@@ -34,15 +178,6 @@
     "stars": 5,
     "updated_at": "2026-07-30T11:55:45Z",
     "url": "https://github.com/Evolink-AI/awesome-minimax-H3-prompts"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 3,
-    "updated_at": "2026-07-30T11:55:59Z",
-    "url": "https://github.com/rockerlabs/keel"
   },
   {
     "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
@@ -108,33 +243,6 @@
     "url": "https://github.com/is-leeroy-jenkins/Buddy"
   },
   {
-    "description": "Claude Code skill for Ideogram AI image generation \u2014 structured JSON caption prompting, color palette control, and MCP-b",
-    "id": "devkindhq/ideogram-ai-toolkit",
-    "language": "\u2014",
-    "name": "devkindhq/ideogram-ai-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-30T11:50:34Z",
-    "url": "https://github.com/devkindhq/ideogram-ai-toolkit"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32159,
-    "updated_at": "2026-07-30T11:58:06Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
-    "id": "robertomarchioro/prompt-a-porter",
-    "language": "Rust",
-    "name": "robertomarchioro/prompt-a-porter",
-    "stars": 1,
-    "updated_at": "2026-07-30T11:59:38Z",
-    "url": "https://github.com/robertomarchioro/prompt-a-porter"
-  },
-  {
     "description": "A TypeScript framework for orchestrating cooperative LLM agents with fault tolerance, circuit breakers, and observable s",
     "id": "kreftamarcio/multi-agent-orchestrator",
     "language": "TypeScript",
@@ -142,6 +250,15 @@
     "stars": 1,
     "updated_at": "2026-07-30T11:49:49Z",
     "url": "https://github.com/kreftamarcio/multi-agent-orchestrator"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10813,
+    "updated_at": "2026-07-30T11:49:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -198,24 +315,6 @@
     "url": "https://github.com/Sunwood-ai-labs/OpenFace"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-30T11:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20981,
-    "updated_at": "2026-07-30T11:45:01Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "n8n workflow that triages free-text wholesale orders: deterministic lookups gather the facts, one bounded LLM agent make",
     "id": "sergey-kasatov/llm-order-triage-agent",
     "language": "\u2014",
@@ -223,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T11:44:41Z",
     "url": "https://github.com/sergey-kasatov/llm-order-triage-agent"
-  },
-  {
-    "description": "Agent skills for Claude Code where every entry ships with receipts: accuracy-gated benchmarks vs baseline AND placebo. R",
-    "id": "sjh9714/skill-receipts",
-    "language": "JavaScript",
-    "name": "sjh9714/skill-receipts",
-    "stars": 2,
-    "updated_at": "2026-07-30T11:41:47Z",
-    "url": "https://github.com/sjh9714/skill-receipts"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -275,17 +365,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27276,
-    "updated_at": "2026-07-30T11:37:57Z",
+    "updated_at": "2026-07-30T12:14:25Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
-    "id": "ariffazil/arifOS",
-    "language": "Python",
-    "name": "ariffazil/arifOS",
-    "stars": 49,
-    "updated_at": "2026-07-30T11:38:50Z",
-    "url": "https://github.com/ariffazil/arifOS"
   },
   {
     "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T11:21:44Z",
     "url": "https://github.com/narumiruna/aru"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 2,
-    "updated_at": "2026-07-30T11:18:21Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 153,
-    "updated_at": "2026-07-30T11:14:58Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Prompt Sloth desktop app \u2014 improve any prompt, anywhere, with one keystroke. Cross-platform (macOS + Windows). Downloads",
-    "id": "EricStrohmaier/promptsloth",
-    "language": "\u2014",
-    "name": "EricStrohmaier/promptsloth",
-    "stars": 0,
-    "updated_at": "2026-07-30T11:14:03Z",
-    "url": "https://github.com/EricStrohmaier/promptsloth"
-  },
-  {
-    "description": "Domain experts skill for Claude Code \u2014 summon 1-3 opinionated experts (fields, schools of thought, named people) from a ",
-    "id": "xtompie/expert",
-    "language": "\u2014",
-    "name": "xtompie/expert",
-    "stars": 0,
-    "updated_at": "2026-07-30T11:13:10Z",
-    "url": "https://github.com/xtompie/expert"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 155,
-    "updated_at": "2026-07-30T11:12:09Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 155,
-    "updated_at": "2026-07-30T11:10:59Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Personal GitHub profile \u00b7 \u4e2a\u4eba GitHub \u4e3b\u9875",
-    "id": "redamancy231-create/redamancy231-create",
-    "language": "\u2014",
-    "name": "redamancy231-create/redamancy231-create",
-    "stars": 0,
-    "updated_at": "2026-07-30T11:10:50Z",
-    "url": "https://github.com/redamancy231-create/redamancy231-create"
-  },
-  {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-07-30T11:08:39Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3431,
-    "updated_at": "2026-07-30T11:44:25Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
