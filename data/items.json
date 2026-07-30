@@ -1,5 +1,50 @@
 [
   {
+    "description": "An agent package and project manager, written in Rust.",
+    "id": "narumiruna/aru",
+    "language": "Rust",
+    "name": "narumiruna/aru",
+    "stars": 2,
+    "updated_at": "2026-07-30T14:36:49Z",
+    "url": "https://github.com/narumiruna/aru"
+  },
+  {
+    "description": "AI Coding workflow console with Prompt Template, Generation Trace, Knowledge Reference and Human Review.",
+    "id": "jameswilson87156-del/devflow-copilot",
+    "language": "Vue",
+    "name": "jameswilson87156-del/devflow-copilot",
+    "stars": 1,
+    "updated_at": "2026-07-30T14:33:26Z",
+    "url": "https://github.com/jameswilson87156-del/devflow-copilot"
+  },
+  {
+    "description": "\u591a\u667a\u80fd\u4f53\u534f\u540c\u5f71\u89c6\u5de5\u4e1a\u5316AI\u5de5\u4f5c\u53f0 | \u5185\u7f6e\u7f16\u5267\u5ba4SOP + AI\u89c6\u9891\u5206\u955c\u63d0\u793a\u8bcd\u5f15\u64ce + \u957f\u6587\u672c\u6df1\u5ea6\u5904\u7406 | \u652f\u630112+ LLM\u670d\u52a1\u5546",
+    "id": "slipknot0130/Film-Production-Toolkit",
+    "language": "Python",
+    "name": "slipknot0130/Film-Production-Toolkit",
+    "stars": 7,
+    "updated_at": "2026-07-30T14:31:59Z",
+    "url": "https://github.com/slipknot0130/Film-Production-Toolkit"
+  },
+  {
+    "description": "minimax h3 prompts collection",
+    "id": "Evolink-AI/awesome-minimax-H3-prompts",
+    "language": "JavaScript",
+    "name": "Evolink-AI/awesome-minimax-H3-prompts",
+    "stars": 5,
+    "updated_at": "2026-07-30T14:30:46Z",
+    "url": "https://github.com/Evolink-AI/awesome-minimax-H3-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-30T14:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A practical guide and starter kit for researchers using OpenAI Codex (ChatGPT's coding agent) on long, technically deman",
     "id": "Mexregkan/chatgpt-for-researchers",
     "language": "Python",
@@ -112,7 +157,7 @@
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1696,
+    "stars": 1697,
     "updated_at": "2026-07-30T14:20:11Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32168,
-    "updated_at": "2026-07-30T14:28:59Z",
+    "updated_at": "2026-07-30T14:36:32Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-30T14:30:03Z",
+    "updated_at": "2026-07-30T14:35:23Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-07-30T14:15:51Z",
     "url": "https://github.com/DOTfei/borrowed-brain-pro"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-30T14:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A prompt library for AI agents and assistants.",
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 20986,
-    "updated_at": "2026-07-30T14:07:21Z",
+    "updated_at": "2026-07-30T14:32:58Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -288,15 +324,6 @@
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
   },
   {
-    "description": "An agent package and project manager, written in Rust.",
-    "id": "narumiruna/aru",
-    "language": "Rust",
-    "name": "narumiruna/aru",
-    "stars": 2,
-    "updated_at": "2026-07-30T14:04:00Z",
-    "url": "https://github.com/narumiruna/aru"
-  },
-  {
     "description": "Official Muse Video preview prompts, playable clips, native-audio shot briefs, continuity workflows, and 14-language gui",
     "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
     "language": "TypeScript",
@@ -310,7 +337,7 @@
     "id": "ZeroLu/awesome-seedance",
     "language": "Shell",
     "name": "ZeroLu/awesome-seedance",
-    "stars": 2236,
+    "stars": 2237,
     "updated_at": "2026-07-30T14:03:54Z",
     "url": "https://github.com/ZeroLu/awesome-seedance"
   },
@@ -401,7 +428,7 @@
     "language": "TypeScript",
     "name": "flexigpt/flexigpt-app",
     "stars": 4,
-    "updated_at": "2026-07-30T13:59:16Z",
+    "updated_at": "2026-07-30T14:33:31Z",
     "url": "https://github.com/flexigpt/flexigpt-app"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-30T13:54:59Z",
     "url": "https://github.com/Goku-OpenLab/seedance-2-prompts-datasets"
-  },
-  {
-    "description": "Audit a GitHub README for AI-generated cliche patterns. Single HTML file, BYOK Claude API, MIT licensed. No build step, ",
-    "id": "0xelitesystem/readme-slop-checker",
-    "language": "HTML",
-    "name": "0xelitesystem/readme-slop-checker",
-    "stars": 0,
-    "updated_at": "2026-07-30T13:54:50Z",
-    "url": "https://github.com/0xelitesystem/readme-slop-checker"
-  },
-  {
-    "description": "Production prompts that target specific failure modes of LLM behavior: AI slop, sycophantic recommendations, shallow cod",
-    "id": "0xelitesystem/prompt-templates",
-    "language": "\u2014",
-    "name": "0xelitesystem/prompt-templates",
-    "stars": 1,
-    "updated_at": "2026-07-30T13:54:49Z",
-    "url": "https://github.com/0xelitesystem/prompt-templates"
-  },
-  {
-    "description": "Compare two versions of a prompt and see exactly what changed. Word, character, and line-level diffs. Single HTML file, ",
-    "id": "0xelitesystem/prompt-diff",
-    "language": "HTML",
-    "name": "0xelitesystem/prompt-diff",
-    "stars": 0,
-    "updated_at": "2026-07-30T13:54:48Z",
-    "url": "https://github.com/0xelitesystem/prompt-diff"
   }
 ]
