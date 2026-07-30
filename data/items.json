@@ -1,11 +1,83 @@
 [
   {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-30T23:40:27Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "License  A browser extension that scrapes any job posting, tailors your application with AI, fills web forms, and crafts",
+    "id": "pouladzade/job-copilot",
+    "language": "TypeScript",
+    "name": "pouladzade/job-copilot",
+    "stars": 0,
+    "updated_at": "2026-07-30T23:37:35Z",
+    "url": "https://github.com/pouladzade/job-copilot"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-07-30T23:36:21Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Plugin-native baseline brain for Alex ACT, with critical-thinking instructions, reusable agent skills, prompts, and tool",
+    "id": "fabioc-aloha/Alex_ACT_Core",
+    "language": "\u2014",
+    "name": "fabioc-aloha/Alex_ACT_Core",
+    "stars": 0,
+    "updated_at": "2026-07-30T23:36:16Z",
+    "url": "https://github.com/fabioc-aloha/Alex_ACT_Core"
+  },
+  {
+    "description": "Agent skills by Titus Kirch \u2014 installable via skills.sh in Claude Code, Codex, Cursor, OpenCode and friends.",
+    "id": "TitusKirch/skills",
+    "language": "TypeScript",
+    "name": "TitusKirch/skills",
+    "stars": 0,
+    "updated_at": "2026-07-30T23:36:28Z",
+    "url": "https://github.com/TitusKirch/skills"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-07-30T23:35:41Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Midjourney \u2013 A powerful desktop tool to manage unlimited prompt generation, optimize your workflow, and enhance AI art c",
+    "id": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
+    "language": "\u2014",
+    "name": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
+    "stars": 0,
+    "updated_at": "2026-07-30T23:34:11Z",
+    "url": "https://github.com/deader49963hefty/Midjourney-Ultimate-Prompts-Studio"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-30T23:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
     "id": "CodeAlive-AI/ai-driven-development",
     "language": "Python",
     "name": "CodeAlive-AI/ai-driven-development",
     "stars": 112,
-    "updated_at": "2026-07-30T23:29:26Z",
+    "updated_at": "2026-07-30T23:38:25Z",
     "url": "https://github.com/CodeAlive-AI/ai-driven-development"
   },
   {
@@ -27,24 +99,6 @@
     "url": "https://github.com/oyi77/1ai-skills"
   },
   {
-    "description": "Plugin-native baseline brain for Alex ACT, with critical-thinking instructions, reusable agent skills, prompts, and tool",
-    "id": "fabioc-aloha/Alex_ACT_Core",
-    "language": "\u2014",
-    "name": "fabioc-aloha/Alex_ACT_Core",
-    "stars": 0,
-    "updated_at": "2026-07-30T23:19:49Z",
-    "url": "https://github.com/fabioc-aloha/Alex_ACT_Core"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-07-30T23:22:15Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "Source code for the IBM Granite AI Model Workshop",
     "id": "IBM/granite-workshop",
     "language": "Jupyter Notebook",
@@ -52,15 +106,6 @@
     "stars": 50,
     "updated_at": "2026-07-30T23:16:16Z",
     "url": "https://github.com/IBM/granite-workshop"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-30T23:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10818,
-    "updated_at": "2026-07-30T23:29:32Z",
+    "updated_at": "2026-07-30T23:38:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -211,7 +256,7 @@
     "id": "Zipstack/unstract",
     "language": "Python",
     "name": "Zipstack/unstract",
-    "stars": 6966,
+    "stars": 6967,
     "updated_at": "2026-07-30T22:57:57Z",
     "url": "https://github.com/Zipstack/unstract"
   },
@@ -351,15 +396,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-07-30T22:31:00Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -405,15 +441,6 @@
     "url": "https://github.com/TinkerandScribe/gxp"
   },
   {
-    "description": "License  A browser extension that scrapes any job posting, tailors your application with AI, fills web forms, and crafts",
-    "id": "pouladzade/job-copilot",
-    "language": "TypeScript",
-    "name": "pouladzade/job-copilot",
-    "stars": 0,
-    "updated_at": "2026-07-30T22:26:33Z",
-    "url": "https://github.com/pouladzade/job-copilot"
-  },
-  {
     "description": "Entorno modular y arquitectura estandarizada para optimizar el flujo de trabajo did\u00e1ctico entre desarrolladores y agente",
     "id": "jona943/___localProcess_Manager",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T22:26:26Z",
     "url": "https://github.com/jona943/___localProcess_Manager"
-  },
-  {
-    "description": "A library of reusable instructions and Claude Code skills for AI coding agents.",
-    "id": "konstruktoid/agent-instructions-skills",
-    "language": "Python",
-    "name": "konstruktoid/agent-instructions-skills",
-    "stars": 0,
-    "updated_at": "2026-07-30T22:26:17Z",
-    "url": "https://github.com/konstruktoid/agent-instructions-skills"
-  },
-  {
-    "description": "Portable user-context for AI tools \u2014 identity, voice, and preferences read at session start. Three plain-text files at ~",
-    "id": "thebestmensch/dot-me",
-    "language": "Shell",
-    "name": "thebestmensch/dot-me",
-    "stars": 3,
-    "updated_at": "2026-07-30T22:26:09Z",
-    "url": "https://github.com/thebestmensch/dot-me"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23765,
-    "updated_at": "2026-07-30T22:16:16Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
