@@ -1,21 +1,48 @@
 [
   {
-    "description": "Voice-to-prompt desktop app \u2014 hold a shortcut, speak in any language, get a well-structured English prompt pasted where ",
+    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
+    "id": "adrianwedd/cv",
+    "language": "JavaScript",
+    "name": "adrianwedd/cv",
+    "stars": 4,
+    "updated_at": "2026-07-30T21:29:01Z",
+    "url": "https://github.com/adrianwedd/cv"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1710,
+    "updated_at": "2026-07-30T21:28:34Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Creating an SPA for a music studio using prompt engineering",
+    "id": "raposamillar/studio-website",
+    "language": "HTML",
+    "name": "raposamillar/studio-website",
+    "stars": 0,
+    "updated_at": "2026-07-30T21:26:28Z",
+    "url": "https://github.com/raposamillar/studio-website"
+  },
+  {
+    "description": "Voice-to-prompt macOS menu bar app \u2014 speak in any language, get a structured English prompt with your code identifiers i",
     "id": "mhsniranmanesh/Clarion",
     "language": "Python",
     "name": "mhsniranmanesh/Clarion",
     "stars": 0,
-    "updated_at": "2026-07-30T21:15:18Z",
+    "updated_at": "2026-07-30T21:23:13Z",
     "url": "https://github.com/mhsniranmanesh/Clarion"
   },
   {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 15,
-    "updated_at": "2026-07-30T21:14:09Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "HTML",
+    "name": "llwslc/proteus",
+    "stars": 2,
+    "updated_at": "2026-07-30T21:22:54Z",
+    "url": "https://github.com/llwslc/proteus"
   },
   {
     "description": "Practice-built skills that give AI agents practical judgment for product, web, engineering, delivery, go-to-market, comm",
@@ -23,8 +50,35 @@
     "language": "Python",
     "name": "sebastian-software/skills.sebastian-software.com",
     "stars": 0,
-    "updated_at": "2026-07-30T21:13:25Z",
+    "updated_at": "2026-07-30T21:21:15Z",
     "url": "https://github.com/sebastian-software/skills.sebastian-software.com"
+  },
+  {
+    "description": "Independent, reproducible weekly research observing how LLMs actually behave \u2014 not which one is 'best'.",
+    "id": "ai-behavior-observatory/ai-behavior-observatory",
+    "language": "Python",
+    "name": "ai-behavior-observatory/ai-behavior-observatory",
+    "stars": 0,
+    "updated_at": "2026-07-30T21:22:24Z",
+    "url": "https://github.com/ai-behavior-observatory/ai-behavior-observatory"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-07-30T21:18:15Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 15,
+    "updated_at": "2026-07-30T21:16:31Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
     "description": "An agent-agnostic toolkit that equips any AI agent to help a beginner start pickling at home safely. Attach one Markdown",
@@ -32,8 +86,17 @@
     "language": "JavaScript",
     "name": "teltringham/open-pickle",
     "stars": 0,
-    "updated_at": "2026-07-30T21:12:57Z",
+    "updated_at": "2026-07-30T21:16:12Z",
     "url": "https://github.com/teltringham/open-pickle"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-30T21:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -104,7 +167,7 @@
     "language": "TypeScript",
     "name": "chriscantu/claude-config",
     "stars": 0,
-    "updated_at": "2026-07-30T21:07:13Z",
+    "updated_at": "2026-07-30T21:29:08Z",
     "url": "https://github.com/chriscantu/claude-config"
   },
   {
@@ -151,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T21:04:02Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Creating an SPA for a music studio using prompt engineering",
-    "id": "raposamillar/studio-website",
-    "language": "HTML",
-    "name": "raposamillar/studio-website",
-    "stars": 0,
-    "updated_at": "2026-07-30T21:03:40Z",
-    "url": "https://github.com/raposamillar/studio-website"
   },
   {
     "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
@@ -225,21 +279,12 @@
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-30T21:00:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
     "id": "martinholovsky/SOTA-skills",
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 8,
-    "updated_at": "2026-07-30T21:00:04Z",
+    "updated_at": "2026-07-30T21:29:41Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T20:42:34Z",
     "url": "https://github.com/TinkerandScribe/gxp"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-07-30T20:38:25Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-07-30T20:37:06Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-07-30T20:36:54Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-07-30T20:36:11Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3436,
-    "updated_at": "2026-07-30T21:14:03Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
