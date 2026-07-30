@@ -1,5 +1,23 @@
 [
   {
+    "description": "Route the task before you run it - surface, model and budget in one card. A Claude skill for spending tokens where they ",
+    "id": "jamiecooper4-netizen/token-optimiser",
+    "language": "Python",
+    "name": "jamiecooper4-netizen/token-optimiser",
+    "stars": 0,
+    "updated_at": "2026-07-30T19:01:30Z",
+    "url": "https://github.com/jamiecooper4-netizen/token-optimiser"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-30T19:00:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "An Agent Skill that makes any AI explain like Richard Feynman: mechanism before name, one honest analogy with its limits",
     "id": "guicortei/feynman-technique",
     "language": "Python",
@@ -90,15 +108,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-30T18:45:39Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A practical guide to AI: from running your first local model to building your own agents. 52 files covering LLMs, Ollama",
     "id": "bestdeejay-design/awesome-ai-handbook",
     "language": "HTML",
@@ -158,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3436,
-    "updated_at": "2026-07-30T18:59:35Z",
+    "updated_at": "2026-07-30T19:03:22Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10816,
-    "updated_at": "2026-07-30T18:59:20Z",
+    "updated_at": "2026-07-30T19:01:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-30T18:04:58Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "An agent package and project manager, written in Rust.",
-    "id": "narumiruna/aru",
-    "language": "Rust",
-    "name": "narumiruna/aru",
-    "stars": 2,
-    "updated_at": "2026-07-30T18:04:14Z",
-    "url": "https://github.com/narumiruna/aru"
   }
 ]
