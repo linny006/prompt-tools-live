@@ -1,12 +1,21 @@
 [
   {
-    "description": "Build your own Claude Code OS. Forest of small domain docs. Agents do the work.",
-    "id": "DamianBuilds-ai/atlas-method",
-    "language": "Shell",
-    "name": "DamianBuilds-ai/atlas-method",
-    "stars": 4,
-    "updated_at": "2026-07-30T10:44:07Z",
-    "url": "https://github.com/DamianBuilds-ai/atlas-method"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32155,
+    "updated_at": "2026-07-30T10:50:13Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Portable Windows scratchpad and snippet manager. One global hotkey, instant window, markdown, silos, themes. Built with ",
+    "id": "vacterro/FastPrompter",
+    "language": "Python",
+    "name": "vacterro/FastPrompter",
+    "stars": 7,
+    "updated_at": "2026-07-30T10:49:59Z",
+    "url": "https://github.com/vacterro/FastPrompter"
   },
   {
     "description": "Free open-source browser tool to analyze, score, and improve Suno AI prompts. No login required.",
@@ -14,8 +23,35 @@
     "language": "JavaScript",
     "name": "AlijeeWrites/suno-ai-prompt-analyzer",
     "stars": 0,
-    "updated_at": "2026-07-30T10:43:58Z",
+    "updated_at": "2026-07-30T10:48:47Z",
     "url": "https://github.com/AlijeeWrites/suno-ai-prompt-analyzer"
+  },
+  {
+    "description": "Controlled, reviewable agentic coding workflows for OpenAI Codex CLI with task-specific subagents, explicit planning, TD",
+    "id": "shinpr/codex-workflows",
+    "language": "JavaScript",
+    "name": "shinpr/codex-workflows",
+    "stars": 28,
+    "updated_at": "2026-07-30T10:45:35Z",
+    "url": "https://github.com/shinpr/codex-workflows"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-30T10:45:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Build your own Claude Code OS. Forest of small domain docs. Agents do the work.",
+    "id": "DamianBuilds-ai/atlas-method",
+    "language": "Shell",
+    "name": "DamianBuilds-ai/atlas-method",
+    "stars": 4,
+    "updated_at": "2026-07-30T10:44:07Z",
+    "url": "https://github.com/DamianBuilds-ai/atlas-method"
   },
   {
     "description": "Auto-route every Claude Code prompt to the right skill, subagent, or slash command \u2014 silently, locally, with zero API ke",
@@ -144,15 +180,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-30T10:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
     "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
     "language": "JavaScript",
@@ -160,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T10:27:44Z",
     "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32155,
-    "updated_at": "2026-07-30T10:43:06Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T09:55:16Z",
     "url": "https://github.com/savagemanage/redrob-eval"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-07-30T09:55:14Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Tapir skills for engineering judgment, app-icon craft, and presentation design.",
-    "id": "SuperTapir/tapir-skills",
-    "language": "JavaScript",
-    "name": "SuperTapir/tapir-skills",
-    "stars": 1,
-    "updated_at": "2026-07-30T09:54:29Z",
-    "url": "https://github.com/SuperTapir/tapir-skills"
   }
 ]
