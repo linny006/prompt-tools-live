@@ -1,12 +1,39 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Meridian - A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversa",
+    "id": "MathisVerstrepen/Meridian",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10816,
-    "updated_at": "2026-07-30T18:29:28Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "MathisVerstrepen/Meridian",
+    "stars": 20,
+    "updated_at": "2026-07-30T18:45:26Z",
+    "url": "https://github.com/MathisVerstrepen/Meridian"
+  },
+  {
+    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
+    "id": "product-on-purpose/writing-style-catalog",
+    "language": "Python",
+    "name": "product-on-purpose/writing-style-catalog",
+    "stars": 2,
+    "updated_at": "2026-07-30T18:44:13Z",
+    "url": "https://github.com/product-on-purpose/writing-style-catalog"
+  },
+  {
+    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
+    "id": "grigb/gas-prompt-library",
+    "language": "Python",
+    "name": "grigb/gas-prompt-library",
+    "stars": 3,
+    "updated_at": "2026-07-30T18:42:56Z",
+    "url": "https://github.com/grigb/gas-prompt-library"
+  },
+  {
+    "description": "prompts for steering general AI conversations, development, etc.",
+    "id": "andrew4328/steer.lm",
+    "language": "Python",
+    "name": "andrew4328/steer.lm",
+    "stars": 1,
+    "updated_at": "2026-07-30T18:41:50Z",
+    "url": "https://github.com/andrew4328/steer.lm"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -14,8 +41,62 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3436,
-    "updated_at": "2026-07-30T18:29:09Z",
+    "updated_at": "2026-07-30T18:42:44Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Find the safety rules your AI agent prompt forgot. Checks 23 published controls \u2014 injection defense, human approval, cos",
+    "id": "shmindmaster/crewscore",
+    "language": "Python",
+    "name": "shmindmaster/crewscore",
+    "stars": 1,
+    "updated_at": "2026-07-30T18:40:06Z",
+    "url": "https://github.com/shmindmaster/crewscore"
+  },
+  {
+    "description": "A collection of Skills (system prompts) for autonomous AI Agents and LLMs (Google Antigravity, Claude Code, GitHub Copil",
+    "id": "dasgltd/llm-skills",
+    "language": "\u2014",
+    "name": "dasgltd/llm-skills",
+    "stars": 2,
+    "updated_at": "2026-07-30T18:32:54Z",
+    "url": "https://github.com/dasgltd/llm-skills"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32179,
+    "updated_at": "2026-07-30T18:30:44Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
+    "id": "jamestexas/agents",
+    "language": "Shell",
+    "name": "jamestexas/agents",
+    "stars": 2,
+    "updated_at": "2026-07-30T18:30:40Z",
+    "url": "https://github.com/jamestexas/agents"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-30T18:30:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10816,
+    "updated_at": "2026-07-30T18:29:28Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI academic PPT workflow skill for Codex / ChatGPT: paper-to-editable PowerPoint, planning table, mockup family, and PPT",
@@ -27,21 +108,12 @@
     "url": "https://github.com/deathcats4/scholar-ppt-cn"
   },
   {
-    "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
-    "id": "jamestexas/agents",
-    "language": "Shell",
-    "name": "jamestexas/agents",
-    "stars": 2,
-    "updated_at": "2026-07-30T18:27:01Z",
-    "url": "https://github.com/jamestexas/agents"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23762,
-    "updated_at": "2026-07-30T18:30:09Z",
+    "updated_at": "2026-07-30T18:30:48Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -153,15 +225,6 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
-    "description": "Find the safety rules your AI agent prompt forgot. Checks 23 published controls \u2014 injection defense, human approval, cos",
-    "id": "shmindmaster/crewscore",
-    "language": "Python",
-    "name": "shmindmaster/crewscore",
-    "stars": 1,
-    "updated_at": "2026-07-30T18:20:41Z",
-    "url": "https://github.com/shmindmaster/crewscore"
-  },
-  {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
     "id": "kaderkck/hewn-forge",
     "language": "HTML",
@@ -225,21 +288,12 @@
     "url": "https://github.com/kingkillery/pk-pi-hermes-evolve"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-30T18:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A practical guide to AI: from running your first local model to building your own agents. 52 files covering LLMs, Ollama",
     "id": "bestdeejay-design/awesome-ai-handbook",
     "language": "HTML",
     "name": "bestdeejay-design/awesome-ai-handbook",
     "stars": 31,
-    "updated_at": "2026-07-30T18:13:52Z",
+    "updated_at": "2026-07-30T18:45:27Z",
     "url": "https://github.com/bestdeejay-design/awesome-ai-handbook"
   },
   {
@@ -277,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T18:06:12Z",
     "url": "https://github.com/KashifMaqbool/Generative_AI_Engineering_Specialization"
-  },
-  {
-    "description": "prompts for steering general AI conversations, development, etc.",
-    "id": "andrew4328/steer.lm",
-    "language": "Python",
-    "name": "andrew4328/steer.lm",
-    "stars": 1,
-    "updated_at": "2026-07-30T18:05:59Z",
-    "url": "https://github.com/andrew4328/steer.lm"
   },
   {
     "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
@@ -331,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T18:01:54Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32179,
-    "updated_at": "2026-07-30T18:25:44Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T17:53:23Z",
     "url": "https://github.com/karibew/crewkit-cli"
-  },
-  {
-    "description": "Hypertaks = \"A founder who owns a library of more than 1,400 books, knows exactly which book to consult for this issue, ",
-    "id": "aabrur/hypertaks-agent",
-    "language": "Python",
-    "name": "aabrur/hypertaks-agent",
-    "stars": 12,
-    "updated_at": "2026-07-30T18:28:35Z",
-    "url": "https://github.com/aabrur/hypertaks-agent"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-07-30T17:52:33Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "MUNDO - THE EMPEROR. Complete AI orchestration system with 1208 skills, 25 capability modules, self-evolving, collective",
-    "id": "LiHongwei-cn/lihongwei-cn",
-    "language": "Python",
-    "name": "LiHongwei-cn/lihongwei-cn",
-    "stars": 3,
-    "updated_at": "2026-07-30T17:51:53Z",
-    "url": "https://github.com/LiHongwei-cn/lihongwei-cn"
-  },
-  {
-    "description": "vibestack is a portable skill pack for AI coding agents. Slash commands like /office-hours, /ship, /investigate, /tdd, /",
-    "id": "timurgaleev/vibestack",
-    "language": "TypeScript",
-    "name": "timurgaleev/vibestack",
-    "stars": 5,
-    "updated_at": "2026-07-30T17:49:50Z",
-    "url": "https://github.com/timurgaleev/vibestack"
   }
 ]
