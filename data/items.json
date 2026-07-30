@@ -1,19 +1,145 @@
 [
   {
+    "description": "An agent package and project manager, written in Rust.",
+    "id": "narumiruna/aru",
+    "language": "Rust",
+    "name": "narumiruna/aru",
+    "stars": 2,
+    "updated_at": "2026-07-30T13:44:44Z",
+    "url": "https://github.com/narumiruna/aru"
+  },
+  {
+    "description": "[ARCHIVED] Superseded by ael-1000-prompts-library \u2014 redirect only",
+    "id": "aymanelmasryael/ael-prompt-framework",
+    "language": "JavaScript",
+    "name": "aymanelmasryael/ael-prompt-framework",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:44:28Z",
+    "url": "https://github.com/aymanelmasryael/ael-prompt-framework"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-07-30T13:40:54Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Free open-source browser tool to analyze, score, and improve Suno AI prompts. No login required.",
+    "id": "AlijeeWrites/suno-ai-prompt-analyzer",
+    "language": "JavaScript",
+    "name": "AlijeeWrites/suno-ai-prompt-analyzer",
+    "stars": 0,
+    "updated_at": "2026-07-30T13:40:11Z",
+    "url": "https://github.com/AlijeeWrites/suno-ai-prompt-analyzer"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-07-30T13:39:02Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10814,
+    "updated_at": "2026-07-30T13:38:18Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "My personal setup for working with AI; what I learned from existing plugins, plus a bunch of my own, built the way I lik",
+    "id": "AcKeskin/contexture",
+    "language": "C#",
+    "name": "AcKeskin/contexture",
+    "stars": 2,
+    "updated_at": "2026-07-30T13:38:03Z",
+    "url": "https://github.com/AcKeskin/contexture"
+  },
+  {
+    "description": "Framework versionado de roles, pre-prompts e governan\u00e7a de requisi\u00e7\u00f5es de IA para Codex",
+    "id": "HUBTECH-DEV/codex-ai-ml-config",
+    "language": "Python",
+    "name": "HUBTECH-DEV/codex-ai-ml-config",
+    "stars": 0,
+    "updated_at": "2026-07-30T13:37:12Z",
+    "url": "https://github.com/HUBTECH-DEV/codex-ai-ml-config"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 63340,
+    "updated_at": "2026-07-30T13:37:01Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 49,
+    "updated_at": "2026-07-30T13:36:38Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3432,
+    "updated_at": "2026-07-30T13:44:46Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "AEL 1000+ AI Prompts Library \u2014 Glassmorphism design, professional prompts across 12 categories",
     "id": "aymanelmasryael/ael-1000-prompts-library",
     "language": "HTML",
     "name": "aymanelmasryael/ael-1000-prompts-library",
     "stars": 1,
-    "updated_at": "2026-07-30T13:29:54Z",
+    "updated_at": "2026-07-30T13:32:36Z",
     "url": "https://github.com/aymanelmasryael/ael-1000-prompts-library"
+  },
+  {
+    "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
+    "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "language": "JavaScript",
+    "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "stars": 0,
+    "updated_at": "2026-07-30T13:32:21Z",
+    "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-07-30T13:32:11Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-30T13:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 8966,
+    "stars": 8967,
     "updated_at": "2026-07-30T13:26:20Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -50,8 +176,17 @@
     "language": "\u2014",
     "name": "ridermw/my-skills",
     "stars": 0,
-    "updated_at": "2026-07-30T13:21:42Z",
+    "updated_at": "2026-07-30T13:42:19Z",
     "url": "https://github.com/ridermw/my-skills"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32167,
+    "updated_at": "2026-07-30T13:44:22Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Manual per-session fixed memory, editable AI summaries, and token-budgeted context for AstrBot.",
@@ -85,7 +220,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 61439,
+    "stars": 61440,
     "updated_at": "2026-07-30T13:18:12Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -106,24 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T13:15:38Z",
     "url": "https://github.com/bladeacer/lccst"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32166,
-    "updated_at": "2026-07-30T13:21:29Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-30T13:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Cut the tokens your IDE-to-LLM coding session is billed for. Stops re-sending files the model already has, places provid",
@@ -149,7 +266,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4162,
-    "updated_at": "2026-07-30T13:22:51Z",
+    "updated_at": "2026-07-30T13:38:41Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -171,24 +288,6 @@
     "url": "https://github.com/xa2023/myprompt-cc"
   },
   {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "TypeScript",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 4,
-    "updated_at": "2026-07-30T13:10:00Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
-    "description": "An agent package and project manager, written in Rust.",
-    "id": "narumiruna/aru",
-    "language": "Rust",
-    "name": "narumiruna/aru",
-    "stars": 1,
-    "updated_at": "2026-07-30T13:09:35Z",
-    "url": "https://github.com/narumiruna/aru"
-  },
-  {
     "description": "A role-based engineering team for Claude Code, where written specs are the only thing that crosses between agents.",
     "id": "smaharj1/chain-of-custody",
     "language": "Shell",
@@ -205,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-07-30T13:09:07Z",
     "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-07-30T13:05:46Z",
-    "url": "https://github.com/derob98/ailmanac"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -238,8 +328,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 20983,
-    "updated_at": "2026-07-30T13:01:09Z",
+    "stars": 20984,
+    "updated_at": "2026-07-30T13:44:53Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -302,7 +392,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-30T13:03:58Z",
+    "updated_at": "2026-07-30T13:44:25Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T12:45:19Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
-    "id": "Sunwood-ai-labs/OpenFace",
-    "language": "CSS",
-    "name": "Sunwood-ai-labs/OpenFace",
-    "stars": 2,
-    "updated_at": "2026-07-30T12:44:32Z",
-    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
-  },
-  {
-    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
-    "id": "sachncs/promptsheon",
-    "language": "Go",
-    "name": "sachncs/promptsheon",
-    "stars": 0,
-    "updated_at": "2026-07-30T12:44:30Z",
-    "url": "https://github.com/sachncs/promptsheon"
-  },
-  {
-    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
-    "id": "ariffazil/arifOS",
-    "language": "Python",
-    "name": "ariffazil/arifOS",
-    "stars": 49,
-    "updated_at": "2026-07-30T12:43:46Z",
-    "url": "https://github.com/ariffazil/arifOS"
-  },
-  {
-    "description": "Claude Code \u306e\u500b\u4eba\u30b0\u30ed\u30fc\u30d0\u30eb\u30cf\u30fc\u30cd\u30b9 (skills / CLAUDE.md \u5e38\u6642\u30eb\u30fc\u30eb) \u3092\u4e00\u5143\u7ba1\u7406\u3057\u3066\u5404\u74b0\u5883\u306b\u5c55\u958b\u3059\u308b",
-    "id": "ystk-kai/claude-harness",
-    "language": "Shell",
-    "name": "ystk-kai/claude-harness",
-    "stars": 0,
-    "updated_at": "2026-07-30T12:40:24Z",
-    "url": "https://github.com/ystk-kai/claude-harness"
-  },
-  {
-    "description": "German AI Text Humanizer for Claude Code & Codex. Audits 72 German AI-writing patterns using deterministic linters and e",
-    "id": "marmbiz/humanizer-de",
-    "language": "Python",
-    "name": "marmbiz/humanizer-de",
-    "stars": 72,
-    "updated_at": "2026-07-30T12:38:28Z",
-    "url": "https://github.com/marmbiz/humanizer-de"
-  },
-  {
-    "description": "Patch rough prompts before they reach Codex, Claude Code, Gemini CLI, and other AI CLIs.",
-    "id": "EyupEfeDuvarbasi/promptpatch",
-    "language": "TypeScript",
-    "name": "EyupEfeDuvarbasi/promptpatch",
-    "stars": 0,
-    "updated_at": "2026-07-30T12:36:21Z",
-    "url": "https://github.com/EyupEfeDuvarbasi/promptpatch"
-  },
-  {
-    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
-    "id": "product-on-purpose/writing-style-catalog",
-    "language": "Python",
-    "name": "product-on-purpose/writing-style-catalog",
-    "stars": 2,
-    "updated_at": "2026-07-30T12:36:02Z",
-    "url": "https://github.com/product-on-purpose/writing-style-catalog"
-  },
-  {
-    "description": "\u5c06 X/Twitter \u5e16\u5b50\u4e8c\u5ea6\u521b\u4f5c\u4e3a\u53ef\u5ba1\u7a3f\u3001\u53ef\u5206\u6b65\u9aa4\u53d1\u5e03\u7684\u5c0f\u7ea2\u4e66\u957f\u6587\u8349\u7a3f\uff5c\u672c\u5730\u8fd0\u884c\uff5c\u591a\u6a21\u578b\u81ea\u52a8\u964d\u7ea7",
-    "id": "soyona/x-to-xhs",
-    "language": "JavaScript",
-    "name": "soyona/x-to-xhs",
-    "stars": 2,
-    "updated_at": "2026-07-30T12:37:29Z",
-    "url": "https://github.com/soyona/x-to-xhs"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
-    "id": "astorie-ai/awesome-seedance-2-prompt",
-    "language": "Shell",
-    "name": "astorie-ai/awesome-seedance-2-prompt",
-    "stars": 11,
-    "updated_at": "2026-07-30T12:31:42Z",
-    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13009,
-    "updated_at": "2026-07-30T12:31:22Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   }
 ]
