@@ -1,12 +1,138 @@
 [
   {
+    "description": "Codex skill for analyzing still images and writing restrained, image-specific motion prompts.",
+    "id": "LiamGvchi/gc-still-image-motion-director",
+    "language": "\u2014",
+    "name": "LiamGvchi/gc-still-image-motion-director",
+    "stars": 0,
+    "updated_at": "2026-07-30T06:59:41Z",
+    "url": "https://github.com/LiamGvchi/gc-still-image-motion-director"
+  },
+  {
+    "description": "A compiler for AI coding tasks: pre-resolves repo facts (callers, git history, blast radius, bug-site source) before you",
+    "id": "Cranot/compile-code",
+    "language": "Python",
+    "name": "Cranot/compile-code",
+    "stars": 28,
+    "updated_at": "2026-07-30T06:59:12Z",
+    "url": "https://github.com/Cranot/compile-code"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 40133,
+    "updated_at": "2026-07-30T06:58:51Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "AI PPT Prompts - curated prompt library and tools for AI-generated presentations",
+    "id": "SurgePix/ai-ppt-prompts",
+    "language": "TypeScript",
+    "name": "SurgePix/ai-ppt-prompts",
+    "stars": 1,
+    "updated_at": "2026-07-30T06:57:19Z",
+    "url": "https://github.com/SurgePix/ai-ppt-prompts"
+  },
+  {
+    "description": "Cut the tokens your IDE-to-LLM coding session is billed for. Stops re-sending files the model already has, places provid",
+    "id": "Neolambo/glyph-compress",
+    "language": "JavaScript",
+    "name": "Neolambo/glyph-compress",
+    "stars": 3,
+    "updated_at": "2026-07-30T06:52:23Z",
+    "url": "https://github.com/Neolambo/glyph-compress"
+  },
+  {
+    "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
+    "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "language": "JavaScript",
+    "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "stars": 0,
+    "updated_at": "2026-07-30T06:51:42Z",
+    "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
+  },
+  {
+    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
+    "id": "product-on-purpose/writing-style-catalog",
+    "language": "Python",
+    "name": "product-on-purpose/writing-style-catalog",
+    "stars": 2,
+    "updated_at": "2026-07-30T06:50:20Z",
+    "url": "https://github.com/product-on-purpose/writing-style-catalog"
+  },
+  {
+    "description": "In development. An open-source AI interview simulator for mobile engineers, in React Native + TypeScript. Paste a job de",
+    "id": "sebkoo/sparbox",
+    "language": "TypeScript",
+    "name": "sebkoo/sparbox",
+    "stars": 0,
+    "updated_at": "2026-07-30T06:50:04Z",
+    "url": "https://github.com/sebkoo/sparbox"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1681,
+    "updated_at": "2026-07-30T06:47:40Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
+    "id": "ftvision/agent-prompt-observatory",
+    "language": "Python",
+    "name": "ftvision/agent-prompt-observatory",
+    "stars": 3,
+    "updated_at": "2026-07-30T06:46:47Z",
+    "url": "https://github.com/ftvision/agent-prompt-observatory"
+  },
+  {
+    "description": "\u4e00\u6b3e\u8f7b\u91cf\u3001\u65e0\u4e3b\u7a97\u53e3\u7684 Windows \u63d0\u793a\u8bcd\u4f18\u5316\u5de5\u5177\u3002\u9009\u4e2d\u6587\u5b57\u89e6\u53d1\u5168\u5c40\u5feb\u6377\u952e\uff0c\u4e00\u952e\u4f18\u5316 Prompt \u5e76\u81ea\u52a8\u5199\u5165\u526a\u8d34\u677f\u3002",
+    "id": "zskfree/prompt_optimizer",
+    "language": "Rust",
+    "name": "zskfree/prompt_optimizer",
+    "stars": 1,
+    "updated_at": "2026-07-30T06:46:13Z",
+    "url": "https://github.com/zskfree/prompt_optimizer"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 36,
+    "updated_at": "2026-07-30T06:59:09Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 3,
-    "updated_at": "2026-07-30T06:45:16Z",
+    "updated_at": "2026-07-30T06:45:34Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-30T06:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-07-30T06:44:48Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -27,15 +153,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
-    "id": "product-on-purpose/writing-style-catalog",
-    "language": "Python",
-    "name": "product-on-purpose/writing-style-catalog",
-    "stars": 2,
-    "updated_at": "2026-07-30T06:43:21Z",
-    "url": "https://github.com/product-on-purpose/writing-style-catalog"
-  },
-  {
     "description": "Reproducible LTX video prompt cookbook with settings and provenance.",
     "id": "quanluo/ltx-video-prompts",
     "language": "\u2014",
@@ -43,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T06:42:12Z",
     "url": "https://github.com/quanluo/ltx-video-prompts"
-  },
-  {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 36,
-    "updated_at": "2026-07-30T06:44:28Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
     "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
@@ -79,24 +187,6 @@
     "stars": 4,
     "updated_at": "2026-07-30T06:39:21Z",
     "url": "https://github.com/Zandereins/hydra"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 40127,
-    "updated_at": "2026-07-30T06:38:56Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Codex skill for analyzing still images and writing restrained, image-specific motion prompts.",
-    "id": "LiamGvchi/gc-still-image-motion-director",
-    "language": "\u2014",
-    "name": "LiamGvchi/gc-still-image-motion-director",
-    "stars": 0,
-    "updated_at": "2026-07-30T06:36:23Z",
-    "url": "https://github.com/LiamGvchi/gc-still-image-motion-director"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -169,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T06:30:43Z",
     "url": "https://github.com/tmhtdst0508-ux/KENZEN-SeaArt-Helper"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-30T06:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -302,7 +383,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27272,
-    "updated_at": "2026-07-30T06:42:51Z",
+    "updated_at": "2026-07-30T06:49:19Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -324,20 +405,11 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
-    "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
-    "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
-    "language": "JavaScript",
-    "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
-    "stars": 0,
-    "updated_at": "2026-07-30T06:15:14Z",
-    "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
-  },
-  {
     "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-S",
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 61393,
+    "stars": 61396,
     "updated_at": "2026-07-30T06:15:05Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -347,7 +419,7 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 6955,
-    "updated_at": "2026-07-30T06:20:54Z",
+    "updated_at": "2026-07-30T06:51:59Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -355,7 +427,7 @@
     "id": "file-bricks/ProfiPrompt",
     "language": "Python",
     "name": "file-bricks/ProfiPrompt",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-30T06:12:40Z",
     "url": "https://github.com/file-bricks/ProfiPrompt"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T06:10:57Z",
     "url": "https://github.com/Hanyuyu/visual-prompt-feed"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-07-30T06:10:00Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-07-30T06:08:44Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 1,857-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 0,
-    "updated_at": "2026-07-30T06:05:46Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
-    "description": "An open-source AI skill that upgrades your prompts. Load verified thinking profiles of tech founders and philosophers to",
-    "id": "DOTfei/borrowed-brain-pro",
-    "language": "HTML",
-    "name": "DOTfei/borrowed-brain-pro",
-    "stars": 3,
-    "updated_at": "2026-07-30T06:04:51Z",
-    "url": "https://github.com/DOTfei/borrowed-brain-pro"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23744,
-    "updated_at": "2026-07-30T06:04:44Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
-    "id": "T-Stephen/ai-mql-engine",
-    "language": "JavaScript",
-    "name": "T-Stephen/ai-mql-engine",
-    "stars": 0,
-    "updated_at": "2026-07-30T06:03:45Z",
-    "url": "https://github.com/T-Stephen/ai-mql-engine"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-30T06:03:45Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 1,
-    "updated_at": "2026-07-30T06:03:27Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   }
 ]
