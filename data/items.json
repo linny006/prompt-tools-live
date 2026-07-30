@@ -1,5 +1,68 @@
 [
   {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 8,
+    "updated_at": "2026-07-30T21:43:39Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Claude Code Plugin instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-07-30T21:43:23Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Creating an SPA for a music studio using prompt engineering",
+    "id": "raposamillar/studio-website",
+    "language": "HTML",
+    "name": "raposamillar/studio-website",
+    "stars": 0,
+    "updated_at": "2026-07-30T21:40:57Z",
+    "url": "https://github.com/raposamillar/studio-website"
+  },
+  {
+    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
+    "id": "Sunwood-ai-labs/OpenFace",
+    "language": "CSS",
+    "name": "Sunwood-ai-labs/OpenFace",
+    "stars": 2,
+    "updated_at": "2026-07-30T21:40:37Z",
+    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
+  },
+  {
+    "description": "Drop-in Agent Skills, subagents, output styles, hooks & config templates for Claude Code (~/.claude) and OpenAI Codex CL",
+    "id": "dayfinggg/claude-code-codex-skills",
+    "language": "PowerShell",
+    "name": "dayfinggg/claude-code-codex-skills",
+    "stars": 1,
+    "updated_at": "2026-07-30T21:40:06Z",
+    "url": "https://github.com/dayfinggg/claude-code-codex-skills"
+  },
+  {
+    "description": "Vibe Coding \u8f7b\u91cf\u9879\u76ee\u5b9e\u9a8c\u5ba4\uff1aWeb \u5e94\u7528\u3001\u684c\u9762\u5de5\u5177\u3001Prompt \u8d44\u6599\u5e93\u4e0e Codex Skills",
+    "id": "jiaxuan-tao/vibe-coding-lab",
+    "language": "JavaScript",
+    "name": "jiaxuan-tao/vibe-coding-lab",
+    "stars": 61,
+    "updated_at": "2026-07-30T21:39:26Z",
+    "url": "https://github.com/jiaxuan-tao/vibe-coding-lab"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-30T21:37:14Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -9,15 +72,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Creating an SPA for a music studio using prompt engineering",
-    "id": "raposamillar/studio-website",
-    "language": "HTML",
-    "name": "raposamillar/studio-website",
-    "stars": 0,
-    "updated_at": "2026-07-30T21:36:24Z",
-    "url": "https://github.com/raposamillar/studio-website"
-  },
-  {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
     "id": "dimitardamjan7-a11y/spec-flow-framework",
     "language": "HTML",
@@ -25,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-07-30T21:36:15Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23762,
+    "updated_at": "2026-07-30T21:36:09Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
@@ -54,24 +117,6 @@
     "url": "https://github.com/rockerlabs/keel"
   },
   {
-    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
-    "id": "Sunwood-ai-labs/OpenFace",
-    "language": "CSS",
-    "name": "Sunwood-ai-labs/OpenFace",
-    "stars": 2,
-    "updated_at": "2026-07-30T21:35:12Z",
-    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 8,
-    "updated_at": "2026-07-30T21:34:13Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
     "description": "Portable, version-controlled Claude Code configuration \u2014 structured engineering workflows with problem definition, syste",
     "id": "chriscantu/claude-config",
     "language": "TypeScript",
@@ -99,15 +144,6 @@
     "url": "https://github.com/parag-labs/eval-forge"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-30T21:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
     "id": "adrianwedd/cv",
     "language": "JavaScript",
@@ -121,7 +157,7 @@
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1710,
+    "stars": 1711,
     "updated_at": "2026-07-30T21:28:34Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T20:56:10Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 2,
-    "updated_at": "2026-07-30T20:56:06Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Portfolio of prompt engineering and AI evaluation projects.",
-    "id": "jehadsobohai/LLM-Evaluation-Portfolio",
-    "language": "\u2014",
-    "name": "jehadsobohai/LLM-Evaluation-Portfolio",
-    "stars": 1,
-    "updated_at": "2026-07-30T20:54:25Z",
-    "url": "https://github.com/jehadsobohai/LLM-Evaluation-Portfolio"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 54,
-    "updated_at": "2026-07-30T20:53:06Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude.",
-    "id": "revenantworks/citadel",
-    "language": "Python",
-    "name": "revenantworks/citadel",
-    "stars": 0,
-    "updated_at": "2026-07-30T20:52:58Z",
-    "url": "https://github.com/revenantworks/citadel"
   }
 ]
