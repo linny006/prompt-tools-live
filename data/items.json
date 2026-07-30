@@ -1,12 +1,174 @@
 [
   {
+    "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
+    "id": "fabioc-aloha/Alex_Skill_Mall",
+    "language": "Python",
+    "name": "fabioc-aloha/Alex_Skill_Mall",
+    "stars": 3,
+    "updated_at": "2026-07-30T13:00:21Z",
+    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
+    "description": "Convention-first typed prompt models with canonical Markdown and XML",
+    "id": "Thillel/pydantic-promptmodel",
+    "language": "Python",
+    "name": "Thillel/pydantic-promptmodel",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:59:34Z",
+    "url": "https://github.com/Thillel/pydantic-promptmodel"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-07-30T12:58:31Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:57:20Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
+    "id": "iaminpwd/dotfiles",
+    "language": "Shell",
+    "name": "iaminpwd/dotfiles",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:55:34Z",
+    "url": "https://github.com/iaminpwd/dotfiles"
+  },
+  {
+    "description": "When coding with AI, it's an IDE-independent, single-file universal rule system that also allows it to truly learn thing",
+    "id": "Omeraydognn/vibecodingwithedu",
+    "language": "JavaScript",
+    "name": "Omeraydognn/vibecodingwithedu",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:54:17Z",
+    "url": "https://github.com/Omeraydognn/vibecodingwithedu"
+  },
+  {
+    "description": "Portable AI coding-agent skills for source-attributed, human-approved context packages.",
+    "id": "linkpranay-ai/context-engineering-protocol",
+    "language": "Python",
+    "name": "linkpranay-ai/context-engineering-protocol",
+    "stars": 0,
+    "updated_at": "2026-07-30T12:54:14Z",
+    "url": "https://github.com/linkpranay-ai/context-engineering-protocol"
+  },
+  {
+    "description": "Claude Code Plugin instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-07-30T12:53:04Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-30T12:52:23Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "\ud83c\udfac SuperMickey \u2014 \u628a\u597d\u83b1\u575e\u5236\u7247\u5382\u88c5\u8fdb\u4e00\u6761\u547d\u4ee4\uff1a\u4e00\u53e5\u8bdd\u8fdb\uff0c\u53f2\u8bd7\u51fa\u30024\u5c42\u67b6\u6784 \u00d7 4\u5927\u751f\u4ea7Agent \u00d7 25\u5b57\u6bb5\u955c\u5934\u5361 \u00d7 149\u9879\u5bfc\u6f14\u7ea7\u6280\u80fd \u00d7 11\u5927\u9898\u6750\u4e16\u754c\u3002We don't sell tools. We deliver ",
+    "id": "geniusdapeng-collab/super-mickey",
+    "language": "JavaScript",
+    "name": "geniusdapeng-collab/super-mickey",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:50:28Z",
+    "url": "https://github.com/geniusdapeng-collab/super-mickey"
+  },
+  {
+    "description": "Bilingual Codex skill for generating 5/7/10 premium 3:4 business IP posters from portrait references and natural-languag",
+    "id": "qingyunAGI/qingyun-business-ip-poster-skill",
+    "language": "\u2014",
+    "name": "qingyunAGI/qingyun-business-ip-poster-skill",
+    "stars": 0,
+    "updated_at": "2026-07-30T12:50:11Z",
+    "url": "https://github.com/qingyunAGI/qingyun-business-ip-poster-skill"
+  },
+  {
+    "description": "AI-powered TikTok creator assistant \u2014 viral captions, hooks, hashtags, content calendars, trend analysis | Groq Llama 3.",
+    "id": "sradowana-ux/tiktok-creator-pa",
+    "language": "Python",
+    "name": "sradowana-ux/tiktok-creator-pa",
+    "stars": 0,
+    "updated_at": "2026-07-30T12:49:28Z",
+    "url": "https://github.com/sradowana-ux/tiktok-creator-pa"
+  },
+  {
+    "description": "\ud83e\udd16 Curated agent skills for AI agents \u2014 one coherent engineering loop that compounds: grill \u2192 spec \u2192 implement \u2192 review \u2192",
+    "id": "toverux/cantrips",
+    "language": "Shell",
+    "name": "toverux/cantrips",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:48:25Z",
+    "url": "https://github.com/toverux/cantrips"
+  },
+  {
+    "description": "Reusable Codex skill for concise, context-aware Chinese Tieba-style replies",
+    "id": "liao96312/tieba-patterns",
+    "language": "Python",
+    "name": "liao96312/tieba-patterns",
+    "stars": 0,
+    "updated_at": "2026-07-30T12:47:20Z",
+    "url": "https://github.com/liao96312/tieba-patterns"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:45:37Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-30T12:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:45:19Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32163,
-    "updated_at": "2026-07-30T12:45:23Z",
+    "updated_at": "2026-07-30T13:00:09Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
+    "id": "Sunwood-ai-labs/OpenFace",
+    "language": "CSS",
+    "name": "Sunwood-ai-labs/OpenFace",
+    "stars": 2,
+    "updated_at": "2026-07-30T12:44:32Z",
+    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
   },
   {
     "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
@@ -18,31 +180,13 @@
     "url": "https://github.com/sachncs/promptsheon"
   },
   {
-    "description": "\ud83e\udd16 Curated agent skills for AI agents \u2014 one coherent engineering loop that compounds: grill \u2192 spec \u2192 implement \u2192 review \u2192",
-    "id": "toverux/cantrips",
-    "language": "Shell",
-    "name": "toverux/cantrips",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:44:20Z",
-    "url": "https://github.com/toverux/cantrips"
-  },
-  {
-    "description": "Reusable Codex skill for concise, context-aware Chinese Tieba-style replies",
-    "id": "liao96312/tieba-patterns",
+    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
+    "id": "ariffazil/arifOS",
     "language": "Python",
-    "name": "liao96312/tieba-patterns",
-    "stars": 0,
-    "updated_at": "2026-07-30T12:43:01Z",
-    "url": "https://github.com/liao96312/tieba-patterns"
-  },
-  {
-    "description": "Convention-first typed prompt models with canonical Markdown and XML",
-    "id": "Thillel/pydantic-promptmodel",
-    "language": "Python",
-    "name": "Thillel/pydantic-promptmodel",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:42:23Z",
-    "url": "https://github.com/Thillel/pydantic-promptmodel"
+    "name": "ariffazil/arifOS",
+    "stars": 49,
+    "updated_at": "2026-07-30T12:43:46Z",
+    "url": "https://github.com/ariffazil/arifOS"
   },
   {
     "description": "Claude Code \u306e\u500b\u4eba\u30b0\u30ed\u30fc\u30d0\u30eb\u30cf\u30fc\u30cd\u30b9 (skills / CLAUDE.md \u5e38\u6642\u30eb\u30fc\u30eb) \u3092\u4e00\u5143\u7ba1\u7406\u3057\u3066\u5404\u74b0\u5883\u306b\u5c55\u958b\u3059\u308b",
@@ -61,15 +205,6 @@
     "stars": 72,
     "updated_at": "2026-07-30T12:38:28Z",
     "url": "https://github.com/marmbiz/humanizer-de"
-  },
-  {
-    "description": "Bilingual Codex skill for generating 5/7/10 premium 3:4 business IP posters from portrait references and natural-languag",
-    "id": "qingyunAGI/qingyun-business-ip-poster-skill",
-    "language": "\u2014",
-    "name": "qingyunAGI/qingyun-business-ip-poster-skill",
-    "stars": 0,
-    "updated_at": "2026-07-30T12:37:04Z",
-    "url": "https://github.com/qingyunAGI/qingyun-business-ip-poster-skill"
   },
   {
     "description": "Patch rough prompts before they reach Codex, Claude Code, Gemini CLI, and other AI CLIs.",
@@ -95,7 +230,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4162,
-    "updated_at": "2026-07-30T12:42:24Z",
+    "updated_at": "2026-07-30T12:45:45Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -124,15 +259,6 @@
     "stars": 13008,
     "updated_at": "2026-07-30T12:31:22Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-30T12:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Biblioteca gratuita de prompts, skills e ferramentas de IA em portugu\u00eas. Material testado, organizado por finalidade e a",
@@ -288,15 +414,6 @@
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
   },
   {
-    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
-    "id": "Sunwood-ai-labs/OpenFace",
-    "language": "CSS",
-    "name": "Sunwood-ai-labs/OpenFace",
-    "stars": 2,
-    "updated_at": "2026-07-30T12:44:32Z",
-    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
-  },
-  {
     "description": "State-of-the-Art (2026) AI/LLM engineering skills/agents for building and auditing software \u2014 40+ domain & language skil",
     "id": "martinholovsky/SOTA-skills",
     "language": "Python",
@@ -311,7 +428,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3431,
-    "updated_at": "2026-07-30T12:41:07Z",
+    "updated_at": "2026-07-30T12:54:12Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -329,124 +446,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 840,
-    "updated_at": "2026-07-30T12:20:31Z",
+    "updated_at": "2026-07-30T12:51:04Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-07-30T12:19:28Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:18:30Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-07-30T12:18:14Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "AI Coding workflow console with Prompt Template, Generation Trace, Knowledge Reference and Human Review.",
-    "id": "jameswilson87156-del/devflow-copilot",
-    "language": "Vue",
-    "name": "jameswilson87156-del/devflow-copilot",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:16:07Z",
-    "url": "https://github.com/jameswilson87156-del/devflow-copilot"
-  },
-  {
-    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
-    "id": "ai-boost/awesome-prompts",
-    "language": "\u2014",
-    "name": "ai-boost/awesome-prompts",
-    "stars": 8596,
-    "updated_at": "2026-07-30T12:15:18Z",
-    "url": "https://github.com/ai-boost/awesome-prompts"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27277,
-    "updated_at": "2026-07-30T12:14:25Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "When coding with AI, it's an IDE-independent, single-file universal rule system that also allows it to truly learn thing",
-    "id": "Omeraydognn/vibecodingwithedu",
-    "language": "JavaScript",
-    "name": "Omeraydognn/vibecodingwithedu",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:09:28Z",
-    "url": "https://github.com/Omeraydognn/vibecodingwithedu"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:08:45Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Curated collection of reusable JSON prompt templates & style references for AI image generation. Updated daily.",
-    "id": "VigoZhao/AI-Visual-Prompt-Cookbook",
-    "language": "Python",
-    "name": "VigoZhao/AI-Visual-Prompt-Cookbook",
-    "stars": 524,
-    "updated_at": "2026-07-30T12:08:28Z",
-    "url": "https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:07:41Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Claude Code skill for Ideogram AI image generation \u2014 structured JSON caption prompting, color palette control, and MCP-b",
-    "id": "devkindhq/ideogram-ai-toolkit",
-    "language": "\u2014",
-    "name": "devkindhq/ideogram-ai-toolkit",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:07:40Z",
-    "url": "https://github.com/devkindhq/ideogram-ai-toolkit"
-  },
-  {
-    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
-    "id": "ariffazil/arifOS",
-    "language": "Python",
-    "name": "ariffazil/arifOS",
-    "stars": 49,
-    "updated_at": "2026-07-30T12:43:46Z",
-    "url": "https://github.com/ariffazil/arifOS"
-  },
-  {
-    "description": "Agent skills for Claude Code where every entry ships with receipts: accuracy-gated benchmarks vs baseline AND placebo. R",
-    "id": "sjh9714/skill-receipts",
-    "language": "JavaScript",
-    "name": "sjh9714/skill-receipts",
-    "stars": 2,
-    "updated_at": "2026-07-30T12:06:41Z",
-    "url": "https://github.com/sjh9714/skill-receipts"
   }
 ]
