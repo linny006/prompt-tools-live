@@ -1,12 +1,165 @@
 [
   {
+    "description": "An agent package and project manager, written in Rust.",
+    "id": "narumiruna/aru",
+    "language": "Rust",
+    "name": "narumiruna/aru",
+    "stars": 2,
+    "updated_at": "2026-07-30T15:00:01Z",
+    "url": "https://github.com/narumiruna/aru"
+  },
+  {
+    "description": "A practical guide and starter kit for researchers using OpenAI Codex (ChatGPT's coding agent) on long, technically deman",
+    "id": "Mexregkan/chatgpt-for-researchers",
+    "language": "Python",
+    "name": "Mexregkan/chatgpt-for-researchers",
+    "stars": 0,
+    "updated_at": "2026-07-30T14:58:27Z",
+    "url": "https://github.com/Mexregkan/chatgpt-for-researchers"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4162,
+    "updated_at": "2026-07-30T14:58:12Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 36,
+    "updated_at": "2026-07-30T14:57:44Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-07-30T14:57:21Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "\u6309\u53e3\u64ad\u89c4\u5212 Seedance \u548c Gemini Omni Flash \u7684\u524d\u540e\u547c\u5e94\u526a\u7eb8\u89c6\u9891\u7d20\u6750\uff0c\u5355\u6bb5\u6700\u957f 10 \u79d2\uff0c\u7d20\u6750\u5197\u4f59\u53d7\u63a7",
+    "id": "DingYi1024/copy-to-paper-cut-video",
+    "language": "\u2014",
+    "name": "DingYi1024/copy-to-paper-cut-video",
+    "stars": 0,
+    "updated_at": "2026-07-30T14:56:51Z",
+    "url": "https://github.com/DingYi1024/copy-to-paper-cut-video"
+  },
+  {
+    "description": "Discussion-first role workflow template for Codex-assisted software delivery",
+    "id": "Deepleaper/Code-role",
+    "language": "Python",
+    "name": "Deepleaper/Code-role",
+    "stars": 0,
+    "updated_at": "2026-07-30T14:56:51Z",
+    "url": "https://github.com/Deepleaper/Code-role"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 15,
+    "updated_at": "2026-07-30T14:57:37Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-07-30T14:55:45Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Portable Windows scratchpad and snippet manager. One global hotkey, instant window, markdown, silos, themes. Built with ",
+    "id": "vacterro/FastPrompter",
+    "language": "Python",
+    "name": "vacterro/FastPrompter",
+    "stars": 7,
+    "updated_at": "2026-07-30T14:59:14Z",
+    "url": "https://github.com/vacterro/FastPrompter"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-30T14:51:43Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32169,
-    "updated_at": "2026-07-30T14:44:40Z",
+    "updated_at": "2026-07-30T14:58:45Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "HTML",
+    "name": "llwslc/proteus",
+    "stars": 2,
+    "updated_at": "2026-07-30T14:47:32Z",
+    "url": "https://github.com/llwslc/proteus"
+  },
+  {
+    "description": "Find the safety rules your AI agent prompt forgot. Checks 23 published controls \u2014 injection defense, human approval, cos",
+    "id": "shmindmaster/crewscore",
+    "language": "Python",
+    "name": "shmindmaster/crewscore",
+    "stars": 1,
+    "updated_at": "2026-07-30T14:47:02Z",
+    "url": "https://github.com/shmindmaster/crewscore"
+  },
+  {
+    "description": "Lightweight Claude Code skills for daily AI-assisted development workflows.",
+    "id": "Chrike/coding-agent-skills",
+    "language": "JavaScript",
+    "name": "Chrike/coding-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-07-30T14:46:09Z",
+    "url": "https://github.com/Chrike/coding-agent-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-30T14:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-07-30T14:42:17Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "An autonomous AI chatbot built for WhatsApp using Node.js, Baileys, and the Vercel AI SDK powered by OpenAI. Designed to",
+    "id": "cubrift/quart",
+    "language": "JavaScript",
+    "name": "cubrift/quart",
+    "stars": 2,
+    "updated_at": "2026-07-30T14:41:03Z",
+    "url": "https://github.com/cubrift/quart"
   },
   {
     "description": "\u9762\u5411\u975e\u6280\u672f\u8bfb\u8005\u7684 AI \u534f\u4f5c\u77e5\u8bc6\u5e93\uff1a\u4ece Prompt\u3001Context \u5230 Agent \u4e0e Harness",
@@ -18,15 +171,6 @@
     "url": "https://github.com/zhongky1995/ai-collaboration-handbook"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-30T14:37:48Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -34,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T14:37:34Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "An agent package and project manager, written in Rust.",
-    "id": "narumiruna/aru",
-    "language": "Rust",
-    "name": "narumiruna/aru",
-    "stars": 2,
-    "updated_at": "2026-07-30T14:36:49Z",
-    "url": "https://github.com/narumiruna/aru"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -99,15 +234,6 @@
     "url": "https://github.com/jameswilson87156-del/devflow-copilot"
   },
   {
-    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
-    "id": "llwslc/proteus",
-    "language": "HTML",
-    "name": "llwslc/proteus",
-    "stars": 2,
-    "updated_at": "2026-07-30T14:33:16Z",
-    "url": "https://github.com/llwslc/proteus"
-  },
-  {
     "description": "A guided, principle-driven Claude Code skill set: 18 commands that take your idea \u2192 shipped, one phase at a time, with e",
     "id": "kish21/product-playbook",
     "language": "Python",
@@ -131,7 +257,7 @@
     "language": "\u2014",
     "name": "shreyabaid007/Claude-Certified-Architect",
     "stars": 0,
-    "updated_at": "2026-07-30T14:31:06Z",
+    "updated_at": "2026-07-30T14:59:20Z",
     "url": "https://github.com/shreyabaid007/Claude-Certified-Architect"
   },
   {
@@ -142,15 +268,6 @@
     "stars": 5,
     "updated_at": "2026-07-30T14:30:46Z",
     "url": "https://github.com/Evolink-AI/awesome-minimax-H3-prompts"
-  },
-  {
-    "description": "A practical guide and starter kit for researchers using OpenAI Codex (ChatGPT's coding agent) on long, technically deman",
-    "id": "Mexregkan/chatgpt-for-researchers",
-    "language": "Python",
-    "name": "Mexregkan/chatgpt-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-07-30T14:30:15Z",
-    "url": "https://github.com/Mexregkan/chatgpt-for-researchers"
   },
   {
     "description": "Practical guide and toolkit for physicists and mathematicians using Claude Code \u2014 built from months on a real research p",
@@ -167,7 +284,7 @@
     "language": "Python",
     "name": "Pl3ntz/quarterdeck",
     "stars": 1,
-    "updated_at": "2026-07-30T14:26:32Z",
+    "updated_at": "2026-07-30T14:56:11Z",
     "url": "https://github.com/Pl3ntz/quarterdeck"
   },
   {
@@ -288,15 +405,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-07-30T14:35:23Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "An open-source AI skill that upgrades your prompts. Load verified thinking profiles of tech founders and philosophers to",
     "id": "DOTfei/borrowed-brain-pro",
     "language": "HTML",
@@ -340,113 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T14:14:24Z",
     "url": "https://github.com/LearnPrompt/goodcaseai"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 1958,
-    "updated_at": "2026-07-30T14:14:08Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
-    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1791,
-    "updated_at": "2026-07-30T14:13:03Z",
-    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 155,
-    "updated_at": "2026-07-30T14:12:36Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "PromptTranslator \u2014 AI prompt interpreter product case study",
-    "id": "sterngold/prompt-translator",
-    "language": "\u2014",
-    "name": "sterngold/prompt-translator",
-    "stars": 0,
-    "updated_at": "2026-07-30T14:08:09Z",
-    "url": "https://github.com/sterngold/prompt-translator"
-  },
-  {
-    "description": "AI session handoff manager for VS Code.",
-    "id": "Pain-Labs/Edo-Tensei",
-    "language": "TypeScript",
-    "name": "Pain-Labs/Edo-Tensei",
-    "stars": 3,
-    "updated_at": "2026-07-30T14:08:02Z",
-    "url": "https://github.com/Pain-Labs/Edo-Tensei"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 20986,
-    "updated_at": "2026-07-30T14:32:58Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 150,
-    "updated_at": "2026-07-30T14:06:04Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 3,
-    "updated_at": "2026-07-30T14:04:58Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Official Muse Video preview prompts, playable clips, native-audio shot briefs, continuity workflows, and 14-language gui",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-07-30T14:03:55Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
-    "id": "ZeroLu/awesome-seedance",
-    "language": "Shell",
-    "name": "ZeroLu/awesome-seedance",
-    "stars": 2237,
-    "updated_at": "2026-07-30T14:03:54Z",
-    "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-07-30T14:03:48Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 15,
-    "updated_at": "2026-07-30T14:02:52Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   }
 ]
