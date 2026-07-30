@@ -1,11 +1,38 @@
 [
   {
+    "description": "\ud83d\udcac Chrome extension that captures every prompt you send to ChatGPT into a collapsible side panel. Fully local, no backend",
+    "id": "XinyunZhang5/Chatcurso",
+    "language": "JavaScript",
+    "name": "XinyunZhang5/Chatcurso",
+    "stars": 0,
+    "updated_at": "2026-07-30T16:15:06Z",
+    "url": "https://github.com/XinyunZhang5/Chatcurso"
+  },
+  {
+    "description": "My personal Agent Skills for coding agents: engineering workflows plus a few personal-use tools. Personalized forks, wit",
+    "id": "martonpaulo/skills",
+    "language": "Python",
+    "name": "martonpaulo/skills",
+    "stars": 0,
+    "updated_at": "2026-07-30T16:12:11Z",
+    "url": "https://github.com/martonpaulo/skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-30T16:12:06Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10815,
-    "updated_at": "2026-07-30T16:11:29Z",
+    "updated_at": "2026-07-30T16:14:18Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,7 +41,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32173,
-    "updated_at": "2026-07-30T16:11:41Z",
+    "updated_at": "2026-07-30T16:14:46Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -34,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-07-30T16:05:49Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
+    "id": "AmadeusITGroup/ai-primitives-hub",
+    "language": "TypeScript",
+    "name": "AmadeusITGroup/ai-primitives-hub",
+    "stars": 48,
+    "updated_at": "2026-07-30T16:05:21Z",
+    "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
   },
   {
     "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
@@ -70,15 +106,6 @@
     "stars": 15,
     "updated_at": "2026-07-30T16:00:54Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-30T16:00:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T15:55:41Z",
     "url": "https://github.com/gustavomot4/ai-project-pipeline"
-  },
-  {
-    "description": "My personal Agent Skills for coding agents: engineering workflows plus a few personal-use tools. Personalized forks, wit",
-    "id": "martonpaulo/skills",
-    "language": "Python",
-    "name": "martonpaulo/skills",
-    "stars": 0,
-    "updated_at": "2026-07-30T16:10:31Z",
-    "url": "https://github.com/martonpaulo/skills"
   },
   {
     "description": "Portfolio of prompt engineering and AI evaluation projects.",
@@ -293,7 +311,7 @@
     "language": "MDX",
     "name": "derob98/ailmanac",
     "stars": 7,
-    "updated_at": "2026-07-30T16:06:57Z",
+    "updated_at": "2026-07-30T16:13:14Z",
     "url": "https://github.com/derob98/ailmanac"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T15:18:59Z",
     "url": "https://github.com/kish21/product-playbook"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3433,
-    "updated_at": "2026-07-30T15:18:34Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-07-30T15:18:11Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   }
 ]
