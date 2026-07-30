@@ -1,12 +1,93 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10815,
+    "updated_at": "2026-07-30T16:11:29Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32173,
+    "updated_at": "2026-07-30T16:11:41Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "An AI dev team in your editor \u2014 ~48 specialist agents and an enforced, proportional workflow with approval gates. Proces",
+    "id": "olehsvyrydov/AI-development-team",
+    "language": "Shell",
+    "name": "olehsvyrydov/AI-development-team",
+    "stars": 13,
+    "updated_at": "2026-07-30T16:05:55Z",
+    "url": "https://github.com/olehsvyrydov/AI-development-team"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-07-30T16:05:49Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
+    "id": "solo-vey/Ordo",
+    "language": "Python",
+    "name": "solo-vey/Ordo",
+    "stars": 1,
+    "updated_at": "2026-07-30T16:03:47Z",
+    "url": "https://github.com/solo-vey/Ordo"
+  },
+  {
+    "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
+    "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "language": "JavaScript",
+    "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "stars": 0,
+    "updated_at": "2026-07-30T16:02:38Z",
+    "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
+  },
+  {
+    "description": "Human-led AI workflows for real B2B sales work.",
+    "id": "shaunmarsden/practical-ai-sales-workflows",
+    "language": "\u2014",
+    "name": "shaunmarsden/practical-ai-sales-workflows",
+    "stars": 0,
+    "updated_at": "2026-07-30T16:06:54Z",
+    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
+  },
+  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "JavaScript",
     "name": "sairaman436/vybe-intelligence-vault",
     "stars": 15,
-    "updated_at": "2026-07-30T15:58:34Z",
+    "updated_at": "2026-07-30T16:00:54Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-30T16:00:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 3,
+    "updated_at": "2026-07-30T15:59:37Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
   },
   {
     "description": "A Codex skill for creating posters, illustrations, covers, interfaces, and infographics in a unified Constructivist pape",
@@ -27,6 +108,15 @@
     "url": "https://github.com/IamOumarIbrahim/SkillDeck"
   },
   {
+    "description": "Claude Code Plugin instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-07-30T15:56:21Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
     "description": "Kit reutiliz\u00e1vel para conduzir projetos de software com agentes de IA do zero \u00e0 entrega: fases com port\u00f5es objetivos, de",
     "id": "gustavomot4/ai-project-pipeline",
     "language": "Python",
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "martonpaulo/skills",
     "stars": 0,
-    "updated_at": "2026-07-30T15:53:57Z",
+    "updated_at": "2026-07-30T16:10:31Z",
     "url": "https://github.com/martonpaulo/skills"
   },
   {
@@ -144,24 +234,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-30T15:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10815,
-    "updated_at": "2026-07-30T15:52:55Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Evidence-first skills for Codex, Cursor, and Claude Code: research, debugging, planning, execution, review, and goal loo",
     "id": "JinPLu/Teamwork",
     "language": "Python",
@@ -212,7 +284,7 @@
     "language": "JavaScript",
     "name": "AlijeeWrites/suno-ai-prompt-analyzer",
     "stars": 0,
-    "updated_at": "2026-07-30T15:39:12Z",
+    "updated_at": "2026-07-30T16:11:20Z",
     "url": "https://github.com/AlijeeWrites/suno-ai-prompt-analyzer"
   },
   {
@@ -221,26 +293,8 @@
     "language": "MDX",
     "name": "derob98/ailmanac",
     "stars": 7,
-    "updated_at": "2026-07-30T15:37:51Z",
+    "updated_at": "2026-07-30T16:06:57Z",
     "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 3,
-    "updated_at": "2026-07-30T15:59:37Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32171,
-    "updated_at": "2026-07-30T15:59:06Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A prompt library for AI agents and assistants.",
@@ -351,15 +405,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Human-led AI workflows for real B2B sales work.",
-    "id": "shaunmarsden/practical-ai-sales-workflows",
-    "language": "\u2014",
-    "name": "shaunmarsden/practical-ai-sales-workflows",
-    "stars": 0,
-    "updated_at": "2026-07-30T15:32:27Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
-  },
-  {
     "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
     "id": "shalintripathi/saas-marketing-agents",
     "language": "Markdown",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T15:18:11Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "LLM capture proxy with Anthropic cache_control TTL stamping, vision handoff, concurrency gating, rate limiting, and a li",
-    "id": "codegiveness/umans-gate",
-    "language": "TypeScript",
-    "name": "codegiveness/umans-gate",
-    "stars": 0,
-    "updated_at": "2026-07-30T15:15:17Z",
-    "url": "https://github.com/codegiveness/umans-gate"
-  },
-  {
-    "description": "Comprehensive guide to building production AI agent systems - Scale by Subtraction methodology",
-    "id": "imran-siddique/agentic-architecture",
-    "language": "\u2014",
-    "name": "imran-siddique/agentic-architecture",
-    "stars": 12,
-    "updated_at": "2026-07-30T15:15:00Z",
-    "url": "https://github.com/imran-siddique/agentic-architecture"
-  },
-  {
-    "description": "Audit and optimize your Claude Code config for context efficiency. Measures what the diet bought you in working hours, n",
-    "id": "leonardocandiani/claude-optimizer",
-    "language": "JavaScript",
-    "name": "leonardocandiani/claude-optimizer",
-    "stars": 0,
-    "updated_at": "2026-07-30T15:14:07Z",
-    "url": "https://github.com/leonardocandiani/claude-optimizer"
-  },
-  {
-    "description": "Pip-installable regression testing for LLM model/prompt changes: deterministic + LLM-judge + statistical checks, model-a",
-    "id": "siddharthgaur1/llm-regressor",
-    "language": "Python",
-    "name": "siddharthgaur1/llm-regressor",
-    "stars": 0,
-    "updated_at": "2026-07-30T15:12:46Z",
-    "url": "https://github.com/siddharthgaur1/llm-regressor"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-07-30T15:12:25Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   }
 ]
