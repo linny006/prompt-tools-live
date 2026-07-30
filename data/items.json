@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
+    "description": "Harness-agnostic agentic ways of working: one canonical principles doc, per-tool adapters, skills, and hooks. Extracted ",
+    "id": "nino-chavez/agentic-ways-of-working",
+    "language": "Python",
+    "name": "nino-chavez/agentic-ways-of-working",
     "stars": 1,
-    "updated_at": "2026-07-30T04:14:28Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+    "updated_at": "2026-07-30T04:26:34Z",
+    "url": "https://github.com/nino-chavez/agentic-ways-of-working"
+  },
+  {
+    "description": "Local interactive image prompt editor powered by each user's own Codex session",
+    "id": "huahuahuafulaoer/reverse-prompt-studio",
+    "language": "JavaScript",
+    "name": "huahuahuafulaoer/reverse-prompt-studio",
+    "stars": 0,
+    "updated_at": "2026-07-30T04:25:43Z",
+    "url": "https://github.com/huahuahuafulaoer/reverse-prompt-studio"
   },
   {
     "description": "Creating an SPA for a music studio using prompt engineering",
@@ -14,8 +23,44 @@
     "language": "HTML",
     "name": "raposamillar/studio-website",
     "stars": 0,
-    "updated_at": "2026-07-30T04:14:12Z",
+    "updated_at": "2026-07-30T04:23:34Z",
     "url": "https://github.com/raposamillar/studio-website"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-07-30T04:23:06Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "Claude Code Plugin instant docs search, interactive HTML courses, and changelog reports. 589 official docs always up-to-",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-07-30T04:19:22Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-30T04:18:35Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Open-source coding agent for real software work. Plans, reviews, and implements tasks with an explicit, inspectable inst",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-07-30T04:17:44Z",
+    "url": "https://github.com/gthgomez/Babel"
   },
   {
     "description": "What did you forget to tell your AI agent? Paste a system prompt, see which failure modes it never guards against \u2014 prom",
@@ -23,8 +68,26 @@
     "language": "Python",
     "name": "shmindmaster/crewscore",
     "stars": 1,
-    "updated_at": "2026-07-30T04:13:23Z",
+    "updated_at": "2026-07-30T04:17:38Z",
     "url": "https://github.com/shmindmaster/crewscore"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-07-30T04:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-07-30T04:14:28Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -54,11 +117,20 @@
     "url": "https://github.com/KerberosClaw/kc_ai_skills"
   },
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 63249,
+    "updated_at": "2026-07-30T04:06:00Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 166506,
+    "stars": 166507,
     "updated_at": "2026-07-30T04:04:17Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -70,15 +142,6 @@
     "stars": 43,
     "updated_at": "2026-07-30T04:03:59Z",
     "url": "https://github.com/modelstudioai/skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-07-30T04:00:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -135,15 +198,6 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-07-30T03:52:24Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
     "description": "100+ tested, copy-paste AI prompts for everyday life \u2014 one new skill every day at dailyskill.ai",
     "id": "vinusmark1-cpu/dailyskill-prompt-library",
     "language": "\u2014",
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T03:51:23Z",
     "url": "https://github.com/vinusmark1-cpu/dailyskill-prompt-library"
-  },
-  {
-    "description": "Harness-agnostic agentic ways of working: one canonical principles doc, per-tool adapters, skills, and hooks. Extracted ",
-    "id": "nino-chavez/agentic-ways-of-working",
-    "language": "Python",
-    "name": "nino-chavez/agentic-ways-of-working",
-    "stars": 1,
-    "updated_at": "2026-07-30T03:49:29Z",
-    "url": "https://github.com/nino-chavez/agentic-ways-of-working"
   },
   {
     "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
@@ -202,7 +247,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 37213,
+    "stars": 37214,
     "updated_at": "2026-07-30T03:44:20Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27267,
-    "updated_at": "2026-07-30T03:36:28Z",
+    "updated_at": "2026-07-30T04:30:09Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -355,7 +400,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 40110,
+    "stars": 40112,
     "updated_at": "2026-07-30T03:28:55Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T03:23:55Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "\u591a\u667a\u80fd\u4f53\u534f\u540c\u5f71\u89c6\u5de5\u4e1a\u5316AI\u5de5\u4f5c\u53f0 | \u5185\u7f6e\u7f16\u5267\u5ba4SOP + AI\u89c6\u9891\u5206\u955c\u63d0\u793a\u8bcd\u5f15\u64ce + \u957f\u6587\u672c\u6df1\u5ea6\u5904\u7406 | \u652f\u630112+ LLM\u670d\u52a1\u5546",
-    "id": "slipknot0130/Film-Production-Toolkit",
-    "language": "Python",
-    "name": "slipknot0130/Film-Production-Toolkit",
-    "stars": 6,
-    "updated_at": "2026-07-30T03:22:34Z",
-    "url": "https://github.com/slipknot0130/Film-Production-Toolkit"
-  },
-  {
-    "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
-    "id": "iaminpwd/dotfiles",
-    "language": "Shell",
-    "name": "iaminpwd/dotfiles",
-    "stars": 1,
-    "updated_at": "2026-07-30T03:22:25Z",
-    "url": "https://github.com/iaminpwd/dotfiles"
-  },
-  {
-    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
-    "id": "cobusgreyling/loop-engineering",
-    "language": "JavaScript",
-    "name": "cobusgreyling/loop-engineering",
-    "stars": 9605,
-    "updated_at": "2026-07-30T03:22:16Z",
-    "url": "https://github.com/cobusgreyling/loop-engineering"
-  },
-  {
-    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
-    "id": "Leo-maomao/pm-copilot",
-    "language": "Python",
-    "name": "Leo-maomao/pm-copilot",
-    "stars": 3,
-    "updated_at": "2026-07-30T03:21:07Z",
-    "url": "https://github.com/Leo-maomao/pm-copilot"
-  },
-  {
-    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
-    "id": "Sungmin-Cho/claude-deep-suite",
-    "language": "JavaScript",
-    "name": "Sungmin-Cho/claude-deep-suite",
-    "stars": 7,
-    "updated_at": "2026-07-30T03:19:58Z",
-    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
   }
 ]
