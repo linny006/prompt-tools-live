@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u591a\u667a\u80fd\u4f53\u534f\u540c\u5f71\u89c6\u5de5\u4e1a\u5316AI\u5de5\u4f5c\u53f0 | \u5185\u7f6e\u7f16\u5267\u5ba4SOP + AI\u89c6\u9891\u5206\u955c\u63d0\u793a\u8bcd\u5f15\u64ce + \u957f\u6587\u672c\u6df1\u5ea6\u5904\u7406 | \u652f\u630112+ LLM\u670d\u52a1\u5546",
+    "id": "slipknot0130/Film-Production-Toolkit",
+    "language": "Python",
+    "name": "slipknot0130/Film-Production-Toolkit",
+    "stars": 7,
+    "updated_at": "2026-07-31T01:45:01Z",
+    "url": "https://github.com/slipknot0130/Film-Production-Toolkit"
+  },
+  {
+    "description": "LLM capture proxy with Anthropic cache_control TTL stamping, vision handoff, concurrency gating, rate limiting, and a li",
+    "id": "codegiveness/umans-gate",
+    "language": "TypeScript",
+    "name": "codegiveness/umans-gate",
+    "stars": 0,
+    "updated_at": "2026-07-31T01:44:39Z",
+    "url": "https://github.com/codegiveness/umans-gate"
+  },
+  {
+    "description": "SEO \u914d\u56fe Prompt \u5f15\u64ce\uff1a\u8bfb\u61c2\u9875\u9762\u8bed\u4e49\uff0c\u81ea\u52a8\u4e3a\u6bcf\u4e2a\u6a21\u5757\u751f\u6210\u9ad8\u8d28\u91cf\u914d\u56fe Prompt \u4e0e\u56fe\u7247 SEO \u5143\u6570\u636e\u3002Agent Skills \u89c4\u8303\uff0c\u517c\u5bb9 Claude Code / Codex / Cursor\u3002",
+    "id": "visualgptio/seo-image-prompt",
+    "language": "\u2014",
+    "name": "visualgptio/seo-image-prompt",
+    "stars": 0,
+    "updated_at": "2026-07-31T01:44:22Z",
+    "url": "https://github.com/visualgptio/seo-image-prompt"
+  },
+  {
+    "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
+    "id": "jamestexas/agents",
+    "language": "TypeScript",
+    "name": "jamestexas/agents",
+    "stars": 2,
+    "updated_at": "2026-07-31T01:43:03Z",
+    "url": "https://github.com/jamestexas/agents"
+  },
+  {
+    "description": "Modular AI Agent & Developer Capability Suite \u2014 AST Documentation (readme-forge), Production Prompt Engineering, Code Un",
+    "id": "IamOumarIbrahim/SkillDeck",
+    "language": "Python",
+    "name": "IamOumarIbrahim/SkillDeck",
+    "stars": 0,
+    "updated_at": "2026-07-31T01:42:02Z",
+    "url": "https://github.com/IamOumarIbrahim/SkillDeck"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-07-31T01:38:37Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "A role-based engineering team for Claude Code, where written specs are the only thing that crosses between agents.",
+    "id": "smaharj1/chain-of-custody",
+    "language": "Shell",
+    "name": "smaharj1/chain-of-custody",
+    "stars": 1,
+    "updated_at": "2026-07-31T01:37:33Z",
+    "url": "https://github.com/smaharj1/chain-of-custody"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10822,
+    "updated_at": "2026-07-31T01:35:23Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 12,
+    "updated_at": "2026-07-31T01:34:29Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-31T01:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
     "id": "YouMind-OpenLab/awesome-seedream-4.5",
     "language": "TypeScript",
@@ -41,7 +131,7 @@
     "language": "Ruby",
     "name": "Coolhand-Labs/coolhand-ruby",
     "stars": 9,
-    "updated_at": "2026-07-31T01:28:27Z",
+    "updated_at": "2026-07-31T01:36:11Z",
     "url": "https://github.com/Coolhand-Labs/coolhand-ruby"
   },
   {
@@ -59,7 +149,7 @@
     "language": "JavaScript",
     "name": "Sungmin-Cho/claude-deep-suite",
     "stars": 7,
-    "updated_at": "2026-07-31T01:27:20Z",
+    "updated_at": "2026-07-31T01:35:37Z",
     "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
   },
   {
@@ -68,17 +158,8 @@
     "language": "Python",
     "name": "Coolhand-Labs/coolhand-python",
     "stars": 2,
-    "updated_at": "2026-07-31T01:27:06Z",
+    "updated_at": "2026-07-31T01:30:58Z",
     "url": "https://github.com/Coolhand-Labs/coolhand-python"
-  },
-  {
-    "description": "SEO \u914d\u56fe Prompt \u5f15\u64ce\uff1a\u8bfb\u61c2\u9875\u9762\u8bed\u4e49\uff0c\u81ea\u52a8\u4e3a\u6bcf\u4e2a\u6a21\u5757\u751f\u6210\u9ad8\u8d28\u91cf\u914d\u56fe Prompt \u4e0e\u56fe\u7247 SEO \u5143\u6570\u636e\u3002Agent Skills \u89c4\u8303\uff0c\u517c\u5bb9 Claude Code / Codex / Cursor\u3002",
-    "id": "visualgptio/seo-image-prompt",
-    "language": "\u2014",
-    "name": "visualgptio/seo-image-prompt",
-    "stars": 0,
-    "updated_at": "2026-07-31T01:25:50Z",
-    "url": "https://github.com/visualgptio/seo-image-prompt"
   },
   {
     "description": "Chief of Staff plugin for Codex and Claude Code with scoped execution, account gates, project routing, and a retained te",
@@ -99,15 +180,6 @@
     "url": "https://github.com/antrixy/ctxfold"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10821,
-    "updated_at": "2026-07-31T01:24:18Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
     "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
     "language": "TypeScript",
@@ -115,15 +187,6 @@
     "stars": 23,
     "updated_at": "2026-07-31T01:24:04Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Modular AI Agent & Developer Capability Suite \u2014 AST Documentation (readme-forge), Production Prompt Engineering, Code Un",
-    "id": "IamOumarIbrahim/SkillDeck",
-    "language": "Python",
-    "name": "IamOumarIbrahim/SkillDeck",
-    "stars": 0,
-    "updated_at": "2026-07-31T01:23:03Z",
-    "url": "https://github.com/IamOumarIbrahim/SkillDeck"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -178,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-07-31T01:16:41Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-31T01:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -297,15 +351,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "LLM capture proxy with Anthropic cache_control TTL stamping, vision handoff, concurrency gating, rate limiting, and a li",
-    "id": "codegiveness/umans-gate",
-    "language": "TypeScript",
-    "name": "codegiveness/umans-gate",
-    "stars": 0,
-    "updated_at": "2026-07-31T00:59:00Z",
-    "url": "https://github.com/codegiveness/umans-gate"
-  },
-  {
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "id": "0xwilliamortiz/ponytail-improved",
     "language": "JavaScript",
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "costiash/claude-code-docs",
     "stars": 50,
-    "updated_at": "2026-07-31T00:54:16Z",
+    "updated_at": "2026-07-31T01:41:51Z",
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
@@ -383,7 +428,7 @@
     "language": "JavaScript",
     "name": "conorbronsdon/avoid-ai-writing",
     "stars": 2704,
-    "updated_at": "2026-07-31T01:29:26Z",
+    "updated_at": "2026-07-31T01:40:06Z",
     "url": "https://github.com/conorbronsdon/avoid-ai-writing"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T00:45:28Z",
     "url": "https://github.com/Herrscherd/herrscher-orchestrator"
-  },
-  {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 1,
-    "updated_at": "2026-07-31T00:44:04Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 29,
-    "updated_at": "2026-07-31T00:43:39Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "A structured, evidence-based framework for evaluating LLMs, prompts, translation systems, medical AI, Arabic language, A",
-    "id": "jehadsobohai/AI-Evaluation-Framework",
-    "language": "\u2014",
-    "name": "jehadsobohai/AI-Evaluation-Framework",
-    "stars": 2,
-    "updated_at": "2026-07-31T00:40:50Z",
-    "url": "https://github.com/jehadsobohai/AI-Evaluation-Framework"
-  },
-  {
-    "description": "A Claude Code + Codex setup: two-model adversarial planning review (no-echo scoring), auditable council logs, and cross-",
-    "id": "click6067-ship-it/ultrapowers",
-    "language": "Python",
-    "name": "click6067-ship-it/ultrapowers",
-    "stars": 2,
-    "updated_at": "2026-07-31T00:37:04Z",
-    "url": "https://github.com/click6067-ship-it/ultrapowers"
-  },
-  {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 13,
-    "updated_at": "2026-07-31T00:36:15Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
   }
 ]
