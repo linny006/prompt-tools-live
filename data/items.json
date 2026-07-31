@@ -1,12 +1,138 @@
 [
   {
-    "description": "\u514d\u8d39\u3001\u53ef\u590d\u7528\u7684\u5185\u5bb9\u83b7\u5ba2 Skills\uff1a\u5e2e\u52a9\u4f01\u4e1a\u4e0e\u4e13\u4e1a\u670d\u52a1\u8005\u5c11\u751f\u4ea7\u65e0\u6548\u5185\u5bb9\uff0c\u628a\u771f\u5b9e\u7ecf\u9a8c\u53d8\u6210\u5ba2\u6237\u80fd\u7406\u89e3\u548c\u4fe1\u4efb\u7684\u8868\u8fbe\u3002",
-    "id": "gschenhaojie/zhikeyun-open-content-skills",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21001,
+    "updated_at": "2026-07-31T10:29:45Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Production prompting guide for Seedance 2.0 \u2014 asset consistency, shot-list architecture, and a failure\u2192fix reference for",
+    "id": "Zetta360/seedance-prompting-playbook",
     "language": "\u2014",
-    "name": "gschenhaojie/zhikeyun-open-content-skills",
+    "name": "Zetta360/seedance-prompting-playbook",
     "stars": 0,
-    "updated_at": "2026-07-31T10:13:30Z",
-    "url": "https://github.com/gschenhaojie/zhikeyun-open-content-skills"
+    "updated_at": "2026-07-31T10:28:53Z",
+    "url": "https://github.com/Zetta360/seedance-prompting-playbook"
+  },
+  {
+    "description": "\u524d\u7aef\u89c6\u89c9\u8bcd\u6c47\u624b\u518c\uff1a89 \u4e2a\u524d\u7aef\u89c6\u89c9\u540d\u8bcd\u7684\u53ef\u4ea4\u4e92\u56fe\u9274 \u00b7 Frontend visual vocabulary: 89 UI terms with live demos from 6 component libraries, plain ex",
+    "id": "oguszq-oss/frontend-visual-vocab",
+    "language": "TypeScript",
+    "name": "oguszq-oss/frontend-visual-vocab",
+    "stars": 0,
+    "updated_at": "2026-07-31T10:28:32Z",
+    "url": "https://github.com/oguszq-oss/frontend-visual-vocab"
+  },
+  {
+    "description": "Bilingual agent workflow contracts, PR review templates, and sync automation for AI-assisted development",
+    "id": "wlvh/coding-workflow",
+    "language": "Python",
+    "name": "wlvh/coding-workflow",
+    "stars": 5,
+    "updated_at": "2026-07-31T10:28:03Z",
+    "url": "https://github.com/wlvh/coding-workflow"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 54,
+    "updated_at": "2026-07-31T10:26:15Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4167,
+    "updated_at": "2026-07-31T10:29:44Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "Swarming your messy diffs before they reach production.",
+    "id": "bladeacer/lccst",
+    "language": "Python",
+    "name": "bladeacer/lccst",
+    "stars": 1,
+    "updated_at": "2026-07-31T10:24:59Z",
+    "url": "https://github.com/bladeacer/lccst"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 23,
+    "updated_at": "2026-07-31T10:24:55Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-31T10:24:42Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Documenting my 60-day journey of learning AI, prompt engineering, building projects, and exploring Claude through daily ",
+    "id": "Naina-Ohri/60-day-claude-challenge-",
+    "language": "HTML",
+    "name": "Naina-Ohri/60-day-claude-challenge-",
+    "stars": 0,
+    "updated_at": "2026-07-31T10:24:18Z",
+    "url": "https://github.com/Naina-Ohri/60-day-claude-challenge-"
+  },
+  {
+    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
+    "id": "wangkant/personagent",
+    "language": "Python",
+    "name": "wangkant/personagent",
+    "stars": 12,
+    "updated_at": "2026-07-31T10:23:07Z",
+    "url": "https://github.com/wangkant/personagent"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-07-31T10:16:49Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3409,
+    "updated_at": "2026-07-31T10:16:48Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32227,
+    "updated_at": "2026-07-31T10:16:24Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-07-31T10:16:09Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
@@ -14,8 +140,26 @@
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 6,
-    "updated_at": "2026-07-31T10:12:21Z",
+    "updated_at": "2026-07-31T10:15:30Z",
     "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-07-31T10:22:27Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "\u514d\u8d39\u3001\u53ef\u590d\u7528\u7684\u5185\u5bb9\u83b7\u5ba2 Skills\uff1a\u5e2e\u52a9\u4f01\u4e1a\u4e0e\u4e13\u4e1a\u670d\u52a1\u8005\u5c11\u751f\u4ea7\u65e0\u6548\u5185\u5bb9\uff0c\u628a\u771f\u5b9e\u7ecf\u9a8c\u53d8\u6210\u5ba2\u6237\u80fd\u7406\u89e3\u548c\u4fe1\u4efb\u7684\u8868\u8fbe\u3002",
+    "id": "gschenhaojie/zhikeyun-open-content-skills",
+    "language": "\u2014",
+    "name": "gschenhaojie/zhikeyun-open-content-skills",
+    "stars": 0,
+    "updated_at": "2026-07-31T10:13:30Z",
+    "url": "https://github.com/gschenhaojie/zhikeyun-open-content-skills"
   },
   {
     "description": " \u4e2d\u6587\u89d2\u8272 Prompt \u64b0\u5199\u4e0e\u6d4b\u8bd5\u89c4\u8303\uff0c\u542b\u68c0\u67e5\u5de5\u5177",
@@ -32,7 +176,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-31T10:15:21Z",
+    "updated_at": "2026-07-31T10:27:04Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -41,7 +185,7 @@
     "language": "JavaScript",
     "name": "Sungmin-Cho/claude-deep-suite",
     "stars": 7,
-    "updated_at": "2026-07-31T10:11:42Z",
+    "updated_at": "2026-07-31T10:16:49Z",
     "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
   },
   {
@@ -58,18 +202,9 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 40296,
+    "stars": 40297,
     "updated_at": "2026-07-31T10:10:24Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Swarming your messy diffs before they reach production.",
-    "id": "bladeacer/lccst",
-    "language": "Python",
-    "name": "bladeacer/lccst",
-    "stars": 1,
-    "updated_at": "2026-07-31T10:09:37Z",
-    "url": "https://github.com/bladeacer/lccst"
   },
   {
     "description": "A connected skill ecosystem for Claude Code \u2014 skills that know what comes next, anti-sycophancy as architecture, and a g",
@@ -117,15 +252,6 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "Bilingual agent workflow contracts, PR review templates, and sync automation for AI-assisted development",
-    "id": "wlvh/coding-workflow",
-    "language": "Python",
-    "name": "wlvh/coding-workflow",
-    "stars": 5,
-    "updated_at": "2026-07-31T10:07:23Z",
-    "url": "https://github.com/wlvh/coding-workflow"
-  },
-  {
     "description": "DNA by Humaan \u2014 project brain for AI coding. Doctor install, Lab, 1045-pack marketplace, feature factory, tagged commits",
     "id": "superhumaan/DNA",
     "language": "TypeScript",
@@ -139,7 +265,7 @@
     "id": "Brhiza/mingyu",
     "language": "TypeScript",
     "name": "Brhiza/mingyu",
-    "stars": 233,
+    "stars": 234,
     "updated_at": "2026-07-31T10:05:49Z",
     "url": "https://github.com/Brhiza/mingyu"
   },
@@ -149,17 +275,8 @@
     "language": "TypeScript",
     "name": "ford442/weeks_on_fire",
     "stars": 0,
-    "updated_at": "2026-07-31T10:03:08Z",
+    "updated_at": "2026-07-31T10:30:24Z",
     "url": "https://github.com/ford442/weeks_on_fire"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21001,
-    "updated_at": "2026-07-31T10:14:12Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Always-current Claude documentation in Claude Code \u2014 a metadata-only index that fetches official pages from Anthropic on",
@@ -212,17 +329,8 @@
     "language": "Go",
     "name": "AltairaLabs/PromptKit",
     "stars": 9,
-    "updated_at": "2026-07-31T09:59:55Z",
+    "updated_at": "2026-07-31T10:17:28Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3409,
-    "updated_at": "2026-07-31T10:11:08Z",
-    "url": "https://github.com/microsoft/apm"
   },
   {
     "description": "Provider-neutral AI skill for Modrinth project pages, statistics, releases, and measurable growth plans",
@@ -270,15 +378,6 @@
     "url": "https://github.com/codegiveness/umans-gate"
   },
   {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-07-31T10:14:22Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
     "description": "Helen Agent Develop Language ",
     "id": "hahalee000000/helen",
     "language": "Python",
@@ -302,17 +401,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3439,
-    "updated_at": "2026-07-31T10:14:03Z",
+    "updated_at": "2026-07-31T10:28:52Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32226,
-    "updated_at": "2026-07-31T10:07:33Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A/B experiment: does compressing a voice dictation transcript before sending it to a coding agent preserve output qualit",
@@ -358,95 +448,5 @@
     "stars": 15,
     "updated_at": "2026-07-31T09:43:57Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Multi-channel LLM listing generator for eBay, Etsy and Amazon KDP. One generation call produces a superset of copy; per-",
-    "id": "Tuff-Tech-coder/Listing-Engine",
-    "language": "Python",
-    "name": "Tuff-Tech-coder/Listing-Engine",
-    "stars": 0,
-    "updated_at": "2026-07-31T09:42:54Z",
-    "url": "https://github.com/Tuff-Tech-coder/Listing-Engine"
-  },
-  {
-    "description": "Portable Windows scratchpad and snippet manager. One global hotkey, instant window, markdown, silos, themes. Built with ",
-    "id": "vacterro/FastPrompter",
-    "language": "Python",
-    "name": "vacterro/FastPrompter",
-    "stars": 8,
-    "updated_at": "2026-07-31T09:41:59Z",
-    "url": "https://github.com/vacterro/FastPrompter"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 151,
-    "updated_at": "2026-07-31T09:41:42Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4166,
-    "updated_at": "2026-07-31T10:09:32Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:41:18Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:40:41Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Prompt Sloth desktop app \u2014 improve any prompt, anywhere, with one keystroke. Cross-platform (macOS + Windows). Downloads",
-    "id": "EricStrohmaier/promptsloth",
-    "language": "\u2014",
-    "name": "EricStrohmaier/promptsloth",
-    "stars": 0,
-    "updated_at": "2026-07-31T09:33:46Z",
-    "url": "https://github.com/EricStrohmaier/promptsloth"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:32:48Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "\u524d\u7aef\u89c6\u89c9\u8bcd\u6c47\u624b\u518c\uff1a89 \u4e2a\u524d\u7aef\u89c6\u89c9\u540d\u8bcd\u7684\u53ef\u4ea4\u4e92\u56fe\u9274 \u00b7 Frontend visual vocabulary: 89 UI terms with live demos from 6 component libraries, plain ex",
-    "id": "oguszq-oss/frontend-visual-vocab",
-    "language": "TypeScript",
-    "name": "oguszq-oss/frontend-visual-vocab",
-    "stars": 0,
-    "updated_at": "2026-07-31T09:32:43Z",
-    "url": "https://github.com/oguszq-oss/frontend-visual-vocab"
-  },
-  {
-    "description": "Structured expert interviews that compile tacit judgment, workflows, exceptions, and acceptance criteria into portable A",
-    "id": "eritowu/skill-interviewer-repo",
-    "language": "Python",
-    "name": "eritowu/skill-interviewer-repo",
-    "stars": 0,
-    "updated_at": "2026-07-31T09:31:23Z",
-    "url": "https://github.com/eritowu/skill-interviewer-repo"
   }
 ]
