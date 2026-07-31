@@ -1,5 +1,140 @@
 [
   {
+    "description": "A browser game to learn prompt engineering by playing \u2014 explore a world and solve challenges by writing prompts. Techniq",
+    "id": "romanticamaj/promptasy",
+    "language": "JavaScript",
+    "name": "romanticamaj/promptasy",
+    "stars": 0,
+    "updated_at": "2026-07-31T09:29:30Z",
+    "url": "https://github.com/romanticamaj/promptasy"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 40290,
+    "updated_at": "2026-07-31T09:28:40Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "An agent package and project manager, written in Rust.",
+    "id": "narumiruna/aru",
+    "language": "Rust",
+    "name": "narumiruna/aru",
+    "stars": 2,
+    "updated_at": "2026-07-31T09:27:47Z",
+    "url": "https://github.com/narumiruna/aru"
+  },
+  {
+    "description": "\u9762\u5411\u975e\u6280\u672f\u8bfb\u8005\u7684 AI \u534f\u4f5c\u77e5\u8bc6\u5e93\uff1a\u4ece Prompt\u3001Context \u5230 Agent \u4e0e Harness",
+    "id": "zhongky1995/ai-collaboration-handbook",
+    "language": "JavaScript",
+    "name": "zhongky1995/ai-collaboration-handbook",
+    "stars": 0,
+    "updated_at": "2026-07-31T09:24:25Z",
+    "url": "https://github.com/zhongky1995/ai-collaboration-handbook"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3407,
+    "updated_at": "2026-07-31T09:27:39Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
+    "id": "evilstar2016/skill-doctor",
+    "language": "TypeScript",
+    "name": "evilstar2016/skill-doctor",
+    "stars": 0,
+    "updated_at": "2026-07-31T09:21:23Z",
+    "url": "https://github.com/evilstar2016/skill-doctor"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-07-31T09:20:54Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u6392\u76d8\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
+    "id": "Brhiza/mingyu",
+    "language": "TypeScript",
+    "name": "Brhiza/mingyu",
+    "stars": 228,
+    "updated_at": "2026-07-31T09:20:51Z",
+    "url": "https://github.com/Brhiza/mingyu"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32223,
+    "updated_at": "2026-07-31T09:20:33Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 12,
+    "updated_at": "2026-07-31T09:22:27Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 3,
+    "updated_at": "2026-07-31T09:18:35Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-07-31T09:25:22Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-31T09:15:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
+    "id": "wangkant/personagent",
+    "language": "Python",
+    "name": "wangkant/personagent",
+    "stars": 12,
+    "updated_at": "2026-07-31T09:15:16Z",
+    "url": "https://github.com/wangkant/personagent"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3439,
+    "updated_at": "2026-07-31T09:28:28Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Memory patterns, context strategies, and persistence recipes for AI agents. Sliding window, vector recall, hybrid memory",
     "id": "FreeAutomation-Tech/agent-memory-kit",
     "language": "Python",
@@ -14,13 +149,13 @@
     "language": "Go",
     "name": "AltairaLabs/PromptKit",
     "stars": 9,
-    "updated_at": "2026-07-31T09:14:37Z",
+    "updated_at": "2026-07-31T09:26:14Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
   },
   {
     "description": "Scene-first AI agent skill for original motion-rich frontend design, portfolios, landing pages, and single-file HTML pro",
     "id": "Talhaer/ui-motion-atlas",
-    "language": "\u2014",
+    "language": "JavaScript",
     "name": "Talhaer/ui-motion-atlas",
     "stars": 0,
     "updated_at": "2026-07-31T09:14:21Z",
@@ -63,15 +198,6 @@
     "url": "https://github.com/DEEP-CONTENT/skill-advisor"
   },
   {
-    "description": "A browser game to learn prompt engineering by playing \u2014 explore a world and solve challenges by writing prompts. Techniq",
-    "id": "romanticamaj/promptasy",
-    "language": "JavaScript",
-    "name": "romanticamaj/promptasy",
-    "stars": 0,
-    "updated_at": "2026-07-31T09:10:24Z",
-    "url": "https://github.com/romanticamaj/promptasy"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -79,24 +205,6 @@
     "stars": 27294,
     "updated_at": "2026-07-31T09:09:22Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32220,
-    "updated_at": "2026-07-31T09:12:48Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3439,
-    "updated_at": "2026-07-31T09:14:59Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
@@ -122,7 +230,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21000,
-    "updated_at": "2026-07-31T09:02:56Z",
+    "updated_at": "2026-07-31T09:26:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -130,7 +238,7 @@
     "id": "Zipstack/unstract",
     "language": "Python",
     "name": "Zipstack/unstract",
-    "stars": 7016,
+    "stars": 7017,
     "updated_at": "2026-07-31T09:01:47Z",
     "url": "https://github.com/Zipstack/unstract"
   },
@@ -142,24 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T09:01:46Z",
     "url": "https://github.com/Omeraydognn/vibecodingwithedu"
-  },
-  {
-    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
-    "id": "wangkant/personagent",
-    "language": "Python",
-    "name": "wangkant/personagent",
-    "stars": 12,
-    "updated_at": "2026-07-31T09:15:16Z",
-    "url": "https://github.com/wangkant/personagent"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-31T09:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
@@ -212,26 +302,8 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4167,
-    "updated_at": "2026-07-31T09:01:07Z",
+    "updated_at": "2026-07-31T09:26:26Z",
     "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "An agent package and project manager, written in Rust.",
-    "id": "narumiruna/aru",
-    "language": "Rust",
-    "name": "narumiruna/aru",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:53:46Z",
-    "url": "https://github.com/narumiruna/aru"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 40290,
-    "updated_at": "2026-07-31T09:12:47Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -268,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T08:47:58Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Engineering-first OpenAI Codex guide: 14 modules, 9 installable skills, measurable loops, testing, review, orchestration",
-    "id": "Phelan164/codex-howto",
-    "language": "Python",
-    "name": "Phelan164/codex-howto",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:11:47Z",
-    "url": "https://github.com/Phelan164/codex-howto"
   },
   {
     "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
@@ -342,24 +405,6 @@
     "url": "https://github.com/P-r-e-m-i-u-m/generative-ai-engineering-lab"
   },
   {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3407,
-    "updated_at": "2026-07-31T09:10:16Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u6392\u76d8\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
-    "id": "Brhiza/mingyu",
-    "language": "TypeScript",
-    "name": "Brhiza/mingyu",
-    "stars": 227,
-    "updated_at": "2026-07-31T08:36:26Z",
-    "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
     "id": "Faudzan10/outline-driven-starter-kit",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T08:32:41Z",
     "url": "https://github.com/grimoire-rs/grimoire-vscode"
-  },
-  {
-    "description": "C\u00f3mo evitar que CLAUDE.md y MEMORY.md saturen el contexto de Claude Code: una arquitectura de descarga fundamentada en l",
-    "id": "jleonceo/claude-code-context-management",
-    "language": "\u2014",
-    "name": "jleonceo/claude-code-context-management",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:31:25Z",
-    "url": "https://github.com/jleonceo/claude-code-context-management"
-  },
-  {
-    "description": "Orquestaci\u00f3n de IA multiagente: un registro de agentes autogenerado + una evaluaci\u00f3n a ciegas que demuestra que el enrut",
-    "id": "jleonceo/orquestacion-enjambres-ia",
-    "language": "Python",
-    "name": "jleonceo/orquestacion-enjambres-ia",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:30:29Z",
-    "url": "https://github.com/jleonceo/orquestacion-enjambres-ia"
-  },
-  {
-    "description": "Eval-driven development for LLM accounting skills. 50 test cases \u00b7 66% \u2192 100% in 6 iterations \u00b7 results reproducible wit",
-    "id": "jleonceo/llm-eval-contable",
-    "language": "Python",
-    "name": "jleonceo/llm-eval-contable",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:30:19Z",
-    "url": "https://github.com/jleonceo/llm-eval-contable"
-  },
-  {
-    "description": "El m\u00e9todo para gobernar skills de IA sobre datos reales: golden sets, puertas de no-regresi\u00f3n, verificador independiente",
-    "id": "jleonceo/gobernanza-skills-analiticas",
-    "language": "\u2014",
-    "name": "jleonceo/gobernanza-skills-analiticas",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:29:52Z",
-    "url": "https://github.com/jleonceo/gobernanza-skills-analiticas"
-  },
-  {
-    "description": "Long-horizon agent skill for Claude Code / Cursor / Codex / Grok \u2014 multi-task ledger loop (related or not), host-portabl",
-    "id": "levi-qiao/octopus-skill",
-    "language": "Shell",
-    "name": "levi-qiao/octopus-skill",
-    "stars": 39,
-    "updated_at": "2026-07-31T08:27:15Z",
-    "url": "https://github.com/levi-qiao/octopus-skill"
   }
 ]
