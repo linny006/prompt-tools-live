@@ -1,12 +1,84 @@
 [
   {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-31T16:19:16Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "A minimalist 3-agent prompt architecture leveraging Human-In-The-Loop (HITL) to handle LLM non-determinism.",
+    "id": "tsemnk2017cmbab-afk/Prompt-for-Toaru-Science-Consultation-Room",
+    "language": "\u2014",
+    "name": "tsemnk2017cmbab-afk/Prompt-for-Toaru-Science-Consultation-Room",
+    "stars": 0,
+    "updated_at": "2026-07-31T16:19:07Z",
+    "url": "https://github.com/tsemnk2017cmbab-afk/Prompt-for-Toaru-Science-Consultation-Room"
+  },
+  {
+    "description": "Open-source, local-first, Production grade intelligent prompt management system.",
+    "id": "Lancer59/llmpivot",
+    "language": "Python",
+    "name": "Lancer59/llmpivot",
+    "stars": 1,
+    "updated_at": "2026-07-31T16:17:36Z",
+    "url": "https://github.com/Lancer59/llmpivot"
+  },
+  {
+    "description": "Find the safety rules your AI agent prompt forgot. Checks 23 published controls \u2014 injection defense, human approval, cos",
+    "id": "shmindmaster/crewscore",
+    "language": "Python",
+    "name": "shmindmaster/crewscore",
+    "stars": 1,
+    "updated_at": "2026-07-31T16:17:30Z",
+    "url": "https://github.com/shmindmaster/crewscore"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3441,
+    "updated_at": "2026-07-31T16:18:11Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
+    "id": "AditthyaSS/iloveAgents",
+    "language": "JavaScript",
+    "name": "AditthyaSS/iloveAgents",
+    "stars": 116,
+    "updated_at": "2026-07-31T16:15:55Z",
+    "url": "https://github.com/AditthyaSS/iloveAgents"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-31T16:15:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Typed building blocks for everything around your LLM call.",
     "id": "use-crux/crux",
     "language": "TypeScript",
     "name": "use-crux/crux",
     "stars": 0,
-    "updated_at": "2026-07-31T16:15:26Z",
+    "updated_at": "2026-07-31T16:16:36Z",
     "url": "https://github.com/use-crux/crux"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21005,
+    "updated_at": "2026-07-31T16:18:47Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "High-performance prompt generator to maximize learning in NotebookLM",
@@ -43,15 +115,6 @@
     "stars": 7,
     "updated_at": "2026-07-31T16:08:42Z",
     "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21004,
-    "updated_at": "2026-07-31T16:13:31Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The ultimate free, open-source guide and searchable library of the best Claude Skills. Compare, discover, and browse the",
@@ -144,13 +207,13 @@
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness work",
+    "id": "foryourhealth111-pixel/Vibe-Skills",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-31T16:00:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "foryourhealth111-pixel/Vibe-Skills",
+    "stars": 2548,
+    "updated_at": "2026-07-31T15:59:45Z",
+    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
   {
     "description": "A collection of AI-assisted programming projects built through prompt engineering, featuring chatbots, web games, and Py",
@@ -324,15 +387,6 @@
     "url": "https://github.com/shinpr/claude-code-workflows"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3441,
-    "updated_at": "2026-07-31T16:10:43Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "An agent package and project manager, written in Rust.",
     "id": "narumiruna/aru",
     "language": "Rust",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T15:33:09Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
-    "id": "Sunwood-ai-labs/OpenFace",
-    "language": "Python",
-    "name": "Sunwood-ai-labs/OpenFace",
-    "stars": 2,
-    "updated_at": "2026-07-31T15:32:39Z",
-    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
-  },
-  {
-    "description": "A minimalist 3-agent prompt architecture leveraging Human-In-The-Loop (HITL) to handle LLM non-determinism.",
-    "id": "tsemnk2017cmbab-afk/Prompt-for-Toaru-Science-Consultation-Room",
-    "language": "\u2014",
-    "name": "tsemnk2017cmbab-afk/Prompt-for-Toaru-Science-Consultation-Room",
-    "stars": 0,
-    "updated_at": "2026-07-31T15:31:09Z",
-    "url": "https://github.com/tsemnk2017cmbab-afk/Prompt-for-Toaru-Science-Consultation-Room"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-07-31T15:30:33Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "\ud83d\udcd6 \u7528\u5723\u7ecf\u5927\u53d9\u4e8b\uff0c\u523a\u7834\u73b0\u4ee3\u804c\u573a\u4eba\u75db\u70b9\u7684\u5de5\u4e1a\u5316\u5185\u5bb9\u751f\u4ea7\u5f15\u64ce\u300221 \u4e2a references + 200+ \u89e6\u53d1\u8bcd + 1.7 \u4ebf\u79cd\u5185\u5bb9\u7ec4\u5408 + API.Bible \u771f\u5b9e\u7ecf\u6587\u6838\u9a8c\u3002Codex Skill v4.1.1\u3002",
-    "id": "bethel-mark/biblical-content-engine",
-    "language": "Python",
-    "name": "bethel-mark/biblical-content-engine",
-    "stars": 3,
-    "updated_at": "2026-07-31T15:29:47Z",
-    "url": "https://github.com/bethel-mark/biblical-content-engine"
-  },
-  {
-    "description": "VS Code marketplace UI for grim \u2014 the OCI package manager for AI artifacts (skills, rules, agents, MCP servers, bundles)",
-    "id": "grimoire-rs/grimoire-vscode",
-    "language": "TypeScript",
-    "name": "grimoire-rs/grimoire-vscode",
-    "stars": 0,
-    "updated_at": "2026-07-31T15:28:15Z",
-    "url": "https://github.com/grimoire-rs/grimoire-vscode"
-  },
-  {
-    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
-    "id": "kreftamarcio/prompt-forge",
-    "language": "TypeScript",
-    "name": "kreftamarcio/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-07-31T15:28:05Z",
-    "url": "https://github.com/kreftamarcio/prompt-forge"
   }
 ]
