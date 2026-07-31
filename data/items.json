@@ -1,12 +1,138 @@
 [
   {
+    "description": "Drop-in Agent Skills, subagents, output styles, hooks & config templates for Claude Code (~/.claude) and OpenAI Codex CL",
+    "id": "dayfinggg/claude-code-codex-skills",
+    "language": "PowerShell",
+    "name": "dayfinggg/claude-code-codex-skills",
+    "stars": 1,
+    "updated_at": "2026-07-31T11:44:20Z",
+    "url": "https://github.com/dayfinggg/claude-code-codex-skills"
+  },
+  {
+    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
+    "id": "wangkant/personagent",
+    "language": "Python",
+    "name": "wangkant/personagent",
+    "stars": 12,
+    "updated_at": "2026-07-31T11:44:12Z",
+    "url": "https://github.com/wangkant/personagent"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3409,
+    "updated_at": "2026-07-31T11:44:11Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Prompts as versioned contracts: strict output schema, lint rules with a failure story each, and release-impact diff. Dep",
+    "id": "94spec/prompt-contracts",
+    "language": "Python",
+    "name": "94spec/prompt-contracts",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:41:40Z",
+    "url": "https://github.com/94spec/prompt-contracts"
+  },
+  {
+    "description": "Biblioteca gratuita de prompts, skills e ferramentas de IA em portugu\u00eas. Material testado, organizado por finalidade e a",
+    "id": "AndreCia/prompts-e-skills",
+    "language": "Python",
+    "name": "AndreCia/prompts-e-skills",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:41:30Z",
+    "url": "https://github.com/AndreCia/prompts-e-skills"
+  },
+  {
+    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
+    "id": "Sunwood-ai-labs/OpenFace",
+    "language": "Python",
+    "name": "Sunwood-ai-labs/OpenFace",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:37:36Z",
+    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
+  },
+  {
+    "description": "A local-first prompt manager for ChatGPT, Claude, Gemini, and any AI workflow.",
+    "id": "kaanabak/ai-prompt-studio",
+    "language": "HTML",
+    "name": "kaanabak/ai-prompt-studio",
+    "stars": 3,
+    "updated_at": "2026-07-31T11:36:54Z",
+    "url": "https://github.com/kaanabak/ai-prompt-studio"
+  },
+  {
+    "description": "\ud83c\udfa8 Curated Seedream 5.0 Pro prompts with previews \u2014 auto-generated README, EN/\u4e2d\u6587",
+    "id": "velokey-ai/awesome-seedream-5.0-pro-prompts",
+    "language": "Python",
+    "name": "velokey-ai/awesome-seedream-5.0-pro-prompts",
+    "stars": 1,
+    "updated_at": "2026-07-31T11:36:35Z",
+    "url": "https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts"
+  },
+  {
+    "description": "Evaluation framework for self-hosted LLMs. Systematic prompt ablation (baseline, CoT, few-shot, self-consistency voting)",
+    "id": "jameswniu/self-hosted-llm-evals-lab",
+    "language": "Python",
+    "name": "jameswniu/self-hosted-llm-evals-lab",
+    "stars": 1,
+    "updated_at": "2026-07-31T11:35:19Z",
+    "url": "https://github.com/jameswniu/self-hosted-llm-evals-lab"
+  },
+  {
+    "description": "Scene-first AI agent skill for original motion-rich frontend design, portfolios, landing pages, and single-file HTML pro",
+    "id": "Talhaer/ui-motion-atlas",
+    "language": "JavaScript",
+    "name": "Talhaer/ui-motion-atlas",
+    "stars": 1,
+    "updated_at": "2026-07-31T11:33:33Z",
+    "url": "https://github.com/Talhaer/ui-motion-atlas"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:33:13Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4168,
+    "updated_at": "2026-07-31T11:44:24Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
     "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
     "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
     "language": "TypeScript",
     "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
     "stars": 1,
-    "updated_at": "2026-07-31T11:29:25Z",
+    "updated_at": "2026-07-31T11:31:39Z",
     "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-31T11:30:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "Go",
+    "name": "sachncs/promptsheon",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:30:15Z",
+    "url": "https://github.com/sachncs/promptsheon"
   },
   {
     "description": "Traceable bilingual Amazon review insight agent for cross-border beauty operations",
@@ -18,15 +144,6 @@
     "url": "https://github.com/zugzwang-zg/crossborder-voice-agent"
   },
   {
-    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
-    "id": "Sunwood-ai-labs/OpenFace",
-    "language": "Python",
-    "name": "Sunwood-ai-labs/OpenFace",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:30:24Z",
-    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
-  },
-  {
     "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
     "id": "apoapostolov/humanizer",
     "language": "JavaScript",
@@ -34,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-07-31T11:26:18Z",
     "url": "https://github.com/apoapostolov/humanizer"
-  },
-  {
-    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
-    "id": "wangkant/personagent",
-    "language": "Python",
-    "name": "wangkant/personagent",
-    "stars": 12,
-    "updated_at": "2026-07-31T11:25:50Z",
-    "url": "https://github.com/wangkant/personagent"
   },
   {
     "description": "Hong Kong Labour Department Job Listing Scraper & AI Agent",
@@ -158,7 +266,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32228,
-    "updated_at": "2026-07-31T11:21:58Z",
+    "updated_at": "2026-07-31T11:42:26Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -169,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T11:17:03Z",
     "url": "https://github.com/1756141021/tag-skill"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-31T11:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T10:56:00Z",
     "url": "https://github.com/itsyasirkhandev/promptcraft"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21001,
-    "updated_at": "2026-07-31T11:21:21Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3409,
-    "updated_at": "2026-07-31T11:18:17Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "Long-horizon agent skill for Claude Code / Cursor / Codex / Grok \u2014 multi-task ledger loop (related or not), host-portabl",
-    "id": "levi-qiao/octopus-skill",
-    "language": "Shell",
-    "name": "levi-qiao/octopus-skill",
-    "stars": 39,
-    "updated_at": "2026-07-31T10:49:01Z",
-    "url": "https://github.com/levi-qiao/octopus-skill"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-07-31T10:48:09Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 153,
-    "updated_at": "2026-07-31T10:47:35Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
-    "id": "llwslc/proteus",
-    "language": "HTML",
-    "name": "llwslc/proteus",
-    "stars": 2,
-    "updated_at": "2026-07-31T10:46:19Z",
-    "url": "https://github.com/llwslc/proteus"
-  },
-  {
-    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u6392\u76d8\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
-    "id": "Brhiza/mingyu",
-    "language": "TypeScript",
-    "name": "Brhiza/mingyu",
-    "stars": 237,
-    "updated_at": "2026-07-31T11:25:16Z",
-    "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 155,
-    "updated_at": "2026-07-31T10:44:20Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-31T10:44:17Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "A reusable writing skill that helps AI agents produce clear, human-readable technical Chinese for reports, explanations,",
-    "id": "AIALRA-0/agent-human-readable-technical-writing",
-    "language": "PowerShell",
-    "name": "AIALRA-0/agent-human-readable-technical-writing",
-    "stars": 0,
-    "updated_at": "2026-07-31T10:44:15Z",
-    "url": "https://github.com/AIALRA-0/agent-human-readable-technical-writing"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 155,
-    "updated_at": "2026-07-31T10:43:46Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   }
 ]
