@@ -1,5 +1,113 @@
 [
   {
+    "description": "An Agent Skill that makes any AI explain like Richard Feynman: mechanism before name, one honest analogy with its limits",
+    "id": "guicortei/feynman-technique",
+    "language": "Python",
+    "name": "guicortei/feynman-technique",
+    "stars": 1,
+    "updated_at": "2026-07-31T14:44:52Z",
+    "url": "https://github.com/guicortei/feynman-technique"
+  },
+  {
+    "description": "A Python library for evolving code and algorithms using Large Language Models (LLMs)",
+    "id": "larose/optiverse",
+    "language": "Python",
+    "name": "larose/optiverse",
+    "stars": 5,
+    "updated_at": "2026-07-31T14:41:33Z",
+    "url": "https://github.com/larose/optiverse"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-07-31T14:41:01Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Context persistence and session history for Claude Code",
+    "id": "natgalla/context-historian",
+    "language": "Shell",
+    "name": "natgalla/context-historian",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:39:38Z",
+    "url": "https://github.com/natgalla/context-historian"
+  },
+  {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:38:48Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32241,
+    "updated_at": "2026-07-31T14:38:47Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-07-31T14:38:41Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-07-31T14:38:15Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-07-31T14:35:07Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-31T14:34:02Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:33:59Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 40321,
+    "updated_at": "2026-07-31T14:33:40Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
     "description": "Find the safety rules your AI agent prompt forgot. Checks 23 published controls \u2014 injection defense, human approval, cos",
     "id": "shmindmaster/crewscore",
     "language": "Python",
@@ -9,13 +117,13 @@
     "url": "https://github.com/shmindmaster/crewscore"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-31T14:30:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "HTML",
+    "name": "llwslc/proteus",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:33:00Z",
+    "url": "https://github.com/llwslc/proteus"
   },
   {
     "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
@@ -52,15 +160,6 @@
     "stars": 15,
     "updated_at": "2026-07-31T14:26:04Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32238,
-    "updated_at": "2026-07-31T14:30:53Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\u57fa\u4e8e AI Agent \u5de5\u4f5c\u6d41\u7684\u4fee\u4ed9\u4e16\u754c\u6a21\u62df\u5668\uff0c\u65e8\u5728\u8fd8\u539f\u667a\u80fd\u3001\u5f00\u653e\u7684\u4ed9\u4fa0\u4e16\u754c\u3002| An open-source Cultivation World Simulator using Agentic Workflow to create a d",
@@ -126,15 +225,6 @@
     "url": "https://github.com/uhhexe/fable.exe"
   },
   {
-    "description": "Context persistence and session history for Claude Code",
-    "id": "natgalla/context-historian",
-    "language": "Shell",
-    "name": "natgalla/context-historian",
-    "stars": 0,
-    "updated_at": "2026-07-31T14:20:50Z",
-    "url": "https://github.com/natgalla/context-historian"
-  },
-  {
     "description": "When coding with AI, it's an IDE-independent, single-file universal rule system that also allows it to truly learn thing",
     "id": "Omeraydognn/vibecodingwithedu",
     "language": "JavaScript",
@@ -193,7 +283,7 @@
     "id": "Zipstack/unstract",
     "language": "Python",
     "name": "Zipstack/unstract",
-    "stars": 7034,
+    "stars": 7035,
     "updated_at": "2026-07-31T14:15:56Z",
     "url": "https://github.com/Zipstack/unstract"
   },
@@ -315,15 +405,6 @@
     "url": "https://github.com/fysoul17/devlyn-cli"
   },
   {
-    "description": "An Agent Skill that makes any AI explain like Richard Feynman: mechanism before name, one honest analogy with its limits",
-    "id": "guicortei/feynman-technique",
-    "language": "Python",
-    "name": "guicortei/feynman-technique",
-    "stars": 1,
-    "updated_at": "2026-07-31T14:04:09Z",
-    "url": "https://github.com/guicortei/feynman-technique"
-  },
-  {
     "description": "Hypertaks = \"A founder who owns a library of more than 1,400 books, knows exactly which book to consult for this issue, ",
     "id": "aabrur/hypertaks-agent",
     "language": "Python",
@@ -355,7 +436,7 @@
     "id": "Kiln-AI/Kiln",
     "language": "Python",
     "name": "Kiln-AI/Kiln",
-    "stars": 4997,
+    "stars": 4998,
     "updated_at": "2026-07-31T14:00:58Z",
     "url": "https://github.com/Kiln-AI/Kiln"
   },
@@ -367,86 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-31T14:00:22Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Claude Code skill: interviews you to turn a rough task idea into a high-level prompt (outcome + guardrails + self-verifi",
-    "id": "promptmetrics/prompt-workflow-architecture",
-    "language": "Shell",
-    "name": "promptmetrics/prompt-workflow-architecture",
-    "stars": 0,
-    "updated_at": "2026-07-31T14:00:10Z",
-    "url": "https://github.com/promptmetrics/prompt-workflow-architecture"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23790,
-    "updated_at": "2026-07-31T13:58:46Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 40319,
-    "updated_at": "2026-07-31T14:33:40Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "21 Lessons, Get Started Building with Generative AI ",
-    "id": "microsoft/generative-ai-for-beginners",
-    "language": "Jupyter Notebook",
-    "name": "microsoft/generative-ai-for-beginners",
-    "stars": 113810,
-    "updated_at": "2026-07-31T13:57:31Z",
-    "url": "https://github.com/microsoft/generative-ai-for-beginners"
-  },
-  {
-    "description": "A runtime-neutral identity and operating-doctrine starter for building candid, corrigible AI agents.",
-    "id": "robertaustinbell/bobert-agent-template",
-    "language": "Python",
-    "name": "robertaustinbell/bobert-agent-template",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:56:08Z",
-    "url": "https://github.com/robertaustinbell/bobert-agent-template"
-  },
-  {
-    "description": "Prompt-composition tool for ChatGPT, Claude and other LLMs \u2014 Next.js App Router with a typed component library",
-    "id": "brettadams0/PromptPal",
-    "language": "TypeScript",
-    "name": "brettadams0/PromptPal",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:54:26Z",
-    "url": "https://github.com/brettadams0/PromptPal"
-  },
-  {
-    "description": "B\u00e4rnd\u00fctsch for AI assistants. A tool-agnostic rulebook that makes any LLM write real Bernese German, plus a Claude Code ",
-    "id": "sapn95/berndeutsch-for-ai",
-    "language": "Python",
-    "name": "sapn95/berndeutsch-for-ai",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:53:38Z",
-    "url": "https://github.com/sapn95/berndeutsch-for-ai"
-  },
-  {
-    "description": "Source-backed Muse Image prompts, official agentic editing cases, reusable workflows, preview media, and 14-language gui",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:52:55Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "Rust",
-    "name": "Open-Less/openless",
-    "stars": 2913,
-    "updated_at": "2026-07-31T13:48:00Z",
-    "url": "https://github.com/Open-Less/openless"
   }
 ]
