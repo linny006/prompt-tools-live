@@ -1,5 +1,41 @@
 [
   {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 37266,
+    "updated_at": "2026-07-31T04:34:57Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "An agent package and project manager, written in Rust.",
+    "id": "narumiruna/aru",
+    "language": "Rust",
+    "name": "narumiruna/aru",
+    "stars": 2,
+    "updated_at": "2026-07-31T04:34:41Z",
+    "url": "https://github.com/narumiruna/aru"
+  },
+  {
+    "description": "Portfolio of prompt engineering and AI evaluation projects.",
+    "id": "jehadsobohai/LLM-Evaluation-Portfolio",
+    "language": "\u2014",
+    "name": "jehadsobohai/LLM-Evaluation-Portfolio",
+    "stars": 1,
+    "updated_at": "2026-07-31T04:32:43Z",
+    "url": "https://github.com/jehadsobohai/LLM-Evaluation-Portfolio"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-31T04:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -99,6 +135,15 @@
     "url": "https://github.com/oscargbocanegra/llms-engineering-main"
   },
   {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 40252,
+    "updated_at": "2026-07-31T04:22:50Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
     "description": "S\u00e1ch mi\u1ec5n ph\u00ed ti\u1ebfng Vi\u1ec7t v\u1ec1 vibe coding cho Tester, PM, BA \u2014 ng\u01b0\u1eddi l\u00e0m IT kh\u00f4ng vi\u1ebft code. 20 ch\u01b0\u01a1ng, 3 ph\u1ee5 l\u1ee5c, 54 h\u00ecnh",
     "id": "fx-studio/vibe-coding-2026-essentials",
     "language": "\u2014",
@@ -148,7 +193,7 @@
     "id": "kangarooking/cangjie-skill",
     "language": "Python",
     "name": "kangarooking/cangjie-skill",
-    "stars": 5621,
+    "stars": 5622,
     "updated_at": "2026-07-31T04:20:37Z",
     "url": "https://github.com/kangarooking/cangjie-skill"
   },
@@ -207,15 +252,6 @@
     "url": "https://github.com/flexigpt/flexigpt-app"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-31T04:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
@@ -268,15 +304,6 @@
     "stars": 4973,
     "updated_at": "2026-07-31T04:05:24Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 40251,
-    "updated_at": "2026-07-31T04:22:50Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "Measurable engineering loops for OpenAI Codex: scope, implement, test, review, and report evidence.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T03:39:56Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "\u591a\u667a\u80fd\u4f53\u534f\u540c\u5f71\u89c6\u5de5\u4e1a\u5316AI\u5de5\u4f5c\u53f0 | \u5185\u7f6e\u7f16\u5267\u5ba4SOP + AI\u89c6\u9891\u5206\u955c\u63d0\u793a\u8bcd\u5f15\u64ce + \u957f\u6587\u672c\u6df1\u5ea6\u5904\u7406 | \u652f\u630112+ LLM\u670d\u52a1\u5546",
-    "id": "slipknot0130/Film-Production-Toolkit",
-    "language": "Python",
-    "name": "slipknot0130/Film-Production-Toolkit",
-    "stars": 7,
-    "updated_at": "2026-07-31T03:39:25Z",
-    "url": "https://github.com/slipknot0130/Film-Production-Toolkit"
-  },
-  {
-    "description": "Auto-derives codebase conventions from repo analysis and injects archetype-aware guidance into AI-generated code, enforc",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 9,
-    "updated_at": "2026-07-31T03:39:08Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "284 curated plugins for AI assistants across 16 categories: security, Azure, documentation, code quality, cloud infrastr",
-    "id": "fabioc-aloha/Alex_Skill_Mall",
-    "language": "JavaScript",
-    "name": "fabioc-aloha/Alex_Skill_Mall",
-    "stars": 3,
-    "updated_at": "2026-07-31T03:36:31Z",
-    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
   }
 ]
