@@ -1,5 +1,23 @@
 [
   {
+    "description": "Find the safety rules your AI agent prompt forgot. Checks 23 published controls \u2014 injection defense, human approval, cos",
+    "id": "shmindmaster/crewscore",
+    "language": "Python",
+    "name": "shmindmaster/crewscore",
+    "stars": 1,
+    "updated_at": "2026-07-31T14:33:17Z",
+    "url": "https://github.com/shmindmaster/crewscore"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-07-31T14:30:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
     "id": "AnastasiyaW/codex-claude-code-config",
     "language": "Python",
@@ -41,7 +59,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32238,
-    "updated_at": "2026-07-31T14:26:01Z",
+    "updated_at": "2026-07-31T14:30:53Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -61,6 +79,15 @@
     "stars": 3,
     "updated_at": "2026-07-31T14:25:24Z",
     "url": "https://github.com/netopsengineer/axiom"
+  },
+  {
+    "description": "Lightweight Claude Code skills for daily AI-assisted development workflows.",
+    "id": "Chrike/coding-agent-skills",
+    "language": "Python",
+    "name": "Chrike/coding-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-07-31T14:24:50Z",
+    "url": "https://github.com/Chrike/coding-agent-skills"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -135,15 +162,6 @@
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
   },
   {
-    "description": "Lightweight Claude Code skills for daily AI-assisted development workflows.",
-    "id": "Chrike/coding-agent-skills",
-    "language": "Python",
-    "name": "Chrike/coding-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-07-31T14:24:50Z",
-    "url": "https://github.com/Chrike/coding-agent-skills"
-  },
-  {
     "description": "Curated, portable AI agent skills for researching, creating, repurposing, publishing, and analyzing social-media content",
     "id": "replynodes/awesome-social-media-skills",
     "language": "Python",
@@ -180,15 +198,6 @@
     "url": "https://github.com/Zipstack/unstract"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-07-31T14:15:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
     "id": "vikashjeyaraman/opencouncil-contract-inspector",
     "language": "HTML",
@@ -205,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T14:14:04Z",
     "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
-  },
-  {
-    "description": "Find the safety rules your AI agent prompt forgot. Checks 23 published controls \u2014 injection defense, human approval, cos",
-    "id": "shmindmaster/crewscore",
-    "language": "Python",
-    "name": "shmindmaster/crewscore",
-    "stars": 1,
-    "updated_at": "2026-07-31T14:13:24Z",
-    "url": "https://github.com/shmindmaster/crewscore"
   },
   {
     "description": "A multi-modal AI integrating Grok, OpenAI, and Gemini for retrieval-augmented generation (RAG), semantic search, and str",
@@ -391,8 +391,8 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 40317,
-    "updated_at": "2026-07-31T13:58:08Z",
+    "stars": 40319,
+    "updated_at": "2026-07-31T14:33:40Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
