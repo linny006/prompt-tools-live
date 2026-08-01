@@ -1,5 +1,122 @@
 [
   {
+    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-08-01T16:26:23Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Turn a source tree into portable, plain\u2011text archives \u2014 paste into an LLM context window, diff against a snapshot, or re",
+    "id": "Phyxashun/pendex",
+    "language": "HTML",
+    "name": "Phyxashun/pendex",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:25:29Z",
+    "url": "https://github.com/Phyxashun/pendex"
+  },
+  {
+    "description": "Codex CLI meta-reflection layer for Outline-Driven Development. Add-on for the Claude plugin.",
+    "id": "OutlineDriven/odin-reflector",
+    "language": "TypeScript",
+    "name": "OutlineDriven/odin-reflector",
+    "stars": 9,
+    "updated_at": "2026-08-01T16:25:16Z",
+    "url": "https://github.com/OutlineDriven/odin-reflector"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 3,
+    "updated_at": "2026-08-01T16:24:18Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
+    "id": "piyalidas10/AI",
+    "language": "Python",
+    "name": "piyalidas10/AI",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:21:57Z",
+    "url": "https://github.com/piyalidas10/AI"
+  },
+  {
+    "description": "Una moderna applicazione web full-stack per gestire, organizzare e sincronizzare prompt AI, costruita con React, Vite, S",
+    "id": "RobertoCorraro/BOB-Prompt-Library-26",
+    "language": "JavaScript",
+    "name": "RobertoCorraro/BOB-Prompt-Library-26",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:20:56Z",
+    "url": "https://github.com/RobertoCorraro/BOB-Prompt-Library-26"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13024,
+    "updated_at": "2026-08-01T16:19:31Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 1,
+    "updated_at": "2026-08-01T16:21:29Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "A magical witch assistant equipped with an enchanted grimoire powered by AI, yet shaped by you: your agents, your prompt",
+    "id": "mdesalvo/Morgana",
+    "language": "C#",
+    "name": "mdesalvo/Morgana",
+    "stars": 9,
+    "updated_at": "2026-08-01T16:17:14Z",
+    "url": "https://github.com/mdesalvo/Morgana"
+  },
+  {
+    "description": "Creating an SPA for a music studio using prompt engineering",
+    "id": "raposamillar/studio-website",
+    "language": "HTML",
+    "name": "raposamillar/studio-website",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:16:41Z",
+    "url": "https://github.com/raposamillar/studio-website"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-01T16:16:37Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:16:35Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T16:15:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "An open, evidence-based standard for structuring, documenting, conducting, and reporting Large Language Model (LLM) eval",
     "id": "jehadsobohai/LLM-Evaluation-Project-Standard",
     "language": "TeX",
@@ -9,15 +126,6 @@
     "url": "https://github.com/jehadsobohai/LLM-Evaluation-Project-Standard"
   },
   {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 3,
-    "updated_at": "2026-08-01T16:14:51Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -25,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T16:14:22Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
-    "id": "piyalidas10/AI",
-    "language": "Python",
-    "name": "piyalidas10/AI",
-    "stars": 0,
-    "updated_at": "2026-08-01T16:14:15Z",
-    "url": "https://github.com/piyalidas10/AI"
   },
   {
     "description": "An AI-powered cooking learning assistant built with Streamlit and Google Gemini. It helps beginners learn cooking throug",
@@ -58,7 +157,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 40439,
+    "stars": 40440,
     "updated_at": "2026-08-01T16:12:06Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -88,15 +187,6 @@
     "stars": 1994,
     "updated_at": "2026-08-01T16:10:11Z",
     "url": "https://github.com/4thfever/cultivation-world-simulator"
-  },
-  {
-    "description": "Creating an SPA for a music studio using prompt engineering",
-    "id": "raposamillar/studio-website",
-    "language": "HTML",
-    "name": "raposamillar/studio-website",
-    "stars": 0,
-    "updated_at": "2026-08-01T16:10:04Z",
-    "url": "https://github.com/raposamillar/studio-website"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -142,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T16:06:35Z",
     "url": "https://github.com/sunjun0621/smiao-ai-assistant"
-  },
-  {
-    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 2,
-    "updated_at": "2026-08-01T16:06:16Z",
-    "url": "https://github.com/nikolay-e/diffctx"
   },
   {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
@@ -207,15 +288,6 @@
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T16:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
     "id": "SHENG5411/grimoire-of-tools",
     "language": "HTML",
@@ -257,7 +329,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10850,
-    "updated_at": "2026-08-01T16:00:13Z",
+    "updated_at": "2026-08-01T16:17:47Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T15:54:14Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:53:27Z",
-    "url": "https://github.com/agungkesmas/recallfox"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-01T15:53:04Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-01T15:52:55Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Randomised 576-response study of formal argument scaffolding on one LLM task: null primary result, exploratory behaviour",
-    "id": "rohanneelala17-pixel/formalised-prompt-engineering-llm-audit",
-    "language": "R",
-    "name": "rohanneelala17-pixel/formalised-prompt-engineering-llm-audit",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:52:53Z",
-    "url": "https://github.com/rohanneelala17-pixel/formalised-prompt-engineering-llm-audit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23815,
-    "updated_at": "2026-08-01T16:05:35Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext. ",
-    "id": "agoradynamics/wick",
-    "language": "JavaScript",
-    "name": "agoradynamics/wick",
-    "stars": 3,
-    "updated_at": "2026-08-01T15:52:43Z",
-    "url": "https://github.com/agoradynamics/wick"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-01T15:49:32Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 28,
-    "updated_at": "2026-08-01T15:49:19Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
   }
 ]
