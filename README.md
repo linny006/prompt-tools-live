@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-01 22:30 UTC
+> ⏰ Last updated: 2026-08-01 22:33 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [jehadsobohai/LLM-Evaluation-Portfolio](https://github.com/jehadsobohai/LLM-Evaluation-Portfolio) | 1 | SCSS | 2026-08-01 | Portfolio of prompt engineering and AI evaluation projects. |
-| 2 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-08-01 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
-| 3 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-01 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
-| 4 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 3 | HTML | 2026-08-01 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
-| 5 | [ZacheryKuykendall/skillbox](https://github.com/ZacheryKuykendall/skillbox) | 0 | — | 2026-08-01 | Curated agent skills, loop prompts, and agent modes for coding agents. Plain Markdown, no CLI and nothing to install. Wo |
-| 6 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-01 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 7 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-08-01 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 8 | [eddlev/vm4ai-air-kit](https://github.com/eddlev/vm4ai-air-kit) | 2 | — | 2026-08-01 | A prompt-based AI project runtime for structured activation, roadmap-first execution, active-step artifacts and handoff  |
-| 9 | [standardbeagle/slop](https://github.com/standardbeagle/slop) | 0 | Go | 2026-08-01 | SLOP: Structured Language for Orchestrating Prompts - A domain-specific language for AI agent workflows |
-| 10 | [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 34 | Python | 2026-08-01 | Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic |
-| 11 | [lf1up/careersim](https://github.com/lf1up/careersim) | 22 | TypeScript | 2026-08-01 | 🎮 AI-Powered Career Skills SIMulator |
-| 12 | [Supervertaler/Supervertaler-Workbench](https://github.com/Supervertaler/Supervertaler-Workbench) | 50 | Python | 2026-08-01 | Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord |
-| 13 | [RAJVEER42/lfx-param-extraction](https://github.com/RAJVEER42/lfx-param-extraction) | 0 | Python | 2026-08-01 | LFX Mentorship Fall 2026 coding challenge: AI-assisted extraction of architectural parameters from RISC-V specifications |
-| 14 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-08-01 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [jehadsobohai/LLM-Evaluation-Portfolio](https://github.com/jehadsobohai/LLM-Evaluation-Portfolio) | 1 | HTML | 2026-08-01 | Portfolio of prompt engineering and AI evaluation projects. |
+| 2 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-08-01 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 3 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-08-01 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
+| 4 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-01 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
+| 5 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 3 | HTML | 2026-08-01 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
+| 6 | [ZacheryKuykendall/skillbox](https://github.com/ZacheryKuykendall/skillbox) | 0 | — | 2026-08-01 | Curated agent skills, loop prompts, and agent modes for coding agents. Plain Markdown, no CLI and nothing to install. Wo |
+| 7 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-01 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 8 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-08-01 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 9 | [eddlev/vm4ai-air-kit](https://github.com/eddlev/vm4ai-air-kit) | 2 | — | 2026-08-01 | A prompt-based AI project runtime for structured activation, roadmap-first execution, active-step artifacts and handoff  |
+| 10 | [standardbeagle/slop](https://github.com/standardbeagle/slop) | 0 | Go | 2026-08-01 | SLOP: Structured Language for Orchestrating Prompts - A domain-specific language for AI agent workflows |
+| 11 | [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 34 | Python | 2026-08-01 | Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic |
+| 12 | [lf1up/careersim](https://github.com/lf1up/careersim) | 22 | TypeScript | 2026-08-01 | 🎮 AI-Powered Career Skills SIMulator |
+| 13 | [Supervertaler/Supervertaler-Workbench](https://github.com/Supervertaler/Supervertaler-Workbench) | 50 | Python | 2026-08-01 | Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord |
+| 14 | [RAJVEER42/lfx-param-extraction](https://github.com/RAJVEER42/lfx-param-extraction) | 0 | Python | 2026-08-01 | LFX Mentorship Fall 2026 coding challenge: AI-assisted extraction of architectural parameters from RISC-V specifications |
 | 15 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-01 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
 | 16 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-01 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
 | 17 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-08-01 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
