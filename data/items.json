@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-08-01T19:45:17Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "AI Travel Planner Agent built with Dify, LLM and RAG for executable travel planning",
+    "id": "clin06585-dev/ai-travel-planner-agent",
+    "language": "\u2014",
+    "name": "clin06585-dev/ai-travel-planner-agent",
+    "stars": 0,
+    "updated_at": "2026-08-01T19:45:15Z",
+    "url": "https://github.com/clin06585-dev/ai-travel-planner-agent"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 3,
+    "updated_at": "2026-08-01T19:44:03Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl",
+    "id": "grimoire-rs/grimoire",
+    "language": "Rust",
+    "name": "grimoire-rs/grimoire",
+    "stars": 6,
+    "updated_at": "2026-08-01T19:43:33Z",
+    "url": "https://github.com/grimoire-rs/grimoire"
+  },
+  {
+    "description": "AI engineering kit for DeepSeek. Orchestrator agents, 20 skills, living memory with local embeddings, quality gates, and",
+    "id": "Pl3ntz/llmfoundry",
+    "language": "Python",
+    "name": "Pl3ntz/llmfoundry",
+    "stars": 0,
+    "updated_at": "2026-08-01T19:42:06Z",
+    "url": "https://github.com/Pl3ntz/llmfoundry"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T19:40:55Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "This is a DSA Mentor",
     "id": "kinza7124/DSA-Coding-Mentor",
     "language": "TypeScript",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T19:39:11Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 3,
-    "updated_at": "2026-08-01T19:38:18Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -52,15 +97,6 @@
     "stars": 116,
     "updated_at": "2026-08-01T19:37:40Z",
     "url": "https://github.com/AditthyaSS/iloveAgents"
-  },
-  {
-    "description": "AI engineering kit for DeepSeek \u2014 orchestrator agents, 20 skills, living memory with local embeddings, quality gates, an",
-    "id": "Pl3ntz/llmfoundry",
-    "language": "Python",
-    "name": "Pl3ntz/llmfoundry",
-    "stars": 0,
-    "updated_at": "2026-08-01T19:37:15Z",
-    "url": "https://github.com/Pl3ntz/llmfoundry"
   },
   {
     "description": "Claude Code skill for Ideogram AI image generation \u2014 structured JSON caption prompting, color palette control, and MCP-b",
@@ -117,15 +153,6 @@
     "url": "https://github.com/aabrur/hypertaks-agent"
   },
   {
-    "description": "AI Travel Planner Agent built with Dify, LLM and RAG for executable travel planning",
-    "id": "clin06585-dev/ai-travel-planner-agent",
-    "language": "\u2014",
-    "name": "clin06585-dev/ai-travel-planner-agent",
-    "stars": 0,
-    "updated_at": "2026-08-01T19:32:48Z",
-    "url": "https://github.com/clin06585-dev/ai-travel-planner-agent"
-  },
-  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -142,15 +169,6 @@
     "stars": 112,
     "updated_at": "2026-08-01T19:31:56Z",
     "url": "https://github.com/ather-techie/rag-interview-system"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T19:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Drop-in Agent Skills, subagents, output styles, hooks & config templates for Claude Code (~/.claude) and OpenAI Codex CL",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T19:05:43Z",
     "url": "https://github.com/RAJVEER42/lfx-param-extraction"
-  },
-  {
-    "description": "CLI tool for comparing prompt variants and models",
-    "id": "amro/evaling",
-    "language": "Python",
-    "name": "amro/evaling",
-    "stars": 1,
-    "updated_at": "2026-08-01T19:09:00Z",
-    "url": "https://github.com/amro/evaling"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-01T19:03:31Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   }
 ]
