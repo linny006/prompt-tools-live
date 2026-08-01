@@ -1,12 +1,66 @@
 [
   {
-    "description": "Fine-tuning Llama 3.1 8B for a feedback-to-engineering-insights pipeline \u2014 LoRA fine-tuning, local inference via FastAPI",
-    "id": "praveenjatta/llama-finetuning-feedback-pipeline",
-    "language": "Python",
-    "name": "praveenjatta/llama-finetuning-feedback-pipeline",
+    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
+    "id": "eric-sabe/engsys",
+    "language": "JavaScript",
+    "name": "eric-sabe/engsys",
+    "stars": 1,
+    "updated_at": "2026-08-01T06:57:11Z",
+    "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
+    "description": "[BETA] An AI-driven ecosystem and multi-agent workflow for generating highly aesthetic, presentation-ready PPTX slides a",
+    "id": "YuJunWang/agy-pptx-studio",
+    "language": "JavaScript",
+    "name": "YuJunWang/agy-pptx-studio",
     "stars": 0,
-    "updated_at": "2026-08-01T06:45:23Z",
-    "url": "https://github.com/praveenjatta/llama-finetuning-feedback-pipeline"
+    "updated_at": "2026-08-01T06:56:35Z",
+    "url": "https://github.com/YuJunWang/agy-pptx-studio"
+  },
+  {
+    "description": "Always-current Claude documentation in Claude Code \u2014 a metadata-only index that fetches official pages from Anthropic on",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-08-01T06:56:33Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-08-01T06:54:04Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Curated collection of reusable JSON prompt templates & style references for AI image generation. Updated daily.",
+    "id": "VigoZhao/AI-Visual-Prompt-Cookbook",
+    "language": "Python",
+    "name": "VigoZhao/AI-Visual-Prompt-Cookbook",
+    "stars": 528,
+    "updated_at": "2026-08-01T06:53:17Z",
+    "url": "https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook"
+  },
+  {
+    "description": "Multi-agent PRD pipeline for Claude Code: 10 specialized agents, 4 intensity tiers, adversarial review, 0 to 100 scoring",
+    "id": "addiplus/prd-engine",
+    "language": "\u2014",
+    "name": "addiplus/prd-engine",
+    "stars": 0,
+    "updated_at": "2026-08-01T06:51:43Z",
+    "url": "https://github.com/addiplus/prd-engine"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1738,
+    "updated_at": "2026-08-01T06:51:30Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
   {
     "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
@@ -14,8 +68,35 @@
     "language": "Python",
     "name": "braboj/solid-ai-templates",
     "stars": 3,
-    "updated_at": "2026-08-01T06:44:52Z",
+    "updated_at": "2026-08-01T06:47:28Z",
     "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "Fine-tuning Llama 3.1 8B for a feedback-to-engineering-insights pipeline \u2014 LoRA fine-tuning, local inference via FastAPI",
+    "id": "praveenjatta/llama-finetuning-feedback-pipeline",
+    "language": "Python",
+    "name": "praveenjatta/llama-finetuning-feedback-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-01T06:46:02Z",
+    "url": "https://github.com/praveenjatta/llama-finetuning-feedback-pipeline"
+  },
+  {
+    "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
+    "id": "ftvision/agent-prompt-observatory",
+    "language": "Python",
+    "name": "ftvision/agent-prompt-observatory",
+    "stars": 2,
+    "updated_at": "2026-08-01T06:45:48Z",
+    "url": "https://github.com/ftvision/agent-prompt-observatory"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T06:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -25,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T06:43:44Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "[BETA] An AI-driven ecosystem and multi-agent workflow for generating highly aesthetic, presentation-ready PPTX slides a",
-    "id": "YuJunWang/agy-pptx-studio",
-    "language": "JavaScript",
-    "name": "YuJunWang/agy-pptx-studio",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:43:03Z",
-    "url": "https://github.com/YuJunWang/agy-pptx-studio"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -59,7 +131,7 @@
     "language": "Shell",
     "name": "Nova-Violet-Role/RoT-MoE",
     "stars": 0,
-    "updated_at": "2026-08-01T06:41:26Z",
+    "updated_at": "2026-08-01T07:00:17Z",
     "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
   },
   {
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10842,
-    "updated_at": "2026-08-01T06:39:07Z",
+    "updated_at": "2026-08-01T06:57:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -198,15 +270,6 @@
     "url": "https://github.com/hysohail/agentic-experiment-designer"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T06:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Meta Rules for prompt engineering \u2014 A persistent cognitive architecture for LLM prompt design.",
     "id": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
     "language": "\u2014",
@@ -241,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T06:29:35Z",
     "url": "https://github.com/gthgomez/Babel"
-  },
-  {
-    "description": "Multi-agent PRD pipeline for Claude Code: 10 specialized agents, 4 intensity tiers, adversarial review, 0 to 100 scoring",
-    "id": "addiplus/prd-engine",
-    "language": "\u2014",
-    "name": "addiplus/prd-engine",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:27:32Z",
-    "url": "https://github.com/addiplus/prd-engine"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -310,7 +364,7 @@
     "id": "Anil-matcha/awesome-seedance-2.5-api-prompts",
     "language": "\u2014",
     "name": "Anil-matcha/awesome-seedance-2.5-api-prompts",
-    "stars": 267,
+    "stars": 268,
     "updated_at": "2026-08-01T06:21:38Z",
     "url": "https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts"
   },
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-01T06:08:00Z",
     "url": "https://github.com/zmustafa/MultiChat"
-  },
-  {
-    "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
-    "id": "iaminpwd/dotfiles",
-    "language": "Shell",
-    "name": "iaminpwd/dotfiles",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:06:18Z",
-    "url": "https://github.com/iaminpwd/dotfiles"
-  },
-  {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 13,
-    "updated_at": "2026-08-01T06:06:13Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 150,
-    "updated_at": "2026-08-01T06:04:05Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
-    "id": "llwslc/proteus",
-    "language": "HTML",
-    "name": "llwslc/proteus",
-    "stars": 2,
-    "updated_at": "2026-08-01T06:03:49Z",
-    "url": "https://github.com/llwslc/proteus"
-  },
-  {
-    "description": "OpenClaw \u6280\u80fd\u5305\uff1a\u4fee\u590d/\u589e\u5f3a\u5c0f\u6a21\u578b(3B-14B)\u8f93\u51fa \u2014 JSON\u4fee\u590d/\u4ee3\u7801\u8bc6\u522b/\u4fe1\u606f\u63d0\u53d6/\u622a\u65ad\u68c0\u6d4b\u7b499\u9879\u80fd\u529b\uff0c\u96f6\u5916\u90e8\u4f9d\u8d56\uff0cA/B\u5b9e\u6d4b\u5e73\u5747\u5206 36\u219280 (\u0394+44)\u3002",
-    "id": "SuiJQ/Beyond",
-    "language": "Python",
-    "name": "SuiJQ/Beyond",
-    "stars": 1,
-    "updated_at": "2026-08-01T06:03:04Z",
-    "url": "https://github.com/SuiJQ/Beyond"
-  },
-  {
-    "description": "Turns a messy music collection into a queryable Obsidian vault: dedup and merge tooling over directory trees, Spotify fo",
-    "id": "lentago/music-curator",
-    "language": "Python",
-    "name": "lentago/music-curator",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:00:51Z",
-    "url": "https://github.com/lentago/music-curator"
   }
 ]
