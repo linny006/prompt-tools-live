@@ -1,12 +1,93 @@
 [
   {
+    "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assis",
+    "id": "coco-research/coco",
+    "language": "JavaScript",
+    "name": "coco-research/coco",
+    "stars": 197,
+    "updated_at": "2026-08-01T01:09:26Z",
+    "url": "https://github.com/coco-research/coco"
+  },
+  {
+    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
+    "id": "Sunwood-ai-labs/OpenFace",
+    "language": "Python",
+    "name": "Sunwood-ai-labs/OpenFace",
+    "stars": 2,
+    "updated_at": "2026-08-01T01:09:23Z",
+    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
+  },
+  {
+    "description": "Portfolio of prompt engineering and AI evaluation projects.",
+    "id": "jehadsobohai/LLM-Evaluation-Portfolio",
+    "language": "\u2014",
+    "name": "jehadsobohai/LLM-Evaluation-Portfolio",
+    "stars": 1,
+    "updated_at": "2026-08-01T01:09:11Z",
+    "url": "https://github.com/jehadsobohai/LLM-Evaluation-Portfolio"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:09:05Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "A public-domain visual prompt forge: 2,000 signals across 16 creative axes.",
+    "id": "androotandtheretinue/prompt-forge",
+    "language": "HTML",
+    "name": "androotandtheretinue/prompt-forge",
+    "stars": 4,
+    "updated_at": "2026-08-01T01:08:50Z",
+    "url": "https://github.com/androotandtheretinue/prompt-forge"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-08-01T01:07:23Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
     "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
     "id": "agungkesmas/recallfox",
     "language": "JavaScript",
     "name": "agungkesmas/recallfox",
     "stars": 0,
-    "updated_at": "2026-08-01T00:59:58Z",
+    "updated_at": "2026-08-01T01:07:11Z",
     "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-01T01:04:48Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "\u7a3f\u5b9a PPDone - AI \u7c21\u5831\u5927\u7db1\u8207\u5c08\u5c6c Prompt \u751f\u6210\u5668\uff0c\u5e6b\u4f60\u68b3\u7406\u9ad8\u8cea\u7d20\u7c21\u5831\u908f\u8f2f\uff01",
+    "id": "jackylawck/PPDone",
+    "language": "Python",
+    "name": "jackylawck/PPDone",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:04:42Z",
+    "url": "https://github.com/jackylawck/PPDone"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T01:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u591a\u667a\u80fd\u4f53\u534f\u540c\u5f71\u89c6\u5de5\u4e1a\u5316AI\u5de5\u4f5c\u53f0 | \u5185\u7f6e\u7f16\u5267\u5ba4SOP + AI\u89c6\u9891\u5206\u955c\u63d0\u793a\u8bcd\u5f15\u64ce + \u957f\u6587\u672c\u6df1\u5ea6\u5904\u7406 | \u652f\u630112+ LLM\u670d\u52a1\u5546",
@@ -16,42 +97,6 @@
     "stars": 8,
     "updated_at": "2026-08-01T00:56:59Z",
     "url": "https://github.com/slipknot0130/Film-Production-Toolkit"
-  },
-  {
-    "description": "A public-domain visual prompt forge: 2,000 signals across 16 creative axes.",
-    "id": "androotandtheretinue/prompt-forge",
-    "language": "HTML",
-    "name": "androotandtheretinue/prompt-forge",
-    "stars": 4,
-    "updated_at": "2026-08-01T00:56:26Z",
-    "url": "https://github.com/androotandtheretinue/prompt-forge"
-  },
-  {
-    "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assis",
-    "id": "coco-research/coco",
-    "language": "JavaScript",
-    "name": "coco-research/coco",
-    "stars": 197,
-    "updated_at": "2026-08-01T00:55:45Z",
-    "url": "https://github.com/coco-research/coco"
-  },
-  {
-    "description": "Portfolio of prompt engineering and AI evaluation projects.",
-    "id": "jehadsobohai/LLM-Evaluation-Portfolio",
-    "language": "\u2014",
-    "name": "jehadsobohai/LLM-Evaluation-Portfolio",
-    "stars": 1,
-    "updated_at": "2026-08-01T00:54:02Z",
-    "url": "https://github.com/jehadsobohai/LLM-Evaluation-Portfolio"
-  },
-  {
-    "description": "\u7a3f\u5b9a PPDone - AI \u7c21\u5831\u5927\u7db1\u8207\u5c08\u5c6c Prompt \u751f\u6210\u5668\uff0c\u5e6b\u4f60\u68b3\u7406\u9ad8\u8cea\u7d20\u7c21\u5831\u908f\u8f2f\uff01",
-    "id": "jackylawck/PPDone",
-    "language": "Python",
-    "name": "jackylawck/PPDone",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:53:30Z",
-    "url": "https://github.com/jackylawck/PPDone"
   },
   {
     "description": "Broadcast one prompt to 2-6 AI models and stream their answers side-by-side, with a Judge synthesizer, tool calling, eva",
@@ -70,24 +115,6 @@
     "stars": 3,
     "updated_at": "2026-08-01T00:48:43Z",
     "url": "https://github.com/OpenCnid/subagent-composition"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T00:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 2,
-    "updated_at": "2026-08-01T00:43:32Z",
-    "url": "https://github.com/nikolay-e/diffctx"
   },
   {
     "description": "\u628a\u4e00\u53e5\u8bdd\u3001\u53c2\u8003\u7d20\u6750\u6216\u5931\u8d25\u7ed3\u679c\u53d8\u6210\u53ef\u76f4\u63a5\u590d\u5236\u7684Seedance 2.5\u9010\u79d2\u5bfc\u6f14Prompt\u3002",
@@ -160,6 +187,15 @@
     "stars": 11,
     "updated_at": "2026-08-01T00:25:06Z",
     "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23799,
+    "updated_at": "2026-08-01T00:23:46Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\udee0\ufe0f Free Claude Code & Cursor prompts for senior engineers \u2014 plus AIOS, an open-source markdown memory system for coding ",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T23:54:29Z",
     "url": "https://github.com/MattModeCode/promptly"
-  },
-  {
-    "description": "Human-governed LLM incident orchestration reference architecture with synthetic datasets, evidence traceability, RACI, g",
-    "id": "raskolnikoff/incident-orchestrator-demo",
-    "language": "Python",
-    "name": "raskolnikoff/incident-orchestrator-demo",
-    "stars": 1,
-    "updated_at": "2026-07-31T23:53:18Z",
-    "url": "https://github.com/raskolnikoff/incident-orchestrator-demo"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-07-31T23:52:15Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-07-31T23:48:16Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-07-31T23:45:41Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   }
 ]
