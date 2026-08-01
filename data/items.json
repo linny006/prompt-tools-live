@@ -1,12 +1,102 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10841,
+    "updated_at": "2026-08-01T04:15:18Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, crea",
+    "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "stars": 110,
+    "updated_at": "2026-08-01T04:12:03Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
+  },
+  {
+    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Shell",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 0,
+    "updated_at": "2026-08-01T04:11:47Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+  },
+  {
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
+    "id": "f/prompts.chat",
+    "language": "HTML",
+    "name": "f/prompts.chat",
+    "stars": 166576,
+    "updated_at": "2026-08-01T04:10:51Z",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "description": "ARIOS - Artificial Renewable Intelligence Operating System",
+    "id": "Phuire-Research/SuiteCascadeSystem",
+    "language": "TypeScript",
+    "name": "Phuire-Research/SuiteCascadeSystem",
+    "stars": 1,
+    "updated_at": "2026-08-01T04:09:29Z",
+    "url": "https://github.com/Phuire-Research/SuiteCascadeSystem"
+  },
+  {
+    "description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize \ud83d\udd25    We release the trained model on HuggingFace.",
+    "id": "AI4Finance-Foundation/FinGPT",
+    "language": "Jupyter Notebook",
+    "name": "AI4Finance-Foundation/FinGPT",
+    "stars": 20999,
+    "updated_at": "2026-08-01T04:08:52Z",
+    "url": "https://github.com/AI4Finance-Foundation/FinGPT"
+  },
+  {
+    "description": "8 free AI agent skills for HackerRank Orchestrate, reverse-engineered from HackerRank's own published scoring methodolog",
+    "id": "NITISH-R-G/hackerrank-orchestrate-skills",
+    "language": "\u2014",
+    "name": "NITISH-R-G/hackerrank-orchestrate-skills",
+    "stars": 1,
+    "updated_at": "2026-08-01T04:07:37Z",
+    "url": "https://github.com/NITISH-R-G/hackerrank-orchestrate-skills"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-08-01T04:06:49Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
+    "id": "iaminpwd/dotfiles",
+    "language": "Shell",
+    "name": "iaminpwd/dotfiles",
+    "stars": 0,
+    "updated_at": "2026-08-01T04:02:48Z",
+    "url": "https://github.com/iaminpwd/dotfiles"
+  },
+  {
     "description": "Agent skill and validation harness for Korean community webtoons: shared-context alignment, Gemini/human conte gates, im",
     "id": "Q0916/community-webtoon-agent-kit",
     "language": "Python",
     "name": "Q0916/community-webtoon-agent-kit",
     "stars": 4,
-    "updated_at": "2026-08-01T03:57:52Z",
+    "updated_at": "2026-08-01T04:14:00Z",
     "url": "https://github.com/Q0916/community-webtoon-agent-kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T04:00:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -43,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T03:54:59Z",
     "url": "https://github.com/piyushdoorwar/ask-better"
-  },
-  {
-    "description": "8 free AI agent skills for HackerRank Orchestrate, reverse-engineered from HackerRank's own published scoring methodolog",
-    "id": "NITISH-R-G/hackerrank-orchestrate-skills",
-    "language": "\u2014",
-    "name": "NITISH-R-G/hackerrank-orchestrate-skills",
-    "stars": 1,
-    "updated_at": "2026-08-01T03:54:49Z",
-    "url": "https://github.com/NITISH-R-G/hackerrank-orchestrate-skills"
   },
   {
     "description": "Helen Agent Develop Language ",
@@ -153,15 +234,6 @@
     "url": "https://github.com/lucasdemrodrigues/open-finance-com-notebooklm"
   },
   {
-    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 0,
-    "updated_at": "2026-08-01T03:45:45Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
-  },
-  {
     "description": "Meta Rules for prompt engineering \u2014 A persistent cognitive architecture for LLM prompt design.",
     "id": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
     "language": "\u2014",
@@ -169,24 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T03:45:43Z",
     "url": "https://github.com/Nous-Think/LLM-Cognitive-Architecture-By-Prompt"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T03:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "ARIOS - Artificial Renewable Intelligence Operating System",
-    "id": "Phuire-Research/SuiteCascadeSystem",
-    "language": "TypeScript",
-    "name": "Phuire-Research/SuiteCascadeSystem",
-    "stars": 1,
-    "updated_at": "2026-08-01T03:53:57Z",
-    "url": "https://github.com/Phuire-Research/SuiteCascadeSystem"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -275,7 +329,7 @@
     "language": "JavaScript",
     "name": "romanticamaj/promptasy",
     "stars": 1,
-    "updated_at": "2026-08-01T03:28:01Z",
+    "updated_at": "2026-08-01T04:12:55Z",
     "url": "https://github.com/romanticamaj/promptasy"
   },
   {
@@ -301,7 +355,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 9685,
+    "stars": 9686,
     "updated_at": "2026-08-01T03:25:31Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -378,15 +432,6 @@
     "url": "https://github.com/krivonosoff161/llm-safety-playbooks"
   },
   {
-    "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
-    "id": "iaminpwd/dotfiles",
-    "language": "Shell",
-    "name": "iaminpwd/dotfiles",
-    "stars": 0,
-    "updated_at": "2026-08-01T03:04:10Z",
-    "url": "https://github.com/iaminpwd/dotfiles"
-  },
-  {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T03:00:54Z",
     "url": "https://github.com/Shivam-AtlasX/shp-framework"
-  },
-  {
-    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
-    "id": "parkerluxu/Awesome-agent-cases",
-    "language": "\u2014",
-    "name": "parkerluxu/Awesome-agent-cases",
-    "stars": 2,
-    "updated_at": "2026-08-01T02:58:33Z",
-    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "\u628a\u4e66\u3001\u957f\u89c6\u9891\u3001\u64ad\u5ba2\u7b49\u9ad8\u4ef7\u503c\u5185\u5bb9\u84b8\u998f\u6210\u53ef\u6267\u884c\u7684 Agent Skills",
-    "id": "kangarooking/cangjie-skill",
-    "language": "Python",
-    "name": "kangarooking/cangjie-skill",
-    "stars": 5822,
-    "updated_at": "2026-08-01T02:58:22Z",
-    "url": "https://github.com/kangarooking/cangjie-skill"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 150,
-    "updated_at": "2026-08-01T02:56:27Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 3,
-    "updated_at": "2026-08-01T02:54:09Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "MCP prompt template server: hot-reload, thinking frameworks, quality gates",
-    "id": "minipuft/claude-prompts",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts",
-    "stars": 182,
-    "updated_at": "2026-08-01T02:56:37Z",
-    "url": "https://github.com/minipuft/claude-prompts"
   }
 ]
