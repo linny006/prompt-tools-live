@@ -1,12 +1,21 @@
 [
   {
-    "description": "Find the safety rules your AI agent prompt forgot. Checks 23 published controls \u2014 injection defense, human approval, cos",
-    "id": "shmindmaster/crewscore",
+    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-08-01T00:43:32Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "\u628a\u4e00\u53e5\u8bdd\u3001\u53c2\u8003\u7d20\u6750\u6216\u5931\u8d25\u7ed3\u679c\u53d8\u6210\u53ef\u76f4\u63a5\u590d\u5236\u7684Seedance 2.5\u9010\u79d2\u5bfc\u6f14Prompt\u3002",
+    "id": "caoproAI/write-seedance-2-5-prompts",
     "language": "Python",
-    "name": "shmindmaster/crewscore",
-    "stars": 1,
-    "updated_at": "2026-08-01T00:30:46Z",
-    "url": "https://github.com/shmindmaster/crewscore"
+    "name": "caoproAI/write-seedance-2-5-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-01T00:41:35Z",
+    "url": "https://github.com/caoproAI/write-seedance-2-5-prompts"
   },
   {
     "description": "Portfolio of prompt engineering and AI evaluation projects.",
@@ -14,8 +23,62 @@
     "language": "\u2014",
     "name": "jehadsobohai/LLM-Evaluation-Portfolio",
     "stars": 1,
-    "updated_at": "2026-08-01T00:28:02Z",
+    "updated_at": "2026-08-01T00:38:30Z",
     "url": "https://github.com/jehadsobohai/LLM-Evaluation-Portfolio"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-08-01T00:37:11Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Creating an SPA for a music studio using prompt engineering",
+    "id": "raposamillar/studio-website",
+    "language": "HTML",
+    "name": "raposamillar/studio-website",
+    "stars": 0,
+    "updated_at": "2026-08-01T00:32:39Z",
+    "url": "https://github.com/raposamillar/studio-website"
+  },
+  {
+    "description": "Always-current Claude documentation in Claude Code \u2014 a metadata-only index that fetches official pages from Anthropic on",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-08-01T00:32:11Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Skill sharing made easy",
+    "id": "sleuth-io/sx",
+    "language": "Go",
+    "name": "sleuth-io/sx",
+    "stars": 288,
+    "updated_at": "2026-08-01T00:32:25Z",
+    "url": "https://github.com/sleuth-io/sx"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T00:31:22Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Find the safety rules your AI agent prompt forgot. Checks 23 published controls \u2014 injection defense, human approval, cos",
+    "id": "shmindmaster/crewscore",
+    "language": "Python",
+    "name": "shmindmaster/crewscore",
+    "stars": 1,
+    "updated_at": "2026-08-01T00:30:46Z",
+    "url": "https://github.com/shmindmaster/crewscore"
   },
   {
     "description": "Typed building blocks for everything around your LLM call.",
@@ -49,7 +112,7 @@
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13020,
+    "stars": 13021,
     "updated_at": "2026-08-01T00:21:46Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
@@ -72,24 +135,6 @@
     "url": "https://github.com/gaofeng21cn/redcube-ai"
   },
   {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 13,
-    "updated_at": "2026-08-01T00:18:15Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T00:15:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Curated agent skills, loop prompts, and agent modes for coding agents. Plain Markdown, no CLI and nothing to install. Wo",
     "id": "ZacheryKuykendall/skillbox",
     "language": "\u2014",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T00:14:23Z",
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Creating an SPA for a music studio using prompt engineering",
-    "id": "raposamillar/studio-website",
-    "language": "HTML",
-    "name": "raposamillar/studio-website",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:13:26Z",
-    "url": "https://github.com/raposamillar/studio-website"
   },
   {
     "description": "Midjourney \u2013 A powerful desktop tool to manage unlimited prompt generation, optimize your workflow, and enhance AI art c",
@@ -144,15 +180,6 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 2,
-    "updated_at": "2026-08-01T00:08:06Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27306,
-    "updated_at": "2026-08-01T00:07:19Z",
+    "updated_at": "2026-08-01T00:36:36Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T23:36:55Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "A validated collection of portable Agent Skills that guide AI coding assistants through specification, implementation, r",
-    "id": "RobinGru/AgentSkillForge",
-    "language": "Python",
-    "name": "RobinGru/AgentSkillForge",
-    "stars": 0,
-    "updated_at": "2026-07-31T23:31:46Z",
-    "url": "https://github.com/RobinGru/AgentSkillForge"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-07-31T23:26:53Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-07-31T23:26:08Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   }
 ]
