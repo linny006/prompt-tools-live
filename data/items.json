@@ -1,5 +1,77 @@
 [
   {
+    "description": "SLOP: Structured Language for Orchestrating Prompts - A domain-specific language for AI agent workflows",
+    "id": "standardbeagle/slop",
+    "language": "Go",
+    "name": "standardbeagle/slop",
+    "stars": 0,
+    "updated_at": "2026-08-01T04:59:05Z",
+    "url": "https://github.com/standardbeagle/slop"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 29,
+    "updated_at": "2026-08-01T04:57:04Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "MCP prompt template server: hot-reload, thinking frameworks, quality gates",
+    "id": "minipuft/claude-prompts",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts",
+    "stars": 182,
+    "updated_at": "2026-08-01T04:58:20Z",
+    "url": "https://github.com/minipuft/claude-prompts"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 36,
+    "updated_at": "2026-08-01T04:54:21Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 1,
+    "updated_at": "2026-08-01T04:54:43Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "Broadcast one prompt to 2-6 AI models and stream their answers side-by-side, with a Judge synthesizer, tool calling, eva",
+    "id": "zmustafa/MultiChat",
+    "language": "TypeScript",
+    "name": "zmustafa/MultiChat",
+    "stars": 2,
+    "updated_at": "2026-08-01T04:46:26Z",
+    "url": "https://github.com/zmustafa/MultiChat"
+  },
+  {
+    "description": "Agent skill and validation harness for Korean community webtoons: shared-context alignment, Gemini/human conte gates, im",
+    "id": "Q0916/community-webtoon-agent-kit",
+    "language": "Python",
+    "name": "Q0916/community-webtoon-agent-kit",
+    "stars": 4,
+    "updated_at": "2026-08-01T04:45:59Z",
+    "url": "https://github.com/Q0916/community-webtoon-agent-kit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T04:45:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "OpenClaw \u6280\u80fd\u5305\uff1a\u4fee\u590d/\u589e\u5f3a\u5c0f\u6a21\u578b(3B-14B)\u8f93\u51fa \u2014 JSON\u4fee\u590d/\u4ee3\u7801\u8bc6\u522b/\u4fe1\u606f\u63d0\u53d6/\u622a\u65ad\u68c0\u6d4b\u7b499\u9879\u80fd\u529b\uff0c\u96f6\u5916\u90e8\u4f9d\u8d56\uff0cA/B\u5b9e\u6d4b\u5e73\u5747\u5206 36\u219280 (\u0394+44)\u3002",
     "id": "SuiJQ/Beyond",
     "language": "Python",
@@ -72,6 +144,15 @@
     "url": "https://github.com/AtlasCloudAI/awesome-seedance-2-prompts"
   },
   {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 845,
+    "updated_at": "2026-08-01T04:39:26Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
     "description": "Awesome GPT Image 2 Prompts",
     "id": "AtlasCloudAI/awesome-gpt-image-2-prompts",
     "language": "TypeScript",
@@ -81,13 +162,13 @@
     "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts"
   },
   {
-    "description": "Agent skill and validation harness for Korean community webtoons: shared-context alignment, Gemini/human conte gates, im",
-    "id": "Q0916/community-webtoon-agent-kit",
+    "description": "VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness work",
+    "id": "foryourhealth111-pixel/Vibe-Skills",
     "language": "Python",
-    "name": "Q0916/community-webtoon-agent-kit",
-    "stars": 4,
-    "updated_at": "2026-08-01T04:44:26Z",
-    "url": "https://github.com/Q0916/community-webtoon-agent-kit"
+    "name": "foryourhealth111-pixel/Vibe-Skills",
+    "stars": 2554,
+    "updated_at": "2026-08-01T04:46:48Z",
+    "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -121,7 +202,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 63597,
+    "stars": 63598,
     "updated_at": "2026-08-01T04:33:33Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -133,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T04:32:24Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T04:31:20Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
@@ -207,15 +279,6 @@
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
   },
   {
-    "description": "MCP prompt template server: hot-reload, thinking frameworks, quality gates",
-    "id": "minipuft/claude-prompts",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts",
-    "stars": 182,
-    "updated_at": "2026-08-01T04:39:54Z",
-    "url": "https://github.com/minipuft/claude-prompts"
-  },
-  {
     "description": "Trim Claude Code system-prompt bloat: measure with a logging proxy, then deny unused tool definitions and disable featur",
     "id": "cskwork/context-diet-skill",
     "language": "HTML",
@@ -230,7 +293,7 @@
     "language": "TypeScript",
     "name": "Phuire-Research/SuiteCascadeSystem",
     "stars": 1,
-    "updated_at": "2026-08-01T04:19:14Z",
+    "updated_at": "2026-08-01T04:54:29Z",
     "url": "https://github.com/Phuire-Research/SuiteCascadeSystem"
   },
   {
@@ -274,7 +337,7 @@
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 166576,
+    "stars": 166578,
     "updated_at": "2026-08-01T04:10:51Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-01T03:53:31Z",
     "url": "https://github.com/rodrigocaetanooficial/AIMusicPromptGenerator"
-  },
-  {
-    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
-    "id": "Sunwood-ai-labs/OpenFace",
-    "language": "Python",
-    "name": "Sunwood-ai-labs/OpenFace",
-    "stars": 2,
-    "updated_at": "2026-08-01T03:53:10Z",
-    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
-  },
-  {
-    "description": "A linter for the belief state of agent instruction files \u2014 finds retracted rules that came back. Local, deterministic, n",
-    "id": "Cruxia-Labs/sagrada-linter",
-    "language": "Python",
-    "name": "Cruxia-Labs/sagrada-linter",
-    "stars": 0,
-    "updated_at": "2026-08-01T03:50:33Z",
-    "url": "https://github.com/Cruxia-Labs/sagrada-linter"
-  },
-  {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 36,
-    "updated_at": "2026-08-01T03:58:56Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "Miniguia de estudos sobre Open Finance no Brasil utilizando NotebookLM e engenharia de prompts. Projeto desenvolvido no ",
-    "id": "lucasdemrodrigues/open-finance-com-notebooklm",
-    "language": "\u2014",
-    "name": "lucasdemrodrigues/open-finance-com-notebooklm",
-    "stars": 0,
-    "updated_at": "2026-08-01T03:46:41Z",
-    "url": "https://github.com/lucasdemrodrigues/open-finance-com-notebooklm"
-  },
-  {
-    "description": "Meta Rules for prompt engineering \u2014 A persistent cognitive architecture for LLM prompt design.",
-    "id": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
-    "language": "\u2014",
-    "name": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
-    "stars": 1,
-    "updated_at": "2026-08-01T03:45:43Z",
-    "url": "https://github.com/Nous-Think/LLM-Cognitive-Architecture-By-Prompt"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 151,
-    "updated_at": "2026-08-01T03:41:03Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-01T03:40:20Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   }
 ]
