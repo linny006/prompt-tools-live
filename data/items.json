@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13024,
+    "updated_at": "2026-08-01T08:44:17Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "An atelier for your Agent: spec-driven workflows, deep thinking, and code quality.",
+    "id": "martinffx/atelier",
+    "language": "TypeScript",
+    "name": "martinffx/atelier",
+    "stars": 38,
+    "updated_at": "2026-08-01T08:44:16Z",
+    "url": "https://github.com/martinffx/atelier"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 475,
+    "updated_at": "2026-08-01T08:45:12Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "Midjourney \u2013 A powerful desktop tool to manage unlimited prompt generation, optimize your workflow, and enhance AI art c",
+    "id": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
+    "language": "\u2014",
+    "name": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
+    "stars": 0,
+    "updated_at": "2026-08-01T08:42:37Z",
+    "url": "https://github.com/deader49963hefty/Midjourney-Ultimate-Prompts-Studio"
+  },
+  {
+    "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
+    "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "language": "JavaScript",
+    "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "stars": 0,
+    "updated_at": "2026-08-01T08:41:13Z",
+    "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
+  },
+  {
+    "description": "lintlang is a static linter for AI agent configs, tool descriptions, and system prompts that runs zero-LLM quality gatin",
+    "id": "hermes-labs-ai/lintlang",
+    "language": "Python",
+    "name": "hermes-labs-ai/lintlang",
+    "stars": 52,
+    "updated_at": "2026-08-01T08:40:50Z",
+    "url": "https://github.com/hermes-labs-ai/lintlang"
+  },
+  {
+    "description": "hermeneutic is an evidence-first drift gate for AI agents. It mines corrections from your AI chat logs (prior response, ",
+    "id": "hermes-labs-ai/hermeneutic",
+    "language": "Python",
+    "name": "hermes-labs-ai/hermeneutic",
+    "stars": 4,
+    "updated_at": "2026-08-01T08:40:50Z",
+    "url": "https://github.com/hermes-labs-ai/hermeneutic"
+  },
+  {
+    "description": "Drift-prevention session-init convention card for fresh Claude Code sessions. Injects a self-contained card so a new ses",
+    "id": "hermes-labs-ai/hermes-prime",
+    "language": "Shell",
+    "name": "hermes-labs-ai/hermes-prime",
+    "stars": 1,
+    "updated_at": "2026-08-01T08:40:50Z",
+    "url": "https://github.com/hermes-labs-ai/hermes-prime"
+  },
+  {
+    "description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize \ud83d\udd25    We release the trained model on HuggingFace.",
+    "id": "AI4Finance-Foundation/FinGPT",
+    "language": "Jupyter Notebook",
+    "name": "AI4Finance-Foundation/FinGPT",
+    "stars": 20999,
+    "updated_at": "2026-08-01T08:31:02Z",
+    "url": "https://github.com/AI4Finance-Foundation/FinGPT"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T08:30:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor",
     "id": "promptslab/Awesome-Prompt-Engineering",
     "language": "TypeScript",
@@ -115,15 +205,6 @@
     "stars": 19,
     "updated_at": "2026-08-01T08:16:37Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T08:15:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -320,7 +401,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 845,
-    "updated_at": "2026-08-01T07:54:03Z",
+    "updated_at": "2026-08-01T08:32:48Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -329,7 +410,7 @@
     "language": "Python",
     "name": "linkpranay-ai/context-engineering-protocol",
     "stars": 0,
-    "updated_at": "2026-08-01T07:52:59Z",
+    "updated_at": "2026-08-01T08:38:32Z",
     "url": "https://github.com/linkpranay-ai/context-engineering-protocol"
   },
   {
@@ -351,6 +432,15 @@
     "url": "https://github.com/vacterro/FastPrompter"
   },
   {
+    "description": "Visible, research-grounded Codex Skill that turns a requirement into a system prompt and executes it immediately.",
+    "id": "DeAI1227/God-Of-Prompt",
+    "language": "\u2014",
+    "name": "DeAI1227/God-Of-Prompt",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:46:12Z",
+    "url": "https://github.com/DeAI1227/God-Of-Prompt"
+  },
+  {
     "description": "MCP prompt template server: hot-reload, thinking frameworks, quality gates",
     "id": "minipuft/claude-prompts",
     "language": "TypeScript",
@@ -358,95 +448,5 @@
     "stars": 182,
     "updated_at": "2026-08-01T07:56:30Z",
     "url": "https://github.com/minipuft/claude-prompts"
-  },
-  {
-    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 0,
-    "updated_at": "2026-08-01T07:44:46Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
-  },
-  {
-    "description": "\ud83d\udcd6 \u7528\u5723\u7ecf\u5927\u53d9\u4e8b\uff0c\u523a\u7834\u73b0\u4ee3\u804c\u573a\u4eba\u75db\u70b9\u7684\u5de5\u4e1a\u5316\u5185\u5bb9\u751f\u4ea7\u5f15\u64ce\u300221 \u4e2a references + 200+ \u89e6\u53d1\u8bcd + 1.7 \u4ebf\u79cd\u5185\u5bb9\u7ec4\u5408 + API.Bible \u771f\u5b9e\u7ecf\u6587\u6838\u9a8c\u3002Codex Skill v4.1.1\u3002",
-    "id": "bethel-mark/biblical-content-engine",
-    "language": "Python",
-    "name": "bethel-mark/biblical-content-engine",
-    "stars": 3,
-    "updated_at": "2026-08-01T07:43:50Z",
-    "url": "https://github.com/bethel-mark/biblical-content-engine"
-  },
-  {
-    "description": "\u7528 AI \u8f85\u52a9\u5236\u4f5c\u77ed\u89c6\u9891\u7684\u5b8c\u6574\u7cfb\u7edf\uff0c\u652f\u6301 Claude Code \u548c Codex",
-    "id": "Lucas-Ren/ai-studio",
-    "language": "\u2014",
-    "name": "Lucas-Ren/ai-studio",
-    "stars": 5,
-    "updated_at": "2026-08-01T07:41:26Z",
-    "url": "https://github.com/Lucas-Ren/ai-studio"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-08-01T07:40:04Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-08-01T07:49:40Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
-    "id": "Sunil-M02/curiosity-engine",
-    "language": "TypeScript",
-    "name": "Sunil-M02/curiosity-engine",
-    "stars": 2,
-    "updated_at": "2026-08-01T07:36:42Z",
-    "url": "https://github.com/Sunil-M02/curiosity-engine"
-  },
-  {
-    "description": "[BETA] An AI-driven ecosystem and multi-agent workflow for generating highly aesthetic, presentation-ready PPTX slides a",
-    "id": "YuJunWang/agy-pptx-studio",
-    "language": "JavaScript",
-    "name": "YuJunWang/agy-pptx-studio",
-    "stars": 0,
-    "updated_at": "2026-08-01T07:36:36Z",
-    "url": "https://github.com/YuJunWang/agy-pptx-studio"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Java",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 0,
-    "updated_at": "2026-08-01T07:34:29Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27313,
-    "updated_at": "2026-08-01T07:34:22Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-01T07:32:33Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
   }
 ]
