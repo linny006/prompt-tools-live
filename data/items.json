@@ -1,12 +1,165 @@
 [
   {
+    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Shell",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:44:46Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+  },
+  {
+    "description": "\ud83d\udcd6 \u7528\u5723\u7ecf\u5927\u53d9\u4e8b\uff0c\u523a\u7834\u73b0\u4ee3\u804c\u573a\u4eba\u75db\u70b9\u7684\u5de5\u4e1a\u5316\u5185\u5bb9\u751f\u4ea7\u5f15\u64ce\u300221 \u4e2a references + 200+ \u89e6\u53d1\u8bcd + 1.7 \u4ebf\u79cd\u5185\u5bb9\u7ec4\u5408 + API.Bible \u771f\u5b9e\u7ecf\u6587\u6838\u9a8c\u3002Codex Skill v4.1.1\u3002",
+    "id": "bethel-mark/biblical-content-engine",
+    "language": "Python",
+    "name": "bethel-mark/biblical-content-engine",
+    "stars": 3,
+    "updated_at": "2026-08-01T07:43:50Z",
+    "url": "https://github.com/bethel-mark/biblical-content-engine"
+  },
+  {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "braboj/solid-ai-templates",
+    "language": "Python",
+    "name": "braboj/solid-ai-templates",
+    "stars": 3,
+    "updated_at": "2026-08-01T07:43:18Z",
+    "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "\u7528 AI \u8f85\u52a9\u5236\u4f5c\u77ed\u89c6\u9891\u7684\u5b8c\u6574\u7cfb\u7edf\uff0c\u652f\u6301 Claude Code \u548c Codex",
+    "id": "Lucas-Ren/ai-studio",
+    "language": "\u2014",
+    "name": "Lucas-Ren/ai-studio",
+    "stars": 5,
+    "updated_at": "2026-08-01T07:41:26Z",
+    "url": "https://github.com/Lucas-Ren/ai-studio"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-08-01T07:40:04Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Portable AI coding-agent skills for source-attributed, human-approved context packages.",
+    "id": "linkpranay-ai/context-engineering-protocol",
+    "language": "Python",
+    "name": "linkpranay-ai/context-engineering-protocol",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:44:36Z",
+    "url": "https://github.com/linkpranay-ai/context-engineering-protocol"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-08-01T07:38:55Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-08-01T07:36:42Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "[BETA] An AI-driven ecosystem and multi-agent workflow for generating highly aesthetic, presentation-ready PPTX slides a",
+    "id": "YuJunWang/agy-pptx-studio",
+    "language": "JavaScript",
+    "name": "YuJunWang/agy-pptx-studio",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:36:36Z",
+    "url": "https://github.com/YuJunWang/agy-pptx-studio"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 28,
+    "updated_at": "2026-08-01T07:35:47Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Java",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:34:29Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27313,
+    "updated_at": "2026-08-01T07:34:22Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 1,
+    "updated_at": "2026-08-01T07:32:33Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
     "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
     "id": "OutlineDriven/odin-claude-plugin",
     "language": "Python",
     "name": "OutlineDriven/odin-claude-plugin",
     "stars": 34,
-    "updated_at": "2026-08-01T07:27:42Z",
+    "updated_at": "2026-08-01T07:32:17Z",
     "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
+    "description": "Production-grade AI Software Generation Platform demonstrating Spring AI, RAG, Vector Search, Prompt Engineering and Ent",
+    "id": "Rahu0909/promptforge-ai",
+    "language": "Java",
+    "name": "Rahu0909/promptforge-ai",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:31:57Z",
+    "url": "https://github.com/Rahu0909/promptforge-ai"
+  },
+  {
+    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
+    "id": "Magma1321/mythos-agent-pipe",
+    "language": "HTML",
+    "name": "Magma1321/mythos-agent-pipe",
+    "stars": 154,
+    "updated_at": "2026-08-01T07:31:44Z",
+    "url": "https://github.com/Magma1321/mythos-agent-pipe"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "\u2014",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 2,
+    "updated_at": "2026-08-01T07:31:26Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T07:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
@@ -41,7 +194,7 @@
     "language": "TypeScript",
     "name": "minipuft/claude-prompts",
     "stars": 182,
-    "updated_at": "2026-08-01T07:22:08Z",
+    "updated_at": "2026-08-01T07:45:30Z",
     "url": "https://github.com/minipuft/claude-prompts"
   },
   {
@@ -88,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T07:15:33Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T07:15:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
@@ -162,15 +306,6 @@
     "url": "https://github.com/netopsengineer/axiom"
   },
   {
-    "description": "[BETA] An AI-driven ecosystem and multi-agent workflow for generating highly aesthetic, presentation-ready PPTX slides a",
-    "id": "YuJunWang/agy-pptx-studio",
-    "language": "JavaScript",
-    "name": "YuJunWang/agy-pptx-studio",
-    "stars": 0,
-    "updated_at": "2026-08-01T07:07:12Z",
-    "url": "https://github.com/YuJunWang/agy-pptx-studio"
-  },
-  {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
     "id": "dimitardamjan7-a11y/spec-flow-framework",
     "language": "HTML",
@@ -196,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T07:04:47Z",
     "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
-    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 0,
-    "updated_at": "2026-08-01T07:00:17Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
   },
   {
     "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
@@ -265,18 +391,9 @@
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1738,
+    "stars": 1739,
     "updated_at": "2026-08-01T06:51:30Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "braboj/solid-ai-templates",
-    "language": "Python",
-    "name": "braboj/solid-ai-templates",
-    "stars": 3,
-    "updated_at": "2026-08-01T06:47:28Z",
-    "url": "https://github.com/braboj/solid-ai-templates"
   },
   {
     "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
@@ -315,15 +432,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
-    "id": "Sunil-M02/curiosity-engine",
-    "language": "TypeScript",
-    "name": "Sunil-M02/curiosity-engine",
-    "stars": 2,
-    "updated_at": "2026-08-01T06:40:03Z",
-    "url": "https://github.com/Sunil-M02/curiosity-engine"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T06:36:31Z",
     "url": "https://github.com/Cruxia-Labs/sagrada-linter"
-  },
-  {
-    "description": "Trim Claude Code system-prompt bloat: measure with a logging proxy, then deny unused tool definitions and disable featur",
-    "id": "cskwork/context-diet-skill",
-    "language": "HTML",
-    "name": "cskwork/context-diet-skill",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:35:42Z",
-    "url": "https://github.com/cskwork/context-diet-skill"
-  },
-  {
-    "description": "Self-hosted visual prompt notebook with encrypted AI and image-host settings",
-    "id": "shynloc/prompt-notebook",
-    "language": "TypeScript",
-    "name": "shynloc/prompt-notebook",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:38:03Z",
-    "url": "https://github.com/shynloc/prompt-notebook"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-01T06:34:14Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 155,
-    "updated_at": "2026-08-01T06:34:08Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 156,
-    "updated_at": "2026-08-01T06:33:35Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Two operating profiles for reliable AI coding: a 4-workstation goal loop and an 8-role auditable workflow.",
-    "id": "Deepleaper/Code-role",
-    "language": "Python",
-    "name": "Deepleaper/Code-role",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:33:09Z",
-    "url": "https://github.com/Deepleaper/Code-role"
-  },
-  {
-    "description": "Auto harness engineering meta-repo: discuss \u2192 curate \u2192 bootstrap a context-engineered project for Claude Code, Cursor, C",
-    "id": "glowElephant/context-forge",
-    "language": "Python",
-    "name": "glowElephant/context-forge",
-    "stars": 2,
-    "updated_at": "2026-08-01T06:33:07Z",
-    "url": "https://github.com/glowElephant/context-forge"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 15,
-    "updated_at": "2026-08-01T06:32:56Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:32:52Z",
-    "url": "https://github.com/agungkesmas/recallfox"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 1,
-    "updated_at": "2026-08-01T06:30:36Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Meta Rules for prompt engineering \u2014 A persistent cognitive architecture for LLM prompt design.",
-    "id": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
-    "language": "\u2014",
-    "name": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
-    "stars": 1,
-    "updated_at": "2026-08-01T06:30:29Z",
-    "url": "https://github.com/Nous-Think/LLM-Cognitive-Architecture-By-Prompt"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 3,
-    "updated_at": "2026-08-01T06:30:24Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
   }
 ]
