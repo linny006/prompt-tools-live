@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u7a3f\u5b9a PPDone - AI \u7c21\u5831\u5927\u7db1\u8207\u5c08\u5c6c Prompt \u751f\u6210\u5668\uff0c\u5e6b\u4f60\u68b3\u7406\u9ad8\u8cea\u7d20\u7c21\u5831\u908f\u8f2f\uff01",
+    "id": "jackylawck/PPDone",
+    "language": "Python",
+    "name": "jackylawck/PPDone",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:45:16Z",
+    "url": "https://github.com/jackylawck/PPDone"
+  },
+  {
+    "description": "Portfolio of prompt engineering and AI evaluation projects.",
+    "id": "jehadsobohai/LLM-Evaluation-Portfolio",
+    "language": "\u2014",
+    "name": "jehadsobohai/LLM-Evaluation-Portfolio",
+    "stars": 1,
+    "updated_at": "2026-08-01T01:43:11Z",
+    "url": "https://github.com/jehadsobohai/LLM-Evaluation-Portfolio"
+  },
+  {
+    "description": "La disciplina de razonamiento de Fable 5, destilada en una skill instalable para Claude Code (Opus 4.8). Validada con bl",
+    "id": "KevssG/fable-mode",
+    "language": "\u2014",
+    "name": "KevssG/fable-mode",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:42:37Z",
+    "url": "https://github.com/KevssG/fable-mode"
+  },
+  {
+    "description": "A structured, evidence-based framework for evaluating LLMs, prompts, translation systems, medical AI, Arabic language, A",
+    "id": "jehadsobohai/AI-Evaluation-Framework",
+    "language": "\u2014",
+    "name": "jehadsobohai/AI-Evaluation-Framework",
+    "stars": 2,
+    "updated_at": "2026-08-01T01:39:08Z",
+    "url": "https://github.com/jehadsobohai/AI-Evaluation-Framework"
+  },
+  {
+    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude.",
+    "id": "revenantworks/citadel",
+    "language": "Python",
+    "name": "revenantworks/citadel",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:39:53Z",
+    "url": "https://github.com/revenantworks/citadel"
+  },
+  {
+    "description": "Free library of original guides on working with AI. 22 guides, five layers, three depths, no signup. Source for corewise",
+    "id": "ryanportfolio/Corewise.Academy",
+    "language": "MDX",
+    "name": "ryanportfolio/Corewise.Academy",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:38:35Z",
+    "url": "https://github.com/ryanportfolio/Corewise.Academy"
+  },
+  {
+    "description": "Broadcast one prompt to 2-6 AI models and stream their answers side-by-side, with a Judge synthesizer, tool calling, eva",
+    "id": "zmustafa/MultiChat",
+    "language": "TypeScript",
+    "name": "zmustafa/MultiChat",
+    "stars": 2,
+    "updated_at": "2026-08-01T01:35:42Z",
+    "url": "https://github.com/zmustafa/MultiChat"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-08-01T01:35:24Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-08-01T01:31:11Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T01:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
     "id": "YouMind-OpenLab/awesome-seedream-4.5",
     "language": "TypeScript",
@@ -18,24 +108,6 @@
     "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
   },
   {
-    "description": "Portfolio of prompt engineering and AI evaluation projects.",
-    "id": "jehadsobohai/LLM-Evaluation-Portfolio",
-    "language": "\u2014",
-    "name": "jehadsobohai/LLM-Evaluation-Portfolio",
-    "stars": 1,
-    "updated_at": "2026-08-01T01:30:03Z",
-    "url": "https://github.com/jehadsobohai/LLM-Evaluation-Portfolio"
-  },
-  {
-    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 2,
-    "updated_at": "2026-08-01T01:29:55Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
     "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
     "id": "agungkesmas/recallfox",
     "language": "JavaScript",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T01:29:47Z",
     "url": "https://github.com/agungkesmas/recallfox"
-  },
-  {
-    "description": "A structured, evidence-based framework for evaluating LLMs, prompts, translation systems, medical AI, Arabic language, A",
-    "id": "jehadsobohai/AI-Evaluation-Framework",
-    "language": "\u2014",
-    "name": "jehadsobohai/AI-Evaluation-Framework",
-    "stars": 2,
-    "updated_at": "2026-08-01T01:28:35Z",
-    "url": "https://github.com/jehadsobohai/AI-Evaluation-Framework"
   },
   {
     "description": "Find the safety rules your AI agent prompt forgot. Checks 23 published controls \u2014 injection defense, human approval, cos",
@@ -72,12 +135,21 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 63576,
+    "updated_at": "2026-08-01T01:25:11Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "MCP prompt template server: hot-reload, thinking frameworks, quality gates",
     "id": "minipuft/claude-prompts",
     "language": "TypeScript",
     "name": "minipuft/claude-prompts",
     "stars": 182,
-    "updated_at": "2026-08-01T01:26:14Z",
+    "updated_at": "2026-08-01T01:41:49Z",
     "url": "https://github.com/minipuft/claude-prompts"
   },
   {
@@ -97,24 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T01:18:03Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "\u7a3f\u5b9a PPDone - AI \u7c21\u5831\u5927\u7db1\u8207\u5c08\u5c6c Prompt \u751f\u6210\u5668\uff0c\u5e6b\u4f60\u68b3\u7406\u9ad8\u8cea\u7d20\u7c21\u5831\u908f\u8f2f\uff01",
-    "id": "jackylawck/PPDone",
-    "language": "Python",
-    "name": "jackylawck/PPDone",
-    "stars": 0,
-    "updated_at": "2026-08-01T01:17:01Z",
-    "url": "https://github.com/jackylawck/PPDone"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T01:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "B\u00e4rnd\u00fctsch for AI assistants. A tool-agnostic rulebook that makes any LLM write real Bernese German, plus a Claude Code ",
@@ -149,7 +203,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 844,
-    "updated_at": "2026-08-01T01:13:28Z",
+    "updated_at": "2026-08-01T01:35:10Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "Sunwood-ai-labs/OpenFace",
     "stars": 2,
-    "updated_at": "2026-08-01T01:09:23Z",
+    "updated_at": "2026-08-01T01:45:07Z",
     "url": "https://github.com/Sunwood-ai-labs/OpenFace"
   },
   {
@@ -259,15 +313,6 @@
     "stars": 8,
     "updated_at": "2026-08-01T00:56:59Z",
     "url": "https://github.com/slipknot0130/Film-Production-Toolkit"
-  },
-  {
-    "description": "Broadcast one prompt to 2-6 AI models and stream their answers side-by-side, with a Judge synthesizer, tool calling, eva",
-    "id": "zmustafa/MultiChat",
-    "language": "TypeScript",
-    "name": "zmustafa/MultiChat",
-    "stars": 2,
-    "updated_at": "2026-08-01T00:49:32Z",
-    "url": "https://github.com/zmustafa/MultiChat"
   },
   {
     "description": "A Claude Code skill that composes sub-agents on the fly \u2014 plus the live probe evidence for how the sub-agent boundary ac",
@@ -333,6 +378,15 @@
     "url": "https://github.com/sleuth-io/sx"
   },
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3443,
+    "updated_at": "2026-08-01T00:29:44Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Typed building blocks for everything around your LLM call.",
     "id": "use-crux/crux",
     "language": "TypeScript",
@@ -355,7 +409,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23799,
+    "stars": 23800,
     "updated_at": "2026-08-01T00:23:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-01T00:20:35Z",
     "url": "https://github.com/gaofeng21cn/redcube-ai"
-  },
-  {
-    "description": "Curated agent skills, loop prompts, and agent modes for coding agents. Plain Markdown, no CLI and nothing to install. Wo",
-    "id": "ZacheryKuykendall/skillbox",
-    "language": "\u2014",
-    "name": "ZacheryKuykendall/skillbox",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:15:15Z",
-    "url": "https://github.com/ZacheryKuykendall/skillbox"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:14:23Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Midjourney \u2013 A powerful desktop tool to manage unlimited prompt generation, optimize your workflow, and enhance AI art c",
-    "id": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
-    "language": "\u2014",
-    "name": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:12:12Z",
-    "url": "https://github.com/deader49963hefty/Midjourney-Ultimate-Prompts-Studio"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 15,
-    "updated_at": "2026-08-01T00:09:19Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-08-01T00:08:58Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-01T00:07:06Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
   }
 ]
