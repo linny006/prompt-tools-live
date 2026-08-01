@@ -1,5 +1,122 @@
 [
   {
+    "description": "Meta Rules for prompt engineering \u2014 A persistent cognitive architecture for LLM prompt design.",
+    "id": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
+    "language": "\u2014",
+    "name": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
+    "stars": 1,
+    "updated_at": "2026-08-01T03:43:56Z",
+    "url": "https://github.com/Nous-Think/LLM-Cognitive-Architecture-By-Prompt"
+  },
+  {
+    "description": "Trim Claude Code system-prompt bloat: measure with a logging proxy, then deny unused tool definitions and disable featur",
+    "id": "cskwork/context-diet-skill",
+    "language": "HTML",
+    "name": "cskwork/context-diet-skill",
+    "stars": 0,
+    "updated_at": "2026-08-01T03:43:00Z",
+    "url": "https://github.com/cskwork/context-diet-skill"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 36,
+    "updated_at": "2026-08-01T03:42:36Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "ARIOS - Artificial Renewable Intelligence Operating System",
+    "id": "Phuire-Research/SuiteCascadeSystem",
+    "language": "TypeScript",
+    "name": "Phuire-Research/SuiteCascadeSystem",
+    "stars": 1,
+    "updated_at": "2026-08-01T03:41:45Z",
+    "url": "https://github.com/Phuire-Research/SuiteCascadeSystem"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 151,
+    "updated_at": "2026-08-01T03:41:03Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-08-01T03:40:20Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "Professional tool to generate highly-detailed AI music prompts for platforms like Suno and Udio. Optimize your creative ",
+    "id": "rodrigocaetanooficial/AIMusicPromptGenerator",
+    "language": "TypeScript",
+    "name": "rodrigocaetanooficial/AIMusicPromptGenerator",
+    "stars": 3,
+    "updated_at": "2026-08-01T03:38:53Z",
+    "url": "https://github.com/rodrigocaetanooficial/AIMusicPromptGenerator"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-08-01T03:36:30Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "AI-image-prompt-TAG-skill",
+    "id": "1756141021/tag-skill",
+    "language": "\u2014",
+    "name": "1756141021/tag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-01T03:35:44Z",
+    "url": "https://github.com/1756141021/tag-skill"
+  },
+  {
+    "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
+    "id": "Raymondhou0917/speak-human-tw",
+    "language": "Python",
+    "name": "Raymondhou0917/speak-human-tw",
+    "stars": 729,
+    "updated_at": "2026-08-01T03:34:16Z",
+    "url": "https://github.com/Raymondhou0917/speak-human-tw"
+  },
+  {
+    "description": "LLM\u5bfe\u8a71\u30ed\u30b0\u3001\u9031\u6b21\u30d6\u30ed\u30b0\u3001Zenn\u8a18\u4e8b\u3001\u30d7\u30ed\u30f3\u30d7\u30c8\u8cc7\u7523\u3001\u81ea\u52d5\u5316\u30b9\u30af\u30ea\u30d7\u30c8\u3092\u7ba1\u7406 / Workspace for LLM logs, weekly blogs, Zenn articles, prompts, and automation ",
+    "id": "masa-san-jp/logs-with-llm",
+    "language": "Python",
+    "name": "masa-san-jp/logs-with-llm",
+    "stars": 1,
+    "updated_at": "2026-08-01T03:33:37Z",
+    "url": "https://github.com/masa-san-jp/logs-with-llm"
+  },
+  {
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1792,
+    "updated_at": "2026-08-01T03:32:20Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T03:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "OpenRouter-compatible LangChain Academy with LangGraph, MCP, Multi-Agent Systems & production-ready AI projects.",
     "id": "theduodecim/Introduction-to-LangChain-academy.langchain",
     "language": "Jupyter Notebook",
@@ -54,15 +171,6 @@
     "url": "https://github.com/jackylawck/PPDone"
   },
   {
-    "description": "Professional tool to generate highly-detailed AI music prompts for platforms like Suno and Udio. Optimize your creative ",
-    "id": "rodrigocaetanooficial/AIMusicPromptGenerator",
-    "language": "TypeScript",
-    "name": "rodrigocaetanooficial/AIMusicPromptGenerator",
-    "stars": 3,
-    "updated_at": "2026-08-01T03:25:53Z",
-    "url": "https://github.com/rodrigocaetanooficial/AIMusicPromptGenerator"
-  },
-  {
     "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
@@ -94,18 +202,9 @@
     "id": "vllm-project/semantic-router",
     "language": "Go",
     "name": "vllm-project/semantic-router",
-    "stars": 5092,
+    "stars": 5093,
     "updated_at": "2026-08-01T03:19:20Z",
     "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T03:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Token-efficient context engine for AI coding agents. v2.18.0: proactive filter-coverage telemetry (savings self-diagnosi",
@@ -124,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T03:12:49Z",
     "url": "https://github.com/gschenhaojie/zhikeyun-open-content-skills"
-  },
-  {
-    "description": "AI-image-prompt-TAG-skill",
-    "id": "1756141021/tag-skill",
-    "language": "\u2014",
-    "name": "1756141021/tag-skill",
-    "stars": 2,
-    "updated_at": "2026-08-01T03:12:16Z",
-    "url": "https://github.com/1756141021/tag-skill"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -163,12 +253,12 @@
   },
   {
     "description": "Miniguia de estudos sobre Open Finance no Brasil utilizando NotebookLM e engenharia de prompts. Projeto desenvolvido no ",
-    "id": "lucasdemrodrigues/open-finance-notebooklm",
+    "id": "lucasdemrodrigues/open-finance-com-notebooklm",
     "language": "\u2014",
-    "name": "lucasdemrodrigues/open-finance-notebooklm",
+    "name": "lucasdemrodrigues/open-finance-com-notebooklm",
     "stars": 0,
     "updated_at": "2026-08-01T03:05:05Z",
-    "url": "https://github.com/lucasdemrodrigues/open-finance-notebooklm"
+    "url": "https://github.com/lucasdemrodrigues/open-finance-com-notebooklm"
   },
   {
     "description": "\ud658\uacbd \uc124\uc815 \ud30c\uc77c \ubc31\uc5c5 \ubc0f AI \ud504\ub86c\ud504\ud2b8 \uad00\ub9ac \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
@@ -220,7 +310,7 @@
     "id": "kangarooking/cangjie-skill",
     "language": "Python",
     "name": "kangarooking/cangjie-skill",
-    "stars": 5819,
+    "stars": 5820,
     "updated_at": "2026-08-01T02:58:22Z",
     "url": "https://github.com/kangarooking/cangjie-skill"
   },
@@ -358,95 +448,5 @@
     "stars": 50,
     "updated_at": "2026-08-01T02:38:20Z",
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10840,
-    "updated_at": "2026-08-01T02:36:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": " A curated system of production-ready Claude Code skills with quantitative evaluation reports, golden test fixtures, and",
-    "id": "johnqtcg/awesome-skills",
-    "language": "Python",
-    "name": "johnqtcg/awesome-skills",
-    "stars": 28,
-    "updated_at": "2026-08-01T02:30:50Z",
-    "url": "https://github.com/johnqtcg/awesome-skills"
-  },
-  {
-    "description": "48 free MIT-licensed AI image prompts for building a vision board \u2014 career, money, health, love, travel, home, fresh sta",
-    "id": "pittner/vision-board-prompts",
-    "language": "HTML",
-    "name": "pittner/vision-board-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-01T02:28:17Z",
-    "url": "https://github.com/pittner/vision-board-prompts"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-01T02:28:11Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "21 Lessons, Get Started Building with Generative AI ",
-    "id": "microsoft/generative-ai-for-beginners",
-    "language": "Jupyter Notebook",
-    "name": "microsoft/generative-ai-for-beginners",
-    "stars": 113852,
-    "updated_at": "2026-08-01T02:27:48Z",
-    "url": "https://github.com/microsoft/generative-ai-for-beginners"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23802,
-    "updated_at": "2026-08-01T02:27:47Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-01T02:26:29Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 63588,
-    "updated_at": "2026-08-01T02:26:06Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1422,
-    "updated_at": "2026-08-01T02:25:47Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "Source-backed Muse Image prompts, official agentic editing cases, reusable workflows, preview media, and 14-language gui",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-08-01T02:23:24Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
   }
 ]
