@@ -1,12 +1,75 @@
 [
   {
+    "description": "Meta Rules for prompt engineering \u2014 A persistent cognitive architecture for LLM prompt design.",
+    "id": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
+    "language": "\u2014",
+    "name": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
+    "stars": 1,
+    "updated_at": "2026-08-01T09:45:15Z",
+    "url": "https://github.com/Nous-Think/LLM-Cognitive-Architecture-By-Prompt"
+  },
+  {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "Go",
+    "name": "sachncs/promptsheon",
+    "stars": 0,
+    "updated_at": "2026-08-01T09:43:10Z",
+    "url": "https://github.com/sachncs/promptsheon"
+  },
+  {
+    "description": "Helen Agent Develop Language ",
+    "id": "hahalee000000/helen",
+    "language": "Python",
+    "name": "hahalee000000/helen",
+    "stars": 1,
+    "updated_at": "2026-08-01T09:40:28Z",
+    "url": "https://github.com/hahalee000000/helen"
+  },
+  {
+    "description": "German AI Text Humanizer for Claude Code & Codex. Audits 72 German AI-writing patterns using deterministic linters and e",
+    "id": "marmbiz/humanizer-de",
+    "language": "Python",
+    "name": "marmbiz/humanizer-de",
+    "stars": 76,
+    "updated_at": "2026-08-01T09:39:35Z",
+    "url": "https://github.com/marmbiz/humanizer-de"
+  },
+  {
     "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
     "id": "agungkesmas/recallfox",
     "language": "JavaScript",
     "name": "agungkesmas/recallfox",
     "stars": 0,
-    "updated_at": "2026-08-01T09:29:40Z",
+    "updated_at": "2026-08-01T09:38:56Z",
     "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-08-01T09:34:10Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\u9632\u6b62 AI \u5f15\u5bfc\u5e7b\u60f3\u3001\u8fce\u5408\u5949\u627f\u4e0e\u7126\u8651\u6a21\u4eff\u7684\u7cfb\u7edf\u63d0\u793a\u8bcd\u62a4\u680f\uff0c\u6253\u7834\u5927\u8bed\u8a00\u6a21\u578b\u56de\u97f3\u5ba4\u6548\u5e94\u3002 / Prevent LLM sycophancy & the delusion amplification spiral.",
+    "id": "tkgeeked/Anti-Delulu",
+    "language": "\u2014",
+    "name": "tkgeeked/Anti-Delulu",
+    "stars": 1,
+    "updated_at": "2026-08-01T09:34:03Z",
+    "url": "https://github.com/tkgeeked/Anti-Delulu"
+  },
+  {
+    "description": "A curated collection of my personal AI, RAG, MCP, LLM, and software development notes generated during my learning journ",
+    "id": "satyam0singh/Agentic-AI",
+    "language": "\u2014",
+    "name": "satyam0singh/Agentic-AI",
+    "stars": 0,
+    "updated_at": "2026-08-01T09:32:29Z",
+    "url": "https://github.com/satyam0singh/Agentic-AI"
   },
   {
     "description": "Portable Windows scratchpad and snippet manager. One global hotkey, instant window, markdown, silos, themes. Built with ",
@@ -14,8 +77,17 @@
     "language": "Python",
     "name": "vacterro/FastPrompter",
     "stars": 8,
-    "updated_at": "2026-08-01T09:29:16Z",
+    "updated_at": "2026-08-01T09:30:49Z",
     "url": "https://github.com/vacterro/FastPrompter"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T09:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -27,15 +99,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "A curated collection of my personal AI, RAG, MCP, LLM, and software development notes generated during my learning journ",
-    "id": "satyam0singh/Agentic-AI",
-    "language": "\u2014",
-    "name": "satyam0singh/Agentic-AI",
-    "stars": 0,
-    "updated_at": "2026-08-01T09:28:25Z",
-    "url": "https://github.com/satyam0singh/Agentic-AI"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T09:28:10Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-08-01T09:27:59Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\u4e00\u6b3e\u8f7b\u91cf\u3001\u65e0\u4e3b\u7a97\u53e3\u7684 Windows \u63d0\u793a\u8bcd\u4f18\u5316\u5de5\u5177\u3002\u9009\u4e2d\u6587\u5b57\u89e6\u53d1\u5168\u5c40\u5feb\u6377\u952e\uff0c\u4e00\u952e\u4f18\u5316 Prompt \u5e76\u81ea\u52a8\u5199\u5165\u526a\u8d34\u677f\u3002",
@@ -67,7 +121,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 4994,
+    "stars": 4996,
     "updated_at": "2026-08-01T09:26:51Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -86,7 +140,7 @@
     "language": "JavaScript",
     "name": "sugeerth/prompt-agents",
     "stars": 0,
-    "updated_at": "2026-08-01T09:26:05Z",
+    "updated_at": "2026-08-01T09:42:32Z",
     "url": "https://github.com/sugeerth/prompt-agents"
   },
   {
@@ -108,6 +162,15 @@
     "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
   },
   {
+    "description": "AI Agent Skill for end-to-end job hunting: 6-stage smart matching pipeline + resume optimization + interview prep + cros",
+    "id": "feiyu1215/career-copilot",
+    "language": "Python",
+    "name": "feiyu1215/career-copilot",
+    "stars": 1,
+    "updated_at": "2026-08-01T09:25:42Z",
+    "url": "https://github.com/feiyu1215/career-copilot"
+  },
+  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -122,7 +185,7 @@
     "language": "TypeScript",
     "name": "filiksyos/gitreverse",
     "stars": 1435,
-    "updated_at": "2026-08-01T09:25:18Z",
+    "updated_at": "2026-08-01T09:44:39Z",
     "url": "https://github.com/filiksyos/gitreverse"
   },
   {
@@ -216,15 +279,6 @@
     "url": "https://github.com/Cross-yanzheng/AI-Visual-Prompt-Library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T09:17:13Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Drop-in Agent Skills, subagents, output styles, hooks & config templates for Claude Code (~/.claude) and OpenAI Codex CL",
     "id": "dayfinggg/claude-code-codex-skills",
     "language": "PowerShell",
@@ -306,15 +360,6 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
-    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
-    "id": "sachncs/promptsheon",
-    "language": "Go",
-    "name": "sachncs/promptsheon",
-    "stars": 0,
-    "updated_at": "2026-08-01T09:07:22Z",
-    "url": "https://github.com/sachncs/promptsheon"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -338,7 +383,7 @@
     "language": "JavaScript",
     "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
     "stars": 0,
-    "updated_at": "2026-08-01T09:04:54Z",
+    "updated_at": "2026-08-01T09:42:50Z",
     "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
   },
   {
@@ -367,15 +412,6 @@
     "stars": 7,
     "updated_at": "2026-08-01T09:00:38Z",
     "url": "https://github.com/AkashAi7/stenographer-mode"
-  },
-  {
-    "description": "German AI Text Humanizer for Claude Code & Codex. Audits 72 German AI-writing patterns using deterministic linters and e",
-    "id": "marmbiz/humanizer-de",
-    "language": "Python",
-    "name": "marmbiz/humanizer-de",
-    "stars": 76,
-    "updated_at": "2026-08-01T09:00:33Z",
-    "url": "https://github.com/marmbiz/humanizer-de"
   },
   {
     "description": "AI \u8d22\u52a1\u64cd\u4f5c\u7cfb\u7edf \u2014 \u9762\u5411\u56fd\u4f01 CFO \u7684\u53cc\u8f74\u8ba4\u77e5\u6307\u4ee4\u96c6\u3002\u5e73\u53f0\u65e0\u5173\u3001\u5f00\u7bb1\u5373\u7528\uff0c\u542b 5 \u89d2\u8272\u00d75 \u9636\u6bb5\u8c03\u5ea6\u95ed\u73af + 3+2 \u77e5\u8bc6\u5e93\u4f53\u7cfb\uff0c\u652f\u6301 ChatGPT / Claude / WorkBuddy \u7b49\u4e3b\u6d41 AI \u5e73\u53f0\u3002MIT \u534f\u8bae\u3002",
@@ -412,41 +448,5 @@
     "stars": 23809,
     "updated_at": "2026-08-01T08:53:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
-    "id": "AnastasiyaW/codex-claude-code-config",
-    "language": "Python",
-    "name": "AnastasiyaW/codex-claude-code-config",
-    "stars": 137,
-    "updated_at": "2026-08-01T08:51:29Z",
-    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 845,
-    "updated_at": "2026-08-01T08:49:41Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
-    "id": "llwslc/proteus",
-    "language": "HTML",
-    "name": "llwslc/proteus",
-    "stars": 2,
-    "updated_at": "2026-08-01T08:49:34Z",
-    "url": "https://github.com/llwslc/proteus"
-  },
-  {
-    "description": "Visible, research-grounded Codex Skill that turns a requirement into a system prompt and executes it immediately.",
-    "id": "DeAI1227/God-Of-Prompt",
-    "language": "\u2014",
-    "name": "DeAI1227/God-Of-Prompt",
-    "stars": 0,
-    "updated_at": "2026-08-01T08:48:33Z",
-    "url": "https://github.com/DeAI1227/God-Of-Prompt"
   }
 ]
