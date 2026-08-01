@@ -1,12 +1,21 @@
 [
   {
-    "description": "OpenCode \u5168\u6d41\u7a0b\u5f00\u53d1\u7f16\u6392\u63d2\u4ef6\uff1a\u8986\u76d6\u9700\u6c42\u3001\u8bbe\u8ba1\u3001DAG \u4efb\u52a1\u3001\u5e76\u884c\u7f16\u7801\u3001\u6d4b\u8bd5\u3001\u5ba1\u67e5\u4e0e\u81ea\u52a8\u5408\u5e76\u3002 | Full-lifecycle development orchestration plugin for OpenCode, from ",
-    "id": "devcxl/opencode-cabbage",
-    "language": "TypeScript",
-    "name": "devcxl/opencode-cabbage",
+    "description": "Meta Rules for prompt engineering \u2014 A persistent cognitive architecture for LLM prompt design.",
+    "id": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
+    "language": "\u2014",
+    "name": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
     "stars": 1,
-    "updated_at": "2026-08-01T05:13:11Z",
-    "url": "https://github.com/devcxl/opencode-cabbage"
+    "updated_at": "2026-08-01T05:29:51Z",
+    "url": "https://github.com/Nous-Think/LLM-Cognitive-Architecture-By-Prompt"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-08-01T05:29:09Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
     "description": "MCP prompt template server: hot-reload, thinking frameworks, quality gates",
@@ -14,8 +23,80 @@
     "language": "TypeScript",
     "name": "minipuft/claude-prompts",
     "stars": 182,
-    "updated_at": "2026-08-01T05:13:43Z",
+    "updated_at": "2026-08-01T05:30:02Z",
     "url": "https://github.com/minipuft/claude-prompts"
+  },
+  {
+    "description": "Trim Claude Code system-prompt bloat: measure with a logging proxy, then deny unused tool definitions and disable featur",
+    "id": "cskwork/context-diet-skill",
+    "language": "HTML",
+    "name": "cskwork/context-diet-skill",
+    "stars": 0,
+    "updated_at": "2026-08-01T05:25:09Z",
+    "url": "https://github.com/cskwork/context-diet-skill"
+  },
+  {
+    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
+    "id": "Sungmin-Cho/claude-deep-suite",
+    "language": "JavaScript",
+    "name": "Sungmin-Cho/claude-deep-suite",
+    "stars": 7,
+    "updated_at": "2026-08-01T05:22:51Z",
+    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-08-01T05:21:08Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, crea",
+    "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "stars": 110,
+    "updated_at": "2026-08-01T05:21:02Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
+  },
+  {
+    "description": "\u9762\u5411\u4e2d\u6587\u5f00\u53d1\u8005\u7684 Claude Code Skills / Agents / Plugins \u7cbe\u9009\u4e0e\u539f\u521b\u6280\u80fd\u5e93\uff5c\u6309\u573a\u666f\u5206\u7c7b\uff5c\u590d\u5236\u5373\u88c5\uff5c\u6301\u7eed\u66f4\u65b0",
+    "id": "laolaoshiren/claude-code-skills-zh",
+    "language": "Python",
+    "name": "laolaoshiren/claude-code-skills-zh",
+    "stars": 714,
+    "updated_at": "2026-08-01T05:20:33Z",
+    "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
+  },
+  {
+    "description": "\ud83d\udcda Notes, concepts & exercises from a Prompt Engineering course \u2014 covering LLMs, zero-shot, few-shot, chain-of-thought, R",
+    "id": "Skakarla2023/prompt-engineering-with-claude",
+    "language": "\u2014",
+    "name": "Skakarla2023/prompt-engineering-with-claude",
+    "stars": 0,
+    "updated_at": "2026-08-01T05:19:28Z",
+    "url": "https://github.com/Skakarla2023/prompt-engineering-with-claude"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T05:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "OpenCode \u5168\u6d41\u7a0b\u5f00\u53d1\u7f16\u6392\u63d2\u4ef6\uff1a\u8986\u76d6\u9700\u6c42\u3001\u8bbe\u8ba1\u3001DAG \u4efb\u52a1\u3001\u5e76\u884c\u7f16\u7801\u3001\u6d4b\u8bd5\u3001\u5ba1\u67e5\u4e0e\u81ea\u52a8\u5408\u5e76\u3002 | Full-lifecycle development orchestration plugin for OpenCode, from ",
+    "id": "devcxl/opencode-cabbage",
+    "language": "TypeScript",
+    "name": "devcxl/opencode-cabbage",
+    "stars": 1,
+    "updated_at": "2026-08-01T05:13:11Z",
+    "url": "https://github.com/devcxl/opencode-cabbage"
   },
   {
     "description": "OpenClaw \u6280\u80fd\u5305\uff1a\u4fee\u590d/\u589e\u5f3a\u5c0f\u6a21\u578b(3B-14B)\u8f93\u51fa \u2014 JSON\u4fee\u590d/\u4ee3\u7801\u8bc6\u522b/\u4fe1\u606f\u63d0\u53d6/\u622a\u65ad\u68c0\u6d4b\u7b499\u9879\u80fd\u529b\uff0c\u96f6\u5916\u90e8\u4f9d\u8d56\uff0cA/B\u5b9e\u6d4b\u5e73\u5747\u5206 36\u219280 (\u0394+44)\u3002",
@@ -117,15 +198,6 @@
     "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T05:00:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "SLOP: Structured Language for Orchestrating Prompts - A domain-specific language for AI agent workflows",
     "id": "standardbeagle/slop",
     "language": "Go",
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 36,
-    "updated_at": "2026-08-01T05:11:04Z",
+    "updated_at": "2026-08-01T05:27:11Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
@@ -283,7 +355,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 63604,
+    "stars": 63608,
     "updated_at": "2026-08-01T04:33:33Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -360,21 +432,12 @@
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
   },
   {
-    "description": "Trim Claude Code system-prompt bloat: measure with a logging proxy, then deny unused tool definitions and disable featur",
-    "id": "cskwork/context-diet-skill",
-    "language": "HTML",
-    "name": "cskwork/context-diet-skill",
-    "stars": 0,
-    "updated_at": "2026-08-01T04:20:24Z",
-    "url": "https://github.com/cskwork/context-diet-skill"
-  },
-  {
     "description": "ARIOS - Artificial Renewable Intelligence Operating System",
     "id": "Phuire-Research/SuiteCascadeSystem",
     "language": "TypeScript",
     "name": "Phuire-Research/SuiteCascadeSystem",
     "stars": 1,
-    "updated_at": "2026-08-01T05:04:19Z",
+    "updated_at": "2026-08-01T05:22:26Z",
     "url": "https://github.com/Phuire-Research/SuiteCascadeSystem"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 15,
     "updated_at": "2026-08-01T04:17:36Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10841,
-    "updated_at": "2026-08-01T04:16:57Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Always-current Claude documentation in Claude Code \u2014 a metadata-only index that fetches official pages from Anthropic on",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 50,
-    "updated_at": "2026-08-01T04:15:15Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, crea",
-    "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "stars": 110,
-    "updated_at": "2026-08-01T04:12:03Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
-  },
-  {
-    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
-    "id": "f/prompts.chat",
-    "language": "HTML",
-    "name": "f/prompts.chat",
-    "stars": 166580,
-    "updated_at": "2026-08-01T04:10:51Z",
-    "url": "https://github.com/f/prompts.chat"
-  },
-  {
-    "description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize \ud83d\udd25    We release the trained model on HuggingFace.",
-    "id": "AI4Finance-Foundation/FinGPT",
-    "language": "Jupyter Notebook",
-    "name": "AI4Finance-Foundation/FinGPT",
-    "stars": 20999,
-    "updated_at": "2026-08-01T04:08:52Z",
-    "url": "https://github.com/AI4Finance-Foundation/FinGPT"
-  },
-  {
-    "description": "8 free AI agent skills for HackerRank Orchestrate, reverse-engineered from HackerRank's own published scoring methodolog",
-    "id": "NITISH-R-G/hackerrank-orchestrate-skills",
-    "language": "\u2014",
-    "name": "NITISH-R-G/hackerrank-orchestrate-skills",
-    "stars": 1,
-    "updated_at": "2026-08-01T04:07:37Z",
-    "url": "https://github.com/NITISH-R-G/hackerrank-orchestrate-skills"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-08-01T04:06:49Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
   }
 ]
