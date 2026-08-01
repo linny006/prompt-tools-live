@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-01 17:28 UTC
+> ⏰ Last updated: 2026-08-01 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,28 +42,28 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Sunwood-ai-labs/OpenFace](https://github.com/Sunwood-ai-labs/OpenFace) | 2 | Python | 2026-08-01 | A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages. |
-| 2 | [sunjun0621/smiao-ai-assistant](https://github.com/sunjun0621/smiao-ai-assistant) | 0 | Python | 2026-08-01 | 基于 FinanceOS v3.1 的 AI 财务经验助手框架（思邈 / Smiao）。内核不变、经验归你——规则·模板·案例·决策记忆由你掌握，AI 按你的规矩办事。 |
-| 3 | [jehadsobohai/LLM-Evaluation-Project-Standard](https://github.com/jehadsobohai/LLM-Evaluation-Project-Standard) | 1 | TeX | 2026-08-01 | An open, evidence-based standard for structuring, documenting, conducting, and reporting Large Language Model (LLM) eval |
-| 4 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-01 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 5 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 1 | HTML | 2026-08-01 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 6 | [aymanelmasryael/ael-1000-prompts-library](https://github.com/aymanelmasryael/ael-1000-prompts-library) | 1 | HTML | 2026-08-01 | AEL 1000+ AI Prompts Library — Glassmorphism design, professional prompts across 12 categories |
-| 7 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-01 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 8 | [simota/agent-skills](https://github.com/simota/agent-skills) | 65 | HTML | 2026-08-01 | 124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun |
-| 9 | [wesleysimplicio/simplicio-dev-cli](https://github.com/wesleysimplicio/simplicio-dev-cli) | 3 | Python | 2026-08-01 | Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor). |
-| 10 | [thegreatLUCY/prompt-stacker](https://github.com/thegreatLUCY/prompt-stacker) | 1 | JavaScript | 2026-08-01 | Queue prompts for ChatGPT, Claude, Gemini, Google AI Mode & DeepSeek — the next one auto-sends when the AI finishes repl |
-| 11 | [Sunil-M02/curiosity-engine](https://github.com/Sunil-M02/curiosity-engine) | 2 | TypeScript | 2026-08-01 | AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot. |
-| 12 | [raposamillar/studio-website](https://github.com/raposamillar/studio-website) | 0 | HTML | 2026-08-01 | Creating an SPA for a music studio using prompt engineering |
-| 13 | [he-is-talha/ai-schema-locked-extractor](https://github.com/he-is-talha/ai-schema-locked-extractor) | 0 | TypeScript | 2026-08-01 | 🔒 Schema-locked LLM extraction — messy text → validated JSON via Ollama constrained decode, Zod, and a capped repair loo |
-| 14 | [RobertoCorraro/BOB-Prompt-Library-26](https://github.com/RobertoCorraro/BOB-Prompt-Library-26) | 0 | JavaScript | 2026-08-01 | Una moderna applicazione web full-stack per gestire, organizzare e sincronizzare prompt AI, costruita con React, Vite, S |
-| 15 | [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | 1743 | TypeScript | 2026-08-01 | 🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API g |
-| 16 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-08-01 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 17 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-01 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 18 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-08-01 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 19 | [ahmeddoghri/structstream](https://github.com/ahmeddoghri/structstream) | 0 | Python | 2026-08-01 | Get valid JSON out of a model that keeps almost getting it right. Found the '100% recovery' number never tested Python's |
-| 20 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-08-01 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 21 | [mehrad-dm/mastermind](https://github.com/mehrad-dm/mastermind) | 13 | Shell | 2026-08-01 | ⚗️ Experimental — A genius-builder brain for your AI coding tools: sharp defaults, real judgment, and the discipline to  |
-| 22 | [cubrift/quart](https://github.com/cubrift/quart) | 3 | JavaScript | 2026-08-01 | An autonomous AI chatbot built for WhatsApp using Node.js, Baileys, and the Vercel AI SDK powered by OpenAI. Designed to |
+| 1 | [cubrift/quart](https://github.com/cubrift/quart) | 3 | JavaScript | 2026-08-01 | An autonomous AI chatbot built for WhatsApp using Node.js, Baileys, and the Vercel AI SDK powered by OpenAI. Designed to |
+| 2 | [jehadsobohai/LLM-Evaluation-Project-Standard](https://github.com/jehadsobohai/LLM-Evaluation-Project-Standard) | 1 | TeX | 2026-08-01 | An open, evidence-based standard for structuring, documenting, conducting, and reporting Large Language Model (LLM) eval |
+| 3 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-08-01 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 4 | [Sunwood-ai-labs/OpenFace](https://github.com/Sunwood-ai-labs/OpenFace) | 2 | Python | 2026-08-01 | A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages. |
+| 5 | [sunjun0621/smiao-ai-assistant](https://github.com/sunjun0621/smiao-ai-assistant) | 0 | Python | 2026-08-01 | 基于 FinanceOS v3.1 的 AI 财务经验助手框架（思邈 / Smiao）。内核不变、经验归你——规则·模板·案例·决策记忆由你掌握，AI 按你的规矩办事。 |
+| 6 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-01 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 7 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 1 | HTML | 2026-08-01 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 8 | [aymanelmasryael/ael-1000-prompts-library](https://github.com/aymanelmasryael/ael-1000-prompts-library) | 1 | HTML | 2026-08-01 | AEL 1000+ AI Prompts Library — Glassmorphism design, professional prompts across 12 categories |
+| 9 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-01 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
+| 10 | [simota/agent-skills](https://github.com/simota/agent-skills) | 65 | HTML | 2026-08-01 | 124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun |
+| 11 | [wesleysimplicio/simplicio-dev-cli](https://github.com/wesleysimplicio/simplicio-dev-cli) | 3 | Python | 2026-08-01 | Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor). |
+| 12 | [thegreatLUCY/prompt-stacker](https://github.com/thegreatLUCY/prompt-stacker) | 1 | JavaScript | 2026-08-01 | Queue prompts for ChatGPT, Claude, Gemini, Google AI Mode & DeepSeek — the next one auto-sends when the AI finishes repl |
+| 13 | [Sunil-M02/curiosity-engine](https://github.com/Sunil-M02/curiosity-engine) | 2 | TypeScript | 2026-08-01 | AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot. |
+| 14 | [raposamillar/studio-website](https://github.com/raposamillar/studio-website) | 0 | HTML | 2026-08-01 | Creating an SPA for a music studio using prompt engineering |
+| 15 | [he-is-talha/ai-schema-locked-extractor](https://github.com/he-is-talha/ai-schema-locked-extractor) | 0 | TypeScript | 2026-08-01 | 🔒 Schema-locked LLM extraction — messy text → validated JSON via Ollama constrained decode, Zod, and a capped repair loo |
+| 16 | [RobertoCorraro/BOB-Prompt-Library-26](https://github.com/RobertoCorraro/BOB-Prompt-Library-26) | 0 | JavaScript | 2026-08-01 | Una moderna applicazione web full-stack per gestire, organizzare e sincronizzare prompt AI, costruita con React, Vite, S |
+| 17 | [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | 1743 | TypeScript | 2026-08-01 | 🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API g |
+| 18 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 0 | HTML | 2026-08-01 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 19 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-01 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 20 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-08-01 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 21 | [ahmeddoghri/structstream](https://github.com/ahmeddoghri/structstream) | 0 | Python | 2026-08-01 | Get valid JSON out of a model that keeps almost getting it right. Found the '100% recovery' number never tested Python's |
+| 22 | [mehrad-dm/mastermind](https://github.com/mehrad-dm/mastermind) | 13 | Shell | 2026-08-01 | ⚗️ Experimental — A genius-builder brain for your AI coding tools: sharp defaults, real judgment, and the discipline to  |
 | 23 | [KtKID/x-dev-pipeline](https://github.com/KtKID/x-dev-pipeline) | 12 | Python | 2026-08-01 | Development workflow plugin for AI coding agents with structured req/plan/dev/review/fix loops and a lightweight quick-d |
 | 24 | [IgorSokolovsky/ComfyUI-AnimaFlow](https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow) | 0 | JavaScript | 2026-08-01 | ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag  |
 | 25 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-01 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
