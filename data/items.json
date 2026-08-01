@@ -1,21 +1,12 @@
 [
   {
-    "description": "Context-aware CLI prompt inflater for Claude Code. Type a fragment, get a context-loaded prompt.",
-    "id": "Joncik91/inflate",
-    "language": "Go",
-    "name": "Joncik91/inflate",
-    "stars": 2,
-    "updated_at": "2026-08-01T15:14:53Z",
-    "url": "https://github.com/Joncik91/inflate"
-  },
-  {
-    "description": "An open, evidence-based standard for structuring, documenting, conducting, and reporting Large Language Model (LLM) eval",
-    "id": "jehadsobohai/LLM-Evaluation-Project-Standard",
-    "language": "TeX",
-    "name": "jehadsobohai/LLM-Evaluation-Project-Standard",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:14:52Z",
-    "url": "https://github.com/jehadsobohai/LLM-Evaluation-Project-Standard"
+    "description": "475 Krea 2 Turbo (krea2) prompts with the seed for each, plus the 65 that failed and why. 61 categories, MIT.",
+    "id": "sjh9714/awesome-krea-2",
+    "language": "HTML",
+    "name": "sjh9714/awesome-krea-2",
+    "stars": 7,
+    "updated_at": "2026-08-01T15:16:11Z",
+    "url": "https://github.com/sjh9714/awesome-krea-2"
   },
   {
     "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
@@ -23,8 +14,35 @@
     "language": "Rust",
     "name": "fkiene/llmtrim",
     "stars": 190,
-    "updated_at": "2026-08-01T15:15:12Z",
+    "updated_at": "2026-08-01T15:15:53Z",
     "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "An open, evidence-based standard for structuring, documenting, conducting, and reporting Large Language Model (LLM) eval",
+    "id": "jehadsobohai/LLM-Evaluation-Project-Standard",
+    "language": "TeX",
+    "name": "jehadsobohai/LLM-Evaluation-Project-Standard",
+    "stars": 0,
+    "updated_at": "2026-08-01T15:15:42Z",
+    "url": "https://github.com/jehadsobohai/LLM-Evaluation-Project-Standard"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T15:15:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Context-aware CLI prompt inflater for Claude Code. Type a fragment, get a context-loaded prompt.",
+    "id": "Joncik91/inflate",
+    "language": "Go",
+    "name": "Joncik91/inflate",
+    "stars": 2,
+    "updated_at": "2026-08-01T15:14:53Z",
+    "url": "https://github.com/Joncik91/inflate"
   },
   {
     "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
@@ -223,15 +241,6 @@
     "stars": 150,
     "updated_at": "2026-08-01T15:01:12Z",
     "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T15:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T14:49:31Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Expanding Tool",
-    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "language": "Python",
-    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "stars": 0,
-    "updated_at": "2026-08-01T14:48:28Z",
-    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
   }
 ]
