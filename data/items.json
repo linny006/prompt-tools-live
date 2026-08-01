@@ -1,5 +1,104 @@
 [
   {
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
+    "id": "OutlineDriven/odin-claude-plugin",
+    "language": "Python",
+    "name": "OutlineDriven/odin-claude-plugin",
+    "stars": 34,
+    "updated_at": "2026-08-01T07:27:42Z",
+    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
+    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
+    "id": "F-e-u-e-r/opus-pack",
+    "language": "Python",
+    "name": "F-e-u-e-r/opus-pack",
+    "stars": 2,
+    "updated_at": "2026-08-01T07:26:28Z",
+    "url": "https://github.com/F-e-u-e-r/opus-pack"
+  },
+  {
+    "description": "Spec-Driven Development for AI coding agents \u2014 personas debate each spec before code, and a markdown+git memory keeps th",
+    "id": "hellomyoh/throughline",
+    "language": "Python",
+    "name": "hellomyoh/throughline",
+    "stars": 1,
+    "updated_at": "2026-08-01T07:26:17Z",
+    "url": "https://github.com/hellomyoh/throughline"
+  },
+  {
+    "description": "Rules that let a coding agent work on your project overnight without wrecking it. Role-separated seats, a written safety",
+    "id": "amyjainberkeley/agent-fleet",
+    "language": "Shell",
+    "name": "amyjainberkeley/agent-fleet",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:21:44Z",
+    "url": "https://github.com/amyjainberkeley/agent-fleet"
+  },
+  {
+    "description": "MCP prompt template server: hot-reload, thinking frameworks, quality gates",
+    "id": "minipuft/claude-prompts",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts",
+    "stars": 182,
+    "updated_at": "2026-08-01T07:22:08Z",
+    "url": "https://github.com/minipuft/claude-prompts"
+  },
+  {
+    "description": "An atelier for your Agent: spec-driven workflows, deep thinking, and code quality.",
+    "id": "martinffx/atelier",
+    "language": "TypeScript",
+    "name": "martinffx/atelier",
+    "stars": 38,
+    "updated_at": "2026-08-01T07:19:59Z",
+    "url": "https://github.com/martinffx/atelier"
+  },
+  {
+    "description": "Curated, practitioner-first, auto-updating directory for context engineering in LLMs and agents.",
+    "id": "royalpinto007/awesome-context-engineering",
+    "language": "HTML",
+    "name": "royalpinto007/awesome-context-engineering",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:19:25Z",
+    "url": "https://github.com/royalpinto007/awesome-context-engineering"
+  },
+  {
+    "description": "First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines",
+    "id": "VersusControl/devops-ai-guidelines",
+    "language": "Python",
+    "name": "VersusControl/devops-ai-guidelines",
+    "stars": 1368,
+    "updated_at": "2026-08-01T07:17:13Z",
+    "url": "https://github.com/VersusControl/devops-ai-guidelines"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-01T07:17:13Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-01T07:15:33Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-01T07:15:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -25,33 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T07:13:18Z",
     "url": "https://github.com/hahalee000000/helen"
-  },
-  {
-    "description": "First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines",
-    "id": "VersusControl/devops-ai-guidelines",
-    "language": "Python",
-    "name": "VersusControl/devops-ai-guidelines",
-    "stars": 1367,
-    "updated_at": "2026-08-01T07:13:17Z",
-    "url": "https://github.com/VersusControl/devops-ai-guidelines"
-  },
-  {
-    "description": "MCP prompt template server: hot-reload, thinking frameworks, quality gates",
-    "id": "minipuft/claude-prompts",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts",
-    "stars": 182,
-    "updated_at": "2026-08-01T07:12:49Z",
-    "url": "https://github.com/minipuft/claude-prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-01T07:10:48Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -144,15 +216,6 @@
     "url": "https://github.com/jeb-maker/lagent-quotidien"
   },
   {
-    "description": "Curated, practitioner-first, auto-updating directory for context engineering in LLMs and agents.",
-    "id": "royalpinto007/awesome-context-engineering",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-context-engineering",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:59:34Z",
-    "url": "https://github.com/royalpinto007/awesome-context-engineering"
-  },
-  {
     "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
     "id": "eric-sabe/engsys",
     "language": "JavaScript",
@@ -232,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T06:43:44Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Spec-Driven Development for AI coding agents \u2014 personas debate each spec before code, and a markdown+git memory keeps th",
-    "id": "hellomyoh/throughline",
-    "language": "Python",
-    "name": "hellomyoh/throughline",
-    "stars": 1,
-    "updated_at": "2026-08-01T06:43:00Z",
-    "url": "https://github.com/hellomyoh/throughline"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-01T06:30:24Z",
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Official Muse Video preview prompts, playable clips, native-audio shot briefs, continuity workflows, and 14-language gui",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:29:58Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "Open-source coding agent for real software work. Plans, reviews, and implements tasks with an explicit, inspectable inst",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 1,
-    "updated_at": "2026-08-01T06:29:35Z",
-    "url": "https://github.com/gthgomez/Babel"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 151,
-    "updated_at": "2026-08-01T06:26:26Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "Claude Mastery \u2014 Zero to Operator: an interactive, hands-on course on Claude (prompting, the app, Cowork, Claude Code, M",
-    "id": "saipavan333/claude-mastery",
-    "language": "JavaScript",
-    "name": "saipavan333/claude-mastery",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:26:06Z",
-    "url": "https://github.com/saipavan333/claude-mastery"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:25:45Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "\u4e00\u6b3e\u8f7b\u91cf\u3001\u65e0\u4e3b\u7a97\u53e3\u7684 Windows \u63d0\u793a\u8bcd\u4f18\u5316\u5de5\u5177\u3002\u9009\u4e2d\u6587\u5b57\u89e6\u53d1\u5168\u5c40\u5feb\u6377\u952e\uff0c\u4e00\u952e\u4f18\u5316 Prompt \u5e76\u81ea\u52a8\u5199\u5165\u526a\u8d34\u677f\u3002",
-    "id": "zskfree/prompt_optimizer",
-    "language": "Rust",
-    "name": "zskfree/prompt_optimizer",
-    "stars": 1,
-    "updated_at": "2026-08-01T06:25:01Z",
-    "url": "https://github.com/zskfree/prompt_optimizer"
   }
 ]
