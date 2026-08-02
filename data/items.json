@@ -1,12 +1,93 @@
 [
   {
+    "description": "A fast, local-first Windows prompt library with a global hotkey, nested organization, one-click copy, and safe LLM-assis",
+    "id": "diddlysquatt/Promptoire",
+    "language": "Python",
+    "name": "diddlysquatt/Promptoire",
+    "stars": 0,
+    "updated_at": "2026-08-02T04:59:51Z",
+    "url": "https://github.com/diddlysquatt/Promptoire"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-08-02T04:58:58Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 3,
+    "updated_at": "2026-08-02T05:00:09Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 40476,
+    "updated_at": "2026-08-02T04:53:51Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 7,
+    "updated_at": "2026-08-02T04:49:50Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "Independent, reproducible weekly research observing how LLMs actually behave \u2014 not which one is 'best'.",
+    "id": "ai-behavior-observatory/ai-behavior-observatory",
+    "language": "Python",
+    "name": "ai-behavior-observatory/ai-behavior-observatory",
+    "stars": 0,
+    "updated_at": "2026-08-02T04:52:23Z",
+    "url": "https://github.com/ai-behavior-observatory/ai-behavior-observatory"
+  },
+  {
+    "description": "Turn UI screenshots into reusable, executable design-system packages for coding agents.",
+    "id": "anlygale-debug/screenshot-to-design-system-prompt-kit",
+    "language": "JavaScript",
+    "name": "anlygale-debug/screenshot-to-design-system-prompt-kit",
+    "stars": 0,
+    "updated_at": "2026-08-02T04:47:48Z",
+    "url": "https://github.com/anlygale-debug/screenshot-to-design-system-prompt-kit"
+  },
+  {
+    "description": "\ud83d\udcda Notes, concepts & exercises from a Prompt Engineering course \u2014 covering LLMs, zero-shot, few-shot, chain-of-thought, R",
+    "id": "Skakarla2023/prompt-engineering-with-claude",
+    "language": "\u2014",
+    "name": "Skakarla2023/prompt-engineering-with-claude",
+    "stars": 0,
+    "updated_at": "2026-08-02T04:46:59Z",
+    "url": "https://github.com/Skakarla2023/prompt-engineering-with-claude"
+  },
+  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 2,
-    "updated_at": "2026-08-02T04:45:14Z",
+    "updated_at": "2026-08-02T04:45:36Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-02T04:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -25,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T04:44:04Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 3,
-    "updated_at": "2026-08-02T04:42:52Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -117,6 +189,15 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
+    "description": "AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff0c\u8986\u76d6\u5267\u672c\u3001\u8d44\u4ea7\u3001\u5206\u955c\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u5230\u72ec\u7acb\u5ba1\u67e5\u5168\u94fe\u8def\uff0c\u9002\u914d Claude Code \u4e0e Codex\u3002| An AI short-drama skill suite for Claude Code &",
+    "id": "worldwonderer/drama-skills",
+    "language": "Python",
+    "name": "worldwonderer/drama-skills",
+    "stars": 437,
+    "updated_at": "2026-08-02T04:36:23Z",
+    "url": "https://github.com/worldwonderer/drama-skills"
+  },
+  {
     "description": "Helen Agent Develop Language ",
     "id": "hahalee000000/helen",
     "language": "Python",
@@ -126,13 +207,13 @@
     "url": "https://github.com/hahalee000000/helen"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-02T04:34:22Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "description": "Identifiers that resist hallucination, survive repeated LLM copying, and repair themselves when damaged \u2014 or fail honest",
+    "id": "philippelyp/llmuid",
+    "language": "\u2014",
+    "name": "philippelyp/llmuid",
+    "stars": 0,
+    "updated_at": "2026-08-02T04:34:14Z",
+    "url": "https://github.com/philippelyp/llmuid"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -297,15 +378,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 7,
-    "updated_at": "2026-08-02T04:16:35Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
     "id": "f/prompts.chat",
     "language": "HTML",
@@ -322,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T04:12:51Z",
     "url": "https://github.com/Zyonic88/Aevryn"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 40473,
-    "updated_at": "2026-08-02T04:12:17Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "MiniMax H3 (Hailuo 3.0) prompt library \u2014 135 prompts, each with a clip you can watch. Browse at apimodels.app/minimax-h3",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T03:58:14Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-02T03:56:42Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-08-02T03:56:42Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "Rust",
-    "name": "Open-Less/openless",
-    "stars": 2915,
-    "updated_at": "2026-08-02T03:53:54Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "A style-injection node pack for ComfyUI with a deep filterable taxonomy, in-node previews, dual tag/prose output, and mo",
-    "id": "EnragedAntelope/comfyui-stylebook",
-    "language": "Python",
-    "name": "EnragedAntelope/comfyui-stylebook",
-    "stars": 0,
-    "updated_at": "2026-08-02T03:52:40Z",
-    "url": "https://github.com/EnragedAntelope/comfyui-stylebook"
-  },
-  {
-    "description": "100+ tested, copy-paste AI prompts for everyday life \u2014 one new skill every day at dailyskill.ai",
-    "id": "vinusmark1-cpu/dailyskill-prompt-library",
-    "language": "\u2014",
-    "name": "vinusmark1-cpu/dailyskill-prompt-library",
-    "stars": 0,
-    "updated_at": "2026-08-02T03:51:23Z",
-    "url": "https://github.com/vinusmark1-cpu/dailyskill-prompt-library"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 0,
-    "updated_at": "2026-08-02T03:45:13Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "MCP prompt template server: hot-reload, thinking frameworks, quality gates",
-    "id": "minipuft/claude-prompts",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts",
-    "stars": 182,
-    "updated_at": "2026-08-02T03:45:52Z",
-    "url": "https://github.com/minipuft/claude-prompts"
   }
 ]
