@@ -1,5 +1,122 @@
 [
   {
+    "description": "Reusable custom skills for OpenAI Codex: better approval decisions and evidence-based debugging recovery.",
+    "id": "BennyAI2/Codex-Skills",
+    "language": "Python",
+    "name": "BennyAI2/Codex-Skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:29:59Z",
+    "url": "https://github.com/BennyAI2/Codex-Skills"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 3,
+    "updated_at": "2026-08-02T19:29:59Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 15,
+    "updated_at": "2026-08-02T19:29:12Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
+    "id": "kochetkov-ma/claude-brewcode",
+    "language": "JavaScript",
+    "name": "kochetkov-ma/claude-brewcode",
+    "stars": 29,
+    "updated_at": "2026-08-02T19:27:57Z",
+    "url": "https://github.com/kochetkov-ma/claude-brewcode"
+  },
+  {
+    "description": "Turn AI prompts into reusable, versioned Lenses - organize with Tags and Threads, automate as Workflows, configure as Ag",
+    "id": "conectlens/lenserfight",
+    "language": "TypeScript",
+    "name": "conectlens/lenserfight",
+    "stars": 15,
+    "updated_at": "2026-08-02T19:26:18Z",
+    "url": "https://github.com/conectlens/lenserfight"
+  },
+  {
+    "description": "Evolve LLM prompts with a genetic algorithm: score candidates on your test set across real models, breed the winners, ke",
+    "id": "darktw1nk/Lineage",
+    "language": "TypeScript",
+    "name": "darktw1nk/Lineage",
+    "stars": 2,
+    "updated_at": "2026-08-02T19:25:35Z",
+    "url": "https://github.com/darktw1nk/Lineage"
+  },
+  {
+    "description": "vstack is a VS Code\u2013native AI engineering workflow system. It provides structured skills \u2014 executable by GitHub Copilot ",
+    "id": "eschaar/vstack",
+    "language": "Python",
+    "name": "eschaar/vstack",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:25:12Z",
+    "url": "https://github.com/eschaar/vstack"
+  },
+  {
+    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
+    "id": "Forest-Project-Lab/doctrine",
+    "language": "Python",
+    "name": "Forest-Project-Lab/doctrine",
+    "stars": 1,
+    "updated_at": "2026-08-02T19:24:19Z",
+    "url": "https://github.com/Forest-Project-Lab/doctrine"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 151,
+    "updated_at": "2026-08-02T19:22:15Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:21:52Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-02T19:19:18Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A validated collection of portable Agent Skills that guide AI coding assistants through specification, implementation, r",
+    "id": "RobinGru/AgentSkillForge",
+    "language": "Python",
+    "name": "RobinGru/AgentSkillForge",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:18:42Z",
+    "url": "https://github.com/RobinGru/AgentSkillForge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-02T19:15:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Redirect stub for Prompt Studio: index.html and 404.html forward to sugeerth.github.io/prompt-studio/.",
     "id": "sugeerth/prompt-agents",
     "language": "JavaScript",
@@ -36,15 +153,6 @@
     "url": "https://github.com/kaderkck/hewn-forge"
   },
   {
-    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
-    "id": "Forest-Project-Lab/doctrine",
-    "language": "Python",
-    "name": "Forest-Project-Lab/doctrine",
-    "stars": 1,
-    "updated_at": "2026-08-02T19:12:17Z",
-    "url": "https://github.com/Forest-Project-Lab/doctrine"
-  },
-  {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
     "id": "5uprem4/ai-skill-vault",
     "language": "HTML",
@@ -63,21 +171,12 @@
     "url": "https://github.com/llwslc/proteus"
   },
   {
-    "description": "A validated collection of portable Agent Skills that guide AI coding assistants through specification, implementation, r",
-    "id": "RobinGru/AgentSkillForge",
-    "language": "Python",
-    "name": "RobinGru/AgentSkillForge",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:09:29Z",
-    "url": "https://github.com/RobinGru/AgentSkillForge"
-  },
-  {
     "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assis",
     "id": "coco-research/coco",
     "language": "JavaScript",
     "name": "coco-research/coco",
     "stars": 196,
-    "updated_at": "2026-08-02T19:09:25Z",
+    "updated_at": "2026-08-02T19:28:24Z",
     "url": "https://github.com/coco-research/coco"
   },
   {
@@ -88,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T19:09:17Z",
     "url": "https://github.com/Drizzy07x/cognitive-powers"
-  },
-  {
-    "description": "Evolve LLM prompts with a genetic algorithm: score candidates on your test set across real models, breed the winners, ke",
-    "id": "darktw1nk/Lineage",
-    "language": "TypeScript",
-    "name": "darktw1nk/Lineage",
-    "stars": 2,
-    "updated_at": "2026-08-02T19:08:46Z",
-    "url": "https://github.com/darktw1nk/Lineage"
   },
   {
     "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
@@ -122,7 +212,7 @@
     "language": "TypeScript",
     "name": "use-crux/crux",
     "stars": 0,
-    "updated_at": "2026-08-02T19:14:46Z",
+    "updated_at": "2026-08-02T19:21:45Z",
     "url": "https://github.com/use-crux/crux"
   },
   {
@@ -162,6 +252,15 @@
     "url": "https://github.com/sauravbhattacharya001/agentlens"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21062,
+    "updated_at": "2026-08-02T19:02:49Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
     "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
     "language": "HTML",
@@ -169,15 +268,6 @@
     "stars": 50,
     "updated_at": "2026-08-02T19:01:02Z",
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-02T19:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
@@ -306,15 +396,6 @@
     "url": "https://github.com/revenantworks/citadel"
   },
   {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 3,
-    "updated_at": "2026-08-02T18:46:50Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
-  },
-  {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T18:39:58Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-08-02T18:39:51Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Community collection of ready-to-use OpenClaw Prompt Helper prompts for research, monitoring, reporting, automation, and",
-    "id": "zerolabs-app/openclaw-community-prompt-library",
-    "language": "\u2014",
-    "name": "zerolabs-app/openclaw-community-prompt-library",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:35:40Z",
-    "url": "https://github.com/zerolabs-app/openclaw-community-prompt-library"
-  },
-  {
-    "description": "The AI engineering kit for DeepSeek. Turn opencode into a team: an orchestrator + 12 specialist agents (research, archit",
-    "id": "Pl3ntz/llmfoundry",
-    "language": "Python",
-    "name": "Pl3ntz/llmfoundry",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:35:20Z",
-    "url": "https://github.com/Pl3ntz/llmfoundry"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 9,
-    "updated_at": "2026-08-02T18:34:19Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Broadcast one prompt to 2-6 AI models side-by-side - or convene them as a deliberative panel: an AI-only Habermas Machin",
-    "id": "zmustafa/MultiChat",
-    "language": "Python",
-    "name": "zmustafa/MultiChat",
-    "stars": 2,
-    "updated_at": "2026-08-02T18:33:28Z",
-    "url": "https://github.com/zmustafa/MultiChat"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-02T18:33:01Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:32:13Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21060,
-    "updated_at": "2026-08-02T19:02:49Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Always-current Claude documentation in Claude Code \u2014 a metadata-only index that fetches official pages from Anthropic on",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 50,
-    "updated_at": "2026-08-02T18:28:26Z",
-    "url": "https://github.com/costiash/claude-code-docs"
   }
 ]
