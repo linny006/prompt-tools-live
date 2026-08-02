@@ -1,11 +1,128 @@
 [
   {
+    "description": "Plugin-native baseline brain for Alex ACT, with critical-thinking instructions, reusable agent skills, prompts, and tool",
+    "id": "fabioc-aloha/Alex_ACT_Core",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_ACT_Core",
+    "stars": 0,
+    "updated_at": "2026-08-02T05:14:15Z",
+    "url": "https://github.com/fabioc-aloha/Alex_ACT_Core"
+  },
+  {
+    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Shell",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 1,
+    "updated_at": "2026-08-02T05:13:39Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+  },
+  {
+    "description": "An unofficial, scenario-driven study guide, practice environment, and hands-on lab repository for the Claude Certified A",
+    "id": "raybeecham/claude-certified-associate-foundations",
+    "language": "Python",
+    "name": "raybeecham/claude-certified-associate-foundations",
+    "stars": 0,
+    "updated_at": "2026-08-02T05:14:25Z",
+    "url": "https://github.com/raybeecham/claude-certified-associate-foundations"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 3,
+    "updated_at": "2026-08-02T05:11:40Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-08-02T05:11:31Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "AI prompt management platform. Build, version, and share dynamic LLM prompts",
+    "id": "itsyasirkhandev/promptcraft",
+    "language": "TypeScript",
+    "name": "itsyasirkhandev/promptcraft",
+    "stars": 1,
+    "updated_at": "2026-08-02T05:10:39Z",
+    "url": "https://github.com/itsyasirkhandev/promptcraft"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 5012,
+    "updated_at": "2026-08-02T05:09:55Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 7,
+    "updated_at": "2026-08-02T05:07:18Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "HTML",
+    "name": "llwslc/proteus",
+    "stars": 2,
+    "updated_at": "2026-08-02T05:06:47Z",
+    "url": "https://github.com/llwslc/proteus"
+  },
+  {
+    "description": "Measure LLM output consistency from the command line.",
+    "id": "BuildWithAbid/ai-stability",
+    "language": "Python",
+    "name": "BuildWithAbid/ai-stability",
+    "stars": 0,
+    "updated_at": "2026-08-02T05:04:18Z",
+    "url": "https://github.com/BuildWithAbid/ai-stability"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13026,
+    "updated_at": "2026-08-02T05:03:53Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Gemini\u306e\u6027\u80fd\u3092\u6700\u5927\u5316\u3057\u4f5c\u696d\u3092\u52b9\u7387\u5316\u3059\u308bAI\u7528OS\u30d7\u30ed\u30f3\u30d7\u30c8 | System prompt (AI OS) to maximize Gemini 3.0 performance and efficiency.",
+    "id": "nitagon0083/SpriteSystem",
+    "language": "HTML",
+    "name": "nitagon0083/SpriteSystem",
+    "stars": 0,
+    "updated_at": "2026-08-02T05:01:48Z",
+    "url": "https://github.com/nitagon0083/SpriteSystem"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-02T05:00:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A fast, local-first Windows prompt library with a global hotkey, nested organization, one-click copy, and safe LLM-assis",
     "id": "diddlysquatt/Promptoire",
     "language": "Python",
     "name": "diddlysquatt/Promptoire",
     "stars": 0,
-    "updated_at": "2026-08-02T04:59:51Z",
+    "updated_at": "2026-08-02T05:05:48Z",
     "url": "https://github.com/diddlysquatt/Promptoire"
   },
   {
@@ -18,15 +135,6 @@
     "url": "https://github.com/agungkesmas/recallfox"
   },
   {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 3,
-    "updated_at": "2026-08-02T05:00:09Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
-  },
-  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
@@ -34,15 +142,6 @@
     "stars": 40476,
     "updated_at": "2026-08-02T04:53:51Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 7,
-    "updated_at": "2026-08-02T04:49:50Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
   },
   {
     "description": "Independent, reproducible weekly research observing how LLMs actually behave \u2014 not which one is 'best'.",
@@ -79,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T04:45:36Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-02T04:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -225,6 +315,15 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
+    "description": "An LLM-as-judge system that scores customer support call quality against a custom Resolution Quality rubric. Compares 0/",
+    "id": "ananyapatankar/resolution-quality-llm-eval",
+    "language": "Jupyter Notebook",
+    "name": "ananyapatankar/resolution-quality-llm-eval",
+    "stars": 0,
+    "updated_at": "2026-08-02T04:32:14Z",
+    "url": "https://github.com/ananyapatankar/resolution-quality-llm-eval"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -241,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T04:31:04Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 1,
-    "updated_at": "2026-08-02T04:29:58Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -358,95 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-02T04:20:50Z",
     "url": "https://github.com/vacterro/FastPrompter"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 15,
-    "updated_at": "2026-08-02T04:20:48Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Always-current Claude documentation in Claude Code \u2014 a metadata-only index that fetches official pages from Anthropic on",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 50,
-    "updated_at": "2026-08-02T04:17:32Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
-    "id": "f/prompts.chat",
-    "language": "HTML",
-    "name": "f/prompts.chat",
-    "stars": 166605,
-    "updated_at": "2026-08-02T04:13:51Z",
-    "url": "https://github.com/f/prompts.chat"
-  },
-  {
-    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
-    "id": "Zyonic88/Aevryn",
-    "language": "Python",
-    "name": "Zyonic88/Aevryn",
-    "stars": 0,
-    "updated_at": "2026-08-02T04:12:51Z",
-    "url": "https://github.com/Zyonic88/Aevryn"
-  },
-  {
-    "description": "MiniMax H3 (Hailuo 3.0) prompt library \u2014 135 prompts, each with a clip you can watch. Browse at apimodels.app/minimax-h3",
-    "id": "stimQQ/minimax-h3-prompts",
-    "language": "\u2014",
-    "name": "stimQQ/minimax-h3-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-02T04:11:36Z",
-    "url": "https://github.com/stimQQ/minimax-h3-prompts"
-  },
-  {
-    "description": "Codex skill for turning everyday photos into poetic white-paper hand-drawn illustrations.",
-    "id": "dacnay816y62-hub/photo-revival",
-    "language": "\u2014",
-    "name": "dacnay816y62-hub/photo-revival",
-    "stars": 0,
-    "updated_at": "2026-08-02T04:10:59Z",
-    "url": "https://github.com/dacnay816y62-hub/photo-revival"
-  },
-  {
-    "description": "Manage multimodal prompt assets and export AI-ready messages",
-    "id": "Ch33syNai1a0/promptboard",
-    "language": "JavaScript",
-    "name": "Ch33syNai1a0/promptboard",
-    "stars": 0,
-    "updated_at": "2026-08-02T04:10:28Z",
-    "url": "https://github.com/Ch33syNai1a0/promptboard"
-  },
-  {
-    "description": "Claude AI skill for cinematic Higgsfield AI prompts \u2014 20 sub-skills covering Cinema Studio 2.5/3.0/3.5, MCSLA formula, S",
-    "id": "OSideMedia/higgsfield-ai-prompt-skill",
-    "language": "Python",
-    "name": "OSideMedia/higgsfield-ai-prompt-skill",
-    "stars": 236,
-    "updated_at": "2026-08-02T04:02:08Z",
-    "url": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill"
-  },
-  {
-    "description": "Rewrite a raw prompt into an assignment an agent can actually finish. Six sections plus four leak checks: unfalsifiable ",
-    "id": "stgomoyaa/encargo",
-    "language": "\u2014",
-    "name": "stgomoyaa/encargo",
-    "stars": 2,
-    "updated_at": "2026-08-02T03:59:11Z",
-    "url": "https://github.com/stgomoyaa/encargo"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-08-02T03:58:14Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   }
 ]
