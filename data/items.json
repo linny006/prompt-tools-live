@@ -1,5 +1,122 @@
 [
   {
+    "description": "Evolve LLM prompts with a genetic algorithm: score candidates on your test set across real models, breed the winners, ke",
+    "id": "darktw1nk/Lineage",
+    "language": "TypeScript",
+    "name": "darktw1nk/Lineage",
+    "stars": 2,
+    "updated_at": "2026-08-02T21:29:37Z",
+    "url": "https://github.com/darktw1nk/Lineage"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-02T21:29:26Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "vibestack is a portable skill pack for AI coding agents. Slash commands like /office-hours, /ship, /investigate, /tdd, /",
+    "id": "timurgaleev/vibestack",
+    "language": "TypeScript",
+    "name": "timurgaleev/vibestack",
+    "stars": 5,
+    "updated_at": "2026-08-02T21:30:14Z",
+    "url": "https://github.com/timurgaleev/vibestack"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 9,
+    "updated_at": "2026-08-02T21:28:50Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Figma-to-MCP prompt management for Hermes workflows.",
+    "id": "jozrftamson/hermes-figma-prompt-hub",
+    "language": "Python",
+    "name": "jozrftamson/hermes-figma-prompt-hub",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:28:33Z",
+    "url": "https://github.com/jozrftamson/hermes-figma-prompt-hub"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-02T21:28:04Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Java",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:27:07Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "Your agent wastes context. Distill fixes it.",
+    "id": "arthjean/distill",
+    "language": "JavaScript",
+    "name": "arthjean/distill",
+    "stars": 6,
+    "updated_at": "2026-08-02T21:26:22Z",
+    "url": "https://github.com/arthjean/distill"
+  },
+  {
+    "description": "\u2697\ufe0f Experimental \u2014 A genius-builder brain for your AI coding tools: sharp defaults, real judgment, and the discipline to ",
+    "id": "mehrad-dm/mastermind",
+    "language": "Shell",
+    "name": "mehrad-dm/mastermind",
+    "stars": 13,
+    "updated_at": "2026-08-02T21:25:52Z",
+    "url": "https://github.com/mehrad-dm/mastermind"
+  },
+  {
+    "description": "Always-current Claude documentation in Claude Code \u2014 a metadata-only index that fetches official pages from Anthropic on",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-08-02T21:25:16Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Claude Skill with six data-fidelity rules for MCP tools that query an external data source",
+    "id": "malkreide/mcp-data-fidelity-skill",
+    "language": "Python",
+    "name": "malkreide/mcp-data-fidelity-skill",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:21:14Z",
+    "url": "https://github.com/malkreide/mcp-data-fidelity-skill"
+  },
+  {
+    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Shell",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 1,
+    "updated_at": "2026-08-02T21:18:38Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-02T21:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
@@ -63,42 +180,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "vibestack is a portable skill pack for AI coding agents. Slash commands like /office-hours, /ship, /investigate, /tdd, /",
-    "id": "timurgaleev/vibestack",
-    "language": "TypeScript",
-    "name": "timurgaleev/vibestack",
-    "stars": 5,
-    "updated_at": "2026-08-02T21:12:43Z",
-    "url": "https://github.com/timurgaleev/vibestack"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Java",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 0,
-    "updated_at": "2026-08-02T21:11:06Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "Evolve LLM prompts with a genetic algorithm: score candidates on your test set across real models, breed the winners, ke",
-    "id": "darktw1nk/Lineage",
-    "language": "TypeScript",
-    "name": "darktw1nk/Lineage",
-    "stars": 2,
-    "updated_at": "2026-08-02T21:07:06Z",
-    "url": "https://github.com/darktw1nk/Lineage"
-  },
-  {
-    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 1,
-    "updated_at": "2026-08-02T21:06:28Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
-  },
-  {
     "description": "\u4eba\u5473 Renwei \u2014 \u4e66\u7a3f\u7ea7\u4e2d\u6587\u53bb AI \u5473 / Book-length Chinese AI humanizer. 51 rules covering AI tells, Euro-Chinese syntax, whole-book ",
     "id": "dbhosbu-dotcom/renwei",
     "language": "Python",
@@ -160,15 +241,6 @@
     "stars": 196,
     "updated_at": "2026-08-02T21:02:38Z",
     "url": "https://github.com/coco-research/coco"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-02T21:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local prompt routing studio for structured AI workflows and execution handoff.",
@@ -369,15 +441,6 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
-    "description": "Your agent wastes context. Distill fixes it.",
-    "id": "arthjean/distill",
-    "language": "JavaScript",
-    "name": "arthjean/distill",
-    "stars": 6,
-    "updated_at": "2026-08-02T20:37:24Z",
-    "url": "https://github.com/arthjean/distill"
-  },
-  {
     "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
     "id": "yptang98/CostMarshal",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-02T20:37:10Z",
     "url": "https://github.com/yptang98/CostMarshal"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-02T20:36:39Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-08-02T20:36:33Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
-    "id": "ai-boost/awesome-prompts",
-    "language": "\u2014",
-    "name": "ai-boost/awesome-prompts",
-    "stars": 8618,
-    "updated_at": "2026-08-02T20:35:23Z",
-    "url": "https://github.com/ai-boost/awesome-prompts"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-02T20:34:07Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-02T20:32:05Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-02T20:30:35Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Plain-text, model-agnostic AI agent development harness with 3-mode autonomy, GitNexus integration, and multi-environmen",
-    "id": "3rdAI-admin/th3rdai-harness",
-    "language": "Python",
-    "name": "3rdAI-admin/th3rdai-harness",
-    "stars": 0,
-    "updated_at": "2026-08-02T20:30:12Z",
-    "url": "https://github.com/3rdAI-admin/th3rdai-harness"
   }
 ]
