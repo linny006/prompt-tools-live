@@ -1,12 +1,39 @@
 [
   {
-    "description": "Software for HackerRank Orchestrate: an evaluator, an engineering-memory CLI that remembers what you measured and reject",
-    "id": "NITISH-R-G/hackerrank-orchestrate-skills",
-    "language": "Python",
-    "name": "NITISH-R-G/hackerrank-orchestrate-skills",
-    "stars": 2,
-    "updated_at": "2026-08-02T19:44:42Z",
-    "url": "https://github.com/NITISH-R-G/hackerrank-orchestrate-skills"
+    "description": "Typed building blocks for everything around your LLM call.",
+    "id": "use-crux/crux",
+    "language": "TypeScript",
+    "name": "use-crux/crux",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:48:46Z",
+    "url": "https://github.com/use-crux/crux"
+  },
+  {
+    "description": "Portable coding-agent skills for Claude Code, Codex, and Google Antigravity.",
+    "id": "lAnviuml/cli-skills",
+    "language": "Shell",
+    "name": "lAnviuml/cli-skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:47:35Z",
+    "url": "https://github.com/lAnviuml/cli-skills"
+  },
+  {
+    "description": "Free AI UGC Ads Prompts with 50 copy-and-paste templates for TikTok, Instagram, YouTube, Google Veo, Kling AI, CapCut, a",
+    "id": "AlijeeWrites/ai-ugc-ads-prompts",
+    "language": "HTML",
+    "name": "AlijeeWrites/ai-ugc-ads-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:47:25Z",
+    "url": "https://github.com/AlijeeWrites/ai-ugc-ads-prompts"
+  },
+  {
+    "description": "Redirect stub for Prompt Studio: index.html and 404.html forward to sugeerth.github.io/prompt-studio/.",
+    "id": "sugeerth/prompt-agents",
+    "language": "JavaScript",
+    "name": "sugeerth/prompt-agents",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:46:52Z",
+    "url": "https://github.com/sugeerth/prompt-agents"
   },
   {
     "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
@@ -14,8 +41,62 @@
     "language": "Python",
     "name": "Zyonic88/Aevryn",
     "stars": 0,
-    "updated_at": "2026-08-02T19:44:25Z",
+    "updated_at": "2026-08-02T19:46:50Z",
     "url": "https://github.com/Zyonic88/Aevryn"
+  },
+  {
+    "description": "Terminal-first, self-hosted AI/MCP gateway and Codex plugin that turns plain language into structured work through 9 gov",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 2,
+    "updated_at": "2026-08-02T19:46:12Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-02T19:46:09Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:45:34Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-08-02T19:45:33Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-02T19:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Software for HackerRank Orchestrate: an evaluator, an engineering-memory CLI that remembers what you measured and reject",
+    "id": "NITISH-R-G/hackerrank-orchestrate-skills",
+    "language": "Python",
+    "name": "NITISH-R-G/hackerrank-orchestrate-skills",
+    "stars": 2,
+    "updated_at": "2026-08-02T19:44:42Z",
+    "url": "https://github.com/NITISH-R-G/hackerrank-orchestrate-skills"
   },
   {
     "description": "Evolve LLM prompts with a genetic algorithm: score candidates on your test set across real models, breed the winners, ke",
@@ -99,15 +180,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Free AI UGC Ads Prompts with 50 copy-and-paste templates for TikTok, Instagram, YouTube, Google Veo, Kling AI, CapCut, a",
-    "id": "AlijeeWrites/ai-ugc-ads-prompts",
-    "language": "HTML",
-    "name": "AlijeeWrites/ai-ugc-ads-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:35:49Z",
-    "url": "https://github.com/AlijeeWrites/ai-ugc-ads-prompts"
-  },
-  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -142,15 +214,6 @@
     "stars": 6,
     "updated_at": "2026-08-02T19:30:30Z",
     "url": "https://github.com/arthjean/distill"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-02T19:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -261,15 +324,6 @@
     "url": "https://github.com/RobinGru/AgentSkillForge"
   },
   {
-    "description": "Redirect stub for Prompt Studio: index.html and 404.html forward to sugeerth.github.io/prompt-studio/.",
-    "id": "sugeerth/prompt-agents",
-    "language": "JavaScript",
-    "name": "sugeerth/prompt-agents",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:45:08Z",
-    "url": "https://github.com/sugeerth/prompt-agents"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -322,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T19:07:00Z",
     "url": "https://github.com/coreyhiggins/grain"
-  },
-  {
-    "description": "Typed building blocks for everything around your LLM call.",
-    "id": "use-crux/crux",
-    "language": "TypeScript",
-    "name": "use-crux/crux",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:37:55Z",
-    "url": "https://github.com/use-crux/crux"
   },
   {
     "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T18:58:41Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-02T18:58:06Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-02T18:57:54Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
-    "id": "paulosalem/weavemark",
-    "language": "Python",
-    "name": "paulosalem/weavemark",
-    "stars": 2,
-    "updated_at": "2026-08-02T18:56:16Z",
-    "url": "https://github.com/paulosalem/weavemark"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-02T18:56:06Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Claude Code plugin that routes among the skills your install actually has \u2014 not the ones that survived the listing budge",
-    "id": "Kirchlive/skill-routing",
-    "language": "Python",
-    "name": "Kirchlive/skill-routing",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:55:58Z",
-    "url": "https://github.com/Kirchlive/skill-routing"
   }
 ]
