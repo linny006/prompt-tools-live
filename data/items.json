@@ -1,5 +1,86 @@
 [
   {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 3,
+    "updated_at": "2026-08-02T00:59:54Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
+    "id": "Sunwood-ai-labs/OpenFace",
+    "language": "Python",
+    "name": "Sunwood-ai-labs/OpenFace",
+    "stars": 2,
+    "updated_at": "2026-08-02T00:58:39Z",
+    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
+  },
+  {
+    "description": "Portfolio of prompt engineering and AI evaluation projects.",
+    "id": "jehadsobohai/LLM-Evaluation-Portfolio",
+    "language": "HTML",
+    "name": "jehadsobohai/LLM-Evaluation-Portfolio",
+    "stars": 1,
+    "updated_at": "2026-08-02T00:52:14Z",
+    "url": "https://github.com/jehadsobohai/LLM-Evaluation-Portfolio"
+  },
+  {
+    "description": "Generate / Compare / Refine cycle for converging generative AI outputs.",
+    "id": "nt1006/GCR-Cycle",
+    "language": "\u2014",
+    "name": "nt1006/GCR-Cycle",
+    "stars": 0,
+    "updated_at": "2026-08-02T00:48:51Z",
+    "url": "https://github.com/nt1006/GCR-Cycle"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-08-02T00:48:45Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "\"A tested library of 8 prompt templates for customer service email scenarios\"",
+    "id": "joy-akinbami/customer-service-prompt-library",
+    "language": "\u2014",
+    "name": "joy-akinbami/customer-service-prompt-library",
+    "stars": 0,
+    "updated_at": "2026-08-02T00:48:42Z",
+    "url": "https://github.com/joy-akinbami/customer-service-prompt-library"
+  },
+  {
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
+    "id": "OutlineDriven/odin-claude-plugin",
+    "language": "Python",
+    "name": "OutlineDriven/odin-claude-plugin",
+    "stars": 34,
+    "updated_at": "2026-08-02T00:47:15Z",
+    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
+    "description": "A linter for the belief state of agent instruction files \u2014 finds retracted rules that came back. Local, deterministic, n",
+    "id": "Cruxia-Labs/sagrada-linter",
+    "language": "Python",
+    "name": "Cruxia-Labs/sagrada-linter",
+    "stars": 0,
+    "updated_at": "2026-08-02T00:46:29Z",
+    "url": "https://github.com/Cruxia-Labs/sagrada-linter"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-02T00:45:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -7,6 +88,15 @@
     "stars": 2,
     "updated_at": "2026-08-02T00:45:33Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "26 prompt engineering techniques + 18 templates + 15 anti-patterns. Pure Python builders for ChatGPT/Claude/Gemini. Zero",
+    "id": "pyshine-labs/prompt-engineering-guide",
+    "language": "Python",
+    "name": "pyshine-labs/prompt-engineering-guide",
+    "stars": 0,
+    "updated_at": "2026-08-02T00:45:32Z",
+    "url": "https://github.com/pyshine-labs/prompt-engineering-guide"
   },
   {
     "description": "Typer CLI client for GPTeacher \u2014 practice translations with LLM-generated feedback (B.Sc. thesis, UFRJ 2024)",
@@ -63,21 +153,12 @@
     "url": "https://github.com/ChrysFu-FndVent/institutional-content-ops"
   },
   {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 3,
-    "updated_at": "2026-08-02T00:45:14Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
-  },
-  {
     "description": "A validated collection of portable Agent Skills that guide AI coding assistants through specification, implementation, r",
     "id": "RobinGru/AgentSkillForge",
     "language": "Python",
     "name": "RobinGru/AgentSkillForge",
     "stars": 0,
-    "updated_at": "2026-08-02T00:42:05Z",
+    "updated_at": "2026-08-02T00:45:45Z",
     "url": "https://github.com/RobinGru/AgentSkillForge"
   },
   {
@@ -94,7 +175,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 40452,
+    "stars": 40453,
     "updated_at": "2026-08-02T00:37:23Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -106,24 +187,6 @@
     "stars": 13,
     "updated_at": "2026-08-02T00:37:17Z",
     "url": "https://github.com/wrg32786/aigent-os"
-  },
-  {
-    "description": "Portfolio of prompt engineering and AI evaluation projects.",
-    "id": "jehadsobohai/LLM-Evaluation-Portfolio",
-    "language": "HTML",
-    "name": "jehadsobohai/LLM-Evaluation-Portfolio",
-    "stars": 1,
-    "updated_at": "2026-08-02T00:37:10Z",
-    "url": "https://github.com/jehadsobohai/LLM-Evaluation-Portfolio"
-  },
-  {
-    "description": "Generate / Compare / Refine cycle for converging generative AI outputs.",
-    "id": "nt1006/GCR-Cycle",
-    "language": "\u2014",
-    "name": "nt1006/GCR-Cycle",
-    "stars": 0,
-    "updated_at": "2026-08-02T00:34:57Z",
-    "url": "https://github.com/nt1006/GCR-Cycle"
   },
   {
     "description": "Always-current Claude documentation in Claude Code \u2014 a metadata-only index that fetches official pages from Anthropic on",
@@ -142,15 +205,6 @@
     "stars": 8613,
     "updated_at": "2026-08-02T00:31:35Z",
     "url": "https://github.com/ai-boost/awesome-prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-02T00:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
@@ -205,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T00:21:34Z",
     "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 13,
-    "updated_at": "2026-08-02T00:20:22Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -306,6 +351,15 @@
     "url": "https://github.com/acipaaa/context-llm-chunks"
   },
   {
+    "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 5097,
+    "updated_at": "2026-08-02T00:02:32Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
     "id": "Magma1321/mythos-agent-pipe",
     "language": "HTML",
@@ -340,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T00:01:38Z",
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "A local-first, Forgejo-backed AI community hub for models, datasets, Docker Spaces, Skills, MCPs, Prompts, and Pages.",
-    "id": "Sunwood-ai-labs/OpenFace",
-    "language": "Python",
-    "name": "Sunwood-ai-labs/OpenFace",
-    "stars": 2,
-    "updated_at": "2026-08-02T00:44:20Z",
-    "url": "https://github.com/Sunwood-ai-labs/OpenFace"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -403,50 +448,5 @@
     "stars": 171,
     "updated_at": "2026-08-02T00:01:38Z",
     "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "A framework for evaluating and improving LLM application quality through automated testing and scoring.",
-    "id": "ForwardAva/llm-evaluation-framework",
-    "language": "Python",
-    "name": "ForwardAva/llm-evaluation-framework",
-    "stars": 0,
-    "updated_at": "2026-08-02T00:00:24Z",
-    "url": "https://github.com/ForwardAva/llm-evaluation-framework"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 151,
-    "updated_at": "2026-08-01T23:54:52Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-01T23:54:23Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-01T23:52:40Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-01T23:51:55Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   }
 ]
