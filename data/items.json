@@ -1,12 +1,21 @@
 [
   {
-    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
+    "description": "AI prompt management platform. Build, version, and share dynamic LLM prompts",
+    "id": "itsyasirkhandev/promptcraft",
+    "language": "TypeScript",
+    "name": "itsyasirkhandev/promptcraft",
     "stars": 1,
-    "updated_at": "2026-08-02T09:14:53Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+    "updated_at": "2026-08-02T09:18:47Z",
+    "url": "https://github.com/itsyasirkhandev/promptcraft"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-02T09:18:46Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
     "description": "A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow \u2014 semantic code n",
@@ -14,8 +23,44 @@
     "language": "Shell",
     "name": "konstantinos-malavazos/claude-code-playbook",
     "stars": 1,
-    "updated_at": "2026-08-02T09:14:25Z",
+    "updated_at": "2026-08-02T09:18:41Z",
     "url": "https://github.com/konstantinos-malavazos/claude-code-playbook"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:18:37Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "A comprehensive Prompt Engineering library featuring reusable prompt templates, patterns, best practices, and real-world",
+    "id": "OlehDatsyk/prompt-engineering",
+    "language": "Shell",
+    "name": "OlehDatsyk/prompt-engineering",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:17:18Z",
+    "url": "https://github.com/OlehDatsyk/prompt-engineering"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-02T09:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Shell",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 1,
+    "updated_at": "2026-08-02T09:14:53Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
   },
   {
     "description": "skill \u4f53\u9a8c\u5927\u5e08\uff1a\u8ba9\u4f60\u7684 skill \u62e5\u6709\u9876\u7ea7\u4ea7\u54c1\u4f53\u9a8c | A UX auditor that gives your Agent Skill a world-class product experience",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "wesleysimplicio/simplicio-dev-cli",
     "stars": 3,
-    "updated_at": "2026-08-02T09:05:28Z",
+    "updated_at": "2026-08-02T09:19:46Z",
     "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 6,
     "updated_at": "2026-08-02T09:01:34Z",
     "url": "https://github.com/grimoire-rs/grimoire"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-02T09:00:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3452,
-    "updated_at": "2026-08-02T09:01:21Z",
+    "updated_at": "2026-08-02T09:16:36Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -373,7 +409,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21043,
+    "stars": 21044,
     "updated_at": "2026-08-02T08:11:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T08:09:51Z",
     "url": "https://github.com/HeiTuz/MPW"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-02T08:08:53Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-08-02T08:08:47Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Pi extension: vague coding requests (\u5e2e\u6211\u5f04\u4e00\u4e0b X) \u2192 precise, executable prompts. Context probe + clarifying questions, never",
-    "id": "TimYuann/Talk-like-a-pro",
-    "language": "TypeScript",
-    "name": "TimYuann/Talk-like-a-pro",
-    "stars": 1,
-    "updated_at": "2026-08-02T08:08:36Z",
-    "url": "https://github.com/TimYuann/Talk-like-a-pro"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-02T08:08:32Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
   }
 ]
