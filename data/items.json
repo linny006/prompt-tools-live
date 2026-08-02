@@ -1,12 +1,57 @@
 [
   {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "braboj/solid-ai-templates",
+    "language": "Python",
+    "name": "braboj/solid-ai-templates",
+    "stars": 3,
+    "updated_at": "2026-08-02T08:45:17Z",
+    "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-08-02T08:44:44Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 3,
+    "updated_at": "2026-08-02T08:43:36Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "An embeddable, RAG-powered B2B support chatbot framework featuring an optimized text processing pipeline, advanced promp",
+    "id": "serratanis/Rag-Support-Agent",
+    "language": "Python",
+    "name": "serratanis/Rag-Support-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-02T08:42:57Z",
+    "url": "https://github.com/serratanis/Rag-Support-Agent"
+  },
+  {
     "description": "Backlog of tool concepts, each generalising a pattern from practical-ai-sales-workflows or book-to-skill beyond sales. C",
     "id": "shaunmarsden/sibling-projects",
     "language": "\u2014",
     "name": "shaunmarsden/sibling-projects",
     "stars": 0,
-    "updated_at": "2026-08-02T08:29:45Z",
+    "updated_at": "2026-08-02T08:41:09Z",
     "url": "https://github.com/shaunmarsden/sibling-projects"
+  },
+  {
+    "description": "Build a fixed scoring rubric for judging AI output in your own domain, instead of gut feel. Free, MIT licensed, no codin",
+    "id": "shaunmarsden/build-your-own-rubric",
+    "language": "\u2014",
+    "name": "shaunmarsden/build-your-own-rubric",
+    "stars": 0,
+    "updated_at": "2026-08-02T08:40:39Z",
+    "url": "https://github.com/shaunmarsden/build-your-own-rubric"
   },
   {
     "description": "Turn a meeting transcript into notes that keep confirmed facts, estimates and assumptions visibly separate. Free, MIT li",
@@ -14,17 +59,35 @@
     "language": "\u2014",
     "name": "shaunmarsden/evidence-labelled-meeting-notes",
     "stars": 0,
-    "updated_at": "2026-08-02T08:28:59Z",
+    "updated_at": "2026-08-02T08:36:08Z",
     "url": "https://github.com/shaunmarsden/evidence-labelled-meeting-notes"
   },
   {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "braboj/solid-ai-templates",
+    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u6392\u76d8\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
+    "id": "Brhiza/mingyu",
+    "language": "TypeScript",
+    "name": "Brhiza/mingyu",
+    "stars": 244,
+    "updated_at": "2026-08-02T08:41:05Z",
+    "url": "https://github.com/Brhiza/mingyu"
+  },
+  {
+    "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor",
+    "id": "promptslab/Awesome-Prompt-Engineering",
+    "language": "TypeScript",
+    "name": "promptslab/Awesome-Prompt-Engineering",
+    "stars": 6215,
+    "updated_at": "2026-08-02T08:32:25Z",
+    "url": "https://github.com/promptslab/Awesome-Prompt-Engineering"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
     "language": "Python",
-    "name": "braboj/solid-ai-templates",
-    "stars": 3,
-    "updated_at": "2026-08-02T08:30:01Z",
-    "url": "https://github.com/braboj/solid-ai-templates"
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-02T08:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -34,15 +97,6 @@
     "stars": 15,
     "updated_at": "2026-08-02T08:26:27Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
-    "id": "wesleysimplicio/simplicio-dev-cli",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-dev-cli",
-    "stars": 3,
-    "updated_at": "2026-08-02T08:26:12Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
   },
   {
     "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
@@ -99,15 +153,6 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-08-02T08:28:56Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
     "id": "vikashjeyaraman/opencouncil-contract-inspector",
     "language": "HTML",
@@ -160,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T08:15:58Z",
     "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-02T08:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Human-led AI workflows for real B2B sales work.",
@@ -265,7 +301,7 @@
     "id": "TimYuann/Talk-like-a-pro",
     "language": "TypeScript",
     "name": "TimYuann/Talk-like-a-pro",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-02T08:08:36Z",
     "url": "https://github.com/TimYuann/Talk-like-a-pro"
   },
@@ -333,6 +369,15 @@
     "url": "https://github.com/AditthyaSS/iloveAgents"
   },
   {
+    "description": "A simple AI-powered to-do list app that uses natural language to manage tasks.",
+    "id": "issa-bagheryan/Dodo",
+    "language": "Python",
+    "name": "issa-bagheryan/Dodo",
+    "stars": 0,
+    "updated_at": "2026-08-02T08:02:57Z",
+    "url": "https://github.com/issa-bagheryan/Dodo"
+  },
+  {
     "description": "\u5c0f\u7ea2\u4e66\u957f\u6587\u7b14\u8bb0 Agent\u5de5\u5177\uff5c\u672c\u5730\u8fd0\u884c\uff5c\u514d\u8d39\u591a\u6a21\u578b\u81ea\u52a8\u964d\u7ea7\uff5c\u652f\u6301gemini-3.5-flash,gemini-3.6\u7b49\u6a21\u578b",
     "id": "soyona/x-to-xhs",
     "language": "JavaScript",
@@ -340,6 +385,15 @@
     "stars": 2,
     "updated_at": "2026-08-02T07:58:36Z",
     "url": "https://github.com/soyona/x-to-xhs"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27325,
+    "updated_at": "2026-08-02T07:58:29Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
@@ -374,7 +428,7 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 36,
-    "updated_at": "2026-08-02T08:18:11Z",
+    "updated_at": "2026-08-02T08:38:35Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-02T07:46:30Z",
     "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-08-02T07:45:38Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "\ud83d\ude80 \u4e13\u4e3a ChatGPT Plus (Web) + Codex / Cline / Roo-Cline \u67b6\u6784\u8bbe\u8ba1\u7684\u5168\u6808\u4e09\u8f68\u5de5\u7a0b\u89c4\u8303\u3002\u901a\u8fc7\u8d44\u4ea7\u8f68\u3001\u8bb0\u5fc6\u8f68\u3001\u6e90\u7801\u8f68\u53ca 3 \u6b21\u62a5\u9519\u786c\u7194\u65ad\u673a\u5236\uff0c\u5f7b\u5e95\u7ec8\u7ed3 AI \u7f16\u7a0b\u5e7b\u89c9\u4e0e\u957f\u5bf9\u8bdd\u5931\u5fc6\u3002Spec-Driv",
-    "id": "soyona/spec-driven-solo",
-    "language": "Shell",
-    "name": "soyona/spec-driven-solo",
-    "stars": 2,
-    "updated_at": "2026-08-02T07:42:04Z",
-    "url": "https://github.com/soyona/spec-driven-solo"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-02T07:41:59Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3434,
-    "updated_at": "2026-08-02T08:29:14Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "Agent skills we use daily in the studio \u2014 reusable, on-demand context for Claude Code, Cursor & other skills.sh-compatib",
-    "id": "stealth-engine/skills",
-    "language": "TypeScript",
-    "name": "stealth-engine/skills",
-    "stars": 2,
-    "updated_at": "2026-08-02T07:39:57Z",
-    "url": "https://github.com/stealth-engine/skills"
-  },
-  {
-    "description": "Evidence-driven engineering control plane for AI coding agents. Full Codex workflows, Claude Code MCP preview, bounded g",
-    "id": "JarodFroneman/jstack",
-    "language": "Python",
-    "name": "JarodFroneman/jstack",
-    "stars": 0,
-    "updated_at": "2026-08-02T07:52:08Z",
-    "url": "https://github.com/JarodFroneman/jstack"
   }
 ]
