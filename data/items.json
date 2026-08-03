@@ -1,5 +1,140 @@
 [
   {
+    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
+    "id": "FoxsterDev/ai-research-hub",
+    "language": "Python",
+    "name": "FoxsterDev/ai-research-hub",
+    "stars": 4,
+    "updated_at": "2026-08-03T17:30:08Z",
+    "url": "https://github.com/FoxsterDev/ai-research-hub"
+  },
+  {
+    "description": "Design multi-step AI agent skills that resume, retry, and gate destructive actions. Runtime-neutral SKILL.md guidance.",
+    "id": "clearlane/workflow-skills",
+    "language": "Python",
+    "name": "clearlane/workflow-skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:28:29Z",
+    "url": "https://github.com/clearlane/workflow-skills"
+  },
+  {
+    "description": "Agent-driven pipeline for rebuilding study decks against course modules. Restructures cards, fills gaps, verifies every ",
+    "id": "Bellefeu/Anki-Deck-Optimizer",
+    "language": "Python",
+    "name": "Bellefeu/Anki-Deck-Optimizer",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:26:49Z",
+    "url": "https://github.com/Bellefeu/Anki-Deck-Optimizer"
+  },
+  {
+    "description": "A strict, battle-tested set of rules and workflows (The Enterprise Playbook) designed to tame AI coding agents (Cursor, ",
+    "id": "amar57603/ai-enterprise-playbook-a",
+    "language": "\u2014",
+    "name": "amar57603/ai-enterprise-playbook-a",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:26:38Z",
+    "url": "https://github.com/amar57603/ai-enterprise-playbook-a"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7021,
+    "updated_at": "2026-08-03T17:25:42Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "ex-cog \u2014 externalized cognition. Four Claude Code plugins. research-toolkit \u2014 self-checking investigation & verification",
+    "id": "bogheorghiu/ex-cog-dev",
+    "language": "Python",
+    "name": "bogheorghiu/ex-cog-dev",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:28:01Z",
+    "url": "https://github.com/bogheorghiu/ex-cog-dev"
+  },
+  {
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:25:22Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "Base de conhecimento ancorada e audit\u00e1vel sobre ablation de system prompt e product overhang, derivada da palestra de Bo",
+    "id": "Kildere/ablation-engenharia-de-contexto",
+    "language": "\u2014",
+    "name": "Kildere/ablation-engenharia-de-contexto",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:23:46Z",
+    "url": "https://github.com/Kildere/ablation-engenharia-de-contexto"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:23:38Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:21:16Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Production-ready plugin ecosystem for OpenAI Codex CLI 26 plugins, 37 expert subagents (TOML), 196 skills, lifecycle hoo",
+    "id": "fusengine/codex",
+    "language": "TypeScript",
+    "name": "fusengine/codex",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:22:41Z",
+    "url": "https://github.com/fusengine/codex"
+  },
+  {
+    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
+    "id": "xvyimu/MindSync",
+    "language": "TypeScript",
+    "name": "xvyimu/MindSync",
+    "stars": 1,
+    "updated_at": "2026-08-03T17:19:04Z",
+    "url": "https://github.com/xvyimu/MindSync"
+  },
+  {
+    "description": "Agentic Waifu Engineering \u2014 a practitioner's guide to designing, building, shipping, and caring for AI companions.",
+    "id": "yuri-os/AgenticWaifuCodex",
+    "language": "Python",
+    "name": "yuri-os/AgenticWaifuCodex",
+    "stars": 2,
+    "updated_at": "2026-08-03T17:16:52Z",
+    "url": "https://github.com/yuri-os/AgenticWaifuCodex"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T17:15:39Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "My personal Agent Skills for coding agents: engineering workflows plus a few personal-use tools. Personalized forks, wit",
+    "id": "martonpaulo/skills",
+    "language": "Python",
+    "name": "martonpaulo/skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:14:37Z",
+    "url": "https://github.com/martonpaulo/skills"
+  },
+  {
     "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
     "id": "llwslc/proteus",
     "language": "HTML",
@@ -45,15 +180,6 @@
     "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
   },
   {
-    "description": "Agentic Waifu Engineering \u2014 a practitioner's guide to designing, building, shipping, and caring for AI companions.",
-    "id": "yuri-os/AgenticWaifuCodex",
-    "language": "Python",
-    "name": "yuri-os/AgenticWaifuCodex",
-    "stars": 2,
-    "updated_at": "2026-08-03T17:11:11Z",
-    "url": "https://github.com/yuri-os/AgenticWaifuCodex"
-  },
-  {
     "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
     "id": "heavenaruba/codified-prompt-rule-engine",
     "language": "HTML",
@@ -81,33 +207,6 @@
     "url": "https://github.com/kaderkck/hewn-forge"
   },
   {
-    "description": "A strict, battle-tested set of rules and workflows (The Enterprise Playbook) designed to tame AI coding agents (Cursor, ",
-    "id": "amar57603/ai-enterprise-playbook-a",
-    "language": "\u2014",
-    "name": "amar57603/ai-enterprise-playbook-a",
-    "stars": 1,
-    "updated_at": "2026-08-03T17:09:24Z",
-    "url": "https://github.com/amar57603/ai-enterprise-playbook-a"
-  },
-  {
-    "description": "My personal Agent Skills for coding agents: engineering workflows plus a few personal-use tools. Personalized forks, wit",
-    "id": "martonpaulo/skills",
-    "language": "Python",
-    "name": "martonpaulo/skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:14:37Z",
-    "url": "https://github.com/martonpaulo/skills"
-  },
-  {
-    "description": "Design multi-step AI agent skills that resume, retry, and gate destructive actions. Runtime-neutral SKILL.md guidance.",
-    "id": "clearlane/workflow-skills",
-    "language": "Python",
-    "name": "clearlane/workflow-skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:08:14Z",
-    "url": "https://github.com/clearlane/workflow-skills"
-  },
-  {
     "description": "MarchSkill \u00b7 MarchTalk \u9690\u62fe\u4e09\u6708 AI\u5185\u5bb9\u6280\u80fd\u96c6\uff1a\u7ed9 Claude Code \u7b49 AI \u52a9\u624b\u88c5\u7684\u4e2d\u6587\u5185\u5bb9\u521b\u4f5c skill\uff08\u5b9e\u6599\u8c03\u7814/\u8d28\u68c0\u95f8\u95e8/\u53cd\u9988\u6c89\u6dc0/\u9009\u9898/\u5b9a\u4f4d/\u5e73\u53f0\u9002\u914d\uff09\uff0c\u5e26\u8d28\u68c0\u95f8\u95e8\u7684\u5199\u7a3f\u6d41\u6c34\u7ebf",
     "id": "MarchTalk/ai-content-skills",
     "language": "\u2014",
@@ -115,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-08-03T17:07:50Z",
     "url": "https://github.com/MarchTalk/ai-content-skills"
-  },
-  {
-    "description": "ex-cog \u2014 externalized cognition. Four Claude Code plugins. research-toolkit \u2014 self-checking investigation & verification",
-    "id": "bogheorghiu/ex-cog-dev",
-    "language": "Python",
-    "name": "bogheorghiu/ex-cog-dev",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:08:19Z",
-    "url": "https://github.com/bogheorghiu/ex-cog-dev"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -162,15 +252,6 @@
     "url": "https://github.com/JHostalek/dotclaude"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T17:00:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "An unofficial, scenario-driven study guide, practice environment, and hands-on lab repository for the Claude Certified A",
     "id": "raybeecham/claude-certified-associate-foundations",
     "language": "Python",
@@ -178,6 +259,15 @@
     "stars": 0,
     "updated_at": "2026-08-03T16:59:57Z",
     "url": "https://github.com/raybeecham/claude-certified-associate-foundations"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32435,
+    "updated_at": "2026-08-03T17:27:36Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Provider-agnostic Hermes Agent optimization skill with autodiscovery, provenance, and publication-ready docs.",
@@ -292,7 +382,7 @@
     "id": "Open-Less/openless",
     "language": "Rust",
     "name": "Open-Less/openless",
-    "stars": 2942,
+    "stars": 2943,
     "updated_at": "2026-08-03T16:39:35Z",
     "url": "https://github.com/Open-Less/openless"
   },
@@ -358,95 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-03T16:33:51Z",
     "url": "https://github.com/mdesalvo/Morgana"
-  },
-  {
-    "description": "A library of reusable instructions and Claude Code skills for AI coding agents.",
-    "id": "konstruktoid/agent-instructions-skills",
-    "language": "Python",
-    "name": "konstruktoid/agent-instructions-skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:33:41Z",
-    "url": "https://github.com/konstruktoid/agent-instructions-skills"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-08-03T16:31:55Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 15,
-    "updated_at": "2026-08-03T16:31:39Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "\ud83c\udfaf \u5b9e\u7528\u7684AI Agent Skills\u548c\u63d0\u793a\u8bcd\u5e93 \u2014 \u8ba9AI Agent\u66f4\u806a\u660e\u3001\u66f4\u6709\u7528\u3002Hermes/Claude Code/Cursor\u901a\u7528\u3002",
-    "id": "YOUOOE/ai-agent-skills",
-    "language": "\u2014",
-    "name": "YOUOOE/ai-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:30:34Z",
-    "url": "https://github.com/YOUOOE/ai-agent-skills"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32434,
-    "updated_at": "2026-08-03T16:59:06Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Human-led AI workflows for real B2B sales work.",
-    "id": "shaunmarsden/practical-ai-sales-workflows",
-    "language": "\u2014",
-    "name": "shaunmarsden/practical-ai-sales-workflows",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:28:43Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-03T16:28:36Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-08-03T16:27:50Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines",
-    "id": "VersusControl/devops-ai-guidelines",
-    "language": "Python",
-    "name": "VersusControl/devops-ai-guidelines",
-    "stars": 1382,
-    "updated_at": "2026-08-03T16:27:12Z",
-    "url": "https://github.com/VersusControl/devops-ai-guidelines"
-  },
-  {
-    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
-    "id": "Forest-Project-Lab/doctrine",
-    "language": "Python",
-    "name": "Forest-Project-Lab/doctrine",
-    "stars": 1,
-    "updated_at": "2026-08-03T16:26:18Z",
-    "url": "https://github.com/Forest-Project-Lab/doctrine"
   }
 ]
