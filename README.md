@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 04:44 UTC
+> ⏰ Last updated: 2026-08-03 04:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 3 | HTML | 2026-08-03 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
-| 2 | [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) | 2578 | Python | 2026-08-03 | VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness work |
-| 3 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 5020 | Python | 2026-08-03 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura |
-| 4 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-03 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 5 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-08-03 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 6 | [1fairyfox/random-ai-prompt](https://github.com/1fairyfox/random-ai-prompt) | 11 | JavaScript | 2026-08-03 | An open-source generator for AI image and text prompts that automatically builds richer, more detailed prompts than most |
-| 7 | [Bellefeu/Anki-Deck-Optimizer](https://github.com/Bellefeu/Anki-Deck-Optimizer) | 0 | Python | 2026-08-03 | Agent-driven pipeline for rebuilding study decks against course modules. Restructures cards, fills gaps, verifies every  |
-| 8 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-08-03 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
-| 9 | [MAYA-Platform/ReadTheRoom](https://github.com/MAYA-Platform/ReadTheRoom) | 0 | JavaScript | 2026-08-03 | Context before response. Local, reviewable AI behavior calibration. |
-| 10 | [Open-Less/openless](https://github.com/Open-Less/openless) | 2925 | Rust | 2026-08-03 | Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win |
-| 11 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 154 | HTML | 2026-08-03 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
-| 12 | [daniyalafzal01/finetune-comparison](https://github.com/daniyalafzal01/finetune-comparison) | 0 | Jupyter Notebook | 2026-08-03 | Comparing Gemini API prompting vs. LoRA fine-tuning (Qwen2.5-1.5B) for insurance claim denial classification — accuracy, |
-| 13 | [subhacademic-cmd/prompt-craft-ecommerce-visuals](https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals) | 2 | HTML | 2026-08-03 | AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library ✨ |
-| 14 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-08-03 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-08-03 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [Bellefeu/Anki-Deck-Optimizer](https://github.com/Bellefeu/Anki-Deck-Optimizer) | 0 | Python | 2026-08-03 | Agent-driven pipeline for rebuilding study decks against course modules. Restructures cards, fills gaps, verifies every  |
+| 3 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 3 | HTML | 2026-08-03 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
+| 4 | [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) | 2578 | Python | 2026-08-03 | VibeSkills is a general-purpose Skill that automatically routes local Skills and intelligently orchestrates harness work |
+| 5 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 5020 | Python | 2026-08-03 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura |
+| 6 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-03 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 7 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-08-03 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 8 | [1fairyfox/random-ai-prompt](https://github.com/1fairyfox/random-ai-prompt) | 11 | JavaScript | 2026-08-03 | An open-source generator for AI image and text prompts that automatically builds richer, more detailed prompts than most |
+| 9 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-08-03 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
+| 10 | [MAYA-Platform/ReadTheRoom](https://github.com/MAYA-Platform/ReadTheRoom) | 0 | JavaScript | 2026-08-03 | Context before response. Local, reviewable AI behavior calibration. |
+| 11 | [Open-Less/openless](https://github.com/Open-Less/openless) | 2925 | Rust | 2026-08-03 | Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win |
+| 12 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 154 | HTML | 2026-08-03 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
+| 13 | [daniyalafzal01/finetune-comparison](https://github.com/daniyalafzal01/finetune-comparison) | 0 | Jupyter Notebook | 2026-08-03 | Comparing Gemini API prompting vs. LoRA fine-tuning (Qwen2.5-1.5B) for insurance claim denial classification — accuracy, |
+| 14 | [subhacademic-cmd/prompt-craft-ecommerce-visuals](https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals) | 2 | HTML | 2026-08-03 | AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library ✨ |
 | 15 | [buxiangyaohaoming/sd-webui-prompt-all-in-one-app-bxyhm](https://github.com/buxiangyaohaoming/sd-webui-prompt-all-in-one-app-bxyhm) | 4 | JavaScript | 2026-08-03 | 一个SD 提示词编辑器，支持搜索角色以获取完整外观标签或搜索某些单一的标签 |
 | 16 | [ryanportfolio/Corewise.Academy](https://github.com/ryanportfolio/Corewise.Academy) | 0 | MDX | 2026-08-03 | Free library of original guides on working with AI. 22 guides, five layers, three depths, no signup. Source for corewise |
 | 17 | [mancitygalaxy/prompt-system-toolkit](https://github.com/mancitygalaxy/prompt-system-toolkit) | 0 | Python | 2026-08-03 | Reusable skills for designing, debugging, and visualizing modular prompt systems. |
