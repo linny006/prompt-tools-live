@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83c\udfac Curated Seedance 2.5 video prompts with preview frames \u2014 auto-generated README, EN/\u4e2d\u6587",
+    "id": "velokey-ai/awesome-seedance-2.5-prompts",
+    "language": "Python",
+    "name": "velokey-ai/awesome-seedance-2.5-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-03T09:15:42Z",
+    "url": "https://github.com/velokey-ai/awesome-seedance-2.5-prompts"
+  },
+  {
+    "description": "A local, copy-only prompt library desktop app. Store prompts as Markdown, fill their variables, preview, and copy anywhe",
+    "id": "erdemtuna/prompt-bank",
+    "language": "TypeScript",
+    "name": "erdemtuna/prompt-bank",
+    "stars": 1,
+    "updated_at": "2026-08-03T09:08:54Z",
+    "url": "https://github.com/erdemtuna/prompt-bank"
+  },
+  {
+    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
+    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "language": "TypeScript",
+    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-03T09:14:57Z",
+    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
+  },
+  {
+    "description": "22-agent Mixture-of-Agents pipeline with LongLoop for 24h autonomous iteration: smart routing sends easy tasks to Flash,",
+    "id": "ZenHG/opencode-moa",
+    "language": "PowerShell",
+    "name": "ZenHG/opencode-moa",
+    "stars": 3,
+    "updated_at": "2026-08-03T09:06:45Z",
+    "url": "https://github.com/ZenHG/opencode-moa"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21080,
+    "updated_at": "2026-08-03T09:06:01Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13045,
+    "updated_at": "2026-08-03T09:04:19Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Architecture-first skill lifecycle for AI agents. 6 modes: CREATE / IMPROVE / VALIDATE / REVIEW / OPTIMIZE / PACKAGE. Bi",
+    "id": "smixs/skill-conductor",
+    "language": "Python",
+    "name": "smixs/skill-conductor",
+    "stars": 132,
+    "updated_at": "2026-08-03T09:01:43Z",
+    "url": "https://github.com/smixs/skill-conductor"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T09:01:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "JavaScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 9801,
+    "updated_at": "2026-08-03T09:01:31Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32398,
+    "updated_at": "2026-08-03T09:01:14Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Portfolio of prompt engineering and AI evaluation projects.",
     "id": "jehadsobohai/LLM-Evaluation-Portfolio",
     "language": "HTML",
@@ -16,15 +106,6 @@
     "stars": 26,
     "updated_at": "2026-08-03T08:58:42Z",
     "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32397,
-    "updated_at": "2026-08-03T08:57:45Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Copy-paste prompts that turn your AI agents from a waiting line into a graph: a 5-min demo, false-edge audit, diamond re",
@@ -52,15 +133,6 @@
     "stars": 1246,
     "updated_at": "2026-08-03T08:55:31Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "A local, copy-only prompt library desktop app. Store prompts as Markdown, fill their variables, preview, and copy anywhe",
-    "id": "erdemtuna/prompt-bank",
-    "language": "TypeScript",
-    "name": "erdemtuna/prompt-bank",
-    "stars": 1,
-    "updated_at": "2026-08-03T08:54:07Z",
-    "url": "https://github.com/erdemtuna/prompt-bank"
   },
   {
     "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
@@ -108,13 +180,13 @@
     "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T08:46:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "Rust",
+    "name": "Open-Less/openless",
+    "stars": 2932,
+    "updated_at": "2026-08-03T08:46:27Z",
+    "url": "https://github.com/Open-Less/openless"
   },
   {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -124,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T08:46:13Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21077,
-    "updated_at": "2026-08-03T08:56:05Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\ude80\ud83d\udcaaMaximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/\u4e2d\u6587/Espa\u00f1",
@@ -194,7 +257,7 @@
     "language": "JavaScript",
     "name": "cubrift/quart",
     "stars": 6,
-    "updated_at": "2026-08-03T08:49:17Z",
+    "updated_at": "2026-08-03T09:15:02Z",
     "url": "https://github.com/cubrift/quart"
   },
   {
@@ -205,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T08:36:07Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "22-agent Mixture-of-Agents pipeline with LongLoop for 24h autonomous iteration: smart routing sends easy tasks to Flash,",
-    "id": "ZenHG/opencode-moa",
-    "language": "PowerShell",
-    "name": "ZenHG/opencode-moa",
-    "stars": 3,
-    "updated_at": "2026-08-03T08:36:04Z",
-    "url": "https://github.com/ZenHG/opencode-moa"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -243,15 +297,6 @@
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
   },
   {
-    "description": "\ud83c\udfac Curated Seedance 2.5 video prompts with preview frames \u2014 auto-generated README, EN/\u4e2d\u6587",
-    "id": "velokey-ai/awesome-seedance-2.5-prompts",
-    "language": "Python",
-    "name": "velokey-ai/awesome-seedance-2.5-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-03T08:34:58Z",
-    "url": "https://github.com/velokey-ai/awesome-seedance-2.5-prompts"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -275,7 +320,7 @@
     "language": "JavaScript",
     "name": "cckais/ai-director-desktop",
     "stars": 0,
-    "updated_at": "2026-08-03T08:34:06Z",
+    "updated_at": "2026-08-03T09:01:52Z",
     "url": "https://github.com/cckais/ai-director-desktop"
   },
   {
@@ -342,15 +387,6 @@
     "url": "https://github.com/iaminpwd/dotfiles"
   },
   {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "Rust",
-    "name": "Open-Less/openless",
-    "stars": 2931,
-    "updated_at": "2026-08-03T08:46:27Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
     "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
     "id": "shortcuts/radin",
     "language": "Shell",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T08:13:24Z",
     "url": "https://github.com/0718lol/scout-before-build"
-  },
-  {
-    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
-    "id": "cobusgreyling/loop-engineering",
-    "language": "JavaScript",
-    "name": "cobusgreyling/loop-engineering",
-    "stars": 9798,
-    "updated_at": "2026-08-03T08:13:10Z",
-    "url": "https://github.com/cobusgreyling/loop-engineering"
-  },
-  {
-    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
-    "id": "F-e-u-e-r/opus-pack",
-    "language": "Python",
-    "name": "F-e-u-e-r/opus-pack",
-    "stars": 2,
-    "updated_at": "2026-08-03T08:11:29Z",
-    "url": "https://github.com/F-e-u-e-r/opus-pack"
-  },
-  {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 43,
-    "updated_at": "2026-08-03T08:13:10Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Cross-platform prompt refinement for Codex, Gemini CLI, and Claude Code, plus Claude-native context guard and telemetry ",
-    "id": "cdeust/session-optimizer",
-    "language": "Shell",
-    "name": "cdeust/session-optimizer",
-    "stars": 0,
-    "updated_at": "2026-08-03T08:09:31Z",
-    "url": "https://github.com/cdeust/session-optimizer"
   }
 ]
