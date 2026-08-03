@@ -1,5 +1,158 @@
 [
   {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "braboj/solid-ai-templates",
+    "language": "Python",
+    "name": "braboj/solid-ai-templates",
+    "stars": 3,
+    "updated_at": "2026-08-03T07:14:12Z",
+    "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "100 Suno AI Metal Prompts for AI music generation. Create death metal, thrash metal, doom metal, black metal, metalcore,",
+    "id": "sevenskytech1/suno-ai-metal-prompts",
+    "language": "HTML",
+    "name": "sevenskytech1/suno-ai-metal-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-03T07:14:11Z",
+    "url": "https://github.com/sevenskytech1/suno-ai-metal-prompts"
+  },
+  {
+    "description": "Community-maintained catalog of AI agent skills \u2014 structured, searchable and integrated with the OpenModels ecosystem.",
+    "id": "openmodelsrun/skills",
+    "language": "Python",
+    "name": "openmodelsrun/skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T07:14:56Z",
+    "url": "https://github.com/openmodelsrun/skills"
+  },
+  {
+    "description": "Open prompt stack for public-market research. Cross-harness skill suite (Claude Code / Codex / OpenCode) for secondary-m",
+    "id": "joansongjr/investor-harness",
+    "language": "Shell",
+    "name": "joansongjr/investor-harness",
+    "stars": 22,
+    "updated_at": "2026-08-03T07:10:30Z",
+    "url": "https://github.com/joansongjr/investor-harness"
+  },
+  {
+    "description": "  \u4e2a\u4eba Codex Skills \u4ed3\u5e93\uff0c\u6536\u5f55 Git \u5de5\u4f5c\u6d41\u3001\u4ee3\u7801\u5ba1\u67e5\u3001\u4ee3\u7801\u4f18\u5316\u8bca\u65ad\u3001\u5f00\u53d1 checklist\u3001\u5934\u8111\u98ce\u66b4\u548c\u591a Agent \u5f00\u53d1\u7f16\u6392\u7b49\u53ef\u590d\u7528\u6280\u80fd\u3002",
+    "id": "atan135/myskills",
+    "language": "\u2014",
+    "name": "atan135/myskills",
+    "stars": 0,
+    "updated_at": "2026-08-03T07:09:34Z",
+    "url": "https://github.com/atan135/myskills"
+  },
+  {
+    "description": "An autonomous AI chatbot built for WhatsApp using Node.js, Baileys, and the Vercel AI SDK powered by OpenAI. Designed to",
+    "id": "cubrift/quart",
+    "language": "JavaScript",
+    "name": "cubrift/quart",
+    "stars": 5,
+    "updated_at": "2026-08-03T07:08:58Z",
+    "url": "https://github.com/cubrift/quart"
+  },
+  {
+    "description": "AI-powered editorial briefing system built with n8n and Claude that transforms multiple newsletters into one curated mor",
+    "id": "fara-aliwireja/morning-signals-ai",
+    "language": "\u2014",
+    "name": "fara-aliwireja/morning-signals-ai",
+    "stars": 0,
+    "updated_at": "2026-08-03T07:07:22Z",
+    "url": "https://github.com/fara-aliwireja/morning-signals-ai"
+  },
+  {
+    "description": "TDAH.IA por Saraiva.AI: respostas claras, acion\u00e1veis e sem sobrecarga em qualquer IA",
+    "id": "saraivabr/tdah-ia",
+    "language": "Python",
+    "name": "saraivabr/tdah-ia",
+    "stars": 0,
+    "updated_at": "2026-08-03T07:04:51Z",
+    "url": "https://github.com/saraivabr/tdah-ia"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 3,
+    "updated_at": "2026-08-03T07:03:58Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 13,
+    "updated_at": "2026-08-03T07:03:57Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "Seedance 2.5 API guide, prompts, parameters, and examples for video generation",
+    "id": "Anil-matcha/awesome-seedance-2.5-api-prompts",
+    "language": "\u2014",
+    "name": "Anil-matcha/awesome-seedance-2.5-api-prompts",
+    "stars": 274,
+    "updated_at": "2026-08-03T07:03:55Z",
+    "url": "https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts"
+  },
+  {
+    "description": "Original MiniMax H3 prompt library, MuAPI Python client, API examples, and current model notes.",
+    "id": "Anil-matcha/awesome-minimax-h3-prompts",
+    "language": "JavaScript",
+    "name": "Anil-matcha/awesome-minimax-h3-prompts",
+    "stars": 1,
+    "updated_at": "2026-08-03T07:03:43Z",
+    "url": "https://github.com/Anil-matcha/awesome-minimax-h3-prompts"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27340,
+    "updated_at": "2026-08-03T07:13:57Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-08-03T07:09:05Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "This repository contains all the assignments completed during the MirAI School of Technology \u2013 AI Summer Internship 2026",
+    "id": "ShubhamSnSharma/mirai-ai-summer-internship-2026",
+    "language": "Python",
+    "name": "ShubhamSnSharma/mirai-ai-summer-internship-2026",
+    "stars": 1,
+    "updated_at": "2026-08-03T07:02:30Z",
+    "url": "https://github.com/ShubhamSnSharma/mirai-ai-summer-internship-2026"
+  },
+  {
+    "description": "Hong Kong Labour Department Job Listing Scraper & AI Agent",
+    "id": "JJ-Jacko/jobs_hk",
+    "language": "Python",
+    "name": "JJ-Jacko/jobs_hk",
+    "stars": 0,
+    "updated_at": "2026-08-03T07:01:19Z",
+    "url": "https://github.com/JJ-Jacko/jobs_hk"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T07:00:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
     "id": "martinholovsky/SOTA-skills",
     "language": "Python",
@@ -18,31 +171,13 @@
     "url": "https://github.com/ftvision/agent-prompt-observatory"
   },
   {
-    "description": "Hong Kong Labour Department Job Listing Scraper & AI Agent",
-    "id": "JJ-Jacko/jobs_hk",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "JJ-Jacko/jobs_hk",
-    "stars": 0,
-    "updated_at": "2026-08-03T06:58:43Z",
-    "url": "https://github.com/JJ-Jacko/jobs_hk"
-  },
-  {
-    "description": "100 Suno AI Metal Prompts for AI music generation. Create death metal, thrash metal, doom metal, black metal, metalcore,",
-    "id": "sevenskytech1/suno-ai-metal-prompts",
-    "language": "\u2014",
-    "name": "sevenskytech1/suno-ai-metal-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-03T06:58:39Z",
-    "url": "https://github.com/sevenskytech1/suno-ai-metal-prompts"
-  },
-  {
-    "description": "An autonomous AI chatbot built for WhatsApp using Node.js, Baileys, and the Vercel AI SDK powered by OpenAI. Designed to",
-    "id": "cubrift/quart",
-    "language": "JavaScript",
-    "name": "cubrift/quart",
-    "stars": 5,
-    "updated_at": "2026-08-03T06:59:06Z",
-    "url": "https://github.com/cubrift/quart"
+    "name": "comet-ml/opik",
+    "stars": 21076,
+    "updated_at": "2026-08-03T06:58:40Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
@@ -81,31 +216,13 @@
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
   },
   {
-    "description": "This repository contains all the assignments completed during the MirAI School of Technology \u2013 AI Summer Internship 2026",
-    "id": "ShubhamSnSharma/mirai-ai-summer-internship-2026",
-    "language": "Python",
-    "name": "ShubhamSnSharma/mirai-ai-summer-internship-2026",
-    "stars": 1,
-    "updated_at": "2026-08-03T06:59:51Z",
-    "url": "https://github.com/ShubhamSnSharma/mirai-ai-summer-internship-2026"
-  },
-  {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
     "id": "Open-Less/openless",
     "language": "Rust",
     "name": "Open-Less/openless",
-    "stars": 2925,
-    "updated_at": "2026-08-03T06:54:31Z",
+    "stars": 2926,
+    "updated_at": "2026-08-03T07:14:55Z",
     "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "braboj/solid-ai-templates",
-    "language": "Python",
-    "name": "braboj/solid-ai-templates",
-    "stars": 3,
-    "updated_at": "2026-08-03T07:00:27Z",
-    "url": "https://github.com/braboj/solid-ai-templates"
   },
   {
     "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
@@ -153,20 +270,11 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21074,
-    "updated_at": "2026-08-03T06:58:40Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32388,
+    "stars": 32389,
     "updated_at": "2026-08-03T06:48:13Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -189,15 +297,6 @@
     "url": "https://github.com/Hanyuyu/visual-prompt-feed"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T06:45:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -214,24 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T06:45:04Z",
     "url": "https://github.com/CodeCaroS/MythOs_Aegis"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27339,
-    "updated_at": "2026-08-03T06:42:25Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Original MiniMax H3 prompt library, MuAPI Python client, API examples, and current model notes.",
-    "id": "Anil-matcha/awesome-minimax-h3-prompts",
-    "language": "JavaScript",
-    "name": "Anil-matcha/awesome-minimax-h3-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-03T06:42:18Z",
-    "url": "https://github.com/Anil-matcha/awesome-minimax-h3-prompts"
   },
   {
     "description": "AI Paper Reviewer: LLM-based tool for academic paper review",
@@ -338,7 +419,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3457,
-    "updated_at": "2026-08-03T06:47:13Z",
+    "updated_at": "2026-08-03T07:13:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T06:26:41Z",
     "url": "https://github.com/mifdlaldev/mifdlaldev"
-  },
-  {
-    "description": "Kairos \u2014 MCP server that reframes queries through persuasion and reasoning frameworks (Cloudflare Workers, TypeScript)",
-    "id": "mazze93/kairos-mcp",
-    "language": "TypeScript",
-    "name": "mazze93/kairos-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-03T06:25:17Z",
-    "url": "https://github.com/mazze93/kairos-mcp"
-  },
-  {
-    "description": "Free, tested AI skills, prompts & image style guides for Claude, ChatGPT, Cursor & agent tools. Organised by department.",
-    "id": "whatsuppiyush/god-of-skills",
-    "language": "\u2014",
-    "name": "whatsuppiyush/god-of-skills",
-    "stars": 1,
-    "updated_at": "2026-08-03T06:20:20Z",
-    "url": "https://github.com/whatsuppiyush/god-of-skills"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 151,
-    "updated_at": "2026-08-03T06:19:53Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-03T06:19:17Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-03T06:18:14Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83c\udfa8 Curated Seedream 5.0 Pro prompts with previews \u2014 auto-generated README, EN/\u4e2d\u6587",
-    "id": "velokey-ai/awesome-seedream-5.0-pro-prompts",
-    "language": "Python",
-    "name": "velokey-ai/awesome-seedream-5.0-pro-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-03T06:16:15Z",
-    "url": "https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts"
-  },
-  {
-    "description": "Claude Code skills for running models cost-effectively: security gates (secret scanner, commit-gate), model-quality tool",
-    "id": "Evan-Daruwalla/claude-skill-suite",
-    "language": "JavaScript",
-    "name": "Evan-Daruwalla/claude-skill-suite",
-    "stars": 0,
-    "updated_at": "2026-08-03T06:16:03Z",
-    "url": "https://github.com/Evan-Daruwalla/claude-skill-suite"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-03T06:15:52Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-03T06:15:04Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   }
 ]
