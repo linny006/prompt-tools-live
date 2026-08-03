@@ -1,12 +1,57 @@
 [
   {
+    "description": "An unofficial, scenario-driven study guide, practice environment, and hands-on lab repository for the Claude Certified A",
+    "id": "raybeecham/claude-certified-associate-foundations",
+    "language": "Python",
+    "name": "raybeecham/claude-certified-associate-foundations",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:53:53Z",
+    "url": "https://github.com/raybeecham/claude-certified-associate-foundations"
+  },
+  {
+    "description": "\u8de8\u5883\u7535\u5546 AI \u5b9e\u6218\u77e5\u8bc6\u5e93:56 \u7bc7\u4ece\u9009\u54c1\u5230\u589e\u957f\u7684\u6307\u5357,\u6bcf\u7bc7\u90fd\u6709\u53ef\u76f4\u63a5\u590d\u5236\u7684 Prompt,\u5168\u90e8 CC0 \u514d\u8d39 \u00b7 56 hands-on AI playbooks with copy-paste prompts for Amazon / ",
+    "id": "kangise/ecommerce-ai-roadmap",
+    "language": "Jupyter Notebook",
+    "name": "kangise/ecommerce-ai-roadmap",
+    "stars": 34,
+    "updated_at": "2026-08-03T21:51:25Z",
+    "url": "https://github.com/kangise/ecommerce-ai-roadmap"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10879,
+    "updated_at": "2026-08-03T21:52:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
     "id": "mrwogu/promptscript",
     "language": "TypeScript",
     "name": "mrwogu/promptscript",
-    "stars": 476,
-    "updated_at": "2026-08-03T21:45:04Z",
+    "stars": 477,
+    "updated_at": "2026-08-03T21:47:16Z",
     "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-08-03T21:45:41Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-03T21:45:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Intrinsic preferences of AI coding agents under underspecified prompts: Experiments across models (Claude, Gemini, GPT, ",
@@ -25,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T21:44:25Z",
     "url": "https://github.com/DavidValin/universal-prompt-language"
-  },
-  {
-    "description": "An unofficial, scenario-driven study guide, practice environment, and hands-on lab repository for the Claude Certified A",
-    "id": "raybeecham/claude-certified-associate-foundations",
-    "language": "Python",
-    "name": "raybeecham/claude-certified-associate-foundations",
-    "stars": 0,
-    "updated_at": "2026-08-03T21:43:49Z",
-    "url": "https://github.com/raybeecham/claude-certified-associate-foundations"
   },
   {
     "description": "AI Governance",
@@ -61,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T21:34:27Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "\u8de8\u5883\u7535\u5546 AI \u5b9e\u6218\u77e5\u8bc6\u5e93:56 \u7bc7\u4ece\u9009\u54c1\u5230\u589e\u957f\u7684\u6307\u5357,\u6bcf\u7bc7\u90fd\u6709\u53ef\u76f4\u63a5\u590d\u5236\u7684 Prompt,\u5168\u90e8 CC0 \u514d\u8d39 \u00b7 56 hands-on AI playbooks with copy-paste prompts for Amazon / ",
-    "id": "kangise/ecommerce-ai-roadmap",
-    "language": "Jupyter Notebook",
-    "name": "kangise/ecommerce-ai-roadmap",
-    "stars": 34,
-    "updated_at": "2026-08-03T21:33:53Z",
-    "url": "https://github.com/kangise/ecommerce-ai-roadmap"
   },
   {
     "description": "Production-ready AI integration suite using Google Gemini 2.5 API, Streamlit UI, Context Management (RAG), and Structure",
@@ -106,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T21:31:24Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-03T21:30:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -175,7 +193,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 64280,
+    "stars": 64283,
     "updated_at": "2026-08-03T21:22:51Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -342,6 +360,15 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23883,
+    "updated_at": "2026-08-03T21:06:29Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T21:02:42Z",
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-08-03T21:02:36Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23881,
-    "updated_at": "2026-08-03T21:06:29Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 1,
-    "updated_at": "2026-08-03T21:02:29Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   }
 ]
