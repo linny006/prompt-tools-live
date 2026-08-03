@@ -1,12 +1,39 @@
 [
   {
-    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-    "id": "kyegomez/swarms",
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-08-03T00:45:17Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Structural prompt analysis + output testing + rewriting. Model-agnostic via LiteLLM. FastAPI service.",
+    "id": "b0ir/prompt-evaluator",
     "language": "Python",
-    "name": "kyegomez/swarms",
-    "stars": 7018,
-    "updated_at": "2026-08-03T00:29:44Z",
-    "url": "https://github.com/kyegomez/swarms"
+    "name": "b0ir/prompt-evaluator",
+    "stars": 1,
+    "updated_at": "2026-08-03T00:45:11Z",
+    "url": "https://github.com/b0ir/prompt-evaluator"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-08-03T00:44:40Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "MCP prompt template server: hot-reload, thinking frameworks, quality gates",
+    "id": "minipuft/claude-prompts",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts",
+    "stars": 182,
+    "updated_at": "2026-08-03T00:44:33Z",
+    "url": "https://github.com/minipuft/claude-prompts"
   },
   {
     "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
@@ -14,8 +41,35 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-03T00:29:34Z",
+    "updated_at": "2026-08-03T00:42:04Z",
     "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27333,
+    "updated_at": "2026-08-03T00:34:20Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T00:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7018,
+    "updated_at": "2026-08-03T00:29:44Z",
+    "url": "https://github.com/kyegomez/swarms"
   },
   {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
@@ -68,26 +122,8 @@
     "language": "Python",
     "name": "Drizzy07x/cognitive-powers",
     "stars": 0,
-    "updated_at": "2026-08-03T00:27:49Z",
+    "updated_at": "2026-08-03T00:42:17Z",
     "url": "https://github.com/Drizzy07x/cognitive-powers"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-08-03T00:15:54Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T00:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -131,7 +167,7 @@
     "language": "Shell",
     "name": "cdeust/session-optimizer",
     "stars": 0,
-    "updated_at": "2026-08-03T00:28:01Z",
+    "updated_at": "2026-08-03T00:42:59Z",
     "url": "https://github.com/cdeust/session-optimizer"
   },
   {
@@ -259,15 +295,6 @@
     "stars": 150,
     "updated_at": "2026-08-02T23:59:11Z",
     "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "MCP prompt template server: hot-reload, thinking frameworks, quality gates",
-    "id": "minipuft/claude-prompts",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts",
-    "stars": 182,
-    "updated_at": "2026-08-03T00:30:13Z",
-    "url": "https://github.com/minipuft/claude-prompts"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T23:46:58Z",
     "url": "https://github.com/mrcnski/promptu.el"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-08-02T23:45:34Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:45:31Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Version-controlled catalog of Dryvist LLM prompts",
-    "id": "dryvist/ai-llm-prompts",
-    "language": "Nix",
-    "name": "dryvist/ai-llm-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-02T23:43:50Z",
-    "url": "https://github.com/dryvist/ai-llm-prompts"
   }
 ]
