@@ -1,12 +1,75 @@
 [
   {
+    "description": "A runtime-neutral identity and operating-doctrine starter for building candid, corrigible AI agents.",
+    "id": "robertaustinbell/bobert-agent-template",
+    "language": "Python",
+    "name": "robertaustinbell/bobert-agent-template",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:00:27Z",
+    "url": "https://github.com/robertaustinbell/bobert-agent-template"
+  },
+  {
+    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
+    "id": "Forest-Project-Lab/doctrine",
+    "language": "Python",
+    "name": "Forest-Project-Lab/doctrine",
+    "stars": 1,
+    "updated_at": "2026-08-03T00:58:05Z",
+    "url": "https://github.com/Forest-Project-Lab/doctrine"
+  },
+  {
+    "description": "AI Governance",
+    "id": "karunmehta-aigp/AI-Governance",
+    "language": "\u2014",
+    "name": "karunmehta-aigp/AI-Governance",
+    "stars": 1,
+    "updated_at": "2026-08-03T00:56:46Z",
+    "url": "https://github.com/karunmehta-aigp/AI-Governance"
+  },
+  {
+    "description": "Cross-platform prompt refinement for Codex, Gemini CLI, and Claude Code, plus Claude-native context guard and telemetry ",
+    "id": "cdeust/session-optimizer",
+    "language": "Shell",
+    "name": "cdeust/session-optimizer",
+    "stars": 0,
+    "updated_at": "2026-08-03T00:54:35Z",
+    "url": "https://github.com/cdeust/session-optimizer"
+  },
+  {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 5,
+    "updated_at": "2026-08-03T00:51:24Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-08-03T00:49:25Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 2,
-    "updated_at": "2026-08-03T00:45:17Z",
+    "updated_at": "2026-08-03T00:45:40Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T00:45:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Structural prompt analysis + output testing + rewriting. Model-agnostic via LiteLLM. FastAPI service.",
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "minipuft/claude-prompts",
     "stars": 182,
-    "updated_at": "2026-08-03T00:44:33Z",
+    "updated_at": "2026-08-03T00:58:59Z",
     "url": "https://github.com/minipuft/claude-prompts"
   },
   {
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-03T00:42:04Z",
+    "updated_at": "2026-08-03T00:56:49Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -54,20 +117,20 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T00:30:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "comet-ml/opik",
+    "stars": 21069,
+    "updated_at": "2026-08-03T00:34:06Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
     "id": "kyegomez/swarms",
     "language": "Python",
     "name": "kyegomez/swarms",
-    "stars": 7018,
+    "stars": 7019,
     "updated_at": "2026-08-03T00:29:44Z",
     "url": "https://github.com/kyegomez/swarms"
   },
@@ -86,7 +149,7 @@
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
     "stars": 847,
-    "updated_at": "2026-08-03T00:25:16Z",
+    "updated_at": "2026-08-03T00:45:25Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T00:23:18Z",
     "url": "https://github.com/sublimecoder/sublimecoding"
-  },
-  {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 13,
-    "updated_at": "2026-08-03T00:23:07Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "Drizzy07x/cognitive-powers",
     "stars": 0,
-    "updated_at": "2026-08-03T00:42:17Z",
+    "updated_at": "2026-08-03T00:57:48Z",
     "url": "https://github.com/Drizzy07x/cognitive-powers"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 8,
     "updated_at": "2026-08-03T00:14:31Z",
     "url": "https://github.com/slipknot0130/Film-Production-Toolkit"
-  },
-  {
-    "description": "Cross-platform prompt refinement for Codex, Gemini CLI, and Claude Code, plus Claude-native context guard and telemetry ",
-    "id": "cdeust/session-optimizer",
-    "language": "Shell",
-    "name": "cdeust/session-optimizer",
-    "stars": 0,
-    "updated_at": "2026-08-03T00:42:59Z",
-    "url": "https://github.com/cdeust/session-optimizer"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T23:51:33Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-02T23:51:31Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-02T23:50:46Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-02T23:50:22Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
-    "id": "wrg32786/aigent-os",
-    "language": "JavaScript",
-    "name": "wrg32786/aigent-os",
-    "stars": 13,
-    "updated_at": "2026-08-02T23:47:18Z",
-    "url": "https://github.com/wrg32786/aigent-os"
-  },
-  {
-    "description": "[Emacs] Compose LLM prompts from building blocks.",
-    "id": "mrcnski/promptu.el",
-    "language": "Emacs Lisp",
-    "name": "mrcnski/promptu.el",
-    "stars": 1,
-    "updated_at": "2026-08-02T23:46:58Z",
-    "url": "https://github.com/mrcnski/promptu.el"
   }
 ]
