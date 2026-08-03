@@ -1,12 +1,111 @@
 [
   {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-08-03T06:00:20Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
+    "id": "LouisLau-art/multi-agent-skills-catalog",
+    "language": "Python",
+    "name": "LouisLau-art/multi-agent-skills-catalog",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:55:52Z",
+    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
+  },
+  {
+    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Shell",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 1,
+    "updated_at": "2026-08-03T05:53:58Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 61,
+    "updated_at": "2026-08-03T05:53:24Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "16 skills for Claude Code and Codex: focused execution with durable evidence and independent verification",
+    "id": "Drizzy07x/cognitive-powers",
+    "language": "Python",
+    "name": "Drizzy07x/cognitive-powers",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:50:58Z",
+    "url": "https://github.com/Drizzy07x/cognitive-powers"
+  },
+  {
+    "description": "Anthropomorphic AI Character Engine: a standardized agent template based on the SPL audit engine for fast, consistent AI",
+    "id": "nohn3043-arch/Anthropomorphic-Agent-Engine",
+    "language": "Python",
+    "name": "nohn3043-arch/Anthropomorphic-Agent-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-03T05:50:14Z",
+    "url": "https://github.com/nohn3043-arch/Anthropomorphic-Agent-Engine"
+  },
+  {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
+    "language": "JavaScript",
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 2760,
+    "updated_at": "2026-08-03T05:50:01Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "A practical harness for coding agents: reusable workflows for research, architecture, accessibility, security, testing, ",
+    "id": "CodeCaroS/MythOs_Aegis",
+    "language": "JavaScript",
+    "name": "CodeCaroS/MythOs_Aegis",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:47:13Z",
+    "url": "https://github.com/CodeCaroS/MythOs_Aegis"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 64136,
+    "updated_at": "2026-08-03T05:46:43Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 29,
+    "updated_at": "2026-08-03T05:46:25Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 2,
-    "updated_at": "2026-08-03T05:45:16Z",
+    "updated_at": "2026-08-03T05:45:34Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T05:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
@@ -63,6 +162,15 @@
     "url": "https://github.com/Dannykkh/skill-olympus"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21073,
+    "updated_at": "2026-08-03T05:39:05Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "An operating system for your Claude context \u2014 version-controlled files, a self-curating memory, and a /start\u2192/end sessio",
     "id": "conorbronsdon/claude-context-os",
     "language": "Shell",
@@ -77,7 +185,7 @@
     "language": "Rust",
     "name": "Open-Less/openless",
     "stars": 2925,
-    "updated_at": "2026-08-03T05:37:41Z",
+    "updated_at": "2026-08-03T05:53:20Z",
     "url": "https://github.com/Open-Less/openless"
   },
   {
@@ -90,15 +198,6 @@
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
   },
   {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 61,
-    "updated_at": "2026-08-03T05:33:52Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
     "id": "edsondviana8/ai-humanizer-core",
     "language": "HTML",
@@ -108,24 +207,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 64131,
-    "updated_at": "2026-08-03T05:30:53Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T05:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Source-linked AGENTS.md, CLAUDE.md, GEMINI.md, and SKILL.md examples from frontier labs and leading AI builders.",
     "id": "marco-trotta1/awesome-agents-md",
     "language": "\u2014",
@@ -133,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T05:29:17Z",
     "url": "https://github.com/marco-trotta1/awesome-agents-md"
-  },
-  {
-    "description": "16 skills for Claude Code and Codex: focused execution with durable evidence and independent verification",
-    "id": "Drizzy07x/cognitive-powers",
-    "language": "Python",
-    "name": "Drizzy07x/cognitive-powers",
-    "stars": 0,
-    "updated_at": "2026-08-03T05:27:44Z",
-    "url": "https://github.com/Drizzy07x/cognitive-powers"
   },
   {
     "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
@@ -243,15 +315,6 @@
     "url": "https://github.com/gonemedia/llm-profiles"
   },
   {
-    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 1,
-    "updated_at": "2026-08-03T04:57:15Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
-  },
-  {
     "description": "hermeneutic is an evidence-first drift gate for AI agents. It mines corrections from your AI chat logs (prior response, ",
     "id": "hermes-labs-ai/hermeneutic",
     "language": "Python",
@@ -271,12 +334,12 @@
   },
   {
     "description": "Hands-on labs and courseware for Agentic AI for Digital Marketing and Advertising (C1798) - from governed trend discover",
-    "id": "tertiarycourses/C1798---Agentic-AI-for-Digital-Marketing-and-Advertising",
+    "id": "tertiarycourses/C1798-Agentic-AI-for-Digital-Marketing-and-Advertising",
     "language": "Python",
-    "name": "tertiarycourses/C1798---Agentic-AI-for-Digital-Marketing-and-Advertising",
+    "name": "tertiarycourses/C1798-Agentic-AI-for-Digital-Marketing-and-Advertising",
     "stars": 0,
     "updated_at": "2026-08-03T04:54:40Z",
-    "url": "https://github.com/tertiarycourses/C1798---Agentic-AI-for-Digital-Marketing-and-Advertising"
+    "url": "https://github.com/tertiarycourses/C1798-Agentic-AI-for-Digital-Marketing-and-Advertising"
   },
   {
     "description": "Hands-on courseware and connected labs for Agentic AI for Google Ads (C355) - from campaign goals, keywords, and ad crea",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T04:42:13Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:41:49Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "An open-source generator for AI image and text prompts that automatically builds richer, more detailed prompts than most",
-    "id": "1fairyfox/random-ai-prompt",
-    "language": "JavaScript",
-    "name": "1fairyfox/random-ai-prompt",
-    "stars": 11,
-    "updated_at": "2026-08-03T04:39:55Z",
-    "url": "https://github.com/1fairyfox/random-ai-prompt"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-03T04:36:26Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Context before response. Local, reviewable AI behavior calibration.",
-    "id": "MAYA-Platform/ReadTheRoom",
-    "language": "JavaScript",
-    "name": "MAYA-Platform/ReadTheRoom",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:36:20Z",
-    "url": "https://github.com/MAYA-Platform/ReadTheRoom"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 154,
-    "updated_at": "2026-08-03T04:35:24Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Comparing Gemini API prompting vs. LoRA fine-tuning (Qwen2.5-1.5B) for insurance claim denial classification \u2014 accuracy,",
-    "id": "daniyalafzal01/finetune-comparison",
-    "language": "Jupyter Notebook",
-    "name": "daniyalafzal01/finetune-comparison",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:31:58Z",
-    "url": "https://github.com/daniyalafzal01/finetune-comparison"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-08-03T04:30:42Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   }
 ]
