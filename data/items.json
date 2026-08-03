@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 3,
+    "updated_at": "2026-08-03T08:01:53Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32391,
+    "updated_at": "2026-08-03T08:00:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T08:00:42Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Your personal prompt library \u2014 organized automatically, always within reach.",
+    "id": "mehdirt/Deja",
+    "language": "TypeScript",
+    "name": "mehdirt/Deja",
+    "stars": 0,
+    "updated_at": "2026-08-03T08:00:40Z",
+    "url": "https://github.com/mehdirt/Deja"
+  },
+  {
     "description": "AI-powered editorial briefing system built with n8n and Claude that transforms multiple newsletters into one curated mor",
     "id": "fara-aliwireja/morning-signals-ai",
     "language": "\u2014",
@@ -144,15 +180,6 @@
     "url": "https://github.com/0718lol/scout-before-build"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T07:45:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -232,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T07:29:27Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32390,
-    "updated_at": "2026-08-03T07:59:16Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -337,7 +355,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 5023,
+    "stars": 5024,
     "updated_at": "2026-08-03T07:24:42Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -430,23 +448,5 @@
     "stars": 2927,
     "updated_at": "2026-08-03T07:14:55Z",
     "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "100 Suno AI Metal Prompts for AI music generation. Create death metal, thrash metal, doom metal, black metal, metalcore,",
-    "id": "sevenskytech1/suno-ai-metal-prompts",
-    "language": "HTML",
-    "name": "sevenskytech1/suno-ai-metal-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-03T07:14:11Z",
-    "url": "https://github.com/sevenskytech1/suno-ai-metal-prompts"
-  },
-  {
-    "description": "Community-maintained catalog of AI agent skills \u2014 structured, searchable and integrated with the OpenModels ecosystem.",
-    "id": "openmodelsrun/skills",
-    "language": "Python",
-    "name": "openmodelsrun/skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T07:14:56Z",
-    "url": "https://github.com/openmodelsrun/skills"
   }
 ]
