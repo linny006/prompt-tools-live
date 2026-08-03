@@ -1,5 +1,284 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3462,
+    "updated_at": "2026-08-03T13:13:52Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Open-source Pokemon Champions VGC coaching skills and evaluation workspace for Codex, Claude Code, and OpenCode.",
+    "id": "NoahJenkins/vgc-coach",
+    "language": "Python",
+    "name": "NoahJenkins/vgc-coach",
+    "stars": 3,
+    "updated_at": "2026-08-03T13:14:08Z",
+    "url": "https://github.com/NoahJenkins/vgc-coach"
+  },
+  {
+    "description": "Eighteen free AI tools plus a router, each generalising a practical-ai-sales-workflows or book-to-skill technique beyond",
+    "id": "shaunmarsden/sibling-projects",
+    "language": "\u2014",
+    "name": "shaunmarsden/sibling-projects",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:15:24Z",
+    "url": "https://github.com/shaunmarsden/sibling-projects"
+  },
+  {
+    "description": "Auto-derives codebase conventions from repo analysis and injects archetype-aware guidance into AI-generated code, enforc",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 9,
+    "updated_at": "2026-08-03T13:11:10Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 5028,
+    "updated_at": "2026-08-03T13:09:41Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 64194,
+    "updated_at": "2026-08-03T13:07:27Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Slash commands, mental frameworks, and prompt engineering resources for Claude Code \u2014 grounded in LLM research",
+    "id": "rolandtolnay/llm-toolkit",
+    "language": "Python",
+    "name": "rolandtolnay/llm-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-03T13:06:28Z",
+    "url": "https://github.com/rolandtolnay/llm-toolkit"
+  },
+  {
+    "description": "Build a fixed scoring rubric for judging AI output in your own domain, instead of gut feel. Free, MIT licensed, no codin",
+    "id": "shaunmarsden/build-your-own-rubric",
+    "language": "\u2014",
+    "name": "shaunmarsden/build-your-own-rubric",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:06:22Z",
+    "url": "https://github.com/shaunmarsden/build-your-own-rubric"
+  },
+  {
+    "description": "Turn a repeated task into a proper, bounded AI skill with real guardrails and stop conditions, not a one-off prompt. Fre",
+    "id": "shaunmarsden/skill-author",
+    "language": "\u2014",
+    "name": "shaunmarsden/skill-author",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:06:15Z",
+    "url": "https://github.com/shaunmarsden/skill-author"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32414,
+    "updated_at": "2026-08-03T13:14:03Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Check whether a tracked status is actually supported by the evidence held, separate from the record. Free, MIT licensed,",
+    "id": "shaunmarsden/claims-vs-evidence-checker",
+    "language": "\u2014",
+    "name": "shaunmarsden/claims-vs-evidence-checker",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:06:08Z",
+    "url": "https://github.com/shaunmarsden/claims-vs-evidence-checker"
+  },
+  {
+    "description": "Audit any spreadsheet or list for duplicates, missing fields, stale entries and fake rows, without changing anything. Fr",
+    "id": "shaunmarsden/list-hygiene-checker",
+    "language": "\u2014",
+    "name": "shaunmarsden/list-hygiene-checker",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:06:00Z",
+    "url": "https://github.com/shaunmarsden/list-hygiene-checker"
+  },
+  {
+    "description": "Decide what to send, or whether to send anything, when someone has gone quiet. Free, MIT licensed, no coding required.",
+    "id": "shaunmarsden/the-quiet-follow-up",
+    "language": "\u2014",
+    "name": "shaunmarsden/the-quiet-follow-up",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:05:52Z",
+    "url": "https://github.com/shaunmarsden/the-quiet-follow-up"
+  },
+  {
+    "description": "Turn a meeting transcript into notes that keep confirmed facts, estimates and assumptions visibly separate. Free, MIT li",
+    "id": "shaunmarsden/evidence-labelled-meeting-notes",
+    "language": "\u2014",
+    "name": "shaunmarsden/evidence-labelled-meeting-notes",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:05:44Z",
+    "url": "https://github.com/shaunmarsden/evidence-labelled-meeting-notes"
+  },
+  {
+    "description": "Classify each aspect of a decision as a good fit, poor fit, or genuinely uncertain, before a case gets built around one ",
+    "id": "shaunmarsden/is-this-a-good-fit",
+    "language": "\u2014",
+    "name": "shaunmarsden/is-this-a-good-fit",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:05:34Z",
+    "url": "https://github.com/shaunmarsden/is-this-a-good-fit"
+  },
+  {
+    "description": "Prepare someone else to carry your case to a third party you cannot be in the room for. Free, MIT licensed, no coding re",
+    "id": "shaunmarsden/brief-your-advocate",
+    "language": "\u2014",
+    "name": "shaunmarsden/brief-your-advocate",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:05:26Z",
+    "url": "https://github.com/shaunmarsden/brief-your-advocate"
+  },
+  {
+    "description": "Pull whatever you actually have this week into one honest report, no dashboard, no invented trends. Free, MIT licensed, ",
+    "id": "shaunmarsden/weekly-roundup-builder",
+    "language": "\u2014",
+    "name": "shaunmarsden/weekly-roundup-builder",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:05:19Z",
+    "url": "https://github.com/shaunmarsden/weekly-roundup-builder"
+  },
+  {
+    "description": "Diagnose whether an ongoing delay is genuine indecision, an unstated concern, a real dependency, or a soft no. Free, MIT",
+    "id": "shaunmarsden/whats-causing-this-delay",
+    "language": "\u2014",
+    "name": "shaunmarsden/whats-causing-this-delay",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:05:11Z",
+    "url": "https://github.com/shaunmarsden/whats-causing-this-delay"
+  },
+  {
+    "description": "Draft a fixed-template message personalised with real detail, correctly handling multiple recipients or a forward-to-som",
+    "id": "shaunmarsden/personalise-dont-templatise",
+    "language": "\u2014",
+    "name": "shaunmarsden/personalise-dont-templatise",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:05:03Z",
+    "url": "https://github.com/shaunmarsden/personalise-dont-templatise"
+  },
+  {
+    "description": "Pick a cold outreach target and draft a first message worth a reply, anchored to a real signal, not a generic observatio",
+    "id": "shaunmarsden/first-contact-that-isnt-generic",
+    "language": "\u2014",
+    "name": "shaunmarsden/first-contact-that-isnt-generic",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:04:54Z",
+    "url": "https://github.com/shaunmarsden/first-contact-that-isnt-generic"
+  },
+  {
+    "description": "Turn a book you already own into a Claude skill: a short index plus one file per chapter, loaded only when needed. Free,",
+    "id": "shaunmarsden/book-to-skill",
+    "language": "\u2014",
+    "name": "shaunmarsden/book-to-skill",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:04:46Z",
+    "url": "https://github.com/shaunmarsden/book-to-skill"
+  },
+  {
+    "description": "Work out whether a failed initiative is genuinely over or just blocked, and what would justify trying again. Free, MIT l",
+    "id": "shaunmarsden/post-mortem-builder",
+    "language": "\u2014",
+    "name": "shaunmarsden/post-mortem-builder",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:04:38Z",
+    "url": "https://github.com/shaunmarsden/post-mortem-builder"
+  },
+  {
+    "description": "Diagnose what is actually driving a customer complaint before drafting a reply. Free, MIT licensed, no coding required.",
+    "id": "shaunmarsden/diagnose-before-you-respond",
+    "language": "\u2014",
+    "name": "shaunmarsden/diagnose-before-you-respond",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:04:30Z",
+    "url": "https://github.com/shaunmarsden/diagnose-before-you-respond"
+  },
+  {
+    "description": "Build or audit a written case for a decision-maker who was not part of the original conversations. Free, MIT licensed, n",
+    "id": "shaunmarsden/make-the-case",
+    "language": "\u2014",
+    "name": "shaunmarsden/make-the-case",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:04:22Z",
+    "url": "https://github.com/shaunmarsden/make-the-case"
+  },
+  {
+    "description": "Turn scattered information into a scannable prep card before any important conversation. Free, MIT licensed, no coding r",
+    "id": "shaunmarsden/prep-card-builder",
+    "language": "\u2014",
+    "name": "shaunmarsden/prep-card-builder",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:04:15Z",
+    "url": "https://github.com/shaunmarsden/prep-card-builder"
+  },
+  {
+    "description": "Separate a genuine recurring cause from similar wording that hides different problems, across any log of complaints, fee",
+    "id": "shaunmarsden/is-this-really-a-pattern",
+    "language": "\u2014",
+    "name": "shaunmarsden/is-this-really-a-pattern",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:04:07Z",
+    "url": "https://github.com/shaunmarsden/is-this-really-a-pattern"
+  },
+  {
+    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
+    "id": "xvyimu/MindSync",
+    "language": "TypeScript",
+    "name": "xvyimu/MindSync",
+    "stars": 1,
+    "updated_at": "2026-08-03T13:03:34Z",
+    "url": "https://github.com/xvyimu/MindSync"
+  },
+  {
+    "description": "Convention-first typed prompt models with canonical Markdown and XML",
+    "id": "Thillel/pydantic-promptmodel",
+    "language": "Python",
+    "name": "Thillel/pydantic-promptmodel",
+    "stars": 1,
+    "updated_at": "2026-08-03T13:13:56Z",
+    "url": "https://github.com/Thillel/pydantic-promptmodel"
+  },
+  {
+    "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
+    "id": "hilmifawwazsaad/DidYouKnow",
+    "language": "TypeScript",
+    "name": "hilmifawwazsaad/DidYouKnow",
+    "stars": 0,
+    "updated_at": "2026-08-03T13:14:34Z",
+    "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
+  },
+  {
+    "description": "Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext. ",
+    "id": "agoradynamics/wick",
+    "language": "JavaScript",
+    "name": "agoradynamics/wick",
+    "stars": 3,
+    "updated_at": "2026-08-03T13:01:25Z",
+    "url": "https://github.com/agoradynamics/wick"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T13:00:39Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
@@ -9,6 +288,15 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
+    "description": "AI prompt management platform. Build, version, and share dynamic LLM prompts",
+    "id": "itsyasirkhandev/promptcraft",
+    "language": "TypeScript",
+    "name": "itsyasirkhandev/promptcraft",
+    "stars": 1,
+    "updated_at": "2026-08-03T13:00:14Z",
+    "url": "https://github.com/itsyasirkhandev/promptcraft"
+  },
+  {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
     "id": "astorie-ai/awesome-seedance-2-prompt",
     "language": "Shell",
@@ -16,24 +304,6 @@
     "stars": 11,
     "updated_at": "2026-08-03T13:00:11Z",
     "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
-    "id": "hilmifawwazsaad/DidYouKnow",
-    "language": "TypeScript",
-    "name": "hilmifawwazsaad/DidYouKnow",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:57:11Z",
-    "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32414,
-    "updated_at": "2026-08-03T12:56:50Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Kit reutiliz\u00e1vel para conduzir projetos de software com agentes de IA do zero \u00e0 entrega: fases com port\u00f5es objetivos, de",
@@ -77,143 +347,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21085,
-    "updated_at": "2026-08-03T12:56:57Z",
+    "updated_at": "2026-08-03T13:12:39Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Build a fixed scoring rubric for judging AI output in your own domain, instead of gut feel. Free, MIT licensed, no codin",
-    "id": "shaunmarsden/build-your-own-rubric",
-    "language": "\u2014",
-    "name": "shaunmarsden/build-your-own-rubric",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:51:24Z",
-    "url": "https://github.com/shaunmarsden/build-your-own-rubric"
-  },
-  {
-    "description": "Turn a repeated task into a proper, bounded AI skill with real guardrails and stop conditions, not a one-off prompt. Fre",
-    "id": "shaunmarsden/skill-author",
-    "language": "\u2014",
-    "name": "shaunmarsden/skill-author",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:51:10Z",
-    "url": "https://github.com/shaunmarsden/skill-author"
-  },
-  {
-    "description": "Check whether a tracked status is actually supported by the evidence held, separate from the record. Free, MIT licensed,",
-    "id": "shaunmarsden/claims-vs-evidence-checker",
-    "language": "\u2014",
-    "name": "shaunmarsden/claims-vs-evidence-checker",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:51:06Z",
-    "url": "https://github.com/shaunmarsden/claims-vs-evidence-checker"
-  },
-  {
-    "description": "Audit any spreadsheet or list for duplicates, missing fields, stale entries and fake rows, without changing anything. Fr",
-    "id": "shaunmarsden/list-hygiene-checker",
-    "language": "\u2014",
-    "name": "shaunmarsden/list-hygiene-checker",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:51:02Z",
-    "url": "https://github.com/shaunmarsden/list-hygiene-checker"
-  },
-  {
-    "description": "Decide what to send, or whether to send anything, when someone has gone quiet. Free, MIT licensed, no coding required.",
-    "id": "shaunmarsden/the-quiet-follow-up",
-    "language": "\u2014",
-    "name": "shaunmarsden/the-quiet-follow-up",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:50:58Z",
-    "url": "https://github.com/shaunmarsden/the-quiet-follow-up"
-  },
-  {
-    "description": "Turn a meeting transcript into notes that keep confirmed facts, estimates and assumptions visibly separate. Free, MIT li",
-    "id": "shaunmarsden/evidence-labelled-meeting-notes",
-    "language": "\u2014",
-    "name": "shaunmarsden/evidence-labelled-meeting-notes",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:50:54Z",
-    "url": "https://github.com/shaunmarsden/evidence-labelled-meeting-notes"
-  },
-  {
-    "description": "Classify each aspect of a decision as a good fit, poor fit, or genuinely uncertain, before a case gets built around one ",
-    "id": "shaunmarsden/is-this-a-good-fit",
-    "language": "\u2014",
-    "name": "shaunmarsden/is-this-a-good-fit",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:50:49Z",
-    "url": "https://github.com/shaunmarsden/is-this-a-good-fit"
-  },
-  {
-    "description": "Prepare someone else to carry your case to a third party you cannot be in the room for. Free, MIT licensed, no coding re",
-    "id": "shaunmarsden/brief-your-advocate",
-    "language": "\u2014",
-    "name": "shaunmarsden/brief-your-advocate",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:50:45Z",
-    "url": "https://github.com/shaunmarsden/brief-your-advocate"
-  },
-  {
-    "description": "Pull whatever you actually have this week into one honest report, no dashboard, no invented trends. Free, MIT licensed, ",
-    "id": "shaunmarsden/weekly-roundup-builder",
-    "language": "\u2014",
-    "name": "shaunmarsden/weekly-roundup-builder",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:50:41Z",
-    "url": "https://github.com/shaunmarsden/weekly-roundup-builder"
-  },
-  {
-    "description": "Diagnose whether an ongoing delay is genuine indecision, an unstated concern, a real dependency, or a soft no. Free, MIT",
-    "id": "shaunmarsden/whats-causing-this-delay",
-    "language": "\u2014",
-    "name": "shaunmarsden/whats-causing-this-delay",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:50:37Z",
-    "url": "https://github.com/shaunmarsden/whats-causing-this-delay"
-  },
-  {
-    "description": "Draft a fixed-template message personalised with real detail, correctly handling multiple recipients or a forward-to-som",
-    "id": "shaunmarsden/personalise-dont-templatise",
-    "language": "\u2014",
-    "name": "shaunmarsden/personalise-dont-templatise",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:50:33Z",
-    "url": "https://github.com/shaunmarsden/personalise-dont-templatise"
-  },
-  {
-    "description": "Pick a cold outreach target and draft a first message worth a reply, anchored to a real signal, not a generic observatio",
-    "id": "shaunmarsden/first-contact-that-isnt-generic",
-    "language": "\u2014",
-    "name": "shaunmarsden/first-contact-that-isnt-generic",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:50:29Z",
-    "url": "https://github.com/shaunmarsden/first-contact-that-isnt-generic"
-  },
-  {
-    "description": "Turn a book you already own into a Claude skill: a short index plus one file per chapter, loaded only when needed. Free,",
-    "id": "shaunmarsden/book-to-skill",
-    "language": "\u2014",
-    "name": "shaunmarsden/book-to-skill",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:50:24Z",
-    "url": "https://github.com/shaunmarsden/book-to-skill"
-  },
-  {
-    "description": "Work out whether a failed initiative is genuinely over or just blocked, and what would justify trying again. Free, MIT l",
-    "id": "shaunmarsden/post-mortem-builder",
-    "language": "\u2014",
-    "name": "shaunmarsden/post-mortem-builder",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:50:20Z",
-    "url": "https://github.com/shaunmarsden/post-mortem-builder"
-  },
-  {
-    "description": "Diagnose what is actually driving a customer complaint before drafting a reply. Free, MIT licensed, no coding required.",
-    "id": "shaunmarsden/diagnose-before-you-respond",
-    "language": "\u2014",
-    "name": "shaunmarsden/diagnose-before-you-respond",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:50:14Z",
-    "url": "https://github.com/shaunmarsden/diagnose-before-you-respond"
   },
   {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
@@ -223,33 +358,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T12:50:07Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Turn scattered information into a scannable prep card before any important conversation. Free, MIT licensed, no coding r",
-    "id": "shaunmarsden/prep-card-builder",
-    "language": "\u2014",
-    "name": "shaunmarsden/prep-card-builder",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:50:05Z",
-    "url": "https://github.com/shaunmarsden/prep-card-builder"
-  },
-  {
-    "description": "Separate a genuine recurring cause from similar wording that hides different problems, across any log of complaints, fee",
-    "id": "shaunmarsden/is-this-really-a-pattern",
-    "language": "\u2014",
-    "name": "shaunmarsden/is-this-really-a-pattern",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:49:59Z",
-    "url": "https://github.com/shaunmarsden/is-this-really-a-pattern"
-  },
-  {
-    "description": "Eighteen free AI tools plus a router, each generalising a practical-ai-sales-workflows or book-to-skill technique beyond",
-    "id": "shaunmarsden/sibling-projects",
-    "language": "\u2014",
-    "name": "shaunmarsden/sibling-projects",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:49:54Z",
-    "url": "https://github.com/shaunmarsden/sibling-projects"
   },
   {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
@@ -268,15 +376,6 @@
     "stars": 13,
     "updated_at": "2026-08-03T12:49:34Z",
     "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 64192,
-    "updated_at": "2026-08-03T12:49:05Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
@@ -306,15 +405,6 @@
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T12:45:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -324,30 +414,12 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "AI prompt management platform. Build, version, and share dynamic LLM prompts",
-    "id": "itsyasirkhandev/promptcraft",
-    "language": "TypeScript",
-    "name": "itsyasirkhandev/promptcraft",
-    "stars": 1,
-    "updated_at": "2026-08-03T13:00:14Z",
-    "url": "https://github.com/itsyasirkhandev/promptcraft"
-  },
-  {
-    "description": "MindSync \u2014 local-first AI prompt workbench (Prompt Optimizer product). Independent of upstream fork network.",
-    "id": "xvyimu/MindSync",
-    "language": "TypeScript",
-    "name": "xvyimu/MindSync",
-    "stars": 1,
-    "updated_at": "2026-08-03T12:43:24Z",
-    "url": "https://github.com/xvyimu/MindSync"
-  },
-  {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-03T12:53:03Z",
+    "updated_at": "2026-08-03T13:14:12Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T12:41:29Z",
     "url": "https://github.com/maaitlunghau/lovable-vaultline-landing"
-  },
-  {
-    "description": "Auto-derives codebase conventions from repo analysis and injects archetype-aware guidance into AI-generated code, enforc",
-    "id": "crisnahine/chameleon",
-    "language": "Python",
-    "name": "crisnahine/chameleon",
-    "stars": 9,
-    "updated_at": "2026-08-03T12:39:12Z",
-    "url": "https://github.com/crisnahine/chameleon"
-  },
-  {
-    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
-    "id": "AnastasiyaW/codex-claude-code-config",
-    "language": "Python",
-    "name": "AnastasiyaW/codex-claude-code-config",
-    "stars": 137,
-    "updated_at": "2026-08-03T13:00:11Z",
-    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
-  },
-  {
-    "description": "Midjourney \u2013 A powerful desktop tool to manage unlimited prompt generation, optimize your workflow, and enhance AI art c",
-    "id": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
-    "language": "\u2014",
-    "name": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:38:19Z",
-    "url": "https://github.com/deader49963hefty/Midjourney-Ultimate-Prompts-Studio"
-  },
-  {
-    "description": "Documentation and prompt engineering framework for AI alignment based on unity consciousness principles. Includes system",
-    "id": "TechNickAI/heartcentered.ai",
-    "language": "HTML",
-    "name": "TechNickAI/heartcentered.ai",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:35:56Z",
-    "url": "https://github.com/TechNickAI/heartcentered.ai"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3462,
-    "updated_at": "2026-08-03T12:58:18Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "AI Agent initialization and evolution management skill for building structured agent workflows.",
-    "id": "H3108/agent-evolution-bootstrap",
-    "language": "\u2014",
-    "name": "H3108/agent-evolution-bootstrap",
-    "stars": 1,
-    "updated_at": "2026-08-03T12:33:57Z",
-    "url": "https://github.com/H3108/agent-evolution-bootstrap"
-  },
-  {
-    "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
-    "id": "paulosalem/weavemark",
-    "language": "Python",
-    "name": "paulosalem/weavemark",
-    "stars": 2,
-    "updated_at": "2026-08-03T12:40:39Z",
-    "url": "https://github.com/paulosalem/weavemark"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-03T12:33:10Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
   }
 ]
