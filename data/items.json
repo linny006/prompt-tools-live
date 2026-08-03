@@ -1,12 +1,84 @@
 [
   {
-    "description": "AI Governance",
-    "id": "karunmehta-aigp/AI-Governance",
+    "description": "First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines",
+    "id": "VersusControl/devops-ai-guidelines",
+    "language": "Python",
+    "name": "VersusControl/devops-ai-guidelines",
+    "stars": 1382,
+    "updated_at": "2026-08-03T16:13:08Z",
+    "url": "https://github.com/VersusControl/devops-ai-guidelines"
+  },
+  {
+    "description": "A browser game to learn prompt engineering by playing \u2014 explore a world and solve challenges by writing prompts. Techniq",
+    "id": "romanticamaj/promptasy",
+    "language": "JavaScript",
+    "name": "romanticamaj/promptasy",
+    "stars": 16,
+    "updated_at": "2026-08-03T16:13:01Z",
+    "url": "https://github.com/romanticamaj/promptasy"
+  },
+  {
+    "description": "Structured Outputs",
+    "id": "dottxt-ai/outlines",
+    "language": "Python",
+    "name": "dottxt-ai/outlines",
+    "stars": 15489,
+    "updated_at": "2026-08-03T16:11:27Z",
+    "url": "https://github.com/dottxt-ai/outlines"
+  },
+  {
+    "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, 'Superlookup' concord",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 50,
+    "updated_at": "2026-08-03T16:10:30Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32429,
+    "updated_at": "2026-08-03T16:10:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Research-grounded Agent Skill for writing professional LLM prompts \u2014 matches technique to model class, separates evidenc",
+    "id": "k-vaca/prompt-engineering-skill",
     "language": "\u2014",
-    "name": "karunmehta-aigp/AI-Governance",
+    "name": "k-vaca/prompt-engineering-skill",
+    "stars": 2,
+    "updated_at": "2026-08-03T16:10:01Z",
+    "url": "https://github.com/k-vaca/prompt-engineering-skill"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
     "stars": 1,
-    "updated_at": "2026-08-03T15:59:10Z",
-    "url": "https://github.com/karunmehta-aigp/AI-Governance"
+    "updated_at": "2026-08-03T16:09:57Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-08-03T16:09:21Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 64224,
+    "updated_at": "2026-08-03T16:06:00Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "\ud83c\udf00 The first adversarial-collaboration multi-agent Skill for Claude Code. 7 specialized agents (leader/convener/architect",
@@ -14,17 +86,44 @@
     "language": "Shell",
     "name": "dxkjuanjuan/juanjuan-team",
     "stars": 0,
-    "updated_at": "2026-08-03T15:57:07Z",
+    "updated_at": "2026-08-03T16:05:40Z",
     "url": "https://github.com/dxkjuanjuan/juanjuan-team"
   },
   {
-    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
-    "id": "synaptiai/synapti-marketplace",
-    "language": "Shell",
-    "name": "synaptiai/synapti-marketplace",
+    "description": "A Codex and ChatGPT Skill that helps agents avoid scope creep and overengineering\u2014finish the ask, prove it works, and ke",
+    "id": "JetXu-LLM/smallest-complete",
+    "language": "\u2014",
+    "name": "JetXu-LLM/smallest-complete",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:03:14Z",
+    "url": "https://github.com/JetXu-LLM/smallest-complete"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 5029,
+    "updated_at": "2026-08-03T16:01:46Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Agentic Waifu Engineering \u2014 a practitioner's guide to designing, building, shipping, and caring for AI companions.",
+    "id": "yuri-os/AgenticWaifuCodex",
+    "language": "Python",
+    "name": "yuri-os/AgenticWaifuCodex",
+    "stars": 2,
+    "updated_at": "2026-08-03T16:01:16Z",
+    "url": "https://github.com/yuri-os/AgenticWaifuCodex"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
     "stars": 6,
-    "updated_at": "2026-08-03T15:56:59Z",
-    "url": "https://github.com/synaptiai/synapti-marketplace"
+    "updated_at": "2026-08-03T16:00:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u8de8\u5883\u7535\u5546 AI \u5b9e\u6218\u77e5\u8bc6\u5e93:56 \u7bc7\u4ece\u9009\u54c1\u5230\u589e\u957f\u7684\u6307\u5357,\u6bcf\u7bc7\u90fd\u6709\u53ef\u76f4\u63a5\u590d\u5236\u7684 Prompt,\u5168\u90e8 CC0 \u514d\u8d39 \u00b7 56 hands-on AI playbooks with copy-paste prompts for Amazon / ",
@@ -34,6 +133,33 @@
     "stars": 33,
     "updated_at": "2026-08-03T16:00:27Z",
     "url": "https://github.com/kangise/ecommerce-ai-roadmap"
+  },
+  {
+    "description": "AI Governance",
+    "id": "karunmehta-aigp/AI-Governance",
+    "language": "\u2014",
+    "name": "karunmehta-aigp/AI-Governance",
+    "stars": 1,
+    "updated_at": "2026-08-03T15:59:10Z",
+    "url": "https://github.com/karunmehta-aigp/AI-Governance"
+  },
+  {
+    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
+    "id": "Forest-Project-Lab/doctrine",
+    "language": "Python",
+    "name": "Forest-Project-Lab/doctrine",
+    "stars": 1,
+    "updated_at": "2026-08-03T15:58:49Z",
+    "url": "https://github.com/Forest-Project-Lab/doctrine"
+  },
+  {
+    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
+    "id": "synaptiai/synapti-marketplace",
+    "language": "Shell",
+    "name": "synaptiai/synapti-marketplace",
+    "stars": 6,
+    "updated_at": "2026-08-03T15:56:59Z",
+    "url": "https://github.com/synaptiai/synapti-marketplace"
   },
   {
     "description": "Promptfoo is an open-source CLI and TypeScript/Node.js library for evaluating, red-teaming, and security-testing LLM app",
@@ -63,15 +189,6 @@
     "url": "https://github.com/api-evangelist/wordware"
   },
   {
-    "description": "Research-grounded Agent Skill for writing professional LLM prompts \u2014 matches technique to model class, separates evidenc",
-    "id": "k-vaca/prompt-engineering-skill",
-    "language": "\u2014",
-    "name": "k-vaca/prompt-engineering-skill",
-    "stars": 2,
-    "updated_at": "2026-08-03T15:52:26Z",
-    "url": "https://github.com/k-vaca/prompt-engineering-skill"
-  },
-  {
     "description": "Compresr is an LLM context-compression API. You send the long context you would otherwise pass to a model plus the query",
     "id": "api-evangelist/compresr",
     "language": "\u2014",
@@ -97,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T15:50:39Z",
     "url": "https://github.com/kreftamarcio/prompt-forge"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32428,
-    "updated_at": "2026-08-03T16:00:03Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -169,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T15:45:38Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T15:45:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Source-backed SenseNova U1 Pro prompts with real result infographics, structured layouts, visual reasoning, and multilin",
@@ -252,15 +351,6 @@
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
   },
   {
-    "description": "A Codex and ChatGPT Skill that helps agents avoid scope creep and overengineering\u2014finish the ask, prove it works, and ke",
-    "id": "JetXu-LLM/smallest-complete",
-    "language": "\u2014",
-    "name": "JetXu-LLM/smallest-complete",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:42:40Z",
-    "url": "https://github.com/JetXu-LLM/smallest-complete"
-  },
-  {
     "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
     "id": "llwslc/proteus",
     "language": "HTML",
@@ -279,15 +369,6 @@
     "url": "https://github.com/paulosalem/weavemark"
   },
   {
-    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
-    "id": "Forest-Project-Lab/doctrine",
-    "language": "Python",
-    "name": "Forest-Project-Lab/doctrine",
-    "stars": 1,
-    "updated_at": "2026-08-03T15:58:49Z",
-    "url": "https://github.com/Forest-Project-Lab/doctrine"
-  },
-  {
     "description": "Statistically compare LLM prompts using Wald's Sequential Probability Ratio Test (SPRT) with objective and LLM-as-judge ",
     "id": "coeusyk/varex",
     "language": "Python",
@@ -295,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T15:37:58Z",
     "url": "https://github.com/coeusyk/varex"
-  },
-  {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-08-03T15:37:53Z",
-    "url": "https://github.com/derob98/ailmanac"
   },
   {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
@@ -320,7 +392,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21085,
-    "updated_at": "2026-08-03T15:37:43Z",
+    "updated_at": "2026-08-03T16:13:59Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -340,15 +412,6 @@
     "stars": 3,
     "updated_at": "2026-08-03T15:37:12Z",
     "url": "https://github.com/ralphmoran/ticket-lens"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 64222,
-    "updated_at": "2026-08-03T15:36:12Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Korean prompt engineering reference + installable Claude Code skill: converts vague requests into optimized prompts and ",
@@ -385,68 +448,5 @@
     "stars": 26,
     "updated_at": "2026-08-03T15:33:00Z",
     "url": "https://github.com/KudoAI/ai-personas"
-  },
-  {
-    "description": "Your agent wastes context. Distill fixes it.",
-    "id": "arthjean/distill",
-    "language": "Rust",
-    "name": "arthjean/distill",
-    "stars": 6,
-    "updated_at": "2026-08-03T15:31:03Z",
-    "url": "https://github.com/arthjean/distill"
-  },
-  {
-    "description": "Prompts are code. Approval gates, semantic versioning, rollback, and audit history.",
-    "id": "mac-builds-things/prompt-change-control",
-    "language": "Python",
-    "name": "mac-builds-things/prompt-change-control",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:30:09Z",
-    "url": "https://github.com/mac-builds-things/prompt-change-control"
-  },
-  {
-    "description": "Typed building blocks for everything around your LLM call.",
-    "id": "use-crux/crux",
-    "language": "TypeScript",
-    "name": "use-crux/crux",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:29:22Z",
-    "url": "https://github.com/use-crux/crux"
-  },
-  {
-    "description": "Evidence-first skills for Codex, Cursor, and Claude Code: research, debugging, planning, execution, review, and goal loo",
-    "id": "JinPLu/Teamwork",
-    "language": "Python",
-    "name": "JinPLu/Teamwork",
-    "stars": 10,
-    "updated_at": "2026-08-03T15:29:02Z",
-    "url": "https://github.com/JinPLu/Teamwork"
-  },
-  {
-    "description": "10 AI agents with persistent memory, professional knowledge, and file-based coordination. Built for Claude Code.",
-    "id": "Nate-Vish/Auto-Mates",
-    "language": "Shell",
-    "name": "Nate-Vish/Auto-Mates",
-    "stars": 7,
-    "updated_at": "2026-08-03T15:22:15Z",
-    "url": "https://github.com/Nate-Vish/Auto-Mates"
-  },
-  {
-    "description": "Portable coding-agent skills for Claude Code, Codex, and Google Antigravity.",
-    "id": "murillo-consulting/cli-skills",
-    "language": "Shell",
-    "name": "murillo-consulting/cli-skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:22:05Z",
-    "url": "https://github.com/murillo-consulting/cli-skills"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-03T15:21:39Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
