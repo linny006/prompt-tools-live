@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 2,
+    "updated_at": "2026-08-03T02:45:08Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-08-03T02:42:10Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "A tool that contains many tools",
+    "id": "WinriseF/CtxRun",
+    "language": "TypeScript",
+    "name": "WinriseF/CtxRun",
+    "stars": 7,
+    "updated_at": "2026-08-03T02:41:27Z",
+    "url": "https://github.com/WinriseF/CtxRun"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 64101,
+    "updated_at": "2026-08-03T02:41:18Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "22-agent Mixture-of-Agents pipeline with LongLoop for 24h autonomous iteration: smart routing sends easy tasks to Flash,",
+    "id": "ZenHG/opencode-moa",
+    "language": "PowerShell",
+    "name": "ZenHG/opencode-moa",
+    "stars": 3,
+    "updated_at": "2026-08-03T02:40:06Z",
+    "url": "https://github.com/ZenHG/opencode-moa"
+  },
+  {
+    "description": "",
+    "id": "ZhiMaHang/playbook",
+    "language": "Python",
+    "name": "ZhiMaHang/playbook",
+    "stars": 1,
+    "updated_at": "2026-08-03T02:38:36Z",
+    "url": "https://github.com/ZhiMaHang/playbook"
+  },
+  {
+    "description": "Helen Agent Develop Language ",
+    "id": "hahalee000000/helen",
+    "language": "Python",
+    "name": "hahalee000000/helen",
+    "stars": 1,
+    "updated_at": "2026-08-03T02:34:47Z",
+    "url": "https://github.com/hahalee000000/helen"
+  },
+  {
+    "description": "Tapir skills for engineering judgment, app-icon craft, and presentation design.",
+    "id": "SuperTapir/tapir-skills",
+    "language": "JavaScript",
+    "name": "SuperTapir/tapir-skills",
+    "stars": 1,
+    "updated_at": "2026-08-03T02:34:12Z",
+    "url": "https://github.com/SuperTapir/tapir-skills"
+  },
+  {
+    "description": "16 skills for Claude Code and Codex: focused execution with durable evidence and independent verification",
+    "id": "Drizzy07x/cognitive-powers",
+    "language": "Python",
+    "name": "Drizzy07x/cognitive-powers",
+    "stars": 0,
+    "updated_at": "2026-08-03T02:33:20Z",
+    "url": "https://github.com/Drizzy07x/cognitive-powers"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T02:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83d\ude80\ud83d\udcaaMaximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/\u4e2d\u6587/Espa\u00f1",
+    "id": "rockbenben/ChatGPT-Shortcut",
+    "language": "TypeScript",
+    "name": "rockbenben/ChatGPT-Shortcut",
+    "stars": 8659,
+    "updated_at": "2026-08-03T02:30:07Z",
+    "url": "https://github.com/rockbenben/ChatGPT-Shortcut"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -43,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T02:25:19Z",
     "url": "https://github.com/tertiarycourses/C688---Generative-AI-for-Design-Thinking"
-  },
-  {
-    "description": "16 skills for Claude Code and Codex: focused execution with durable evidence and independent verification",
-    "id": "Drizzy07x/cognitive-powers",
-    "language": "Python",
-    "name": "Drizzy07x/cognitive-powers",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:24:55Z",
-    "url": "https://github.com/Drizzy07x/cognitive-powers"
   },
   {
     "description": "Hands-on labs and courseware for Generative AI for Business Presentation (C329) \u2014 10 connected practical activities from",
@@ -234,15 +324,6 @@
     "url": "https://github.com/marmbiz/humanizer-de"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T02:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\u591a\u667a\u80fd\u4f53\u534f\u540c\u5f71\u89c6\u5de5\u4e1a\u5316AI\u5de5\u4f5c\u53f0 | \u5185\u7f6e\u7f16\u5267\u5ba4SOP + AI\u89c6\u9891\u5206\u955c\u63d0\u793a\u8bcd\u5f15\u64ce + \u957f\u6587\u672c\u6df1\u5ea6\u5904\u7406 | \u652f\u630112+ LLM\u670d\u52a1\u5546",
     "id": "slipknot0130/Film-Production-Toolkit",
     "language": "Python",
@@ -250,6 +331,15 @@
     "stars": 8,
     "updated_at": "2026-08-03T02:14:56Z",
     "url": "https://github.com/slipknot0130/Film-Production-Toolkit"
+  },
+  {
+    "description": "Agentic prompts are the most important code you're not engineering. PromptKit fixes that \u2014 composable, version-controlle",
+    "id": "microsoft/PromptKit",
+    "language": "JavaScript",
+    "name": "microsoft/PromptKit",
+    "stars": 91,
+    "updated_at": "2026-08-03T02:14:31Z",
+    "url": "https://github.com/microsoft/PromptKit"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -292,7 +382,7 @@
     "id": "MMD-Marcelo/simulado",
     "language": "JavaScript",
     "name": "MMD-Marcelo/simulado",
-    "stars": 1,
+    "stars": 5,
     "updated_at": "2026-08-03T02:09:43Z",
     "url": "https://github.com/MMD-Marcelo/simulado"
   },
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T02:02:01Z",
     "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "MCP prompt template server: hot-reload, thinking frameworks, quality gates",
-    "id": "minipuft/claude-prompts",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts",
-    "stars": 182,
-    "updated_at": "2026-08-03T02:05:37Z",
-    "url": "https://github.com/minipuft/claude-prompts"
-  },
-  {
-    "description": "A cross-linked Obsidian knowledge base on Claude Code and AI agent engineering \u2014 context engineering, agent architecture",
-    "id": "amnotwallas/claude-code-agents-kb",
-    "language": "\u2014",
-    "name": "amnotwallas/claude-code-agents-kb",
-    "stars": 0,
-    "updated_at": "2026-08-03T01:58:39Z",
-    "url": "https://github.com/amnotwallas/claude-code-agents-kb"
-  },
-  {
-    "description": "\u4e2d\u6587 VOX \u7eb8\u5f20\u62fc\u8d34 AI \u89c6\u9891\u5de5\u4f5c\u6d41\uff1a\u98ce\u683c\u677f\u3001\u56fe\u7247\u63d0\u793a\u8bcd\u4e0e\u89c6\u9891\u63d0\u793a\u8bcd",
-    "id": "AuroraBarista/vox-style-ai-video-prompts",
-    "language": "\u2014",
-    "name": "AuroraBarista/vox-style-ai-video-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-03T01:58:22Z",
-    "url": "https://github.com/AuroraBarista/vox-style-ai-video-prompts"
-  },
-  {
-    "description": "OpenCode + Oh-My-OpenAgent configuration stack: auto-rules, model routing, scripts, ADRs, search infrastructure, and doc",
-    "id": "B67687/Agent-Stack",
-    "language": "Shell",
-    "name": "B67687/Agent-Stack",
-    "stars": 0,
-    "updated_at": "2026-08-03T01:57:42Z",
-    "url": "https://github.com/B67687/Agent-Stack"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-03T01:55:50Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-03T01:54:28Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "",
-    "id": "ZhiMaHang/playbook",
-    "language": "Python",
-    "name": "ZhiMaHang/playbook",
-    "stars": 1,
-    "updated_at": "2026-08-03T01:49:31Z",
-    "url": "https://github.com/ZhiMaHang/playbook"
-  },
-  {
-    "description": "\ud83d\udc69\u200d\ud83d\udcbb\u270d\ufe0f Prompt orchestration with Vue/React components. Compatible on any Node.js/browser runtime. No more context renderi",
-    "id": "moeru-ai/velin",
-    "language": "TypeScript",
-    "name": "moeru-ai/velin",
-    "stars": 75,
-    "updated_at": "2026-08-03T01:54:05Z",
-    "url": "https://github.com/moeru-ai/velin"
-  },
-  {
-    "description": "\ud83c\udf4c The largest Nano Banana Pro prompt library \u2014 26,648 prompts, daily updates, HuggingFace dataset download. More than an",
-    "id": "goku-open/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-nano-banana-pro-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-03T01:48:53Z",
-    "url": "https://github.com/goku-open/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
-    "id": "YouMind-OpenLab/awesome-gpt-image-2",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 9046,
-    "updated_at": "2026-08-03T01:48:21Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   }
 ]
