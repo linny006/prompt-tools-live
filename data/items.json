@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32425,
+    "updated_at": "2026-08-03T15:13:11Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u57fa\u4e8e AI Agent \u5de5\u4f5c\u6d41\u7684\u4fee\u4ed9\u4e16\u754c\u6a21\u62df\u5668\uff0c\u65e8\u5728\u8fd8\u539f\u667a\u80fd\u3001\u5f00\u653e\u7684\u4ed9\u4fa0\u4e16\u754c\u3002| An open-source Cultivation World Simulator using Agentic Workflow to create a d",
+    "id": "4thfever/cultivation-world-simulator",
+    "language": "Python",
+    "name": "4thfever/cultivation-world-simulator",
+    "stars": 1999,
+    "updated_at": "2026-08-03T15:09:46Z",
+    "url": "https://github.com/4thfever/cultivation-world-simulator"
+  },
+  {
+    "description": "Prompt engineering workbench \u2014 Chrome extension, desktop app, and web tool",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "HTML",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 2,
+    "updated_at": "2026-08-03T15:08:51Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI i",
+    "id": "kadevin/ilab-conjure",
+    "language": "JavaScript",
+    "name": "kadevin/ilab-conjure",
+    "stars": 661,
+    "updated_at": "2026-08-03T15:07:50Z",
+    "url": "https://github.com/kadevin/ilab-conjure"
+  },
+  {
+    "description": "\u8de8\u5883\u7535\u5546 AI \u5b9e\u6218\u77e5\u8bc6\u5e93:56 \u7bc7\u4ece\u9009\u54c1\u5230\u589e\u957f\u7684\u6307\u5357,\u6bcf\u7bc7\u90fd\u6709\u53ef\u76f4\u63a5\u590d\u5236\u7684 Prompt,\u5168\u90e8 CC0 \u514d\u8d39 \u00b7 56 hands-on AI playbooks with copy-paste prompts for Amazon / ",
+    "id": "kangise/ecommerce-ai-roadmap",
+    "language": "Jupyter Notebook",
+    "name": "kangise/ecommerce-ai-roadmap",
+    "stars": 33,
+    "updated_at": "2026-08-03T15:05:35Z",
+    "url": "https://github.com/kangise/ecommerce-ai-roadmap"
+  },
+  {
+    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Shell",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 1,
+    "updated_at": "2026-08-03T15:04:03Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+  },
+  {
+    "description": "Agent skill for AI Systems \u2014 build model-powered behavior: agents, retrieval, evals, and guardrails",
+    "id": "gabros20/ai-skill",
+    "language": "HTML",
+    "name": "gabros20/ai-skill",
+    "stars": 0,
+    "updated_at": "2026-08-03T15:03:31Z",
+    "url": "https://github.com/gabros20/ai-skill"
+  },
+  {
+    "description": "Portable coding-agent skills for Claude Code, Codex, and Google Antigravity.",
+    "id": "murillo-consulting/cli-skills",
+    "language": "Shell",
+    "name": "murillo-consulting/cli-skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T15:01:15Z",
+    "url": "https://github.com/murillo-consulting/cli-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T15:00:39Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10871,
+    "updated_at": "2026-08-03T15:13:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "A complete, opinionated framework for running a job search with an AI agent: rigorous onboarding, hard filters, evidence",
+    "id": "SigEggert/job-search-agent",
+    "language": "JavaScript",
+    "name": "SigEggert/job-search-agent",
+    "stars": 0,
+    "updated_at": "2026-08-03T15:00:34Z",
+    "url": "https://github.com/SigEggert/job-search-agent"
+  },
+  {
     "description": "Guia en espanol de prompt engineering e ingenieria de contexto para devs de LATAM: tecnicas, plantillas de prompts lista",
     "id": "JohnnyFerranteTech/ingenieria-de-contexto",
     "language": "\u2014",
@@ -27,24 +126,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
   {
-    "description": "\u8de8\u5883\u7535\u5546 AI \u5b9e\u6218\u77e5\u8bc6\u5e93:56 \u7bc7\u4ece\u9009\u54c1\u5230\u589e\u957f\u7684\u6307\u5357,\u6bcf\u7bc7\u90fd\u6709\u53ef\u76f4\u63a5\u590d\u5236\u7684 Prompt,\u5168\u90e8 CC0 \u514d\u8d39 \u00b7 56 hands-on AI playbooks with copy-paste prompts for Amazon / ",
-    "id": "kangise/ecommerce-ai-roadmap",
-    "language": "Jupyter Notebook",
-    "name": "kangise/ecommerce-ai-roadmap",
-    "stars": 33,
-    "updated_at": "2026-08-03T14:57:34Z",
-    "url": "https://github.com/kangise/ecommerce-ai-roadmap"
-  },
-  {
-    "description": "A complete, opinionated framework for running a job search with an AI agent: rigorous onboarding, hard filters, evidence",
-    "id": "SigEggert/job-search-agent",
-    "language": "JavaScript",
-    "name": "SigEggert/job-search-agent",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:00:34Z",
-    "url": "https://github.com/SigEggert/job-search-agent"
-  },
-  {
     "description": "Typed building blocks for everything around your LLM call.",
     "id": "use-crux/crux",
     "language": "TypeScript",
@@ -68,17 +149,8 @@
     "language": "Python",
     "name": "Forest-Project-Lab/doctrine",
     "stars": 1,
-    "updated_at": "2026-08-03T14:53:17Z",
+    "updated_at": "2026-08-03T15:15:19Z",
     "url": "https://github.com/Forest-Project-Lab/doctrine"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32423,
-    "updated_at": "2026-08-03T14:59:28Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -126,15 +198,6 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
-    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI i",
-    "id": "kadevin/ilab-conjure",
-    "language": "JavaScript",
-    "name": "kadevin/ilab-conjure",
-    "stars": 661,
-    "updated_at": "2026-08-03T14:52:01Z",
-    "url": "https://github.com/kadevin/ilab-conjure"
-  },
-  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -142,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T14:45:45Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T14:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "OMK \u2014 Observe. Measure. Know. Make every knowledge change in your AI application evidence-backed.",
@@ -230,7 +284,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21085,
-    "updated_at": "2026-08-03T14:58:26Z",
+    "updated_at": "2026-08-03T15:06:11Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -283,7 +337,7 @@
     "id": "IBM/mcp-context-forge",
     "language": "Python",
     "name": "IBM/mcp-context-forge",
-    "stars": 4190,
+    "stars": 4192,
     "updated_at": "2026-08-03T14:38:59Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
@@ -302,7 +356,7 @@
     "language": "Shell",
     "name": "synaptiai/synapti-marketplace",
     "stars": 6,
-    "updated_at": "2026-08-03T14:36:39Z",
+    "updated_at": "2026-08-03T15:04:45Z",
     "url": "https://github.com/synaptiai/synapti-marketplace"
   },
   {
@@ -319,7 +373,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 64215,
+    "stars": 64217,
     "updated_at": "2026-08-03T14:33:17Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -392,61 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3463,
-    "updated_at": "2026-08-03T14:56:58Z",
+    "updated_at": "2026-08-03T15:10:08Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Source-backed SenseNova U1 Pro prompts with real result infographics, structured layouts, visual reasoning, and multilin",
-    "id": "imagineVid/Awesome-sensenova-u1-pro-prompts-and-skills",
-    "language": "JavaScript",
-    "name": "imagineVid/Awesome-sensenova-u1-pro-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T14:25:08Z",
-    "url": "https://github.com/imagineVid/Awesome-sensenova-u1-pro-prompts-and-skills"
-  },
-  {
-    "description": "Source-backed Qwen Image 3.0 prompts with real result images, reference editing, typography, and multilingual production",
-    "id": "imagineVid/Awesome-qwen-image-3-0-prompts-and-skills",
-    "language": "JavaScript",
-    "name": "imagineVid/Awesome-qwen-image-3-0-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T14:25:08Z",
-    "url": "https://github.com/imagineVid/Awesome-qwen-image-3-0-prompts-and-skills"
-  },
-  {
-    "description": "Azure OpenAI Copilot Studio Personal Agent - Production-tested system instructions for enterprise AI agents",
-    "id": "cgfixit/AzureAI-CopilotStudio-PersonalAgent-Instructions",
-    "language": "Shell",
-    "name": "cgfixit/AzureAI-CopilotStudio-PersonalAgent-Instructions",
-    "stars": 1,
-    "updated_at": "2026-08-03T14:22:34Z",
-    "url": "https://github.com/cgfixit/AzureAI-CopilotStudio-PersonalAgent-Instructions"
-  },
-  {
-    "description": "Kit reutiliz\u00e1vel para conduzir projetos de software com agentes de IA do zero \u00e0 entrega: fases com port\u00f5es objetivos, de",
-    "id": "gustavomot4/ai-project-pipeline",
-    "language": "Python",
-    "name": "gustavomot4/ai-project-pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-03T14:22:20Z",
-    "url": "https://github.com/gustavomot4/ai-project-pipeline"
-  },
-  {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-08-03T14:21:50Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 172,
-    "updated_at": "2026-08-03T14:18:17Z",
-    "url": "https://github.com/jmagly/aiwg"
   }
 ]
