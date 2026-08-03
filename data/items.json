@@ -1,12 +1,12 @@
 [
   {
-    "description": "LLM Profiles. Per-model tuning profiles that make AI agents call tools reliably across very different models.",
-    "id": "gonemedia/llm-profiles",
-    "language": "\u2014",
-    "name": "gonemedia/llm-profiles",
-    "stars": 2,
-    "updated_at": "2026-08-03T04:59:54Z",
-    "url": "https://github.com/gonemedia/llm-profiles"
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 61,
+    "updated_at": "2026-08-03T05:14:16Z",
+    "url": "https://github.com/terrylica/cc-skills"
   },
   {
     "description": "Agent-driven pipeline for rebuilding study decks against course modules. Restructures cards, fills gaps, verifies every ",
@@ -14,17 +14,107 @@
     "language": "Python",
     "name": "Bellefeu/Anki-Deck-Optimizer",
     "stars": 0,
-    "updated_at": "2026-08-03T04:59:29Z",
+    "updated_at": "2026-08-03T05:12:35Z",
     "url": "https://github.com/Bellefeu/Anki-Deck-Optimizer"
   },
   {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 61,
-    "updated_at": "2026-08-03T04:58:05Z",
-    "url": "https://github.com/terrylica/cc-skills"
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13043,
+    "updated_at": "2026-08-03T05:10:46Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "\u4e00\u4e2aSD \u63d0\u793a\u8bcd\u7f16\u8f91\u5668\uff0c\u652f\u6301\u641c\u7d22\u89d2\u8272\u4ee5\u83b7\u53d6\u5b8c\u6574\u5916\u89c2\u6807\u7b7e\u6216\u641c\u7d22\u67d0\u4e9b\u5355\u4e00\u7684\u6807\u7b7e",
+    "id": "buxiangyaohaoming/sd-webui-prompt-all-in-one-app-bxyhm",
+    "language": "JavaScript",
+    "name": "buxiangyaohaoming/sd-webui-prompt-all-in-one-app-bxyhm",
+    "stars": 4,
+    "updated_at": "2026-08-03T05:09:05Z",
+    "url": "https://github.com/buxiangyaohaoming/sd-webui-prompt-all-in-one-app-bxyhm"
+  },
+  {
+    "description": "Community collection of ready-to-use OpenClaw Prompt Helper prompts for research, monitoring, reporting, automation, and",
+    "id": "zerolabs-app/openclaw-community-prompt-library",
+    "language": "\u2014",
+    "name": "zerolabs-app/openclaw-community-prompt-library",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:06:39Z",
+    "url": "https://github.com/zerolabs-app/openclaw-community-prompt-library"
+  },
+  {
+    "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CL",
+    "id": "Dannykkh/skill-olympus",
+    "language": "Python",
+    "name": "Dannykkh/skill-olympus",
+    "stars": 3,
+    "updated_at": "2026-08-03T05:05:01Z",
+    "url": "https://github.com/Dannykkh/skill-olympus"
+  },
+  {
+    "description": "Hands-on labs and aligned courseware for Agentic AI for Instagram Marketing (C695) - from content systems and community ",
+    "id": "tertiarycourses/C695-Agentic-AI-for-Instagram-Marketing",
+    "language": "Python",
+    "name": "tertiarycourses/C695-Agentic-AI-for-Instagram-Marketing",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:04:50Z",
+    "url": "https://github.com/tertiarycourses/C695-Agentic-AI-for-Instagram-Marketing"
+  },
+  {
+    "description": "Architecture-first skill lifecycle for AI agents. 5 modes: CREATE \u2192 EVAL \u2192 EDIT \u2192 REVIEW \u2192 PACKAGE. Integrates Anthropic",
+    "id": "smixs/skill-conductor",
+    "language": "Python",
+    "name": "smixs/skill-conductor",
+    "stars": 129,
+    "updated_at": "2026-08-03T05:01:54Z",
+    "url": "https://github.com/smixs/skill-conductor"
+  },
+  {
+    "description": "16 skills for Claude Code and Codex: focused execution with durable evidence and independent verification",
+    "id": "Drizzy07x/cognitive-powers",
+    "language": "Python",
+    "name": "Drizzy07x/cognitive-powers",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:01:47Z",
+    "url": "https://github.com/Drizzy07x/cognitive-powers"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:01:17Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
+    "id": "yptang98/CostMarshal",
+    "language": "Python",
+    "name": "yptang98/CostMarshal",
+    "stars": 4,
+    "updated_at": "2026-08-03T05:01:06Z",
+    "url": "https://github.com/yptang98/CostMarshal"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T05:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "LLM Profiles. Per-model tuning profiles that make AI agents call tools reliably across very different models.",
+    "id": "gonemedia/llm-profiles",
+    "language": "\u2014",
+    "name": "gonemedia/llm-profiles",
+    "stars": 2,
+    "updated_at": "2026-08-03T04:59:54Z",
+    "url": "https://github.com/gonemedia/llm-profiles"
   },
   {
     "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
@@ -81,15 +171,6 @@
     "url": "https://github.com/kimsanguine/AI_Human"
   },
   {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:50:42Z",
-    "url": "https://github.com/agungkesmas/recallfox"
-  },
-  {
     "description": "\ud83e\udd4b 12 skills para Claude Code que le dan disciplina de ingeniero senior a cualquier modelo: planea antes de codear, mejor",
     "id": "kitoep/sensei",
     "language": "PowerShell",
@@ -112,7 +193,7 @@
     "id": "vllm-project/semantic-router",
     "language": "Go",
     "name": "vllm-project/semantic-router",
-    "stars": 5103,
+    "stars": 5104,
     "updated_at": "2026-08-03T04:47:33Z",
     "url": "https://github.com/vllm-project/semantic-router"
   },
@@ -151,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T04:45:42Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T04:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -270,15 +342,6 @@
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   },
   {
-    "description": "\u4e00\u4e2aSD \u63d0\u793a\u8bcd\u7f16\u8f91\u5668\uff0c\u652f\u6301\u641c\u7d22\u89d2\u8272\u4ee5\u83b7\u53d6\u5b8c\u6574\u5916\u89c2\u6807\u7b7e\u6216\u641c\u7d22\u67d0\u4e9b\u5355\u4e00\u7684\u6807\u7b7e",
-    "id": "buxiangyaohaoming/sd-webui-prompt-all-in-one-app-bxyhm",
-    "language": "JavaScript",
-    "name": "buxiangyaohaoming/sd-webui-prompt-all-in-one-app-bxyhm",
-    "stars": 4,
-    "updated_at": "2026-08-03T04:47:16Z",
-    "url": "https://github.com/buxiangyaohaoming/sd-webui-prompt-all-in-one-app-bxyhm"
-  },
-  {
     "description": "Free library of original guides on working with AI. 22 guides, five layers, three depths, no signup. Source for corewise",
     "id": "ryanportfolio/Corewise.Academy",
     "language": "MDX",
@@ -329,7 +392,7 @@
     "language": "JavaScript",
     "name": "conorbronsdon/avoid-ai-writing",
     "stars": 2760,
-    "updated_at": "2026-08-03T04:56:43Z",
+    "updated_at": "2026-08-03T05:13:28Z",
     "url": "https://github.com/conorbronsdon/avoid-ai-writing"
   },
   {
@@ -349,15 +412,6 @@
     "stars": 15,
     "updated_at": "2026-08-03T04:23:31Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Community collection of ready-to-use OpenClaw Prompt Helper prompts for research, monitoring, reporting, automation, and",
-    "id": "zerolabs-app/openclaw-community-prompt-library",
-    "language": "\u2014",
-    "name": "zerolabs-app/openclaw-community-prompt-library",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:19:36Z",
-    "url": "https://github.com/zerolabs-app/openclaw-community-prompt-library"
   },
   {
     "description": "\u786e\u5b9a\u6027\u6545\u4e8b\u751f\u6210\u5f15\u64ce\uff1a\u57fa\u4e8e\u56e0\u679c\u903b\u8f91\u5ba1\u8ba1\u7684\u53d9\u4e8b\u751f\u6210\u5de5\u5177\uff0c\u4fdd\u6301\u89d2\u8272\u6027\u683c\u4e0e\u5267\u60c5\u53d1\u5c55\u5b8c\u5168\u4e00\u81f4\uff0c\u5f7b\u5e95\u6d88\u9664\u903b\u8f91\u6f0f\u6d1e\u4e0e\u8bbe\u5b9a\u51b2\u7a81\uff0c\u9002\u7528\u4e8e\u6e38\u620f\u53d9\u4e8b\u3001\u5f71\u89c6\u5267\u672c\u521b\u4f5c\u3001\u4e92\u52a8\u5c0f\u8bf4\u3001IP\u5185\u5bb9\u751f\u4ea7\u3001AIGC\u5185\u5bb9\u751f\u6210\u573a\u666f\u3002",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T04:10:29Z",
     "url": "https://github.com/livingghost/pov-series-director"
-  },
-  {
-    "description": "Evidence-first skills for Codex: expert roles, anchored phases, verification, memory, and engineering specialists.",
-    "id": "alexlolwhat369-spec/codex-pro-skills",
-    "language": "Python",
-    "name": "alexlolwhat369-spec/codex-pro-skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:09:10Z",
-    "url": "https://github.com/alexlolwhat369-spec/codex-pro-skills"
-  },
-  {
-    "description": "",
-    "id": "trandinhthang203/capstone-project",
-    "language": "Jupyter Notebook",
-    "name": "trandinhthang203/capstone-project",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:09:10Z",
-    "url": "https://github.com/trandinhthang203/capstone-project"
-  },
-  {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-08-03T04:07:27Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session.",
-    "id": "greerviau/wingman",
-    "language": "Shell",
-    "name": "greerviau/wingman",
-    "stars": 2,
-    "updated_at": "2026-08-03T04:06:17Z",
-    "url": "https://github.com/greerviau/wingman"
-  },
-  {
-    "description": "Render, batch, and optimize prompt templates from JSON variables, experiment matrices, and score files.",
-    "id": "itamaker/promptdeck-skill",
-    "language": "Go",
-    "name": "itamaker/promptdeck-skill",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:06:15Z",
-    "url": "https://github.com/itamaker/promptdeck-skill"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-08-03T04:03:57Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
   }
 ]
