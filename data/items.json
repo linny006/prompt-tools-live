@@ -1,5 +1,86 @@
 [
   {
+    "description": "LLM Profiles. Per-model tuning profiles that make AI agents call tools reliably across very different models.",
+    "id": "gonemedia/llm-profiles",
+    "language": "\u2014",
+    "name": "gonemedia/llm-profiles",
+    "stars": 2,
+    "updated_at": "2026-08-03T03:12:12Z",
+    "url": "https://github.com/gonemedia/llm-profiles"
+  },
+  {
+    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
+    "id": "lulin70/carrymem",
+    "language": "Python",
+    "name": "lulin70/carrymem",
+    "stars": 5,
+    "updated_at": "2026-08-03T03:12:13Z",
+    "url": "https://github.com/lulin70/carrymem"
+  },
+  {
+    "description": "Auto-derives codebase conventions from repo analysis and injects archetype-aware guidance into AI-generated code, enforc",
+    "id": "crisnahine/chameleon",
+    "language": "Python",
+    "name": "crisnahine/chameleon",
+    "stars": 9,
+    "updated_at": "2026-08-03T03:10:55Z",
+    "url": "https://github.com/crisnahine/chameleon"
+  },
+  {
+    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
+    "id": "yptang98/CostMarshal",
+    "language": "Python",
+    "name": "yptang98/CostMarshal",
+    "stars": 4,
+    "updated_at": "2026-08-03T03:06:36Z",
+    "url": "https://github.com/yptang98/CostMarshal"
+  },
+  {
+    "description": "Reusable Claude Code skills: teach-while-building, factual rigor, an automation system-map generator, and Anthropic's be",
+    "id": "nataliacorrea03/claude-code-skills",
+    "language": "Python",
+    "name": "nataliacorrea03/claude-code-skills",
+    "stars": 4,
+    "updated_at": "2026-08-03T03:04:50Z",
+    "url": "https://github.com/nataliacorrea03/claude-code-skills"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1751,
+    "updated_at": "2026-08-03T03:04:08Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "OpenAI Codex Skill and system prompt generator for AI agents: build six-part XML LLM prompts, then execute them immediat",
+    "id": "DeAI1227/God-Of-Prompt",
+    "language": "\u2014",
+    "name": "DeAI1227/God-Of-Prompt",
+    "stars": 1,
+    "updated_at": "2026-08-03T03:02:48Z",
+    "url": "https://github.com/DeAI1227/God-Of-Prompt"
+  },
+  {
+    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
+    "id": "wrg32786/aigent-os",
+    "language": "JavaScript",
+    "name": "wrg32786/aigent-os",
+    "stars": 13,
+    "updated_at": "2026-08-03T03:01:27Z",
+    "url": "https://github.com/wrg32786/aigent-os"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T03:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Claude Code skill that delegates design divergence to seeded dice, so AI-built UIs stop sharing one fingerprint without ",
     "id": "zet-2/anti-default-design",
     "language": "Shell",
@@ -16,15 +97,6 @@
     "stars": 15,
     "updated_at": "2026-08-03T02:58:31Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "PDF-led Codex Skill that builds a six-part XML system prompt from a requirement and executes it immediately.",
-    "id": "DeAI1227/God-Of-Prompt",
-    "language": "\u2014",
-    "name": "DeAI1227/God-Of-Prompt",
-    "stars": 1,
-    "updated_at": "2026-08-03T03:00:24Z",
-    "url": "https://github.com/DeAI1227/God-Of-Prompt"
   },
   {
     "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
@@ -112,7 +184,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 64103,
+    "stars": 64106,
     "updated_at": "2026-08-03T02:48:59Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -133,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T02:45:39Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T02:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
@@ -212,7 +275,7 @@
     "language": "TypeScript",
     "name": "rockbenben/ChatGPT-Shortcut",
     "stars": 8659,
-    "updated_at": "2026-08-03T02:30:07Z",
+    "updated_at": "2026-08-03T03:00:52Z",
     "url": "https://github.com/rockbenben/ChatGPT-Shortcut"
   },
   {
@@ -232,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T02:26:34Z",
     "url": "https://github.com/tertiarycourses/C924---Generative-AI-for-Design-Thinking"
-  },
-  {
-    "description": "Cost-aware multi-model orchestration for Codex CLI: route hard work to strong agents, replay proven paths with cheaper a",
-    "id": "yptang98/CostMarshal",
-    "language": "Python",
-    "name": "yptang98/CostMarshal",
-    "stars": 3,
-    "updated_at": "2026-08-03T02:25:50Z",
-    "url": "https://github.com/yptang98/CostMarshal"
   },
   {
     "description": "Hands-on labs and courseware for Generative AI for LinkedIn Lead Generation (C802) \u2014 6 connected practical activities fr",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T02:21:55Z",
     "url": "https://github.com/tertiarycourses/C037---Generative-AI-for-Concept-Art"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-03T02:21:52Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
-    "id": "F-e-u-e-r/opus-pack",
-    "language": "Python",
-    "name": "F-e-u-e-r/opus-pack",
-    "stars": 2,
-    "updated_at": "2026-08-03T02:21:50Z",
-    "url": "https://github.com/F-e-u-e-r/opus-pack"
-  },
-  {
-    "description": "Hands-on labs and courseware for Generative AI for Project Management (C013) \u2014 9 connected practical activities from Bui",
-    "id": "tertiarycourses/C013---Generative-AI-for-Project-Management",
-    "language": "Python",
-    "name": "tertiarycourses/C013---Generative-AI-for-Project-Management",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:21:38Z",
-    "url": "https://github.com/tertiarycourses/C013---Generative-AI-for-Project-Management"
-  },
-  {
-    "description": "pytest for LLM prompts \u2014 a regression-testing harness that catches when a prompt or model change silently regresses outp",
-    "id": "Danush-Aries/promptdiff",
-    "language": "Python",
-    "name": "Danush-Aries/promptdiff",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:17:22Z",
-    "url": "https://github.com/Danush-Aries/promptdiff"
-  },
-  {
-    "description": "German AI Text Humanizer for Claude Code & Codex. Audits 72 German AI-writing patterns using deterministic linters and e",
-    "id": "marmbiz/humanizer-de",
-    "language": "Python",
-    "name": "marmbiz/humanizer-de",
-    "stars": 77,
-    "updated_at": "2026-08-03T02:16:43Z",
-    "url": "https://github.com/marmbiz/humanizer-de"
-  },
-  {
-    "description": "\u591a\u667a\u80fd\u4f53\u534f\u540c\u5f71\u89c6\u5de5\u4e1a\u5316AI\u5de5\u4f5c\u53f0 | \u5185\u7f6e\u7f16\u5267\u5ba4SOP + AI\u89c6\u9891\u5206\u955c\u63d0\u793a\u8bcd\u5f15\u64ce + \u957f\u6587\u672c\u6df1\u5ea6\u5904\u7406 | \u652f\u630112+ LLM\u670d\u52a1\u5546",
-    "id": "slipknot0130/Film-Production-Toolkit",
-    "language": "Python",
-    "name": "slipknot0130/Film-Production-Toolkit",
-    "stars": 8,
-    "updated_at": "2026-08-03T02:14:56Z",
-    "url": "https://github.com/slipknot0130/Film-Production-Toolkit"
   }
 ]
