@@ -1,12 +1,93 @@
 [
   {
+    "description": "Source-linked AGENTS.md, CLAUDE.md, GEMINI.md, and SKILL.md examples from frontier labs and leading AI builders.",
+    "id": "marco-trotta1/awesome-agents-md",
+    "language": "\u2014",
+    "name": "marco-trotta1/awesome-agents-md",
+    "stars": 1,
+    "updated_at": "2026-08-03T05:29:17Z",
+    "url": "https://github.com/marco-trotta1/awesome-agents-md"
+  },
+  {
+    "description": "16 skills for Claude Code and Codex: focused execution with durable evidence and independent verification",
+    "id": "Drizzy07x/cognitive-powers",
+    "language": "Python",
+    "name": "Drizzy07x/cognitive-powers",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:27:44Z",
+    "url": "https://github.com/Drizzy07x/cognitive-powers"
+  },
+  {
+    "description": "22-agent Mixture-of-Agents pipeline with LongLoop for 24h autonomous iteration: smart routing sends easy tasks to Flash,",
+    "id": "ZenHG/opencode-moa",
+    "language": "PowerShell",
+    "name": "ZenHG/opencode-moa",
+    "stars": 3,
+    "updated_at": "2026-08-03T05:27:33Z",
+    "url": "https://github.com/ZenHG/opencode-moa"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 476,
+    "updated_at": "2026-08-03T05:29:15Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "eval-driven ci gate for llm quality - fail the build when a prompt change regresses",
+    "id": "parag-labs/eval-forge",
+    "language": "Python",
+    "name": "parag-labs/eval-forge",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:24:59Z",
+    "url": "https://github.com/parag-labs/eval-forge"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-08-03T05:24:19Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
+    "id": "Forest-Project-Lab/doctrine",
+    "language": "Python",
+    "name": "Forest-Project-Lab/doctrine",
+    "stars": 1,
+    "updated_at": "2026-08-03T05:18:39Z",
+    "url": "https://github.com/Forest-Project-Lab/doctrine"
+  },
+  {
     "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
     "id": "terrylica/cc-skills",
     "language": "Shell",
     "name": "terrylica/cc-skills",
     "stars": 61,
-    "updated_at": "2026-08-03T05:14:16Z",
+    "updated_at": "2026-08-03T05:15:43Z",
     "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T05:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 64130,
+    "updated_at": "2026-08-03T05:13:23Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Agent-driven pipeline for rebuilding study decks against course modules. Restructures cards, fills gaps, verifies every ",
@@ -22,7 +103,7 @@
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13043,
+    "stars": 13044,
     "updated_at": "2026-08-03T05:10:46Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
@@ -72,15 +153,6 @@
     "url": "https://github.com/smixs/skill-conductor"
   },
   {
-    "description": "16 skills for Claude Code and Codex: focused execution with durable evidence and independent verification",
-    "id": "Drizzy07x/cognitive-powers",
-    "language": "Python",
-    "name": "Drizzy07x/cognitive-powers",
-    "stars": 0,
-    "updated_at": "2026-08-03T05:01:47Z",
-    "url": "https://github.com/Drizzy07x/cognitive-powers"
-  },
-  {
     "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
     "id": "agungkesmas/recallfox",
     "language": "JavaScript",
@@ -97,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-08-03T05:01:06Z",
     "url": "https://github.com/yptang98/CostMarshal"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T05:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "LLM Profiles. Per-model tuning profiles that make AI agents call tools reliably across very different models.",
@@ -193,7 +256,7 @@
     "id": "vllm-project/semantic-router",
     "language": "Go",
     "name": "vllm-project/semantic-router",
-    "stars": 5104,
+    "stars": 5105,
     "updated_at": "2026-08-03T04:47:33Z",
     "url": "https://github.com/vllm-project/semantic-router"
   },
@@ -247,7 +310,7 @@
     "id": "foryourhealth111-pixel/Vibe-Skills",
     "language": "Python",
     "name": "foryourhealth111-pixel/Vibe-Skills",
-    "stars": 2578,
+    "stars": 2579,
     "updated_at": "2026-08-03T04:44:21Z",
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills"
   },
@@ -256,7 +319,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 5020,
+    "stars": 5021,
     "updated_at": "2026-08-03T04:44:00Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T04:29:48Z",
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
-    "id": "conorbronsdon/avoid-ai-writing",
-    "language": "JavaScript",
-    "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 2760,
-    "updated_at": "2026-08-03T05:13:28Z",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
-  },
-  {
-    "description": "\ud83e\udde0 AI Prompt \u77e5\u8bc6\u5e93 \u2014 \u6c89\u6dc0 Prompt Engineering \u8ba4\u77e5\u6a21\u578b\u3001\u5de5\u4f5c\u6d41\u6a21\u677f\u4e0e\u6280\u672f\u7b14\u8bb0 | A curated knowledge base for AI prompt engineering, cognitive ",
-    "id": "unix2dos/brain-prompts",
-    "language": "Python",
-    "name": "unix2dos/brain-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-03T04:24:22Z",
-    "url": "https://github.com/unix2dos/brain-prompts"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 15,
-    "updated_at": "2026-08-03T04:23:31Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "\u786e\u5b9a\u6027\u6545\u4e8b\u751f\u6210\u5f15\u64ce\uff1a\u57fa\u4e8e\u56e0\u679c\u903b\u8f91\u5ba1\u8ba1\u7684\u53d9\u4e8b\u751f\u6210\u5de5\u5177\uff0c\u4fdd\u6301\u89d2\u8272\u6027\u683c\u4e0e\u5267\u60c5\u53d1\u5c55\u5b8c\u5168\u4e00\u81f4\uff0c\u5f7b\u5e95\u6d88\u9664\u903b\u8f91\u6f0f\u6d1e\u4e0e\u8bbe\u5b9a\u51b2\u7a81\uff0c\u9002\u7528\u4e8e\u6e38\u620f\u53d9\u4e8b\u3001\u5f71\u89c6\u5267\u672c\u521b\u4f5c\u3001\u4e92\u52a8\u5c0f\u8bf4\u3001IP\u5185\u5bb9\u751f\u4ea7\u3001AIGC\u5185\u5bb9\u751f\u6210\u573a\u666f\u3002",
-    "id": "nohn3043-arch/story-engine",
-    "language": "Python",
-    "name": "nohn3043-arch/story-engine",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:16:18Z",
-    "url": "https://github.com/nohn3043-arch/story-engine"
-  },
-  {
-    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
-    "id": "f/prompts.chat",
-    "language": "HTML",
-    "name": "f/prompts.chat",
-    "stars": 166653,
-    "updated_at": "2026-08-03T04:16:11Z",
-    "url": "https://github.com/f/prompts.chat"
-  },
-  {
-    "description": "\u62df\u4eba\u5316AI\u89d2\u8272\u5f15\u64ce\uff1a\u57fa\u4e8eSPL\u5ba1\u8ba1\u5f15\u64ce\u7684\u6807\u51c6\u5316\u667a\u80fd\u4f53\u6a21\u677f\uff0c\u5feb\u901f\u751f\u6210\u9ad8\u4e00\u81f4\u6027AI\u89d2\u8272\uff0c\u901a\u8fc7\u56e0\u679c\u951a\u5b9a\u4e0e\u5168\u903b\u8f91\u5ba1\u8ba1\u5f7b\u5e95\u6d88\u9664OOC\u3001\u60c5\u611f\u6f02\u79fb\u548c\u8bb0\u5fc6\u4e22\u5931\uff0c\u4e3aAI\u966a\u4f34\u3001\u6570\u5b57\u4eba\u3001\u4ea4\u4e92\u53d9\u4e8b\u3001\u667a\u80fd\u5ba2\u670d\u3001\u865a\u62df\u5076\u50cf\u63d0\u4f9b\u53ef\u9760\u5e95\u5c42\u6846\u67b6\u3002",
-    "id": "nohn3043-arch/Anthropomorphic-Agent-Engine",
-    "language": "Python",
-    "name": "nohn3043-arch/Anthropomorphic-Agent-Engine",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:09:59Z",
-    "url": "https://github.com/nohn3043-arch/Anthropomorphic-Agent-Engine"
-  },
-  {
-    "description": "An Agent Skill that directs serialized first-person POV AI video: reusable assets, image-locked generation, clip packing",
-    "id": "livingghost/pov-series-director",
-    "language": "Python",
-    "name": "livingghost/pov-series-director",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:10:29Z",
-    "url": "https://github.com/livingghost/pov-series-director"
   }
 ]
