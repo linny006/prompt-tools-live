@@ -1,5 +1,131 @@
 [
   {
+    "description": "A cross-linked Obsidian knowledge base on Claude Code and AI agent engineering \u2014 context engineering, agent architecture",
+    "id": "amnotwallas/claude-code-agents-kb",
+    "language": "\u2014",
+    "name": "amnotwallas/claude-code-agents-kb",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:58:39Z",
+    "url": "https://github.com/amnotwallas/claude-code-agents-kb"
+  },
+  {
+    "description": "Skill de c\u00f3digo abierto para analizar campa\u00f1as negativas en discurso pol\u00edtico. Basada en Matamoros y Soto (2025), U. Cen",
+    "id": "rizomaai/negative-campaign-monitor",
+    "language": "\u2014",
+    "name": "rizomaai/negative-campaign-monitor",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:58:32Z",
+    "url": "https://github.com/rizomaai/negative-campaign-monitor"
+  },
+  {
+    "description": "\u4e2d\u6587 VOX \u7eb8\u5f20\u62fc\u8d34 AI \u89c6\u9891\u5de5\u4f5c\u6d41\uff1a\u98ce\u683c\u677f\u3001\u56fe\u7247\u63d0\u793a\u8bcd\u4e0e\u89c6\u9891\u63d0\u793a\u8bcd",
+    "id": "AuroraBarista/vox-style-ai-video-prompts",
+    "language": "\u2014",
+    "name": "AuroraBarista/vox-style-ai-video-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:58:22Z",
+    "url": "https://github.com/AuroraBarista/vox-style-ai-video-prompts"
+  },
+  {
+    "description": "OpenCode + Oh-My-OpenAgent configuration stack: auto-rules, model routing, scripts, ADRs, search infrastructure, and doc",
+    "id": "B67687/Agent-Stack",
+    "language": "Shell",
+    "name": "B67687/Agent-Stack",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:57:42Z",
+    "url": "https://github.com/B67687/Agent-Stack"
+  },
+  {
+    "description": "MCP prompt template server: hot-reload, thinking frameworks, quality gates",
+    "id": "minipuft/claude-prompts",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts",
+    "stars": 182,
+    "updated_at": "2026-08-03T01:58:06Z",
+    "url": "https://github.com/minipuft/claude-prompts"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 1,
+    "updated_at": "2026-08-03T01:55:50Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-08-03T01:54:28Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "",
+    "id": "ZhiMaHang/playbook",
+    "language": "Python",
+    "name": "ZhiMaHang/playbook",
+    "stars": 1,
+    "updated_at": "2026-08-03T01:49:31Z",
+    "url": "https://github.com/ZhiMaHang/playbook"
+  },
+  {
+    "description": "\ud83d\udc69\u200d\ud83d\udcbb\u270d\ufe0f Prompt orchestration with Vue/React components. Compatible on any Node.js/browser runtime. No more context renderi",
+    "id": "moeru-ai/velin",
+    "language": "TypeScript",
+    "name": "moeru-ai/velin",
+    "stars": 75,
+    "updated_at": "2026-08-03T01:54:05Z",
+    "url": "https://github.com/moeru-ai/velin"
+  },
+  {
+    "description": "\ud83c\udf4c The largest Nano Banana Pro prompt library \u2014 26,648 prompts, daily updates, HuggingFace dataset download. More than an",
+    "id": "goku-open/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "goku-open/awesome-nano-banana-pro-prompts",
+    "stars": 1,
+    "updated_at": "2026-08-03T01:48:53Z",
+    "url": "https://github.com/goku-open/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
+    "id": "YouMind-OpenLab/awesome-gpt-image-2",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-2",
+    "stars": 9045,
+    "updated_at": "2026-08-03T01:48:21Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
+  },
+  {
+    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
+    "id": "Forest-Project-Lab/doctrine",
+    "language": "Python",
+    "name": "Forest-Project-Lab/doctrine",
+    "stars": 1,
+    "updated_at": "2026-08-03T01:47:58Z",
+    "url": "https://github.com/Forest-Project-Lab/doctrine"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T01:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Prompt, context, harness, loop, and graph engineering: a notebook guide to designing reliable AI systems",
+    "id": "chbayah-sudo/ai-systems-engineering-guide",
+    "language": "Jupyter Notebook",
+    "name": "chbayah-sudo/ai-systems-engineering-guide",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:44:58Z",
+    "url": "https://github.com/chbayah-sudo/ai-systems-engineering-guide"
+  },
+  {
     "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
     "id": "synaptiai/synapti-marketplace",
     "language": "Shell",
@@ -45,15 +171,6 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "MCP prompt template server: hot-reload, thinking frameworks, quality gates",
-    "id": "minipuft/claude-prompts",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts",
-    "stars": 182,
-    "updated_at": "2026-08-03T01:42:27Z",
-    "url": "https://github.com/minipuft/claude-prompts"
-  },
-  {
     "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
     "id": "derob98/ailmanac",
     "language": "MDX",
@@ -61,24 +178,6 @@
     "stars": 7,
     "updated_at": "2026-08-03T01:37:55Z",
     "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
-    "id": "Forest-Project-Lab/doctrine",
-    "language": "Python",
-    "name": "Forest-Project-Lab/doctrine",
-    "stars": 1,
-    "updated_at": "2026-08-03T01:37:27Z",
-    "url": "https://github.com/Forest-Project-Lab/doctrine"
-  },
-  {
-    "description": "A cross-linked Obsidian knowledge base on Claude Code and AI agent engineering \u2014 context engineering, agent architecture",
-    "id": "amnotwallas/claude-code-agents-kb",
-    "language": "\u2014",
-    "name": "amnotwallas/claude-code-agents-kb",
-    "stars": 0,
-    "updated_at": "2026-08-03T01:37:11Z",
-    "url": "https://github.com/amnotwallas/claude-code-agents-kb"
   },
   {
     "description": "An experimental Markdown-native specification language for readable, reusable, composable prompts",
@@ -115,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T01:32:43Z",
     "url": "https://github.com/Drizzy07x/cognitive-powers"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T01:30:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
@@ -301,7 +391,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23853,
+    "stars": 23854,
     "updated_at": "2026-08-03T01:02:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -358,95 +448,5 @@
     "stars": 27333,
     "updated_at": "2026-08-03T00:34:20Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21069,
-    "updated_at": "2026-08-03T01:04:26Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-    "id": "kyegomez/swarms",
-    "language": "Python",
-    "name": "kyegomez/swarms",
-    "stars": 7019,
-    "updated_at": "2026-08-03T00:29:44Z",
-    "url": "https://github.com/kyegomez/swarms"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
-    "id": "astorie-ai/awesome-seedance-2-prompt",
-    "language": "Shell",
-    "name": "astorie-ai/awesome-seedance-2-prompt",
-    "stars": 11,
-    "updated_at": "2026-08-03T00:26:22Z",
-    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 847,
-    "updated_at": "2026-08-03T01:40:53Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Free Claude Code & Cursor prompts for senior engineers \u2014 plus AIOS, an open-source markdown memory system for coding ",
-    "id": "sublimecoder/sublimecoding",
-    "language": "\u2014",
-    "name": "sublimecoder/sublimecoding",
-    "stars": 0,
-    "updated_at": "2026-08-03T00:23:18Z",
-    "url": "https://github.com/sublimecoder/sublimecoding"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13034,
-    "updated_at": "2026-08-03T00:22:57Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-08-03T00:15:30Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-03T00:15:05Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-08-03T00:15:03Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "\u591a\u667a\u80fd\u4f53\u534f\u540c\u5f71\u89c6\u5de5\u4e1a\u5316AI\u5de5\u4f5c\u53f0 | \u5185\u7f6e\u7f16\u5267\u5ba4SOP + AI\u89c6\u9891\u5206\u955c\u63d0\u793a\u8bcd\u5f15\u64ce + \u957f\u6587\u672c\u6df1\u5ea6\u5904\u7406 | \u652f\u630112+ LLM\u670d\u52a1\u5546",
-    "id": "slipknot0130/Film-Production-Toolkit",
-    "language": "Python",
-    "name": "slipknot0130/Film-Production-Toolkit",
-    "stars": 8,
-    "updated_at": "2026-08-03T00:14:31Z",
-    "url": "https://github.com/slipknot0130/Film-Production-Toolkit"
   }
 ]
