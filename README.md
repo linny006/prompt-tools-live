@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 18:13 UTC
+> ⏰ Last updated: 2026-08-03 18:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [llwslc/proteus](https://github.com/llwslc/proteus) | 2 | HTML | 2026-08-03 | UI kits grown by AI from a prompt-tree spec — one 37-control Base UI contract, six radically different design languages, |
-| 2 | [changkun/goalless-agents](https://github.com/changkun/goalless-agents) | 2 | Python | 2026-08-03 | Intrinsic preferences of AI coding agents under underspecified prompts: Experiments across models (Claude, Gemini, GPT,  |
-| 3 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-08-03 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 4 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-03 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 5 | [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | 1764 | TypeScript | 2026-08-03 | 🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API g |
-| 6 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-03 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
-| 7 | [mrwogu/promptscript](https://github.com/mrwogu/promptscript) | 476 | TypeScript | 2026-08-03 | Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant. |
-| 8 | [synaptiai/synapti-marketplace](https://github.com/synaptiai/synapti-marketplace) | 6 | Shell | 2026-08-03 | The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced  |
-| 9 | [arthjean/distill](https://github.com/arthjean/distill) | 6 | Rust | 2026-08-03 | Your agent wastes context. Distill fixes it. |
-| 10 | [zmustafa/MultiChat](https://github.com/zmustafa/MultiChat) | 2 | TypeScript | 2026-08-03 | Broadcast one prompt to 2-6 AI models side-by-side - or convene them as a deliberative panel: an AI-only Habermas Machin |
-| 11 | [yashwanthlwork/AI-Document-Intelligence-API](https://github.com/yashwanthlwork/AI-Document-Intelligence-API) | 0 | Python | 2026-08-03 | AI-Document-Intelligence-API is an AI-powered Intelligent Document Processing (IDP) backend built with FastAPI, PostgreS |
-| 12 | [rldyourmnd/local-llm-prompt-optimizer](https://github.com/rldyourmnd/local-llm-prompt-optimizer) | 4 | Python | 2026-08-03 | Offline prompt A/B testing, scoring & auto-tuning for local LLMs |
-| 13 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-08-03 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-08-03 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [llwslc/proteus](https://github.com/llwslc/proteus) | 2 | HTML | 2026-08-03 | UI kits grown by AI from a prompt-tree spec — one 37-control Base UI contract, six radically different design languages, |
+| 3 | [changkun/goalless-agents](https://github.com/changkun/goalless-agents) | 2 | Python | 2026-08-03 | Intrinsic preferences of AI coding agents under underspecified prompts: Experiments across models (Claude, Gemini, GPT,  |
+| 4 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-08-03 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 5 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-03 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 6 | [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | 1764 | TypeScript | 2026-08-03 | 🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API g |
+| 7 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-03 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
+| 8 | [mrwogu/promptscript](https://github.com/mrwogu/promptscript) | 476 | TypeScript | 2026-08-03 | Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant. |
+| 9 | [synaptiai/synapti-marketplace](https://github.com/synaptiai/synapti-marketplace) | 6 | Shell | 2026-08-03 | The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced  |
+| 10 | [arthjean/distill](https://github.com/arthjean/distill) | 6 | Rust | 2026-08-03 | Your agent wastes context. Distill fixes it. |
+| 11 | [zmustafa/MultiChat](https://github.com/zmustafa/MultiChat) | 2 | TypeScript | 2026-08-03 | Broadcast one prompt to 2-6 AI models side-by-side - or convene them as a deliberative panel: an AI-only Habermas Machin |
+| 12 | [yashwanthlwork/AI-Document-Intelligence-API](https://github.com/yashwanthlwork/AI-Document-Intelligence-API) | 0 | Python | 2026-08-03 | AI-Document-Intelligence-API is an AI-powered Intelligent Document Processing (IDP) backend built with FastAPI, PostgreS |
+| 13 | [rldyourmnd/local-llm-prompt-optimizer](https://github.com/rldyourmnd/local-llm-prompt-optimizer) | 4 | Python | 2026-08-03 | Offline prompt A/B testing, scoring & auto-tuning for local LLMs |
 | 14 | [OpenCnid/subagent-composition](https://github.com/OpenCnid/subagent-composition) | 3 | Shell | 2026-08-03 | A Claude Code skill that composes sub-agents on the fly — plus the live probe evidence for how the sub-agent boundary ac |
 | 15 | [promptphp/deck](https://github.com/promptphp/deck) | 104 | PHP | 2026-08-03 | A Laravel package for versioned AI prompt management with variable interpolation, performance tracking & A/B testing. |
 | 16 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-08-03 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
