@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 24,
+    "updated_at": "2026-08-03T20:50:49Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Codex skill: \u4ece motionsites.ai \u67e5\u627e\u5339\u914d\u7684\u7f51\u9875\u63d0\u793a\u8bcd\u5e76\u7ed9\u51fa\u9488\u5bf9\u9879\u76ee\u7684\u4f18\u5316\u65b9\u6848",
+    "id": "bingo33-gif/motionsites-promptcapture",
+    "language": "\u2014",
+    "name": "bingo33-gif/motionsites-promptcapture",
+    "stars": 0,
+    "updated_at": "2026-08-03T20:49:31Z",
+    "url": "https://github.com/bingo33-gif/motionsites-promptcapture"
+  },
+  {
+    "description": "AI agents now operate with authority. Authority without discipline is how complex systems fail. Nuclear\u2019s control loop, ",
+    "id": "FlyFission/nuclear-grade-context-engineering",
+    "language": "Python",
+    "name": "FlyFission/nuclear-grade-context-engineering",
+    "stars": 33,
+    "updated_at": "2026-08-03T20:49:19Z",
+    "url": "https://github.com/FlyFission/nuclear-grade-context-engineering"
+  },
+  {
+    "description": "A profiler for your agentic harness. Price every line of CLAUDE.md, every skill, subagent and MCP tool schema \u2014 then fin",
+    "id": "alebgl77/harnessmeter",
+    "language": "TypeScript",
+    "name": "alebgl77/harnessmeter",
+    "stars": 0,
+    "updated_at": "2026-08-03T20:49:19Z",
+    "url": "https://github.com/alebgl77/harnessmeter"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-08-03T20:49:15Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "AI Governance",
+    "id": "karunmehta-aigp/AI-Governance",
+    "language": "\u2014",
+    "name": "karunmehta-aigp/AI-Governance",
+    "stars": 1,
+    "updated_at": "2026-08-03T20:48:05Z",
+    "url": "https://github.com/karunmehta-aigp/AI-Governance"
+  },
+  {
+    "description": "Design multi-step AI agent skills that resume, retry, and gate destructive actions. Runtime-neutral SKILL.md guidance.",
+    "id": "clearlane/workflow-skills",
+    "language": "Python",
+    "name": "clearlane/workflow-skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T20:46:14Z",
+    "url": "https://github.com/clearlane/workflow-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T20:45:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
     "id": "apoapostolov/humanizer",
     "language": "JavaScript",
@@ -7,6 +79,15 @@
     "stars": 3,
     "updated_at": "2026-08-03T20:45:18Z",
     "url": "https://github.com/apoapostolov/humanizer"
+  },
+  {
+    "description": "An unofficial, scenario-driven study guide, practice environment, and hands-on lab repository for the Claude Certified A",
+    "id": "raybeecham/claude-certified-associate-foundations",
+    "language": "Python",
+    "name": "raybeecham/claude-certified-associate-foundations",
+    "stars": 0,
+    "updated_at": "2026-08-03T20:45:06Z",
+    "url": "https://github.com/raybeecham/claude-certified-associate-foundations"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -45,30 +126,12 @@
     "url": "https://github.com/ariffazil/arifOS"
   },
   {
-    "description": "AI Governance",
-    "id": "karunmehta-aigp/AI-Governance",
-    "language": "\u2014",
-    "name": "karunmehta-aigp/AI-Governance",
-    "stars": 1,
-    "updated_at": "2026-08-03T20:41:14Z",
-    "url": "https://github.com/karunmehta-aigp/AI-Governance"
-  },
-  {
-    "description": "Design multi-step AI agent skills that resume, retry, and gate destructive actions. Runtime-neutral SKILL.md guidance.",
-    "id": "clearlane/workflow-skills",
-    "language": "Python",
-    "name": "clearlane/workflow-skills",
-    "stars": 0,
-    "updated_at": "2026-08-03T20:45:24Z",
-    "url": "https://github.com/clearlane/workflow-skills"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3463,
-    "updated_at": "2026-08-03T20:44:54Z",
+    "updated_at": "2026-08-03T20:48:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -90,15 +153,6 @@
     "url": "https://github.com/use-crux/crux"
   },
   {
-    "description": "An unofficial, scenario-driven study guide, practice environment, and hands-on lab repository for the Claude Certified A",
-    "id": "raybeecham/claude-certified-associate-foundations",
-    "language": "Python",
-    "name": "raybeecham/claude-certified-associate-foundations",
-    "stars": 0,
-    "updated_at": "2026-08-03T20:45:06Z",
-    "url": "https://github.com/raybeecham/claude-certified-associate-foundations"
-  },
-  {
     "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
     "id": "Forest-Project-Lab/doctrine",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T20:38:37Z",
     "url": "https://github.com/Forest-Project-Lab/doctrine"
-  },
-  {
-    "description": "A profiler for your agentic harness. Price every line of CLAUDE.md, every skill, subagent and MCP tool schema \u2014 then fin",
-    "id": "alebgl77/harnessmeter",
-    "language": "TypeScript",
-    "name": "alebgl77/harnessmeter",
-    "stars": 0,
-    "updated_at": "2026-08-03T20:35:46Z",
-    "url": "https://github.com/alebgl77/harnessmeter"
   },
   {
     "description": "Personal context storage in OKF format",
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23881,
-    "updated_at": "2026-08-03T20:32:14Z",
+    "updated_at": "2026-08-03T20:51:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-08-03T20:31:30Z",
     "url": "https://github.com/adrianwedd/cv"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T20:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-03T20:02:58Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-08-03T20:00:49Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-03T20:00:46Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "AI-powered Customer Success workflow built in n8n that transforms executive meeting notes into structured follow-up repo",
-    "id": "smevans-AIworkflows/AI-Meeting-Follow-Up-Agent",
-    "language": "HTML",
-    "name": "smevans-AIworkflows/AI-Meeting-Follow-Up-Agent",
-    "stars": 1,
-    "updated_at": "2026-08-03T20:00:42Z",
-    "url": "https://github.com/smevans-AIworkflows/AI-Meeting-Follow-Up-Agent"
-  },
-  {
-    "description": "Agent skill for writing MiniMax-H3 video-with-native-audio prompts (Ref2VA and T2VA)",
-    "id": "Hearmeman24/minimax-worldbuilder",
-    "language": "\u2014",
-    "name": "Hearmeman24/minimax-worldbuilder",
-    "stars": 0,
-    "updated_at": "2026-08-03T20:00:38Z",
-    "url": "https://github.com/Hearmeman24/minimax-worldbuilder"
   }
 ]
