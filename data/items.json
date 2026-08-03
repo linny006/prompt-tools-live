@@ -1,5 +1,113 @@
 [
   {
+    "description": "A reusable writing skill that helps AI agents produce clear, human-readable technical Chinese for reports, explanations,",
+    "id": "AIALRA-0/agent-human-readable-technical-writing",
+    "language": "PowerShell",
+    "name": "AIALRA-0/agent-human-readable-technical-writing",
+    "stars": 0,
+    "updated_at": "2026-08-03T03:44:32Z",
+    "url": "https://github.com/AIALRA-0/agent-human-readable-technical-writing"
+  },
+  {
+    "description": "OpenAI Codex Skill and system prompt generator for AI agents: build six-part XML LLM prompts, then execute them immediat",
+    "id": "DeAI1227/God-Of-Prompt",
+    "language": "\u2014",
+    "name": "DeAI1227/God-Of-Prompt",
+    "stars": 1,
+    "updated_at": "2026-08-03T03:41:55Z",
+    "url": "https://github.com/DeAI1227/God-Of-Prompt"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 0,
+    "updated_at": "2026-08-03T03:37:50Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 40607,
+    "updated_at": "2026-08-03T03:42:41Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
+    "id": "Raymondhou0917/speak-human-tw",
+    "language": "Python",
+    "name": "Raymondhou0917/speak-human-tw",
+    "stars": 734,
+    "updated_at": "2026-08-03T03:36:18Z",
+    "url": "https://github.com/Raymondhou0917/speak-human-tw"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-08-03T03:35:07Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32378,
+    "updated_at": "2026-08-03T03:34:47Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1804,
+    "updated_at": "2026-08-03T03:34:22Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "",
+    "id": "ZhiMaHang/playbook",
+    "language": "Python",
+    "name": "ZhiMaHang/playbook",
+    "stars": 1,
+    "updated_at": "2026-08-03T03:32:13Z",
+    "url": "https://github.com/ZhiMaHang/playbook"
+  },
+  {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
+    "language": "JavaScript",
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 2758,
+    "updated_at": "2026-08-03T03:43:31Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "Quillan-Ronin - an attempt at a mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v6.",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "Python",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 26,
+    "updated_at": "2026-08-03T03:31:20Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-03T03:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -72,24 +180,6 @@
     "url": "https://github.com/zerolabs-app/openclaw-community-prompt-library"
   },
   {
-    "description": "Quillan-Ronin - an attempt at a mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v6.",
-    "id": "leeex1/Quillan-Ronin",
-    "language": "Python",
-    "name": "leeex1/Quillan-Ronin",
-    "stars": 26,
-    "updated_at": "2026-08-03T03:22:29Z",
-    "url": "https://github.com/leeex1/Quillan-Ronin"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 40603,
-    "updated_at": "2026-08-03T03:22:09Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
     "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
     "id": "lulin70/carrymem",
     "language": "Python",
@@ -99,15 +189,6 @@
     "url": "https://github.com/lulin70/carrymem"
   },
   {
-    "description": "OpenAI Codex Skill and system prompt generator for AI agents: build six-part XML LLM prompts, then execute them immediat",
-    "id": "DeAI1227/God-Of-Prompt",
-    "language": "\u2014",
-    "name": "DeAI1227/God-Of-Prompt",
-    "stars": 1,
-    "updated_at": "2026-08-03T03:20:19Z",
-    "url": "https://github.com/DeAI1227/God-Of-Prompt"
-  },
-  {
     "description": "Bilingual agent workflow contracts, PR review templates, and sync automation for AI-assisted development",
     "id": "wlvh/coding-workflow",
     "language": "Python",
@@ -115,24 +196,6 @@
     "stars": 5,
     "updated_at": "2026-08-03T03:19:00Z",
     "url": "https://github.com/wlvh/coding-workflow"
-  },
-  {
-    "description": "A reusable writing skill that helps AI agents produce clear, human-readable technical Chinese for reports, explanations,",
-    "id": "AIALRA-0/agent-human-readable-technical-writing",
-    "language": "PowerShell",
-    "name": "AIALRA-0/agent-human-readable-technical-writing",
-    "stars": 0,
-    "updated_at": "2026-08-03T03:15:54Z",
-    "url": "https://github.com/AIALRA-0/agent-human-readable-technical-writing"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-03T03:15:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
@@ -184,7 +247,7 @@
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1752,
+    "stars": 1753,
     "updated_at": "2026-08-03T03:04:08Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
@@ -230,7 +293,7 @@
     "language": "Go",
     "name": "vllm-project/semantic-router",
     "stars": 5103,
-    "updated_at": "2026-08-03T03:20:52Z",
+    "updated_at": "2026-08-03T03:40:44Z",
     "url": "https://github.com/vllm-project/semantic-router"
   },
   {
@@ -301,7 +364,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 64110,
+    "stars": 64115,
     "updated_at": "2026-08-03T02:48:59Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -360,15 +423,6 @@
     "url": "https://github.com/ZenHG/opencode-moa"
   },
   {
-    "description": "",
-    "id": "ZhiMaHang/playbook",
-    "language": "Python",
-    "name": "ZhiMaHang/playbook",
-    "stars": 1,
-    "updated_at": "2026-08-03T02:38:36Z",
-    "url": "https://github.com/ZhiMaHang/playbook"
-  },
-  {
     "description": "Helen Agent Develop Language ",
     "id": "hahalee000000/helen",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T02:26:34Z",
     "url": "https://github.com/tertiarycourses/C924---Generative-AI-for-Design-Thinking"
-  },
-  {
-    "description": "Hands-on labs and courseware for Generative AI for LinkedIn Lead Generation (C802) \u2014 6 connected practical activities fr",
-    "id": "tertiarycourses/C802---Generative-AI-for-LinkedIn-Lead-Generation",
-    "language": "Python",
-    "name": "tertiarycourses/C802---Generative-AI-for-LinkedIn-Lead-Generation",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:25:35Z",
-    "url": "https://github.com/tertiarycourses/C802---Generative-AI-for-LinkedIn-Lead-Generation"
-  },
-  {
-    "description": "Hands-on labs and courseware for Generative AI for Design Thinking (C688) \u2014 8 connected practical activities from Set Up",
-    "id": "tertiarycourses/C688---Generative-AI-for-Design-Thinking",
-    "language": "Python",
-    "name": "tertiarycourses/C688---Generative-AI-for-Design-Thinking",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:25:19Z",
-    "url": "https://github.com/tertiarycourses/C688---Generative-AI-for-Design-Thinking"
-  },
-  {
-    "description": "Hands-on labs and courseware for Generative AI for Business Presentation (C329) \u2014 10 connected practical activities from",
-    "id": "tertiarycourses/C329---Generative-AI-for-Business-Presentation",
-    "language": "Python",
-    "name": "tertiarycourses/C329---Generative-AI-for-Business-Presentation",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:24:34Z",
-    "url": "https://github.com/tertiarycourses/C329---Generative-AI-for-Business-Presentation"
-  },
-  {
-    "description": "Hands-on labs and courseware for Generative AI for Agile Project Management (C324) \u2014 12 connected practical activities f",
-    "id": "tertiarycourses/C324---Generative-AI-for-Agile-Project-Management",
-    "language": "Python",
-    "name": "tertiarycourses/C324---Generative-AI-for-Agile-Project-Management",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:24:26Z",
-    "url": "https://github.com/tertiarycourses/C324---Generative-AI-for-Agile-Project-Management"
-  },
-  {
-    "description": "Hands-on labs and courseware for Generative AI for Adobe Photoshop (C16) \u2014 10 connected practical activities from Get St",
-    "id": "tertiarycourses/C16---Generative-AI-for-Adobe-Photoshop",
-    "language": "Python",
-    "name": "tertiarycourses/C16---Generative-AI-for-Adobe-Photoshop",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:24:01Z",
-    "url": "https://github.com/tertiarycourses/C16---Generative-AI-for-Adobe-Photoshop"
-  },
-  {
-    "description": "Hands-on labs and courseware for Generative AI for 3D Modeling (C162) \u2014 9 connected practical activities from Get Starte",
-    "id": "tertiarycourses/C162---Generative-AI-for-3D-Modeling",
-    "language": "Python",
-    "name": "tertiarycourses/C162---Generative-AI-for-3D-Modeling",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:23:54Z",
-    "url": "https://github.com/tertiarycourses/C162---Generative-AI-for-3D-Modeling"
   }
 ]
