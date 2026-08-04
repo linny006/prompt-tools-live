@@ -1,5 +1,86 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21106,
+    "updated_at": "2026-08-04T17:30:27Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-08-04T17:29:02Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 54,
+    "updated_at": "2026-08-04T17:27:23Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "A Growing Arsenal of Agent Skills. Uncompromising Software Architecture | Curated AI agent workflows and skills for Curs",
+    "id": "Yaz-inc/yazinc-ai-toolkit",
+    "language": "HTML",
+    "name": "Yaz-inc/yazinc-ai-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:27:13Z",
+    "url": "https://github.com/Yaz-inc/yazinc-ai-toolkit"
+  },
+  {
+    "description": "GPT-5.6 Stop Overengineering: a tiny Agent Skill for stopping scope creep and endless test loops.",
+    "id": "Swallow100/gpt-5.6-stop-overengineering",
+    "language": "\u2014",
+    "name": "Swallow100/gpt-5.6-stop-overengineering",
+    "stars": 1,
+    "updated_at": "2026-08-04T17:26:54Z",
+    "url": "https://github.com/Swallow100/gpt-5.6-stop-overengineering"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 23,
+    "updated_at": "2026-08-04T17:26:44Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Deterministic benchmark for agent instruction adherence, with token and round-trip cost verified by a recording proxy",
+    "id": "TGPSKI/adherence-suite",
+    "language": "Python",
+    "name": "TGPSKI/adherence-suite",
+    "stars": 1,
+    "updated_at": "2026-08-04T17:30:24Z",
+    "url": "https://github.com/TGPSKI/adherence-suite"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-08-04T17:25:19Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-04T17:25:16Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
     "id": "llwslc/proteus",
     "language": "HTML",
@@ -14,7 +95,7 @@
     "language": "MDX",
     "name": "derob98/ailmanac",
     "stars": 7,
-    "updated_at": "2026-08-04T17:23:05Z",
+    "updated_at": "2026-08-04T17:29:05Z",
     "url": "https://github.com/derob98/ailmanac"
   },
   {
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T17:23:03Z",
     "url": "https://github.com/antiamerican-postponer432/chatgpt-for-researchers"
-  },
-  {
-    "description": "GPT-5.6 Stop Overengineering: a tiny Agent Skill for stopping scope creep and endless test loops.",
-    "id": "Swallow100/gpt-5-6-stop-overengineering",
-    "language": "\u2014",
-    "name": "Swallow100/gpt-5-6-stop-overengineering",
-    "stars": 1,
-    "updated_at": "2026-08-04T17:22:36Z",
-    "url": "https://github.com/Swallow100/gpt-5-6-stop-overengineering"
   },
   {
     "description": "Skills, steering rules and multi-agent workflows I use with Claude Code \u2014 autonomous issue runners, adversarial gates, p",
@@ -52,6 +124,15 @@
     "stars": 3,
     "updated_at": "2026-08-04T17:19:50Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23921,
+    "updated_at": "2026-08-04T17:19:28Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Execute Lua scripts for Sol's RNG on Windows using this desktop interface with a built-in script hub for Roblox 2026.",
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T17:15:42Z",
     "url": "https://github.com/Prosy4967/deer-workflow"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-04T17:15:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A persistent, observable, and collaborative context infrastructure",
@@ -225,15 +297,6 @@
     "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
   },
   {
-    "description": "Deterministic benchmark for agent instruction adherence, with token and round-trip cost verified by a recording proxy",
-    "id": "TGPSKI/adherence-suite",
-    "language": "Python",
-    "name": "TGPSKI/adherence-suite",
-    "stars": 1,
-    "updated_at": "2026-08-04T17:21:58Z",
-    "url": "https://github.com/TGPSKI/adherence-suite"
-  },
-  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
@@ -320,7 +383,7 @@
     "language": "TypeScript",
     "name": "Brhiza/mingyu",
     "stars": 268,
-    "updated_at": "2026-08-04T16:56:45Z",
+    "updated_at": "2026-08-04T17:29:00Z",
     "url": "https://github.com/Brhiza/mingyu"
   },
   {
@@ -349,15 +412,6 @@
     "stars": 156,
     "updated_at": "2026-08-04T16:55:54Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "A Growing Arsenal of Agent Skills. Uncompromising Software Architecture | Curated AI agent workflows and skills for Curs",
-    "id": "Yaz-inc/yazinc-ai-toolkit",
-    "language": "HTML",
-    "name": "Yaz-inc/yazinc-ai-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:55:29Z",
-    "url": "https://github.com/Yaz-inc/yazinc-ai-toolkit"
   },
   {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
@@ -394,59 +448,5 @@
     "stars": 150,
     "updated_at": "2026-08-04T16:52:21Z",
     "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "TypeScript prompt-engineering toolkit: templating, token estimation, and an eval harness.",
-    "id": "matthews-wong/llm-prompt-lab",
-    "language": "TypeScript",
-    "name": "matthews-wong/llm-prompt-lab",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:52:13Z",
-    "url": "https://github.com/matthews-wong/llm-prompt-lab"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-08-04T16:51:55Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "A complete framework for building, maintaining and improving AI assistants with Claude \u2014 guides, runnable setup tasks, i",
-    "id": "KalastajaM/Cluide",
-    "language": "Markdown",
-    "name": "KalastajaM/Cluide",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:51:13Z",
-    "url": "https://github.com/KalastajaM/Cluide"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-08-04T16:50:54Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:50:53Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 1,
-    "updated_at": "2026-08-04T16:50:35Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   }
 ]
