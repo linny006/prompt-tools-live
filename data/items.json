@@ -1,39 +1,57 @@
 [
   {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 8,
-    "updated_at": "2026-08-04T01:59:59Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 172,
-    "updated_at": "2026-08-04T01:58:49Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "\ud83c\udf00 The first adversarial-collaboration multi-agent Skill for Claude Code. 7 specialized agents (leader/convener/architect",
-    "id": "dxkjuanjuan/juanjuan-team",
-    "language": "Shell",
-    "name": "dxkjuanjuan/juanjuan-team",
-    "stars": 1,
-    "updated_at": "2026-08-04T01:58:40Z",
-    "url": "https://github.com/dxkjuanjuan/juanjuan-team"
-  },
-  {
     "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
     "id": "clay-good/agent-replay",
     "language": "TypeScript",
     "name": "clay-good/agent-replay",
     "stars": 11,
-    "updated_at": "2026-08-04T01:57:57Z",
+    "updated_at": "2026-08-04T02:15:14Z",
     "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23885,
+    "updated_at": "2026-08-04T02:14:45Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 5035,
+    "updated_at": "2026-08-04T02:14:16Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "A Claude Code skill that composes sub-agents on the fly \u2014 plus the live probe evidence for how the sub-agent boundary ac",
+    "id": "OpenCnid/subagent-composition",
+    "language": "Shell",
+    "name": "OpenCnid/subagent-composition",
+    "stars": 3,
+    "updated_at": "2026-08-04T02:13:00Z",
+    "url": "https://github.com/OpenCnid/subagent-composition"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 8,
+    "updated_at": "2026-08-04T02:14:25Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 40740,
+    "updated_at": "2026-08-04T02:11:29Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "ANGWY: Adversarial Rigor Protocol - converts high-pressure input into rigorous output for GPT-5.6 and frontier models",
@@ -41,8 +59,71 @@
     "language": "JavaScript",
     "name": "ChloeVPin/angwy",
     "stars": 0,
-    "updated_at": "2026-08-04T01:56:59Z",
+    "updated_at": "2026-08-04T02:10:52Z",
     "url": "https://github.com/ChloeVPin/angwy"
+  },
+  {
+    "description": "Keep an AI agent's personality alive across sessions \u2014 a read-a-document persona toolkit for Claude Code & Codex",
+    "id": "KerberosClaw/kc_agent_persona_pack",
+    "language": "\u2014",
+    "name": "KerberosClaw/kc_agent_persona_pack",
+    "stars": 0,
+    "updated_at": "2026-08-04T02:09:55Z",
+    "url": "https://github.com/KerberosClaw/kc_agent_persona_pack"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27353,
+    "updated_at": "2026-08-04T02:09:55Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Lossless, structure-aware compression of logs, JSON & CSV to cut LLM prompt tokens. Lossless or no-op \u2014 never lossy.",
+    "id": "antrixy/ctxfold",
+    "language": "JavaScript",
+    "name": "antrixy/ctxfold",
+    "stars": 0,
+    "updated_at": "2026-08-04T02:07:29Z",
+    "url": "https://github.com/antrixy/ctxfold"
+  },
+  {
+    "description": "Chief of Staff plugin for Codex and Claude Code with scoped execution, account gates, project routing, and a retained te",
+    "id": "plotdevice01/codex-chief-of-staff",
+    "language": "Python",
+    "name": "plotdevice01/codex-chief-of-staff",
+    "stars": 0,
+    "updated_at": "2026-08-04T02:06:48Z",
+    "url": "https://github.com/plotdevice01/codex-chief-of-staff"
+  },
+  {
+    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 172,
+    "updated_at": "2026-08-04T02:06:03Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "stars": 0,
+    "updated_at": "2026-08-04T02:03:11Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+  },
+  {
+    "description": "\ud83c\udf00 The first adversarial-collaboration multi-agent Skill for Claude Code. 7 specialized agents (leader/convener/architect",
+    "id": "dxkjuanjuan/juanjuan-team",
+    "language": "Shell",
+    "name": "dxkjuanjuan/juanjuan-team",
+    "stars": 1,
+    "updated_at": "2026-08-04T02:01:58Z",
+    "url": "https://github.com/dxkjuanjuan/juanjuan-team"
   },
   {
     "description": "\u8de8\u5883\u7535\u5546 AI \u5b9e\u6218\u77e5\u8bc6\u5e93:56 \u7bc7\u4ece\u9009\u54c1\u5230\u589e\u957f\u7684\u6307\u5357,\u6bcf\u7bc7\u90fd\u6709\u53ef\u76f4\u63a5\u590d\u5236\u7684 Prompt,\u5168\u90e8 CC0 \u514d\u8d39 \u00b7 56 hands-on AI playbooks with copy-paste prompts for Amazon / ",
@@ -50,8 +131,17 @@
     "language": "Jupyter Notebook",
     "name": "kangise/ecommerce-ai-roadmap",
     "stars": 35,
-    "updated_at": "2026-08-04T01:56:53Z",
+    "updated_at": "2026-08-04T02:01:17Z",
     "url": "https://github.com/kangise/ecommerce-ai-roadmap"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-04T02:00:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Routes each prompt to the right discipline and injects only the matching guidance. Zero tokens on conversational turns. ",
@@ -61,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T01:52:42Z",
     "url": "https://github.com/coreyhiggins/grain"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23885,
-    "updated_at": "2026-08-04T01:59:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Real-time multi-agent AI debate platform built with SvelteKit, Node.js/Hono, Google Gemini, and Mistral, featuring AI pe",
@@ -135,15 +216,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-04T01:45:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Vellum AI is an LLM development platform that helps product and engineering teams build, evaluate, deploy, and monitor L",
     "id": "api-evangelist/vellum",
     "language": "\u2014",
@@ -207,15 +279,6 @@
     "url": "https://github.com/metago-ai/metagolifeform"
   },
   {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 5035,
-    "updated_at": "2026-08-04T01:34:16Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
     "id": "github/awesome-copilot",
     "language": "Python",
@@ -266,7 +329,7 @@
     "language": "Shell",
     "name": "greerviau/wingman",
     "stars": 2,
-    "updated_at": "2026-08-04T01:25:52Z",
+    "updated_at": "2026-08-04T02:00:29Z",
     "url": "https://github.com/greerviau/wingman"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T01:17:38Z",
     "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 24,
-    "updated_at": "2026-08-04T01:14:48Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "AI Governance",
-    "id": "karunmehta-aigp/AI-Governance",
-    "language": "\u2014",
-    "name": "karunmehta-aigp/AI-Governance",
-    "stars": 1,
-    "updated_at": "2026-08-04T01:14:19Z",
-    "url": "https://github.com/karunmehta-aigp/AI-Governance"
-  },
-  {
-    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
-    "id": "luongs3/skill-atlas",
-    "language": "Python",
-    "name": "luongs3/skill-atlas",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:14:17Z",
-    "url": "https://github.com/luongs3/skill-atlas"
-  },
-  {
-    "description": "Aevryn is an AI-powered story continuity engine that analyzes novels, manga, manhwa, and scripts to build a living canon",
-    "id": "Zyonic88/Aevryn",
-    "language": "Python",
-    "name": "Zyonic88/Aevryn",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:51:23Z",
-    "url": "https://github.com/Zyonic88/Aevryn"
-  },
-  {
-    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
-    "id": "conorbronsdon/avoid-ai-writing",
-    "language": "JavaScript",
-    "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 2780,
-    "updated_at": "2026-08-04T01:13:07Z",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
-  },
-  {
-    "description": "Autonomous, modular knowledge lifecycle agent built on the Antigravity 2.0 SDK and Model Context Protocol (MCP) for dete",
-    "id": "c-ibarra/ObsidianKnowledgeCurator",
-    "language": "Python",
-    "name": "c-ibarra/ObsidianKnowledgeCurator",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:12:22Z",
-    "url": "https://github.com/c-ibarra/ObsidianKnowledgeCurator"
-  },
-  {
-    "description": "Klu (klu.ai) is an LLM app platform for designing, deploying, evaluating, and observing prompt-driven AI applications. T",
-    "id": "api-evangelist/klu-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/klu-ai",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:11:10Z",
-    "url": "https://github.com/api-evangelist/klu-ai"
   }
 ]
