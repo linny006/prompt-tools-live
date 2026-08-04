@@ -1,12 +1,30 @@
 [
   {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
+    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
+    "id": "jmagly/aiwg",
     "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 11,
-    "updated_at": "2026-08-04T02:15:14Z",
-    "url": "https://github.com/clay-good/agent-replay"
+    "name": "jmagly/aiwg",
+    "stars": 172,
+    "updated_at": "2026-08-04T02:30:16Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "\ud83c\udfac Curated Seedance 2.5 video prompts with preview frames \u2014 auto-generated README, EN/\u4e2d\u6587",
+    "id": "velokey-ai/awesome-seedance-2.5-prompts",
+    "language": "Python",
+    "name": "velokey-ai/awesome-seedance-2.5-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-04T02:30:16Z",
+    "url": "https://github.com/velokey-ai/awesome-seedance-2.5-prompts"
+  },
+  {
+    "description": "Miniguia de estudos sobre Open Finance no Brasil utilizando NotebookLM e engenharia de prompts. Projeto desenvolvido no ",
+    "id": "lucasdemrodrigues/open-finance-com-notebooklm",
+    "language": "\u2014",
+    "name": "lucasdemrodrigues/open-finance-com-notebooklm",
+    "stars": 0,
+    "updated_at": "2026-08-04T02:30:03Z",
+    "url": "https://github.com/lucasdemrodrigues/open-finance-com-notebooklm"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,8 +32,80 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23885,
-    "updated_at": "2026-08-04T02:14:45Z",
+    "updated_at": "2026-08-04T02:30:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Lossless, structure-aware compression of logs, JSON & CSV to cut LLM prompt tokens. Lossless or no-op \u2014 never lossy.",
+    "id": "antrixy/ctxfold",
+    "language": "JavaScript",
+    "name": "antrixy/ctxfold",
+    "stars": 0,
+    "updated_at": "2026-08-04T02:26:28Z",
+    "url": "https://github.com/antrixy/ctxfold"
+  },
+  {
+    "description": "Routes each prompt to the right discipline and injects only the matching guidance. Zero tokens on conversational turns. ",
+    "id": "coreyhiggins/grain",
+    "language": "JavaScript",
+    "name": "coreyhiggins/grain",
+    "stars": 0,
+    "updated_at": "2026-08-04T02:23:42Z",
+    "url": "https://github.com/coreyhiggins/grain"
+  },
+  {
+    "description": "ANGWY: Adversarial Rigor Protocol - converts high-pressure input into rigorous output for GPT-5.6 and frontier models",
+    "id": "ChloeVPin/angwy",
+    "language": "JavaScript",
+    "name": "ChloeVPin/angwy",
+    "stars": 0,
+    "updated_at": "2026-08-04T02:23:42Z",
+    "url": "https://github.com/ChloeVPin/angwy"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 477,
+    "updated_at": "2026-08-04T02:25:26Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 11,
+    "updated_at": "2026-08-04T02:22:30Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "GEPA-style, human-in-the-loop protocol for self-improving LLM prompts. Markdown-only, no code, no datasets \u2014 runs inside",
+    "id": "Guille512/motor-evolutivo",
+    "language": "JavaScript",
+    "name": "Guille512/motor-evolutivo",
+    "stars": 0,
+    "updated_at": "2026-08-04T02:21:42Z",
+    "url": "https://github.com/Guille512/motor-evolutivo"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 8,
+    "updated_at": "2026-08-04T02:17:14Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-04T02:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
@@ -36,31 +126,13 @@
     "url": "https://github.com/OpenCnid/subagent-composition"
   },
   {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 8,
-    "updated_at": "2026-08-04T02:14:25Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 40740,
-    "updated_at": "2026-08-04T02:11:29Z",
+    "stars": 40742,
+    "updated_at": "2026-08-04T02:24:29Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "ANGWY: Adversarial Rigor Protocol - converts high-pressure input into rigorous output for GPT-5.6 and frontier models",
-    "id": "ChloeVPin/angwy",
-    "language": "JavaScript",
-    "name": "ChloeVPin/angwy",
-    "stars": 0,
-    "updated_at": "2026-08-04T02:10:52Z",
-    "url": "https://github.com/ChloeVPin/angwy"
   },
   {
     "description": "Keep an AI agent's personality alive across sessions \u2014 a read-a-document persona toolkit for Claude Code & Codex",
@@ -81,15 +153,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Lossless, structure-aware compression of logs, JSON & CSV to cut LLM prompt tokens. Lossless or no-op \u2014 never lossy.",
-    "id": "antrixy/ctxfold",
-    "language": "JavaScript",
-    "name": "antrixy/ctxfold",
-    "stars": 0,
-    "updated_at": "2026-08-04T02:07:29Z",
-    "url": "https://github.com/antrixy/ctxfold"
-  },
-  {
     "description": "Chief of Staff plugin for Codex and Claude Code with scoped execution, account gates, project routing, and a retained te",
     "id": "plotdevice01/codex-chief-of-staff",
     "language": "Python",
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T02:06:48Z",
     "url": "https://github.com/plotdevice01/codex-chief-of-staff"
-  },
-  {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 172,
-    "updated_at": "2026-08-04T02:06:03Z",
-    "url": "https://github.com/jmagly/aiwg"
   },
   {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
@@ -133,24 +187,6 @@
     "stars": 35,
     "updated_at": "2026-08-04T02:01:17Z",
     "url": "https://github.com/kangise/ecommerce-ai-roadmap"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-04T02:00:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Routes each prompt to the right discipline and injects only the matching guidance. Zero tokens on conversational turns. ",
-    "id": "coreyhiggins/grain",
-    "language": "JavaScript",
-    "name": "coreyhiggins/grain",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:52:42Z",
-    "url": "https://github.com/coreyhiggins/grain"
   },
   {
     "description": "Real-time multi-agent AI debate platform built with SvelteKit, Node.js/Hono, Google Gemini, and Mistral, featuring AI pe",
@@ -373,7 +409,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 9102,
+    "stars": 9104,
     "updated_at": "2026-08-04T01:23:29Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -412,41 +448,5 @@
     "stars": 10880,
     "updated_at": "2026-08-04T01:38:05Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Git-native memory for coding agents: decisions, rejected alternatives and invariants distilled into your commits, served",
-    "id": "YUNGC0DE/git-cairn",
-    "language": "Go",
-    "name": "YUNGC0DE/git-cairn",
-    "stars": 2,
-    "updated_at": "2026-08-04T01:19:04Z",
-    "url": "https://github.com/YUNGC0DE/git-cairn"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 55,
-    "updated_at": "2026-08-04T01:18:31Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-08-04T01:17:45Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "\ud83d\ude80 The largest downloadable GPT Image 2 prompt library \u2014 15,672 prompts and growing, daily updates with HuggingFace datas",
-    "id": "goku-open/awesome-gpt-image-2-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-gpt-image-2-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-04T01:17:38Z",
-    "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
   }
 ]
