@@ -1,12 +1,138 @@
 [
   {
+    "description": "Turn one sentence into an ambitious project. An agent skill that self-critiques, scopes honestly, and knows when to stop",
+    "id": "Likely7/Moonshot-skill",
+    "language": "\u2014",
+    "name": "Likely7/Moonshot-skill",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:57:27Z",
+    "url": "https://github.com/Likely7/Moonshot-skill"
+  },
+  {
+    "description": "Ready-to-use system prompts for Agentic Code Review.",
+    "id": "baz-scm/awesome-reviewers",
+    "language": "Python",
+    "name": "baz-scm/awesome-reviewers",
+    "stars": 141,
+    "updated_at": "2026-08-04T09:56:50Z",
+    "url": "https://github.com/baz-scm/awesome-reviewers"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Python",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-08-04T09:56:38Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "An embeddable, RAG-powered B2B support chatbot framework featuring an optimized text processing pipeline, advanced promp",
+    "id": "serratanis/Rag-Support-Agent",
+    "language": "Python",
+    "name": "serratanis/Rag-Support-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:55:13Z",
+    "url": "https://github.com/serratanis/Rag-Support-Agent"
+  },
+  {
+    "description": "rule-audit is a static analyzer for AI system prompts. It parses a prompt into normative rules and reports logical contr",
+    "id": "hermes-labs-ai/rule-audit",
+    "language": "Python",
+    "name": "hermes-labs-ai/rule-audit",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:54:37Z",
+    "url": "https://github.com/hermes-labs-ai/rule-audit"
+  },
+  {
     "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
     "id": "AnastasiyaW/codex-claude-code-config",
     "language": "Python",
     "name": "AnastasiyaW/codex-claude-code-config",
     "stars": 137,
-    "updated_at": "2026-08-04T09:45:50Z",
+    "updated_at": "2026-08-04T09:53:02Z",
     "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
+  },
+  {
+    "description": "hermeneutic is an evidence-first drift gate for AI agents. It mines corrections from your AI chat logs (prior response, ",
+    "id": "hermes-labs-ai/hermeneutic",
+    "language": "Python",
+    "name": "hermes-labs-ai/hermeneutic",
+    "stars": 4,
+    "updated_at": "2026-08-04T09:54:00Z",
+    "url": "https://github.com/hermes-labs-ai/hermeneutic"
+  },
+  {
+    "description": "\ud83c\udf00 The first adversarial-collaboration multi-agent Skill for Claude Code. 7 specialized agents (leader/convener/architect",
+    "id": "dxkjuanjuan/juanjuan-team",
+    "language": "Shell",
+    "name": "dxkjuanjuan/juanjuan-team",
+    "stars": 1,
+    "updated_at": "2026-08-04T09:52:16Z",
+    "url": "https://github.com/dxkjuanjuan/juanjuan-team"
+  },
+  {
+    "description": "\u5c0f\u7ea2\u4e66\u957f\u6587\u7b14\u8bb0 Agent\u5de5\u5177\uff5c\u672c\u5730\u8fd0\u884c\uff5c\u514d\u8d39\u591a\u6a21\u578b\u81ea\u52a8\u964d\u7ea7\uff5c\u652f\u6301gemini-3.5-flash,gemini-3.6\u7b49\u6a21\u578b",
+    "id": "soyona/x-to-xhs",
+    "language": "JavaScript",
+    "name": "soyona/x-to-xhs",
+    "stars": 2,
+    "updated_at": "2026-08-04T09:51:10Z",
+    "url": "https://github.com/soyona/x-to-xhs"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:51:02Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3466,
+    "updated_at": "2026-08-04T09:55:35Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "An intelligent financial advisor chatbot powered by LLaMA-3, built with LangGraph for structured reasoning, RAG from The",
+    "id": "Md-Emon-Hasan/TrueWealth-AI",
+    "language": "Jupyter Notebook",
+    "name": "Md-Emon-Hasan/TrueWealth-AI",
+    "stars": 6,
+    "updated_at": "2026-08-04T09:50:21Z",
+    "url": "https://github.com/Md-Emon-Hasan/TrueWealth-AI"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-04T09:47:18Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
+    "id": "Dangkoolwat/ai-learning-studio",
+    "language": "Python",
+    "name": "Dangkoolwat/ai-learning-studio",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:47:17Z",
+    "url": "https://github.com/Dangkoolwat/ai-learning-studio"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32474,
+    "updated_at": "2026-08-04T09:57:03Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -16,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-08-04T09:45:39Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-04T09:45:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Run versioned, checksummed and approval-gated tasks with Claude Code, Codex, Gemini and other agent CLIs.",
@@ -86,7 +203,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4228,
-    "updated_at": "2026-08-04T09:43:23Z",
+    "updated_at": "2026-08-04T09:59:33Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -126,15 +243,6 @@
     "url": "https://github.com/derob98/ailmanac"
   },
   {
-    "description": "Ready-to-use system prompts for Agentic Code Review.",
-    "id": "baz-scm/awesome-reviewers",
-    "language": "Python",
-    "name": "baz-scm/awesome-reviewers",
-    "stars": 141,
-    "updated_at": "2026-08-04T09:35:23Z",
-    "url": "https://github.com/baz-scm/awesome-reviewers"
-  },
-  {
     "description": "Patch rough prompts before they reach Codex, Claude Code, Gemini CLI, and other AI CLIs.",
     "id": "EyupEfeDuvarbasi/promptpatch",
     "language": "TypeScript",
@@ -151,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T09:35:01Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "\ud83c\udf00 The first adversarial-collaboration multi-agent Skill for Claude Code. 7 specialized agents (leader/convener/architect",
-    "id": "dxkjuanjuan/juanjuan-team",
-    "language": "Shell",
-    "name": "dxkjuanjuan/juanjuan-team",
-    "stars": 1,
-    "updated_at": "2026-08-04T09:32:39Z",
-    "url": "https://github.com/dxkjuanjuan/juanjuan-team"
   },
   {
     "description": "Convention-first typed prompt models with canonical Markdown and XML",
@@ -203,7 +302,7 @@
     "language": "Rust",
     "name": "junit/pre-commit-review",
     "stars": 7,
-    "updated_at": "2026-08-04T09:29:56Z",
+    "updated_at": "2026-08-04T09:59:36Z",
     "url": "https://github.com/junit/pre-commit-review"
   },
   {
@@ -214,15 +313,6 @@
     "stars": 6,
     "updated_at": "2026-08-04T09:29:14Z",
     "url": "https://github.com/cubrift/quart"
-  },
-  {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Python",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-08-04T09:28:59Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
   },
   {
     "description": "Your agent wastes context. Distill fixes it.",
@@ -261,15 +351,6 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32472,
-    "updated_at": "2026-08-04T09:46:19Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "A strict, battle-tested set of rules and workflows (The Enterprise Playbook) designed to tame AI coding agents (Cursor, ",
     "id": "amar57603/ai-enterprise-playbook",
     "language": "\u2014",
@@ -293,7 +374,7 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 36,
-    "updated_at": "2026-08-04T09:43:13Z",
+    "updated_at": "2026-08-04T09:53:48Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T09:12:37Z",
     "url": "https://github.com/yinsang0910-star/goal-creator"
-  },
-  {
-    "description": "Always-current Claude documentation in Claude Code \u2014 a metadata-only index that fetches official pages from Anthropic on",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 51,
-    "updated_at": "2026-08-04T09:12:01Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
-    "id": "ariffazil/arifOS",
-    "language": "Python",
-    "name": "ariffazil/arifOS",
-    "stars": 50,
-    "updated_at": "2026-08-04T09:09:16Z",
-    "url": "https://github.com/ariffazil/arifOS"
-  },
-  {
-    "description": "KAF - The governance layer for multi-agent swarms. Constitution-as-Code + 520 Runtime Guard. Stop AI agents from deletin",
-    "id": "lsjpp2/king-agent-swarm",
-    "language": "Python",
-    "name": "lsjpp2/king-agent-swarm",
-    "stars": 1,
-    "updated_at": "2026-08-04T09:09:13Z",
-    "url": "https://github.com/lsjpp2/king-agent-swarm"
-  },
-  {
-    "description": "AI platform with three-layer recursive memory (260-year capacity), pre-positioned retrieval AI, and granular context com",
-    "id": "beilusaiying/always-accompany",
-    "language": "JavaScript",
-    "name": "beilusaiying/always-accompany",
-    "stars": 146,
-    "updated_at": "2026-08-04T09:08:56Z",
-    "url": "https://github.com/beilusaiying/always-accompany"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21102,
-    "updated_at": "2026-08-04T09:30:55Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Migrate prompt templates between placeholder dialects without changing what actually renders",
-    "id": "nradawg/template-dialect-shift",
-    "language": "TypeScript",
-    "name": "nradawg/template-dialect-shift",
-    "stars": 0,
-    "updated_at": "2026-08-04T09:07:01Z",
-    "url": "https://github.com/nradawg/template-dialect-shift"
-  },
-  {
-    "description": "\ud83d\ude80 AI-powered marketing assistant for Shopify merchants. Generate product descriptions, ad copy, email campaigns, SEO con",
-    "id": "Meenakshi2434/Ad-On-Ai",
-    "language": "TypeScript",
-    "name": "Meenakshi2434/Ad-On-Ai",
-    "stars": 0,
-    "updated_at": "2026-08-04T09:06:18Z",
-    "url": "https://github.com/Meenakshi2434/Ad-On-Ai"
-  },
-  {
-    "description": "Minimal AI agent skills with clear workflows, flat YAML contracts, and structured artifacts.",
-    "id": "truongnat/simple-skills",
-    "language": "Python",
-    "name": "truongnat/simple-skills",
-    "stars": 2,
-    "updated_at": "2026-08-04T09:04:12Z",
-    "url": "https://github.com/truongnat/simple-skills"
-  },
-  {
-    "description": "\ud83c\udf75 Deliberate engineering guidelines & deterministic lifecycle safety hooks to enforce planning, prevent bloat, and block",
-    "id": "plumpslabs/matcha",
-    "language": "JavaScript",
-    "name": "plumpslabs/matcha",
-    "stars": 2,
-    "updated_at": "2026-08-04T09:03:51Z",
-    "url": "https://github.com/plumpslabs/matcha"
   }
 ]
