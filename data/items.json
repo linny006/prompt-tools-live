@@ -1,12 +1,102 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-04T00:45:08Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
+    "id": "fabioc-aloha/Alex_Skill_Mall",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_Skill_Mall",
+    "stars": 4,
+    "updated_at": "2026-08-04T00:44:18Z",
+    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
+    "description": "Plugin-native baseline brain for Alex ACT, with critical-thinking instructions, reusable agent skills, prompts, and tool",
+    "id": "fabioc-aloha/Alex_ACT_Core",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_ACT_Core",
+    "stars": 0,
+    "updated_at": "2026-08-04T00:44:10Z",
+    "url": "https://github.com/fabioc-aloha/Alex_ACT_Core"
+  },
+  {
+    "description": "Deep research skill for AI agents: live web research, source reputation checks, safer URL fetches, and structured eviden",
+    "id": "h4444433333/net-deep-research",
+    "language": "Python",
+    "name": "h4444433333/net-deep-research",
+    "stars": 1,
+    "updated_at": "2026-08-04T00:41:54Z",
+    "url": "https://github.com/h4444433333/net-deep-research"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 11,
+    "updated_at": "2026-08-04T00:41:04Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "\u2697\ufe0f Experimental \u2014 A genius-builder brain for your AI coding tools: sharp defaults, real judgment, and the discipline to ",
+    "id": "mehrad-dm/mastermind",
+    "language": "JavaScript",
+    "name": "mehrad-dm/mastermind",
+    "stars": 14,
+    "updated_at": "2026-08-04T00:40:38Z",
+    "url": "https://github.com/mehrad-dm/mastermind"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23884,
-    "updated_at": "2026-08-04T00:28:28Z",
+    "updated_at": "2026-08-04T00:45:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Always-current Claude documentation in Claude Code \u2014 a metadata-only index that fetches official pages from Anthropic on",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 51,
+    "updated_at": "2026-08-04T00:32:50Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Quillan-Ronin - an attempt at a mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v6.",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "Python",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 27,
+    "updated_at": "2026-08-04T00:31:00Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
+    "description": "An Agent Skill that directs serialized first-person POV AI video: reusable assets, image-locked generation, clip packing",
+    "id": "livingghost/pov-series-director",
+    "language": "Python",
+    "name": "livingghost/pov-series-director",
+    "stars": 0,
+    "updated_at": "2026-08-04T00:30:41Z",
+    "url": "https://github.com/livingghost/pov-series-director"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-04T00:30:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "PromptSqueeze is a highly powerful, self-hosted (on-premises) AI prompt optimizer engine built to sit directly between y",
@@ -16,33 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T00:27:57Z",
     "url": "https://github.com/OmniOrigin-Group/promptsqueeze-php-middleware"
-  },
-  {
-    "description": "An Agent Skill that directs serialized first-person POV AI video: reusable assets, image-locked generation, clip packing",
-    "id": "livingghost/pov-series-director",
-    "language": "Python",
-    "name": "livingghost/pov-series-director",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:27:44Z",
-    "url": "https://github.com/livingghost/pov-series-director"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-04T00:27:29Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 11,
-    "updated_at": "2026-08-04T00:27:02Z",
-    "url": "https://github.com/clay-good/agent-replay"
   },
   {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
@@ -63,6 +126,15 @@
     "url": "https://github.com/B67687/Agent-Stack"
   },
   {
+    "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 5110,
+    "updated_at": "2026-08-04T00:24:38Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
     "description": "Codex\uc6a9 AI \uac1c\ubc1c \uaddc\uce59 \ubb38\uc11c\ub97c \uc0dd\uc131\ud558\ub294 \ud55c\uad6d\uc5b4 \uae30\ubc18 \ub8f0 \uc0dd\uc131 \ub3c4\uad6c",
     "id": "Sharon77770/codex_rule_maker",
     "language": "Python",
@@ -79,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T00:23:09Z",
     "url": "https://github.com/sublimecoder/sublimecoding"
-  },
-  {
-    "description": "\u2697\ufe0f Experimental \u2014 A genius-builder brain for your AI coding tools: sharp defaults, real judgment, and the discipline to ",
-    "id": "mehrad-dm/mastermind",
-    "language": "JavaScript",
-    "name": "mehrad-dm/mastermind",
-    "stars": 14,
-    "updated_at": "2026-08-04T00:23:00Z",
-    "url": "https://github.com/mehrad-dm/mastermind"
   },
   {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
@@ -142,15 +205,6 @@
     "stars": 15,
     "updated_at": "2026-08-04T00:16:36Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-04T00:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
@@ -338,7 +392,7 @@
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 2,
-    "updated_at": "2026-08-03T23:45:33Z",
+    "updated_at": "2026-08-04T00:45:15Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-03T23:58:58Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 2,
-    "updated_at": "2026-08-03T23:31:38Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 2,
-    "updated_at": "2026-08-03T23:31:08Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 4,
-    "updated_at": "2026-08-03T23:30:52Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "\ucd08\uae09\uc790\ub97c \uc704\ud55c AI Engineer 100\uc77c \ucee4\ub9ac\ud058\ub7fc \u2014 Python\ubd80\ud130 RAG\uae4c\uc9c0 + \ub9e4\uc77c AI \ub274\uc2a4 \uc790\ub3d9 \ud050\ub808\uc774\uc158",
-    "id": "kimsanguine/AI_Human",
-    "language": "Shell",
-    "name": "kimsanguine/AI_Human",
-    "stars": 0,
-    "updated_at": "2026-08-03T23:30:26Z",
-    "url": "https://github.com/kimsanguine/AI_Human"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 2,
-    "updated_at": "2026-08-03T23:28:36Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-03T23:28:18Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
