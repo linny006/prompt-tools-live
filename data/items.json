@@ -1,5 +1,77 @@
 [
   {
+    "description": "Deterministic benchmark for agent instruction adherence, with token and round-trip cost verified by a recording proxy",
+    "id": "TGPSKI/adherence-suite",
+    "language": "Python",
+    "name": "TGPSKI/adherence-suite",
+    "stars": 1,
+    "updated_at": "2026-08-04T07:07:39Z",
+    "url": "https://github.com/TGPSKI/adherence-suite"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3459,
+    "updated_at": "2026-08-04T07:07:13Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23899,
+    "updated_at": "2026-08-04T07:06:50Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
+    "language": "JavaScript",
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 2786,
+    "updated_at": "2026-08-04T07:05:04Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 2,
+    "updated_at": "2026-08-04T07:04:26Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 3,
+    "updated_at": "2026-08-04T07:03:42Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "\u591a\u667a\u80fd\u4f53\u534f\u540c\u5f71\u89c6\u5de5\u4e1a\u5316AI\u5de5\u4f5c\u53f0 | \u5185\u7f6e\u7f16\u5267\u5ba4SOP + AI\u89c6\u9891\u5206\u955c\u63d0\u793a\u8bcd\u5f15\u64ce + \u957f\u6587\u672c\u6df1\u5ea6\u5904\u7406 | \u652f\u630112+ LLM\u670d\u52a1\u5546",
+    "id": "slipknot0130/Film-Production-Toolkit",
+    "language": "Python",
+    "name": "slipknot0130/Film-Production-Toolkit",
+    "stars": 8,
+    "updated_at": "2026-08-04T07:03:26Z",
+    "url": "https://github.com/slipknot0130/Film-Production-Toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-04T07:00:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
     "id": "eric-sabe/engsys",
     "language": "JavaScript",
@@ -9,6 +81,24 @@
     "url": "https://github.com/eric-sabe/engsys"
   },
   {
+    "description": "An autonomous AI chatbot built for WhatsApp using Node.js, Baileys, and the Vercel AI SDK powered by OpenAI. Designed to",
+    "id": "cubrift/quart",
+    "language": "JavaScript",
+    "name": "cubrift/quart",
+    "stars": 6,
+    "updated_at": "2026-08-04T07:01:39Z",
+    "url": "https://github.com/cubrift/quart"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 8,
+    "updated_at": "2026-08-04T06:59:56Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
     "description": "Automated eval harness for AI agents \u2014 gold set + scoring + CI that fails the build on regressions. Self-contained, no A",
     "id": "junju523/agent-eval-harness-demo",
     "language": "JavaScript",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T06:58:46Z",
     "url": "https://github.com/junju523/agent-eval-harness-demo"
-  },
-  {
-    "description": "Deterministic benchmark for agent instruction adherence, with token and round-trip cost verified by a recording proxy",
-    "id": "TGPSKI/adherence-suite",
-    "language": "Python",
-    "name": "TGPSKI/adherence-suite",
-    "stars": 1,
-    "updated_at": "2026-08-04T06:58:42Z",
-    "url": "https://github.com/TGPSKI/adherence-suite"
   },
   {
     "description": "Middleware for managing LLM context windows in production chat applications. Automatically tracks token usage in real ti",
@@ -40,7 +121,7 @@
     "id": "IBM/mcp-context-forge",
     "language": "Python",
     "name": "IBM/mcp-context-forge",
-    "stars": 4222,
+    "stars": 4223,
     "updated_at": "2026-08-04T06:57:01Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
@@ -54,21 +135,12 @@
     "url": "https://github.com/plumpslabs/matcha"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23899,
-    "updated_at": "2026-08-04T07:00:03Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21099,
-    "updated_at": "2026-08-04T06:54:36Z",
+    "updated_at": "2026-08-04T07:02:17Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -81,38 +153,20 @@
     "url": "https://github.com/vllm-project/semantic-router"
   },
   {
-    "description": "An autonomous AI chatbot built for WhatsApp using Node.js, Baileys, and the Vercel AI SDK powered by OpenAI. Designed to",
-    "id": "cubrift/quart",
-    "language": "JavaScript",
-    "name": "cubrift/quart",
-    "stars": 6,
-    "updated_at": "2026-08-04T06:59:57Z",
-    "url": "https://github.com/cubrift/quart"
-  },
-  {
     "description": "lintlang is a static linter for AI agent configs, tool descriptions, and system prompts that runs zero-LLM quality gatin",
     "id": "hermes-labs-ai/lintlang",
     "language": "Python",
     "name": "hermes-labs-ai/lintlang",
     "stars": 53,
-    "updated_at": "2026-08-04T06:53:25Z",
+    "updated_at": "2026-08-04T07:03:31Z",
     "url": "https://github.com/hermes-labs-ai/lintlang"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3459,
-    "updated_at": "2026-08-04T06:52:26Z",
-    "url": "https://github.com/microsoft/apm"
   },
   {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 64471,
+    "stars": 64473,
     "updated_at": "2026-08-04T06:52:04Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -124,6 +178,15 @@
     "stars": 78,
     "updated_at": "2026-08-04T06:51:34Z",
     "url": "https://github.com/Yila-AI/sci-ssci-skills"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 37412,
+    "updated_at": "2026-08-04T06:50:49Z",
+    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T06:50:05Z",
     "url": "https://github.com/ReliOptic/campfire"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "Python",
-    "name": "github/awesome-copilot",
-    "stars": 37410,
-    "updated_at": "2026-08-04T06:50:49Z",
-    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
@@ -180,21 +234,12 @@
     "url": "https://github.com/ftvision/agent-prompt-observatory"
   },
   {
-    "description": "\u591a\u667a\u80fd\u4f53\u534f\u540c\u5f71\u89c6\u5de5\u4e1a\u5316AI\u5de5\u4f5c\u53f0 | \u5185\u7f6e\u7f16\u5267\u5ba4SOP + AI\u89c6\u9891\u5206\u955c\u63d0\u793a\u8bcd\u5f15\u64ce + \u957f\u6587\u672c\u6df1\u5ea6\u5904\u7406 | \u652f\u630112+ LLM\u670d\u52a1\u5546",
-    "id": "slipknot0130/Film-Production-Toolkit",
-    "language": "Python",
-    "name": "slipknot0130/Film-Production-Toolkit",
-    "stars": 8,
-    "updated_at": "2026-08-04T06:46:17Z",
-    "url": "https://github.com/slipknot0130/Film-Production-Toolkit"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3464,
-    "updated_at": "2026-08-04T06:59:09Z",
+    "updated_at": "2026-08-04T07:06:59Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-08-04T06:45:33Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-04T06:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -284,7 +320,7 @@
     "language": "TypeScript",
     "name": "whimzyLive/nightshift-ai",
     "stars": 3,
-    "updated_at": "2026-08-04T06:41:32Z",
+    "updated_at": "2026-08-04T07:09:15Z",
     "url": "https://github.com/whimzyLive/nightshift-ai"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-04T06:26:08Z",
     "url": "https://github.com/ikonushok/agent-pack-designer"
-  },
-  {
-    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-08-04T06:23:29Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Version-controlled catalog of Dryvist LLM prompts",
-    "id": "dryvist/ai-llm-prompts",
-    "language": "Nix",
-    "name": "dryvist/ai-llm-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-04T06:21:38Z",
-    "url": "https://github.com/dryvist/ai-llm-prompts"
-  },
-  {
-    "description": "KAF - The governance layer for multi-agent swarms. Constitution-as-Code + 520 Runtime Guard. Stop AI agents from deletin",
-    "id": "lsjpp2/king-agent-swarm",
-    "language": "Python",
-    "name": "lsjpp2/king-agent-swarm",
-    "stars": 1,
-    "updated_at": "2026-08-04T06:19:51Z",
-    "url": "https://github.com/lsjpp2/king-agent-swarm"
-  },
-  {
-    "description": "Cold, unbiased 0-100 rating skill for Claude Code - defines what 100/100 looks like, scores with evidence, and ranks the",
-    "id": "Mrsavage92/rate-skill",
-    "language": "Python",
-    "name": "Mrsavage92/rate-skill",
-    "stars": 0,
-    "updated_at": "2026-08-04T06:19:20Z",
-    "url": "https://github.com/Mrsavage92/rate-skill"
   }
 ]
