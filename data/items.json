@@ -1,12 +1,111 @@
 [
   {
+    "description": "A Claude Code skill for MiniMax H3 \u2014 the open-weight omni-modal video model. Prompt framework, ComfyUI model/quant refer",
+    "id": "teskor-hub/minimax-h3-skill",
+    "language": "\u2014",
+    "name": "teskor-hub/minimax-h3-skill",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:12:33Z",
+    "url": "https://github.com/teskor-hub/minimax-h3-skill"
+  },
+  {
+    "description": "An AI governance protocol that keeps human judgment in the deciding seat \u2014 it separates surfacing (information) from sta",
+    "id": "natecooper/surfacing-and-staking",
+    "language": "\u2014",
+    "name": "natecooper/surfacing-and-staking",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:10:36Z",
+    "url": "https://github.com/natecooper/surfacing-and-staking"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21105,
+    "updated_at": "2026-08-04T11:09:07Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4232,
+    "updated_at": "2026-08-04T11:14:04Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "Controlled, reviewable agentic coding workflows for OpenAI Codex CLI with task-specific subagents, explicit planning, TD",
+    "id": "shinpr/codex-workflows",
+    "language": "JavaScript",
+    "name": "shinpr/codex-workflows",
+    "stars": 29,
+    "updated_at": "2026-08-04T11:09:29Z",
+    "url": "https://github.com/shinpr/codex-workflows"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32480,
+    "updated_at": "2026-08-04T11:06:40Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:05:37Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-08-04T11:14:15Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1770,
+    "updated_at": "2026-08-04T11:04:02Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "A Claude Code plugin that injects the right coding, security and scientific-computing rules into every prompt. 195 rules",
+    "id": "fullymiddleaged/Clawness",
+    "language": "Python",
+    "name": "fullymiddleaged/Clawness",
+    "stars": 3,
+    "updated_at": "2026-08-04T11:03:48Z",
+    "url": "https://github.com/fullymiddleaged/Clawness"
+  },
+  {
     "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
     "id": "Sunil-M02/curiosity-engine",
     "language": "TypeScript",
     "name": "Sunil-M02/curiosity-engine",
     "stars": 2,
-    "updated_at": "2026-08-04T10:59:05Z",
+    "updated_at": "2026-08-04T11:01:29Z",
     "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-04T11:00:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A curated collection of my personal AI, RAG, MCP, LLM, and software development notes generated during my learning journ",
@@ -50,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3466,
-    "updated_at": "2026-08-04T11:00:24Z",
+    "updated_at": "2026-08-04T11:09:16Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -88,15 +187,6 @@
     "stars": 26,
     "updated_at": "2026-08-04T10:46:32Z",
     "url": "https://github.com/madara88645/Compiler"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-04T10:45:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -187,24 +277,6 @@
     "stars": 4,
     "updated_at": "2026-08-04T10:38:08Z",
     "url": "https://github.com/FoxsterDev/ai-research-hub"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21104,
-    "updated_at": "2026-08-04T10:41:20Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4231,
-    "updated_at": "2026-08-04T10:59:34Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -351,6 +423,15 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 7113,
+    "updated_at": "2026-08-04T10:25:57Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
     "id": "YouMind-OpenLab/awesome-seedream-4.5",
     "language": "TypeScript",
@@ -367,86 +448,5 @@
     "stars": 54,
     "updated_at": "2026-08-04T10:24:50Z",
     "url": "https://github.com/levi-qiao/longgraph-skill"
-  },
-  {
-    "description": "End-to-end agentic data-science system: LLM planning + MCP tool execution over deterministic analytics, with full tracea",
-    "id": "Padraigobrien08/agentic-data-science-system",
-    "language": "Python",
-    "name": "Padraigobrien08/agentic-data-science-system",
-    "stars": 0,
-    "updated_at": "2026-08-04T10:24:08Z",
-    "url": "https://github.com/Padraigobrien08/agentic-data-science-system"
-  },
-  {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "Rust",
-    "name": "Open-Less/openless",
-    "stars": 2953,
-    "updated_at": "2026-08-04T10:24:03Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 23,
-    "updated_at": "2026-08-04T10:23:39Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-08-04T10:23:36Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "\u2705 AI & Machine Learning  |  A Complete Learning Resource for AI and Machine Learning",
-    "id": "khashayar-alipour/AI",
-    "language": "Jupyter Notebook",
-    "name": "khashayar-alipour/AI",
-    "stars": 1,
-    "updated_at": "2026-08-04T10:23:14Z",
-    "url": "https://github.com/khashayar-alipour/AI"
-  },
-  {
-    "description": "AI Skill for Amazon product detail page analysis, decomposition and design planning.",
-    "id": "mqyuhou/amazon-detail-design-pro",
-    "language": "\u2014",
-    "name": "mqyuhou/amazon-detail-design-pro",
-    "stars": 0,
-    "updated_at": "2026-08-04T10:23:06Z",
-    "url": "https://github.com/mqyuhou/amazon-detail-design-pro"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-08-04T10:22:55Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Give your terminal AI agent a document workflow it cannot fake: extract locally, reason over sourced Markdown, build wit",
-    "id": "shinmingh/IngestReasonCreate",
-    "language": "Python",
-    "name": "shinmingh/IngestReasonCreate",
-    "stars": 0,
-    "updated_at": "2026-08-04T10:30:32Z",
-    "url": "https://github.com/shinmingh/IngestReasonCreate"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32479,
-    "updated_at": "2026-08-04T10:19:20Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
