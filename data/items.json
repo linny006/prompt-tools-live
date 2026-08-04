@@ -1,12 +1,84 @@
 [
   {
+    "description": "This repository is for all my Python experiments and also includes Power BI dashboards.",
+    "id": "chirag876/PythonWorkSpace",
+    "language": "Jupyter Notebook",
+    "name": "chirag876/PythonWorkSpace",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:50:05Z",
+    "url": "https://github.com/chirag876/PythonWorkSpace"
+  },
+  {
+    "description": "An AI governance protocol that keeps human judgment in the deciding seat \u2014 it separates surfacing (information) from sta",
+    "id": "natecooper/surfacing-and-staking",
+    "language": "\u2014",
+    "name": "natecooper/surfacing-and-staking",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:49:54Z",
+    "url": "https://github.com/natecooper/surfacing-and-staking"
+  },
+  {
+    "description": "",
+    "id": "tanishasgit/career-digital-twin",
+    "language": "Python",
+    "name": "tanishasgit/career-digital-twin",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:49:45Z",
+    "url": "https://github.com/tanishasgit/career-digital-twin"
+  },
+  {
+    "description": "Ready-to-use system prompts for Agentic Code Review.",
+    "id": "baz-scm/awesome-reviewers",
+    "language": "Python",
+    "name": "baz-scm/awesome-reviewers",
+    "stars": 141,
+    "updated_at": "2026-08-04T11:48:03Z",
+    "url": "https://github.com/baz-scm/awesome-reviewers"
+  },
+  {
+    "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
+    "id": "Dangkoolwat/ai-learning-studio",
+    "language": "Python",
+    "name": "Dangkoolwat/ai-learning-studio",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:47:39Z",
+    "url": "https://github.com/Dangkoolwat/ai-learning-studio"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 36,
+    "updated_at": "2026-08-04T11:51:37Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 2,
-    "updated_at": "2026-08-04T11:45:15Z",
+    "updated_at": "2026-08-04T11:45:34Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-04T11:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32483,
+    "updated_at": "2026-08-04T11:49:18Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
@@ -54,6 +126,15 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4233,
+    "updated_at": "2026-08-04T11:51:44Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
     "description": "Open-source Claude Code skills that bring planning, building, and verification gates to agentic coding workflows.",
     "id": "adamlinscott/claude-skills",
     "language": "TypeScript",
@@ -81,15 +162,6 @@
     "url": "https://github.com/junit/pre-commit-review"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-04T11:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
     "id": "iaminpwd/dotfiles",
     "language": "Shell",
@@ -115,15 +187,6 @@
     "stars": 156,
     "updated_at": "2026-08-04T11:28:01Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32482,
-    "updated_at": "2026-08-04T11:43:50Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
@@ -234,15 +297,6 @@
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   },
   {
-    "description": "An AI governance protocol that keeps human judgment in the deciding seat \u2014 it separates surfacing (information) from sta",
-    "id": "natecooper/surfacing-and-staking",
-    "language": "\u2014",
-    "name": "natecooper/surfacing-and-staking",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:22:20Z",
-    "url": "https://github.com/natecooper/surfacing-and-staking"
-  },
-  {
     "description": "Paired A/B replication: does exact prompt repetition improve a non-reasoning LLM?",
     "id": "vovalukashov/prompt-repetition-experiment",
     "language": "Python",
@@ -295,15 +349,6 @@
     "stars": 21105,
     "updated_at": "2026-08-04T11:18:38Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4232,
-    "updated_at": "2026-08-04T11:38:17Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "Controlled, reviewable agentic coding workflows for OpenAI Codex CLI with task-specific subagents, explicit planning, TD",
@@ -369,15 +414,6 @@
     "url": "https://github.com/satyam0singh/Agentic-AI"
   },
   {
-    "description": "Ready-to-use system prompts for Agentic Code Review.",
-    "id": "baz-scm/awesome-reviewers",
-    "language": "Python",
-    "name": "baz-scm/awesome-reviewers",
-    "stars": 141,
-    "updated_at": "2026-08-04T10:56:58Z",
-    "url": "https://github.com/baz-scm/awesome-reviewers"
-  },
-  {
     "description": "\u5a01\u718f\u9091\u5883\u54c1\u724c\u4e13\u5c5e\u7684 Codex Skill\uff0c\u5f53\u524d\u4e3b\u8981\u670d\u52a1\u201c\u9a6c\u514b\u745e\u666e\u4e4b\u9009\u4e9a\u4f2f\u4e501996\u5e74\u5355\u6876\u201d\u5728\u5c0f\u7ea2\u4e66\u3001\u6296\u97f3\u548c\u89c6\u9891\u53f7\u4e0a\u7684\u6301\u7eed\u5185\u5bb9\u521b\u4f5c\u3002 ",
     "id": "ifeihong/wxyj-content-system",
     "language": "Python",
@@ -385,15 +421,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T10:53:08Z",
     "url": "https://github.com/ifeihong/wxyj-content-system"
-  },
-  {
-    "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
-    "id": "Dangkoolwat/ai-learning-studio",
-    "language": "Python",
-    "name": "Dangkoolwat/ai-learning-studio",
-    "stars": 0,
-    "updated_at": "2026-08-04T10:50:34Z",
-    "url": "https://github.com/Dangkoolwat/ai-learning-studio"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-04T10:47:54Z",
     "url": "https://github.com/llwslc/proteus"
-  },
-  {
-    "description": "Turns vague requests into structured prompts, execution plans, and policy-aware workflows \u2014 with readiness verdicts, PR ",
-    "id": "madara88645/Compiler",
-    "language": "Python",
-    "name": "madara88645/Compiler",
-    "stars": 26,
-    "updated_at": "2026-08-04T10:46:32Z",
-    "url": "https://github.com/madara88645/Compiler"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 15,
-    "updated_at": "2026-08-04T10:45:34Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "nightshift is a free Claude Code plugin that turns one terminal into a full software-delivery team \u2014 it reads a ticket a",
-    "id": "whimzyLive/nightshift-ai",
-    "language": "TypeScript",
-    "name": "whimzyLive/nightshift-ai",
-    "stars": 3,
-    "updated_at": "2026-08-04T11:34:39Z",
-    "url": "https://github.com/whimzyLive/nightshift-ai"
   }
 ]
