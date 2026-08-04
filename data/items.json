@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-08-04T11:58:41Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
+    "id": "Kenny27lokku/prompt-integrity-validator",
+    "language": "HTML",
+    "name": "Kenny27lokku/prompt-integrity-validator",
+    "stars": 2,
+    "updated_at": "2026-08-04T11:58:22Z",
+    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
+  },
+  {
+    "description": "Deterministic benchmark for agent instruction adherence, with token and round-trip cost verified by a recording proxy",
+    "id": "TGPSKI/adherence-suite",
+    "language": "Python",
+    "name": "TGPSKI/adherence-suite",
+    "stars": 1,
+    "updated_at": "2026-08-04T11:57:36Z",
+    "url": "https://github.com/TGPSKI/adherence-suite"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32484,
+    "updated_at": "2026-08-04T11:59:24Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Offline prompt A/B testing, scoring & auto-tuning for local LLMs",
+    "id": "rldyourmnd/local-llm-prompt-optimizer",
+    "language": "Python",
+    "name": "rldyourmnd/local-llm-prompt-optimizer",
+    "stars": 4,
+    "updated_at": "2026-08-04T11:57:14Z",
+    "url": "https://github.com/rldyourmnd/local-llm-prompt-optimizer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-04T11:51:50Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "This repository is for all my Python experiments and also includes Power BI dashboards.",
     "id": "chirag876/PythonWorkSpace",
     "language": "Jupyter Notebook",
@@ -63,30 +117,12 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-04T11:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32483,
-    "updated_at": "2026-08-04T11:49:18Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
     "id": "mrwogu/promptscript",
     "language": "TypeScript",
     "name": "mrwogu/promptscript",
     "stars": 475,
-    "updated_at": "2026-08-04T11:44:03Z",
+    "updated_at": "2026-08-04T11:59:21Z",
     "url": "https://github.com/mrwogu/promptscript"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4233,
-    "updated_at": "2026-08-04T11:51:44Z",
+    "updated_at": "2026-08-04T12:00:00Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21105,
-    "updated_at": "2026-08-04T11:18:38Z",
+    "updated_at": "2026-08-04T11:51:51Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/fullymiddleaged/Clawness"
   },
   {
-    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
-    "id": "Sunil-M02/curiosity-engine",
-    "language": "TypeScript",
-    "name": "Sunil-M02/curiosity-engine",
-    "stars": 2,
-    "updated_at": "2026-08-04T11:01:29Z",
-    "url": "https://github.com/Sunil-M02/curiosity-engine"
-  },
-  {
     "description": "A curated collection of my personal AI, RAG, MCP, LLM, and software development notes generated during my learning journ",
     "id": "satyam0singh/Agentic-AI",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T10:53:08Z",
     "url": "https://github.com/ifeihong/wxyj-content-system"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3466,
-    "updated_at": "2026-08-04T11:41:12Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Every prompt compressor tells you how many tokens it saved. This one tells you whether the answer changed.",
-    "id": "RiceSouffle/Token-Envelope",
-    "language": "TypeScript",
-    "name": "RiceSouffle/Token-Envelope",
-    "stars": 0,
-    "updated_at": "2026-08-04T10:48:49Z",
-    "url": "https://github.com/RiceSouffle/Token-Envelope"
-  },
-  {
-    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
-    "id": "llwslc/proteus",
-    "language": "HTML",
-    "name": "llwslc/proteus",
-    "stars": 2,
-    "updated_at": "2026-08-04T10:47:54Z",
-    "url": "https://github.com/llwslc/proteus"
   }
 ]
