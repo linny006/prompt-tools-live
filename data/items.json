@@ -1,19 +1,118 @@
 [
   {
+    "description": "An autonomous AI chatbot built for WhatsApp using Node.js, Baileys, and the Vercel AI SDK powered by OpenAI. Designed to",
+    "id": "cubrift/quart",
+    "language": "JavaScript",
+    "name": "cubrift/quart",
+    "stars": 6,
+    "updated_at": "2026-08-04T06:14:18Z",
+    "url": "https://github.com/cubrift/quart"
+  },
+  {
+    "description": "Continuously refreshed public feed of AI image and video prompts from X, with original authors, source links, preview me",
+    "id": "Hanyuyu/visual-prompt-feed",
+    "language": "JavaScript",
+    "name": "Hanyuyu/visual-prompt-feed",
+    "stars": 0,
+    "updated_at": "2026-08-04T06:13:58Z",
+    "url": "https://github.com/Hanyuyu/visual-prompt-feed"
+  },
+  {
+    "description": "An AI Agent skill for automated pre-commit code review and local quality gating before you commit.",
+    "id": "junit/pre-commit-review",
+    "language": "Rust",
+    "name": "junit/pre-commit-review",
+    "stars": 6,
+    "updated_at": "2026-08-04T06:11:55Z",
+    "url": "https://github.com/junit/pre-commit-review"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 64456,
+    "updated_at": "2026-08-04T06:11:37Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "Design multi-step AI agent skills that resume, retry, and gate destructive actions. Runtime-neutral SKILL.md guidance.",
     "id": "clearlane/workflow-skills",
     "language": "Python",
     "name": "clearlane/workflow-skills",
     "stars": 0,
-    "updated_at": "2026-08-04T05:58:46Z",
+    "updated_at": "2026-08-04T06:08:25Z",
     "url": "https://github.com/clearlane/workflow-skills"
+  },
+  {
+    "description": "AI Paper Reviewer: LLM-based tool for academic paper review",
+    "id": "FanBroWell/AI-paper-reviewer",
+    "language": "Python",
+    "name": "FanBroWell/AI-paper-reviewer",
+    "stars": 32,
+    "updated_at": "2026-08-04T06:06:51Z",
+    "url": "https://github.com/FanBroWell/AI-paper-reviewer"
+  },
+  {
+    "description": "Cold, unbiased 0-100 rating skill for Claude Code - defines what 100/100 looks like, scores with evidence, and ranks the",
+    "id": "Mrsavage92/rate-skill",
+    "language": "Python",
+    "name": "Mrsavage92/rate-skill",
+    "stars": 0,
+    "updated_at": "2026-08-04T06:06:33Z",
+    "url": "https://github.com/Mrsavage92/rate-skill"
+  },
+  {
+    "description": "Agentic Waifu Engineering \u2014 a practitioner's guide to designing, building, shipping, and caring for AI companions.",
+    "id": "yuri-os/AgenticWaifuCodex",
+    "language": "Python",
+    "name": "yuri-os/AgenticWaifuCodex",
+    "stars": 2,
+    "updated_at": "2026-08-04T06:04:38Z",
+    "url": "https://github.com/yuri-os/AgenticWaifuCodex"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 3,
+    "updated_at": "2026-08-04T06:03:32Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, crea",
+    "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "language": "TypeScript",
+    "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "stars": 115,
+    "updated_at": "2026-08-04T06:01:37Z",
+    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-04T06:00:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3458,
+    "updated_at": "2026-08-04T06:14:07Z",
+    "url": "https://github.com/microsoft/apm"
   },
   {
     "description": "AgentSeed - One command to give your AI agent a brain. Persona-Governance Platform: governance engine + swappable person",
     "id": "weed33834/agentseed",
     "language": "Python",
     "name": "weed33834/agentseed",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-08-04T05:56:26Z",
     "url": "https://github.com/weed33834/agentseed"
   },
@@ -40,7 +139,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23897,
+    "stars": 23898,
     "updated_at": "2026-08-04T05:54:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10885,
-    "updated_at": "2026-08-04T05:52:45Z",
+    "updated_at": "2026-08-04T06:07:15Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -81,15 +180,6 @@
     "url": "https://github.com/hyunbean/tuit_hackathon_dify"
   },
   {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3458,
-    "updated_at": "2026-08-04T06:00:21Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
     "description": "A deep analysis tool for chat records. Feed in raw chat data, get back structured statistical reports, personality profi",
     "id": "JularDepick/ChatAnalysis.SKILL",
     "language": "\u2014",
@@ -97,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T05:49:50Z",
     "url": "https://github.com/JularDepick/ChatAnalysis.SKILL"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 64454,
-    "updated_at": "2026-08-04T05:59:51Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "AI-agent & automation engineer \u2014 n8n, OpenClaw/Hermes, bots, prompt engineering. Building agents from Bandung, Indonesia",
@@ -160,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T05:48:24Z",
     "url": "https://github.com/OmniOrigin-Group/promptsqueeze-php-middleware"
-  },
-  {
-    "description": "An AI Agent skill for automated pre-commit code review and local quality gating before you commit.",
-    "id": "junit/pre-commit-review",
-    "language": "Rust",
-    "name": "junit/pre-commit-review",
-    "stars": 6,
-    "updated_at": "2026-08-04T05:47:51Z",
-    "url": "https://github.com/junit/pre-commit-review"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -252,15 +324,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-04T05:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83c\udfa8 Curated Seedream 5.0 Pro prompts with previews \u2014 auto-generated README, EN/\u4e2d\u6587",
     "id": "velokey-ai/awesome-seedream-5.0-pro-prompts",
     "language": "Python",
@@ -268,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T05:42:50Z",
     "url": "https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts"
-  },
-  {
-    "description": "Cold, unbiased 0-100 rating skill for Claude Code - defines what 100/100 looks like, scores with evidence, and ranks the",
-    "id": "Mrsavage92/rate-skill",
-    "language": "Python",
-    "name": "Mrsavage92/rate-skill",
-    "stars": 0,
-    "updated_at": "2026-08-04T05:43:37Z",
-    "url": "https://github.com/Mrsavage92/rate-skill"
   },
   {
     "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
@@ -394,59 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-04T05:27:43Z",
     "url": "https://github.com/AtlasCloudAI/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Awesome GPT Image 2 Prompts",
-    "id": "AtlasCloudAI/awesome-gpt-image-2-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-gpt-image-2-prompts",
-    "stars": 13,
-    "updated_at": "2026-08-04T05:27:32Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts"
-  },
-  {
-    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
-    "id": "pranavkafle/serpapi-mcp-catalog",
-    "language": "Python",
-    "name": "pranavkafle/serpapi-mcp-catalog",
-    "stars": 1,
-    "updated_at": "2026-08-04T05:25:53Z",
-    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
-  },
-  {
-    "description": "Prompt Runner SDK - Elixir toolkit for orchestrating multi-step prompt executions with Claude Code SDK and Codex SDK. St",
-    "id": "nshkrdotcom/prompt_runner_sdk",
-    "language": "Elixir",
-    "name": "nshkrdotcom/prompt_runner_sdk",
-    "stars": 2,
-    "updated_at": "2026-08-04T05:46:19Z",
-    "url": "https://github.com/nshkrdotcom/prompt_runner_sdk"
-  },
-  {
-    "description": "Design minimal AI agent packs for Codex and Claude from project descriptions.",
-    "id": "ikonushok/agent-pack-designer",
-    "language": "Python",
-    "name": "ikonushok/agent-pack-designer",
-    "stars": 6,
-    "updated_at": "2026-08-04T05:20:39Z",
-    "url": "https://github.com/ikonushok/agent-pack-designer"
-  },
-  {
-    "description": "KAF - The governance layer for multi-agent swarms. Constitution-as-Code + 520 Runtime Guard. Stop AI agents from deletin",
-    "id": "lsjpp2/king-agent-swarm",
-    "language": "Python",
-    "name": "lsjpp2/king-agent-swarm",
-    "stars": 1,
-    "updated_at": "2026-08-04T05:19:51Z",
-    "url": "https://github.com/lsjpp2/king-agent-swarm"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 29,
-    "updated_at": "2026-08-04T05:19:08Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   }
 ]
