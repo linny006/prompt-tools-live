@@ -1,12 +1,174 @@
 [
   {
+    "description": "Portable .agent.md files for AI coding assistants that actually commit to a point of view.",
+    "id": "dfinson/promptlings",
+    "language": "PowerShell",
+    "name": "dfinson/promptlings",
+    "stars": 1,
+    "updated_at": "2026-08-04T18:59:15Z",
+    "url": "https://github.com/dfinson/promptlings"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-08-04T18:58:57Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27362,
+    "updated_at": "2026-08-04T18:59:30Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Execute Lua scripts for Sol's RNG on Windows using this desktop interface with a built-in script hub for Roblox 2026.",
+    "id": "Riccazymotic39/sols-rng-lua-executor-2026",
+    "language": "HTML",
+    "name": "Riccazymotic39/sols-rng-lua-executor-2026",
+    "stars": 0,
+    "updated_at": "2026-08-04T18:56:59Z",
+    "url": "https://github.com/Riccazymotic39/sols-rng-lua-executor-2026"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-08-04T18:56:47Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "1,017 system prompts from real AI products, audited span by span against the eight AISPA assurance dimensions",
+    "id": "SystemPromptIndex/SystemPromptIndex",
+    "language": "\u2014",
+    "name": "SystemPromptIndex/SystemPromptIndex",
+    "stars": 6,
+    "updated_at": "2026-08-04T18:56:23Z",
+    "url": "https://github.com/SystemPromptIndex/SystemPromptIndex"
+  },
+  {
+    "description": "Design multi-step AI agent skills that resume, retry, and gate destructive actions. Runtime-neutral SKILL.md guidance.",
+    "id": "clearlane/workflow-skills",
+    "language": "Python",
+    "name": "clearlane/workflow-skills",
+    "stars": 0,
+    "updated_at": "2026-08-04T18:56:23Z",
+    "url": "https://github.com/clearlane/workflow-skills"
+  },
+  {
+    "description": "Software for HackerRank Orchestrate: an evaluator, an engineering-memory CLI that remembers what you measured and reject",
+    "id": "NITISH-R-G/hackerrank-orchestrate-skills",
+    "language": "Python",
+    "name": "NITISH-R-G/hackerrank-orchestrate-skills",
+    "stars": 3,
+    "updated_at": "2026-08-04T18:54:55Z",
+    "url": "https://github.com/NITISH-R-G/hackerrank-orchestrate-skills"
+  },
+  {
+    "description": "Production-ready AI integration suite using Google Gemini 2.5 API, Streamlit UI, Context Management (RAG), and Structure",
+    "id": "Hudsonhiro/API-projects",
+    "language": "Python",
+    "name": "Hudsonhiro/API-projects",
+    "stars": 1,
+    "updated_at": "2026-08-04T18:54:19Z",
+    "url": "https://github.com/Hudsonhiro/API-projects"
+  },
+  {
+    "description": "Build, run, and monitor reusable agent graphs with this open-source dynamic workflow runtime.",
+    "id": "Prosy4967/deer-workflow",
+    "language": "TypeScript",
+    "name": "Prosy4967/deer-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-04T18:54:02Z",
+    "url": "https://github.com/Prosy4967/deer-workflow"
+  },
+  {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "id": "0xwilliamortiz/ponytail-improved",
+    "language": "JavaScript",
+    "name": "0xwilliamortiz/ponytail-improved",
+    "stars": 587,
+    "updated_at": "2026-08-04T18:52:16Z",
+    "url": "https://github.com/0xwilliamortiz/ponytail-improved"
+  },
+  {
+    "description": "Local, deterministic recovery anchors for long Claude Code and Codex sessions, plus evidence-gated evaluation prompt wra",
+    "id": "hermes-labs-ai/hermes-blind",
+    "language": "Python",
+    "name": "hermes-labs-ai/hermes-blind",
+    "stars": 4,
+    "updated_at": "2026-08-04T18:50:22Z",
+    "url": "https://github.com/hermes-labs-ai/hermes-blind"
+  },
+  {
+    "description": "Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions ",
+    "id": "householderbereavedperson505/promptloop",
+    "language": "\u2014",
+    "name": "householderbereavedperson505/promptloop",
+    "stars": 0,
+    "updated_at": "2026-08-04T18:48:11Z",
+    "url": "https://github.com/householderbereavedperson505/promptloop"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 64704,
+    "updated_at": "2026-08-04T18:47:33Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-08-04T18:45:49Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-04T18:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Generate unique compositions of smooth closed bezier curves using random colors and seed-based patterns.",
+    "id": "Bessbuggy762/Bezier-1-Generative-Art",
+    "language": "HTML",
+    "name": "Bessbuggy762/Bezier-1-Generative-Art",
+    "stars": 0,
+    "updated_at": "2026-08-04T18:45:26Z",
+    "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
+  },
+  {
     "description": "A live AI wizard-council app + a reference implementation of MetaObjects: one metadata spine drives the DB schema, API t",
     "id": "Draagon/wizardsofodd",
     "language": "TypeScript",
     "name": "Draagon/wizardsofodd",
     "stars": 0,
-    "updated_at": "2026-08-04T18:45:08Z",
+    "updated_at": "2026-08-04T18:48:57Z",
     "url": "https://github.com/Draagon/wizardsofodd"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-08-04T18:45:00Z",
+    "url": "https://github.com/costiash/claude-code-docs"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -41,7 +203,7 @@
     "language": "Python",
     "name": "MathisVerstrepen/Meridian",
     "stars": 20,
-    "updated_at": "2026-08-04T18:43:56Z",
+    "updated_at": "2026-08-04T18:56:40Z",
     "url": "https://github.com/MathisVerstrepen/Meridian"
   },
   {
@@ -140,7 +302,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10898,
-    "updated_at": "2026-08-04T18:38:50Z",
+    "updated_at": "2026-08-04T18:59:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -158,26 +320,8 @@
     "language": "TypeScript",
     "name": "zmice/zc-ai-coding-toolkit",
     "stars": 0,
-    "updated_at": "2026-08-04T18:39:42Z",
+    "updated_at": "2026-08-04T18:58:47Z",
     "url": "https://github.com/zmice/zc-ai-coding-toolkit"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 64698,
-    "updated_at": "2026-08-04T18:43:59Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Portable .agent.md files for AI coding assistants that actually commit to a point of view.",
-    "id": "dfinson/promptlings",
-    "language": "PowerShell",
-    "name": "dfinson/promptlings",
-    "stars": 1,
-    "updated_at": "2026-08-04T18:43:44Z",
-    "url": "https://github.com/dfinson/promptlings"
   },
   {
     "description": "Codex Skill\uff1a\u8865\u5f3a AI \u751f\u56fe\u63d0\u793a\u8bcd\u4e2d\u7684\u6750\u8d28\u3001\u76ae\u80a4\u3001\u8868\u9762\u72b6\u6001\u4e0e\u5149\u7ebf\u53cd\u5e94",
@@ -214,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T18:32:42Z",
     "url": "https://github.com/natgalla/context-historian"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-04T18:30:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Pip-installable regression testing for LLM model/prompt changes: deterministic + LLM-judge + statistical checks, model-a",
@@ -293,7 +428,7 @@
     "language": "TypeScript",
     "name": "Brhiza/mingyu",
     "stars": 268,
-    "updated_at": "2026-08-04T18:34:10Z",
+    "updated_at": "2026-08-04T18:59:09Z",
     "url": "https://github.com/Brhiza/mingyu"
   },
   {
@@ -313,140 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-04T18:23:53Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
-    "id": "gmaheshraju/Hands-on-AgenticAI",
-    "language": "JavaScript",
-    "name": "gmaheshraju/Hands-on-AgenticAI",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:22:48Z",
-    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
-  },
-  {
-    "description": "Portable Windows scratchpad and snippet manager. One global hotkey, instant window, markdown, silos, themes. Built with ",
-    "id": "vacterro/FastPrompter",
-    "language": "Python",
-    "name": "vacterro/FastPrompter",
-    "stars": 8,
-    "updated_at": "2026-08-04T18:21:41Z",
-    "url": "https://github.com/vacterro/FastPrompter"
-  },
-  {
-    "description": "21 Lessons, Get Started Building with Generative AI ",
-    "id": "microsoft/generative-ai-for-beginners",
-    "language": "Jupyter Notebook",
-    "name": "microsoft/generative-ai-for-beginners",
-    "stars": 116178,
-    "updated_at": "2026-08-04T18:21:38Z",
-    "url": "https://github.com/microsoft/generative-ai-for-beginners"
-  },
-  {
-    "description": "A Growing Arsenal of Agent Skills. Uncompromising Software Architecture | Curated AI agent workflows and skills for Curs",
-    "id": "Yaz-inc/yazinc-ai-toolkit",
-    "language": "HTML",
-    "name": "Yaz-inc/yazinc-ai-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:20:21Z",
-    "url": "https://github.com/Yaz-inc/yazinc-ai-toolkit"
-  },
-  {
-    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 3,
-    "updated_at": "2026-08-04T18:18:49Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "Turns vague requests into structured prompts, execution plans, and policy-aware workflows \u2014 with readiness verdicts, PR ",
-    "id": "madara88645/Compiler",
-    "language": "Python",
-    "name": "madara88645/Compiler",
-    "stars": 26,
-    "updated_at": "2026-08-04T18:18:38Z",
-    "url": "https://github.com/madara88645/Compiler"
-  },
-  {
-    "description": "Software for HackerRank Orchestrate: an evaluator, an engineering-memory CLI that remembers what you measured and reject",
-    "id": "NITISH-R-G/hackerrank-orchestrate-skills",
-    "language": "Python",
-    "name": "NITISH-R-G/hackerrank-orchestrate-skills",
-    "stars": 3,
-    "updated_at": "2026-08-04T18:18:30Z",
-    "url": "https://github.com/NITISH-R-G/hackerrank-orchestrate-skills"
-  },
-  {
-    "description": "Composable writing instructions for AI agents on four orthogonal axes (Voice, Tone, Style, Format). Early/experimental. ",
-    "id": "product-on-purpose/writing-style-catalog",
-    "language": "Python",
-    "name": "product-on-purpose/writing-style-catalog",
-    "stars": 2,
-    "updated_at": "2026-08-04T18:16:57Z",
-    "url": "https://github.com/product-on-purpose/writing-style-catalog"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-04T18:14:52Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-04T18:14:45Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow \u2014 semantic code n",
-    "id": "konstantinos-malavazos/claude-code-playbook",
-    "language": "Shell",
-    "name": "konstantinos-malavazos/claude-code-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-04T18:14:18Z",
-    "url": "https://github.com/konstantinos-malavazos/claude-code-playbook"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-04T18:13:20Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 2,
-    "updated_at": "2026-08-04T18:12:59Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-04T18:12:15Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
-    "id": "arash9233/phoenix-lua-executor-windows",
-    "language": "HTML",
-    "name": "arash9233/phoenix-lua-executor-windows",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:12:05Z",
-    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
   }
 ]
