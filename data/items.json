@@ -1,12 +1,30 @@
 [
   {
-    "description": "Syx is an experimental local AI memory system for long-running projects and coding agents. It explores active context, d",
-    "id": "cjsthecoder/project_syx",
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "HTML",
+    "name": "llwslc/proteus",
+    "stars": 2,
+    "updated_at": "2026-08-04T17:25:08Z",
+    "url": "https://github.com/llwslc/proteus"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-08-04T17:23:05Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Streamline complex research projects using ChatGPT and Codex with this practical toolkit for physicists and mathematicia",
+    "id": "antiamerican-postponer432/chatgpt-for-researchers",
     "language": "Python",
-    "name": "cjsthecoder/project_syx",
+    "name": "antiamerican-postponer432/chatgpt-for-researchers",
     "stars": 0,
-    "updated_at": "2026-08-04T17:13:10Z",
-    "url": "https://github.com/cjsthecoder/project_syx"
+    "updated_at": "2026-08-04T17:23:03Z",
+    "url": "https://github.com/antiamerican-postponer432/chatgpt-for-researchers"
   },
   {
     "description": "GPT-5.6 Stop Overengineering: a tiny Agent Skill for stopping scope creep and endless test loops.",
@@ -14,8 +32,125 @@
     "language": "\u2014",
     "name": "Swallow100/gpt-5-6-stop-overengineering",
     "stars": 1,
-    "updated_at": "2026-08-04T17:12:42Z",
+    "updated_at": "2026-08-04T17:22:36Z",
     "url": "https://github.com/Swallow100/gpt-5-6-stop-overengineering"
+  },
+  {
+    "description": "Skills, steering rules and multi-agent workflows I use with Claude Code \u2014 autonomous issue runners, adversarial gates, p",
+    "id": "roufmlp/agent-skills",
+    "language": "\u2014",
+    "name": "roufmlp/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:22:35Z",
+    "url": "https://github.com/roufmlp/agent-skills"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-08-04T17:19:50Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Execute Lua scripts for Sol's RNG on Windows using this desktop interface with a built-in script hub for Roblox 2026.",
+    "id": "Riccazymotic39/sols-rng-lua-executor-2026",
+    "language": "HTML",
+    "name": "Riccazymotic39/sols-rng-lua-executor-2026",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:19:25Z",
+    "url": "https://github.com/Riccazymotic39/sols-rng-lua-executor-2026"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Shell",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:18:55Z",
+    "url": "https://github.com/l4ci/hv-skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-04T17:18:26Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "22-agent Mixture-of-Agents pipeline with LongLoop for 24h autonomous iteration: smart routing sends easy tasks to Flash,",
+    "id": "ZenHG/opencode-moa",
+    "language": "PowerShell",
+    "name": "ZenHG/opencode-moa",
+    "stars": 3,
+    "updated_at": "2026-08-04T17:18:17Z",
+    "url": "https://github.com/ZenHG/opencode-moa"
+  },
+  {
+    "description": "A public-domain visual prompt forge: 2,000 signals across 16 creative axes.",
+    "id": "androotandtheretinue/prompt-forge",
+    "language": "HTML",
+    "name": "androotandtheretinue/prompt-forge",
+    "stars": 4,
+    "updated_at": "2026-08-04T17:18:12Z",
+    "url": "https://github.com/androotandtheretinue/prompt-forge"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:17:44Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Hands-on LLM engineering labs: prompt engineering, embeddings, RAG, agents, LangGraph, MCP, evals, and LLMOps. Every top",
+    "id": "sathyapriyakarthikeyan27/llm-engineering-labs",
+    "language": "Jupyter Notebook",
+    "name": "sathyapriyakarthikeyan27/llm-engineering-labs",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:16:23Z",
+    "url": "https://github.com/sathyapriyakarthikeyan27/llm-engineering-labs"
+  },
+  {
+    "description": "Build, run, and monitor reusable agent graphs with this open-source dynamic workflow runtime.",
+    "id": "Prosy4967/deer-workflow",
+    "language": "TypeScript",
+    "name": "Prosy4967/deer-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:15:42Z",
+    "url": "https://github.com/Prosy4967/deer-workflow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-04T17:15:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A persistent, observable, and collaborative context infrastructure",
+    "id": "lilhammerfun/clumsies",
+    "language": "Zig",
+    "name": "lilhammerfun/clumsies",
+    "stars": 17,
+    "updated_at": "2026-08-04T17:14:59Z",
+    "url": "https://github.com/lilhammerfun/clumsies"
+  },
+  {
+    "description": "Syx is an experimental local AI memory system for long-running projects and coding agents. It explores active context, d",
+    "id": "cjsthecoder/project_syx",
+    "language": "Python",
+    "name": "cjsthecoder/project_syx",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:13:10Z",
+    "url": "https://github.com/cjsthecoder/project_syx"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -32,7 +167,7 @@
     "language": "Python",
     "name": "Liplus-Project/liplus-language",
     "stars": 3,
-    "updated_at": "2026-08-04T17:09:45Z",
+    "updated_at": "2026-08-04T17:17:53Z",
     "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
@@ -52,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T17:08:45Z",
     "url": "https://github.com/livingghost/pov-series-director"
-  },
-  {
-    "description": "A public-domain visual prompt forge: 2,000 signals across 16 creative axes.",
-    "id": "androotandtheretinue/prompt-forge",
-    "language": "HTML",
-    "name": "androotandtheretinue/prompt-forge",
-    "stars": 4,
-    "updated_at": "2026-08-04T17:08:25Z",
-    "url": "https://github.com/androotandtheretinue/prompt-forge"
   },
   {
     "description": "Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions ",
@@ -104,17 +230,8 @@
     "language": "Python",
     "name": "TGPSKI/adherence-suite",
     "stars": 1,
-    "updated_at": "2026-08-04T17:03:47Z",
+    "updated_at": "2026-08-04T17:21:58Z",
     "url": "https://github.com/TGPSKI/adherence-suite"
-  },
-  {
-    "description": "Skills, steering rules and multi-agent workflows I use with Claude Code \u2014 autonomous issue runners, adversarial gates, p",
-    "id": "roufmlp/agent-skills",
-    "language": "\u2014",
-    "name": "roufmlp/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:01:46Z",
-    "url": "https://github.com/roufmlp/agent-skills"
   },
   {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
@@ -133,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T17:00:59Z",
     "url": "https://github.com/ZhiMaHang/playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-04T17:00:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Middleware for managing LLM context windows in production chat applications. Automatically tracks token usage in real ti",
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T16:50:35Z",
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Software for HackerRank Orchestrate: an evaluator, an engineering-memory CLI that remembers what you measured and reject",
-    "id": "NITISH-R-G/hackerrank-orchestrate-skills",
-    "language": "Python",
-    "name": "NITISH-R-G/hackerrank-orchestrate-skills",
-    "stars": 3,
-    "updated_at": "2026-08-04T16:49:12Z",
-    "url": "https://github.com/NITISH-R-G/hackerrank-orchestrate-skills"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
-    "id": "arash9233/phoenix-lua-executor-windows",
-    "language": "HTML",
-    "name": "arash9233/phoenix-lua-executor-windows",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:48:35Z",
-    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-04T16:47:10Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 29,
-    "updated_at": "2026-08-04T16:46:21Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-08-04T16:45:53Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 64672,
-    "updated_at": "2026-08-04T16:45:35Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "M\u00e9thode Palambur \u2014 skill Claude Code : clarification cibl\u00e9e (questions avant production) pour un livrable m\u00e9tier de qual",
-    "id": "PALAMBUR/palambur-method",
-    "language": "\u2014",
-    "name": "PALAMBUR/palambur-method",
-    "stars": 2,
-    "updated_at": "2026-08-04T16:43:56Z",
-    "url": "https://github.com/PALAMBUR/palambur-method"
-  },
-  {
-    "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
-    "id": "AmadeusITGroup/ai-primitives-hub",
-    "language": "TypeScript",
-    "name": "AmadeusITGroup/ai-primitives-hub",
-    "stars": 48,
-    "updated_at": "2026-08-04T16:43:43Z",
-    "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-08-04T16:41:48Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Practical single-change prompt patterns for AI photo editing with Editara",
-    "id": "jiawen134/editara-prompt-cookbook",
-    "language": "JavaScript",
-    "name": "jiawen134/editara-prompt-cookbook",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:41:24Z",
-    "url": "https://github.com/jiawen134/editara-prompt-cookbook"
-  },
-  {
-    "description": "Local, persistent and auditable memory layer for Claude Code, Codex, Cursor & Gemini CLI. Your coding agent stops treati",
-    "id": "ma-nucho-pro/wife",
-    "language": "JavaScript",
-    "name": "ma-nucho-pro/wife",
-    "stars": 15,
-    "updated_at": "2026-08-04T16:40:15Z",
-    "url": "https://github.com/ma-nucho-pro/wife"
-  },
-  {
-    "description": "prompt stash ",
-    "id": "julesklord/promptbase",
-    "language": "JavaScript",
-    "name": "julesklord/promptbase",
-    "stars": 0,
-    "updated_at": "2026-08-04T16:38:12Z",
-    "url": "https://github.com/julesklord/promptbase"
   }
 ]
