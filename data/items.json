@@ -1,12 +1,84 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10899,
+    "updated_at": "2026-08-04T23:30:01Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
+    "id": "aliasunder/agent-plugins",
+    "language": "\u2014",
+    "name": "aliasunder/agent-plugins",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:29:48Z",
+    "url": "https://github.com/aliasunder/agent-plugins"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 29,
+    "updated_at": "2026-08-04T23:28:02Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-08-04T23:27:24Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Free library of original guides on working with AI. 22 guides, five layers, three depths, no signup. Source for corewise",
+    "id": "ryanportfolio/Corewise.Academy",
+    "language": "MDX",
+    "name": "ryanportfolio/Corewise.Academy",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:26:07Z",
+    "url": "https://github.com/ryanportfolio/Corewise.Academy"
+  },
+  {
     "description": "Estimates Active Network Management curtailment risk for UK Grid Supply Points from the Embedded Capacity Register, usin",
     "id": "xrax124/LIFO_Curtailment_Project",
     "language": "Python",
     "name": "xrax124/LIFO_Curtailment_Project",
     "stars": 0,
-    "updated_at": "2026-08-04T23:14:39Z",
+    "updated_at": "2026-08-04T23:23:11Z",
     "url": "https://github.com/xrax124/LIFO_Curtailment_Project"
+  },
+  {
+    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
+    "id": "alinafe82/cognitive-deadlift",
+    "language": "Python",
+    "name": "alinafe82/cognitive-deadlift",
+    "stars": 0,
+    "updated_at": "2026-08-04T23:25:22Z",
+    "url": "https://github.com/alinafe82/cognitive-deadlift"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 64762,
+    "updated_at": "2026-08-04T23:21:17Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-04T23:15:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Find the safety rules your AI agent prompt forgot. Checks 23 published controls \u2014 injection defense, human approval, cos",
@@ -54,15 +126,6 @@
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 64759,
-    "updated_at": "2026-08-04T23:14:43Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -99,15 +162,6 @@
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-04T23:00:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
     "id": "jestersanjay/slim-tools-claude-harness",
     "language": "HTML",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T22:59:52Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
-    "id": "alinafe82/cognitive-deadlift",
-    "language": "Python",
-    "name": "alinafe82/cognitive-deadlift",
-    "stars": 0,
-    "updated_at": "2026-08-04T23:02:39Z",
-    "url": "https://github.com/alinafe82/cognitive-deadlift"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -160,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T22:56:29Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10899,
-    "updated_at": "2026-08-04T22:57:48Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T22:29:41Z",
     "url": "https://github.com/PeepSick/usb"
-  },
-  {
-    "description": "My personal Claude Code skills",
-    "id": "SrdjanCoric/skills",
-    "language": "HTML",
-    "name": "SrdjanCoric/skills",
-    "stars": 18,
-    "updated_at": "2026-08-04T22:28:08Z",
-    "url": "https://github.com/SrdjanCoric/skills"
-  },
-  {
-    "description": "Static security scanner for AI prompts, MCP configs, and agent workflows. Zero LLM calls. Local-first. OWASP LLM Top 10 ",
-    "id": "meghal86/promptsonar",
-    "language": "TypeScript",
-    "name": "meghal86/promptsonar",
-    "stars": 5,
-    "updated_at": "2026-08-04T22:27:41Z",
-    "url": "https://github.com/meghal86/promptsonar"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 10,
-    "updated_at": "2026-08-04T22:26:22Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session.",
-    "id": "greerviau/wingman",
-    "language": "Shell",
-    "name": "greerviau/wingman",
-    "stars": 2,
-    "updated_at": "2026-08-04T22:40:45Z",
-    "url": "https://github.com/greerviau/wingman"
   }
 ]
