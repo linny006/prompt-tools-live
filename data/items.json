@@ -1,5 +1,140 @@
 [
   {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:45:16Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Portable Windows scratchpad and snippet manager. One global hotkey, instant window, markdown, silos, themes. Built with ",
+    "id": "vacterro/FastPrompter",
+    "language": "Python",
+    "name": "vacterro/FastPrompter",
+    "stars": 8,
+    "updated_at": "2026-08-04T20:43:47Z",
+    "url": "https://github.com/vacterro/FastPrompter"
+  },
+  {
+    "description": "Local Tokenizer/Counter",
+    "id": "lancekrogers/tcount",
+    "language": "Go",
+    "name": "lancekrogers/tcount",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:41:37Z",
+    "url": "https://github.com/lancekrogers/tcount"
+  },
+  {
+    "description": "A curated library of production-ready system prompts for building with AI. Static, dark-themed, mobile-first web app. No",
+    "id": "SarutobiSasuke8/Prompt-Library",
+    "language": "HTML",
+    "name": "SarutobiSasuke8/Prompt-Library",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:40:33Z",
+    "url": "https://github.com/SarutobiSasuke8/Prompt-Library"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3461,
+    "updated_at": "2026-08-04T20:39:14Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "End-to-end agentic data-science system: LLM planning + MCP tool execution over deterministic analytics, with full tracea",
+    "id": "Padraigobrien08/agentic-data-science-system",
+    "language": "Python",
+    "name": "Padraigobrien08/agentic-data-science-system",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:38:22Z",
+    "url": "https://github.com/Padraigobrien08/agentic-data-science-system"
+  },
+  {
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "id": "AgustiPuigserver/opus-prompt-architect",
+    "language": "HTML",
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "stars": 155,
+    "updated_at": "2026-08-04T20:36:40Z",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 10,
+    "updated_at": "2026-08-04T20:44:01Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
+    "id": "heavenaruba/codified-prompt-rule-engine",
+    "language": "HTML",
+    "name": "heavenaruba/codified-prompt-rule-engine",
+    "stars": 156,
+    "updated_at": "2026-08-04T20:36:01Z",
+    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
+  },
+  {
+    "description": "Design multi-step AI agent skills that resume, retry, and gate destructive actions. Runtime-neutral SKILL.md guidance.",
+    "id": "clearlane/workflow-skills",
+    "language": "Python",
+    "name": "clearlane/workflow-skills",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:34:28Z",
+    "url": "https://github.com/clearlane/workflow-skills"
+  },
+  {
+    "description": "Unified OpenAI-compatible AI gateway for 10+ providers \u2014 with prompt workflows (Action/Template), quality monitoring, an",
+    "id": "tripplemay/aigcgateway",
+    "language": "TypeScript",
+    "name": "tripplemay/aigcgateway",
+    "stars": 2,
+    "updated_at": "2026-08-04T20:34:12Z",
+    "url": "https://github.com/tripplemay/aigcgateway"
+  },
+  {
+    "description": "Fit chat history into any model's context window \u2014 sliding-window packing, running summaries, overflow detection. Zero d",
+    "id": "binaydhakal/context-budget",
+    "language": "TypeScript",
+    "name": "binaydhakal/context-budget",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:32:24Z",
+    "url": "https://github.com/binaydhakal/context-budget"
+  },
+  {
+    "description": "MiniMax H3 (Hailuo 3.0) front-end for ComfyUI \u2014 local LLM writes H3's structured prompts, live preview, VRAM handoff, na",
+    "id": "CharlesMod/h3-studio",
+    "language": "Python",
+    "name": "CharlesMod/h3-studio",
+    "stars": 0,
+    "updated_at": "2026-08-04T20:32:22Z",
+    "url": "https://github.com/CharlesMod/h3-studio"
+  },
+  {
+    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
+    "id": "adrianwedd/cv",
+    "language": "JavaScript",
+    "name": "adrianwedd/cv",
+    "stars": 4,
+    "updated_at": "2026-08-04T20:31:45Z",
+    "url": "https://github.com/adrianwedd/cv"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-04T20:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A Claude Code skill for MiniMax H3 \u2014 the open-weight omni-modal video model. Prompt framework, ComfyUI model/quant refer",
     "id": "teskor-hub/minimax-h3-skill",
     "language": "\u2014",
@@ -34,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-08-04T20:27:13Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Design multi-step AI agent skills that resume, retry, and gate destructive actions. Runtime-neutral SKILL.md guidance.",
-    "id": "clearlane/workflow-skills",
-    "language": "Python",
-    "name": "clearlane/workflow-skills",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:27:11Z",
-    "url": "https://github.com/clearlane/workflow-skills"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -126,15 +252,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-04T20:23:00Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Local-first algorithmic trading research and automation app with multi-strategy backtesting, input optimization, LLM-ass",
     "id": "ygyzys83/Turtle_Trading_Simulator",
     "language": "Python",
@@ -178,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T20:19:45Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "MiniMax H3 (Hailuo 3.0) front-end for ComfyUI \u2014 local LLM writes H3's structured prompts, live preview, VRAM handoff, na",
-    "id": "CharlesMod/h3-studio",
-    "language": "Python",
-    "name": "CharlesMod/h3-studio",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:19:00Z",
-    "url": "https://github.com/CharlesMod/h3-studio"
   },
   {
     "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
@@ -243,15 +351,6 @@
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
-    "description": "Fit chat history into any model's context window \u2014 sliding-window packing, running summaries, overflow detection. Zero d",
-    "id": "binaydhakal/context-budget",
-    "language": "TypeScript",
-    "name": "binaydhakal/context-budget",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:11:47Z",
-    "url": "https://github.com/binaydhakal/context-budget"
-  },
-  {
     "description": "A Free, Open Source MCP server for dynamic custom persona management with public a GitHub collection of personas, skills",
     "id": "DollhouseMCP/mcp-server",
     "language": "TypeScript",
@@ -259,15 +358,6 @@
     "stars": 38,
     "updated_at": "2026-08-04T20:11:18Z",
     "url": "https://github.com/DollhouseMCP/mcp-server"
-  },
-  {
-    "description": "Portable Windows scratchpad and snippet manager. One global hotkey, instant window, markdown, silos, themes. Built with ",
-    "id": "vacterro/FastPrompter",
-    "language": "Python",
-    "name": "vacterro/FastPrompter",
-    "stars": 8,
-    "updated_at": "2026-08-04T20:08:47Z",
-    "url": "https://github.com/vacterro/FastPrompter"
   },
   {
     "description": "Software for HackerRank Orchestrate: an evaluator, an engineering-memory CLI that remembers what you measured and reject",
@@ -284,7 +374,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10899,
-    "updated_at": "2026-08-04T20:26:15Z",
+    "updated_at": "2026-08-04T20:43:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -351,15 +441,6 @@
     "url": "https://github.com/zmice/zc-ai-coding-toolkit"
   },
   {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3461,
-    "updated_at": "2026-08-04T19:52:11Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
     "description": "\u53d7\u7ea6\u675f\u7684 AI \u751f\u56fe\u6750\u8d28\u9009\u62e9 Skill\uff1a1130 \u4e2a\u53cc\u8bed\u6750\u8d28\u5bf9\u8c61\u3001\u670d\u88c5\u6750\u8d28\u5305\u3001\u517c\u5bb9\u6027\u4e0e\u5149\u5b66\u51b2\u7a81\u68c0\u67e5",
     "id": "yuyolin/material-pack-skill",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T19:50:44Z",
     "url": "https://github.com/yuyolin/material-pack-skill"
-  },
-  {
-    "description": "SLMArena is a self-hosted benchmarking & red-teaming platform for local SLMs. Measure TTFT, tok/s, & latency while an au",
-    "id": "tuxevil/SLMarena",
-    "language": "TypeScript",
-    "name": "tuxevil/SLMarena",
-    "stars": 1,
-    "updated_at": "2026-08-04T19:50:32Z",
-    "url": "https://github.com/tuxevil/SLMarena"
-  },
-  {
-    "description": "An intelligent Retrieval-Augmented Generation (RAG) chatbot and document analysis platform for tax legislation.",
-    "id": "rayyanfaisal475207/TaxIQ",
-    "language": "Python",
-    "name": "rayyanfaisal475207/TaxIQ",
-    "stars": 0,
-    "updated_at": "2026-08-04T19:48:52Z",
-    "url": "https://github.com/rayyanfaisal475207/TaxIQ"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-04T19:48:27Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 154,
-    "updated_at": "2026-08-04T19:47:18Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "\ud83c\udf70 PromptLayer - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.",
-    "id": "MagnivOrg/prompt-layer-library",
-    "language": "Python",
-    "name": "MagnivOrg/prompt-layer-library",
-    "stars": 782,
-    "updated_at": "2026-08-04T20:09:49Z",
-    "url": "https://github.com/MagnivOrg/prompt-layer-library"
-  },
-  {
-    "description": "An operating system for your Claude context \u2014 version-controlled files, a self-curating memory, and a /start\u2192/end sessio",
-    "id": "conorbronsdon/claude-context-os",
-    "language": "Shell",
-    "name": "conorbronsdon/claude-context-os",
-    "stars": 10,
-    "updated_at": "2026-08-04T19:45:56Z",
-    "url": "https://github.com/conorbronsdon/claude-context-os"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-08-04T19:45:37Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "ex-cog \u2014 externalized cognition. Four Claude Code plugins. research-toolkit \u2014 self-checking investigation & verification",
-    "id": "bogheorghiu/ex-cog-dev",
-    "language": "Python",
-    "name": "bogheorghiu/ex-cog-dev",
-    "stars": 0,
-    "updated_at": "2026-08-04T19:43:36Z",
-    "url": "https://github.com/bogheorghiu/ex-cog-dev"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-04T19:43:08Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
