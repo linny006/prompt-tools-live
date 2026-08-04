@@ -1,12 +1,120 @@
 [
   {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-08-04T10:59:05Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "A curated collection of my personal AI, RAG, MCP, LLM, and software development notes generated during my learning journ",
+    "id": "satyam0singh/Agentic-AI",
+    "language": "\u2014",
+    "name": "satyam0singh/Agentic-AI",
+    "stars": 0,
+    "updated_at": "2026-08-04T10:57:19Z",
+    "url": "https://github.com/satyam0singh/Agentic-AI"
+  },
+  {
+    "description": "Ready-to-use system prompts for Agentic Code Review.",
+    "id": "baz-scm/awesome-reviewers",
+    "language": "Python",
+    "name": "baz-scm/awesome-reviewers",
+    "stars": 141,
+    "updated_at": "2026-08-04T10:56:58Z",
+    "url": "https://github.com/baz-scm/awesome-reviewers"
+  },
+  {
+    "description": "\u5a01\u718f\u9091\u5883\u54c1\u724c\u4e13\u5c5e\u7684 Codex Skill\uff0c\u5f53\u524d\u4e3b\u8981\u670d\u52a1\u201c\u9a6c\u514b\u745e\u666e\u4e4b\u9009\u4e9a\u4f2f\u4e501996\u5e74\u5355\u6876\u201d\u5728\u5c0f\u7ea2\u4e66\u3001\u6296\u97f3\u548c\u89c6\u9891\u53f7\u4e0a\u7684\u6301\u7eed\u5185\u5bb9\u521b\u4f5c\u3002 ",
+    "id": "ifeihong/wxyj-content-system",
+    "language": "Python",
+    "name": "ifeihong/wxyj-content-system",
+    "stars": 1,
+    "updated_at": "2026-08-04T10:53:08Z",
+    "url": "https://github.com/ifeihong/wxyj-content-system"
+  },
+  {
+    "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
+    "id": "Dangkoolwat/ai-learning-studio",
+    "language": "Python",
+    "name": "Dangkoolwat/ai-learning-studio",
+    "stars": 0,
+    "updated_at": "2026-08-04T10:50:34Z",
+    "url": "https://github.com/Dangkoolwat/ai-learning-studio"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3466,
+    "updated_at": "2026-08-04T11:00:24Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Every prompt compressor tells you how many tokens it saved. This one tells you whether the answer changed.",
+    "id": "RiceSouffle/Token-Envelope",
+    "language": "TypeScript",
+    "name": "RiceSouffle/Token-Envelope",
+    "stars": 0,
+    "updated_at": "2026-08-04T10:48:49Z",
+    "url": "https://github.com/RiceSouffle/Token-Envelope"
+  },
+  {
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "HTML",
+    "name": "llwslc/proteus",
+    "stars": 2,
+    "updated_at": "2026-08-04T10:47:54Z",
+    "url": "https://github.com/llwslc/proteus"
+  },
+  {
+    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
+    "id": "FURUYAN1234/nano-banana-pro",
+    "language": "JavaScript",
+    "name": "FURUYAN1234/nano-banana-pro",
+    "stars": 13,
+    "updated_at": "2026-08-04T10:47:43Z",
+    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
+  },
+  {
+    "description": "Turns vague requests into structured prompts, execution plans, and policy-aware workflows \u2014 with readiness verdicts, PR ",
+    "id": "madara88645/Compiler",
+    "language": "Python",
+    "name": "madara88645/Compiler",
+    "stars": 26,
+    "updated_at": "2026-08-04T10:46:32Z",
+    "url": "https://github.com/madara88645/Compiler"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-04T10:45:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "JavaScript",
     "name": "sairaman436/vybe-intelligence-vault",
     "stars": 15,
-    "updated_at": "2026-08-04T10:42:13Z",
+    "updated_at": "2026-08-04T10:45:34Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-08-04T10:45:33Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
     "description": "nightshift is a free Claude Code plugin that turns one terminal into a full software-delivery team \u2014 it reads a ticket a",
@@ -14,7 +122,7 @@
     "language": "TypeScript",
     "name": "whimzyLive/nightshift-ai",
     "stars": 3,
-    "updated_at": "2026-08-04T10:42:07Z",
+    "updated_at": "2026-08-04T10:59:00Z",
     "url": "https://github.com/whimzyLive/nightshift-ai"
   },
   {
@@ -25,15 +133,6 @@
     "stars": 850,
     "updated_at": "2026-08-04T10:41:55Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
-    "id": "Dangkoolwat/ai-learning-studio",
-    "language": "Python",
-    "name": "Dangkoolwat/ai-learning-studio",
-    "stars": 0,
-    "updated_at": "2026-08-04T10:41:21Z",
-    "url": "https://github.com/Dangkoolwat/ai-learning-studio"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -72,15 +171,6 @@
     "url": "https://github.com/mrwogu/promptscript"
   },
   {
-    "description": "Turns vague requests into structured prompts, execution plans, and policy-aware workflows \u2014 with readiness verdicts, PR ",
-    "id": "madara88645/Compiler",
-    "language": "Python",
-    "name": "madara88645/Compiler",
-    "stars": 26,
-    "updated_at": "2026-08-04T10:43:00Z",
-    "url": "https://github.com/madara88645/Compiler"
-  },
-  {
     "description": "Your agent wastes context. Distill fixes it.",
     "id": "arthjean/distill",
     "language": "JavaScript",
@@ -113,7 +203,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4231,
-    "updated_at": "2026-08-04T10:36:49Z",
+    "updated_at": "2026-08-04T10:59:34Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -189,15 +279,6 @@
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-04T10:30:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
     "id": "AnastasiyaW/codex-claude-code-config",
     "language": "Python",
@@ -270,15 +351,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "Ready-to-use system prompts for Agentic Code Review.",
-    "id": "baz-scm/awesome-reviewers",
-    "language": "Python",
-    "name": "baz-scm/awesome-reviewers",
-    "stars": 141,
-    "updated_at": "2026-08-04T10:25:30Z",
-    "url": "https://github.com/baz-scm/awesome-reviewers"
-  },
-  {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
     "id": "YouMind-OpenLab/awesome-seedream-4.5",
     "language": "TypeScript",
@@ -292,7 +364,7 @@
     "id": "levi-qiao/longgraph-skill",
     "language": "Shell",
     "name": "levi-qiao/longgraph-skill",
-    "stars": 53,
+    "stars": 54,
     "updated_at": "2026-08-04T10:24:50Z",
     "url": "https://github.com/levi-qiao/longgraph-skill"
   },
@@ -313,15 +385,6 @@
     "stars": 2953,
     "updated_at": "2026-08-04T10:24:03Z",
     "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3466,
-    "updated_at": "2026-08-04T10:37:12Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
@@ -382,71 +445,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32477,
+    "stars": 32479,
     "updated_at": "2026-08-04T10:19:20Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Turn one sentence into an ambitious project. An agent skill that self-critiques, scopes honestly, and knows when to stop",
-    "id": "Likely7/Moonshot-skill",
-    "language": "\u2014",
-    "name": "Likely7/Moonshot-skill",
-    "stars": 0,
-    "updated_at": "2026-08-04T10:18:25Z",
-    "url": "https://github.com/Likely7/Moonshot-skill"
-  },
-  {
-    "description": "AgentSeed - One command to give your AI agent a brain. Persona-Governance Platform: governance engine + swappable person",
-    "id": "weed33834/agentseed",
-    "language": "Python",
-    "name": "weed33834/agentseed",
-    "stars": 5,
-    "updated_at": "2026-08-04T10:18:04Z",
-    "url": "https://github.com/weed33834/agentseed"
-  },
-  {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Python",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-08-04T10:17:44Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
-  },
-  {
-    "description": "In Anthropic's official Claude plugin directory \u00b7 848 professional Agent Skills (PRDs, launches, compliance, CVs & more)",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "HTML",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1252,
-    "updated_at": "2026-08-04T10:22:50Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
-    "id": "llwslc/proteus",
-    "language": "HTML",
-    "name": "llwslc/proteus",
-    "stars": 2,
-    "updated_at": "2026-08-04T10:15:35Z",
-    "url": "https://github.com/llwslc/proteus"
-  },
-  {
-    "description": "Convention-first typed prompt models with canonical Markdown and XML",
-    "id": "Thillel/pydantic-promptmodel",
-    "language": "Python",
-    "name": "Thillel/pydantic-promptmodel",
-    "stars": 1,
-    "updated_at": "2026-08-04T10:13:45Z",
-    "url": "https://github.com/Thillel/pydantic-promptmodel"
-  },
-  {
-    "description": "zer0lint is a memory-extraction health diagnostic for mem0 configs and HTTP memory endpoints. It flags silent failure mo",
-    "id": "hermes-labs-ai/zer0lint",
-    "language": "Python",
-    "name": "hermes-labs-ai/zer0lint",
-    "stars": 0,
-    "updated_at": "2026-08-04T10:12:47Z",
-    "url": "https://github.com/hermes-labs-ai/zer0lint"
   }
 ]
