@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-04 18:59 UTC
+> ⏰ Last updated: 2026-08-04 19:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [dfinson/promptlings](https://github.com/dfinson/promptlings) | 1 | PowerShell | 2026-08-04 | Portable .agent.md files for AI coding assistants that actually commit to a point of view. |
-| 2 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 3 | HTML | 2026-08-04 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
-| 3 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27362 | Python | 2026-08-04 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 4 | [Riccazymotic39/sols-rng-lua-executor-2026](https://github.com/Riccazymotic39/sols-rng-lua-executor-2026) | 0 | HTML | 2026-08-04 | Execute Lua scripts for Sol's RNG on Windows using this desktop interface with a built-in script hub for Roblox 2026. |
-| 5 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-08-04 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 6 | [SystemPromptIndex/SystemPromptIndex](https://github.com/SystemPromptIndex/SystemPromptIndex) | 6 | — | 2026-08-04 | 1,017 system prompts from real AI products, audited span by span against the eight AISPA assurance dimensions |
-| 7 | [clearlane/workflow-skills](https://github.com/clearlane/workflow-skills) | 0 | Python | 2026-08-04 | Design multi-step AI agent skills that resume, retry, and gate destructive actions. Runtime-neutral SKILL.md guidance. |
-| 8 | [NITISH-R-G/hackerrank-orchestrate-skills](https://github.com/NITISH-R-G/hackerrank-orchestrate-skills) | 3 | Python | 2026-08-04 | Software for HackerRank Orchestrate: an evaluator, an engineering-memory CLI that remembers what you measured and reject |
-| 9 | [Hudsonhiro/API-projects](https://github.com/Hudsonhiro/API-projects) | 1 | Python | 2026-08-04 | Production-ready AI integration suite using Google Gemini 2.5 API, Streamlit UI, Context Management (RAG), and Structure |
-| 10 | [Prosy4967/deer-workflow](https://github.com/Prosy4967/deer-workflow) | 0 | TypeScript | 2026-08-04 | Build, run, and monitor reusable agent graphs with this open-source dynamic workflow runtime. |
-| 11 | [0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved) | 587 | JavaScript | 2026-08-04 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 12 | [hermes-labs-ai/hermes-blind](https://github.com/hermes-labs-ai/hermes-blind) | 4 | Python | 2026-08-04 | Local, deterministic recovery anchors for long Claude Code and Codex sessions, plus evidence-gated evaluation prompt wra |
-| 13 | [householderbereavedperson505/promptloop](https://github.com/householderbereavedperson505/promptloop) | 0 | — | 2026-08-04 | Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions  |
-| 14 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 64704 | Python | 2026-08-04 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% |
-| 15 | [BELYAGOUBIABDELILAH/open-prompt-library](https://github.com/BELYAGOUBIABDELILAH/open-prompt-library) | 2 | JavaScript | 2026-08-04 | Open source AI prompt library — ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
-| 16 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-08-04 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-08-04 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27363 | Python | 2026-08-04 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 3 | [dfinson/promptlings](https://github.com/dfinson/promptlings) | 1 | PowerShell | 2026-08-04 | Portable .agent.md files for AI coding assistants that actually commit to a point of view. |
+| 4 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 3 | HTML | 2026-08-04 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
+| 5 | [Riccazymotic39/sols-rng-lua-executor-2026](https://github.com/Riccazymotic39/sols-rng-lua-executor-2026) | 0 | HTML | 2026-08-04 | Execute Lua scripts for Sol's RNG on Windows using this desktop interface with a built-in script hub for Roblox 2026. |
+| 6 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-08-04 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 7 | [SystemPromptIndex/SystemPromptIndex](https://github.com/SystemPromptIndex/SystemPromptIndex) | 6 | — | 2026-08-04 | 1,017 system prompts from real AI products, audited span by span against the eight AISPA assurance dimensions |
+| 8 | [clearlane/workflow-skills](https://github.com/clearlane/workflow-skills) | 0 | Python | 2026-08-04 | Design multi-step AI agent skills that resume, retry, and gate destructive actions. Runtime-neutral SKILL.md guidance. |
+| 9 | [NITISH-R-G/hackerrank-orchestrate-skills](https://github.com/NITISH-R-G/hackerrank-orchestrate-skills) | 3 | Python | 2026-08-04 | Software for HackerRank Orchestrate: an evaluator, an engineering-memory CLI that remembers what you measured and reject |
+| 10 | [Hudsonhiro/API-projects](https://github.com/Hudsonhiro/API-projects) | 1 | Python | 2026-08-04 | Production-ready AI integration suite using Google Gemini 2.5 API, Streamlit UI, Context Management (RAG), and Structure |
+| 11 | [Prosy4967/deer-workflow](https://github.com/Prosy4967/deer-workflow) | 0 | TypeScript | 2026-08-04 | Build, run, and monitor reusable agent graphs with this open-source dynamic workflow runtime. |
+| 12 | [0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved) | 587 | JavaScript | 2026-08-04 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 13 | [hermes-labs-ai/hermes-blind](https://github.com/hermes-labs-ai/hermes-blind) | 4 | Python | 2026-08-04 | Local, deterministic recovery anchors for long Claude Code and Codex sessions, plus evidence-gated evaluation prompt wra |
+| 14 | [householderbereavedperson505/promptloop](https://github.com/householderbereavedperson505/promptloop) | 0 | — | 2026-08-04 | Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions  |
+| 15 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 64704 | Python | 2026-08-04 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% |
+| 16 | [BELYAGOUBIABDELILAH/open-prompt-library](https://github.com/BELYAGOUBIABDELILAH/open-prompt-library) | 2 | JavaScript | 2026-08-04 | Open source AI prompt library — ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
 | 17 | [Bessbuggy762/Bezier-1-Generative-Art](https://github.com/Bessbuggy762/Bezier-1-Generative-Art) | 0 | HTML | 2026-08-04 | Generate unique compositions of smooth closed bezier curves using random colors and seed-based patterns. |
 | 18 | [Draagon/wizardsofodd](https://github.com/Draagon/wizardsofodd) | 0 | TypeScript | 2026-08-04 | A live AI wizard-council app + a reference implementation of MetaObjects: one metadata spine drives the DB schema, API t |
 | 19 | [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) | 50 | Python | 2026-08-04 | Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's |
