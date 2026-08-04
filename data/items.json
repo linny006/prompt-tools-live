@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-08-04T22:45:16Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-04T22:44:34Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-08-04T22:44:11Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie",
+    "id": "Quazmoz/agentdefaults",
+    "language": "Python",
+    "name": "Quazmoz/agentdefaults",
+    "stars": 0,
+    "updated_at": "2026-08-04T22:45:11Z",
+    "url": "https://github.com/Quazmoz/agentdefaults"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-04T22:43:03Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
     "id": "nikolay-e/diffctx",
     "language": "Rust",
@@ -115,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T22:31:07Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-04T22:30:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -412,41 +448,5 @@
     "stars": 13,
     "updated_at": "2026-08-04T22:04:15Z",
     "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "Contract testing for LLM structured outputs. YAML contracts bind JSON Schema, semantic invariants (sums, source-text spa",
-    "id": "Panchalvedant13/prompt-contract-ci",
-    "language": "Python",
-    "name": "Panchalvedant13/prompt-contract-ci",
-    "stars": 0,
-    "updated_at": "2026-08-04T22:01:29Z",
-    "url": "https://github.com/Panchalvedant13/prompt-contract-ci"
-  },
-  {
-    "description": "Portable skill document that prevents silent, expensive mistakes AI agents make during data research and enrichment task",
-    "id": "Cortado-Group/data-research-skill",
-    "language": "Python",
-    "name": "Cortado-Group/data-research-skill",
-    "stars": 1,
-    "updated_at": "2026-08-04T22:00:28Z",
-    "url": "https://github.com/Cortado-Group/data-research-skill"
-  },
-  {
-    "description": "Guide de terrain Claude Code, en francais : doctrine officielle Anthropic + reflexes de production. PDF 18 pages, source",
-    "id": "astowny/claude-code-guide-de-terrain",
-    "language": "HTML",
-    "name": "astowny/claude-code-guide-de-terrain",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:56:34Z",
-    "url": "https://github.com/astowny/claude-code-guide-de-terrain"
-  },
-  {
-    "description": "An operating system for your Claude context \u2014 version-controlled files, a self-curating memory, and a /start\u2192/end sessio",
-    "id": "conorbronsdon/claude-context-os",
-    "language": "Shell",
-    "name": "conorbronsdon/claude-context-os",
-    "stars": 10,
-    "updated_at": "2026-08-04T21:56:11Z",
-    "url": "https://github.com/conorbronsdon/claude-context-os"
   }
 ]
