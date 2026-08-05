@@ -1,12 +1,48 @@
 [
   {
+    "description": "Local BYOK MCP. Rewrite messy IDE prompts into Agent_Efficiency_MCP.md, freeze until GO. AGPL-3.0. Commercial licenses a",
+    "id": "DillonRich/Agent-Efficiency-MCP",
+    "language": "TypeScript",
+    "name": "DillonRich/Agent-Efficiency-MCP",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:32:18Z",
+    "url": "https://github.com/DillonRich/Agent-Efficiency-MCP"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 64964,
+    "updated_at": "2026-08-05T15:33:38Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-05T15:30:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "An AI marketing strategy skill evolved from Campaign Logic Skill, supporting marketing analysis, strategy planning, prop",
     "id": "jwbaozi/campaign-logic-skill",
     "language": "\u2014",
     "name": "jwbaozi/campaign-logic-skill",
     "stars": 1,
-    "updated_at": "2026-08-05T15:30:05Z",
+    "updated_at": "2026-08-05T15:32:54Z",
     "url": "https://github.com/jwbaozi/campaign-logic-skill"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:29:49Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
     "description": "Structured, spec-driven development workflow for AI coding agents.",
@@ -135,15 +171,6 @@
     "url": "https://github.com/LearnPrompt/goodcaseai"
   },
   {
-    "description": "Local BYOK MCP. Rewrite messy IDE prompts into Agent_Efficiency_MCP.md, freeze until GO. AGPL-3.0. Commercial licenses a",
-    "id": "DillonRich/Agent-Efficiency-MCP",
-    "language": "TypeScript",
-    "name": "DillonRich/Agent-Efficiency-MCP",
-    "stars": 2,
-    "updated_at": "2026-08-05T15:16:41Z",
-    "url": "https://github.com/DillonRich/Agent-Efficiency-MCP"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T15:15:44Z",
     "url": "https://github.com/fdeniz07/AIOS"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-05T15:15:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -391,7 +409,7 @@
     "id": "openwarehq/websiteprompts",
     "language": "\u2014",
     "name": "openwarehq/websiteprompts",
-    "stars": 53,
+    "stars": 54,
     "updated_at": "2026-08-05T14:59:01Z",
     "url": "https://github.com/openwarehq/websiteprompts"
   },
@@ -403,6 +421,15 @@
     "stars": 3,
     "updated_at": "2026-08-05T14:57:16Z",
     "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21125,
+    "updated_at": "2026-08-05T15:32:03Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AgentSeed - One command to give your AI agent a brain. Persona-Governance Platform: governance engine + swappable person",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T14:52:36Z",
     "url": "https://github.com/mifdlaldev/antigravity-customize"
-  },
-  {
-    "description": "Portable agent skills for AI coding agents \u2014 works with Claude Code, OpenAI Codex CLI, Gemini CLI, Cursor & GitHub Copil",
-    "id": "mryll/skills",
-    "language": "\u2014",
-    "name": "mryll/skills",
-    "stars": 3,
-    "updated_at": "2026-08-05T14:52:25Z",
-    "url": "https://github.com/mryll/skills"
-  },
-  {
-    "description": "AI-powered multi-agent classroom that turns any topic into an interactive learning experience",
-    "id": "weed33834/nova",
-    "language": "TypeScript",
-    "name": "weed33834/nova",
-    "stars": 33,
-    "updated_at": "2026-08-05T14:50:38Z",
-    "url": "https://github.com/weed33834/nova"
-  },
-  {
-    "description": "The union of intelligences \u2014 a harness that bridges a human mind and an AI mind: unskippable gates, structural memory & ",
-    "id": "beausee/coniunctio-intelligentiarum",
-    "language": "Python",
-    "name": "beausee/coniunctio-intelligentiarum",
-    "stars": 0,
-    "updated_at": "2026-08-05T14:49:52Z",
-    "url": "https://github.com/beausee/coniunctio-intelligentiarum"
   }
 ]
