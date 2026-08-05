@@ -1,21 +1,84 @@
 [
   {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-08-05T07:05:54Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 3,
+    "updated_at": "2026-08-05T07:05:26Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
+    "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "language": "JavaScript",
+    "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
+    "stars": 0,
+    "updated_at": "2026-08-05T07:04:28Z",
+    "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
+  },
+  {
+    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Shell",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 2,
+    "updated_at": "2026-08-05T07:04:21Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+  },
+  {
+    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
+    "id": "archubbuck/workspace-architect",
+    "language": "Python",
+    "name": "archubbuck/workspace-architect",
+    "stars": 17,
+    "updated_at": "2026-08-05T07:03:43Z",
+    "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "\ud83d\ude80 World's largest Qwen Image 3.0 prompt library \u2014 2000+ curated prompts with preview images, 16 languages. OpenAI's next",
+    "id": "flaqai/awesome-qwen-image-3",
+    "language": "\u2014",
+    "name": "flaqai/awesome-qwen-image-3",
+    "stars": 1,
+    "updated_at": "2026-08-05T07:02:04Z",
+    "url": "https://github.com/flaqai/awesome-qwen-image-3"
+  },
+  {
+    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
+    "id": "eric-sabe/engsys",
+    "language": "JavaScript",
+    "name": "eric-sabe/engsys",
+    "stars": 1,
+    "updated_at": "2026-08-05T07:01:36Z",
+    "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
     "description": "An AI art direction skill for transforming images into poetic paper studies inspired by Paris gallery archives.",
     "id": "xiaozhoustefanie227/jean-gauthier-paris-gallery-skill",
     "language": "\u2014",
     "name": "xiaozhoustefanie227/jean-gauthier-paris-gallery-skill",
     "stars": 0,
-    "updated_at": "2026-08-05T06:59:47Z",
+    "updated_at": "2026-08-05T07:01:18Z",
     "url": "https://github.com/xiaozhoustefanie227/jean-gauthier-paris-gallery-skill"
   },
   {
-    "description": "Curated MiniMax H3 / Hailuo 3.0 AI video prompts, examples, templates, and browser-first X discovery workflow.",
-    "id": "SkyNotSilent/awesome-minimax-h3",
-    "language": "CSS",
-    "name": "SkyNotSilent/awesome-minimax-h3",
-    "stars": 0,
-    "updated_at": "2026-08-05T06:59:19Z",
-    "url": "https://github.com/SkyNotSilent/awesome-minimax-h3"
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-05T07:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
@@ -25,6 +88,15 @@
     "stars": 3,
     "updated_at": "2026-08-05T07:00:20Z",
     "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "Curated MiniMax H3 / Hailuo 3.0 AI video prompts, examples, templates, and browser-first X discovery workflow.",
+    "id": "SkyNotSilent/awesome-minimax-h3",
+    "language": "CSS",
+    "name": "SkyNotSilent/awesome-minimax-h3",
+    "stars": 0,
+    "updated_at": "2026-08-05T06:59:19Z",
+    "url": "https://github.com/SkyNotSilent/awesome-minimax-h3"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -77,17 +149,8 @@
     "language": "TypeScript",
     "name": "Krishna-Modi12/frontend-design-pro",
     "stars": 0,
-    "updated_at": "2026-08-05T06:56:15Z",
+    "updated_at": "2026-08-05T07:03:37Z",
     "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
-    "description": "ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag ",
-    "id": "IgorSokolovsky/ComfyUI-AnimaFlow",
-    "language": "JavaScript",
-    "name": "IgorSokolovsky/ComfyUI-AnimaFlow",
-    "stars": 0,
-    "updated_at": "2026-08-05T06:46:18Z",
-    "url": "https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -106,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T06:45:39Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-05T06:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -364,7 +418,7 @@
     "id": "UditAkhourii/adhd",
     "language": "TypeScript",
     "name": "UditAkhourii/adhd",
-    "stars": 3247,
+    "stars": 3248,
     "updated_at": "2026-08-05T06:14:01Z",
     "url": "https://github.com/UditAkhourii/adhd"
   },
@@ -394,59 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-05T06:17:44Z",
     "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
-    "id": "Mr-Salticidae/knowledge-base",
-    "language": "Python",
-    "name": "Mr-Salticidae/knowledge-base",
-    "stars": 22,
-    "updated_at": "2026-08-05T06:04:47Z",
-    "url": "https://github.com/Mr-Salticidae/knowledge-base"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-08-05T06:04:42Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "AI Paper Reviewer: LLM-based tool for academic paper review",
-    "id": "FanBroWell/AI-paper-reviewer",
-    "language": "Python",
-    "name": "FanBroWell/AI-paper-reviewer",
-    "stars": 32,
-    "updated_at": "2026-08-05T06:03:43Z",
-    "url": "https://github.com/FanBroWell/AI-paper-reviewer"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27368,
-    "updated_at": "2026-08-05T06:03:22Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
-    "id": "Forest-Project-Lab/doctrine",
-    "language": "Python",
-    "name": "Forest-Project-Lab/doctrine",
-    "stars": 1,
-    "updated_at": "2026-08-05T05:59:31Z",
-    "url": "https://github.com/Forest-Project-Lab/doctrine"
-  },
-  {
-    "description": "Agent Skill: reverse-engineer how a video was made. Extracts real keyframes/subtitles/audio, then produces a shot list, ",
-    "id": "whaojie797-design/video-reverse-engineering",
-    "language": "Python",
-    "name": "whaojie797-design/video-reverse-engineering",
-    "stars": 0,
-    "updated_at": "2026-08-05T05:58:54Z",
-    "url": "https://github.com/whaojie797-design/video-reverse-engineering"
   }
 ]
