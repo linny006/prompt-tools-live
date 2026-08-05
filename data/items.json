@@ -1,12 +1,201 @@
 [
   {
+    "description": "\ud83c\udf00 The first adversarial-collaboration multi-agent Skill for Claude Code. 7 agents + 11 phases + Hook enforcement + 9 sig",
+    "id": "dxkjuanjuan/juanjuan-team",
+    "language": "Shell",
+    "name": "dxkjuanjuan/juanjuan-team",
+    "stars": 3,
+    "updated_at": "2026-08-05T02:43:01Z",
+    "url": "https://github.com/dxkjuanjuan/juanjuan-team"
+  },
+  {
+    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Shell",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 1,
+    "updated_at": "2026-08-05T02:42:53Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 64792,
+    "updated_at": "2026-08-05T02:41:59Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "RoBERTa-powered lyric intelligence analyzer for independent artists \u2014 MS Business Analytics Capstone, CSUEB 2026.",
     "id": "stephanielam00/streambreaker-lyric-analyzer",
     "language": "Jupyter Notebook",
     "name": "stephanielam00/streambreaker-lyric-analyzer",
     "stars": 0,
-    "updated_at": "2026-08-05T02:30:28Z",
+    "updated_at": "2026-08-05T02:40:54Z",
     "url": "https://github.com/stephanielam00/streambreaker-lyric-analyzer"
+  },
+  {
+    "description": "An eval harness that gates deployment and measures its own judges. Three LLM judges score a system under test against a ",
+    "id": "jkelly-dev1/llm-eval-gate",
+    "language": "Python",
+    "name": "jkelly-dev1/llm-eval-gate",
+    "stars": 0,
+    "updated_at": "2026-08-05T02:40:47Z",
+    "url": "https://github.com/jkelly-dev1/llm-eval-gate"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-08-05T02:40:11Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 3,
+    "updated_at": "2026-08-05T02:39:48Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Portable .agent.md files for AI coding assistants that actually commit to a point of view.",
+    "id": "dfinson/promptlings",
+    "language": "PowerShell",
+    "name": "dfinson/promptlings",
+    "stars": 1,
+    "updated_at": "2026-08-05T02:39:35Z",
+    "url": "https://github.com/dfinson/promptlings"
+  },
+  {
+    "description": "\u9762\u5411\u7535\u5546\u771f\u5b9e\u4e1a\u52a1\u7684\u53ef\u590d\u7528 Codex Skills\uff1a\u5999\u624b ERP / TikTok Shop \u8fd0\u8425\uff0c\u4ee5\u53ca\u56fd\u5185\u7535\u5546\u5546\u54c1\u56fe\u3001\u670b\u53cb\u5708\u8425\u9500\u6587\u6848\u548c\u5e26\u8d27\u77ed\u89c6\u9891\u811a\u672c\u63d0\u793a\u8bcd",
+    "id": "wendysun718/my-codex-skills",
+    "language": "Python",
+    "name": "wendysun718/my-codex-skills",
+    "stars": 8,
+    "updated_at": "2026-08-05T02:39:27Z",
+    "url": "https://github.com/wendysun718/my-codex-skills"
+  },
+  {
+    "description": "Deterministic benchmark for agent instruction adherence, with token and round-trip cost verified by a recording proxy",
+    "id": "TGPSKI/adherence-suite",
+    "language": "Python",
+    "name": "TGPSKI/adherence-suite",
+    "stars": 1,
+    "updated_at": "2026-08-05T02:37:12Z",
+    "url": "https://github.com/TGPSKI/adherence-suite"
+  },
+  {
+    "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
+    "id": "jamestexas/agents",
+    "language": "TypeScript",
+    "name": "jamestexas/agents",
+    "stars": 2,
+    "updated_at": "2026-08-05T02:37:06Z",
+    "url": "https://github.com/jamestexas/agents"
+  },
+  {
+    "description": "Generate bounded codebase ownership contexts that agents can load inline or spawn in isolation.",
+    "id": "TGPSKI/directed-contexts",
+    "language": "Go",
+    "name": "TGPSKI/directed-contexts",
+    "stars": 2,
+    "updated_at": "2026-08-05T02:36:57Z",
+    "url": "https://github.com/TGPSKI/directed-contexts"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 3,
+    "updated_at": "2026-08-05T02:36:34Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
+    "id": "ZeroLu/awesome-seedance",
+    "language": "Shell",
+    "name": "ZeroLu/awesome-seedance",
+    "stars": 2250,
+    "updated_at": "2026-08-05T02:35:52Z",
+    "url": "https://github.com/ZeroLu/awesome-seedance"
+  },
+  {
+    "description": "Evaluate Snowflake Cortex Agents across four dimensions: answer correctness, logical consistency, tool selection, and to",
+    "id": "innovation-igloo/cortex-agent-custom-eval-template",
+    "language": "PLpgSQL",
+    "name": "innovation-igloo/cortex-agent-custom-eval-template",
+    "stars": 0,
+    "updated_at": "2026-08-05T02:35:12Z",
+    "url": "https://github.com/innovation-igloo/cortex-agent-custom-eval-template"
+  },
+  {
+    "description": "\ud83e\udd17 The largest downloadable SeedDance 2 prompt library \u2014 8,105 prompts and growing, daily updates with HuggingFace datase",
+    "id": "goku-open/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "goku-open/awesome-seedance-2-prompts",
+    "stars": 1,
+    "updated_at": "2026-08-05T02:34:49Z",
+    "url": "https://github.com/goku-open/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "stars": 1,
+    "updated_at": "2026-08-05T02:34:44Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "Context template for Claude Code, Cursor, ChatGPT, and coding agents \u2014 schema-backed context engineering briefs.",
+    "id": "lapointelabs/context-brief",
+    "language": "JavaScript",
+    "name": "lapointelabs/context-brief",
+    "stars": 0,
+    "updated_at": "2026-08-05T02:34:14Z",
+    "url": "https://github.com/lapointelabs/context-brief"
+  },
+  {
+    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
+    "id": "F-e-u-e-r/opus-pack",
+    "language": "Python",
+    "name": "F-e-u-e-r/opus-pack",
+    "stars": 2,
+    "updated_at": "2026-08-05T02:32:54Z",
+    "url": "https://github.com/F-e-u-e-r/opus-pack"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-08-05T02:34:16Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
+  },
+  {
+    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
+    "id": "ralphmoran/ticket-lens",
+    "language": "JavaScript",
+    "name": "ralphmoran/ticket-lens",
+    "stars": 3,
+    "updated_at": "2026-08-05T02:30:34Z",
+    "url": "https://github.com/ralphmoran/ticket-lens"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-05T02:30:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud658\uacbd \uc124\uc815 \uc790\ub3d9\ud654 \ubc0f AI \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8 \uc544\ud0a4\ud14d\ucc98 \ub808\ud3ec\uc9c0\ud1a0\ub9ac",
@@ -45,24 +234,6 @@
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-08-05T02:28:36Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-08-05T02:24:33Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -70,15 +241,6 @@
     "stars": 15,
     "updated_at": "2026-08-05T02:23:51Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 64790,
-    "updated_at": "2026-08-05T02:26:00Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "A style-injection node pack for ComfyUI with a deep filterable taxonomy, in-node previews, dual tag/prose output, and mo",
@@ -117,15 +279,6 @@
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-05T02:15:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Safety-first OpenAI Healthcare Assistant built with FastAPI, OpenAI, BM25 Retrieval, SQLite Memory, AI Guardrails, Strea",
     "id": "gireeshvuyyuru501-design/healthsense-openai-assistant",
     "language": "Python",
@@ -133,24 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T02:14:55Z",
     "url": "https://github.com/gireeshvuyyuru501-design/healthsense-openai-assistant"
-  },
-  {
-    "description": "Generate bounded codebase ownership contexts that agents can load inline or spawn in isolation.",
-    "id": "TGPSKI/directed-contexts",
-    "language": "Go",
-    "name": "TGPSKI/directed-contexts",
-    "stars": 2,
-    "updated_at": "2026-08-05T02:14:18Z",
-    "url": "https://github.com/TGPSKI/directed-contexts"
-  },
-  {
-    "description": "Deterministic benchmark for agent instruction adherence, with token and round-trip cost verified by a recording proxy",
-    "id": "TGPSKI/adherence-suite",
-    "language": "Python",
-    "name": "TGPSKI/adherence-suite",
-    "stars": 1,
-    "updated_at": "2026-08-05T02:14:13Z",
-    "url": "https://github.com/TGPSKI/adherence-suite"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -178,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T02:12:24Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Evaluate Snowflake Cortex Agents across four dimensions: answer correctness, logical consistency, tool selection, and to",
-    "id": "innovation-igloo/cortex-agent-custom-eval-template",
-    "language": "PLpgSQL",
-    "name": "innovation-igloo/cortex-agent-custom-eval-template",
-    "stars": 0,
-    "updated_at": "2026-08-05T02:11:19Z",
-    "url": "https://github.com/innovation-igloo/cortex-agent-custom-eval-template"
   },
   {
     "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
@@ -322,131 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T01:46:10Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Free library of original guides on working with AI. 22 guides, five layers, three depths, no signup. Source for corewise",
-    "id": "ryanportfolio/Corewise.Academy",
-    "language": "MDX",
-    "name": "ryanportfolio/Corewise.Academy",
-    "stars": 0,
-    "updated_at": "2026-08-05T01:46:12Z",
-    "url": "https://github.com/ryanportfolio/Corewise.Academy"
-  },
-  {
-    "description": "Deep research skill for AI agents: live web research, source reputation checks, safer URL fetches, and structured eviden",
-    "id": "h4444433333/net-deep-research",
-    "language": "Python",
-    "name": "h4444433333/net-deep-research",
-    "stars": 41,
-    "updated_at": "2026-08-05T01:46:03Z",
-    "url": "https://github.com/h4444433333/net-deep-research"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-08-05T01:45:41Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-08-05T01:45:10Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Meta Rules for prompt engineering \u2014 A persistent cognitive architecture for LLM prompt design.",
-    "id": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
-    "language": "\u2014",
-    "name": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
-    "stars": 1,
-    "updated_at": "2026-08-05T01:43:24Z",
-    "url": "https://github.com/Nous-Think/LLM-Cognitive-Architecture-By-Prompt"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-05T01:43:15Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
-    "id": "F-e-u-e-r/opus-pack",
-    "language": "Python",
-    "name": "F-e-u-e-r/opus-pack",
-    "stars": 2,
-    "updated_at": "2026-08-05T01:42:15Z",
-    "url": "https://github.com/F-e-u-e-r/opus-pack"
-  },
-  {
-    "description": "Helen Agent Develop Language ",
-    "id": "hahalee000000/helen",
-    "language": "Python",
-    "name": "hahalee000000/helen",
-    "stars": 1,
-    "updated_at": "2026-08-05T01:41:22Z",
-    "url": "https://github.com/hahalee000000/helen"
-  },
-  {
-    "description": "A reusable writing skill that helps AI agents produce clear, human-readable technical Chinese for reports, explanations,",
-    "id": "AIALRA-0/agent-human-readable-technical-writing",
-    "language": "PowerShell",
-    "name": "AIALRA-0/agent-human-readable-technical-writing",
-    "stars": 0,
-    "updated_at": "2026-08-05T01:37:56Z",
-    "url": "https://github.com/AIALRA-0/agent-human-readable-technical-writing"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 2,
-    "updated_at": "2026-08-05T01:32:49Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "\ud83c\udf4c The largest Nano Banana Pro prompt library \u2014 26,648 prompts, daily updates, HuggingFace dataset download. More than an",
-    "id": "goku-open/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-nano-banana-pro-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-05T01:30:06Z",
-    "url": "https://github.com/goku-open/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
-    "id": "winstonkoh87/Athena-Public",
-    "language": "Python",
-    "name": "winstonkoh87/Athena-Public",
-    "stars": 554,
-    "updated_at": "2026-08-05T01:29:59Z",
-    "url": "https://github.com/winstonkoh87/Athena-Public"
-  },
-  {
-    "description": "A web app for testing Prompt Guard, a classifier model by Meta for detecting prompt attacks.",
-    "id": "alphasecio/prompt-guard",
-    "language": "Python",
-    "name": "alphasecio/prompt-guard",
-    "stars": 4,
-    "updated_at": "2026-08-05T01:29:30Z",
-    "url": "https://github.com/alphasecio/prompt-guard"
-  },
-  {
-    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
-    "id": "YouMind-OpenLab/awesome-gpt-image-2",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 9121,
-    "updated_at": "2026-08-05T01:28:20Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   }
 ]
