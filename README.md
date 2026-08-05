@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-05 09:44 UTC
+> ⏰ Last updated: 2026-08-05 09:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-05 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 2 | [kimyoungwopo/frontend-token-trim-skillpack](https://github.com/kimyoungwopo/frontend-token-trim-skillpack) | 3 | Shell | 2026-08-05 | Hermes Agent frontend skillpack: Ponytail + Graphify + Headroom token-trim workflow |
-| 3 | [fdeniz07/AIOS](https://github.com/fdeniz07/AIOS) | 0 | Python | 2026-08-05 | AIOS is a repository-driven AI engineering framework that standardizes how AI assistants collaborate with software proje |
-| 4 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-08-05 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
-| 5 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 154 | HTML | 2026-08-05 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
-| 6 | [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | 5662 | Python | 2026-08-05 | The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t |
-| 7 | [jwbaozi/campaign-logic-skill](https://github.com/jwbaozi/campaign-logic-skill) | 1 | — | 2026-08-05 | A cross-platform skill for reviewing and restructuring marketing proposal logic. |
-| 8 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21120 | Python | 2026-08-05 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 9 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32552 | TypeScript | 2026-08-05 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 10 | [derob98/ailmanac](https://github.com/derob98/ailmanac) | 7 | MDX | 2026-08-05 | AILmanac — the always-current, community almanac for getting the most out of Claude and every AI. For all levels. |
-| 11 | [hahalee000000/helen](https://github.com/hahalee000000/helen) | 1 | Python | 2026-08-05 | Helen Agent Develop Language  |
-| 12 | [babarda/open-visualization-protocol](https://github.com/babarda/open-visualization-protocol) | 2 | HTML | 2026-08-05 | OVP: the open visualization protocol for describing, validating, and rendering information design identically, for human |
-| 13 | [jestersanjay/slim-tools-claude-harness](https://github.com/jestersanjay/slim-tools-claude-harness) | 0 | HTML | 2026-08-05 | SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows |
-| 14 | [IgorSokolovsky/ComfyUI-AnimaFlow](https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow) | 0 | JavaScript | 2026-08-05 | ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag  |
-| 15 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-05 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 16 | [Crayon-312/caiyun-image-skill](https://github.com/Crayon-312/caiyun-image-skill) | 0 | PowerShell | 2026-08-05 | Codex skill for building GPT Image 2 production prompts from reference images |
-| 17 | [5uprem4/ai-skill-vault](https://github.com/5uprem4/ai-skill-vault) | 3 | HTML | 2026-08-05 | Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub |
-| 18 | [Nova-Violet-Role/RoT-MoE](https://github.com/Nova-Violet-Role/RoT-MoE) | 2 | Shell | 2026-08-05 | The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g |
-| 19 | [yahyambk57-stack/Ai-Object-Isolation-Toolkit](https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit) | 50 | HTML | 2026-08-05 | 2026 Next-Gen AI Photo Background Remover & Object Removal Tool |
-| 20 | [Liplus-Project/liplus-language](https://github.com/Liplus-Project/liplus-language) | 3 | Python | 2026-08-05 | Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut |
-| 21 | [fromfireside/better-tropes](https://github.com/fromfireside/better-tropes) | 2 | — | 2026-08-05 | A catalogue of 49 AI writing tells, each with a plain rewrite, shared by Fireside. Drop it into a system prompt to stop  |
-| 22 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1257 | HTML | 2026-08-05 | In Anthropic's official Claude plugin directory · 848 professional Agent Skills (PRDs, launches, compliance, CVs & more) |
-| 23 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-08-05 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [hahalee000000/helen](https://github.com/hahalee000000/helen) | 1 | Python | 2026-08-05 | Helen Agent Develop Language  |
+| 2 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 6 | Python | 2026-08-05 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 3 | [kimyoungwopo/frontend-token-trim-skillpack](https://github.com/kimyoungwopo/frontend-token-trim-skillpack) | 3 | Shell | 2026-08-05 | Hermes Agent frontend skillpack: Ponytail + Graphify + Headroom token-trim workflow |
+| 4 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-05 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 5 | [fdeniz07/AIOS](https://github.com/fdeniz07/AIOS) | 0 | Python | 2026-08-05 | AIOS is a repository-driven AI engineering framework that standardizes how AI assistants collaborate with software proje |
+| 6 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-08-05 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
+| 7 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 154 | HTML | 2026-08-05 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
+| 8 | [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | 5662 | Python | 2026-08-05 | The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t |
+| 9 | [jwbaozi/campaign-logic-skill](https://github.com/jwbaozi/campaign-logic-skill) | 1 | — | 2026-08-05 | A cross-platform skill for reviewing and restructuring marketing proposal logic. |
+| 10 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21120 | Python | 2026-08-05 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 11 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 32552 | TypeScript | 2026-08-05 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 12 | [derob98/ailmanac](https://github.com/derob98/ailmanac) | 7 | MDX | 2026-08-05 | AILmanac — the always-current, community almanac for getting the most out of Claude and every AI. For all levels. |
+| 13 | [babarda/open-visualization-protocol](https://github.com/babarda/open-visualization-protocol) | 2 | HTML | 2026-08-05 | OVP: the open visualization protocol for describing, validating, and rendering information design identically, for human |
+| 14 | [jestersanjay/slim-tools-claude-harness](https://github.com/jestersanjay/slim-tools-claude-harness) | 0 | HTML | 2026-08-05 | SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows |
+| 15 | [IgorSokolovsky/ComfyUI-AnimaFlow](https://github.com/IgorSokolovsky/ComfyUI-AnimaFlow) | 0 | JavaScript | 2026-08-05 | ComfyUI custom node pack for Anima: webtoon/prompt-building utility nodes with a Rule Builder, prompt combiner, and tag  |
+| 16 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-05 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 17 | [Crayon-312/caiyun-image-skill](https://github.com/Crayon-312/caiyun-image-skill) | 0 | PowerShell | 2026-08-05 | Codex skill for building GPT Image 2 production prompts from reference images |
+| 18 | [5uprem4/ai-skill-vault](https://github.com/5uprem4/ai-skill-vault) | 3 | HTML | 2026-08-05 | Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub |
+| 19 | [Nova-Violet-Role/RoT-MoE](https://github.com/Nova-Violet-Role/RoT-MoE) | 2 | Shell | 2026-08-05 | The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g |
+| 20 | [yahyambk57-stack/Ai-Object-Isolation-Toolkit](https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit) | 50 | HTML | 2026-08-05 | 2026 Next-Gen AI Photo Background Remover & Object Removal Tool |
+| 21 | [Liplus-Project/liplus-language](https://github.com/Liplus-Project/liplus-language) | 3 | Python | 2026-08-05 | Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut |
+| 22 | [fromfireside/better-tropes](https://github.com/fromfireside/better-tropes) | 2 | — | 2026-08-05 | A catalogue of 49 AI writing tells, each with a plain rewrite, shared by Fireside. Drop it into a system prompt to stop  |
+| 23 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1257 | HTML | 2026-08-05 | In Anthropic's official Claude plugin directory · 848 professional Agent Skills (PRDs, launches, compliance, CVs & more) |
 | 24 | [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 34 | Python | 2026-08-05 | Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic |
 | 25 | [mohanbabukms/ai-pinterest-automation-toolkit](https://github.com/mohanbabukms/ai-pinterest-automation-toolkit) | 0 | Python | 2026-08-05 | Open-source AI workflows for Pinterest content creation |
 | 26 | [Sunil-M02/curiosity-engine](https://github.com/Sunil-M02/curiosity-engine) | 2 | TypeScript | 2026-08-05 | AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot. |
