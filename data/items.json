@@ -1,11 +1,119 @@
 [
   {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "Rust",
+    "name": "Open-Less/openless",
+    "stars": 2960,
+    "updated_at": "2026-08-05T15:44:33Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-08-05T15:43:10Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3472,
+    "updated_at": "2026-08-05T15:44:50Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "An intel layer for AI coding agents \u2014 cognitive routines that keep them anchored to what your project actually is: autho",
+    "id": "ReidenXerx/bearing",
+    "language": "JavaScript",
+    "name": "ReidenXerx/bearing",
+    "stars": 3,
+    "updated_at": "2026-08-05T15:41:56Z",
+    "url": "https://github.com/ReidenXerx/bearing"
+  },
+  {
+    "description": "An AI marketing strategy skill evolved from Campaign Logic Skill, supporting marketing analysis, strategy planning, prop",
+    "id": "jwbaozi/campaign-logic-skill",
+    "language": "\u2014",
+    "name": "jwbaozi/campaign-logic-skill",
+    "stars": 1,
+    "updated_at": "2026-08-05T15:38:49Z",
+    "url": "https://github.com/jwbaozi/campaign-logic-skill"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-05T15:38:28Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Token-Trim is a Python AST-based CLI tool that prunes docstrings, comments, and whitespace to reduce LLM context window ",
+    "id": "pareshrnayak/token-trim",
+    "language": "Python",
+    "name": "pareshrnayak/token-trim",
+    "stars": 0,
+    "updated_at": "2026-08-05T15:38:01Z",
+    "url": "https://github.com/pareshrnayak/token-trim"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 28,
+    "updated_at": "2026-08-05T15:36:30Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "No proof, no done.",
+    "id": "MiaoY0uShan/FP",
+    "language": "JavaScript",
+    "name": "MiaoY0uShan/FP",
+    "stars": 3,
+    "updated_at": "2026-08-05T15:45:13Z",
+    "url": "https://github.com/MiaoY0uShan/FP"
+  },
+  {
+    "description": "AgentSeed - One command to give your AI agent a brain. Persona-Governance Platform: governance engine + swappable person",
+    "id": "weed33834/agentseed",
+    "language": "Python",
+    "name": "weed33834/agentseed",
+    "stars": 5,
+    "updated_at": "2026-08-05T15:35:45Z",
+    "url": "https://github.com/weed33834/agentseed"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-08-05T15:35:32Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "A governance kit for AI coding agents. Keeps every task tied to the project's North Star with task contracts, harness ga",
+    "id": "HaipingShi/coderail",
+    "language": "Python",
+    "name": "HaipingShi/coderail",
+    "stars": 7,
+    "updated_at": "2026-08-05T15:34:39Z",
+    "url": "https://github.com/HaipingShi/coderail"
+  },
+  {
     "description": "Local BYOK MCP. Rewrite messy IDE prompts into Agent_Efficiency_MCP.md, freeze until GO. AGPL-3.0. Commercial licenses a",
     "id": "DillonRich/Agent-Efficiency-MCP",
     "language": "TypeScript",
     "name": "DillonRich/Agent-Efficiency-MCP",
     "stars": 2,
-    "updated_at": "2026-08-05T15:32:18Z",
+    "updated_at": "2026-08-05T15:34:38Z",
     "url": "https://github.com/DillonRich/Agent-Efficiency-MCP"
   },
   {
@@ -13,8 +121,8 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 64964,
-    "updated_at": "2026-08-05T15:33:38Z",
+    "stars": 64968,
+    "updated_at": "2026-08-05T15:44:50Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -23,17 +131,53 @@
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 6,
-    "updated_at": "2026-08-05T15:30:33Z",
+    "updated_at": "2026-08-05T15:33:43Z",
     "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
-    "description": "An AI marketing strategy skill evolved from Campaign Logic Skill, supporting marketing analysis, strategy planning, prop",
-    "id": "jwbaozi/campaign-logic-skill",
-    "language": "\u2014",
-    "name": "jwbaozi/campaign-logic-skill",
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
     "stars": 1,
-    "updated_at": "2026-08-05T15:32:54Z",
-    "url": "https://github.com/jwbaozi/campaign-logic-skill"
+    "updated_at": "2026-08-05T15:33:22Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-05T15:33:12Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-08-05T15:33:08Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-05T15:32:59Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "AI agent orchestration kit for Windows, Linux/MacOS with Codex skills, hooks, routing rules and profiles for Claude, Ope",
+    "id": "FernandoBolzan/Orquestrador-Maestro",
+    "language": "Python",
+    "name": "FernandoBolzan/Orquestrador-Maestro",
+    "stars": 32,
+    "updated_at": "2026-08-05T15:32:58Z",
+    "url": "https://github.com/FernandoBolzan/Orquestrador-Maestro"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -41,17 +185,8 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 2,
-    "updated_at": "2026-08-05T15:29:49Z",
+    "updated_at": "2026-08-05T15:41:09Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Structured, spec-driven development workflow for AI coding agents.",
-    "id": "sahil87/fab-kit",
-    "language": "Go",
-    "name": "sahil87/fab-kit",
-    "stars": 28,
-    "updated_at": "2026-08-05T15:28:20Z",
-    "url": "https://github.com/sahil87/fab-kit"
   },
   {
     "description": "A Markdown-first framework for structuring AI agent personas, modes, output templates, and shared instruction blocks - w",
@@ -86,7 +221,7 @@
     "language": "HTML",
     "name": "mohitagw15856/pm-claude-skills",
     "stars": 1258,
-    "updated_at": "2026-08-05T15:30:01Z",
+    "updated_at": "2026-08-05T15:42:42Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
   },
   {
@@ -106,15 +241,6 @@
     "stars": 156,
     "updated_at": "2026-08-05T15:22:26Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Token-Trim is a Python AST-based CLI tool that prunes docstrings, comments, and whitespace to reduce LLM context window ",
-    "id": "pareshrnayak/token-trim",
-    "language": "Python",
-    "name": "pareshrnayak/token-trim",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:21:48Z",
-    "url": "https://github.com/pareshrnayak/token-trim"
   },
   {
     "description": "ContextIQ is an open-source framework for LLM token optimization, context engineering, deterministic prompt compression ",
@@ -180,15 +306,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "An intel layer for AI coding agents \u2014 cognitive routines that keep them anchored to what your project actually is: autho",
-    "id": "ReidenXerx/bearing",
-    "language": "JavaScript",
-    "name": "ReidenXerx/bearing",
-    "stars": 3,
-    "updated_at": "2026-08-05T15:16:15Z",
-    "url": "https://github.com/ReidenXerx/bearing"
-  },
-  {
     "description": "Curated, practitioner-first, auto-updating directory for context engineering in LLMs and agents.",
     "id": "royalpinto007/awesome-context-engineering",
     "language": "HTML",
@@ -230,7 +347,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32571,
-    "updated_at": "2026-08-05T15:14:13Z",
+    "updated_at": "2026-08-05T15:38:19Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T15:08:03Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3472,
-    "updated_at": "2026-08-05T15:28:41Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-08-05T15:06:15Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-08-05T15:04:57Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Build agent skills for Claude Code, Codex and OpenCode \u2014 then prove they work with paired baseline evals.",
-    "id": "ecoma-io/touchstone",
-    "language": "JavaScript",
-    "name": "ecoma-io/touchstone",
-    "stars": 1,
-    "updated_at": "2026-08-05T15:04:14Z",
-    "url": "https://github.com/ecoma-io/touchstone"
-  },
-  {
-    "description": "Structured handbooks for AI-assisted development \u2014 roles, skills, workflows and memory for Claude, Copilot, Cursor, Grok",
-    "id": "SeiyaJapon/IA-Handbooks",
-    "language": "\u2014",
-    "name": "SeiyaJapon/IA-Handbooks",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:03:25Z",
-    "url": "https://github.com/SeiyaJapon/IA-Handbooks"
-  },
-  {
-    "description": "The AI engineering kit for DeepSeek. Turn opencode into a team: an orchestrator + 12 specialist agents (research, archit",
-    "id": "Pl3ntz/llmfoundry",
-    "language": "Python",
-    "name": "Pl3ntz/llmfoundry",
-    "stars": 1,
-    "updated_at": "2026-08-05T15:03:18Z",
-    "url": "https://github.com/Pl3ntz/llmfoundry"
-  },
-  {
-    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
-    "id": "Sungmin-Cho/claude-deep-suite",
-    "language": "JavaScript",
-    "name": "Sungmin-Cho/claude-deep-suite",
-    "stars": 8,
-    "updated_at": "2026-08-05T15:03:34Z",
-    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 10,
-    "updated_at": "2026-08-05T15:02:08Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website \u2014 exact colours, easing and z-in",
-    "id": "openwarehq/websiteprompts",
-    "language": "\u2014",
-    "name": "openwarehq/websiteprompts",
-    "stars": 54,
-    "updated_at": "2026-08-05T14:59:01Z",
-    "url": "https://github.com/openwarehq/websiteprompts"
-  },
-  {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 3,
-    "updated_at": "2026-08-05T14:57:16Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21125,
-    "updated_at": "2026-08-05T15:32:03Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "AgentSeed - One command to give your AI agent a brain. Persona-Governance Platform: governance engine + swappable person",
-    "id": "weed33834/agentseed",
-    "language": "Python",
-    "name": "weed33834/agentseed",
-    "stars": 5,
-    "updated_at": "2026-08-05T14:54:36Z",
-    "url": "https://github.com/weed33834/agentseed"
-  },
-  {
-    "description": "Full-SDLC workflow kit for self-organizing AI agents on Antigravity \u2014 102 workflows, 96 rules, 35 skills, and 4 Python s",
-    "id": "mifdlaldev/antigravity-customize",
-    "language": "Python",
-    "name": "mifdlaldev/antigravity-customize",
-    "stars": 0,
-    "updated_at": "2026-08-05T14:52:36Z",
-    "url": "https://github.com/mifdlaldev/antigravity-customize"
   }
 ]
