@@ -1,5 +1,50 @@
 [
   {
+    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
+    "id": "AnastasiyaW/codex-claude-code-config",
+    "language": "Python",
+    "name": "AnastasiyaW/codex-claude-code-config",
+    "stars": 137,
+    "updated_at": "2026-08-05T13:18:58Z",
+    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
+  },
+  {
+    "description": "The AI engineering kit for DeepSeek. Turn opencode into a team: an orchestrator + 12 specialist agents (research, archit",
+    "id": "Pl3ntz/llmfoundry",
+    "language": "Python",
+    "name": "Pl3ntz/llmfoundry",
+    "stars": 1,
+    "updated_at": "2026-08-05T13:17:48Z",
+    "url": "https://github.com/Pl3ntz/llmfoundry"
+  },
+  {
+    "description": "[BETA] An AI-driven ecosystem and multi-agent workflow for generating highly aesthetic, presentation-ready PPTX slides a",
+    "id": "YuJunWang/agy-pptx-studio",
+    "language": "JavaScript",
+    "name": "YuJunWang/agy-pptx-studio",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:16:01Z",
+    "url": "https://github.com/YuJunWang/agy-pptx-studio"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-05T13:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Meridian - A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversa",
+    "id": "MathisVerstrepen/Meridian",
+    "language": "Python",
+    "name": "MathisVerstrepen/Meridian",
+    "stars": 20,
+    "updated_at": "2026-08-05T13:14:38Z",
+    "url": "https://github.com/MathisVerstrepen/Meridian"
+  },
+  {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32563,
-    "updated_at": "2026-08-05T13:14:12Z",
+    "updated_at": "2026-08-05T13:16:50Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21121,
-    "updated_at": "2026-08-05T13:13:40Z",
+    "updated_at": "2026-08-05T13:18:48Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -41,7 +86,7 @@
     "language": "JavaScript",
     "name": "apoapostolov/humanizer",
     "stars": 3,
-    "updated_at": "2026-08-05T13:10:44Z",
+    "updated_at": "2026-08-05T13:18:23Z",
     "url": "https://github.com/apoapostolov/humanizer"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 29,
     "updated_at": "2026-08-05T13:09:54Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "[BETA] An AI-driven ecosystem and multi-agent workflow for generating highly aesthetic, presentation-ready PPTX slides a",
-    "id": "YuJunWang/agy-pptx-studio",
-    "language": "JavaScript",
-    "name": "YuJunWang/agy-pptx-studio",
-    "stars": 0,
-    "updated_at": "2026-08-05T13:09:13Z",
-    "url": "https://github.com/YuJunWang/agy-pptx-studio"
   },
   {
     "description": "Human-led AI workflows for real B2B sales work.",
@@ -135,15 +171,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-05T13:00:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "FTPA \u2014 the Funnel-Tree Prompt Architecture: compiled, stills-first prompting for cinematic AI video. One sentence in, a ",
     "id": "uby174/ftl-studio",
     "language": "HTML",
@@ -151,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-08-05T13:00:35Z",
     "url": "https://github.com/uby174/ftl-studio"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4255,
+    "updated_at": "2026-08-05T12:59:16Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
@@ -360,15 +396,6 @@
     "url": "https://github.com/shinpr/claude-code-workflows"
   },
   {
-    "description": "The AI engineering kit for DeepSeek. Turn opencode into a team: an orchestrator + 12 specialist agents (research, archit",
-    "id": "Pl3ntz/llmfoundry",
-    "language": "Python",
-    "name": "Pl3ntz/llmfoundry",
-    "stars": 1,
-    "updated_at": "2026-08-05T12:39:10Z",
-    "url": "https://github.com/Pl3ntz/llmfoundry"
-  },
-  {
     "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
     "id": "vllm-project/semantic-router",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-05T12:34:07Z",
     "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5662,
-    "updated_at": "2026-08-05T12:34:02Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "A/B test LLM prompts and models with statistical evidence. Web UI + CLI.",
-    "id": "alexe-ev/ai-ab-testing-tool",
-    "language": "Python",
-    "name": "alexe-ev/ai-ab-testing-tool",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:33:43Z",
-    "url": "https://github.com/alexe-ev/ai-ab-testing-tool"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13062,
-    "updated_at": "2026-08-05T12:33:01Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   }
 ]
