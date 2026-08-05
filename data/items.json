@@ -1,5 +1,95 @@
 [
   {
+    "description": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel",
+    "id": "UditAkhourii/adhd",
+    "language": "TypeScript",
+    "name": "UditAkhourii/adhd",
+    "stars": 3241,
+    "updated_at": "2026-08-05T06:14:01Z",
+    "url": "https://github.com/UditAkhourii/adhd"
+  },
+  {
+    "description": "Unified OpenAI-compatible AI gateway for 10+ providers \u2014 with prompt workflows (Action/Template), quality monitoring, an",
+    "id": "tripplemay/aigcgateway",
+    "language": "TypeScript",
+    "name": "tripplemay/aigcgateway",
+    "stars": 2,
+    "updated_at": "2026-08-05T06:12:47Z",
+    "url": "https://github.com/tripplemay/aigcgateway"
+  },
+  {
+    "description": "",
+    "id": "ZhiMaHang/playbook",
+    "language": "Python",
+    "name": "ZhiMaHang/playbook",
+    "stars": 1,
+    "updated_at": "2026-08-05T06:12:23Z",
+    "url": "https://github.com/ZhiMaHang/playbook"
+  },
+  {
+    "description": "Continuously refreshed public feed of AI image and video prompts from X, with original authors, source links, preview me",
+    "id": "Hanyuyu/visual-prompt-feed",
+    "language": "JavaScript",
+    "name": "Hanyuyu/visual-prompt-feed",
+    "stars": 0,
+    "updated_at": "2026-08-05T06:10:49Z",
+    "url": "https://github.com/Hanyuyu/visual-prompt-feed"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-08-05T06:08:21Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
+    "id": "Mr-Salticidae/knowledge-base",
+    "language": "Python",
+    "name": "Mr-Salticidae/knowledge-base",
+    "stars": 22,
+    "updated_at": "2026-08-05T06:04:47Z",
+    "url": "https://github.com/Mr-Salticidae/knowledge-base"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 2,
+    "updated_at": "2026-08-05T06:04:42Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "AI Paper Reviewer: LLM-based tool for academic paper review",
+    "id": "FanBroWell/AI-paper-reviewer",
+    "language": "Python",
+    "name": "FanBroWell/AI-paper-reviewer",
+    "stars": 32,
+    "updated_at": "2026-08-05T06:03:43Z",
+    "url": "https://github.com/FanBroWell/AI-paper-reviewer"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27368,
+    "updated_at": "2026-08-05T06:03:22Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-05T06:00:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
     "id": "Forest-Project-Lab/doctrine",
     "language": "Python",
@@ -27,15 +117,6 @@
     "url": "https://github.com/majiayu000/spellbook"
   },
   {
-    "description": "Unified OpenAI-compatible AI gateway for 10+ providers \u2014 with prompt workflows (Action/Template), quality monitoring, an",
-    "id": "tripplemay/aigcgateway",
-    "language": "TypeScript",
-    "name": "tripplemay/aigcgateway",
-    "stars": 2,
-    "updated_at": "2026-08-05T05:57:58Z",
-    "url": "https://github.com/tripplemay/aigcgateway"
-  },
-  {
     "description": "Build Claude skills, and find out whether they actually help. A rewritten derivative of Anthropic's skill-creator, with ",
     "id": "OpenCnid/better-skill-creator",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T05:57:39Z",
     "url": "https://github.com/OpenCnid/better-skill-creator"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27367,
-    "updated_at": "2026-08-05T05:58:49Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CL",
@@ -76,7 +148,7 @@
     "id": "vivid0o0/lossless-handoff",
     "language": "\u2014",
     "name": "vivid0o0/lossless-handoff",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-05T05:55:10Z",
     "url": "https://github.com/vivid0o0/lossless-handoff"
   },
@@ -162,15 +234,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-05T05:45:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Hebdo sur les agents IA",
     "id": "jeb-maker/lagent-quotidien",
     "language": "HTML",
@@ -187,15 +250,6 @@
     "stars": 21117,
     "updated_at": "2026-08-05T05:44:30Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-08-05T05:44:25Z",
-    "url": "https://github.com/derob98/ailmanac"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -373,7 +427,7 @@
     "id": "microsoft/apm",
     "language": "Python",
     "name": "microsoft/apm",
-    "stars": 3462,
+    "stars": 3463,
     "updated_at": "2026-08-05T05:27:21Z",
     "url": "https://github.com/microsoft/apm"
   },
@@ -382,7 +436,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 64835,
+    "stars": 64840,
     "updated_at": "2026-08-05T05:26:14Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T05:25:30Z",
     "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
-  },
-  {
-    "description": "Design multi-step AI agent skills that resume, retry, and gate destructive actions. Runtime-neutral SKILL.md guidance.",
-    "id": "clearlane/workflow-skills",
-    "language": "Python",
-    "name": "clearlane/workflow-skills",
-    "stars": 0,
-    "updated_at": "2026-08-05T05:25:21Z",
-    "url": "https://github.com/clearlane/workflow-skills"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3469,
-    "updated_at": "2026-08-05T05:35:48Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
-    "id": "ralphmoran/ticket-lens",
-    "language": "JavaScript",
-    "name": "ralphmoran/ticket-lens",
-    "stars": 3,
-    "updated_at": "2026-08-05T05:22:11Z",
-    "url": "https://github.com/ralphmoran/ticket-lens"
-  },
-  {
-    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 2,
-    "updated_at": "2026-08-05T05:47:06Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 29,
-    "updated_at": "2026-08-05T05:19:06Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10902,
-    "updated_at": "2026-08-05T05:31:14Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
