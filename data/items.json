@@ -1,12 +1,12 @@
 [
   {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 15,
-    "updated_at": "2026-08-05T11:29:20Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 7119,
+    "updated_at": "2026-08-05T11:42:12Z",
+    "url": "https://github.com/Zipstack/unstract"
   },
   {
     "description": "A cross-platform skill for reviewing and restructuring marketing proposal logic.",
@@ -14,8 +14,161 @@
     "language": "\u2014",
     "name": "jwbaozi/campaign-logic-skill",
     "stars": 1,
-    "updated_at": "2026-08-05T11:29:47Z",
+    "updated_at": "2026-08-05T11:42:01Z",
     "url": "https://github.com/jwbaozi/campaign-logic-skill"
+  },
+  {
+    "description": "The control plane for AI prompts. Score, enforce policy, lock config, and audit every prompt \u2014 before it reaches any LLM",
+    "id": "rishi-banerjee1/prompt-control-plane",
+    "language": "TypeScript",
+    "name": "rishi-banerjee1/prompt-control-plane",
+    "stars": 2,
+    "updated_at": "2026-08-05T11:41:49Z",
+    "url": "https://github.com/rishi-banerjee1/prompt-control-plane"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32557,
+    "updated_at": "2026-08-05T11:38:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 475,
+    "updated_at": "2026-08-05T11:42:39Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-05T11:37:07Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Diff two prompt-provenance JSON documents (per prompt-provenance-spec v0.1). Classifies 24 change reasons across 7 dimen",
+    "id": "mizcausevic-dev/prompt-provenance-diff",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/prompt-provenance-diff",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:36:32Z",
+    "url": "https://github.com/mizcausevic-dev/prompt-provenance-diff"
+  },
+  {
+    "description": "Fleet-analyze a directory of prompt-provenance docs. Counts by approval state; flags approved-without-evaluations / no-r",
+    "id": "mizcausevic-dev/prompt-provenance-fleet-summary",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/prompt-provenance-fleet-summary",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:36:25Z",
+    "url": "https://github.com/mizcausevic-dev/prompt-provenance-fleet-summary"
+  },
+  {
+    "description": "GitHub Action wrapping prompt-provenance-fleet-summary. Walks a dir of prompt-provenance docs, flags approved-without-ev",
+    "id": "mizcausevic-dev/prompt-provenance-fleet-summary-action",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/prompt-provenance-fleet-summary-action",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:36:22Z",
+    "url": "https://github.com/mizcausevic-dev/prompt-provenance-fleet-summary-action"
+  },
+  {
+    "description": "Build a lineage graph over a directory of prompt-provenance documents. Detects cycles, duplicate keys, missing parents, ",
+    "id": "mizcausevic-dev/prompt-provenance-graph",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/prompt-provenance-graph",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:36:19Z",
+    "url": "https://github.com/mizcausevic-dev/prompt-provenance-graph"
+  },
+  {
+    "description": "Generate a human-readable Markdown README from a prompt-provenance JSON document (per prompt-provenance-spec v0.1). Rend",
+    "id": "mizcausevic-dev/prompt-provenance-readme-generator",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/prompt-provenance-readme-generator",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:36:16Z",
+    "url": "https://github.com/mizcausevic-dev/prompt-provenance-readme-generator"
+  },
+  {
+    "description": "Curated conformance corpus for prompt-provenance-spec v0.1, categorized JSON fixtures (valid / dirty / shape) with decla",
+    "id": "mizcausevic-dev/prompt-provenance-test-vectors",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/prompt-provenance-test-vectors",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:36:11Z",
+    "url": "https://github.com/mizcausevic-dev/prompt-provenance-test-vectors"
+  },
+  {
+    "description": "Generate a prompt-provenance-spec v0.1 document from raw prompt text. Computes sha256, fills required fields, threads pa",
+    "id": "mizcausevic-dev/prompt-provenance-stamp",
+    "language": "TypeScript",
+    "name": "mizcausevic-dev/prompt-provenance-stamp",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:36:09Z",
+    "url": "https://github.com/mizcausevic-dev/prompt-provenance-stamp"
+  },
+  {
+    "description": "A local Live2D AI streamer stage with LLM replies, TTS, memory, danmaku UI, and a custom broadcast scene.",
+    "id": "KKLL2025/AILiveVTuber-Stage",
+    "language": "Python",
+    "name": "KKLL2025/AILiveVTuber-Stage",
+    "stars": 4,
+    "updated_at": "2026-08-05T11:35:05Z",
+    "url": "https://github.com/KKLL2025/AILiveVTuber-Stage"
+  },
+  {
+    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Shell",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 2,
+    "updated_at": "2026-08-05T11:31:36Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+  },
+  {
+    "description": "LLM eval workbench: Compare shortlist, GEPA Evolve, Route dual-eval, Image prefs, Preference (preview) \u2014 relative cost o",
+    "id": "savagemanage/redrob-eval",
+    "language": "TypeScript",
+    "name": "savagemanage/redrob-eval",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:30:41Z",
+    "url": "https://github.com/savagemanage/redrob-eval"
+  },
+  {
+    "description": "Every day you see posts that go like this: \"Here are the N prompts that...\". Here, I collect, distill, and categorize al",
+    "id": "zfoong/Here-are-the-N-prompts-that",
+    "language": "\u2014",
+    "name": "zfoong/Here-are-the-N-prompts-that",
+    "stars": 30,
+    "updated_at": "2026-08-05T11:30:32Z",
+    "url": "https://github.com/zfoong/Here-are-the-N-prompts-that"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-05T11:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 15,
+    "updated_at": "2026-08-05T11:29:20Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
     "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
@@ -63,15 +216,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "LLM eval workbench: Compare shortlist, GEPA Evolve, Route dual-eval, Image prefs, Preference (preview) \u2014 relative cost o",
-    "id": "savagemanage/redrob-eval",
-    "language": "TypeScript",
-    "name": "savagemanage/redrob-eval",
-    "stars": 0,
-    "updated_at": "2026-08-05T11:23:51Z",
-    "url": "https://github.com/savagemanage/redrob-eval"
-  },
-  {
     "description": "Production-ready OpenAI Codex agent skills, specialist agents, instructions, and configuration with safe merge or full-i",
     "id": "dayfinggg/openai-codex-agent-skills",
     "language": "PowerShell",
@@ -97,24 +241,6 @@
     "stars": 14,
     "updated_at": "2026-08-05T11:21:40Z",
     "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
-    "id": "mrwogu/promptscript",
-    "language": "TypeScript",
-    "name": "mrwogu/promptscript",
-    "stars": 475,
-    "updated_at": "2026-08-05T11:22:36Z",
-    "url": "https://github.com/mrwogu/promptscript"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32556,
-    "updated_at": "2026-08-05T11:28:58Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
@@ -158,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3470,
-    "updated_at": "2026-08-05T11:16:40Z",
+    "updated_at": "2026-08-05T11:37:13Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -178,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-08-05T11:15:52Z",
     "url": "https://github.com/fullymiddleaged/Clawness"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-05T11:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "",
@@ -257,7 +374,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21121,
-    "updated_at": "2026-08-05T11:28:48Z",
+    "updated_at": "2026-08-05T11:32:38Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-05T11:04:39Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "A magical witch assistant equipped with an enchanted grimoire powered by AI, yet shaped by you: your agents, your prompt",
-    "id": "mdesalvo/Morgana",
-    "language": "C#",
-    "name": "mdesalvo/Morgana",
-    "stars": 9,
-    "updated_at": "2026-08-05T11:03:44Z",
-    "url": "https://github.com/mdesalvo/Morgana"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 194,
-    "updated_at": "2026-08-05T11:03:22Z",
-    "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Open collection of AI Workflow Skills for executive communication, project delivery, knowledge management and GenAI adop",
-    "id": "ProfCiccio/Skills-Catalog",
-    "language": "\u2014",
-    "name": "ProfCiccio/Skills-Catalog",
-    "stars": 0,
-    "updated_at": "2026-08-05T11:00:43Z",
-    "url": "https://github.com/ProfCiccio/Skills-Catalog"
-  },
-  {
-    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
-    "id": "Sunil-M02/curiosity-engine",
-    "language": "TypeScript",
-    "name": "Sunil-M02/curiosity-engine",
-    "stars": 2,
-    "updated_at": "2026-08-05T10:58:50Z",
-    "url": "https://github.com/Sunil-M02/curiosity-engine"
-  },
-  {
-    "description": "The control plane for AI prompts. Score, enforce policy, lock config, and audit every prompt \u2014 before it reaches any LLM",
-    "id": "rishi-banerjee1/prompt-control-plane",
-    "language": "TypeScript",
-    "name": "rishi-banerjee1/prompt-control-plane",
-    "stars": 2,
-    "updated_at": "2026-08-05T10:57:47Z",
-    "url": "https://github.com/rishi-banerjee1/prompt-control-plane"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-05T10:55:31Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "An intelligent financial advisor chatbot powered by LLaMA-3, built with LangGraph for structured reasoning, RAG from The",
-    "id": "Md-Emon-Hasan/TrueWealth-AI",
-    "language": "Jupyter Notebook",
-    "name": "Md-Emon-Hasan/TrueWealth-AI",
-    "stars": 7,
-    "updated_at": "2026-08-05T10:54:51Z",
-    "url": "https://github.com/Md-Emon-Hasan/TrueWealth-AI"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1780,
-    "updated_at": "2026-08-05T10:53:43Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Aplica\u00e7\u00e3o Flask que integra a Google Gemini API para tarefas de resumir, traduzir, explicar/gerar c\u00f3digo e brainstorm",
-    "id": "lianeheidemann/ai-prompt-studio",
-    "language": "Python",
-    "name": "lianeheidemann/ai-prompt-studio",
-    "stars": 1,
-    "updated_at": "2026-08-05T10:52:37Z",
-    "url": "https://github.com/lianeheidemann/ai-prompt-studio"
-  },
-  {
-    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
-    "id": "Forest-Project-Lab/doctrine",
-    "language": "Python",
-    "name": "Forest-Project-Lab/doctrine",
-    "stars": 1,
-    "updated_at": "2026-08-05T10:50:16Z",
-    "url": "https://github.com/Forest-Project-Lab/doctrine"
-  },
-  {
-    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 2,
-    "updated_at": "2026-08-05T10:48:41Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
-  },
-  {
-    "description": "AIOS is a repository-driven AI engineering framework that standardizes how AI assistants collaborate with software proje",
-    "id": "fdeniz07/AIOS",
-    "language": "Python",
-    "name": "fdeniz07/AIOS",
-    "stars": 0,
-    "updated_at": "2026-08-05T10:47:11Z",
-    "url": "https://github.com/fdeniz07/AIOS"
-  },
-  {
-    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
-    "id": "gaofeng21cn/redcube-ai",
-    "language": "Python",
-    "name": "gaofeng21cn/redcube-ai",
-    "stars": 3,
-    "updated_at": "2026-08-05T10:46:31Z",
-    "url": "https://github.com/gaofeng21cn/redcube-ai"
   }
 ]
