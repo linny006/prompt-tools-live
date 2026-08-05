@@ -1,5 +1,140 @@
 [
   {
+    "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
+    "id": "apoapostolov/humanizer",
+    "language": "JavaScript",
+    "name": "apoapostolov/humanizer",
+    "stars": 3,
+    "updated_at": "2026-08-05T13:29:52Z",
+    "url": "https://github.com/apoapostolov/humanizer"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 23,
+    "updated_at": "2026-08-05T13:28:47Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Turns a vague request into an explicit work order, so local coding models execute instead of guessing. A cheap cloud mod",
+    "id": "NathanMaine/Promptx",
+    "language": "Python",
+    "name": "NathanMaine/Promptx",
+    "stars": 1,
+    "updated_at": "2026-08-05T13:26:43Z",
+    "url": "https://github.com/NathanMaine/Promptx"
+  },
+  {
+    "description": "Claude Skill with nine data-fidelity rules for MCP tools that query an external data source",
+    "id": "malkreide/mcp-data-fidelity-skill",
+    "language": "Python",
+    "name": "malkreide/mcp-data-fidelity-skill",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:25:57Z",
+    "url": "https://github.com/malkreide/mcp-data-fidelity-skill"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-05T13:25:44Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Flask app powered by Google Gemini for summarizing, translating, explaining and generating code, and brainstorming.",
+    "id": "lianeheidemann/ai-prompt-studio",
+    "language": "Python",
+    "name": "lianeheidemann/ai-prompt-studio",
+    "stars": 1,
+    "updated_at": "2026-08-05T13:24:52Z",
+    "url": "https://github.com/lianeheidemann/ai-prompt-studio"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32565,
+    "updated_at": "2026-08-05T13:30:15Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21122,
+    "updated_at": "2026-08-05T13:24:32Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-08-05T13:24:29Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Local, persistent and auditable memory layer for Claude Code, Codex, Cursor & Gemini CLI. Your coding agent stops treati",
+    "id": "ma-nucho-pro/wife",
+    "language": "JavaScript",
+    "name": "ma-nucho-pro/wife",
+    "stars": 24,
+    "updated_at": "2026-08-05T13:24:03Z",
+    "url": "https://github.com/ma-nucho-pro/wife"
+  },
+  {
+    "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
+    "id": "AmadeusITGroup/ai-primitives-hub",
+    "language": "TypeScript",
+    "name": "AmadeusITGroup/ai-primitives-hub",
+    "stars": 48,
+    "updated_at": "2026-08-05T13:23:58Z",
+    "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-05T13:22:51Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:22:43Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-05T13:21:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-05T13:20:08Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
     "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
     "id": "AnastasiyaW/codex-claude-code-config",
     "language": "Python",
@@ -18,6 +153,15 @@
     "url": "https://github.com/Pl3ntz/llmfoundry"
   },
   {
+    "description": "CCC \u662f\u5f00\u6e90\u6c42\u804c\u8ba4\u77e5\u7f57\u76d8\uff0c\u5e2e\u52a9\u4f7f\u7528\u8005\u4ece\u6df7\u4e71\u72b6\u6001\u4e2d\u6574\u7406\u7ecf\u5386\u3001\u65b9\u5411\u3001JD\u3001\u9762\u8bd5\u590d\u76d8\u548c\u4e0b\u4e00\u6b65\u884c\u52a8\u3002",
+    "id": "Errno722/CCC-career-cognition-compass",
+    "language": "JavaScript",
+    "name": "Errno722/CCC-career-cognition-compass",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:16:22Z",
+    "url": "https://github.com/Errno722/CCC-career-cognition-compass"
+  },
+  {
     "description": "[BETA] An AI-driven ecosystem and multi-agent workflow for generating highly aesthetic, presentation-ready PPTX slides a",
     "id": "YuJunWang/agy-pptx-studio",
     "language": "JavaScript",
@@ -25,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T13:16:01Z",
     "url": "https://github.com/YuJunWang/agy-pptx-studio"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-05T13:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Meridian - A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversa",
@@ -54,24 +189,6 @@
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32563,
-    "updated_at": "2026-08-05T13:16:50Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21121,
-    "updated_at": "2026-08-05T13:18:48Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Reproducible Langfuse evals for AI skills and agents \u2014 isolated runs, deterministic graders, immutable baselines.",
     "id": "ShirinZheng/agent-evaluation-lab",
     "language": "JavaScript",
@@ -79,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T13:11:35Z",
     "url": "https://github.com/ShirinZheng/agent-evaluation-lab"
-  },
-  {
-    "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
-    "id": "apoapostolov/humanizer",
-    "language": "JavaScript",
-    "name": "apoapostolov/humanizer",
-    "stars": 3,
-    "updated_at": "2026-08-05T13:18:23Z",
-    "url": "https://github.com/apoapostolov/humanizer"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -185,7 +293,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4255,
-    "updated_at": "2026-08-05T12:59:16Z",
+    "updated_at": "2026-08-05T13:24:54Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -259,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T12:55:40Z",
     "url": "https://github.com/shaunmarsden/skill-author"
-  },
-  {
-    "description": "Claude Skill with nine data-fidelity rules for MCP tools that query an external data source",
-    "id": "malkreide/mcp-data-fidelity-skill",
-    "language": "Python",
-    "name": "malkreide/mcp-data-fidelity-skill",
-    "stars": 0,
-    "updated_at": "2026-08-05T13:04:56Z",
-    "url": "https://github.com/malkreide/mcp-data-fidelity-skill"
   },
   {
     "description": "No proof, no done.",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T12:47:25Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "SLMArena is a self-hosted benchmarking & red-teaming platform for local SLMs. Measure TTFT, tok/s, & latency while an au",
-    "id": "tuxevil/SLMarena",
-    "language": "TypeScript",
-    "name": "tuxevil/SLMarena",
-    "stars": 1,
-    "updated_at": "2026-08-05T12:46:38Z",
-    "url": "https://github.com/tuxevil/SLMarena"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 10,
-    "updated_at": "2026-08-05T12:46:20Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Production-ready OpenAI Codex agent skills, specialist agents, instructions, and configuration with safe merge or full-i",
-    "id": "dayfinggg/openai-codex-agent-skills",
-    "language": "PowerShell",
-    "name": "dayfinggg/openai-codex-agent-skills",
-    "stars": 4,
-    "updated_at": "2026-08-05T12:46:16Z",
-    "url": "https://github.com/dayfinggg/openai-codex-agent-skills"
-  },
-  {
-    "description": "\u53f0\u7063\u6b63\u5f0f\u6587\u4ef6\u64b0\u5beb AI Skill\uff1a\u516c\u6587\u3001\u5b58\u8b49\u4fe1\u51fd\u3001\u9673\u60c5\u66f8\u3001\u5408\u7d04 \u2014 \u532f\u5165 ChatGPT / Claude / Gemini \u5373\u53ef\u4f7f\u7528",
-    "id": "Imbad0202/tw-formal-writing",
-    "language": "Python",
-    "name": "Imbad0202/tw-formal-writing",
-    "stars": 155,
-    "updated_at": "2026-08-05T12:45:37Z",
-    "url": "https://github.com/Imbad0202/tw-formal-writing"
-  },
-  {
-    "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
-    "id": "shinpr/claude-code-workflows",
-    "language": "JavaScript",
-    "name": "shinpr/claude-code-workflows",
-    "stars": 664,
-    "updated_at": "2026-08-05T12:44:20Z",
-    "url": "https://github.com/shinpr/claude-code-workflows"
-  },
-  {
-    "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 5118,
-    "updated_at": "2026-08-05T12:37:36Z",
-    "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "Phoenixliu\u7834\u7532\uff1a\u8ba9 Codex \u4ece\u56de\u7b54\u8d70\u5230\u6267\u884c\u3001\u9a8c\u8bc1\u3001\u56de\u6eda\u4e0e\u4ea4\u4ed8\u7684\u672c\u5730\u6307\u4ee4\u534f\u8bae\u3002",
-    "id": "xiaoliu07-sudo/Phoenixliu-Pojia",
-    "language": "PowerShell",
-    "name": "xiaoliu07-sudo/Phoenixliu-Pojia",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:38:05Z",
-    "url": "https://github.com/xiaoliu07-sudo/Phoenixliu-Pojia"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3470,
-    "updated_at": "2026-08-05T13:13:56Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Testing framework for LLM prompts. Started as a weekend project after getting tired of manually testing prompts in ChatG",
-    "id": "vihanga/prompt-sandbox",
-    "language": "Jupyter Notebook",
-    "name": "vihanga/prompt-sandbox",
-    "stars": 0,
-    "updated_at": "2026-08-05T12:34:34Z",
-    "url": "https://github.com/vihanga/prompt-sandbox"
-  },
-  {
-    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
-    "id": "mrwogu/promptscript",
-    "language": "TypeScript",
-    "name": "mrwogu/promptscript",
-    "stars": 516,
-    "updated_at": "2026-08-05T12:34:28Z",
-    "url": "https://github.com/mrwogu/promptscript"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
-    "id": "astorie-ai/awesome-seedance-2-prompt",
-    "language": "Shell",
-    "name": "astorie-ai/awesome-seedance-2-prompt",
-    "stars": 11,
-    "updated_at": "2026-08-05T12:34:07Z",
-    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
   }
 ]
