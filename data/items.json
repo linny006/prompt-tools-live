@@ -1,6 +1,159 @@
 [
   {
-    "description": "Claude Skill with six data-fidelity rules for MCP tools that query an external data source",
+    "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 5119,
+    "updated_at": "2026-08-05T12:13:21Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
+    "id": "Mr-Salticidae/knowledge-base",
+    "language": "Python",
+    "name": "Mr-Salticidae/knowledge-base",
+    "stars": 23,
+    "updated_at": "2026-08-05T12:12:56Z",
+    "url": "https://github.com/Mr-Salticidae/knowledge-base"
+  },
+  {
+    "description": "A cross-platform skill for reviewing and restructuring marketing proposal logic.",
+    "id": "jwbaozi/campaign-logic-skill",
+    "language": "\u2014",
+    "name": "jwbaozi/campaign-logic-skill",
+    "stars": 1,
+    "updated_at": "2026-08-05T12:12:38Z",
+    "url": "https://github.com/jwbaozi/campaign-logic-skill"
+  },
+  {
+    "description": "ContextIQ is an open-source framework for LLM token optimization, context engineering, deterministic prompt compression ",
+    "id": "ancyonio/ContextIQ",
+    "language": "Python",
+    "name": "ancyonio/ContextIQ",
+    "stars": 1,
+    "updated_at": "2026-08-05T12:11:37Z",
+    "url": "https://github.com/ancyonio/ContextIQ"
+  },
+  {
+    "description": "Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchest",
+    "id": "jau123/MeiGen-AI-Design-MCP",
+    "language": "TypeScript",
+    "name": "jau123/MeiGen-AI-Design-MCP",
+    "stars": 1667,
+    "updated_at": "2026-08-05T12:09:47Z",
+    "url": "https://github.com/jau123/MeiGen-AI-Design-MCP"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-05T12:08:35Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Shell",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 2,
+    "updated_at": "2026-08-05T12:14:55Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+  },
+  {
+    "description": "\u770b\u6e05\u4ec0\u4e48\u771f\u6709\u6548\uff0c\u5173\u6ce8\u6301\u7eed\u4ea7\u51fa\u7684\u4eba\u3002Creator-first AI case platform: real cases with full prompts, creator tracking, cross-model stability l",
+    "id": "LearnPrompt/goodcaseai",
+    "language": "TypeScript",
+    "name": "LearnPrompt/goodcaseai",
+    "stars": 2,
+    "updated_at": "2026-08-05T12:06:08Z",
+    "url": "https://github.com/LearnPrompt/goodcaseai"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32559,
+    "updated_at": "2026-08-05T12:05:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-08-05T12:05:14Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Reusable OCaml library for structured LLM prompting, response parsing, Markdown composition, XML embedding, and template",
+    "id": "Analytical-Tradecraft-Technologies/ocaml-prompting",
+    "language": "\u2014",
+    "name": "Analytical-Tradecraft-Technologies/ocaml-prompting",
+    "stars": 0,
+    "updated_at": "2026-08-05T12:05:07Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/ocaml-prompting"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 1,
+    "updated_at": "2026-08-05T12:04:48Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
+    "id": "Magma1321/mythos-agent-pipe",
+    "language": "HTML",
+    "name": "Magma1321/mythos-agent-pipe",
+    "stars": 154,
+    "updated_at": "2026-08-05T12:03:56Z",
+    "url": "https://github.com/Magma1321/mythos-agent-pipe"
+  },
+  {
+    "description": "Human-controlled, evidence-led workflow for vacancy evaluation, tracking, and tailored job applications.",
+    "id": "nikabaqradze20-web/evidence-led-job-search-system",
+    "language": "Python",
+    "name": "nikabaqradze20-web/evidence-led-job-search-system",
+    "stars": 0,
+    "updated_at": "2026-08-05T12:02:58Z",
+    "url": "https://github.com/nikabaqradze20-web/evidence-led-job-search-system"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 15,
+    "updated_at": "2026-08-05T12:01:22Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "\u4ece\u6c7d\u8f66\u5de5\u7a0b\u5230\u5177\u8eab\u667a\u80fd\uff1a\u4e00\u4e2a\u975e\u79d1\u73ed\u5b9e\u4e60\u751f\u7684\u5b66\u4e60\u624b\u8bb0 \ud83d\ude80",
+    "id": "hua0467/embodied-ai-internship-notes",
+    "language": "\u2014",
+    "name": "hua0467/embodied-ai-internship-notes",
+    "stars": 0,
+    "updated_at": "2026-08-05T12:00:38Z",
+    "url": "https://github.com/hua0467/embodied-ai-internship-notes"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 6,
+    "updated_at": "2026-08-05T12:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Claude Skill with nine data-fidelity rules for MCP tools that query an external data source",
     "id": "malkreide/mcp-data-fidelity-skill",
     "language": "Python",
     "name": "malkreide/mcp-data-fidelity-skill",
@@ -27,15 +180,6 @@
     "url": "https://github.com/kreftamarcio/multi-agent-orchestrator"
   },
   {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 15,
-    "updated_at": "2026-08-05T11:57:36Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
     "id": "jestersanjay/slim-tools-claude-harness",
     "language": "HTML",
@@ -52,24 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T11:56:20Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "ContextIQ is an open-source framework for LLM token optimization, context engineering, deterministic prompt compression ",
-    "id": "ancyonio/ContextIQ",
-    "language": "Python",
-    "name": "ancyonio/ContextIQ",
-    "stars": 1,
-    "updated_at": "2026-08-05T11:55:58Z",
-    "url": "https://github.com/ancyonio/ContextIQ"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32557,
-    "updated_at": "2026-08-05T11:54:46Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Design multi-step AI agent skills that resume, retry, and gate destructive actions. Runtime-neutral SKILL.md guidance.",
@@ -104,7 +230,7 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 36,
-    "updated_at": "2026-08-05T11:55:35Z",
+    "updated_at": "2026-08-05T12:11:50Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
@@ -126,15 +252,6 @@
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
   },
   {
-    "description": "A cross-platform skill for reviewing and restructuring marketing proposal logic.",
-    "id": "jwbaozi/campaign-logic-skill",
-    "language": "\u2014",
-    "name": "jwbaozi/campaign-logic-skill",
-    "stars": 1,
-    "updated_at": "2026-08-05T11:52:05Z",
-    "url": "https://github.com/jwbaozi/campaign-logic-skill"
-  },
-  {
     "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
     "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
     "language": "TypeScript",
@@ -148,7 +265,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 40992,
+    "stars": 40995,
     "updated_at": "2026-08-05T11:49:22Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -189,15 +306,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 6,
-    "updated_at": "2026-08-05T11:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
     "id": "dimitardamjan7-a11y/spec-flow-framework",
     "language": "HTML",
@@ -212,7 +320,7 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 7119,
-    "updated_at": "2026-08-05T11:57:53Z",
+    "updated_at": "2026-08-05T12:02:27Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -230,7 +338,7 @@
     "language": "TypeScript",
     "name": "mrwogu/promptscript",
     "stars": 475,
-    "updated_at": "2026-08-05T11:56:51Z",
+    "updated_at": "2026-08-05T12:15:26Z",
     "url": "https://github.com/mrwogu/promptscript"
   },
   {
@@ -315,15 +423,6 @@
     "url": "https://github.com/KKLL2025/AILiveVTuber-Stage"
   },
   {
-    "description": "The Role of Thoughts: a nine-lens Dynamic Cognitive Mixture-of-Experts router for Claude Code, with an R/s+ divergence g",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:31:36Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
-  },
-  {
     "description": "LLM eval workbench: Compare shortlist, GEPA Evolve, Route dual-eval, Image prefs, Preference (preview) \u2014 relative cost o",
     "id": "savagemanage/redrob-eval",
     "language": "TypeScript",
@@ -349,104 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-05T11:28:58Z",
     "url": "https://github.com/shortcuts/radin"
-  },
-  {
-    "description": "AI coding assistant for VS Code \u2014 free BYOK (Claude, GPT-4o, DeepSeek, Qwen), unlimited local Ollama, 20 free cloud edit",
-    "id": "Adilaw12/freebird-vscode",
-    "language": "TypeScript",
-    "name": "Adilaw12/freebird-vscode",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:27:48Z",
-    "url": "https://github.com/Adilaw12/freebird-vscode"
-  },
-  {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "TypeScript",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 4,
-    "updated_at": "2026-08-05T11:26:49Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
-    "description": "Your personal prompt library \u2014 organized automatically, always within reach.",
-    "id": "mehdirt/Deja",
-    "language": "TypeScript",
-    "name": "mehdirt/Deja",
-    "stars": 0,
-    "updated_at": "2026-08-05T11:25:52Z",
-    "url": "https://github.com/mehdirt/Deja"
-  },
-  {
-    "description": "Production-ready OpenAI Codex agent skills, specialist agents, instructions, and configuration with safe merge or full-i",
-    "id": "dayfinggg/openai-codex-agent-skills",
-    "language": "PowerShell",
-    "name": "dayfinggg/openai-codex-agent-skills",
-    "stars": 4,
-    "updated_at": "2026-08-05T11:23:27Z",
-    "url": "https://github.com/dayfinggg/openai-codex-agent-skills"
-  },
-  {
-    "description": "A/B test LLM prompts and models with statistical evidence. Web UI + CLI.",
-    "id": "alexe-ev/ai-ab-testing-tool",
-    "language": "Python",
-    "name": "alexe-ev/ai-ab-testing-tool",
-    "stars": 0,
-    "updated_at": "2026-08-05T11:21:52Z",
-    "url": "https://github.com/alexe-ev/ai-ab-testing-tool"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 14,
-    "updated_at": "2026-08-05T11:21:40Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
-    "id": "ariffazil/arifOS",
-    "language": "Python",
-    "name": "ariffazil/arifOS",
-    "stars": 49,
-    "updated_at": "2026-08-05T11:18:22Z",
-    "url": "https://github.com/ariffazil/arifOS"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 151,
-    "updated_at": "2026-08-05T11:18:09Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 5068,
-    "updated_at": "2026-08-05T11:16:58Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3470,
-    "updated_at": "2026-08-05T11:57:50Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Skills published by 5dive \u2014 drop-in SKILL.md bundles for Claude Code, openclaw, hermes, and any harness that loads skill",
-    "id": "5dive-ai/skills",
-    "language": "\u2014",
-    "name": "5dive-ai/skills",
-    "stars": 1,
-    "updated_at": "2026-08-05T11:16:23Z",
-    "url": "https://github.com/5dive-ai/skills"
   }
 ]
