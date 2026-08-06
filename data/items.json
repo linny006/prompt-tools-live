@@ -1,5 +1,131 @@
 [
   {
+    "description": "Open-source Skill that turns ambiguous research requests into evidence-grounded context and Codex-ready goals.",
+    "id": "John-Lin98/ai-research-quest",
+    "language": "TypeScript",
+    "name": "John-Lin98/ai-research-quest",
+    "stars": 1,
+    "updated_at": "2026-08-06T07:29:10Z",
+    "url": "https://github.com/John-Lin98/ai-research-quest"
+  },
+  {
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-S",
+    "id": "asgeirtj/system_prompts_leaks",
+    "language": "JavaScript",
+    "name": "asgeirtj/system_prompts_leaks",
+    "stars": 62424,
+    "updated_at": "2026-08-06T07:28:54Z",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-08-06T07:28:52Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3476,
+    "updated_at": "2026-08-06T07:30:26Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Token-Trim is a Python AST-based CLI tool that prunes docstrings, comments, and whitespace to reduce LLM context window ",
+    "id": "pareshrnayak/token-trim",
+    "language": "Python",
+    "name": "pareshrnayak/token-trim",
+    "stars": 2,
+    "updated_at": "2026-08-06T07:27:45Z",
+    "url": "https://github.com/pareshrnayak/token-trim"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21137,
+    "updated_at": "2026-08-06T07:26:56Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-08-06T07:25:01Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "write once in markdown. forge for any harness.",
+    "id": "odysseusdev/hephaestus",
+    "language": "TypeScript",
+    "name": "odysseusdev/hephaestus",
+    "stars": 0,
+    "updated_at": "2026-08-06T07:22:28Z",
+    "url": "https://github.com/odysseusdev/hephaestus"
+  },
+  {
+    "description": "A structure-aware, local prompt compressor and context optimizer for LLM pipelines.",
+    "id": "saurabhdorle/fast-pruner",
+    "language": "Python",
+    "name": "saurabhdorle/fast-pruner",
+    "stars": 0,
+    "updated_at": "2026-08-06T07:21:49Z",
+    "url": "https://github.com/saurabhdorle/fast-pruner"
+  },
+  {
+    "description": "Standardizes AI agent chat communication style, tone of voice, visual color accents, and response layout.",
+    "id": "G10DC/artisan-chat",
+    "language": "JavaScript",
+    "name": "G10DC/artisan-chat",
+    "stars": 0,
+    "updated_at": "2026-08-06T07:18:25Z",
+    "url": "https://github.com/G10DC/artisan-chat"
+  },
+  {
+    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
+    "id": "Sungmin-Cho/claude-deep-suite",
+    "language": "JavaScript",
+    "name": "Sungmin-Cho/claude-deep-suite",
+    "stars": 8,
+    "updated_at": "2026-08-06T07:18:09Z",
+    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-06T07:16:03Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-06T07:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\u8bf4\u4eba\u8bdd\uff5c\u4e2d\u6587\u4f18\u5148\u7684\u53bb AI \u5473\u6539\u5199 skill\uff1a\u4fdd\u4e8b\u5b9e\u3001\u5206\u573a\u666f\u3001\u6539\u5b8c\u53ef\u76f4\u63a5\u53d1\u3002Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT \u2014 removes ",
+    "id": "MrGeDiao/shuorenhua",
+    "language": "Python",
+    "name": "MrGeDiao/shuorenhua",
+    "stars": 957,
+    "updated_at": "2026-08-06T07:19:52Z",
+    "url": "https://github.com/MrGeDiao/shuorenhua"
+  },
+  {
     "description": "AI Safety, Governance, and Security Layer featuring advanced Prompt Firewalls and PII protection.",
     "id": "Kimosabey/sentinel-layer",
     "language": "\u2014",
@@ -63,15 +189,6 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-06T07:10:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83c\udfad 267 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 18 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 20 \u4e2a\u90e8\u95e8\u3002\u542b 52 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
     "id": "jnMetaCode/agency-agents-zh",
     "language": "Shell",
@@ -79,15 +196,6 @@
     "stars": 18879,
     "updated_at": "2026-08-06T07:09:51Z",
     "url": "https://github.com/jnMetaCode/agency-agents-zh"
-  },
-  {
-    "description": "\u8bf4\u4eba\u8bdd\uff5c\u4e2d\u6587\u4f18\u5148\u7684\u53bb AI \u5473\u6539\u5199 skill\uff1a\u4fdd\u4e8b\u5b9e\u3001\u5206\u573a\u666f\u3001\u6539\u5b8c\u53ef\u76f4\u63a5\u53d1\u3002Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT \u2014 removes ",
-    "id": "MrGeDiao/shuorenhua",
-    "language": "Python",
-    "name": "MrGeDiao/shuorenhua",
-    "stars": 957,
-    "updated_at": "2026-08-06T07:15:11Z",
-    "url": "https://github.com/MrGeDiao/shuorenhua"
   },
   {
     "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
@@ -117,15 +225,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "A structure-aware, local prompt compressor and context optimizer for LLM pipelines.",
-    "id": "saurabhdorle/fast-pruner",
-    "language": "Python",
-    "name": "saurabhdorle/fast-pruner",
-    "stars": 0,
-    "updated_at": "2026-08-06T07:11:07Z",
-    "url": "https://github.com/saurabhdorle/fast-pruner"
-  },
-  {
     "description": "\ud83c\udf75 Deliberate engineering guidelines & deterministic lifecycle safety hooks to enforce planning, prevent bloat, and block",
     "id": "plumpslabs/matcha",
     "language": "JavaScript",
@@ -148,7 +247,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 41092,
+    "stars": 41096,
     "updated_at": "2026-08-06T07:06:12Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -189,15 +288,6 @@
     "url": "https://github.com/eric-sabe/engsys"
   },
   {
-    "description": "Token-Trim is a Python AST-based CLI tool that prunes docstrings, comments, and whitespace to reduce LLM context window ",
-    "id": "pareshrnayak/token-trim",
-    "language": "Python",
-    "name": "pareshrnayak/token-trim",
-    "stars": 2,
-    "updated_at": "2026-08-06T07:00:46Z",
-    "url": "https://github.com/pareshrnayak/token-trim"
-  },
-  {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
     "id": "costiash/claude-code-docs",
     "language": "Python",
@@ -212,7 +302,7 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 7121,
-    "updated_at": "2026-08-06T06:58:50Z",
+    "updated_at": "2026-08-06T07:29:30Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -270,15 +360,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21137,
-    "updated_at": "2026-08-06T06:55:43Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
@@ -286,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-08-06T06:45:42Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-08-06T06:54:45Z",
-    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -373,80 +445,8 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27385,
+    "stars": 27387,
     "updated_at": "2026-08-06T06:32:43Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing s",
-    "id": "hermes-labs-ai/lintlang",
-    "language": "Python",
-    "name": "hermes-labs-ai/lintlang",
-    "stars": 55,
-    "updated_at": "2026-08-06T06:32:22Z",
-    "url": "https://github.com/hermes-labs-ai/lintlang"
-  },
-  {
-    "description": "Diagnose what is actually driving a customer complaint before drafting a reply. Free, no coding required.",
-    "id": "shaunmarsden/diagnose-before-you-respond",
-    "language": "\u2014",
-    "name": "shaunmarsden/diagnose-before-you-respond",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:32:18Z",
-    "url": "https://github.com/shaunmarsden/diagnose-before-you-respond"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 3,
-    "updated_at": "2026-08-06T06:31:53Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-08-06T06:31:40Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "Portable skills for AI agents \u2014 a multi-model advisory board for hard decisions, and a five-skill team-workflow pack for",
-    "id": "timharris707/skills",
-    "language": "Python",
-    "name": "timharris707/skills",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:29:43Z",
-    "url": "https://github.com/timharris707/skills"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 151,
-    "updated_at": "2026-08-06T06:27:14Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "",
-    "id": "asa834/paperforge-2026-paper-workflow",
-    "language": "HTML",
-    "name": "asa834/paperforge-2026-paper-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:27:13Z",
-    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:27:09Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
   }
 ]
