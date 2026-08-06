@@ -1,12 +1,156 @@
 [
   {
+    "description": "Portable evidence-driven agent skill for recursively refining ideas and codebases",
+    "id": "nsbradley88/level-up",
+    "language": "\u2014",
+    "name": "nsbradley88/level-up",
+    "stars": 0,
+    "updated_at": "2026-08-06T06:59:57Z",
+    "url": "https://github.com/nsbradley88/level-up"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-08-06T06:59:46Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Token-Trim is a Python AST-based CLI tool that prunes docstrings, comments, and whitespace to reduce LLM context window ",
+    "id": "pareshrnayak/token-trim",
+    "language": "Python",
+    "name": "pareshrnayak/token-trim",
+    "stars": 0,
+    "updated_at": "2026-08-06T07:00:46Z",
+    "url": "https://github.com/pareshrnayak/token-trim"
+  },
+  {
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 7121,
+    "updated_at": "2026-08-06T06:58:50Z",
+    "url": "https://github.com/Zipstack/unstract"
+  },
+  {
+    "description": "PromptForge is a reusable Claude Code Skill that transforms complex requests into clear, structured, and executable prom",
+    "id": "arikitos/prompt-forge",
+    "language": "Python",
+    "name": "arikitos/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-08-06T06:58:50Z",
+    "url": "https://github.com/arikitos/prompt-forge"
+  },
+  {
+    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
+    "id": "F-e-u-e-r/opus-pack",
+    "language": "Python",
+    "name": "F-e-u-e-r/opus-pack",
+    "stars": 2,
+    "updated_at": "2026-08-06T06:57:07Z",
+    "url": "https://github.com/F-e-u-e-r/opus-pack"
+  },
+  {
+    "description": "One command to give your AI agent a brain. Persona-Governance Platform: safety rules + swappable personalities + 13-plat",
+    "id": "weed33834/agentseed",
+    "language": "Python",
+    "name": "weed33834/agentseed",
+    "stars": 5,
+    "updated_at": "2026-08-06T06:55:32Z",
+    "url": "https://github.com/weed33834/agentseed"
+  },
+  {
+    "description": "\ud83c\udf75 Deliberate engineering guidelines & deterministic lifecycle safety hooks to enforce planning, prevent bloat, and block",
+    "id": "plumpslabs/matcha",
+    "language": "JavaScript",
+    "name": "plumpslabs/matcha",
+    "stars": 1,
+    "updated_at": "2026-08-06T06:53:26Z",
+    "url": "https://github.com/plumpslabs/matcha"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 41089,
+    "updated_at": "2026-08-06T06:52:29Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "A structure-aware, local prompt compressor and context optimizer for LLM pipelines.",
+    "id": "saurabhdorle/fast-pruner",
+    "language": "Python",
+    "name": "saurabhdorle/fast-pruner",
+    "stars": 0,
+    "updated_at": "2026-08-06T06:51:26Z",
+    "url": "https://github.com/saurabhdorle/fast-pruner"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-08-06T06:50:24Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-08-06T06:49:51Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1787,
+    "updated_at": "2026-08-06T06:49:34Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-08-06T06:48:13Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21137,
+    "updated_at": "2026-08-06T06:55:43Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/open-prompt-library",
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/open-prompt-library",
     "stars": 2,
-    "updated_at": "2026-08-06T06:45:19Z",
+    "updated_at": "2026-08-06T06:45:42Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-06T06:45:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -14,17 +158,8 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-06T06:44:32Z",
+    "updated_at": "2026-08-06T06:54:45Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 41088,
-    "updated_at": "2026-08-06T06:43:16Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -63,15 +198,6 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 7121,
-    "updated_at": "2026-08-06T06:44:48Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -97,15 +223,6 @@
     "stars": 155,
     "updated_at": "2026-08-06T06:37:30Z",
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Token-Trim is a Python AST-based CLI tool that prunes docstrings, comments, and whitespace to reduce LLM context window ",
-    "id": "pareshrnayak/token-trim",
-    "language": "Python",
-    "name": "pareshrnayak/token-trim",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:37:16Z",
-    "url": "https://github.com/pareshrnayak/token-trim"
   },
   {
     "description": "Helen Agent Develop Language ",
@@ -169,15 +286,6 @@
     "stars": 957,
     "updated_at": "2026-08-06T06:30:58Z",
     "url": "https://github.com/MrGeDiao/shuorenhua"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-06T06:30:44Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Portable skills for AI agents \u2014 a multi-model advisory board for hard decisions, and a five-skill team-workflow pack for",
@@ -247,7 +355,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 32598,
+    "stars": 32599,
     "updated_at": "2026-08-06T06:26:37Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -277,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T06:25:32Z",
     "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "PromptForge is a reusable Claude Code Skill that transforms complex requests into clear, structured, and executable prom",
-    "id": "arikitos/prompt-forge",
-    "language": "Python",
-    "name": "arikitos/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:25:19Z",
-    "url": "https://github.com/arikitos/prompt-forge"
   },
   {
     "description": "Extract structured thinking profiles from public figures to evaluate your real-world decisions using any AI model.",
@@ -349,104 +448,5 @@
     "stars": 12,
     "updated_at": "2026-08-06T06:22:55Z",
     "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:22:26Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:22:25Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-06T06:22:24Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-08-06T06:21:25Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-08-06T06:21:24Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-08-06T06:21:03Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-06T06:20:35Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 54,
-    "updated_at": "2026-08-06T06:20:13Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-08-06T06:20:06Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 23,
-    "updated_at": "2026-08-06T06:19:54Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-08-06T06:19:15Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
   }
 ]
