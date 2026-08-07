@@ -1,12 +1,39 @@
 [
   {
-    "description": "Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext. ",
-    "id": "agoradynamics/wick",
-    "language": "JavaScript",
-    "name": "agoradynamics/wick",
-    "stars": 3,
-    "updated_at": "2026-08-07T23:00:12Z",
-    "url": "https://github.com/agoradynamics/wick"
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 11,
+    "updated_at": "2026-08-07T23:13:53Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Collection of agent skills",
+    "id": "morzecrew/agent-skills",
+    "language": "Python",
+    "name": "morzecrew/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-08-07T23:09:52Z",
+    "url": "https://github.com/morzecrew/agent-skills"
+  },
+  {
+    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude.",
+    "id": "revenantworks/citadel",
+    "language": "Python",
+    "name": "revenantworks/citadel",
+    "stars": 0,
+    "updated_at": "2026-08-07T23:09:07Z",
+    "url": "https://github.com/revenantworks/citadel"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-07T23:08:35Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
     "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
@@ -14,8 +41,98 @@
     "language": "Python",
     "name": "Forest-Project-Lab/doctrine",
     "stars": 1,
-    "updated_at": "2026-08-07T22:59:45Z",
+    "updated_at": "2026-08-07T23:08:24Z",
     "url": "https://github.com/Forest-Project-Lab/doctrine"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-08-07T23:07:52Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10938,
+    "updated_at": "2026-08-07T23:09:20Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Portable skills for AI agents \u2014 a multi-model advisory board for hard decisions, and a five-skill team-workflow pack for",
+    "id": "timharris707/skills",
+    "language": "Python",
+    "name": "timharris707/skills",
+    "stars": 0,
+    "updated_at": "2026-08-07T23:10:01Z",
+    "url": "https://github.com/timharris707/skills"
+  },
+  {
+    "description": "Portable Windows scratchpad and snippet manager. One global hotkey, instant window, markdown, silos, themes. Built with ",
+    "id": "vacterro/FastPrompter",
+    "language": "Python",
+    "name": "vacterro/FastPrompter",
+    "stars": 8,
+    "updated_at": "2026-08-07T23:04:49Z",
+    "url": "https://github.com/vacterro/FastPrompter"
+  },
+  {
+    "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
+    "id": "fabioc-aloha/Alex_Skill_Mall",
+    "language": "Python",
+    "name": "fabioc-aloha/Alex_Skill_Mall",
+    "stars": 4,
+    "updated_at": "2026-08-07T23:03:57Z",
+    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
+    "description": "\ud83e\uddb8 AI \u7f16\u7a0b\u8d85\u80fd\u529b \u00b7 \u4e2d\u6587\u589e\u5f3a\u7248 \u2014 superpowers\uff08116k+ \u2b50\uff09\u5b8c\u6574\u6c49\u5316 + 6 \u4e2a\u4e2d\u56fd\u539f\u521b skills\uff0c\u8ba9 Claude Code / Copilot CLI / Hermes Agent / Cursor / Win",
+    "id": "jnMetaCode/superpowers-zh",
+    "language": "JavaScript",
+    "name": "jnMetaCode/superpowers-zh",
+    "stars": 7544,
+    "updated_at": "2026-08-07T23:03:53Z",
+    "url": "https://github.com/jnMetaCode/superpowers-zh"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-07T23:02:44Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Plugin-native baseline brain for Alex ACT, with critical-thinking instructions, reusable agent skills, prompts, and tool",
+    "id": "fabioc-aloha/Alex_ACT_Core",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_ACT_Core",
+    "stars": 0,
+    "updated_at": "2026-08-07T23:00:40Z",
+    "url": "https://github.com/fabioc-aloha/Alex_ACT_Core"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-07T23:00:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext. ",
+    "id": "agoradynamics/wick",
+    "language": "JavaScript",
+    "name": "agoradynamics/wick",
+    "stars": 3,
+    "updated_at": "2026-08-07T23:00:12Z",
+    "url": "https://github.com/agoradynamics/wick"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -63,24 +180,6 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "Portable Windows scratchpad and snippet manager. One global hotkey, instant window, markdown, silos, themes. Built with ",
-    "id": "vacterro/FastPrompter",
-    "language": "Python",
-    "name": "vacterro/FastPrompter",
-    "stars": 8,
-    "updated_at": "2026-08-07T22:55:13Z",
-    "url": "https://github.com/vacterro/FastPrompter"
-  },
-  {
-    "description": "Plugin-native baseline brain for Alex ACT, with critical-thinking instructions, reusable agent skills, prompts, and tool",
-    "id": "fabioc-aloha/Alex_ACT_Core",
-    "language": "JavaScript",
-    "name": "fabioc-aloha/Alex_ACT_Core",
-    "stars": 0,
-    "updated_at": "2026-08-07T22:54:49Z",
-    "url": "https://github.com/fabioc-aloha/Alex_ACT_Core"
-  },
-  {
     "description": "PAD+ AI v4.1 \u2014 cognitive pipeline layer for LLMs. 25-stage reasoning (anti-loop\u2192safety\u2192intent\u2192RAG\u2192emotion\u2192generate\u2192truth",
     "id": "Ovladimirovich/pad-plus-ai",
     "language": "Python",
@@ -108,24 +207,6 @@
     "url": "https://github.com/mustafanofl32/gauge"
   },
   {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 11,
-    "updated_at": "2026-08-07T22:52:52Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10938,
-    "updated_at": "2026-08-07T22:54:42Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -140,7 +221,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27413,
-    "updated_at": "2026-08-07T22:58:35Z",
+    "updated_at": "2026-08-07T23:05:22Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -148,7 +229,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "JavaScript",
     "name": "JuliusBrussee/caveman",
-    "stars": 96700,
+    "stars": 96701,
     "updated_at": "2026-08-07T22:48:03Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -169,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-08-07T22:45:49Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-07T22:45:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
@@ -342,24 +414,6 @@
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
   },
   {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-07T22:35:07Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-08-07T22:33:10Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
     "description": "Lets Claude Code manage Architecture Decision Records in your repository via the adrplus CLI, in plain language, instead",
     "id": "FRACerqueira/AdrPlus-IA-Plugin",
     "language": "Python",
@@ -387,15 +441,6 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
-    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude.",
-    "id": "revenantworks/citadel",
-    "language": "Python",
-    "name": "revenantworks/citadel",
-    "stars": 0,
-    "updated_at": "2026-08-07T22:30:53Z",
-    "url": "https://github.com/revenantworks/citadel"
-  },
-  {
     "description": "\ud83d\udccb Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your",
     "id": "V-Songbird/foreman",
     "language": "JavaScript",
@@ -403,50 +448,5 @@
     "stars": 28,
     "updated_at": "2026-08-07T22:30:43Z",
     "url": "https://github.com/V-Songbird/foreman"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-07T22:29:03Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "Preparaci\u00f3n en espa\u00f1ol para las certificaciones Claude Certified Architect de Anthropic: Foundations (CCAR-F) y Professi",
-    "id": "juanmartincoma-collab/claude-certified-architect-es",
-    "language": "\u2014",
-    "name": "juanmartincoma-collab/claude-certified-architect-es",
-    "stars": 0,
-    "updated_at": "2026-08-07T22:28:46Z",
-    "url": "https://github.com/juanmartincoma-collab/claude-certified-architect-es"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-07T22:28:27Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Framework agn\u00f3stico de orquestra\u00e7\u00e3o multi-agente para integrar uma squad aut\u00f4noma de IA (PO, Tech Lead, Dev, QA e Ops) d",
-    "id": "rcelebrone/DotAgents",
-    "language": "Shell",
-    "name": "rcelebrone/DotAgents",
-    "stars": 13,
-    "updated_at": "2026-08-07T22:28:18Z",
-    "url": "https://github.com/rcelebrone/DotAgents"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-07T22:28:06Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   }
 ]
