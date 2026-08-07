@@ -1,12 +1,93 @@
 [
   {
+    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
+    "id": "ralphmoran/ticket-lens",
+    "language": "JavaScript",
+    "name": "ralphmoran/ticket-lens",
+    "stars": 3,
+    "updated_at": "2026-08-07T01:29:57Z",
+    "url": "https://github.com/ralphmoran/ticket-lens"
+  },
+  {
     "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
     "id": "agungkesmas/recallfox",
     "language": "JavaScript",
     "name": "agungkesmas/recallfox",
     "stars": 0,
-    "updated_at": "2026-08-07T01:14:26Z",
+    "updated_at": "2026-08-07T01:29:48Z",
     "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "Graph engineering in one HTML file: a multi-vendor claim fact-check panel with parallel nodes, a deterministic join, an ",
+    "id": "peterzat/PanelForge",
+    "language": "HTML",
+    "name": "peterzat/PanelForge",
+    "stars": 1,
+    "updated_at": "2026-08-07T01:27:32Z",
+    "url": "https://github.com/peterzat/PanelForge"
+  },
+  {
+    "description": "Free curated AI prompt templates library (ChatGPT/Claude/Gemini) \u00b7 AI Prompt \u7bc4\u672c\u5eab. 500+ premium prompts on Gumroad.",
+    "id": "slashman413/ai-prompt-library",
+    "language": "HTML",
+    "name": "slashman413/ai-prompt-library",
+    "stars": 0,
+    "updated_at": "2026-08-07T01:24:37Z",
+    "url": "https://github.com/slashman413/ai-prompt-library"
+  },
+  {
+    "description": "Portable Windows scratchpad and snippet manager. One global hotkey, instant window, markdown, silos, themes. Built with ",
+    "id": "vacterro/FastPrompter",
+    "language": "Python",
+    "name": "vacterro/FastPrompter",
+    "stars": 8,
+    "updated_at": "2026-08-07T01:20:53Z",
+    "url": "https://github.com/vacterro/FastPrompter"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 37529,
+    "updated_at": "2026-08-07T01:19:46Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-08-07T01:17:37Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "\ud83c\udf75 Deliberate engineering guidelines & deterministic lifecycle safety hooks to enforce planning, prevent bloat, and block",
+    "id": "plumpslabs/matcha",
+    "language": "JavaScript",
+    "name": "plumpslabs/matcha",
+    "stars": 1,
+    "updated_at": "2026-08-07T01:17:32Z",
+    "url": "https://github.com/plumpslabs/matcha"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-07T01:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud504\ub86c\ud504\ud2b8 \ucc44\uc810 \uc6f9\uc571 (R-PCCO \ud504\ub808\uc784\uc6cc\ud06c) + AI \uac15\uc758 \uc2e4\uc2b5 \uc790\ub8cc",
+    "id": "thenext0202/pcco-scorer",
+    "language": "TypeScript",
+    "name": "thenext0202/pcco-scorer",
+    "stars": 0,
+    "updated_at": "2026-08-07T01:15:12Z",
+    "url": "https://github.com/thenext0202/pcco-scorer"
   },
   {
     "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
@@ -72,15 +153,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "Portable Windows scratchpad and snippet manager. One global hotkey, instant window, markdown, silos, themes. Built with ",
-    "id": "vacterro/FastPrompter",
-    "language": "Python",
-    "name": "vacterro/FastPrompter",
-    "stars": 8,
-    "updated_at": "2026-08-07T01:06:34Z",
-    "url": "https://github.com/vacterro/FastPrompter"
-  },
-  {
     "description": "No proof, no done.",
     "id": "MiaoY0uShan/FP",
     "language": "JavaScript",
@@ -108,15 +180,6 @@
     "url": "https://github.com/sauravbhattacharya001/agentlens"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-07T01:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Claude Code plugin: guided + controlled development orchestration harness with built-in workflow + state management, for",
     "id": "drobins25/craft",
     "language": "Shell",
@@ -130,7 +193,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 65243,
+    "stars": 65245,
     "updated_at": "2026-08-07T00:54:57Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -187,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T00:51:15Z",
     "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
-  },
-  {
-    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
-    "id": "ralphmoran/ticket-lens",
-    "language": "JavaScript",
-    "name": "ralphmoran/ticket-lens",
-    "stars": 3,
-    "updated_at": "2026-08-07T00:51:13Z",
-    "url": "https://github.com/ralphmoran/ticket-lens"
   },
   {
     "description": "Streamline complex research projects using ChatGPT and Codex with this practical toolkit for physicists and mathematicia",
@@ -277,6 +331,15 @@
     "stars": 17,
     "updated_at": "2026-08-07T00:49:02Z",
     "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "Cansado de receber bases para analisar e nao saber nem por onde come\u00e7ar ? Dashboard em minutos facilita sua vida e cria ",
+    "id": "simidut-doc/Dashboard_em_Minutos",
+    "language": "\u2014",
+    "name": "simidut-doc/Dashboard_em_Minutos",
+    "stars": 0,
+    "updated_at": "2026-08-07T00:48:41Z",
+    "url": "https://github.com/simidut-doc/Dashboard_em_Minutos"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-07T00:44:26Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:44:14Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Free library of original guides on working with AI. Source and scripts for corewise.academy.",
-    "id": "ryanportfolio/Corewise.Academy",
-    "language": "MDX",
-    "name": "ryanportfolio/Corewise.Academy",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:43:58Z",
-    "url": "https://github.com/ryanportfolio/Corewise.Academy"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:43:50Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-08-07T00:43:36Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 3,
-    "updated_at": "2026-08-07T00:43:24Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:43:12Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:43:06Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
   }
 ]
