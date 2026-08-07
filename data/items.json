@@ -1,5 +1,185 @@
 [
   {
+    "description": "AI Workplace Productivity Assistant",
+    "id": "xfmnyawo-a11y/swift-workplace-ai",
+    "language": "TypeScript",
+    "name": "xfmnyawo-a11y/swift-workplace-ai",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:30:16Z",
+    "url": "https://github.com/xfmnyawo-a11y/swift-workplace-ai"
+  },
+  {
+    "description": "An SOP that makes an LLM write a real commerce operating plan \u2014 or admit it can't. Evidence-burden rule + the test recor",
+    "id": "nhppyqys/commerce-playbook",
+    "language": "\u2014",
+    "name": "nhppyqys/commerce-playbook",
+    "stars": 2,
+    "updated_at": "2026-08-07T10:30:10Z",
+    "url": "https://github.com/nhppyqys/commerce-playbook"
+  },
+  {
+    "description": "Goal-first prose and interface writing guardrail against AI slop.",
+    "id": "benjaminstelzer/scoville-scribe-anti-ai-slop",
+    "language": "\u2014",
+    "name": "benjaminstelzer/scoville-scribe-anti-ai-slop",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:29:58Z",
+    "url": "https://github.com/benjaminstelzer/scoville-scribe-anti-ai-slop"
+  },
+  {
+    "description": "Framework-aware UI quality guardrail against AI design slop.",
+    "id": "benjaminstelzer/scoville-ui-anti-ai-slop",
+    "language": "\u2014",
+    "name": "benjaminstelzer/scoville-ui-anti-ai-slop",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:29:56Z",
+    "url": "https://github.com/benjaminstelzer/scoville-ui-anti-ai-slop"
+  },
+  {
+    "description": "Community skills for Claude Code: token optimization, productivity workflows, and development best practices. All skills",
+    "id": "valorisa/Claude-Skills",
+    "language": "Python",
+    "name": "valorisa/Claude-Skills",
+    "stars": 4,
+    "updated_at": "2026-08-07T10:27:31Z",
+    "url": "https://github.com/valorisa/Claude-Skills"
+  },
+  {
+    "description": "AI-powered developer assistant",
+    "id": "boopathiraja26/debugmind-ai",
+    "language": "JavaScript",
+    "name": "boopathiraja26/debugmind-ai",
+    "stars": 1,
+    "updated_at": "2026-08-07T10:24:40Z",
+    "url": "https://github.com/boopathiraja26/debugmind-ai"
+  },
+  {
+    "description": "The Role of Thoughts: a Dynamic Cognitive Mixture-of-Experts router for Claude Code. 9 expert lenses, 10 routing lanes, ",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Shell",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 2,
+    "updated_at": "2026-08-07T10:24:33Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+  },
+  {
+    "description": "Agent skills for the person who owns the product, not the codebase. Context is Queen is available now; three more in the",
+    "id": "hgambas/think-like-a-pm",
+    "language": "HTML",
+    "name": "hgambas/think-like-a-pm",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:24:17Z",
+    "url": "https://github.com/hgambas/think-like-a-pm"
+  },
+  {
+    "description": "Deterministic VS Code extension for exporting files as structured LLM-ready context.",
+    "id": "zwe1ch/vscode-promptable",
+    "language": "TypeScript",
+    "name": "zwe1ch/vscode-promptable",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:24:19Z",
+    "url": "https://github.com/zwe1ch/vscode-promptable"
+  },
+  {
+    "description": "Personal AI-agent skills, workflows, prompts, and setup guides for local LLMs and MCP-powered assistants.",
+    "id": "ntaffzii/Skill-Agents",
+    "language": "Python",
+    "name": "ntaffzii/Skill-Agents",
+    "stars": 4,
+    "updated_at": "2026-08-07T10:23:55Z",
+    "url": "https://github.com/ntaffzii/Skill-Agents"
+  },
+  {
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "HTML",
+    "name": "llwslc/proteus",
+    "stars": 2,
+    "updated_at": "2026-08-07T10:23:48Z",
+    "url": "https://github.com/llwslc/proteus"
+  },
+  {
+    "description": "An Android App to calculate electricity costs for each tenant.",
+    "id": "Take-YourTime/Electricity-Bill-Splitter",
+    "language": "Kotlin",
+    "name": "Take-YourTime/Electricity-Bill-Splitter",
+    "stars": 1,
+    "updated_at": "2026-08-07T10:23:13Z",
+    "url": "https://github.com/Take-YourTime/Electricity-Bill-Splitter"
+  },
+  {
+    "description": "Local-first AI coding workflow for vibe coders, indie hackers, technical founders and product managers \u2014 catch missing t",
+    "id": "hi0001234d/nexpath",
+    "language": "TypeScript",
+    "name": "hi0001234d/nexpath",
+    "stars": 27,
+    "updated_at": "2026-08-07T10:22:43Z",
+    "url": "https://github.com/hi0001234d/nexpath"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3478,
+    "updated_at": "2026-08-07T10:29:17Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 3,
+    "updated_at": "2026-08-07T10:19:06Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "Token-efficiency linter for LLM prompts and payloads",
+    "id": "ritenv/tokensift",
+    "language": "TypeScript",
+    "name": "ritenv/tokensift",
+    "stars": 5,
+    "updated_at": "2026-08-07T10:19:45Z",
+    "url": "https://github.com/ritenv/tokensift"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32682,
+    "updated_at": "2026-08-07T10:26:03Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 37,
+    "updated_at": "2026-08-07T10:18:15Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "Playground rules for predictable AI builders: exact execution, defensive testing, debugging, alignment, and less bloat.",
+    "id": "jawsublime-byte/simon-says",
+    "language": "Python",
+    "name": "jawsublime-byte/simon-says",
+    "stars": 0,
+    "updated_at": "2026-08-07T10:17:15Z",
+    "url": "https://github.com/jawsublime-byte/simon-says"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-07T10:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
     "id": "tuantranute-it/icm-graph-context-flow",
     "language": "HTML",
@@ -18,21 +198,12 @@
     "url": "https://github.com/HuskyDanny/verboseless-all-in-one"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32680,
-    "updated_at": "2026-08-07T10:14:57Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
     "id": "rockerlabs/keel",
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-08-07T10:13:21Z",
+    "updated_at": "2026-08-07T10:26:27Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -70,6 +241,15 @@
     "stars": 0,
     "updated_at": "2026-08-07T10:10:56Z",
     "url": "https://github.com/opchxh/tanzhang-qmeng-cover"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21176,
+    "updated_at": "2026-08-07T10:25:42Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI \u4ea7\u54c1\u7ecf\u7406\u7684\u5b9e\u8df5\u624b\u518c\uff1a\u4ea7\u54c1\u5224\u65ad\u3001Prompt\u3001Skill\u3001Agent \u548c AI \u5de5\u4f5c\u6d41\u6c89\u6dc0",
@@ -149,7 +329,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4276,
-    "updated_at": "2026-08-07T10:14:48Z",
+    "updated_at": "2026-08-07T10:30:09Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -171,24 +351,6 @@
     "url": "https://github.com/Michel-IT/Kotodama"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21175,
-    "updated_at": "2026-08-07T10:10:33Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-07T10:00:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 10 cloud providers + local models side-",
     "id": "lavellehatcherjr/Cli-Modelarium",
     "language": "Python",
@@ -196,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T10:05:28Z",
     "url": "https://github.com/lavellehatcherjr/Cli-Modelarium"
-  },
-  {
-    "description": "Agent skills for the person who owns the product, not the codebase. Context is Queen is available now; three more in the",
-    "id": "hgambas/think-like-a-pm",
-    "language": "HTML",
-    "name": "hgambas/think-like-a-pm",
-    "stars": 0,
-    "updated_at": "2026-08-07T09:59:31Z",
-    "url": "https://github.com/hgambas/think-like-a-pm"
   },
   {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
@@ -225,7 +378,7 @@
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   },
   {
-    "description": "Persona-driven AI assistant over an Obsidian Markdown vault through a typed MCP filesystem core. Runs in daily productio",
+    "description": "Portfolio extract of a persona-driven AI assistant over an Obsidian Markdown vault through a typed MCP filesystem core. ",
     "id": "janvrsinsky/jv-obsidian-assistant",
     "language": "Python",
     "name": "janvrsinsky/jv-obsidian-assistant",
@@ -241,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T09:57:45Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 3,
-    "updated_at": "2026-08-07T10:04:05Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -304,149 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T09:53:05Z",
     "url": "https://github.com/Crayon-312/caiyun-image-skill"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-07T09:53:04Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-07T09:53:01Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-07T09:52:42Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-07T09:51:36Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-07T09:51:30Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "The Role of Thoughts: a Dynamic Cognitive Mixture-of-Experts router for Claude Code. 9 expert lenses, 10 routing lanes, ",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 2,
-    "updated_at": "2026-08-07T09:51:03Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
-  },
-  {
-    "description": "Your personal prompt library \u2014 organized automatically, always within reach.",
-    "id": "mehdirt/Deja",
-    "language": "TypeScript",
-    "name": "mehdirt/Deja",
-    "stars": 0,
-    "updated_at": "2026-08-07T09:50:49Z",
-    "url": "https://github.com/mehdirt/Deja"
-  },
-  {
-    "description": "Make AI-assisted writing read like a human wrote it. A Claude skill grounded in Wikipedia's Signs of AI Writing, with an",
-    "id": "badrusiddique/ai-naturalize-skill",
-    "language": "JavaScript",
-    "name": "badrusiddique/ai-naturalize-skill",
-    "stars": 1,
-    "updated_at": "2026-08-07T09:49:35Z",
-    "url": "https://github.com/badrusiddique/ai-naturalize-skill"
-  },
-  {
-    "description": " A curated system of production-ready Claude Code skills with quantitative evaluation reports, golden test fixtures, and",
-    "id": "johnqtcg/awesome-skills",
-    "language": "Python",
-    "name": "johnqtcg/awesome-skills",
-    "stars": 29,
-    "updated_at": "2026-08-07T09:49:20Z",
-    "url": "https://github.com/johnqtcg/awesome-skills"
-  },
-  {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 37,
-    "updated_at": "2026-08-07T10:04:05Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "\u8ba9 Agent \u7528\u6700\u5c11\u7684 token \u505a\u6700\u51c6\u7684\u4e8b \u2014 Token-efficient discipline for AI agents\uff1a\u538b\u7f29\u65e0\u6548\u4e0a\u4e0b\u6587/\u63a8\u7406/\u8f93\u51fa\uff0c\u964d\u4f4e token \u6d88\u8017\u4e0e\u54cd\u5e94\u5ef6\u8fdf",
-    "id": "phoenixlucky/zerotoken-skill",
-    "language": "Python",
-    "name": "phoenixlucky/zerotoken-skill",
-    "stars": 11,
-    "updated_at": "2026-08-07T09:48:17Z",
-    "url": "https://github.com/phoenixlucky/zerotoken-skill"
-  },
-  {
-    "description": "Execute Lua scripts for Sol's RNG on Windows using this desktop interface with a built-in script hub for Roblox 2026.",
-    "id": "Riccazymotic39/sols-rng-lua-executor-2026",
-    "language": "HTML",
-    "name": "Riccazymotic39/sols-rng-lua-executor-2026",
-    "stars": 0,
-    "updated_at": "2026-08-07T09:47:35Z",
-    "url": "https://github.com/Riccazymotic39/sols-rng-lua-executor-2026"
-  },
-  {
-    "description": "Manage and organize your AI prompts locally with this private, self-hosted prompt manager for ChatGPT, Claude, and Gemin",
-    "id": "conniving-catechist742/ai-prompt-studio",
-    "language": "Python",
-    "name": "conniving-catechist742/ai-prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-08-07T09:47:12Z",
-    "url": "https://github.com/conniving-catechist742/ai-prompt-studio"
-  },
-  {
-    "description": "Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions ",
-    "id": "householderbereavedperson505/promptloop",
-    "language": "\u2014",
-    "name": "householderbereavedperson505/promptloop",
-    "stars": 0,
-    "updated_at": "2026-08-07T09:47:04Z",
-    "url": "https://github.com/householderbereavedperson505/promptloop"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 0,
-    "updated_at": "2026-08-07T09:46:47Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-07T09:46:28Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   }
 ]
