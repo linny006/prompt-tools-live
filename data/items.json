@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agent Skill adding GPT-5.6 Sol-style planning, execution, and review rigor / \u4e3a\u5bb9\u6613\u8df3\u8fc7\u89c4\u5212\u4e0e\u5ba1\u67e5\u7684\u5927\u6a21\u578b\u8865\u5145 GPT-5.6 Sol \u98ce\u683c\u89c4\u5212\u3001\u6267\u884c\u548c\u5ba1\u67e5\u80fd\u529b",
+    "id": "JadeYingWah/gpt-5-6-sol-reasoning-style",
+    "language": "PowerShell",
+    "name": "JadeYingWah/gpt-5-6-sol-reasoning-style",
+    "stars": 0,
+    "updated_at": "2026-08-07T15:31:36Z",
+    "url": "https://github.com/JadeYingWah/gpt-5-6-sol-reasoning-style"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-07T15:30:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Remote-first, project-aware AI prompt optimizer: select real codebase files, add Web Search or Deep Research, and run in",
+    "id": "PatrickDev-it/ai-prompt-optimizer",
+    "language": "TypeScript",
+    "name": "PatrickDev-it/ai-prompt-optimizer",
+    "stars": 1,
+    "updated_at": "2026-08-07T15:30:08Z",
+    "url": "https://github.com/PatrickDev-it/ai-prompt-optimizer"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -153,15 +180,6 @@
     "url": "https://github.com/tingweiy10-pixel/codex5.6-coldbrew"
   },
   {
-    "description": "Agent Skill adding GPT-5.6 Sol-style planning, execution, and review rigor / \u4e3a\u5bb9\u6613\u8df3\u8fc7\u89c4\u5212\u4e0e\u5ba1\u67e5\u7684\u5927\u6a21\u578b\u8865\u5145 GPT-5.6 Sol \u98ce\u683c\u89c4\u5212\u3001\u6267\u884c\u548c\u5ba1\u67e5\u80fd\u529b",
-    "id": "JadeYingWah/gpt-5-6-sol-reasoning-style",
-    "language": "PowerShell",
-    "name": "JadeYingWah/gpt-5-6-sol-reasoning-style",
-    "stars": 0,
-    "updated_at": "2026-08-07T15:18:43Z",
-    "url": "https://github.com/JadeYingWah/gpt-5-6-sol-reasoning-style"
-  },
-  {
     "description": "A Seedance prompting and fix-loop skill distilled from 102,476 video generations.",
     "id": "gvago/hindsight-video-prompting",
     "language": "\u2014",
@@ -221,17 +239,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32695,
-    "updated_at": "2026-08-07T15:29:27Z",
+    "updated_at": "2026-08-07T15:30:40Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-07T15:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
@@ -338,7 +347,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3478,
-    "updated_at": "2026-08-07T15:29:00Z",
+    "updated_at": "2026-08-07T15:31:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 151,
     "updated_at": "2026-08-07T14:53:59Z",
     "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-08-07T14:52:46Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   }
 ]
