@@ -1,11 +1,101 @@
 [
   {
+    "description": "An agent skill that strips AI writing patterns. It bans sentence structures rather than English phrases, so it works in ",
+    "id": "tanawitchsaentree/Human-tone",
+    "language": "Python",
+    "name": "tanawitchsaentree/Human-tone",
+    "stars": 0,
+    "updated_at": "2026-08-07T08:00:13Z",
+    "url": "https://github.com/tanawitchsaentree/Human-tone"
+  },
+  {
+    "description": "\ud83e\uddb8 AI \u7f16\u7a0b\u8d85\u80fd\u529b \u00b7 \u4e2d\u6587\u589e\u5f3a\u7248 \u2014 superpowers\uff08116k+ \u2b50\uff09\u5b8c\u6574\u6c49\u5316 + 6 \u4e2a\u4e2d\u56fd\u539f\u521b skills\uff0c\u8ba9 Claude Code / Copilot CLI / Hermes Agent / Cursor / Win",
+    "id": "jnMetaCode/superpowers-zh",
+    "language": "JavaScript",
+    "name": "jnMetaCode/superpowers-zh",
+    "stars": 7533,
+    "updated_at": "2026-08-07T08:00:08Z",
+    "url": "https://github.com/jnMetaCode/superpowers-zh"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-08-07T07:58:55Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
+    "id": "netopsengineer/axiom",
+    "language": "Python",
+    "name": "netopsengineer/axiom",
+    "stars": 3,
+    "updated_at": "2026-08-07T07:58:41Z",
+    "url": "https://github.com/netopsengineer/axiom"
+  },
+  {
+    "description": "\ud83d\udd04 Enable seamless AI conversations with a universal file format that saves and transfers your chat history across platfo",
+    "id": "AFRATUL1/AI-dropin-spec",
+    "language": "\u2014",
+    "name": "AFRATUL1/AI-dropin-spec",
+    "stars": 1,
+    "updated_at": "2026-08-07T07:57:39Z",
+    "url": "https://github.com/AFRATUL1/AI-dropin-spec"
+  },
+  {
+    "description": "Turn rough, vague prompts into precise, context-enriched prompts inside your AI coding agent session \u2014 Claude Code plugi",
+    "id": "savasturkoglu1/promptpilot-plugin",
+    "language": "Shell",
+    "name": "savasturkoglu1/promptpilot-plugin",
+    "stars": 0,
+    "updated_at": "2026-08-07T07:57:38Z",
+    "url": "https://github.com/savasturkoglu1/promptpilot-plugin"
+  },
+  {
+    "description": "\u8ba9 Agent \u7528\u6700\u5c11\u7684 token \u505a\u6700\u51c6\u7684\u4e8b \u2014 Token-efficient discipline for AI agents\uff1a\u538b\u7f29\u65e0\u6548\u4e0a\u4e0b\u6587/\u63a8\u7406/\u8f93\u51fa\uff0c\u964d\u4f4e token \u6d88\u8017\u4e0e\u54cd\u5e94\u5ef6\u8fdf",
+    "id": "phoenixlucky/zerotoken-skill",
+    "language": "Python",
+    "name": "phoenixlucky/zerotoken-skill",
+    "stars": 11,
+    "updated_at": "2026-08-07T07:57:36Z",
+    "url": "https://github.com/phoenixlucky/zerotoken-skill"
+  },
+  {
+    "description": "End-to-end AI content automation platform built with n8n and OpenAI for generating, organizing, and publishing multi-pla",
+    "id": "godswillmamus54-max/ai-content-factory",
+    "language": "\u2014",
+    "name": "godswillmamus54-max/ai-content-factory",
+    "stars": 0,
+    "updated_at": "2026-08-07T07:56:19Z",
+    "url": "https://github.com/godswillmamus54-max/ai-content-factory"
+  },
+  {
+    "description": "Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai",
+    "id": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "language": "\u2014",
+    "name": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "stars": 3,
+    "updated_at": "2026-08-07T07:55:24Z",
+    "url": "https://github.com/KingFishyXMesa/fuzz2-producer-ai-angklungmann"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-07T07:55:06Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10928,
-    "updated_at": "2026-08-07T07:54:16Z",
+    "updated_at": "2026-08-07T07:55:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -180,15 +270,6 @@
     "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
   },
   {
-    "description": "\u26a1 ZeroToken Skill \u2014 \u8ba9 Agent \u7528\u6700\u5c11\u7684 token \u505a\u6700\u51c6\u7684\u4e8b\u3002\u63d0\u793a\u8bcd\u7eaa\u5f8b\u89c4\u8303\uff1a\u538b\u7f29\u65e0\u6548\u4e0a\u4e0b\u6587\u3001\u65e0\u6548\u89e3\u91ca\u3001\u65e0\u6548\u5de5\u5177\u8c03\u7528\u3001\u65e0\u6548\u8f93\u51fa\uff0c\u51c6\u786e\u6027\u4e0d\u964d\u3002",
-    "id": "phoenixlucky/zerotoken-skill",
-    "language": "Python",
-    "name": "phoenixlucky/zerotoken-skill",
-    "stars": 11,
-    "updated_at": "2026-08-07T07:47:01Z",
-    "url": "https://github.com/phoenixlucky/zerotoken-skill"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -214,15 +295,6 @@
     "stars": 3,
     "updated_at": "2026-08-07T07:45:34Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-07T07:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -275,7 +347,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32669,
-    "updated_at": "2026-08-07T07:54:27Z",
+    "updated_at": "2026-08-07T08:00:26Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -333,15 +405,6 @@
     "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
   },
   {
-    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
-    "id": "netopsengineer/axiom",
-    "language": "Python",
-    "name": "netopsengineer/axiom",
-    "stars": 3,
-    "updated_at": "2026-08-07T07:40:39Z",
-    "url": "https://github.com/netopsengineer/axiom"
-  },
-  {
     "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
     "id": "Paranthropusdwarfchestnut642/claudesona",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T07:39:23Z",
     "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Browse a curated collection of tools for Automated Machine Learning, hyperparameter optimization, and autonomous AI agen",
-    "id": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "language": "TypeScript",
-    "name": "Wrongful-stratocracy6799/awesome-automated-ai",
-    "stars": 0,
-    "updated_at": "2026-08-07T07:39:12Z",
-    "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 3,
-    "updated_at": "2026-08-07T07:39:05Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 1,
-    "updated_at": "2026-08-07T07:38:53Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Organize AI conversations into clean, structured threads to refine context and improve model output quality.",
-    "id": "Robertmyerkesextremist950/metaprompt",
-    "language": "HTML",
-    "name": "Robertmyerkesextremist950/metaprompt",
-    "stars": 2,
-    "updated_at": "2026-08-07T07:38:48Z",
-    "url": "https://github.com/Robertmyerkesextremist950/metaprompt"
-  },
-  {
-    "description": "Test security vulnerabilities in Gemini, Claude, and DeepSeek models using specialized prompt injections.",
-    "id": "pezizalescricketer968/ChatGPT-Jailbreak",
-    "language": "\u2014",
-    "name": "pezizalescricketer968/ChatGPT-Jailbreak",
-    "stars": 11,
-    "updated_at": "2026-08-07T07:38:47Z",
-    "url": "https://github.com/pezizalescricketer968/ChatGPT-Jailbreak"
-  },
-  {
-    "description": "Archive 126+ iterative Suno AI music prompts with structural metatags, style descriptions, and engineering notes for imp",
-    "id": "Defectlameness737/suno-lab",
-    "language": "\u2014",
-    "name": "Defectlameness737/suno-lab",
-    "stars": 1,
-    "updated_at": "2026-08-07T07:38:47Z",
-    "url": "https://github.com/Defectlameness737/suno-lab"
-  },
-  {
-    "description": "Orchestrate multi-agent OpenClaw workflows for code review, security checks, architecture feedback, prompt tuning, and A",
-    "id": "edwininspiring666/agencyteam-openclaw",
-    "language": "\u2014",
-    "name": "edwininspiring666/agencyteam-openclaw",
-    "stars": 0,
-    "updated_at": "2026-08-07T07:38:38Z",
-    "url": "https://github.com/edwininspiring666/agencyteam-openclaw"
   }
 ]
