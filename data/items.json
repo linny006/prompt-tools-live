@@ -1,12 +1,120 @@
 [
   {
+    "description": "The AI engineering kit for DeepSeek. Turn opencode into a team: an orchestrator + 12 specialist agents (research, archit",
+    "id": "Pl3ntz/llmfoundry",
+    "language": "Python",
+    "name": "Pl3ntz/llmfoundry",
+    "stars": 1,
+    "updated_at": "2026-08-08T03:14:14Z",
+    "url": "https://github.com/Pl3ntz/llmfoundry"
+  },
+  {
+    "description": "SLMArena is a self-hosted benchmarking & red-teaming platform for local SLMs. Measure TTFT, tok/s, & latency while an au",
+    "id": "tuxevil/SLMarena",
+    "language": "TypeScript",
+    "name": "tuxevil/SLMarena",
+    "stars": 1,
+    "updated_at": "2026-08-08T03:13:28Z",
+    "url": "https://github.com/tuxevil/SLMarena"
+  },
+  {
+    "description": "Portable skills for AI agents \u2014 a multi-model advisory board for hard decisions, and a five-skill team-workflow pack for",
+    "id": "timharris707/skills",
+    "language": "Python",
+    "name": "timharris707/skills",
+    "stars": 0,
+    "updated_at": "2026-08-08T03:13:03Z",
+    "url": "https://github.com/timharris707/skills"
+  },
+  {
     "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude.",
     "id": "revenantworks/citadel",
     "language": "Python",
     "name": "revenantworks/citadel",
     "stars": 0,
-    "updated_at": "2026-08-08T02:59:29Z",
+    "updated_at": "2026-08-08T03:12:50Z",
     "url": "https://github.com/revenantworks/citadel"
+  },
+  {
+    "description": "Build agent skills for Claude Code, Codex and OpenCode \u2014 then prove they work with paired baseline evals.",
+    "id": "ecoma-io/touchstone",
+    "language": "TypeScript",
+    "name": "ecoma-io/touchstone",
+    "stars": 1,
+    "updated_at": "2026-08-08T03:09:56Z",
+    "url": "https://github.com/ecoma-io/touchstone"
+  },
+  {
+    "description": "Eval-backed agent skills for Claude Code, Codex & OpenCode \u2014 for developers who hate skills.",
+    "id": "slowdini/slow-powers",
+    "language": "TypeScript",
+    "name": "slowdini/slow-powers",
+    "stars": 2,
+    "updated_at": "2026-08-08T03:08:24Z",
+    "url": "https://github.com/slowdini/slow-powers"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-08-08T03:06:34Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Swarming your messy diffs before they reach production.",
+    "id": "bladeacer/lccst",
+    "language": "Python",
+    "name": "bladeacer/lccst",
+    "stars": 1,
+    "updated_at": "2026-08-08T03:05:57Z",
+    "url": "https://github.com/bladeacer/lccst"
+  },
+  {
+    "description": "A complete framework for building, maintaining and improving AI assistants with Claude \u2014 guides, runnable setup tasks, i",
+    "id": "KalastajaM/Cluide",
+    "language": "Markdown",
+    "name": "KalastajaM/Cluide",
+    "stars": 0,
+    "updated_at": "2026-08-08T03:02:25Z",
+    "url": "https://github.com/KalastajaM/Cluide"
+  },
+  {
+    "description": "Chief of Staff plugin for Codex and Claude Code with scoped execution, account gates, project routing, and a retained te",
+    "id": "plotdevice01/codex-chief-of-staff",
+    "language": "Python",
+    "name": "plotdevice01/codex-chief-of-staff",
+    "stars": 0,
+    "updated_at": "2026-08-08T03:02:06Z",
+    "url": "https://github.com/plotdevice01/codex-chief-of-staff"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 11,
+    "updated_at": "2026-08-08T03:01:05Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "AI agent orchestration kit for Windows, Linux/MacOS with Codex skills, hooks, routing rules and profiles for Claude, Ope",
+    "id": "FernandoBolzan/Orquestrador-Maestro",
+    "language": "Python",
+    "name": "FernandoBolzan/Orquestrador-Maestro",
+    "stars": 37,
+    "updated_at": "2026-08-08T03:00:52Z",
+    "url": "https://github.com/FernandoBolzan/Orquestrador-Maestro"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-08T03:00:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "PAD+ AI v4.1 \u2014 cognitive pipeline layer for LLMs. 25-stage reasoning (anti-loop\u2192safety\u2192intent\u2192RAG\u2192emotion\u2192generate\u2192truth",
@@ -16,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T02:59:13Z",
     "url": "https://github.com/Ovladimirovich/pad-plus-ai"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 11,
-    "updated_at": "2026-08-08T02:58:11Z",
-    "url": "https://github.com/clay-good/agent-replay"
   },
   {
     "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
@@ -43,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T02:56:17Z",
     "url": "https://github.com/johngbl/autonomous-engineer"
-  },
-  {
-    "description": "Portable skills for AI agents \u2014 a multi-model advisory board for hard decisions, and a five-skill team-workflow pack for",
-    "id": "timharris707/skills",
-    "language": "Python",
-    "name": "timharris707/skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T02:58:41Z",
-    "url": "https://github.com/timharris707/skills"
   },
   {
     "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
@@ -142,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-08-08T02:45:37Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-08T02:45:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr",
@@ -367,86 +448,5 @@
     "stars": 24,
     "updated_at": "2026-08-08T02:03:21Z",
     "url": "https://github.com/JimmySadek/strategic-partner"
-  },
-  {
-    "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
-    "id": "Raymondhou0917/speak-human-tw",
-    "language": "Python",
-    "name": "Raymondhou0917/speak-human-tw",
-    "stars": 757,
-    "updated_at": "2026-08-08T02:03:16Z",
-    "url": "https://github.com/Raymondhou0917/speak-human-tw"
-  },
-  {
-    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
-    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1817,
-    "updated_at": "2026-08-08T02:03:12Z",
-    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
-    "id": "zigrivers/scaffold",
-    "language": "TypeScript",
-    "name": "zigrivers/scaffold",
-    "stars": 5,
-    "updated_at": "2026-08-08T02:02:51Z",
-    "url": "https://github.com/zigrivers/scaffold"
-  },
-  {
-    "description": "Public, grab-and-go agent skills for rigorous software engineering workflows.",
-    "id": "S3n0001/agent-skills",
-    "language": "\u2014",
-    "name": "S3n0001/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T02:02:40Z",
-    "url": "https://github.com/S3n0001/agent-skills"
-  },
-  {
-    "description": "Regression tests for prompt changes, scored against a committed baseline and run in CI before merge.",
-    "id": "prashibadkur11-creator/prompt-regression-suite",
-    "language": "Python",
-    "name": "prashibadkur11-creator/prompt-regression-suite",
-    "stars": 0,
-    "updated_at": "2026-08-08T02:00:11Z",
-    "url": "https://github.com/prashibadkur11-creator/prompt-regression-suite"
-  },
-  {
-    "description": "Wordware is a San Francisco AI company (YC S23, backed by Felicis and Spark Capital) that built a web-hosted IDE for bui",
-    "id": "api-evangelist/wordware",
-    "language": "\u2014",
-    "name": "api-evangelist/wordware",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:59:51Z",
-    "url": "https://github.com/api-evangelist/wordware"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-08T01:58:06Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-08T01:57:58Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "My ongoing WIP \ud83c\udfd7\ufe0f AI prompts, custom agents, skills & instructions - curated by me (and Copilot + ChatGPT). ",
-    "id": "anchildress1/awesome-github-copilot",
-    "language": "JavaScript",
-    "name": "anchildress1/awesome-github-copilot",
-    "stars": 65,
-    "updated_at": "2026-08-08T02:45:32Z",
-    "url": "https://github.com/anchildress1/awesome-github-copilot"
   }
 ]
