@@ -1,5 +1,59 @@
 [
   {
+    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
+    "id": "F-e-u-e-r/opus-pack",
+    "language": "Python",
+    "name": "F-e-u-e-r/opus-pack",
+    "stars": 2,
+    "updated_at": "2026-08-08T17:00:00Z",
+    "url": "https://github.com/F-e-u-e-r/opus-pack"
+  },
+  {
+    "description": "12 slash commands, 4 subagents, 3 CLAUDE.md templates for real engineering workflows with Claude Code.",
+    "id": "dacode-dev/claude-code-power-pack",
+    "language": "Shell",
+    "name": "dacode-dev/claude-code-power-pack",
+    "stars": 0,
+    "updated_at": "2026-08-08T16:59:49Z",
+    "url": "https://github.com/dacode-dev/claude-code-power-pack"
+  },
+  {
+    "description": "CCC \u662f\u5f00\u6e90\u6c42\u804c\u8ba4\u77e5\u7f57\u76d8\uff0c\u5e2e\u52a9\u4f7f\u7528\u8005\u4ece\u6df7\u4e71\u72b6\u6001\u4e2d\u6574\u7406\u7ecf\u5386\u3001\u65b9\u5411\u3001JD\u3001\u9762\u8bd5\u590d\u76d8\u548c\u4e0b\u4e00\u6b65\u884c\u52a8\u3002",
+    "id": "Errno722/CCC-career-cognition-compass",
+    "language": "JavaScript",
+    "name": "Errno722/CCC-career-cognition-compass",
+    "stars": 0,
+    "updated_at": "2026-08-08T16:59:46Z",
+    "url": "https://github.com/Errno722/CCC-career-cognition-compass"
+  },
+  {
+    "description": "\u8de8\u5883\u7535\u5546 AI \u5b9e\u6218\u77e5\u8bc6\u5e93:56 \u7bc7\u4ece\u9009\u54c1\u5230\u589e\u957f\u7684\u6307\u5357,\u6bcf\u7bc7\u90fd\u6709\u53ef\u76f4\u63a5\u590d\u5236\u7684 Prompt,\u5168\u90e8 CC0 \u514d\u8d39 \u00b7 56 hands-on AI playbooks with copy-paste prompts for Amazon / ",
+    "id": "kangise/ecommerce-ai-roadmap",
+    "language": "Python",
+    "name": "kangise/ecommerce-ai-roadmap",
+    "stars": 40,
+    "updated_at": "2026-08-08T16:57:55Z",
+    "url": "https://github.com/kangise/ecommerce-ai-roadmap"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 7,
+    "updated_at": "2026-08-08T16:57:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-08T16:57:28Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
     "description": "A Codex skill that expands static image-generation requests into exhaustive, editable prompt specifications.",
     "id": "WNIK7750/expand-image-prompts",
     "language": "\u2014",
@@ -99,15 +153,6 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
-    "description": "\u8de8\u5883\u7535\u5546 AI \u5b9e\u6218\u77e5\u8bc6\u5e93:56 \u7bc7\u4ece\u9009\u54c1\u5230\u589e\u957f\u7684\u6307\u5357,\u6bcf\u7bc7\u90fd\u6709\u53ef\u76f4\u63a5\u590d\u5236\u7684 Prompt,\u5168\u90e8 CC0 \u514d\u8d39 \u00b7 56 hands-on AI playbooks with copy-paste prompts for Amazon / ",
-    "id": "kangise/ecommerce-ai-roadmap",
-    "language": "Python",
-    "name": "kangise/ecommerce-ai-roadmap",
-    "stars": 40,
-    "updated_at": "2026-08-08T16:50:52Z",
-    "url": "https://github.com/kangise/ecommerce-ai-roadmap"
-  },
-  {
     "description": "A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow \u2014 semantic code n",
     "id": "konstantinos-malavazos/claude-code-playbook",
     "language": "Shell",
@@ -171,15 +216,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 7,
-    "updated_at": "2026-08-08T16:45:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -234,7 +270,7 @@
     "url": "https://github.com/OlehDatsyk/weather-ai"
   },
   {
-    "description": "42 Claude Code skills for making content that doesn't read like a machine made it \u2014 prose editing with an offline linter",
+    "description": "43 Claude Code skills for making content that doesn't read like a machine made it \u2014 prose editing with an offline linter",
     "id": "Mikefluff/skills",
     "language": "Python",
     "name": "Mikefluff/skills",
@@ -259,15 +295,6 @@
     "stars": 155,
     "updated_at": "2026-08-08T16:39:18Z",
     "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "CCC \u662f\u5f00\u6e90\u6c42\u804c\u8ba4\u77e5\u7f57\u76d8\uff0c\u5e2e\u52a9\u4f7f\u7528\u8005\u4ece\u6df7\u4e71\u72b6\u6001\u4e2d\u6574\u7406\u7ecf\u5386\u3001\u65b9\u5411\u3001JD\u3001\u9762\u8bd5\u590d\u76d8\u548c\u4e0b\u4e00\u6b65\u884c\u52a8\u3002",
-    "id": "Errno722/CCC-career-cognition-compass",
-    "language": "JavaScript",
-    "name": "Errno722/CCC-career-cognition-compass",
-    "stars": 0,
-    "updated_at": "2026-08-08T16:39:06Z",
-    "url": "https://github.com/Errno722/CCC-career-cognition-compass"
   },
   {
     "description": "An intel layer for AI coding agents that assumes its own rules might be wrong \u2014 and keeps the evidence. Authoritative no",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-08T16:32:19Z",
     "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
-  },
-  {
-    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
-    "id": "F-e-u-e-r/opus-pack",
-    "language": "Python",
-    "name": "F-e-u-e-r/opus-pack",
-    "stars": 2,
-    "updated_at": "2026-08-08T16:50:51Z",
-    "url": "https://github.com/F-e-u-e-r/opus-pack"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 151,
-    "updated_at": "2026-08-08T16:29:32Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 41382,
-    "updated_at": "2026-08-08T16:31:11Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   }
 ]
