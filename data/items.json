@@ -1,12 +1,30 @@
 [
   {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-08-09T01:39:28Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
+    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
+    "id": "Asir11/langgraph-agentic-workflows-tutorial",
+    "language": "HTML",
+    "name": "Asir11/langgraph-agentic-workflows-tutorial",
+    "stars": 1,
+    "updated_at": "2026-08-09T01:45:15Z",
+    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 3,
+    "updated_at": "2026-08-09T01:45:14Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-09T01:44:48Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": " AI governance portfolio \u2014 EU AI Act, NIST AI RMF, ISO/IEC 42001, and agentic AI governance, built by an AIGP-certified ",
@@ -14,8 +32,89 @@
     "language": "\u2014",
     "name": "karunmehta-aigp/AI-Governance",
     "stars": 1,
-    "updated_at": "2026-08-09T01:39:25Z",
+    "updated_at": "2026-08-09T01:43:49Z",
     "url": "https://github.com/karunmehta-aigp/AI-Governance"
+  },
+  {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "Python",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 3,
+    "updated_at": "2026-08-09T01:43:19Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 17,
+    "updated_at": "2026-08-09T01:42:18Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "\u65e5\u672c\u8a9e\u306e\u7528\u9014\u5225\u30d7\u30ed\u30f3\u30d7\u30c8\u3092\u3001\u578b\u304b\u3089\u7d44\u307f\u7acb\u3066\u3066\u7aef\u672b\u5185\u3067\u4fdd\u5b58\u30fb\u518d\u5229\u7528\u3059\u308bWeb\u4f5c\u696d\u53f0",
+    "id": "yhay81/kata-prompt",
+    "language": "TypeScript",
+    "name": "yhay81/kata-prompt",
+    "stars": 0,
+    "updated_at": "2026-08-09T01:42:13Z",
+    "url": "https://github.com/yhay81/kata-prompt"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 118,
+    "updated_at": "2026-08-09T01:42:02Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "prompts for steering general AI conversations, development, etc.",
+    "id": "andrew4328/steer.lm",
+    "language": "Python",
+    "name": "andrew4328/steer.lm",
+    "stars": 1,
+    "updated_at": "2026-08-09T01:41:20Z",
+    "url": "https://github.com/andrew4328/steer.lm"
+  },
+  {
+    "description": "An intel layer for AI coding agents that assumes its own rules might be wrong \u2014 and keeps the evidence. Authoritative no",
+    "id": "ReidenXerx/bearing",
+    "language": "JavaScript",
+    "name": "ReidenXerx/bearing",
+    "stars": 3,
+    "updated_at": "2026-08-09T01:40:22Z",
+    "url": "https://github.com/ReidenXerx/bearing"
+  },
+  {
+    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 49,
+    "updated_at": "2026-08-09T01:39:52Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-09T01:39:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
+    "id": "lizhuojunx86/traceguard",
+    "language": "Python",
+    "name": "lizhuojunx86/traceguard",
+    "stars": 2,
+    "updated_at": "2026-08-09T01:39:28Z",
+    "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
     "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
@@ -32,26 +131,8 @@
     "language": "JavaScript",
     "name": "ariaxhan/kernel-claude",
     "stars": 12,
-    "updated_at": "2026-08-09T01:38:44Z",
+    "updated_at": "2026-08-09T01:44:33Z",
     "url": "https://github.com/ariaxhan/kernel-claude"
-  },
-  {
-    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
-    "id": "ariffazil/arifOS",
-    "language": "Python",
-    "name": "ariffazil/arifOS",
-    "stars": 49,
-    "updated_at": "2026-08-09T01:36:36Z",
-    "url": "https://github.com/ariffazil/arifOS"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 17,
-    "updated_at": "2026-08-09T01:35:45Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
     "description": "You're the pilot. Wingman runs the crew. Orchestrate parallel AI agents from a single Claude Code session.",
@@ -72,15 +153,6 @@
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
-    "description": "An intel layer for AI coding agents that assumes its own rules might be wrong \u2014 and keeps the evidence. Authoritative no",
-    "id": "ReidenXerx/bearing",
-    "language": "JavaScript",
-    "name": "ReidenXerx/bearing",
-    "stars": 3,
-    "updated_at": "2026-08-09T01:33:53Z",
-    "url": "https://github.com/ReidenXerx/bearing"
-  },
-  {
     "description": "An AI-powered resume assistant built with Amazon Bedrock (Nova Lite), Python, and Boto3 to rewrite resume bullets, gener",
     "id": "ayomikunadaramola/amazon-bedrock-resume-assistant",
     "language": "Python",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T01:30:43Z",
     "url": "https://github.com/ayomikunadaramola/amazon-bedrock-resume-assistant"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-09T01:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Part 2 of the AI and agent skills collection, with 650+ skill folders focused on reusable workflows, security playbooks,",
@@ -115,15 +178,6 @@
     "stars": 7,
     "updated_at": "2026-08-09T01:30:04Z",
     "url": "https://github.com/pinkpixel-dev/skills-collection-1"
-  },
-  {
-    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-09T01:38:04Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -185,7 +239,7 @@
     "language": "TypeScript",
     "name": "gthgomez/Babel",
     "stars": 1,
-    "updated_at": "2026-08-09T01:32:42Z",
+    "updated_at": "2026-08-09T01:44:18Z",
     "url": "https://github.com/gthgomez/Babel"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-09T01:01:17Z",
     "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
-    "description": "\u26a1\ufe0f Blazing fast, offline notebook for leading AI projects. Brainstorm ideas and keep them connected, orchestrate and sca",
-    "id": "mory-dev/sudonotes",
-    "language": "TypeScript",
-    "name": "mory-dev/sudonotes",
-    "stars": 1,
-    "updated_at": "2026-08-09T01:02:26Z",
-    "url": "https://github.com/mory-dev/sudonotes"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-09T00:59:23Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-09T00:58:26Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
-    "id": "winstonkoh87/Athena-Public",
-    "language": "Python",
-    "name": "winstonkoh87/Athena-Public",
-    "stars": 555,
-    "updated_at": "2026-08-09T00:57:13Z",
-    "url": "https://github.com/winstonkoh87/Athena-Public"
-  },
-  {
-    "description": "GXP \u2014 Guided eXecution Protocol: a verification-first, binary-criteria workflow for bounded AI agents.",
-    "id": "TinkerandScribe/gxp",
-    "language": "Python",
-    "name": "TinkerandScribe/gxp",
-    "stars": 0,
-    "updated_at": "2026-08-09T01:31:28Z",
-    "url": "https://github.com/TinkerandScribe/gxp"
-  },
-  {
-    "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
-    "id": "Dangkoolwat/ai-learning-studio",
-    "language": "Python",
-    "name": "Dangkoolwat/ai-learning-studio",
-    "stars": 0,
-    "updated_at": "2026-08-09T00:55:18Z",
-    "url": "https://github.com/Dangkoolwat/ai-learning-studio"
   }
 ]
