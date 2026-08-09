@@ -1,5 +1,59 @@
 [
   {
+    "description": "An AI marketing strategy skill evolved from Campaign Logic Skill, supporting marketing analysis, strategy planning, prop",
+    "id": "jwbaozi/campaign-logic-skill",
+    "language": "\u2014",
+    "name": "jwbaozi/campaign-logic-skill",
+    "stars": 1,
+    "updated_at": "2026-08-09T15:17:09Z",
+    "url": "https://github.com/jwbaozi/campaign-logic-skill"
+  },
+  {
+    "description": "Creative DNA video prompt cases and installable Skills for MiniMax H3 and Seedance 2.0, with an Electron video viewer.",
+    "id": "T8mars/minimax-h3-prompt-skill-T8",
+    "language": "JavaScript",
+    "name": "T8mars/minimax-h3-prompt-skill-T8",
+    "stars": 1,
+    "updated_at": "2026-08-09T15:16:53Z",
+    "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
+  },
+  {
+    "description": "A VS Code extension that generates images from your codebase context \u2014 enhances prompts with an LLM and creates images r",
+    "id": "TechMitten/MittenIMG",
+    "language": "TypeScript",
+    "name": "TechMitten/MittenIMG",
+    "stars": 0,
+    "updated_at": "2026-08-09T15:15:56Z",
+    "url": "https://github.com/TechMitten/MittenIMG"
+  },
+  {
+    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
+    "id": "SoliEstre/EstreGenesis",
+    "language": "JavaScript",
+    "name": "SoliEstre/EstreGenesis",
+    "stars": 7,
+    "updated_at": "2026-08-09T15:15:52Z",
+    "url": "https://github.com/SoliEstre/EstreGenesis"
+  },
+  {
+    "description": "Build agent skills for Claude Code, Codex and OpenCode \u2014 then prove they work with paired baseline evals.",
+    "id": "ecoma-io/touchstone",
+    "language": "TypeScript",
+    "name": "ecoma-io/touchstone",
+    "stars": 1,
+    "updated_at": "2026-08-09T15:15:32Z",
+    "url": "https://github.com/ecoma-io/touchstone"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-09T15:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": " AI governance portfolio \u2014 EU AI Act, NIST AI RMF, ISO/IEC 42001, and agentic AI governance, built by an AIGP-certified ",
     "id": "karunmehta-aigp/AI-Governance",
     "language": "\u2014",
@@ -27,13 +81,13 @@
     "url": "https://github.com/kochetkov-ma/claude-brewcode"
   },
   {
-    "description": "An AI marketing strategy skill evolved from Campaign Logic Skill, supporting marketing analysis, strategy planning, prop",
-    "id": "jwbaozi/campaign-logic-skill",
-    "language": "\u2014",
-    "name": "jwbaozi/campaign-logic-skill",
-    "stars": 1,
-    "updated_at": "2026-08-09T15:14:37Z",
-    "url": "https://github.com/jwbaozi/campaign-logic-skill"
+    "description": "Local hooks that catch vague AI-agent prompts before they burn tokens.",
+    "id": "akg268/prompt-preflight",
+    "language": "Python",
+    "name": "akg268/prompt-preflight",
+    "stars": 3,
+    "updated_at": "2026-08-09T15:14:43Z",
+    "url": "https://github.com/akg268/prompt-preflight"
   },
   {
     "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
@@ -99,15 +153,6 @@
     "url": "https://github.com/halexzd686-cloud/SoloFlow"
   },
   {
-    "description": "A VS Code extension that generates images from your codebase context \u2014 enhances prompts with an LLM and creates images r",
-    "id": "TechMitten/MittenIMG",
-    "language": "TypeScript",
-    "name": "TechMitten/MittenIMG",
-    "stars": 0,
-    "updated_at": "2026-08-09T15:08:54Z",
-    "url": "https://github.com/TechMitten/MittenIMG"
-  },
-  {
     "description": "Free prompt templates for Claude, ChatGPT, and developers: code review, debugging, security, architecture, and AI workfl",
     "id": "HumanKaylee/prompt-starter-pack",
     "language": "HTML",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "Jeremie2002-sudo/promptdrift",
     "stars": 0,
-    "updated_at": "2026-08-09T15:05:55Z",
+    "updated_at": "2026-08-09T15:17:23Z",
     "url": "https://github.com/Jeremie2002-sudo/promptdrift"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-08-09T15:02:06Z",
     "url": "https://github.com/ReidenXerx/bearing"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-09T15:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An embeddable, RAG-powered B2B support chatbot framework featuring an optimized text processing pipeline, advanced promp",
@@ -324,15 +360,6 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 7,
-    "updated_at": "2026-08-09T14:51:35Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
     "description": "5 specialized LLM agent skills for educational game design, game engineering, escape rooms, card games, and digital gami",
     "id": "mulosbron/gamification-skills",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-09T14:42:02Z",
     "url": "https://github.com/marketyu3-source/ai-inpainting-examples"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-09T14:41:50Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 156,
-    "updated_at": "2026-08-09T14:41:14Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-09T14:39:28Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
