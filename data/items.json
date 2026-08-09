@@ -1,12 +1,39 @@
 [
   {
-    "description": "A token-efficient, human-readable notation for discursive LLM context. What TOON does for JSON, TERSE does for prose. Sp",
-    "id": "yannsouetre/terse-notation",
+    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 49,
+    "updated_at": "2026-08-09T08:14:33Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-08-09T08:14:08Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Prompt engineering workbench \u2014 Chrome extension, desktop app, and web tool",
+    "id": "DaveHomeAssist/prompt-lab",
     "language": "HTML",
-    "name": "yannsouetre/terse-notation",
-    "stars": 0,
-    "updated_at": "2026-08-09T08:06:38Z",
-    "url": "https://github.com/yannsouetre/terse-notation"
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 2,
+    "updated_at": "2026-08-09T08:12:58Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13123,
+    "updated_at": "2026-08-09T08:12:42Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
     "description": "Give your AI coding agent a memory for its decisions - log what you chose and why, so the next session starts from 'we a",
@@ -14,8 +41,80 @@
     "language": "Python",
     "name": "vartiainen1/agent-decision-log",
     "stars": 0,
-    "updated_at": "2026-08-09T08:06:04Z",
+    "updated_at": "2026-08-09T08:12:01Z",
     "url": "https://github.com/vartiainen1/agent-decision-log"
+  },
+  {
+    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 3,
+    "updated_at": "2026-08-09T08:11:50Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "AGENT_FRAMEWORK11 \u2014 a disciplined 11-step task-execution standard for AI agents (purpose-first, red lines, evidence, ref",
+    "id": "Thomson555/AGENT_FRAMEWORK11",
+    "language": "Python",
+    "name": "Thomson555/AGENT_FRAMEWORK11",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:11:09Z",
+    "url": "https://github.com/Thomson555/AGENT_FRAMEWORK11"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:10:14Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-09T08:09:34Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:08:56Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 17,
+    "updated_at": "2026-08-09T08:06:59Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-09T08:06:53Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A token-efficient, human-readable notation for discursive LLM context. What TOON does for JSON, TERSE does for prose. Sp",
+    "id": "yannsouetre/terse-notation",
+    "language": "HTML",
+    "name": "yannsouetre/terse-notation",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:13:37Z",
+    "url": "https://github.com/yannsouetre/terse-notation"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -34,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T08:05:30Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Self-hosted AI gateway for MCP, Codex, Cursor, and Cline with provider-free prompt enhancement, governed routing, and re",
-    "id": "happy520ai/unified-ai-system",
-    "language": "JavaScript",
-    "name": "happy520ai/unified-ai-system",
-    "stars": 3,
-    "updated_at": "2026-08-09T08:03:51Z",
-    "url": "https://github.com/happy520ai/unified-ai-system"
   },
   {
     "description": "A Claude skill that writes production-ready Seedance 2.5 prompts: staged 30s one-takes, Extension to 60s, Ultra-Long to ",
@@ -72,24 +162,6 @@
     "url": "https://github.com/grimoire-rs/grimoire"
   },
   {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 17,
-    "updated_at": "2026-08-09T08:00:30Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-09T08:00:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -108,15 +180,6 @@
     "url": "https://github.com/deader49963hefty/Midjourney-Ultimate-Prompts-Studio"
   },
   {
-    "description": "AGENT_FRAMEWORK11 \u2014 a disciplined 11-step task-execution standard for AI agents (purpose-first, red lines, evidence, ref",
-    "id": "Thomson555/AGENT_FRAMEWORK11",
-    "language": "Python",
-    "name": "Thomson555/AGENT_FRAMEWORK11",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:58:07Z",
-    "url": "https://github.com/Thomson555/AGENT_FRAMEWORK11"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -124,6 +187,15 @@
     "stars": 32767,
     "updated_at": "2026-08-09T07:57:28Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 24147,
+    "updated_at": "2026-08-09T07:57:14Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-09T07:44:32Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-08-09T07:41:55Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Controlled, reviewable agentic coding workflows for OpenAI Codex CLI with task-specific subagents, explicit planning, TD",
-    "id": "shinpr/codex-workflows",
-    "language": "JavaScript",
-    "name": "shinpr/codex-workflows",
-    "stars": 29,
-    "updated_at": "2026-08-09T07:42:07Z",
-    "url": "https://github.com/shinpr/codex-workflows"
-  },
-  {
-    "description": "Multimodal BBQ (bias) visual question answering: pick the right answer from image + context + question + 3 options, and ",
-    "id": "MoriochoRadio/multimodal-bias-vqa",
-    "language": "Python",
-    "name": "MoriochoRadio/multimodal-bias-vqa",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:39:48Z",
-    "url": "https://github.com/MoriochoRadio/multimodal-bias-vqa"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:37:02Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 24146,
-    "updated_at": "2026-08-09T07:57:14Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
-  },
-  {
-    "description": "Structured, spec-driven development workflow for AI coding agents.",
-    "id": "sahil87/fab-kit",
-    "language": "Go",
-    "name": "sahil87/fab-kit",
-    "stars": 28,
-    "updated_at": "2026-08-09T07:36:11Z",
-    "url": "https://github.com/sahil87/fab-kit"
-  },
-  {
-    "description": "Stop playing Context Roulette. Let the LLM tell you which files it needs. Map large codebases, find the right files, and",
-    "id": "solunx/kodopakku_pro",
-    "language": "\u2014",
-    "name": "solunx/kodopakku_pro",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:36:03Z",
-    "url": "https://github.com/solunx/kodopakku_pro"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:53:09Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   }
 ]
