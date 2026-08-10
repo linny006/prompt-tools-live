@@ -1,5 +1,41 @@
 [
   {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:00:00Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "A formatter for agentic coding \u2014 optimizes source for the tokenizer, not the human reader. Seven languages; output that ",
+    "id": "starone99/TokenPress",
+    "language": "Rust",
+    "name": "starone99/TokenPress",
+    "stars": 0,
+    "updated_at": "2026-08-10T19:59:45Z",
+    "url": "https://github.com/starone99/TokenPress"
+  },
+  {
+    "description": "Phase-gated Antigravity workflow for AI coding agents: ChatGPT Companion \u2192 one-phase execution \u2192 evidence-based SHIP/NO-",
+    "id": "0xAgentive/agentic-pipeline",
+    "language": "PowerShell",
+    "name": "0xAgentive/agentic-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-10T19:59:25Z",
+    "url": "https://github.com/0xAgentive/agentic-pipeline"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-10T19:58:56Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org",
     "id": "luckyrjain/software-builder",
     "language": "Python",
@@ -27,6 +63,15 @@
     "url": "https://github.com/Safu1islam/aef"
   },
   {
+    "description": "Portable agent skills for AI coding agents \u2014 works with Claude Code, OpenAI Codex CLI, Gemini CLI, Cursor & GitHub Copil",
+    "id": "mryll/skills",
+    "language": "Shell",
+    "name": "mryll/skills",
+    "stars": 3,
+    "updated_at": "2026-08-10T19:58:31Z",
+    "url": "https://github.com/mryll/skills"
+  },
+  {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
     "id": "kaderkck/hewn-forge",
     "language": "HTML",
@@ -34,6 +79,24 @@
     "stars": 151,
     "updated_at": "2026-08-10T19:57:20Z",
     "url": "https://github.com/kaderkck/hewn-forge"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 1,
+    "updated_at": "2026-08-10T19:57:06Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
+    "id": "AnastasiyaW/codex-claude-code-config",
+    "language": "Python",
+    "name": "AnastasiyaW/codex-claude-code-config",
+    "stars": 141,
+    "updated_at": "2026-08-10T19:56:49Z",
+    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -198,15 +261,6 @@
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   },
   {
-    "description": "A formatter for agentic coding \u2014 optimizes source for the tokenizer, not the human reader. Seven languages; output that ",
-    "id": "starone99/TokenPress",
-    "language": "Rust",
-    "name": "starone99/TokenPress",
-    "stars": 0,
-    "updated_at": "2026-08-10T19:50:11Z",
-    "url": "https://github.com/starone99/TokenPress"
-  },
-  {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
     "id": "Kenny27lokku/prompt-integrity-validator",
     "language": "HTML",
@@ -306,15 +360,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-10T19:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
     "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T19:36:03Z",
     "url": "https://github.com/Aboudjem/goalify"
-  },
-  {
-    "description": "Portable, version-controlled Claude Code configuration \u2014 structured engineering workflows with problem definition, syste",
-    "id": "chriscantu/claude-config",
-    "language": "TypeScript",
-    "name": "chriscantu/claude-config",
-    "stars": 0,
-    "updated_at": "2026-08-10T19:36:02Z",
-    "url": "https://github.com/chriscantu/claude-config"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:35:29Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Local-first prompt engineering \u2014 173 techniques, dual-model parallel generation, no cloud, no signup. Powered by Ollama.",
-    "id": "TFD-42/Wild_Root_Prompt",
-    "language": "Python",
-    "name": "TFD-42/Wild_Root_Prompt",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:35:18Z",
-    "url": "https://github.com/TFD-42/Wild_Root_Prompt"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-10T19:33:56Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "A structured workflow system for AI coding agents - harness engineering, execution loop, skills, hooks, and a learning l",
-    "id": "blundergoat/goat-flow",
-    "language": "TypeScript",
-    "name": "blundergoat/goat-flow",
-    "stars": 29,
-    "updated_at": "2026-08-10T19:47:05Z",
-    "url": "https://github.com/blundergoat/goat-flow"
   }
 ]
