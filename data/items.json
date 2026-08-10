@@ -1,5 +1,149 @@
 [
   {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:12:22Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:10:20Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:08:55Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:06:39Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:06:32Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "An AI-powered resume assistant built with Amazon Bedrock (Nova Lite), Python, and Boto3 to rewrite resume bullets, gener",
+    "id": "ayomikunadaramola/amazon-bedrock-resume-assistant",
+    "language": "Python",
+    "name": "ayomikunadaramola/amazon-bedrock-resume-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-10T21:05:45Z",
+    "url": "https://github.com/ayomikunadaramola/amazon-bedrock-resume-assistant"
+  },
+  {
+    "description": "A register of de-named, evidence-honest operations for analysing cultural artefacts: profiles, conflict register, plan-m",
+    "id": "mentalpinG-Ops/art-ops",
+    "language": "\u2014",
+    "name": "mentalpinG-Ops/art-ops",
+    "stars": 0,
+    "updated_at": "2026-08-10T21:05:37Z",
+    "url": "https://github.com/mentalpinG-Ops/art-ops"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:04:40Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "\ud83e\udd16 A curated, specification-first library of copy-ready prompts, instruction packs, skills, and Copilot agents designed t",
+    "id": "stefaniuk/loadout",
+    "language": "Shell",
+    "name": "stefaniuk/loadout",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:04:21Z",
+    "url": "https://github.com/stefaniuk/loadout"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:03:59Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
+    "id": "ryanportfolio/savetokens",
+    "language": "HTML",
+    "name": "ryanportfolio/savetokens",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:03:24Z",
+    "url": "https://github.com/ryanportfolio/savetokens"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1814,
+    "updated_at": "2026-08-10T21:02:40Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "62 portable AI-agent skills for the deliverables you actually ship \u2014 ADRs, design docs, PRDs, runbooks, decks, threat mo",
+    "id": "sananthanarayan/skilldrop",
+    "language": "Python",
+    "name": "sananthanarayan/skilldrop",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:02:38Z",
+    "url": "https://github.com/sananthanarayan/skilldrop"
+  },
+  {
+    "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
+    "id": "wesleysimplicio/simplicio-dev-cli",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-dev-cli",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:01:37Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-dev-cli"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-10T21:00:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 65804,
+    "updated_at": "2026-08-10T21:00:13Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
     "id": "dgenio/intentflow",
     "language": "Python",
@@ -9,13 +153,13 @@
     "url": "https://github.com/dgenio/intentflow"
   },
   {
-    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:56:54Z",
-    "url": "https://github.com/nikolay-e/diffctx"
+    "description": "The eleven-layer method I use to build a personal AI assistant for one specific human, with a complete synthetic example",
+    "id": "victorperchik/prompt-architecture",
+    "language": "\u2014",
+    "name": "victorperchik/prompt-architecture",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:58:27Z",
+    "url": "https://github.com/victorperchik/prompt-architecture"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -25,6 +169,15 @@
     "stars": 17,
     "updated_at": "2026-08-10T20:56:17Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Offline-first eval harness for personal LLM assistants: deterministic checks plus a five-question rubric. Runs in a seco",
+    "id": "victorperchik/llm-assistant-evals",
+    "language": "Python",
+    "name": "victorperchik/llm-assistant-evals",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:55:57Z",
+    "url": "https://github.com/victorperchik/llm-assistant-evals"
   },
   {
     "description": "A Claude Code plugin that automatically captures coding mistakes and injects relevant lessons before tool calls \u2014 preven",
@@ -185,8 +338,17 @@
     "language": "Python",
     "name": "vartiainen1/agent-error-log",
     "stars": 0,
-    "updated_at": "2026-08-10T20:46:51Z",
+    "updated_at": "2026-08-10T21:14:06Z",
     "url": "https://github.com/vartiainen1/agent-error-log"
+  },
+  {
+    "description": "",
+    "id": "Eng-Ahmed-Rifai/Prompt-Translation-Extension-for-ai",
+    "language": "Python",
+    "name": "Eng-Ahmed-Rifai/Prompt-Translation-Extension-for-ai",
+    "stars": 0,
+    "updated_at": "2026-08-10T20:46:14Z",
+    "url": "https://github.com/Eng-Ahmed-Rifai/Prompt-Translation-Extension-for-ai"
   },
   {
     "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
@@ -216,15 +378,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-10T20:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
     "id": "Asir11/langgraph-agentic-workflows-tutorial",
     "language": "HTML",
@@ -248,7 +401,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10976,
-    "updated_at": "2026-08-10T20:59:22Z",
+    "updated_at": "2026-08-10T21:11:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -295,158 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T20:38:17Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-08-10T20:36:14Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Hebdo sur les agents IA",
-    "id": "jeb-maker/lagent-quotidien",
-    "language": "HTML",
-    "name": "jeb-maker/lagent-quotidien",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:36:03Z",
-    "url": "https://github.com/jeb-maker/lagent-quotidien"
-  },
-  {
-    "description": "An AI-powered resume assistant built with Amazon Bedrock (Nova Lite), Python, and Boto3 to rewrite resume bullets, gener",
-    "id": "ayomikunadaramola/amazon-bedrock-resume-assistant",
-    "language": "Python",
-    "name": "ayomikunadaramola/amazon-bedrock-resume-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-10T20:35:56Z",
-    "url": "https://github.com/ayomikunadaramola/amazon-bedrock-resume-assistant"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-10T20:35:46Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "AI \u4f1a\u7f16\u6570\u636e\u3001\u5047\u62a5\u5b8c\u6210\u3001\u6362\u4eba\u5c31\u5931\u5fc6\uff1f7 \u4e2a\u5b9e\u6218\u65b9\u6cd5\u8bba\u6280\u80fd\uff0c\u8ba9 AI \u5e72\u6d3b\u53ef\u9a8c\u8bc1\u3001\u53ef\u8ffd\u6eaf\u3002Practical skills that make AI honest - no fabrication, no fake completions,",
-    "id": "billyzhou0-0/verifiable-agent-skills",
-    "language": "Python",
-    "name": "billyzhou0-0/verifiable-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-08-10T20:35:23Z",
-    "url": "https://github.com/billyzhou0-0/verifiable-agent-skills"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-10T20:35:17Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-10T20:34:37Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:33:39Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "62 portable AI-agent skills for the deliverables you actually ship \u2014 ADRs, design docs, PRDs, runbooks, decks, threat mo",
-    "id": "sananthanarayan/skilldrop",
-    "language": "Python",
-    "name": "sananthanarayan/skilldrop",
-    "stars": 5,
-    "updated_at": "2026-08-10T20:33:53Z",
-    "url": "https://github.com/sananthanarayan/skilldrop"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:32:50Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-10T20:32:48Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-10T20:32:32Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-10T20:32:26Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-10T20:31:44Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-10T20:31:08Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Responsive web application for performing AI-assisted tasks, such as summarization, translation, explanation and code ge",
-    "id": "lianeheidemann/ai-prompt-studio",
-    "language": "Python",
-    "name": "lianeheidemann/ai-prompt-studio",
-    "stars": 1,
-    "updated_at": "2026-08-10T20:30:51Z",
-    "url": "https://github.com/lianeheidemann/ai-prompt-studio"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 54,
-    "updated_at": "2026-08-10T20:29:11Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
   }
 ]
