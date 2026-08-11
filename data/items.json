@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-11T18:29:56Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Prompt Runner SDK - Elixir toolkit for orchestrating multi-step prompt executions with Claude Code SDK and Codex SDK. St",
+    "id": "nshkrdotcom/prompt_runner_sdk",
+    "language": "Elixir",
+    "name": "nshkrdotcom/prompt_runner_sdk",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:29:56Z",
+    "url": "https://github.com/nshkrdotcom/prompt_runner_sdk"
+  },
+  {
+    "description": "A GPT-5.6 Sol system prompt with Fable-calibrated directness, reasoning, and honest limits.",
+    "id": "benjaminstelzer/codex-fable-like-system-prompt-for-gpt-5.6-sol",
+    "language": "PowerShell",
+    "name": "benjaminstelzer/codex-fable-like-system-prompt-for-gpt-5.6-sol",
+    "stars": 0,
+    "updated_at": "2026-08-11T18:28:38Z",
+    "url": "https://github.com/benjaminstelzer/codex-fable-like-system-prompt-for-gpt-5.6-sol"
+  },
+  {
+    "description": "A universal anti-slop system prompt for any profession. Pure Markdown, composable (universal core + per-field domain mod",
+    "id": "TegarTheGreat/SuperMD",
+    "language": "JavaScript",
+    "name": "TegarTheGreat/SuperMD",
+    "stars": 0,
+    "updated_at": "2026-08-11T18:27:51Z",
+    "url": "https://github.com/TegarTheGreat/SuperMD"
+  },
+  {
+    "description": "",
+    "id": "taskveda/TaskVeda-New01",
+    "language": "HTML",
+    "name": "taskveda/TaskVeda-New01",
+    "stars": 0,
+    "updated_at": "2026-08-11T18:27:07Z",
+    "url": "https://github.com/taskveda/TaskVeda-New01"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 51,
+    "updated_at": "2026-08-11T18:24:54Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24133,
+    "updated_at": "2026-08-11T18:23:53Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow \u2014 semantic code n",
+    "id": "konstantinos-malavazos/claude-code-playbook",
+    "language": "Shell",
+    "name": "konstantinos-malavazos/claude-code-playbook",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:22:27Z",
+    "url": "https://github.com/konstantinos-malavazos/claude-code-playbook"
+  },
+  {
+    "description": "90-style visual prompt atlas comparing ChatGPT and Gemini outputs",
+    "id": "leky90/promptatlas",
+    "language": "JavaScript",
+    "name": "leky90/promptatlas",
+    "stars": 0,
+    "updated_at": "2026-08-11T18:27:48Z",
+    "url": "https://github.com/leky90/promptatlas"
+  },
+  {
+    "description": "Deterministic workspace mapper that assembles layered LLM context from your project's folder tree.",
+    "id": "dominikj111/model-workspace-protocol-tool",
+    "language": "Shell",
+    "name": "dominikj111/model-workspace-protocol-tool",
+    "stars": 1,
+    "updated_at": "2026-08-11T18:18:37Z",
+    "url": "https://github.com/dominikj111/model-workspace-protocol-tool"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 464,
+    "updated_at": "2026-08-11T18:20:50Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3486,
+    "updated_at": "2026-08-11T18:17:47Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-11T18:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
     "id": "imMamdouhaboammar/get-fable",
     "language": "JavaScript",
@@ -9,20 +126,11 @@
     "url": "https://github.com/imMamdouhaboammar/get-fable"
   },
   {
-    "description": "A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow \u2014 semantic code n",
-    "id": "konstantinos-malavazos/claude-code-playbook",
-    "language": "Shell",
-    "name": "konstantinos-malavazos/claude-code-playbook",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:14:23Z",
-    "url": "https://github.com/konstantinos-malavazos/claude-code-playbook"
-  },
-  {
     "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 400+ prompts for Office apps, Copilot Studio, se",
     "id": "kesslernity/awesome-microsoft-copilot-prompts",
     "language": "\u2014",
     "name": "kesslernity/awesome-microsoft-copilot-prompts",
-    "stars": 481,
+    "stars": 482,
     "updated_at": "2026-08-11T18:14:00Z",
     "url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts"
   },
@@ -99,15 +207,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
-    "id": "mrwogu/promptscript",
-    "language": "TypeScript",
-    "name": "mrwogu/promptscript",
-    "stars": 464,
-    "updated_at": "2026-08-11T18:12:25Z",
-    "url": "https://github.com/mrwogu/promptscript"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -162,15 +261,6 @@
     "url": "https://github.com/WayneJin0918/Omni-Rewriter"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24133,
-    "updated_at": "2026-08-11T18:04:18Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Reusable AI coding-agent prompts, plugins, and skills for Codex and Claude Code \u2014 guidelines, commit workflow, refactori",
     "id": "mikaeltorni/programming_prompts",
     "language": "Shell",
@@ -187,24 +277,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T18:04:11Z",
     "url": "https://github.com/llwslc/proteus"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3486,
-    "updated_at": "2026-08-11T18:03:51Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-11T18:03:44Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Versioned Persian AI evaluation prompts, methodology, schemas, and validation tools.",
@@ -239,7 +311,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10996,
-    "updated_at": "2026-08-11T18:05:58Z",
+    "updated_at": "2026-08-11T18:27:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -277,15 +349,6 @@
     "stars": 18,
     "updated_at": "2026-08-11T17:57:46Z",
     "url": "https://github.com/kju4q/q-claude-skills"
-  },
-  {
-    "description": "A universal anti-slop system prompt for any profession. Pure Markdown, composable (universal core + per-field domain mod",
-    "id": "TegarTheGreat/SuperMD",
-    "language": "JavaScript",
-    "name": "TegarTheGreat/SuperMD",
-    "stars": 0,
-    "updated_at": "2026-08-11T17:57:38Z",
-    "url": "https://github.com/TegarTheGreat/SuperMD"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-11T17:51:19Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-11T17:51:03Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "An opinionated LLM-as-judge harness: CRISP scenario taxonomy, cross-family judge enforcement, deterministic safety keys,",
-    "id": "Arash-yazdani/crisp-eval",
-    "language": "Python",
-    "name": "Arash-yazdani/crisp-eval",
-    "stars": 0,
-    "updated_at": "2026-08-11T17:49:42Z",
-    "url": "https://github.com/Arash-yazdani/crisp-eval"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-11T17:49:28Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-11T17:49:28Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "PromptPotter: AI optimization engine for automated prompt engineering (APE). Searches and tunes prompts and parameters a",
-    "id": "PromptPotter/prompt-potter-optimizer",
-    "language": "Python",
-    "name": "PromptPotter/prompt-potter-optimizer",
-    "stars": 1,
-    "updated_at": "2026-08-11T17:48:44Z",
-    "url": "https://github.com/PromptPotter/prompt-potter-optimizer"
-  },
-  {
-    "description": "AI-Team Open v0 \u2014 a reference implementation for organizing human-AI engineering work",
-    "id": "luigip77/ai-team-open",
-    "language": "\u2014",
-    "name": "luigip77/ai-team-open",
-    "stars": 0,
-    "updated_at": "2026-08-11T17:46:22Z",
-    "url": "https://github.com/luigip77/ai-team-open"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 3,
-    "updated_at": "2026-08-11T17:45:42Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   }
 ]
