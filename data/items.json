@@ -1,12 +1,138 @@
 [
   {
+    "description": "A persistent, observable, and collaborative context infrastructure",
+    "id": "lilhammerfun/clumsies",
+    "language": "Zig",
+    "name": "lilhammerfun/clumsies",
+    "stars": 17,
+    "updated_at": "2026-08-11T05:29:59Z",
+    "url": "https://github.com/lilhammerfun/clumsies"
+  },
+  {
     "description": "Reusable prompts and project instruction files for building, auditing, automating, and maintaining software projects.",
     "id": "mickpletcher/prompt-repo",
     "language": "\u2014",
     "name": "mickpletcher/prompt-repo",
     "stars": 0,
-    "updated_at": "2026-08-11T05:19:01Z",
+    "updated_at": "2026-08-11T05:28:50Z",
     "url": "https://github.com/mickpletcher/prompt-repo"
+  },
+  {
+    "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
+    "id": "ai-boost/awesome-prompts",
+    "language": "\u2014",
+    "name": "ai-boost/awesome-prompts",
+    "stars": 8674,
+    "updated_at": "2026-08-11T05:28:01Z",
+    "url": "https://github.com/ai-boost/awesome-prompts"
+  },
+  {
+    "description": "Adversarial code-review persona for AI coding agents. Runs after every diff, flags security/reliability/concurrency issu",
+    "id": "KnightFiury/MrsNegative",
+    "language": "\u2014",
+    "name": "KnightFiury/MrsNegative",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:27:26Z",
+    "url": "https://github.com/KnightFiury/MrsNegative"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1819,
+    "updated_at": "2026-08-11T05:26:34Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze the mathematical reasoning abilities of the Mistral-7B model using diverse prompting techniques on multi-step ",
+    "id": "wolfenix/llm-math-reasoning-analysis",
+    "language": "HTML",
+    "name": "wolfenix/llm-math-reasoning-analysis",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:26:13Z",
+    "url": "https://github.com/wolfenix/llm-math-reasoning-analysis"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24120,
+    "updated_at": "2026-08-11T05:30:10Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 18,
+    "updated_at": "2026-08-11T05:24:32Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10982,
+    "updated_at": "2026-08-11T05:30:09Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Local, open-source reasoning framework for Claude and Codex, with 48 authored systems selected only when deeper reasonin",
+    "id": "ParkerHwang/OpenSocrates",
+    "language": "Python",
+    "name": "ParkerHwang/OpenSocrates",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:25:36Z",
+    "url": "https://github.com/ParkerHwang/OpenSocrates"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Elevate your coding with Supercharged AI Dev Tools, an open-source directory of AI-powered solutions to boost product",
+    "id": "SUASTELARA/Supercharged-AI-Dev-Tools",
+    "language": "\u2014",
+    "name": "SUASTELARA/Supercharged-AI-Dev-Tools",
+    "stars": 4,
+    "updated_at": "2026-08-11T05:21:47Z",
+    "url": "https://github.com/SUASTELARA/Supercharged-AI-Dev-Tools"
+  },
+  {
+    "description": "An experimental language for governed LLM workflows: compile goals, evidence, uncertainty, actions, and verification int",
+    "id": "dgenio/intentflow",
+    "language": "Python",
+    "name": "dgenio/intentflow",
+    "stars": 2,
+    "updated_at": "2026-08-11T05:29:57Z",
+    "url": "https://github.com/dgenio/intentflow"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-11T05:20:36Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "HERO = Hashing \u00b7 Edge cases \u00b7 Rubrics \u00b7 Overbuild \u2014 the four shapes coding agents over-defend in. A paste-in contract th",
+    "id": "wanshuiyin/HERO-Anti-OverDefense",
+    "language": "\u2014",
+    "name": "wanshuiyin/HERO-Anti-OverDefense",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:20:26Z",
+    "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-11T05:19:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Production engineering patterns for spatial LLMs and geospatial AI agents \u2014 validation-first architecture, geospatial RA",
@@ -27,6 +153,24 @@
     "url": "https://github.com/AFRATUL1/AI-dropin-spec"
   },
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 65846,
+    "updated_at": "2026-08-11T05:17:24Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "A cognitively grounded Gemini-based AI assistant for scaffolding undergraduate research proposal development using Cogni",
+    "id": "khairilmzr/cognitively-grounded-ai-research-assistant",
+    "language": "\u2014",
+    "name": "khairilmzr/cognitively-grounded-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:17:04Z",
+    "url": "https://github.com/khairilmzr/cognitively-grounded-ai-research-assistant"
+  },
+  {
     "description": "\u2697\ufe0f Experimental \u2014 A markdown brain that gives your AI coding tools judgment and rigor: sharp defaults, real decisions, a",
     "id": "mehrad-dm/mastermind",
     "language": "Shell",
@@ -36,15 +180,6 @@
     "url": "https://github.com/mehrad-dm/mastermind"
   },
   {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 18,
-    "updated_at": "2026-08-11T05:16:36Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -52,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T05:15:44Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-11T05:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai",
@@ -97,24 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T05:14:09Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 65843,
-    "updated_at": "2026-08-11T05:17:24Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "HERO \u2014 a paste-in contract that stops coding agents over-defending: Hashing, Edge cases, Rubrics, Overbuild. Extracted f",
-    "id": "wanshuiyin/HERO-Anti-OverDefense",
-    "language": "\u2014",
-    "name": "wanshuiyin/HERO-Anti-OverDefense",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:13:52Z",
-    "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -158,7 +266,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1434,
-    "updated_at": "2026-08-11T05:11:54Z",
+    "updated_at": "2026-08-11T05:30:19Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -187,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T05:10:40Z",
     "url": "https://github.com/ManasVardhan/promptdiff"
-  },
-  {
-    "description": "Local, open-source reasoning framework for Claude and Codex, with 48 authored systems selected only when deeper reasonin",
-    "id": "ParkerHwang/OpenSocrates",
-    "language": "Python",
-    "name": "ParkerHwang/OpenSocrates",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:17:21Z",
-    "url": "https://github.com/ParkerHwang/OpenSocrates"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -293,7 +392,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-11T05:07:12Z",
+    "updated_at": "2026-08-11T05:29:48Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -324,15 +423,6 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10981,
-    "updated_at": "2026-08-11T05:09:56Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -358,95 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-11T05:02:06Z",
     "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing s",
-    "id": "hermes-labs-ai/lintlang",
-    "language": "Python",
-    "name": "hermes-labs-ai/lintlang",
-    "stars": 58,
-    "updated_at": "2026-08-11T05:01:34Z",
-    "url": "https://github.com/hermes-labs-ai/lintlang"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-11T05:00:57Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-11T05:00:48Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-11T04:59:44Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-11T04:59:21Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-11T04:59:17Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-11T04:59:16Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-11T04:59:15Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-11T04:57:56Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-11T04:57:44Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
   }
 ]
