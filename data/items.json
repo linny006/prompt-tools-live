@@ -1,5 +1,77 @@
 [
   {
+    "description": "Reusable prompts and project instruction files for building, auditing, automating, and maintaining software projects.",
+    "id": "mickpletcher/prompt-repo",
+    "language": "\u2014",
+    "name": "mickpletcher/prompt-repo",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:19:01Z",
+    "url": "https://github.com/mickpletcher/prompt-repo"
+  },
+  {
+    "description": "Production engineering patterns for spatial LLMs and geospatial AI agents \u2014 validation-first architecture, geospatial RA",
+    "id": "spatialllm/spatialllm",
+    "language": "CSS",
+    "name": "spatialllm/spatialllm",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:18:00Z",
+    "url": "https://github.com/spatialllm/spatialllm"
+  },
+  {
+    "description": "\ud83d\udd04 Enable seamless AI conversations with a universal file format that saves and transfers your chat history across platfo",
+    "id": "AFRATUL1/AI-dropin-spec",
+    "language": "\u2014",
+    "name": "AFRATUL1/AI-dropin-spec",
+    "stars": 1,
+    "updated_at": "2026-08-11T05:17:59Z",
+    "url": "https://github.com/AFRATUL1/AI-dropin-spec"
+  },
+  {
+    "description": "\u2697\ufe0f Experimental \u2014 A markdown brain that gives your AI coding tools judgment and rigor: sharp defaults, real decisions, a",
+    "id": "mehrad-dm/mastermind",
+    "language": "Shell",
+    "name": "mehrad-dm/mastermind",
+    "stars": 20,
+    "updated_at": "2026-08-11T05:18:21Z",
+    "url": "https://github.com/mehrad-dm/mastermind"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 18,
+    "updated_at": "2026-08-11T05:16:36Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-11T05:15:44Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-11T05:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai",
+    "id": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "language": "\u2014",
+    "name": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "stars": 3,
+    "updated_at": "2026-08-11T05:15:25Z",
+    "url": "https://github.com/KingFishyXMesa/fuzz2-producer-ai-angklungmann"
+  },
+  {
     "description": "Curated, verified Agent Skills powered by ModelStudio.",
     "id": "modelstudioai/skills",
     "language": "Python",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 65843,
-    "updated_at": "2026-08-11T05:13:53Z",
+    "updated_at": "2026-08-11T05:17:24Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -54,6 +126,15 @@
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,018-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:13:12Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
+  },
+  {
     "description": "Framework port\u00e1til de governan\u00e7a para agentes de IA: requisitos determin\u00edsticos, contexto enxuto e fluxos audit\u00e1veis par",
     "id": "jcempro/agents.md",
     "language": "TypeScript",
@@ -70,6 +151,15 @@
     "stars": 7,
     "updated_at": "2026-08-11T05:13:13Z",
     "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1434,
+    "updated_at": "2026-08-11T05:11:54Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "Evidence-first LLM-as-judge scoring for AI artifacts \u2014 papers, PRs, prompts, cold emails: synthesizes a rubric, collects",
@@ -90,15 +180,6 @@
     "url": "https://github.com/hysohail/agentic-experiment-designer"
   },
   {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 1,857-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:13:12Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
     "description": "\ud83d\udcca Git-style diff and version control for LLM prompts",
     "id": "ManasVardhan/promptdiff",
     "language": "Python",
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "ParkerHwang/OpenSocrates",
     "stars": 0,
-    "updated_at": "2026-08-11T05:10:25Z",
+    "updated_at": "2026-08-11T05:17:21Z",
     "url": "https://github.com/ParkerHwang/OpenSocrates"
   },
   {
@@ -306,15 +387,6 @@
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-11T05:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
     "id": "Kenny27lokku/prompt-integrity-validator",
     "language": "HTML",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-11T04:57:44Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "A secular conduct codex for AI coding agents: four disciplines, each rule with a falsifier. The reason-and-craft sibling",
-    "id": "arnoldwender/agnostic-harness",
-    "language": "Shell",
-    "name": "arnoldwender/agnostic-harness",
-    "stars": 0,
-    "updated_at": "2026-08-11T04:56:33Z",
-    "url": "https://github.com/arnoldwender/agnostic-harness"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 54,
-    "updated_at": "2026-08-11T04:56:26Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 24,
-    "updated_at": "2026-08-11T04:56:25Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 41798,
-    "updated_at": "2026-08-11T04:56:02Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Collapse a git branch into one text file for an LLM prompt \u2014 full diff plus the complete contents of every file that act",
-    "id": "dbuslaev/git-branch-context",
-    "language": "Shell",
-    "name": "dbuslaev/git-branch-context",
-    "stars": 0,
-    "updated_at": "2026-08-11T04:53:49Z",
-    "url": "https://github.com/dbuslaev/git-branch-context"
-  },
-  {
-    "description": "Reusable prompts and project instruction files for building, auditing, automating, and maintaining software projects.",
-    "id": "mickpletcher/prompt-repo",
-    "language": "\u2014",
-    "name": "mickpletcher/prompt-repo",
-    "stars": 0,
-    "updated_at": "2026-08-11T04:52:32Z",
-    "url": "https://github.com/mickpletcher/prompt-repo"
-  },
-  {
-    "description": "Continuously refreshed public feed of AI image and video prompts from X, with original authors, source links, preview me",
-    "id": "Hanyuyu/visual-prompt-feed",
-    "language": "JavaScript",
-    "name": "Hanyuyu/visual-prompt-feed",
-    "stars": 0,
-    "updated_at": "2026-08-11T04:52:20Z",
-    "url": "https://github.com/Hanyuyu/visual-prompt-feed"
-  },
-  {
-    "description": "Midjourney \u2013 A Windows desktop tool for managing prompts and generating AI art with enhanced features.",
-    "id": "axonsreenact-24/Midjourney-Desktop-Enhancer-Suite",
-    "language": "\u2014",
-    "name": "axonsreenact-24/Midjourney-Desktop-Enhancer-Suite",
-    "stars": 0,
-    "updated_at": "2026-08-11T04:52:10Z",
-    "url": "https://github.com/axonsreenact-24/Midjourney-Desktop-Enhancer-Suite"
   }
 ]
