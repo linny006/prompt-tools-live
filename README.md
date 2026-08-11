@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 20:59 UTC
+> ⏰ Last updated: 2026-08-11 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,32 +42,32 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 5 | HTML | 2026-08-11 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
-| 2 | [mikaeltorni/programming_prompts](https://github.com/mikaeltorni/programming_prompts) | 1 | Python | 2026-08-11 | Reusable AI coding-agent prompts, plugins, and skills for Codex and Claude Code — guidelines, commit workflow, refactori |
-| 3 | [rikilamadrid/pathfinder](https://github.com/rikilamadrid/pathfinder) | 1 | JavaScript | 2026-08-11 | A stack-agnostic, human-in-the-loop AI development workflow kit. The kit owns the workflow; your project owns the stack. |
-| 4 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-11 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 5 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-08-11 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 6 | [revenantworks/citadel](https://github.com/revenantworks/citadel) | 0 | Python | 2026-08-11 | The Revenant packs marketplace — Agent Skills packs for Claude. |
-| 7 | [Turki-Sh/Foreman](https://github.com/Turki-Sh/Foreman) | 15 | HTML | 2026-08-11 | A build playbook that turns your coding agent into the foreman of a website build. It interviews you, forces the design  |
-| 8 | [saagpatel/prompt-englab](https://github.com/saagpatel/prompt-englab) | 0 | TypeScript | 2026-08-11 | Full-stack prompt engineering workbench — multi-provider streaming, version diffs, A/B comparison, test cases, cost trac |
-| 9 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-08-11 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
-| 10 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 156 | HTML | 2026-08-11 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
-| 11 | [lexy-noh/work-command-center](https://github.com/lexy-noh/work-command-center) | 0 | — | 2026-08-11 | A natural-language work tracking system designed to turn everyday work context into an evolving source of truth. |
-| 12 | [benjaminstelzer/scoville-scribe-anti-ai-slop](https://github.com/benjaminstelzer/scoville-scribe-anti-ai-slop) | 0 | — | 2026-08-11 | Better writing without quietly changing the facts. |
-| 13 | [AgustiPuigserver/opus-prompt-architect](https://github.com/AgustiPuigserver/opus-prompt-architect) | 155 | HTML | 2026-08-11 | Best Prompt Engineering Tools for 2026 AI Workflow Optimization |
-| 14 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-11 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 15 | [heavenaruba/codified-prompt-rule-engine](https://github.com/heavenaruba/codified-prompt-rule-engine) | 156 | HTML | 2026-08-11 | Top 10 Claude Prompt Optimization Frameworks 2026 |
-| 16 | [luckyrjain/software-builder](https://github.com/luckyrjain/software-builder) | 0 | Python | 2026-08-11 | Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org |
-| 17 | [duongnhatthang/attention-budget-harness](https://github.com/duongnhatthang/attention-budget-harness) | 0 | — | 2026-08-11 | A prompt harness for AI-assisted reasoning where a human is the only verifier and their attention is the scarce resource |
-| 18 | [5uprem4/ai-skill-vault](https://github.com/5uprem4/ai-skill-vault) | 3 | HTML | 2026-08-11 | Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub |
-| 19 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21314 | Python | 2026-08-11 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 20 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 857 | Swift | 2026-08-11 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
-| 21 | [hysohail/agentic-experiment-designer](https://github.com/hysohail/agentic-experiment-designer) | 1 | HTML | 2026-08-11 | Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement |
-| 22 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 151 | HTML | 2026-08-11 | HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code |
-| 23 | [Q00/ouroboros](https://github.com/Q00/ouroboros) | 5380 | Python | 2026-08-11 | Agent OS: Stop prompting. Start specifying. A Socratic interview gates the spec on an ambiguity score, then one command  |
-| 24 | [TegarTheGreat/SuperMD](https://github.com/TegarTheGreat/SuperMD) | 0 | JavaScript | 2026-08-11 | A universal anti-slop system prompt for any profession. Pure Markdown, composable (universal core + per-field domain mod |
-| 25 | [renoise-ai/awesome-seedance-prompts](https://github.com/renoise-ai/awesome-seedance-prompts) | 3 | TypeScript | 2026-08-11 | A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to |
-| 26 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 8 | Python | 2026-08-11 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 8 | Python | 2026-08-11 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 5 | HTML | 2026-08-11 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
+| 3 | [mikaeltorni/programming_prompts](https://github.com/mikaeltorni/programming_prompts) | 1 | Python | 2026-08-11 | Reusable AI coding-agent prompts, plugins, and skills for Codex and Claude Code — guidelines, commit workflow, refactori |
+| 4 | [rikilamadrid/pathfinder](https://github.com/rikilamadrid/pathfinder) | 1 | JavaScript | 2026-08-11 | A stack-agnostic, human-in-the-loop AI development workflow kit. The kit owns the workflow; your project owns the stack. |
+| 5 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-11 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 6 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-08-11 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 7 | [revenantworks/citadel](https://github.com/revenantworks/citadel) | 0 | Python | 2026-08-11 | The Revenant packs marketplace — Agent Skills packs for Claude. |
+| 8 | [Turki-Sh/Foreman](https://github.com/Turki-Sh/Foreman) | 15 | HTML | 2026-08-11 | A build playbook that turns your coding agent into the foreman of a website build. It interviews you, forces the design  |
+| 9 | [saagpatel/prompt-englab](https://github.com/saagpatel/prompt-englab) | 0 | TypeScript | 2026-08-11 | Full-stack prompt engineering workbench — multi-provider streaming, version diffs, A/B comparison, test cases, cost trac |
+| 10 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-08-11 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
+| 11 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 156 | HTML | 2026-08-11 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
+| 12 | [lexy-noh/work-command-center](https://github.com/lexy-noh/work-command-center) | 0 | — | 2026-08-11 | A natural-language work tracking system designed to turn everyday work context into an evolving source of truth. |
+| 13 | [benjaminstelzer/scoville-scribe-anti-ai-slop](https://github.com/benjaminstelzer/scoville-scribe-anti-ai-slop) | 0 | — | 2026-08-11 | Better writing without quietly changing the facts. |
+| 14 | [AgustiPuigserver/opus-prompt-architect](https://github.com/AgustiPuigserver/opus-prompt-architect) | 155 | HTML | 2026-08-11 | Best Prompt Engineering Tools for 2026 AI Workflow Optimization |
+| 15 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-11 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 16 | [heavenaruba/codified-prompt-rule-engine](https://github.com/heavenaruba/codified-prompt-rule-engine) | 156 | HTML | 2026-08-11 | Top 10 Claude Prompt Optimization Frameworks 2026 |
+| 17 | [luckyrjain/software-builder](https://github.com/luckyrjain/software-builder) | 0 | Python | 2026-08-11 | Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org |
+| 18 | [duongnhatthang/attention-budget-harness](https://github.com/duongnhatthang/attention-budget-harness) | 0 | — | 2026-08-11 | A prompt harness for AI-assisted reasoning where a human is the only verifier and their attention is the scarce resource |
+| 19 | [5uprem4/ai-skill-vault](https://github.com/5uprem4/ai-skill-vault) | 3 | HTML | 2026-08-11 | Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub |
+| 20 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21314 | Python | 2026-08-11 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 21 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 857 | Swift | 2026-08-11 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
+| 22 | [hysohail/agentic-experiment-designer](https://github.com/hysohail/agentic-experiment-designer) | 1 | HTML | 2026-08-11 | Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement |
+| 23 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 151 | HTML | 2026-08-11 | HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code |
+| 24 | [Q00/ouroboros](https://github.com/Q00/ouroboros) | 5380 | Python | 2026-08-11 | Agent OS: Stop prompting. Start specifying. A Socratic interview gates the spec on an ambiguity score, then one command  |
+| 25 | [TegarTheGreat/SuperMD](https://github.com/TegarTheGreat/SuperMD) | 0 | JavaScript | 2026-08-11 | A universal anti-slop system prompt for any profession. Pure Markdown, composable (universal core + per-field domain mod |
+| 26 | [renoise-ai/awesome-seedance-prompts](https://github.com/renoise-ai/awesome-seedance-prompts) | 3 | TypeScript | 2026-08-11 | A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to |
 | 27 | [yahyambk57-stack/Ai-Object-Isolation-Toolkit](https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit) | 50 | HTML | 2026-08-11 | 2026 Next-Gen AI Photo Background Remover & Object Removal Tool |
 | 28 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 12 | Python | 2026-08-11 | Engineering best practices that AI coding agents actually apply — 40+ skills, from secure coding and cloud to compliance |
 | 29 | [rockerlabs/keel](https://github.com/rockerlabs/keel) | 2 | Shell | 2026-08-11 | A thin, model-agnostic layer for what an AI agent loads, when, and how much — principles + plain-Bash tools. |
