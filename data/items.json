@@ -1,5 +1,23 @@
 [
   {
+    "description": "Claude skill that writes human-sounding English, Russian and Ukrainian, plus a zero-dependency detector for AI writing p",
+    "id": "GitVoytenko/anti-ai-slop-writing",
+    "language": "JavaScript",
+    "name": "GitVoytenko/anti-ai-slop-writing",
+    "stars": 0,
+    "updated_at": "2026-08-11T15:14:30Z",
+    "url": "https://github.com/GitVoytenko/anti-ai-slop-writing"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-11T15:13:39Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Prompt Runner SDK - Elixir toolkit for orchestrating multi-step prompt executions with Claude Code SDK and Codex SDK. St",
     "id": "nshkrdotcom/prompt_runner_sdk",
     "language": "Elixir",
@@ -7,6 +25,24 @@
     "stars": 2,
     "updated_at": "2026-08-11T15:13:07Z",
     "url": "https://github.com/nshkrdotcom/prompt_runner_sdk"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24131,
+    "updated_at": "2026-08-11T15:11:38Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "An AI Agent skill for automated pre-commit code review and local quality gating before you commit.",
+    "id": "junit/pre-commit-review",
+    "language": "Rust",
+    "name": "junit/pre-commit-review",
+    "stars": 6,
+    "updated_at": "2026-08-11T15:10:39Z",
+    "url": "https://github.com/junit/pre-commit-review"
   },
   {
     "description": "Production-oriented Enterprise AI engineering utilities for LLM optimization, AI FinOps, reliability, and scalability.",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10995,
-    "updated_at": "2026-08-11T15:09:43Z",
+    "updated_at": "2026-08-11T15:15:00Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -162,15 +198,6 @@
     "url": "https://github.com/mikaeltorni/programming_prompts"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-11T15:00:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
     "id": "llwslc/proteus",
     "language": "HTML",
@@ -187,6 +214,15 @@
     "stars": 13,
     "updated_at": "2026-08-11T14:59:52Z",
     "url": "https://github.com/aabrur/hypertaks-agent"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 37691,
+    "updated_at": "2026-08-11T15:14:54Z",
+    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-11T15:05:44Z",
+    "updated_at": "2026-08-11T15:15:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T14:54:23Z",
     "url": "https://github.com/sernoxxx/prompt-boost"
-  },
-  {
-    "description": "Claude skill that writes human-sounding English, Russian and Ukrainian, plus a zero-dependency detector for AI writing p",
-    "id": "GitVoytenko/anti-ai-slop-writing",
-    "language": "JavaScript",
-    "name": "GitVoytenko/anti-ai-slop-writing",
-    "stars": 0,
-    "updated_at": "2026-08-11T15:09:46Z",
-    "url": "https://github.com/GitVoytenko/anti-ai-slop-writing"
   },
   {
     "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
@@ -382,7 +409,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 97458,
+    "stars": 97457,
     "updated_at": "2026-08-11T14:46:20Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-11T14:43:49Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 123,
-    "updated_at": "2026-08-11T14:42:58Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "OhMyStyle helps image-generation users apply specific visual styles more consistently by combining reference-backed styl",
-    "id": "ZhouYinLong-lab/OhMyStyle",
-    "language": "Python",
-    "name": "ZhouYinLong-lab/OhMyStyle",
-    "stars": 1,
-    "updated_at": "2026-08-11T14:42:49Z",
-    "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
-  },
-  {
-    "description": "90-style visual prompt atlas comparing ChatGPT and Gemini outputs",
-    "id": "leky90/image-styles",
-    "language": "CSS",
-    "name": "leky90/image-styles",
-    "stars": 0,
-    "updated_at": "2026-08-11T14:42:23Z",
-    "url": "https://github.com/leky90/image-styles"
   }
 ]
