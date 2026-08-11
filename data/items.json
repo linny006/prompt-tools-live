@@ -1,11 +1,128 @@
 [
   {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-08-11T21:28:27Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Grok / xAI Tools \u2013 Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi",
+    "id": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "language": "\u2014",
+    "name": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "stars": 0,
+    "updated_at": "2026-08-11T21:28:15Z",
+    "url": "https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite"
+  },
+  {
+    "description": "Midjourney \u2013 A Windows desktop tool for managing prompts and generating AI art with enhanced features.",
+    "id": "axonsreenact-24/Midjourney-Desktop-Enhancer-Suite",
+    "language": "\u2014",
+    "name": "axonsreenact-24/Midjourney-Desktop-Enhancer-Suite",
+    "stars": 0,
+    "updated_at": "2026-08-11T21:28:13Z",
+    "url": "https://github.com/axonsreenact-24/Midjourney-Desktop-Enhancer-Suite"
+  },
+  {
+    "description": "Agent OS: Stop prompting. Start specifying. A Socratic interview gates the spec on an ambiguity score, then one command ",
+    "id": "Q00/ouroboros",
+    "language": "Python",
+    "name": "Q00/ouroboros",
+    "stars": 5381,
+    "updated_at": "2026-08-11T21:26:30Z",
+    "url": "https://github.com/Q00/ouroboros"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 65964,
+    "updated_at": "2026-08-11T21:25:36Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 51,
+    "updated_at": "2026-08-11T21:25:18Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 28,
+    "updated_at": "2026-08-11T21:25:03Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-11T21:24:30Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "One workflow framework, every coding agent. Install your AI-coding discipline into Claude Code, Cursor, GitHub Copilot, ",
+    "id": "lee77840/omniconductor",
+    "language": "Shell",
+    "name": "lee77840/omniconductor",
+    "stars": 0,
+    "updated_at": "2026-08-11T21:22:49Z",
+    "url": "https://github.com/lee77840/omniconductor"
+  },
+  {
+    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
+    "id": "adrianwedd/cv",
+    "language": "JavaScript",
+    "name": "adrianwedd/cv",
+    "stars": 4,
+    "updated_at": "2026-08-11T21:21:40Z",
+    "url": "https://github.com/adrianwedd/cv"
+  },
+  {
+    "description": "ComfyUI custom node for generating structured multi-character scene prompts with spatial layout control. Designed for Id",
+    "id": "elliefox-ai/comfyui-scene-generator",
+    "language": "Python",
+    "name": "elliefox-ai/comfyui-scene-generator",
+    "stars": 0,
+    "updated_at": "2026-08-11T21:21:27Z",
+    "url": "https://github.com/elliefox-ai/comfyui-scene-generator"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-11T21:21:00Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-11T21:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Open-source Claude Code skills that bring planning, building, and verification gates to agentic coding workflows.",
     "id": "adamlinscott/claude-skills",
     "language": "TypeScript",
     "name": "adamlinscott/claude-skills",
     "stars": 3,
-    "updated_at": "2026-08-11T21:13:05Z",
+    "updated_at": "2026-08-11T21:27:27Z",
     "url": "https://github.com/adamlinscott/claude-skills"
   },
   {
@@ -58,8 +175,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10996,
-    "updated_at": "2026-08-11T21:09:03Z",
+    "stars": 10997,
+    "updated_at": "2026-08-11T21:27:54Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -108,15 +225,6 @@
     "url": "https://github.com/ryanportfolio/savetokens"
   },
   {
-    "description": "ComfyUI custom node for generating structured multi-character scene prompts with spatial layout control. Designed for Id",
-    "id": "elliefox-ai/comfyui-scene-generator",
-    "language": "Python",
-    "name": "elliefox-ai/comfyui-scene-generator",
-    "stars": 0,
-    "updated_at": "2026-08-11T21:02:25Z",
-    "url": "https://github.com/elliefox-ai/comfyui-scene-generator"
-  },
-  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -124,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T21:01:58Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-11T21:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -266,7 +365,7 @@
     "language": "Python",
     "name": "luckyrjain/software-builder",
     "stars": 0,
-    "updated_at": "2026-08-11T21:15:06Z",
+    "updated_at": "2026-08-11T21:30:05Z",
     "url": "https://github.com/luckyrjain/software-builder"
   },
   {
@@ -302,7 +401,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32899,
-    "updated_at": "2026-08-11T20:47:41Z",
+    "updated_at": "2026-08-11T21:26:22Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -333,15 +432,6 @@
     "url": "https://github.com/kaderkck/hewn-forge"
   },
   {
-    "description": "Agent OS: Stop prompting. Start specifying. A Socratic interview gates the spec on an ambiguity score, then one command ",
-    "id": "Q00/ouroboros",
-    "language": "Python",
-    "name": "Q00/ouroboros",
-    "stars": 5380,
-    "updated_at": "2026-08-11T20:46:20Z",
-    "url": "https://github.com/Q00/ouroboros"
-  },
-  {
     "description": "A universal anti-slop system prompt for any profession. Pure Markdown, composable (universal core + per-field domain mod",
     "id": "TegarTheGreat/SuperMD",
     "language": "JavaScript",
@@ -358,95 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-11T20:45:32Z",
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-11T20:45:21Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 12,
-    "updated_at": "2026-08-11T20:45:04Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-08-11T20:44:29Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-08-11T20:44:19Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-08-11T20:43:56Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Python service that turns KPI tables into executive narratives with Azure OpenAI, gated by a deterministic hallucination",
-    "id": "MallikaChunduru/kpi-narrator",
-    "language": "Python",
-    "name": "MallikaChunduru/kpi-narrator",
-    "stars": 0,
-    "updated_at": "2026-08-11T20:43:23Z",
-    "url": "https://github.com/MallikaChunduru/kpi-narrator"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-08-11T20:43:20Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-08-11T20:43:20Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 1,
-    "updated_at": "2026-08-11T20:42:54Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-11T20:42:25Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   }
 ]
