@@ -1,5 +1,86 @@
 [
   {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 17,
+    "updated_at": "2026-08-11T02:59:51Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "JavaScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 10140,
+    "updated_at": "2026-08-11T02:58:12Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "Keep CLAUDE.md fitted \u2014 to the model that reads it, and to how you actually work",
+    "id": "pueding/houserules",
+    "language": "Python",
+    "name": "pueding/houserules",
+    "stars": 0,
+    "updated_at": "2026-08-11T02:56:29Z",
+    "url": "https://github.com/pueding/houserules"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-08-11T02:55:48Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24118,
+    "updated_at": "2026-08-11T02:56:31Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "25 fixed illustration styles for Codex: 9 skills, prompt recipes, and visual references",
+    "id": "yokel1121/muyang-illustration-skills",
+    "language": "\u2014",
+    "name": "yokel1121/muyang-illustration-skills",
+    "stars": 0,
+    "updated_at": "2026-08-11T02:53:34Z",
+    "url": "https://github.com/yokel1121/muyang-illustration-skills"
+  },
+  {
+    "description": "\ud83c\udf75 Deliberate engineering guidelines & deterministic lifecycle safety hooks to enforce planning, prevent bloat, and block",
+    "id": "plumpslabs/matcha",
+    "language": "JavaScript",
+    "name": "plumpslabs/matcha",
+    "stars": 1,
+    "updated_at": "2026-08-11T02:53:05Z",
+    "url": "https://github.com/plumpslabs/matcha"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-11T02:50:42Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-11T02:50:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T02:47:04Z",
     "url": "https://github.com/CHRISTIANSEBO/LLMQA"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-11T02:45:41Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -124,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T02:39:49Z",
     "url": "https://github.com/elanthus/news-briefing"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24118,
-    "updated_at": "2026-08-11T02:39:18Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A grammar for the language forming between humans and LLMs \u2014 21 prompt conventions with an explicit evidence standard, d",
@@ -252,6 +315,15 @@
     "url": "https://github.com/joeblackwaslike/lessons-learned"
   },
   {
+    "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
+    "id": "vllm-project/semantic-router",
+    "language": "Go",
+    "name": "vllm-project/semantic-router",
+    "stars": 5133,
+    "updated_at": "2026-08-11T02:58:32Z",
+    "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
     "description": "Architecture-first workflow for coding agents to make cleaner, safer, more current code changes.",
     "id": "oddyblue/Less-Is-More-Skill",
     "language": "\u2014",
@@ -277,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T02:12:35Z",
     "url": "https://github.com/nitagon0083/SpriteSystem"
-  },
-  {
-    "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
-    "id": "vllm-project/semantic-router",
-    "language": "Go",
-    "name": "vllm-project/semantic-router",
-    "stars": 5132,
-    "updated_at": "2026-08-11T02:17:24Z",
-    "url": "https://github.com/vllm-project/semantic-router"
   },
   {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
@@ -355,7 +418,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 41772,
+    "stars": 41775,
     "updated_at": "2026-08-11T02:05:36Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T02:04:29Z",
     "url": "https://github.com/ndisisnd/wdym"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 155,
-    "updated_at": "2026-08-11T02:04:21Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 1997,
-    "updated_at": "2026-08-11T02:03:58Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "AI agent orchestration kit for Windows, Linux/MacOS with Codex skills, hooks, routing rules and profiles for Claude, Ope",
-    "id": "IAPro-Community/Orquestrador-Maestro",
-    "language": "Python",
-    "name": "IAPro-Community/Orquestrador-Maestro",
-    "stars": 37,
-    "updated_at": "2026-08-11T02:03:40Z",
-    "url": "https://github.com/IAPro-Community/Orquestrador-Maestro"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 156,
-    "updated_at": "2026-08-11T02:02:36Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1816,
-    "updated_at": "2026-08-11T01:58:09Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-    "id": "kyegomez/swarms",
-    "language": "Python",
-    "name": "kyegomez/swarms",
-    "stars": 7040,
-    "updated_at": "2026-08-11T01:55:23Z",
-    "url": "https://github.com/kyegomez/swarms"
-  },
-  {
-    "description": "Curated collection of reusable JSON prompt templates & style references for AI image generation. Updated daily.",
-    "id": "VigoZhao/AI-Visual-Prompt-Cookbook",
-    "language": "Python",
-    "name": "VigoZhao/AI-Visual-Prompt-Cookbook",
-    "stars": 545,
-    "updated_at": "2026-08-11T01:53:43Z",
-    "url": "https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook"
   }
 ]
