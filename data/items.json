@@ -1,11 +1,65 @@
 [
   {
+    "description": "\ud83c\udfae AI-Powered Career Skills SIMulator",
+    "id": "lf1up/careersim",
+    "language": "TypeScript",
+    "name": "lf1up/careersim",
+    "stars": 24,
+    "updated_at": "2026-08-11T00:27:58Z",
+    "url": "https://github.com/lf1up/careersim"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27454,
+    "updated_at": "2026-08-11T00:28:52Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Collapse a git branch into one text file for an LLM prompt \u2014 full diff plus the complete contents of every file that act",
+    "id": "dbuslaev/git-branch-context",
+    "language": "\u2014",
+    "name": "dbuslaev/git-branch-context",
+    "stars": 0,
+    "updated_at": "2026-08-11T00:23:55Z",
+    "url": "https://github.com/dbuslaev/git-branch-context"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 51,
+    "updated_at": "2026-08-11T00:20:05Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Prompt Runner SDK - Elixir toolkit for orchestrating multi-step prompt executions with Claude Code SDK and Codex SDK. St",
+    "id": "nshkrdotcom/prompt_runner_sdk",
+    "language": "Elixir",
+    "name": "nshkrdotcom/prompt_runner_sdk",
+    "stars": 2,
+    "updated_at": "2026-08-11T00:17:46Z",
+    "url": "https://github.com/nshkrdotcom/prompt_runner_sdk"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-11T00:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10978,
-    "updated_at": "2026-08-11T00:15:17Z",
+    "updated_at": "2026-08-11T00:28:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 13182,
     "updated_at": "2026-08-11T00:10:33Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Prompt Runner SDK - Elixir toolkit for orchestrating multi-step prompt executions with Claude Code SDK and Codex SDK. St",
-    "id": "nshkrdotcom/prompt_runner_sdk",
-    "language": "Elixir",
-    "name": "nshkrdotcom/prompt_runner_sdk",
-    "stars": 2,
-    "updated_at": "2026-08-11T00:08:38Z",
-    "url": "https://github.com/nshkrdotcom/prompt_runner_sdk"
   },
   {
     "description": "Universal Agent Builder \u4e07\u80fdAgent\u6784\u5efa\u5668 \u2014 10-layer spec-driven agent development framework with 6 framework adapters (LangGra",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "axiomantic/spellbook",
     "stars": 8,
-    "updated_at": "2026-08-11T00:09:44Z",
+    "updated_at": "2026-08-11T00:19:16Z",
     "url": "https://github.com/axiomantic/spellbook"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 20,
     "updated_at": "2026-08-11T00:02:28Z",
     "url": "https://github.com/mehrad-dm/mastermind"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-11T00:00:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -234,15 +270,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27454,
-    "updated_at": "2026-08-10T23:51:46Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Prompt security scanner and source-grounded multi-agent research studio",
     "id": "mzatylny/aegis_prompt_studio",
     "language": "Python",
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "DavidValin/universal-prompt-language",
     "stars": 3,
-    "updated_at": "2026-08-10T23:43:40Z",
+    "updated_at": "2026-08-11T00:18:37Z",
     "url": "https://github.com/DavidValin/universal-prompt-language"
   },
   {
@@ -364,7 +391,7 @@
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
-    "stars": 855,
+    "stars": 856,
     "updated_at": "2026-08-10T23:35:50Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T23:34:38Z",
     "url": "https://github.com/XxYouDeaDPunKxX/ai-protocol-kit"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-10T23:31:27Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-10T23:29:20Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "Claude Code skills for running models cost-effectively: security gates (secret scanner, commit-gate), model-quality tool",
-    "id": "Evan-Daruwalla/claude-skill-suite",
-    "language": "JavaScript",
-    "name": "Evan-Daruwalla/claude-skill-suite",
-    "stars": 0,
-    "updated_at": "2026-08-10T23:29:13Z",
-    "url": "https://github.com/Evan-Daruwalla/claude-skill-suite"
   }
 ]
