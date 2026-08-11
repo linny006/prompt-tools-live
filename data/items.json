@@ -1,10 +1,46 @@
 [
   {
+    "description": "A build playbook that turns your coding agent into the foreman of a website build. It interviews you, forces the design ",
+    "id": "Turki-Sh/Foreman",
+    "language": "HTML",
+    "name": "Turki-Sh/Foreman",
+    "stars": 4,
+    "updated_at": "2026-08-11T07:31:52Z",
+    "url": "https://github.com/Turki-Sh/Foreman"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32865,
+    "updated_at": "2026-08-11T07:31:29Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ucd08\uae09\uc790\ub97c \uc704\ud55c AI Engineer 100\uc77c \ucee4\ub9ac\ud058\ub7fc \u2014 Python\ubd80\ud130 RAG\uae4c\uc9c0 + \ub9e4\uc77c AI \ub274\uc2a4 \uc790\ub3d9 \ud050\ub808\uc774\uc158",
+    "id": "kimsanguine/AI_Human",
+    "language": "Shell",
+    "name": "kimsanguine/AI_Human",
+    "stars": 1,
+    "updated_at": "2026-08-11T07:30:29Z",
+    "url": "https://github.com/kimsanguine/AI_Human"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-11T07:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "HERO = Hashing \u00b7 Edge cases \u00b7 Rubrics \u00b7 Overbuild \u2014 the four shapes coding agents over-defend in. A paste-in contract th",
     "id": "wanshuiyin/HERO-Anti-OverDefense",
     "language": "Markdown",
     "name": "wanshuiyin/HERO-Anti-OverDefense",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-08-11T07:30:05Z",
     "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense"
   },
@@ -18,12 +54,30 @@
     "url": "https://github.com/flexigpt/flexigpt-app"
   },
   {
-    "description": "Advanced multilingual AI writing and humanizer toolkit for natural prose, scene continuity, semantic fidelity, and genre",
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 41833,
+    "updated_at": "2026-08-11T07:30:00Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Agent OS: Stop prompting. Start specifying. A Socratic interview gates the spec on an ambiguity score, then one command ",
+    "id": "Q00/ouroboros",
+    "language": "Python",
+    "name": "Q00/ouroboros",
+    "stars": 5376,
+    "updated_at": "2026-08-11T07:29:28Z",
+    "url": "https://github.com/Q00/ouroboros"
+  },
+  {
+    "description": "Advanced multilingual AI humanizer and writing toolkit for natural prose, voice preservation, long-form continuity, and ",
     "id": "whh110112/human-writing-skills",
     "language": "Python",
     "name": "whh110112/human-writing-skills",
     "stars": 0,
-    "updated_at": "2026-08-11T07:29:03Z",
+    "updated_at": "2026-08-11T07:31:59Z",
     "url": "https://github.com/whh110112/human-writing-skills"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T07:27:43Z",
     "url": "https://github.com/ParkerHwang/OpenSocrates"
-  },
-  {
-    "description": "\ucd08\uae09\uc790\ub97c \uc704\ud55c AI Engineer 100\uc77c \ucee4\ub9ac\ud058\ub7fc \u2014 Python\ubd80\ud130 RAG\uae4c\uc9c0 + \ub9e4\uc77c AI \ub274\uc2a4 \uc790\ub3d9 \ud050\ub808\uc774\uc158",
-    "id": "kimsanguine/AI_Human",
-    "language": "Shell",
-    "name": "kimsanguine/AI_Human",
-    "stars": 1,
-    "updated_at": "2026-08-11T07:26:08Z",
-    "url": "https://github.com/kimsanguine/AI_Human"
   },
   {
     "description": "Helen Agent Develop Language ",
@@ -216,15 +261,6 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-11T07:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A reusable Agent Skill for senior-level software engineering workflows: requirements analysis, repository exploration, a",
     "id": "kunkun9494/senior-software-engineering-agent-skill",
     "language": "Python",
@@ -232,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T07:14:52Z",
     "url": "https://github.com/kunkun9494/senior-software-engineering-agent-skill"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 41833,
-    "updated_at": "2026-08-11T07:30:00Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "Kill learned helplessness in AI coding agents. A/B-benchmarked skill for Claude Code, Codex, Cursor: no more 'unsolved, ",
@@ -288,15 +315,6 @@
     "url": "https://github.com/hysohail/agentic-experiment-designer"
   },
   {
-    "description": "Agent OS: Stop prompting. Start specifying. A Socratic interview gates the spec on an ambiguity score, then one command ",
-    "id": "Q00/ouroboros",
-    "language": "Python",
-    "name": "Q00/ouroboros",
-    "stars": 5375,
-    "updated_at": "2026-08-11T07:29:28Z",
-    "url": "https://github.com/Q00/ouroboros"
-  },
-  {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
     "id": "kaderkck/hewn-forge",
     "language": "HTML",
@@ -313,15 +331,6 @@
     "stars": 3187,
     "updated_at": "2026-08-11T07:09:35Z",
     "url": "https://github.com/Jia-Ethan/codex-keysmith"
-  },
-  {
-    "description": "A build playbook that turns your coding agent into the foreman of a website build. It interviews you, forces the design ",
-    "id": "Turki-Sh/Foreman",
-    "language": "HTML",
-    "name": "Turki-Sh/Foreman",
-    "stars": 4,
-    "updated_at": "2026-08-11T07:08:46Z",
-    "url": "https://github.com/Turki-Sh/Foreman"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-11T07:00:14Z",
     "url": "https://github.com/jeb-maker/lagent-quotidien"
-  },
-  {
-    "description": "Your personal prompt library \u2014 organized automatically, always within reach.",
-    "id": "mehdirt/Deja",
-    "language": "TypeScript",
-    "name": "mehdirt/Deja",
-    "stars": 0,
-    "updated_at": "2026-08-11T07:00:13Z",
-    "url": "https://github.com/mehdirt/Deja"
   }
 ]
