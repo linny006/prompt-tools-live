@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open standard for creating, reviewing and evaluating AI-generated content that reads naturally and authentically. Includ",
+    "id": "dev-ik/human-writing-rules",
+    "language": "Python",
+    "name": "dev-ik/human-writing-rules",
+    "stars": 1,
+    "updated_at": "2026-08-12T14:40:20Z",
+    "url": "https://github.com/dev-ik/human-writing-rules"
+  },
+  {
+    "description": "Local-first context-window profiler for LLM apps: inspect token composition, compare prompt versions, and fail CI on con",
+    "id": "Dtdkvn/ctxprof",
+    "language": "TypeScript",
+    "name": "Dtdkvn/ctxprof",
+    "stars": 0,
+    "updated_at": "2026-08-12T14:40:27Z",
+    "url": "https://github.com/Dtdkvn/ctxprof"
+  },
+  {
+    "description": "Explorador interactivo de system prompts para modelos de IA y entornos Arena.",
+    "id": "borjamoskv/arena-system-prompts-explorer",
+    "language": "Python",
+    "name": "borjamoskv/arena-system-prompts-explorer",
+    "stars": 0,
+    "updated_at": "2026-08-12T14:36:29Z",
+    "url": "https://github.com/borjamoskv/arena-system-prompts-explorer"
+  },
+  {
+    "description": "A prompt library for AI agents and assistants.",
+    "id": "is-leeroy-jenkins/Guro",
+    "language": "Python",
+    "name": "is-leeroy-jenkins/Guro",
+    "stars": 10,
+    "updated_at": "2026-08-12T14:34:17Z",
+    "url": "https://github.com/is-leeroy-jenkins/Guro"
+  },
+  {
+    "description": "Deep reasoning engine rules designed for agents \u2014 activate deep reasoning potential, making agents smarter, more rigorou",
+    "id": "xhqing/AgentCortex",
+    "language": "\u2014",
+    "name": "xhqing/AgentCortex",
+    "stars": 0,
+    "updated_at": "2026-08-12T14:34:15Z",
+    "url": "https://github.com/xhqing/AgentCortex"
+  },
+  {
+    "description": "Open-source Python toolkit for structured AI cinematic workflows, scene planning, prompt generation, continuity validati",
+    "id": "XtolNguyen/ai-cinematic-workflow-toolkit",
+    "language": "Python",
+    "name": "XtolNguyen/ai-cinematic-workflow-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-12T14:34:09Z",
+    "url": "https://github.com/XtolNguyen/ai-cinematic-workflow-toolkit"
+  },
+  {
+    "description": "\u7194\u70bc\u4e5d\u58f0\u90e8\u667a\u6167\u7684\u7cbe\u795e\u5bfc\u5e08 AI\u2014\u2014\u5148\u8bca\u65ad\u3001\u518d\u5f00\u65b9\u3001\u540e\u7ed9\u884c\u52a8",
+    "id": "lubical/MingMirror",
+    "language": "Dart",
+    "name": "lubical/MingMirror",
+    "stars": 0,
+    "updated_at": "2026-08-12T14:34:00Z",
+    "url": "https://github.com/lubical/MingMirror"
+  },
+  {
+    "description": "AI Firewall & LLM security toolkit - protect your AI applications from prompt injection, jailbreaks, PII leakage, and ad",
+    "id": "CollieAi/llm-firewall",
+    "language": "\u2014",
+    "name": "CollieAi/llm-firewall",
+    "stars": 43,
+    "updated_at": "2026-08-12T14:33:33Z",
+    "url": "https://github.com/CollieAi/llm-firewall"
+  },
+  {
+    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
+    "id": "kreftamarcio/prompt-forge",
+    "language": "TypeScript",
+    "name": "kreftamarcio/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-08-12T14:31:32Z",
+    "url": "https://github.com/kreftamarcio/prompt-forge"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 463,
+    "updated_at": "2026-08-12T14:34:44Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-12T14:30:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Design intelligence OS for AI coding agents \u2014 one prompt in, Stripe-grade UI out.",
     "id": "ardamoustafa1/DesignOS",
     "language": "JavaScript",
@@ -9,13 +108,22 @@
     "url": "https://github.com/ardamoustafa1/DesignOS"
   },
   {
-    "description": "Deep reasoning engine rules designed for agents \u2014 activate deep reasoning potential, making agents smarter, more rigorou",
-    "id": "xhqing/AgentCortex",
-    "language": "\u2014",
-    "name": "xhqing/AgentCortex",
-    "stars": 0,
-    "updated_at": "2026-08-12T14:29:33Z",
-    "url": "https://github.com/xhqing/AgentCortex"
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27481,
+    "updated_at": "2026-08-12T14:28:12Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 18,
+    "updated_at": "2026-08-12T14:28:11Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
     "description": "AIOS is a repository-driven AI engineering framework that standardizes how AI assistants collaborate with software proje",
@@ -41,17 +149,17 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 32965,
-    "updated_at": "2026-08-12T14:27:17Z",
+    "updated_at": "2026-08-12T14:40:16Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
-    "id": "mrwogu/promptscript",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
     "language": "TypeScript",
-    "name": "mrwogu/promptscript",
-    "stars": 463,
-    "updated_at": "2026-08-12T14:28:26Z",
-    "url": "https://github.com/mrwogu/promptscript"
+    "name": "promptfoo/promptfoo",
+    "stars": 24165,
+    "updated_at": "2026-08-12T14:26:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Hypertaks = \"A founder who owns a library of more than 1,400 books, knows exactly which book to consult for this issue, ",
@@ -95,17 +203,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-12T14:28:25Z",
+    "updated_at": "2026-08-12T14:35:30Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 18,
-    "updated_at": "2026-08-12T14:28:11Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -171,15 +270,6 @@
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-12T14:15:42Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
     "id": "tech-guru254/spec-weaver",
     "language": "HTML",
@@ -230,7 +320,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11014,
-    "updated_at": "2026-08-12T14:07:02Z",
+    "updated_at": "2026-08-12T14:40:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -243,15 +333,6 @@
     "url": "https://github.com/koco-co/build-goals"
   },
   {
-    "description": "\u7194\u70bc\u4e5d\u58f0\u90e8\u667a\u6167\u7684\u7cbe\u795e\u5bfc\u5e08 AI\u2014\u2014\u5148\u8bca\u65ad\u3001\u518d\u5f00\u65b9\u3001\u540e\u7ed9\u884c\u52a8",
-    "id": "lubical/MingMirror",
-    "language": "Dart",
-    "name": "lubical/MingMirror",
-    "stars": 0,
-    "updated_at": "2026-08-12T14:03:46Z",
-    "url": "https://github.com/lubical/MingMirror"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -259,24 +340,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T14:01:14Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Open-source Python toolkit for structured AI cinematic workflows, scene planning, prompt generation, continuity validati",
-    "id": "XtolNguyen/ai-cinematic-workflow-toolkit",
-    "language": "Python",
-    "name": "XtolNguyen/ai-cinematic-workflow-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-12T14:00:42Z",
-    "url": "https://github.com/XtolNguyen/ai-cinematic-workflow-toolkit"
-  },
-  {
-    "description": "Local-first context-window profiler for LLM apps: inspect token composition, compare prompt versions, and fail CI on con",
-    "id": "Dtdkvn/ctxprof",
-    "language": "TypeScript",
-    "name": "Dtdkvn/ctxprof",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:56:46Z",
-    "url": "https://github.com/Dtdkvn/ctxprof"
   },
   {
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
@@ -347,7 +410,7 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-08-12T14:13:26Z",
+    "updated_at": "2026-08-12T14:40:28Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T13:47:43Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "\u4e00\u5957\u4f1a\u4e0b\u5224\u65ad\u7684\u5e7f\u544a\u7b56\u7565\u65b9\u6cd5\u8bba\u3002Claude Skill + ChatGPT \u53cc\u7248\u672c",
-    "id": "Hankgoods/ad-master",
-    "language": "\u2014",
-    "name": "Hankgoods/ad-master",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:46:15Z",
-    "url": "https://github.com/Hankgoods/ad-master"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:45:33Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-12T13:45:17Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "",
-    "id": "Dali8029/storyboard-video-prompt",
-    "language": "\u2014",
-    "name": "Dali8029/storyboard-video-prompt",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:41:53Z",
-    "url": "https://github.com/Dali8029/storyboard-video-prompt"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:41:40Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-12T13:39:55Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
-    "id": "evilstar2016/skill-doctor",
-    "language": "TypeScript",
-    "name": "evilstar2016/skill-doctor",
-    "stars": 5,
-    "updated_at": "2026-08-12T13:39:30Z",
-    "url": "https://github.com/evilstar2016/skill-doctor"
   }
 ]
