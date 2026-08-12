@@ -1,11 +1,20 @@
 [
   {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 3,
+    "updated_at": "2026-08-12T03:45:16Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
     "description": "82 ready-to-deploy Microsoft Copilot Chat agents \u2014 paste the instruction block into Copilot Studio and you're live. Writ",
     "id": "kesslernity/awesome-copilot-chat-agents",
     "language": "\u2014",
     "name": "kesslernity/awesome-copilot-chat-agents",
     "stars": 93,
-    "updated_at": "2026-08-12T03:30:27Z",
+    "updated_at": "2026-08-12T03:42:30Z",
     "url": "https://github.com/kesslernity/awesome-copilot-chat-agents"
   },
   {
@@ -14,7 +23,7 @@
     "language": "\u2014",
     "name": "kesslernity/awesome-copilot-studio-agents",
     "stars": 461,
-    "updated_at": "2026-08-12T03:30:25Z",
+    "updated_at": "2026-08-12T03:42:28Z",
     "url": "https://github.com/kesslernity/awesome-copilot-studio-agents"
   },
   {
@@ -23,15 +32,114 @@
     "language": "\u2014",
     "name": "kesslernity/awesome-microsoft-copilot-prompts",
     "stars": 483,
-    "updated_at": "2026-08-12T03:30:23Z",
+    "updated_at": "2026-08-12T03:42:26Z",
     "url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts"
+  },
+  {
+    "description": "MiniMax H3 \u5b98\u65b9 Skills \u7684\u53ef\u89c6\u5316\u53d1\u73b0\u4e0e\u53c2\u8003\u7ad9\u70b9 \u00b7 A visual discovery & reference index for the official MiniMax H3 Skills (independent ",
+    "id": "gordonlu/awesome-minimax-h3-skills",
+    "language": "JavaScript",
+    "name": "gordonlu/awesome-minimax-h3-skills",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:42:06Z",
+    "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21318,
+    "updated_at": "2026-08-12T03:41:00Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24145,
+    "updated_at": "2026-08-12T03:41:17Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A runtime-neutral starter for building candid, corrigible, systems-oriented AI agents\u2014with a portable SOUL, governed ope",
+    "id": "robertaustinbell/bobert-agent-template",
+    "language": "Python",
+    "name": "robertaustinbell/bobert-agent-template",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:38:53Z",
+    "url": "https://github.com/robertaustinbell/bobert-agent-template"
+  },
+  {
+    "description": "Design notes on memory, state, and interaction architecture for persistent LLM agents.",
+    "id": "Negative-Absence/anchoring",
+    "language": "\u2014",
+    "name": "Negative-Absence/anchoring",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:37:47Z",
+    "url": "https://github.com/Negative-Absence/anchoring"
+  },
+  {
+    "description": "A reusable AI workflow for extending miniature and model photography into believable real-world scenes while preserving ",
+    "id": "Dookode/model-photo-world-extension",
+    "language": "\u2014",
+    "name": "Dookode/model-photo-world-extension",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:36:12Z",
+    "url": "https://github.com/Dookode/model-photo-world-extension"
+  },
+  {
+    "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
+    "id": "MihirKJha/enterprise-ai-engineering-handbook",
+    "language": "\u2014",
+    "name": "MihirKJha/enterprise-ai-engineering-handbook",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:35:09Z",
+    "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-08-12T03:33:53Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
+    "id": "Rosmarinusofficinalispoloneck995/anti-slop",
+    "language": "\u2014",
+    "name": "Rosmarinusofficinalispoloneck995/anti-slop",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:31:37Z",
+    "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
+  },
+  {
+    "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
+    "id": "variant-thripidae875/sols-rng-win-script-hub",
+    "language": "HTML",
+    "name": "variant-thripidae875/sols-rng-win-script-hub",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:31:37Z",
+    "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-12T03:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make i",
     "id": "Q00/ouroboros",
     "language": "Python",
     "name": "Q00/ouroboros",
-    "stars": 5386,
+    "stars": 5387,
     "updated_at": "2026-08-12T03:30:04Z",
     "url": "https://github.com/Q00/ouroboros"
   },
@@ -144,15 +252,6 @@
     "url": "https://github.com/Norinatiring463/loop-engineering"
   },
   {
-    "description": "MiniMax H3 \u5b98\u65b9 Skills \u7684\u53ef\u89c6\u5316\u53d1\u73b0\u4e0e\u53c2\u8003\u7ad9\u70b9 \u00b7 A visual discovery & reference index for the official MiniMax H3 Skills (independent ",
-    "id": "gordonlu/awesome-minimax-h3-skills",
-    "language": "JavaScript",
-    "name": "gordonlu/awesome-minimax-h3-skills",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:25:37Z",
-    "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
-  },
-  {
     "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
     "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
     "language": "\u2014",
@@ -238,18 +337,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27473,
+    "stars": 27474,
     "updated_at": "2026-08-12T03:22:27Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24145,
-    "updated_at": "2026-08-12T03:22:13Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T03:20:47Z",
     "url": "https://github.com/unoccupied-creep552/agentic-ai-prompt-research"
-  },
-  {
-    "description": "Organize AI agent skills, scripts, and references in scalable folders for fast reuse across engineering, research, writi",
-    "id": "marysatasselshaped667/skills-collection-1",
-    "language": "Python",
-    "name": "marysatasselshaped667/skills-collection-1",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:20:35Z",
-    "url": "https://github.com/marysatasselshaped667/skills-collection-1"
-  },
-  {
-    "description": "An AI image transformation skill that blends real photography with dreamlike watercolor painting, creating seamless tran",
-    "id": "latentlotus/half-awake-half-dream",
-    "language": "\u2014",
-    "name": "latentlotus/half-awake-half-dream",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:20:35Z",
-    "url": "https://github.com/latentlotus/half-awake-half-dream"
-  },
-  {
-    "description": "Bootstrap the 45ck agent stack with shared skills, Claude and Codex agents, project tooling, and embedded packs",
-    "id": "blinnieinfertile577/skill-harness",
-    "language": "JavaScript",
-    "name": "blinnieinfertile577/skill-harness",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:20:04Z",
-    "url": "https://github.com/blinnieinfertile577/skill-harness"
-  },
-  {
-    "description": "Install 154+ Claude Code skills for SEO, code review, marketing, and AI agent tasks with one command",
-    "id": "eastindian-wallpepper214/claude-skills",
-    "language": "\u2014",
-    "name": "eastindian-wallpepper214/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:19:43Z",
-    "url": "https://github.com/eastindian-wallpepper214/claude-skills"
-  },
-  {
-    "description": "Build production-grade Claude Code project templates with specialized agents, reusable skills, rules, and hooks for fast",
-    "id": "IuliaIvanaPatras/claude-code-templates",
-    "language": "Shell",
-    "name": "IuliaIvanaPatras/claude-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:19:33Z",
-    "url": "https://github.com/IuliaIvanaPatras/claude-code-templates"
-  },
-  {
-    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude.",
-    "id": "revenantworks/citadel",
-    "language": "Python",
-    "name": "revenantworks/citadel",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:19:30Z",
-    "url": "https://github.com/revenantworks/citadel"
-  },
-  {
-    "description": "Manage NeuralVaultCore memory with a safe, low-token system prompt for Claude Code, plus /nvc:init and /nvc:end commands",
-    "id": "Marlorecent554/NeuralVaultSkill",
-    "language": "\u2014",
-    "name": "Marlorecent554/NeuralVaultSkill",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:19:30Z",
-    "url": "https://github.com/Marlorecent554/NeuralVaultSkill"
-  },
-  {
-    "description": "Reusable prompts and project instruction files for building, auditing, automating, and maintaining software projects.",
-    "id": "mickpletcher/prompt-repo",
-    "language": "\u2014",
-    "name": "mickpletcher/prompt-repo",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:19:19Z",
-    "url": "https://github.com/mickpletcher/prompt-repo"
-  },
-  {
-    "description": "Audit code health with AI using evidence-based checks, risk metrics, and prioritized findings for clear refactor decisio",
-    "id": "Petrcatapultian539/Code-Health-Check-Prompt",
-    "language": "\u2014",
-    "name": "Petrcatapultian539/Code-Health-Check-Prompt",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:19:17Z",
-    "url": "https://github.com/Petrcatapultian539/Code-Health-Check-Prompt"
-  },
-  {
-    "description": "Build type-safe LLM prompt templates for Rust with compile-time variable checks and clear runtime errors",
-    "id": "mosesking8230/promptml",
-    "language": "Rust",
-    "name": "mosesking8230/promptml",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:19:16Z",
-    "url": "https://github.com/mosesking8230/promptml"
   }
 ]
