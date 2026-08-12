@@ -1,5 +1,59 @@
 [
   {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-08-12T13:45:08Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32960,
+    "updated_at": "2026-08-12T13:43:07Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "",
+    "id": "Dali8029/storyboard-video-prompt",
+    "language": "\u2014",
+    "name": "Dali8029/storyboard-video-prompt",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:41:53Z",
+    "url": "https://github.com/Dali8029/storyboard-video-prompt"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-12T13:41:40Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-12T13:39:59Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-12T13:39:55Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
     "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
     "id": "evilstar2016/skill-doctor",
     "language": "TypeScript",
@@ -88,24 +142,6 @@
     "stars": 3,
     "updated_at": "2026-08-12T13:32:10Z",
     "url": "https://github.com/omar-y-abdi/furl-ctx"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32959,
-    "updated_at": "2026-08-12T13:37:25Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-12T13:30:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T13:07:26Z",
     "url": "https://github.com/MohamedEmbarak/Supreme-Leader"
-  },
-  {
-    "description": "Reusable Claude Code / Codex skills and agent-team templates for planning and executing SaaS, web, ML, mobile, and resea",
-    "id": "benyaminshoham/orca-team",
-    "language": "Shell",
-    "name": "benyaminshoham/orca-team",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:07:19Z",
-    "url": "https://github.com/benyaminshoham/orca-team"
-  },
-  {
-    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
-    "id": "Sunil-M02/curiosity-engine",
-    "language": "TypeScript",
-    "name": "Sunil-M02/curiosity-engine",
-    "stars": 2,
-    "updated_at": "2026-08-12T13:07:04Z",
-    "url": "https://github.com/Sunil-M02/curiosity-engine"
-  },
-  {
-    "description": "Eighteen free AI tools for everyday work, each one a pattern that already proved itself in sales. Includes a router to h",
-    "id": "shaunmarsden/sibling-projects",
-    "language": "\u2014",
-    "name": "shaunmarsden/sibling-projects",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:06:54Z",
-    "url": "https://github.com/shaunmarsden/sibling-projects"
-  },
-  {
-    "description": "Human-led AI workflows for real B2B sales work.",
-    "id": "shaunmarsden/practical-ai-sales-workflows",
-    "language": "\u2014",
-    "name": "shaunmarsden/practical-ai-sales-workflows",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:06:47Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
   }
 ]
