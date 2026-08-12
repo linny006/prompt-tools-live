@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11014,
+    "updated_at": "2026-08-12T14:43:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
+    "id": "Dangkoolwat/ai-learning-studio",
+    "language": "Python",
+    "name": "Dangkoolwat/ai-learning-studio",
+    "stars": 0,
+    "updated_at": "2026-08-12T14:42:15Z",
+    "url": "https://github.com/Dangkoolwat/ai-learning-studio"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21330,
+    "updated_at": "2026-08-12T14:41:51Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "End-to-end agentic data-science system: LLM planning + MCP tool execution over deterministic analytics, with full tracea",
+    "id": "Padraigobrien08/agentic-data-science-system",
+    "language": "Python",
+    "name": "Padraigobrien08/agentic-data-science-system",
+    "stars": 0,
+    "updated_at": "2026-08-12T14:41:32Z",
+    "url": "https://github.com/Padraigobrien08/agentic-data-science-system"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-12T14:40:52Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Local-first context-window profiler for LLM apps: inspect token composition, compare prompt versions, and fail CI on con",
+    "id": "Dtdkvn/ctxprof",
+    "language": "TypeScript",
+    "name": "Dtdkvn/ctxprof",
+    "stars": 0,
+    "updated_at": "2026-08-12T14:43:38Z",
+    "url": "https://github.com/Dtdkvn/ctxprof"
+  },
+  {
     "description": "Open standard for creating, reviewing and evaluating AI-generated content that reads naturally and authentically. Includ",
     "id": "dev-ik/human-writing-rules",
     "language": "Python",
@@ -9,13 +63,31 @@
     "url": "https://github.com/dev-ik/human-writing-rules"
   },
   {
-    "description": "Local-first context-window profiler for LLM apps: inspect token composition, compare prompt versions, and fail CI on con",
-    "id": "Dtdkvn/ctxprof",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "Dtdkvn/ctxprof",
+    "name": "langfuse/langfuse",
+    "stars": 32965,
+    "updated_at": "2026-08-12T14:40:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
     "stars": 0,
-    "updated_at": "2026-08-12T14:40:27Z",
-    "url": "https://github.com/Dtdkvn/ctxprof"
+    "updated_at": "2026-08-12T14:39:57Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-12T14:39:55Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
     "description": "Explorador interactivo de system prompts para modelos de IA y entornos Arena.",
@@ -90,15 +162,6 @@
     "url": "https://github.com/mrwogu/promptscript"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-12T14:30:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Design intelligence OS for AI coding agents \u2014 one prompt in, Stripe-grade UI out.",
     "id": "ardamoustafa1/DesignOS",
     "language": "JavaScript",
@@ -144,20 +207,11 @@
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32965,
-    "updated_at": "2026-08-12T14:40:16Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24165,
+    "stars": 24166,
     "updated_at": "2026-08-12T14:26:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -203,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-12T14:35:30Z",
+    "updated_at": "2026-08-12T14:44:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -315,15 +369,6 @@
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11014,
-    "updated_at": "2026-08-12T14:40:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\ud835\udc7a\ud835\udc8c\ud835\udc8a\ud835\udc8d\ud835\udc8d\ud835\udc94 \ud835\udc82\ud835\udc8f\ud835\udc85 \ud835\udc91\ud835\udc8d\ud835\udc96\ud835\udc88\ud835\udc8a\ud835\udc8f \ud835\udc95\ud835\udc90\ud835\udc90\ud835\udc8d\ud835\udc8c\ud835\udc8a\ud835\udc95 \ud835\udc87\ud835\udc90\ud835\udc93 \ud835\udc6f\ud835\udc82\ud835\udc93\ud835\udc8f\ud835\udc86\ud835\udc94\ud835\udc94 \ud835\udc68\ud835\udc88\ud835\udc86\ud835\udc8f\ud835\udc95.",
     "id": "koco-co/build-goals",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T13:50:43Z",
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-08-12T14:40:28Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "82 ready-to-deploy agents for Microsoft Copilot Chat, no Copilot Premium required. Paste the instruction block into the ",
-    "id": "kesslernity/awesome-copilot-chat-agents",
-    "language": "\u2014",
-    "name": "kesslernity/awesome-copilot-chat-agents",
-    "stars": 95,
-    "updated_at": "2026-08-12T13:48:06Z",
-    "url": "https://github.com/kesslernity/awesome-copilot-chat-agents"
-  },
-  {
-    "description": "103 paste-ready declarative agents for Microsoft 365 Copilot. No coding. No Azure. Deploy in minutes.",
-    "id": "kesslernity/awesome-copilot-studio-agents",
-    "language": "\u2014",
-    "name": "kesslernity/awesome-copilot-studio-agents",
-    "stars": 462,
-    "updated_at": "2026-08-12T13:48:04Z",
-    "url": "https://github.com/kesslernity/awesome-copilot-studio-agents"
-  },
-  {
-    "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 573 prompts for Office apps, Copilot Studio, sec",
-    "id": "kesslernity/awesome-microsoft-copilot-prompts",
-    "language": "\u2014",
-    "name": "kesslernity/awesome-microsoft-copilot-prompts",
-    "stars": 483,
-    "updated_at": "2026-08-12T13:48:02Z",
-    "url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:47:43Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   }
 ]
