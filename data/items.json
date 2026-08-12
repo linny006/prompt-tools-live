@@ -5,17 +5,62 @@
     "language": "Python",
     "name": "Kosmoray/dayan-agent-skills",
     "stars": 1,
-    "updated_at": "2026-08-12T15:30:18Z",
+    "updated_at": "2026-08-12T15:33:52Z",
     "url": "https://github.com/Kosmoray/dayan-agent-skills"
   },
   {
-    "description": "Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org",
-    "id": "luckyrjain/software-builder",
+    "description": "Portable skills for AI agents \u2014 a multi-model advisory board for hard decisions, and a five-skill team-workflow pack for",
+    "id": "timharris707/skills",
     "language": "Python",
-    "name": "luckyrjain/software-builder",
+    "name": "timharris707/skills",
     "stars": 0,
-    "updated_at": "2026-08-12T15:28:53Z",
-    "url": "https://github.com/luckyrjain/software-builder"
+    "updated_at": "2026-08-12T15:32:39Z",
+    "url": "https://github.com/timharris707/skills"
+  },
+  {
+    "description": "End-to-end agentic data-science system: LLM planning + MCP tool execution over deterministic analytics, with full tracea",
+    "id": "Padraigobrien08/agentic-data-science-system",
+    "language": "Python",
+    "name": "Padraigobrien08/agentic-data-science-system",
+    "stars": 0,
+    "updated_at": "2026-08-12T15:31:43Z",
+    "url": "https://github.com/Padraigobrien08/agentic-data-science-system"
+  },
+  {
+    "description": "Midjourney \u2013 A powerful desktop tool to manage unlimited prompt generation, optimize your workflow, and enhance AI art c",
+    "id": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
+    "language": "\u2014",
+    "name": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
+    "stars": 1,
+    "updated_at": "2026-08-12T15:31:38Z",
+    "url": "https://github.com/deader49963hefty/Midjourney-Ultimate-Prompts-Studio"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 123,
+    "updated_at": "2026-08-12T15:30:59Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-12T15:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32967,
+    "updated_at": "2026-08-12T15:33:05Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Lightweight markdown-based workflow for collaborating with AI coding assistants using spec-driven development methodolog",
@@ -25,6 +70,15 @@
     "stars": 87,
     "updated_at": "2026-08-12T15:29:39Z",
     "url": "https://github.com/liatrio-labs/spec-driven-workflow"
+  },
+  {
+    "description": "Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org",
+    "id": "luckyrjain/software-builder",
+    "language": "Python",
+    "name": "luckyrjain/software-builder",
+    "stars": 0,
+    "updated_at": "2026-08-12T15:28:53Z",
+    "url": "https://github.com/luckyrjain/software-builder"
   },
   {
     "description": "Prompt Engineering Evaluation Framework \u2014 MSc dissertation comparing zero-shot, few-shot & CoT techniques with novel Ref",
@@ -40,7 +94,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 66053,
+    "stars": 66054,
     "updated_at": "2026-08-12T15:27:18Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -70,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T15:24:59Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Portable skills for AI agents \u2014 a multi-model advisory board for hard decisions, and a five-skill team-workflow pack for",
-    "id": "timharris707/skills",
-    "language": "Python",
-    "name": "timharris707/skills",
-    "stars": 0,
-    "updated_at": "2026-08-12T15:27:23Z",
-    "url": "https://github.com/timharris707/skills"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -142,33 +187,6 @@
     "stars": 11,
     "updated_at": "2026-08-12T15:15:39Z",
     "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-12T15:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "End-to-end agentic data-science system: LLM planning + MCP tool execution over deterministic analytics, with full tracea",
-    "id": "Padraigobrien08/agentic-data-science-system",
-    "language": "Python",
-    "name": "Padraigobrien08/agentic-data-science-system",
-    "stars": 0,
-    "updated_at": "2026-08-12T15:30:21Z",
-    "url": "https://github.com/Padraigobrien08/agentic-data-science-system"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32967,
-    "updated_at": "2026-08-12T15:30:02Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3487,
-    "updated_at": "2026-08-12T15:24:55Z",
+    "updated_at": "2026-08-12T15:33:53Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 21331,
     "updated_at": "2026-08-12T15:29:49Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-12T14:46:56Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Workflow-oriented Agent Skills for writing, coding, research, and decision alignment.",
-    "id": "ssdiwu/507-skills",
-    "language": "Python",
-    "name": "ssdiwu/507-skills",
-    "stars": 1,
-    "updated_at": "2026-08-12T14:46:40Z",
-    "url": "https://github.com/ssdiwu/507-skills"
   }
 ]
