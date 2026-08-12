@@ -1,12 +1,21 @@
 [
   {
-    "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
-    "id": "hilmifawwazsaad/DidYouKnow",
-    "language": "TypeScript",
-    "name": "hilmifawwazsaad/DidYouKnow",
-    "stars": 0,
-    "updated_at": "2026-08-12T04:30:17Z",
-    "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 3,
+    "updated_at": "2026-08-12T04:45:16Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 65988,
+    "updated_at": "2026-08-12T04:45:14Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Design notes on memory, state, and interaction architecture for persistent LLM agents.",
@@ -14,8 +23,53 @@
     "language": "\u2014",
     "name": "Negative-Absence/anchoring",
     "stars": 0,
-    "updated_at": "2026-08-12T04:29:52Z",
+    "updated_at": "2026-08-12T04:45:00Z",
     "url": "https://github.com/Negative-Absence/anchoring"
+  },
+  {
+    "description": "A native macOS prompt wheel for the five prompts you actually use.",
+    "id": "noi-liuchang/PromptHalo",
+    "language": "Swift",
+    "name": "noi-liuchang/PromptHalo",
+    "stars": 2,
+    "updated_at": "2026-08-12T04:44:55Z",
+    "url": "https://github.com/noi-liuchang/PromptHalo"
+  },
+  {
+    "description": "Attach your own standing instructions to every Gemini prompt, invisibly - with conditional rules that fire only when the",
+    "id": "Nipanii/gemini-prompt-payload",
+    "language": "JavaScript",
+    "name": "Nipanii/gemini-prompt-payload",
+    "stars": 0,
+    "updated_at": "2026-08-12T04:44:33Z",
+    "url": "https://github.com/Nipanii/gemini-prompt-payload"
+  },
+  {
+    "description": "\ud83c\udfa8 Curated Seedream 5.0 Pro prompts with previews \u2014 auto-generated README, EN/\u4e2d\u6587",
+    "id": "velokey-ai/awesome-seedream-5.0-pro-prompts",
+    "language": "Python",
+    "name": "velokey-ai/awesome-seedream-5.0-pro-prompts",
+    "stars": 1,
+    "updated_at": "2026-08-12T04:44:03Z",
+    "url": "https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11001,
+    "updated_at": "2026-08-12T04:45:05Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24149,
+    "updated_at": "2026-08-12T04:42:33Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -23,17 +77,98 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27474,
-    "updated_at": "2026-08-12T04:29:41Z",
+    "updated_at": "2026-08-12T04:41:59Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
+    "description": "\u5c06\u4e66\u7c4d\u3001PDF \u6216\u6587\u5b57\u6750\u6599\u8f6c\u5316\u4e3a\u7cbe\u7f8e\u53ef\u7f16\u8f91 PPT \u7684 AI \u5de5\u4f5c\u6d41\u6280\u80fd | \u4e09\u6b65\u6d41\u7a0b\uff1a\u5185\u5bb9\u63d0\u70bc - \u56fe\u7247PPT\u751f\u6210 - \u53ef\u7f16\u8f91PPTX\u8fd8\u539f | \u63a8\u8350 Codex + GPT-Image 2.0",
+    "id": "helloo1568/image-ppt",
     "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 65987,
-    "updated_at": "2026-08-12T04:27:49Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
+    "name": "helloo1568/image-ppt",
+    "stars": 3,
+    "updated_at": "2026-08-12T04:41:51Z",
+    "url": "https://github.com/helloo1568/image-ppt"
+  },
+  {
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,018-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 0,
+    "updated_at": "2026-08-12T04:40:17Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
+  },
+  {
+    "description": "Prompt engineering workbench \u2014 Chrome extension, desktop app, and web tool",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "HTML",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 2,
+    "updated_at": "2026-08-12T04:45:23Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "Helen Agent Develop Language ",
+    "id": "hahalee000000/helen",
+    "language": "Python",
+    "name": "hahalee000000/helen",
+    "stars": 1,
+    "updated_at": "2026-08-12T04:37:53Z",
+    "url": "https://github.com/hahalee000000/helen"
+  },
+  {
+    "description": "Translate simple YAML-frontmatter agent prompts into Codex, Cursor, or generic formats.",
+    "id": "simaba/prompt-harness-translator",
+    "language": "Python",
+    "name": "simaba/prompt-harness-translator",
+    "stars": 0,
+    "updated_at": "2026-08-12T04:37:04Z",
+    "url": "https://github.com/simaba/prompt-harness-translator"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13191,
+    "updated_at": "2026-08-12T04:33:13Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make i",
+    "id": "Q00/ouroboros",
+    "language": "Python",
+    "name": "Q00/ouroboros",
+    "stars": 5388,
+    "updated_at": "2026-08-12T04:32:46Z",
+    "url": "https://github.com/Q00/ouroboros"
+  },
+  {
+    "description": "\ud83c\udfaf Full-stack engineer & AI/ML enthusiast building production-grade web apps and LLM-powered systems | React \u00b7 Node.js \u00b7 ",
+    "id": "Aditya-dxt/Aditya-dxt",
+    "language": "\u2014",
+    "name": "Aditya-dxt/Aditya-dxt",
+    "stars": 2,
+    "updated_at": "2026-08-12T04:30:37Z",
+    "url": "https://github.com/Aditya-dxt/Aditya-dxt"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-12T04:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
+    "id": "hilmifawwazsaad/DidYouKnow",
+    "language": "TypeScript",
+    "name": "hilmifawwazsaad/DidYouKnow",
+    "stars": 0,
+    "updated_at": "2026-08-12T04:30:17Z",
+    "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
   },
   {
     "description": "Adversarial code-review persona for AI coding agents. Runs after every diff, flags security/reliability/concurrency issu",
@@ -135,15 +270,6 @@
     "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
   },
   {
-    "description": "Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make i",
-    "id": "Q00/ouroboros",
-    "language": "Python",
-    "name": "Q00/ouroboros",
-    "stars": 5388,
-    "updated_at": "2026-08-12T04:18:02Z",
-    "url": "https://github.com/Q00/ouroboros"
-  },
-  {
     "description": "UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Expanding Tool",
     "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
     "language": "Python",
@@ -169,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T04:16:01Z",
     "url": "https://github.com/nshkrdotcom/prompt_runner_sdk"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-12T04:15:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -252,29 +369,11 @@
     "url": "https://github.com/Emlembow/skills"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11001,
-    "updated_at": "2026-08-12T04:26:34Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24147,
-    "updated_at": "2026-08-12T04:17:51Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Creative DNA video prompt cases and installable Skills for MiniMax H3 and Seedance 2.0, with an Electron video viewer.",
     "id": "T8mars/minimax-h3-prompt-skill-T8",
     "language": "JavaScript",
     "name": "T8mars/minimax-h3-prompt-skill-T8",
-    "stars": 42,
+    "stars": 43,
     "updated_at": "2026-08-12T04:08:10Z",
     "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
   },
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T03:58:12Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-12T03:58:11Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Portable skills for AI agents \u2014 a multi-model advisory board for hard decisions, and a five-skill team-workflow pack for",
-    "id": "timharris707/skills",
-    "language": "Python",
-    "name": "timharris707/skills",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:57:53Z",
-    "url": "https://github.com/timharris707/skills"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:57:45Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:57:44Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "MiniMax H3 \u5b98\u65b9 Skills \u7684\u53ef\u89c6\u5316\u53d1\u73b0\u4e0e\u53c2\u8003\u7ad9\u70b9 \u00b7 A visual discovery & reference index for the official MiniMax H3 Skills (independent ",
-    "id": "gordonlu/awesome-minimax-h3-skills",
-    "language": "JavaScript",
-    "name": "gordonlu/awesome-minimax-h3-skills",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:57:02Z",
-    "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
-  },
-  {
-    "description": "Judgment infrastructure for human-led AI: portable Claude and Codex skills.",
-    "id": "glichtenthal/agent-skills",
-    "language": "HTML",
-    "name": "glichtenthal/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:56:42Z",
-    "url": "https://github.com/glichtenthal/agent-skills"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:56:22Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Attach your own standing instructions to every Gemini prompt, invisibly - with conditional rules that fire only when the",
-    "id": "Nipanii/gemini-prompt-payload",
-    "language": "JavaScript",
-    "name": "Nipanii/gemini-prompt-payload",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:55:32Z",
-    "url": "https://github.com/Nipanii/gemini-prompt-payload"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:55:22Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Claude Code skills for running models cost-effectively: security gates (secret scanner, commit-gate), model-quality tool",
-    "id": "Evan-Daruwalla/claude-skill-suite",
-    "language": "JavaScript",
-    "name": "Evan-Daruwalla/claude-skill-suite",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:53:24Z",
-    "url": "https://github.com/Evan-Daruwalla/claude-skill-suite"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 51,
-    "updated_at": "2026-08-12T03:51:49Z",
-    "url": "https://github.com/costiash/claude-code-docs"
   }
 ]
