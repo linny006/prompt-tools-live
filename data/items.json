@@ -1,5 +1,59 @@
 [
   {
+    "description": "Prompt Template Library \u2014 32 fill-in-the-blank prompts across 13 dev categories + Node.js lib by Shane McGuirt",
+    "id": "srmcguirt/prompt-template-library",
+    "language": "JavaScript",
+    "name": "srmcguirt/prompt-template-library",
+    "stars": 0,
+    "updated_at": "2026-08-12T21:14:13Z",
+    "url": "https://github.com/srmcguirt/prompt-template-library"
+  },
+  {
+    "description": "8 battle-tested AI prompts for PRDs, user stories, sprint planning, and competitive analysis by Shane McGuirt",
+    "id": "srmcguirt/product-management-ai-prompt-pack",
+    "language": "\u2014",
+    "name": "srmcguirt/product-management-ai-prompt-pack",
+    "stars": 0,
+    "updated_at": "2026-08-12T21:14:10Z",
+    "url": "https://github.com/srmcguirt/product-management-ai-prompt-pack"
+  },
+  {
+    "description": "Marketing AI Prompt Pack \u2014 8 production-grade prompts for SEO, email, ads, and landing pages by Shane McGuirt",
+    "id": "srmcguirt/marketing-ai-prompt-pack",
+    "language": "\u2014",
+    "name": "srmcguirt/marketing-ai-prompt-pack",
+    "stars": 0,
+    "updated_at": "2026-08-12T21:14:09Z",
+    "url": "https://github.com/srmcguirt/marketing-ai-prompt-pack"
+  },
+  {
+    "description": "DevOps AI Prompt Pack \u2014 8 battle-tested system prompts for Terraform, K8s, CI/CD, and cloud ops by Shane McGuirt",
+    "id": "srmcguirt/devops-ai-prompt-pack",
+    "language": "\u2014",
+    "name": "srmcguirt/devops-ai-prompt-pack",
+    "stars": 0,
+    "updated_at": "2026-08-12T21:14:07Z",
+    "url": "https://github.com/srmcguirt/devops-ai-prompt-pack"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-12T21:11:01Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-12T21:08:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -117,13 +171,13 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-12T21:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "github/awesome-copilot",
+    "stars": 37740,
+    "updated_at": "2026-08-12T21:00:18Z",
+    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "End-to-end agentic data-science system: LLM planning + MCP tool execution over deterministic analytics, with full tracea",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-12T20:41:25Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 151,
-    "updated_at": "2026-08-12T20:39:59Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-12T20:39:42Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-12T20:39:40Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Production-ready OpenAI Codex agent skills, specialist agents, instructions, and configuration with safe merge or full-i",
-    "id": "dayfinggg/openai-codex-agent-skills",
-    "language": "PowerShell",
-    "name": "dayfinggg/openai-codex-agent-skills",
-    "stars": 4,
-    "updated_at": "2026-08-12T20:39:22Z",
-    "url": "https://github.com/dayfinggg/openai-codex-agent-skills"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-12T20:38:43Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-12T20:38:24Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
   }
 ]
