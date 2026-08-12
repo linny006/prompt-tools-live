@@ -1,12 +1,111 @@
 [
   {
+    "description": "Portable .agent.md files for AI coding assistants that actually commit to a point of view.",
+    "id": "dfinson/promptlings",
+    "language": "PowerShell",
+    "name": "dfinson/promptlings",
+    "stars": 1,
+    "updated_at": "2026-08-12T20:20:37Z",
+    "url": "https://github.com/dfinson/promptlings"
+  },
+  {
+    "description": "Prompts de IA generativa que usamos en produccion, con el modelo exacto con el que funcionaron. Imagen, video y audio. P",
+    "id": "nomastudioai/noma-prompts",
+    "language": "\u2014",
+    "name": "nomastudioai/noma-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-12T20:19:45Z",
+    "url": "https://github.com/nomastudioai/noma-prompts"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-12T20:19:44Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "HTML",
+    "name": "llwslc/proteus",
+    "stars": 2,
+    "updated_at": "2026-08-12T20:19:39Z",
+    "url": "https://github.com/llwslc/proteus"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-08-12T20:19:32Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3487,
+    "updated_at": "2026-08-12T20:21:06Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A runtime-neutral starter for building candid, corrigible, systems-oriented AI agents\u2014with a portable SOUL, governed ope",
+    "id": "robertaustinbell/bobert-agent-template",
+    "language": "Python",
+    "name": "robertaustinbell/bobert-agent-template",
+    "stars": 0,
+    "updated_at": "2026-08-12T20:18:41Z",
+    "url": "https://github.com/robertaustinbell/bobert-agent-template"
+  },
+  {
+    "description": "Universal Agent Builder \u4e07\u80fdAgent\u6784\u5efa\u5668 \u2014 10-layer spec-driven agent development framework with 6 framework adapters (LangGra",
+    "id": "weed33834/agent-builder-skill",
+    "language": "Python",
+    "name": "weed33834/agent-builder-skill",
+    "stars": 3,
+    "updated_at": "2026-08-12T20:17:53Z",
+    "url": "https://github.com/weed33834/agent-builder-skill"
+  },
+  {
+    "description": "Build your own Personal AI DNA: Voice DNA (how you communicate) + Opinion DNA (how you reason), kept as two separate mod",
+    "id": "RajeshShrirao/opinion-os",
+    "language": "\u2014",
+    "name": "RajeshShrirao/opinion-os",
+    "stars": 0,
+    "updated_at": "2026-08-12T20:17:52Z",
+    "url": "https://github.com/RajeshShrirao/opinion-os"
+  },
+  {
     "description": "Prompt tools and design skills for original interfaces and creative workflows.",
     "id": "Glenskii/Glenski-Toolkit",
     "language": "Python",
     "name": "Glenskii/Glenski-Toolkit",
     "stars": 1,
-    "updated_at": "2026-08-12T20:15:12Z",
+    "updated_at": "2026-08-12T20:16:35Z",
     "url": "https://github.com/Glenskii/Glenski-Toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-12T20:15:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Kill learned helplessness in AI coding agents. A/B-benchmarked skill for Claude Code, Codex, Cursor: no more 'unsolved, ",
+    "id": "undeemed/manifest",
+    "language": "Python",
+    "name": "undeemed/manifest",
+    "stars": 0,
+    "updated_at": "2026-08-12T20:15:28Z",
+    "url": "https://github.com/undeemed/manifest"
   },
   {
     "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
@@ -34,24 +133,6 @@
     "stars": 13193,
     "updated_at": "2026-08-12T20:13:04Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Kill learned helplessness in AI coding agents. A/B-benchmarked skill for Claude Code, Codex, Cursor: no more 'unsolved, ",
-    "id": "undeemed/manifest",
-    "language": "Python",
-    "name": "undeemed/manifest",
-    "stars": 0,
-    "updated_at": "2026-08-12T20:12:01Z",
-    "url": "https://github.com/undeemed/manifest"
-  },
-  {
-    "description": "Build your own Personal AI DNA: Voice DNA (how you communicate) + Opinion DNA (how you reason), kept as two separate mod",
-    "id": "RajeshShrirao/opinion-os",
-    "language": "\u2014",
-    "name": "RajeshShrirao/opinion-os",
-    "stars": 0,
-    "updated_at": "2026-08-12T20:11:39Z",
-    "url": "https://github.com/RajeshShrirao/opinion-os"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -153,15 +234,6 @@
     "url": "https://github.com/rockerlabs/keel"
   },
   {
-    "description": "Prompts de IA generativa que usamos en produccion, con el modelo exacto con el que funcionaron. Imagen, video y audio. P",
-    "id": "nomastudioai/noma-prompts",
-    "language": "\u2014",
-    "name": "nomastudioai/noma-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-12T20:01:21Z",
-    "url": "https://github.com/nomastudioai/noma-prompts"
-  },
-  {
     "description": "Reusable prompts and project instruction files for building, auditing, automating, and maintaining software projects.",
     "id": "mickpletcher/prompt-repo",
     "language": "\u2014",
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T20:00:44Z",
     "url": "https://github.com/mickpletcher/prompt-repo"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-12T20:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -221,7 +284,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-12T19:58:47Z",
+    "updated_at": "2026-08-12T20:18:39Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -275,7 +338,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11017,
-    "updated_at": "2026-08-12T20:00:12Z",
+    "updated_at": "2026-08-12T20:15:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T19:49:43Z",
     "url": "https://github.com/Yaz-inc/yazinc-ai-toolkit"
-  },
-  {
-    "description": "A daily news briefing where every citation is checked against the corpus it came from. Python stdlib only, no API keys.",
-    "id": "elanthus/news-briefing",
-    "language": "Python",
-    "name": "elanthus/news-briefing",
-    "stars": 1,
-    "updated_at": "2026-08-12T19:49:08Z",
-    "url": "https://github.com/elanthus/news-briefing"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-12T19:49:04Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "A repo that remembers what your AI forgot \u2014 portable project memory, Librarian routing, and clean AI handoffs.",
-    "id": "MShneur/ctrl-forge",
-    "language": "Python",
-    "name": "MShneur/ctrl-forge",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:47:18Z",
-    "url": "https://github.com/MShneur/ctrl-forge"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-12T19:46:37Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 3,
-    "updated_at": "2026-08-12T19:45:45Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Creative DNA video prompt cases and installable Skills for MiniMax H3 and Seedance 2.0, with an Electron video viewer.",
-    "id": "T8mars/minimax-h3-prompt-skill-T8",
-    "language": "JavaScript",
-    "name": "T8mars/minimax-h3-prompt-skill-T8",
-    "stars": 57,
-    "updated_at": "2026-08-12T19:45:34Z",
-    "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-12T19:45:10Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   }
 ]
