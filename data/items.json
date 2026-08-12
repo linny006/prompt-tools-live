@@ -1,5 +1,95 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3487,
+    "updated_at": "2026-08-12T09:29:47Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
+    "id": "Jia-Ethan/codex-keysmith",
+    "language": "Python",
+    "name": "Jia-Ethan/codex-keysmith",
+    "stars": 3315,
+    "updated_at": "2026-08-12T09:26:37Z",
+    "url": "https://github.com/Jia-Ethan/codex-keysmith"
+  },
+  {
+    "description": "Open-source Python toolkit for structured AI cinematic workflows, scene planning, prompt generation, continuity validati",
+    "id": "XtolNguyen/ai-cinematic-workflow-toolkit",
+    "language": "Python",
+    "name": "XtolNguyen/ai-cinematic-workflow-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-12T09:29:06Z",
+    "url": "https://github.com/XtolNguyen/ai-cinematic-workflow-toolkit"
+  },
+  {
+    "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "id": "JuliusBrussee/caveman",
+    "language": "Go",
+    "name": "JuliusBrussee/caveman",
+    "stars": 97631,
+    "updated_at": "2026-08-12T09:25:50Z",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,018-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 0,
+    "updated_at": "2026-08-12T09:25:39Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1829,
+    "updated_at": "2026-08-12T09:25:38Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "\u4e2d\u6587\u8001\u5e08\uff5cChinese Teacher \u2014 \u8ba9\u4e2d\u6587\u5de5\u4f5c\u6587\u6863\u6709\u5224\u65ad\u529b\u3001\u6709\u4eba\u5473\u3001\u80fd\u63a8\u52a8\u51b3\u7b56\u7684 AI skill\uff0c\u81ea\u52a8\u63d2\u5165\u98de\u4e66\u753b\u677f\u505a\u89c6\u89c9\u6458\u8981",
+    "id": "TongyiDai/chinese-teacher",
+    "language": "Shell",
+    "name": "TongyiDai/chinese-teacher",
+    "stars": 0,
+    "updated_at": "2026-08-12T09:24:20Z",
+    "url": "https://github.com/TongyiDai/chinese-teacher"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 32947,
+    "updated_at": "2026-08-12T09:24:14Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-12T09:21:47Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-12T09:21:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Give your AI coding agent a memory for its decisions - log what you chose and why, so the next session starts from 'we a",
     "id": "vartiainen1/agent-decision-log",
     "language": "Python",
@@ -36,6 +126,15 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-08-12T09:19:52Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
     "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
     "id": "StephenQiu30/lanverse",
     "language": "Python",
@@ -54,15 +153,6 @@
     "url": "https://github.com/Kosmoray/dayan-agent-skills"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3487,
-    "updated_at": "2026-08-12T09:21:09Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Filtrado epist\u00e9mico de correo para Claude Cowork y Claude Code: triage bayesiano, scoring explicable y hardening de segu",
     "id": "novanoticia/email-triage-plugin",
     "language": "Python",
@@ -72,20 +162,11 @@
     "url": "https://github.com/novanoticia/email-triage-plugin"
   },
   {
-    "description": "Open-source Python toolkit for structured AI cinematic workflows, scene planning, prompt generation, continuity validati",
-    "id": "XtolNguyen/ai-cinematic-workflow-toolkit",
-    "language": "Python",
-    "name": "XtolNguyen/ai-cinematic-workflow-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:17:54Z",
-    "url": "https://github.com/XtolNguyen/ai-cinematic-workflow-toolkit"
-  },
-  {
     "description": "TIKAZ AI Skills for Codex \u2014 six composable, evidence-first workflow suites",
     "id": "TIKAZI/TIKAZ-AI-Skills",
     "language": "Python",
     "name": "TIKAZI/TIKAZ-AI-Skills",
-    "stars": 0,
+    "stars": 2,
     "updated_at": "2026-08-12T09:17:22Z",
     "url": "https://github.com/TIKAZI/TIKAZ-AI-Skills"
   },
@@ -99,30 +180,12 @@
     "url": "https://github.com/rikilamadrid/pathfinder"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 32946,
-    "updated_at": "2026-08-12T09:18:50Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-12T09:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-12T09:14:58Z",
+    "updated_at": "2026-08-12T09:25:17Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -162,15 +225,6 @@
     "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
   },
   {
-    "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
-    "id": "JuliusBrussee/caveman",
-    "language": "Go",
-    "name": "JuliusBrussee/caveman",
-    "stars": 97630,
-    "updated_at": "2026-08-12T09:11:41Z",
-    "url": "https://github.com/JuliusBrussee/caveman"
-  },
-  {
     "description": "22-agent Mixture-of-Agents pipeline with LongLoop for 24h autonomous iteration: smart routing sends easy tasks to Flash,",
     "id": "ZenHG/opencode-moa",
     "language": "PowerShell",
@@ -198,6 +252,15 @@
     "url": "https://github.com/jnMetaCode/superpowers-zh"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27478,
+    "updated_at": "2026-08-12T09:08:14Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
     "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
     "language": "TypeScript",
@@ -205,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T09:07:26Z",
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27476,
-    "updated_at": "2026-08-12T09:08:14Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "An AWS PartyRock AI application designed to guide first-time rural micro-entrepreneurs with evidence-based business plan",
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "Padraigobrien08/agentic-data-science-system",
     "stars": 0,
-    "updated_at": "2026-08-12T09:03:55Z",
+    "updated_at": "2026-08-12T09:27:27Z",
     "url": "https://github.com/Padraigobrien08/agentic-data-science-system"
   },
   {
@@ -333,21 +387,12 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,018-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:01:32Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21328,
-    "updated_at": "2026-08-12T09:16:50Z",
+    "updated_at": "2026-08-12T09:28:14Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 123,
     "updated_at": "2026-08-12T08:51:49Z",
     "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Curated Seedance 2.5 prompts for product launches, ecommerce, explainers, data stories, and social campaigns.",
-    "id": "SigmaMatrix-AI/awesome-seedance-2-5-prompts",
-    "language": "JavaScript",
-    "name": "SigmaMatrix-AI/awesome-seedance-2-5-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-12T08:51:47Z",
-    "url": "https://github.com/SigmaMatrix-AI/awesome-seedance-2-5-prompts"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 15,
-    "updated_at": "2026-08-12T08:51:27Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-08-12T08:50:42Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Design notes on memory, state, and interaction architecture for persistent LLM agents.",
-    "id": "Negative-Absence/anchoring",
-    "language": "\u2014",
-    "name": "Negative-Absence/anchoring",
-    "stars": 0,
-    "updated_at": "2026-08-12T08:45:58Z",
-    "url": "https://github.com/Negative-Absence/anchoring"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 3,
-    "updated_at": "2026-08-12T08:45:50Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   }
 ]
