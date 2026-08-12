@@ -1,12 +1,102 @@
 [
   {
+    "description": "Vue 3 \u63d0\u793a\u8bcd\u7ba1\u7406\u5de5\u4f5c\u53f0\uff0c\u652f\u6301\u4e03\u8981\u7d20\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u3001\u4e00\u952e AI \u586b\u5145\u3001\u672c\u5730 JSON \u8bcd\u5e93\u548c\u4e2d\u82f1\u65e5\u97e9\u4e92\u8bd1\u3002/ A Vue 3-based prompt management workspace featuring structured p",
+    "id": "Kala9527/prompt-manager",
+    "language": "TypeScript",
+    "name": "Kala9527/prompt-manager",
+    "stars": 0,
+    "updated_at": "2026-08-12T07:42:48Z",
+    "url": "https://github.com/Kala9527/prompt-manager"
+  },
+  {
+    "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor",
+    "id": "promptslab/Awesome-Prompt-Engineering",
+    "language": "TypeScript",
+    "name": "promptslab/Awesome-Prompt-Engineering",
+    "stars": 6242,
+    "updated_at": "2026-08-12T07:41:52Z",
+    "url": "https://github.com/promptslab/Awesome-Prompt-Engineering"
+  },
+  {
+    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their ",
+    "id": "yzhao062/agent-style",
+    "language": "Python",
+    "name": "yzhao062/agent-style",
+    "stars": 618,
+    "updated_at": "2026-08-12T07:40:58Z",
+    "url": "https://github.com/yzhao062/agent-style"
+  },
+  {
+    "description": "\ud83c\udff0 883+ Universal Agentic Skills for Claude Code, Gemini CLI, Cursor & More \u2014 Curated by Rootcastle Engineering & Innovat",
+    "id": "rootcastleco/rei-skills",
+    "language": "Python",
+    "name": "rootcastleco/rei-skills",
+    "stars": 5,
+    "updated_at": "2026-08-12T07:39:43Z",
+    "url": "https://github.com/rootcastleco/rei-skills"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-08-12T07:40:52Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Give your AI coding agent a memory for its decisions - log what you chose and why, so the next session starts from 'we a",
+    "id": "vartiainen1/agent-decision-log",
+    "language": "Python",
+    "name": "vartiainen1/agent-decision-log",
+    "stars": 0,
+    "updated_at": "2026-08-12T07:36:48Z",
+    "url": "https://github.com/vartiainen1/agent-decision-log"
+  },
+  {
+    "description": "Give your AI coding agent a memory for its own mistakes - log-before-fix, mechanically enforced by a git hook. Three fil",
+    "id": "vartiainen1/agent-error-log",
+    "language": "Python",
+    "name": "vartiainen1/agent-error-log",
+    "stars": 0,
+    "updated_at": "2026-08-12T07:36:43Z",
+    "url": "https://github.com/vartiainen1/agent-error-log"
+  },
+  {
+    "description": "Open skills, harnesses, hooks, and verifiers for giving probabilistic AI a control layer.",
+    "id": "Kosmoray/dayan-agent-skills",
+    "language": "Python",
+    "name": "Kosmoray/dayan-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-12T07:36:22Z",
+    "url": "https://github.com/Kosmoray/dayan-agent-skills"
+  },
+  {
     "description": "Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org",
     "id": "luckyrjain/software-builder",
     "language": "Python",
     "name": "luckyrjain/software-builder",
     "stars": 0,
-    "updated_at": "2026-08-12T07:29:30Z",
+    "updated_at": "2026-08-12T07:32:07Z",
     "url": "https://github.com/luckyrjain/software-builder"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-12T07:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Python",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-08-12T07:30:30Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
   },
   {
     "description": "Kill learned helplessness in AI coding agents. A/B-benchmarked skill for Claude Code, Codex, Cursor: no more 'unsolved, ",
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27475,
-    "updated_at": "2026-08-12T07:25:09Z",
+    "updated_at": "2026-08-12T07:38:04Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -63,15 +153,6 @@
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
   },
   {
-    "description": "Open skills, harnesses, hooks, and verifiers for giving probabilistic AI a control layer.",
-    "id": "Kosmoray/dayan-agent-skills",
-    "language": "Python",
-    "name": "Kosmoray/dayan-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-12T07:18:08Z",
-    "url": "https://github.com/Kosmoray/dayan-agent-skills"
-  },
-  {
     "description": "Adversarial code-review persona for AI coding agents. Runs after every diff, flags security/reliability/concurrency issu",
     "id": "KnightFiury/MrsNegative",
     "language": "JavaScript",
@@ -97,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T07:16:07Z",
     "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-12T07:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Portable skills for AI agents \u2014 a multi-model advisory board for hard decisions, and a five-skill team-workflow pack for",
@@ -220,7 +292,7 @@
     "id": "wanshuiyin/HERO-Anti-OverDefense",
     "language": "Markdown",
     "name": "wanshuiyin/HERO-Anti-OverDefense",
-    "stars": 101,
+    "stars": 104,
     "updated_at": "2026-08-12T07:08:22Z",
     "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense"
   },
@@ -286,15 +358,6 @@
     "stars": 5,
     "updated_at": "2026-08-12T07:00:43Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Python",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-08-12T07:00:37Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
   },
   {
     "description": "Hebdo sur les agents IA",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T06:46:31Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "ComfyUI custom node for generating structured multi-character scene prompts with spatial layout control. Designed for Id",
-    "id": "elliefox-ai/comfyui-scene-generator",
-    "language": "Python",
-    "name": "elliefox-ai/comfyui-scene-generator",
-    "stars": 0,
-    "updated_at": "2026-08-12T06:46:21Z",
-    "url": "https://github.com/elliefox-ai/comfyui-scene-generator"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-08-12T06:46:17Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 3,
-    "updated_at": "2026-08-12T06:45:40Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 4,
-    "updated_at": "2026-08-12T06:45:34Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21325,
-    "updated_at": "2026-08-12T07:22:38Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-08-12T06:44:40Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "TypeScript",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 4,
-    "updated_at": "2026-08-12T06:40:46Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
   }
 ]
