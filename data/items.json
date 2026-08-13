@@ -1,5 +1,50 @@
 [
   {
+    "description": "Local-first desktop app for managing, analyzing and optimizing prompt collections \u2014 offline, private, Tauri + React + Ru",
+    "id": "xxammaxx/promptvault-lite",
+    "language": "TypeScript",
+    "name": "xxammaxx/promptvault-lite",
+    "stars": 0,
+    "updated_at": "2026-08-13T10:45:20Z",
+    "url": "https://github.com/xxammaxx/promptvault-lite"
+  },
+  {
+    "description": "Tell coherence from truth \u2014 an LLM prompt that lays out any argument's hidden premises, alternatives, and missing eviden",
+    "id": "flypggl-cpu/LARP",
+    "language": "Python",
+    "name": "flypggl-cpu/LARP",
+    "stars": 2,
+    "updated_at": "2026-08-13T10:45:14Z",
+    "url": "https://github.com/flypggl-cpu/LARP"
+  },
+  {
+    "description": "Open-source Python toolkit for structured AI cinematic workflows, scene planning, prompt generation, continuity validati",
+    "id": "XtolNguyen/ai-cinematic-workflow-toolkit",
+    "language": "Python",
+    "name": "XtolNguyen/ai-cinematic-workflow-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-13T10:44:33Z",
+    "url": "https://github.com/XtolNguyen/ai-cinematic-workflow-toolkit"
+  },
+  {
+    "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
+    "id": "llwslc/proteus",
+    "language": "HTML",
+    "name": "llwslc/proteus",
+    "stars": 2,
+    "updated_at": "2026-08-13T10:44:40Z",
+    "url": "https://github.com/llwslc/proteus"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-13T10:43:57Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
     "id": "imMamdouhaboammar/get-fable",
     "language": "JavaScript",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27498,
-    "updated_at": "2026-08-13T10:43:07Z",
+    "updated_at": "2026-08-13T10:44:27Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -23,7 +68,7 @@
     "language": "JavaScript",
     "name": "dennis23100/gemini-notebook-prompt-lab",
     "stars": 1,
-    "updated_at": "2026-08-13T10:42:44Z",
+    "updated_at": "2026-08-13T10:45:21Z",
     "url": "https://github.com/dennis23100/gemini-notebook-prompt-lab"
   },
   {
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-13T10:41:49Z",
+    "updated_at": "2026-08-13T10:44:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -79,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T10:39:48Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Open-source Python toolkit for structured AI cinematic workflows, scene planning, prompt generation, continuity validati",
-    "id": "XtolNguyen/ai-cinematic-workflow-toolkit",
-    "language": "Python",
-    "name": "XtolNguyen/ai-cinematic-workflow-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-13T10:39:03Z",
-    "url": "https://github.com/XtolNguyen/ai-cinematic-workflow-toolkit"
-  },
-  {
-    "description": "Tell coherence from truth \u2014 an LLM prompt that lays out any argument's hidden premises, alternatives, and missing eviden",
-    "id": "flypggl-cpu/LARP",
-    "language": "Python",
-    "name": "flypggl-cpu/LARP",
-    "stars": 2,
-    "updated_at": "2026-08-13T10:39:01Z",
-    "url": "https://github.com/flypggl-cpu/LARP"
   },
   {
     "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
@@ -187,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T10:30:42Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-13T10:30:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Developed a Python-based AI agent utilizing advanced prompt engineering to dynamically generate creative text and poetry",
@@ -401,7 +419,7 @@
     "language": "JavaScript",
     "name": "LearnPrompt/goodcaseai",
     "stars": 5,
-    "updated_at": "2026-08-13T10:12:04Z",
+    "updated_at": "2026-08-13T10:45:13Z",
     "url": "https://github.com/LearnPrompt/goodcaseai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T10:11:42Z",
     "url": "https://github.com/arnoldwender/zen-harness"
-  },
-  {
-    "description": "The Role of Thoughts: a Dynamic Cognitive Mixture-of-Experts router for Claude Code. 9 expert lenses, 10 routing lanes, ",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 2,
-    "updated_at": "2026-08-13T10:11:38Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
-  },
-  {
-    "description": "The Umuntu Harness \u2014 a conduct codex for AI coding agents, skinned as the ethics of Ubuntu ('a person is a person throug",
-    "id": "arnoldwender/umuntu-harness",
-    "language": "Python",
-    "name": "arnoldwender/umuntu-harness",
-    "stars": 0,
-    "updated_at": "2026-08-13T10:11:36Z",
-    "url": "https://github.com/arnoldwender/umuntu-harness"
   }
 ]
