@@ -1,5 +1,59 @@
 [
   {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 123,
+    "updated_at": "2026-08-13T14:44:25Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-13T14:43:52Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-08-13T14:42:57Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 5,
+    "updated_at": "2026-08-13T14:41:01Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 42321,
+    "updated_at": "2026-08-13T14:40:54Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-13T14:40:42Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
@@ -50,7 +104,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3486,
-    "updated_at": "2026-08-13T14:40:26Z",
+    "updated_at": "2026-08-13T14:45:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 24202,
     "updated_at": "2026-08-13T14:30:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-13T14:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An awesome list for collecting awesome lists related to AI.",
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33046,
-    "updated_at": "2026-08-13T14:39:59Z",
+    "updated_at": "2026-08-13T14:42:35Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-13T14:23:42Z",
     "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 42319,
-    "updated_at": "2026-08-13T14:23:38Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
@@ -211,7 +247,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 66168,
+    "stars": 66170,
     "updated_at": "2026-08-13T14:19:16Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "XioAISolutions/crumb-format",
     "stars": 2,
-    "updated_at": "2026-08-13T14:12:14Z",
+    "updated_at": "2026-08-13T14:43:49Z",
     "url": "https://github.com/XioAISolutions/crumb-format"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T14:00:53Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Oversized bootstrap files silently truncate. Audit and trim OpenClaw bootstrap surfaces before sessions start broken.",
-    "id": "escoffier-labs/bootstrap-doctor",
-    "language": "Python",
-    "name": "escoffier-labs/bootstrap-doctor",
-    "stars": 2,
-    "updated_at": "2026-08-13T13:59:41Z",
-    "url": "https://github.com/escoffier-labs/bootstrap-doctor"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11032,
-    "updated_at": "2026-08-13T13:57:43Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-13T13:57:32Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-13T13:56:58Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   }
 ]
