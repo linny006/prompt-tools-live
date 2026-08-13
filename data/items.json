@@ -5,7 +5,7 @@
     "language": "JavaScript",
     "name": "saitarrun/devforge-ai",
     "stars": 5,
-    "updated_at": "2026-08-13T21:56:51Z",
+    "updated_at": "2026-08-13T22:00:23Z",
     "url": "https://github.com/saitarrun/devforge-ai"
   },
   {
@@ -14,8 +14,35 @@
     "language": "TypeScript",
     "name": "ruvnet/dream-machine",
     "stars": 2,
-    "updated_at": "2026-08-13T21:56:37Z",
+    "updated_at": "2026-08-13T21:59:24Z",
     "url": "https://github.com/ruvnet/dream-machine"
+  },
+  {
+    "description": "A production LLM analysis pipeline with hard guardrails: significance gating, versioned prompts, numeric grounding, supe",
+    "id": "fabianguiliani/llm-guardrails",
+    "language": "JavaScript",
+    "name": "fabianguiliani/llm-guardrails",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:59:03Z",
+    "url": "https://github.com/fabianguiliani/llm-guardrails"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7045,
+    "updated_at": "2026-08-13T21:58:50Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-13T21:58:07Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Self-authored camera-motion grammar for AI-video prompting \u2014 ten categories (camera/data/effects/transition), zero third",
@@ -108,15 +135,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "A production LLM analysis pipeline with hard guardrails: significance gating, versioned prompts, numeric grounding, supe",
-    "id": "fabianguiliani/llm-guardrails",
-    "language": "JavaScript",
-    "name": "fabianguiliani/llm-guardrails",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:51:48Z",
-    "url": "https://github.com/fabianguiliani/llm-guardrails"
-  },
-  {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
     "id": "AgustiPuigserver/opus-prompt-architect",
     "language": "HTML",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 13,
-    "updated_at": "2026-08-13T21:49:29Z",
+    "updated_at": "2026-08-13T22:00:06Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T21:45:42Z",
     "url": "https://github.com/elmaroun07-hub/tokenguard"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-13T21:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T21:34:39Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Local-first PySide6 prompt manager with versions, boards, clipboard modes, JSON export and a read-only Web/PWA companion",
-    "id": "file-bricks/ProfiPrompt",
-    "language": "Python",
-    "name": "file-bricks/ProfiPrompt",
-    "stars": 2,
-    "updated_at": "2026-08-13T21:34:06Z",
-    "url": "https://github.com/file-bricks/ProfiPrompt"
   }
 ]
