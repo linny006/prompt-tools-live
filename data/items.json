@@ -1,11 +1,137 @@
 [
   {
+    "description": "A multi-stage LLM pipeline for aptitude-driven job search, career targeting, and search strategy generation.",
+    "id": "mattburnett-repo/aptitude-search",
+    "language": "Python",
+    "name": "mattburnett-repo/aptitude-search",
+    "stars": 0,
+    "updated_at": "2026-08-13T17:44:58Z",
+    "url": "https://github.com/mattburnett-repo/aptitude-search"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 3,
+    "updated_at": "2026-08-13T17:45:15Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-13T17:43:50Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Uncovering the Fragility of Trustworthy LLMs through Chinese Textual Ambiguity",
+    "id": "ictup/LLM-Chinese-Textual-Disambiguation",
+    "language": "Python",
+    "name": "ictup/LLM-Chinese-Textual-Disambiguation",
+    "stars": 3,
+    "updated_at": "2026-08-13T17:42:27Z",
+    "url": "https://github.com/ictup/LLM-Chinese-Textual-Disambiguation"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Python",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-08-13T17:42:12Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3487,
+    "updated_at": "2026-08-13T17:42:02Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
+    "id": "MihirKJha/enterprise-ai-engineering-handbook",
+    "language": "Python",
+    "name": "MihirKJha/enterprise-ai-engineering-handbook",
+    "stars": 0,
+    "updated_at": "2026-08-13T17:40:13Z",
+    "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
+  },
+  {
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,018-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 0,
+    "updated_at": "2026-08-13T17:43:24Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
+  },
+  {
+    "description": "\u6839\u636e\u6587\u7ae0\u4e00\u6b21\u751f\u621010\u5f20\u624b\u7ed8\u516c\u4f17\u53f7\u5c01\u9762\uff0c\u5e76\u6309\u76ee\u6807\u5ba2\u6237\u5438\u5f15\u529b\u5b8c\u6574\u6392\u540d\u7684 Codex Skill",
+    "id": "HeyClioo/wechat-article-cover-skill",
+    "language": "\u2014",
+    "name": "HeyClioo/wechat-article-cover-skill",
+    "stars": 0,
+    "updated_at": "2026-08-13T17:39:16Z",
+    "url": "https://github.com/HeyClioo/wechat-article-cover-skill"
+  },
+  {
+    "description": "",
+    "id": "naresh-FD/copilot-governance",
+    "language": "JavaScript",
+    "name": "naresh-FD/copilot-governance",
+    "stars": 0,
+    "updated_at": "2026-08-13T17:38:09Z",
+    "url": "https://github.com/naresh-FD/copilot-governance"
+  },
+  {
+    "description": "A daily news briefing where every citation is checked against the corpus it came from. Python stdlib only, no API keys.",
+    "id": "elanthus/news-briefing",
+    "language": "Python",
+    "name": "elanthus/news-briefing",
+    "stars": 1,
+    "updated_at": "2026-08-13T17:39:06Z",
+    "url": "https://github.com/elanthus/news-briefing"
+  },
+  {
+    "description": "In the midst of all the tools out there that you can possibly use to keep track of them. Here's a \"shovel\" that just wor",
+    "id": "BA-CalderonMorales/terminal-jarvis",
+    "language": "Rust",
+    "name": "BA-CalderonMorales/terminal-jarvis",
+    "stars": 131,
+    "updated_at": "2026-08-13T17:38:02Z",
+    "url": "https://github.com/BA-CalderonMorales/terminal-jarvis"
+  },
+  {
+    "description": "A one-file bootloader that helps coding agents execute long-horizon projects across sessions and context windows.",
+    "id": "openmetaloop/OpenMetaLoop",
+    "language": "\u2014",
+    "name": "openmetaloop/OpenMetaLoop",
+    "stars": 7,
+    "updated_at": "2026-08-13T17:37:37Z",
+    "url": "https://github.com/openmetaloop/OpenMetaLoop"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-13T17:37:04Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A stack-agnostic, human-in-the-loop AI development workflow kit. The kit owns the workflow; your project owns the stack.",
     "id": "rikilamadrid/pathfinder",
     "language": "JavaScript",
     "name": "rikilamadrid/pathfinder",
     "stars": 1,
-    "updated_at": "2026-08-13T17:35:55Z",
+    "updated_at": "2026-08-13T17:41:40Z",
     "url": "https://github.com/rikilamadrid/pathfinder"
   },
   {
@@ -23,7 +149,7 @@
     "language": "TypeScript",
     "name": "matthews-wong/llm-prompt-lab",
     "stars": 0,
-    "updated_at": "2026-08-13T17:35:33Z",
+    "updated_at": "2026-08-13T17:37:20Z",
     "url": "https://github.com/matthews-wong/llm-prompt-lab"
   },
   {
@@ -31,7 +157,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 66193,
+    "stars": 66196,
     "updated_at": "2026-08-13T17:35:03Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -68,17 +194,8 @@
     "language": "Python",
     "name": "promptdriven/pdd",
     "stars": 839,
-    "updated_at": "2026-08-13T17:36:44Z",
+    "updated_at": "2026-08-13T17:40:40Z",
     "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "",
-    "id": "naresh-FD/copilot-governance",
-    "language": "JavaScript",
-    "name": "naresh-FD/copilot-governance",
-    "stars": 0,
-    "updated_at": "2026-08-13T17:32:48Z",
-    "url": "https://github.com/naresh-FD/copilot-governance"
   },
   {
     "description": "Token-Dense Format (TDF): Convert PDFs, Office docs, and HTML into a token-optimized text format for LLMs. 100% semantic",
@@ -88,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T17:30:52Z",
     "url": "https://github.com/meashumishra/TDF"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-13T17:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "A one-file bootloader that helps coding agents execute long-horizon projects across sessions and context windows.",
-    "id": "openmetaloop/OpenMetaLoop",
-    "language": "\u2014",
-    "name": "openmetaloop/OpenMetaLoop",
-    "stars": 7,
-    "updated_at": "2026-08-13T17:29:59Z",
-    "url": "https://github.com/openmetaloop/OpenMetaLoop"
   },
   {
     "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
@@ -126,15 +225,6 @@
     "url": "https://github.com/escoffier-labs/bootstrap-doctor"
   },
   {
-    "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
-    "id": "MihirKJha/enterprise-ai-engineering-handbook",
-    "language": "Python",
-    "name": "MihirKJha/enterprise-ai-engineering-handbook",
-    "stars": 0,
-    "updated_at": "2026-08-13T17:28:30Z",
-    "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
-  },
-  {
     "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
     "id": "parkerluxu/Awesome-agent-cases",
     "language": "JavaScript",
@@ -151,15 +241,6 @@
     "stars": 5,
     "updated_at": "2026-08-13T17:25:01Z",
     "url": "https://github.com/LearnPrompt/goodcaseai"
-  },
-  {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Python",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-08-13T17:23:44Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
   },
   {
     "description": "Agent Skills - 29 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
@@ -202,18 +283,9 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 42354,
+    "stars": 42355,
     "updated_at": "2026-08-13T17:21:44Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,018-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 0,
-    "updated_at": "2026-08-13T17:21:11Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -223,15 +295,6 @@
     "stars": 29,
     "updated_at": "2026-08-13T17:20:58Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "A daily news briefing where every citation is checked against the corpus it came from. Python stdlib only, no API keys.",
-    "id": "elanthus/news-briefing",
-    "language": "Python",
-    "name": "elanthus/news-briefing",
-    "stars": 1,
-    "updated_at": "2026-08-13T17:35:33Z",
-    "url": "https://github.com/elanthus/news-briefing"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T17:03:46Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Worked as a project-based AI Agent Specialist with Handshake AI through the Dynamo project, working on structured softwa",
-    "id": "Eveningstar-999/AI-AGENTIC-DEVELOPMENT---WORKFLOW-AUTOMATION",
-    "language": "\u2014",
-    "name": "Eveningstar-999/AI-AGENTIC-DEVELOPMENT---WORKFLOW-AUTOMATION",
-    "stars": 0,
-    "updated_at": "2026-08-13T17:03:30Z",
-    "url": "https://github.com/Eveningstar-999/AI-AGENTIC-DEVELOPMENT---WORKFLOW-AUTOMATION"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 157,
-    "updated_at": "2026-08-13T17:02:47Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-S",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "JavaScript",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 62837,
-    "updated_at": "2026-08-13T17:02:34Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "The Role of Thoughts: a Dynamic Cognitive Mixture-of-Experts router for Claude Code. 9 expert lenses, 10 routing lanes, ",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 2,
-    "updated_at": "2026-08-13T17:02:31Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
-  },
-  {
-    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
-    "id": "F-e-u-e-r/opus-pack",
-    "language": "Python",
-    "name": "F-e-u-e-r/opus-pack",
-    "stars": 2,
-    "updated_at": "2026-08-13T17:02:06Z",
-    "url": "https://github.com/F-e-u-e-r/opus-pack"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 123,
-    "updated_at": "2026-08-13T17:01:57Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "AI security testing \u2014 find security vulnerabilities in LLM apps, chatbots, AI agents, MCP servers, and RAG systems. Mapp",
-    "id": "YangYang-Research/yang-promptlab",
-    "language": "Rust",
-    "name": "YangYang-Research/yang-promptlab",
-    "stars": 0,
-    "updated_at": "2026-08-13T17:01:50Z",
-    "url": "https://github.com/YangYang-Research/yang-promptlab"
   }
 ]
