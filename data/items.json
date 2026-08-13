@@ -1,5 +1,95 @@
 [
   {
+    "description": "Two prompt templates for coding agents: one fixes bugs, one builds features. Process constraints, not prompt magic. \u4e2d\u82f1\u53cc\u8bed",
+    "id": "JamesRRR/agent-prompt-templates",
+    "language": "\u2014",
+    "name": "JamesRRR/agent-prompt-templates",
+    "stars": 0,
+    "updated_at": "2026-08-13T02:58:58Z",
+    "url": "https://github.com/JamesRRR/agent-prompt-templates"
+  },
+  {
+    "description": "Open skills, harnesses, hooks, and verifiers for giving probabilistic AI a control layer.",
+    "id": "Kosmoray/dayan-agent-skills",
+    "language": "Python",
+    "name": "Kosmoray/dayan-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-08-13T02:58:33Z",
+    "url": "https://github.com/Kosmoray/dayan-agent-skills"
+  },
+  {
+    "description": "The Role of Thoughts: a Dynamic Cognitive Mixture-of-Experts router for Claude Code. 9 expert lenses, 10 routing lanes, ",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Shell",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 2,
+    "updated_at": "2026-08-13T02:51:48Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+  },
+  {
+    "description": "Reusable prompts and project instruction files for building, auditing, automating, and maintaining software projects.",
+    "id": "mickpletcher/prompt-repo",
+    "language": "\u2014",
+    "name": "mickpletcher/prompt-repo",
+    "stars": 0,
+    "updated_at": "2026-08-13T02:50:40Z",
+    "url": "https://github.com/mickpletcher/prompt-repo"
+  },
+  {
+    "description": "Open-source LLM eval workbench: generate verifiable prompts from parametric templates, compare any model on text or imag",
+    "id": "redrob-labs/redrob-eval",
+    "language": "TypeScript",
+    "name": "redrob-labs/redrob-eval",
+    "stars": 3,
+    "updated_at": "2026-08-13T02:50:35Z",
+    "url": "https://github.com/redrob-labs/redrob-eval"
+  },
+  {
+    "description": "Chinese-first Codex skill pack for intent alignment, dynamic routing, lightweight development, code review, UI design, a",
+    "id": "CCDawn/codex-skills",
+    "language": "Python",
+    "name": "CCDawn/codex-skills",
+    "stars": 4,
+    "updated_at": "2026-08-13T02:50:22Z",
+    "url": "https://github.com/CCDawn/codex-skills"
+  },
+  {
+    "description": "Rewrites LLM prompts to cost fewer tokens without changing what they ask for, then measures the energy and cost avoided.",
+    "id": "kbhatnagar1506/EcoAI",
+    "language": "Python",
+    "name": "kbhatnagar1506/EcoAI",
+    "stars": 0,
+    "updated_at": "2026-08-13T02:50:27Z",
+    "url": "https://github.com/kbhatnagar1506/EcoAI"
+  },
+  {
+    "description": "Quality-process skills, rules, and playbooks that make cheaper AI coding agents produce near-frontier output. Ports for ",
+    "id": "franciszver/fable-quality-library",
+    "language": "Shell",
+    "name": "franciszver/fable-quality-library",
+    "stars": 0,
+    "updated_at": "2026-08-13T02:46:32Z",
+    "url": "https://github.com/franciszver/fable-quality-library"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 3,
+    "updated_at": "2026-08-13T02:45:54Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-13T02:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "<DDW-X> Agentic Knowledge Base: A massive, cross-IDE repository transforming leaked AI system prompts (GPT-5, Claude Fab",
     "id": "DDW-X/awesome-agent-skills",
     "language": "Python",
@@ -9,40 +99,13 @@
     "url": "https://github.com/DDW-X/awesome-agent-skills"
   },
   {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 3,
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 42223,
     "updated_at": "2026-08-13T02:45:15Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Open skills, harnesses, hooks, and verifiers for giving probabilistic AI a control layer.",
-    "id": "Kosmoray/dayan-agent-skills",
-    "language": "Python",
-    "name": "Kosmoray/dayan-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-08-13T02:44:26Z",
-    "url": "https://github.com/Kosmoray/dayan-agent-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-13T02:41:55Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Rewrites LLM prompts to cost fewer tokens without changing what they ask for, then measures the energy and cost avoided.",
-    "id": "kbhatnagar1506/EcoAI",
-    "language": "Python",
-    "name": "kbhatnagar1506/EcoAI",
-    "stars": 0,
-    "updated_at": "2026-08-13T02:41:54Z",
-    "url": "https://github.com/kbhatnagar1506/EcoAI"
+    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -180,15 +243,6 @@
     "url": "https://github.com/weijia-89/palamedes"
   },
   {
-    "description": "Quality-process skills, rules, and playbooks that make cheaper AI coding agents produce near-frontier output. Ports for ",
-    "id": "franciszver/fable-quality-library",
-    "language": "Shell",
-    "name": "franciszver/fable-quality-library",
-    "stars": 0,
-    "updated_at": "2026-08-13T02:31:43Z",
-    "url": "https://github.com/franciszver/fable-quality-library"
-  },
-  {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
     "id": "Magma1321/mythos-agent-pipe",
     "language": "HTML",
@@ -223,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T02:28:49Z",
     "url": "https://github.com/320exh/prompt-diff"
-  },
-  {
-    "description": "Open-source LLM eval workbench: generate verifiable prompts from parametric templates, compare any model on text or imag",
-    "id": "redrob-labs/redrob-eval",
-    "language": "TypeScript",
-    "name": "redrob-labs/redrob-eval",
-    "stars": 3,
-    "updated_at": "2026-08-13T02:40:52Z",
-    "url": "https://github.com/redrob-labs/redrob-eval"
   },
   {
     "description": "\ud83d\udcac 1,400+ AI personas for LLMs and agents.",
@@ -324,15 +369,6 @@
     "url": "https://github.com/pranayprasad7001/generative-ai-projects"
   },
   {
-    "description": "The Role of Thoughts: a Dynamic Cognitive Mixture-of-Experts router for Claude Code. 9 expert lenses, 10 routing lanes, ",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 2,
-    "updated_at": "2026-08-13T02:12:18Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
-  },
-  {
     "description": "Preventive rules book for AI agents \u2014 stop repeating mistakes\uff08\u524d\u7f6e\u9632\u9519\u9519\u9898\u672c\uff09",
     "id": "rumilhz/wrongbook",
     "language": "Python",
@@ -367,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T02:07:31Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 42222,
-    "updated_at": "2026-08-13T02:45:15Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-13T02:04:12Z",
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
-    "id": "ZeroLu/awesome-seedance",
-    "language": "Shell",
-    "name": "ZeroLu/awesome-seedance",
-    "stars": 2288,
-    "updated_at": "2026-08-13T02:03:05Z",
-    "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "\ud83e\udd17 The largest downloadable SeedDance 2 prompt library \u2014 8,105 prompts and growing, daily updates with HuggingFace datase",
-    "id": "goku-open/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-seedance-2-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-13T02:02:26Z",
-    "url": "https://github.com/goku-open/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-08-13T02:02:23Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
   }
 ]
