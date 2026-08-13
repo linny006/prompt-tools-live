@@ -1,5 +1,104 @@
 [
   {
+    "description": "Production-grade agent skills and Custom GPT prompts for ChatGPT, Claude Code, and Codex. 140 skills, 28 agents, Agent S",
+    "id": "vasilyu1983/AI-Agents-public",
+    "language": "Python",
+    "name": "vasilyu1983/AI-Agents-public",
+    "stars": 74,
+    "updated_at": "2026-08-13T15:34:49Z",
+    "url": "https://github.com/vasilyu1983/AI-Agents-public"
+  },
+  {
+    "description": "90-style visual prompt atlas comparing ChatGPT and Gemini outputs",
+    "id": "leky90/promptatlas",
+    "language": "JavaScript",
+    "name": "leky90/promptatlas",
+    "stars": 0,
+    "updated_at": "2026-08-13T15:34:38Z",
+    "url": "https://github.com/leky90/promptatlas"
+  },
+  {
+    "description": "A fast, git-native CLI & local Web UI to version, diff tokens/costs, and benchmark LLM system prompts across local & clo",
+    "id": "320exh/prompt-diff",
+    "language": "Go",
+    "name": "320exh/prompt-diff",
+    "stars": 0,
+    "updated_at": "2026-08-13T15:33:32Z",
+    "url": "https://github.com/320exh/prompt-diff"
+  },
+  {
+    "description": "Midjourney \u2013 A powerful desktop tool to manage unlimited prompt generation, optimize your workflow, and enhance AI art c",
+    "id": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
+    "language": "\u2014",
+    "name": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
+    "stars": 1,
+    "updated_at": "2026-08-13T15:33:21Z",
+    "url": "https://github.com/deader49963hefty/Midjourney-Ultimate-Prompts-Studio"
+  },
+  {
+    "description": "Worked as a project-based AI Agent Specialist with Handshake AI through the Dynamo project, working on structured softwa",
+    "id": "Eveningstar-999/AI-AGENTIC-DEVELOPMENT---WORKFLOW-AUTOMATION",
+    "language": "\u2014",
+    "name": "Eveningstar-999/AI-AGENTIC-DEVELOPMENT---WORKFLOW-AUTOMATION",
+    "stars": 0,
+    "updated_at": "2026-08-13T15:33:20Z",
+    "url": "https://github.com/Eveningstar-999/AI-AGENTIC-DEVELOPMENT---WORKFLOW-AUTOMATION"
+  },
+  {
+    "description": "PromptPotter: AI optimization engine for automated prompt engineering (APE). Searches and tunes prompts and parameters a",
+    "id": "PromptPotter/prompt-potter-optimizer",
+    "language": "Python",
+    "name": "PromptPotter/prompt-potter-optimizer",
+    "stars": 1,
+    "updated_at": "2026-08-13T15:32:32Z",
+    "url": "https://github.com/PromptPotter/prompt-potter-optimizer"
+  },
+  {
+    "description": "Agent Skills & DeepSeek Harness (DSH) \u6269\u5c55\u5e93\uff1a\u901a\u7528\u667a\u80fd\u4f53\u6280\u80fd\uff08General_skills\uff09+ DSH \u6807\u51c6\u63d2\u4ef6\uff08dsh-plugin\uff09\uff0c\u5f00\u7bb1\u5373\u7528\u7684 AI Agent \u80fd\u529b\u589e\u5f3a\u96c6\u5408\u3002",
+    "id": "DDDFXYqiming/Agent_Extensions",
+    "language": "Python",
+    "name": "DDDFXYqiming/Agent_Extensions",
+    "stars": 2,
+    "updated_at": "2026-08-13T15:31:31Z",
+    "url": "https://github.com/DDDFXYqiming/Agent_Extensions"
+  },
+  {
+    "description": "Open-source coding agent for real software work. Plans, reviews, and implements tasks with an explicit, inspectable inst",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-08-13T15:30:43Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
+    "id": "martialsystems/verify-before-done",
+    "language": "\u2014",
+    "name": "martialsystems/verify-before-done",
+    "stars": 1,
+    "updated_at": "2026-08-13T15:30:35Z",
+    "url": "https://github.com/martialsystems/verify-before-done"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-13T15:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI BYOK with markdown editing for prompts",
+    "id": "lynnpyaeyehtut-art/MD-AI",
+    "language": "JavaScript",
+    "name": "lynnpyaeyehtut-art/MD-AI",
+    "stars": 0,
+    "updated_at": "2026-08-13T15:30:06Z",
+    "url": "https://github.com/lynnpyaeyehtut-art/MD-AI"
+  },
+  {
     "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their ",
     "id": "yzhao062/agent-style",
     "language": "Python",
@@ -13,7 +112,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 97958,
+    "stars": 97959,
     "updated_at": "2026-08-13T15:28:01Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -23,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33048,
-    "updated_at": "2026-08-13T15:29:43Z",
+    "updated_at": "2026-08-13T15:34:37Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -34,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-08-13T15:27:39Z",
     "url": "https://github.com/weed33834/agent-builder-skill"
-  },
-  {
-    "description": "A fast, git-native CLI & local Web UI to version, diff tokens/costs, and benchmark LLM system prompts across local & clo",
-    "id": "320exh/prompt-diff",
-    "language": "Go",
-    "name": "320exh/prompt-diff",
-    "stars": 0,
-    "updated_at": "2026-08-13T15:27:11Z",
-    "url": "https://github.com/320exh/prompt-diff"
   },
   {
     "description": "Kit reutiliz\u00e1vel para conduzir projetos de software com agentes de IA do zero \u00e0 entrega: fases com port\u00f5es objetivos, de",
@@ -63,15 +153,6 @@
     "url": "https://github.com/q2522879285-source/minimax-h3-prompting-skill-public"
   },
   {
-    "description": "Agent Skills & DeepSeek Harness (DSH) \u6269\u5c55\u5e93\uff1a\u901a\u7528\u667a\u80fd\u4f53\u6280\u80fd\uff08General_skills\uff09+ DSH \u6807\u51c6\u63d2\u4ef6\uff08dsh-plugin\uff09\uff0c\u5f00\u7bb1\u5373\u7528\u7684 AI Agent \u80fd\u529b\u589e\u5f3a\u96c6\u5408\u3002",
-    "id": "DDDFXYqiming/Agent_Extensions",
-    "language": "Python",
-    "name": "DDDFXYqiming/Agent_Extensions",
-    "stars": 2,
-    "updated_at": "2026-08-13T15:26:19Z",
-    "url": "https://github.com/DDDFXYqiming/Agent_Extensions"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -85,7 +166,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 42333,
+    "stars": 42335,
     "updated_at": "2026-08-13T15:25:30Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -149,7 +230,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11033,
-    "updated_at": "2026-08-13T15:27:22Z",
+    "updated_at": "2026-08-13T15:30:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -160,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T15:17:21Z",
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-13T15:15:40Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
@@ -189,15 +261,6 @@
     "url": "https://github.com/Sky-Cube/fullflow-dev-agent"
   },
   {
-    "description": "90-style visual prompt atlas comparing ChatGPT and Gemini outputs",
-    "id": "leky90/promptatlas",
-    "language": "JavaScript",
-    "name": "leky90/promptatlas",
-    "stars": 0,
-    "updated_at": "2026-08-13T15:11:03Z",
-    "url": "https://github.com/leky90/promptatlas"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -205,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T15:09:32Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "AI BYOK with markdown editing for prompts",
-    "id": "lynnpyaeyehtut-art/MD-AI",
-    "language": "HTML",
-    "name": "lynnpyaeyehtut-art/MD-AI",
-    "stars": 0,
-    "updated_at": "2026-08-13T15:30:06Z",
-    "url": "https://github.com/lynnpyaeyehtut-art/MD-AI"
   },
   {
     "description": "Autonomous ReAct agent for exploratory data analysis \u2014 self-diagnoses failure modes via real debugging, validated across",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T14:59:29Z",
     "url": "https://github.com/jcarlosrodicio/pi-agent-orchestration-kit"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 1,
-    "updated_at": "2026-08-13T14:59:17Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Design, audit, and test reliable routing contracts for Codex skills.",
-    "id": "Ninaix0217/create-routable-skill",
-    "language": "Python",
-    "name": "Ninaix0217/create-routable-skill",
-    "stars": 2,
-    "updated_at": "2026-08-13T14:59:53Z",
-    "url": "https://github.com/Ninaix0217/create-routable-skill"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 151,
-    "updated_at": "2026-08-13T14:58:50Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, and safety risks.",
-    "id": "evilstar2016/skill-doctor",
-    "language": "TypeScript",
-    "name": "evilstar2016/skill-doctor",
-    "stars": 5,
-    "updated_at": "2026-08-13T14:58:39Z",
-    "url": "https://github.com/evilstar2016/skill-doctor"
-  },
-  {
-    "description": "Prompt-only, three-axis repository hygiene assessments for coding agents.",
-    "id": "MaySudo/rigor3",
-    "language": "\u2014",
-    "name": "MaySudo/rigor3",
-    "stars": 6,
-    "updated_at": "2026-08-13T14:58:02Z",
-    "url": "https://github.com/MaySudo/rigor3"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-08-13T14:57:42Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   }
 ]
