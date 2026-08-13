@@ -1,5 +1,59 @@
 [
   {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 3,
+    "updated_at": "2026-08-13T07:03:49Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "\u4e2d\u6587\u8001\u5e08\uff5cChinese Teacher \u2014 \u8ba9\u4e2d\u6587\u5de5\u4f5c\u6587\u6863\u6709\u5224\u65ad\u529b\u3001\u6709\u4eba\u5473\u3001\u80fd\u63a8\u52a8\u51b3\u7b56\u7684 AI skill\uff0c\u81ea\u52a8\u63d2\u5165\u98de\u4e66\u753b\u677f\u505a\u89c6\u89c9\u6458\u8981",
+    "id": "TongyiDai/chinese-teacher",
+    "language": "Shell",
+    "name": "TongyiDai/chinese-teacher",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:02:58Z",
+    "url": "https://github.com/TongyiDai/chinese-teacher"
+  },
+  {
+    "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
+    "id": "MihirKJha/enterprise-ai-engineering-handbook",
+    "language": "Python",
+    "name": "MihirKJha/enterprise-ai-engineering-handbook",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:02:45Z",
+    "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-13T07:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\u5feb\u624b(kuaishou)\u5185\u90e8 Agent \u6280\u80fd\u96c6:\u63d0\u793a\u8bcd\u4f18\u5316\u3001\u65e5\u5fd7\u6392\u969c\u3001\u53d1\u5e03\u5de1\u68c0\u3001\u70ed\u70b9\u76d8\u70b9,\u4f9b @kuaishou.com \u57df\u540c\u4e8b\u4e0e\u5185\u90e8 agent \u4f7f\u7528\u3002Kuaishou internal agent skills: prompt tun",
+    "id": "Jest3r666/kwai-agent-skills",
+    "language": "Shell",
+    "name": "Jest3r666/kwai-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:03:46Z",
+    "url": "https://github.com/Jest3r666/kwai-agent-skills"
+  },
+  {
+    "description": "Hebdo sur les agents IA",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 2,
+    "updated_at": "2026-08-13T07:00:13Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T06:55:25Z",
     "url": "https://github.com/ruashots/open-h3-ir"
-  },
-  {
-    "description": "\u5feb\u624b(kuaishou)\u5185\u90e8 Agent \u6280\u80fd\u96c6:\u63d0\u793a\u8bcd\u4f18\u5316\u3001\u65e5\u5fd7\u6392\u969c\u3001\u53d1\u5e03\u5de1\u68c0\u3001\u70ed\u70b9\u76d8\u70b9,\u4f9b @kuaishou.com \u57df\u540c\u4e8b\u4e0e\u5185\u90e8 agent \u4f7f\u7528\u3002Kuaishou internal agent skills: prompt tun",
-    "id": "Jest3r666/kwai-agent-skills",
-    "language": "Shell",
-    "name": "Jest3r666/kwai-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-13T07:00:25Z",
-    "url": "https://github.com/Jest3r666/kwai-agent-skills"
   },
   {
     "description": "Open-source Python toolkit for structured AI cinematic workflows, scene planning, prompt generation, continuity validati",
@@ -76,7 +121,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33010,
+    "stars": 33011,
     "updated_at": "2026-08-13T06:52:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "F-e-u-e-r/opus-pack",
     "stars": 2,
-    "updated_at": "2026-08-13T06:48:39Z",
+    "updated_at": "2026-08-13T07:02:41Z",
     "url": "https://github.com/F-e-u-e-r/opus-pack"
   },
   {
@@ -180,15 +225,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-13T06:45:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
     "id": "shalintripathi/saas-marketing-agents",
     "language": "Markdown",
@@ -196,15 +232,6 @@
     "stars": 5,
     "updated_at": "2026-08-13T06:45:13Z",
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
-    "id": "MihirKJha/enterprise-ai-engineering-handbook",
-    "language": "Python",
-    "name": "MihirKJha/enterprise-ai-engineering-handbook",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:44:19Z",
-    "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "luckyrjain/software-builder",
     "stars": 0,
-    "updated_at": "2026-08-13T07:00:10Z",
+    "updated_at": "2026-08-13T07:01:55Z",
     "url": "https://github.com/luckyrjain/software-builder"
   },
   {
@@ -391,7 +418,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 42260,
+    "stars": 42262,
     "updated_at": "2026-08-13T06:27:47Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T06:24:34Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 156,
-    "updated_at": "2026-08-13T06:23:30Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:21:10Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 155,
-    "updated_at": "2026-08-13T06:20:00Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
   }
 ]
