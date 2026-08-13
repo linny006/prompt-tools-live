@@ -1,12 +1,201 @@
 [
   {
+    "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
+    "id": "MihirKJha/enterprise-ai-engineering-handbook",
+    "language": "Python",
+    "name": "MihirKJha/enterprise-ai-engineering-handbook",
+    "stars": 0,
+    "updated_at": "2026-08-13T06:44:19Z",
+    "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
+  },
+  {
+    "description": "Open-source Python toolkit for structured AI cinematic workflows, scene planning, prompt generation, continuity validati",
+    "id": "XtolNguyen/ai-cinematic-workflow-toolkit",
+    "language": "Python",
+    "name": "XtolNguyen/ai-cinematic-workflow-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-13T06:43:50Z",
+    "url": "https://github.com/XtolNguyen/ai-cinematic-workflow-toolkit"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-13T06:43:41Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org",
+    "id": "luckyrjain/software-builder",
+    "language": "Python",
+    "name": "luckyrjain/software-builder",
+    "stars": 0,
+    "updated_at": "2026-08-13T06:43:09Z",
+    "url": "https://github.com/luckyrjain/software-builder"
+  },
+  {
+    "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
+    "id": "AmadeusITGroup/ai-primitives-hub",
+    "language": "TypeScript",
+    "name": "AmadeusITGroup/ai-primitives-hub",
+    "stars": 49,
+    "updated_at": "2026-08-13T06:43:01Z",
+    "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-08-13T06:40:59Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "A portable, cross-agent skill library for Claude Code and compatible AI agents.",
+    "id": "mifunedev/skills",
+    "language": "Shell",
+    "name": "mifunedev/skills",
+    "stars": 0,
+    "updated_at": "2026-08-13T06:40:56Z",
+    "url": "https://github.com/mifunedev/skills"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 3,
+    "updated_at": "2026-08-13T06:40:55Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "kuaishou (kwai) internal agent skills: prompt tuning, log triage, deploy guard, hot-topic digest @kuaishou.com",
+    "id": "Jest3r666/kwai-agent-skills",
+    "language": "\u2014",
+    "name": "Jest3r666/kwai-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-13T06:40:45Z",
+    "url": "https://github.com/Jest3r666/kwai-agent-skills"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Python",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-08-13T06:39:55Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "An installable Claude Code plugin: five-team agent organization with hook-enforced verification \u2014 blocks test claims tha",
+    "id": "MohamedEmbarak/Supreme-Leader",
+    "language": "Python",
+    "name": "MohamedEmbarak/Supreme-Leader",
+    "stars": 1,
+    "updated_at": "2026-08-13T06:39:22Z",
+    "url": "https://github.com/MohamedEmbarak/Supreme-Leader"
+  },
+  {
+    "description": "42 engineering skills for Claude Code across the SDLC \u2014 shared principles injected at session start. Works with Codex, C",
+    "id": "int2t05/engineering-skills",
+    "language": "Python",
+    "name": "int2t05/engineering-skills",
+    "stars": 2,
+    "updated_at": "2026-08-13T06:39:18Z",
+    "url": "https://github.com/int2t05/engineering-skills"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 18,
+    "updated_at": "2026-08-13T06:38:16Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
+    "id": "eric-sabe/engsys",
+    "language": "JavaScript",
+    "name": "eric-sabe/engsys",
+    "stars": 1,
+    "updated_at": "2026-08-13T06:37:38Z",
+    "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
+    "description": "AI Personal Assistant with OpenAI & Gemini SDK integration, prompt engineering, structured outputs, and a FastAPI endpoi",
+    "id": "Hamna-Munir/01-AI-Personal-Assistant",
+    "language": "\u2014",
+    "name": "Hamna-Munir/01-AI-Personal-Assistant",
+    "stars": 1,
+    "updated_at": "2026-08-13T06:36:59Z",
+    "url": "https://github.com/Hamna-Munir/01-AI-Personal-Assistant"
+  },
+  {
     "description": "A conduct codex for AI coding agents, skinned as the Confucian way of the junzi \u2014 four disciplines from the Five Constan",
     "id": "arnoldwender/junzi-harness",
     "language": "Shell",
     "name": "arnoldwender/junzi-harness",
     "stars": 0,
-    "updated_at": "2026-08-13T06:30:25Z",
+    "updated_at": "2026-08-13T06:36:42Z",
     "url": "https://github.com/arnoldwender/junzi-harness"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33010,
+    "updated_at": "2026-08-13T06:34:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A conduct codex for AI coding agents: four disciplines, each rule with a falsifier. Named for the angels that guard the ",
+    "id": "arnoldwender/angelical-harness",
+    "language": "Shell",
+    "name": "arnoldwender/angelical-harness",
+    "stars": 0,
+    "updated_at": "2026-08-13T06:32:44Z",
+    "url": "https://github.com/arnoldwender/angelical-harness"
+  },
+  {
+    "description": "The Zen Harness \u2014 a conduct codex for AI coding agents, skinned as Zen practice: four disciplines (S\u014dji, Shoshin, the Cl",
+    "id": "arnoldwender/zen-harness",
+    "language": "Shell",
+    "name": "arnoldwender/zen-harness",
+    "stars": 0,
+    "updated_at": "2026-08-13T06:30:30Z",
+    "url": "https://github.com/arnoldwender/zen-harness"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-13T06:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The Umuntu Harness \u2014 a conduct codex for AI coding agents, skinned as the ethics of Ubuntu ('a person is a person throug",
+    "id": "arnoldwender/umuntu-harness",
+    "language": "Shell",
+    "name": "arnoldwender/umuntu-harness",
+    "stars": 0,
+    "updated_at": "2026-08-13T06:30:28Z",
+    "url": "https://github.com/arnoldwender/umuntu-harness"
+  },
+  {
+    "description": "A conduct codex for AI coding agents, skinned as the hacker ethic \u2014 four disciplines (Leave It Hackable, Read the Source",
+    "id": "arnoldwender/nerd-harness",
+    "language": "Shell",
+    "name": "arnoldwender/nerd-harness",
+    "stars": 0,
+    "updated_at": "2026-08-13T06:30:27Z",
+    "url": "https://github.com/arnoldwender/nerd-harness"
   },
   {
     "description": "A conduct codex for AI coding agents, skinned as the Islamic ethic of craft \u2014 four virtues (Adab, Hikmah, Sidq, Sabr) un",
@@ -27,6 +216,15 @@
     "url": "https://github.com/arnoldwender/empirical-harness"
   },
   {
+    "description": "A conduct codex for AI coding agents, skinned as dharma \u2014 four virtues from the yamas/niyamas and the Gita (Shaucha, Viv",
+    "id": "arnoldwender/dharma-harness",
+    "language": "Shell",
+    "name": "arnoldwender/dharma-harness",
+    "stars": 0,
+    "updated_at": "2026-08-13T06:30:20Z",
+    "url": "https://github.com/arnoldwender/dharma-harness"
+  },
+  {
     "description": "A conduct codex for AI coding agents, skinned as the warrior's code \u2014 four virtues (Rei, Gi, Makoto, Chugi), each rule w",
     "id": "arnoldwender/bushido-harness",
     "language": "Shell",
@@ -34,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T06:30:19Z",
     "url": "https://github.com/arnoldwender/bushido-harness"
-  },
-  {
-    "description": "A conduct codex for AI coding agents: four disciplines, each rule with a falsifier. Named for the angels that guard the ",
-    "id": "arnoldwender/angelical-harness",
-    "language": "Shell",
-    "name": "arnoldwender/angelical-harness",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:30:17Z",
-    "url": "https://github.com/arnoldwender/angelical-harness"
   },
   {
     "description": "A secular conduct codex for AI coding agents: four disciplines, each rule with a falsifier. The reason-and-craft sibling",
@@ -54,29 +243,20 @@
     "url": "https://github.com/arnoldwender/agnostic-harness"
   },
   {
-    "description": "Open-source Python toolkit for structured AI cinematic workflows, scene planning, prompt generation, continuity validati",
-    "id": "XtolNguyen/ai-cinematic-workflow-toolkit",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "XtolNguyen/ai-cinematic-workflow-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:29:50Z",
-    "url": "https://github.com/XtolNguyen/ai-cinematic-workflow-toolkit"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 18,
-    "updated_at": "2026-08-13T06:28:35Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+    "name": "mlflow/mlflow",
+    "stars": 27494,
+    "updated_at": "2026-08-13T06:40:41Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 42248,
+    "stars": 42254,
     "updated_at": "2026-08-13T06:27:47Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -90,15 +270,6 @@
     "url": "https://github.com/uzairalimay22-cmyk/promptlab"
   },
   {
-    "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
-    "id": "MihirKJha/enterprise-ai-engineering-handbook",
-    "language": "Python",
-    "name": "MihirKJha/enterprise-ai-engineering-handbook",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:25:39Z",
-    "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
-  },
-  {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
     "id": "J-nowcow/awesome-korean-agent-skills",
     "language": "\u2014",
@@ -108,20 +279,11 @@
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33008,
-    "updated_at": "2026-08-13T06:25:05Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
     "id": "Jia-Ethan/codex-keysmith",
     "language": "Python",
     "name": "Jia-Ethan/codex-keysmith",
-    "stars": 3394,
+    "stars": 3395,
     "updated_at": "2026-08-13T06:25:02Z",
     "url": "https://github.com/Jia-Ethan/codex-keysmith"
   },
@@ -180,15 +342,6 @@
     "url": "https://github.com/harshadmehmood/ai-engineering-academy"
   },
   {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "TypeScript",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 4,
-    "updated_at": "2026-08-13T06:18:01Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -205,15 +358,6 @@
     "stars": 151,
     "updated_at": "2026-08-13T06:17:30Z",
     "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27493,
-    "updated_at": "2026-08-13T06:30:06Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -257,7 +401,7 @@
     "language": "Python",
     "name": "F-e-u-e-r/opus-pack",
     "stars": 2,
-    "updated_at": "2026-08-13T06:16:08Z",
+    "updated_at": "2026-08-13T06:40:59Z",
     "url": "https://github.com/F-e-u-e-r/opus-pack"
   },
   {
@@ -268,15 +412,6 @@
     "stars": 7,
     "updated_at": "2026-08-13T06:15:57Z",
     "url": "https://github.com/grimoire-rs/grimoire"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-13T06:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "VS Code marketplace UI for grim \u2014 the OCI package manager for AI artifacts (skills, rules, agents, MCP servers, bundles)",
@@ -313,140 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-13T06:12:25Z",
     "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-13T06:11:43Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:11:35Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-13T06:10:45Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:10:30Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:10:26Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-13T06:10:18Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:10:14Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "A generative film studio modeled as a real production studio in layers (roles -> grounding -> code), orchestrating multi",
-    "id": "HarryJamesGreenblatt/sequitur_studios",
-    "language": "Python",
-    "name": "HarryJamesGreenblatt/sequitur_studios",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:10:05Z",
-    "url": "https://github.com/HarryJamesGreenblatt/sequitur_studios"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:09:15Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:09:11Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing s",
-    "id": "hermes-labs-ai/lintlang",
-    "language": "Python",
-    "name": "hermes-labs-ai/lintlang",
-    "stars": 58,
-    "updated_at": "2026-08-13T06:09:35Z",
-    "url": "https://github.com/hermes-labs-ai/lintlang"
-  },
-  {
-    "description": "Awesome QA Skills \u2014 a bilingual (zh/en) AI testing Agent Skills library for Codex, Cursor, Claude Code, Kiro, OpenCode, ",
-    "id": "naodeng/awesome-qa-skills",
-    "language": "Python",
-    "name": "naodeng/awesome-qa-skills",
-    "stars": 160,
-    "updated_at": "2026-08-13T06:10:25Z",
-    "url": "https://github.com/naodeng/awesome-qa-skills"
-  },
-  {
-    "description": "Generates a compliant MiniMax H3 prompt",
-    "id": "wagesj45/minimax-h3-prompt-generator",
-    "language": "JavaScript",
-    "name": "wagesj45/minimax-h3-prompt-generator",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:04:53Z",
-    "url": "https://github.com/wagesj45/minimax-h3-prompt-generator"
-  },
-  {
-    "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
-    "id": "AmadeusITGroup/ai-primitives-hub",
-    "language": "TypeScript",
-    "name": "AmadeusITGroup/ai-primitives-hub",
-    "stars": 49,
-    "updated_at": "2026-08-13T06:04:05Z",
-    "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
-  },
-  {
-    "description": "Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org",
-    "id": "luckyrjain/software-builder",
-    "language": "Python",
-    "name": "luckyrjain/software-builder",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:29:52Z",
-    "url": "https://github.com/luckyrjain/software-builder"
   }
 ]
