@@ -1,12 +1,174 @@
 [
   {
+    "description": "Your personal prompt library \u2014 organized automatically, always within reach.",
+    "id": "mehdirt/Deja",
+    "language": "TypeScript",
+    "name": "mehdirt/Deja",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:45:17Z",
+    "url": "https://github.com/mehdirt/Deja"
+  },
+  {
+    "description": "Open-source local implementation of MiniMax H3 Context-IR. Turn simple prompts into structured, validated H3 video brief",
+    "id": "ruashots/open-h3-ir",
+    "language": "Python",
+    "name": "ruashots/open-h3-ir",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:45:21Z",
+    "url": "https://github.com/ruashots/open-h3-ir"
+  },
+  {
+    "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor",
+    "id": "promptslab/Awesome-Prompt-Engineering",
+    "language": "TypeScript",
+    "name": "promptslab/Awesome-Prompt-Engineering",
+    "stars": 6246,
+    "updated_at": "2026-08-13T07:43:49Z",
+    "url": "https://github.com/promptslab/Awesome-Prompt-Engineering"
+  },
+  {
+    "description": "A tiny, dependency-free shot planner for AI film / TVC production \u2014 shot list to consistent prompts to storyboard PDF. O",
+    "id": "miniboxseries/gimmick-shot-planner",
+    "language": "HTML",
+    "name": "miniboxseries/gimmick-shot-planner",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:43:19Z",
+    "url": "https://github.com/miniboxseries/gimmick-shot-planner"
+  },
+  {
+    "description": "Self-hosted OpenAI-compatible AI gateway and MCP server for Codex, Cursor and Cline, with local prompt enhancement and p",
+    "id": "happy520ai/unified-ai-system",
+    "language": "JavaScript",
+    "name": "happy520ai/unified-ai-system",
+    "stars": 4,
+    "updated_at": "2026-08-13T07:43:34Z",
+    "url": "https://github.com/happy520ai/unified-ai-system"
+  },
+  {
+    "description": "Helen Agent Develop Language ",
+    "id": "hahalee000000/helen",
+    "language": "Python",
+    "name": "hahalee000000/helen",
+    "stars": 1,
+    "updated_at": "2026-08-13T07:42:37Z",
+    "url": "https://github.com/hahalee000000/helen"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33014,
+    "updated_at": "2026-08-13T07:42:37Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source Python toolkit for structured AI cinematic workflows, scene planning, prompt generation, continuity validati",
+    "id": "XtolNguyen/ai-cinematic-workflow-toolkit",
+    "language": "Python",
+    "name": "XtolNguyen/ai-cinematic-workflow-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:42:26Z",
+    "url": "https://github.com/XtolNguyen/ai-cinematic-workflow-toolkit"
+  },
+  {
+    "description": "Universal Agent Builder \u4e07\u80fdAgent\u6784\u5efa\u5668 \u2014 10-layer spec-driven agent development framework with 6 framework adapters (LangGra",
+    "id": "weed33834/agent-builder-skill",
+    "language": "Python",
+    "name": "weed33834/agent-builder-skill",
+    "stars": 3,
+    "updated_at": "2026-08-13T07:42:02Z",
+    "url": "https://github.com/weed33834/agent-builder-skill"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 42269,
+    "updated_at": "2026-08-13T07:41:59Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy ",
+    "id": "eljulians/skillfile",
+    "language": "Rust",
+    "name": "eljulians/skillfile",
+    "stars": 138,
+    "updated_at": "2026-08-13T07:41:05Z",
+    "url": "https://github.com/eljulians/skillfile"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-08-13T07:37:46Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-13T07:37:14Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "AI Safety \u2014 534-line guardrail prompt. Injection prevention, sentiment filtering, one-reply dedup. 50K+ weekly AI respon",
+    "id": "Sangythek190/ai-safety-guardrails",
+    "language": "\u2014",
+    "name": "Sangythek190/ai-safety-guardrails",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:35:05Z",
+    "url": "https://github.com/Sangythek190/ai-safety-guardrails"
+  },
+  {
     "description": "Local-first AI delivery workspace for prompt versioning, knowledge processing and AI-assisted project delivery.",
     "id": "liuhaisheng-1111/prompt-workbench",
     "language": "TypeScript",
     "name": "liuhaisheng-1111/prompt-workbench",
     "stars": 0,
-    "updated_at": "2026-08-13T07:28:41Z",
+    "updated_at": "2026-08-13T07:34:45Z",
     "url": "https://github.com/liuhaisheng-1111/prompt-workbench"
+  },
+  {
+    "description": "\ud83c\udfae AI-Powered Career Skills SIMulator",
+    "id": "lf1up/careersim",
+    "language": "TypeScript",
+    "name": "lf1up/careersim",
+    "stars": 24,
+    "updated_at": "2026-08-13T07:33:33Z",
+    "url": "https://github.com/lf1up/careersim"
+  },
+  {
+    "description": "A curated open-source library of reusable SKILL.md files for Claude. Learn, use, and build powerful AI skills for writin",
+    "id": "shubhranshu03/claude-skills-library",
+    "language": "\u2014",
+    "name": "shubhranshu03/claude-skills-library",
+    "stars": 1,
+    "updated_at": "2026-08-13T07:33:02Z",
+    "url": "https://github.com/shubhranshu03/claude-skills-library"
+  },
+  {
+    "description": "Chinese-first Codex skill pack for intent alignment, dynamic routing, lightweight development, code review, UI design, a",
+    "id": "CCDawn/codex-skills",
+    "language": "Python",
+    "name": "CCDawn/codex-skills",
+    "stars": 4,
+    "updated_at": "2026-08-13T07:30:41Z",
+    "url": "https://github.com/CCDawn/codex-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-13T07:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
@@ -18,22 +180,13 @@
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
-    "description": "\ud83c\udfae AI-Powered Career Skills SIMulator",
-    "id": "lf1up/careersim",
+    "description": "A profiler for your AI coding sessions \u2014 evidence-linked findings, an opportunity-aware AI skills profile, local-first, ",
+    "id": "shashankgdev-bit/damame",
     "language": "TypeScript",
-    "name": "lf1up/careersim",
-    "stars": 24,
-    "updated_at": "2026-08-13T07:28:24Z",
-    "url": "https://github.com/lf1up/careersim"
-  },
-  {
-    "description": "Open-source Python toolkit for structured AI cinematic workflows, scene planning, prompt generation, continuity validati",
-    "id": "XtolNguyen/ai-cinematic-workflow-toolkit",
-    "language": "Python",
-    "name": "XtolNguyen/ai-cinematic-workflow-toolkit",
+    "name": "shashankgdev-bit/damame",
     "stars": 0,
-    "updated_at": "2026-08-13T07:28:24Z",
-    "url": "https://github.com/XtolNguyen/ai-cinematic-workflow-toolkit"
+    "updated_at": "2026-08-13T07:28:16Z",
+    "url": "https://github.com/shashankgdev-bit/damame"
   },
   {
     "description": "Codex Skill: two 3:2 travel panels stacked into a 3:4 source-colored fridge-magnet card with pixel-locked photography",
@@ -61,15 +214,6 @@
     "stars": 29,
     "updated_at": "2026-08-13T07:25:40Z",
     "url": "https://github.com/johnqtcg/awesome-skills"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33012,
-    "updated_at": "2026-08-13T07:25:37Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Structured prompt generation, Rust native \u2014 rough prompt in, PE2-structured prompt out.",
@@ -153,15 +297,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Open-source local implementation of MiniMax H3 Context-IR. Turn simple prompts into structured, validated H3 video brief",
-    "id": "ruashots/open-h3-ir",
-    "language": "Python",
-    "name": "ruashots/open-h3-ir",
-    "stars": 0,
-    "updated_at": "2026-08-13T07:18:22Z",
-    "url": "https://github.com/ruashots/open-h3-ir"
-  },
-  {
     "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
     "id": "kochetkov-ma/claude-brewcode",
     "language": "JavaScript",
@@ -207,21 +342,12 @@
     "url": "https://github.com/rockerlabs/keel"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-13T07:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27495,
-    "updated_at": "2026-08-13T07:24:16Z",
+    "updated_at": "2026-08-13T07:41:15Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -248,7 +374,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21344,
-    "updated_at": "2026-08-13T07:16:46Z",
+    "updated_at": "2026-08-13T07:36:11Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T06:56:47Z",
     "url": "https://github.com/StephenQiu30/lanverse"
-  },
-  {
-    "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
-    "id": "Jia-Ethan/codex-keysmith",
-    "language": "Python",
-    "name": "Jia-Ethan/codex-keysmith",
-    "stars": 3397,
-    "updated_at": "2026-08-13T06:54:04Z",
-    "url": "https://github.com/Jia-Ethan/codex-keysmith"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:53:15Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Every prompt from the official Wan 3.0 creator handbook, each paired with the official result clip \u2014 30s takes, multi-sh",
-    "id": "AtlasCloudAI/awesome-wan-3.0-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-wan-3.0-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:51:55Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-wan-3.0-prompts"
-  },
-  {
-    "description": "42 engineering skills for Claude Code across the SDLC \u2014 shared principles injected at session start. Works with Codex, C",
-    "id": "int2t05/engineering-skills",
-    "language": "Python",
-    "name": "int2t05/engineering-skills",
-    "stars": 2,
-    "updated_at": "2026-08-13T06:51:42Z",
-    "url": "https://github.com/int2t05/engineering-skills"
-  },
-  {
-    "description": "The Role of Thoughts: a Dynamic Cognitive Mixture-of-Experts router for Claude Code. 9 expert lenses, 10 routing lanes, ",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 2,
-    "updated_at": "2026-08-13T06:51:28Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:51:18Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:50:15Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4309,
-    "updated_at": "2026-08-13T06:49:02Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:48:58Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:47:38Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:47:38Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
-    "stars": 3,
-    "updated_at": "2026-08-13T06:45:47Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
-  },
-  {
-    "description": "Open-source AI marketing team for B2B SaaS - 59 specialist agents, 13 installable Claude Code skills, and the CATALYST o",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 5,
-    "updated_at": "2026-08-13T06:45:13Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:43:41Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   }
 ]
