@@ -1,5 +1,104 @@
 [
   {
+    "description": "A stack-agnostic, human-in-the-loop AI development workflow kit. The kit owns the workflow; your project owns the stack.",
+    "id": "rikilamadrid/pathfinder",
+    "language": "JavaScript",
+    "name": "rikilamadrid/pathfinder",
+    "stars": 1,
+    "updated_at": "2026-08-13T17:35:55Z",
+    "url": "https://github.com/rikilamadrid/pathfinder"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-13T17:35:53Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "TypeScript prompt-engineering toolkit: templating, token estimation, and an eval harness.",
+    "id": "matthews-wong/llm-prompt-lab",
+    "language": "TypeScript",
+    "name": "matthews-wong/llm-prompt-lab",
+    "stars": 0,
+    "updated_at": "2026-08-13T17:35:33Z",
+    "url": "https://github.com/matthews-wong/llm-prompt-lab"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 66193,
+    "updated_at": "2026-08-13T17:35:03Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Memory engine for self-evolving AI agent ecosystems. Multi-tenant, multi-space isolation with Bayesian truth maintenance",
+    "id": "cyqlelabs/smrti",
+    "language": "Python",
+    "name": "cyqlelabs/smrti",
+    "stars": 3,
+    "updated_at": "2026-08-13T17:34:57Z",
+    "url": "https://github.com/cyqlelabs/smrti"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-13T17:34:56Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-08-13T17:34:44Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 839,
+    "updated_at": "2026-08-13T17:36:44Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "",
+    "id": "naresh-FD/copilot-governance",
+    "language": "JavaScript",
+    "name": "naresh-FD/copilot-governance",
+    "stars": 0,
+    "updated_at": "2026-08-13T17:32:48Z",
+    "url": "https://github.com/naresh-FD/copilot-governance"
+  },
+  {
+    "description": "Token-Dense Format (TDF): Convert PDFs, Office docs, and HTML into a token-optimized text format for LLMs. 100% semantic",
+    "id": "meashumishra/TDF",
+    "language": "Python",
+    "name": "meashumishra/TDF",
+    "stars": 0,
+    "updated_at": "2026-08-13T17:30:52Z",
+    "url": "https://github.com/meashumishra/TDF"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-13T17:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A one-file bootloader that helps coding agents execute long-horizon projects across sessions and context windows.",
     "id": "openmetaloop/OpenMetaLoop",
     "language": "\u2014",
@@ -7,6 +106,15 @@
     "stars": 7,
     "updated_at": "2026-08-13T17:29:59Z",
     "url": "https://github.com/openmetaloop/OpenMetaLoop"
+  },
+  {
+    "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
+    "id": "winstonkoh87/Athena-Public",
+    "language": "Python",
+    "name": "winstonkoh87/Athena-Public",
+    "stars": 570,
+    "updated_at": "2026-08-13T17:29:05Z",
+    "url": "https://github.com/winstonkoh87/Athena-Public"
   },
   {
     "description": "Oversized bootstrap files silently truncate. Audit and trim OpenClaw bootstrap surfaces before sessions start broken.",
@@ -25,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T17:28:30Z",
     "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
-  },
-  {
-    "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
-    "id": "winstonkoh87/Athena-Public",
-    "language": "Python",
-    "name": "winstonkoh87/Athena-Public",
-    "stars": 569,
-    "updated_at": "2026-08-13T17:29:05Z",
-    "url": "https://github.com/winstonkoh87/Athena-Public"
-  },
-  {
-    "description": "A stack-agnostic, human-in-the-loop AI development workflow kit. The kit owns the workflow; your project owns the stack.",
-    "id": "rikilamadrid/pathfinder",
-    "language": "JavaScript",
-    "name": "rikilamadrid/pathfinder",
-    "stars": 1,
-    "updated_at": "2026-08-13T17:25:51Z",
-    "url": "https://github.com/rikilamadrid/pathfinder"
   },
   {
     "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
@@ -81,6 +171,15 @@
     "url": "https://github.com/bestdeejay-design/agent-skills"
   },
   {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-13T17:23:31Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -97,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T17:22:38Z",
     "url": "https://github.com/raposamillar/studio-website"
-  },
-  {
-    "description": "TypeScript prompt-engineering toolkit: templating, token estimation, and an eval harness.",
-    "id": "matthews-wong/llm-prompt-lab",
-    "language": "TypeScript",
-    "name": "matthews-wong/llm-prompt-lab",
-    "stars": 0,
-    "updated_at": "2026-08-13T17:22:04Z",
-    "url": "https://github.com/matthews-wong/llm-prompt-lab"
   },
   {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
@@ -140,17 +230,8 @@
     "language": "Python",
     "name": "elanthus/news-briefing",
     "stars": 1,
-    "updated_at": "2026-08-13T17:17:05Z",
+    "updated_at": "2026-08-13T17:35:33Z",
     "url": "https://github.com/elanthus/news-briefing"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 66192,
-    "updated_at": "2026-08-13T17:16:45Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -189,15 +270,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-13T17:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Local, open-source reasoning framework for Claude and Codex, with 48 authored systems selected only when deeper reasonin",
     "id": "ParkerHwang/OpenSocrates",
     "language": "Python",
@@ -232,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T17:13:03Z",
     "url": "https://github.com/lentago/music-curator"
-  },
-  {
-    "description": "Token-Dense Format (TDF): Convert PDFs, Office docs, and HTML into a token-optimized text format for LLMs. 100% semantic",
-    "id": "meashumishra/TDF",
-    "language": "Python",
-    "name": "meashumishra/TDF",
-    "stars": 0,
-    "updated_at": "2026-08-13T17:12:19Z",
-    "url": "https://github.com/meashumishra/TDF"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -346,7 +409,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 62836,
+    "stars": 62837,
     "updated_at": "2026-08-13T17:02:34Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T17:01:50Z",
     "url": "https://github.com/YangYang-Research/yang-promptlab"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-13T17:00:24Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 155,
-    "updated_at": "2026-08-13T17:00:10Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "Agent Skills & DeepSeek Harness (DSH) \u6269\u5c55\u5e93\uff1a\u901a\u7528\u667a\u80fd\u4f53\u6280\u80fd\uff08General_skills\uff09+ DSH \u6807\u51c6\u63d2\u4ef6\uff08dsh-plugin\uff09\uff0c\u5f00\u7bb1\u5373\u7528\u7684 AI Agent \u80fd\u529b\u589e\u5f3a\u96c6\u5408\u3002",
-    "id": "DDDFXYqiming/Agent_Extensions",
-    "language": "Python",
-    "name": "DDDFXYqiming/Agent_Extensions",
-    "stars": 3,
-    "updated_at": "2026-08-13T17:00:01Z",
-    "url": "https://github.com/DDDFXYqiming/Agent_Extensions"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 156,
-    "updated_at": "2026-08-13T16:59:45Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "A premium roleplay system prompt framework by Hyperion.",
-    "id": "hype-hosting/HYPERCODE",
-    "language": "\u2014",
-    "name": "hype-hosting/HYPERCODE",
-    "stars": 2,
-    "updated_at": "2026-08-13T16:59:38Z",
-    "url": "https://github.com/hype-hosting/HYPERCODE"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-13T16:57:17Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 152,
-    "updated_at": "2026-08-13T16:57:00Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   }
 ]
