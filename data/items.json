@@ -1,5 +1,104 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27495,
+    "updated_at": "2026-08-13T07:15:17Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-08-13T07:15:01Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "AI \u63d0\u793a\u8bcd\u519b\u706b\u5e93 \u00b7 \u7ed9\u4e0d\u5199\u4ee3\u7801\u7684\u7535\u5546\u4eba/\u81ea\u5a92\u4f53\u4eba\u7684\u5b9e\u6218 AI \u63d0\u793a\u8bcd\u5408\u96c6\uff08\u4e2d\u6587\u00b7\u96f6\u4f9d\u8d56\u00b7\u590d\u5236\u5373\u7528\uff09",
+    "id": "maliksandra838-lgtm/ai-prompt-armory",
+    "language": "HTML",
+    "name": "maliksandra838-lgtm/ai-prompt-armory",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:13:56Z",
+    "url": "https://github.com/maliksandra838-lgtm/ai-prompt-armory"
+  },
+  {
+    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 49,
+    "updated_at": "2026-08-13T07:12:27Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "A tiny Agent Skill that makes Codex, Claude Code, and Gemini CLI ask before they guess.",
+    "id": "geniusBrainLsm/clarify-first",
+    "language": "\u2014",
+    "name": "geniusBrainLsm/clarify-first",
+    "stars": 2,
+    "updated_at": "2026-08-13T07:11:00Z",
+    "url": "https://github.com/geniusBrainLsm/clarify-first"
+  },
+  {
+    "description": "Open-source Python toolkit for structured AI cinematic workflows, scene planning, prompt generation, continuity validati",
+    "id": "XtolNguyen/ai-cinematic-workflow-toolkit",
+    "language": "Python",
+    "name": "XtolNguyen/ai-cinematic-workflow-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:10:20Z",
+    "url": "https://github.com/XtolNguyen/ai-cinematic-workflow-toolkit"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21344,
+    "updated_at": "2026-08-13T07:09:52Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
+    "id": "F-e-u-e-r/opus-pack",
+    "language": "Python",
+    "name": "F-e-u-e-r/opus-pack",
+    "stars": 2,
+    "updated_at": "2026-08-13T07:08:11Z",
+    "url": "https://github.com/F-e-u-e-r/opus-pack"
+  },
+  {
+    "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
+    "id": "ftvision/agent-prompt-observatory",
+    "language": "Python",
+    "name": "ftvision/agent-prompt-observatory",
+    "stars": 2,
+    "updated_at": "2026-08-13T07:05:07Z",
+    "url": "https://github.com/ftvision/agent-prompt-observatory"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-08-13T07:04:43Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-13T07:04:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
     "id": "sauravbhattacharya001/agentlens",
     "language": "JavaScript",
@@ -27,15 +126,6 @@
     "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-13T07:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\u5feb\u624b(kuaishou)\u5185\u90e8 Agent \u6280\u80fd\u96c6:\u63d0\u793a\u8bcd\u4f18\u5316\u3001\u65e5\u5fd7\u6392\u969c\u3001\u53d1\u5e03\u5de1\u68c0\u3001\u70ed\u70b9\u76d8\u70b9,\u4f9b @kuaishou.com \u57df\u540c\u4e8b\u4e0e\u5185\u90e8 agent \u4f7f\u7528\u3002Kuaishou internal agent skills: prompt tun",
     "id": "Jest3r666/kwai-agent-skills",
     "language": "Shell",
@@ -52,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-13T07:00:13Z",
     "url": "https://github.com/jeb-maker/lagent-quotidien"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27495,
-    "updated_at": "2026-08-13T06:59:12Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
@@ -81,31 +162,13 @@
     "url": "https://github.com/ruashots/open-h3-ir"
   },
   {
-    "description": "Open-source Python toolkit for structured AI cinematic workflows, scene planning, prompt generation, continuity validati",
-    "id": "XtolNguyen/ai-cinematic-workflow-toolkit",
-    "language": "Python",
-    "name": "XtolNguyen/ai-cinematic-workflow-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:54:53Z",
-    "url": "https://github.com/XtolNguyen/ai-cinematic-workflow-toolkit"
-  },
-  {
     "description": "File-driven AI Skills, Agents and LLM workflow orchestration",
     "id": "halexzd686-cloud/SoloFlow",
     "language": "Python",
     "name": "halexzd686-cloud/SoloFlow",
     "stars": 0,
-    "updated_at": "2026-08-13T06:54:14Z",
+    "updated_at": "2026-08-13T07:14:26Z",
     "url": "https://github.com/halexzd686-cloud/SoloFlow"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:53:15Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
     "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
@@ -117,11 +180,20 @@
     "url": "https://github.com/Jia-Ethan/codex-keysmith"
   },
   {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-08-13T06:53:15Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33011,
+    "stars": 33012,
     "updated_at": "2026-08-13T06:52:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -189,15 +261,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
-    "id": "F-e-u-e-r/opus-pack",
-    "language": "Python",
-    "name": "F-e-u-e-r/opus-pack",
-    "stars": 2,
-    "updated_at": "2026-08-13T07:02:41Z",
-    "url": "https://github.com/F-e-u-e-r/opus-pack"
-  },
-  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -248,7 +311,7 @@
     "language": "Python",
     "name": "luckyrjain/software-builder",
     "stars": 0,
-    "updated_at": "2026-08-13T07:01:55Z",
+    "updated_at": "2026-08-13T07:14:26Z",
     "url": "https://github.com/luckyrjain/software-builder"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T06:30:22Z",
     "url": "https://github.com/arnoldwender/empirical-harness"
-  },
-  {
-    "description": "A conduct codex for AI coding agents, skinned as dharma \u2014 four virtues from the yamas/niyamas and the Gita (Shaucha, Viv",
-    "id": "arnoldwender/dharma-harness",
-    "language": "Shell",
-    "name": "arnoldwender/dharma-harness",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:30:20Z",
-    "url": "https://github.com/arnoldwender/dharma-harness"
-  },
-  {
-    "description": "A conduct codex for AI coding agents, skinned as the warrior's code \u2014 four virtues (Rei, Gi, Makoto, Chugi), each rule w",
-    "id": "arnoldwender/bushido-harness",
-    "language": "Shell",
-    "name": "arnoldwender/bushido-harness",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:30:19Z",
-    "url": "https://github.com/arnoldwender/bushido-harness"
-  },
-  {
-    "description": "A secular conduct codex for AI coding agents: four disciplines, each rule with a falsifier. The reason-and-craft sibling",
-    "id": "arnoldwender/agnostic-harness",
-    "language": "Shell",
-    "name": "arnoldwender/agnostic-harness",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:30:15Z",
-    "url": "https://github.com/arnoldwender/agnostic-harness"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 42262,
-    "updated_at": "2026-08-13T06:27:47Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Prompts as versioned program logic: content-addressed versions, registry with rollback and diffing, A/B testing that adm",
-    "id": "uzairalimay22-cmyk/promptlab",
-    "language": "Python",
-    "name": "uzairalimay22-cmyk/promptlab",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:27:01Z",
-    "url": "https://github.com/uzairalimay22-cmyk/promptlab"
-  },
-  {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 32,
-    "updated_at": "2026-08-13T06:25:09Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:24:34Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
   }
 ]
