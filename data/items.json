@@ -1,12 +1,156 @@
 [
   {
+    "description": "Hebrew Telegram productivity coach with n8n, Gemini, file-backed memory, and timers.",
+    "id": "YAL-PJ/boker-tov-agent",
+    "language": "\u2014",
+    "name": "YAL-PJ/boker-tov-agent",
+    "stars": 0,
+    "updated_at": "2026-08-14T03:00:18Z",
+    "url": "https://github.com/YAL-PJ/boker-tov-agent"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-08-14T02:59:21Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,018-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:58:40Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
+  },
+  {
+    "description": "MiniMax H3 \u5b98\u65b9 Skills \u7684\u53ef\u89c6\u5316\u53d1\u73b0\u4e0e\u53c2\u8003\u7ad9\u70b9 \u00b7 A visual discovery & reference index for the official MiniMax H3 Skills (independent ",
+    "id": "gordonlu/awesome-minimax-h3-skills",
+    "language": "JavaScript",
+    "name": "gordonlu/awesome-minimax-h3-skills",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:56:56Z",
+    "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3488,
+    "updated_at": "2026-08-14T02:59:13Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Standalone Codex skill: viral video to six-panel storyboard and 10-second Omni Flash render",
+    "id": "peipeijiang/viral-storyboard-omni",
+    "language": "Python",
+    "name": "peipeijiang/viral-storyboard-omni",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:55:36Z",
+    "url": "https://github.com/peipeijiang/viral-storyboard-omni"
+  },
+  {
+    "description": "A collection of AI-powered n8n automation workflows for business process automation, AI agents, and productivity using L",
+    "id": "ZainSaed/n8n-automations",
+    "language": "\u2014",
+    "name": "ZainSaed/n8n-automations",
+    "stars": 1,
+    "updated_at": "2026-08-14T02:54:46Z",
+    "url": "https://github.com/ZainSaed/n8n-automations"
+  },
+  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 66247,
-    "updated_at": "2026-08-14T02:45:16Z",
+    "stars": 66249,
+    "updated_at": "2026-08-14T02:57:18Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Curated, polished agent skills for building calm native apps and running AI coding agents well. Works with Claude Code, ",
+    "id": "aka-kika/akakika-skills",
+    "language": "JavaScript",
+    "name": "aka-kika/akakika-skills",
+    "stars": 7,
+    "updated_at": "2026-08-14T02:53:27Z",
+    "url": "https://github.com/aka-kika/akakika-skills"
+  },
+  {
+    "description": "\u5b89\u88c5\u5230 AI \u5de5\u5177\u4e2d\u7684 Seedance 2.5 \u4e2d\u6587\u5bfc\u6f14 Skill\uff1a\u81ea\u52a8\u5b8c\u6210\u4efb\u52a1\u8def\u7531\u3001\u7d20\u6750\u7ed1\u5b9a\u3001\u65f6\u95f4\u8f74\u3001\u955c\u5934\u58f0\u97f3\u3001\u8fde\u7eed\u6027\u548c\u5931\u8d25\u8bca\u65ad\uff1b\u9644\u96f6 Token \u7cbe\u7b80\u7f51\u9875\u7248\u3002",
+    "id": "HaoXuanAce/seedance-2.5-director",
+    "language": "Python",
+    "name": "HaoXuanAce/seedance-2.5-director",
+    "stars": 1,
+    "updated_at": "2026-08-14T02:50:58Z",
+    "url": "https://github.com/HaoXuanAce/seedance-2.5-director"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27504,
+    "updated_at": "2026-08-14T02:50:47Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Turns a messy music collection into a queryable Obsidian vault: dedup and merge tooling over directory trees, Spotify fo",
+    "id": "lentago/music-curator",
+    "language": "Python",
+    "name": "lentago/music-curator",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:50:26Z",
+    "url": "https://github.com/lentago/music-curator"
+  },
+  {
+    "description": "Forensic reference-integrity auditor for academic publishing \u2014 built for nursing and health-sciences editors who need to",
+    "id": "lentago/reference-checker",
+    "language": "HTML",
+    "name": "lentago/reference-checker",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:50:20Z",
+    "url": "https://github.com/lentago/reference-checker"
+  },
+  {
+    "description": "Repository-backed memory and bounded-session workflow for low-context, high-quality coding agents.",
+    "id": "hanklin9188/repository-state-agent-workflow",
+    "language": "Python",
+    "name": "hanklin9188/repository-state-agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:49:47Z",
+    "url": "https://github.com/hanklin9188/repository-state-agent-workflow"
+  },
+  {
+    "description": "Local, provider-neutral compression for LLM prompts, tool schemas, JSON, logs, and diffs. Lossless, receipt-audited, no ",
+    "id": "snchimata/tokenfold",
+    "language": "Rust",
+    "name": "snchimata/tokenfold",
+    "stars": 19,
+    "updated_at": "2026-08-14T02:48:53Z",
+    "url": "https://github.com/snchimata/tokenfold"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-08-14T02:48:34Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "A judgment layer for AI-made slides \u2014 not another PPT generator.",
+    "id": "rocsgh/ppt-zen",
+    "language": "Python",
+    "name": "rocsgh/ppt-zen",
+    "stars": 1,
+    "updated_at": "2026-08-14T02:46:51Z",
+    "url": "https://github.com/rocsgh/ppt-zen"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -14,8 +158,17 @@
     "language": "JavaScript",
     "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "stars": 3,
-    "updated_at": "2026-08-14T02:45:15Z",
+    "updated_at": "2026-08-14T02:45:58Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-14T02:45:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -41,7 +194,7 @@
     "language": "Python",
     "name": "HyperVon/agent-guidance-kit",
     "stars": 1,
-    "updated_at": "2026-08-14T02:42:13Z",
+    "updated_at": "2026-08-14T02:55:09Z",
     "url": "https://github.com/HyperVon/agent-guidance-kit"
   },
   {
@@ -61,15 +214,6 @@
     "stars": 5,
     "updated_at": "2026-08-14T02:41:20Z",
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-14T02:40:48Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AEL Sovereign CS50x Master Citadel & AI Prompt Engineering Engine",
@@ -112,27 +256,9 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 62861,
+    "stars": 62862,
     "updated_at": "2026-08-14T02:38:35Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "A judgment layer for AI-made slides \u2014 not another PPT generator.",
-    "id": "rocsgh/ppt-zen",
-    "language": "Python",
-    "name": "rocsgh/ppt-zen",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:35:40Z",
-    "url": "https://github.com/rocsgh/ppt-zen"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27504,
-    "updated_at": "2026-08-14T02:36:52Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -196,24 +322,6 @@
     "stars": 806,
     "updated_at": "2026-08-14T02:27:52Z",
     "url": "https://github.com/Raymondhou0917/speak-human-tw"
-  },
-  {
-    "description": "MiniMax H3 \u5b98\u65b9 Skills \u7684\u53ef\u89c6\u5316\u53d1\u73b0\u4e0e\u53c2\u8003\u7ad9\u70b9 \u00b7 A visual discovery & reference index for the official MiniMax H3 Skills (independent ",
-    "id": "gordonlu/awesome-minimax-h3-skills",
-    "language": "JavaScript",
-    "name": "gordonlu/awesome-minimax-h3-skills",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:25:24Z",
-    "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
-  },
-  {
-    "description": "Local, provider-neutral compression for LLM prompts, tool schemas, JSON, logs, and diffs. Lossless, receipt-audited, no ",
-    "id": "snchimata/tokenfold",
-    "language": "Rust",
-    "name": "snchimata/tokenfold",
-    "stars": 19,
-    "updated_at": "2026-08-14T02:23:36Z",
-    "url": "https://github.com/snchimata/tokenfold"
   },
   {
     "description": "Track and instantly rewind your SQLite database to any previous state during local development with a video-like scrubbe",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T02:20:36Z",
     "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:20:14Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:20:05Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 156,
-    "updated_at": "2026-08-14T02:19:53Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "18 wind-tunnel-tested agent skills for Claude Code & Codex \u2014 each skill its own product page, probed across 140+ persona",
-    "id": "m1nga/skills",
-    "language": "Python",
-    "name": "m1nga/skills",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:19:32Z",
-    "url": "https://github.com/m1nga/skills"
-  },
-  {
-    "description": "TIKAZ AI Skills for Codex \u2014 seven composable, evidence-first workflow suites",
-    "id": "TIKAZI/TIKAZ-AI-Skills",
-    "language": "Python",
-    "name": "TIKAZI/TIKAZ-AI-Skills",
-    "stars": 6,
-    "updated_at": "2026-08-14T02:18:44Z",
-    "url": "https://github.com/TIKAZI/TIKAZ-AI-Skills"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:17:45Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:17:29Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:17:29Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-08-14T02:17:06Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 72,
-    "updated_at": "2026-08-14T02:16:18Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:16:14Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:16:08Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
   }
 ]
