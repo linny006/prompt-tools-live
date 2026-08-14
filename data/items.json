@@ -1,5 +1,68 @@
 [
   {
+    "description": "Visual ontology, constraint compilation, prompt optimization, and evaluation for reference-guided image generation.",
+    "id": "windforce19820520-ai/visual-ontology-constraint-engine",
+    "language": "TypeScript",
+    "name": "windforce19820520-ai/visual-ontology-constraint-engine",
+    "stars": 0,
+    "updated_at": "2026-08-14T08:34:32Z",
+    "url": "https://github.com/windforce19820520-ai/visual-ontology-constraint-engine"
+  },
+  {
+    "description": "Repository-backed memory and bounded-session workflow for low-context, high-quality coding agents.",
+    "id": "hanklin9188/repository-state-agent-workflow",
+    "language": "Python",
+    "name": "hanklin9188/repository-state-agent-workflow",
+    "stars": 1,
+    "updated_at": "2026-08-14T08:34:24Z",
+    "url": "https://github.com/hanklin9188/repository-state-agent-workflow"
+  },
+  {
+    "description": "Self-evolving AI Agent that adapts to user preferences over time. Works with ChatGPT, Claude, and 40+ platforms via Agen",
+    "id": "aevumagent/evo-self-evolving-agent",
+    "language": "Python",
+    "name": "aevumagent/evo-self-evolving-agent",
+    "stars": 1,
+    "updated_at": "2026-08-14T08:34:09Z",
+    "url": "https://github.com/aevumagent/evo-self-evolving-agent"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 18,
+    "updated_at": "2026-08-14T08:32:59Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Unofficial Codex fieldkit for non-engineers building verifiable AI agents with starter kits, evals, safety scans, and ha",
+    "id": "kimsanguine/codex-agent-fieldkit",
+    "language": "Python",
+    "name": "kimsanguine/codex-agent-fieldkit",
+    "stars": 0,
+    "updated_at": "2026-08-14T08:32:54Z",
+    "url": "https://github.com/kimsanguine/codex-agent-fieldkit"
+  },
+  {
+    "description": "A memory bank system meant for use with LLMs for project and task management",
+    "id": "space-cadet/memory-bank",
+    "language": "JavaScript",
+    "name": "space-cadet/memory-bank",
+    "stars": 17,
+    "updated_at": "2026-08-14T08:32:46Z",
+    "url": "https://github.com/space-cadet/memory-bank"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-14T08:30:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Prompt engineering workbench \u2014 Chrome extension, desktop app, and web tool",
     "id": "DaveHomeAssist/prompt-lab",
     "language": "HTML",
@@ -18,15 +81,6 @@
     "url": "https://github.com/qls-cyber/daily-chat-training-skill"
   },
   {
-    "description": "Visual ontology, constraint compilation, prompt optimization, and evaluation for reference-guided image generation.",
-    "id": "windforce19820520-ai/visual-ontology-constraint-engine",
-    "language": "TypeScript",
-    "name": "windforce19820520-ai/visual-ontology-constraint-engine",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:29:55Z",
-    "url": "https://github.com/windforce19820520-ai/visual-ontology-constraint-engine"
-  },
-  {
     "description": "Your AI coding agent starts every session knowing your repos, your clients, and how you work \u2014 a plain git repo of markd",
     "id": "bks-lab/open-bridge",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 8,
     "updated_at": "2026-08-14T08:28:55Z",
     "url": "https://github.com/bks-lab/open-bridge"
-  },
-  {
-    "description": "A memory bank system meant for use with LLMs for project and task management",
-    "id": "space-cadet/memory-bank",
-    "language": "JavaScript",
-    "name": "space-cadet/memory-bank",
-    "stars": 17,
-    "updated_at": "2026-08-14T08:28:49Z",
-    "url": "https://github.com/space-cadet/memory-bank"
   },
   {
     "description": "Your \"junior lab mate\" AI skill: literature research, experiment design, figures & paper reading \u2014   files delivered, cr",
@@ -126,15 +171,6 @@
     "url": "https://github.com/acipaaa/context-llm-chunks"
   },
   {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 18,
-    "updated_at": "2026-08-14T08:21:58Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
     "id": "Magma1321/mythos-agent-pipe",
     "language": "HTML",
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "hermes-labs-ai/lintlang",
     "stars": 58,
-    "updated_at": "2026-08-14T08:16:06Z",
+    "updated_at": "2026-08-14T08:34:25Z",
     "url": "https://github.com/hermes-labs-ai/lintlang"
   },
   {
@@ -270,15 +306,6 @@
     "url": "https://github.com/Dangkoolwat/ai-learning-studio"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-14T08:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Novadiem's agentic engineering system for complex software work, with isolated specialists, durable run state and indepe",
     "id": "Novadiem-Studio/bureau",
     "language": "Shell",
@@ -320,7 +347,7 @@
     "language": "JavaScript",
     "name": "dennis23100/gemini-notebook-prompt-lab",
     "stars": 1,
-    "updated_at": "2026-08-14T08:30:03Z",
+    "updated_at": "2026-08-14T08:33:28Z",
     "url": "https://github.com/dennis23100/gemini-notebook-prompt-lab"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-14T08:03:07Z",
     "url": "https://github.com/kwokwile/awesome-aigc-tools"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 42427,
-    "updated_at": "2026-08-14T08:02:31Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "dsh plugin: polish/complete/expand your prompt before sending with a dedicated prompt-engineering agent. Rewrite, multi-",
-    "id": "JOJO666888888/prompt-polish",
-    "language": "JavaScript",
-    "name": "JOJO666888888/prompt-polish",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:02:30Z",
-    "url": "https://github.com/JOJO666888888/prompt-polish"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-14T08:02:14Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
