@@ -1,12 +1,84 @@
 [
   {
-    "description": "A persistent AI colleague for Claude Code, and the harness you build your next thing on. It administers its own memory a",
-    "id": "ElJoakoDELxD/Chief-of-Vibes",
+    "description": "\u8b93 AI \u7528\u53f0\u7063\u4eba\u7684\u7e41\u9ad4\u4e2d\u6587\u8b1b\u8a71\uff0c\u4e26\u628a\u5df2\u5beb\u597d\u7684\u6587\u5b57\u6e05\u6389 AI \u5473\u3002Claude Code\u3001claude.ai\u3001ChatGPT Codex \u8207\u4e00\u822c\u804a\u5929\u90fd\u80fd\u7528\u3002",
+    "id": "chang416/im-human",
+    "language": "Python",
+    "name": "chang416/im-human",
+    "stars": 2,
+    "updated_at": "2026-08-14T03:43:00Z",
+    "url": "https://github.com/chang416/im-human"
+  },
+  {
+    "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their ",
+    "id": "yzhao062/agent-style",
+    "language": "Python",
+    "name": "yzhao062/agent-style",
+    "stars": 625,
+    "updated_at": "2026-08-14T03:43:53Z",
+    "url": "https://github.com/yzhao062/agent-style"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
     "language": "Shell",
-    "name": "ElJoakoDELxD/Chief-of-Vibes",
-    "stars": 1,
-    "updated_at": "2026-08-14T03:29:37Z",
-    "url": "https://github.com/ElJoakoDELxD/Chief-of-Vibes"
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-08-14T03:39:13Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Vibe Coder Starterpack (VCS) adalah aplikasi desktop native & ekosistem dokumentasi terstruktur untuk pengembang softwar",
+    "id": "zifaucode/vibe-coder-starterpack",
+    "language": "HTML",
+    "name": "zifaucode/vibe-coder-starterpack",
+    "stars": 0,
+    "updated_at": "2026-08-14T03:38:56Z",
+    "url": "https://github.com/zifaucode/vibe-coder-starterpack"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
+    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
+    "language": "Python",
+    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
+    "stars": 0,
+    "updated_at": "2026-08-14T03:36:10Z",
+    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
+  },
+  {
+    "description": "Portable Claude Code profile \u2014 6-step dev loop, CLAUDE.md pre-commit gate, zero-hallucination policy. Install once, carr",
+    "id": "kopp0510/claude-dd",
+    "language": "Shell",
+    "name": "kopp0510/claude-dd",
+    "stars": 6,
+    "updated_at": "2026-08-14T03:34:33Z",
+    "url": "https://github.com/kopp0510/claude-dd"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 66256,
+    "updated_at": "2026-08-14T03:38:55Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Agent Skills & DeepSeek Harness (DSH) \u6269\u5c55\u5e93\uff1a\u901a\u7528\u667a\u80fd\u4f53\u6280\u80fd\uff08General_skills\uff09+ DSH \u6807\u51c6\u63d2\u4ef6\uff08dsh-plugin\uff09\uff0c\u5f00\u7bb1\u5373\u7528\u7684 AI Agent \u80fd\u529b\u589e\u5f3a\u96c6\u5408\u3002",
+    "id": "DDDFXYqiming/Agent_Extensions",
+    "language": "Python",
+    "name": "DDDFXYqiming/Agent_Extensions",
+    "stars": 4,
+    "updated_at": "2026-08-14T03:33:47Z",
+    "url": "https://github.com/DDDFXYqiming/Agent_Extensions"
+  },
+  {
+    "description": "Reproducible behavioral-control audits and sealed drift attestation for deployed LLM agents. Stdlib-only, per-install ca",
+    "id": "USTechAutomations/agent-audit",
+    "language": "Python",
+    "name": "USTechAutomations/agent-audit",
+    "stars": 0,
+    "updated_at": "2026-08-14T03:33:30Z",
+    "url": "https://github.com/USTechAutomations/agent-audit"
   },
   {
     "description": "A judgment layer for AI-made slides \u2014 not another PPT generator.",
@@ -14,8 +86,71 @@
     "language": "Python",
     "name": "rocsgh/ppt-zen",
     "stars": 1,
-    "updated_at": "2026-08-14T03:29:18Z",
+    "updated_at": "2026-08-14T03:32:14Z",
     "url": "https://github.com/rocsgh/ppt-zen"
+  },
+  {
+    "description": "A generative film studio modeled as a real production studio in layers (roles -> grounding -> code), orchestrating multi",
+    "id": "HarryJamesGreenblatt/sequitur_studios",
+    "language": "Python",
+    "name": "HarryJamesGreenblatt/sequitur_studios",
+    "stars": 1,
+    "updated_at": "2026-08-14T03:32:13Z",
+    "url": "https://github.com/HarryJamesGreenblatt/sequitur_studios"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 18,
+    "updated_at": "2026-08-14T03:31:53Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-14T03:31:39Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-08-14T03:31:01Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-08-14T03:30:41Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-14T03:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A persistent AI colleague for Claude Code, and the harness you build your next thing on. It administers its own memory a",
+    "id": "ElJoakoDELxD/Chief-of-Vibes",
+    "language": "Shell",
+    "name": "ElJoakoDELxD/Chief-of-Vibes",
+    "stars": 1,
+    "updated_at": "2026-08-14T03:29:37Z",
+    "url": "https://github.com/ElJoakoDELxD/Chief-of-Vibes"
   },
   {
     "description": "Procedural writing-style skills for AI agents: official frameworks (plain language, business writing, GOV.UK, AP style, ",
@@ -72,15 +207,6 @@
     "url": "https://github.com/TIKAZI/TIKAZ-AI-Skills"
   },
   {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 18,
-    "updated_at": "2026-08-14T03:21:20Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
     "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
     "id": "Krishna-Modi12/frontend-design-pro",
     "language": "TypeScript",
@@ -88,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T03:21:14Z",
     "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
-    "description": "Agent Skills & DeepSeek Harness (DSH) \u6269\u5c55\u5e93\uff1a\u901a\u7528\u667a\u80fd\u4f53\u6280\u80fd\uff08General_skills\uff09+ DSH \u6807\u51c6\u63d2\u4ef6\uff08dsh-plugin\uff09\uff0c\u5f00\u7bb1\u5373\u7528\u7684 AI Agent \u80fd\u529b\u589e\u5f3a\u96c6\u5408\u3002",
-    "id": "DDDFXYqiming/Agent_Extensions",
-    "language": "Python",
-    "name": "DDDFXYqiming/Agent_Extensions",
-    "stars": 4,
-    "updated_at": "2026-08-14T03:20:59Z",
-    "url": "https://github.com/DDDFXYqiming/Agent_Extensions"
   },
   {
     "description": "Local-first, source-grounded prompt library & workflow toolkit for Gemini Notebook (NotebookLM). 90 prompts \u00b7 30 themes ",
@@ -121,7 +238,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27504,
+    "stars": 27505,
     "updated_at": "2026-08-14T03:19:52Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -142,15 +259,6 @@
     "stars": 7,
     "updated_at": "2026-08-14T03:18:36Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
-    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "language": "Python",
-    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "stars": 0,
-    "updated_at": "2026-08-14T03:18:09Z",
-    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
   },
   {
     "description": "Gated skillset for AI coding agents: idea \u2192 durable blueprint docs \u2192 grill \u00b7 design \u00b7 plan \u00b7 build \u00b7 review, one work-or",
@@ -189,24 +297,6 @@
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   },
   {
-    "description": "Vibe Coder Starterpack (VCS) adalah aplikasi desktop native & ekosistem dokumentasi terstruktur untuk pengembang softwar",
-    "id": "zifaucode/vibe-coder-starterpack",
-    "language": "HTML",
-    "name": "zifaucode/vibe-coder-starterpack",
-    "stars": 0,
-    "updated_at": "2026-08-14T03:15:47Z",
-    "url": "https://github.com/zifaucode/vibe-coder-starterpack"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-14T03:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Practical GenAI & AI Engineering projects covering LLMs, RAG, AI agents, LangGraph, MCP, tool calling, guardrails, and L",
     "id": "pranayprasad7001/generative-ai-projects",
     "language": "Python",
@@ -223,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T03:13:53Z",
     "url": "https://github.com/ericthz/zebra"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 66254,
-    "updated_at": "2026-08-14T03:13:40Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Token-Dense Format (TDF): Convert PDFs, Office docs, and HTML into a token-optimized text format for LLMs. 100% distinct",
@@ -274,7 +355,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "JavaScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 10337,
+    "stars": 10338,
     "updated_at": "2026-08-14T03:09:59Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -351,21 +432,12 @@
     "url": "https://github.com/YAL-PJ/boker-tov-agent"
   },
   {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-08-14T02:59:21Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3488,
-    "updated_at": "2026-08-14T03:28:04Z",
+    "updated_at": "2026-08-14T03:45:04Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T02:55:36Z",
     "url": "https://github.com/peipeijiang/viral-storyboard-omni"
-  },
-  {
-    "description": "A collection of AI-powered n8n automation workflows for business process automation, AI agents, and productivity using L",
-    "id": "ZainSaed/n8n-automations",
-    "language": "\u2014",
-    "name": "ZainSaed/n8n-automations",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:54:46Z",
-    "url": "https://github.com/ZainSaed/n8n-automations"
-  },
-  {
-    "description": "Curated, polished agent skills for building calm native apps and running AI coding agents well. Works with Claude Code, ",
-    "id": "aka-kika/akakika-skills",
-    "language": "JavaScript",
-    "name": "aka-kika/akakika-skills",
-    "stars": 7,
-    "updated_at": "2026-08-14T02:53:27Z",
-    "url": "https://github.com/aka-kika/akakika-skills"
-  },
-  {
-    "description": "\u5b89\u88c5\u5230 AI \u5de5\u5177\u4e2d\u7684 Seedance 2.5 \u4e2d\u6587\u5bfc\u6f14 Skill\uff1a\u81ea\u52a8\u5b8c\u6210\u4efb\u52a1\u8def\u7531\u3001\u7d20\u6750\u7ed1\u5b9a\u3001\u65f6\u95f4\u8f74\u3001\u955c\u5934\u58f0\u97f3\u3001\u8fde\u7eed\u6027\u548c\u5931\u8d25\u8bca\u65ad\uff1b\u9644\u96f6 Token \u7cbe\u7b80\u7f51\u9875\u7248\u3002",
-    "id": "HaoXuanAce/seedance-2.5-director",
-    "language": "Python",
-    "name": "HaoXuanAce/seedance-2.5-director",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:50:58Z",
-    "url": "https://github.com/HaoXuanAce/seedance-2.5-director"
-  },
-  {
-    "description": "Turns a messy music collection into a queryable Obsidian vault: dedup and merge tooling over directory trees, Spotify fo",
-    "id": "lentago/music-curator",
-    "language": "Python",
-    "name": "lentago/music-curator",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:50:26Z",
-    "url": "https://github.com/lentago/music-curator"
-  },
-  {
-    "description": "Forensic reference-integrity auditor for academic publishing \u2014 built for nursing and health-sciences editors who need to",
-    "id": "lentago/reference-checker",
-    "language": "HTML",
-    "name": "lentago/reference-checker",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:50:20Z",
-    "url": "https://github.com/lentago/reference-checker"
-  },
-  {
-    "description": "Repository-backed memory and bounded-session workflow for low-context, high-quality coding agents.",
-    "id": "hanklin9188/repository-state-agent-workflow",
-    "language": "Python",
-    "name": "hanklin9188/repository-state-agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:49:47Z",
-    "url": "https://github.com/hanklin9188/repository-state-agent-workflow"
-  },
-  {
-    "description": "Local, provider-neutral compression for LLM prompts, tool schemas, JSON, logs, and diffs. Lossless, receipt-audited, no ",
-    "id": "snchimata/tokenfold",
-    "language": "Rust",
-    "name": "snchimata/tokenfold",
-    "stars": 19,
-    "updated_at": "2026-08-14T02:48:53Z",
-    "url": "https://github.com/snchimata/tokenfold"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:48:34Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   }
 ]
