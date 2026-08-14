@@ -1,12 +1,57 @@
 [
   {
-    "description": "Grok / xAI Tools \u2013 Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi",
-    "id": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
-    "language": "\u2014",
-    "name": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "description": "AI creative localization pipeline: deconstruct \u2192 culture-profile transcreation \u2192 fidelity loop \u2192 taboo check. \u4e0d\u53ea\u662f\u7ffb\u8bd1\uff0c\u662f\u521b\u610f\u7684",
+    "id": "helloworld-x3/LocalPipe",
+    "language": "Python",
+    "name": "helloworld-x3/LocalPipe",
     "stars": 2,
-    "updated_at": "2026-08-14T05:49:33Z",
-    "url": "https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite"
+    "updated_at": "2026-08-14T05:59:25Z",
+    "url": "https://github.com/helloworld-x3/LocalPipe"
+  },
+  {
+    "description": "Templates, hooks y eval datasets para hacer que tu agente IA (Claude Code, Codex, Cursor) trabaje de forma fiable. Kits ",
+    "id": "pedri77/iacademy-kits",
+    "language": "Python",
+    "name": "pedri77/iacademy-kits",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:58:40Z",
+    "url": "https://github.com/pedri77/iacademy-kits"
+  },
+  {
+    "description": "Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext. ",
+    "id": "agoradynamics/wick",
+    "language": "JavaScript",
+    "name": "agoradynamics/wick",
+    "stars": 3,
+    "updated_at": "2026-08-14T05:56:31Z",
+    "url": "https://github.com/agoradynamics/wick"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-14T05:55:28Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "\u7ed9 AI \u7f16\u7a0b\u7acb\u89c4\u77e9\u7684\u5951\u7ea6\u9a71\u52a8\u5f00\u53d1\u7cfb\u7edf\uff1a10 \u4efd\u5951\u7ea6 + \u5f3a\u5236\u6267\u884c\u5b88\u536b\uff08T0-T3 \u5206\u7ea7\u3001\u81ea\u68c0\u3001PCS\uff09\uff0c\u89e3\u51b3 AI \u5931\u5fc6\u3001\u91cd\u590d\u9020\u8f6e\u5b50\u3001\u4e0a\u4e0b\u6587\u7206\u70b8\u4e0e\u8fd4\u5de5\u3002Contracts + enforcement skill for reliable ",
+    "id": "jian-fly/contract-driven-development",
+    "language": "PowerShell",
+    "name": "jian-fly/contract-driven-development",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:54:45Z",
+    "url": "https://github.com/jian-fly/contract-driven-development"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1838,
+    "updated_at": "2026-08-14T05:54:21Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
   {
     "description": "A generative film studio modeled as a real production studio in layers (roles -> grounding -> code), orchestrating multi",
@@ -14,8 +59,62 @@
     "language": "Python",
     "name": "HarryJamesGreenblatt/sequitur_studios",
     "stars": 1,
-    "updated_at": "2026-08-14T05:49:16Z",
+    "updated_at": "2026-08-14T05:53:16Z",
     "url": "https://github.com/HarryJamesGreenblatt/sequitur_studios"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
+    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
+    "language": "Python",
+    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:52:55Z",
+    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
+  },
+  {
+    "description": "An AI agent that runs a SaaS support & billing back office \u2014 versioned SOP-as-prompt, full run tracing, human approval g",
+    "id": "DonSuavvy/opspilot",
+    "language": "TypeScript",
+    "name": "DonSuavvy/opspilot",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:52:01Z",
+    "url": "https://github.com/DonSuavvy/opspilot"
+  },
+  {
+    "description": "\u5feb\u624b(kuaishou)\u5185\u90e8 Agent \u6280\u80fd\u96c6\u4e0e\u8fd0\u7ef4\u5de5\u5177:\u63d0\u793a\u8bcd\u4f18\u5316\u3001\u65e5\u5fd7\u6392\u969c\u3001\u53d1\u5e03\u5de1\u68c0\u3001\u70ed\u70b9\u76d8\u70b9;\u529e\u516c\u533a\u5916\u65e0\u9700 VPN,\u7edf\u4e00\u7ecf SSO \u7f51\u5173\u3002\u4f9b @kuaishou.com \u57df\u540c\u4e8b\u4e0e\u5185\u90e8 agent \u4f7f\u7528\u3002Kuaishou intern",
+    "id": "Jest3r666/kwai-agent-skills",
+    "language": "Shell",
+    "name": "Jest3r666/kwai-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-08-14T05:51:27Z",
+    "url": "https://github.com/Jest3r666/kwai-agent-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-14T05:51:15Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 66280,
+    "updated_at": "2026-08-14T05:51:05Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Grok / xAI Tools \u2013 Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi",
+    "id": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "language": "\u2014",
+    "name": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "stars": 2,
+    "updated_at": "2026-08-14T05:49:33Z",
+    "url": "https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -54,15 +153,6 @@
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-14T05:45:23Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "ESLint for AI Agents \u2014 AGENTS.md/CLAUDE.md \ucc44\uc810\u00b7\uc9c4\ub2e8\u00b7\uc790\ub3d9\uc218\uc815 | Position Risk Warning \u00b7 Token Efficiency \u00b7 Security Check",
     "id": "seojoonkim/agentlinter",
     "language": "TypeScript",
@@ -88,24 +178,6 @@
     "stars": 5,
     "updated_at": "2026-08-14T05:44:03Z",
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
-    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "language": "Python",
-    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "stars": 0,
-    "updated_at": "2026-08-14T05:43:49Z",
-    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
-  },
-  {
-    "description": "\u5feb\u624b(kuaishou)\u5185\u90e8 Agent \u6280\u80fd\u96c6\u4e0e\u8fd0\u7ef4\u5de5\u5177:\u63d0\u793a\u8bcd\u4f18\u5316\u3001\u65e5\u5fd7\u6392\u969c\u3001\u53d1\u5e03\u5de1\u68c0\u3001\u70ed\u70b9\u76d8\u70b9;\u529e\u516c\u533a\u5916\u65e0\u9700 VPN,\u7edf\u4e00\u7ecf SSO \u7f51\u5173\u3002\u4f9b @kuaishou.com \u57df\u540c\u4e8b\u4e0e\u5185\u90e8 agent \u4f7f\u7528\u3002Kuaishou intern",
-    "id": "Jest3r666/kwai-agent-skills",
-    "language": "Shell",
-    "name": "Jest3r666/kwai-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-08-14T05:43:22Z",
-    "url": "https://github.com/Jest3r666/kwai-agent-skills"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -239,7 +311,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27506,
-    "updated_at": "2026-08-14T05:45:43Z",
+    "updated_at": "2026-08-14T05:52:13Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -259,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T05:24:35Z",
     "url": "https://github.com/nsbradley88/level-up"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 66279,
-    "updated_at": "2026-08-14T05:51:05Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
@@ -385,68 +448,5 @@
     "stars": 34,
     "updated_at": "2026-08-14T05:08:43Z",
     "url": "https://github.com/FanBroWell/AI-paper-reviewer"
-  },
-  {
-    "description": "Procedural writing-style skills for AI agents: official frameworks (plain language, business writing, GOV.UK, AP style, ",
-    "id": "surendranb/writing-skills",
-    "language": "\u2014",
-    "name": "surendranb/writing-skills",
-    "stars": 0,
-    "updated_at": "2026-08-14T05:07:38Z",
-    "url": "https://github.com/surendranb/writing-skills"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-08-14T05:07:18Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3488,
-    "updated_at": "2026-08-14T05:35:40Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\u628a\u9898\u76ee\u4e22\u7ed9 AI\uff0c\u8ba9\u5b83\u7528\u5927\u767d\u8bdd\u3001\u751f\u6d3b\u4f8b\u5b50\u548c\u201c\u4e3a\u4ec0\u4e48\u201d\uff0c\u4e00\u76f4\u8bb2\u5230\u4f60\u61c2 | Simple & sustainable AI learning prompts",
-    "id": "FanBroWell/simple-learning-prompts",
-    "language": "Python",
-    "name": "FanBroWell/simple-learning-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-14T05:05:54Z",
-    "url": "https://github.com/FanBroWell/simple-learning-prompts"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2251,
-    "updated_at": "2026-08-14T05:03:37Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-14T05:03:17Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "TIKAZ AI Skills for Codex \u2014 seven composable, evidence-first workflow suites",
-    "id": "TIKAZI/TIKAZ-AI-Skills",
-    "language": "Python",
-    "name": "TIKAZI/TIKAZ-AI-Skills",
-    "stars": 6,
-    "updated_at": "2026-08-14T05:02:39Z",
-    "url": "https://github.com/TIKAZI/TIKAZ-AI-Skills"
   }
 ]
