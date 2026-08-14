@@ -1,5 +1,95 @@
 [
   {
+    "description": "Text-first toolkit for building reproducible, composable LLM workflows as plain files in OCaml.",
+    "id": "dakotamurphyucf/ochat",
+    "language": "OCaml",
+    "name": "dakotamurphyucf/ochat",
+    "stars": 29,
+    "updated_at": "2026-08-14T21:36:31Z",
+    "url": "https://github.com/dakotamurphyucf/ochat"
+  },
+  {
+    "description": "A practical, opinionated Claude Code workflow: a task-rubric loop that makes AI-written code trustworthy, a lean CLAUDE.",
+    "id": "benyoskovitz/claude-code-workflow",
+    "language": "Shell",
+    "name": "benyoskovitz/claude-code-workflow",
+    "stars": 7,
+    "updated_at": "2026-08-14T21:35:43Z",
+    "url": "https://github.com/benyoskovitz/claude-code-workflow"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-14T21:35:29Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-14T21:34:11Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 19,
+    "updated_at": "2026-08-14T21:34:06Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "A prompt-based AI project runtime for structured activation, roadmap-first execution, active-step artifacts and handoff ",
+    "id": "eddlev/vm4ai-air-kit",
+    "language": "\u2014",
+    "name": "eddlev/vm4ai-air-kit",
+    "stars": 2,
+    "updated_at": "2026-08-14T21:33:06Z",
+    "url": "https://github.com/eddlev/vm4ai-air-kit"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-14T21:32:40Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 1,
+    "updated_at": "2026-08-14T21:31:56Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
+    "id": "Magma1321/mythos-agent-pipe",
+    "language": "HTML",
+    "name": "Magma1321/mythos-agent-pipe",
+    "stars": 121,
+    "updated_at": "2026-08-14T21:31:17Z",
+    "url": "https://github.com/Magma1321/mythos-agent-pipe"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-14T21:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -315,15 +405,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-14T21:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
     "id": "costiash/claude-code-docs",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-14T21:10:10Z",
     "url": "https://github.com/adrianwedd/cv"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11054,
-    "updated_at": "2026-08-14T21:29:13Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "BurnSight AI is a chatbot that leverages the use of pretrained CNNs and Gemini API to provide first-aid treatment for va",
-    "id": "ameydbharambe/BurnSightAI",
-    "language": "Python",
-    "name": "ameydbharambe/BurnSightAI",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:04:48Z",
-    "url": "https://github.com/ameydbharambe/BurnSightAI"
-  },
-  {
-    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
-    "id": "ryanportfolio/savetokens",
-    "language": "HTML",
-    "name": "ryanportfolio/savetokens",
-    "stars": 1,
-    "updated_at": "2026-08-14T21:03:28Z",
-    "url": "https://github.com/ryanportfolio/savetokens"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-14T21:03:26Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "DeepSeek Harness DSH \u63d0\u793a\u8bcd\u589e\u5f3a\u63d2\u4ef6\uff1a\u2728 \u4e00\u952e\u4f18\u5316\u8349\u7a3f",
-    "id": "Fishsb/dsh-prompt-enhancer",
-    "language": "JavaScript",
-    "name": "Fishsb/dsh-prompt-enhancer",
-    "stars": 1,
-    "updated_at": "2026-08-14T21:03:10Z",
-    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-14T21:02:54Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:02:31Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Midjourney \u2013 A powerful desktop tool to manage unlimited prompt generation, optimize your workflow, and enhance AI art c",
-    "id": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
-    "language": "\u2014",
-    "name": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
-    "stars": 1,
-    "updated_at": "2026-08-14T21:01:56Z",
-    "url": "https://github.com/deader49963hefty/Midjourney-Ultimate-Prompts-Studio"
-  },
-  {
-    "description": "Compile short or underspecified user messages into explicit prompts for coding-agent executors.",
-    "id": "bodencrouch/prompt-uplift",
-    "language": "Python",
-    "name": "bodencrouch/prompt-uplift",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:01:51Z",
-    "url": "https://github.com/bodencrouch/prompt-uplift"
   }
 ]
