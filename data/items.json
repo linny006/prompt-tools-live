@@ -1,12 +1,165 @@
 [
   {
+    "description": "A generative film studio modeled as a real production studio in layers (roles -> grounding -> code), orchestrating multi",
+    "id": "HarryJamesGreenblatt/sequitur_studios",
+    "language": "Python",
+    "name": "HarryJamesGreenblatt/sequitur_studios",
+    "stars": 1,
+    "updated_at": "2026-08-14T05:28:59Z",
+    "url": "https://github.com/HarryJamesGreenblatt/sequitur_studios"
+  },
+  {
+    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:28:03Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 1,
+    "updated_at": "2026-08-14T05:27:51Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-08-14T05:26:57Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27506,
+    "updated_at": "2026-08-14T05:25:28Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 72,
+    "updated_at": "2026-08-14T05:24:40Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "Portable evidence-driven agent skill for recursively refining ideas and codebases",
+    "id": "nsbradley88/level-up",
+    "language": "\u2014",
+    "name": "nsbradley88/level-up",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:24:35Z",
+    "url": "https://github.com/nsbradley88/level-up"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 66274,
+    "updated_at": "2026-08-14T05:24:26Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 54,
+    "updated_at": "2026-08-14T05:22:44Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
+    "id": "grigb/gas-prompt-library",
+    "language": "Python",
+    "name": "grigb/gas-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-14T05:22:17Z",
+    "url": "https://github.com/grigb/gas-prompt-library"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 24,
+    "updated_at": "2026-08-14T05:21:49Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 166,
+    "updated_at": "2026-08-14T05:21:17Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Continuously refreshed public feed of AI image and video prompts from X, with original authors, source links, preview me",
+    "id": "Hanyuyu/visual-prompt-feed",
+    "language": "JavaScript",
+    "name": "Hanyuyu/visual-prompt-feed",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:17:51Z",
+    "url": "https://github.com/Hanyuyu/visual-prompt-feed"
+  },
+  {
+    "description": "Copy-ready AI workflow packs for Codex, Claude Code, Gemini, and GitHub Copilot.",
+    "id": "shinjaehyun20/ai-workflow-kits",
+    "language": "Python",
+    "name": "shinjaehyun20/ai-workflow-kits",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:16:40Z",
+    "url": "https://github.com/shinjaehyun20/ai-workflow-kits"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-08-14T05:16:13Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-14T05:16:13Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 42399,
-    "updated_at": "2026-08-14T05:14:24Z",
+    "stars": 42400,
+    "updated_at": "2026-08-14T05:15:53Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-14T05:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Practical GenAI & AI Engineering projects covering LLMs, RAG, AI agents, LangGraph, MCP, tool calling, guardrails, and L",
@@ -16,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T05:13:45Z",
     "url": "https://github.com/pranayprasad7001/generative-ai-projects"
-  },
-  {
-    "description": "A generative film studio modeled as a real production studio in layers (roles -> grounding -> code), orchestrating multi",
-    "id": "HarryJamesGreenblatt/sequitur_studios",
-    "language": "Python",
-    "name": "HarryJamesGreenblatt/sequitur_studios",
-    "stars": 1,
-    "updated_at": "2026-08-14T05:13:44Z",
-    "url": "https://github.com/HarryJamesGreenblatt/sequitur_studios"
-  },
-  {
-    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 72,
-    "updated_at": "2026-08-14T05:13:36Z",
-    "url": "https://github.com/simota/agent-skills"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -113,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3488,
-    "updated_at": "2026-08-14T05:08:23Z",
+    "updated_at": "2026-08-14T05:26:38Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -171,15 +306,6 @@
     "url": "https://github.com/busybutlazy/skill-forge"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-14T05:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -232,15 +358,6 @@
     "stars": 8510,
     "updated_at": "2026-08-14T04:55:58Z",
     "url": "https://github.com/Imbad0202/academic-research-skills-codex"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 66271,
-    "updated_at": "2026-08-14T04:55:35Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Hermes, OpenClaw, Cursor).",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T04:49:55Z",
     "url": "https://github.com/mifdlaldev/mifdlaldev"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 1,
-    "updated_at": "2026-08-14T04:49:24Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Qualitative Neural Networks as a deep-think paradigm  ",
-    "id": "iblameandrew/open-deepthink",
-    "language": "Python",
-    "name": "iblameandrew/open-deepthink",
-    "stars": 150,
-    "updated_at": "2026-08-14T04:48:49Z",
-    "url": "https://github.com/iblameandrew/open-deepthink"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 151,
-    "updated_at": "2026-08-14T04:48:48Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27506,
-    "updated_at": "2026-08-14T05:14:02Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Production-grade Agent Skills for AI coding agents\u2014composable workflows for planning, TDD, debugging, review, UI/UX, rel",
-    "id": "thiientv/godmode",
-    "language": "Python",
-    "name": "thiientv/godmode",
-    "stars": 85,
-    "updated_at": "2026-08-14T04:48:27Z",
-    "url": "https://github.com/thiientv/godmode"
-  },
-  {
-    "description": "\ud83c\udfac Curated Seedance 2.5 video prompts with preview frames \u2014 auto-generated README, EN/\u4e2d\u6587",
-    "id": "velokey-ai/awesome-seedance-2.5-prompts",
-    "language": "Python",
-    "name": "velokey-ai/awesome-seedance-2.5-prompts",
-    "stars": 2,
-    "updated_at": "2026-08-14T04:47:38Z",
-    "url": "https://github.com/velokey-ai/awesome-seedance-2.5-prompts"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 3,
-    "updated_at": "2026-08-14T04:45:51Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "\ud83c\udfa8 Curated Seedream 5.0 Pro prompts with previews \u2014 auto-generated README, EN/\u4e2d\u6587",
-    "id": "velokey-ai/awesome-seedream-5.0-pro-prompts",
-    "language": "Python",
-    "name": "velokey-ai/awesome-seedream-5.0-pro-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-14T04:44:54Z",
-    "url": "https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts"
-  },
-  {
-    "description": "LDL (LLM Delivery Loop) \u2014 a delivery methodology for AI agents: contract first, gated delivery loop, compounding second ",
-    "id": "daniel-kjseo/llm-delivery-loop",
-    "language": "HTML",
-    "name": "daniel-kjseo/llm-delivery-loop",
-    "stars": 1,
-    "updated_at": "2026-08-14T04:44:53Z",
-    "url": "https://github.com/daniel-kjseo/llm-delivery-loop"
-  },
-  {
-    "description": "BurnSight AI is a chatbot that leverages the use of pretrained CNNs and Gemini API to provide first-aid treatment for va",
-    "id": "ameydbharambe/BurnSightAI",
-    "language": "Python",
-    "name": "ameydbharambe/BurnSightAI",
-    "stars": 0,
-    "updated_at": "2026-08-14T04:42:23Z",
-    "url": "https://github.com/ameydbharambe/BurnSightAI"
-  },
-  {
-    "description": "\ud83c\udfaf Full-stack engineer & AI/ML enthusiast building production-grade web apps and LLM-powered systems | React \u00b7 Node.js \u00b7 ",
-    "id": "Aditya-dxt/Aditya-dxt",
-    "language": "\u2014",
-    "name": "Aditya-dxt/Aditya-dxt",
-    "stars": 2,
-    "updated_at": "2026-08-14T04:39:59Z",
-    "url": "https://github.com/Aditya-dxt/Aditya-dxt"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13198,
-    "updated_at": "2026-08-14T04:33:18Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 13,
-    "updated_at": "2026-08-14T04:33:26Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
   }
 ]
