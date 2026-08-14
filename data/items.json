@@ -1,5 +1,50 @@
 [
   {
+    "description": "Classifies a prompt edit as patch, minor, or major by its effect on existing call sites, not by the size of the diff",
+    "id": "nradawg/prompt-semver-gate",
+    "language": "TypeScript",
+    "name": "nradawg/prompt-semver-gate",
+    "stars": 0,
+    "updated_at": "2026-08-14T19:12:39Z",
+    "url": "https://github.com/nradawg/prompt-semver-gate"
+  },
+  {
+    "description": "A practical guide and starter kit for researchers using OpenAI Codex (ChatGPT's coding agent) on long, technically deman",
+    "id": "Mexregkan/chatgpt-for-researchers",
+    "language": "Python",
+    "name": "Mexregkan/chatgpt-for-researchers",
+    "stars": 2,
+    "updated_at": "2026-08-14T19:09:50Z",
+    "url": "https://github.com/Mexregkan/chatgpt-for-researchers"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-14T19:09:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Practical guide and toolkit for physicists and mathematicians using Claude Code \u2014 built from months on a real research p",
+    "id": "Mexregkan/claude-for-researchers",
+    "language": "Python",
+    "name": "Mexregkan/claude-for-researchers",
+    "stars": 49,
+    "updated_at": "2026-08-14T19:09:32Z",
+    "url": "https://github.com/Mexregkan/claude-for-researchers"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-14T19:08:41Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -45,15 +90,6 @@
     "url": "https://github.com/ralphmoran/ticket-lens"
   },
   {
-    "description": "Practical guide and toolkit for physicists and mathematicians using Claude Code \u2014 built from months on a real research p",
-    "id": "Mexregkan/claude-for-researchers",
-    "language": "Python",
-    "name": "Mexregkan/claude-for-researchers",
-    "stars": 49,
-    "updated_at": "2026-08-14T19:04:38Z",
-    "url": "https://github.com/Mexregkan/claude-for-researchers"
-  },
-  {
     "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
     "id": "sauravbhattacharya001/agentlens",
     "language": "JavaScript",
@@ -88,15 +124,6 @@
     "stars": 19,
     "updated_at": "2026-08-14T19:01:17Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-14T19:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
@@ -391,7 +418,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 66355,
+    "stars": 66356,
     "updated_at": "2026-08-14T18:35:51Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-14T18:32:24Z",
     "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
-    "id": "Forest-Project-Lab/doctrine",
-    "language": "Python",
-    "name": "Forest-Project-Lab/doctrine",
-    "stars": 1,
-    "updated_at": "2026-08-14T18:30:43Z",
-    "url": "https://github.com/Forest-Project-Lab/doctrine"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 1,
-    "updated_at": "2026-08-14T18:30:33Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-14T18:30:28Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
