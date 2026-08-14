@@ -1,12 +1,93 @@
 [
   {
+    "description": "A curated, safety-conscious collection of reusable Grok-compatible agent skills for workflow automation, research, integ",
+    "id": "Stijnman/grok-custom-skills",
+    "language": "Python",
+    "name": "Stijnman/grok-custom-skills",
+    "stars": 5,
+    "updated_at": "2026-08-14T04:24:45Z",
+    "url": "https://github.com/Stijnman/grok-custom-skills"
+  },
+  {
+    "description": "\u8bf4\u4eba\u8bdd\uff5c\u4e2d\u6587\u4f18\u5148\u7684\u53bb AI \u5473\u6539\u5199 skill\uff1a\u4fdd\u4e8b\u5b9e\u3001\u5206\u573a\u666f\u3001\u6539\u5b8c\u53ef\u76f4\u63a5\u53d1\u3002Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT \u2014 removes ",
+    "id": "MrGeDiao/shuorenhua",
+    "language": "Python",
+    "name": "MrGeDiao/shuorenhua",
+    "stars": 1062,
+    "updated_at": "2026-08-14T04:23:28Z",
+    "url": "https://github.com/MrGeDiao/shuorenhua"
+  },
+  {
+    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
+    "id": "LouisLau-art/multi-agent-skills-catalog",
+    "language": "Python",
+    "name": "LouisLau-art/multi-agent-skills-catalog",
+    "stars": 2,
+    "updated_at": "2026-08-14T04:22:31Z",
+    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 18,
+    "updated_at": "2026-08-14T04:22:13Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
+    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
+    "language": "Python",
+    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
+    "stars": 0,
+    "updated_at": "2026-08-14T04:21:39Z",
+    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
+  },
+  {
+    "description": "SerpApi MCP engine catalog + prompt generator to help agents call SerpApi correctly",
+    "id": "pranavkafle/serpapi-mcp-catalog",
+    "language": "Python",
+    "name": "pranavkafle/serpapi-mcp-catalog",
+    "stars": 1,
+    "updated_at": "2026-08-14T04:18:45Z",
+    "url": "https://github.com/pranavkafle/serpapi-mcp-catalog"
+  },
+  {
     "description": "Private-by-default, skill-driven prompt workspace for OpenAI-compatible local model servers",
     "id": "breadtitor/local-prompt-studio",
     "language": "Python",
     "name": "breadtitor/local-prompt-studio",
     "stars": 0,
-    "updated_at": "2026-08-14T04:15:20Z",
+    "updated_at": "2026-08-14T04:25:13Z",
     "url": "https://github.com/breadtitor/local-prompt-studio"
+  },
+  {
+    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
+    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "language": "HTML",
+    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "stars": 2,
+    "updated_at": "2026-08-14T04:15:37Z",
+    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-14T04:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A judgment layer for AI-made slides \u2014 not another PPT generator.",
+    "id": "rocsgh/ppt-zen",
+    "language": "Python",
+    "name": "rocsgh/ppt-zen",
+    "stars": 1,
+    "updated_at": "2026-08-14T04:15:23Z",
+    "url": "https://github.com/rocsgh/ppt-zen"
   },
   {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
@@ -36,13 +117,13 @@
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   },
   {
-    "description": "A judgment layer for AI-made slides \u2014 not another PPT generator.",
-    "id": "rocsgh/ppt-zen",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
     "language": "Python",
-    "name": "rocsgh/ppt-zen",
-    "stars": 1,
-    "updated_at": "2026-08-14T04:15:23Z",
-    "url": "https://github.com/rocsgh/ppt-zen"
+    "name": "headroomlabs-ai/headroom",
+    "stars": 66262,
+    "updated_at": "2026-08-14T04:11:54Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -79,15 +160,6 @@
     "stars": 85,
     "updated_at": "2026-08-14T04:08:36Z",
     "url": "https://github.com/marmbiz/humanizer-de"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 66261,
-    "updated_at": "2026-08-14T04:11:54Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "A production-ready Seedance 2.5 prompt skill for text-to-video, image-to-video, reference-to-video, editing, extension, ",
@@ -171,15 +243,6 @@
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-14T04:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
     "id": "teguhimanulloh47/pirate-talk-for-claude",
     "language": "HTML",
@@ -198,13 +261,13 @@
     "url": "https://github.com/elanthus/news-briefing"
   },
   {
-    "description": "A curated, safety-conscious collection of reusable Grok-compatible agent skills for workflow automation, research, integ",
-    "id": "Stijnman/grok-custom-skills",
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
     "language": "Python",
-    "name": "Stijnman/grok-custom-skills",
-    "stars": 5,
-    "updated_at": "2026-08-14T04:00:02Z",
-    "url": "https://github.com/Stijnman/grok-custom-skills"
+    "name": "github/awesome-copilot",
+    "stars": 37802,
+    "updated_at": "2026-08-14T03:59:55Z",
+    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -214,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-08-14T03:59:44Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "Python",
-    "name": "github/awesome-copilot",
-    "stars": 37801,
-    "updated_at": "2026-08-14T03:59:55Z",
-    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
@@ -373,7 +427,7 @@
     "id": "chang416/im-human",
     "language": "Python",
     "name": "chang416/im-human",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-08-14T03:43:00Z",
     "url": "https://github.com/chang416/im-human"
   },
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-14T03:39:13Z",
     "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
-    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "language": "Python",
-    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "stars": 0,
-    "updated_at": "2026-08-14T03:36:10Z",
-    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
-  },
-  {
-    "description": "Portable Claude Code profile \u2014 6-step dev loop, CLAUDE.md pre-commit gate, zero-hallucination policy. Install once, carr",
-    "id": "kopp0510/claude-dd",
-    "language": "Shell",
-    "name": "kopp0510/claude-dd",
-    "stars": 6,
-    "updated_at": "2026-08-14T03:34:33Z",
-    "url": "https://github.com/kopp0510/claude-dd"
-  },
-  {
-    "description": "Agent Skills & DeepSeek Harness (DSH) \u6269\u5c55\u5e93\uff1a\u901a\u7528\u667a\u80fd\u4f53\u6280\u80fd\uff08General_skills\uff09+ DSH \u6807\u51c6\u63d2\u4ef6\uff08dsh-plugin\uff09\uff0c\u5f00\u7bb1\u5373\u7528\u7684 AI Agent \u80fd\u529b\u589e\u5f3a\u96c6\u5408\u3002",
-    "id": "DDDFXYqiming/Agent_Extensions",
-    "language": "Python",
-    "name": "DDDFXYqiming/Agent_Extensions",
-    "stars": 4,
-    "updated_at": "2026-08-14T03:33:47Z",
-    "url": "https://github.com/DDDFXYqiming/Agent_Extensions"
-  },
-  {
-    "description": "Reproducible behavioral-control audits and sealed drift attestation for deployed LLM agents. Stdlib-only, per-install ca",
-    "id": "USTechAutomations/agent-audit",
-    "language": "Python",
-    "name": "USTechAutomations/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-08-14T03:33:30Z",
-    "url": "https://github.com/USTechAutomations/agent-audit"
-  },
-  {
-    "description": "A generative film studio modeled as a real production studio in layers (roles -> grounding -> code), orchestrating multi",
-    "id": "HarryJamesGreenblatt/sequitur_studios",
-    "language": "Python",
-    "name": "HarryJamesGreenblatt/sequitur_studios",
-    "stars": 1,
-    "updated_at": "2026-08-14T03:32:13Z",
-    "url": "https://github.com/HarryJamesGreenblatt/sequitur_studios"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 18,
-    "updated_at": "2026-08-14T03:31:53Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   }
 ]
