@@ -1,11 +1,128 @@
 [
   {
+    "description": "An intel layer for AI coding agents that assumes its own rules might be wrong \u2014 and keeps the evidence. Authoritative no",
+    "id": "ReidenXerx/bearing",
+    "language": "JavaScript",
+    "name": "ReidenXerx/bearing",
+    "stars": 3,
+    "updated_at": "2026-08-14T00:28:42Z",
+    "url": "https://github.com/ReidenXerx/bearing"
+  },
+  {
+    "description": "Catalog & docs site for IncredAgents \u2014 production AI agent skills (SKILL.md) for Claude Code and compatible agents. Ever",
+    "id": "MyAiFreedomSystems/incredagents-site",
+    "language": "HTML",
+    "name": "MyAiFreedomSystems/incredagents-site",
+    "stars": 0,
+    "updated_at": "2026-08-14T00:28:35Z",
+    "url": "https://github.com/MyAiFreedomSystems/incredagents-site"
+  },
+  {
+    "description": "Repository-backed memory and bounded-session workflow for low-context, high-quality coding agents.",
+    "id": "hanklin9188/repository-state-agent-workflow",
+    "language": "Python",
+    "name": "hanklin9188/repository-state-agent-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-14T00:28:25Z",
+    "url": "https://github.com/hanklin9188/repository-state-agent-workflow"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 42369,
+    "updated_at": "2026-08-14T00:27:36Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 51,
+    "updated_at": "2026-08-14T00:24:54Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "AEL Sovereign CS50x Master Citadel & AI Prompt Engineering Engine",
+    "id": "aymanelmasryael/AEL-Sovereign-CS50x-2026-2027",
+    "language": "JavaScript",
+    "name": "aymanelmasryael/AEL-Sovereign-CS50x-2026-2027",
+    "stars": 1,
+    "updated_at": "2026-08-14T00:21:10Z",
+    "url": "https://github.com/aymanelmasryael/AEL-Sovereign-CS50x-2026-2027"
+  },
+  {
+    "description": "The Role of Thoughts: a Dynamic Cognitive Mixture-of-Experts router for Claude Code. 9 expert lenses, 10 routing lanes, ",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Lean",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 2,
+    "updated_at": "2026-08-14T00:20:40Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+  },
+  {
+    "description": "Find out if you're right. Structured argumentation protocol for agents, researchers, educators, organizers, and more.",
+    "id": "retflo/retflo",
+    "language": "JavaScript",
+    "name": "retflo/retflo",
+    "stars": 4,
+    "updated_at": "2026-08-14T00:18:47Z",
+    "url": "https://github.com/retflo/retflo"
+  },
+  {
+    "description": "Companion code for Delta: Closing the Specification Gap by Sandeep Dhuri \u2014 the Specification Frame, the Ten Laws, and 10",
+    "id": "sandeep-dhuri/specification-frame",
+    "language": "Java",
+    "name": "sandeep-dhuri/specification-frame",
+    "stars": 0,
+    "updated_at": "2026-08-14T00:18:37Z",
+    "url": "https://github.com/sandeep-dhuri/specification-frame"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "astorie-ai/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "astorie-ai/awesome-seedance-2-prompt",
+    "stars": 11,
+    "updated_at": "2026-08-14T00:17:11Z",
+    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-08-14T00:17:06Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 859,
+    "updated_at": "2026-08-14T00:16:25Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-14T00:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A daily news briefing where every citation is checked against the corpus it came from. Python stdlib only, no API keys.",
     "id": "elanthus/news-briefing",
     "language": "Python",
     "name": "elanthus/news-briefing",
     "stars": 1,
-    "updated_at": "2026-08-14T00:14:58Z",
+    "updated_at": "2026-08-14T00:19:35Z",
     "url": "https://github.com/elanthus/news-briefing"
   },
   {
@@ -31,7 +148,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 66231,
+    "stars": 66232,
     "updated_at": "2026-08-14T00:13:23Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -68,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3488,
-    "updated_at": "2026-08-14T00:13:20Z",
+    "updated_at": "2026-08-14T00:30:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -108,24 +225,6 @@
     "url": "https://github.com/tugrakaymakcioglu/TimmyTest"
   },
   {
-    "description": "Structured argumentation protocol for agents, researchers, educators, organizers, and more.",
-    "id": "retflo/retflo",
-    "language": "JavaScript",
-    "name": "retflo/retflo",
-    "stars": 4,
-    "updated_at": "2026-08-14T00:03:56Z",
-    "url": "https://github.com/retflo/retflo"
-  },
-  {
-    "description": "Repository-backed memory and bounded-session workflow for low-context, high-quality coding agents.",
-    "id": "hanklin9188/repository-state-agent-workflow",
-    "language": "Python",
-    "name": "hanklin9188/repository-state-agent-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-14T00:03:50Z",
-    "url": "https://github.com/hanklin9188/repository-state-agent-workflow"
-  },
-  {
     "description": "Miniguia de estudos sobre Open Finance no Brasil utilizando NotebookLM e engenharia de prompts. Projeto desenvolvido no ",
     "id": "lucasdemrodrigues/open-finance-com-notebooklm",
     "language": "\u2014",
@@ -135,15 +234,6 @@
     "url": "https://github.com/lucasdemrodrigues/open-finance-com-notebooklm"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-14T00:03:05Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -151,15 +241,6 @@
     "stars": 21,
     "updated_at": "2026-08-14T00:02:50Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 42368,
-    "updated_at": "2026-08-14T00:02:49Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -259,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T23:55:26Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "AEL Sovereign CS50x Master Citadel & AI Prompt Engineering Engine",
-    "id": "aymanelmasryael/AEL-Sovereign-CS50x-2026-2027",
-    "language": "JavaScript",
-    "name": "aymanelmasryael/AEL-Sovereign-CS50x-2026-2027",
-    "stars": 1,
-    "updated_at": "2026-08-13T23:54:21Z",
-    "url": "https://github.com/aymanelmasryael/AEL-Sovereign-CS50x-2026-2027"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T23:40:30Z",
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 153,
-    "updated_at": "2026-08-13T23:37:58Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-13T23:37:12Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-13T23:35:30Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-13T23:35:27Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "The SSH client your AI agent has been waiting for.",
-    "id": "ceorkm/tersh",
-    "language": "Rust",
-    "name": "ceorkm/tersh",
-    "stars": 5,
-    "updated_at": "2026-08-13T23:35:13Z",
-    "url": "https://github.com/ceorkm/tersh"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-13T23:34:39Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-13T23:34:29Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-13T23:34:16Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   }
 ]
