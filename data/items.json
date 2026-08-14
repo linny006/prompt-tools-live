@@ -1,5 +1,59 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27512,
+    "updated_at": "2026-08-14T09:38:06Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org",
+    "id": "luckyrjain/software-builder",
+    "language": "Python",
+    "name": "luckyrjain/software-builder",
+    "stars": 0,
+    "updated_at": "2026-08-14T09:36:33Z",
+    "url": "https://github.com/luckyrjain/software-builder"
+  },
+  {
+    "description": "Visual ontology, constraint compilation, prompt optimization, and evaluation for reference-guided image generation.",
+    "id": "windforce19820520-ai/visual-ontology-constraint-engine",
+    "language": "TypeScript",
+    "name": "windforce19820520-ai/visual-ontology-constraint-engine",
+    "stars": 0,
+    "updated_at": "2026-08-14T09:35:08Z",
+    "url": "https://github.com/windforce19820520-ai/visual-ontology-constraint-engine"
+  },
+  {
+    "description": "\ud83e\udd16 A curated, specification-first library of copy-ready prompts, instruction packs, skills, and Copilot agents designed t",
+    "id": "stefaniuk/loadout",
+    "language": "Shell",
+    "name": "stefaniuk/loadout",
+    "stars": 1,
+    "updated_at": "2026-08-14T09:33:43Z",
+    "url": "https://github.com/stefaniuk/loadout"
+  },
+  {
+    "description": "A memory bank system meant for use with LLMs for project and task management",
+    "id": "space-cadet/memory-bank",
+    "language": "JavaScript",
+    "name": "space-cadet/memory-bank",
+    "stars": 17,
+    "updated_at": "2026-08-14T09:31:01Z",
+    "url": "https://github.com/space-cadet/memory-bank"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-14T09:30:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "OhMyStyle helps image-generation users apply specific visual styles more consistently by combining reference-backed styl",
     "id": "ZhouYinLong-lab/OhMyStyle",
     "language": "Python",
@@ -72,15 +126,6 @@
     "url": "https://github.com/PromptPotter/prompt-potter-optimizer"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27512,
-    "updated_at": "2026-08-14T09:20:52Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "UI kits grown by AI from a prompt-tree spec \u2014 one 37-control Base UI contract, six radically different design languages,",
     "id": "llwslc/proteus",
     "language": "HTML",
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33084,
-    "updated_at": "2026-08-14T09:27:34Z",
+    "updated_at": "2026-08-14T09:36:57Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -103,7 +148,7 @@
     "id": "jnMetaCode/agency-agents-zh",
     "language": "Shell",
     "name": "jnMetaCode/agency-agents-zh",
-    "stars": 19444,
+    "stars": 19445,
     "updated_at": "2026-08-14T09:17:45Z",
     "url": "https://github.com/jnMetaCode/agency-agents-zh"
   },
@@ -115,24 +160,6 @@
     "stars": 59,
     "updated_at": "2026-08-14T09:17:07Z",
     "url": "https://github.com/hermes-labs-ai/lintlang"
-  },
-  {
-    "description": "A memory bank system meant for use with LLMs for project and task management",
-    "id": "space-cadet/memory-bank",
-    "language": "JavaScript",
-    "name": "space-cadet/memory-bank",
-    "stars": 17,
-    "updated_at": "2026-08-14T09:16:09Z",
-    "url": "https://github.com/space-cadet/memory-bank"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-14T09:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Write, audit, and repair Seedance 2.5 video prompts. An Agent Skill for Claude Code, Codex, Cursor, Cline, Copilot, and ",
@@ -196,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T09:13:43Z",
     "url": "https://github.com/leky90/promptatlas"
-  },
-  {
-    "description": "Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org",
-    "id": "luckyrjain/software-builder",
-    "language": "Python",
-    "name": "luckyrjain/software-builder",
-    "stars": 0,
-    "updated_at": "2026-08-14T09:29:23Z",
-    "url": "https://github.com/luckyrjain/software-builder"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -430,23 +448,5 @@
     "stars": 54,
     "updated_at": "2026-08-14T08:55:23Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 24,
-    "updated_at": "2026-08-14T08:54:13Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 166,
-    "updated_at": "2026-08-14T08:53:33Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   }
 ]
