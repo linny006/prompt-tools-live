@@ -1,5 +1,32 @@
 [
   {
+    "description": "Measured results for common AGENTS.md rules \u2014 real agent runs, published data, null results included.",
+    "id": "erickdronski/contexttest-findings",
+    "language": "HTML",
+    "name": "erickdronski/contexttest-findings",
+    "stars": 0,
+    "updated_at": "2026-08-14T15:27:14Z",
+    "url": "https://github.com/erickdronski/contexttest-findings"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 9,
+    "updated_at": "2026-08-14T15:27:29Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-14T15:26:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -59,7 +86,7 @@
     "language": "\u2014",
     "name": "kazutanu/skill-optimize-bpk",
     "stars": 0,
-    "updated_at": "2026-08-14T15:17:18Z",
+    "updated_at": "2026-08-14T15:29:23Z",
     "url": "https://github.com/kazutanu/skill-optimize-bpk"
   },
   {
@@ -68,7 +95,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 2,
-    "updated_at": "2026-08-14T15:25:36Z",
+    "updated_at": "2026-08-14T15:30:23Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -86,17 +113,8 @@
     "language": "JavaScript",
     "name": "ReidenXerx/bearing",
     "stars": 3,
-    "updated_at": "2026-08-14T15:16:09Z",
+    "updated_at": "2026-08-14T15:29:44Z",
     "url": "https://github.com/ReidenXerx/bearing"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-14T15:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Auto-routes Claude Code prompts to appropriate thinking budgets based on complexity scoring. PowerShell-based hook into ",
@@ -203,7 +221,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33102,
-    "updated_at": "2026-08-14T15:26:09Z",
+    "updated_at": "2026-08-14T15:27:43Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T14:49:59Z",
     "url": "https://github.com/file-bricks/promptboard"
-  },
-  {
-    "description": "LDL (LLM Delivery Loop) \u2014 a delivery methodology for AI agents: contract first, gated delivery loop, compounding second ",
-    "id": "daniel-kjseo/llm-delivery-loop",
-    "language": "Python",
-    "name": "daniel-kjseo/llm-delivery-loop",
-    "stars": 1,
-    "updated_at": "2026-08-14T14:49:35Z",
-    "url": "https://github.com/daniel-kjseo/llm-delivery-loop"
-  },
-  {
-    "description": "Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie",
-    "id": "Quazmoz/agentdefaults",
-    "language": "Python",
-    "name": "Quazmoz/agentdefaults",
-    "stars": 0,
-    "updated_at": "2026-08-14T14:49:05Z",
-    "url": "https://github.com/Quazmoz/agentdefaults"
   }
 ]
