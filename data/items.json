@@ -1,5 +1,113 @@
 [
   {
+    "description": "\u7194\u70bc\u4e5d\u58f0\u90e8\u667a\u6167\u7684\u7cbe\u795e\u5bfc\u5e08 AI\u2014\u2014\u5148\u8bca\u65ad\u3001\u518d\u5f00\u65b9\u3001\u540e\u7ed9\u884c\u52a8",
+    "id": "lubical/MingMirror",
+    "language": "Dart",
+    "name": "lubical/MingMirror",
+    "stars": 0,
+    "updated_at": "2026-08-15T02:28:32Z",
+    "url": "https://github.com/lubical/MingMirror"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 21,
+    "updated_at": "2026-08-15T02:28:15Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "A generative film studio modeled as a real production studio in layers (roles -> grounding -> code), orchestrating multi",
+    "id": "HarryJamesGreenblatt/sequitur_studios",
+    "language": "Python",
+    "name": "HarryJamesGreenblatt/sequitur_studios",
+    "stars": 1,
+    "updated_at": "2026-08-15T02:27:49Z",
+    "url": "https://github.com/HarryJamesGreenblatt/sequitur_studios"
+  },
+  {
+    "description": "Deep Structural Analysis \u2014 a multi-perspective structural analysis skill for complex social, economic, philosophical, an",
+    "id": "tetckx/deep-structural-analysis-skill",
+    "language": "\u2014",
+    "name": "tetckx/deep-structural-analysis-skill",
+    "stars": 1,
+    "updated_at": "2026-08-15T02:23:48Z",
+    "url": "https://github.com/tetckx/deep-structural-analysis-skill"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 19,
+    "updated_at": "2026-08-15T02:21:53Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-15T02:24:43Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-15T02:19:03Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Skill Slice: copy one Read-verified SKILL.md folder. Start with the 12 works-verified chairs (Read sample \u2014 not a runtim",
+    "id": "kazimrmerchant/skill-slice",
+    "language": "Python",
+    "name": "kazimrmerchant/skill-slice",
+    "stars": 0,
+    "updated_at": "2026-08-15T02:17:39Z",
+    "url": "https://github.com/kazimrmerchant/skill-slice"
+  },
+  {
+    "description": "Turn a one-liner into a scoped thread in the right bb project: classify, expand, spawn.",
+    "id": "slogsdon/bb-plugin-dispatch",
+    "language": "TypeScript",
+    "name": "slogsdon/bb-plugin-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-15T02:17:14Z",
+    "url": "https://github.com/slogsdon/bb-plugin-dispatch"
+  },
+  {
+    "description": "Vendor-agnostic agent skill suites for the software lifecycle, web, AI engineering, product, sales, and mobile. Capabili",
+    "id": "MadewellRD/skills-lab",
+    "language": "Python",
+    "name": "MadewellRD/skills-lab",
+    "stars": 2,
+    "updated_at": "2026-08-15T02:16:46Z",
+    "url": "https://github.com/MadewellRD/skills-lab"
+  },
+  {
+    "description": "A judgment layer for AI-made slides \u2014 not another PPT generator.",
+    "id": "rocsgh/ppt-zen",
+    "language": "Python",
+    "name": "rocsgh/ppt-zen",
+    "stars": 6,
+    "updated_at": "2026-08-15T02:16:06Z",
+    "url": "https://github.com/rocsgh/ppt-zen"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-15T02:15:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Private-by-default, skill-driven prompt workspace for OpenAI-compatible local model servers",
     "id": "breadtitor/local-prompt-studio",
     "language": "Python",
@@ -9,15 +117,6 @@
     "url": "https://github.com/breadtitor/local-prompt-studio"
   },
   {
-    "description": "A generative film studio modeled as a real production studio in layers (roles -> grounding -> code), orchestrating multi",
-    "id": "HarryJamesGreenblatt/sequitur_studios",
-    "language": "Python",
-    "name": "HarryJamesGreenblatt/sequitur_studios",
-    "stars": 1,
-    "updated_at": "2026-08-15T02:13:10Z",
-    "url": "https://github.com/HarryJamesGreenblatt/sequitur_studios"
-  },
-  {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
     "id": "5uprem4/ai-skill-vault",
     "language": "HTML",
@@ -25,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-08-15T02:12:26Z",
     "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-15T02:13:53Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -108,15 +198,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Skill Slice: copy one unique SKILL.md folder. Start with the 12 works-verified chairs (Read sample \u2014 not a runtime bake)",
-    "id": "kazimrmerchant/skill-slice",
-    "language": "Python",
-    "name": "kazimrmerchant/skill-slice",
-    "stars": 0,
-    "updated_at": "2026-08-15T02:08:16Z",
-    "url": "https://github.com/kazimrmerchant/skill-slice"
-  },
-  {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
     "id": "Faudzan10/outline-driven-starter-kit",
     "language": "HTML",
@@ -151,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T02:04:41Z",
     "url": "https://github.com/ZhouYinLong-lab/OhMyStyle"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-15T02:02:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
@@ -376,77 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-15T01:20:08Z",
     "url": "https://github.com/dairui1/agentlab"
-  },
-  {
-    "description": "Open-source coding agent for real software work. Plans, reviews, and implements tasks with an explicit, inspectable inst",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 1,
-    "updated_at": "2026-08-15T01:20:05Z",
-    "url": "https://github.com/gthgomez/Babel"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 1,
-    "updated_at": "2026-08-15T01:19:44Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-08-15T01:18:39Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 3,
-    "updated_at": "2026-08-15T01:17:23Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
-    "id": "ZeroLu/awesome-seedance",
-    "language": "Shell",
-    "name": "ZeroLu/awesome-seedance",
-    "stars": 2295,
-    "updated_at": "2026-08-15T01:16:44Z",
-    "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "Turn Claude Code into a phase-aware, multi-team software factory: hard-gated pipeline, Clean Architecture + Effect stand",
-    "id": "dustin-olenslager/claude-phalanx",
-    "language": "Shell",
-    "name": "dustin-olenslager/claude-phalanx",
-    "stars": 0,
-    "updated_at": "2026-08-15T01:16:52Z",
-    "url": "https://github.com/dustin-olenslager/claude-phalanx"
-  },
-  {
-    "description": "\ud83e\udd17 The largest downloadable SeedDance 2 prompt library \u2014 8,105 prompts and growing, daily updates with HuggingFace datase",
-    "id": "goku-open/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-seedance-2-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-15T01:16:03Z",
-    "url": "https://github.com/goku-open/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-08-15T01:15:51Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   }
 ]
