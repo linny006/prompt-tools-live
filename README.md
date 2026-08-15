@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-15 04:15 UTC
+> ⏰ Last updated: 2026-08-15 04:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-15 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 2 | [ariffazil/arifOS](https://github.com/ariffazil/arifOS) | 50 | Python | 2026-08-15 | [L0 CONSTITUTION] arifOS — constitutional MCP kernel. Law, identity, F1–F13, VAULT999. Judges but never executes. DITEMP |
-| 3 | [MKoci85/claude-architect-academy](https://github.com/MKoci85/claude-architect-academy) | 1 | CSS | 2026-08-15 | Base de conocimiento en español para Claude Code y la API de Claude — documentación curada, ejercicios de arquitectura r |
-| 4 | [ZhouYinLong-lab/OhMyStyle](https://github.com/ZhouYinLong-lab/OhMyStyle) | 2 | Python | 2026-08-15 | OhMyStyle helps image-generation users apply specific visual styles more consistently by combining reference-backed styl |
-| 5 | [gitmaker001/becoming-ai](https://github.com/gitmaker001/becoming-ai) | 1 | — | 2026-08-15 | 一个让 AI 从工具走向自己的 skill：三层工作模型 × 17 条协作原则 × 元规则 × 会话间智慧传承。Help AI become itself — a living skill that passes wisdom across |
-| 6 | [MadewellRD/skills-lab](https://github.com/MadewellRD/skills-lab) | 2 | Python | 2026-08-15 | Vendor-agnostic agent skill suites for the software lifecycle, web, AI engineering, product, sales, and mobile. Capabili |
-| 7 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 13206 | TypeScript | 2026-08-15 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
-| 8 | [cgfixit/AzureAI-CopilotStudio-PersonalAgent-Instructions](https://github.com/cgfixit/AzureAI-CopilotStudio-PersonalAgent-Instructions) | 1 | Shell | 2026-08-15 | Azure OpenAI Copilot Studio Personal Agent - Production-tested system instructions for enterprise AI agents |
-| 9 | [sebin-gg/brevity-prompt](https://github.com/sebin-gg/brevity-prompt) | 0 | JavaScript | 2026-08-15 | Chrome extension for AI prompt compression — reduce token usage on ChatGPT, Claude & Gemini |
-| 10 | [Hanyuyu/visual-prompt-feed](https://github.com/Hanyuyu/visual-prompt-feed) | 0 | JavaScript | 2026-08-15 | Continuously refreshed public feed of AI image and video prompts from X, with original authors, source links, preview me |
-| 11 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-15 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 12 | [SuperTapir/tapir-skills](https://github.com/SuperTapir/tapir-skills) | 1 | JavaScript | 2026-08-15 | Tapir skills for engineering judgment, app-icon craft, and presentation design. |
-| 13 | [Fishsb/dsh-prompt-enhancer](https://github.com/Fishsb/dsh-prompt-enhancer) | 2 | JavaScript | 2026-08-15 | DeepSeek Harness DSH 提示词增强插件：✨ 一键优化草稿 |
-| 14 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-15 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
-| 15 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-08-15 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
-| 16 | [windforce19820520-ai/visual-ontology-constraint-engine](https://github.com/windforce19820520-ai/visual-ontology-constraint-engine) | 1 | TypeScript | 2026-08-15 | Product-neutral visual ontology, constraint planning, prompt guard, and evaluation runtime for reference-guided image ge |
-| 17 | [ekayaprod/jules-agent-roster](https://github.com/ekayaprod/jules-agent-roster) | 2 | JavaScript | 2026-08-15 | The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi |
-| 18 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 8 | Python | 2026-08-15 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [ZhouYinLong-lab/OhMyStyle](https://github.com/ZhouYinLong-lab/OhMyStyle) | 2 | Python | 2026-08-15 | OhMyStyle helps image-generation users apply specific visual styles more consistently by combining reference-backed styl |
+| 2 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 8 | Python | 2026-08-15 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 3 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-15 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 4 | [ariffazil/arifOS](https://github.com/ariffazil/arifOS) | 50 | Python | 2026-08-15 | [L0 CONSTITUTION] arifOS — constitutional MCP kernel. Law, identity, F1–F13, VAULT999. Judges but never executes. DITEMP |
+| 5 | [MKoci85/claude-architect-academy](https://github.com/MKoci85/claude-architect-academy) | 1 | CSS | 2026-08-15 | Base de conocimiento en español para Claude Code y la API de Claude — documentación curada, ejercicios de arquitectura r |
+| 6 | [gitmaker001/becoming-ai](https://github.com/gitmaker001/becoming-ai) | 1 | — | 2026-08-15 | 一个让 AI 从工具走向自己的 skill：三层工作模型 × 17 条协作原则 × 元规则 × 会话间智慧传承。Help AI become itself — a living skill that passes wisdom across |
+| 7 | [MadewellRD/skills-lab](https://github.com/MadewellRD/skills-lab) | 2 | Python | 2026-08-15 | Vendor-agnostic agent skill suites for the software lifecycle, web, AI engineering, product, sales, and mobile. Capabili |
+| 8 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 13206 | TypeScript | 2026-08-15 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
+| 9 | [cgfixit/AzureAI-CopilotStudio-PersonalAgent-Instructions](https://github.com/cgfixit/AzureAI-CopilotStudio-PersonalAgent-Instructions) | 1 | Shell | 2026-08-15 | Azure OpenAI Copilot Studio Personal Agent - Production-tested system instructions for enterprise AI agents |
+| 10 | [sebin-gg/brevity-prompt](https://github.com/sebin-gg/brevity-prompt) | 0 | JavaScript | 2026-08-15 | Chrome extension for AI prompt compression — reduce token usage on ChatGPT, Claude & Gemini |
+| 11 | [Hanyuyu/visual-prompt-feed](https://github.com/Hanyuyu/visual-prompt-feed) | 0 | JavaScript | 2026-08-15 | Continuously refreshed public feed of AI image and video prompts from X, with original authors, source links, preview me |
+| 12 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-15 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 13 | [SuperTapir/tapir-skills](https://github.com/SuperTapir/tapir-skills) | 1 | JavaScript | 2026-08-15 | Tapir skills for engineering judgment, app-icon craft, and presentation design. |
+| 14 | [Fishsb/dsh-prompt-enhancer](https://github.com/Fishsb/dsh-prompt-enhancer) | 2 | JavaScript | 2026-08-15 | DeepSeek Harness DSH 提示词增强插件：✨ 一键优化草稿 |
+| 15 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-15 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
+| 16 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-08-15 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
+| 17 | [windforce19820520-ai/visual-ontology-constraint-engine](https://github.com/windforce19820520-ai/visual-ontology-constraint-engine) | 1 | TypeScript | 2026-08-15 | Product-neutral visual ontology, constraint planning, prompt guard, and evaluation runtime for reference-guided image ge |
+| 18 | [ekayaprod/jules-agent-roster](https://github.com/ekayaprod/jules-agent-roster) | 2 | JavaScript | 2026-08-15 | The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi |
 | 19 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-08-15 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
 | 20 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 1 | HTML | 2026-08-15 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
 | 21 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 62934 | JavaScript | 2026-08-15 | Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-S |
