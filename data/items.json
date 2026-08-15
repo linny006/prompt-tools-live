@@ -1,5 +1,59 @@
 [
   {
+    "description": "Browser-based visual scene specification editor with observer simulation, validation, storyboards, and portable JSON/YAM",
+    "id": "kdeppaei/STD-Visual-Spec-Editor-Pages",
+    "language": "HTML",
+    "name": "kdeppaei/STD-Visual-Spec-Editor-Pages",
+    "stars": 0,
+    "updated_at": "2026-08-15T18:07:08Z",
+    "url": "https://github.com/kdeppaei/STD-Visual-Spec-Editor-Pages"
+  },
+  {
+    "description": "Type-safe {{variable}} renderer for .md files",
+    "id": "bug3/md-render",
+    "language": "TypeScript",
+    "name": "bug3/md-render",
+    "stars": 0,
+    "updated_at": "2026-08-15T18:05:08Z",
+    "url": "https://github.com/bug3/md-render"
+  },
+  {
+    "description": "FastAPI backend for storing, versioning, and retrieving LLM prompts with JWT auth",
+    "id": "mbommakanti/PromptVault",
+    "language": "Python",
+    "name": "mbommakanti/PromptVault",
+    "stars": 0,
+    "updated_at": "2026-08-15T18:04:10Z",
+    "url": "https://github.com/mbommakanti/PromptVault"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-15T18:00:45Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 8,
+    "updated_at": "2026-08-15T18:00:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-15T18:00:25Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "luckyrjain/software-builder",
     "stars": 0,
-    "updated_at": "2026-08-15T17:56:01Z",
+    "updated_at": "2026-08-15T18:05:48Z",
     "url": "https://github.com/luckyrjain/software-builder"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 150,
     "updated_at": "2026-08-15T17:53:59Z",
     "url": "https://github.com/iblameandrew/open-deepthink"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 8,
-    "updated_at": "2026-08-15T17:53:56Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Data2prompt is a powerful cli tool that compiles your entire data-heavy project into a single AI-optimized file. Handles",
@@ -153,15 +198,6 @@
     "url": "https://github.com/deader49963hefty/Midjourney-Ultimate-Prompts-Studio"
   },
   {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-15T17:49:59Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T17:49:16Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-15T17:48:42Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
     "description": "A lightweight, windowless Windows AI text assistant for prompt optimization, translation, code refactoring, and custom a",
@@ -196,15 +223,6 @@
     "stars": 195,
     "updated_at": "2026-08-15T17:59:11Z",
     "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "FastAPI backend for storing, versioning, and retrieving LLM prompts with JWT auth",
-    "id": "mbommakanti/PromptVault",
-    "language": "Python",
-    "name": "mbommakanti/PromptVault",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:45:29Z",
-    "url": "https://github.com/mbommakanti/PromptVault"
   },
   {
     "description": "A compact, testable protocol for tagged, closed-loop prompting using constructivist\u2013cybernetic principles.  ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T17:21:49Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-08-15T17:21:02Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-08-15T17:20:17Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   }
 ]
