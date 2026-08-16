@@ -1,12 +1,102 @@
 [
   {
-    "description": "Codex Skill for business IP, keynote, event campaigns, and creative character posters in 3:4 or 9:16.",
-    "id": "qingyunAGI/qingyun-ip-poster",
+    "description": "\u6bdb\u9009\u00b7\u6218\u7565\u4e0e\u77db\u76fe\u5206\u6790\uff1a\u628a\u300a\u6bdb\u6cfd\u4e1c\u9009\u96c6\u300b\u7684\u6218\u7565\u601d\u7ef4\u3001\u77db\u76fe\u5206\u6790\u6cd5\u3001\u8c03\u67e5\u7814\u7a76\u8f6c\u8bd1\u4e3a\u53ef\u76f4\u63a5\u5957\u7528\u7684\u5206\u6790\u4e0e\u6267\u884c\u6846\u67b6\uff08WorkBuddy / Claude Code \u7b49 Agent \u53ef\u52a0\u8f7d\u7684 Skill\uff09\u3002",
+    "id": "LF2023/maoxuan",
     "language": "\u2014",
-    "name": "qingyunAGI/qingyun-ip-poster",
-    "stars": 6,
-    "updated_at": "2026-08-16T09:55:30Z",
-    "url": "https://github.com/qingyunAGI/qingyun-ip-poster"
+    "name": "LF2023/maoxuan",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:59:51Z",
+    "url": "https://github.com/LF2023/maoxuan"
+  },
+  {
+    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 11 cloud providers + local models side-",
+    "id": "SoraVantia/cli-modelarium",
+    "language": "Python",
+    "name": "SoraVantia/cli-modelarium",
+    "stars": 1,
+    "updated_at": "2026-08-16T09:57:52Z",
+    "url": "https://github.com/SoraVantia/cli-modelarium"
+  },
+  {
+    "description": "Sifirdan sanal bir insan yaratir: yuz, hayat, aile, rutin. Karakteri kilitler, vesikalik seti cikarir ve BAGLADIGIN gors",
+    "id": "efecim1snn/second-self",
+    "language": "JavaScript",
+    "name": "efecim1snn/second-self",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:57:26Z",
+    "url": "https://github.com/efecim1snn/second-self"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 462,
+    "updated_at": "2026-08-16T10:00:18Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-16T09:56:39Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
+    "id": "Forest-Project-Lab/doctrine",
+    "language": "Python",
+    "name": "Forest-Project-Lab/doctrine",
+    "stars": 2,
+    "updated_at": "2026-08-16T09:56:13Z",
+    "url": "https://github.com/Forest-Project-Lab/doctrine"
+  },
+  {
+    "description": "\u7528\u672c\u5730 Qwen \u6a21\u578b\u4e3a MiniMax H3 \u751f\u6210\u4f18\u5316\u63d0\u793a\u8bcd\u7684 ComfyUI \u8282\u70b9",
+    "id": "wangminxing2019/ComfyUI-MiniMaxH3-QwenPrompt",
+    "language": "Python",
+    "name": "wangminxing2019/ComfyUI-MiniMaxH3-QwenPrompt",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:56:07Z",
+    "url": "https://github.com/wangminxing2019/ComfyUI-MiniMaxH3-QwenPrompt"
+  },
+  {
+    "description": "A local-first workshop for image generation \u2014 one prompt, several models side by side, and a JSON tab that shows the rea",
+    "id": "samuelboulery/img-creator",
+    "language": "TypeScript",
+    "name": "samuelboulery/img-creator",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:56:05Z",
+    "url": "https://github.com/samuelboulery/img-creator"
+  },
+  {
+    "description": "Grok / xAI Tools \u2013 Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi",
+    "id": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "language": "\u2014",
+    "name": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "stars": 2,
+    "updated_at": "2026-08-16T09:55:50Z",
+    "url": "https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-16T09:55:48Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:55:43Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Keep reusable prompts as local Markdown with variables and optional sections. Fill them in, preview, and paste into whic",
@@ -16,6 +106,24 @@
     "stars": 4,
     "updated_at": "2026-08-16T09:55:31Z",
     "url": "https://github.com/erdemtuna/prompt-bank"
+  },
+  {
+    "description": "Codex Skill for business IP, keynote, event campaigns, and creative character posters in 3:4 or 9:16.",
+    "id": "qingyunAGI/qingyun-ip-poster",
+    "language": "\u2014",
+    "name": "qingyunAGI/qingyun-ip-poster",
+    "stars": 6,
+    "updated_at": "2026-08-16T09:56:06Z",
+    "url": "https://github.com/qingyunAGI/qingyun-ip-poster"
+  },
+  {
+    "description": "Midjourney \u2013 A powerful desktop tool to manage unlimited prompt generation, optimize your workflow, and enhance AI art c",
+    "id": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
+    "language": "\u2014",
+    "name": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
+    "stars": 1,
+    "updated_at": "2026-08-16T09:55:22Z",
+    "url": "https://github.com/deader49963hefty/Midjourney-Ultimate-Prompts-Studio"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -45,15 +153,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 11 cloud providers + local models side-",
-    "id": "SoraVantia/cli-modelarium",
-    "language": "Python",
-    "name": "SoraVantia/cli-modelarium",
-    "stars": 1,
-    "updated_at": "2026-08-16T09:54:50Z",
-    "url": "https://github.com/SoraVantia/cli-modelarium"
-  },
-  {
     "description": "DeepSeek Mini-Router: task-aware spec/react/flash working-contract plugin for Codex, with measured BigCodeBench evidence",
     "id": "hccccc01333/codex-deepseek-mini-router",
     "language": "JavaScript",
@@ -72,15 +171,6 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
-    "id": "mrwogu/promptscript",
-    "language": "TypeScript",
-    "name": "mrwogu/promptscript",
-    "stars": 462,
-    "updated_at": "2026-08-16T09:51:46Z",
-    "url": "https://github.com/mrwogu/promptscript"
-  },
-  {
     "description": "\ud83e\udea8 Make Claude Code talk like a smart caveman ~75% fewer output tokens, 100% accuracy. Auto-enabled + statusline.",
     "id": "Gildaciolopes/claude-caveman-ultra",
     "language": "Shell",
@@ -88,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T09:48:35Z",
     "url": "https://github.com/Gildaciolopes/claude-caveman-ultra"
-  },
-  {
-    "description": "\u6bdb\u9009\u00b7\u6218\u7565\u4e0e\u77db\u76fe\u5206\u6790\uff1a\u628a\u300a\u6bdb\u6cfd\u4e1c\u9009\u96c6\u300b\u7684\u6218\u7565\u601d\u7ef4\u3001\u77db\u76fe\u5206\u6790\u6cd5\u3001\u8c03\u67e5\u7814\u7a76\u8f6c\u8bd1\u4e3a\u53ef\u76f4\u63a5\u5957\u7528\u7684\u5206\u6790\u4e0e\u6267\u884c\u6846\u67b6\uff08WorkBuddy / Claude Code \u7b49 Agent \u53ef\u52a0\u8f7d\u7684 Skill\uff09\u3002",
-    "id": "LF2023/maoxuan",
-    "language": "\u2014",
-    "name": "LF2023/maoxuan",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:48:11Z",
-    "url": "https://github.com/LF2023/maoxuan"
   },
   {
     "description": "AI-powered personalized student assistant exploring Generative AI, LLMs, RAG, Prompt Engineering, and API integration.",
@@ -140,26 +221,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33170,
-    "updated_at": "2026-08-16T09:45:36Z",
+    "updated_at": "2026-08-16T09:56:14Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "\u7528\u672c\u5730 Qwen \u6a21\u578b\u4e3a MiniMax H3 \u751f\u6210\u4f18\u5316\u63d0\u793a\u8bcd\u7684 ComfyUI \u8282\u70b9",
-    "id": "wangminxing2019/ComfyUI-MiniMaxH3-QwenPrompt",
-    "language": "Python",
-    "name": "wangminxing2019/ComfyUI-MiniMaxH3-QwenPrompt",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:45:35Z",
-    "url": "https://github.com/wangminxing2019/ComfyUI-MiniMaxH3-QwenPrompt"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-16T09:45:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -243,15 +306,6 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-16T09:38:36Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
@@ -315,21 +369,12 @@
     "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
   },
   {
-    "description": "Sifirdan sanal bir insan yaratir: yuz, hayat, aile, rutin. Karakteri kilitler, vesikalik seti cikarir ve BAGLADIGIN gors",
-    "id": "efecim1snn/second-self",
-    "language": "JavaScript",
-    "name": "efecim1snn/second-self",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:30:49Z",
-    "url": "https://github.com/efecim1snn/second-self"
-  },
-  {
     "description": "A magical witch assistant equipped with an enchanted grimoire powered by AI, yet shaped by you: your agents, your prompt",
     "id": "mdesalvo/Morgana",
     "language": "C#",
     "name": "mdesalvo/Morgana",
     "stars": 9,
-    "updated_at": "2026-08-16T09:31:08Z",
+    "updated_at": "2026-08-16T09:55:59Z",
     "url": "https://github.com/mdesalvo/Morgana"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 21,
     "updated_at": "2026-08-16T09:32:28Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:24:46Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 13,
-    "updated_at": "2026-08-16T09:25:57Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 118,
-    "updated_at": "2026-08-16T09:23:45Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:23:32Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Unofficial Codex fieldkit for non-engineers building verifiable AI agents with starter kits, evals, safety scans, and ha",
-    "id": "kimsanguine/codex-agent-fieldkit",
-    "language": "Python",
-    "name": "kimsanguine/codex-agent-fieldkit",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:22:52Z",
-    "url": "https://github.com/kimsanguine/codex-agent-fieldkit"
   }
 ]
