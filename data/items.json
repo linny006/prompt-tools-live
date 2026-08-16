@@ -1,12 +1,57 @@
 [
   {
+    "description": "A magical witch assistant equipped with an enchanted grimoire powered by AI, yet shaped by you: your agents, your prompt",
+    "id": "mdesalvo/Morgana",
+    "language": "C#",
+    "name": "mdesalvo/Morgana",
+    "stars": 9,
+    "updated_at": "2026-08-16T16:14:56Z",
+    "url": "https://github.com/mdesalvo/Morgana"
+  },
+  {
+    "description": "Turn a source tree into portable, plain\u2011text archives \u2014 paste into an LLM context window, diff against a snapshot, or re",
+    "id": "Phyxashun/pendex",
+    "language": "HTML",
+    "name": "Phyxashun/pendex",
+    "stars": 0,
+    "updated_at": "2026-08-16T16:14:51Z",
+    "url": "https://github.com/Phyxashun/pendex"
+  },
+  {
+    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
+    "id": "kodancrash-oss/prompt-weaver-framework",
+    "language": "HTML",
+    "name": "kodancrash-oss/prompt-weaver-framework",
+    "stars": 1,
+    "updated_at": "2026-08-16T16:14:27Z",
+    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
+  },
+  {
     "description": "An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C",
     "id": "Prysai/Prysai-LLM-Playbook",
     "language": "Python",
     "name": "Prysai/Prysai-LLM-Playbook",
     "stars": 0,
-    "updated_at": "2026-08-16T16:07:18Z",
+    "updated_at": "2026-08-16T16:15:24Z",
     "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+  },
+  {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 1,
+    "updated_at": "2026-08-16T16:13:14Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-08-16T16:13:00Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -14,17 +59,71 @@
     "language": "JavaScript",
     "name": "sairaman436/vybe-intelligence-vault",
     "stars": 21,
-    "updated_at": "2026-08-16T16:06:47Z",
+    "updated_at": "2026-08-16T16:12:18Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "A magical witch assistant equipped with an enchanted grimoire powered by AI, yet shaped by you: your agents, your prompt",
-    "id": "mdesalvo/Morgana",
-    "language": "C#",
-    "name": "mdesalvo/Morgana",
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-08-16T16:11:19Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 54,
+    "updated_at": "2026-08-16T16:10:41Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 24,
+    "updated_at": "2026-08-16T16:09:21Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze the mathematical reasoning abilities of the Mistral-7B model using diverse prompting techniques on multi-step ",
+    "id": "wolfenix/llm-math-reasoning-analysis",
+    "language": "HTML",
+    "name": "wolfenix/llm-math-reasoning-analysis",
+    "stars": 0,
+    "updated_at": "2026-08-16T16:09:14Z",
+    "url": "https://github.com/wolfenix/llm-math-reasoning-analysis"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 130,
+    "updated_at": "2026-08-16T16:08:25Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
     "stars": 9,
-    "updated_at": "2026-08-16T16:05:48Z",
-    "url": "https://github.com/mdesalvo/Morgana"
+    "updated_at": "2026-08-16T16:08:22Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-16T16:07:41Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
     "description": "\ud83d\udee0\ufe0f Elevate your coding with Supercharged AI Dev Tools, an open-source directory of AI-powered solutions to boost product",
@@ -108,6 +207,15 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
+    "description": "\u8ba9LLM\u6a21\u578b\u5c06\u63cf\u8ff0\u8f6c\u5316\u4e3a\u7528\u4e8eANIMA\u6a21\u578b\u7684\u81ea\u7136\u8bed\u8a00\u63d0\u793a\u8bcd",
+    "id": "Nana7mi0721/anima-prompt-naturalang",
+    "language": "\u2014",
+    "name": "Nana7mi0721/anima-prompt-naturalang",
+    "stars": 0,
+    "updated_at": "2026-08-16T16:00:49Z",
+    "url": "https://github.com/Nana7mi0721/anima-prompt-naturalang"
+  },
+  {
     "description": "AI short-film series: Grok Imagine visuals + Minimax Music cutaways. Open production hub with prompts, screenplays, and ",
     "id": "ford442/weeks_on_fire",
     "language": "TypeScript",
@@ -117,13 +225,13 @@
     "url": "https://github.com/ford442/weeks_on_fire"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
+    "description": "\u8ba9LLM\u6a21\u578b\u5c06\u63cf\u8ff0\u8f6c\u5316\u4e3a\u7528\u4e8eANIMA\u6a21\u578b\u7684\u6807\u7b7e\u63d0\u793a\u8bcd",
+    "id": "Nana7mi0721/anima-prompt-caption",
+    "language": "\u2014",
+    "name": "Nana7mi0721/anima-prompt-caption",
+    "stars": 0,
     "updated_at": "2026-08-16T16:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "url": "https://github.com/Nana7mi0721/anima-prompt-caption"
   },
   {
     "description": "Task modes for DeepSeek Harness Web: normal execution, first-principles prompting, and independent adversarial review.",
@@ -185,7 +293,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-16T15:57:38Z",
+    "updated_at": "2026-08-16T16:08:44Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -252,15 +360,6 @@
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-16T16:07:41Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
     "description": "DSH \u63d2\u4ef6\uff1a\u7b80\u4f53\u4e2d\u6587\u884c\u4e3a\u89c4\u8303\u4e09\u5c42\u6ce8\u5165\uff08\u5e38\u9a7b\u5c42 + prompt \u6280\u80fd + anchored preset \u951a\u5b9a\u6ce8\u5165\uff09+ Web UI \u7f16\u8f91 prompt.md",
     "id": "Czerror/dsh-plugin-prompt-tool",
     "language": "TypeScript",
@@ -275,7 +374,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-16T16:05:51Z",
+    "updated_at": "2026-08-16T16:14:24Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T15:41:11Z",
     "url": "https://github.com/bajajamanpreetsingh-dev/PromptBridge"
-  },
-  {
-    "description": "DeepSeek Harness plugin: wording is behavior \u2014 snapshot and gate your prompt surface. \u628a prompt \u63aa\u8f9e\u53d8\u6210\u6709\u6d4b\u8bd5\u4fdd\u969c\u7684\u5951\u7ea6",
-    "id": "helloxkk/dsh-prompt-regression",
-    "language": "Python",
-    "name": "helloxkk/dsh-prompt-regression",
-    "stars": 0,
-    "updated_at": "2026-08-16T15:40:42Z",
-    "url": "https://github.com/helloxkk/dsh-prompt-regression"
-  },
-  {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Python",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-08-16T15:40:18Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-08-16T15:39:59Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-08-16T15:39:29Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Claude Code skill \u2014 guided interview that recommends AI skills for your repo or team. Install with one prompt.",
-    "id": "lindblomstefan/skills-library",
-    "language": "JavaScript",
-    "name": "lindblomstefan/skills-library",
-    "stars": 1,
-    "updated_at": "2026-08-16T15:39:05Z",
-    "url": "https://github.com/lindblomstefan/skills-library"
-  },
-  {
-    "description": "Agent Skills & DeepSeek Harness (DSH) \u6269\u5c55\u5e93\uff1a\u901a\u7528\u667a\u80fd\u4f53\u6280\u80fd\uff08General_skills\uff09+ DSH \u6807\u51c6\u63d2\u4ef6\uff08dsh-plugin\uff09\uff0c\u5f00\u7bb1\u5373\u7528\u7684 AI Agent \u80fd\u529b\u589e\u5f3a\u96c6\u5408\u3002",
-    "id": "DDDFXYqiming/Agent_Extensions",
-    "language": "JavaScript",
-    "name": "DDDFXYqiming/Agent_Extensions",
-    "stars": 5,
-    "updated_at": "2026-08-16T15:38:55Z",
-    "url": "https://github.com/DDDFXYqiming/Agent_Extensions"
-  },
-  {
-    "description": "\u57fa\u4e8e\u8292\u683c\u9006\u5411\u601d\u7ef4\u7684\u4eba\u6027\u52a8\u673a\u5ba1\u8ba1\u5f15\u64ce\u3002\u4e13\u6cbb\u793e\u4ea4\u865a\u4f2a\u3001\u903b\u8f91\u52ab\u6301\u4e0e\u81ea\u8bc1\u5185\u8017\u3002Stop self-justification, start incentive auditing.",
-    "id": "dengzi1219-sys/Why-Skill",
-    "language": "Python",
-    "name": "dengzi1219-sys/Why-Skill",
-    "stars": 1,
-    "updated_at": "2026-08-16T15:38:17Z",
-    "url": "https://github.com/dengzi1219-sys/Why-Skill"
-  },
-  {
-    "description": "Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recov",
-    "id": "Jia-Ethan/codex-keysmith",
-    "language": "Python",
-    "name": "Jia-Ethan/codex-keysmith",
-    "stars": 3588,
-    "updated_at": "2026-08-16T15:37:56Z",
-    "url": "https://github.com/Jia-Ethan/codex-keysmith"
-  },
-  {
-    "description": "\u516c\u4f17\u53f7\u5c01\u9762\u8bbe\u8ba1 Skill\uff0c13\u5957\u89c6\u89c9\u4e3b\u9898\uff0c\u8f93\u51fa\u82f1\u6587\u6587\u751f\u56fe prompt + \u4e2d\u6587\u521b\u4f5c\u8bf4\u660e\u3002",
-    "id": "rcrusoe88-bot/wechat-cover-design",
-    "language": "HTML",
-    "name": "rcrusoe88-bot/wechat-cover-design",
-    "stars": 0,
-    "updated_at": "2026-08-16T15:35:38Z",
-    "url": "https://github.com/rcrusoe88-bot/wechat-cover-design"
-  },
-  {
-    "description": "\u7535\u5546 AI \u51fa\u56fe\u5de5\u4f5c\u6d41:\u767d\u5e95\u56fe/\u4fc3\u9500\u4e3b\u56fe/\u573a\u666f\u878d\u5408/\u7cfb\u5217\u4e00\u81f4\u6027/\u8be6\u60c5\u9875\u5168\u6d41\u7a0b + \u4e2d\u82f1\u63d0\u793a\u8bcd\u5e93 + OpenAPI \u53ef\u8fd0\u884c\u793a\u4f8b\u3002E-commerce AI image workflows, bilingual prompts and run",
-    "id": "flux-art-ai/flux-art-ecom-image-workflow",
-    "language": "Python",
-    "name": "flux-art-ai/flux-art-ecom-image-workflow",
-    "stars": 1,
-    "updated_at": "2026-08-16T15:35:18Z",
-    "url": "https://github.com/flux-art-ai/flux-art-ecom-image-workflow"
-  },
-  {
-    "description": "DeepSeek Harness DSH \u63d0\u793a\u8bcd\u589e\u5f3a\u63d2\u4ef6\uff1a\u2728 \u4e00\u952e\u4f18\u5316\u8349\u7a3f\uff0c\u589e\u5f3a\u63d0\u793a\u8bcd\u3002",
-    "id": "Fishsb/dsh-prompt-enhancer",
-    "language": "JavaScript",
-    "name": "Fishsb/dsh-prompt-enhancer",
-    "stars": 10,
-    "updated_at": "2026-08-16T15:35:10Z",
-    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
   }
 ]
