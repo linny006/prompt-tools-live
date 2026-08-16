@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 02:00 UTC
+> ⏰ Last updated: 2026-08-16 02:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-16 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 2 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-16 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 3 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-08-16 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 4 | [fablgen-agent/tokengauge](https://github.com/fablgen-agent/tokengauge) | 0 | TypeScript | 2026-08-16 | Free browser-local AI bill audit and workflow ledger, plus fixed-price cost attribution and a nine-provider optimization |
-| 5 | [Inlispwrad/dsh-extreme-router](https://github.com/Inlispwrad/dsh-extreme-router) | 0 | JavaScript | 2026-08-16 | DSH 极致模式预设：首轮用官方 Minimal 两工具 schema 锚定 We need 轨迹并剥离上下文注入，promote 后按需解锁重工具，绝不一次性倾倒 Standard 目录。 |
-| 6 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-16 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 7 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-16 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
-| 8 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-08-16 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
-| 9 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-08-16 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
-| 10 | [rocsgh/ppt-zen](https://github.com/rocsgh/ppt-zen) | 15 | Python | 2026-08-16 | A judgment layer for AI-made slides — not another PPT generator. |
-| 11 | [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) | 1825 | TypeScript | 2026-08-16 | AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use  |
-| 12 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 121 | HTML | 2026-08-16 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
-| 13 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 9 | Python | 2026-08-16 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 9 | Python | 2026-08-16 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-16 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 3 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-16 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
+| 4 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-08-16 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 5 | [fablgen-agent/tokengauge](https://github.com/fablgen-agent/tokengauge) | 0 | TypeScript | 2026-08-16 | Free browser-local AI bill audit and workflow ledger, plus fixed-price cost attribution and a nine-provider optimization |
+| 6 | [Inlispwrad/dsh-extreme-router](https://github.com/Inlispwrad/dsh-extreme-router) | 0 | JavaScript | 2026-08-16 | DSH 极致模式预设：首轮用官方 Minimal 两工具 schema 锚定 We need 轨迹并剥离上下文注入，promote 后按需解锁重工具，绝不一次性倾倒 Standard 目录。 |
+| 7 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-16 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 8 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-16 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
+| 9 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-08-16 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
+| 10 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-08-16 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
+| 11 | [rocsgh/ppt-zen](https://github.com/rocsgh/ppt-zen) | 15 | Python | 2026-08-16 | A judgment layer for AI-made slides — not another PPT generator. |
+| 12 | [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) | 1825 | TypeScript | 2026-08-16 | AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use  |
+| 13 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 121 | HTML | 2026-08-16 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
 | 14 | [Raymondhou0917/speak-human-tw](https://github.com/Raymondhou0917/speak-human-tw) | 813 | Python | 2026-08-16 | 「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。 |
 | 15 | [Forest-Project-Lab/doctrine](https://github.com/Forest-Project-Lab/doctrine) | 2 | Python | 2026-08-16 | Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance, |
 | 16 | [smixs/awesome-claude-output-styles](https://github.com/smixs/awesome-claude-output-styles) | 47 | Python | 2026-08-16 | Make Claude talk like a human: 17 installable output styles for Claude Code, built on credited methodologies |
