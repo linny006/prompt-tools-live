@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-16T19:00:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-16T19:00:20Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Context-architecture reviewer for agent instruction stacks \u2014 SOUL.md, AGENTS.md, CLAUDE.md. Maps scope and harness cover",
+    "id": "artttj/kontextrevision",
+    "language": "Python",
+    "name": "artttj/kontextrevision",
+    "stars": 1,
+    "updated_at": "2026-08-16T19:00:12Z",
+    "url": "https://github.com/artttj/kontextrevision"
+  },
+  {
     "description": "Agent Skills & DeepSeek Harness (DSH) \u6269\u5c55\u5e93\uff1a\u901a\u7528\u667a\u80fd\u4f53\u6280\u80fd\uff08General_skills\uff09+ DSH \u6807\u51c6\u63d2\u4ef6\uff08dsh-plugin\uff09\uff0c\u5f00\u7bb1\u5373\u7528\u7684 AI Agent \u80fd\u529b\u589e\u5f3a\u96c6\u5408\u3002",
     "id": "DDDFXYqiming/Agent_Extensions",
     "language": "JavaScript",
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T18:59:11Z",
     "url": "https://github.com/yurgensanchez/claude-api-playbook"
-  },
-  {
-    "description": "Context-architecture reviewer for agent instruction stacks \u2014 SOUL.md, AGENTS.md, CLAUDE.md. Maps scope and harness cover",
-    "id": "artttj/kontextrevision",
-    "language": "Python",
-    "name": "artttj/kontextrevision",
-    "stars": 1,
-    "updated_at": "2026-08-16T19:00:12Z",
-    "url": "https://github.com/artttj/kontextrevision"
   },
   {
     "description": "Local-first desktop app for managing, analyzing and optimizing prompt collections \u2014 offline, private, Tauri + React + Ru",
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T18:57:45Z",
     "url": "https://github.com/swesurajk/prompt-doctor"
-  },
-  {
-    "description": "AI sales-system generator with a validation loop: the LLM writes the copy, the server is the source of truth for all num",
-    "id": "kreftamarcio/csuite-gerador",
-    "language": "TypeScript",
-    "name": "kreftamarcio/csuite-gerador",
-    "stars": 0,
-    "updated_at": "2026-08-16T18:56:38Z",
-    "url": "https://github.com/kreftamarcio/csuite-gerador"
   },
   {
     "description": "Learning and building AI applications from scratch \u2014 covering LLMs, prompt engineering, structured outputs, RAG - Pipeli",
@@ -243,15 +252,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-16T18:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Deterministic workspace mapper that assembles layered LLM context from your project's folder tree.",
     "id": "dominikj111/model-workspace-protocol-tool",
     "language": "Shell",
@@ -259,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T18:45:09Z",
     "url": "https://github.com/dominikj111/model-workspace-protocol-tool"
-  },
-  {
-    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
-    "id": "kreftamarcio/prompt-forge",
-    "language": "TypeScript",
-    "name": "kreftamarcio/prompt-forge",
-    "stars": 0,
-    "updated_at": "2026-08-16T18:59:30Z",
-    "url": "https://github.com/kreftamarcio/prompt-forge"
   },
   {
     "description": "`cat project | LLM | patch`. Transparent context control and interactive patching for terminal-centric LLM workflows.",
@@ -313,15 +304,6 @@
     "stars": 122,
     "updated_at": "2026-08-16T18:37:32Z",
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-16T19:00:20Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
     "description": "enprompt \u2014 macOS menu-bar writing assistant. Double-tap \u2325 to enhance your text, hold \u2325 to dictate, triple-tap \u2325 to turn ",
@@ -448,5 +430,23 @@
     "stars": 2,
     "updated_at": "2026-08-16T18:29:23Z",
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
+  },
+  {
+    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
+    "id": "Atheerameer/agentic-cli-blueprint-library",
+    "language": "HTML",
+    "name": "Atheerameer/agentic-cli-blueprint-library",
+    "stars": 1,
+    "updated_at": "2026-08-16T18:28:34Z",
+    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
+  },
+  {
+    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
+    "id": "Asir11/langgraph-agentic-workflows-tutorial",
+    "language": "HTML",
+    "name": "Asir11/langgraph-agentic-workflows-tutorial",
+    "stars": 1,
+    "updated_at": "2026-08-16T18:28:28Z",
+    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   }
 ]
