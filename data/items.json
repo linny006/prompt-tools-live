@@ -1,12 +1,75 @@
 [
   {
-    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
-    "id": "zxpmail/ReqForge",
-    "language": "JavaScript",
-    "name": "zxpmail/ReqForge",
-    "stars": 18,
-    "updated_at": "2026-08-16T06:15:00Z",
-    "url": "https://github.com/zxpmail/ReqForge"
+    "description": "DeepSeek V4 \u7279\u5316\u601d\u7ef4\u94fe\u5f15\u5bfc\u89c4\u8303\uff1awe need to \u53e5\u5f0f\uff0c\u4efb\u610f agent \u5ba2\u6237\u7aef\u53ef\u63a5\u5165\uff08\u7eaf\u63d0\u793a\u8bcd\u5c42\uff09",
+    "id": "scp3500/oh-we-need",
+    "language": "\u2014",
+    "name": "scp3500/oh-we-need",
+    "stars": 23,
+    "updated_at": "2026-08-16T06:16:24Z",
+    "url": "https://github.com/scp3500/oh-we-need"
+  },
+  {
+    "description": "Claude skill: turns analyst and risk inputs into a position size, with correlation and opportunity cost checks.",
+    "id": "Vidwaansinghania/claude-skill-portfolio-manager",
+    "language": "\u2014",
+    "name": "Vidwaansinghania/claude-skill-portfolio-manager",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:16:05Z",
+    "url": "https://github.com/Vidwaansinghania/claude-skill-portfolio-manager"
+  },
+  {
+    "description": "Claude skill: classifies the macro regime and translates it into sector, factor and portfolio positioning.",
+    "id": "Vidwaansinghania/claude-skill-macro-analyst",
+    "language": "\u2014",
+    "name": "Vidwaansinghania/claude-skill-macro-analyst",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:16:03Z",
+    "url": "https://github.com/Vidwaansinghania/claude-skill-macro-analyst"
+  },
+  {
+    "description": "Claude skill: adversarial risk review that tries to break an investment thesis and rates the downside.",
+    "id": "Vidwaansinghania/claude-skill-chief-risk-officer",
+    "language": "\u2014",
+    "name": "Vidwaansinghania/claude-skill-chief-risk-officer",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:16:01Z",
+    "url": "https://github.com/Vidwaansinghania/claude-skill-chief-risk-officer"
+  },
+  {
+    "description": "Claude skill: institutional buy-side equity research with moat, valuation, bear case and a position suitability call.",
+    "id": "Vidwaansinghania/claude-skill-buy-side-equity-analyst",
+    "language": "\u2014",
+    "name": "Vidwaansinghania/claude-skill-buy-side-equity-analyst",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:16:00Z",
+    "url": "https://github.com/Vidwaansinghania/claude-skill-buy-side-equity-analyst"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-16T06:15:53Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 72,
+    "updated_at": "2026-08-16T06:15:50Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-16T06:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 11 cloud providers + local models side-",
@@ -16,6 +79,24 @@
     "stars": 1,
     "updated_at": "2026-08-16T06:15:25Z",
     "url": "https://github.com/SoraVantia/cli-modelarium"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-16T06:15:22Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "ReqForge \u2014 From requirements to shippable products. Open-source Agent Harness for Claude Code, Cursor & OpenCode. Spec\u2192P",
+    "id": "zxpmail/ReqForge",
+    "language": "JavaScript",
+    "name": "zxpmail/ReqForge",
+    "stars": 18,
+    "updated_at": "2026-08-16T06:15:00Z",
+    "url": "https://github.com/zxpmail/ReqForge"
   },
   {
     "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
@@ -144,15 +225,6 @@
     "url": "https://github.com/ai-boost/awesome-prompts"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-16T06:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Midjourney \u2013 A powerful desktop tool to manage unlimited prompt generation, optimize your workflow, and enhance AI art c",
     "id": "deader49963hefty/Midjourney-Ultimate-Prompts-Studio",
     "language": "\u2014",
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T06:00:02Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 72,
-    "updated_at": "2026-08-16T05:59:48Z",
-    "url": "https://github.com/simota/agent-skills"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -214,15 +277,6 @@
     "stars": 27529,
     "updated_at": "2026-08-16T05:53:52Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-16T05:50:33Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
     "description": "Applied AI project portfolio featuring prompt systems, research tools, privacy-first utilities, and deployable product p",
@@ -266,7 +320,7 @@
     "language": "HTML",
     "name": "Fiskopoi/outline-driven-toolkit",
     "stars": 2,
-    "updated_at": "2026-08-16T05:47:14Z",
+    "updated_at": "2026-08-16T06:16:19Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
@@ -277,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T05:47:13Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:15:22Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
     "description": "Structured, spec-driven development workflow for AI coding agents.",
@@ -403,50 +448,5 @@
     "stars": 120,
     "updated_at": "2026-08-16T05:31:47Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-08-16T05:29:40Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 1,
-    "updated_at": "2026-08-16T05:29:34Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-08-16T05:28:13Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-08-16T05:27:58Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 1,
-    "updated_at": "2026-08-16T05:27:56Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   }
 ]
