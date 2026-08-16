@@ -1,11 +1,83 @@
 [
   {
+    "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 25,
+    "updated_at": "2026-08-16T07:13:44Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3492,
+    "updated_at": "2026-08-16T07:14:29Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
+    "id": "simota/agent-skills",
+    "language": "HTML",
+    "name": "simota/agent-skills",
+    "stars": 72,
+    "updated_at": "2026-08-16T07:13:22Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "Deep reasoning engine rules designed for agents \u2014 activate deep reasoning potential, making agents smarter, more rigorou",
+    "id": "xhqing/AgentCortex",
+    "language": "\u2014",
+    "name": "xhqing/AgentCortex",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:13:22Z",
+    "url": "https://github.com/xhqing/AgentCortex"
+  },
+  {
+    "description": "Test Forge Automation Framework is an AI-augmented UI automation framework built on Playwright and Pytest. Designed as a",
+    "id": "PrashantSinghT99/test-forge",
+    "language": "Python",
+    "name": "PrashantSinghT99/test-forge",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:14:19Z",
+    "url": "https://github.com/PrashantSinghT99/test-forge"
+  },
+  {
+    "description": "DeepSeek V4 Pro/Flash unified anchored agent preset for DeepSeek Harness (official API & opencode-go): two-stage RL-alig",
+    "id": "rinDBeans/dsh-apex-standard",
+    "language": "JavaScript",
+    "name": "rinDBeans/dsh-apex-standard",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:12:20Z",
+    "url": "https://github.com/rinDBeans/dsh-apex-standard"
+  },
+  {
+    "description": "AI \u52a9\u624b\u884c\u4e3a\u89c4\u8303\u4e0e Skills \u6280\u80fd\u96c6\u5408",
+    "id": "cnzeropro/ai-playbook",
+    "language": "\u2014",
+    "name": "cnzeropro/ai-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:05:29Z",
+    "url": "https://github.com/cnzeropro/ai-playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-16T07:05:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
     "id": "mrwogu/promptscript",
     "language": "TypeScript",
     "name": "mrwogu/promptscript",
     "stars": 462,
-    "updated_at": "2026-08-16T07:05:20Z",
+    "updated_at": "2026-08-16T07:07:43Z",
     "url": "https://github.com/mrwogu/promptscript"
   },
   {
@@ -99,15 +171,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "AI \u52a9\u624b\u884c\u4e3a\u89c4\u8303\u4e0e Claude Code Skills \u96c6\u5408",
-    "id": "cnzeropro/ai-playbook",
-    "language": "\u2014",
-    "name": "cnzeropro/ai-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-16T07:01:27Z",
-    "url": "https://github.com/cnzeropro/ai-playbook"
-  },
-  {
     "description": "Stop stale specs from becoming code. A Markdown context-engineering blueprint for LLM coding agents: status, provenance,",
     "id": "Forest-Project-Lab/doctrine",
     "language": "Python",
@@ -115,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-16T07:01:16Z",
     "url": "https://github.com/Forest-Project-Lab/doctrine"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-16T07:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A build playbook that turns your coding agent into the foreman of a website build. It interviews you, forces the design ",
@@ -144,15 +198,6 @@
     "url": "https://github.com/pranayprasad7001/generative-ai-projects"
   },
   {
-    "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 25,
-    "updated_at": "2026-08-16T06:57:42Z",
-    "url": "https://github.com/sx4im/skillcheck"
-  },
-  {
     "description": "\u4f18\u5316\u8f93\u5165\u5185\u5bb9\u7684 DSH \u63d2\u4ef6\uff08\u4eff Trae CN\uff09\uff1a\u6a21\u578b\u9009\u62e9\u5668\u65c1\u7684 \u2728 \u6309\u94ae\u4e00\u952e\u628a\u8f93\u5165\u60f3\u6cd5\u6539\u5199\u4e3a\u9ad8\u8d28\u91cf\u3001\u5fe0\u5b9e\u539f\u6587\u3001\u53ef\u76f4\u63a5\u6267\u884c\u7684\u63d0\u793a\u8bcd\uff0c\u21a9 \u4e00\u952e\u64a4\u9500\u6062\u590d\u539f\u6587\u3002An input-optimizer plugin for DeepSeek Har",
     "id": "060625dfy/dsh-prompt-boost",
     "language": "JavaScript",
@@ -169,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T06:57:41Z",
     "url": "https://github.com/Lanzy1029/image-prompt-reverse"
-  },
-  {
-    "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerun",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 72,
-    "updated_at": "2026-08-16T06:56:17Z",
-    "url": "https://github.com/simota/agent-skills"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-16T06:39:52Z",
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:39:34Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-08-16T06:39:32Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:39:15Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
-    "id": "gaofeng21cn/redcube-ai",
-    "language": "Python",
-    "name": "gaofeng21cn/redcube-ai",
-    "stars": 3,
-    "updated_at": "2026-08-16T07:00:58Z",
-    "url": "https://github.com/gaofeng21cn/redcube-ai"
   }
 ]
