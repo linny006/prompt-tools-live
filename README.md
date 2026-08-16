@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 22:00 UTC
+> ⏰ Last updated: 2026-08-16 22:03 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,35 +42,35 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-08-16 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
-| 2 | [ruashots/open-h3-ir](https://github.com/ruashots/open-h3-ir) | 2 | Python | 2026-08-16 | Open-source local implementation of MiniMax H3 Context-IR. Turn simple prompts into structured, validated H3 video brief |
-| 3 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-08-16 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
-| 4 | [angelazu-builder/repo-organizer-skill](https://github.com/angelazu-builder/repo-organizer-skill) | 0 | — | 2026-08-16 | 🤖 AI Agent Skill for Automatically Reorganizing & Cleaning GitHub Repositories based on Audience & Use-Case (Paper Relea |
+| 1 | [angelazu-builder/repo-organizer-skill](https://github.com/angelazu-builder/repo-organizer-skill) | 0 | — | 2026-08-16 | 🤖 AI Agent Skill for Automatically Reorganizing & Cleaning GitHub Repositories based on Audience & Use-Case (Paper Relea |
+| 2 | [ralphmoran/ticket-lens](https://github.com/ralphmoran/ticket-lens) | 3 | JavaScript | 2026-08-16 | Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60–80% fewer tokens. No relay. Pipe-friendly. |
+| 3 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-16 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 4 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-16 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
 | 5 | [Prysai/Prysai-LLM-Playbook](https://github.com/Prysai/Prysai-LLM-Playbook) | 2 | Python | 2026-08-16 | An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C |
-| 6 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 1 | HTML | 2026-08-16 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 7 | [padremprendedor-create/EL-ORQUESTADOR](https://github.com/padremprendedor-create/EL-ORQUESTADOR) | 4 | JavaScript | 2026-08-16 | Cuatro skills de Claude Code para construir con agentes sin que el resultado salga correcto y aun asi inutil: SPEC antes |
-| 8 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 5 | HTML | 2026-08-16 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
-| 9 | [ReidenXerx/bearing](https://github.com/ReidenXerx/bearing) | 3 | JavaScript | 2026-08-16 | An intel layer for AI coding agents that assumes its own rules might be wrong — and keeps the evidence. Authoritative no |
-| 10 | [Beenga/beenga-image](https://github.com/Beenga/beenga-image) | 0 | JavaScript | 2026-08-16 | Prompt-adherence layer over FLUX.2 Klein 4B for contemporary Indian imagery — negation rewriting, per-tone complexion, a |
-| 11 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-16 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
-| 12 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 9 | Python | 2026-08-16 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 13 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-16 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 14 | [xxammaxx/promptvault-lite](https://github.com/xxammaxx/promptvault-lite) | 0 | TypeScript | 2026-08-16 | Local-first desktop app for managing, analyzing and optimizing prompt collections — offline, private, Tauri + React + Ru |
-| 15 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1288 | HTML | 2026-08-16 | 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a di |
-| 16 | [heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite](https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite) | 2 | — | 2026-08-16 | Grok / xAI Tools – Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi |
-| 17 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-16 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
-| 18 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 0 | — | 2026-08-16 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 19 | [deader49963hefty/Midjourney-Ultimate-Prompts-Studio](https://github.com/deader49963hefty/Midjourney-Ultimate-Prompts-Studio) | 1 | — | 2026-08-16 | Midjourney – A powerful desktop tool to manage unlimited prompt generation, optimize your workflow, and enhance AI art c |
-| 20 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-16 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 21 | [mickpletcher/prompt-repo](https://github.com/mickpletcher/prompt-repo) | 1 | — | 2026-08-16 | Reusable prompts and project instruction files for building, auditing, automating, and maintaining software projects. |
-| 22 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 4 | JavaScript | 2026-08-16 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
-| 23 | [m0ntan1/m0ntan1-narrative-intelligence-engine-bosephus-2050](https://github.com/m0ntan1/m0ntan1-narrative-intelligence-engine-bosephus-2050) | 0 | Python | 2026-08-16 | MØNTAN1 Narrative Intelligence Engine: Bosephus 2050. Not an agent: a machine that constructs a narrative over a cited r |
-| 24 | [sebastian-software/skills.sebastian-software.com](https://github.com/sebastian-software/skills.sebastian-software.com) | 0 | Python | 2026-08-16 | Practice-built skills that give AI agents practical judgment for product, web, engineering, delivery, go-to-market, comm |
-| 25 | [yevgenyt/layman](https://github.com/yevgenyt/layman) | 0 | Shell | 2026-08-16 | Plain language without dumbing down — a Claude Code skill that reduces assumed knowledge, not word count. Two independen |
-| 26 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-16 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 27 | [eschaar/vstack](https://github.com/eschaar/vstack) | 0 | Python | 2026-08-16 | vstack is a VS Code–native AI engineering workflow system. It provides structured skills — executable by GitHub Copilot  |
-| 28 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-16 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 29 | [rakib-nyc/skillassay](https://github.com/rakib-nyc/skillassay) | 0 | TypeScript | 2026-08-16 | Static analyzer for AI coding-agent context. Measures the always-on context-window cost of CLAUDE.md, AGENTS.md and Agen |
+| 6 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 9 | Python | 2026-08-16 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 7 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-08-16 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
+| 8 | [ruashots/open-h3-ir](https://github.com/ruashots/open-h3-ir) | 2 | Python | 2026-08-16 | Open-source local implementation of MiniMax H3 Context-IR. Turn simple prompts into structured, validated H3 video brief |
+| 9 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-08-16 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
+| 10 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 1 | HTML | 2026-08-16 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 11 | [padremprendedor-create/EL-ORQUESTADOR](https://github.com/padremprendedor-create/EL-ORQUESTADOR) | 4 | JavaScript | 2026-08-16 | Cuatro skills de Claude Code para construir con agentes sin que el resultado salga correcto y aun asi inutil: SPEC antes |
+| 12 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 5 | HTML | 2026-08-16 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
+| 13 | [ReidenXerx/bearing](https://github.com/ReidenXerx/bearing) | 3 | JavaScript | 2026-08-16 | An intel layer for AI coding agents that assumes its own rules might be wrong — and keeps the evidence. Authoritative no |
+| 14 | [Beenga/beenga-image](https://github.com/Beenga/beenga-image) | 0 | JavaScript | 2026-08-16 | Prompt-adherence layer over FLUX.2 Klein 4B for contemporary Indian imagery — negation rewriting, per-tone complexion, a |
+| 15 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-16 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
+| 16 | [xxammaxx/promptvault-lite](https://github.com/xxammaxx/promptvault-lite) | 0 | TypeScript | 2026-08-16 | Local-first desktop app for managing, analyzing and optimizing prompt collections — offline, private, Tauri + React + Ru |
+| 17 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1288 | HTML | 2026-08-16 | 1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — from PRDs and postmortems to appealing a di |
+| 18 | [heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite](https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite) | 2 | — | 2026-08-16 | Grok / xAI Tools – Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi |
+| 19 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 0 | — | 2026-08-16 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
+| 20 | [deader49963hefty/Midjourney-Ultimate-Prompts-Studio](https://github.com/deader49963hefty/Midjourney-Ultimate-Prompts-Studio) | 1 | — | 2026-08-16 | Midjourney – A powerful desktop tool to manage unlimited prompt generation, optimize your workflow, and enhance AI art c |
+| 21 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-16 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 22 | [mickpletcher/prompt-repo](https://github.com/mickpletcher/prompt-repo) | 1 | — | 2026-08-16 | Reusable prompts and project instruction files for building, auditing, automating, and maintaining software projects. |
+| 23 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 4 | JavaScript | 2026-08-16 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
+| 24 | [m0ntan1/m0ntan1-narrative-intelligence-engine-bosephus-2050](https://github.com/m0ntan1/m0ntan1-narrative-intelligence-engine-bosephus-2050) | 0 | Python | 2026-08-16 | MØNTAN1 Narrative Intelligence Engine: Bosephus 2050. Not an agent: a machine that constructs a narrative over a cited r |
+| 25 | [sebastian-software/skills.sebastian-software.com](https://github.com/sebastian-software/skills.sebastian-software.com) | 0 | Python | 2026-08-16 | Practice-built skills that give AI agents practical judgment for product, web, engineering, delivery, go-to-market, comm |
+| 26 | [yevgenyt/layman](https://github.com/yevgenyt/layman) | 0 | Shell | 2026-08-16 | Plain language without dumbing down — a Claude Code skill that reduces assumed knowledge, not word count. Two independen |
+| 27 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-16 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 28 | [eschaar/vstack](https://github.com/eschaar/vstack) | 0 | Python | 2026-08-16 | vstack is a VS Code–native AI engineering workflow system. It provides structured skills — executable by GitHub Copilot  |
+| 29 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-16 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
 | 30 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-08-16 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
 | 31 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-08-16 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
 | 32 | [bzdvdn/python-developer-ai-skill](https://github.com/bzdvdn/python-developer-ai-skill) | 0 | Python | 2026-08-16 | Composable Agent Skills suite for senior-level Python development: 12 single-responsibility skills (architect, coder, re |
