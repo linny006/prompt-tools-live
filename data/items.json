@@ -1,12 +1,138 @@
 [
   {
+    "description": "DeepSeek Harness DSH \u63d0\u793a\u8bcd\u589e\u5f3a\u63d2\u4ef6\uff1a\u2728 \u4e00\u952e\u4f18\u5316\u8349\u7a3f\uff0c\u589e\u5f3a\u63d0\u793a\u8bcd\u3002",
+    "id": "Fishsb/dsh-prompt-enhancer",
+    "language": "JavaScript",
+    "name": "Fishsb/dsh-prompt-enhancer",
+    "stars": 10,
+    "updated_at": "2026-08-16T18:14:27Z",
+    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
+  },
+  {
+    "description": "The Role of Thoughts: a Dynamic Cognitive Mixture-of-Experts router for Claude Code. 9 expert lenses, 10 routing lanes, ",
+    "id": "Nova-Violet-Role/RoT-MoE",
+    "language": "Shell",
+    "name": "Nova-Violet-Role/RoT-MoE",
+    "stars": 2,
+    "updated_at": "2026-08-16T18:13:35Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
+  },
+  {
+    "description": "Miniguia de estudos sobre Open Finance no Brasil utilizando NotebookLM e engenharia de prompts. Projeto desenvolvido no ",
+    "id": "lucasdemrodrigues/open-finance-com-notebooklm",
+    "language": "\u2014",
+    "name": "lucasdemrodrigues/open-finance-com-notebooklm",
+    "stars": 1,
+    "updated_at": "2026-08-16T18:12:56Z",
+    "url": "https://github.com/lucasdemrodrigues/open-finance-com-notebooklm"
+  },
+  {
     "description": "Browser-based lab for testing AI video prompts one variable at a time. Built for creators tired of burning credits on pr",
     "id": "madebysaira/PromptLab",
-    "language": "\u2014",
+    "language": "HTML",
     "name": "madebysaira/PromptLab",
     "stars": 0,
-    "updated_at": "2026-08-16T18:08:34Z",
+    "updated_at": "2026-08-16T18:12:40Z",
     "url": "https://github.com/madebysaira/PromptLab"
+  },
+  {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-08-16T18:12:39Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "A local-first workshop for image generation \u2014 one prompt, several models side by side, and a JSON tab that shows the rea",
+    "id": "samuelboulery/img-creator",
+    "language": "TypeScript",
+    "name": "samuelboulery/img-creator",
+    "stars": 0,
+    "updated_at": "2026-08-16T18:12:37Z",
+    "url": "https://github.com/samuelboulery/img-creator"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-16T18:12:28Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-08-16T18:11:28Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-08-16T18:11:26Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Reusable AI coding-agent prompts, plugins, and skills for Codex and Claude Code \u2014 guidelines, commit workflow, refactori",
+    "id": "mikaeltorni/programming_prompts",
+    "language": "Python",
+    "name": "mikaeltorni/programming_prompts",
+    "stars": 1,
+    "updated_at": "2026-08-16T18:11:20Z",
+    "url": "https://github.com/mikaeltorni/programming_prompts"
+  },
+  {
+    "description": "Agent Skills & DeepSeek Harness (DSH) \u6269\u5c55\u5e93\uff1a\u901a\u7528\u667a\u80fd\u4f53\u6280\u80fd\uff08General_skills\uff09+ DSH \u6807\u51c6\u63d2\u4ef6\uff08dsh-plugin\uff09\uff0c\u5f00\u7bb1\u5373\u7528\u7684 AI Agent \u80fd\u529b\u589e\u5f3a\u96c6\u5408\u3002",
+    "id": "DDDFXYqiming/Agent_Extensions",
+    "language": "JavaScript",
+    "name": "DDDFXYqiming/Agent_Extensions",
+    "stars": 5,
+    "updated_at": "2026-08-16T18:10:32Z",
+    "url": "https://github.com/DDDFXYqiming/Agent_Extensions"
+  },
+  {
+    "description": "A systematic prompt engineering toolkit with evaluation pipelines, versioning, A/B testing, and regression detection for",
+    "id": "kreftamarcio/prompt-forge",
+    "language": "TypeScript",
+    "name": "kreftamarcio/prompt-forge",
+    "stars": 0,
+    "updated_at": "2026-08-16T18:10:03Z",
+    "url": "https://github.com/kreftamarcio/prompt-forge"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 130,
+    "updated_at": "2026-08-16T18:08:51Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-16T18:08:45Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Context-architecture reviewer for agent instruction stacks \u2014 SOUL.md, AGENTS.md, CLAUDE.md. Maps scope and harness cover",
+    "id": "artttj/kontextrevision",
+    "language": "Python",
+    "name": "artttj/kontextrevision",
+    "stars": 1,
+    "updated_at": "2026-08-16T18:10:21Z",
+    "url": "https://github.com/artttj/kontextrevision"
   },
   {
     "description": "M\u00d8NTAN1 Narrative Intelligence Engine: Bosephus 2050. Not an agent: a machine that constructs a narrative over a cited r",
@@ -18,15 +144,6 @@
     "url": "https://github.com/m0ntan1/m0ntan1-narrative-intelligence-engine-bosephus-2050"
   },
   {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-08-16T18:08:16Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -34,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T18:07:53Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Miniguia de estudos sobre Open Finance no Brasil utilizando NotebookLM e engenharia de prompts. Projeto desenvolvido no ",
-    "id": "lucasdemrodrigues/open-finance-com-notebooklm",
-    "language": "\u2014",
-    "name": "lucasdemrodrigues/open-finance-com-notebooklm",
-    "stars": 1,
-    "updated_at": "2026-08-16T18:07:46Z",
-    "url": "https://github.com/lucasdemrodrigues/open-finance-com-notebooklm"
   },
   {
     "description": "An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C",
@@ -54,13 +162,13 @@
     "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
   },
   {
-    "description": "Context-architecture reviewer for agent instruction stacks \u2014 SOUL.md, AGENTS.md, CLAUDE.md. Maps scope and harness cover",
-    "id": "artttj/kontextrevision",
-    "language": "Python",
-    "name": "artttj/kontextrevision",
-    "stars": 1,
-    "updated_at": "2026-08-16T18:08:01Z",
-    "url": "https://github.com/artttj/kontextrevision"
+    "description": "Practical prompt design patterns, sensitivity testing methods, and failure-mode fixes for building reliable, production-",
+    "id": "ilya-garaeff/prompt-engineering-playbook",
+    "language": "\u2014",
+    "name": "ilya-garaeff/prompt-engineering-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-16T18:05:34Z",
+    "url": "https://github.com/ilya-garaeff/prompt-engineering-playbook"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -68,17 +176,8 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-16T18:05:33Z",
+    "updated_at": "2026-08-16T18:12:16Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "DeepSeek Harness DSH \u63d0\u793a\u8bcd\u589e\u5f3a\u63d2\u4ef6\uff1a\u2728 \u4e00\u952e\u4f18\u5316\u8349\u7a3f\uff0c\u589e\u5f3a\u63d0\u793a\u8bcd\u3002",
-    "id": "Fishsb/dsh-prompt-enhancer",
-    "language": "JavaScript",
-    "name": "Fishsb/dsh-prompt-enhancer",
-    "stars": 10,
-    "updated_at": "2026-08-16T18:04:57Z",
-    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -108,15 +207,6 @@
     "url": "https://github.com/Refusned/promt"
   },
   {
-    "description": "Agent Skills & DeepSeek Harness (DSH) \u6269\u5c55\u5e93\uff1a\u901a\u7528\u667a\u80fd\u4f53\u6280\u80fd\uff08General_skills\uff09+ DSH \u6807\u51c6\u63d2\u4ef6\uff08dsh-plugin\uff09\uff0c\u5f00\u7bb1\u5373\u7528\u7684 AI Agent \u80fd\u529b\u589e\u5f3a\u96c6\u5408\u3002",
-    "id": "DDDFXYqiming/Agent_Extensions",
-    "language": "JavaScript",
-    "name": "DDDFXYqiming/Agent_Extensions",
-    "stars": 5,
-    "updated_at": "2026-08-16T18:02:59Z",
-    "url": "https://github.com/DDDFXYqiming/Agent_Extensions"
-  },
-  {
     "description": "A hands-on Generative AI learning environment featuring practical experiments and projects for building AI-powered appli",
     "id": "soumadip-dev/GenAI-Playground",
     "language": "Python",
@@ -133,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T18:01:14Z",
     "url": "https://github.com/kreftamarcio/kreftamarcio"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-16T18:00:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u2728 Free AI image prompt library \u2014 globally curated, daily updated. Full prompt text, preview images, 10 languages. Browse",
@@ -198,24 +279,6 @@
     "url": "https://github.com/xxammaxx/promptvault-lite"
   },
   {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-16T17:53:15Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-16T17:50:26Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
     "description": "Grok / xAI Tools \u2013 Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi",
     "id": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
     "language": "\u2014",
@@ -239,7 +302,7 @@
     "language": "HTML",
     "name": "Fiskopoi/outline-driven-toolkit",
     "stars": 2,
-    "updated_at": "2026-08-16T17:49:09Z",
+    "updated_at": "2026-08-16T18:15:12Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
@@ -347,7 +410,7 @@
     "language": "TypeScript",
     "name": "kreftamarcio/multi-agent-orchestrator",
     "stars": 1,
-    "updated_at": "2026-08-16T18:08:15Z",
+    "updated_at": "2026-08-16T18:13:48Z",
     "url": "https://github.com/kreftamarcio/multi-agent-orchestrator"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 17,
     "updated_at": "2026-08-16T17:31:58Z",
     "url": "https://github.com/DanielHashmi/Q4_learning"
-  },
-  {
-    "description": "Synthelion compresses prompts before they reach any AI model \u2014 cutting token usage by up to 70%, reducing API costs, and",
-    "id": "francescopaolopassaro/Synthelion",
-    "language": "Python",
-    "name": "francescopaolopassaro/Synthelion",
-    "stars": 2,
-    "updated_at": "2026-08-16T17:30:44Z",
-    "url": "https://github.com/francescopaolopassaro/Synthelion"
-  },
-  {
-    "description": "ByteDance Seedance 2.0 & 2.5 prompt engineering toolkit with FTS5 search over 1,500+ community prompt cards.",
-    "id": "ardha27/seedance-prompts",
-    "language": "Python",
-    "name": "ardha27/seedance-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:28:55Z",
-    "url": "https://github.com/ardha27/seedance-prompts"
-  },
-  {
-    "description": "DSH \u63d2\u4ef6\uff1a\u7b80\u4f53\u4e2d\u6587\u884c\u4e3a\u89c4\u8303\u4e09\u5c42\u6ce8\u5165\uff08\u5e38\u9a7b\u5c42 + prompt \u6280\u80fd + anchored preset \u951a\u5b9a\u6ce8\u5165\uff09+ Web UI \u7f16\u8f91 prompt.md",
-    "id": "Czerror/dsh-plugin-prompt-tool",
-    "language": "TypeScript",
-    "name": "Czerror/dsh-plugin-prompt-tool",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:27:22Z",
-    "url": "https://github.com/Czerror/dsh-plugin-prompt-tool"
-  },
-  {
-    "description": "Browser-local AI bill audit and workflow ledger, plus fixed-price cost attribution and budget guards across nine model p",
-    "id": "fablgen-agent/tokengauge",
-    "language": "TypeScript",
-    "name": "fablgen-agent/tokengauge",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:26:10Z",
-    "url": "https://github.com/fablgen-agent/tokengauge"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-16T17:25:49Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 66516,
-    "updated_at": "2026-08-16T17:25:47Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 122,
-    "updated_at": "2026-08-16T17:25:17Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
   }
 ]
