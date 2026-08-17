@@ -1,12 +1,129 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3492,
+    "updated_at": "2026-08-17T04:30:08Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 54,
+    "updated_at": "2026-08-17T04:29:43Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 33,
+    "updated_at": "2026-08-17T04:29:15Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 24,
+    "updated_at": "2026-08-17T04:29:00Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 130,
+    "updated_at": "2026-08-17T04:27:41Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Model Context Protocol (MCP) server for reusable prompt templates, multi-step workflow chains, and quality gates. Compos",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 186,
+    "updated_at": "2026-08-17T04:29:10Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "T\u00fcrkiye hukukuna \u00f6zg\u00fc a\u00e7\u0131k kaynak Legal AI ekosistemi \u2014 10 Claude Code plugin'i, 12 skill, CI'da zorunlu hukuki kaynak d",
+    "id": "mesutcandemir39/turkiye-legal",
+    "language": "Python",
+    "name": "mesutcandemir39/turkiye-legal",
+    "stars": 0,
+    "updated_at": "2026-08-17T04:27:24Z",
+    "url": "https://github.com/mesutcandemir39/turkiye-legal"
+  },
+  {
+    "description": "Procedural writing-style skills for AI agents: official frameworks (plain language, business writing, GOV.UK, AP style, ",
+    "id": "surendranb/writing-skills",
+    "language": "Python",
+    "name": "surendranb/writing-skills",
+    "stars": 14,
+    "updated_at": "2026-08-17T04:24:48Z",
+    "url": "https://github.com/surendranb/writing-skills"
+  },
+  {
+    "description": " A DeepSeek Harness (dsh) agent preset for making large engineering tasks deliberate, integrated, and verifiable from th",
+    "id": "Soulize/hard-flash",
+    "language": "JavaScript",
+    "name": "Soulize/hard-flash",
+    "stars": 1,
+    "updated_at": "2026-08-17T04:24:35Z",
+    "url": "https://github.com/Soulize/hard-flash"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-17T04:24:08Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-17T04:24:06Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
     "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
     "id": "T-Stephen/ai-mql-engine",
     "language": "JavaScript",
     "name": "T-Stephen/ai-mql-engine",
     "stars": 0,
-    "updated_at": "2026-08-17T04:23:04Z",
+    "updated_at": "2026-08-17T04:23:41Z",
     "url": "https://github.com/T-Stephen/ai-mql-engine"
+  },
+  {
+    "description": "Continuously refreshed public feed of AI image and video prompts from X, with original authors, source links, preview me",
+    "id": "Hanyuyu/visual-prompt-feed",
+    "language": "JavaScript",
+    "name": "Hanyuyu/visual-prompt-feed",
+    "stars": 0,
+    "updated_at": "2026-08-17T04:23:29Z",
+    "url": "https://github.com/Hanyuyu/visual-prompt-feed"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-17T04:23:07Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -14,7 +131,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-17T04:22:24Z",
+    "updated_at": "2026-08-17T04:27:29Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -25,24 +142,6 @@
     "stars": 5,
     "updated_at": "2026-08-17T04:21:56Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3492,
-    "updated_at": "2026-08-17T04:21:55Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "T\u00fcrkiye hukukuna \u00f6zg\u00fc a\u00e7\u0131k kaynak Legal AI ekosistemi \u2014 10 Claude Code plugin'i, 12 skill, CI'da zorunlu hukuki kaynak d",
-    "id": "mesutcandemir39/turkiye-legal",
-    "language": "Python",
-    "name": "mesutcandemir39/turkiye-legal",
-    "stars": 0,
-    "updated_at": "2026-08-17T04:20:51Z",
-    "url": "https://github.com/mesutcandemir39/turkiye-legal"
   },
   {
     "description": "Prompt-adherence layer over FLUX.2 Klein 4B for contemporary Indian imagery \u2014 negation rewriting, per-tone complexion, a",
@@ -79,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-17T04:16:12Z",
     "url": "https://github.com/oscargbocanegra/llms-engineering-main"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-17T04:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Independent DeepSeek Harness Web plugin with composable Execute/Plan, Standard/First principles, and Off/Adversarial/Acc",
@@ -270,15 +360,6 @@
     "url": "https://github.com/timoncool/prompt-warrior"
   },
   {
-    "description": " A DeepSeek Harness (dsh) agent preset for making large engineering tasks deliberate, integrated, and verifiable from th",
-    "id": "Soulize/hard-flash",
-    "language": "JavaScript",
-    "name": "Soulize/hard-flash",
-    "stars": 1,
-    "updated_at": "2026-08-17T04:01:50Z",
-    "url": "https://github.com/Soulize/hard-flash"
-  },
-  {
     "description": "The 21 agentic design patterns, distilled to concepts (no code) \u2014 a design-phase reference for building AI agents. Works",
     "id": "eshwarvijay/agent-architecture",
     "language": "\u2014",
@@ -319,7 +400,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 66547,
+    "stars": 66550,
     "updated_at": "2026-08-17T03:58:15Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -367,86 +448,5 @@
     "stars": 24287,
     "updated_at": "2026-08-17T03:56:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
-    "id": "KbWen/agentic-os",
-    "language": "Python",
-    "name": "KbWen/agentic-os",
-    "stars": 132,
-    "updated_at": "2026-08-17T03:56:30Z",
-    "url": "https://github.com/KbWen/agentic-os"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-17T03:56:02Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "AI-agent & automation engineer \u2014 n8n, OpenClaw/Hermes, bots, prompt engineering. Building agents from Bandung, Indonesia",
-    "id": "mifdlaldev/mifdlaldev",
-    "language": "\u2014",
-    "name": "mifdlaldev/mifdlaldev",
-    "stars": 0,
-    "updated_at": "2026-08-17T03:52:10Z",
-    "url": "https://github.com/mifdlaldev/mifdlaldev"
-  },
-  {
-    "description": "An archived and maintained copy of the Prompt Engineering Hub: a curated collection of prompt engineering resources, too",
-    "id": "Bugatsec/Prompt-Engineering-Holy-Grail",
-    "language": "HTML",
-    "name": "Bugatsec/Prompt-Engineering-Holy-Grail",
-    "stars": 2,
-    "updated_at": "2026-08-17T03:52:08Z",
-    "url": "https://github.com/Bugatsec/Prompt-Engineering-Holy-Grail"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 118,
-    "updated_at": "2026-08-17T03:51:19Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "PromptHub\u2122 : Creates cryptographically signed Ed25519 provenance for deterministic workflows. Automate your prompt archi",
-    "id": "healthearthack/PromptHub",
-    "language": "Python",
-    "name": "healthearthack/PromptHub",
-    "stars": 2,
-    "updated_at": "2026-08-17T04:09:45Z",
-    "url": "https://github.com/healthearthack/PromptHub"
-  },
-  {
-    "description": "\u628a\u958b\u767c\u898f\u7bc4\u5beb\u6210\u6a5f\u5668\u53ef\u8b80\u7684\u7d04\u675f\uff0c\u8b93 Claude \u81ea\u52d5\u9075\u5b88 TDD\u3001ADR\u3001commit \u9598\u9580\u8207\u767c\u5e03\u6aa2\u67e5",
-    "id": "astroicers/AI-SOP-Protocol",
-    "language": "Shell",
-    "name": "astroicers/AI-SOP-Protocol",
-    "stars": 3,
-    "updated_at": "2026-08-17T03:50:08Z",
-    "url": "https://github.com/astroicers/AI-SOP-Protocol"
-  },
-  {
-    "description": "\ud83c\udfac Curated Seedance 2.5 video prompts with preview frames \u2014 auto-generated README, EN/\u4e2d\u6587",
-    "id": "velokey-ai/awesome-seedance-2.5-prompts",
-    "language": "Python",
-    "name": "velokey-ai/awesome-seedance-2.5-prompts",
-    "stars": 2,
-    "updated_at": "2026-08-17T03:49:41Z",
-    "url": "https://github.com/velokey-ai/awesome-seedance-2.5-prompts"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-17T03:49:37Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   }
 ]
