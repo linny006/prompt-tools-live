@@ -1,5 +1,113 @@
 [
   {
+    "description": " A curated system of production-ready Claude Code skills with quantitative evaluation reports, golden test fixtures, and",
+    "id": "johnqtcg/awesome-skills",
+    "language": "Python",
+    "name": "johnqtcg/awesome-skills",
+    "stars": 30,
+    "updated_at": "2026-08-17T10:13:19Z",
+    "url": "https://github.com/johnqtcg/awesome-skills"
+  },
+  {
+    "description": "Deepdive skill for Claude Code \u2014 11-phase research pipeline: plan-review gate, parallel sub-agent search with circuit br",
+    "id": "Socialpranker/deepdive",
+    "language": "Python",
+    "name": "Socialpranker/deepdive",
+    "stars": 8,
+    "updated_at": "2026-08-17T10:12:28Z",
+    "url": "https://github.com/Socialpranker/deepdive"
+  },
+  {
+    "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
+    "id": "MihirKJha/enterprise-ai-engineering-handbook",
+    "language": "HTML",
+    "name": "MihirKJha/enterprise-ai-engineering-handbook",
+    "stars": 3,
+    "updated_at": "2026-08-17T10:10:20Z",
+    "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
+  },
+  {
+    "description": "Comprehensive, production-tested guide to Claude Code (Anthropic CLI). 240+ proven patterns, 25 hook events, 59 chapters",
+    "id": "ytrofr/claude-code-guide",
+    "language": "Shell",
+    "name": "ytrofr/claude-code-guide",
+    "stars": 6,
+    "updated_at": "2026-08-17T10:08:38Z",
+    "url": "https://github.com/ytrofr/claude-code-guide"
+  },
+  {
+    "description": "PromptPotter: AI optimization engine for automated prompt engineering (APE). Searches and tunes prompts and parameters a",
+    "id": "PromptPotter/prompt-potter-optimizer",
+    "language": "Python",
+    "name": "PromptPotter/prompt-potter-optimizer",
+    "stars": 2,
+    "updated_at": "2026-08-17T10:07:59Z",
+    "url": "https://github.com/PromptPotter/prompt-potter-optimizer"
+  },
+  {
+    "description": "Grok / xAI Tools \u2013 Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi",
+    "id": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "language": "\u2014",
+    "name": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "stars": 2,
+    "updated_at": "2026-08-17T10:07:35Z",
+    "url": "https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite"
+  },
+  {
+    "description": "Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recov",
+    "id": "Jia-Ethan/codex-keysmith",
+    "language": "Python",
+    "name": "Jia-Ethan/codex-keysmith",
+    "stars": 3625,
+    "updated_at": "2026-08-17T10:07:05Z",
+    "url": "https://github.com/Jia-Ethan/codex-keysmith"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-17T10:06:57Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-08-17T10:06:00Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "id": "blader/humanizer",
+    "language": "Python",
+    "name": "blader/humanizer",
+    "stars": 36058,
+    "updated_at": "2026-08-17T10:05:29Z",
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-17T10:04:58Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83c\udfad 267 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 18 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 20 \u4e2a\u90e8\u95e8\u3002\u542b 52 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
+    "id": "jnMetaCode/agency-agents-zh",
+    "language": "Shell",
+    "name": "jnMetaCode/agency-agents-zh",
+    "stars": 19531,
+    "updated_at": "2026-08-17T10:04:58Z",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh"
+  },
+  {
     "description": "Model Context Protocol (MCP) server for reusable prompt templates, multi-step workflow chains, and quality gates. Compos",
     "id": "minipuft/claude-prompts-mcp",
     "language": "TypeScript",
@@ -7,6 +115,15 @@
     "stars": 186,
     "updated_at": "2026-08-17T10:04:13Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-17T10:03:24Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
     "description": "\ud83d\udcd6 Store, search & instantly copy AI prompts from your macOS menu bar \u2014 built with Tauri v2 + React",
@@ -23,7 +140,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33233,
-    "updated_at": "2026-08-17T10:02:47Z",
+    "updated_at": "2026-08-17T10:13:30Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -43,33 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T10:01:35Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Agent skill that removes signs of AI-generated writing from text",
-    "id": "blader/humanizer",
-    "language": "Python",
-    "name": "blader/humanizer",
-    "stars": 36056,
-    "updated_at": "2026-08-17T10:01:22Z",
-    "url": "https://github.com/blader/humanizer"
-  },
-  {
-    "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
-    "id": "MihirKJha/enterprise-ai-engineering-handbook",
-    "language": "HTML",
-    "name": "MihirKJha/enterprise-ai-engineering-handbook",
-    "stars": 3,
-    "updated_at": "2026-08-17T10:00:43Z",
-    "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-17T10:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -162,15 +252,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "PromptPotter: AI optimization engine for automated prompt engineering (APE). Searches and tunes prompts and parameters a",
-    "id": "PromptPotter/prompt-potter-optimizer",
-    "language": "Python",
-    "name": "PromptPotter/prompt-potter-optimizer",
-    "stars": 2,
-    "updated_at": "2026-08-17T09:52:26Z",
-    "url": "https://github.com/PromptPotter/prompt-potter-optimizer"
-  },
-  {
     "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
     "id": "sachncs/promptsheon",
     "language": "Go",
@@ -257,7 +338,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3493,
-    "updated_at": "2026-08-17T10:04:06Z",
+    "updated_at": "2026-08-17T10:14:45Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -266,7 +347,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4333,
-    "updated_at": "2026-08-17T09:59:01Z",
+    "updated_at": "2026-08-17T10:11:00Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -329,7 +410,7 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-08-17T09:41:42Z",
+    "updated_at": "2026-08-17T10:15:13Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -351,15 +432,6 @@
     "url": "https://github.com/feicaiclub/script-breakdown-dsh"
   },
   {
-    "description": "Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recov",
-    "id": "Jia-Ethan/codex-keysmith",
-    "language": "Python",
-    "name": "Jia-Ethan/codex-keysmith",
-    "stars": 3625,
-    "updated_at": "2026-08-17T10:00:03Z",
-    "url": "https://github.com/Jia-Ethan/codex-keysmith"
-  },
-  {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
     "id": "Atheerameer/agentic-cli-blueprint-library",
     "language": "HTML",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-17T09:41:02Z",
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 1,
-    "updated_at": "2026-08-17T09:40:57Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 118,
-    "updated_at": "2026-08-17T09:37:47Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-17T09:37:17Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
-    "id": "shortcuts/radin",
-    "language": "Shell",
-    "name": "shortcuts/radin",
-    "stars": 5,
-    "updated_at": "2026-08-17T09:37:01Z",
-    "url": "https://github.com/shortcuts/radin"
-  },
-  {
-    "description": "Production engineering and design skills for OpenAI Codex.",
-    "id": "dayfinggg/openai-codex-agent-skills",
-    "language": "PowerShell",
-    "name": "dayfinggg/openai-codex-agent-skills",
-    "stars": 4,
-    "updated_at": "2026-08-17T09:36:18Z",
-    "url": "https://github.com/dayfinggg/openai-codex-agent-skills"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-17T09:34:52Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-17T09:34:37Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-17T09:34:02Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   }
 ]
