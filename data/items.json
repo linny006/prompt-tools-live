@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u9762\u5411\u521b\u4f5c\u578b AI Agent \u7684\u4e2d\u6587 AIGC Skills\uff1a\u56fe\u7247\u3001\u89c6\u9891\u3001\u53cd\u9988\u4e0e\u97f3\u4e50\u7684\u53ef\u6267\u884c\u5de5\u4f5c\u6d41\u548c\u8d28\u91cf\u95ed\u73af\u3002",
+    "id": "chenzhiyong1994/AIGC",
+    "language": "PowerShell",
+    "name": "chenzhiyong1994/AIGC",
+    "stars": 1,
+    "updated_at": "2026-08-17T16:15:20Z",
+    "url": "https://github.com/chenzhiyong1994/AIGC"
+  },
+  {
+    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
+    "id": "ralphmoran/ticket-lens",
+    "language": "JavaScript",
+    "name": "ralphmoran/ticket-lens",
+    "stars": 3,
+    "updated_at": "2026-08-17T16:15:19Z",
+    "url": "https://github.com/ralphmoran/ticket-lens"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13221,
+    "updated_at": "2026-08-17T16:15:07Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "PixPrompt \u00b7 \u56fe\u7247\u53cd\u63a8 AI \u63d0\u793a\u8bcd Chrome \u6269\u5c55",
+    "id": "33984755-a11y/pixprompt",
+    "language": "JavaScript",
+    "name": "33984755-a11y/pixprompt",
+    "stars": 1,
+    "updated_at": "2026-08-17T16:14:32Z",
+    "url": "https://github.com/33984755-a11y/pixprompt"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 54,
+    "updated_at": "2026-08-17T16:13:11Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-17T16:12:49Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
     "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
     "language": "TypeScript",
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-17T16:10:55Z",
+    "updated_at": "2026-08-17T16:15:20Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 18,
     "updated_at": "2026-08-17T16:06:48Z",
     "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
-  },
-  {
-    "description": "PixPrompt \u00b7 \u56fe\u7247\u53cd\u63a8 AI \u63d0\u793a\u8bcd Chrome \u6269\u5c55",
-    "id": "33984755-a11y/pixprompt",
-    "language": "TypeScript",
-    "name": "33984755-a11y/pixprompt",
-    "stars": 1,
-    "updated_at": "2026-08-17T16:06:18Z",
-    "url": "https://github.com/33984755-a11y/pixprompt"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -142,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T16:00:59Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-17T16:00:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u901a\u7528 AI Coding \u94c1\u5f8b CLAUDE.md \u6a21\u677f \u2014 11 \u6761 operational \u94c1\u5f8b, \u8de8\u9879\u76ee\u590d\u7528",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T15:36:04Z",
     "url": "https://github.com/antoinewrd1/medassist-rag"
-  },
-  {
-    "description": "\u591a\u6a21\u6001 Prompt \u9006\u5411\u5de5\u7a0b Skill\uff1a\u628a\u6587\u672c/\u56fe\u7247/\u89c6\u9891\u4f5c\u54c1\u9006\u5411\u62c6\u89e3\u4e3a\u53ef\u590d\u7528\u7684\u4e13\u4e1a Prompt\uff0c\u9002\u914d Midjourney/Stable Diffusion/GPT-4/Sora \u591a\u6a21\u578b\u683c\u5f0f\uff0c\u652f\u6301 Claude Code/Curso",
-    "id": "niobium617/prompt-reverse-engineer-skill",
-    "language": "Python",
-    "name": "niobium617/prompt-reverse-engineer-skill",
-    "stars": 1,
-    "updated_at": "2026-08-17T15:34:57Z",
-    "url": "https://github.com/niobium617/prompt-reverse-engineer-skill"
-  },
-  {
-    "description": "Local-first desktop app for managing, analyzing and optimizing prompt collections \u2014 offline, private, Tauri + React + Ru",
-    "id": "xxammaxx/promptvault-lite",
-    "language": "TypeScript",
-    "name": "xxammaxx/promptvault-lite",
-    "stars": 0,
-    "updated_at": "2026-08-17T15:34:44Z",
-    "url": "https://github.com/xxammaxx/promptvault-lite"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-17T15:33:32Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Token-efficient, quality-first, spec-driven development kit for AI coding agents \u2014 progressive context, durable project ",
-    "id": "Elguajo/Progressive-Context-Kit",
-    "language": "Python",
-    "name": "Elguajo/Progressive-Context-Kit",
-    "stars": 1,
-    "updated_at": "2026-08-17T15:34:19Z",
-    "url": "https://github.com/Elguajo/Progressive-Context-Kit"
   }
 ]
