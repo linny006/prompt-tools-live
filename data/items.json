@@ -1,11 +1,137 @@
 [
   {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 51,
+    "updated_at": "2026-08-17T21:14:27Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 130,
+    "updated_at": "2026-08-17T21:13:08Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-08-17T21:11:11Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Terminal-native control layer for your AI workflow \u2014 decides if AI is needed, then routes tool, skill, context, model, a",
+    "id": "tzuifx80/AI-HQ",
+    "language": "Python",
+    "name": "tzuifx80/AI-HQ",
+    "stars": 0,
+    "updated_at": "2026-08-17T21:11:01Z",
+    "url": "https://github.com/tzuifx80/AI-HQ"
+  },
+  {
+    "description": "LLM Prompt Studio for image, 3D, video, and audio models",
+    "id": "doodersrage/llm-prompt-studio",
+    "language": "TypeScript",
+    "name": "doodersrage/llm-prompt-studio",
+    "stars": 0,
+    "updated_at": "2026-08-17T21:08:38Z",
+    "url": "https://github.com/doodersrage/llm-prompt-studio"
+  },
+  {
+    "description": "Stop the copy-paste hell. Get your code into the LLM, but don't blindly trust the answer. KodoPakku bundles any folder, ",
+    "id": "solunx/kodopakku",
+    "language": "Python",
+    "name": "solunx/kodopakku",
+    "stars": 0,
+    "updated_at": "2026-08-17T21:07:32Z",
+    "url": "https://github.com/solunx/kodopakku"
+  },
+  {
+    "description": "Skills, steering rules and multi-agent workflows I use with Claude Code. Autonomous issue runners, adversarial gates, pa",
+    "id": "roufmlp/agent-skills",
+    "language": "Python",
+    "name": "roufmlp/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-17T21:07:09Z",
+    "url": "https://github.com/roufmlp/agent-skills"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-17T21:03:48Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
+    "id": "ryanportfolio/savetokens",
+    "language": "HTML",
+    "name": "ryanportfolio/savetokens",
+    "stars": 1,
+    "updated_at": "2026-08-17T21:03:33Z",
+    "url": "https://github.com/ryanportfolio/savetokens"
+  },
+  {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 5024,
+    "updated_at": "2026-08-17T21:06:50Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-17T21:02:15Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-08-17T21:01:15Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27546,
+    "updated_at": "2026-08-17T21:01:13Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83d\ude80 AI-powered Chrome Extension that generates context-aware LinkedIn comments using LangGraph multi-agent workflows, Fast",
+    "id": "himanshu231204/linkedin-ai-comment-copilot",
+    "language": "Python",
+    "name": "himanshu231204/linkedin-ai-comment-copilot",
+    "stars": 2,
+    "updated_at": "2026-08-17T21:01:12Z",
+    "url": "https://github.com/himanshu231204/linkedin-ai-comment-copilot"
+  },
+  {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
     "id": "linny006/prompt-tools-live",
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 9,
-    "updated_at": "2026-08-17T21:00:30Z",
+    "updated_at": "2026-08-17T21:00:54Z",
     "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
@@ -16,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-08-17T21:00:26Z",
     "url": "https://github.com/elie222/botdirectory.ai"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:57:38Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
@@ -95,7 +230,7 @@
     "language": "Python",
     "name": "sebastian-software/skills.sebastian-software.com",
     "stars": 0,
-    "updated_at": "2026-08-17T20:49:04Z",
+    "updated_at": "2026-08-17T21:10:57Z",
     "url": "https://github.com/sebastian-software/skills.sebastian-software.com"
   },
   {
@@ -126,15 +261,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "\ud83d\ude80 AI-powered Chrome Extension that generates context-aware LinkedIn comments using LangGraph multi-agent workflows, Fast",
-    "id": "himanshu231204/linkedin-ai-comment-copilot",
-    "language": "Python",
-    "name": "himanshu231204/linkedin-ai-comment-copilot",
-    "stars": 2,
-    "updated_at": "2026-08-17T20:57:56Z",
-    "url": "https://github.com/himanshu231204/linkedin-ai-comment-copilot"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -149,7 +275,7 @@
     "language": "HTML",
     "name": "PablitoPJ/drifter-blueprint-vault",
     "stars": 1,
-    "updated_at": "2026-08-17T20:46:33Z",
+    "updated_at": "2026-08-17T21:11:22Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
@@ -171,15 +297,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27546,
-    "updated_at": "2026-08-17T20:44:54Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "\u51b7\u5496\u5561 ColdBrew \u56db\u5408\u4e00\u7834\u7532\u6b63\u5f0f\u7248 \u2014 GPT-5.6 / Claude / Grok 4.6 / DeepSeek v4 Pro \u4e00\u952e\u90e8\u7f72 \u00b7 \u542f\u52a8 \u00b7 \u6062\u590d \u00b7 \u6253\u5305\u53d1\u5e03 | QQ \u7fa4 1057540028 / 10770745",
     "id": "3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
     "language": "Python",
@@ -187,24 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T20:43:36Z",
     "url": "https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-17T20:42:43Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-17T20:42:03Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -223,15 +322,6 @@
     "stars": 17,
     "updated_at": "2026-08-17T20:36:31Z",
     "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-17T20:57:38Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T20:27:39Z",
     "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-08-17T20:27:36Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:27:35Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-08-17T20:27:34Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 1,
-    "updated_at": "2026-08-17T20:27:16Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
-  },
-  {
-    "description": "Access curated prompts and output examples to optimize image generation with the GPT-Image-2 API.",
-    "id": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "language": "\u2014",
-    "name": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:27:11Z",
-    "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "Enhance video production workflows with AI tools, 4K export support, and professional effects for CapCut.",
-    "id": "Kentlight970/Edit-Master-Pro",
-    "language": "Python",
-    "name": "Kentlight970/Edit-Master-Pro",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:27:03Z",
-    "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
-    "id": "Ekmsi8525/agentsmith",
-    "language": "\u2014",
-    "name": "Ekmsi8525/agentsmith",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:26:46Z",
-    "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-08-17T20:26:43Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
-    "description": "Curated, verified Agent Skills powered by ModelStudio.",
-    "id": "modelstudioai/skills",
-    "language": "Python",
-    "name": "modelstudioai/skills",
-    "stars": 53,
-    "updated_at": "2026-08-17T20:26:37Z",
-    "url": "https://github.com/modelstudioai/skills"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-08-17T20:26:32Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
   }
 ]
