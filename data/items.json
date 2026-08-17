@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 33,
+    "updated_at": "2026-08-17T05:46:34Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "DSH \u63d2\u4ef6\uff1a\u7b80\u4f53\u4e2d\u6587\u884c\u4e3a\u89c4\u8303\u4e09\u5c42\u6ce8\u5165\uff08\u5e38\u9a7b\u5c42 + prompt \u6280\u80fd + anchored preset \u951a\u5b9a\u6ce8\u5165\uff09+ Web UI \u7f16\u8f91 prompt.md",
+    "id": "Czerror/dsh-plugin-prompt-tool",
+    "language": "JavaScript",
+    "name": "Czerror/dsh-plugin-prompt-tool",
+    "stars": 0,
+    "updated_at": "2026-08-17T05:46:14Z",
+    "url": "https://github.com/Czerror/dsh-plugin-prompt-tool"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 66556,
+    "updated_at": "2026-08-17T05:46:12Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-17T05:46:01Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 132,
+    "updated_at": "2026-08-17T05:45:54Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-17T05:45:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
     "id": "Liplus-Project/liplus-language",
     "language": "Python",
@@ -25,6 +79,15 @@
     "stars": 1,
     "updated_at": "2026-08-17T05:44:20Z",
     "url": "https://github.com/ford442/weeks_on_fire"
+  },
+  {
+    "description": "Template prompt for AI coding agents: scaffold a monetized Flutter mobile game (AdMob, RevenueCat, Sentry, signed releas",
+    "id": "anggastudio/flutter-game-init-prompt",
+    "language": "Dart",
+    "name": "anggastudio/flutter-game-init-prompt",
+    "stars": 1,
+    "updated_at": "2026-08-17T05:44:09Z",
+    "url": "https://github.com/anggastudio/flutter-game-init-prompt"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -99,6 +162,15 @@
     "url": "https://github.com/taskveda/TaskVeda-New01"
   },
   {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-08-17T05:41:26Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -153,15 +225,6 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
-    "description": "Template prompt for AI coding agents: scaffold a monetized Flutter mobile game (AdMob, RevenueCat, Sentry, signed releas",
-    "id": "anggastudio/flutter-game-init-prompt",
-    "language": "Dart",
-    "name": "anggastudio/flutter-game-init-prompt",
-    "stars": 1,
-    "updated_at": "2026-08-17T05:44:09Z",
-    "url": "https://github.com/anggastudio/flutter-game-init-prompt"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -187,15 +250,6 @@
     "stars": 117,
     "updated_at": "2026-08-17T05:35:42Z",
     "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "DSH \u63d2\u4ef6\uff1a\u7b80\u4f53\u4e2d\u6587\u884c\u4e3a\u89c4\u8303\u4e09\u5c42\u6ce8\u5165\uff08\u5e38\u9a7b\u5c42 + prompt \u6280\u80fd + anchored preset \u951a\u5b9a\u6ce8\u5165\uff09+ Web UI \u7f16\u8f91 prompt.md",
-    "id": "Czerror/dsh-plugin-prompt-tool",
-    "language": "JavaScript",
-    "name": "Czerror/dsh-plugin-prompt-tool",
-    "stars": 0,
-    "updated_at": "2026-08-17T05:44:30Z",
-    "url": "https://github.com/Czerror/dsh-plugin-prompt-tool"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -306,24 +360,6 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-17T05:30:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 0,
-    "updated_at": "2026-08-17T05:41:26Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
     "id": "5uprem4/ai-skill-vault",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-17T05:27:48Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
-    "id": "mrwogu/promptscript",
-    "language": "TypeScript",
-    "name": "mrwogu/promptscript",
-    "stars": 462,
-    "updated_at": "2026-08-17T05:27:43Z",
-    "url": "https://github.com/mrwogu/promptscript"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-17T05:26:30Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-17T05:26:29Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-17T05:25:11Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   }
 ]
