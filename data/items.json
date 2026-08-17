@@ -1,5 +1,86 @@
 [
   {
+    "description": "A method for agent-driven software delivery: the memory, contracts, and guardrails that keep an AI agent's output uprigh",
+    "id": "gabrielchinarro-pro/mainstay",
+    "language": "Shell",
+    "name": "gabrielchinarro-pro/mainstay",
+    "stars": 0,
+    "updated_at": "2026-08-17T18:37:06Z",
+    "url": "https://github.com/gabrielchinarro-pro/mainstay"
+  },
+  {
+    "description": "An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C",
+    "id": "Prysai/Prysai-LLM-Playbook",
+    "language": "Python",
+    "name": "Prysai/Prysai-LLM-Playbook",
+    "stars": 19,
+    "updated_at": "2026-08-17T18:35:45Z",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-08-17T18:34:14Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "Quillan-Ronin - an attempt at a mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v6.",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "Python",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 26,
+    "updated_at": "2026-08-17T18:33:12Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-17T18:32:11Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
+    "id": "5uprem4/ai-skill-vault",
+    "language": "HTML",
+    "name": "5uprem4/ai-skill-vault",
+    "stars": 3,
+    "updated_at": "2026-08-17T18:30:44Z",
+    "url": "https://github.com/5uprem4/ai-skill-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-17T18:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
+    "id": "ralphmoran/ticket-lens",
+    "language": "JavaScript",
+    "name": "ralphmoran/ticket-lens",
+    "stars": 3,
+    "updated_at": "2026-08-17T18:29:18Z",
+    "url": "https://github.com/ralphmoran/ticket-lens"
+  },
+  {
+    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
+    "id": "elie222/botdirectory",
+    "language": "Astro",
+    "name": "elie222/botdirectory",
+    "stars": 0,
+    "updated_at": "2026-08-17T18:28:40Z",
+    "url": "https://github.com/elie222/botdirectory"
+  },
+  {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
     "id": "Kenny27lokku/prompt-integrity-validator",
     "language": "HTML",
@@ -72,15 +153,6 @@
     "url": "https://github.com/cyqlelabs/smrti"
   },
   {
-    "description": "An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C",
-    "id": "Prysai/Prysai-LLM-Playbook",
-    "language": "Python",
-    "name": "Prysai/Prysai-LLM-Playbook",
-    "stars": 19,
-    "updated_at": "2026-08-17T18:19:42Z",
-    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
@@ -104,7 +176,7 @@
     "language": "Python",
     "name": "Maksim-Burtsev/simple-man",
     "stars": 2,
-    "updated_at": "2026-08-17T18:16:54Z",
+    "updated_at": "2026-08-17T18:37:19Z",
     "url": "https://github.com/Maksim-Burtsev/simple-man"
   },
   {
@@ -153,15 +225,6 @@
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
-    "description": "A method for agent-driven software delivery: the memory, contracts, and guardrails that keep an AI agent's output uprigh",
-    "id": "gabrielchinarro-pro/mainstay",
-    "language": "Shell",
-    "name": "gabrielchinarro-pro/mainstay",
-    "stars": 0,
-    "updated_at": "2026-08-17T18:07:19Z",
-    "url": "https://github.com/gabrielchinarro-pro/mainstay"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -187,15 +250,6 @@
     "stars": 22,
     "updated_at": "2026-08-17T18:04:51Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
-    "id": "ralphmoran/ticket-lens",
-    "language": "JavaScript",
-    "name": "ralphmoran/ticket-lens",
-    "stars": 3,
-    "updated_at": "2026-08-17T18:29:18Z",
-    "url": "https://github.com/ralphmoran/ticket-lens"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -270,15 +324,6 @@
     "url": "https://github.com/llmsresearch/llm-flashcards"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-17T18:00:03Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\u26a1 Universal Multi-Agent Swarm Plugin with 134+ specialized skills for Antigravity (AGY), Claude Code, and Cursor IDE. Mo",
     "id": "roedyrustam/vibes-plug",
     "language": "Python",
@@ -320,7 +365,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33259,
-    "updated_at": "2026-08-17T18:21:17Z",
+    "updated_at": "2026-08-17T18:37:06Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -355,7 +400,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 42802,
+    "stars": 42803,
     "updated_at": "2026-08-17T17:48:57Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -392,7 +437,7 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-08-17T18:15:36Z",
+    "updated_at": "2026-08-17T18:35:25Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 843,
     "updated_at": "2026-08-17T17:46:30Z",
     "url": "https://github.com/promptdriven/pdd"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 4,
-    "updated_at": "2026-08-17T17:46:08Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-17T17:44:47Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Convenient, ready-to-use engineering skills and best practices for your AI assistant.",
-    "id": "kok-o/koko-contextos-agents",
-    "language": "JavaScript",
-    "name": "kok-o/koko-contextos-agents",
-    "stars": 1,
-    "updated_at": "2026-08-17T18:03:41Z",
-    "url": "https://github.com/kok-o/koko-contextos-agents"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-08-17T17:43:19Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "A lightweight world-wiki engine for LLM-driven games \u2014 deterministic, zero-dependency alternative to RAG. Feeds your wor",
-    "id": "thecapibara/LoreEngine",
-    "language": "Python",
-    "name": "thecapibara/LoreEngine",
-    "stars": 0,
-    "updated_at": "2026-08-17T17:42:02Z",
-    "url": "https://github.com/thecapibara/LoreEngine"
   }
 ]
