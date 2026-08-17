@@ -1,5 +1,23 @@
 [
   {
+    "description": "Repository-backed memory and bounded-session workflow for low-context, high-quality coding agents.",
+    "id": "hanklin9188/repository-state-agent-workflow",
+    "language": "Python",
+    "name": "hanklin9188/repository-state-agent-workflow",
+    "stars": 1,
+    "updated_at": "2026-08-17T15:00:36Z",
+    "url": "https://github.com/hanklin9188/repository-state-agent-workflow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-17T15:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Grok / xAI Tools \u2013 Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi",
     "id": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
     "language": "\u2014",
@@ -198,15 +216,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-17T14:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
     "id": "clay-good/agent-replay",
     "language": "TypeScript",
@@ -275,7 +284,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33249,
-    "updated_at": "2026-08-17T14:40:11Z",
+    "updated_at": "2026-08-17T15:00:31Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T14:28:31Z",
     "url": "https://github.com/AINoSleep/industry-decoder-skill"
-  },
-  {
-    "description": "\u70bc\u91d1\u4e66\uff1a\u8f93\u5165\u4e00\u672c\u4e66\uff0c\u5f97\u5230\u4e00\u4f4d\u61c2\u8fd9\u672c\u4e66\u7684\u987e\u95ee\u3002\u628a\u4efb\u4f55\u975e\u865a\u6784\u4e66\u84b8\u998f\u6210\u53ef\u8fd0\u884c\u7684\u65b9\u6cd5\u8bbaSkill\uff08Agent Skills\u534f\u8bae\uff0c\u8de8runtime\uff09",
-    "id": "AINoSleep/book-distiller-skill",
-    "language": "Python",
-    "name": "AINoSleep/book-distiller-skill",
-    "stars": 0,
-    "updated_at": "2026-08-17T14:28:09Z",
-    "url": "https://github.com/AINoSleep/book-distiller-skill"
   }
 ]
