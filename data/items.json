@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u89c6\u89c9\u63d0\u793a\u8bcd\u56fe\u5e93 \u00b7 Visual Prompt Atlas \u2014 9 \u69fd\u4f4d\u539f\u5b50\u8bcd\u5e93 + \u63d0\u793a\u8bcd\u4f53\u68c0\u4eea",
+    "id": "f8wco/prompt-atlas",
+    "language": "JavaScript",
+    "name": "f8wco/prompt-atlas",
+    "stars": 1,
+    "updated_at": "2026-08-18T07:13:58Z",
+    "url": "https://github.com/f8wco/prompt-atlas"
+  },
+  {
+    "description": "\uac80\uc99d\u00b7\ud3c9\uac00\u00b7Release \uc790\ub3d9\ud654\ub97c \uac16\ucd98 \ud55c\uad6d\uc5b4 \uc911\uc2ec Codex skills-only \ud50c\ub7ec\uadf8\uc778 \ubaa8\ub178\ub808\ud3ec",
+    "id": "HYEXE/codex-plugins",
+    "language": "Python",
+    "name": "HYEXE/codex-plugins",
+    "stars": 0,
+    "updated_at": "2026-08-18T07:15:11Z",
+    "url": "https://github.com/HYEXE/codex-plugins"
+  },
+  {
+    "description": "Big idea first, then fewer words, then less code. One switch for 12+ AI coding agents \u2014 measured 23% fewer tokens on lon",
+    "id": "HuskyDanny/verboseless-all-in-one",
+    "language": "Shell",
+    "name": "HuskyDanny/verboseless-all-in-one",
+    "stars": 3,
+    "updated_at": "2026-08-18T07:12:50Z",
+    "url": "https://github.com/HuskyDanny/verboseless-all-in-one"
+  },
+  {
+    "description": "A 14-agent software company in a plugin: plan, build, and adversarially judge every change under hard budget caps. Markd",
+    "id": "xsefirosus/sefi-agents",
+    "language": "Shell",
+    "name": "xsefirosus/sefi-agents",
+    "stars": 1,
+    "updated_at": "2026-08-18T07:12:32Z",
+    "url": "https://github.com/xsefirosus/sefi-agents"
+  },
+  {
+    "description": "\u5e94\u5bf9 LLM \u957f\u5bf9\u8bdd\u6ce8\u610f\u529b\u6f02\u79fb\u7684\u4e09\u5c42\u65b9\u6848\uff1aL1 Prompt \u89d2\u8272\u8bbe\u5b9a / L2 Context \u4e0a\u4e0b\u6587\u538b\u7f29 / L3 State \u72b6\u6001\u673a\u9650\u5236",
+    "id": "ayanglike681-eng/llm-attention-drift-control",
+    "language": "Python",
+    "name": "ayanglike681-eng/llm-attention-drift-control",
+    "stars": 0,
+    "updated_at": "2026-08-18T07:12:07Z",
+    "url": "https://github.com/ayanglike681-eng/llm-attention-drift-control"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3493,
+    "updated_at": "2026-08-18T07:15:16Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Open-source core extracted and generalized from a commercial AI content platform, providing visual ontology, constraint ",
+    "id": "windforce19820520-ai/visual-ontology-constraint-engine",
+    "language": "TypeScript",
+    "name": "windforce19820520-ai/visual-ontology-constraint-engine",
+    "stars": 4,
+    "updated_at": "2026-08-18T07:15:03Z",
+    "url": "https://github.com/windforce19820520-ai/visual-ontology-constraint-engine"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-18T07:10:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-18T07:10:30Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-18T07:09:35Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
     "description": "Long-horizon agent skill for Claude Code / Cursor / Codex / Grok Build \u2014 multi-task ledger loop, host-portable, clean-co",
     "id": "levi-qiao/longgraph-skill",
     "language": "Shell",
@@ -7,6 +97,33 @@
     "stars": 58,
     "updated_at": "2026-08-18T07:09:04Z",
     "url": "https://github.com/levi-qiao/longgraph-skill"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-18T07:08:46Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-08-18T07:08:37Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33298,
+    "updated_at": "2026-08-18T07:15:25Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "DeepSeek V4 \u7279\u5316\u601d\u7ef4\u94fe\u5f15\u5bfc\u89c4\u8303\uff1awe need to \u53e5\u5f0f\uff0c\u4efb\u610f agent \u5ba2\u6237\u7aef\u53ef\u63a5\u5165\uff08\u7eaf\u63d0\u793a\u8bcd\u5c42\uff09",
@@ -72,21 +189,12 @@
     "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
   },
   {
-    "description": "\u5e94\u5bf9 LLM \u957f\u5bf9\u8bdd\u6ce8\u610f\u529b\u6f02\u79fb\u7684\u4e09\u5c42\u65b9\u6848\uff1aL1 Prompt \u89d2\u8272\u8bbe\u5b9a / L2 Context \u4e0a\u4e0b\u6587\u538b\u7f29 / L3 State \u72b6\u6001\u673a\u9650\u5236",
-    "id": "ayanglike681-eng/llm-attention-drift-control",
-    "language": "Python",
-    "name": "ayanglike681-eng/llm-attention-drift-control",
-    "stars": 0,
-    "updated_at": "2026-08-18T07:02:32Z",
-    "url": "https://github.com/ayanglike681-eng/llm-attention-drift-control"
-  },
-  {
     "description": "\u628a\u958b\u767c\u898f\u7bc4\u5beb\u6210\u6a5f\u5668\u53ef\u8b80\u7684\u7d04\u675f\uff0c\u8b93 Claude \u81ea\u52d5\u9075\u5b88 TDD\u3001ADR\u3001commit \u9598\u9580\u8207\u767c\u5e03\u6aa2\u67e5",
     "id": "astroicers/AI-SOP-Protocol",
     "language": "Shell",
     "name": "astroicers/AI-SOP-Protocol",
     "stars": 3,
-    "updated_at": "2026-08-18T07:08:45Z",
+    "updated_at": "2026-08-18T07:11:55Z",
     "url": "https://github.com/astroicers/AI-SOP-Protocol"
   },
   {
@@ -108,15 +216,6 @@
     "url": "https://github.com/williamOnsare/conversational-ai-prompt-lab"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-18T07:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -131,7 +230,7 @@
     "language": "Python",
     "name": "promplate/demo",
     "stars": 3,
-    "updated_at": "2026-08-18T06:59:42Z",
+    "updated_at": "2026-08-18T07:15:03Z",
     "url": "https://github.com/promplate/demo"
   },
   {
@@ -142,15 +241,6 @@
     "stars": 22,
     "updated_at": "2026-08-18T06:59:06Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3493,
-    "updated_at": "2026-08-18T07:06:11Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -169,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T06:58:36Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "\u89c6\u89c9\u63d0\u793a\u8bcd\u56fe\u5e93 \u00b7 Visual Prompt Atlas \u2014 9 \u69fd\u4f4d\u539f\u5b50\u8bcd\u5e93 + \u63d0\u793a\u8bcd\u4f53\u68c0\u4eea",
-    "id": "f8wco/prompt-atlas",
-    "language": "JavaScript",
-    "name": "f8wco/prompt-atlas",
-    "stars": 1,
-    "updated_at": "2026-08-18T06:57:09Z",
-    "url": "https://github.com/f8wco/prompt-atlas"
   },
   {
     "description": "Reliable AI writing assistant with prompt engineering, system instructions, few-shot learning, and prompt evaluation \u2014 G",
@@ -247,7 +328,7 @@
     "id": "Jia-Ethan/codex-keysmith",
     "language": "Python",
     "name": "Jia-Ethan/codex-keysmith",
-    "stars": 3671,
+    "stars": 3673,
     "updated_at": "2026-08-18T06:52:00Z",
     "url": "https://github.com/Jia-Ethan/codex-keysmith"
   },
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-18T06:42:24Z",
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-18T06:42:20Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Open access to the wikiprompt.org catalog of 55,000+ AI prompts: dataset, API, MCP server and Claude skill. Build with i",
-    "id": "lschiaffino/wikiprompt-dataset",
-    "language": "\u2014",
-    "name": "lschiaffino/wikiprompt-dataset",
-    "stars": 0,
-    "updated_at": "2026-08-18T06:40:03Z",
-    "url": "https://github.com/lschiaffino/wikiprompt-dataset"
-  },
-  {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 19,
-    "updated_at": "2026-08-18T06:38:39Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 118,
-    "updated_at": "2026-08-18T06:37:39Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "Applied AI project portfolio featuring prompt systems, research tools, privacy-first utilities, and deployable product p",
-    "id": "atomicdjt/AI-Project-Portfolio",
-    "language": "JavaScript",
-    "name": "atomicdjt/AI-Project-Portfolio",
-    "stars": 0,
-    "updated_at": "2026-08-18T06:37:31Z",
-    "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-18T06:37:14Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 15,
-    "updated_at": "2026-08-18T06:35:47Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 34,
-    "updated_at": "2026-08-18T06:35:35Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "This repository serves as the comprehensive workspace for Quarter 4 academic endeavors, encompassing assignments, techni",
-    "id": "DanielHashmi/Q4_learning",
-    "language": "Python",
-    "name": "DanielHashmi/Q4_learning",
-    "stars": 17,
-    "updated_at": "2026-08-18T06:34:34Z",
-    "url": "https://github.com/DanielHashmi/Q4_learning"
   }
 ]
