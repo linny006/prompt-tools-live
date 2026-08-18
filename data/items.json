@@ -1,5 +1,131 @@
 [
   {
+    "description": " A DeepSeek Harness (dsh) agent preset for making large engineering tasks deliberate, integrated, and verifiable from th",
+    "id": "Soulize/hard-flash",
+    "language": "JavaScript",
+    "name": "Soulize/hard-flash",
+    "stars": 1,
+    "updated_at": "2026-08-18T14:15:09Z",
+    "url": "https://github.com/Soulize/hard-flash"
+  },
+  {
+    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
+    "id": "Mr-Salticidae/knowledge-base",
+    "language": "Python",
+    "name": "Mr-Salticidae/knowledge-base",
+    "stars": 23,
+    "updated_at": "2026-08-18T14:14:42Z",
+    "url": "https://github.com/Mr-Salticidae/knowledge-base"
+  },
+  {
+    "description": "An intel layer for AI coding agents that assumes its own rules might be wrong \u2014 and keeps the evidence. Authoritative no",
+    "id": "ReidenXerx/bearing",
+    "language": "JavaScript",
+    "name": "ReidenXerx/bearing",
+    "stars": 5,
+    "updated_at": "2026-08-18T14:11:16Z",
+    "url": "https://github.com/ReidenXerx/bearing"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-08-18T14:11:08Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude.",
+    "id": "revenantworks/claude-skills",
+    "language": "Python",
+    "name": "revenantworks/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-08-18T14:11:51Z",
+    "url": "https://github.com/revenantworks/claude-skills"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33327,
+    "updated_at": "2026-08-18T14:14:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-08-18T14:06:32Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-18T14:05:58Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-18T14:05:23Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
+    "id": "MihirKJha/enterprise-ai-engineering-handbook",
+    "language": "HTML",
+    "name": "MihirKJha/enterprise-ai-engineering-handbook",
+    "stars": 3,
+    "updated_at": "2026-08-18T14:04:12Z",
+    "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-08-18T14:03:37Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "LLM classifier for public defense-news snippets \u2014 assigns category, operational domain, and region via structured (tool-",
+    "id": "sanlee-ys/defense-news-classifier",
+    "language": "Python",
+    "name": "sanlee-ys/defense-news-classifier",
+    "stars": 1,
+    "updated_at": "2026-08-18T14:03:21Z",
+    "url": "https://github.com/sanlee-ys/defense-news-classifier"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-18T14:01:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-08-18T14:01:14Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
     "description": "Cross-agent toolkit for prompts and coding-agent skills",
     "id": "sungjunlee/craftkit",
     "language": "JavaScript",
@@ -7,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-08-18T14:01:06Z",
     "url": "https://github.com/sungjunlee/craftkit"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-18T14:01:00Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
     "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
@@ -18,31 +153,31 @@
     "url": "https://github.com/rockerlabs/keel"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-18T14:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude.",
-    "id": "revenantworks/claude-skills",
-    "language": "Python",
-    "name": "revenantworks/claude-skills",
+    "description": "320+ curated Claude Code skills, 9 agents, 39 commands, sanitized configs & a Codex bridge \u2014 auto-indexed from skills/.",
+    "id": "shengdabai/Tony-Claude-Code-Skills",
+    "language": "HTML",
+    "name": "shengdabai/Tony-Claude-Code-Skills",
     "stars": 1,
-    "updated_at": "2026-08-18T14:00:09Z",
-    "url": "https://github.com/revenantworks/claude-skills"
+    "updated_at": "2026-08-18T14:00:16Z",
+    "url": "https://github.com/shengdabai/Tony-Claude-Code-Skills"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33326,
-    "updated_at": "2026-08-18T13:57:16Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-08-18T13:59:42Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-08-18T13:58:36Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
     "description": "\u300a\u76ee\u6807\u662f\u6210\u4e3a Prompt \u5927\u5e08\u300b\u00b7 \u9762\u5411 AIGC \u5c0f\u767d\u7684 prompt \u62c6\u89e3\u7cfb\u5217:\u6bcf\u671f\u4e00\u4e2a\u4e3b\u9898,\u8bb2\u6e05\u96be\u5728\u54ea\u3001\u600e\u4e48\u7834\u9898\u3001\u5b8c\u6574 prompt \u4e0e\u56db\u5c42\u62c6\u89e3\u3002\u4e0d\u8ffd\u7ed3\u679c,\u8bb0\u5f55\u8fc7\u7a0b\u3002",
@@ -61,24 +196,6 @@
     "stars": 10,
     "updated_at": "2026-08-18T13:55:50Z",
     "url": "https://github.com/axiomantic/spellbook"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-08-18T13:55:38Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-08-18T13:54:28Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -194,7 +311,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21446,
-    "updated_at": "2026-08-18T14:00:01Z",
+    "updated_at": "2026-08-18T14:09:31Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -329,124 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3496,
-    "updated_at": "2026-08-18T13:58:37Z",
+    "updated_at": "2026-08-18T14:09:18Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-18T13:39:15Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-08-18T13:38:20Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-18T13:37:59Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-18T13:37:02Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-18T13:36:41Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-18T13:36:23Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-18T13:36:13Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-18T13:36:13Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-18T13:35:45Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-18T13:35:44Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "\u5c06\u51b0\u51b7\u7684\u79bb\u522b\u5316\u4e3a\u6e29\u6696\u7684 Skill\uff0c\u6b22\u8fce\u52a0\u5165\u6570\u5b57\u751f\u547d1.0\uff01Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital ",
-    "id": "titanwings/colleague-skill",
-    "language": "Python",
-    "name": "titanwings/colleague-skill",
-    "stars": 23338,
-    "updated_at": "2026-08-18T13:35:40Z",
-    "url": "https://github.com/titanwings/colleague-skill"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-18T13:34:58Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-18T13:34:51Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
   }
 ]
