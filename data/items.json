@@ -1,5 +1,86 @@
 [
   {
+    "description": "Runtime security for AI agents. In-process, zero dependencies, Apache 2.0.",
+    "id": "delphisecurity/xaidr",
+    "language": "Python",
+    "name": "delphisecurity/xaidr",
+    "stars": 23,
+    "updated_at": "2026-08-18T00:29:30Z",
+    "url": "https://github.com/delphisecurity/xaidr"
+  },
+  {
+    "description": "\u51b7\u5496\u5561 ColdBrew \u56db\u5408\u4e00\u7834\u7532\u6b63\u5f0f\u7248 \u2014 GPT-5.6 / Claude / Grok 4.6 / DeepSeek v4 Pro \u4e00\u952e\u90e8\u7f72 \u00b7 \u542f\u52a8 \u00b7 \u6062\u590d \u00b7 \u6253\u5305\u53d1\u5e03 | QQ \u7fa4 1057540028 / 10770745",
+    "id": "3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
+    "language": "Python",
+    "name": "3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
+    "stars": 5,
+    "updated_at": "2026-08-18T00:29:02Z",
+    "url": "https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 24,
+    "updated_at": "2026-08-18T00:28:01Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "A Claude Code plugin that automatically captures coding mistakes and injects relevant lessons before tool calls \u2014 preven",
+    "id": "joeblackwaslike/lessons-learned",
+    "language": "JavaScript",
+    "name": "joeblackwaslike/lessons-learned",
+    "stars": 0,
+    "updated_at": "2026-08-18T00:26:37Z",
+    "url": "https://github.com/joeblackwaslike/lessons-learned"
+  },
+  {
+    "description": "A Claude Code skill that makes AI-written text read as a specific, considered human voice instead of generic AI-shaped p",
+    "id": "AshwinSathian/humanize-writing-skill",
+    "language": "\u2014",
+    "name": "AshwinSathian/humanize-writing-skill",
+    "stars": 0,
+    "updated_at": "2026-08-18T00:25:49Z",
+    "url": "https://github.com/AshwinSathian/humanize-writing-skill"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-08-18T00:24:43Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 130,
+    "updated_at": "2026-08-18T00:24:42Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-18T00:24:13Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-08-18T00:23:35Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -9,15 +90,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "A Claude Code skill that makes AI-written text read as a specific, considered human voice instead of generic AI-shaped p",
-    "id": "AshwinSathian/humanize-writing-skill",
-    "language": "\u2014",
-    "name": "AshwinSathian/humanize-writing-skill",
-    "stars": 0,
-    "updated_at": "2026-08-18T00:23:32Z",
-    "url": "https://github.com/AshwinSathian/humanize-writing-skill"
-  },
-  {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
     "id": "dimitardamjan7-a11y/spec-flow-framework",
     "language": "HTML",
@@ -25,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T00:22:54Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "\u51b7\u5496\u5561 ColdBrew \u56db\u5408\u4e00\u7834\u7532\u6b63\u5f0f\u7248 \u2014 GPT-5.6 / Claude / Grok 4.6 / DeepSeek v4 Pro \u4e00\u952e\u90e8\u7f72 \u00b7 \u542f\u52a8 \u00b7 \u6062\u590d \u00b7 \u6253\u5305\u53d1\u5e03 | QQ \u7fa4 1057540028 / 10770745",
-    "id": "3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
-    "language": "Python",
-    "name": "3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
-    "stars": 5,
-    "updated_at": "2026-08-18T00:21:27Z",
-    "url": "https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro"
   },
   {
     "description": "An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C",
@@ -63,15 +126,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-18T00:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\u6bdb\u9009\u00b7\u6218\u7565\u4e0e\u77db\u76fe\u5206\u6790\uff1a\u628a\u300a\u6bdb\u6cfd\u4e1c\u9009\u96c6\u300b\u7684\u6218\u7565\u601d\u7ef4\u3001\u77db\u76fe\u5206\u6790\u6cd5\u3001\u8c03\u67e5\u7814\u7a76\u8f6c\u8bd1\u4e3a\u53ef\u76f4\u63a5\u5957\u7528\u7684\u5206\u6790\u4e0e\u6267\u884c\u6846\u67b6\uff08WorkBuddy / Claude Code \u7b49 Agent \u53ef\u52a0\u8f7d\u7684 Skill\uff09\u3002",
     "id": "LF2023/mxskill",
     "language": "\u2014",
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T00:14:29Z",
     "url": "https://github.com/LF2023/mxskill"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-08-18T00:13:01Z",
-    "url": "https://github.com/clay-good/agent-replay"
   },
   {
     "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
@@ -112,7 +157,7 @@
     "id": "pnp/copilot-prompts",
     "language": "\u2014",
     "name": "pnp/copilot-prompts",
-    "stars": 848,
+    "stars": 847,
     "updated_at": "2026-08-18T00:09:20Z",
     "url": "https://github.com/pnp/copilot-prompts"
   },
@@ -166,7 +211,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 98747,
+    "stars": 98749,
     "updated_at": "2026-08-18T00:05:53Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -306,15 +351,6 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-18T00:23:35Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-17T23:31:58Z",
     "url": "https://github.com/kimsanguine/AI_Human"
-  },
-  {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 1,
-    "updated_at": "2026-08-17T23:31:15Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "A daily news briefing where every citation is checked against the corpus it came from. Python stdlib only, no API keys.",
-    "id": "elanthus/news-briefing",
-    "language": "Python",
-    "name": "elanthus/news-briefing",
-    "stars": 1,
-    "updated_at": "2026-08-17T23:29:19Z",
-    "url": "https://github.com/elanthus/news-briefing"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-17T23:28:56Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Build, lint, render, and version ChatGPT custom instructions as structured JSON profiles.",
-    "id": "man612/chatgpt-personalization",
-    "language": "Python",
-    "name": "man612/chatgpt-personalization",
-    "stars": 1,
-    "updated_at": "2026-08-17T23:28:42Z",
-    "url": "https://github.com/man612/chatgpt-personalization"
   }
 ]
