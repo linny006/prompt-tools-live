@@ -1,5 +1,23 @@
 [
   {
+    "description": "Local-first CV scoring against explainable hiring rubrics. Runs on your machine with Ollama.",
+    "id": "taltara/HackerAgentRank",
+    "language": "Python",
+    "name": "taltara/HackerAgentRank",
+    "stars": 2,
+    "updated_at": "2026-08-18T08:59:09Z",
+    "url": "https://github.com/taltara/HackerAgentRank"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-18T08:58:54Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Agent Skills - 44 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
     "id": "bestdeejay-design/agent-skills",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 4,
     "updated_at": "2026-08-18T08:58:41Z",
     "url": "https://github.com/bestdeejay-design/agent-skills"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-18T08:58:16Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
     "stars": 1,
-    "updated_at": "2026-08-18T08:54:40Z",
+    "updated_at": "2026-08-18T08:59:42Z",
     "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
   },
   {
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-18T08:54:32Z",
+    "updated_at": "2026-08-18T08:59:38Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "himanshu231204/pro-comment",
     "stars": 2,
-    "updated_at": "2026-08-18T08:53:17Z",
+    "updated_at": "2026-08-18T08:59:37Z",
     "url": "https://github.com/himanshu231204/pro-comment"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 122,
     "updated_at": "2026-08-18T08:45:35Z",
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-18T08:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Say what the picture must contain, check that it does, and refuse when it does not. A typed contract of depictable claim",
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "xjsongphy/skills",
     "stars": 6,
-    "updated_at": "2026-08-18T08:37:21Z",
+    "updated_at": "2026-08-18T08:59:28Z",
     "url": "https://github.com/xjsongphy/skills"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 118,
     "updated_at": "2026-08-18T08:32:49Z",
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-18T08:32:18Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "\u628a\u958b\u767c\u898f\u7bc4\u5beb\u6210\u6a5f\u5668\u53ef\u8b80\u7684\u7d04\u675f\uff0c\u8b93 Claude \u81ea\u52d5\u9075\u5b88 TDD\u3001ADR\u3001commit \u9598\u9580\u8207\u767c\u5e03\u6aa2\u67e5",
-    "id": "astroicers/AI-SOP-Protocol",
-    "language": "Shell",
-    "name": "astroicers/AI-SOP-Protocol",
-    "stars": 3,
-    "updated_at": "2026-08-18T08:44:40Z",
-    "url": "https://github.com/astroicers/AI-SOP-Protocol"
   }
 ]
