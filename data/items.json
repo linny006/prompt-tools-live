@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "Three-class RoBERTa classifier that screens prompts for injection and jailbreak attempts before they reach an LLM. Ships",
+    "id": "TuskFrihida/llm-prompt-security-classifier",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-18T17:59:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "TuskFrihida/llm-prompt-security-classifier",
+    "stars": 0,
+    "updated_at": "2026-08-18T18:13:18Z",
+    "url": "https://github.com/TuskFrihida/llm-prompt-security-classifier"
+  },
+  {
+    "description": "AI session handoff manager for VS Code.",
+    "id": "Pain-Labs/Edo-Tensei",
+    "language": "TypeScript",
+    "name": "Pain-Labs/Edo-Tensei",
+    "stars": 3,
+    "updated_at": "2026-08-18T18:10:27Z",
+    "url": "https://github.com/Pain-Labs/Edo-Tensei"
   },
   {
     "description": "A minimal OpenCode environment: 21 skills, 4 read-only agents, one config file. No plugins. Deploys in one command, with",
@@ -14,8 +23,89 @@
     "language": "PowerShell",
     "name": "secondshift-dv/snails",
     "stars": 0,
-    "updated_at": "2026-08-18T17:59:26Z",
+    "updated_at": "2026-08-18T18:09:11Z",
     "url": "https://github.com/secondshift-dv/snails"
+  },
+  {
+    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing s",
+    "id": "hermes-labs-ai/lintlang",
+    "language": "Python",
+    "name": "hermes-labs-ai/lintlang",
+    "stars": 60,
+    "updated_at": "2026-08-18T18:08:09Z",
+    "url": "https://github.com/hermes-labs-ai/lintlang"
+  },
+  {
+    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
+    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "language": "TypeScript",
+    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-18T18:04:59Z",
+    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
+  },
+  {
+    "description": "vibey-skills \u2014 Claude Code plugin marketplace of 18 plugins / 71 evidence-grounded Agent Skills (security, cloud, DevSec",
+    "id": "adammatthewsteinberger/vibey-skills",
+    "language": "Python",
+    "name": "adammatthewsteinberger/vibey-skills",
+    "stars": 0,
+    "updated_at": "2026-08-18T18:04:05Z",
+    "url": "https://github.com/adammatthewsteinberger/vibey-skills"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-18T18:03:56Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "",
+    "id": "taskveda/TaskVeda-New01",
+    "language": "HTML",
+    "name": "taskveda/TaskVeda-New01",
+    "stars": 0,
+    "updated_at": "2026-08-18T18:02:50Z",
+    "url": "https://github.com/taskveda/TaskVeda-New01"
+  },
+  {
+    "description": "Grok / xAI Tools \u2013 Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi",
+    "id": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "language": "\u2014",
+    "name": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "stars": 2,
+    "updated_at": "2026-08-18T18:02:27Z",
+    "url": "https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-08-18T18:01:21Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-18T18:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-18T18:00:29Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
     "description": "An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C",
@@ -27,6 +117,15 @@
     "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
   },
   {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-08-18T17:57:29Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
     "description": "An Agent Skill for Claude Code, OpenAI Codex, and Cursor that catches hidden product decisions before coding agents sile",
     "id": "Pablo-aps/who-decided",
     "language": "JavaScript",
@@ -34,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-08-18T17:59:40Z",
     "url": "https://github.com/Pablo-aps/who-decided"
+  },
+  {
+    "description": "A structured, local-LLM-optimized framework for human-AI collaboration.",
+    "id": "middleman0/AI-Collaboration-Framework",
+    "language": "\u2014",
+    "name": "middleman0/AI-Collaboration-Framework",
+    "stars": 0,
+    "updated_at": "2026-08-18T17:56:10Z",
+    "url": "https://github.com/middleman0/AI-Collaboration-Framework"
   },
   {
     "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assis",
@@ -63,15 +171,6 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "vibey-skills \u2014 Claude Code plugin marketplace of 18 plugins / 71 evidence-grounded Agent Skills (security, cloud, DevSec",
-    "id": "adammatthewsteinberger/vibey-skills",
-    "language": "Python",
-    "name": "adammatthewsteinberger/vibey-skills",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:56:09Z",
-    "url": "https://github.com/adammatthewsteinberger/vibey-skills"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -86,7 +185,7 @@
     "language": "HTML",
     "name": "juniorbaixista4/b2b-outreach-orchestrator",
     "stars": 5,
-    "updated_at": "2026-08-18T17:48:18Z",
+    "updated_at": "2026-08-18T18:14:22Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
@@ -113,7 +212,7 @@
     "language": "HTML",
     "name": "zohaamalik/ocds-procura-semantic-nexus",
     "stars": 1,
-    "updated_at": "2026-08-18T17:46:21Z",
+    "updated_at": "2026-08-18T18:14:54Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
@@ -140,7 +239,7 @@
     "language": "HTML",
     "name": "domaingitshub/odin-mirror-scribe",
     "stars": 1,
-    "updated_at": "2026-08-18T17:46:07Z",
+    "updated_at": "2026-08-18T18:13:46Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
@@ -158,7 +257,7 @@
     "language": "HTML",
     "name": "PablitoPJ/drifter-blueprint-vault",
     "stars": 1,
-    "updated_at": "2026-08-18T17:44:47Z",
+    "updated_at": "2026-08-18T18:13:39Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
@@ -169,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T17:44:02Z",
     "url": "https://github.com/tornadobrain/tornado-ai-marketing-framework"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-18T17:43:13Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
     "description": "The foundation layer for agentic intelligence.",
@@ -198,15 +288,6 @@
     "url": "https://github.com/akenel/ground-control"
   },
   {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-18T17:40:57Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -214,24 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T17:38:34Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "AI session handoff manager for VS Code.",
-    "id": "Pain-Labs/Edo-Tensei",
-    "language": "TypeScript",
-    "name": "Pain-Labs/Edo-Tensei",
-    "stars": 3,
-    "updated_at": "2026-08-18T17:48:38Z",
-    "url": "https://github.com/Pain-Labs/Edo-Tensei"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 1,
-    "updated_at": "2026-08-18T17:57:29Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -385,68 +448,5 @@
     "stars": 118,
     "updated_at": "2026-08-18T17:24:02Z",
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:23:22Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "AI security testing \u2014 find security vulnerabilities in LLM apps, chatbots, AI agents, MCP servers, and RAG systems. Mapp",
-    "id": "YangYang-Research/yang-promptlab",
-    "language": "Rust",
-    "name": "YangYang-Research/yang-promptlab",
-    "stars": 1,
-    "updated_at": "2026-08-18T17:21:20Z",
-    "url": "https://github.com/YangYang-Research/yang-promptlab"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-18T17:21:00Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-18T17:56:28Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-18T17:20:47Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-18T17:20:32Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "AI agents worth falling in love with. Built by the community, loved by everyone.\u2764\ufe0f",
-    "id": "AditthyaSS/iloveAgents",
-    "language": "JavaScript",
-    "name": "AditthyaSS/iloveAgents",
-    "stars": 116,
-    "updated_at": "2026-08-18T17:20:18Z",
-    "url": "https://github.com/AditthyaSS/iloveAgents"
   }
 ]
