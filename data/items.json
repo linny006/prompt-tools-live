@@ -1,5 +1,23 @@
 [
   {
+    "description": "78 reusable Manus AI agent skills with automatic discovery, workflows, scripts, references, and validation\u2014maintained by",
+    "id": "TehseenTech/manus-skills",
+    "language": "Python",
+    "name": "TehseenTech/manus-skills",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:17:24Z",
+    "url": "https://github.com/TehseenTech/manus-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-18T15:15:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Claude Code Skill that turns any idea into a cinematic, model-ready video prompt \u2014 Sora \u00b7 Kling \u00b7 Veo \u00b7 Seedance. 21 gen",
     "id": "jnMetaCode/ai-shortfilm-prompts",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3496,
-    "updated_at": "2026-08-18T15:13:27Z",
+    "updated_at": "2026-08-18T15:15:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -38,7 +56,7 @@
   {
     "description": "PromptCraft Studio: Production-grade AI Prompt Engineering & Multi-LLM Agent Playground built with JavaScript & Web APIs",
     "id": "Yokaham/ai-prompt-studio",
-    "language": "\u2014",
+    "language": "JavaScript",
     "name": "Yokaham/ai-prompt-studio",
     "stars": 0,
     "updated_at": "2026-08-18T15:08:05Z",
@@ -70,6 +88,24 @@
     "stars": 5177,
     "updated_at": "2026-08-18T15:07:23Z",
     "url": "https://github.com/vllm-project/semantic-router"
+  },
+  {
+    "description": "Plumbline \u2014 a self-learning, customer-value-governed agile AI agent team for Claude Code. 87 subagents + skills, TDD def",
+    "id": "DYAI2025/Plumbline",
+    "language": "Shell",
+    "name": "DYAI2025/Plumbline",
+    "stars": 6,
+    "updated_at": "2026-08-18T15:06:28Z",
+    "url": "https://github.com/DYAI2025/Plumbline"
+  },
+  {
+    "description": "Local-first desktop app for managing, analyzing and optimizing prompt collections \u2014 offline, private, Tauri + React + Ru",
+    "id": "xxammaxx/promptvault-lite",
+    "language": "TypeScript",
+    "name": "xxammaxx/promptvault-lite",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:06:04Z",
+    "url": "https://github.com/xxammaxx/promptvault-lite"
   },
   {
     "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
@@ -187,15 +223,6 @@
     "stars": 22,
     "updated_at": "2026-08-18T15:00:54Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-18T15:00:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -338,7 +365,7 @@
     "language": "HTML",
     "name": "domaingitshub/odin-mirror-scribe",
     "stars": 1,
-    "updated_at": "2026-08-18T14:50:40Z",
+    "updated_at": "2026-08-18T15:17:17Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Rust",
     "name": "p10ns11y/collab-finder",
     "stars": 1,
-    "updated_at": "2026-08-18T15:12:19Z",
+    "updated_at": "2026-08-18T15:15:35Z",
     "url": "https://github.com/p10ns11y/collab-finder"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T14:43:52Z",
     "url": "https://github.com/regankight/llm-output-checker"
-  },
-  {
-    "description": "A collection of Python projects showcasing data analysis, automation, data visualization, machine learning, and problem-",
-    "id": "HarshalBhoir0024/Python_Projects_Repository",
-    "language": "\u2014",
-    "name": "HarshalBhoir0024/Python_Projects_Repository",
-    "stars": 2,
-    "updated_at": "2026-08-18T14:42:39Z",
-    "url": "https://github.com/HarshalBhoir0024/Python_Projects_Repository"
-  },
-  {
-    "description": "DSH plugin: host-resident scheduled-jobs \u00d7 AI-agent engine (hermes-agent cron inspired) \u2014 60s ticker fires real agent se",
-    "id": "LouisHaoL/dsh-timer-agent",
-    "language": "TypeScript",
-    "name": "LouisHaoL/dsh-timer-agent",
-    "stars": 2,
-    "updated_at": "2026-08-18T14:41:46Z",
-    "url": "https://github.com/LouisHaoL/dsh-timer-agent"
-  },
-  {
-    "description": "Open-source Claude Code skills that bring planning, building, and verification gates to agentic coding workflows.",
-    "id": "adamlinscott/claude-skills",
-    "language": "TypeScript",
-    "name": "adamlinscott/claude-skills",
-    "stars": 3,
-    "updated_at": "2026-08-18T14:40:58Z",
-    "url": "https://github.com/adamlinscott/claude-skills"
   }
 ]
