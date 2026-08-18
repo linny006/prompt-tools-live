@@ -1,5 +1,68 @@
 [
   {
+    "description": "An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C",
+    "id": "Prysai/Prysai-LLM-Playbook",
+    "language": "Python",
+    "name": "Prysai/Prysai-LLM-Playbook",
+    "stars": 20,
+    "updated_at": "2026-08-17T23:59:58Z",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-17T23:59:56Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "A curated collection of custom AgentSkills and token-saving MCP servers for extending the capabilities of AI coding assi",
+    "id": "kambleakash0/agent-skills",
+    "language": "Python",
+    "name": "kambleakash0/agent-skills",
+    "stars": 7,
+    "updated_at": "2026-08-18T00:00:24Z",
+    "url": "https://github.com/kambleakash0/agent-skills"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-08-17T23:59:10Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Agents config for development",
+    "id": "daochild/agents-config",
+    "language": "JavaScript",
+    "name": "daochild/agents-config",
+    "stars": 0,
+    "updated_at": "2026-08-17T23:58:21Z",
+    "url": "https://github.com/daochild/agents-config"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-17T23:57:56Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-17T23:55:12Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A Claude Code skill that makes AI-written text read as a specific, considered human voice instead of generic AI-shaped p",
     "id": "AshwinSathian/humanize-writing-skill",
     "language": "\u2014",
@@ -7,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-08-17T23:55:03Z",
     "url": "https://github.com/AshwinSathian/humanize-writing-skill"
+  },
+  {
+    "description": "Grok / xAI Tools \u2013 Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi",
+    "id": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "language": "\u2014",
+    "name": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "stars": 2,
+    "updated_at": "2026-08-17T23:54:56Z",
+    "url": "https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite"
   },
   {
     "description": "DeepSeek Harness DSH \u63d0\u793a\u8bcd\u589e\u5f3a\u63d2\u4ef6\uff1a\u2728 \u4e00\u952e\u4f18\u5316\u8349\u7a3f\uff0c\u589e\u5f3a\u63d0\u793a\u8bcd\u3002",
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T23:53:28Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C",
-    "id": "Prysai/Prysai-LLM-Playbook",
-    "language": "Python",
-    "name": "Prysai/Prysai-LLM-Playbook",
-    "stars": 20,
-    "updated_at": "2026-08-17T23:55:08Z",
-    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -126,15 +189,6 @@
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-08-17T23:48:24Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -151,15 +205,6 @@
     "stars": 4,
     "updated_at": "2026-08-17T23:45:55Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-17T23:45:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Playground rules for predictable AI builders: exact execution, defensive testing, debugging, alignment, and less bloat.",
@@ -187,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T23:43:09Z",
     "url": "https://github.com/Beenga/beenga-image"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-17T23:42:43Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -241,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T23:40:27Z",
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-17T23:40:10Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
     "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, safety risks, and context cost across coding agents.",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-17T23:22:35Z",
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-17T23:22:24Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "\ud83e\udde0 Biblioteca interactiva de 16 prompts profesionales listos para copiar (Comunicaci\u00f3n, An\u00e1lisis, Estudio, Datos...) + ev",
-    "id": "Punysh6r/prompt-master",
-    "language": "JavaScript",
-    "name": "Punysh6r/prompt-master",
-    "stars": 2,
-    "updated_at": "2026-08-17T23:20:05Z",
-    "url": "https://github.com/Punysh6r/prompt-master"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 118,
-    "updated_at": "2026-08-17T23:19:56Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   }
 ]
