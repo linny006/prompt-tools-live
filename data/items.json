@@ -1,5 +1,149 @@
 [
   {
+    "description": "An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C",
+    "id": "Prysai/Prysai-LLM-Playbook",
+    "language": "Python",
+    "name": "Prysai/Prysai-LLM-Playbook",
+    "stars": 25,
+    "updated_at": "2026-08-18T19:50:40Z",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 34,
+    "updated_at": "2026-08-18T19:50:01Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "This repository serves as the comprehensive workspace for Quarter 4 academic endeavors, encompassing assignments, techni",
+    "id": "DanielHashmi/Q4_learning",
+    "language": "Python",
+    "name": "DanielHashmi/Q4_learning",
+    "stars": 17,
+    "updated_at": "2026-08-18T19:49:49Z",
+    "url": "https://github.com/DanielHashmi/Q4_learning"
+  },
+  {
+    "description": "Cut the chatter. Keep the work. A measured communication policy for coding agents: \u221232% output tokens, zero lost facts.",
+    "id": "Maksim-Burtsev/simple-man",
+    "language": "Python",
+    "name": "Maksim-Burtsev/simple-man",
+    "stars": 3,
+    "updated_at": "2026-08-18T19:49:19Z",
+    "url": "https://github.com/Maksim-Burtsev/simple-man"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-18T19:48:34Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "\u955c\u9020 Image Forge: structured Codex Skill for image prompt engineering, visual specs, GPT Image 2, FLUX, Midjourney, spatia",
+    "id": "papperrollinggery/jingzao-image-forge",
+    "language": "\u2014",
+    "name": "papperrollinggery/jingzao-image-forge",
+    "stars": 0,
+    "updated_at": "2026-08-18T19:47:49Z",
+    "url": "https://github.com/papperrollinggery/jingzao-image-forge"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-18T19:46:31Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-18T19:46:30Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "A magical witch assistant equipped with an enchanted grimoire powered by AI, yet shaped by you: your agents, your prompt",
+    "id": "mdesalvo/Morgana",
+    "language": "C#",
+    "name": "mdesalvo/Morgana",
+    "stars": 9,
+    "updated_at": "2026-08-18T19:46:29Z",
+    "url": "https://github.com/mdesalvo/Morgana"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-18T19:51:47Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 186,
+    "updated_at": "2026-08-18T19:53:39Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-18T19:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-18T19:45:03Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-08-18T19:44:00Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
+    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "language": "TypeScript",
+    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-18T19:51:16Z",
+    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-08-18T19:42:46Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
     "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
     "id": "fabioc-aloha/Alex_Skill_Mall",
     "language": "Python",
@@ -18,12 +162,21 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-08-18T19:42:03Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
     "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
     "id": "rockerlabs/keel",
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-08-18T19:40:53Z",
+    "updated_at": "2026-08-18T19:53:27Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -36,31 +189,13 @@
     "url": "https://github.com/jposluns/cleanlanguage"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-18T19:39:46Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "This repository serves as the comprehensive workspace for Quarter 4 academic endeavors, encompassing assignments, techni",
-    "id": "DanielHashmi/Q4_learning",
-    "language": "Python",
-    "name": "DanielHashmi/Q4_learning",
-    "stars": 17,
-    "updated_at": "2026-08-18T19:37:21Z",
-    "url": "https://github.com/DanielHashmi/Q4_learning"
-  },
-  {
-    "description": "An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C",
-    "id": "Prysai/Prysai-LLM-Playbook",
-    "language": "Python",
-    "name": "Prysai/Prysai-LLM-Playbook",
-    "stars": 25,
-    "updated_at": "2026-08-18T19:36:53Z",
-    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+    "description": "A grounded AI content and support system for a fictional D2C brand \u2014 self-initiated demo.",
+    "id": "obolentsevB/Coalfell-AI-Content-System",
+    "language": "JavaScript",
+    "name": "obolentsevB/Coalfell-AI-Content-System",
+    "stars": 0,
+    "updated_at": "2026-08-18T19:36:48Z",
+    "url": "https://github.com/obolentsevB/Coalfell-AI-Content-System"
   },
   {
     "description": "A curated archive of 63 prompts for large language models, sorted into eleven categories and kept as plain text so nothi",
@@ -86,7 +221,7 @@
     "language": "HTML",
     "name": "dimitardamjan7-a11y/spec-flow-framework",
     "stars": 1,
-    "updated_at": "2026-08-18T19:36:34Z",
+    "updated_at": "2026-08-18T19:52:55Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
@@ -122,7 +257,7 @@
     "language": "HTML",
     "name": "PablitoPJ/drifter-blueprint-vault",
     "stars": 1,
-    "updated_at": "2026-08-18T19:33:27Z",
+    "updated_at": "2026-08-18T19:53:23Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
@@ -144,15 +279,6 @@
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
   },
   {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-08-18T19:42:03Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
     "description": "\ud83e\ude92 YAGNI enforcement at the harness level, nudges toward the simplest solution and gates against unnecessary dependencies",
     "id": "V-Songbird/razor",
     "language": "JavaScript",
@@ -167,7 +293,7 @@
     "language": "HTML",
     "name": "domaingitshub/odin-mirror-scribe",
     "stars": 1,
-    "updated_at": "2026-08-18T19:31:49Z",
+    "updated_at": "2026-08-18T19:52:00Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
@@ -225,15 +351,6 @@
     "url": "https://github.com/kaderkck/hewn-forge"
   },
   {
-    "description": "Cut the chatter. Keep the work. A measured communication policy for coding agents: \u221232% output tokens, zero lost facts.",
-    "id": "Maksim-Burtsev/simple-man",
-    "language": "Python",
-    "name": "Maksim-Burtsev/simple-man",
-    "stars": 3,
-    "updated_at": "2026-08-18T19:28:10Z",
-    "url": "https://github.com/Maksim-Burtsev/simple-man"
-  },
-  {
     "description": "Your agent reads the few skills a task needs, not forty. Picks none, one, or a small bounded set, and leaves the rest on",
     "id": "Supersynergy/agent-token-saver-skill-router",
     "language": "Python",
@@ -250,15 +367,6 @@
     "stars": 340,
     "updated_at": "2026-08-18T19:27:31Z",
     "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
-    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
-    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
-    "language": "TypeScript",
-    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-18T19:43:56Z",
-    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
   },
   {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
@@ -295,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T19:27:06Z",
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-18T19:27:00Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
     "description": "One file to start new long-horizon coding projects across context windows and sessions.",
@@ -349,104 +448,5 @@
     "stars": 241,
     "updated_at": "2026-08-18T19:22:52Z",
     "url": "https://github.com/coco-research/coco"
-  },
-  {
-    "description": "Prompt engineering workbench \u2014 Chrome extension, desktop app, and web tool",
-    "id": "DaveHomeAssist/prompt-lab",
-    "language": "HTML",
-    "name": "DaveHomeAssist/prompt-lab",
-    "stars": 2,
-    "updated_at": "2026-08-18T19:38:21Z",
-    "url": "https://github.com/DaveHomeAssist/prompt-lab"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-18T19:22:34Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-18T19:22:05Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-18T19:21:58Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-18T19:21:58Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-18T19:21:41Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
-    "id": "sachncs/promptsheon",
-    "language": "Go",
-    "name": "sachncs/promptsheon",
-    "stars": 0,
-    "updated_at": "2026-08-18T19:21:31Z",
-    "url": "https://github.com/sachncs/promptsheon"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-18T19:21:27Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-18T19:21:24Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-18T19:21:16Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-18T19:21:00Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
   }
 ]
