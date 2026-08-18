@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 19:14 UTC
+> ⏰ Last updated: 2026-08-18 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [QAInsights/prompticon-site](https://github.com/QAInsights/prompticon-site) | 0 | HTML | 2026-08-18 | App site for https://github.com/QAInsights/prompticon |
-| 2 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 0 | HTML | 2026-08-18 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
-| 3 | [vijethph/agent-kit](https://github.com/vijethph/agent-kit) | 0 | Jupyter Notebook | 2026-08-18 | Personal collection of AI agent skills, prompts, instructions, workflows, and resources |
-| 4 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 1 | HTML | 2026-08-18 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 5 | [Spielewoy/autoprompt-skill](https://github.com/Spielewoy/autoprompt-skill) | 4 | JavaScript | 2026-08-18 | Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks. |
-| 6 | [imhamzakhan/context-flow-compressor](https://github.com/imhamzakhan/context-flow-compressor) | 0 | HTML | 2026-08-18 | Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90% |
-| 7 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27567 | Python | 2026-08-18 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 8 | [coco-research/coco](https://github.com/coco-research/coco) | 241 | HTML | 2026-08-18 | Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assis |
-| 9 | [sanlee-ys/defense-news-classifier](https://github.com/sanlee-ys/defense-news-classifier) | 1 | Python | 2026-08-18 | Classifies public defense news into category, operational domain, and region. Human-graded gold at v3.2.1: 94.4% / 98.1% |
-| 10 | [Prysai/Prysai-LLM-Playbook](https://github.com/Prysai/Prysai-LLM-Playbook) | 24 | Python | 2026-08-18 | An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C |
-| 11 | [toolkitaiprompt-ui/AI-Prompt-Toolkit](https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit) | 1 | TypeScript | 2026-08-18 | 🚀 AI Prompt Toolkit — 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida |
-| 12 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-18 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 13 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-18 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 14 | [sairaman436/vybe-intelligence-vault](https://github.com/sairaman436/vybe-intelligence-vault) | 22 | JavaScript | 2026-08-18 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
-| 15 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-18 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
-| 16 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-18 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 17 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 9 | Python | 2026-08-18 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 9 | Python | 2026-08-18 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [QAInsights/prompticon-site](https://github.com/QAInsights/prompticon-site) | 0 | HTML | 2026-08-18 | App site for https://github.com/QAInsights/prompticon |
+| 3 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 0 | HTML | 2026-08-18 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
+| 4 | [vijethph/agent-kit](https://github.com/vijethph/agent-kit) | 0 | Jupyter Notebook | 2026-08-18 | Personal collection of AI agent skills, prompts, instructions, workflows, and resources |
+| 5 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 1 | HTML | 2026-08-18 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 6 | [Spielewoy/autoprompt-skill](https://github.com/Spielewoy/autoprompt-skill) | 4 | JavaScript | 2026-08-18 | Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks. |
+| 7 | [imhamzakhan/context-flow-compressor](https://github.com/imhamzakhan/context-flow-compressor) | 0 | HTML | 2026-08-18 | Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90% |
+| 8 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27567 | Python | 2026-08-18 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 9 | [coco-research/coco](https://github.com/coco-research/coco) | 241 | HTML | 2026-08-18 | Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assis |
+| 10 | [sanlee-ys/defense-news-classifier](https://github.com/sanlee-ys/defense-news-classifier) | 1 | Python | 2026-08-18 | Classifies public defense news into category, operational domain, and region. Human-graded gold at v3.2.1: 94.4% / 98.1% |
+| 11 | [Prysai/Prysai-LLM-Playbook](https://github.com/Prysai/Prysai-LLM-Playbook) | 24 | Python | 2026-08-18 | An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C |
+| 12 | [toolkitaiprompt-ui/AI-Prompt-Toolkit](https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit) | 1 | TypeScript | 2026-08-18 | 🚀 AI Prompt Toolkit — 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida |
+| 13 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-18 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 14 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-18 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 15 | [sairaman436/vybe-intelligence-vault](https://github.com/sairaman436/vybe-intelligence-vault) | 22 | JavaScript | 2026-08-18 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
+| 16 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-18 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
+| 17 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-18 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
 | 18 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-08-18 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
 | 19 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-08-18 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
 | 20 | [rockerlabs/keel](https://github.com/rockerlabs/keel) | 2 | Shell | 2026-08-18 | A thin, model-agnostic layer for what an AI agent loads, when, and how much — principles + plain-Bash tools. |
