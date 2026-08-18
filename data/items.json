@@ -1,5 +1,122 @@
 [
   {
+    "description": "Design intelligence OS for AI coding agents \u2014 one prompt in, Stripe-grade UI out.",
+    "id": "ardamoustafa1/DesignOS",
+    "language": "HTML",
+    "name": "ardamoustafa1/DesignOS",
+    "stars": 3,
+    "updated_at": "2026-08-18T12:15:19Z",
+    "url": "https://github.com/ardamoustafa1/DesignOS"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 186,
+    "updated_at": "2026-08-18T12:14:48Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff0c\u8986\u76d6\u5267\u672c\u3001\u8d44\u4ea7\u3001\u5206\u955c\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u5230\u72ec\u7acb\u5ba1\u67e5\u5168\u94fe\u8def\uff0c\u9002\u914d Claude Code \u4e0e Codex\u3002| An AI short-drama skill suite for Claude Code &",
+    "id": "worldwonderer/drama-skills",
+    "language": "Python",
+    "name": "worldwonderer/drama-skills",
+    "stars": 799,
+    "updated_at": "2026-08-18T12:14:45Z",
+    "url": "https://github.com/worldwonderer/drama-skills"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33318,
+    "updated_at": "2026-08-18T12:14:29Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Independent WinCLIP reproduction workspace for zero-shot visual anomaly detection, with near image-level reproduction an",
+    "id": "hammadhaideer/winclip-reproduced",
+    "language": "Python",
+    "name": "hammadhaideer/winclip-reproduced",
+    "stars": 0,
+    "updated_at": "2026-08-18T12:10:22Z",
+    "url": "https://github.com/hammadhaideer/winclip-reproduced"
+  },
+  {
+    "description": "kanithanj.ai \u2014 Tauri heading cockpit: live fit/prep, SQLite ledger, next-act map. v2 Linux binary on Releases.",
+    "id": "p10ns11y/collab-finder",
+    "language": "Rust",
+    "name": "p10ns11y/collab-finder",
+    "stars": 1,
+    "updated_at": "2026-08-18T12:10:22Z",
+    "url": "https://github.com/p10ns11y/collab-finder"
+  },
+  {
+    "description": "A 14-agent software company in a plugin: plan, build, and adversarially judge every change under hard budget caps. Markd",
+    "id": "xsefirosus/sefi-agents",
+    "language": "Shell",
+    "name": "xsefirosus/sefi-agents",
+    "stars": 1,
+    "updated_at": "2026-08-18T12:08:38Z",
+    "url": "https://github.com/xsefirosus/sefi-agents"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "astorie-ai/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "astorie-ai/awesome-seedance-2-prompt",
+    "stars": 11,
+    "updated_at": "2026-08-18T12:06:08Z",
+    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
+    "id": "elie222/botdirectory.ai",
+    "language": "Astro",
+    "name": "elie222/botdirectory.ai",
+    "stars": 13,
+    "updated_at": "2026-08-18T12:12:56Z",
+    "url": "https://github.com/elie222/botdirectory.ai"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-18T12:02:44Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-18T12:01:35Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-08-18T12:14:18Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-18T12:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u5982\u6765 \u00b7 rulai \u2014 \u8ba9\u4efb\u4f55 AI Agent \u7528\u4f5b\u5b66\u4f5c\u900f\u955c\uff0c\u770b\u6e05\u4efb\u4f55\u4e00\u4ef6\u4e8b\u7684\u672c\u8d28\u3002A Buddhist-framework Agent Skill.",
     "id": "TongyiDai/rulai-skill",
     "language": "\u2014",
@@ -7,6 +124,15 @@
     "stars": 1,
     "updated_at": "2026-08-18T11:59:29Z",
     "url": "https://github.com/TongyiDai/rulai-skill"
+  },
+  {
+    "description": "Grok / xAI Tools \u2013 Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi",
+    "id": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "language": "\u2014",
+    "name": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "stars": 2,
+    "updated_at": "2026-08-18T11:59:24Z",
+    "url": "https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite"
   },
   {
     "description": "\u786e\u5b9a\u6027\u6545\u4e8b\u751f\u6210\u5f15\u64ce\uff1a\u57fa\u4e8e\u56e0\u679c\u903b\u8f91\u5ba1\u8ba1\u7684\u53d9\u4e8b\u751f\u6210\u5de5\u5177\uff0c\u4fdd\u6301\u89d2\u8272\u6027\u683c\u4e0e\u5267\u60c5\u53d1\u5c55\u5b8c\u5168\u4e00\u81f4\uff0c\u5f7b\u5e95\u6d88\u9664\u903b\u8f91\u6f0f\u6d1e\u4e0e\u8bbe\u5b9a\u51b2\u7a81\uff0c\u9002\u7528\u4e8e\u6e38\u620f\u53d9\u4e8b\u3001\u5f71\u89c6\u5267\u672c\u521b\u4f5c\u3001\u4e92\u52a8\u5c0f\u8bf4\u3001IP\u5185\u5bb9\u751f\u4ea7\u3001AIGC\u5185\u5bb9\u751f\u6210\u573a\u666f\u3002",
@@ -18,6 +144,15 @@
     "url": "https://github.com/nohn3043-arch/story-engine"
   },
   {
+    "description": "Token-efficient, quality-first, spec-driven development kit for AI coding agents \u2014 progressive context, durable project ",
+    "id": "Elguajo/Progressive-Context-Kit",
+    "language": "Python",
+    "name": "Elguajo/Progressive-Context-Kit",
+    "stars": 1,
+    "updated_at": "2026-08-18T11:58:53Z",
+    "url": "https://github.com/Elguajo/Progressive-Context-Kit"
+  },
+  {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
     "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
     "language": "\u2014",
@@ -27,13 +162,13 @@
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-18T11:57:20Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-08-18T11:58:10Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -43,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T11:57:16Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33316,
-    "updated_at": "2026-08-18T12:00:19Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -115,6 +241,15 @@
     "stars": 0,
     "updated_at": "2026-08-18T11:54:35Z",
     "url": "https://github.com/Mairaarshad19/FlyRankInternship-GeneralAIFluency"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4334,
+    "updated_at": "2026-08-18T12:13:56Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "Agent Skills - 44 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
@@ -221,7 +356,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21445,
-    "updated_at": "2026-08-18T12:00:02Z",
+    "updated_at": "2026-08-18T12:12:49Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -241,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T11:45:48Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-18T11:45:35Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -288,15 +414,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Token-efficient, quality-first, spec-driven development kit for AI coding agents \u2014 progressive context, durable project ",
-    "id": "Elguajo/Progressive-Context-Kit",
-    "language": "Python",
-    "name": "Elguajo/Progressive-Context-Kit",
-    "stars": 1,
-    "updated_at": "2026-08-18T11:58:53Z",
-    "url": "https://github.com/Elguajo/Progressive-Context-Kit"
-  },
-  {
     "description": "Cross-LLM validation relay. No APIs. No payments. Copy, paste, verify.",
     "id": "InsiderCrush/debaterelay",
     "language": "\u2014",
@@ -315,24 +432,6 @@
     "url": "https://github.com/rafaelfgx/AI"
   },
   {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-18T11:41:03Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "A 14-agent software company in a plugin: plan, build, and adversarially judge every change under hard budget caps. Markd",
-    "id": "xsefirosus/sefi-agents",
-    "language": "Shell",
-    "name": "xsefirosus/sefi-agents",
-    "stars": 1,
-    "updated_at": "2026-08-18T11:40:56Z",
-    "url": "https://github.com/xsefirosus/sefi-agents"
-  },
-  {
     "description": "An AI marketing strategy skill evolved from Campaign Logic Skill, supporting marketing analysis, strategy planning, prop",
     "id": "jwbaozi/campaign-logic-skill",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 7142,
     "updated_at": "2026-08-18T11:53:19Z",
     "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Mock interviewer and interview coach skills for Trae IDE",
-    "id": "ookini-kawaii/mock-interviewer",
-    "language": "Python",
-    "name": "ookini-kawaii/mock-interviewer",
-    "stars": 0,
-    "updated_at": "2026-08-18T11:37:15Z",
-    "url": "https://github.com/ookini-kawaii/mock-interviewer"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-18T11:58:10Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
-    "id": "HIDORAKAI002/ai-workspace-archive",
-    "language": "\u2014",
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "stars": 31,
-    "updated_at": "2026-08-18T11:34:29Z",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-18T11:32:53Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Open-source core extracted and generalized from a commercial AI content platform, providing visual ontology, constraint ",
-    "id": "windforce19820520-ai/visual-ontology-constraint-engine",
-    "language": "TypeScript",
-    "name": "windforce19820520-ai/visual-ontology-constraint-engine",
-    "stars": 5,
-    "updated_at": "2026-08-18T11:32:15Z",
-    "url": "https://github.com/windforce19820520-ai/visual-ontology-constraint-engine"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-18T11:31:52Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
-    "id": "shortcuts/radin",
-    "language": "Shell",
-    "name": "shortcuts/radin",
-    "stars": 5,
-    "updated_at": "2026-08-18T11:31:32Z",
-    "url": "https://github.com/shortcuts/radin"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 122,
-    "updated_at": "2026-08-18T11:31:28Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "\ud83e\uddb8 AI \u7f16\u7a0b\u8d85\u80fd\u529b \u00b7 \u4e2d\u6587\u589e\u5f3a\u7248 \u2014 superpowers\uff08116k+ \u2b50\uff09\u5b8c\u6574\u6c49\u5316 + 6 \u4e2a\u4e2d\u56fd\u539f\u521b skills\uff0c\u8ba9 Claude Code / Copilot CLI / Hermes Agent / Cursor / Win",
-    "id": "jnMetaCode/superpowers-zh",
-    "language": "JavaScript",
-    "name": "jnMetaCode/superpowers-zh",
-    "stars": 7718,
-    "updated_at": "2026-08-18T11:30:33Z",
-    "url": "https://github.com/jnMetaCode/superpowers-zh"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 120,
-    "updated_at": "2026-08-18T11:29:31Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-18T11:29:24Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
