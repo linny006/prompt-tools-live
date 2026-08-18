@@ -1,5 +1,122 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3494,
+    "updated_at": "2026-08-18T10:59:32Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:58:04Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33313,
+    "updated_at": "2026-08-18T10:56:51Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-18T10:55:34Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Reusable AI agent skills designed by Chen Chung Nien.",
+    "id": "lloyd3126/chenchungnien-skills",
+    "language": "Python",
+    "name": "lloyd3126/chenchungnien-skills",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:55:33Z",
+    "url": "https://github.com/lloyd3126/chenchungnien-skills"
+  },
+  {
+    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
+    "id": "Sungmin-Cho/claude-deep-suite",
+    "language": "JavaScript",
+    "name": "Sungmin-Cho/claude-deep-suite",
+    "stars": 8,
+    "updated_at": "2026-08-18T10:55:04Z",
+    "url": "https://github.com/Sungmin-Cho/claude-deep-suite"
+  },
+  {
+    "description": "Python-side witness stack for the official DeepSeek Harness (Node). Five `dsh doctor --node` probes each report somethin",
+    "id": "HenryZ838978/deepseek-harness",
+    "language": "Python",
+    "name": "HenryZ838978/deepseek-harness",
+    "stars": 44,
+    "updated_at": "2026-08-18T10:54:59Z",
+    "url": "https://github.com/HenryZ838978/deepseek-harness"
+  },
+  {
+    "description": "Token-efficient, quality-first, spec-driven development kit for AI coding agents \u2014 progressive context, durable project ",
+    "id": "Elguajo/Progressive-Context-Kit",
+    "language": "Python",
+    "name": "Elguajo/Progressive-Context-Kit",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:56:04Z",
+    "url": "https://github.com/Elguajo/Progressive-Context-Kit"
+  },
+  {
+    "description": "Phase-gated Antigravity workflow for AI coding agents: ChatGPT Companion \u2192 one-phase execution \u2192 evidence-based SHIP/NO-",
+    "id": "0xAgentive/agentic-pipeline",
+    "language": "PowerShell",
+    "name": "0xAgentive/agentic-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:54:00Z",
+    "url": "https://github.com/0xAgentive/agentic-pipeline"
+  },
+  {
+    "description": "Portable AI coding-agent skills for source-attributed, human-approved context packages.",
+    "id": "linkpranay-ai/context-engineering-protocol",
+    "language": "Python",
+    "name": "linkpranay-ai/context-engineering-protocol",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:52:55Z",
+    "url": "https://github.com/linkpranay-ai/context-engineering-protocol"
+  },
+  {
+    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
+    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "language": "TypeScript",
+    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:52:28Z",
+    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-18T10:51:45Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:51:22Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
     "description": "Open-source core extracted and generalized from a commercial AI content platform, providing visual ontology, constraint ",
     "id": "windforce19820520-ai/visual-ontology-constraint-engine",
     "language": "TypeScript",
@@ -16,6 +133,15 @@
     "stars": 2,
     "updated_at": "2026-08-18T10:50:50Z",
     "url": "https://github.com/escoffier-labs/bootstrap-doctor"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-18T10:50:22Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -72,15 +198,6 @@
     "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33313,
-    "updated_at": "2026-08-18T10:48:23Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\u89c6\u89c9\u63d0\u793a\u8bcd\u56fe\u5e93 \u00b7 Visual Prompt Atlas \u2014 9 \u69fd\u4f4d\u539f\u5b50\u8bcd\u5e93 + \u63d0\u793a\u8bcd\u4f53\u68c0\u4eea",
     "id": "f8wco/prompt-atlas",
     "language": "JavaScript",
@@ -117,15 +234,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3494,
-    "updated_at": "2026-08-18T10:51:33Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
     "id": "shortcuts/radin",
     "language": "Shell",
@@ -142,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T10:45:40Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-18T10:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Your AI marketing team for B2B SaaS: 70 specialist marketing agents and 19 installable Claude Code skills \u2014 SEO/AEO/GEO,",
@@ -230,17 +329,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21445,
-    "updated_at": "2026-08-18T10:48:15Z",
+    "updated_at": "2026-08-18T10:59:04Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Phase-gated Antigravity workflow for AI coding agents: ChatGPT Companion \u2192 one-phase execution \u2192 evidence-based SHIP/NO-",
-    "id": "0xAgentive/agentic-pipeline",
-    "language": "PowerShell",
-    "name": "0xAgentive/agentic-pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:39:35Z",
-    "url": "https://github.com/0xAgentive/agentic-pipeline"
   },
   {
     "description": "A safe, native prompt polishing plugin for DeepSeek Harness",
@@ -333,15 +423,6 @@
     "url": "https://github.com/kaderkck/hewn-forge"
   },
   {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-18T10:29:53Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
     "description": "\u628a\u958b\u767c\u898f\u7bc4\u5beb\u6210\u6a5f\u5668\u53ef\u8b80\u7684\u7d04\u675f\uff0c\u8b93 Claude \u81ea\u52d5\u9075\u5b88 TDD\u3001ADR\u3001commit \u9598\u9580\u8207\u767c\u5e03\u6aa2\u67e5",
     "id": "astroicers/AI-SOP-Protocol",
     "language": "Shell",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T10:28:12Z",
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-08-18T10:28:11Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-08-18T10:28:09Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Token-efficient, quality-first, spec-driven development kit for AI coding agents \u2014 progressive context, durable project ",
-    "id": "Elguajo/Progressive-Context-Kit",
-    "language": "Python",
-    "name": "Elguajo/Progressive-Context-Kit",
-    "stars": 1,
-    "updated_at": "2026-08-18T10:51:36Z",
-    "url": "https://github.com/Elguajo/Progressive-Context-Kit"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-18T10:27:48Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Executable-only Windows distribution for FLOW Prompt Atelier. Core source and development files are private.",
-    "id": "AnshuMourya-Bot/FLOW-Prompt-Atelier",
-    "language": "\u2014",
-    "name": "AnshuMourya-Bot/FLOW-Prompt-Atelier",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:26:18Z",
-    "url": "https://github.com/AnshuMourya-Bot/FLOW-Prompt-Atelier"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 7143,
-    "updated_at": "2026-08-18T10:49:43Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Ingest documents, generate verifiable summaries, and catch AI hallucinations.",
-    "id": "Exciting-nakedmolerat17/IngestReasonCreate",
-    "language": "Python",
-    "name": "Exciting-nakedmolerat17/IngestReasonCreate",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:25:58Z",
-    "url": "https://github.com/Exciting-nakedmolerat17/IngestReasonCreate"
-  },
-  {
-    "description": "The local control plane for long-running AI agent work.",
-    "id": "inionrhinocerotidae914/loopx",
-    "language": "\u2014",
-    "name": "inionrhinocerotidae914/loopx",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:25:56Z",
-    "url": "https://github.com/inionrhinocerotidae914/loopx"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 118,
-    "updated_at": "2026-08-18T10:25:01Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   }
 ]
