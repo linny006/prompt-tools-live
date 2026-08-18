@@ -1,10 +1,46 @@
 [
   {
+    "description": "A multi-agent executive assistant running entirely on a local Qwen3 - hand-written agent loop, hybrid RAG (BM25 + RRF + ",
+    "id": "11Falcon/local-agentic-assistant",
+    "language": "Python",
+    "name": "11Falcon/local-agentic-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-18T14:46:41Z",
+    "url": "https://github.com/11Falcon/local-agentic-assistant"
+  },
+  {
+    "description": "Interactive 3D Lahiri-sidereal Jyotish visualizer built with Next.js, TypeScript, Three.js, explainable transits, and an",
+    "id": "diprajkadlag/VedicAstrologer",
+    "language": "TypeScript",
+    "name": "diprajkadlag/VedicAstrologer",
+    "stars": 0,
+    "updated_at": "2026-08-18T14:46:23Z",
+    "url": "https://github.com/diprajkadlag/VedicAstrologer"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-18T14:46:12Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-18T14:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u26a1 The Universal Package Manager & Registry for AI Coding Agents (Claude Code, OpenCode, Cursor, Windsurf, RooCode, Copil",
     "id": "Blazkojj/skillhub",
     "language": "JavaScript",
     "name": "Blazkojj/skillhub",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-18T14:44:40Z",
     "url": "https://github.com/Blazkojj/skillhub"
   },
@@ -23,7 +59,7 @@
     "language": "Astro",
     "name": "elie222/botdirectory.ai",
     "stars": 14,
-    "updated_at": "2026-08-18T14:42:28Z",
+    "updated_at": "2026-08-18T14:46:31Z",
     "url": "https://github.com/elie222/botdirectory.ai"
   },
   {
@@ -34,6 +70,24 @@
     "stars": 2,
     "updated_at": "2026-08-18T14:41:46Z",
     "url": "https://github.com/LouisHaoL/dsh-timer-agent"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-08-18T14:41:16Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "\u793e\u533a\u5171\u5efa\u7684 DSH\uff08DeepSeek Harness\uff09\u4e13\u5bb6/\u4e13\u5bb6\u56e2\u7cbe\u9009\u4e0e\u8d21\u732e\u4ed3\u5e93\uff1aMarkdown+manifest \u5b9a\u4e49\u4e13\u5bb6\uff0c\u626b\u63cf\u5668\u81ea\u52a8\u751f\u6210\u76ee\u5f55\uff0c\u672a\u6765\u4ee5 DSH \u63d2\u4ef6\u5f62\u5f0f\u96c6\u6210\u3002",
+    "id": "fuchao2pku/awesome-dsh-experts",
+    "language": "JavaScript",
+    "name": "fuchao2pku/awesome-dsh-experts",
+    "stars": 0,
+    "updated_at": "2026-08-18T14:40:54Z",
+    "url": "https://github.com/fuchao2pku/awesome-dsh-experts"
   },
   {
     "description": "Open-source Claude Code skills that bring planning, building, and verification gates to agentic coding workflows.",
@@ -59,7 +113,7 @@
     "language": "Shell",
     "name": "Nova-Violet-Role/RoT-MoE",
     "stars": 2,
-    "updated_at": "2026-08-18T14:37:21Z",
+    "updated_at": "2026-08-18T14:47:21Z",
     "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
   },
   {
@@ -171,15 +225,6 @@
     "url": "https://github.com/wshobson/agents"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-18T14:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
     "id": "vikashjeyaraman/opencouncil-contract-inspector",
     "language": "HTML",
@@ -266,7 +311,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3496,
-    "updated_at": "2026-08-18T14:44:17Z",
+    "updated_at": "2026-08-18T14:46:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 66756,
     "updated_at": "2026-08-18T14:18:33Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-18T14:17:40Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-08-18T14:41:16Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
-    "description": " A DeepSeek Harness (dsh) agent preset for making large engineering tasks deliberate, integrated, and verifiable from th",
-    "id": "Soulize/hard-flash",
-    "language": "JavaScript",
-    "name": "Soulize/hard-flash",
-    "stars": 1,
-    "updated_at": "2026-08-18T14:15:09Z",
-    "url": "https://github.com/Soulize/hard-flash"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33327,
-    "updated_at": "2026-08-18T14:45:10Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude.",
-    "id": "revenantworks/claude-skills",
-    "language": "Python",
-    "name": "revenantworks/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-08-18T14:11:51Z",
-    "url": "https://github.com/revenantworks/claude-skills"
   }
 ]
