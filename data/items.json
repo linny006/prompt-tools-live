@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-19T20:59:41Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 66890,
-    "updated_at": "2026-08-19T20:58:23Z",
+    "updated_at": "2026-08-19T20:59:54Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3497,
-    "updated_at": "2026-08-19T20:58:16Z",
+    "updated_at": "2026-08-19T21:00:30Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33396,
-    "updated_at": "2026-08-19T20:52:46Z",
+    "updated_at": "2026-08-19T20:59:43Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -160,15 +169,6 @@
     "stars": 5,
     "updated_at": "2026-08-19T20:45:31Z",
     "url": "https://github.com/ReidenXerx/bearing"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-19T20:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
@@ -418,7 +418,7 @@
     "id": "Spielewoy/autoprompt-skill",
     "language": "JavaScript",
     "name": "Spielewoy/autoprompt-skill",
-    "stars": 256,
+    "stars": 257,
     "updated_at": "2026-08-19T20:24:26Z",
     "url": "https://github.com/Spielewoy/autoprompt-skill"
   },
