@@ -1,5 +1,50 @@
 [
   {
+    "description": "\"Zero-overhead Encoding Object Notation. A format tailor-made for hyper-efficient communication with Artificial Intellig",
+    "id": "Fallen-sch/ZEON",
+    "language": "Python",
+    "name": "Fallen-sch/ZEON",
+    "stars": 1,
+    "updated_at": "2026-08-19T14:47:55Z",
+    "url": "https://github.com/Fallen-sch/ZEON"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-08-19T14:46:58Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Build agent skills that demonstrably change behaviour: a linter that rejects skills that cannot work, a scaffold that pa",
+    "id": "daronthedragon/skillsmith",
+    "language": "TypeScript",
+    "name": "daronthedragon/skillsmith",
+    "stars": 0,
+    "updated_at": "2026-08-19T14:46:40Z",
+    "url": "https://github.com/daronthedragon/skillsmith"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-19T14:46:21Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-19T14:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Turn Claude Code into a team that has to prove it. 44 skills, 8 review agents, a validation router and a knowledge layer",
     "id": "everywan-dev/claude-code-engineering",
     "language": "Python",
@@ -7,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-08-19T14:42:38Z",
     "url": "https://github.com/everywan-dev/claude-code-engineering"
+  },
+  {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "TypeScript",
+    "name": "sachncs/promptsheon",
+    "stars": 0,
+    "updated_at": "2026-08-19T14:42:23Z",
+    "url": "https://github.com/sachncs/promptsheon"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33385,
-    "updated_at": "2026-08-19T14:42:19Z",
+    "updated_at": "2026-08-19T14:46:40Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
     "stars": 43018,
-    "updated_at": "2026-08-19T14:36:31Z",
+    "updated_at": "2026-08-19T14:46:08Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "timharris707/skills",
     "stars": 0,
-    "updated_at": "2026-08-19T14:43:45Z",
+    "updated_at": "2026-08-19T14:48:25Z",
     "url": "https://github.com/timharris707/skills"
   },
   {
@@ -52,6 +106,24 @@
     "stars": 1,
     "updated_at": "2026-08-19T14:33:15Z",
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
+  },
+  {
+    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
+    "id": "SHENG5411/grimoire-of-tools",
+    "language": "HTML",
+    "name": "SHENG5411/grimoire-of-tools",
+    "stars": 2,
+    "updated_at": "2026-08-19T14:33:13Z",
+    "url": "https://github.com/SHENG5411/grimoire-of-tools"
+  },
+  {
+    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
+    "id": "Asir11/langgraph-agentic-workflows-tutorial",
+    "language": "HTML",
+    "name": "Asir11/langgraph-agentic-workflows-tutorial",
+    "stars": 0,
+    "updated_at": "2026-08-19T14:33:09Z",
+    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   },
   {
     "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
@@ -67,7 +139,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 99163,
+    "stars": 99164,
     "updated_at": "2026-08-19T14:30:56Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -79,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T14:30:35Z",
     "url": "https://github.com/criger/Agentic-Ground-Rules"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-19T14:30:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -133,6 +196,15 @@
     "stars": 3,
     "updated_at": "2026-08-19T14:27:03Z",
     "url": "https://github.com/Maksim-Burtsev/simple-man"
+  },
+  {
+    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
+    "id": "5uprem4/ai-skill-vault",
+    "language": "HTML",
+    "name": "5uprem4/ai-skill-vault",
+    "stars": 3,
+    "updated_at": "2026-08-19T14:26:55Z",
+    "url": "https://github.com/5uprem4/ai-skill-vault"
   },
   {
     "description": "Recursive multipath reasoning for LLMs: independent reconstruction, admissibility, provenance, false-attractor resistanc",
@@ -185,7 +257,7 @@
     "language": "Python",
     "name": "akshayballal95/grug",
     "stars": 0,
-    "updated_at": "2026-08-19T14:25:02Z",
+    "updated_at": "2026-08-19T14:47:04Z",
     "url": "https://github.com/akshayballal95/grug"
   },
   {
@@ -297,6 +369,15 @@
     "url": "https://github.com/Mr-Salticidae/knowledge-base"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11111,
+    "updated_at": "2026-08-19T14:21:58Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
     "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
     "language": "HTML",
@@ -347,7 +428,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-19T14:38:19Z",
+    "updated_at": "2026-08-19T14:45:35Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 21,
     "updated_at": "2026-08-19T14:17:24Z",
     "url": "https://github.com/aidyou/chatspeed"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-19T14:17:23Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Free self-paced course on building AI agents. 26 modules across 7 zones, one HTML file, no build step",
-    "id": "abimangku/agent-academy",
-    "language": "HTML",
-    "name": "abimangku/agent-academy",
-    "stars": 0,
-    "updated_at": "2026-08-19T14:16:03Z",
-    "url": "https://github.com/abimangku/agent-academy"
-  },
-  {
-    "description": "GitHub Copilot custom instructions and on-demand skills for Python, PySpark, pandas, and TensorFlow \u2014 coding conventions",
-    "id": "mabrosim/aet-content-pack",
-    "language": "\u2014",
-    "name": "mabrosim/aet-content-pack",
-    "stars": 0,
-    "updated_at": "2026-08-19T14:15:17Z",
-    "url": "https://github.com/mabrosim/aet-content-pack"
-  },
-  {
-    "description": "\ud83e\udd16 AI Agent Skill for Automatically Reorganizing & Cleaning GitHub Repositories based on Audience & Use-Case (Paper Relea",
-    "id": "angelazu-builder/repo-organizer-skill",
-    "language": "Python",
-    "name": "angelazu-builder/repo-organizer-skill",
-    "stars": 0,
-    "updated_at": "2026-08-19T14:15:13Z",
-    "url": "https://github.com/angelazu-builder/repo-organizer-skill"
-  },
-  {
-    "description": "A narrative layer that makes the people, communities and lived experience behind AI-generated knowledge visible again.",
-    "id": "maxeffapp/human-trace",
-    "language": "TypeScript",
-    "name": "maxeffapp/human-trace",
-    "stars": 0,
-    "updated_at": "2026-08-19T14:14:14Z",
-    "url": "https://github.com/maxeffapp/human-trace"
-  },
-  {
-    "description": "Bild-Prompts f\u00fcr Lehre und OER gestalterisch pr\u00e4zise planen.",
-    "id": "HalloJohannes/BITTE-STIL-Baukasten",
-    "language": "HTML",
-    "name": "HalloJohannes/BITTE-STIL-Baukasten",
-    "stars": 0,
-    "updated_at": "2026-08-19T14:09:23Z",
-    "url": "https://github.com/HalloJohannes/BITTE-STIL-Baukasten"
-  },
-  {
-    "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
-    "id": "jiabaobei/skills-constitution",
-    "language": "Python",
-    "name": "jiabaobei/skills-constitution",
-    "stars": 95,
-    "updated_at": "2026-08-19T14:09:00Z",
-    "url": "https://github.com/jiabaobei/skills-constitution"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 0,
-    "updated_at": "2026-08-19T14:08:37Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-19T14:08:35Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   }
 ]
