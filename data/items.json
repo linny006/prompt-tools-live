@@ -1,5 +1,158 @@
 [
   {
+    "description": "Say what the picture must contain, check that it does, and refuse when it does not. A typed contract of depictable claim",
+    "id": "mcp-tool-shop-org/prompt-craft",
+    "language": "Python",
+    "name": "mcp-tool-shop-org/prompt-craft",
+    "stars": 0,
+    "updated_at": "2026-08-19T01:14:31Z",
+    "url": "https://github.com/mcp-tool-shop-org/prompt-craft"
+  },
+  {
+    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
+    "id": "Asir11/langgraph-agentic-workflows-tutorial",
+    "language": "HTML",
+    "name": "Asir11/langgraph-agentic-workflows-tutorial",
+    "stars": 0,
+    "updated_at": "2026-08-19T01:14:27Z",
+    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
+  },
+  {
+    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
+    "id": "luongs3/skill-atlas",
+    "language": "Python",
+    "name": "luongs3/skill-atlas",
+    "stars": 0,
+    "updated_at": "2026-08-19T01:13:50Z",
+    "url": "https://github.com/luongs3/skill-atlas"
+  },
+  {
+    "description": "Multi-agent deliberation for Claude Code. Three branches of government with separate mandates, an independent Audit Offi",
+    "id": "Caleb-Boddington/quorum",
+    "language": "HTML",
+    "name": "Caleb-Boddington/quorum",
+    "stars": 0,
+    "updated_at": "2026-08-19T01:12:50Z",
+    "url": "https://github.com/Caleb-Boddington/quorum"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-08-19T01:11:59Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Model-agnostic autonomous coding agent engine with Claude Code capabilities, subagents, and an 18-target cross-agent SSO",
+    "id": "ucsandman/agnostic-harness",
+    "language": "JavaScript",
+    "name": "ucsandman/agnostic-harness",
+    "stars": 1,
+    "updated_at": "2026-08-19T01:11:49Z",
+    "url": "https://github.com/ucsandman/agnostic-harness"
+  },
+  {
+    "description": "Rules your coding agent physically cannot ignore. Claude Code hooks that DENY the tool call and BLOCK the reply - stoppi",
+    "id": "skymanbp/cc-enforcer",
+    "language": "Python",
+    "name": "skymanbp/cc-enforcer",
+    "stars": 4,
+    "updated_at": "2026-08-19T01:10:45Z",
+    "url": "https://github.com/skymanbp/cc-enforcer"
+  },
+  {
+    "description": "Context-lifecycle handler for coding agents: counters, cadenced re-injection, prime sections",
+    "id": "cjohnhanson/gaff",
+    "language": "Rust",
+    "name": "cjohnhanson/gaff",
+    "stars": 0,
+    "updated_at": "2026-08-19T01:09:24Z",
+    "url": "https://github.com/cjohnhanson/gaff"
+  },
+  {
+    "description": "Plugin-native baseline brain for Alex ACT, with critical-thinking instructions, reusable agent skills, prompts, and tool",
+    "id": "fabioc-aloha/Alex_ACT_Core",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_ACT_Core",
+    "stars": 0,
+    "updated_at": "2026-08-19T01:08:30Z",
+    "url": "https://github.com/fabioc-aloha/Alex_ACT_Core"
+  },
+  {
+    "description": "B2B \u590d\u6742\u9500\u552e\u7684\u552e\u524d AI \u5de5\u4f5c\u6d41\uff1a\u5ba2\u6237\u7814\u5224\u3001\u9700\u6c42\u5047\u8bbe\u3001\u7ade\u54c1\u5bf9\u7167\u3001\u5206\u89d2\u8272\u62dc\u8bbf\u65b9\u6848\u3002\u542b\u884c\u4e1a\u5305\u673a\u5236\u4e0e\u5b8c\u6574\u793a\u4f8b\u3002",
+    "id": "tanchunzhuo/b2b-presales-workflow",
+    "language": "Shell",
+    "name": "tanchunzhuo/b2b-presales-workflow",
+    "stars": 1,
+    "updated_at": "2026-08-19T01:05:57Z",
+    "url": "https://github.com/tanchunzhuo/b2b-presales-workflow"
+  },
+  {
+    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude.",
+    "id": "revenantworks/claude-skills",
+    "language": "Python",
+    "name": "revenantworks/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-08-19T01:05:40Z",
+    "url": "https://github.com/revenantworks/claude-skills"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 118,
+    "updated_at": "2026-08-19T01:04:37Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "AgentLens \u2014 Observability and Explainability for AI Agents",
+    "id": "sauravbhattacharya001/agentlens",
+    "language": "JavaScript",
+    "name": "sauravbhattacharya001/agentlens",
+    "stars": 3,
+    "updated_at": "2026-08-19T01:04:27Z",
+    "url": "https://github.com/sauravbhattacharya001/agentlens"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-08-19T01:03:08Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "Build-A-Prompt \u2014 a single-file, browser-only prompt builder that keeps the guardrails on: pick a role, subject, style, a",
+    "id": "advokat-frida/build-a-prompt",
+    "language": "HTML",
+    "name": "advokat-frida/build-a-prompt",
+    "stars": 0,
+    "updated_at": "2026-08-19T01:02:14Z",
+    "url": "https://github.com/advokat-frida/build-a-prompt"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-19T01:00:31Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-19T01:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Reusable AI agent skills designed by Chen Chung Nien.",
     "id": "lloyd3126/chenchungnien-skills",
     "language": "Python",
@@ -63,42 +216,6 @@
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   },
   {
-    "description": "Say what the picture must contain, check that it does, and refuse when it does not. A typed contract of depictable claim",
-    "id": "mcp-tool-shop-org/prompt-craft",
-    "language": "Python",
-    "name": "mcp-tool-shop-org/prompt-craft",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:53:36Z",
-    "url": "https://github.com/mcp-tool-shop-org/prompt-craft"
-  },
-  {
-    "description": "Model-agnostic autonomous coding agent engine with Claude Code capabilities, subagents, and an 18-target cross-agent SSO",
-    "id": "ucsandman/agnostic-harness",
-    "language": "JavaScript",
-    "name": "ucsandman/agnostic-harness",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:53:33Z",
-    "url": "https://github.com/ucsandman/agnostic-harness"
-  },
-  {
-    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude.",
-    "id": "revenantworks/claude-skills",
-    "language": "Python",
-    "name": "revenantworks/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:53:23Z",
-    "url": "https://github.com/revenantworks/claude-skills"
-  },
-  {
-    "description": "Multi-agent deliberation for Claude Code. Three branches of government with separate mandates, an independent Audit Offi",
-    "id": "Caleb-Boddington/quorum",
-    "language": "HTML",
-    "name": "Caleb-Boddington/quorum",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:52:58Z",
-    "url": "https://github.com/Caleb-Boddington/quorum"
-  },
-  {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
     "id": "teguhimanulloh47/pirate-talk-for-claude",
     "language": "HTML",
@@ -115,6 +232,15 @@
     "stars": 1,
     "updated_at": "2026-08-19T00:52:14Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21452,
+    "updated_at": "2026-08-19T00:49:37Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -178,15 +304,6 @@
     "stars": 4,
     "updated_at": "2026-08-19T00:46:05Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-19T00:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
@@ -265,7 +382,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 9352,
+    "stars": 9353,
     "updated_at": "2026-08-19T00:36:30Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T00:34:37Z",
     "url": "https://github.com/DSeaStar/awesome-kling"
-  },
-  {
-    "description": "Streamline complex research projects using ChatGPT and Codex with this practical toolkit for physicists and mathematicia",
-    "id": "antiamerican-postponer432/chatgpt-for-researchers",
-    "language": "Python",
-    "name": "antiamerican-postponer432/chatgpt-for-researchers",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:34:19Z",
-    "url": "https://github.com/antiamerican-postponer432/chatgpt-for-researchers"
-  },
-  {
-    "description": "Manage your AI assistant memory with a local file system of markdown files that your AI reads before each chat session t",
-    "id": "interbankloansenega594/Context_OS",
-    "language": "\u2014",
-    "name": "interbankloansenega594/Context_OS",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:34:09Z",
-    "url": "https://github.com/interbankloansenega594/Context_OS"
-  },
-  {
-    "description": "Build, run, and monitor reusable agent graphs with this open-source dynamic workflow runtime.",
-    "id": "Prosy4967/deer-workflow",
-    "language": "TypeScript",
-    "name": "Prosy4967/deer-workflow",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:34:08Z",
-    "url": "https://github.com/Prosy4967/deer-workflow"
-  },
-  {
-    "description": "Generate unique compositions of smooth closed bezier curves using random colors and seed-based patterns.",
-    "id": "Bessbuggy762/Bezier-1-Generative-Art",
-    "language": "HTML",
-    "name": "Bessbuggy762/Bezier-1-Generative-Art",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:33:57Z",
-    "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 54,
-    "updated_at": "2026-08-19T00:32:07Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "\ud83d\ude80 The largest downloadable GPT Image 2 prompt library \u2014 15,672 prompts and growing, daily updates with HuggingFace datas",
-    "id": "goku-open/awesome-gpt-image-2-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-gpt-image-2-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:31:45Z",
-    "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-08-19T00:29:26Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Rules your coding agent physically cannot ignore. Claude Code hooks that DENY the tool call and BLOCK the reply - stoppi",
-    "id": "skymanbp/cc-enforcer",
-    "language": "Python",
-    "name": "skymanbp/cc-enforcer",
-    "stars": 4,
-    "updated_at": "2026-08-19T00:29:25Z",
-    "url": "https://github.com/skymanbp/cc-enforcer"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:29:16Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:29:02Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-08-19T00:28:33Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:28:08Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 24,
-    "updated_at": "2026-08-19T00:28:07Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   }
 ]
