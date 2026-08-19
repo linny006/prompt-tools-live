@@ -1,5 +1,23 @@
 [
   {
+    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-08-19T10:43:40Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-19T10:43:00Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff0c\u8986\u76d6\u5267\u672c\u3001\u8d44\u4ea7\u3001\u5206\u955c\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u5230\u72ec\u7acb\u5ba1\u67e5\u5168\u94fe\u8def\uff0c\u9002\u914d Claude Code \u4e0e Codex\u3002| An AI short-drama skill suite for Claude Code &",
     "id": "worldwonderer/drama-skills",
     "language": "Python",
@@ -18,13 +36,13 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 2,
-    "updated_at": "2026-08-19T10:41:04Z",
-    "url": "https://github.com/nikolay-e/diffctx"
+    "description": "A narrative layer that makes the people, communities and lived experience behind AI-generated knowledge visible again.",
+    "id": "maxeffapp/human-trace",
+    "language": "\u2014",
+    "name": "maxeffapp/human-trace",
+    "stars": 0,
+    "updated_at": "2026-08-19T10:41:08Z",
+    "url": "https://github.com/maxeffapp/human-trace"
   },
   {
     "description": "Voice-first input for AI coding on macOS \u2014 push-to-talk, local transcription, LLM prompt refinement, auto-injection into",
@@ -43,6 +61,15 @@
     "stars": 6,
     "updated_at": "2026-08-19T10:40:16Z",
     "url": "https://github.com/rynald0cst0ltziam/Warden-AI"
+  },
+  {
+    "description": "Build agent skills that demonstrably change behaviour: a linter that rejects skills that cannot work, a scaffold that pa",
+    "id": "daronthedragon/skillsmith",
+    "language": "TypeScript",
+    "name": "daronthedragon/skillsmith",
+    "stars": 0,
+    "updated_at": "2026-08-19T10:40:06Z",
+    "url": "https://github.com/daronthedragon/skillsmith"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21465,
-    "updated_at": "2026-08-19T10:37:39Z",
+    "updated_at": "2026-08-19T10:44:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -171,15 +198,6 @@
     "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
-    "description": "Build agent skills that demonstrably change behaviour: a linter that rejects skills that cannot work, a scaffold that pa",
-    "id": "daronthedragon/skillsmith",
-    "language": "TypeScript",
-    "name": "daronthedragon/skillsmith",
-    "stars": 0,
-    "updated_at": "2026-08-19T10:40:06Z",
-    "url": "https://github.com/daronthedragon/skillsmith"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -250,15 +268,6 @@
     "stars": 7,
     "updated_at": "2026-08-19T10:30:39Z",
     "url": "https://github.com/utk2103/Prompt-Studio"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-19T10:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Multi-platform AI assistant skills and workflows. Serious engineering. Also fun.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-19T10:20:06Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-19T10:19:59Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
   }
 ]
