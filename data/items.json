@@ -1,11 +1,110 @@
 [
   {
+    "description": "Personality\u2011evaluation plugin for DeepSeek\u2011Harness, inject system prompt",
+    "id": "byjj-wa/dsh-personality-analyst",
+    "language": "JavaScript",
+    "name": "byjj-wa/dsh-personality-analyst",
+    "stars": 0,
+    "updated_at": "2026-08-19T05:13:06Z",
+    "url": "https://github.com/byjj-wa/dsh-personality-analyst"
+  },
+  {
+    "description": "Traceable, verifiable multi-agent software maintenance role prompts | \u53ef\u8ffd\u8e2a\u3001\u53ef\u9a8c\u6536\u7684\u591a Agent \u5f00\u53d1\u89d2\u8272\u63d0\u793a\u8bcd",
+    "id": "wxy-time/agent-role-prompts",
+    "language": "Shell",
+    "name": "wxy-time/agent-role-prompts",
+    "stars": 1,
+    "updated_at": "2026-08-19T05:11:10Z",
+    "url": "https://github.com/wxy-time/agent-role-prompts"
+  },
+  {
+    "description": "Rules your coding agent physically cannot ignore. Claude Code hooks that DENY the tool call and BLOCK the reply - stoppi",
+    "id": "skymanbp/cc-enforcer",
+    "language": "Python",
+    "name": "skymanbp/cc-enforcer",
+    "stars": 4,
+    "updated_at": "2026-08-19T05:07:41Z",
+    "url": "https://github.com/skymanbp/cc-enforcer"
+  },
+  {
+    "description": "Verified Agent Skills registry for Codex and Claude Code: curated installs, provenance, license checks, reproducible evi",
+    "id": "userInner/SKILLS",
+    "language": "Python",
+    "name": "userInner/SKILLS",
+    "stars": 3,
+    "updated_at": "2026-08-19T05:07:26Z",
+    "url": "https://github.com/userInner/SKILLS"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-08-19T05:05:42Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Grok / xAI Tools \u2013 Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi",
+    "id": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "language": "\u2014",
+    "name": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "stars": 2,
+    "updated_at": "2026-08-19T05:05:25Z",
+    "url": "https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-19T05:05:09Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Bilingual, searchable radar for useful open-source AIGC creative tools.",
+    "id": "kwokwile/awesome-aigc-tools",
+    "language": "TypeScript",
+    "name": "kwokwile/awesome-aigc-tools",
+    "stars": 2,
+    "updated_at": "2026-08-19T05:03:29Z",
+    "url": "https://github.com/kwokwile/awesome-aigc-tools"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
+    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
+    "language": "Python",
+    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
+    "stars": 0,
+    "updated_at": "2026-08-19T05:02:35Z",
+    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
+  },
+  {
+    "description": "Local-first golden-file snapshot testing for prompts, skills, and agent instruction packs.",
+    "id": "rogerchappel/promptsnap",
+    "language": "TypeScript",
+    "name": "rogerchappel/promptsnap",
+    "stars": 0,
+    "updated_at": "2026-08-19T05:02:14Z",
+    "url": "https://github.com/rogerchappel/promptsnap"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-19T05:00:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
     "id": "lizhuojunx86/traceguard",
     "language": "Python",
     "name": "lizhuojunx86/traceguard",
     "stars": 2,
-    "updated_at": "2026-08-19T04:58:55Z",
+    "updated_at": "2026-08-19T05:08:49Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
@@ -18,13 +117,13 @@
     "url": "https://github.com/majoie02/agent-contract-nexus"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-19T04:57:22Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "headroomlabs-ai/headroom",
+    "stars": 66817,
+    "updated_at": "2026-08-19T04:57:15Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Production-grade Agent Skills for AI coding agents\u2014composable workflows for planning, TDD, debugging, review, UI/UX, rel",
@@ -108,15 +207,6 @@
     "url": "https://github.com/lulin70/carrymem"
   },
   {
-    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
-    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "language": "Python",
-    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0",
-    "stars": 0,
-    "updated_at": "2026-08-19T04:53:05Z",
-    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.0"
-  },
-  {
     "description": "Microsoft Word VBA\u306b\u3088\u308b\u30eb\u30d3\uff08\u3075\u308a\u304c\u306a\uff09\u4e00\u62ec\u7ba1\u7406\u30b7\u30b9\u30c6\u30e0\u3002\u9006\u9806\u51e6\u7406\u30fb\u5b66\u7fd2\u30ec\u30d9\u30eb\u5236\u5fa1\u30fb\u8f9e\u66f8\u5b66\u7fd2\u3092\u5b9f\u88c5\u3057\u3001\u540c\u4e00\u30d7\u30ed\u30f3\u30d7\u30c8\u306b\u3088\u308bAI\u4e00\u767a\u751f\u6210\u4f8b\u3082\u516c\u958b\u3002",
     "id": "Kurosoft1994/Word-Ruby-Manager",
     "language": "VBA",
@@ -167,17 +257,8 @@
     "language": "HTML",
     "name": "dimitardamjan7-a11y/spec-flow-framework",
     "stars": 1,
-    "updated_at": "2026-08-19T04:47:04Z",
+    "updated_at": "2026-08-19T05:14:53Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Personality\u2011evaluation plugin for DeepSeek\u2011Harness, inject system prompt",
-    "id": "byjj-wa/dsh-personality-analyst",
-    "language": "JavaScript",
-    "name": "byjj-wa/dsh-personality-analyst",
-    "stars": 0,
-    "updated_at": "2026-08-19T04:46:32Z",
-    "url": "https://github.com/byjj-wa/dsh-personality-analyst"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -187,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T04:46:24Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 66816,
-    "updated_at": "2026-08-19T04:57:15Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -211,8 +283,8 @@
     "id": "Jia-Ethan/codex-keysmith",
     "language": "Python",
     "name": "Jia-Ethan/codex-keysmith",
-    "stars": 3737,
-    "updated_at": "2026-08-19T04:44:56Z",
+    "stars": 3738,
+    "updated_at": "2026-08-19T05:09:25Z",
     "url": "https://github.com/Jia-Ethan/codex-keysmith"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T04:36:35Z",
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-08-19T04:36:34Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-19T04:36:24Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 118,
-    "updated_at": "2026-08-19T04:33:36Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-19T04:33:04Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-08-19T04:31:42Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-19T04:31:19Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-19T04:31:16Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-19T04:30:51Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   }
 ]
