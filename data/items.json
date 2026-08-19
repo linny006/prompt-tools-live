@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-19T14:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83e\udd16 AI Agent Skill for Automatically Reorganizing & Cleaning GitHub Repositories based on Audience & Use-Case (Paper Relea",
     "id": "angelazu-builder/repo-organizer-skill",
     "language": "\u2014",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "rafaelghif/antigravity-agents",
     "stars": 5,
-    "updated_at": "2026-08-19T13:59:45Z",
+    "updated_at": "2026-08-19T14:00:52Z",
     "url": "https://github.com/rafaelghif/antigravity-agents"
   },
   {
@@ -34,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-08-19T13:59:33Z",
     "url": "https://github.com/anabelen6/generativeAI"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33383,
+    "updated_at": "2026-08-19T14:02:02Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Compose structured prompts from YAML in an interactive TUI, then send them directly to Ghostty or iTerm2 panes",
@@ -187,15 +205,6 @@
     "stars": 7,
     "updated_at": "2026-08-19T13:53:16Z",
     "url": "https://github.com/minhtran3124/agent-harness"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-19T13:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Human-led AI workflows for real B2B sales work.",
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "man612/chatgpt-personalization",
     "stars": 1,
-    "updated_at": "2026-08-19T13:52:54Z",
+    "updated_at": "2026-08-19T14:01:44Z",
     "url": "https://github.com/man612/chatgpt-personalization"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-19T13:36:09Z",
     "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33382,
-    "updated_at": "2026-08-19T13:58:55Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
