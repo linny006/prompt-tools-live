@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 18:15 UTC
+> ⏰ Last updated: 2026-08-19 18:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,37 +42,37 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Fallen-sch/ZEON](https://github.com/Fallen-sch/ZEON) | 1 | Python | 2026-08-19 | "Zero-overhead Encoding Object Notation. A format tailor-made for hyper-efficient communication with Artificial Intellig |
-| 2 | [ChianW/C31](https://github.com/ChianW/C31) | 1 | Python | 2026-08-19 | C31 — Agent Harness System. Memory that persists. Instincts that evolve. Context that stays healthy. |
-| 3 | [gthgomez/Babel](https://github.com/gthgomez/Babel) | 1 | TypeScript | 2026-08-19 | Open-source coding agent for real software work. Plans, reviews, and implements tasks with an explicit, inspectable inst |
-| 4 | [sahil87/fab-kit](https://github.com/sahil87/fab-kit) | 29 | Go | 2026-08-19 | Structured, spec-driven development workflow for AI coding agents. |
-| 5 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 0 | HTML | 2026-08-19 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
-| 6 | [Prysai/Prysai-LLM-Playbook](https://github.com/Prysai/Prysai-LLM-Playbook) | 34 | Python | 2026-08-19 | An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C |
-| 7 | [timharris707/skills](https://github.com/timharris707/skills) | 0 | Python | 2026-08-19 | Portable skills for AI agents — a multi-model advisory board for hard decisions, and a five-skill team-workflow pack for |
-| 8 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 43029 | Python | 2026-08-19 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| 9 | [erayendes/oduncu](https://github.com/erayendes/oduncu) | 0 | JavaScript | 2026-08-19 | Silent-executor skill for coding agents. Give it a task, it says "yaparım...", works, says "tamam." Nothing in between — |
-| 10 | [atomicdjt/AI-Project-Portfolio](https://github.com/atomicdjt/AI-Project-Portfolio) | 0 | JavaScript | 2026-08-19 | Applied AI project portfolio featuring prompt systems, research tools, privacy-first utilities, and deployable product p |
-| 11 | [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) | 61 | Astro | 2026-08-19 | Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai |
-| 12 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-19 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
-| 13 | [HalloJohannes/BITTE-STIL-Baukasten](https://github.com/HalloJohannes/BITTE-STIL-Baukasten) | 0 | HTML | 2026-08-19 | Bild-Prompts für Lehre und OER gestalterisch präzise planen. |
-| 14 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 9 | Python | 2026-08-19 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 15 | [renchenrui7-eng/civilization-engine](https://github.com/renchenrui7-eng/civilization-engine) | 1 | HTML | 2026-08-19 | 文明引擎 · 六大文明力场 × 九层推演美学参数引擎 —— MCP Server + Web + OpenAPI，让大模型直接调用文明美学知识库 |
-| 16 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-08-19 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
-| 17 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-19 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 18 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-19 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 19 | [heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite](https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite) | 2 | — | 2026-08-19 | Grok / xAI Tools – Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi |
-| 20 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-19 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
-| 21 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11113 | Python | 2026-08-19 | AI Observability & Evaluation |
-| 22 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 0 | — | 2026-08-19 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 23 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 1 | HTML | 2026-08-19 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 24 | [sairaman436/vybe-intelligence-vault](https://github.com/sairaman436/vybe-intelligence-vault) | 22 | JavaScript | 2026-08-19 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
-| 25 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33392 | TypeScript | 2026-08-19 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 26 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 5 | HTML | 2026-08-19 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
-| 27 | [imMamdouhaboammar/get-fable](https://github.com/imMamdouhaboammar/get-fable) | 1 | JavaScript | 2026-08-19 | Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks,  |
-| 28 | [hi0001234d/nexpath](https://github.com/hi0001234d/nexpath) | 38 | TypeScript | 2026-08-19 | Local-first AI coding workflow for vibe coders, indie hackers, technical founders and product managers — catch missing t |
-| 29 | [caty-ai/persona-engine](https://github.com/caty-ai/persona-engine) | 0 | TypeScript | 2026-08-19 | Safe, policy-driven personality-mode engine for LLM agents |
-| 30 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 4 | JavaScript | 2026-08-19 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
-| 31 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-08-19 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 9 | Python | 2026-08-19 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [Fallen-sch/ZEON](https://github.com/Fallen-sch/ZEON) | 1 | Python | 2026-08-19 | "Zero-overhead Encoding Object Notation. A format tailor-made for hyper-efficient communication with Artificial Intellig |
+| 3 | [ChianW/C31](https://github.com/ChianW/C31) | 1 | Python | 2026-08-19 | C31 — Agent Harness System. Memory that persists. Instincts that evolve. Context that stays healthy. |
+| 4 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-08-19 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
+| 5 | [renchenrui7-eng/civilization-engine](https://github.com/renchenrui7-eng/civilization-engine) | 1 | HTML | 2026-08-19 | 文明引擎 · 六大文明力场 × 九层推演美学参数引擎 —— MCP Server + Web + OpenAPI，让大模型直接调用文明美学知识库 |
+| 6 | [gthgomez/Babel](https://github.com/gthgomez/Babel) | 1 | TypeScript | 2026-08-19 | Open-source coding agent for real software work. Plans, reviews, and implements tasks with an explicit, inspectable inst |
+| 7 | [sahil87/fab-kit](https://github.com/sahil87/fab-kit) | 29 | Go | 2026-08-19 | Structured, spec-driven development workflow for AI coding agents. |
+| 8 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 0 | HTML | 2026-08-19 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
+| 9 | [Prysai/Prysai-LLM-Playbook](https://github.com/Prysai/Prysai-LLM-Playbook) | 34 | Python | 2026-08-19 | An evidence-led, six-language LLM playbook: the transferable core, the Codex flagship track, and adapters for ChatGPT, C |
+| 10 | [timharris707/skills](https://github.com/timharris707/skills) | 0 | Python | 2026-08-19 | Portable skills for AI agents — a multi-model advisory board for hard decisions, and a five-skill team-workflow pack for |
+| 11 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 43029 | Python | 2026-08-19 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 12 | [erayendes/oduncu](https://github.com/erayendes/oduncu) | 0 | JavaScript | 2026-08-19 | Silent-executor skill for coding agents. Give it a task, it says "yaparım...", works, says "tamam." Nothing in between — |
+| 13 | [atomicdjt/AI-Project-Portfolio](https://github.com/atomicdjt/AI-Project-Portfolio) | 0 | JavaScript | 2026-08-19 | Applied AI project portfolio featuring prompt systems, research tools, privacy-first utilities, and deployable product p |
+| 14 | [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) | 62 | Astro | 2026-08-19 | Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai |
+| 15 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-19 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
+| 16 | [HalloJohannes/BITTE-STIL-Baukasten](https://github.com/HalloJohannes/BITTE-STIL-Baukasten) | 0 | HTML | 2026-08-19 | Bild-Prompts für Lehre und OER gestalterisch präzise planen. |
+| 17 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-08-19 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
+| 18 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-19 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 19 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-19 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 20 | [heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite](https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite) | 2 | — | 2026-08-19 | Grok / xAI Tools – Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi |
+| 21 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-19 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
+| 22 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11113 | Python | 2026-08-19 | AI Observability & Evaluation |
+| 23 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 0 | — | 2026-08-19 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
+| 24 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 1 | HTML | 2026-08-19 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 25 | [sairaman436/vybe-intelligence-vault](https://github.com/sairaman436/vybe-intelligence-vault) | 22 | JavaScript | 2026-08-19 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
+| 26 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33392 | TypeScript | 2026-08-19 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 27 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 5 | HTML | 2026-08-19 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
+| 28 | [imMamdouhaboammar/get-fable](https://github.com/imMamdouhaboammar/get-fable) | 1 | JavaScript | 2026-08-19 | Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks,  |
+| 29 | [hi0001234d/nexpath](https://github.com/hi0001234d/nexpath) | 38 | TypeScript | 2026-08-19 | Local-first AI coding workflow for vibe coders, indie hackers, technical founders and product managers — catch missing t |
+| 30 | [caty-ai/persona-engine](https://github.com/caty-ai/persona-engine) | 0 | TypeScript | 2026-08-19 | Safe, policy-driven personality-mode engine for LLM agents |
+| 31 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 4 | JavaScript | 2026-08-19 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
 | 32 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-19 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
 | 33 | [ReidenXerx/bearing](https://github.com/ReidenXerx/bearing) | 5 | JavaScript | 2026-08-19 | An intel layer for AI coding agents that assumes its own rules might be wrong — and keeps the evidence. Authoritative no |
 | 34 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 7 | TypeScript | 2026-08-19 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
