@@ -1,5 +1,41 @@
 [
   {
+    "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udd01 DSH \u670d\u52a1\u5f02\u5e38\u4e00\u952e\u91cd\u542f",
+    "id": "Fishsb/dsh-prompt-enhancer",
+    "language": "JavaScript",
+    "name": "Fishsb/dsh-prompt-enhancer",
+    "stars": 25,
+    "updated_at": "2026-08-19T12:30:21Z",
+    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-08-19T12:27:00Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "FlowGPT is a community platform for discovering, sharing, and chatting with AI prompts, characters, and chatbots. Backed",
+    "id": "api-evangelist/flowgpt",
+    "language": "\u2014",
+    "name": "api-evangelist/flowgpt",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:26:10Z",
+    "url": "https://github.com/api-evangelist/flowgpt"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-19T12:26:02Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "DNA by Humaan \u2014 project brain for AI coding. Doctor install, Lab, 1045-pack marketplace, feature factory, tagged commits",
     "id": "superhumaan/DNA",
     "language": "TypeScript",
@@ -9,6 +45,15 @@
     "url": "https://github.com/superhumaan/DNA"
   },
   {
+    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
+    "id": "Faudzan10/outline-driven-starter-kit",
+    "language": "HTML",
+    "name": "Faudzan10/outline-driven-starter-kit",
+    "stars": 1,
+    "updated_at": "2026-08-19T12:25:27Z",
+    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
+  },
+  {
     "description": "Keep reusable prompts as local Markdown with variables and optional sections. Fill them in, preview, and paste into whic",
     "id": "erdemtuna/prompt-bank",
     "language": "TypeScript",
@@ -16,6 +61,33 @@
     "stars": 4,
     "updated_at": "2026-08-19T12:24:51Z",
     "url": "https://github.com/erdemtuna/prompt-bank"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-08-19T12:24:30Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "A Claude Code skill for MiniMax H3 \u2014 the open-weight omni-modal video model. Prompt framework, ComfyUI model/quant refer",
+    "id": "teskor-hub/minimax-h3-skill",
+    "language": "Python",
+    "name": "teskor-hub/minimax-h3-skill",
+    "stars": 4,
+    "updated_at": "2026-08-19T12:24:05Z",
+    "url": "https://github.com/teskor-hub/minimax-h3-skill"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-08-19T12:23:36Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
     "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
@@ -45,12 +117,21 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24371,
+    "updated_at": "2026-08-19T12:21:50Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "The Role of Thoughts: a Dynamic Cognitive Mixture-of-Experts router for Claude Code. 9 expert lenses, 10 routing lanes, ",
     "id": "Nova-Violet-Role/RoT-MoE",
     "language": "Shell",
     "name": "Nova-Violet-Role/RoT-MoE",
     "stars": 2,
-    "updated_at": "2026-08-19T12:21:50Z",
+    "updated_at": "2026-08-19T12:27:47Z",
     "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
   },
   {
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T12:21:24Z",
     "url": "https://github.com/DSeaStar/awesome-kling"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24370,
-    "updated_at": "2026-08-19T12:21:50Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4340,
-    "updated_at": "2026-08-19T12:18:01Z",
+    "updated_at": "2026-08-19T12:29:27Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 130,
     "updated_at": "2026-08-19T12:16:28Z",
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-19T12:15:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -185,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3497,
-    "updated_at": "2026-08-19T12:20:14Z",
+    "updated_at": "2026-08-19T12:26:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -338,7 +401,7 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 7144,
-    "updated_at": "2026-08-19T12:23:40Z",
+    "updated_at": "2026-08-19T12:29:00Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T11:56:51Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Seedance 2.5 + MiniMax H3 \u4e2d\u6587\u4f18\u5148\u63d0\u793a\u8bcd\u5de5\u5177\u7bb1\uff1a\u9762\u5411\u81ea\u5a92\u4f53\u4eba\u548c AI \u89c6\u9891\u521b\u4f5c\u8005\u7684 Agent \u6280\u80fd\u3001\u6545\u4e8b\u677f\u3001\u63d0\u793a\u8bcd\u7f16\u8bd1\u5668\u4e0e\u771f\u5b9e\u6848\u4f8b\u3002",
-    "id": "xxjrq/seedance-minimax-prompts",
-    "language": "Python",
-    "name": "xxjrq/seedance-minimax-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-19T11:55:54Z",
-    "url": "https://github.com/xxjrq/seedance-minimax-prompts"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-19T11:55:41Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Natural language to SQL across 8 dialects. Gemini streaming (SSE), JWT auth, PostgreSQL history, hallucination-reduction",
-    "id": "bannushaxddd/GETYOQUERY",
-    "language": "JavaScript",
-    "name": "bannushaxddd/GETYOQUERY",
-    "stars": 0,
-    "updated_at": "2026-08-19T11:55:29Z",
-    "url": "https://github.com/bannushaxddd/GETYOQUERY"
-  },
-  {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-08-19T11:53:53Z",
-    "url": "https://github.com/agungkesmas/recallfox"
-  },
-  {
-    "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assis",
-    "id": "coco-research/coco",
-    "language": "HTML",
-    "name": "coco-research/coco",
-    "stars": 241,
-    "updated_at": "2026-08-19T11:53:40Z",
-    "url": "https://github.com/coco-research/coco"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-19T12:23:36Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Privacy-preserving CLI for turning coding-agent session evidence into deterministic optimization signals and actionable ",
-    "id": "klever-engineering/klever-signal",
-    "language": "JavaScript",
-    "name": "klever-engineering/klever-signal",
-    "stars": 0,
-    "updated_at": "2026-08-19T11:50:33Z",
-    "url": "https://github.com/klever-engineering/klever-signal"
   }
 ]
