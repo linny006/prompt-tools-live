@@ -1,11 +1,47 @@
 [
   {
+    "description": "A planning skill for Claude that asks before it plans. Three versions: claude.ai, engineers, and read-only for people wi",
+    "id": "marcosathanasoulis/prompt-it",
+    "language": "\u2014",
+    "name": "marcosathanasoulis/prompt-it",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:00:59Z",
+    "url": "https://github.com/marcosathanasoulis/prompt-it"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-20T16:00:35Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "This repository contains all the assignments completed during the MirAI School of Technology \u2013 AI Summer Internship 2026",
+    "id": "ShubhamSnSharma/mirai-ai-summer-internship-2026",
+    "language": "Python",
+    "name": "ShubhamSnSharma/mirai-ai-summer-internship-2026",
+    "stars": 1,
+    "updated_at": "2026-08-20T16:00:08Z",
+    "url": "https://github.com/ShubhamSnSharma/mirai-ai-summer-internship-2026"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3502,
+    "updated_at": "2026-08-20T15:59:13Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33465,
-    "updated_at": "2026-08-20T16:00:13Z",
+    "updated_at": "2026-08-20T16:02:16Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -16,6 +52,15 @@
     "stars": 1,
     "updated_at": "2026-08-20T15:57:43Z",
     "url": "https://github.com/OpaceDigitalAgency/opace-ai-prompt-library-api-hub-wordpress-plugin"
+  },
+  {
+    "description": "Claude Code\uc5d0 '15\uba85 \uc804\ubb38\uac00 \uad00\uc810 + \uc790\ub3d9 \ud2b8\ub9ac\uac70' AI \uac1c\ubc1c \ud30c\ud2b8\ub108 \ud398\ub974\uc18c\ub098\ub97c \uc785\ud788\ub294 \ud50c\ub7ec\uadf8\uc778. \ud56d\uc0c1\ucf1c\uc9d0 hook + \uc870\uac74\ubd80 skill + \uc778\ud130\ubdf0\ud615 \uc0dd\uc131/\ud3b8\uc9d1 \uba85\ub839\uc5b4, \uc138\ubb34\u00b7\ubc95\ub960 \uba74\ucc45 \uc790\ub3d9, \uc0c8 PC \uc774",
+    "id": "sodam-ai/SoDam-Persona",
+    "language": "JavaScript",
+    "name": "sodam-ai/SoDam-Persona",
+    "stars": 15,
+    "updated_at": "2026-08-20T15:57:14Z",
+    "url": "https://github.com/sodam-ai/SoDam-Persona"
   },
   {
     "description": "\u95ee\u51c6\uff1a\u5148\u95ee\u6e05\uff0c\u518d\u505a\u51c6\u3002AI Prompt \u6f84\u6e05\u4e0e\u6301\u7eed\u534f\u4f5c\u5de5\u5177\u3002",
@@ -45,13 +90,22 @@
     "url": "https://github.com/Padraigobrien08/agentic-data-science-system"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3502,
-    "updated_at": "2026-08-20T15:59:13Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-20T15:53:19Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-20T15:53:02Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -88,6 +142,15 @@
     "stars": 1,
     "updated_at": "2026-08-20T15:52:17Z",
     "url": "https://github.com/YangYang-Research/yang-promptlab"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-08-20T15:52:09Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
     "description": "Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across C",
@@ -171,15 +234,6 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-20T15:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -239,7 +293,7 @@
     "language": "TypeScript",
     "name": "shrishmanglik/auteur-frameworks",
     "stars": 1,
-    "updated_at": "2026-08-20T16:00:28Z",
+    "updated_at": "2026-08-20T16:01:46Z",
     "url": "https://github.com/shrishmanglik/auteur-frameworks"
   },
   {
@@ -320,7 +374,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-20T15:34:14Z",
+    "updated_at": "2026-08-20T16:01:57Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T15:31:24Z",
     "url": "https://github.com/sanlee-ys/defense-news-classifier"
-  },
-  {
-    "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 72,
-    "updated_at": "2026-08-20T15:30:38Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 119,
-    "updated_at": "2026-08-20T15:30:16Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": " A self-hosted Claude agent that actually remembers \u2014 verbatim memory palace at zero retrieval cost, Discord + web UI, a",
-    "id": "avasol/galadriel-public",
-    "language": "Python",
-    "name": "avasol/galadriel-public",
-    "stars": 50,
-    "updated_at": "2026-08-20T15:29:29Z",
-    "url": "https://github.com/avasol/galadriel-public"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-20T15:29:23Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
-    "id": "AltairaLabs/PromptKit",
-    "language": "Go",
-    "name": "AltairaLabs/PromptKit",
-    "stars": 9,
-    "updated_at": "2026-08-20T15:37:43Z",
-    "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
-    "description": "531 searchable AI Agent Skills for Claude Code, OpenAI Codex, and OpenCode \u2014 EN/TR catalog, platform and risk notes, dir",
-    "id": "yigityildiz0/universal-ai-skill-library",
-    "language": "Python",
-    "name": "yigityildiz0/universal-ai-skill-library",
-    "stars": 1,
-    "updated_at": "2026-08-20T15:27:54Z",
-    "url": "https://github.com/yigityildiz0/universal-ai-skill-library"
   }
 ]
