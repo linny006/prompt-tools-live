@@ -1,12 +1,48 @@
 [
   {
-    "description": "FLUX 3 video API and image API guide, prompts, parameters, and examples for Black Forest Labs' unified text-to-video, im",
-    "id": "Anil-matcha/awesome-flux-3-api-prompts",
+    "description": "A curated library of pre-made, machine-readable task prompts that let Jules (or any agent) \u2014 and humans \u2014 turn intent in",
+    "id": "melbinjp/jules-prompts",
+    "language": "HTML",
+    "name": "melbinjp/jules-prompts",
+    "stars": 8,
+    "updated_at": "2026-08-20T08:19:14Z",
+    "url": "https://github.com/melbinjp/jules-prompts"
+  },
+  {
+    "description": "\u62bd\u8c61\u7ebf\u6761\u6d77\u62a5\u751f\u6210 Skill \u00b7 Original hand-drawn editorial poster prompts and examples",
+    "id": "yanliudesign/french-illustration-skill",
     "language": "\u2014",
-    "name": "Anil-matcha/awesome-flux-3-api-prompts",
-    "stars": 143,
-    "updated_at": "2026-08-20T08:13:28Z",
-    "url": "https://github.com/Anil-matcha/awesome-flux-3-api-prompts"
+    "name": "yanliudesign/french-illustration-skill",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:19:06Z",
+    "url": "https://github.com/yanliudesign/french-illustration-skill"
+  },
+  {
+    "description": "Agent skill that discovers, deduplicates, verifies, ranks, and tracks matching jobs in a searchable HTML report.",
+    "id": "yanliudesign/job-hunt-skill",
+    "language": "\u2014",
+    "name": "yanliudesign/job-hunt-skill",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:18:45Z",
+    "url": "https://github.com/yanliudesign/job-hunt-skill"
+  },
+  {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-08-20T08:19:37Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "\u57fa\u4e8e Kimi / \u5343\u95ee / DeepSeek \u4e09\u5927\u7f51\u9875\u6a21\u578b\u7684\u591a\u529f\u80fd AI \u5de5\u5177\u7bb1\uff0c\u65e0\u9700 API Key\u3002\u652f\u6301\u53cc\u6a21\u578b\u5ba1\u6838-\u53cd\u601d\u5bf9\u8bdd\uff08\u6267\u884c\u6a21\u578b\u4f5c\u7b54 + \u5ba1\u6838\u6a21\u578b\u6311\u523a\uff0c\u5faa\u73af\u6539\u8fdb\uff09\u3001\u591a\u6a21\u578b\u5e76\u884c\u5bf9\u6bd4\uff08\u540c\u4e00\u95ee\u9898\u5e76\u6392\u770b\u56de\u7b54\uff09\u3001AI \u7ffb\u8bd1\uff08\u6587\u672c + \u56fe\u7247",
+    "id": "wenb1n-dev/ThinkLoop-Zero",
+    "language": "TypeScript",
+    "name": "wenb1n-dev/ThinkLoop-Zero",
+    "stars": 2,
+    "updated_at": "2026-08-20T08:16:06Z",
+    "url": "https://github.com/wenb1n-dev/ThinkLoop-Zero"
   },
   {
     "description": "Python-side witness stack for the official DeepSeek Harness (Node). Five `dsh doctor --node` probes each report somethin",
@@ -14,8 +50,53 @@
     "language": "Python",
     "name": "HenryZ838978/deepseek-harness",
     "stars": 45,
-    "updated_at": "2026-08-20T08:13:19Z",
+    "updated_at": "2026-08-20T08:15:33Z",
     "url": "https://github.com/HenryZ838978/deepseek-harness"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-20T08:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A handoff contract for multi-agent work: it refuses to dispatch a brief the recipient cannot execute. Seven dials as IR,",
+    "id": "Operator-create/bliss-point",
+    "language": "Python",
+    "name": "Operator-create/bliss-point",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:15:25Z",
+    "url": "https://github.com/Operator-create/bliss-point"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-08-20T08:15:22Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "\ud83d\ude80 AI Prompt Toolkit \u2014 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida",
+    "id": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "language": "TypeScript",
+    "name": "toolkitaiprompt-ui/AI-Prompt-Toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:14:22Z",
+    "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
+  },
+  {
+    "description": "FLUX 3 video API and image API guide, prompts, parameters, and examples for Black Forest Labs' unified text-to-video, im",
+    "id": "Anil-matcha/awesome-flux-3-api-prompts",
+    "language": "\u2014",
+    "name": "Anil-matcha/awesome-flux-3-api-prompts",
+    "stars": 143,
+    "updated_at": "2026-08-20T08:13:28Z",
+    "url": "https://github.com/Anil-matcha/awesome-flux-3-api-prompts"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -43,15 +124,6 @@
     "stars": 66,
     "updated_at": "2026-08-20T08:11:22Z",
     "url": "https://github.com/tsaol/awesome-claude"
-  },
-  {
-    "description": "A curated library of pre-made, machine-readable task prompts that let Jules (or any agent) \u2014 and humans \u2014 turn intent in",
-    "id": "melbinjp/jules-prompts",
-    "language": "HTML",
-    "name": "melbinjp/jules-prompts",
-    "stars": 8,
-    "updated_at": "2026-08-20T08:15:27Z",
-    "url": "https://github.com/melbinjp/jules-prompts"
   },
   {
     "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
@@ -86,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3498,
-    "updated_at": "2026-08-20T08:15:18Z",
+    "updated_at": "2026-08-20T08:20:04Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -153,15 +225,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Agent skill that discovers, deduplicates, verifies, ranks, and tracks matching jobs in a searchable HTML report.",
-    "id": "yanliudesign/job-hunt-skill",
-    "language": "\u2014",
-    "name": "yanliudesign/job-hunt-skill",
-    "stars": 0,
-    "updated_at": "2026-08-20T08:04:13Z",
-    "url": "https://github.com/yanliudesign/job-hunt-skill"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -196,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T08:00:56Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-20T08:00:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "",
@@ -394,59 +448,5 @@
     "stars": 880,
     "updated_at": "2026-08-20T07:51:14Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-20T07:49:30Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 122,
-    "updated_at": "2026-08-20T07:48:37Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Organize what an AI agent reads on every call: one thin always-loaded page, deep knowledge in rooms opened by address.",
-    "id": "OnenOnlyLabs/stair-engineering",
-    "language": "Python",
-    "name": "OnenOnlyLabs/stair-engineering",
-    "stars": 1,
-    "updated_at": "2026-08-20T07:46:50Z",
-    "url": "https://github.com/OnenOnlyLabs/stair-engineering"
-  },
-  {
-    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
-    "id": "martialsystems/verify-before-done",
-    "language": "Python",
-    "name": "martialsystems/verify-before-done",
-    "stars": 1,
-    "updated_at": "2026-08-20T07:46:12Z",
-    "url": "https://github.com/martialsystems/verify-before-done"
-  },
-  {
-    "description": "Reverse engineer any repo into it's original prompt",
-    "id": "filiksyos/gitreverse",
-    "language": "TypeScript",
-    "name": "filiksyos/gitreverse",
-    "stars": 1806,
-    "updated_at": "2026-08-20T07:46:09Z",
-    "url": "https://github.com/filiksyos/gitreverse"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 120,
-    "updated_at": "2026-08-20T07:44:50Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   }
 ]
