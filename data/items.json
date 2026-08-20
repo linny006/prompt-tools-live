@@ -1,19 +1,136 @@
 [
   {
+    "description": "A daily news briefing where every citation is checked against the corpus it came from. Python stdlib only, no API keys.",
+    "id": "elanthus/news-briefing",
+    "language": "Python",
+    "name": "elanthus/news-briefing",
+    "stars": 1,
+    "updated_at": "2026-08-20T19:06:09Z",
+    "url": "https://github.com/elanthus/news-briefing"
+  },
+  {
     "description": "Evaluation harness measuring how prompting strategy (zero-shot, few-shot, chain-of-thought, spec-augmented) affects the ",
     "id": "Ninjaa-aa/llm-code-prompting-eval",
     "language": "Python",
     "name": "Ninjaa-aa/llm-code-prompting-eval",
     "stars": 0,
-    "updated_at": "2026-08-20T19:00:18Z",
+    "updated_at": "2026-08-20T19:05:26Z",
     "url": "https://github.com/Ninjaa-aa/llm-code-prompting-eval"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-08-20T19:04:24Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Agent skills for better decisions under uncertainty, plus the pre-registered, placebo-controlled evaluation harness that",
+    "id": "AngelCampa1/decision-making-skills",
+    "language": "Python",
+    "name": "AngelCampa1/decision-making-skills",
+    "stars": 1,
+    "updated_at": "2026-08-20T19:03:59Z",
+    "url": "https://github.com/AngelCampa1/decision-making-skills"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-08-20T19:03:28Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Governance and safety layer for AI coding agents with scoped writes, explicit approval, evidence-based verification, and",
+    "id": "mibrahimdesign/agent-os-skill",
+    "language": "Python",
+    "name": "mibrahimdesign/agent-os-skill",
+    "stars": 0,
+    "updated_at": "2026-08-20T19:02:56Z",
+    "url": "https://github.com/mibrahimdesign/agent-os-skill"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-08-20T19:02:19Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "An attention-budget protocol for AI-assisted reasoning where a human is the only verifier.",
+    "id": "duongnhatthang/attention-budget-protocol",
+    "language": "\u2014",
+    "name": "duongnhatthang/attention-budget-protocol",
+    "stars": 0,
+    "updated_at": "2026-08-20T19:02:11Z",
+    "url": "https://github.com/duongnhatthang/attention-budget-protocol"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-20T19:02:05Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-08-20T19:01:16Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Version control for the AI development journey \u2014 git records what changed, Chronicle records what was asked. Local-first",
+    "id": "cbsshekhawat18-lab/gigai-chronicle",
+    "language": "TypeScript",
+    "name": "cbsshekhawat18-lab/gigai-chronicle",
+    "stars": 0,
+    "updated_at": "2026-08-20T19:01:06Z",
+    "url": "https://github.com/cbsshekhawat18-lab/gigai-chronicle"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-20T19:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-20T18:59:22Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "here you can create prompts for your own purpose on point which need mimimal changes",
+    "id": "utk2103/Prompt-Studio",
+    "language": "Python",
+    "name": "utk2103/Prompt-Studio",
+    "stars": 7,
+    "updated_at": "2026-08-20T18:58:49Z",
+    "url": "https://github.com/utk2103/Prompt-Studio"
   },
   {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 66997,
+    "stars": 66998,
     "updated_at": "2026-08-20T18:57:09Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -72,15 +189,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Version control for the AI development journey \u2014 git records what changed, Chronicle records what was asked. Local-first",
-    "id": "cbsshekhawat18-lab/gigai-chronicle",
-    "language": "TypeScript",
-    "name": "cbsshekhawat18-lab/gigai-chronicle",
-    "stars": 0,
-    "updated_at": "2026-08-20T18:54:12Z",
-    "url": "https://github.com/cbsshekhawat18-lab/gigai-chronicle"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -88,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T18:51:01Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-08-20T18:59:50Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
@@ -140,7 +239,7 @@
     "language": "HTML",
     "name": "coco-research/coco",
     "stars": 241,
-    "updated_at": "2026-08-20T18:46:36Z",
+    "updated_at": "2026-08-20T19:01:05Z",
     "url": "https://github.com/coco-research/coco"
   },
   {
@@ -178,15 +277,6 @@
     "stars": 120,
     "updated_at": "2026-08-20T18:45:51Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-20T18:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An agent package and project manager, written in Rust.",
@@ -315,15 +405,6 @@
     "url": "https://github.com/conorbronsdon/claude-context-os"
   },
   {
-    "description": "Governance and safety layer for AI coding agents with scoped writes, explicit approval, evidence-based verification, and",
-    "id": "mibrahimdesign/agent-os-skill",
-    "language": "Python",
-    "name": "mibrahimdesign/agent-os-skill",
-    "stars": 0,
-    "updated_at": "2026-08-20T18:37:17Z",
-    "url": "https://github.com/mibrahimdesign/agent-os-skill"
-  },
-  {
     "description": "Claude Code slash commands and AI-assisted SDLC starter kit. Spec in at midnight via /dark-factory; merge-ready PR by br",
     "id": "dzivkovi/AI-assisted-SDLC-Project-scaffolding",
     "language": "JavaScript",
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-20T18:31:05Z",
     "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "A futuristic AI-powered web application builder featuring a multi-agent workflow, live code streaming, Monaco Editor, Fi",
-    "id": "Shashwatss10/PromithicAI",
-    "language": "HTML",
-    "name": "Shashwatss10/PromithicAI",
-    "stars": 1,
-    "updated_at": "2026-08-20T18:30:44Z",
-    "url": "https://github.com/Shashwatss10/PromithicAI"
-  },
-  {
-    "description": "Resolving Indian income-tax/GST treatment of stablecoin receipts ,a pipeline that finds where the law has no answer and ",
-    "id": "hariom-s27/divergence",
-    "language": "Python",
-    "name": "hariom-s27/divergence",
-    "stars": 1,
-    "updated_at": "2026-08-20T18:30:27Z",
-    "url": "https://github.com/hariom-s27/divergence"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-20T18:29:50Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI i",
-    "id": "kadevin/ilab-conjure",
-    "language": "JavaScript",
-    "name": "kadevin/ilab-conjure",
-    "stars": 680,
-    "updated_at": "2026-08-20T18:29:17Z",
-    "url": "https://github.com/kadevin/ilab-conjure"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-20T18:28:44Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Model-agnostic autonomous coding agent engine with Claude Code capabilities, subagents, and an 18-target cross-agent SSO",
-    "id": "ucsandman/agnostic-harness",
-    "language": "Python",
-    "name": "ucsandman/agnostic-harness",
-    "stars": 3,
-    "updated_at": "2026-08-20T18:27:29Z",
-    "url": "https://github.com/ucsandman/agnostic-harness"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-20T18:27:07Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-20T18:26:49Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-20T18:26:41Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   }
 ]
