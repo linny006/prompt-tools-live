@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-20T14:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A Claude skill that bans AI writing patterns before they are written (honestly!) ",
     "id": "mickships/deform",
     "language": "Python",
@@ -41,8 +50,17 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-20T14:10:45Z",
+    "updated_at": "2026-08-20T14:17:51Z",
     "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 66969,
+    "updated_at": "2026-08-20T14:10:31Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "A digital blueprint of engineering and management decision-making \u2014 how and why decisions get made, for AI-agent trainin",
@@ -70,6 +88,15 @@
     "stars": 3500,
     "updated_at": "2026-08-20T14:10:18Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-20T14:07:44Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
     "description": "A generative, visual builder for SillyTavern preset kits - modules, variables, regexes, automations. The LLM never write",
@@ -106,6 +133,15 @@
     "stars": 3185,
     "updated_at": "2026-08-20T14:04:30Z",
     "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-20T14:03:58Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -153,15 +189,6 @@
     "url": "https://github.com/aliafana/two-context-mode-split"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-20T14:00:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "320+ curated Claude Code skills, 9 agents, 39 commands, sanitized configs & a Codex bridge \u2014 auto-indexed from skills/.",
     "id": "shengdabai/Tony-Claude-Code-Skills",
     "language": "HTML",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21500,
-    "updated_at": "2026-08-20T14:04:58Z",
+    "updated_at": "2026-08-20T14:17:00Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -283,7 +310,7 @@
     "id": "vllm-project/semantic-router",
     "language": "Go",
     "name": "vllm-project/semantic-router",
-    "stars": 5188,
+    "stars": 5189,
     "updated_at": "2026-08-20T13:52:07Z",
     "url": "https://github.com/vllm-project/semantic-router"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T13:42:59Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Token-efficient, quality-first, spec-driven development kit for AI coding agents \u2014 progressive context, durable project ",
-    "id": "Elguajo/Progressive-Context-Kit",
-    "language": "Python",
-    "name": "Elguajo/Progressive-Context-Kit",
-    "stars": 1,
-    "updated_at": "2026-08-20T13:42:53Z",
-    "url": "https://github.com/Elguajo/Progressive-Context-Kit"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 66969,
-    "updated_at": "2026-08-20T14:10:31Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "ZEROFAYYZ \u2014 free guides for AI filmmakers: prompting reference for the major image/video models, YouTube AI disclosure, ",
-    "id": "marcelgilbertdev-oss/zerofayyz-site",
-    "language": "HTML",
-    "name": "marcelgilbertdev-oss/zerofayyz-site",
-    "stars": 0,
-    "updated_at": "2026-08-20T13:42:18Z",
-    "url": "https://github.com/marcelgilbertdev-oss/zerofayyz-site"
   }
 ]
