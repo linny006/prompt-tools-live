@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI-Agent-Fleet-Architecture | Published on omnithium.ai",
+    "id": "ApertaCodex/article-ai-agent-fleet-architecture",
+    "language": "\u2014",
+    "name": "ApertaCodex/article-ai-agent-fleet-architecture",
+    "stars": 0,
+    "updated_at": "2026-08-20T09:00:41Z",
+    "url": "https://github.com/ApertaCodex/article-ai-agent-fleet-architecture"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-20T09:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A Claude Code (and OpenClaw) plugin that injects the right rules relevant to each prompt. Aimed at full stack devs worki",
+    "id": "fullymiddleaged/Clawness",
+    "language": "Python",
+    "name": "fullymiddleaged/Clawness",
+    "stars": 3,
+    "updated_at": "2026-08-20T09:00:28Z",
+    "url": "https://github.com/fullymiddleaged/Clawness"
+  },
+  {
     "description": "Reverse engineer any repo into it's original prompt",
     "id": "filiksyos/gitreverse",
     "language": "TypeScript",
@@ -9,6 +36,15 @@
     "url": "https://github.com/filiksyos/gitreverse"
   },
   {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:59:16Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
     "description": "A free, open playbook for using AI safely in medical writing workflows. Built for medical writers, agencies, and pharma ",
     "id": "nickjlamb/medical-writing-ai-playbook",
     "language": "MDX",
@@ -16,6 +52,15 @@
     "stars": 1,
     "updated_at": "2026-08-20T08:58:42Z",
     "url": "https://github.com/nickjlamb/medical-writing-ai-playbook"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:58:00Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
     "description": "An adversarial feedback swarm approach to AI-first engineering",
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T08:46:35Z",
     "url": "https://github.com/matteogallo-ai/praxis"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-20T08:45:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
@@ -401,7 +437,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33443,
-    "updated_at": "2026-08-20T08:56:23Z",
+    "updated_at": "2026-08-20T09:00:47Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 119,
     "updated_at": "2026-08-20T08:34:21Z",
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Python",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-08-20T08:33:48Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-20T08:33:23Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3498,
-    "updated_at": "2026-08-20T08:58:58Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Safe, policy-driven personality-mode engine for LLM agents",
-    "id": "caty-ai/persona-engine",
-    "language": "TypeScript",
-    "name": "caty-ai/persona-engine",
-    "stars": 0,
-    "updated_at": "2026-08-20T08:33:04Z",
-    "url": "https://github.com/caty-ai/persona-engine"
   }
 ]
