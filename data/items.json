@@ -1,12 +1,84 @@
 [
   {
-    "description": "18 \u6b3e\u53ef\u72ec\u7acb\u5b89\u88c5\u7684 AI \u89c6\u89c9\u98ce\u683c Skill\uff1a\u6311\u4e00\u6b3e\u3001\u4e0a\u4f20\u4e00\u5f20\u7167\u7247\uff0c\u5728 Codex \u91cc\u76f4\u63a5\u751f\u6210\u6210\u54c1\u3002\u4f5c\u8005 @\u5a01\u6bd4 Hunter Wei.\uff08\u6296\u97f3\u3001\u5c0f\u7ea2\u4e66\u540c\u540d\uff09",
-    "id": "Vieeeeeee/wibi-style",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "Vieeeeeee/wibi-style",
-    "stars": 77,
-    "updated_at": "2026-08-20T10:58:35Z",
-    "url": "https://github.com/Vieeeeeee/wibi-style"
+    "name": "comet-ml/opik",
+    "stars": 21498,
+    "updated_at": "2026-08-20T11:13:04Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "id": "JuliusBrussee/caveman",
+    "language": "Go",
+    "name": "JuliusBrussee/caveman",
+    "stars": 99334,
+    "updated_at": "2026-08-20T11:11:33Z",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-20T11:10:40Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "\u955c\u9020 Image Forge \u2014 Codex visual-director Skill for GPT Image 2, FLUX and Midjourney: cinematic frames, continuous storyboa",
+    "id": "papperrollinggery/jingzao-image-forge",
+    "language": "Python",
+    "name": "papperrollinggery/jingzao-image-forge",
+    "stars": 3,
+    "updated_at": "2026-08-20T11:08:29Z",
+    "url": "https://github.com/papperrollinggery/jingzao-image-forge"
+  },
+  {
+    "description": "Reusable, selectively loaded agent skills: authorization, judgment ownership, data lineage, side-effect safety, rollout ",
+    "id": "ratiolin/agent-skills",
+    "language": "\u2014",
+    "name": "ratiolin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-20T11:08:03Z",
+    "url": "https://github.com/ratiolin/agent-skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-20T11:05:56Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-08-20T11:05:32Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Grok / xAI Tools \u2013 Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi",
+    "id": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "language": "\u2014",
+    "name": "heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite",
+    "stars": 2,
+    "updated_at": "2026-08-20T11:04:37Z",
+    "url": "https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite"
+  },
+  {
+    "description": "Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs",
+    "id": "KhazP/vibe-coding-prompt-template",
+    "language": "Python",
+    "name": "KhazP/vibe-coding-prompt-template",
+    "stars": 2853,
+    "updated_at": "2026-08-20T11:04:08Z",
+    "url": "https://github.com/KhazP/vibe-coding-prompt-template"
   },
   {
     "description": "Shared AI infrastructure for WordPress: provider credentials, live models, prompts, normalised requests and usage record",
@@ -14,8 +86,89 @@
     "language": "PHP",
     "name": "OpaceDigitalAgency/opace-ai-prompt-library-api-hub-wordpress-plugin",
     "stars": 1,
-    "updated_at": "2026-08-20T10:58:22Z",
+    "updated_at": "2026-08-20T11:03:51Z",
     "url": "https://github.com/OpaceDigitalAgency/opace-ai-prompt-library-api-hub-wordpress-plugin"
+  },
+  {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "Rust",
+    "name": "Open-Less/openless",
+    "stars": 3184,
+    "updated_at": "2026-08-20T11:03:01Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-08-20T11:03:00Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Open-source Agent Skills for planning, drafting, revising, and polishing SCI/SSCI papers\u2014while preserving evidence, cita",
+    "id": "Yila-AI/awesome-research-skills",
+    "language": "Python",
+    "name": "Yila-AI/awesome-research-skills",
+    "stars": 90,
+    "updated_at": "2026-08-20T11:02:35Z",
+    "url": "https://github.com/Yila-AI/awesome-research-skills"
+  },
+  {
+    "description": "Terse Language for Claude",
+    "id": "macino/tl",
+    "language": "Shell",
+    "name": "macino/tl",
+    "stars": 0,
+    "updated_at": "2026-08-20T11:02:00Z",
+    "url": "https://github.com/macino/tl"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-08-20T11:01:27Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "Smart JSON-to-TOON conversion with pragmatic auto-gating for LLM prompts",
+    "id": "andrii-su/datoon",
+    "language": "Python",
+    "name": "andrii-su/datoon",
+    "stars": 2,
+    "updated_at": "2026-08-20T11:01:22Z",
+    "url": "https://github.com/andrii-su/datoon"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-20T11:00:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-20T10:59:17Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "18 \u6b3e\u53ef\u72ec\u7acb\u5b89\u88c5\u7684 AI \u89c6\u89c9\u98ce\u683c Skill\uff1a\u6311\u4e00\u6b3e\u3001\u4e0a\u4f20\u4e00\u5f20\u7167\u7247\uff0c\u5728 Codex \u91cc\u76f4\u63a5\u751f\u6210\u6210\u54c1\u3002\u4f5c\u8005 @\u5a01\u6bd4 Hunter Wei.\uff08\u6296\u97f3\u3001\u5c0f\u7ea2\u4e66\u540c\u540d\uff09",
+    "id": "Vieeeeeee/wibi-style",
+    "language": "Python",
+    "name": "Vieeeeeee/wibi-style",
+    "stars": 78,
+    "updated_at": "2026-08-20T10:58:35Z",
+    "url": "https://github.com/Vieeeeeee/wibi-style"
   },
   {
     "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
@@ -23,7 +176,7 @@
     "language": "TypeScript",
     "name": "AmadeusITGroup/ai-primitives-hub",
     "stars": 49,
-    "updated_at": "2026-08-20T10:58:22Z",
+    "updated_at": "2026-08-20T11:03:15Z",
     "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
   },
   {
@@ -45,15 +198,6 @@
     "url": "https://github.com/HuskyDanny/verboseless-all-in-one"
   },
   {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "Rust",
-    "name": "Open-Less/openless",
-    "stars": 3184,
-    "updated_at": "2026-08-20T10:54:19Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -61,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T10:53:24Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-20T10:52:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -117,15 +252,6 @@
     "url": "https://github.com/imhamzakhan/context-flow-compressor"
   },
   {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 1,
-    "updated_at": "2026-08-20T10:47:38Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
     "description": "One reflex for coding agents: answer first, cut the padding. A single behavioural skill, hook-enforced, measured with sk",
     "id": "daronthedragon/terse",
     "language": "JavaScript",
@@ -135,21 +261,12 @@
     "url": "https://github.com/daronthedragon/terse"
   },
   {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-20T10:47:23Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3499,
-    "updated_at": "2026-08-20T10:46:20Z",
+    "updated_at": "2026-08-20T11:07:09Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -171,30 +288,12 @@
     "url": "https://github.com/seaworld008/Commonly-used-high-value-skills"
   },
   {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 1,
-    "updated_at": "2026-08-20T10:45:36Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-20T10:45:32Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
     "name": "Fiskopoi/outline-driven-toolkit",
     "stars": 2,
-    "updated_at": "2026-08-20T10:44:27Z",
+    "updated_at": "2026-08-20T11:12:26Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
@@ -203,7 +302,7 @@
     "language": "HTML",
     "name": "zohaamalik/ocds-procura-semantic-nexus",
     "stars": 1,
-    "updated_at": "2026-08-20T10:43:58Z",
+    "updated_at": "2026-08-20T11:10:52Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
@@ -212,7 +311,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33453,
-    "updated_at": "2026-08-20T10:58:09Z",
+    "updated_at": "2026-08-20T11:11:12Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -288,15 +387,6 @@
     "url": "https://github.com/jiaying-wang091/ai-model-risk-fraud-triage"
   },
   {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-20T10:38:52Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
     "description": "",
     "id": "asa834/paperforge-2026-paper-workflow",
     "language": "HTML",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T10:37:50Z",
     "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-20T10:37:46Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "\ud83d\ude80 Interactive JSONL editor for Claude Code conversation files with real-time file system synchronization. Efficient prom",
-    "id": "didvc/claude-code-jsonl-editor",
-    "language": "JavaScript",
-    "name": "didvc/claude-code-jsonl-editor",
-    "stars": 14,
-    "updated_at": "2026-08-20T10:37:45Z",
-    "url": "https://github.com/didvc/claude-code-jsonl-editor"
-  },
-  {
-    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
-    "id": "Ekmsi8525/agentsmith",
-    "language": "\u2014",
-    "name": "Ekmsi8525/agentsmith",
-    "stars": 1,
-    "updated_at": "2026-08-20T10:37:45Z",
-    "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-08-20T10:54:20Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 122,
-    "updated_at": "2026-08-20T10:37:14Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 1,
-    "updated_at": "2026-08-20T10:36:52Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-08-20T10:36:49Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "Extract structured thinking profiles from public figures to evaluate your real-world decisions using any AI model.",
-    "id": "tacticalwarningsubscriptionwarrant526/borrowed-brain-pro",
-    "language": "\u2014",
-    "name": "tacticalwarningsubscriptionwarrant526/borrowed-brain-pro",
-    "stars": 1,
-    "updated_at": "2026-08-20T10:36:42Z",
-    "url": "https://github.com/tacticalwarningsubscriptionwarrant526/borrowed-brain-pro"
-  },
-  {
-    "description": "Claude Code\uc5d0 '15\uba85 \uc804\ubb38\uac00 \uad00\uc810 + \uc790\ub3d9 \ud2b8\ub9ac\uac70' AI \uac1c\ubc1c \ud30c\ud2b8\ub108 \ud398\ub974\uc18c\ub098\ub97c \uc785\ud788\ub294 \ud50c\ub7ec\uadf8\uc778. \ud56d\uc0c1\ucf1c\uc9d0 hook + \uc870\uac74\ubd80 skill + \uc778\ud130\ubdf0\ud615 \uc0dd\uc131/\ud3b8\uc9d1 \uba85\ub839\uc5b4, \uc138\ubb34\u00b7\ubc95\ub960 \uba74\ucc45 \uc790\ub3d9, \uc0c8 PC \uc774",
-    "id": "sodam-ai/SoDam-Persona",
-    "language": "JavaScript",
-    "name": "sodam-ai/SoDam-Persona",
-    "stars": 15,
-    "updated_at": "2026-08-20T10:35:59Z",
-    "url": "https://github.com/sodam-ai/SoDam-Persona"
-  },
-  {
-    "description": "Spec-visible, implementation-blind verifier pattern for multi-agent coding workflows",
-    "id": "wlvh/acceptance-agent",
-    "language": "\u2014",
-    "name": "wlvh/acceptance-agent",
-    "stars": 0,
-    "updated_at": "2026-08-20T10:35:59Z",
-    "url": "https://github.com/wlvh/acceptance-agent"
   }
 ]
