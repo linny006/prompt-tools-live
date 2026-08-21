@@ -1,5 +1,23 @@
 [
   {
+    "description": "Interact with various LLMs in your browser (LangChain.js, Angular)",
+    "id": "antsanchez/prompto",
+    "language": "HTML",
+    "name": "antsanchez/prompto",
+    "stars": 17,
+    "updated_at": "2026-08-21T16:15:51Z",
+    "url": "https://github.com/antsanchez/prompto"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-21T16:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
     "id": "dimitardamjan7-a11y/spec-flow-framework",
     "language": "HTML",
@@ -7,6 +25,15 @@
     "stars": 1,
     "updated_at": "2026-08-21T16:15:05Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Local-first prompt regression testing and evals for LLM apps.",
+    "id": "promptry/promptry",
+    "language": "Python",
+    "name": "promptry/promptry",
+    "stars": 4,
+    "updated_at": "2026-08-21T16:14:58Z",
+    "url": "https://github.com/promptry/promptry"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -72,21 +99,12 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Local-first prompt regression testing and evals for LLM apps.",
-    "id": "promptry/promptry",
-    "language": "Python",
-    "name": "promptry/promptry",
-    "stars": 4,
-    "updated_at": "2026-08-21T16:14:58Z",
-    "url": "https://github.com/promptry/promptry"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33520,
-    "updated_at": "2026-08-21T16:11:07Z",
+    "updated_at": "2026-08-21T16:15:50Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -142,15 +160,6 @@
     "stars": 5,
     "updated_at": "2026-08-21T16:01:00Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-21T16:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4349,
-    "updated_at": "2026-08-21T16:14:51Z",
+    "updated_at": "2026-08-21T16:15:44Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T15:35:59Z",
     "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21519,
-    "updated_at": "2026-08-21T16:10:28Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
