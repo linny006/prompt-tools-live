@@ -1,5 +1,41 @@
 [
   {
+    "description": "Agent Skill: comment the why in AGENTS.md / CLAUDE.md so instruction files stop growing without bound.",
+    "id": "vladzima/prompt-comments",
+    "language": "Python",
+    "name": "vladzima/prompt-comments",
+    "stars": 0,
+    "updated_at": "2026-08-21T14:02:17Z",
+    "url": "https://github.com/vladzima/prompt-comments"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-21T14:01:38Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-08-21T14:01:03Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-21T14:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "An adversarial feedback swarm approach to AI-first engineering",
     "id": "davehowell/council-of-nark",
     "language": "Go",
@@ -54,6 +90,15 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
+    "description": "A macOS sketchpad that opens on a hotkey and hands layout sketches to your coding agent \u2014 as an exact scene tree (~117 t",
+    "id": "akaieuan/blockpad",
+    "language": "Swift",
+    "name": "akaieuan/blockpad",
+    "stars": 0,
+    "updated_at": "2026-08-21T13:57:47Z",
+    "url": "https://github.com/akaieuan/blockpad"
+  },
+  {
     "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
     "id": "Dangkoolwat/ai-learning-studio",
     "language": "Python",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21517,
-    "updated_at": "2026-08-21T13:58:04Z",
+    "updated_at": "2026-08-21T14:03:03Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -243,15 +288,6 @@
     "url": "https://github.com/coryparrry/codex-skills"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-21T13:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
     "id": "Open-Less/openless",
     "language": "Rust",
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33516,
-    "updated_at": "2026-08-21T13:59:46Z",
+    "updated_at": "2026-08-21T14:02:26Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-21T13:39:40Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-21T13:39:37Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-21T13:38:47Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-21T13:38:19Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-21T13:38:18Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
   }
 ]
