@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-21 10:15 UTC
+> ⏰ Last updated: 2026-08-21 10:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,38 +42,38 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Emaad2405/nlu-gsm8k-sft-grpo](https://github.com/Emaad2405/nlu-gsm8k-sft-grpo) | 0 | Jupyter Notebook | 2026-08-21 | Post-training a 0.5B LLM for mathematical reasoning: LoRA SFT + GRPO with verifiable rewards on GSM8K, and Shapley-value |
-| 2 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-21 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 3 | [laurentvv/AIFeeder](https://github.com/laurentvv/AIFeeder) | 0 | Python | 2026-08-21 | Autonomous Web Search, Crawl4AI code extraction & LLM Champion evaluator to feed reference implementations directly into |
-| 4 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-21 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
-| 5 | [LB623/no-negative-echo](https://github.com/LB623/no-negative-echo) | 0 | Python | 2026-08-21 | 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。 |
-| 6 | [lilhammerfun/clumsies](https://github.com/lilhammerfun/clumsies) | 17 | Rust | 2026-08-21 | A persistent, observable, and collaborative context infrastructure |
-| 7 | [jiabaobei/skills-constitution](https://github.com/jiabaobei/skills-constitution) | 117 | Python | 2026-08-21 | Skills Constitution — meta-rule governing all skill invocations across agent platforms |
-| 8 | [MathisVerstrepen/Meridian](https://github.com/MathisVerstrepen/Meridian) | 21 | Python | 2026-08-21 | Meridian - A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversa |
-| 9 | [sergstack/AI-OS](https://github.com/sergstack/AI-OS) | 0 | Python | 2026-08-21 | Governed AI workspace for ChatGPT, Codex, routing, validation, and automation. |
-| 10 | [marianif/ozempskills](https://github.com/marianif/ozempskills) | 1 | JavaScript | 2026-08-21 | Trim the fat from your Claude Code context window. Automate SKILL.md token optimization and compression by 40%+ while pr |
-| 11 | [krishkumar4400/AgenticJVM](https://github.com/krishkumar4400/AgenticJVM) | 1 | Java | 2026-08-21 | From public static void main to autonomous multi-agent systems — a code-first journey through Java, Spring AI, Google AD |
-| 12 | [moonberry-tool/moonberry-tool.github.io](https://github.com/moonberry-tool/moonberry-tool.github.io) | 0 | TypeScript | 2026-08-21 | Moonberry Tool website , a creative tools for designers 🤩 |
-| 13 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-08-21 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
-| 14 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 9 | Python | 2026-08-21 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 15 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-21 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 16 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-21 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
-| 17 | [windforce19820520-ai/visual-ontology-constraint-engine](https://github.com/windforce19820520-ai/visual-ontology-constraint-engine) | 12 | TypeScript | 2026-08-21 | Open-source core extracted and generalized from a commercial AI content platform, providing visual ontology, constraint  |
-| 18 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 7 | TypeScript | 2026-08-21 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
-| 19 | [heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite](https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite) | 2 | — | 2026-08-21 | Grok / xAI Tools – Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi |
-| 20 | [imhamzakhan/context-flow-compressor](https://github.com/imhamzakhan/context-flow-compressor) | 0 | HTML | 2026-08-21 | Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90% |
-| 21 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 0 | — | 2026-08-21 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 22 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-21 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 23 | [snflkd/fluent-korean](https://github.com/snflkd/fluent-korean) | 571 | — | 2026-08-21 | Claude Code가 명확한 한국어를 구사하게 만드는 output-style 플러그인 \| Claude Code output-style for clear, fluent Korean |
-| 24 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 15 | Python | 2026-08-21 | Engineering best practices that AI coding agents actually apply — 40+ skills, from secure coding and cloud to compliance |
-| 25 | [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) | 2857 | TypeScript | 2026-08-21 | Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs |
-| 26 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-21 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 27 | [elanthus/news-briefing](https://github.com/elanthus/news-briefing) | 1 | Python | 2026-08-21 | A daily news briefing where every citation is checked against the corpus it came from. Python stdlib only, no API keys. |
-| 28 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-08-21 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 29 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 0 | HTML | 2026-08-21 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
-| 30 | [toolkitaiprompt-ui/AI-Prompt-Toolkit](https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit) | 1 | TypeScript | 2026-08-21 | 🚀 AI Prompt Toolkit — 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida |
-| 31 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-08-21 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
-| 32 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 1 | HTML | 2026-08-21 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 1 | [windforce19820520-ai/visual-ontology-constraint-engine](https://github.com/windforce19820520-ai/visual-ontology-constraint-engine) | 12 | TypeScript | 2026-08-21 | Open-source core extracted and generalized from a commercial AI content platform, providing visual ontology, constraint  |
+| 2 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 9 | Python | 2026-08-21 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 3 | [Emaad2405/nlu-gsm8k-sft-grpo](https://github.com/Emaad2405/nlu-gsm8k-sft-grpo) | 0 | Jupyter Notebook | 2026-08-21 | Post-training a 0.5B LLM for mathematical reasoning: LoRA SFT + GRPO with verifiable rewards on GSM8K, and Shapley-value |
+| 4 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-21 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 5 | [laurentvv/AIFeeder](https://github.com/laurentvv/AIFeeder) | 0 | Python | 2026-08-21 | Autonomous Web Search, Crawl4AI code extraction & LLM Champion evaluator to feed reference implementations directly into |
+| 6 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 1 | HTML | 2026-08-21 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 7 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-21 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
+| 8 | [LB623/no-negative-echo](https://github.com/LB623/no-negative-echo) | 0 | Python | 2026-08-21 | 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。 |
+| 9 | [lilhammerfun/clumsies](https://github.com/lilhammerfun/clumsies) | 17 | Rust | 2026-08-21 | A persistent, observable, and collaborative context infrastructure |
+| 10 | [jiabaobei/skills-constitution](https://github.com/jiabaobei/skills-constitution) | 117 | Python | 2026-08-21 | Skills Constitution — meta-rule governing all skill invocations across agent platforms |
+| 11 | [MathisVerstrepen/Meridian](https://github.com/MathisVerstrepen/Meridian) | 21 | Python | 2026-08-21 | Meridian - A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversa |
+| 12 | [sergstack/AI-OS](https://github.com/sergstack/AI-OS) | 0 | Python | 2026-08-21 | Governed AI workspace for ChatGPT, Codex, routing, validation, and automation. |
+| 13 | [marianif/ozempskills](https://github.com/marianif/ozempskills) | 1 | JavaScript | 2026-08-21 | Trim the fat from your Claude Code context window. Automate SKILL.md token optimization and compression by 40%+ while pr |
+| 14 | [krishkumar4400/AgenticJVM](https://github.com/krishkumar4400/AgenticJVM) | 1 | Java | 2026-08-21 | From public static void main to autonomous multi-agent systems — a code-first journey through Java, Spring AI, Google AD |
+| 15 | [moonberry-tool/moonberry-tool.github.io](https://github.com/moonberry-tool/moonberry-tool.github.io) | 0 | TypeScript | 2026-08-21 | Moonberry Tool website , a creative tools for designers 🤩 |
+| 16 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-08-21 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
+| 17 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-21 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 18 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-21 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
+| 19 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 7 | TypeScript | 2026-08-21 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
+| 20 | [heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite](https://github.com/heisting-4218madden/Grok-xAI-Tools-Ultimate-Suite) | 2 | — | 2026-08-21 | Grok / xAI Tools – Enhance your AI experience with advanced prompts, API tools, and image generation capabilities for Wi |
+| 21 | [imhamzakhan/context-flow-compressor](https://github.com/imhamzakhan/context-flow-compressor) | 0 | HTML | 2026-08-21 | Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90% |
+| 22 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 0 | — | 2026-08-21 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
+| 23 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-21 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 24 | [snflkd/fluent-korean](https://github.com/snflkd/fluent-korean) | 571 | — | 2026-08-21 | Claude Code가 명확한 한국어를 구사하게 만드는 output-style 플러그인 \| Claude Code output-style for clear, fluent Korean |
+| 25 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 15 | Python | 2026-08-21 | Engineering best practices that AI coding agents actually apply — 40+ skills, from secure coding and cloud to compliance |
+| 26 | [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) | 2857 | TypeScript | 2026-08-21 | Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs |
+| 27 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-21 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
+| 28 | [elanthus/news-briefing](https://github.com/elanthus/news-briefing) | 1 | Python | 2026-08-21 | A daily news briefing where every citation is checked against the corpus it came from. Python stdlib only, no API keys. |
+| 29 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-08-21 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 30 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 0 | HTML | 2026-08-21 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
+| 31 | [toolkitaiprompt-ui/AI-Prompt-Toolkit](https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit) | 1 | TypeScript | 2026-08-21 | 🚀 AI Prompt Toolkit — 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida |
+| 32 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-08-21 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
 | 33 | [shaunmarsden/practical-ai-sales-workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) | 1 | — | 2026-08-21 | Human-led AI workflows for real B2B sales work. |
 | 34 | [leo-scosta/skillset](https://github.com/leo-scosta/skillset) | 0 | Python | 2026-08-21 | Portable Agent Skills — one folder runs across Claude, Codex, Copilot, Cursor, and Gemini CLI |
 | 35 | [hariom-s27/divergence](https://github.com/hariom-s27/divergence) | 1 | Python | 2026-08-21 | Resolving Indian income-tax/GST treatment of stablecoin receipts — a pipeline that finds where the law has no answer and |
