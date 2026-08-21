@@ -1,5 +1,131 @@
 [
   {
+    "description": "Post-training a 0.5B LLM for mathematical reasoning: LoRA SFT + GRPO with verifiable rewards on GSM8K, and Shapley-value",
+    "id": "Emaad2405/nlu-gsm8k-sft-grpo",
+    "language": "Jupyter Notebook",
+    "name": "Emaad2405/nlu-gsm8k-sft-grpo",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:14:39Z",
+    "url": "https://github.com/Emaad2405/nlu-gsm8k-sft-grpo"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-21T10:14:37Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Autonomous Web Search, Crawl4AI code extraction & LLM Champion evaluator to feed reference implementations directly into",
+    "id": "laurentvv/AIFeeder",
+    "language": "Python",
+    "name": "laurentvv/AIFeeder",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:14:30Z",
+    "url": "https://github.com/laurentvv/AIFeeder"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-21T10:14:07Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "\u8ba9 Codex \u6839\u636e\u6700\u7ec8\u7ed3\u679c\u751f\u6210\u6807\u9898\u3001\u6ce8\u91ca\u3001commit \u548c PR\uff0c\u51cf\u5c11\u88ab\u5426\u51b3\u65b9\u6848\u5728\u4ea4\u4ed8\u4e2d\u7684\u6b8b\u7559\u3002",
+    "id": "LB623/no-negative-echo",
+    "language": "Python",
+    "name": "LB623/no-negative-echo",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:12:59Z",
+    "url": "https://github.com/LB623/no-negative-echo"
+  },
+  {
+    "description": "A persistent, observable, and collaborative context infrastructure",
+    "id": "lilhammerfun/clumsies",
+    "language": "Rust",
+    "name": "lilhammerfun/clumsies",
+    "stars": 17,
+    "updated_at": "2026-08-21T10:11:31Z",
+    "url": "https://github.com/lilhammerfun/clumsies"
+  },
+  {
+    "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
+    "id": "jiabaobei/skills-constitution",
+    "language": "Python",
+    "name": "jiabaobei/skills-constitution",
+    "stars": 117,
+    "updated_at": "2026-08-21T10:10:53Z",
+    "url": "https://github.com/jiabaobei/skills-constitution"
+  },
+  {
+    "description": "Meridian - A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversa",
+    "id": "MathisVerstrepen/Meridian",
+    "language": "Python",
+    "name": "MathisVerstrepen/Meridian",
+    "stars": 21,
+    "updated_at": "2026-08-21T10:09:26Z",
+    "url": "https://github.com/MathisVerstrepen/Meridian"
+  },
+  {
+    "description": "Governed AI workspace for ChatGPT, Codex, routing, validation, and automation.",
+    "id": "sergstack/AI-OS",
+    "language": "Python",
+    "name": "sergstack/AI-OS",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:07:48Z",
+    "url": "https://github.com/sergstack/AI-OS"
+  },
+  {
+    "description": "Trim the fat from your Claude Code context window. Automate SKILL.md token optimization and compression by 40%+ while pr",
+    "id": "marianif/ozempskills",
+    "language": "JavaScript",
+    "name": "marianif/ozempskills",
+    "stars": 1,
+    "updated_at": "2026-08-21T10:06:25Z",
+    "url": "https://github.com/marianif/ozempskills"
+  },
+  {
+    "description": "From public static void main to autonomous multi-agent systems \u2014 a code-first journey through Java, Spring AI, Google AD",
+    "id": "krishkumar4400/AgenticJVM",
+    "language": "Java",
+    "name": "krishkumar4400/AgenticJVM",
+    "stars": 1,
+    "updated_at": "2026-08-21T10:05:58Z",
+    "url": "https://github.com/krishkumar4400/AgenticJVM"
+  },
+  {
+    "description": "Moonberry Tool website , a creative tools for designers \ud83e\udd29",
+    "id": "moonberry-tool/moonberry-tool.github.io",
+    "language": "TypeScript",
+    "name": "moonberry-tool/moonberry-tool.github.io",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:03:13Z",
+    "url": "https://github.com/moonberry-tool/moonberry-tool.github.io"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-08-21T10:01:56Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-21T10:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -23,7 +149,7 @@
     "language": "TypeScript",
     "name": "windforce19820520-ai/visual-ontology-constraint-engine",
     "stars": 12,
-    "updated_at": "2026-08-21T09:58:39Z",
+    "updated_at": "2026-08-21T10:12:51Z",
     "url": "https://github.com/windforce19820520-ai/visual-ontology-constraint-engine"
   },
   {
@@ -32,7 +158,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-21T09:58:38Z",
+    "updated_at": "2026-08-21T10:14:19Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -94,7 +220,7 @@
     "id": "KhazP/vibe-coding-prompt-template",
     "language": "TypeScript",
     "name": "KhazP/vibe-coding-prompt-template",
-    "stars": 2856,
+    "stars": 2857,
     "updated_at": "2026-08-21T09:54:43Z",
     "url": "https://github.com/KhazP/vibe-coding-prompt-template"
   },
@@ -113,7 +239,7 @@
     "language": "Python",
     "name": "elanthus/news-briefing",
     "stars": 1,
-    "updated_at": "2026-08-21T09:54:02Z",
+    "updated_at": "2026-08-21T10:03:33Z",
     "url": "https://github.com/elanthus/news-briefing"
   },
   {
@@ -144,24 +270,6 @@
     "url": "https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit"
   },
   {
-    "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
-    "id": "jiabaobei/skills-constitution",
-    "language": "Python",
-    "name": "jiabaobei/skills-constitution",
-    "stars": 116,
-    "updated_at": "2026-08-21T09:50:51Z",
-    "url": "https://github.com/jiabaobei/skills-constitution"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-21T09:50:15Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -176,17 +284,8 @@
     "language": "HTML",
     "name": "dimitardamjan7-a11y/spec-flow-framework",
     "stars": 1,
-    "updated_at": "2026-08-21T09:49:47Z",
+    "updated_at": "2026-08-21T10:14:20Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-21T09:49:12Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Human-led AI workflows for real B2B sales work.",
@@ -230,7 +329,7 @@
     "language": "HTML",
     "name": "juniorbaixista4/b2b-outreach-orchestrator",
     "stars": 5,
-    "updated_at": "2026-08-21T09:46:43Z",
+    "updated_at": "2026-08-21T10:13:29Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
@@ -241,15 +340,6 @@
     "stars": 4,
     "updated_at": "2026-08-21T09:45:55Z",
     "url": "https://github.com/jbogocz/awesome-automated-ai"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-21T09:45:00Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -293,7 +383,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33510,
-    "updated_at": "2026-08-21T09:58:51Z",
+    "updated_at": "2026-08-21T10:07:31Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 117,
     "updated_at": "2026-08-21T09:37:42Z",
     "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-08-21T09:36:22Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-08-21T09:36:15Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-08-21T09:36:14Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-21T09:36:03Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-08-21T09:35:52Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "From public static void main to autonomous multi-agent systems \u2014 a code-first journey through Java, Spring AI, Google AD",
-    "id": "krishkumar4400/AgenticJVM",
-    "language": "Java",
-    "name": "krishkumar4400/AgenticJVM",
-    "stars": 1,
-    "updated_at": "2026-08-21T09:34:50Z",
-    "url": "https://github.com/krishkumar4400/AgenticJVM"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 119,
-    "updated_at": "2026-08-21T09:33:12Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "Lossless context compression for LLM agents \u2014 fold it down, fold it back. Compresses tool outputs/logs before the model,",
-    "id": "SUDARSHANCHAUDHARI/FoldBackAI",
-    "language": "Python",
-    "name": "SUDARSHANCHAUDHARI/FoldBackAI",
-    "stars": 1,
-    "updated_at": "2026-08-21T09:33:00Z",
-    "url": "https://github.com/SUDARSHANCHAUDHARI/FoldBackAI"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-21T09:32:40Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-21T09:30:47Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
   }
 ]
