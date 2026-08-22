@@ -1,12 +1,21 @@
 [
   {
-    "description": "Compile long agent requests into lean, reviewable prompt packets with explicit constraint and authority mapping.",
-    "id": "SpannDaMan/prompt-optimizer",
+    "description": "Claude Code skill that builds a project's AI rule set \u2014 slim CLAUDE.md index + AGENTS.md pointer + on-demand docs/*.md r",
+    "id": "moveju112/rule-architect",
     "language": "Python",
-    "name": "SpannDaMan/prompt-optimizer",
+    "name": "moveju112/rule-architect",
     "stars": 0,
-    "updated_at": "2026-08-22T08:44:53Z",
-    "url": "https://github.com/SpannDaMan/prompt-optimizer"
+    "updated_at": "2026-08-22T08:46:06Z",
+    "url": "https://github.com/moveju112/rule-architect"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-22T08:45:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Human-led AI workflows for real B2B sales work.",
@@ -16,6 +25,15 @@
     "stars": 1,
     "updated_at": "2026-08-22T08:44:58Z",
     "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
+  },
+  {
+    "description": "Compile long agent requests into lean, reviewable prompt packets with explicit constraint and authority mapping.",
+    "id": "SpannDaMan/prompt-optimizer",
+    "language": "Python",
+    "name": "SpannDaMan/prompt-optimizer",
+    "stars": 0,
+    "updated_at": "2026-08-22T08:44:53Z",
+    "url": "https://github.com/SpannDaMan/prompt-optimizer"
   },
   {
     "description": "pst \u2014 local-first personal prompt library CLI. SQLite+FTS5, instant retrieval (pst code-review), variable templating, al",
@@ -43,15 +61,6 @@
     "stars": 2260,
     "updated_at": "2026-08-22T08:41:56Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Claude Code skill that builds a project's AI rule set \u2014 slim CLAUDE.md index + AGENTS.md pointer + on-demand docs/*.md r",
-    "id": "moveju112/rule-architect",
-    "language": "Python",
-    "name": "moveju112/rule-architect",
-    "stars": 0,
-    "updated_at": "2026-08-22T08:41:01Z",
-    "url": "https://github.com/moveju112/rule-architect"
   },
   {
     "description": "A field-tested operating model, governance framework, and memory architecture for multi-agent autonomous engineering.",
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "5p00kyy/oneshot",
     "stars": 1,
-    "updated_at": "2026-08-22T08:36:46Z",
+    "updated_at": "2026-08-22T08:46:07Z",
     "url": "https://github.com/5p00kyy/oneshot"
   },
   {
@@ -252,15 +261,6 @@
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-22T08:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
     "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
     "language": "TypeScript",
@@ -306,6 +306,15 @@
     "url": "https://github.com/rubicon/ai-skills"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33543,
+    "updated_at": "2026-08-22T08:28:54Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -322,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T08:27:43Z",
     "url": "https://github.com/flypggl-cpu/LARP"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33542,
-    "updated_at": "2026-08-22T08:28:54Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
