@@ -1,5 +1,104 @@
 [
   {
+    "description": "\u901a\u8fc7\u5bf9\u8bdd\u751f\u6210 Prompt \u94fe\u8def + \u8986\u76d6\u5ba1\u8ba1 + \u6a21\u578b\u63a8\u8350\u7684 AI \u5f00\u53d1\u84dd\u56fe\u751f\u6210\u5668\uff08Next.js + LangChain RAG + DeepSeek/OpenAI\uff09",
+    "id": "Alanwei-aiSaascreator/prompt-dog",
+    "language": "TypeScript",
+    "name": "Alanwei-aiSaascreator/prompt-dog",
+    "stars": 0,
+    "updated_at": "2026-08-23T07:51:46Z",
+    "url": "https://github.com/Alanwei-aiSaascreator/prompt-dog"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-23T07:50:11Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-08-23T07:50:08Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-08-23T07:49:43Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-08-23T07:49:16Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "AI-powered Prompt Engineering platform for creating, optimizing, testing, evaluating, comparing, and managing prompts ac",
+    "id": "OlehDatsyk/ai-prompt-studio",
+    "language": "Python",
+    "name": "OlehDatsyk/ai-prompt-studio",
+    "stars": 0,
+    "updated_at": "2026-08-23T07:47:39Z",
+    "url": "https://github.com/OlehDatsyk/ai-prompt-studio"
+  },
+  {
+    "description": "AI skill for creating realistic owner and pet interaction photos",
+    "id": "Cheng-Yc/petfusion-moments",
+    "language": "\u2014",
+    "name": "Cheng-Yc/petfusion-moments",
+    "stars": 0,
+    "updated_at": "2026-08-23T07:46:12Z",
+    "url": "https://github.com/Cheng-Yc/petfusion-moments"
+  },
+  {
+    "description": "APES 110-aligned and TPB Code guardrails for LLM-assisted Australian tax work. Not advice.",
+    "id": "ryanduguid/DrDebits",
+    "language": "Python",
+    "name": "ryanduguid/DrDebits",
+    "stars": 1,
+    "updated_at": "2026-08-23T07:46:10Z",
+    "url": "https://github.com/ryanduguid/DrDebits"
+  },
+  {
+    "description": "ComfyUI custom node for generating structured multi-character scene prompts with spatial layout control. Designed for Id",
+    "id": "elliefox-ai/comfyui-scene-generator",
+    "language": "Python",
+    "name": "elliefox-ai/comfyui-scene-generator",
+    "stars": 1,
+    "updated_at": "2026-08-23T07:45:40Z",
+    "url": "https://github.com/elliefox-ai/comfyui-scene-generator"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-23T07:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A lightweight anti-hallucination wrapper for LLMs using Chain-of-Verification.",
+    "id": "Muhtasim-Munif-Fahim/self-correct-agent",
+    "language": "Python",
+    "name": "Muhtasim-Munif-Fahim/self-correct-agent",
+    "stars": 6,
+    "updated_at": "2026-08-23T07:45:23Z",
+    "url": "https://github.com/Muhtasim-Munif-Fahim/self-correct-agent"
+  },
+  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -9,15 +108,6 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "AI skill for creating realistic owner and pet interaction photos",
-    "id": "Cheng-Yc/petfusion-moments",
-    "language": "\u2014",
-    "name": "Cheng-Yc/petfusion-moments",
-    "stars": 0,
-    "updated_at": "2026-08-23T07:44:01Z",
-    "url": "https://github.com/Cheng-Yc/petfusion-moments"
-  },
-  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -25,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T07:43:50Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "\u901a\u8fc7\u5bf9\u8bdd\u751f\u6210 Prompt \u94fe\u8def + \u8986\u76d6\u5ba1\u8ba1 + \u6a21\u578b\u63a8\u8350\u7684 AI \u5f00\u53d1\u84dd\u56fe\u751f\u6210\u5668\uff08Next.js + LangChain RAG + DeepSeek/OpenAI\uff09",
-    "id": "Alanwei-aiSaascreator/prompt-dog",
-    "language": "TypeScript",
-    "name": "Alanwei-aiSaascreator/prompt-dog",
-    "stars": 0,
-    "updated_at": "2026-08-23T07:42:38Z",
-    "url": "https://github.com/Alanwei-aiSaascreator/prompt-dog"
   },
   {
     "description": "OpenCode \u5168\u6d41\u7a0b\u5f00\u53d1\u7f16\u6392\u63d2\u4ef6\uff1a\u8986\u76d6\u9700\u6c42\u3001\u8bbe\u8ba1\u3001DAG \u4efb\u52a1\u3001\u5e76\u884c\u7f16\u7801\u3001\u6d4b\u8bd5\u3001\u5ba1\u67e5\u4e0e\u81ea\u52a8\u5408\u5e76\u3002 | Full-lifecycle development orchestration plugin for OpenCode, from ",
@@ -104,7 +185,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-23T07:37:51Z",
+    "updated_at": "2026-08-23T07:51:24Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -115,15 +196,6 @@
     "stars": 23,
     "updated_at": "2026-08-23T07:37:33Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "APES 110-aligned and TPB Code guardrails for LLM-assisted Australian tax work. Not advice.",
-    "id": "ryanduguid/DrDebits",
-    "language": "Python",
-    "name": "ryanduguid/DrDebits",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:37:24Z",
-    "url": "https://github.com/ryanduguid/DrDebits"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -223,6 +295,15 @@
     "stars": 1,
     "updated_at": "2026-08-23T07:34:11Z",
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
+  },
+  {
+    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+    "id": "kaderkck/hewn-forge",
+    "language": "HTML",
+    "name": "kaderkck/hewn-forge",
+    "stars": 117,
+    "updated_at": "2026-08-23T07:34:10Z",
+    "url": "https://github.com/kaderkck/hewn-forge"
   },
   {
     "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
@@ -342,15 +423,6 @@
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-23T07:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
     "id": "aesirsennamarilandica604/image-to-prompt",
     "language": "JavaScript",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T07:30:02Z",
     "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-08-23T07:29:53Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:29:36Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-08-23T07:28:37Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-08-23T07:28:32Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
-  },
-  {
-    "description": "Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f",
-    "id": "Hebrewlessonmobility409/papers_skills",
-    "language": "\u2014",
-    "name": "Hebrewlessonmobility409/papers_skills",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:28:27Z",
-    "url": "https://github.com/Hebrewlessonmobility409/papers_skills"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-23T07:28:21Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "Use these research-backed prompts and workflows to generate effective, authentic AI-powered UGC video concepts for socia",
-    "id": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "language": "\u2014",
-    "name": "wassaillowerlimit6418/awesome-ai-ugc-video-prompts",
-    "stars": 2,
-    "updated_at": "2026-08-23T07:28:12Z",
-    "url": "https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts"
-  },
-  {
-    "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
-    "id": "recollective-genuseptatretus377/askproof-skill",
-    "language": "Python",
-    "name": "recollective-genuseptatretus377/askproof-skill",
-    "stars": 3,
-    "updated_at": "2026-08-23T07:28:11Z",
-    "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
   }
 ]
