@@ -1,5 +1,59 @@
 [
   {
+    "description": "A practical AI-powered QA engineering toolkit containing structured prompts for test case generation, bug reporting, reg",
+    "id": "ScriptsfromZee/qa-engineering-ai-toolkit",
+    "language": "\u2014",
+    "name": "ScriptsfromZee/qa-engineering-ai-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-23T05:44:41Z",
+    "url": "https://github.com/ScriptsfromZee/qa-engineering-ai-toolkit"
+  },
+  {
+    "description": "ComfyUI custom node for generating structured multi-character scene prompts with spatial layout control. Designed for Id",
+    "id": "elliefox-ai/comfyui-scene-generator",
+    "language": "Python",
+    "name": "elliefox-ai/comfyui-scene-generator",
+    "stars": 1,
+    "updated_at": "2026-08-23T05:42:44Z",
+    "url": "https://github.com/elliefox-ai/comfyui-scene-generator"
+  },
+  {
+    "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udcac \u8bed\u97f3\u8bc6\u522b\uff08\u8bf4\u5b8c\u81ea\u52a8\u505c\u00b7\u4e91\u7aef/\u672c\u5730\u53cc\u5f15\u64ce\uff09\u00b7 \u9644 \ud83d\udd01 \u670d\u52a1\u5f02\u5e38\u4e00\u952e\u91cd\u542f",
+    "id": "Fishsb/dsh-prompt-enhancer",
+    "language": "JavaScript",
+    "name": "Fishsb/dsh-prompt-enhancer",
+    "stars": 43,
+    "updated_at": "2026-08-23T05:41:46Z",
+    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
+  },
+  {
+    "description": "The only coding skill you need: target 20-50% fewer tokens, 30-100% faster delivery, and up to 7x faster backend work wi",
+    "id": "Hubujiu/practical-coding",
+    "language": "\u2014",
+    "name": "Hubujiu/practical-coding",
+    "stars": 1,
+    "updated_at": "2026-08-23T05:41:39Z",
+    "url": "https://github.com/Hubujiu/practical-coding"
+  },
+  {
+    "description": "Galeria de Prompts",
+    "id": "anatelgovbr/prompts",
+    "language": "\u2014",
+    "name": "anatelgovbr/prompts",
+    "stars": 0,
+    "updated_at": "2026-08-23T05:41:00Z",
+    "url": "https://github.com/anatelgovbr/prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-23T05:40:52Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
     "id": "J-nowcow/awesome-korean-agent-skills",
     "language": "\u2014",
@@ -52,15 +106,6 @@
     "stars": 122,
     "updated_at": "2026-08-23T05:35:13Z",
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Galeria de Prompts",
-    "id": "anatelgovbr/prompts",
-    "language": "\u2014",
-    "name": "anatelgovbr/prompts",
-    "stars": 0,
-    "updated_at": "2026-08-23T05:34:42Z",
-    "url": "https://github.com/anatelgovbr/prompts"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -126,15 +171,6 @@
     "url": "https://github.com/kaderkck/hewn-forge"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-23T05:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
     "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
     "language": "HTML",
@@ -185,7 +221,7 @@
     "language": "JavaScript",
     "name": "thkt/dotclaude",
     "stars": 11,
-    "updated_at": "2026-08-23T05:27:08Z",
+    "updated_at": "2026-08-23T05:44:45Z",
     "url": "https://github.com/thkt/dotclaude"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T05:06:10Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1882,
-    "updated_at": "2026-08-23T05:03:27Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Habilidades personalizadas para o Databricks Genie Code (Assistente de IA) \u2013 Investiga\u00e7\u00e3o, padr\u00f5es de projeto e melhores",
-    "id": "1pedroosilva/databricks-genie-skills",
-    "language": "\u2014",
-    "name": "1pedroosilva/databricks-genie-skills",
-    "stars": 0,
-    "updated_at": "2026-08-23T05:03:07Z",
-    "url": "https://github.com/1pedroosilva/databricks-genie-skills"
-  },
-  {
-    "description": "AI-powered decision engine that tells you exactly what to do next; for people who are stuck, not lazy. Built with Next.j",
-    "id": "koi-bito/what-should-i-do-next",
-    "language": "\u2014",
-    "name": "koi-bito/what-should-i-do-next",
-    "stars": 0,
-    "updated_at": "2026-08-23T05:02:56Z",
-    "url": "https://github.com/koi-bito/what-should-i-do-next"
-  },
-  {
-    "description": "Bilingual, searchable radar for useful open-source AIGC creative tools.",
-    "id": "kwokwile/awesome-aigc-tools",
-    "language": "TypeScript",
-    "name": "kwokwile/awesome-aigc-tools",
-    "stars": 2,
-    "updated_at": "2026-08-23T05:02:15Z",
-    "url": "https://github.com/kwokwile/awesome-aigc-tools"
   }
 ]
