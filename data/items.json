@@ -1,12 +1,30 @@
 [
   {
-    "description": "Plugin pro Claude Code, kter\u00fd u\u010d\u00ed AI ps\u00e1t \u010desky tak, aby text nezn\u011bl jako p\u0159eklad z angli\u010dtiny. Nejedn\u00e1 se o blacklist f",
-    "id": "rajtik76/pis-cesky",
+    "description": "Reusable AI coding-agent prompts, plugins, and skills for Codex and Claude Code \u2014 guidelines, commit workflow, refactori",
+    "id": "mikaeltorni/programming_prompts",
     "language": "Python",
-    "name": "rajtik76/pis-cesky",
+    "name": "mikaeltorni/programming_prompts",
     "stars": 1,
-    "updated_at": "2026-08-23T15:30:19Z",
-    "url": "https://github.com/rajtik76/pis-cesky"
+    "updated_at": "2026-08-23T15:33:21Z",
+    "url": "https://github.com/mikaeltorni/programming_prompts"
+  },
+  {
+    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
+    "id": "AnastasiyaW/codex-claude-code-config",
+    "language": "Python",
+    "name": "AnastasiyaW/codex-claude-code-config",
+    "stars": 144,
+    "updated_at": "2026-08-23T15:33:01Z",
+    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
+  },
+  {
+    "description": "Professional tool to generate highly-detailed AI music prompts for platforms like Suno, Google Flow Music, Mureka, Happy",
+    "id": "rodrigocaetanooficial/AIMusicPromptGenerator",
+    "language": "TypeScript",
+    "name": "rodrigocaetanooficial/AIMusicPromptGenerator",
+    "stars": 3,
+    "updated_at": "2026-08-23T15:32:50Z",
+    "url": "https://github.com/rodrigocaetanooficial/AIMusicPromptGenerator"
   },
   {
     "description": "AI security testing \u2014 find security vulnerabilities in LLM apps, chatbots, AI agents, MCP servers, and RAG systems. Mapp",
@@ -14,8 +32,53 @@
     "language": "Rust",
     "name": "YangYang-Research/yang-promptlab",
     "stars": 1,
-    "updated_at": "2026-08-23T15:30:08Z",
+    "updated_at": "2026-08-23T15:32:09Z",
     "url": "https://github.com/YangYang-Research/yang-promptlab"
+  },
+  {
+    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
+    "id": "Prysai/Prysai-LLM-Playbook",
+    "language": "Python",
+    "name": "Prysai/Prysai-LLM-Playbook",
+    "stars": 82,
+    "updated_at": "2026-08-23T15:31:41Z",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-23T15:31:37Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-23T15:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-23T15:30:22Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Plugin pro Claude Code, kter\u00fd u\u010d\u00ed AI ps\u00e1t \u010desky tak, aby text nezn\u011bl jako p\u0159eklad z angli\u010dtiny. Nejedn\u00e1 se o blacklist f",
+    "id": "rajtik76/pis-cesky",
+    "language": "Python",
+    "name": "rajtik76/pis-cesky",
+    "stars": 1,
+    "updated_at": "2026-08-23T15:30:42Z",
+    "url": "https://github.com/rajtik76/pis-cesky"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -58,7 +121,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6258,
+    "stars": 6259,
     "updated_at": "2026-08-23T15:26:23Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -86,7 +149,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-23T15:26:02Z",
+    "updated_at": "2026-08-23T15:32:26Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -151,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T15:22:01Z",
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Reusable AI coding-agent prompts, plugins, and skills for Codex and Claude Code \u2014 guidelines, commit workflow, refactori",
-    "id": "mikaeltorni/programming_prompts",
-    "language": "Python",
-    "name": "mikaeltorni/programming_prompts",
-    "stars": 1,
-    "updated_at": "2026-08-23T15:21:13Z",
-    "url": "https://github.com/mikaeltorni/programming_prompts"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -259,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T15:15:32Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-23T15:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
@@ -373,7 +418,7 @@
     "id": "LB623/no-negative-echo",
     "language": "Python",
     "name": "LB623/no-negative-echo",
-    "stars": 247,
+    "stars": 249,
     "updated_at": "2026-08-23T15:09:58Z",
     "url": "https://github.com/LB623/no-negative-echo"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T15:08:09Z",
     "url": "https://github.com/sabre232/jobs-system"
-  },
-  {
-    "description": "Open-source LLM API cost workbench with a public source-linked Pricing Feed v1, browser-local bill audit, workflow ledge",
-    "id": "fablgen-agent/tokengauge",
-    "language": "TypeScript",
-    "name": "fablgen-agent/tokengauge",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:06:26Z",
-    "url": "https://github.com/fablgen-agent/tokengauge"
-  },
-  {
-    "description": "Reusable AI skills for brand poster, product video and onboarding workflows",
-    "id": "wenxuanzhang1209-cyber/JKinco-Skills-Lab",
-    "language": "JavaScript",
-    "name": "wenxuanzhang1209-cyber/JKinco-Skills-Lab",
-    "stars": 1,
-    "updated_at": "2026-08-23T15:06:08Z",
-    "url": "https://github.com/wenxuanzhang1209-cyber/JKinco-Skills-Lab"
-  },
-  {
-    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
-    "id": "Prysai/Prysai-LLM-Playbook",
-    "language": "Python",
-    "name": "Prysai/Prysai-LLM-Playbook",
-    "stars": 82,
-    "updated_at": "2026-08-23T15:30:17Z",
-    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-23T15:03:38Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2260,
-    "updated_at": "2026-08-23T15:03:14Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   }
 ]
