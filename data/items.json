@@ -1,5 +1,77 @@
 [
   {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 2,
+    "updated_at": "2026-08-23T22:07:12Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "A terminal menu that patches your Kimi Code install \u2014 reasoning effort, tool catalogue, transcript window, system prompt",
+    "id": "Kirchlive/kimi-code-mods",
+    "language": "Python",
+    "name": "Kirchlive/kimi-code-mods",
+    "stars": 0,
+    "updated_at": "2026-08-23T22:06:24Z",
+    "url": "https://github.com/Kirchlive/kimi-code-mods"
+  },
+  {
+    "description": "Central agentic standards, guidelines, skills & bootstrap tooling for AI coding agents (Claude, Codex, Copilot).",
+    "id": "me-cedric/agent-compass",
+    "language": "JavaScript",
+    "name": "me-cedric/agent-compass",
+    "stars": 1,
+    "updated_at": "2026-08-23T22:05:38Z",
+    "url": "https://github.com/me-cedric/agent-compass"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3504,
+    "updated_at": "2026-08-23T22:06:03Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Java",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-08-23T22:03:27Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
+    "id": "Prysai/Prysai-LLM-Playbook",
+    "language": "Python",
+    "name": "Prysai/Prysai-LLM-Playbook",
+    "stars": 86,
+    "updated_at": "2026-08-23T22:02:49Z",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+  },
+  {
+    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
+    "id": "imhamzakhan/context-flow-compressor",
+    "language": "HTML",
+    "name": "imhamzakhan/context-flow-compressor",
+    "stars": 0,
+    "updated_at": "2026-08-23T22:00:53Z",
+    "url": "https://github.com/imhamzakhan/context-flow-compressor"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-23T22:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -63,15 +135,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-23T21:54:20Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Classifies public defense news into category, operational domain, and region. Human-graded gold at v3.2.1: 94.4% / 98.1%",
     "id": "sanlee-ys/defense-news-classifier",
     "language": "Python",
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T21:54:03Z",
     "url": "https://github.com/gabryellewalker/llm-prompt-regression-testing-toolkit"
-  },
-  {
-    "description": "Central agentic standards, guidelines, skills & bootstrap tooling for AI coding agents (Claude, Codex, Copilot).",
-    "id": "me-cedric/agent-compass",
-    "language": "JavaScript",
-    "name": "me-cedric/agent-compass",
-    "stars": 1,
-    "updated_at": "2026-08-23T21:53:09Z",
-    "url": "https://github.com/me-cedric/agent-compass"
   },
   {
     "description": "Transforma uma tarefa real de trabalho em automa\u00e7\u00e3o instal\u00e1vel no Claude Code \u2014 agentes, skills, scripts, hooks e MCP \u2014 ",
@@ -167,7 +221,7 @@
     "language": "HTML",
     "name": "PablitoPJ/drifter-blueprint-vault",
     "stars": 1,
-    "updated_at": "2026-08-23T21:49:35Z",
+    "updated_at": "2026-08-23T22:07:03Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
@@ -198,20 +252,11 @@
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
-    "description": "A terminal menu that patches your Kimi Code install \u2014 reasoning effort, tool catalogue, transcript window, system prompt",
-    "id": "Kirchlive/kimi-code-mods",
-    "language": "Python",
-    "name": "Kirchlive/kimi-code-mods",
-    "stars": 0,
-    "updated_at": "2026-08-23T21:43:27Z",
-    "url": "https://github.com/Kirchlive/kimi-code-mods"
-  },
-  {
     "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 100509,
+    "stars": 100510,
     "updated_at": "2026-08-23T21:43:01Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -223,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T21:42:27Z",
     "url": "https://github.com/ekorbia/ekorbia-desktop"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3504,
-    "updated_at": "2026-08-23T21:57:20Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -277,15 +313,6 @@
     "stars": 22,
     "updated_at": "2026-08-23T21:39:06Z",
     "url": "https://github.com/0p9b/TLDR"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 2,
-    "updated_at": "2026-08-23T21:35:30Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
     "description": "Open-source prompt development and orchestration system powered by Supabase.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T21:20:59Z",
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-08-23T21:20:58Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-23T21:20:56Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 4,
-    "updated_at": "2026-08-23T21:20:51Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   }
 ]
