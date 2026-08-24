@@ -1,5 +1,86 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3505,
+    "updated_at": "2026-08-24T14:12:49Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Task-aware reasoning-mode router for Codex + DeepSeek | Codex+DeepSeek \u601d\u7ef4\u6a21\u5f0f\u8def\u7531\uff08spec/react/weak\uff09",
+    "id": "RuriLothlorien/codex-dsh-routing-suite",
+    "language": "JavaScript",
+    "name": "RuriLothlorien/codex-dsh-routing-suite",
+    "stars": 1,
+    "updated_at": "2026-08-24T14:11:03Z",
+    "url": "https://github.com/RuriLothlorien/codex-dsh-routing-suite"
+  },
+  {
+    "description": "An agent package and project manager, written in Rust.",
+    "id": "narumiruna/aru",
+    "language": "Rust",
+    "name": "narumiruna/aru",
+    "stars": 5,
+    "updated_at": "2026-08-24T14:10:31Z",
+    "url": "https://github.com/narumiruna/aru"
+  },
+  {
+    "description": "Grok Imagine prompts, organized by Yep (gentpan)",
+    "id": "gentpan/grok-imagine-prompts",
+    "language": "Python",
+    "name": "gentpan/grok-imagine-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-24T14:10:20Z",
+    "url": "https://github.com/gentpan/grok-imagine-prompts"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33629,
+    "updated_at": "2026-08-24T14:09:42Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83c\udfad 267 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Hermes Agent/Claude Code/Cursor/Copilot \u7b49 18 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 20 \u4e2a\u90e8\u95e8\u3002\u542b 52 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/",
+    "id": "jnMetaCode/agency-agents-zh",
+    "language": "Shell",
+    "name": "jnMetaCode/agency-agents-zh",
+    "stars": 19862,
+    "updated_at": "2026-08-24T14:09:20Z",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh"
+  },
+  {
+    "description": "Nano Banana / Gemini image prompts, organized by Yep (gentpan)",
+    "id": "gentpan/nano-banana-prompts",
+    "language": "Python",
+    "name": "gentpan/nano-banana-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-24T14:10:17Z",
+    "url": "https://github.com/gentpan/nano-banana-prompts"
+  },
+  {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 46,
+    "updated_at": "2026-08-24T14:13:27Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-24T14:08:11Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles ",
     "id": "PromptPartner/agentsmith",
     "language": "Shell",
@@ -7,6 +88,15 @@
     "stars": 223,
     "updated_at": "2026-08-24T14:07:50Z",
     "url": "https://github.com/PromptPartner/agentsmith"
+  },
+  {
+    "description": "ChatGPT GPT Image 2 prompts, organized by Yep (gentpan)",
+    "id": "gentpan/chatgpt-image-2-prompts",
+    "language": "Python",
+    "name": "gentpan/chatgpt-image-2-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-24T14:15:12Z",
+    "url": "https://github.com/gentpan/chatgpt-image-2-prompts"
   },
   {
     "description": "OpenCode \u81ea\u6211\u8fdb\u5316\u7cfb\u7edf + \u5f00\u53d1\u89c4\u8303\uff1a\u81ea\u52a8\u6c89\u6dc0\u6280\u80fd\u3001\u81ea\u52a8\u7ef4\u62a4\u6280\u80fd\u3001\u9ed8\u8ba4\u5f00\u53d1\u7eaa\u5f8b",
@@ -18,13 +108,40 @@
     "url": "https://github.com/yubuhui/opencode-self-evolving"
   },
   {
-    "description": "Task-aware reasoning-mode router for Codex + DeepSeek | Codex+DeepSeek \u601d\u7ef4\u6a21\u5f0f\u8def\u7531\uff08spec/react/weak\uff09",
-    "id": "RuriLothlorien/codex-dsh-routing-suite",
-    "language": "JavaScript",
-    "name": "RuriLothlorien/codex-dsh-routing-suite",
+    "description": "\u4e00\u5957\u7ed9 AI Agent \u7684\u65c5\u884c\u89c4\u5212\u89c4\u5219\u5305\uff1a\u53ef\u6838\u9a8c\u7684\u4ea4\u6613\u6027\u4e8b\u5b9e\u3001\u6309\u9700\u52a0\u8f7d\u7684 16 \u4e2a\u4e13\u9879\u6a21\u5757\u3001\u4e8b\u5b9e\u53f0\u8d26\u590d\u7528\u3001\u79bb\u7ebf\u624b\u673a\u7248\u65c5\u884c\u624b\u518c\uff08\u4e2d\u82f1\u53cc\u8bed\uff09",
+    "id": "Lukala23/ai-travel-planning-kit",
+    "language": "HTML",
+    "name": "Lukala23/ai-travel-planning-kit",
+    "stars": 0,
+    "updated_at": "2026-08-24T14:07:20Z",
+    "url": "https://github.com/Lukala23/ai-travel-planning-kit"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
     "stars": 1,
-    "updated_at": "2026-08-24T14:06:08Z",
-    "url": "https://github.com/RuriLothlorien/codex-dsh-routing-suite"
+    "updated_at": "2026-08-24T14:06:26Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Universal Prompt Pro - All-in-one prompt engineering system. \u4e07\u80fd\u63d0\u793a\u8bcd\u7cfb\u7edf\u2014\u2014\u63d0\u793a\u8bcd\u751f\u6210/\u4f18\u5316/\u8bc4\u4f30/\u8bca\u65ad/\u538b\u7f29/\u8fc1\u79fb\u5168\u94fe\u8def\u5de5\u5177\u3002",
+    "id": "bin1732/universal-prompt-pro",
+    "language": "JavaScript",
+    "name": "bin1732/universal-prompt-pro",
+    "stars": 0,
+    "updated_at": "2026-08-24T14:05:50Z",
+    "url": "https://github.com/bin1732/universal-prompt-pro"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-08-24T14:05:38Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   },
   {
     "description": "A prompt library for AI agents and assistants.",
@@ -36,40 +153,22 @@
     "url": "https://github.com/is-leeroy-jenkins/Guro"
   },
   {
-    "description": "Grok Imagine prompts, organized by Yep (gentpan)",
-    "id": "gentpan/grok-imagine-prompts",
-    "language": "\u2014",
-    "name": "gentpan/grok-imagine-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:07:29Z",
-    "url": "https://github.com/gentpan/grok-imagine-prompts"
-  },
-  {
-    "description": "Nano Banana / Gemini image prompts, organized by Yep (gentpan)",
-    "id": "gentpan/nano-banana-prompts",
-    "language": "\u2014",
-    "name": "gentpan/nano-banana-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:03:10Z",
-    "url": "https://github.com/gentpan/nano-banana-prompts"
-  },
-  {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 45,
-    "updated_at": "2026-08-24T14:03:02Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "\u4e00\u5957\u7ed9 AI Agent \u7684\u65c5\u884c\u89c4\u5212\u89c4\u5219\u5305\uff1a\u53ef\u6838\u9a8c\u7684\u4ea4\u6613\u6027\u4e8b\u5b9e\u3001\u6309\u9700\u52a0\u8f7d\u7684 16 \u4e2a\u4e13\u9879\u6a21\u5757\u3001\u4e8b\u5b9e\u53f0\u8d26\u590d\u7528\u3001\u79bb\u7ebf\u624b\u673a\u7248\u65c5\u884c\u624b\u518c\uff08\u4e2d\u82f1\u53cc\u8bed\uff09",
-    "id": "Lukala23/ai-travel-planning-kit",
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
-    "name": "Lukala23/ai-travel-planning-kit",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:07:20Z",
-    "url": "https://github.com/Lukala23/ai-travel-planning-kit"
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-24T14:03:39Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "",
+    "id": "taskveda/TaskVeda-New01",
+    "language": "HTML",
+    "name": "taskveda/TaskVeda-New01",
+    "stars": 1,
+    "updated_at": "2026-08-24T14:03:39Z",
+    "url": "https://github.com/taskveda/TaskVeda-New01"
   },
   {
     "description": "GitHub Action to sync, validate, generate, and diff AI IDE configuration files with LynxPrompt",
@@ -79,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T14:00:43Z",
     "url": "https://github.com/GeiserX/lynxprompt-action"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-24T14:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Human-led AI workflows for real B2B sales work.",
@@ -221,7 +311,7 @@
     "language": "Go",
     "name": "vllm-project/semantic-router",
     "stars": 5258,
-    "updated_at": "2026-08-24T13:56:09Z",
+    "updated_at": "2026-08-24T14:13:55Z",
     "url": "https://github.com/vllm-project/semantic-router"
   },
   {
@@ -347,7 +437,7 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 17,
-    "updated_at": "2026-08-24T13:47:18Z",
+    "updated_at": "2026-08-24T14:11:23Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-24T13:45:34Z",
     "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "ChatGPT GPT Image 2 prompts, organized by Yep (gentpan)",
-    "id": "gentpan/chatgpt-image-2-prompts",
-    "language": "Python",
-    "name": "gentpan/chatgpt-image-2-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:07:39Z",
-    "url": "https://github.com/gentpan/chatgpt-image-2-prompts"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-24T13:44:40Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-24T13:43:27Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-24T13:43:17Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-24T13:43:05Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-24T13:43:02Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-24T13:42:55Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-24T13:42:12Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-24T13:41:57Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "An open Agent Skill for evidence-first investigation, decisive execution, and proof-backed completion in Codex and Claud",
-    "id": "aiopshwang/evidence-first-problem-solving",
-    "language": "Python",
-    "name": "aiopshwang/evidence-first-problem-solving",
-    "stars": 8,
-    "updated_at": "2026-08-24T13:41:49Z",
-    "url": "https://github.com/aiopshwang/evidence-first-problem-solving"
   }
 ]
