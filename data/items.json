@@ -1,5 +1,41 @@
 [
   {
+    "description": "Evidence-driven engineering control plane for AI coding agents. Full Codex workflows, Claude Code MCP preview, bounded g",
+    "id": "JarodFroneman/jstack",
+    "language": "Python",
+    "name": "JarodFroneman/jstack",
+    "stars": 2,
+    "updated_at": "2026-08-24T21:15:43Z",
+    "url": "https://github.com/JarodFroneman/jstack"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-24T21:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-08-24T21:14:50Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Build a person once, then shoot a whole series: framing, pose, placement, expression and aspect ratio vary while the per",
+    "id": "ralksta/ComfyUI-Photoshoot",
+    "language": "Python",
+    "name": "ralksta/ComfyUI-Photoshoot",
+    "stars": 40,
+    "updated_at": "2026-08-24T21:14:29Z",
+    "url": "https://github.com/ralksta/ComfyUI-Photoshoot"
+  },
+  {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
     "id": "hakodev2k/AI-Engineering",
     "language": "Python",
@@ -27,21 +63,12 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "Build a person once, then shoot a whole series: framing, pose, placement, expression and aspect ratio vary while the per",
-    "id": "ralksta/ComfyUI-Photoshoot",
-    "language": "Python",
-    "name": "ralksta/ComfyUI-Photoshoot",
-    "stars": 40,
-    "updated_at": "2026-08-24T21:14:29Z",
-    "url": "https://github.com/ralksta/ComfyUI-Photoshoot"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24538,
-    "updated_at": "2026-08-24T21:09:09Z",
+    "updated_at": "2026-08-24T21:15:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "sergstack/AI-OS",
     "stars": 0,
-    "updated_at": "2026-08-24T21:07:10Z",
+    "updated_at": "2026-08-24T21:16:11Z",
     "url": "https://github.com/sergstack/AI-OS"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T21:00:36Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-24T21:00:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T20:33:35Z",
     "url": "https://github.com/sadvi11/structured-test-agent"
-  },
-  {
-    "description": "Evidence-first LLM-as-judge scoring for AI artifacts \u2014 papers, PRs, prompts, cold emails: synthesizes a rubric, collects",
-    "id": "hermes-labs-ai/hermes-rubric",
-    "language": "Python",
-    "name": "hermes-labs-ai/hermes-rubric",
-    "stars": 1,
-    "updated_at": "2026-08-24T20:33:10Z",
-    "url": "https://github.com/hermes-labs-ai/hermes-rubric"
-  },
-  {
-    "description": "Inspectable context compression for LLM conversations: turn older history into visible scaffold state, keep recent turns",
-    "id": "hermes-labs-ai/langstate",
-    "language": "Python",
-    "name": "hermes-labs-ai/langstate",
-    "stars": 0,
-    "updated_at": "2026-08-24T21:00:41Z",
-    "url": "https://github.com/hermes-labs-ai/langstate"
   }
 ]
