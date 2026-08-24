@@ -1,5 +1,41 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24530,
+    "updated_at": "2026-08-24T15:29:33Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Public, reusable prompt packs for local LLM, agent, and application-quality benchmarks.",
+    "id": "gdevsnack-ai-labs/llm-bench-prompt-packs",
+    "language": "\u2014",
+    "name": "gdevsnack-ai-labs/llm-bench-prompt-packs",
+    "stars": 0,
+    "updated_at": "2026-08-24T15:27:55Z",
+    "url": "https://github.com/gdevsnack-ai-labs/llm-bench-prompt-packs"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-24T15:27:13Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Find where a company's promise breaks between what it says and what the product does. An Agent Skill.",
+    "id": "jovelove7/facet",
+    "language": "Python",
+    "name": "jovelove7/facet",
+    "stars": 0,
+    "updated_at": "2026-08-24T15:27:03Z",
+    "url": "https://github.com/jovelove7/facet"
+  },
+  {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
     "id": "hakodev2k/AI-Engineering",
     "language": "Python",
@@ -27,6 +63,15 @@
     "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
   },
   {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-24T15:22:38Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -45,15 +90,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24530,
-    "updated_at": "2026-08-24T15:23:01Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "sergstack/AI-OS",
     "stars": 0,
-    "updated_at": "2026-08-24T15:17:12Z",
+    "updated_at": "2026-08-24T15:29:07Z",
     "url": "https://github.com/sergstack/AI-OS"
   },
   {
@@ -81,22 +117,13 @@
     "url": "https://github.com/HyperVon/agent-guidance-kit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-24T15:15:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
-    "id": "FoxsterDev/ai-research-hub",
-    "language": "Python",
-    "name": "FoxsterDev/ai-research-hub",
-    "stars": 5,
-    "updated_at": "2026-08-24T15:12:57Z",
-    "url": "https://github.com/FoxsterDev/ai-research-hub"
+    "description": "A comprehensive Prompt Engineering library featuring reusable prompt templates, patterns, best practices, and real-world",
+    "id": "OlehDatsyk/prompt-engineering",
+    "language": "Shell",
+    "name": "OlehDatsyk/prompt-engineering",
+    "stars": 0,
+    "updated_at": "2026-08-24T15:15:16Z",
+    "url": "https://github.com/OlehDatsyk/prompt-engineering"
   },
   {
     "description": "A lightweight coding skill with direct execution, event-routed modules, scoped subagents, and risk-proportional verifica",
@@ -106,6 +133,15 @@
     "stars": 1,
     "updated_at": "2026-08-24T15:13:21Z",
     "url": "https://github.com/Hubujiu/practical-coding"
+  },
+  {
+    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
+    "id": "FoxsterDev/ai-research-hub",
+    "language": "Python",
+    "name": "FoxsterDev/ai-research-hub",
+    "stars": 5,
+    "updated_at": "2026-08-24T15:12:57Z",
+    "url": "https://github.com/FoxsterDev/ai-research-hub"
   },
   {
     "description": "A language-agnostic AGENTS.md for AI coding agents, covering scope discipline, defensive programming, testing, and commi",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21569,
-    "updated_at": "2026-08-24T15:18:03Z",
+    "updated_at": "2026-08-24T15:27:14Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 122,
     "updated_at": "2026-08-24T14:49:42Z",
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
-    "id": "imhamzakhan/context-flow-compressor",
-    "language": "HTML",
-    "name": "imhamzakhan/context-flow-compressor",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:47:29Z",
-    "url": "https://github.com/imhamzakhan/context-flow-compressor"
-  },
-  {
-    "description": "From arXiv to Academic Posters: An Agent Is All You Need",
-    "id": "ISadBecase/PNP",
-    "language": "Python",
-    "name": "ISadBecase/PNP",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:46:00Z",
-    "url": "https://github.com/ISadBecase/PNP"
-  },
-  {
-    "description": "Local-first AI coding workflow for vibe coders, indie hackers, technical founders and product managers \u2014 catch missing t",
-    "id": "hi0001234d/nexpath",
-    "language": "TypeScript",
-    "name": "hi0001234d/nexpath",
-    "stars": 41,
-    "updated_at": "2026-08-24T14:45:30Z",
-    "url": "https://github.com/hi0001234d/nexpath"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 1,
-    "updated_at": "2026-08-24T14:43:46Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
   }
 ]
