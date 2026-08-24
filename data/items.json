@@ -1,5 +1,77 @@
 [
   {
+    "description": "Centralized system instructions, context rules, and smart skills to optimize AI performance, enforce software architectu",
+    "id": "Raullize/ai-guardrails",
+    "language": "Shell",
+    "name": "Raullize/ai-guardrails",
+    "stars": 0,
+    "updated_at": "2026-08-24T04:02:54Z",
+    "url": "https://github.com/Raullize/ai-guardrails"
+  },
+  {
+    "description": "29 free GEO/AI-search Agent Skills plus an installable CLI for audits, citability, AI crawlers, prompt packs, owner maps",
+    "id": "TheSmokeDev/geo-skills",
+    "language": "Python",
+    "name": "TheSmokeDev/geo-skills",
+    "stars": 20,
+    "updated_at": "2026-08-24T04:01:50Z",
+    "url": "https://github.com/TheSmokeDev/geo-skills"
+  },
+  {
+    "description": "Braid a plan graph of plain-text files into one well-ordered prompt \u2014 with a live canvas, MCP control for agents, and de",
+    "id": "tzavislan/kumihimo",
+    "language": "Python",
+    "name": "tzavislan/kumihimo",
+    "stars": 0,
+    "updated_at": "2026-08-24T04:01:44Z",
+    "url": "https://github.com/tzavislan/kumihimo"
+  },
+  {
+    "description": "Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recov",
+    "id": "Jia-Ethan/codex-keysmith",
+    "language": "Python",
+    "name": "Jia-Ethan/codex-keysmith",
+    "stars": 3966,
+    "updated_at": "2026-08-24T04:01:43Z",
+    "url": "https://github.com/Jia-Ethan/codex-keysmith"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-24T04:00:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 118,
+    "updated_at": "2026-08-24T04:00:32Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-08-24T04:00:04Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "A provider-neutral architecture skill for building extensible AI video production agents.",
+    "id": "jonasnick629182-blip/director-video-agent-skill",
+    "language": "\u2014",
+    "name": "jonasnick629182-blip/director-video-agent-skill",
+    "stars": 0,
+    "updated_at": "2026-08-24T03:59:53Z",
+    "url": "https://github.com/jonasnick629182-blip/director-video-agent-skill"
+  },
+  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T03:58:22Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "29 free GEO/AI-search Agent Skills plus an installable CLI for audits, citability, AI crawlers, prompt packs, owner maps",
-    "id": "TheSmokeDev/geo-skills",
-    "language": "Python",
-    "name": "TheSmokeDev/geo-skills",
-    "stars": 20,
-    "updated_at": "2026-08-24T04:00:13Z",
-    "url": "https://github.com/TheSmokeDev/geo-skills"
   },
   {
     "description": "AI-agent & automation engineer \u2014 n8n, OpenClaw/Hermes, bots, prompt engineering. Building agents from Bandung, Indonesia",
@@ -52,15 +115,6 @@
     "stars": 23,
     "updated_at": "2026-08-24T03:54:33Z",
     "url": "https://github.com/Mr-Salticidae/knowledge-base"
-  },
-  {
-    "description": "Braid a plan graph of plain-text files into one well-ordered prompt \u2014 with a live canvas, MCP control for agents, and de",
-    "id": "tzavislan/kumihimo",
-    "language": "Python",
-    "name": "tzavislan/kumihimo",
-    "stars": 0,
-    "updated_at": "2026-08-24T03:54:29Z",
-    "url": "https://github.com/tzavislan/kumihimo"
   },
   {
     "description": "\ud83c\udfac Curated Seedance 2.5 video prompts with preview frames \u2014 auto-generated README, EN/\u4e2d\u6587",
@@ -223,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T03:46:11Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-24T03:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T03:35:36Z",
     "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "OMK \u2014 Observe. Measure. Know. Make every knowledge change in your AI application evidence-backed.",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 17,
-    "updated_at": "2026-08-24T03:39:31Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 0,
-    "updated_at": "2026-08-24T03:34:49Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 1,
-    "updated_at": "2026-08-24T03:33:44Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "An 18-test, 6-dimension reliability battery for AI agents. Honest A-F, and any dimension the evidence cannot support com",
-    "id": "forevercrab321-svg/leevar-battery",
-    "language": "JavaScript",
-    "name": "forevercrab321-svg/leevar-battery",
-    "stars": 0,
-    "updated_at": "2026-08-24T03:32:51Z",
-    "url": "https://github.com/forevercrab321-svg/leevar-battery"
-  },
-  {
-    "description": "Curated Context7 skills pack: manifest + one-click installer, deduplicated by installs/trust/verified.",
-    "id": "LouisLau-art/multi-agent-skills-catalog",
-    "language": "Python",
-    "name": "LouisLau-art/multi-agent-skills-catalog",
-    "stars": 2,
-    "updated_at": "2026-08-24T03:28:43Z",
-    "url": "https://github.com/LouisLau-art/multi-agent-skills-catalog"
   }
 ]
