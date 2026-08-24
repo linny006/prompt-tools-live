@@ -1,11 +1,155 @@
 [
   {
+    "description": "A Tiptap extension for the model-language template syntax: highlighting, staged autocomplete, hover diagnostics and loca",
+    "id": "wexiohub/tiptap-model-language",
+    "language": "TypeScript",
+    "name": "wexiohub/tiptap-model-language",
+    "stars": 3,
+    "updated_at": "2026-08-24T13:25:04Z",
+    "url": "https://github.com/wexiohub/tiptap-model-language"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 2,
+    "updated_at": "2026-08-24T13:24:28Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21568,
+    "updated_at": "2026-08-24T13:21:44Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3505,
+    "updated_at": "2026-08-24T13:21:04Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-24T13:21:04Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
+    "id": "Prysai/Prysai-LLM-Playbook",
+    "language": "Python",
+    "name": "Prysai/Prysai-LLM-Playbook",
+    "stars": 97,
+    "updated_at": "2026-08-24T13:19:38Z",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+  },
+  {
+    "description": "My personal Agent Skills for coding agents: engineering workflows plus a few personal-use tools. Personalized forks, wit",
+    "id": "martonpaulo/skills",
+    "language": "Python",
+    "name": "martonpaulo/skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T13:18:53Z",
+    "url": "https://github.com/martonpaulo/skills"
+  },
+  {
+    "description": "Simple Explanation Skill (SES) \u2014 an open agent skill that makes AI explain anything simply: answer first, depth in layer",
+    "id": "Ryuketsukami/simple-explanation-skill",
+    "language": "\u2014",
+    "name": "Ryuketsukami/simple-explanation-skill",
+    "stars": 1,
+    "updated_at": "2026-08-24T13:18:33Z",
+    "url": "https://github.com/Ryuketsukami/simple-explanation-skill"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33626,
+    "updated_at": "2026-08-24T13:18:00Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Write your AI coding setup once, run it in every tool. One source of truth \u2014 148 commands, 88 agents, 115 skills, 23 rol",
+    "id": "adnanmokhtar/refract",
+    "language": "Shell",
+    "name": "adnanmokhtar/refract",
+    "stars": 0,
+    "updated_at": "2026-08-24T13:17:54Z",
+    "url": "https://github.com/adnanmokhtar/refract"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-08-24T13:17:26Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-24T13:17:02Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-08-24T13:16:07Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
+    "id": "gmaheshraju/Hands-on-AgenticAI",
+    "language": "JavaScript",
+    "name": "gmaheshraju/Hands-on-AgenticAI",
+    "stars": 0,
+    "updated_at": "2026-08-24T13:21:42Z",
+    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-24T13:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-24T13:15:15Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
     "description": "OMK \u2014 Observe. Measure. Know. Make every knowledge change in your AI application evidence-backed.",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 17,
-    "updated_at": "2026-08-24T13:14:15Z",
+    "updated_at": "2026-08-24T13:22:16Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -16,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T13:13:57Z",
     "url": "https://github.com/LonelySoul87/relay-console"
+  },
+  {
+    "description": "Find where a company's promise breaks between what it says and what the product does. An Agent Skill.",
+    "id": "jovelove7/facet",
+    "language": "Python",
+    "name": "jovelove7/facet",
+    "stars": 0,
+    "updated_at": "2026-08-24T13:24:48Z",
+    "url": "https://github.com/jovelove7/facet"
   },
   {
     "description": "A prompt library for AI agents and assistants.",
@@ -50,8 +203,17 @@
     "language": "JavaScript",
     "name": "thkt/dotclaude",
     "stars": 11,
-    "updated_at": "2026-08-24T13:10:09Z",
+    "updated_at": "2026-08-24T13:17:15Z",
     "url": "https://github.com/thkt/dotclaude"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-24T13:09:46Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
     "description": "A filesystem-first library for prompt engineering, context engineering, agent control, reusable AI workflows, research m",
@@ -203,7 +365,7 @@
     "language": "Go",
     "name": "vllm-project/semantic-router",
     "stars": 5257,
-    "updated_at": "2026-08-24T13:01:11Z",
+    "updated_at": "2026-08-24T13:25:16Z",
     "url": "https://github.com/vllm-project/semantic-router"
   },
   {
@@ -216,15 +378,6 @@
     "url": "https://github.com/zenHeart/ai-jue"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-24T13:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
     "id": "grigb/gas-prompt-library",
     "language": "Python",
@@ -232,15 +385,6 @@
     "stars": 5,
     "updated_at": "2026-08-24T13:00:28Z",
     "url": "https://github.com/grigb/gas-prompt-library"
-  },
-  {
-    "description": "Write your AI coding setup once, run it in every tool. One source of truth \u2014 148 commands, 88 agents, 115 skills, 23 rol",
-    "id": "adnanmokhtar/refract",
-    "language": "Shell",
-    "name": "adnanmokhtar/refract",
-    "stars": 0,
-    "updated_at": "2026-08-24T12:59:55Z",
-    "url": "https://github.com/adnanmokhtar/refract"
   },
   {
     "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
@@ -293,17 +437,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11167,
-    "updated_at": "2026-08-24T12:58:12Z",
+    "updated_at": "2026-08-24T13:21:52Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Simple Explanation Skill (SES) \u2014 an open agent skill that makes AI explain anything simply: answer first, depth in layer",
-    "id": "Ryuketsukami/simple-explanation-skill",
-    "language": "\u2014",
-    "name": "Ryuketsukami/simple-explanation-skill",
-    "stars": 1,
-    "updated_at": "2026-08-24T12:58:01Z",
-    "url": "https://github.com/Ryuketsukami/simple-explanation-skill"
   },
   {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
@@ -313,140 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T12:57:48Z",
     "url": "https://github.com/imhamzakhan/context-flow-compressor"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 120,
-    "updated_at": "2026-08-24T12:57:48Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 1,
-    "updated_at": "2026-08-24T12:53:46Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 1,
-    "updated_at": "2026-08-24T12:53:41Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-    "id": "kyegomez/swarms",
-    "language": "Python",
-    "name": "kyegomez/swarms",
-    "stars": 7078,
-    "updated_at": "2026-08-24T12:53:13Z",
-    "url": "https://github.com/kyegomez/swarms"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-08-24T12:52:35Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 4,
-    "updated_at": "2026-08-24T12:52:08Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "DeepSeek Harness\u63d0\u793a\u8bcd\u589e\u5f3a\u63d2\u4ef6",
-    "id": "sunzhentao/dsh--prompt--enhance",
-    "language": "JavaScript",
-    "name": "sunzhentao/dsh--prompt--enhance",
-    "stars": 0,
-    "updated_at": "2026-08-24T12:51:16Z",
-    "url": "https://github.com/sunzhentao/dsh--prompt--enhance"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-08-24T12:51:07Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-08-24T12:51:03Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 0,
-    "updated_at": "2026-08-24T12:50:42Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-08-24T12:50:16Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-08-24T12:50:13Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-24T12:50:09Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "taxue \u753b\u5e08\uff1aDeepSeek Harness \u4e00\u4f53\u5316\u89c6\u89c9\u521b\u4f5c\u5de5\u5177\u94fe\uff08\u63d0\u793a\u8bcd\u53cd\u63a8/\u4f18\u5316 + \u591a\u4f9b\u5e94\u5546\u751f\u56fe\uff0c\u652f\u6301\u5f02\u6b65\u540e\u53f0\u51fa\u56fe\uff09",
-    "id": "taxueseek/taxue-dsh-artisan",
-    "language": "TypeScript",
-    "name": "taxueseek/taxue-dsh-artisan",
-    "stars": 0,
-    "updated_at": "2026-08-24T12:50:05Z",
-    "url": "https://github.com/taxueseek/taxue-dsh-artisan"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33626,
-    "updated_at": "2026-08-24T13:11:32Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
