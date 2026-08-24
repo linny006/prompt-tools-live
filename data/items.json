@@ -1,5 +1,149 @@
 [
   {
+    "description": "collect related papers",
+    "id": "llmhacking/papers",
+    "language": "\u2014",
+    "name": "llmhacking/papers",
+    "stars": 9,
+    "updated_at": "2026-08-24T02:43:34Z",
+    "url": "https://github.com/llmhacking/papers"
+  },
+  {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "JavaScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 10610,
+    "updated_at": "2026-08-24T02:43:14Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "Fact-locked Traditional Chinese humanizer for SOPs, CVs, and STEM writing\uff5c\u4fdd\u7559\u4e8b\u5be6\u8207\u6280\u8853\u908a\u754c\u7684\u7e41\u4e2d\u81ea\u7136\u5316 Agent Skill",
+    "id": "SYZBZ/fact-locked-humanizer",
+    "language": "\u2014",
+    "name": "SYZBZ/fact-locked-humanizer",
+    "stars": 0,
+    "updated_at": "2026-08-24T02:40:10Z",
+    "url": "https://github.com/SYZBZ/fact-locked-humanizer"
+  },
+  {
+    "description": "Identity-neutral Codex skill for quirky hand-drawn explainer plans, prompts, and visual QA.",
+    "id": "aierlanjiu/xuemu-illustration-core",
+    "language": "Shell",
+    "name": "aierlanjiu/xuemu-illustration-core",
+    "stars": 0,
+    "updated_at": "2026-08-24T02:40:06Z",
+    "url": "https://github.com/aierlanjiu/xuemu-illustration-core"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7076,
+    "updated_at": "2026-08-24T02:39:59Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "514 Krea 2 Turbo prompts with generated examples and ComfyUI wildcards",
+    "id": "sjh9714/krea2-wildcards",
+    "language": "HTML",
+    "name": "sjh9714/krea2-wildcards",
+    "stars": 18,
+    "updated_at": "2026-08-24T02:39:11Z",
+    "url": "https://github.com/sjh9714/krea2-wildcards"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-24T02:38:48Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": " Prompt Driven Development (PDD): The Last Programming Language\u2122. Prompt files are source; code is generated output.",
+    "id": "promptdriven/pdd",
+    "language": "Python",
+    "name": "promptdriven/pdd",
+    "stars": 847,
+    "updated_at": "2026-08-24T02:39:05Z",
+    "url": "https://github.com/promptdriven/pdd"
+  },
+  {
+    "description": "Claude Code skill that builds a project's AI rule set \u2014 slim CLAUDE.md index + AGENTS.md pointer + on-demand docs/*.md r",
+    "id": "moveju112/rule-architect",
+    "language": "Python",
+    "name": "moveju112/rule-architect",
+    "stars": 1,
+    "updated_at": "2026-08-24T02:37:53Z",
+    "url": "https://github.com/moveju112/rule-architect"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "SAIRAMANALADI/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "SAIRAMANALADI/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-08-24T02:36:03Z",
+    "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
+  },
+  {
+    "description": "Creative Writing and General Conversation System Prompt for LLM",
+    "id": "baros4294/Baros-s-LLM-System-Prompt",
+    "language": "\u2014",
+    "name": "baros4294/Baros-s-LLM-System-Prompt",
+    "stars": 0,
+    "updated_at": "2026-08-24T02:35:23Z",
+    "url": "https://github.com/baros4294/Baros-s-LLM-System-Prompt"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-08-24T02:35:10Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Agent Skills & DeepSeek Harness (DSH) \u6269\u5c55\u5e93\uff1a\u901a\u7528\u667a\u80fd\u4f53\u6280\u80fd\uff08General_skills\uff09+ DSH \u6807\u51c6\u63d2\u4ef6\uff08dsh-plugin\uff09\uff0c\u5f00\u7bb1\u5373\u7528\u7684 AI Agent \u80fd\u529b\u589e\u5f3a\u96c6\u5408\u3002",
+    "id": "DDDFXYqiming/Agent_Extensions",
+    "language": "JavaScript",
+    "name": "DDDFXYqiming/Agent_Extensions",
+    "stars": 7,
+    "updated_at": "2026-08-24T02:34:59Z",
+    "url": "https://github.com/DDDFXYqiming/Agent_Extensions"
+  },
+  {
+    "description": "A starting point for building custom agentic LLM applications using Open Source tooling and models. Incorporates Ollama,",
+    "id": "jbsoftware-io/gen-ai-starter",
+    "language": "Python",
+    "name": "jbsoftware-io/gen-ai-starter",
+    "stars": 3,
+    "updated_at": "2026-08-24T02:33:08Z",
+    "url": "https://github.com/jbsoftware-io/gen-ai-starter"
+  },
+  {
+    "description": "PromptPaw \u662f\u4e00\u6b3e\u9762\u5411 Chrome \u4e0e Microsoft Edge \u7684\u672c\u673a\u6d4f\u89c8\u5668\u6269\u5c55\u3002\u9009\u62e9\u7f51\u9875\u4e2d\u7684\u56fe\u7247\u540e\uff0c\u5b83\u4f1a\u8c03\u7528\u4f60\u914d\u7f6e\u7684\u89c6\u89c9\u6a21\u578b\uff0c\u751f\u6210\u53ef\u7f16\u8f91\u7684\u4e2d\u6587\u3001English \u548c JSON \u63d0\u793a\u8bcd\uff0c\u5e76\u53ef\u628a\u63d0\u793a\u8bcd\u4e0e\u53c2\u8003\u56fe\u5e26\u5230 ChatGPT",
+    "id": "NayutaViz/PromptPaw",
+    "language": "TypeScript",
+    "name": "NayutaViz/PromptPaw",
+    "stars": 0,
+    "updated_at": "2026-08-24T02:31:19Z",
+    "url": "https://github.com/NayutaViz/PromptPaw"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-24T02:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
     "id": "sergeeey/Claude-cod-top-2026",
     "language": "Python",
@@ -135,15 +279,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-24T02:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Classifies public defense news into category, operational domain, and region. Human-graded gold at v3.2.1: 94.4% / 98.1%",
     "id": "sanlee-ys/defense-news-classifier",
     "language": "Python",
@@ -176,7 +311,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-24T02:27:58Z",
+    "updated_at": "2026-08-24T02:41:40Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -202,7 +337,7 @@
     "id": "github/awesome-copilot",
     "language": "Python",
     "name": "github/awesome-copilot",
-    "stars": 38166,
+    "stars": 38167,
     "updated_at": "2026-08-24T02:10:57Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -221,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3504,
-    "updated_at": "2026-08-24T02:08:33Z",
+    "updated_at": "2026-08-24T02:33:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -274,7 +409,7 @@
     "id": "LB623/no-negative-echo",
     "language": "Python",
     "name": "LB623/no-negative-echo",
-    "stars": 274,
+    "stars": 280,
     "updated_at": "2026-08-24T01:59:19Z",
     "url": "https://github.com/LB623/no-negative-echo"
   },
@@ -313,140 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T01:54:19Z",
     "url": "https://github.com/devsehyeon/agency-agents-ko"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-24T01:53:02Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-24T01:52:24Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-24T01:52:08Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
-    "id": "winstonkoh87/Athena-Public",
-    "language": "Python",
-    "name": "winstonkoh87/Athena-Public",
-    "stars": 584,
-    "updated_at": "2026-08-24T01:51:51Z",
-    "url": "https://github.com/winstonkoh87/Athena-Public"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-24T01:50:47Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "",
-    "id": "VibhuTummallapalli/EvalWard",
-    "language": "Python",
-    "name": "VibhuTummallapalli/EvalWard",
-    "stars": 0,
-    "updated_at": "2026-08-24T01:49:46Z",
-    "url": "https://github.com/VibhuTummallapalli/EvalWard"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-24T01:49:31Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-08-24T01:48:35Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udcac \u8bed\u97f3\u8bc6\u522b\uff08\u8bf4\u5b8c\u81ea\u52a8\u505c\u00b7\u4e91\u7aef/\u672c\u5730\u53cc\u5f15\u64ce\uff09\u00b7 \u9644 \ud83d\udd01 \u670d\u52a1\u5f02\u5e38\u4e00\u952e\u91cd\u542f",
-    "id": "Fishsb/dsh-prompt-enhancer",
-    "language": "JavaScript",
-    "name": "Fishsb/dsh-prompt-enhancer",
-    "stars": 45,
-    "updated_at": "2026-08-24T01:48:29Z",
-    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
-  },
-  {
-    "description": "20 free AI copywriting and creative tools for your terminal: ad copy generator, hook generator, UGC scripts, AI image an",
-    "id": "ammar1mtiaz/Content-Agent-Helpers",
-    "language": "JavaScript",
-    "name": "ammar1mtiaz/Content-Agent-Helpers",
-    "stars": 3,
-    "updated_at": "2026-08-24T01:47:23Z",
-    "url": "https://github.com/ammar1mtiaz/Content-Agent-Helpers"
-  },
-  {
-    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
-    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1830,
-    "updated_at": "2026-08-24T01:46:52Z",
-    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 122,
-    "updated_at": "2026-08-24T01:46:24Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-    "id": "kyegomez/swarms",
-    "language": "Python",
-    "name": "kyegomez/swarms",
-    "stars": 7076,
-    "updated_at": "2026-08-24T01:44:49Z",
-    "url": "https://github.com/kyegomez/swarms"
-  },
-  {
-    "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
-    "id": "Raymondhou0917/speak-human-tw",
-    "language": "Python",
-    "name": "Raymondhou0917/speak-human-tw",
-    "stars": 881,
-    "updated_at": "2026-08-24T01:44:47Z",
-    "url": "https://github.com/Raymondhou0917/speak-human-tw"
-  },
-  {
-    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
-    "id": "luongs3/skill-atlas",
-    "language": "Python",
-    "name": "luongs3/skill-atlas",
-    "stars": 0,
-    "updated_at": "2026-08-24T01:41:38Z",
-    "url": "https://github.com/luongs3/skill-atlas"
   }
 ]
