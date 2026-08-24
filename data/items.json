@@ -1,12 +1,75 @@
 [
   {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 29,
+    "updated_at": "2026-08-24T06:13:22Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+    "id": "majiayu000/spellbook",
+    "language": "Python",
+    "name": "majiayu000/spellbook",
+    "stars": 262,
+    "updated_at": "2026-08-24T06:11:52Z",
+    "url": "https://github.com/majiayu000/spellbook"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 2,
+    "updated_at": "2026-08-24T06:11:51Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
+    "id": "subkoks/agents-md",
+    "language": "Shell",
+    "name": "subkoks/agents-md",
+    "stars": 1,
+    "updated_at": "2026-08-24T06:10:16Z",
+    "url": "https://github.com/subkoks/agents-md"
+  },
+  {
+    "description": "PromptPaw \u662f\u4e00\u6b3e\u9762\u5411 Chrome \u4e0e Microsoft Edge \u7684\u672c\u673a\u6d4f\u89c8\u5668\u6269\u5c55\u3002\u9009\u62e9\u7f51\u9875\u4e2d\u7684\u56fe\u7247\u540e\uff0c\u5b83\u4f1a\u8c03\u7528\u4f60\u914d\u7f6e\u7684\u89c6\u89c9\u6a21\u578b\uff0c\u751f\u6210\u53ef\u7f16\u8f91\u7684\u4e2d\u6587\u3001English \u548c JSON \u63d0\u793a\u8bcd\uff0c\u5e76\u53ef\u628a\u63d0\u793a\u8bcd\u4e0e\u53c2\u8003\u56fe\u5e26\u5230 ChatGPT",
+    "id": "NayutaViz/PromptPaw",
+    "language": "TypeScript",
+    "name": "NayutaViz/PromptPaw",
+    "stars": 1,
+    "updated_at": "2026-08-24T06:08:07Z",
+    "url": "https://github.com/NayutaViz/PromptPaw"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33600,
+    "updated_at": "2026-08-24T06:07:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "The GitHub Action for Promptfoo.  Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability sca",
     "id": "promptfoo/promptfoo-action",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo-action",
     "stars": 70,
-    "updated_at": "2026-08-24T06:05:38Z",
+    "updated_at": "2026-08-24T06:07:42Z",
     "url": "https://github.com/promptfoo/promptfoo-action"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-24T06:06:56Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -61,15 +124,6 @@
     "stars": 23,
     "updated_at": "2026-08-24T06:00:55Z",
     "url": "https://github.com/justinlietz93/Perfect_Prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-24T06:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -229,7 +283,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 67314,
+    "stars": 67316,
     "updated_at": "2026-08-24T05:45:57Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -382,7 +436,7 @@
     "id": "shreyabaid007/Claude-Certified-Architect",
     "language": "\u2014",
     "name": "shreyabaid007/Claude-Certified-Architect",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-24T05:37:49Z",
     "url": "https://github.com/shreyabaid007/Claude-Certified-Architect"
   },
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-24T05:37:44Z",
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-08-24T05:37:35Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-24T05:37:29Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-24T05:37:23Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 118,
-    "updated_at": "2026-08-24T05:35:24Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-24T05:34:56Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
-    "id": "mrwogu/promptscript",
-    "language": "TypeScript",
-    "name": "mrwogu/promptscript",
-    "stars": 451,
-    "updated_at": "2026-08-24T05:33:21Z",
-    "url": "https://github.com/mrwogu/promptscript"
   }
 ]
