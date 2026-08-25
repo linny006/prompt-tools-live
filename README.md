@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-25 04:59 UTC
+> ⏰ Last updated: 2026-08-25 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,28 +42,28 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TidyFactor/Marketing](https://github.com/TidyFactor/Marketing) | 4 | JavaScript | 2026-08-25 | Marketing, Psychological Growth Engine & Anti-Slop Content Suite |
-| 2 | [ailiheizi/workflow-to-skill](https://github.com/ailiheizi/workflow-to-skill) | 1 | JavaScript | 2026-08-25 | Turn goals and existing Agent tools into readable, reviewable, reusable workflow Skills. |
-| 3 | [BurraRohan/precision-context](https://github.com/BurraRohan/precision-context) | 0 | — | 2026-08-25 | Open-source Claude skill — fixes hallucination, vagueness, context loss & shallow image reading |
-| 4 | [imMamdouhaboammar/Riftbook](https://github.com/imMamdouhaboammar/Riftbook) | 3 | JavaScript | 2026-08-25 | Tools, prompts, workflows, and practical ideas for building better vibe-coded apps with less guesswork and more reusable |
-| 5 | [CAOShurong/contextcost](https://github.com/CAOShurong/contextcost) | 0 | Python | 2026-08-25 | Measure what a repository costs an AI coding agent to read, find what is wasting that budget, and prove the saving by me |
-| 6 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-25 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 7 | [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | 1889 | TypeScript | 2026-08-25 | 🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API g |
-| 8 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-25 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 9 | [Hyhyhyyy/Token_Saver](https://github.com/Hyhyhyyy/Token_Saver) | 3 | Python | 2026-08-25 | Local-first AI Agent skill optimizer with reversible cleanup, token accounting, tests, and a FastAPI dashboard. |
-| 10 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-08-25 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11174 | Python | 2026-08-25 | AI Observability & Evaluation |
-| 12 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-25 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
-| 13 | [conorbronsdon/agent-context-os](https://github.com/conorbronsdon/agent-context-os) | 14 | Python | 2026-08-25 | A Git-backed context and workflow layer for Claude Code, Codex, Hermes Agent, and compatible coding agents. |
-| 14 | [imhamzakhan/context-flow-compressor](https://github.com/imhamzakhan/context-flow-compressor) | 0 | HTML | 2026-08-25 | Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90% |
-| 15 | [Lucien-1127/zhiyan-legal](https://github.com/Lucien-1127/zhiyan-legal) | 1 | Python | 2026-08-25 | A reproducible research study of citation-grounding and safety-routing for reducing hallucination in Taiwan-law legal as |
-| 16 | [tubasa821004-hash/social-manipulation-radar](https://github.com/tubasa821004-hash/social-manipulation-radar) | 1 | HTML | 2026-08-25 | AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics |
-| 17 | [nguyenthienthanh/aura-frog](https://github.com/nguyenthienthanh/aura-frog) | 24 | JavaScript | 2026-08-25 | Aura Frog — Claude Code plugin — 10 agents, 5-phase TDD workflow, 3-tier rules, 27 hooks. Stop prompting. Start shipping |
-| 18 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-08-25 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
-| 19 | [shiza2xx/nai-prompt-studio](https://github.com/shiza2xx/nai-prompt-studio) | 0 | TypeScript | 2026-08-25 | Local NovelAI prompt builder, V5 artist mixer, custom visual tags, and image metadata inspector. |
-| 20 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-08-25 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
-| 21 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 123 | HTML | 2026-08-25 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
-| 22 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 9 | Python | 2026-08-25 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 9 | Python | 2026-08-25 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [TidyFactor/Marketing](https://github.com/TidyFactor/Marketing) | 4 | JavaScript | 2026-08-25 | Marketing, Psychological Growth Engine & Anti-Slop Content Suite |
+| 3 | [ailiheizi/workflow-to-skill](https://github.com/ailiheizi/workflow-to-skill) | 1 | JavaScript | 2026-08-25 | Turn goals and existing Agent tools into readable, reviewable, reusable workflow Skills. |
+| 4 | [BurraRohan/precision-context](https://github.com/BurraRohan/precision-context) | 0 | — | 2026-08-25 | Open-source Claude skill — fixes hallucination, vagueness, context loss & shallow image reading |
+| 5 | [imMamdouhaboammar/Riftbook](https://github.com/imMamdouhaboammar/Riftbook) | 3 | JavaScript | 2026-08-25 | Tools, prompts, workflows, and practical ideas for building better vibe-coded apps with less guesswork and more reusable |
+| 6 | [CAOShurong/contextcost](https://github.com/CAOShurong/contextcost) | 0 | Python | 2026-08-25 | Measure what a repository costs an AI coding agent to read, find what is wasting that budget, and prove the saving by me |
+| 7 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-25 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
+| 8 | [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | 1889 | TypeScript | 2026-08-25 | 🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API g |
+| 9 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-25 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 10 | [Hyhyhyyy/Token_Saver](https://github.com/Hyhyhyyy/Token_Saver) | 3 | Python | 2026-08-25 | Local-first AI Agent skill optimizer with reversible cleanup, token accounting, tests, and a FastAPI dashboard. |
+| 11 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-08-25 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11174 | Python | 2026-08-25 | AI Observability & Evaluation |
+| 13 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-25 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
+| 14 | [conorbronsdon/agent-context-os](https://github.com/conorbronsdon/agent-context-os) | 14 | Python | 2026-08-25 | A Git-backed context and workflow layer for Claude Code, Codex, Hermes Agent, and compatible coding agents. |
+| 15 | [imhamzakhan/context-flow-compressor](https://github.com/imhamzakhan/context-flow-compressor) | 0 | HTML | 2026-08-25 | Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90% |
+| 16 | [Lucien-1127/zhiyan-legal](https://github.com/Lucien-1127/zhiyan-legal) | 1 | Python | 2026-08-25 | A reproducible research study of citation-grounding and safety-routing for reducing hallucination in Taiwan-law legal as |
+| 17 | [tubasa821004-hash/social-manipulation-radar](https://github.com/tubasa821004-hash/social-manipulation-radar) | 1 | HTML | 2026-08-25 | AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics |
+| 18 | [nguyenthienthanh/aura-frog](https://github.com/nguyenthienthanh/aura-frog) | 24 | JavaScript | 2026-08-25 | Aura Frog — Claude Code plugin — 10 agents, 5-phase TDD workflow, 3-tier rules, 27 hooks. Stop prompting. Start shipping |
+| 19 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-08-25 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
+| 20 | [shiza2xx/nai-prompt-studio](https://github.com/shiza2xx/nai-prompt-studio) | 0 | TypeScript | 2026-08-25 | Local NovelAI prompt builder, V5 artist mixer, custom visual tags, and image metadata inspector. |
+| 21 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-08-25 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
+| 22 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 123 | HTML | 2026-08-25 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
 | 23 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 1 | HTML | 2026-08-25 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
 | 24 | [gthgomez/Babel](https://github.com/gthgomez/Babel) | 1 | TypeScript | 2026-08-25 | Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode—plus inspectable prompts, permissions, work |
 | 25 | [breadtitor/local-prompt-studio](https://github.com/breadtitor/local-prompt-studio) | 0 | Python | 2026-08-25 | Private-by-default, skill-driven prompt workspace for OpenAI-compatible local model servers |
