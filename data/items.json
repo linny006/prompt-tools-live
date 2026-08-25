@@ -1,5 +1,50 @@
 [
   {
+    "description": "Write your AI coding setup once, run it in every tool. One source of truth \u2014 148 commands, 88 agents, 115 skills, 23 rol",
+    "id": "adnanmokhtar/refract",
+    "language": "Shell",
+    "name": "adnanmokhtar/refract",
+    "stars": 0,
+    "updated_at": "2026-08-25T17:49:31Z",
+    "url": "https://github.com/adnanmokhtar/refract"
+  },
+  {
+    "description": "WSQ - AI Security for Autonomous AI Agents (TGS-2025060473) \u2014 a hands-on 1-day course on generative AI, agentic AI and A",
+    "id": "tertiarycourses/TGS-2025060473-AI-Security-for-Autonomous-AI-Agents",
+    "language": "Python",
+    "name": "tertiarycourses/TGS-2025060473-AI-Security-for-Autonomous-AI-Agents",
+    "stars": 1,
+    "updated_at": "2026-08-25T17:48:31Z",
+    "url": "https://github.com/tertiarycourses/TGS-2025060473-AI-Security-for-Autonomous-AI-Agents"
+  },
+  {
+    "description": "A compiler for AI coding tasks: pre-resolves repo facts (callers, git history, blast radius, bug-site source) before you",
+    "id": "Cranot/compile-code",
+    "language": "Python",
+    "name": "Cranot/compile-code",
+    "stars": 29,
+    "updated_at": "2026-08-25T17:48:26Z",
+    "url": "https://github.com/Cranot/compile-code"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-25T17:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A Claude Code skill that makes AI-written text read as a specific, considered human voice instead of generic AI-shaped p",
+    "id": "AshwinSathian/humanize-writing-skill",
+    "language": "\u2014",
+    "name": "AshwinSathian/humanize-writing-skill",
+    "stars": 0,
+    "updated_at": "2026-08-25T17:45:05Z",
+    "url": "https://github.com/AshwinSathian/humanize-writing-skill"
+  },
+  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -18,6 +63,24 @@
     "url": "https://github.com/adammatthewsteinberger/vibey-skills"
   },
   {
+    "description": "Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie",
+    "id": "Quazmoz/agentdefaults",
+    "language": "Python",
+    "name": "Quazmoz/agentdefaults",
+    "stars": 0,
+    "updated_at": "2026-08-25T17:43:25Z",
+    "url": "https://github.com/Quazmoz/agentdefaults"
+  },
+  {
+    "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
+    "id": "fabioc-aloha/Alex_Skill_Mall",
+    "language": "Python",
+    "name": "fabioc-aloha/Alex_Skill_Mall",
+    "stars": 4,
+    "updated_at": "2026-08-25T17:42:12Z",
+    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -25,6 +88,15 @@
     "stars": 1,
     "updated_at": "2026-08-25T17:41:50Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "AI-native .NET 8 Web API \u2014 business intelligence powered by AI: risk detection, bottleneck analysis, opportunity scoring",
+    "id": "ikilic-tech/ai-business-workflow",
+    "language": "C#",
+    "name": "ikilic-tech/ai-business-workflow",
+    "stars": 0,
+    "updated_at": "2026-08-25T17:39:40Z",
+    "url": "https://github.com/ikilic-tech/ai-business-workflow"
   },
   {
     "description": "Plugin-native baseline brain for Alex ACT, with critical-thinking instructions, reusable agent skills, prompts, and tool",
@@ -176,7 +248,7 @@
     "language": "JavaScript",
     "name": "ReidenXerx/bearing",
     "stars": 5,
-    "updated_at": "2026-08-25T17:34:40Z",
+    "updated_at": "2026-08-25T17:50:28Z",
     "url": "https://github.com/ReidenXerx/bearing"
   },
   {
@@ -214,15 +286,6 @@
     "stars": 117,
     "updated_at": "2026-08-25T17:32:52Z",
     "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "A Claude Code skill that makes AI-written text read as a specific, considered human voice instead of generic AI-shaped p",
-    "id": "AshwinSathian/humanize-writing-skill",
-    "language": "\u2014",
-    "name": "AshwinSathian/humanize-writing-skill",
-    "stars": 0,
-    "updated_at": "2026-08-25T17:45:05Z",
-    "url": "https://github.com/AshwinSathian/humanize-writing-skill"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -268,15 +331,6 @@
     "stars": 67552,
     "updated_at": "2026-08-25T17:31:08Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-25T17:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Agent skills for decisions under uncertainty, plus the evaluation harness that measures them: pre-registered predictions",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T17:23:48Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-25T17:22:49Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Shared knowledge archive for AI agents. Search peer-validated prompts, workflows, and failure patterns with no account \u2014",
-    "id": "LorgAI/lorg-mcp-server",
-    "language": "JavaScript",
-    "name": "LorgAI/lorg-mcp-server",
-    "stars": 4,
-    "updated_at": "2026-08-25T17:22:48Z",
-    "url": "https://github.com/LorgAI/lorg-mcp-server"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-25T17:22:41Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Run several LLM agents on the same task in parallel docker sandboxes, then have other LLMs judge them. Uses your Claude ",
-    "id": "faeton/multicooker",
-    "language": "Python",
-    "name": "faeton/multicooker",
-    "stars": 1,
-    "updated_at": "2026-08-25T17:21:57Z",
-    "url": "https://github.com/faeton/multicooker"
-  },
-  {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 5,
-    "updated_at": "2026-08-25T17:21:03Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 136,
-    "updated_at": "2026-08-25T17:20:12Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   }
 ]
