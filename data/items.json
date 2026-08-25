@@ -1,5 +1,23 @@
 [
   {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-08-25T12:01:00Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-25T12:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Dramake\uff1a\u8ba9\u5c0f\u767d\u4ece\u6587\u5b57\u51fa\u53d1\uff0c\u7528\u4e00\u4e2a Skill \u4e32\u8d77\u5267\u672c\u3001\u5206\u955c\u3001AI \u89c6\u9891\u751f\u6210\u3001\u914d\u97f3\u3001\u526a\u8f91\u4e0e\u8d28\u68c0\uff0c\u5236\u4f5c\u6296\u97f3\u3001\u7ea2\u679c\u77ed\u5267\u7b49\u5bfc\u6f14\u7ea7\u77ed\u5267\uff1b\u652f\u6301\u6a2a\u7ad6\u5c4f\u3001Wan 3\u3001Seedance\u3001MiniMax H3\u3002",
     "id": "xixihhhh/ai-short-drama-skill",
     "language": "Python",
@@ -16,6 +34,24 @@
     "stars": 0,
     "updated_at": "2026-08-25T11:59:03Z",
     "url": "https://github.com/Zhu0512-ops/c-disk-cleaner"
+  },
+  {
+    "description": "Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai",
+    "id": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "language": "\u2014",
+    "name": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "stars": 3,
+    "updated_at": "2026-08-25T11:58:54Z",
+    "url": "https://github.com/KingFishyXMesa/fuzz2-producer-ai-angklungmann"
+  },
+  {
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 4,
+    "updated_at": "2026-08-25T11:58:07Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
   },
   {
     "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
@@ -59,7 +95,7 @@
     "language": "JavaScript",
     "name": "sebin-gg/brevity-prompt",
     "stars": 0,
-    "updated_at": "2026-08-25T11:54:35Z",
+    "updated_at": "2026-08-25T12:00:54Z",
     "url": "https://github.com/sebin-gg/brevity-prompt"
   },
   {
@@ -108,6 +144,15 @@
     "url": "https://github.com/visheshbpatel/synapse-ai"
   },
   {
+    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+    "id": "Spielewoy/autoprompt-skill",
+    "language": "JavaScript",
+    "name": "Spielewoy/autoprompt-skill",
+    "stars": 850,
+    "updated_at": "2026-08-25T11:49:45Z",
+    "url": "https://github.com/Spielewoy/autoprompt-skill"
+  },
+  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -142,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T11:47:49Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 4,
-    "updated_at": "2026-08-25T11:58:07Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -194,17 +230,8 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 17,
-    "updated_at": "2026-08-25T11:53:03Z",
+    "updated_at": "2026-08-25T12:01:30Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-25T11:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A tiny, faithful prompt rewriter for messy vibe-coding requests.",
@@ -239,7 +266,7 @@
     "language": "HTML",
     "name": "domaingitshub/odin-mirror-scribe",
     "stars": 1,
-    "updated_at": "2026-08-25T11:37:39Z",
+    "updated_at": "2026-08-25T12:00:48Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
@@ -284,7 +311,7 @@
     "language": "HTML",
     "name": "Fiskopoi/outline-driven-toolkit",
     "stars": 2,
-    "updated_at": "2026-08-25T11:35:05Z",
+    "updated_at": "2026-08-25T12:01:21Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 41,
     "updated_at": "2026-08-25T11:59:47Z",
     "url": "https://github.com/hi0001234d/nexpath"
-  },
-  {
-    "description": "External Semantic State Synchronization for reproducible long\u2011horizon LLM behavior.",
-    "id": "rainaseed-ai/external-semantic-state-synchronization",
-    "language": "\u2014",
-    "name": "rainaseed-ai/external-semantic-state-synchronization",
-    "stars": 0,
-    "updated_at": "2026-08-25T11:26:54Z",
-    "url": "https://github.com/rainaseed-ai/external-semantic-state-synchronization"
-  },
-  {
-    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
-    "id": "gmaheshraju/Hands-on-AgenticAI",
-    "language": "JavaScript",
-    "name": "gmaheshraju/Hands-on-AgenticAI",
-    "stars": 0,
-    "updated_at": "2026-08-25T11:26:31Z",
-    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 118,
-    "updated_at": "2026-08-25T11:23:54Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   }
 ]
