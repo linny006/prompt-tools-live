@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
+    "id": "elie222/botdirectory.ai",
+    "language": "Astro",
+    "name": "elie222/botdirectory.ai",
+    "stars": 121,
+    "updated_at": "2026-08-25T11:00:02Z",
+    "url": "https://github.com/elie222/botdirectory.ai"
+  },
+  {
+    "description": "Make It Right \u2014 constraint-first backend reliability skills for AI coding agents. 3 tiers (generic \u2192 runtime \u2192 framework",
+    "id": "anantbhandarkar/make-it-right",
+    "language": "Python",
+    "name": "anantbhandarkar/make-it-right",
+    "stars": 15,
+    "updated_at": "2026-08-25T10:58:42Z",
+    "url": "https://github.com/anantbhandarkar/make-it-right"
+  },
+  {
+    "description": "1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 from PRDs and postmortems to appealing a di",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "HTML",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1308,
+    "updated_at": "2026-08-25T10:58:01Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Three prompt-generated best-practices knowledge bases for Claude: universal coding standards, CLAUDE.md/Claude Code conf",
+    "id": "StefanoZaghi1987/ClaudeConfiguration",
+    "language": "Shell",
+    "name": "StefanoZaghi1987/ClaudeConfiguration",
+    "stars": 0,
+    "updated_at": "2026-08-25T10:57:08Z",
+    "url": "https://github.com/StefanoZaghi1987/ClaudeConfiguration"
+  },
+  {
+    "description": "Study guide for all four Anthropic Claude certifications: Associate, Developer, and Architect Foundations and Profession",
+    "id": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
+    "language": "\u2014",
+    "name": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
+    "stars": 9,
+    "updated_at": "2026-08-25T10:56:52Z",
+    "url": "https://github.com/Amey-Thakur/CLAUDE-CERTIFICATIONS"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-25T10:56:45Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-25T10:55:46Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-25T10:55:30Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
     "description": "\ud83d\udd2e Multi-tool AI prompt optimizer plugin for ZCode, Claude Code, Codex CLI, Reasonix, DSH, MimoCode, OpenCode \u2014 \u4e2d\u6587\u63d0\u793a\u8bcd\u4f18\u5316\u63d2\u4ef6",
     "id": "goodie1972/prompt-optimizer",
     "language": "Python",
@@ -9,13 +81,31 @@
     "url": "https://github.com/goodie1972/prompt-optimizer"
   },
   {
-    "description": "Study guide for all four Anthropic Claude certifications: Associate, Developer, and Architect Foundations and Profession",
-    "id": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
-    "language": "\u2014",
-    "name": "Amey-Thakur/CLAUDE-CERTIFICATIONS",
-    "stars": 9,
-    "updated_at": "2026-08-25T10:54:14Z",
-    "url": "https://github.com/Amey-Thakur/CLAUDE-CERTIFICATIONS"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21594,
+    "updated_at": "2026-08-25T10:54:29Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-08-25T10:54:21Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-08-25T10:54:10Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
     "description": "Plug-and-play skills and prompts for every AI coding agent",
@@ -27,6 +117,15 @@
     "url": "https://github.com/Amey-Thakur/AI-SKILLS"
   },
   {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-08-25T10:53:32Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
     "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
     "id": "Sunil-M02/curiosity-engine",
     "language": "TypeScript",
@@ -34,6 +133,24 @@
     "stars": 2,
     "updated_at": "2026-08-25T10:53:31Z",
     "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "Creative DNA video prompt cases and installable Skills for MiniMax H3 and Seedance 2.0, with an Electron video viewer.",
+    "id": "T8mars/minimax-h3-prompt-skill-T8",
+    "language": "JavaScript",
+    "name": "T8mars/minimax-h3-prompt-skill-T8",
+    "stars": 131,
+    "updated_at": "2026-08-25T10:53:27Z",
+    "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
+  },
+  {
+    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
+    "id": "gmaheshraju/Hands-on-AgenticAI",
+    "language": "JavaScript",
+    "name": "gmaheshraju/Hands-on-AgenticAI",
+    "stars": 0,
+    "updated_at": "2026-08-25T10:53:04Z",
+    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
   },
   {
     "description": "German AI Text Humanizer for Claude Code & Codex. Audits 72 German AI-writing patterns using deterministic linters and e",
@@ -54,13 +171,13 @@
     "url": "https://github.com/Lucien-1127/zhiyan-legal"
   },
   {
-    "description": "1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 from PRDs and postmortems to appealing a di",
-    "id": "mohitagw15856/pm-claude-skills",
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
     "language": "HTML",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1308,
-    "updated_at": "2026-08-25T10:52:26Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-08-25T10:52:14Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -108,15 +225,6 @@
     "url": "https://github.com/AtlasCloudAI/awesome-seedance-2-prompts"
   },
   {
-    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
-    "id": "elie222/botdirectory.ai",
-    "language": "Astro",
-    "name": "elie222/botdirectory.ai",
-    "stars": 121,
-    "updated_at": "2026-08-25T10:50:44Z",
-    "url": "https://github.com/elie222/botdirectory.ai"
-  },
-  {
     "description": "Awesome GPT Image 2 Prompts",
     "id": "AtlasCloudAI/awesome-gpt-image-2-prompts",
     "language": "TypeScript",
@@ -139,18 +247,9 @@
     "id": "vllm-project/semantic-router",
     "language": "Go",
     "name": "vllm-project/semantic-router",
-    "stars": 5284,
+    "stars": 5285,
     "updated_at": "2026-08-25T10:48:01Z",
     "url": "https://github.com/vllm-project/semantic-router"
-  },
-  {
-    "description": "Creative DNA video prompt cases and installable Skills for MiniMax H3 and Seedance 2.0, with an Electron video viewer.",
-    "id": "T8mars/minimax-h3-prompt-skill-T8",
-    "language": "JavaScript",
-    "name": "T8mars/minimax-h3-prompt-skill-T8",
-    "stars": 131,
-    "updated_at": "2026-08-25T10:53:27Z",
-    "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
   },
   {
     "description": "\u5faa\u8bc1\u8d2d\u7269\u51b3\u7b56\u4e0e\u5168\u666f\u884c\u4e1a\u8c03\u7814\u987e\u95ee - Evidence-based shopping decision & supply chain intelligence skill for AI Agents",
@@ -160,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T10:46:05Z",
     "url": "https://github.com/StaySound4/shopaholic-skill"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-25T10:45:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Keeps Claude's responses on the asked question. Kills sycophancy, drift, and filler.",
@@ -230,7 +320,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33668,
-    "updated_at": "2026-08-25T10:40:43Z",
+    "updated_at": "2026-08-25T10:56:46Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -293,7 +383,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4366,
-    "updated_at": "2026-08-25T10:42:46Z",
+    "updated_at": "2026-08-25T10:57:40Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T10:35:01Z",
     "url": "https://github.com/meashumishra/TDF"
-  },
-  {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-08-25T10:34:56Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "A curated Claude Code harness: spec-driven review subagents, model-routing rules, and self-maintenance skills, plus the ",
-    "id": "StefanoZaghi1987/ClaudeHarness",
-    "language": "Shell",
-    "name": "StefanoZaghi1987/ClaudeHarness",
-    "stars": 0,
-    "updated_at": "2026-08-25T10:46:17Z",
-    "url": "https://github.com/StefanoZaghi1987/ClaudeHarness"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 1,
-    "updated_at": "2026-08-25T10:34:33Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-08-25T10:34:23Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-08-25T10:33:18Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 1,
-    "updated_at": "2026-08-25T10:33:09Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-08-25T10:42:22Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-08-25T10:32:42Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-08-25T10:32:42Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-25T10:32:27Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   }
 ]
