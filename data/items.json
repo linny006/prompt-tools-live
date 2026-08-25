@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-25T13:59:43Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
     "id": "vllm-project/semantic-router",
     "language": "Go",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33675,
-    "updated_at": "2026-08-25T13:52:43Z",
+    "updated_at": "2026-08-25T14:00:18Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -72,6 +81,15 @@
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   },
   {
+    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
+    "id": "Atheerameer/agentic-cli-blueprint-library",
+    "language": "HTML",
+    "name": "Atheerameer/agentic-cli-blueprint-library",
+    "stars": 1,
+    "updated_at": "2026-08-25T13:50:14Z",
+    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
+  },
+  {
     "description": "Agent skills for decisions under uncertainty, plus the evaluation harness that measures them: pre-registered predictions",
     "id": "AngelCampa1/decision-making-skills",
     "language": "Python",
@@ -79,6 +97,15 @@
     "stars": 1,
     "updated_at": "2026-08-25T13:50:14Z",
     "url": "https://github.com/AngelCampa1/decision-making-skills"
+  },
+  {
+    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
+    "id": "Asir11/langgraph-agentic-workflows-tutorial",
+    "language": "HTML",
+    "name": "Asir11/langgraph-agentic-workflows-tutorial",
+    "stars": 0,
+    "updated_at": "2026-08-25T13:50:07Z",
+    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   },
   {
     "description": "A build playbook that turns your coding agent into the foreman of a website build. It interviews you, forces the design ",
@@ -162,6 +189,15 @@
     "url": "https://github.com/Cranot/compile-code"
   },
   {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-08-25T13:46:18Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
     "description": "Twenty GROK.md files that give Grok Bot a named teammate with a real voice. Open spec, 200 more queued. Not affiliated w",
     "id": "Aiworkflow360/grokmd",
     "language": "TypeScript",
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T13:45:44Z",
     "url": "https://github.com/zcjunn/make-travel-fridge-magnet-skill"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-25T13:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AutoDL.Art MiniMax H3\u89c6\u9891\u751f\u6210API\u5ba2\u6237\u7aef\u4e0e\u4f73\u5eb7\u987a\u8f6f\u5e7f\u63d0\u793a\u8bcd\u6a21\u677fv7 (MiniMax H3 video generation API client + prompt template for Jiachengshun ",
@@ -207,6 +234,15 @@
     "url": "https://github.com/tertiarycourses/TGS-2025060473-AI-Security-for-Autonomous-AI-Agents"
   },
   {
+    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
+    "id": "5uprem4/ai-skill-vault",
+    "language": "HTML",
+    "name": "5uprem4/ai-skill-vault",
+    "stars": 3,
+    "updated_at": "2026-08-25T13:43:42Z",
+    "url": "https://github.com/5uprem4/ai-skill-vault"
+  },
+  {
     "description": "Token-Dense Format (TDF): Convert PDFs, Office docs, and HTML into a token-optimized text format for LLMs. 100% distinct",
     "id": "meashumishra/TDF",
     "language": "HTML",
@@ -214,6 +250,15 @@
     "stars": 0,
     "updated_at": "2026-08-25T13:43:37Z",
     "url": "https://github.com/meashumishra/TDF"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Go",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-08-25T13:43:28Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-25T13:34:49Z",
     "url": "https://github.com/OrinVoss/dsh-math-team"
-  },
-  {
-    "description": "Prompt tools and design skills for original interfaces and creative workflows.",
-    "id": "Glenskii/Glenski-Toolkit",
-    "language": "Python",
-    "name": "Glenskii/Glenski-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-25T13:33:03Z",
-    "url": "https://github.com/Glenskii/Glenski-Toolkit"
-  },
-  {
-    "description": "Measure what a repository costs an AI coding agent to read, find what is wasting that budget, and prove the saving by me",
-    "id": "CAOShurong/contextcost",
-    "language": "Python",
-    "name": "CAOShurong/contextcost",
-    "stars": 0,
-    "updated_at": "2026-08-25T13:32:51Z",
-    "url": "https://github.com/CAOShurong/contextcost"
-  },
-  {
-    "description": "LDL (LLM Delivery Loop) \u2014 a delivery methodology for AI agents: contract first, gated delivery loop, compounding second ",
-    "id": "daniel-kjseo/llm-delivery-loop",
-    "language": "Python",
-    "name": "daniel-kjseo/llm-delivery-loop",
-    "stars": 3,
-    "updated_at": "2026-08-25T13:31:58Z",
-    "url": "https://github.com/daniel-kjseo/llm-delivery-loop"
-  },
-  {
-    "description": "Agent-native reporting framework: scenario-routed report protocols, bounded context bundles, checkpointed long-task memo",
-    "id": "asimfish/super_agent_presentation",
-    "language": "Python",
-    "name": "asimfish/super_agent_presentation",
-    "stars": 1,
-    "updated_at": "2026-08-25T13:31:04Z",
-    "url": "https://github.com/asimfish/super_agent_presentation"
-  },
-  {
-    "description": "Make It Right \u2014 constraint-first backend reliability skills for AI coding agents. 3 tiers (generic \u2192 runtime \u2192 framework",
-    "id": "anantbhandarkar/make-it-right",
-    "language": "Python",
-    "name": "anantbhandarkar/make-it-right",
-    "stars": 15,
-    "updated_at": "2026-08-25T13:30:32Z",
-    "url": "https://github.com/anantbhandarkar/make-it-right"
   }
 ]
