@@ -1,12 +1,93 @@
 [
   {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 2,
+    "updated_at": "2026-08-25T19:05:13Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-08-25T19:04:35Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 8,
+    "updated_at": "2026-08-25T19:03:43Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": " AI governance portfolio \u2014 EU AI Act, NIST AI RMF, ISO/IEC 42001, and agentic AI governance, built by an AIGP-certified ",
+    "id": "karunmehta-aigp/AI-Governance",
+    "language": "\u2014",
+    "name": "karunmehta-aigp/AI-Governance",
+    "stars": 2,
+    "updated_at": "2026-08-25T19:02:01Z",
+    "url": "https://github.com/karunmehta-aigp/AI-Governance"
+  },
+  {
+    "description": "Task-aware reasoning-mode router for Codex + DeepSeek | Codex+DeepSeek \u601d\u7ef4\u6a21\u5f0f\u8def\u7531\uff08spec/react/weak\uff09",
+    "id": "RuriLothlorien/codex-dsh-routing-suite",
+    "language": "JavaScript",
+    "name": "RuriLothlorien/codex-dsh-routing-suite",
+    "stars": 1,
+    "updated_at": "2026-08-25T19:01:16Z",
+    "url": "https://github.com/RuriLothlorien/codex-dsh-routing-suite"
+  },
+  {
+    "description": "You state the problem, it picks the method. A Codex & Claude Code skill that routes any request to the smallest decision",
+    "id": "nnfct/planning-router",
+    "language": "HTML",
+    "name": "nnfct/planning-router",
+    "stars": 0,
+    "updated_at": "2026-08-25T19:01:07Z",
+    "url": "https://github.com/nnfct/planning-router"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-25T19:00:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Cross-platform engineering-governance Agent Skill: L1/L2/L3 task triage, dual execution modes, ask-before-acting, qualit",
     "id": "zxc663/shisan-xinuo-workflow",
     "language": "\u2014",
     "name": "zxc663/shisan-xinuo-workflow",
     "stars": 3,
-    "updated_at": "2026-08-25T19:00:25Z",
+    "updated_at": "2026-08-25T19:00:49Z",
     "url": "https://github.com/zxc663/shisan-xinuo-workflow"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-08-25T19:00:19Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27676,
+    "updated_at": "2026-08-25T19:00:03Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
@@ -27,6 +108,33 @@
     "url": "https://github.com/qiuaoru-coder/game-design-agent-skills"
   },
   {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5811,
+    "updated_at": "2026-08-25T18:57:58Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
+    "id": "martialsystems/verify-before-done",
+    "language": "Python",
+    "name": "martialsystems/verify-before-done",
+    "stars": 1,
+    "updated_at": "2026-08-25T18:57:51Z",
+    "url": "https://github.com/martialsystems/verify-before-done"
+  },
+  {
+    "description": "A digital blueprint of engineering and management decision-making \u2014 how and why decisions get made, for AI-agent trainin",
+    "id": "puginanatoly-stack/Pugin",
+    "language": "Python",
+    "name": "puginanatoly-stack/Pugin",
+    "stars": 0,
+    "updated_at": "2026-08-25T18:57:08Z",
+    "url": "https://github.com/puginanatoly-stack/Pugin"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Elevate your coding with Supercharged AI Dev Tools, an open-source directory of AI-powered solutions to boost product",
     "id": "SUASTELARA/Supercharged-AI-Dev-Tools",
     "language": "\u2014",
@@ -34,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-08-25T18:57:03Z",
     "url": "https://github.com/SUASTELARA/Supercharged-AI-Dev-Tools"
-  },
-  {
-    "description": " AI governance portfolio \u2014 EU AI Act, NIST AI RMF, ISO/IEC 42001, and agentic AI governance, built by an AIGP-certified ",
-    "id": "karunmehta-aigp/AI-Governance",
-    "language": "\u2014",
-    "name": "karunmehta-aigp/AI-Governance",
-    "stars": 2,
-    "updated_at": "2026-08-25T18:55:16Z",
-    "url": "https://github.com/karunmehta-aigp/AI-Governance"
   },
   {
     "description": "Make It Right \u2014 constraint-first backend reliability skills for AI coding agents. 3 tiers (generic \u2192 runtime \u2192 framework",
@@ -70,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T18:54:07Z",
     "url": "https://github.com/AFRATUL1/AI-dropin-spec"
-  },
-  {
-    "description": "Task-aware reasoning-mode router for Codex + DeepSeek | Codex+DeepSeek \u601d\u7ef4\u6a21\u5f0f\u8def\u7531\uff08spec/react/weak\uff09",
-    "id": "RuriLothlorien/codex-dsh-routing-suite",
-    "language": "JavaScript",
-    "name": "RuriLothlorien/codex-dsh-routing-suite",
-    "stars": 1,
-    "updated_at": "2026-08-25T18:52:53Z",
-    "url": "https://github.com/RuriLothlorien/codex-dsh-routing-suite"
   },
   {
     "description": "Installable Agent Skills for Claude Code, Cursor, Codex, and skills.sh: SKILL.md packages that push AI agents toward fla",
@@ -198,15 +288,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-25T18:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
     "id": "AgustiPuigserver/opus-prompt-architect",
     "language": "HTML",
@@ -270,6 +351,15 @@
     "url": "https://github.com/ystk-kai/claude-harness"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33682,
+    "updated_at": "2026-08-25T18:41:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -304,15 +394,6 @@
     "stars": 117,
     "updated_at": "2026-08-25T18:40:50Z",
     "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27676,
-    "updated_at": "2026-08-25T19:00:03Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T18:36:09Z",
     "url": "https://github.com/Gus2708/whatsapp-agent"
-  },
-  {
-    "description": "vibey-skills \u2014 Claude Code plugin marketplace of 18 plugins / 71 evidence-grounded Agent Skills (security, cloud, DevSec",
-    "id": "adammatthewsteinberger/vibey-skills",
-    "language": "Python",
-    "name": "adammatthewsteinberger/vibey-skills",
-    "stars": 1,
-    "updated_at": "2026-08-25T18:35:48Z",
-    "url": "https://github.com/adammatthewsteinberger/vibey-skills"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 118,
-    "updated_at": "2026-08-25T18:35:17Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "An intel layer for AI coding agents that assumes its own rules might be wrong \u2014 and keeps the evidence. Authoritative no",
-    "id": "ReidenXerx/bearing",
-    "language": "JavaScript",
-    "name": "ReidenXerx/bearing",
-    "stars": 5,
-    "updated_at": "2026-08-25T18:35:16Z",
-    "url": "https://github.com/ReidenXerx/bearing"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-25T18:34:50Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-25T18:34:30Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 37,
-    "updated_at": "2026-08-25T18:32:50Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-25T18:32:01Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-25T18:31:01Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-25T18:30:07Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   }
 ]
