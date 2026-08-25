@@ -1,5 +1,113 @@
 [
   {
+    "description": "Claude Code hooks that lock your writing voice so Claude stops sounding like AI. Free OSS hook stack, paid kit on Gumroa",
+    "id": "assafkip/founder-voice-kit",
+    "language": "Python",
+    "name": "assafkip/founder-voice-kit",
+    "stars": 2,
+    "updated_at": "2026-08-25T23:53:47Z",
+    "url": "https://github.com/assafkip/founder-voice-kit"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-25T23:53:45Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-25T23:53:43Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 1,
+    "updated_at": "2026-08-25T23:51:57Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
+    "id": "apoapostolov/humanizer",
+    "language": "JavaScript",
+    "name": "apoapostolov/humanizer",
+    "stars": 4,
+    "updated_at": "2026-08-25T23:51:00Z",
+    "url": "https://github.com/apoapostolov/humanizer"
+  },
+  {
+    "description": "Charla sobre inteligencia artificial para estudiantes de secundaria en El Para\u00edso, Cop\u00e1n, Honduras: presentaci\u00f3n de 58 s",
+    "id": "ahvega/charla-ia",
+    "language": "HTML",
+    "name": "ahvega/charla-ia",
+    "stars": 0,
+    "updated_at": "2026-08-25T23:50:52Z",
+    "url": "https://github.com/ahvega/charla-ia"
+  },
+  {
+    "description": "Rules your coding agent physically cannot ignore. Claude Code hooks that DENY the tool call and BLOCK the reply - stoppi",
+    "id": "skymanbp/cc-enforcer",
+    "language": "Python",
+    "name": "skymanbp/cc-enforcer",
+    "stars": 4,
+    "updated_at": "2026-08-25T23:49:28Z",
+    "url": "https://github.com/skymanbp/cc-enforcer"
+  },
+  {
+    "description": "13 negotiation & persuasion skills for AI agents, distilled from 36 books: CIA psyops, FBI behavior files, propaganda sc",
+    "id": "YannisKiefer/dark-psychology-skills",
+    "language": "Python",
+    "name": "YannisKiefer/dark-psychology-skills",
+    "stars": 1,
+    "updated_at": "2026-08-25T23:49:19Z",
+    "url": "https://github.com/YannisKiefer/dark-psychology-skills"
+  },
+  {
+    "description": "An AI agent that grows your LinkedIn authority by drafting expertise-signaling comments. Built in public, one layer at a",
+    "id": "abdou-roa/linkrowth",
+    "language": "TypeScript",
+    "name": "abdou-roa/linkrowth",
+    "stars": 8,
+    "updated_at": "2026-08-25T23:47:02Z",
+    "url": "https://github.com/abdou-roa/linkrowth"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-08-25T23:45:37Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-25T23:45:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Open-source prompt development and orchestration system powered by Supabase.",
+    "id": "MichaelZelbel/querino",
+    "language": "TypeScript",
+    "name": "MichaelZelbel/querino",
+    "stars": 1,
+    "updated_at": "2026-08-25T23:45:11Z",
+    "url": "https://github.com/MichaelZelbel/querino"
+  },
+  {
     "description": "Turn your finished AI sessions into reusable agents & skills for opencode \u2014 maker, router, biz-planner, safe-build",
     "id": "Tariq-himself/opencode-maker-kit",
     "language": "PowerShell",
@@ -25,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T23:43:44Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "13 negotiation & persuasion skills for AI agents, distilled from 36 books: CIA psyops, FBI behavior files, propaganda sc",
-    "id": "YannisKiefer/dark-psychology-skills",
-    "language": "Python",
-    "name": "YannisKiefer/dark-psychology-skills",
-    "stars": 1,
-    "updated_at": "2026-08-25T23:43:12Z",
-    "url": "https://github.com/YannisKiefer/dark-psychology-skills"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -68,7 +167,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11194,
-    "updated_at": "2026-08-25T23:43:13Z",
+    "updated_at": "2026-08-25T23:52:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -104,17 +203,8 @@
     "language": "HTML",
     "name": "Darkmalan-1987/sparring-reason",
     "stars": 1,
-    "updated_at": "2026-08-25T23:36:11Z",
+    "updated_at": "2026-08-25T23:55:01Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-25T23:35:49Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
@@ -153,15 +243,6 @@
     "url": "https://github.com/JonSnow1807/chatgpt-memory-manager"
   },
   {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-25T23:32:18Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
     "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
     "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
     "language": "Python",
@@ -169,15 +250,6 @@
     "stars": 9,
     "updated_at": "2026-08-25T23:31:59Z",
     "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-25T23:31:47Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
     "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
@@ -259,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-08-25T23:25:03Z",
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 1,
-    "updated_at": "2026-08-25T23:24:44Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-25T23:18:06Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-25T23:18:06Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-25T23:17:53Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-25T23:17:51Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-25T23:16:53Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-25T23:16:48Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Claude skill that asks clarifying questions before executing ambiguous instructions, preventing hallucination from uncle",
-    "id": "irfanannaafi19/Clarify-Intent",
-    "language": "\u2014",
-    "name": "irfanannaafi19/Clarify-Intent",
-    "stars": 0,
-    "updated_at": "2026-08-25T23:15:33Z",
-    "url": "https://github.com/irfanannaafi19/Clarify-Intent"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 1,
-    "updated_at": "2026-08-25T23:14:16Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
   }
 ]
