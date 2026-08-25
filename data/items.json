@@ -1,5 +1,23 @@
 [
   {
+    "description": "HyperAgents-based framework for evolutionary prompt optimization using task agents, evaluators and meta-agents.",
+    "id": "PentumLab/prompt-evolution",
+    "language": "Python",
+    "name": "PentumLab/prompt-evolution",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:42:58Z",
+    "url": "https://github.com/PentumLab/prompt-evolution"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-25T14:42:20Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Codex skill with an independent anti-preguica quality gate before code delivery",
     "id": "ccaiolopes/anti-preguica",
     "language": "\u2014",
@@ -45,16 +63,7 @@
     "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-25T14:30:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Offizielle Begleitmaterialien zum Bestseller 'KI f\u00fcr Content Creation'. Lebendiges Repo mit Beispielen, Prompts & Ressou",
+    "description": "KI f\u00fcr Content Creation (mitp) - Prompts, Beispiele und Ressourcen zu jedem Kapitel. Platz 1 der Amazon-Bestseller in K\u00fc",
     "id": "aloth/KI-Buch-Begleitmaterialien",
     "language": "\u2014",
     "name": "aloth/KI-Buch-Begleitmaterialien",
@@ -94,8 +103,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33674,
-    "updated_at": "2026-08-25T14:24:54Z",
+    "stars": 33673,
+    "updated_at": "2026-08-25T14:43:48Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -196,6 +205,15 @@
     "stars": 1,
     "updated_at": "2026-08-25T14:18:16Z",
     "url": "https://github.com/krivonosoff161/llm-safety-playbooks"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-25T14:18:07Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
   },
   {
     "description": "AI Systems Engineering: A Practical Bootcamp \u2014 a 30-working-day curriculum and build tooling for moving from traditional",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T14:40:06Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "HyperAgents-based framework for evolutionary prompt optimization using task agents, evaluators and meta-agents.",
-    "id": "PentumLab/prompt-evolution",
-    "language": "Python",
-    "name": "PentumLab/prompt-evolution",
-    "stars": 0,
-    "updated_at": "2026-08-25T13:54:37Z",
-    "url": "https://github.com/PentumLab/prompt-evolution"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 121,
-    "updated_at": "2026-08-25T13:54:24Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
   }
 ]
