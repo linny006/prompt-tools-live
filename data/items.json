@@ -1,5 +1,50 @@
 [
   {
+    "description": "A portable set of Markdown role definitions for lean founder-led companies using persistent AI agents.",
+    "id": "ProgramComputer/lean-ai-company",
+    "language": "\u2014",
+    "name": "ProgramComputer/lean-ai-company",
+    "stars": 1,
+    "updated_at": "2026-08-25T13:06:37Z",
+    "url": "https://github.com/ProgramComputer/lean-ai-company"
+  },
+  {
+    "description": "The safe and simple Human In The Loop lab notebook for coordinating AI sessions with packets & provenance, all with trac",
+    "id": "Wonderforge-Lab/CapstanAI-LabNote",
+    "language": "\u2014",
+    "name": "Wonderforge-Lab/CapstanAI-LabNote",
+    "stars": 0,
+    "updated_at": "2026-08-25T13:06:00Z",
+    "url": "https://github.com/Wonderforge-Lab/CapstanAI-LabNote"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1893,
+    "updated_at": "2026-08-25T13:05:37Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 17,
+    "updated_at": "2026-08-25T13:02:37Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-25T13:00:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Curated, path-scoped knowledge packages for AI coding agents (Claude Code, Cursor, Codex, Copilot, Windsurf, and any MCP",
     "id": "pathrule/patterns",
     "language": "TypeScript",
@@ -9,13 +54,40 @@
     "url": "https://github.com/pathrule/patterns"
   },
   {
+    "description": "An intel layer for AI coding agents that assumes its own rules might be wrong \u2014 and keeps the evidence. Authoritative no",
+    "id": "ReidenXerx/bearing",
+    "language": "JavaScript",
+    "name": "ReidenXerx/bearing",
+    "stars": 5,
+    "updated_at": "2026-08-25T13:06:46Z",
+    "url": "https://github.com/ReidenXerx/bearing"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33672,
-    "updated_at": "2026-08-25T12:59:38Z",
+    "updated_at": "2026-08-25T13:01:37Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Token-efficient, quality-first, spec-driven development kit for AI coding agents \u2014 progressive context, durable project ",
+    "id": "Elguajo/Progressive-Context-Kit",
+    "language": "Python",
+    "name": "Elguajo/Progressive-Context-Kit",
+    "stars": 1,
+    "updated_at": "2026-08-25T13:03:49Z",
+    "url": "https://github.com/Elguajo/Progressive-Context-Kit"
+  },
+  {
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "id": "AgustiPuigserver/opus-prompt-architect",
+    "language": "HTML",
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "stars": 121,
+    "updated_at": "2026-08-25T12:55:09Z",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
   },
   {
     "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4367,
-    "updated_at": "2026-08-25T12:57:02Z",
+    "updated_at": "2026-08-25T13:05:28Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -61,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-08-25T12:50:39Z",
     "url": "https://github.com/Shhaaawwww/vibe-intent-compiler"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 1,
+    "updated_at": "2026-08-25T12:50:35Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -198,20 +279,11 @@
     "url": "https://github.com/hi0001234d/nexpath"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-25T12:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Local evidence, diagnosis, and control loop for prompts, checkpoints, and AI agents.",
     "id": "VeraPyuyi/prompt_control_lab",
     "language": "Python",
     "name": "VeraPyuyi/prompt_control_lab",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-25T12:45:03Z",
     "url": "https://github.com/VeraPyuyi/prompt_control_lab"
   },
@@ -241,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T12:43:18Z",
     "url": "https://github.com/householderbereavedperson505/promptloop"
-  },
-  {
-    "description": "Token-efficient, quality-first, spec-driven development kit for AI coding agents \u2014 progressive context, durable project ",
-    "id": "Elguajo/Progressive-Context-Kit",
-    "language": "Python",
-    "name": "Elguajo/Progressive-Context-Kit",
-    "stars": 1,
-    "updated_at": "2026-08-25T12:55:22Z",
-    "url": "https://github.com/Elguajo/Progressive-Context-Kit"
   },
   {
     "description": "Systematic methodology for prompt optimization & AI reasoning",
@@ -385,68 +448,5 @@
     "stars": 121,
     "updated_at": "2026-08-25T12:39:48Z",
     "url": "https://github.com/elie222/botdirectory.ai"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "SAIRAMANALADI/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "SAIRAMANALADI/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-08-25T12:39:44Z",
-    "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-25T12:55:37Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Skill sharing made easy",
-    "id": "sleuth-io/sx",
-    "language": "Go",
-    "name": "sleuth-io/sx",
-    "stars": 297,
-    "updated_at": "2026-08-25T12:38:52Z",
-    "url": "https://github.com/sleuth-io/sx"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 1,
-    "updated_at": "2026-08-25T12:38:43Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Codex Skill: turn one real travel photo into a standalone source-colored fridge-magnet artwork at the exact same dimensi",
-    "id": "zcjunn/make-travel-fridge-magnet-skill",
-    "language": "Python",
-    "name": "zcjunn/make-travel-fridge-magnet-skill",
-    "stars": 0,
-    "updated_at": "2026-08-25T12:38:30Z",
-    "url": "https://github.com/zcjunn/make-travel-fridge-magnet-skill"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 1,
-    "updated_at": "2026-08-25T12:38:29Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-08-25T12:38:08Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
   }
 ]
