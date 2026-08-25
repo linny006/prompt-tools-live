@@ -1,5 +1,77 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21593,
+    "updated_at": "2026-08-25T08:59:11Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Drop-in instructions, prompts, and workflows to reduce token usage across Codex, Claude Code, GitHub Copilot, Cursor, an",
+    "id": "ravinperera/ai-token-efficiency-playbook",
+    "language": "Python",
+    "name": "ravinperera/ai-token-efficiency-playbook",
+    "stars": 9,
+    "updated_at": "2026-08-25T08:59:08Z",
+    "url": "https://github.com/ravinperera/ai-token-efficiency-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33667,
+    "updated_at": "2026-08-25T08:59:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-25T08:58:34Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Applied AI project portfolio featuring prompt systems, research tools, privacy-first utilities, and deployable product p",
+    "id": "atomicdjt/AI-Project-Portfolio",
+    "language": "JavaScript",
+    "name": "atomicdjt/AI-Project-Portfolio",
+    "stars": 0,
+    "updated_at": "2026-08-25T08:58:24Z",
+    "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-25T08:56:50Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-25T08:55:47Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Grimoire's Tome & The Grim Council. A Prompt Spellbook of /skills. The #1 Coding Wizard \ud83e\uddd9\u200d\u2642\ufe0f",
+    "id": "MindGoblinStudios/grim-tome",
+    "language": "JavaScript",
+    "name": "MindGoblinStudios/grim-tome",
+    "stars": 0,
+    "updated_at": "2026-08-25T08:54:48Z",
+    "url": "https://github.com/MindGoblinStudios/grim-tome"
+  },
+  {
     "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
     "id": "flexigpt/flexigpt-app",
     "language": "TypeScript",
@@ -7,6 +79,15 @@
     "stars": 4,
     "updated_at": "2026-08-25T08:54:30Z",
     "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Experimental AI-assisted workflow for turning visual references into maintainable GraphCompose Java templates. Companion",
+    "id": "DemchaAV/graphcompose-ai-flow",
+    "language": "JavaScript",
+    "name": "DemchaAV/graphcompose-ai-flow",
+    "stars": 2,
+    "updated_at": "2026-08-25T08:53:45Z",
+    "url": "https://github.com/DemchaAV/graphcompose-ai-flow"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -25,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T08:51:38Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33667,
-    "updated_at": "2026-08-25T08:55:07Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
@@ -86,7 +158,7 @@
     "language": "C#",
     "name": "ikilic-tech/ai-business-workflow",
     "stars": 0,
-    "updated_at": "2026-08-25T08:49:09Z",
+    "updated_at": "2026-08-25T08:58:57Z",
     "url": "https://github.com/ikilic-tech/ai-business-workflow"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T08:48:29Z",
     "url": "https://github.com/qianbrady/promptwake"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21593,
-    "updated_at": "2026-08-25T08:54:15Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A simple CI gate for testing AI prompts and preventing regressions.",
@@ -140,17 +203,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27667,
-    "updated_at": "2026-08-25T08:45:53Z",
+    "updated_at": "2026-08-25T08:56:23Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-25T08:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83e\udde0 Semantic/intent diff for AI prompts & LLM outputs \u2014 similarity, tone shift, keyword drift. Zero deps.",
@@ -257,7 +311,7 @@
     "language": "JavaScript",
     "name": "aniruddhaadak80/skills",
     "stars": 0,
-    "updated_at": "2026-08-25T08:40:27Z",
+    "updated_at": "2026-08-25T08:59:40Z",
     "url": "https://github.com/aniruddhaadak80/skills"
   },
   {
@@ -302,7 +356,7 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 17,
-    "updated_at": "2026-08-25T08:38:49Z",
+    "updated_at": "2026-08-25T08:55:55Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -340,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T08:36:03Z",
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Grimoire's Tome & The Grim Council. A Prompt Spellbook of /skills. The #1 Coding Wizard \ud83e\uddd9\u200d\u2642\ufe0f",
-    "id": "MindGoblinStudios/grim-tome",
-    "language": "JavaScript",
-    "name": "MindGoblinStudios/grim-tome",
-    "stars": 0,
-    "updated_at": "2026-08-25T08:54:48Z",
-    "url": "https://github.com/MindGoblinStudios/grim-tome"
   },
   {
     "description": "One profile \u2192 every AI coding agent. Compile your standards, guardrails & workflow into CLAUDE.md, AGENTS.md, Cursor, Co",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-25T08:33:21Z",
     "url": "https://github.com/Fergius-Engineering/instincts"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-25T08:33:01Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Applied AI project portfolio featuring prompt systems, research tools, privacy-first utilities, and deployable product p",
-    "id": "atomicdjt/AI-Project-Portfolio",
-    "language": "JavaScript",
-    "name": "atomicdjt/AI-Project-Portfolio",
-    "stars": 0,
-    "updated_at": "2026-08-25T08:51:28Z",
-    "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-25T08:32:33Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-25T08:32:27Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Experimental AI-assisted workflow for turning visual references into maintainable GraphCompose Java templates. Companion",
-    "id": "DemchaAV/graphcompose-ai-flow",
-    "language": "JavaScript",
-    "name": "DemchaAV/graphcompose-ai-flow",
-    "stars": 2,
-    "updated_at": "2026-08-25T08:53:45Z",
-    "url": "https://github.com/DemchaAV/graphcompose-ai-flow"
   }
 ]
