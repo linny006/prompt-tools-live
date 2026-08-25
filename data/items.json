@@ -1,5 +1,77 @@
 [
   {
+    "description": "A one-click DeepSeek Harness plugin that compiles messy Vibe Coder drafts into concise, faithful, actionable instruction",
+    "id": "Shhaaawwww/vibe-intent-compiler",
+    "language": "JavaScript",
+    "name": "Shhaaawwww/vibe-intent-compiler",
+    "stars": 0,
+    "updated_at": "2026-08-25T13:14:42Z",
+    "url": "https://github.com/Shhaaawwww/vibe-intent-compiler"
+  },
+  {
+    "description": "Prompt optimization and benchmarking for local LLMs: picks the right prompt technique for your task and measures it on O",
+    "id": "KazKozDev/prompt-playoff",
+    "language": "Python",
+    "name": "KazKozDev/prompt-playoff",
+    "stars": 1,
+    "updated_at": "2026-08-25T13:14:10Z",
+    "url": "https://github.com/KazKozDev/prompt-playoff"
+  },
+  {
+    "description": "Portable Codex skill that routes work by task shape to maximize verified delivery per unit of subscription quota.",
+    "id": "cs-yb633/codex-quota-router",
+    "language": "\u2014",
+    "name": "cs-yb633/codex-quota-router",
+    "stars": 0,
+    "updated_at": "2026-08-25T13:13:12Z",
+    "url": "https://github.com/cs-yb633/codex-quota-router"
+  },
+  {
+    "description": "AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff0c\u8986\u76d6\u5267\u672c\u3001\u8d44\u4ea7\u3001\u5206\u955c\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u5230\u72ec\u7acb\u5ba1\u67e5\u5168\u94fe\u8def\uff0c\u9002\u914d Claude Code \u4e0e Codex\u3002| An AI short-drama skill suite for Claude Code &",
+    "id": "zenstory-ai/drama-skills",
+    "language": "Python",
+    "name": "zenstory-ai/drama-skills",
+    "stars": 1129,
+    "updated_at": "2026-08-25T13:12:23Z",
+    "url": "https://github.com/zenstory-ai/drama-skills"
+  },
+  {
+    "description": "Codex Skill: turn one real travel photo into a standalone source-colored fridge-magnet artwork at the exact same dimensi",
+    "id": "zcjunn/make-travel-fridge-magnet-skill",
+    "language": "Python",
+    "name": "zcjunn/make-travel-fridge-magnet-skill",
+    "stars": 0,
+    "updated_at": "2026-08-25T13:10:27Z",
+    "url": "https://github.com/zcjunn/make-travel-fridge-magnet-skill"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33672,
+    "updated_at": "2026-08-25T13:13:49Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-25T13:07:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "An intel layer for AI coding agents that assumes its own rules might be wrong \u2014 and keeps the evidence. Authoritative no",
+    "id": "ReidenXerx/bearing",
+    "language": "JavaScript",
+    "name": "ReidenXerx/bearing",
+    "stars": 5,
+    "updated_at": "2026-08-25T13:15:21Z",
+    "url": "https://github.com/ReidenXerx/bearing"
+  },
+  {
     "description": "A portable set of Markdown role definitions for lean founder-led companies using persistent AI agents.",
     "id": "ProgramComputer/lean-ai-company",
     "language": "\u2014",
@@ -27,6 +99,33 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
   {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4367,
+    "updated_at": "2026-08-25T13:14:36Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "Token-efficient, quality-first, spec-driven development kit for AI coding agents \u2014 progressive context, durable project ",
+    "id": "Elguajo/Progressive-Context-Kit",
+    "language": "Python",
+    "name": "Elguajo/Progressive-Context-Kit",
+    "stars": 1,
+    "updated_at": "2026-08-25T13:03:49Z",
+    "url": "https://github.com/Elguajo/Progressive-Context-Kit"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-25T13:03:14Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
@@ -36,13 +135,22 @@
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-25T13:00:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 1,
+    "updated_at": "2026-08-25T13:01:28Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
+    "id": "Magma1321/mythos-agent-pipe",
+    "language": "HTML",
+    "name": "Magma1321/mythos-agent-pipe",
+    "stars": 123,
+    "updated_at": "2026-08-25T12:59:22Z",
+    "url": "https://github.com/Magma1321/mythos-agent-pipe"
   },
   {
     "description": "Curated, path-scoped knowledge packages for AI coding agents (Claude Code, Cursor, Codex, Copilot, Windsurf, and any MCP",
@@ -54,31 +162,22 @@
     "url": "https://github.com/pathrule/patterns"
   },
   {
-    "description": "An intel layer for AI coding agents that assumes its own rules might be wrong \u2014 and keeps the evidence. Authoritative no",
-    "id": "ReidenXerx/bearing",
-    "language": "JavaScript",
-    "name": "ReidenXerx/bearing",
-    "stars": 5,
-    "updated_at": "2026-08-25T13:06:46Z",
-    "url": "https://github.com/ReidenXerx/bearing"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33672,
-    "updated_at": "2026-08-25T13:01:37Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1834,
+    "updated_at": "2026-08-25T12:58:38Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
   },
   {
-    "description": "Token-efficient, quality-first, spec-driven development kit for AI coding agents \u2014 progressive context, durable project ",
-    "id": "Elguajo/Progressive-Context-Kit",
-    "language": "Python",
-    "name": "Elguajo/Progressive-Context-Kit",
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-25T13:03:49Z",
-    "url": "https://github.com/Elguajo/Progressive-Context-Kit"
+    "updated_at": "2026-08-25T12:55:37Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
@@ -99,13 +198,13 @@
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
   },
   {
-    "description": "Portable Codex skill that routes work by task shape to maximize verified delivery per unit of subscription quota.",
-    "id": "cs-yb633/codex-quota-router",
-    "language": "\u2014",
-    "name": "cs-yb633/codex-quota-router",
-    "stars": 0,
-    "updated_at": "2026-08-25T12:53:37Z",
-    "url": "https://github.com/cs-yb633/codex-quota-router"
+    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
+    "id": "heavenaruba/codified-prompt-rule-engine",
+    "language": "HTML",
+    "name": "heavenaruba/codified-prompt-rule-engine",
+    "stars": 120,
+    "updated_at": "2026-08-25T12:54:41Z",
+    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
     "description": "Offizielle Begleitmaterialien zum Bestseller 'KI f\u00fcr Content Creation'. Lebendiges Repo mit Beispielen, Prompts & Ressou",
@@ -115,24 +214,6 @@
     "stars": 3,
     "updated_at": "2026-08-25T12:52:01Z",
     "url": "https://github.com/aloth/KI-Buch-Begleitmaterialien"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4367,
-    "updated_at": "2026-08-25T13:05:28Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "A one-click DeepSeek Harness plugin that compiles messy Vibe Coder drafts into concise, faithful, actionable instruction",
-    "id": "Shhaaawwww/vibe-intent-compiler",
-    "language": "JavaScript",
-    "name": "Shhaaawwww/vibe-intent-compiler",
-    "stars": 0,
-    "updated_at": "2026-08-25T12:50:39Z",
-    "url": "https://github.com/Shhaaawwww/vibe-intent-compiler"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T12:41:53Z",
     "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-08-25T12:41:41Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 5,
-    "updated_at": "2026-08-25T12:41:33Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-08-25T12:41:27Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 118,
-    "updated_at": "2026-08-25T12:41:26Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-08-25T12:41:18Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
-  },
-  {
-    "description": "Reusable AI coding-agent prompts, plugins, and skills for Codex and Claude Code \u2014 guidelines, commit workflow, refactori",
-    "id": "mikaeltorni/programming_prompts",
-    "language": "Python",
-    "name": "mikaeltorni/programming_prompts",
-    "stars": 1,
-    "updated_at": "2026-08-25T12:40:55Z",
-    "url": "https://github.com/mikaeltorni/programming_prompts"
-  },
-  {
-    "description": "A build playbook that turns your coding agent into the foreman of a website build. It interviews you, forces the design ",
-    "id": "Turki-Sh/Foreman",
-    "language": "HTML",
-    "name": "Turki-Sh/Foreman",
-    "stars": 23,
-    "updated_at": "2026-08-25T12:40:43Z",
-    "url": "https://github.com/Turki-Sh/Foreman"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-25T12:40:33Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
-    "id": "elie222/botdirectory.ai",
-    "language": "Astro",
-    "name": "elie222/botdirectory.ai",
-    "stars": 121,
-    "updated_at": "2026-08-25T12:39:48Z",
-    "url": "https://github.com/elie222/botdirectory.ai"
   }
 ]
