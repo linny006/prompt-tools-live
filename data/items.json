@@ -1,11 +1,56 @@
 [
   {
+    "description": "Biblioteca port\u00e1til de agentes pessoais em Markdown, com privacidade por padr\u00e3o",
+    "id": "lucasteixeirati/personal-ai-agents",
+    "language": "\u2014",
+    "name": "lucasteixeirati/personal-ai-agents",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:59:45Z",
+    "url": "https://github.com/lucasteixeirati/personal-ai-agents"
+  },
+  {
+    "description": "Desafio #7DaysOfCode de Prompt Engineering da Alura",
+    "id": "AldomarAssolin/7days-prompt-engineering",
+    "language": "\u2014",
+    "name": "AldomarAssolin/7days-prompt-engineering",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:58:16Z",
+    "url": "https://github.com/AldomarAssolin/7days-prompt-engineering"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 8,
+    "updated_at": "2026-08-26T19:57:23Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Claude Code plugin to bootstrap and govern AI agent architectures (Claude Code, Cursor, Codex) \u2014 roles, task lifecycle, ",
+    "id": "Senavictors/bootstrap-agent-architecture-plugin",
+    "language": "Shell",
+    "name": "Senavictors/bootstrap-agent-architecture-plugin",
+    "stars": 2,
+    "updated_at": "2026-08-26T19:47:16Z",
+    "url": "https://github.com/Senavictors/bootstrap-agent-architecture-plugin"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T19:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Give your CLAUDE.md / AGENTS.md a checkup \u2014 audit size vitals, dead references, drifted claims, and backtest every rule ",
     "id": "agent-clinic/claude-md-doctor",
     "language": "Python",
     "name": "agent-clinic/claude-md-doctor",
     "stars": 4,
-    "updated_at": "2026-08-26T19:45:14Z",
+    "updated_at": "2026-08-26T19:46:59Z",
     "url": "https://github.com/agent-clinic/claude-md-doctor"
   },
   {
@@ -14,17 +59,17 @@
     "language": "Shell",
     "name": "ainova-systems/intelligence",
     "stars": 1,
-    "updated_at": "2026-08-26T19:40:02Z",
+    "updated_at": "2026-08-26T19:53:07Z",
     "url": "https://github.com/ainova-systems/intelligence"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T19:30:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 888,
+    "updated_at": "2026-08-26T19:35:30Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -72,12 +117,21 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
+    "description": "Turns vague requests into structured prompts, execution plans, and policy-aware workflows \u2014 with readiness verdicts, PR ",
+    "id": "madara88645/Compiler",
+    "language": "Python",
+    "name": "madara88645/Compiler",
+    "stars": 26,
+    "updated_at": "2026-08-26T19:23:58Z",
+    "url": "https://github.com/madara88645/Compiler"
+  },
+  {
     "description": "A Free, Open Source MCP server for dynamic custom persona management with public a GitHub collection of personas, skills",
     "id": "DollhouseMCP/mcp-server",
     "language": "TypeScript",
     "name": "DollhouseMCP/mcp-server",
     "stars": 41,
-    "updated_at": "2026-08-26T19:22:03Z",
+    "updated_at": "2026-08-26T19:59:29Z",
     "url": "https://github.com/DollhouseMCP/mcp-server"
   },
   {
@@ -144,6 +198,15 @@
     "url": "https://github.com/JinPLu/Teamwork"
   },
   {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Java",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:12:05Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
     "description": "Lightweight Python evaluation framework for LLM prompts. Define test cases in YAML, run against OpenAI and Anthropic mod",
     "id": "RitikPatill/prompt-eval-studio",
     "language": "Python",
@@ -151,6 +214,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T19:11:14Z",
     "url": "https://github.com/RitikPatill/prompt-eval-studio"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:11:00Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -189,6 +261,15 @@
     "url": "https://github.com/Anil-matcha/agency-agents-os"
   },
   {
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "id": "AgustiPuigserver/opus-prompt-architect",
+    "language": "HTML",
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "stars": 122,
+    "updated_at": "2026-08-26T19:06:55Z",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -196,6 +277,15 @@
     "stars": 1,
     "updated_at": "2026-08-26T19:06:48Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
+    "id": "heavenaruba/codified-prompt-rule-engine",
+    "language": "HTML",
+    "name": "heavenaruba/codified-prompt-rule-engine",
+    "stars": 121,
+    "updated_at": "2026-08-26T19:06:25Z",
+    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -225,6 +315,15 @@
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
   },
   {
+    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
+    "id": "SHENG5411/grimoire-of-tools",
+    "language": "HTML",
+    "name": "SHENG5411/grimoire-of-tools",
+    "stars": 2,
+    "updated_at": "2026-08-26T19:01:36Z",
+    "url": "https://github.com/SHENG5411/grimoire-of-tools"
+  },
+  {
     "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
     "id": "Asir11/langgraph-agentic-workflows-tutorial",
     "language": "HTML",
@@ -250,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T19:00:47Z",
     "url": "https://github.com/idrisshrs/Local-LLM-Infrastructure"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Java",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-08-26T19:12:05Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
     "description": "Strip AI writing tells at two layers: surface (Wikipedia Signs of AI writing) + narrative (StoryScope, arXiv:2604.03136)",
@@ -319,7 +409,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 67692,
+    "stars": 67694,
     "updated_at": "2026-08-26T18:54:56Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -347,7 +437,7 @@
     "language": "HTML",
     "name": "jposluns/cleanlanguage",
     "stars": 2,
-    "updated_at": "2026-08-26T19:40:13Z",
+    "updated_at": "2026-08-26T19:59:54Z",
     "url": "https://github.com/jposluns/cleanlanguage"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T18:53:11Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:51:24Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:51:23Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:51:19Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-26T18:51:03Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:51:02Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:51:01Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Agent-native reporting framework: scenario-routed report protocols, bounded context bundles, checkpointed long-task memo",
-    "id": "asimfish/super_agent_presentation",
-    "language": "Python",
-    "name": "asimfish/super_agent_presentation",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:50:18Z",
-    "url": "https://github.com/asimfish/super_agent_presentation"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:48:58Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "AI content operating system for founders, consultants and agency owners \u2014 turn real expertise into a month of LinkedIn c",
-    "id": "Mohworldent/founder-content-engine",
-    "language": "HTML",
-    "name": "Mohworldent/founder-content-engine",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:48:58Z",
-    "url": "https://github.com/Mohworldent/founder-content-engine"
-  },
-  {
-    "description": "Mythos-AI is an experimental multi-agent AI system where intelligence is split into distinct personas Hades, Athena, and",
-    "id": "Blvckv31/Mythos-AI",
-    "language": "Python",
-    "name": "Blvckv31/Mythos-AI",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:48:47Z",
-    "url": "https://github.com/Blvckv31/Mythos-AI"
   }
 ]
