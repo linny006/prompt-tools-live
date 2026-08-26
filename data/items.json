@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T14:58:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI agent that builds your portfolio website from your GitHub profile using LangGraph and Claude",
     "id": "vamsi1225/portfolioai",
     "language": "TypeScript",
@@ -7,6 +16,15 @@
     "stars": 1,
     "updated_at": "2026-08-26T14:58:16Z",
     "url": "https://github.com/vamsi1225/portfolioai"
+  },
+  {
+    "description": "Find the sentence in your AGENTS.md that made your coding agent worse. git bisect and delta debugging, applied to instru",
+    "id": "T4LEL/rulebisect",
+    "language": "TypeScript",
+    "name": "T4LEL/rulebisect",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:58:06Z",
+    "url": "https://github.com/T4LEL/rulebisect"
   },
   {
     "description": "Thirty compact, vendor-neutral agent skills for engineering, research, communication, interfaces, and quality work.",
@@ -23,7 +41,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33753,
-    "updated_at": "2026-08-26T14:56:03Z",
+    "updated_at": "2026-08-26T15:00:00Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -45,13 +63,13 @@
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
-    "description": "Find the sentence in your AGENTS.md that made your coding agent worse. git bisect and delta debugging, applied to instru",
-    "id": "T4LEL/rulebisect",
-    "language": "\u2014",
-    "name": "T4LEL/rulebisect",
-    "stars": 0,
-    "updated_at": "2026-08-26T14:58:06Z",
-    "url": "https://github.com/T4LEL/rulebisect"
+    "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 25010,
+    "updated_at": "2026-08-26T14:52:41Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
   },
   {
     "description": "WSQ - AI Security for Autonomous AI Agents (TGS-2025060473) \u2014 a hands-on 1-day course on generative AI, agentic AI and A",
@@ -72,6 +90,24 @@
     "url": "https://github.com/Caleb-Boddington/quorum"
   },
   {
+    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
+    "id": "heavenaruba/codified-prompt-rule-engine",
+    "language": "HTML",
+    "name": "heavenaruba/codified-prompt-rule-engine",
+    "stars": 120,
+    "updated_at": "2026-08-26T14:48:52Z",
+    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
+  },
+  {
+    "description": "FlyRank AI internship work documenting a five-step prompt-engineering ladder for reviewing FastAPI CRUD endpoints, with ",
+    "id": "cleidyanne-castro/flyrank-ai-internship",
+    "language": "Python",
+    "name": "cleidyanne-castro/flyrank-ai-internship",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:46:03Z",
+    "url": "https://github.com/cleidyanne-castro/flyrank-ai-internship"
+  },
+  {
     "description": "A template language for composable LLM prompt engineering. Write prompts with variables, loops, conditionals, functions,",
     "id": "dean0x/mdscript",
     "language": "Rust",
@@ -79,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T14:45:50Z",
     "url": "https://github.com/dean0x/mdscript"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T14:45:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Keep AI build instructions, demo scaffolding, and correction history out of finished user-facing artifacts.",
@@ -115,6 +142,15 @@
     "stars": 1,
     "updated_at": "2026-08-26T14:43:22Z",
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
+  },
+  {
+    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
+    "id": "SHENG5411/grimoire-of-tools",
+    "language": "HTML",
+    "name": "SHENG5411/grimoire-of-tools",
+    "stars": 2,
+    "updated_at": "2026-08-26T14:43:21Z",
+    "url": "https://github.com/SHENG5411/grimoire-of-tools"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "lizhuojunx86/traceguard",
     "stars": 2,
-    "updated_at": "2026-08-26T14:39:36Z",
+    "updated_at": "2026-08-26T14:59:08Z",
     "url": "https://github.com/lizhuojunx86/traceguard"
   },
   {
@@ -205,6 +241,15 @@
     "stars": 1,
     "updated_at": "2026-08-26T14:35:49Z",
     "url": "https://github.com/tech-guru254/spec-weaver"
+  },
+  {
+    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
+    "id": "kodancrash-oss/prompt-weaver-framework",
+    "language": "HTML",
+    "name": "kodancrash-oss/prompt-weaver-framework",
+    "stars": 1,
+    "updated_at": "2026-08-26T14:35:48Z",
+    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
   },
   {
     "description": "Swarming your messy diffs before they reach production.",
@@ -270,15 +315,6 @@
     "url": "https://github.com/braboj/solid-ai-templates"
   },
   {
-    "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 25008,
-    "updated_at": "2026-08-26T14:52:41Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
-  },
-  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T14:25:34Z",
     "url": "https://github.com/Rogers-F/thinking-toolkit"
-  },
-  {
-    "description": "FlyRank AI internship work documenting a five-step prompt-engineering ladder for reviewing FastAPI CRUD endpoints, with ",
-    "id": "cleidyanne-castro/flyrank-ai-internship",
-    "language": "Python",
-    "name": "cleidyanne-castro/flyrank-ai-internship",
-    "stars": 0,
-    "updated_at": "2026-08-26T14:46:03Z",
-    "url": "https://github.com/cleidyanne-castro/flyrank-ai-internship"
   },
   {
     "description": "Claude Prompt Library -- 30+ ready-to-use prompt templates for coding, writing, analysis, and business. Search, filter, ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T14:10:05Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24591,
-    "updated_at": "2026-08-26T14:55:40Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-26T14:09:25Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "A free cross-platform editorial standard for AI writing.",
-    "id": "jposluns/cleanlanguage",
-    "language": "HTML",
-    "name": "jposluns/cleanlanguage",
-    "stars": 2,
-    "updated_at": "2026-08-26T14:08:33Z",
-    "url": "https://github.com/jposluns/cleanlanguage"
   }
 ]
