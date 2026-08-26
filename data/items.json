@@ -1,12 +1,93 @@
 [
   {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-26T09:21:06Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Imprint: self-learning task handler for A3M Router - your AI bill should decay over time",
+    "id": "Das-rebel/imprint",
+    "language": "Python",
+    "name": "Das-rebel/imprint",
+    "stars": 0,
+    "updated_at": "2026-08-26T09:20:36Z",
+    "url": "https://github.com/Das-rebel/imprint"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-26T09:19:42Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33735,
+    "updated_at": "2026-08-26T09:19:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "German AI Text Humanizer for Claude Code & Codex. Audits 72 German AI-writing patterns using deterministic linters and e",
+    "id": "marmbiz/humanizer-de",
+    "language": "Python",
+    "name": "marmbiz/humanizer-de",
+    "stars": 121,
+    "updated_at": "2026-08-26T09:21:31Z",
+    "url": "https://github.com/marmbiz/humanizer-de"
+  },
+  {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "TypeScript",
+    "name": "sachncs/promptsheon",
+    "stars": 1,
+    "updated_at": "2026-08-26T09:19:06Z",
+    "url": "https://github.com/sachncs/promptsheon"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-26T09:13:44Z",
+    "updated_at": "2026-08-26T09:21:39Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "A simple CI gate for testing AI prompts and preventing regressions.",
+    "id": "mukundzha/crilio",
+    "language": "Python",
+    "name": "mukundzha/crilio",
+    "stars": 1,
+    "updated_at": "2026-08-26T09:17:29Z",
+    "url": "https://github.com/mukundzha/crilio"
+  },
+  {
+    "description": "Curated Claude Code plugin marketplace and cross-platform generator for Claude, OpenCode, and Antigravity",
+    "id": "seankoji-com/claude-plugins",
+    "language": "Python",
+    "name": "seankoji-com/claude-plugins",
+    "stars": 1,
+    "updated_at": "2026-08-26T09:19:53Z",
+    "url": "https://github.com/seankoji-com/claude-plugins"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T09:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Git records each repository. vat records what happened across them \u2014 a control plane for multi-repo workspaces and the a",
@@ -18,13 +99,22 @@
     "url": "https://github.com/takealook97/vat"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33733,
-    "updated_at": "2026-08-26T09:10:17Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 67636,
+    "updated_at": "2026-08-26T09:14:38Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "A collection of practical AI learning resources, tools, prompts, and beginner-friendly project examples.",
+    "id": "junaidkhan0462/Ai-learning-resources",
+    "language": "\u2014",
+    "name": "junaidkhan0462/Ai-learning-resources",
+    "stars": 0,
+    "updated_at": "2026-08-26T09:12:36Z",
+    "url": "https://github.com/junaidkhan0462/Ai-learning-resources"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -86,7 +176,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 8,
-    "updated_at": "2026-08-26T09:07:50Z",
+    "updated_at": "2026-08-26T09:19:36Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -144,15 +234,6 @@
     "url": "https://github.com/solo-vey/Ordo"
   },
   {
-    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
-    "id": "sachncs/promptsheon",
-    "language": "TypeScript",
-    "name": "sachncs/promptsheon",
-    "stars": 1,
-    "updated_at": "2026-08-26T09:05:04Z",
-    "url": "https://github.com/sachncs/promptsheon"
-  },
-  {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
     "id": "tuantranute-it/icm-graph-context-flow",
     "language": "HTML",
@@ -160,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T09:05:00Z",
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 67636,
-    "updated_at": "2026-08-26T09:14:38Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -187,33 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T09:02:36Z",
     "url": "https://github.com/AshwinSathian/humanize-writing-skill"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T09:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "A collection of practical AI learning resources, tools, prompts, and beginner-friendly project examples.",
-    "id": "junaidkhan0462/Ai-learning-resources",
-    "language": "\u2014",
-    "name": "junaidkhan0462/Ai-learning-resources",
-    "stars": 0,
-    "updated_at": "2026-08-26T09:12:36Z",
-    "url": "https://github.com/junaidkhan0462/Ai-learning-resources"
-  },
-  {
-    "description": "Imprint: self-learning task handler for A3M Router - your AI bill should decay over time",
-    "id": "Das-rebel/imprint",
-    "language": "Python",
-    "name": "Das-rebel/imprint",
-    "stars": 0,
-    "updated_at": "2026-08-26T08:59:39Z",
-    "url": "https://github.com/Das-rebel/imprint"
   },
   {
     "description": "Coding-agent skill for the smallest trustworthy change: less implementation, less narration, proof proportional to risk.",
@@ -283,7 +328,7 @@
     "id": "freestylefly/awesome-gpt-image-2",
     "language": "JavaScript",
     "name": "freestylefly/awesome-gpt-image-2",
-    "stars": 19992,
+    "stars": 20030,
     "updated_at": "2026-08-26T08:54:32Z",
     "url": "https://github.com/freestylefly/awesome-gpt-image-2"
   },
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21612,
-    "updated_at": "2026-08-26T08:51:49Z",
+    "updated_at": "2026-08-26T09:15:32Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -369,15 +414,6 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
-    "description": "A simple CI gate for testing AI prompts and preventing regressions.",
-    "id": "mukundzha/crilio",
-    "language": "Python",
-    "name": "mukundzha/crilio",
-    "stars": 1,
-    "updated_at": "2026-08-26T08:49:13Z",
-    "url": "https://github.com/mukundzha/crilio"
-  },
-  {
     "description": "Gemini API context optimizer using native PDF packaging \u2014 reduce reported input tokens by up to 99% in measured long-con",
     "id": "ianlyoo/GeminiContextPack",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T08:47:32Z",
     "url": "https://github.com/hahalee000000/helen"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 1,
-    "updated_at": "2026-08-26T08:45:58Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-08-26T08:45:04Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
-    "id": "Sungmin-Cho/deep-suite",
-    "language": "JavaScript",
-    "name": "Sungmin-Cho/deep-suite",
-    "stars": 8,
-    "updated_at": "2026-08-26T08:44:56Z",
-    "url": "https://github.com/Sungmin-Cho/deep-suite"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 5,
-    "updated_at": "2026-08-26T08:44:40Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
   }
 ]
