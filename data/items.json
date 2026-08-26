@@ -1,5 +1,41 @@
 [
   {
+    "description": "A lockfile for your prompts. Hash every prompt and fail CI on drift \u2014 like package-lock.json for LLM apps.",
+    "id": "yubinkim444/promptlock",
+    "language": "Python",
+    "name": "yubinkim444/promptlock",
+    "stars": 1,
+    "updated_at": "2026-08-26T20:15:18Z",
+    "url": "https://github.com/yubinkim444/promptlock"
+  },
+  {
+    "description": "A 9-symbol notation for compressing architectural intent into transmissible spells. High-context AI casts. Low-context A",
+    "id": "Michael-A-Kuykendall/sorcery",
+    "language": "\u2014",
+    "name": "Michael-A-Kuykendall/sorcery",
+    "stars": 4,
+    "updated_at": "2026-08-26T20:07:13Z",
+    "url": "https://github.com/Michael-A-Kuykendall/sorcery"
+  },
+  {
+    "description": "A free cross-platform editorial standard for AI writing.",
+    "id": "jposluns/cleanlanguage",
+    "language": "HTML",
+    "name": "jposluns/cleanlanguage",
+    "stars": 2,
+    "updated_at": "2026-08-26T20:13:38Z",
+    "url": "https://github.com/jposluns/cleanlanguage"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T20:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Biblioteca port\u00e1til de agentes pessoais em Markdown, com privacidade por padr\u00e3o",
     "id": "lucasteixeirati/personal-ai-agents",
     "language": "\u2014",
@@ -7,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T19:59:45Z",
     "url": "https://github.com/lucasteixeirati/personal-ai-agents"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3511,
+    "updated_at": "2026-08-26T20:05:01Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Desafio #7DaysOfCode de Prompt Engineering da Alura",
@@ -36,15 +81,6 @@
     "url": "https://github.com/Senavictors/bootstrap-agent-architecture-plugin"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T19:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Give your CLAUDE.md / AGENTS.md a checkup \u2014 audit size vitals, dead references, drifted claims, and backtest every rule ",
     "id": "agent-clinic/claude-md-doctor",
     "language": "Python",
@@ -52,6 +88,24 @@
     "stars": 4,
     "updated_at": "2026-08-26T19:46:59Z",
     "url": "https://github.com/agent-clinic/claude-md-doctor"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:42:30Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24596,
+    "updated_at": "2026-08-26T19:40:06Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Build, version and distribute AI agent intelligence across your organization - one CLI, versioned Intelligence Packages,",
@@ -70,6 +124,33 @@
     "stars": 888,
     "updated_at": "2026-08-26T19:35:30Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Imprint: self-learning task handler for A3M Router - your AI bill should decay over time",
+    "id": "Das-rebel/imprint",
+    "language": "Python",
+    "name": "Das-rebel/imprint",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:34:52Z",
+    "url": "https://github.com/Das-rebel/imprint"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-08-26T19:31:53Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "\u26a1\ufe0f Blazing fast, offline notebook for leading AI projects. Brainstorm ideas and keep them connected, orchestrate and sca",
+    "id": "mory-dev/sudonotes",
+    "language": "TypeScript",
+    "name": "mory-dev/sudonotes",
+    "stars": 3,
+    "updated_at": "2026-08-26T19:31:10Z",
+    "url": "https://github.com/mory-dev/sudonotes"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -108,6 +189,15 @@
     "url": "https://github.com/Eric-LLMs/Awesome-AI-Engineering"
   },
   {
+    "description": "Dowser \u2014 Claude Code plugin that surfaces the right skill from a curated skill library",
+    "id": "dallascrilley/dowser",
+    "language": "TypeScript",
+    "name": "dallascrilley/dowser",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:26:48Z",
+    "url": "https://github.com/dallascrilley/dowser"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -126,12 +216,21 @@
     "url": "https://github.com/madara88645/Compiler"
   },
   {
+    "description": "A profiler for your agentic harness. Price every line of CLAUDE.md, every skill, subagent and MCP tool schema \u2014 then fin",
+    "id": "alebgl77/harnessmeter",
+    "language": "TypeScript",
+    "name": "alebgl77/harnessmeter",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:22:29Z",
+    "url": "https://github.com/alebgl77/harnessmeter"
+  },
+  {
     "description": "A Free, Open Source MCP server for dynamic custom persona management with public a GitHub collection of personas, skills",
     "id": "DollhouseMCP/mcp-server",
     "language": "TypeScript",
     "name": "DollhouseMCP/mcp-server",
     "stars": 41,
-    "updated_at": "2026-08-26T19:59:29Z",
+    "updated_at": "2026-08-26T20:07:28Z",
     "url": "https://github.com/DollhouseMCP/mcp-server"
   },
   {
@@ -176,7 +275,7 @@
     "language": "Python",
     "name": "hakodev2k/AI-Engineering",
     "stars": 0,
-    "updated_at": "2026-08-26T19:15:10Z",
+    "updated_at": "2026-08-26T20:14:12Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
@@ -203,7 +302,7 @@
     "language": "Java",
     "name": "Nyanna/XY.AI.Workbench",
     "stars": 1,
-    "updated_at": "2026-08-26T19:12:05Z",
+    "updated_at": "2026-08-26T20:03:26Z",
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
@@ -306,6 +405,15 @@
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   },
   {
+    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
+    "id": "imhamzakhan/context-flow-compressor",
+    "language": "HTML",
+    "name": "imhamzakhan/context-flow-compressor",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:01:59Z",
+    "url": "https://github.com/imhamzakhan/context-flow-compressor"
+  },
+  {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
     "id": "Atheerameer/agentic-cli-blueprint-library",
     "language": "HTML",
@@ -340,113 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-26T19:01:10Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "D\u00e9ploiement d'un environnement IA souverain (Ollama + Open WebUI sur Docker). Conception d'agents personnalis\u00e9s via Mode",
-    "id": "idrisshrs/Local-LLM-Infrastructure",
-    "language": "\u2014",
-    "name": "idrisshrs/Local-LLM-Infrastructure",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:00:47Z",
-    "url": "https://github.com/idrisshrs/Local-LLM-Infrastructure"
-  },
-  {
-    "description": "Strip AI writing tells at two layers: surface (Wikipedia Signs of AI writing) + narrative (StoryScope, arXiv:2604.03136)",
-    "id": "badmuriss/unslop",
-    "language": "\u2014",
-    "name": "badmuriss/unslop",
-    "stars": 17,
-    "updated_at": "2026-08-26T18:58:08Z",
-    "url": "https://github.com/badmuriss/unslop"
-  },
-  {
-    "description": "Convenient, ready-to-use engineering skills and best practices for your AI assistant.",
-    "id": "kok-o/koko-contextos-agents",
-    "language": "TypeScript",
-    "name": "kok-o/koko-contextos-agents",
-    "stars": 2,
-    "updated_at": "2026-08-26T18:57:20Z",
-    "url": "https://github.com/kok-o/koko-contextos-agents"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:56:33Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 118,
-    "updated_at": "2026-08-26T18:56:31Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:56:14Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "\u26a1\ufe0f Blazing fast, offline notebook for leading AI projects. Brainstorm ideas and keep them connected, orchestrate and sca",
-    "id": "mory-dev/sudonotes",
-    "language": "TypeScript",
-    "name": "mory-dev/sudonotes",
-    "stars": 3,
-    "updated_at": "2026-08-26T19:31:10Z",
-    "url": "https://github.com/mory-dev/sudonotes"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 67694,
-    "updated_at": "2026-08-26T18:54:56Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-26T18:54:09Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-26T18:53:30Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "A free cross-platform editorial standard for AI writing.",
-    "id": "jposluns/cleanlanguage",
-    "language": "HTML",
-    "name": "jposluns/cleanlanguage",
-    "stars": 2,
-    "updated_at": "2026-08-26T19:59:54Z",
-    "url": "https://github.com/jposluns/cleanlanguage"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:53:11Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   }
 ]
