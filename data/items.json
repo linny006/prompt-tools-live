@@ -1,11 +1,29 @@
 [
   {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T07:14:17Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21611,
+    "updated_at": "2026-08-26T07:14:06Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
     "id": "hakodev2k/AI-Engineering",
     "language": "Python",
     "name": "hakodev2k/AI-Engineering",
     "stars": 0,
-    "updated_at": "2026-08-26T07:14:14Z",
+    "updated_at": "2026-08-26T07:14:54Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
@@ -68,17 +86,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33721,
-    "updated_at": "2026-08-26T07:13:47Z",
+    "updated_at": "2026-08-26T07:14:26Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21611,
-    "updated_at": "2026-08-26T07:14:06Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Token-efficiency linter for LLM prompts and payloads",
@@ -270,15 +279,6 @@
     "url": "https://github.com/acipaaa/context-llm-chunks"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T07:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
     "id": "Magma1321/mythos-agent-pipe",
     "language": "HTML",
@@ -445,7 +445,7 @@
     "id": "zenstory-ai/drama-skills",
     "language": "Python",
     "name": "zenstory-ai/drama-skills",
-    "stars": 1202,
+    "stars": 1203,
     "updated_at": "2026-08-26T06:48:55Z",
     "url": "https://github.com/zenstory-ai/drama-skills"
   }
