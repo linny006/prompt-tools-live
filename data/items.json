@@ -1,5 +1,68 @@
 [
   {
+    "description": "Gemini API context optimizer using native PDF packaging \u2014 reduce reported input tokens by up to 99% in measured long-con",
+    "id": "ianlyoo/GeminiContextPack",
+    "language": "TypeScript",
+    "name": "ianlyoo/GeminiContextPack",
+    "stars": 0,
+    "updated_at": "2026-08-26T07:59:39Z",
+    "url": "https://github.com/ianlyoo/GeminiContextPack"
+  },
+  {
+    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
+    "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "language": "Python",
+    "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "stars": 10,
+    "updated_at": "2026-08-26T07:59:06Z",
+    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
+  },
+  {
+    "description": "A simple CI gate for testing AI prompts and preventing regressions.",
+    "id": "mukundzha/crilio",
+    "language": "Python",
+    "name": "mukundzha/crilio",
+    "stars": 1,
+    "updated_at": "2026-08-26T07:59:04Z",
+    "url": "https://github.com/mukundzha/crilio"
+  },
+  {
+    "description": "Prompt building & enhancement toolkit for DeepSeek Harness: Studio + QuickEnhancer. \u5f00\u6e90\u7684 Prompt \u6784\u5efa\u4e0e\u589e\u5f3a\u5de5\u5177\u5305\u3002",
+    "id": "fsrmqi/dsh-promptkit",
+    "language": "JavaScript",
+    "name": "fsrmqi/dsh-promptkit",
+    "stars": 1,
+    "updated_at": "2026-08-26T07:58:13Z",
+    "url": "https://github.com/fsrmqi/dsh-promptkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T07:57:55Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A human\u2013AI collaboration framework that works with LLM nature, not around it \u2014 natural language and purpose make RAG and",
+    "id": "huidev2025/CSF",
+    "language": "Python",
+    "name": "huidev2025/CSF",
+    "stars": 5,
+    "updated_at": "2026-08-26T07:57:54Z",
+    "url": "https://github.com/huidev2025/CSF"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-26T07:57:16Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 327,
     "updated_at": "2026-08-26T07:55:36Z",
     "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense"
-  },
-  {
-    "description": "A simple CI gate for testing AI prompts and preventing regressions.",
-    "id": "mukundzha/crilio",
-    "language": "Python",
-    "name": "mukundzha/crilio",
-    "stars": 1,
-    "updated_at": "2026-08-26T07:55:31Z",
-    "url": "https://github.com/mukundzha/crilio"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -59,7 +113,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T07:57:47Z",
+    "updated_at": "2026-08-26T07:59:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -225,15 +279,6 @@
     "url": "https://github.com/rockerlabs/keel"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T07:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
     "id": "Dangkoolwat/ai-learning-studio",
     "language": "Python",
@@ -304,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T07:39:32Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Gemini API context optimizer using native PDF packaging \u2014 reduce reported input tokens by up to 99% in measured long-con",
-    "id": "ianlyoo/GeminiContextPack",
-    "language": "TypeScript",
-    "name": "ianlyoo/GeminiContextPack",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:39:26Z",
-    "url": "https://github.com/ianlyoo/GeminiContextPack"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -400,7 +436,7 @@
     "id": "zenstory-ai/drama-skills",
     "language": "Python",
     "name": "zenstory-ai/drama-skills",
-    "stars": 1209,
+    "stars": 1210,
     "updated_at": "2026-08-26T07:36:08Z",
     "url": "https://github.com/zenstory-ai/drama-skills"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T07:36:05Z",
     "url": "https://github.com/noxxer/core-team"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 136,
-    "updated_at": "2026-08-26T07:34:47Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Prompt building & enhancement toolkit for DeepSeek Harness: Studio + QuickEnhancer. \u5f00\u6e90\u7684 Prompt \u6784\u5efa\u4e0e\u589e\u5f3a\u5de5\u5177\u5305\u3002",
-    "id": "fsrmqi/dsh-promptkit",
-    "language": "JavaScript",
-    "name": "fsrmqi/dsh-promptkit",
-    "stars": 1,
-    "updated_at": "2026-08-26T07:34:23Z",
-    "url": "https://github.com/fsrmqi/dsh-promptkit"
-  },
-  {
-    "description": "Keep reusable prompts as local Markdown with variables and optional sections. Fill them in, preview, and paste into whic",
-    "id": "erdemtuna/prompt-bank",
-    "language": "TypeScript",
-    "name": "erdemtuna/prompt-bank",
-    "stars": 4,
-    "updated_at": "2026-08-26T07:33:05Z",
-    "url": "https://github.com/erdemtuna/prompt-bank"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-26T07:32:53Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   }
 ]
