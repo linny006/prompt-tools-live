@@ -1,12 +1,57 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33763,
+    "updated_at": "2026-08-26T18:32:40Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Curated catalog of open, specialized AI agents for real business work \u2014 organized as broad umbrella categories (video, i",
+    "id": "Anil-matcha/agency-agents-os",
+    "language": "\u2014",
+    "name": "Anil-matcha/agency-agents-os",
+    "stars": 1,
+    "updated_at": "2026-08-26T18:32:07Z",
+    "url": "https://github.com/Anil-matcha/agency-agents-os"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T18:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI quality method for validating LLM output against predefined criteria. Includes a builder-critic workflow, evidence ch",
+    "id": "israeldegasperi/gauntlet-loop",
+    "language": "\u2014",
+    "name": "israeldegasperi/gauntlet-loop",
+    "stars": 0,
+    "updated_at": "2026-08-26T18:30:28Z",
+    "url": "https://github.com/israeldegasperi/gauntlet-loop"
+  },
+  {
     "description": "CI for LLM behaviour: run a versioned prompt against a golden dataset, diff it against a promoted baseline, and block th",
     "id": "matsumoto1f-creator/llm-regression-ci",
-    "language": "\u2014",
+    "language": "Python",
     "name": "matsumoto1f-creator/llm-regression-ci",
     "stars": 0,
     "updated_at": "2026-08-26T18:26:12Z",
     "url": "https://github.com/matsumoto1f-creator/llm-regression-ci"
+  },
+  {
+    "description": "\ud83c\udfac Verified Seedance 2.5 / 2.0 prompt library \u2014 every prompt human-checked against its original post, with author, source",
+    "id": "LearnPrompt/awesome-seedance",
+    "language": "JavaScript",
+    "name": "LearnPrompt/awesome-seedance",
+    "stars": 1,
+    "updated_at": "2026-08-26T18:25:04Z",
+    "url": "https://github.com/LearnPrompt/awesome-seedance"
   },
   {
     "description": "Agent skills by Titus Kirch \u2014 installable via skills.sh in Claude Code, Codex, Cursor, OpenCode and friends.",
@@ -16,24 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T18:24:29Z",
     "url": "https://github.com/TitusKirch/skills"
-  },
-  {
-    "description": "AI quality method for validating LLM output against predefined criteria. Includes a builder-critic workflow, evidence ch",
-    "id": "israeldegasperi/gauntlet-loop",
-    "language": "\u2014",
-    "name": "israeldegasperi/gauntlet-loop",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:23:47Z",
-    "url": "https://github.com/israeldegasperi/gauntlet-loop"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33762,
-    "updated_at": "2026-08-26T18:22:40Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 67684,
-    "updated_at": "2026-08-26T18:30:09Z",
+    "updated_at": "2026-08-26T18:43:26Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -81,6 +108,15 @@
     "url": "https://github.com/639228/structural-reading-protocol"
   },
   {
+    "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
+    "id": "winstonkoh87/Athena-Public",
+    "language": "Python",
+    "name": "winstonkoh87/Athena-Public",
+    "stars": 583,
+    "updated_at": "2026-08-26T18:18:02Z",
+    "url": "https://github.com/winstonkoh87/Athena-Public"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -88,15 +124,6 @@
     "stars": 22,
     "updated_at": "2026-08-26T18:28:33Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T18:15:41Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
@@ -140,7 +167,7 @@
     "language": "Shell",
     "name": "ericrisco/rsc-harness",
     "stars": 56,
-    "updated_at": "2026-08-26T18:10:51Z",
+    "updated_at": "2026-08-26T18:45:10Z",
     "url": "https://github.com/ericrisco/rsc-harness"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "sergstack/AI-OS",
     "stars": 0,
-    "updated_at": "2026-08-26T18:10:29Z",
+    "updated_at": "2026-08-26T18:44:34Z",
     "url": "https://github.com/sergstack/AI-OS"
   },
   {
@@ -277,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T18:00:26Z",
     "url": "https://github.com/Mohworldent/founder-content-engine"
-  },
-  {
-    "description": "Curated catalog of open, specialized AI agents for real business work \u2014 organized as broad umbrella categories (video, i",
-    "id": "Anil-matcha/agency-agents-os",
-    "language": "\u2014",
-    "name": "Anil-matcha/agency-agents-os",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:59:36Z",
-    "url": "https://github.com/Anil-matcha/agency-agents-os"
   },
   {
     "description": "The control plane for AI prompts. Score, enforce policy, lock config, and audit every prompt \u2014 before it reaches any LLM",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T17:39:58Z",
     "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:39:57Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:39:49Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
   }
 ]
