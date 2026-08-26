@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-26 13:29 UTC
+> ⏰ Last updated: 2026-08-26 13:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sergeeey/Claude-cod-top-2026](https://github.com/sergeeey/Claude-cod-top-2026) | 7 | Python | 2026-08-26 | Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e |
-| 2 | [gomzkov/worth-knowing](https://github.com/gomzkov/worth-knowing) | 1 | JavaScript | 2026-08-26 | Agent skill that adds one useful, practical detail about the domain you're already working in, every few replies. |
-| 3 | [Quazmoz/agentdefaults](https://github.com/Quazmoz/agentdefaults) | 0 | Python | 2026-08-26 | Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie |
-| 4 | [25hour-io/ai-systems](https://github.com/25hour-io/ai-systems) | 0 | JavaScript | 2026-08-26 | Six AI systems in production: what each does, how it is built, and what it costs to run. |
-| 5 | [martonpaulo/skills](https://github.com/martonpaulo/skills) | 1 | Python | 2026-08-26 | My personal Agent Skills for coding agents: engineering workflows plus a few personal-use tools. Personalized forks, wit |
-| 6 | [marisayoung310-sketch/prompt-auditor](https://github.com/marisayoung310-sketch/prompt-auditor) | 0 | — | 2026-08-26 | A zero-cost Codex skill that audits, scores, and improves prompts across task types. |
-| 7 | [takealook97/vat](https://github.com/takealook97/vat) | 0 | Go | 2026-08-26 | Git records each repository. vat records what happened across them — a control plane for multi-repo workspaces and the a |
-| 8 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3511 | TypeScript | 2026-08-26 | The platform for LLM evaluations and AI agent testing |
-| 9 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 4 | JavaScript | 2026-08-26 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
-| 10 | [jafeeri/sales-research-agent](https://github.com/jafeeri/sales-research-agent) | 0 | — | 2026-08-26 | Autonomous agent that researches a company and writes a source-cited sales brief — a dependency-free ReAct loop with gro |
-| 11 | [dayfinggg/openai-codex-agent-skills](https://github.com/dayfinggg/openai-codex-agent-skills) | 4 | PowerShell | 2026-08-26 | Production engineering and design skills for OpenAI Codex. |
-| 12 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33748 | TypeScript | 2026-08-26 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 13 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 8 | TypeScript | 2026-08-26 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
-| 14 | [bydtesla1609/intent-debugger](https://github.com/bydtesla1609/intent-debugger) | 28 | Python | 2026-08-26 | 需求澄清与意图对齐｜Turn rough ideas into clear, checkable requirements. |
-| 15 | [PromptPotter/prompt-potter-optimizer](https://github.com/PromptPotter/prompt-potter-optimizer) | 3 | Python | 2026-08-26 | PromptPotter: AI optimization engine for automated prompt engineering (APE). Searches and tunes prompts and parameters a |
-| 16 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 9 | Python | 2026-08-26 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 9 | Python | 2026-08-26 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [sergeeey/Claude-cod-top-2026](https://github.com/sergeeey/Claude-cod-top-2026) | 7 | Python | 2026-08-26 | Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e |
+| 3 | [gomzkov/worth-knowing](https://github.com/gomzkov/worth-knowing) | 1 | JavaScript | 2026-08-26 | Agent skill that adds one useful, practical detail about the domain you're already working in, every few replies. |
+| 4 | [Quazmoz/agentdefaults](https://github.com/Quazmoz/agentdefaults) | 0 | Python | 2026-08-26 | Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie |
+| 5 | [25hour-io/ai-systems](https://github.com/25hour-io/ai-systems) | 0 | JavaScript | 2026-08-26 | Six AI systems in production: what each does, how it is built, and what it costs to run. |
+| 6 | [martonpaulo/skills](https://github.com/martonpaulo/skills) | 1 | Python | 2026-08-26 | My personal Agent Skills for coding agents: engineering workflows plus a few personal-use tools. Personalized forks, wit |
+| 7 | [marisayoung310-sketch/prompt-auditor](https://github.com/marisayoung310-sketch/prompt-auditor) | 0 | — | 2026-08-26 | A zero-cost Codex skill that audits, scores, and improves prompts across task types. |
+| 8 | [takealook97/vat](https://github.com/takealook97/vat) | 0 | Go | 2026-08-26 | Git records each repository. vat records what happened across them — a control plane for multi-repo workspaces and the a |
+| 9 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 3511 | TypeScript | 2026-08-26 | The platform for LLM evaluations and AI agent testing |
+| 10 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 4 | JavaScript | 2026-08-26 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
+| 11 | [jafeeri/sales-research-agent](https://github.com/jafeeri/sales-research-agent) | 0 | — | 2026-08-26 | Autonomous agent that researches a company and writes a source-cited sales brief — a dependency-free ReAct loop with gro |
+| 12 | [dayfinggg/openai-codex-agent-skills](https://github.com/dayfinggg/openai-codex-agent-skills) | 4 | PowerShell | 2026-08-26 | Production engineering and design skills for OpenAI Codex. |
+| 13 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33748 | TypeScript | 2026-08-26 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 14 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 8 | TypeScript | 2026-08-26 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
+| 15 | [bydtesla1609/intent-debugger](https://github.com/bydtesla1609/intent-debugger) | 28 | Python | 2026-08-26 | 需求澄清与意图对齐｜Turn rough ideas into clear, checkable requirements. |
+| 16 | [PromptPotter/prompt-potter-optimizer](https://github.com/PromptPotter/prompt-potter-optimizer) | 3 | Python | 2026-08-26 | PromptPotter: AI optimization engine for automated prompt engineering (APE). Searches and tunes prompts and parameters a |
 | 17 | [mazze93/kairos-mcp](https://github.com/mazze93/kairos-mcp) | 1 | TypeScript | 2026-08-26 | Kairos — MCP server that reframes queries through persuasion and reasoning frameworks (Cloudflare Workers, TypeScript) |
 | 18 | [hakodev2k/AI-Engineering](https://github.com/hakodev2k/AI-Engineering) | 0 | Python | 2026-08-26 | Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories. |
 | 19 | [Dream22180971/wise-council-mcp](https://github.com/Dream22180971/wise-council-mcp) | 0 | TypeScript | 2026-08-26 | 智囊团 MCP —— 一场横跨东西方 2500 年的董事会。白天问事业，夜晚问人生。38 位东西方智者 + 65 岁的你 + 司仪分诊 + 圆桌会议纪要。 |
