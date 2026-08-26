@@ -1,5 +1,95 @@
 [
   {
+    "description": "End-to-end agentic data-science system: LLM planning + MCP tool execution over deterministic analytics, with full tracea",
+    "id": "Padraigobrien08/agentic-data-science-system",
+    "language": "Python",
+    "name": "Padraigobrien08/agentic-data-science-system",
+    "stars": 0,
+    "updated_at": "2026-08-26T08:33:57Z",
+    "url": "https://github.com/Padraigobrien08/agentic-data-science-system"
+  },
+  {
+    "description": "C31 \u2014 Agent Harness System. Memory that persists. Instincts that evolve. Context that stays healthy.",
+    "id": "ChianW/C31",
+    "language": "Shell",
+    "name": "ChianW/C31",
+    "stars": 1,
+    "updated_at": "2026-08-26T08:33:27Z",
+    "url": "https://github.com/ChianW/C31"
+  },
+  {
+    "description": "A simple CI gate for testing AI prompts and preventing regressions.",
+    "id": "mukundzha/crilio",
+    "language": "Python",
+    "name": "mukundzha/crilio",
+    "stars": 1,
+    "updated_at": "2026-08-26T08:32:54Z",
+    "url": "https://github.com/mukundzha/crilio"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21610,
+    "updated_at": "2026-08-26T08:34:45Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83d\udc68 A Claude Code skill that strips the tells of AI-generated writing \u2014 26 named pattern categories, a 70-term banned voca",
+    "id": "giudegio-ai/claude-skill-humanizer",
+    "language": "\u2014",
+    "name": "giudegio-ai/claude-skill-humanizer",
+    "stars": 0,
+    "updated_at": "2026-08-26T08:32:04Z",
+    "url": "https://github.com/giudegio-ai/claude-skill-humanizer"
+  },
+  {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "TypeScript",
+    "name": "sachncs/promptsheon",
+    "stars": 1,
+    "updated_at": "2026-08-26T08:32:03Z",
+    "url": "https://github.com/sachncs/promptsheon"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-08-26T08:31:28Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T08:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Keep reusable prompts as local Markdown with variables and optional sections. Fill them in, preview, and paste into whic",
+    "id": "erdemtuna/prompt-bank",
+    "language": "TypeScript",
+    "name": "erdemtuna/prompt-bank",
+    "stars": 4,
+    "updated_at": "2026-08-26T08:30:10Z",
+    "url": "https://github.com/erdemtuna/prompt-bank"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-26T08:29:45Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
     "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
     "id": "Mr-Salticidae/knowledge-base",
     "language": "Python",
@@ -18,24 +108,6 @@
     "url": "https://github.com/ianlyoo/GeminiContextPack"
   },
   {
-    "description": "Keep reusable prompts as local Markdown with variables and optional sections. Fill them in, preview, and paste into whic",
-    "id": "erdemtuna/prompt-bank",
-    "language": "TypeScript",
-    "name": "erdemtuna/prompt-bank",
-    "stars": 4,
-    "updated_at": "2026-08-26T08:30:10Z",
-    "url": "https://github.com/erdemtuna/prompt-bank"
-  },
-  {
-    "description": "\ud83d\udc68 A Claude Code skill that strips the tells of AI-generated writing \u2014 16 named pattern categories, a 70-term banned voca",
-    "id": "giudegio-ai/claude-skill-humanizer",
-    "language": "\u2014",
-    "name": "giudegio-ai/claude-skill-humanizer",
-    "stars": 0,
-    "updated_at": "2026-08-26T08:28:13Z",
-    "url": "https://github.com/giudegio-ai/claude-skill-humanizer"
-  },
-  {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
     "id": "YouMind-OpenLab/awesome-seedream-4.5",
     "language": "TypeScript",
@@ -43,6 +115,15 @@
     "stars": 57,
     "updated_at": "2026-08-26T08:28:04Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-26T08:27:52Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
   },
   {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
@@ -68,8 +149,17 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 8,
-    "updated_at": "2026-08-26T08:25:55Z",
+    "updated_at": "2026-08-26T08:33:35Z",
     "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33725,
+    "updated_at": "2026-08-26T08:34:19Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
@@ -79,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T08:25:46Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
-    "id": "sachncs/promptsheon",
-    "language": "TypeScript",
-    "name": "sachncs/promptsheon",
-    "stars": 1,
-    "updated_at": "2026-08-26T08:25:30Z",
-    "url": "https://github.com/sachncs/promptsheon"
   },
   {
     "description": "LLM\uc774 \uc4f4 \ud55c\uad6d\uc5b4 \uc0b0\ubb38\uc5d0\uc11c AI \ud2f0\ub97c \uac77\uc5b4\ub0b4\ub294, \uac1c\ubc1c\uc790\ub97c \uc704\ud55c Claude Code \uc2a4\ud0ac. Korean prose rules for developers, stripping the AI voice from LLM o",
@@ -104,7 +185,7 @@
     "language": "HTML",
     "name": "huidev2025/CSF",
     "stars": 5,
-    "updated_at": "2026-08-26T08:24:21Z",
+    "updated_at": "2026-08-26T08:30:27Z",
     "url": "https://github.com/huidev2025/CSF"
   },
   {
@@ -153,15 +234,6 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33724,
-    "updated_at": "2026-08-26T08:25:51Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -196,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T08:16:11Z",
     "url": "https://github.com/Das-rebel/imprint"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T08:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
@@ -286,15 +349,6 @@
     "stars": 5814,
     "updated_at": "2026-08-26T08:07:23Z",
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "A simple CI gate for testing AI prompts and preventing regressions.",
-    "id": "mukundzha/crilio",
-    "language": "Python",
-    "name": "mukundzha/crilio",
-    "stars": 1,
-    "updated_at": "2026-08-26T08:06:00Z",
-    "url": "https://github.com/mukundzha/crilio"
   },
   {
     "description": "Agent Package Manager",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T08:01:18Z",
     "url": "https://github.com/fsrmqi/dsh-promptkit"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-08-26T08:00:57Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
-    "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "language": "Python",
-    "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "stars": 10,
-    "updated_at": "2026-08-26T07:59:06Z",
-    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-26T07:57:16Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21610,
-    "updated_at": "2026-08-26T08:25:45Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "HERO = Hashing \u00b7 Edge cases \u00b7 Rubrics \u00b7 Overbuild \u2014 the four shapes coding agents over-defend in. A paste-in contract th",
-    "id": "wanshuiyin/HERO-Anti-OverDefense",
-    "language": "Markdown",
-    "name": "wanshuiyin/HERO-Anti-OverDefense",
-    "stars": 327,
-    "updated_at": "2026-08-26T07:55:36Z",
-    "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 123,
-    "updated_at": "2026-08-26T07:54:05Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
   }
 ]
