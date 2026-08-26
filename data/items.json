@@ -1,5 +1,59 @@
 [
   {
+    "description": "18 wind-tunnel-tested agent skills for Claude Code & Codex \u2014 each skill its own product page, probed across 140+ persona",
+    "id": "m1nga/skills",
+    "language": "Python",
+    "name": "m1nga/skills",
+    "stars": 0,
+    "updated_at": "2026-08-26T05:58:03Z",
+    "url": "https://github.com/m1nga/skills"
+  },
+  {
+    "description": "A standing instruction file for AI writing tools. Names the patterns that make output read as machine-generated, includi",
+    "id": "storied-inc/anti-ai-slop",
+    "language": "\u2014",
+    "name": "storied-inc/anti-ai-slop",
+    "stars": 0,
+    "updated_at": "2026-08-26T05:56:25Z",
+    "url": "https://github.com/storied-inc/anti-ai-slop"
+  },
+  {
+    "description": "Downloadable agent skills for AI coding assistants \u2014 landing page replication, WebGL Three.js backgrounds, Doubao TTS & ",
+    "id": "lizliz404/agent-skills",
+    "language": "Python",
+    "name": "lizliz404/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-26T05:56:11Z",
+    "url": "https://github.com/lizliz404/agent-skills"
+  },
+  {
+    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
+    "id": "calmrocks/ai-engineer-notebooks",
+    "language": "Jupyter Notebook",
+    "name": "calmrocks/ai-engineer-notebooks",
+    "stars": 1,
+    "updated_at": "2026-08-26T05:55:56Z",
+    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
+  },
+  {
+    "description": "Prompt building & enhancement toolkit for DeepSeek Harness: Studio + QuickEnhancer. \u5f00\u6e90\u7684 Prompt \u6784\u5efa\u4e0e\u589e\u5f3a\u5de5\u5177\u5305\u3002",
+    "id": "fsrmqi/dsh-promptkit",
+    "language": "JavaScript",
+    "name": "fsrmqi/dsh-promptkit",
+    "stars": 1,
+    "updated_at": "2026-08-26T05:55:46Z",
+    "url": "https://github.com/fsrmqi/dsh-promptkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T05:54:47Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -18,13 +72,13 @@
     "url": "https://github.com/StefanoZaghi1987/ClaudeSkills"
   },
   {
-    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
-    "id": "calmrocks/ai-engineer-notebooks",
-    "language": "Jupyter Notebook",
-    "name": "calmrocks/ai-engineer-notebooks",
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
     "stars": 1,
-    "updated_at": "2026-08-26T05:53:13Z",
-    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
+    "updated_at": "2026-08-26T05:53:18Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -126,15 +180,6 @@
     "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T05:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -142,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T05:45:12Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "18 wind-tunnel-tested agent skills for Claude Code & Codex \u2014 each skill its own product page, probed across 140+ persona",
-    "id": "m1nga/skills",
-    "language": "Python",
-    "name": "m1nga/skills",
-    "stars": 0,
-    "updated_at": "2026-08-26T05:43:51Z",
-    "url": "https://github.com/m1nga/skills"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -175,7 +211,7 @@
     "id": "windforce19820520-ai/visual-ontology-constraint-engine",
     "language": "TypeScript",
     "name": "windforce19820520-ai/visual-ontology-constraint-engine",
-    "stars": 19,
+    "stars": 20,
     "updated_at": "2026-08-26T05:41:04Z",
     "url": "https://github.com/windforce19820520-ai/visual-ontology-constraint-engine"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T05:27:44Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-26T05:26:47Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-26T05:26:07Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Rules your coding agent physically cannot ignore. Claude Code hooks that DENY the tool call and BLOCK the reply - stoppi",
-    "id": "skymanbp/cc-enforcer",
-    "language": "Python",
-    "name": "skymanbp/cc-enforcer",
-    "stars": 5,
-    "updated_at": "2026-08-26T05:25:47Z",
-    "url": "https://github.com/skymanbp/cc-enforcer"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-26T05:25:47Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
   }
 ]
