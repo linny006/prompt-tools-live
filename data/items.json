@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u6301\u7eed\u7ef4\u62a4\u7684\u4e2d\u6587 AI \u6559\u7a0b\u6e05\u5355 \u2014\u2014 \u4e66\u7c4d / \u5f00\u6e90\u4ed3\u5e93 / \u89c6\u9891\uff0c\u6bcf\u6761\u90fd\u6807\u4e86\u9002\u5408\u8c01\u770b\u3001\u4ee5\u53ca\u73b0\u5728\u8fd8\u80fd\u4e0d\u80fd\u8ddf\u7740\u505a",
+    "id": "fenjueai/awesome-ai-tutorials",
+    "language": "\u2014",
+    "name": "fenjueai/awesome-ai-tutorials",
+    "stars": 0,
+    "updated_at": "2026-08-26T09:29:39Z",
+    "url": "https://github.com/fenjueai/awesome-ai-tutorials"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33736,
+    "updated_at": "2026-08-26T09:29:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A first-principles Codex skill for accurate, audience-aware humor and IELTS vocabulary learning.",
+    "id": "songlanglang/crafting-humor",
+    "language": "Python",
+    "name": "songlanglang/crafting-humor",
+    "stars": 0,
+    "updated_at": "2026-08-26T09:29:19Z",
+    "url": "https://github.com/songlanglang/crafting-humor"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5814,
+    "updated_at": "2026-08-26T09:27:07Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 2,
+    "updated_at": "2026-08-26T09:26:43Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 67637,
+    "updated_at": "2026-08-26T09:25:16Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 1,
+    "updated_at": "2026-08-26T09:24:41Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Helen Agent Develop Language ",
+    "id": "hahalee000000/helen",
+    "language": "Python",
+    "name": "hahalee000000/helen",
+    "stars": 1,
+    "updated_at": "2026-08-26T09:24:32Z",
+    "url": "https://github.com/hahalee000000/helen"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T09:22:55Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "Das-rebel/imprint",
     "stars": 0,
-    "updated_at": "2026-08-26T09:20:36Z",
+    "updated_at": "2026-08-26T09:28:50Z",
     "url": "https://github.com/Das-rebel/imprint"
   },
   {
@@ -27,13 +108,13 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33735,
-    "updated_at": "2026-08-26T09:19:30Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "event4u-app/agent-config",
+    "stars": 8,
+    "updated_at": "2026-08-26T09:19:36Z",
+    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "German AI Text Humanizer for Claude Code & Codex. Audits 72 German AI-writing patterns using deterministic linters and e",
@@ -81,15 +162,6 @@
     "url": "https://github.com/seankoji-com/claude-plugins"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T09:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Git records each repository. vat records what happened across them \u2014 a control plane for multi-repo workspaces and the a",
     "id": "takealook97/vat",
     "language": "Go",
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T09:15:04Z",
     "url": "https://github.com/takealook97/vat"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 67636,
-    "updated_at": "2026-08-26T09:14:38Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "A collection of practical AI learning resources, tools, prompts, and beginner-friendly project examples.",
@@ -171,15 +234,6 @@
     "url": "https://github.com/CAOShurong/contextcost"
   },
   {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 8,
-    "updated_at": "2026-08-26T09:19:36Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -214,6 +268,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T09:06:45Z",
     "url": "https://github.com/m1nga/skills"
+  },
+  {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 5033,
+    "updated_at": "2026-08-26T09:05:47Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -328,7 +391,7 @@
     "id": "freestylefly/awesome-gpt-image-2",
     "language": "JavaScript",
     "name": "freestylefly/awesome-gpt-image-2",
-    "stars": 20030,
+    "stars": 20066,
     "updated_at": "2026-08-26T08:54:32Z",
     "url": "https://github.com/freestylefly/awesome-gpt-image-2"
   },
@@ -365,7 +428,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21612,
-    "updated_at": "2026-08-26T09:15:32Z",
+    "updated_at": "2026-08-26T09:27:31Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T08:50:59Z",
     "url": "https://github.com/imhamzakhan/context-flow-compressor"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 121,
-    "updated_at": "2026-08-26T08:50:16Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-26T08:50:13Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 120,
-    "updated_at": "2026-08-26T08:50:04Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Gemini API context optimizer using native PDF packaging \u2014 reduce reported input tokens by up to 99% in measured long-con",
-    "id": "ianlyoo/GeminiContextPack",
-    "language": "TypeScript",
-    "name": "ianlyoo/GeminiContextPack",
-    "stars": 0,
-    "updated_at": "2026-08-26T08:53:33Z",
-    "url": "https://github.com/ianlyoo/GeminiContextPack"
-  },
-  {
-    "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
-    "id": "dongshuyan/compass-skills",
-    "language": "Python",
-    "name": "dongshuyan/compass-skills",
-    "stars": 704,
-    "updated_at": "2026-08-26T08:48:52Z",
-    "url": "https://github.com/dongshuyan/compass-skills"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-26T08:47:32Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "Helen Agent Develop Language ",
-    "id": "hahalee000000/helen",
-    "language": "Python",
-    "name": "hahalee000000/helen",
-    "stars": 1,
-    "updated_at": "2026-08-26T08:47:32Z",
-    "url": "https://github.com/hahalee000000/helen"
   }
 ]
