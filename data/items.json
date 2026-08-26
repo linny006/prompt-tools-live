@@ -1,11 +1,92 @@
 [
   {
+    "description": "AI & Automation Engineer \u2014 Integrations, AI Agents & ERP",
+    "id": "carlosvalenciat/carlosvalenciat",
+    "language": "\u2014",
+    "name": "carlosvalenciat/carlosvalenciat",
+    "stars": 0,
+    "updated_at": "2026-08-26T22:13:43Z",
+    "url": "https://github.com/carlosvalenciat/carlosvalenciat"
+  },
+  {
+    "description": "Case studies: AI agents, workflow automation, ERP integrations and WhatsApp Business APIs. Write-ups only \u2014 no proprieta",
+    "id": "carlosvalenciat/portfolio",
+    "language": "\u2014",
+    "name": "carlosvalenciat/portfolio",
+    "stars": 0,
+    "updated_at": "2026-08-26T22:11:10Z",
+    "url": "https://github.com/carlosvalenciat/portfolio"
+  },
+  {
+    "description": "Autonomous iterative AI development loop plugin & skills for Claude Code, Cursor, Antigravity, and Codex. Pure shell, ze",
+    "id": "burakkaygusuz/ralph-wiggum",
+    "language": "Shell",
+    "name": "burakkaygusuz/ralph-wiggum",
+    "stars": 0,
+    "updated_at": "2026-08-26T22:14:42Z",
+    "url": "https://github.com/burakkaygusuz/ralph-wiggum"
+  },
+  {
+    "description": "Your private, offline-first library for AI prompts. Securely save, organize, and perfect your instructions using a built",
+    "id": "SagarBiswas-MultiHAT/promptVault",
+    "language": "TypeScript",
+    "name": "SagarBiswas-MultiHAT/promptVault",
+    "stars": 11,
+    "updated_at": "2026-08-26T22:14:26Z",
+    "url": "https://github.com/SagarBiswas-MultiHAT/promptVault"
+  },
+  {
+    "description": "Official agent skills from Black Forest Labs for FLUX image and video generation \u2014 prompting guides and API integration ",
+    "id": "black-forest-labs/skills",
+    "language": "TypeScript",
+    "name": "black-forest-labs/skills",
+    "stars": 106,
+    "updated_at": "2026-08-26T22:07:32Z",
+    "url": "https://github.com/black-forest-labs/skills"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 16,
+    "updated_at": "2026-08-26T22:04:08Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Open-source design intelligence pipeline that detects generic AI interfaces and guides LLM output toward deliberate visu",
+    "id": "Almotasembellahawwad/Verve",
+    "language": "TypeScript",
+    "name": "Almotasembellahawwad/Verve",
+    "stars": 0,
+    "updated_at": "2026-08-26T22:02:10Z",
+    "url": "https://github.com/Almotasembellahawwad/Verve"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T22:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A profiler for your agentic harness. Price every line of CLAUDE.md, every skill, subagent and MCP tool schema \u2014 then fin",
+    "id": "alebgl77/harnessmeter",
+    "language": "TypeScript",
+    "name": "alebgl77/harnessmeter",
+    "stars": 0,
+    "updated_at": "2026-08-26T21:56:45Z",
+    "url": "https://github.com/alebgl77/harnessmeter"
+  },
+  {
     "description": "Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr",
     "id": "ariaxhan/kernel-claude",
     "language": "JavaScript",
     "name": "ariaxhan/kernel-claude",
     "stars": 12,
-    "updated_at": "2026-08-26T21:50:45Z",
+    "updated_at": "2026-08-26T22:10:51Z",
     "url": "https://github.com/ariaxhan/kernel-claude"
   },
   {
@@ -18,15 +99,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Your private, offline-first library for AI prompts. Securely save, organize, and perfect your instructions using a built",
-    "id": "SagarBiswas-MultiHAT/promptVault",
-    "language": "TypeScript",
-    "name": "SagarBiswas-MultiHAT/promptVault",
-    "stars": 11,
-    "updated_at": "2026-08-26T21:47:32Z",
-    "url": "https://github.com/SagarBiswas-MultiHAT/promptVault"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -36,13 +108,13 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T21:45:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33765,
+    "updated_at": "2026-08-26T22:10:00Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -50,7 +122,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T21:44:43Z",
+    "updated_at": "2026-08-26T22:10:39Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -63,13 +135,22 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 16,
-    "updated_at": "2026-08-26T21:58:34Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 1,
+    "updated_at": "2026-08-26T21:42:12Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Agent skills for AI coding agents \u2014 trip planner, Obsidian vault, and more",
+    "id": "aliasunder/agent-skills",
+    "language": "HTML",
+    "name": "aliasunder/agent-skills",
+    "stars": 3,
+    "updated_at": "2026-08-26T21:41:51Z",
+    "url": "https://github.com/aliasunder/agent-skills"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -104,7 +185,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11205,
-    "updated_at": "2026-08-26T21:40:20Z",
+    "updated_at": "2026-08-26T22:13:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -171,15 +252,6 @@
     "url": "https://github.com/5uprem4/ai-skill-vault"
   },
   {
-    "description": "Autonomous iterative AI development loop plugin & skills for Claude Code, Cursor, Antigravity, and Codex. Pure shell, ze",
-    "id": "burakkaygusuz/ralph-wiggum",
-    "language": "Shell",
-    "name": "burakkaygusuz/ralph-wiggum",
-    "stars": 0,
-    "updated_at": "2026-08-26T21:34:44Z",
-    "url": "https://github.com/burakkaygusuz/ralph-wiggum"
-  },
-  {
     "description": "B\u00e4rnd\u00fctsch for AI assistants. A tool-agnostic rulebook that makes any LLM write real Bernese German, plus a Claude Code ",
     "id": "sapn95/berndeutsch-for-ai",
     "language": "Python",
@@ -196,6 +268,15 @@
     "stars": 50,
     "updated_at": "2026-08-26T21:33:56Z",
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
+  },
+  {
+    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
+    "id": "teguhimanulloh47/pirate-talk-for-claude",
+    "language": "HTML",
+    "name": "teguhimanulloh47/pirate-talk-for-claude",
+    "stars": 1,
+    "updated_at": "2026-08-26T21:33:21Z",
+    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   },
   {
     "description": "Tell coherence from truth \u2014 an LLM prompt that lays out any argument's hidden premises, alternatives, and missing eviden",
@@ -356,35 +437,8 @@
     "language": "Python",
     "name": "hakodev2k/AI-Engineering",
     "stars": 0,
-    "updated_at": "2026-08-26T21:12:20Z",
+    "updated_at": "2026-08-26T22:11:29Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Open-source design intelligence pipeline that detects generic AI interfaces and guides LLM output toward deliberate visu",
-    "id": "Almotasembellahawwad/Verve",
-    "language": "TypeScript",
-    "name": "Almotasembellahawwad/Verve",
-    "stars": 0,
-    "updated_at": "2026-08-26T21:09:19Z",
-    "url": "https://github.com/Almotasembellahawwad/Verve"
-  },
-  {
-    "description": "Reliable research infrastructure for AI agents. Evidence-backed web search with citations, confidence scores, and Clarit",
-    "id": "LastSearch-HQ/lastsearch",
-    "language": "TypeScript",
-    "name": "LastSearch-HQ/lastsearch",
-    "stars": 20,
-    "updated_at": "2026-08-26T21:07:41Z",
-    "url": "https://github.com/LastSearch-HQ/lastsearch"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Java",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-08-26T21:06:57Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
     "description": "Opinionated Claude Code engineering config: 11 always-on rules, 63 on-demand standards, 30 slash-command skills, 33 runt",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T21:10:57Z",
     "url": "https://github.com/gufranco/claude-engineering-rules"
-  },
-  {
-    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
-    "id": "ryanportfolio/savetokens",
-    "language": "HTML",
-    "name": "ryanportfolio/savetokens",
-    "stars": 1,
-    "updated_at": "2026-08-26T21:03:44Z",
-    "url": "https://github.com/ryanportfolio/savetokens"
-  },
-  {
-    "description": "Optimize prompts for Claude & Gemini with local, privacy-first PII anonymization: a Windows/Tauri desktop app that gener",
-    "id": "CalvinTTooS/prompt-optimizer",
-    "language": "TypeScript",
-    "name": "CalvinTTooS/prompt-optimizer",
-    "stars": 1,
-    "updated_at": "2026-08-26T21:02:17Z",
-    "url": "https://github.com/CalvinTTooS/prompt-optimizer"
-  },
-  {
-    "description": "ByteDance Seedance 2.0 & 2.5 prompt engineering toolkit with FTS5 search over 1,500+ community prompt cards.",
-    "id": "ardha27/seedance-prompts",
-    "language": "Python",
-    "name": "ardha27/seedance-prompts",
-    "stars": 2,
-    "updated_at": "2026-08-26T21:00:51Z",
-    "url": "https://github.com/ardha27/seedance-prompts"
-  },
-  {
-    "description": "Molavi Agent Skills: Curated AI agent skills and MCP configs for Antigravity, Cursor, Codex & Claude \u2014 by Taghi Molavi",
-    "id": "tmolavi/mcp-agent-skills-hub",
-    "language": "JavaScript",
-    "name": "tmolavi/mcp-agent-skills-hub",
-    "stars": 8,
-    "updated_at": "2026-08-26T21:00:49Z",
-    "url": "https://github.com/tmolavi/mcp-agent-skills-hub"
-  },
-  {
-    "description": "1,000-Prompt AI Visibility Benchmark & Algorithm Reverse-Engineering Platform for Generative Engine Optimization (GEO) \u2014",
-    "id": "tmolavi/geo-scope",
-    "language": "Python",
-    "name": "tmolavi/geo-scope",
-    "stars": 2,
-    "updated_at": "2026-08-26T21:00:44Z",
-    "url": "https://github.com/tmolavi/geo-scope"
-  },
-  {
-    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
-    "id": "adrianwedd/cv",
-    "language": "JavaScript",
-    "name": "adrianwedd/cv",
-    "stars": 4,
-    "updated_at": "2026-08-26T20:56:48Z",
-    "url": "https://github.com/adrianwedd/cv"
   }
 ]
