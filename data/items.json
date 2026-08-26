@@ -1,5 +1,59 @@
 [
   {
+    "description": "Mythos-AI is an experimental multi-agent AI system where intelligence is split into distinct personas Hades, Athena, and",
+    "id": "Blvckv31/Mythos-AI",
+    "language": "Python",
+    "name": "Blvckv31/Mythos-AI",
+    "stars": 1,
+    "updated_at": "2026-08-26T18:48:47Z",
+    "url": "https://github.com/Blvckv31/Mythos-AI"
+  },
+  {
+    "description": "D\u00e9ploiement d'un environnement IA souverain (Ollama + Open WebUI sur Docker). Conception d'agents personnalis\u00e9s via Mode",
+    "id": "idrisshrs/Local-LLM-Infrastructure",
+    "language": "\u2014",
+    "name": "idrisshrs/Local-LLM-Infrastructure",
+    "stars": 0,
+    "updated_at": "2026-08-26T18:47:50Z",
+    "url": "https://github.com/idrisshrs/Local-LLM-Infrastructure"
+  },
+  {
+    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
+    "id": "ericrisco/rsc-harness",
+    "language": "Shell",
+    "name": "ericrisco/rsc-harness",
+    "stars": 56,
+    "updated_at": "2026-08-26T18:47:26Z",
+    "url": "https://github.com/ericrisco/rsc-harness"
+  },
+  {
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
+    "id": "OutlineDriven/odin-claude-plugin",
+    "language": "Python",
+    "name": "OutlineDriven/odin-claude-plugin",
+    "stars": 35,
+    "updated_at": "2026-08-26T18:45:30Z",
+    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T18:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 67685,
+    "updated_at": "2026-08-26T18:43:26Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -18,15 +72,6 @@
     "url": "https://github.com/Anil-matcha/agency-agents-os"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T18:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI quality method for validating LLM output against predefined criteria. Includes a builder-critic workflow, evidence ch",
     "id": "israeldegasperi/gauntlet-loop",
     "language": "\u2014",
@@ -36,6 +81,24 @@
     "url": "https://github.com/israeldegasperi/gauntlet-loop"
   },
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-26T18:28:33Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "\u26a1\ufe0f Blazing fast, offline notebook for leading AI projects. Brainstorm ideas and keep them connected, orchestrate and sca",
+    "id": "mory-dev/sudonotes",
+    "language": "TypeScript",
+    "name": "mory-dev/sudonotes",
+    "stars": 3,
+    "updated_at": "2026-08-26T18:28:17Z",
+    "url": "https://github.com/mory-dev/sudonotes"
+  },
+  {
     "description": "CI for LLM behaviour: run a versioned prompt against a golden dataset, diff it against a promoted baseline, and block th",
     "id": "matsumoto1f-creator/llm-regression-ci",
     "language": "Python",
@@ -43,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T18:26:12Z",
     "url": "https://github.com/matsumoto1f-creator/llm-regression-ci"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "SAIRAMANALADI/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "SAIRAMANALADI/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-08-26T18:25:28Z",
+    "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
   },
   {
     "description": "\ud83c\udfac Verified Seedance 2.5 / 2.0 prompt library \u2014 every prompt human-checked against its original post, with author, source",
@@ -70,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-08-26T18:21:06Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 67684,
-    "updated_at": "2026-08-26T18:43:26Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Measuring how LLM accuracy shifts under different prompt framings. 400 MMLU questions, 5 conditions.",
@@ -117,15 +180,6 @@
     "url": "https://github.com/winstonkoh87/Athena-Public"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-26T18:28:33Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
     "id": "osovv/vv-opencode",
     "language": "TypeScript",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T18:12:07Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
-    "id": "ericrisco/rsc-harness",
-    "language": "Shell",
-    "name": "ericrisco/rsc-harness",
-    "stars": 56,
-    "updated_at": "2026-08-26T18:45:10Z",
-    "url": "https://github.com/ericrisco/rsc-harness"
   },
   {
     "description": "The scientific thinking protocol for AI agents. Falsify before you believe. \u4e94\u6bb5\u5f0f\u79d1\u5b66\u601d\u7ef4\u534f\u8bae\uff1a\u516c\u7406 \u2192 \u5047\u8bbe \u2192 \u5bf9\u6297 \u2192 \u9a8c\u8bc1 \u2192 \u6536\u675f\u3002",
@@ -234,6 +279,15 @@
     "url": "https://github.com/ainova-systems/intelligence-sync"
   },
   {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-26T18:07:13Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -257,7 +311,7 @@
     "language": "Python",
     "name": "sergstack/AI-OS",
     "stars": 0,
-    "updated_at": "2026-08-26T18:44:34Z",
+    "updated_at": "2026-08-26T18:45:38Z",
     "url": "https://github.com/sergstack/AI-OS"
   },
   {
@@ -302,7 +356,7 @@
     "language": "HTML",
     "name": "Mohworldent/founder-content-engine",
     "stars": 0,
-    "updated_at": "2026-08-26T18:00:26Z",
+    "updated_at": "2026-08-26T18:48:58Z",
     "url": "https://github.com/Mohworldent/founder-content-engine"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T17:44:22Z",
     "url": "https://github.com/Discriminative-shoji607/ui-skills"
-  },
-  {
-    "description": "Access curated prompts and output examples to optimize image generation with the GPT-Image-2 API.",
-    "id": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "language": "\u2014",
-    "name": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:44:21Z",
-    "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "Enhance video production workflows with AI tools, 4K export support, and professional effects for CapCut.",
-    "id": "Kentlight970/Edit-Master-Pro",
-    "language": "Python",
-    "name": "Kentlight970/Edit-Master-Pro",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:44:07Z",
-    "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
-    "id": "Ekmsi8525/agentsmith",
-    "language": "\u2014",
-    "name": "Ekmsi8525/agentsmith",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:43:53Z",
-    "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:43:04Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
-    "id": "Norinatiring463/loop-engineering",
-    "language": "Python",
-    "name": "Norinatiring463/loop-engineering",
-    "stars": 2,
-    "updated_at": "2026-08-26T17:41:56Z",
-    "url": "https://github.com/Norinatiring463/loop-engineering"
-  },
-  {
-    "description": "Collect and refine high-quality prompts for Ideogram 4.0 to improve your image generation results.",
-    "id": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "language": "\u2014",
-    "name": "Maritaminded209/awesome-ideogram-4.0-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:39:58Z",
-    "url": "https://github.com/Maritaminded209/awesome-ideogram-4.0-prompts"
   }
 ]
