@@ -1,5 +1,50 @@
 [
   {
+    "description": "Curated catalog of open, specialized AI agents for real business work \u2014 organized as broad umbrella categories (video, i",
+    "id": "Anil-matcha/agency-agents-os",
+    "language": "\u2014",
+    "name": "Anil-matcha/agency-agents-os",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:00:13Z",
+    "url": "https://github.com/Anil-matcha/agency-agents-os"
+  },
+  {
+    "description": "Safe, policy-driven personality-mode engine for LLM agents",
+    "id": "caty-ai/persona-engine",
+    "language": "TypeScript",
+    "name": "caty-ai/persona-engine",
+    "stars": 2,
+    "updated_at": "2026-08-26T18:58:19Z",
+    "url": "https://github.com/caty-ai/persona-engine"
+  },
+  {
+    "description": "Strip AI writing tells at two layers: surface (Wikipedia Signs of AI writing) + narrative (StoryScope, arXiv:2604.03136)",
+    "id": "badmuriss/unslop",
+    "language": "\u2014",
+    "name": "badmuriss/unslop",
+    "stars": 17,
+    "updated_at": "2026-08-26T18:58:08Z",
+    "url": "https://github.com/badmuriss/unslop"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T18:53:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A free cross-platform editorial standard for AI writing.",
+    "id": "jposluns/cleanlanguage",
+    "language": "HTML",
+    "name": "jposluns/cleanlanguage",
+    "stars": 2,
+    "updated_at": "2026-08-26T18:53:17Z",
+    "url": "https://github.com/jposluns/cleanlanguage"
+  },
+  {
     "description": "Mythos-AI is an experimental multi-agent AI system where intelligence is split into distinct personas Hades, Athena, and",
     "id": "Blvckv31/Mythos-AI",
     "language": "Python",
@@ -36,21 +81,12 @@
     "url": "https://github.com/OutlineDriven/odin-claude-plugin"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T18:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 67685,
-    "updated_at": "2026-08-26T18:43:26Z",
+    "updated_at": "2026-08-26T18:54:56Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 33763,
     "updated_at": "2026-08-26T18:32:40Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Curated catalog of open, specialized AI agents for real business work \u2014 organized as broad umbrella categories (video, i",
-    "id": "Anil-matcha/agency-agents-os",
-    "language": "\u2014",
-    "name": "Anil-matcha/agency-agents-os",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:32:07Z",
-    "url": "https://github.com/Anil-matcha/agency-agents-os"
   },
   {
     "description": "AI quality method for validating LLM output against predefined criteria. Includes a builder-critic workflow, evidence ch",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "mory-dev/sudonotes",
     "stars": 3,
-    "updated_at": "2026-08-26T18:28:17Z",
+    "updated_at": "2026-08-26T18:55:37Z",
     "url": "https://github.com/mory-dev/sudonotes"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Java",
     "name": "Nyanna/XY.AI.Workbench",
     "stars": 1,
-    "updated_at": "2026-08-26T18:29:31Z",
+    "updated_at": "2026-08-26T18:59:24Z",
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T17:44:55Z",
     "url": "https://github.com/akaieuan/blockpad"
-  },
-  {
-    "description": "",
-    "id": "asa834/paperforge-2026-paper-workflow",
-    "language": "HTML",
-    "name": "asa834/paperforge-2026-paper-workflow",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:44:49Z",
-    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:44:45Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:44:22Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
   }
 ]
