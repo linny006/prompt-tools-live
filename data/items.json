@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T11:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
+    "id": "sachncs/promptsheon",
+    "language": "TypeScript",
+    "name": "sachncs/promptsheon",
+    "stars": 1,
+    "updated_at": "2026-08-26T11:15:01Z",
+    "url": "https://github.com/sachncs/promptsheon"
+  },
+  {
     "description": "15 original Kling prompts for text-to-video, image-to-video, product motion, sports, fashion, and cinematic action.",
     "id": "Reviral-ai/awesome-kling-prompts",
     "language": "\u2014",
@@ -9,13 +27,13 @@
     "url": "https://github.com/Reviral-ai/awesome-kling-prompts"
   },
   {
-    "description": "Did your new system prompt change the answers? Score output drift 0-100 across matched sample IDs - offline single-file ",
-    "id": "qianbrady/promptdriftcheck",
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
-    "name": "qianbrady/promptdriftcheck",
-    "stars": 0,
-    "updated_at": "2026-08-26T11:12:15Z",
-    "url": "https://github.com/qianbrady/promptdriftcheck"
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-26T11:12:59Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
@@ -25,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T11:12:19Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Did your new system prompt change the answers? Score output drift 0-100 across matched sample IDs - offline single-file ",
+    "id": "qianbrady/promptdriftcheck",
+    "language": "HTML",
+    "name": "qianbrady/promptdriftcheck",
+    "stars": 0,
+    "updated_at": "2026-08-26T11:12:15Z",
+    "url": "https://github.com/qianbrady/promptdriftcheck"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -43,15 +70,6 @@
     "stars": 33743,
     "updated_at": "2026-08-26T11:14:19Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Git-native version control for AI agents \u2014 content-addressable prompt management, evaluation engine, and agent configura",
-    "id": "sachncs/promptsheon",
-    "language": "TypeScript",
-    "name": "sachncs/promptsheon",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:15:01Z",
-    "url": "https://github.com/sachncs/promptsheon"
   },
   {
     "description": "Creative Writing and General Conversation System Prompt for LLM",
@@ -189,15 +207,6 @@
     "url": "https://github.com/Almotasembellahawwad/Verve"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T11:00:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Agent Skills - 46 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
     "id": "bestdeejay-design/agent-skills",
     "language": "Python",
@@ -297,6 +306,15 @@
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27684,
+    "updated_at": "2026-08-26T10:54:06Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
     "id": "imhamzakhan/context-flow-compressor",
     "language": "HTML",
@@ -322,15 +340,6 @@
     "stars": 21616,
     "updated_at": "2026-08-26T11:14:20Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27685,
-    "updated_at": "2026-08-26T10:54:06Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "15 original Veo 3 prompts for cinematic video, dialogue, product shots, camera motion, and sound.",
@@ -437,16 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T11:14:18Z",
+    "updated_at": "2026-08-26T11:16:35Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 1,
-    "updated_at": "2026-08-26T10:45:04Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
   }
 ]
