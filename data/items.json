@@ -1,12 +1,48 @@
 [
   {
+    "description": "A lightweight coding skill with direct execution, event-routed modules, scoped subagents, and risk-proportional verifica",
+    "id": "Hubujiu/practical-coding",
+    "language": "Python",
+    "name": "Hubujiu/practical-coding",
+    "stars": 1,
+    "updated_at": "2026-08-26T14:15:08Z",
+    "url": "https://github.com/Hubujiu/practical-coding"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:15:22Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
     "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
     "id": "jiabaobei/skills-constitution",
     "language": "Python",
     "name": "jiabaobei/skills-constitution",
     "stars": 153,
-    "updated_at": "2026-08-26T14:09:36Z",
+    "updated_at": "2026-08-26T14:11:19Z",
     "url": "https://github.com/jiabaobei/skills-constitution"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T14:10:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24590,
+    "updated_at": "2026-08-26T14:09:35Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u89c4\u8303\u672f\u8bed\u2014\u2014\u628a\u6280\u672f\u9ed1\u8bdd\u8bb2\u6210\u4eba\u8bdd\uff0c\u8fd9\u662f\u4e00\u4e2a\u7eaf\u9759\u6001\u7f51\u9875\u9879\u76ee\uff0c\u5f00\u7bb1\u5373\u7528\uff0c\u5b66\u4e60\u5982\u4f55\u8ddfAI\u5bf9\u8bdd\u66f4\u51c6\u786e\u3002",
@@ -77,7 +113,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3511,
-    "updated_at": "2026-08-26T14:10:20Z",
+    "updated_at": "2026-08-26T14:12:06Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -86,7 +122,7 @@
     "language": "JavaScript",
     "name": "25hour-io/ai-systems",
     "stars": 0,
-    "updated_at": "2026-08-26T14:04:00Z",
+    "updated_at": "2026-08-26T14:11:06Z",
     "url": "https://github.com/25hour-io/ai-systems"
   },
   {
@@ -126,21 +162,12 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T14:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
     "id": "braboj/solid-ai-templates",
     "language": "Python",
     "name": "braboj/solid-ai-templates",
     "stars": 3,
-    "updated_at": "2026-08-26T14:10:15Z",
+    "updated_at": "2026-08-26T14:15:12Z",
     "url": "https://github.com/braboj/solid-ai-templates"
   },
   {
@@ -169,6 +196,15 @@
     "stars": 1,
     "updated_at": "2026-08-26T13:56:29Z",
     "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "A profiler for your agentic harness. Price every line of CLAUDE.md, every skill, subagent and MCP tool schema \u2014 then fin",
+    "id": "alebgl77/harnessmeter",
+    "language": "TypeScript",
+    "name": "alebgl77/harnessmeter",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:56:23Z",
+    "url": "https://github.com/alebgl77/harnessmeter"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -216,15 +252,6 @@
     "url": "https://github.com/aidyou/chatspeed"
   },
   {
-    "description": "A profiler for your agentic harness. Price every line of CLAUDE.md, every skill, subagent and MCP tool schema \u2014 then fin",
-    "id": "alebgl77/harnessmeter",
-    "language": "TypeScript",
-    "name": "alebgl77/harnessmeter",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:56:23Z",
-    "url": "https://github.com/alebgl77/harnessmeter"
-  },
-  {
     "description": "\u8ba9 Agent \u7684\u5de5\u4f5c\u65b9\u5f0f\u53ef\u7ec4\u5408\u3001\u53ef\u5ba1\u67e5\u3001\u53ef\u6301\u7eed\u6539\u8fdb\uff0c\u6700\u7ec8\u5b9e\u73b0 Agent Self Evoling\u3002 DeepSeek Harness Web plugin with composable task controls and isolat",
     "id": "GraySilver/dsh-evolve-modes",
     "language": "TypeScript",
@@ -252,13 +279,13 @@
     "url": "https://github.com/imhamzakhan/context-flow-compressor"
   },
   {
-    "description": "A lightweight coding skill with direct execution, event-routed modules, scoped subagents, and risk-proportional verifica",
-    "id": "Hubujiu/practical-coding",
-    "language": "Python",
-    "name": "Hubujiu/practical-coding",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:52:23Z",
-    "url": "https://github.com/Hubujiu/practical-coding"
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 118,
+    "updated_at": "2026-08-26T13:52:10Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   },
   {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
@@ -268,6 +295,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T13:51:48Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-26T13:51:22Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Taste Labs is a San Francisco research lab and infrastructure company building \"the taste layer for AI\" \u2014 decoding subje",
@@ -283,7 +319,7 @@
     "id": "T8mars/minimax-h3-prompt-skill-T8",
     "language": "JavaScript",
     "name": "T8mars/minimax-h3-prompt-skill-T8",
-    "stars": 145,
+    "stars": 146,
     "updated_at": "2026-08-26T13:50:54Z",
     "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
   },
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33750,
-    "updated_at": "2026-08-26T14:04:41Z",
+    "updated_at": "2026-08-26T14:12:47Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -392,7 +428,7 @@
     "language": "TypeScript",
     "name": "toozuuu/MemoryAI",
     "stars": 0,
-    "updated_at": "2026-08-26T14:08:20Z",
+    "updated_at": "2026-08-26T14:12:57Z",
     "url": "https://github.com/toozuuu/MemoryAI"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T13:45:02Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:44:56Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 8,
-    "updated_at": "2026-08-26T14:04:39Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21616,
-    "updated_at": "2026-08-26T14:10:12Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2265,
-    "updated_at": "2026-08-26T13:43:51Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   }
 ]
