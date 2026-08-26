@@ -1,12 +1,39 @@
 [
   {
-    "description": "Curated catalog of open, specialized AI agents for real business work \u2014 organized as broad umbrella categories (video, i",
-    "id": "Anil-matcha/agency-agents-os",
-    "language": "\u2014",
-    "name": "Anil-matcha/agency-agents-os",
+    "description": "450+ visual styles for ComfyUI, every one with a rendered preview you can browse before you commit. Plus 700+ artists wi",
+    "id": "EnragedAntelope/comfyui-stylebook",
+    "language": "Python",
+    "name": "EnragedAntelope/comfyui-stylebook",
+    "stars": 3,
+    "updated_at": "2026-08-26T19:13:13Z",
+    "url": "https://github.com/EnragedAntelope/comfyui-stylebook"
+  },
+  {
+    "description": "Evidence-first skills for Codex, Cursor, and Claude Code: research, debugging, planning, execution, review, and goal loo",
+    "id": "JinPLu/Teamwork",
+    "language": "Python",
+    "name": "JinPLu/Teamwork",
+    "stars": 11,
+    "updated_at": "2026-08-26T19:12:59Z",
+    "url": "https://github.com/JinPLu/Teamwork"
+  },
+  {
+    "description": "Build, version and distribute AI agent intelligence across your organization - one CLI, versioned Intelligence Packages,",
+    "id": "ainova-systems/intelligence",
+    "language": "Shell",
+    "name": "ainova-systems/intelligence",
     "stars": 1,
-    "updated_at": "2026-08-26T19:00:13Z",
-    "url": "https://github.com/Anil-matcha/agency-agents-os"
+    "updated_at": "2026-08-26T19:12:50Z",
+    "url": "https://github.com/ainova-systems/intelligence"
+  },
+  {
+    "description": "Lightweight Python evaluation framework for LLM prompts. Define test cases in YAML, run against OpenAI and Anthropic mod",
+    "id": "RitikPatill/prompt-eval-studio",
+    "language": "Python",
+    "name": "RitikPatill/prompt-eval-studio",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:11:14Z",
+    "url": "https://github.com/RitikPatill/prompt-eval-studio"
   },
   {
     "description": "Safe, policy-driven personality-mode engine for LLM agents",
@@ -14,8 +41,44 @@
     "language": "TypeScript",
     "name": "caty-ai/persona-engine",
     "stars": 2,
-    "updated_at": "2026-08-26T18:58:19Z",
+    "updated_at": "2026-08-26T19:09:22Z",
     "url": "https://github.com/caty-ai/persona-engine"
+  },
+  {
+    "description": "Curated catalog of open, specialized AI agents for real business work \u2014 organized as broad umbrella categories (video, i",
+    "id": "Anil-matcha/agency-agents-os",
+    "language": "\u2014",
+    "name": "Anil-matcha/agency-agents-os",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:07:10Z",
+    "url": "https://github.com/Anil-matcha/agency-agents-os"
+  },
+  {
+    "description": "A daily news briefing where every citation is checked against the corpus it came from. Python stdlib only, no API keys.",
+    "id": "elanthus/news-briefing",
+    "language": "Python",
+    "name": "elanthus/news-briefing",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:06:42Z",
+    "url": "https://github.com/elanthus/news-briefing"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-26T19:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Java",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:12:05Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
     "description": "Strip AI writing tells at two layers: surface (Wikipedia Signs of AI writing) + narrative (StoryScope, arXiv:2604.03136)",
@@ -27,13 +90,13 @@
     "url": "https://github.com/badmuriss/unslop"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-26T18:53:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "headroomlabs-ai/headroom",
+    "stars": 67688,
+    "updated_at": "2026-08-26T18:54:56Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "A free cross-platform editorial standard for AI writing.",
@@ -43,6 +106,15 @@
     "stars": 2,
     "updated_at": "2026-08-26T18:53:17Z",
     "url": "https://github.com/jposluns/cleanlanguage"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11203,
+    "updated_at": "2026-08-26T18:49:18Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Mythos-AI is an experimental multi-agent AI system where intelligence is split into distinct personas Hades, Athena, and",
@@ -59,7 +131,7 @@
     "language": "\u2014",
     "name": "idrisshrs/Local-LLM-Infrastructure",
     "stars": 0,
-    "updated_at": "2026-08-26T18:47:50Z",
+    "updated_at": "2026-08-26T19:00:47Z",
     "url": "https://github.com/idrisshrs/Local-LLM-Infrastructure"
   },
   {
@@ -72,6 +144,15 @@
     "url": "https://github.com/ericrisco/rsc-harness"
   },
   {
+    "description": "Governed AI workspace for ChatGPT, Codex, routing, validation, and automation.",
+    "id": "sergstack/AI-OS",
+    "language": "Python",
+    "name": "sergstack/AI-OS",
+    "stars": 0,
+    "updated_at": "2026-08-26T18:45:38Z",
+    "url": "https://github.com/sergstack/AI-OS"
+  },
+  {
     "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
     "id": "OutlineDriven/odin-claude-plugin",
     "language": "Python",
@@ -81,13 +162,13 @@
     "url": "https://github.com/OutlineDriven/odin-claude-plugin"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
+    "description": "PromptPotter: AI optimization engine for automated prompt engineering (APE). Searches and tunes prompts and parameters a",
+    "id": "PromptPotter/prompt-potter-optimizer",
     "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 67685,
-    "updated_at": "2026-08-26T18:54:56Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
+    "name": "PromptPotter/prompt-potter-optimizer",
+    "stars": 3,
+    "updated_at": "2026-08-26T18:41:03Z",
+    "url": "https://github.com/PromptPotter/prompt-potter-optimizer"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -97,6 +178,15 @@
     "stars": 33763,
     "updated_at": "2026-08-26T18:32:40Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 136,
+    "updated_at": "2026-08-26T18:31:02Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   },
   {
     "description": "AI quality method for validating LLM output against predefined criteria. Includes a builder-critic workflow, evidence ch",
@@ -239,7 +329,7 @@
     "language": "Python",
     "name": "hakodev2k/AI-Engineering",
     "stars": 0,
-    "updated_at": "2026-08-26T18:12:07Z",
+    "updated_at": "2026-08-26T19:15:10Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
@@ -333,15 +423,6 @@
     "url": "https://github.com/gncdev/fabling"
   },
   {
-    "description": "Governed AI workspace for ChatGPT, Codex, routing, validation, and automation.",
-    "id": "sergstack/AI-OS",
-    "language": "Python",
-    "name": "sergstack/AI-OS",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:45:38Z",
-    "url": "https://github.com/sergstack/AI-OS"
-  },
-  {
     "description": "The improve-* family: senior-advisor Claude Code skills that audit a codebase (copy, prompts, error handling, analytics)",
     "id": "october-dev/open-skills",
     "language": "\u2014",
@@ -360,15 +441,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Java",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-08-26T18:59:24Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
     "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
     "id": "apoapostolov/humanizer",
     "language": "JavaScript",
@@ -376,77 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-26T18:01:39Z",
     "url": "https://github.com/apoapostolov/humanizer"
-  },
-  {
-    "description": "AI content operating system for founders, consultants and agency owners \u2014 turn real expertise into a month of LinkedIn c",
-    "id": "Mohworldent/founder-content-engine",
-    "language": "HTML",
-    "name": "Mohworldent/founder-content-engine",
-    "stars": 0,
-    "updated_at": "2026-08-26T18:48:58Z",
-    "url": "https://github.com/Mohworldent/founder-content-engine"
-  },
-  {
-    "description": "The control plane for AI prompts. Score, enforce policy, lock config, and audit every prompt \u2014 before it reaches any LLM",
-    "id": "rishi-banerjee1/prompt-control-plane",
-    "language": "TypeScript",
-    "name": "rishi-banerjee1/prompt-control-plane",
-    "stars": 2,
-    "updated_at": "2026-08-26T17:58:10Z",
-    "url": "https://github.com/rishi-banerjee1/prompt-control-plane"
-  },
-  {
-    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-    "id": "Spielewoy/autoprompt-skill",
-    "language": "JavaScript",
-    "name": "Spielewoy/autoprompt-skill",
-    "stars": 889,
-    "updated_at": "2026-08-26T17:52:38Z",
-    "url": "https://github.com/Spielewoy/autoprompt-skill"
-  },
-  {
-    "description": "Intelligence Package index for the intelligence CLI: package name -> git source. Add it to a project's trust list with '",
-    "id": "ainova-systems/intelligence-registry",
-    "language": "\u2014",
-    "name": "ainova-systems/intelligence-registry",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:49:19Z",
-    "url": "https://github.com/ainova-systems/intelligence-registry"
-  },
-  {
-    "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
-    "id": "Irongrey-genusengelmannia453/zero-context",
-    "language": "HTML",
-    "name": "Irongrey-genusengelmannia453/zero-context",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:48:13Z",
-    "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
-  },
-  {
-    "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
-    "id": "variant-thripidae875/sols-rng-win-script-hub",
-    "language": "HTML",
-    "name": "variant-thripidae875/sols-rng-win-script-hub",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:46:49Z",
-    "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
-  },
-  {
-    "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
-    "id": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "language": "\u2014",
-    "name": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:46:48Z",
-    "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
-  },
-  {
-    "description": "A macOS sketchpad that opens on a hotkey and hands layout sketches to your coding agent \u2014 as an exact scene tree, an ima",
-    "id": "akaieuan/blockpad",
-    "language": "Swift",
-    "name": "akaieuan/blockpad",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:44:55Z",
-    "url": "https://github.com/akaieuan/blockpad"
   }
 ]
