@@ -1,11 +1,74 @@
 [
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33813,
+    "updated_at": "2026-08-27T17:13:21Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Doaa (Prism Engine): an open-source, governed linguistic-algorithmic mediator for compact LLM interaction, strict result",
+    "id": "saifromih-glitch/doaa-prism-engine",
+    "language": "Python",
+    "name": "saifromih-glitch/doaa-prism-engine",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:07:25Z",
+    "url": "https://github.com/saifromih-glitch/doaa-prism-engine"
+  },
+  {
+    "description": "Spec-driven governance for AI coding agents. A CLI installs AGENTS.md and on-demand skills, so Claude Code, Cursor, Copi",
+    "id": "thiagocajadev/spec-driven-guide",
+    "language": "JavaScript",
+    "name": "thiagocajadev/spec-driven-guide",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:11:59Z",
+    "url": "https://github.com/thiagocajadev/spec-driven-guide"
+  },
+  {
+    "description": "Runtime security for AI agents. In-process, zero dependencies, Apache 2.0.",
+    "id": "delphisecurity/xaidr",
+    "language": "Python",
+    "name": "delphisecurity/xaidr",
+    "stars": 26,
+    "updated_at": "2026-08-27T17:03:11Z",
+    "url": "https://github.com/delphisecurity/xaidr"
+  },
+  {
+    "description": "AI-Document-Intelligence-API is an AI-powered Intelligent Document Processing (IDP) backend built with FastAPI, PostgreS",
+    "id": "yashwanthlwork/AI-Document-Intelligence-API",
+    "language": "Python",
+    "name": "yashwanthlwork/AI-Document-Intelligence-API",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:01:48Z",
+    "url": "https://github.com/yashwanthlwork/AI-Document-Intelligence-API"
+  },
+  {
+    "description": "Reglas en espa\u00f1ol para trabajar con asistentes de IA en proyectos de c\u00f3digo \u2014 para vibe coders y no programadores.",
+    "id": "pablontest-collab/reglas-vibe-coding",
+    "language": "\u2014",
+    "name": "pablontest-collab/reglas-vibe-coding",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:01:38Z",
+    "url": "https://github.com/pablontest-collab/reglas-vibe-coding"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T17:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
     "id": "winstonkoh87/Athena-Public",
     "language": "Python",
     "name": "winstonkoh87/Athena-Public",
     "stars": 583,
-    "updated_at": "2026-08-27T17:00:14Z",
+    "updated_at": "2026-08-27T17:12:07Z",
     "url": "https://github.com/winstonkoh87/Athena-Public"
   },
   {
@@ -18,13 +81,13 @@
     "url": "https://github.com/Almotasembellahawwad/Verve"
   },
   {
-    "description": "Doaa (Prism Engine): an open-source, governed linguistic-algorithmic mediator for compact LLM interaction, strict result",
-    "id": "saifromih-glitch/doaa-prism-engine",
+    "description": "Keyboard-first local scratchpad and snippet workspace for Windows. Portable PyQt6 app with Markdown, file containers, gl",
+    "id": "vacterro/FastPrompter",
     "language": "Python",
-    "name": "saifromih-glitch/doaa-prism-engine",
-    "stars": 0,
-    "updated_at": "2026-08-27T16:58:51Z",
-    "url": "https://github.com/saifromih-glitch/doaa-prism-engine"
+    "name": "vacterro/FastPrompter",
+    "stars": 9,
+    "updated_at": "2026-08-27T16:59:57Z",
+    "url": "https://github.com/vacterro/FastPrompter"
   },
   {
     "description": "A free cross-platform editorial standard for AI writing.",
@@ -32,7 +95,7 @@
     "language": "HTML",
     "name": "jposluns/cleanlanguage",
     "stars": 2,
-    "updated_at": "2026-08-27T16:58:29Z",
+    "updated_at": "2026-08-27T17:08:59Z",
     "url": "https://github.com/jposluns/cleanlanguage"
   },
   {
@@ -43,6 +106,24 @@
     "stars": 0,
     "updated_at": "2026-08-27T16:57:47Z",
     "url": "https://github.com/TranQui004/signal-ledger-skills"
+  },
+  {
+    "description": ".clinerules is the rule-file convention used by the Cline open-source AI coding agent. Projects expose persistent guidan",
+    "id": "api-evangelist/clinerules",
+    "language": "\u2014",
+    "name": "api-evangelist/clinerules",
+    "stars": 0,
+    "updated_at": "2026-08-27T16:57:40Z",
+    "url": "https://github.com/api-evangelist/clinerules"
+  },
+  {
+    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
+    "id": "thkt/dotclaude",
+    "language": "JavaScript",
+    "name": "thkt/dotclaude",
+    "stars": 11,
+    "updated_at": "2026-08-27T17:11:48Z",
+    "url": "https://github.com/thkt/dotclaude"
   },
   {
     "description": "138 Hermes Agent skills for cinematic AI production \u2014 LTX, MiniMax H3, Wan 2.2/3.0 prompting control, FLUX 2, isolated H",
@@ -59,7 +140,7 @@
     "language": "TypeScript",
     "name": "TitusKirch/skills",
     "stars": 1,
-    "updated_at": "2026-08-27T16:53:24Z",
+    "updated_at": "2026-08-27T17:03:55Z",
     "url": "https://github.com/TitusKirch/skills"
   },
   {
@@ -104,26 +185,17 @@
     "language": "Java",
     "name": "Nyanna/XY.AI.Workbench",
     "stars": 1,
-    "updated_at": "2026-08-27T16:47:10Z",
+    "updated_at": "2026-08-27T17:10:31Z",
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33812,
-    "updated_at": "2026-08-27T16:59:55Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T16:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-27T16:44:42Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
   },
   {
     "description": "\u89c4\u8303\u672f\u8bed\u2014\u2014\u628a\u6280\u672f\u9ed1\u8bdd\u8bb2\u6210\u4eba\u8bdd\uff0c\u8fd9\u662f\u4e00\u4e2a\u7eaf\u9759\u6001\u7f51\u9875\u9879\u76ee\uff0c\u5f00\u7bb1\u5373\u7528\uff0c\u5b66\u4e60\u5982\u4f55\u8ddfAI\u5bf9\u8bdd\u66f4\u51c6\u786e\u3002",
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21635,
-    "updated_at": "2026-08-27T16:44:11Z",
+    "updated_at": "2026-08-27T17:01:18Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -180,21 +252,12 @@
     "url": "https://github.com/Anil-matcha/Awesome-Gemini-Omni-API-Prompts"
   },
   {
-    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
-    "id": "thkt/dotclaude",
-    "language": "JavaScript",
-    "name": "thkt/dotclaude",
-    "stars": 11,
-    "updated_at": "2026-08-27T16:56:47Z",
-    "url": "https://github.com/thkt/dotclaude"
-  },
-  {
     "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
     "id": "Krishna-Modi12/frontend-design-pro",
     "language": "TypeScript",
     "name": "Krishna-Modi12/frontend-design-pro",
     "stars": 6,
-    "updated_at": "2026-08-27T16:33:59Z",
+    "updated_at": "2026-08-27T17:11:09Z",
     "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
   },
   {
@@ -221,7 +284,7 @@
     "language": "TypeScript",
     "name": "doodersrage/llm-prompt-studio",
     "stars": 1,
-    "updated_at": "2026-08-27T16:59:36Z",
+    "updated_at": "2026-08-27T17:12:02Z",
     "url": "https://github.com/doodersrage/llm-prompt-studio"
   },
   {
@@ -284,7 +347,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11215,
-    "updated_at": "2026-08-27T16:55:51Z",
+    "updated_at": "2026-08-27T17:06:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -320,7 +383,7 @@
     "language": "Python",
     "name": "hakodev2k/AI-Engineering",
     "stars": 0,
-    "updated_at": "2026-08-27T16:20:16Z",
+    "updated_at": "2026-08-27T17:13:36Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 51,
     "updated_at": "2026-08-27T16:08:44Z",
     "url": "https://github.com/Wholiver/metis"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-08-27T16:08:31Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-08-27T16:08:30Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-27T16:08:17Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6436,
-    "updated_at": "2026-08-27T16:07:21Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5824,
-    "updated_at": "2026-08-27T16:03:47Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "Curated AI prompts for software development - comprehensive meta-prompts for documentation, CI/CD, testing, security aud",
-    "id": "agigante80/vibe-coding-prompts",
-    "language": "Python",
-    "name": "agigante80/vibe-coding-prompts",
-    "stars": 8,
-    "updated_at": "2026-08-27T16:03:27Z",
-    "url": "https://github.com/agigante80/vibe-coding-prompts"
-  },
-  {
-    "description": "Memory engine for self-evolving AI agent ecosystems. Multi-tenant, multi-space isolation with Bayesian truth maintenance",
-    "id": "cyqlelabs/smrti",
-    "language": "Python",
-    "name": "cyqlelabs/smrti",
-    "stars": 3,
-    "updated_at": "2026-08-27T16:02:40Z",
-    "url": "https://github.com/cyqlelabs/smrti"
   }
 ]
