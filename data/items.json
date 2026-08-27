@@ -1,12 +1,165 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27688,
+    "updated_at": "2026-08-27T06:14:53Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:15:11Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33784,
+    "updated_at": "2026-08-27T06:12:02Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 8,
+    "updated_at": "2026-08-27T06:10:36Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Governed AI workspace for ChatGPT, Codex, routing, validation, and automation.",
+    "id": "sergstack/AI-OS",
+    "language": "Python",
+    "name": "sergstack/AI-OS",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:13:45Z",
+    "url": "https://github.com/sergstack/AI-OS"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-08-27T06:10:07Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Metis is a coding agent that boosts coding performance by 50%",
+    "id": "Wholiver/metis",
+    "language": "TypeScript",
+    "name": "Wholiver/metis",
+    "stars": 51,
+    "updated_at": "2026-08-27T06:09:56Z",
+    "url": "https://github.com/Wholiver/metis"
+  },
+  {
+    "description": "Creative Writing and General Conversation System Prompt for LLM",
+    "id": "baros4294/system_prompt",
+    "language": "\u2014",
+    "name": "baros4294/system_prompt",
+    "stars": 1,
+    "updated_at": "2026-08-27T06:09:34Z",
+    "url": "https://github.com/baros4294/system_prompt"
+  },
+  {
+    "description": "Suite de skills de agente (en espa\u00f1ol) para construir software por fases con gates de revisi\u00f3n humana: an\u00e1lisis antes de",
+    "id": "alexismaya/skills-lab",
+    "language": "Shell",
+    "name": "alexismaya/skills-lab",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:05:56Z",
+    "url": "https://github.com/alexismaya/skills-lab"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11209,
+    "updated_at": "2026-08-27T06:05:51Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "SAIRAMANALADI/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "SAIRAMANALADI/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-08-27T06:04:25Z",
+    "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
+  },
+  {
+    "description": "An evidence-graded prompt engineering reference: every technique marked solid / mixed / folklore, every claim sourced, c",
+    "id": "ferinazumaDEV/prompt-engineering-evidence",
+    "language": "Python",
+    "name": "ferinazumaDEV/prompt-engineering-evidence",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:04:06Z",
+    "url": "https://github.com/ferinazumaDEV/prompt-engineering-evidence"
+  },
+  {
+    "description": "Production AI systems: what they do, how they are built, what can go wrong, and what they cost to run.",
+    "id": "25hour-io/ai-systems",
+    "language": "JavaScript",
+    "name": "25hour-io/ai-systems",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:03:55Z",
+    "url": "https://github.com/25hour-io/ai-systems"
+  },
+  {
     "description": "Grimoire's Tome & The Grim Council. A Prompt Spellbook of /skills. The #1 Coding Wizard \ud83e\uddd9\u200d\u2642\ufe0f",
     "id": "MindGoblinStudios/grim-tome",
     "language": "JavaScript",
     "name": "MindGoblinStudios/grim-tome",
     "stars": 0,
-    "updated_at": "2026-08-27T06:00:03Z",
+    "updated_at": "2026-08-27T06:02:17Z",
     "url": "https://github.com/MindGoblinStudios/grim-tome"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13286,
+    "updated_at": "2026-08-27T06:02:04Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-08-27T06:01:50Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Ready-to-use Grok Bot profiles with focused outcomes, explicit approval boundaries, and separate specification, implemen",
+    "id": "HAEGONG/grok-bot-profiles",
+    "language": "\u2014",
+    "name": "HAEGONG/grok-bot-profiles",
+    "stars": 3,
+    "updated_at": "2026-08-27T06:01:37Z",
+    "url": "https://github.com/HAEGONG/grok-bot-profiles"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T06:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The open-source atlas of AI skills, agent workflows, coding prompts, and reusable instructions for building modern web a",
@@ -54,15 +207,6 @@
     "url": "https://github.com/akashsebastian333/peephole"
   },
   {
-    "description": "Governed AI workspace for ChatGPT, Codex, routing, validation, and automation.",
-    "id": "sergstack/AI-OS",
-    "language": "Python",
-    "name": "sergstack/AI-OS",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:53:19Z",
-    "url": "https://github.com/sergstack/AI-OS"
-  },
-  {
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
     "id": "github/awesome-copilot",
     "language": "JavaScript",
@@ -79,15 +223,6 @@
     "stars": 13,
     "updated_at": "2026-08-27T05:49:32Z",
     "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T05:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl",
@@ -135,15 +270,6 @@
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27688,
-    "updated_at": "2026-08-27T05:40:35Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Progressive engineering-governance Skill for AI coding agents \u2014 11-step gated workflow, 43 rules, 203 pitfall details, t",
     "id": "zxc663/shisan-xinuo-workflow",
     "language": "Shell",
@@ -189,15 +315,6 @@
     "url": "https://github.com/liqinling1994-cloud/master-teacher"
   },
   {
-    "description": "Production AI systems: what they do, how they are built, what can go wrong, and what they cost to run.",
-    "id": "25hour-io/ai-systems",
-    "language": "JavaScript",
-    "name": "25hour-io/ai-systems",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:37:24Z",
-    "url": "https://github.com/25hour-io/ai-systems"
-  },
-  {
     "description": "MCP server + CLI for Makimono \u2014 a marketplace of AI instruction files (Markdown). npx -y makimono-mcp",
     "id": "seisaku-team-org/makimono-cli",
     "language": "JavaScript",
@@ -211,7 +328,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 9513,
+    "stars": 9514,
     "updated_at": "2026-08-27T05:36:17Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -230,7 +347,7 @@
     "language": "Go",
     "name": "AltairaLabs/PromptKit",
     "stars": 9,
-    "updated_at": "2026-08-27T05:41:19Z",
+    "updated_at": "2026-08-27T06:00:42Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
   },
   {
@@ -243,15 +360,6 @@
     "url": "https://github.com/DSeaStar/awesome-kling"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33783,
-    "updated_at": "2026-08-27T05:31:50Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
     "id": "YouMind-OpenLab/awesome-seedream-4.5",
     "language": "TypeScript",
@@ -259,15 +367,6 @@
     "stars": 57,
     "updated_at": "2026-08-27T05:27:27Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "Ready-to-use Grok Bot profiles with focused outcomes, explicit approval boundaries, and separate specification, implemen",
-    "id": "HAEGONG/grok-bot-profiles",
-    "language": "\u2014",
-    "name": "HAEGONG/grok-bot-profiles",
-    "stars": 3,
-    "updated_at": "2026-08-27T05:27:19Z",
-    "url": "https://github.com/HAEGONG/grok-bot-profiles"
   },
   {
     "description": "\ud83d\ude80 The largest downloadable GPT Image 2 prompt library \u2014 15,672 prompts and growing, daily updates with HuggingFace datas",
@@ -295,15 +394,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T05:20:55Z",
     "url": "https://github.com/Hubujiu/practical-coding"
-  },
-  {
-    "description": "An evidence-graded prompt engineering reference: every technique marked solid / mixed / folklore, every claim sourced, c",
-    "id": "ferinazumaDEV/prompt-engineering-evidence",
-    "language": "\u2014",
-    "name": "ferinazumaDEV/prompt-engineering-evidence",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:20:28Z",
-    "url": "https://github.com/ferinazumaDEV/prompt-engineering-evidence"
   },
   {
     "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
@@ -342,24 +432,6 @@
     "url": "https://github.com/MOON-0805/ai-agent-practice-demo"
   },
   {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:10:29Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11209,
-    "updated_at": "2026-08-27T05:48:25Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
     "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T05:05:23Z",
     "url": "https://github.com/luxueliu/luxueliu-agent-discipline-skills"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-27T04:59:10Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "\ud835\udc7a\ud835\udc8c\ud835\udc8a\ud835\udc8d\ud835\udc8d\ud835\udc94 \ud835\udc82\ud835\udc8f\ud835\udc85 \ud835\udc91\ud835\udc8d\ud835\udc96\ud835\udc88\ud835\udc8a\ud835\udc8f \ud835\udc95\ud835\udc90\ud835\udc90\ud835\udc8d\ud835\udc8c\ud835\udc8a\ud835\udc95 \ud835\udc87\ud835\udc90\ud835\udc93 \ud835\udc6f\ud835\udc82\ud835\udc93\ud835\udc8f\ud835\udc86\ud835\udc94\ud835\udc94 \ud835\udc68\ud835\udc88\ud835\udc86\ud835\udc8f\ud835\udc95.",
-    "id": "koco-co/build-goals",
-    "language": "Python",
-    "name": "koco-co/build-goals",
-    "stars": 1,
-    "updated_at": "2026-08-27T04:56:26Z",
-    "url": "https://github.com/koco-co/build-goals"
-  },
-  {
-    "description": "\u628a\u958b\u767c\u898f\u7bc4\u5beb\u6210\u6a5f\u5668\u53ef\u8b80\u7684\u7d04\u675f\uff0c\u8b93 Claude \u81ea\u52d5\u9075\u5b88 TDD\u3001ADR\u3001commit \u9598\u9580\u8207\u767c\u5e03\u6aa2\u67e5",
-    "id": "astroicers/AI-SOP-Protocol",
-    "language": "Shell",
-    "name": "astroicers/AI-SOP-Protocol",
-    "stars": 3,
-    "updated_at": "2026-08-27T04:55:32Z",
-    "url": "https://github.com/astroicers/AI-SOP-Protocol"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 49,
-    "updated_at": "2026-08-27T04:54:27Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
-    "id": "f/prompts.chat",
-    "language": "HTML",
-    "name": "f/prompts.chat",
-    "stars": 168020,
-    "updated_at": "2026-08-27T04:53:07Z",
-    "url": "https://github.com/f/prompts.chat"
-  },
-  {
-    "description": "\u300a\u8ba9AI\u771f\u6b63\u843d\u5730\uff1a\u4f01\u4e1a AI \u7a33\u5b9a\u4ea7\u51fa\u624b\u518c\u300b",
-    "id": "betta-labs/ai-stable-output-handbook",
-    "language": "TypeScript",
-    "name": "betta-labs/ai-stable-output-handbook",
-    "stars": 1,
-    "updated_at": "2026-08-27T04:51:31Z",
-    "url": "https://github.com/betta-labs/ai-stable-output-handbook"
-  },
-  {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "Rust",
-    "name": "Open-Less/openless",
-    "stars": 3324,
-    "updated_at": "2026-08-27T04:51:26Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "Natural-language execution architecture for ChatGPT: controls what to examine, when to invoke analysis or research, and ",
-    "id": "639228/structural-reading-protocol",
-    "language": "\u2014",
-    "name": "639228/structural-reading-protocol",
-    "stars": 1,
-    "updated_at": "2026-08-27T04:48:11Z",
-    "url": "https://github.com/639228/structural-reading-protocol"
   }
 ]
