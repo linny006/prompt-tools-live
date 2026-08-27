@@ -1,12 +1,84 @@
 [
   {
+    "description": "Anime-archetype output styles for Claude Code. Same answers, same line numbers, considerably more feelings.",
+    "id": "Luscha/claude-dere",
+    "language": "Shell",
+    "name": "Luscha/claude-dere",
+    "stars": 0,
+    "updated_at": "2026-08-27T11:58:24Z",
+    "url": "https://github.com/Luscha/claude-dere"
+  },
+  {
+    "description": "Governed AI workspace for ChatGPT, Codex, routing, validation, and automation.",
+    "id": "sergstack/AI-OS",
+    "language": "Python",
+    "name": "sergstack/AI-OS",
+    "stars": 0,
+    "updated_at": "2026-08-27T11:57:28Z",
+    "url": "https://github.com/sergstack/AI-OS"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3514,
+    "updated_at": "2026-08-27T11:56:59Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
+    "id": "thkt/dotclaude",
+    "language": "JavaScript",
+    "name": "thkt/dotclaude",
+    "stars": 11,
+    "updated_at": "2026-08-27T11:55:09Z",
+    "url": "https://github.com/thkt/dotclaude"
+  },
+  {
     "description": "How many tokens does an AI agent pay to read your repo? Measure it, find the waste (lockfiles, bundles, generated files)",
     "id": "CAOShurong/contextcost",
     "language": "Python",
     "name": "CAOShurong/contextcost",
     "stars": 0,
-    "updated_at": "2026-08-27T11:44:35Z",
+    "updated_at": "2026-08-27T11:55:09Z",
     "url": "https://github.com/CAOShurong/contextcost"
+  },
+  {
+    "description": "Cross-platform Agent Skill for creating original conceptual photography, validating physical logic, and generating image",
+    "id": "natsany/conceptual-photography-plan",
+    "language": "\u2014",
+    "name": "natsany/conceptual-photography-plan",
+    "stars": 1,
+    "updated_at": "2026-08-27T11:51:58Z",
+    "url": "https://github.com/natsany/conceptual-photography-plan"
+  },
+  {
+    "description": "Agent skills by Titus Kirch \u2014 installable via skills.sh in Claude Code, Codex, Cursor, OpenCode and friends.",
+    "id": "TitusKirch/skills",
+    "language": "TypeScript",
+    "name": "TitusKirch/skills",
+    "stars": 1,
+    "updated_at": "2026-08-27T11:50:14Z",
+    "url": "https://github.com/TitusKirch/skills"
+  },
+  {
+    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
+    "id": "conorbronsdon/agent-context-os",
+    "language": "Python",
+    "name": "conorbronsdon/agent-context-os",
+    "stars": 15,
+    "updated_at": "2026-08-27T11:55:23Z",
+    "url": "https://github.com/conorbronsdon/agent-context-os"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T11:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A Codex skill for identity-preserving person and character replacement, wardrobe control, and reusable photo base librar",
@@ -45,13 +117,13 @@
     "url": "https://github.com/rupel190/claude-interaction-tests"
   },
   {
-    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
-    "id": "thkt/dotclaude",
-    "language": "JavaScript",
-    "name": "thkt/dotclaude",
-    "stars": 11,
-    "updated_at": "2026-08-27T11:39:32Z",
-    "url": "https://github.com/thkt/dotclaude"
+    "description": "Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recov",
+    "id": "Jia-Ethan/codex-keysmith",
+    "language": "Python",
+    "name": "Jia-Ethan/codex-keysmith",
+    "stars": 4093,
+    "updated_at": "2026-08-27T11:49:34Z",
+    "url": "https://github.com/Jia-Ethan/codex-keysmith"
   },
   {
     "description": "Open-source design intelligence pipeline that detects generic AI interfaces and guides LLM output toward deliberate visu",
@@ -68,7 +140,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33801,
-    "updated_at": "2026-08-27T11:43:41Z",
+    "updated_at": "2026-08-27T11:59:46Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -90,15 +162,6 @@
     "url": "https://github.com/vincenzo-afk/verbix"
   },
   {
-    "description": "Governed AI workspace for ChatGPT, Codex, routing, validation, and automation.",
-    "id": "sergstack/AI-OS",
-    "language": "Python",
-    "name": "sergstack/AI-OS",
-    "stars": 0,
-    "updated_at": "2026-08-27T11:35:06Z",
-    "url": "https://github.com/sergstack/AI-OS"
-  },
-  {
     "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
     "id": "rockerlabs/keel",
     "language": "Shell",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27691,
-    "updated_at": "2026-08-27T11:32:16Z",
+    "updated_at": "2026-08-27T11:49:06Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -126,21 +189,12 @@
     "url": "https://github.com/JalalGV/LLM_Evaluation_Shopmate"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T11:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6429,
-    "updated_at": "2026-08-27T11:29:43Z",
+    "stars": 6430,
+    "updated_at": "2026-08-27T11:58:12Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21632,
-    "updated_at": "2026-08-27T11:28:16Z",
+    "updated_at": "2026-08-27T11:53:09Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -185,7 +239,7 @@
     "language": "TypeScript",
     "name": "ist0k/ctx-tree",
     "stars": 0,
-    "updated_at": "2026-08-27T11:27:55Z",
+    "updated_at": "2026-08-27T11:50:57Z",
     "url": "https://github.com/ist0k/ctx-tree"
   },
   {
@@ -292,7 +346,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "TypeScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 10699,
+    "stars": 10700,
     "updated_at": "2026-08-27T11:17:08Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -322,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T11:15:19Z",
     "url": "https://github.com/proalexians/higgsfield-luxury-prompts"
-  },
-  {
-    "description": "Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recov",
-    "id": "Jia-Ethan/codex-keysmith",
-    "language": "Python",
-    "name": "Jia-Ethan/codex-keysmith",
-    "stars": 4093,
-    "updated_at": "2026-08-27T11:39:20Z",
-    "url": "https://github.com/Jia-Ethan/codex-keysmith"
   },
   {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T11:00:59Z",
     "url": "https://github.com/SunYanbox/ManualAid-Rust"
-  },
-  {
-    "description": "Agent Skills von LOGIN zur freien Nutzung - SKILL.md-Format fuer Claude Code, Claude-App und API",
-    "id": "LOGIN-TB/claude-skills",
-    "language": "Python",
-    "name": "LOGIN-TB/claude-skills",
-    "stars": 55,
-    "updated_at": "2026-08-27T11:22:08Z",
-    "url": "https://github.com/LOGIN-TB/claude-skills"
-  },
-  {
-    "description": "Generate project-based guidance and interview Q&A docs with STAR speaking scripts. \u57fa\u4e8e\u771f\u5b9e\u9879\u76ee\u751f\u6210\u5bfc\u5b66\u4e0e\u9762\u7ecf\uff08\u542b\u7b2c\u4e00\u4eba\u79f0 STAR \u6cd5\u5219\u53e3\u64ad\u7b54\u6848\uff09",
-    "id": "Jaxon1216/interview-analyzer-skill",
-    "language": "Python",
-    "name": "Jaxon1216/interview-analyzer-skill",
-    "stars": 74,
-    "updated_at": "2026-08-27T10:58:46Z",
-    "url": "https://github.com/Jaxon1216/interview-analyzer-skill"
-  },
-  {
-    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
-    "id": "AltairaLabs/PromptKit",
-    "language": "Go",
-    "name": "AltairaLabs/PromptKit",
-    "stars": 9,
-    "updated_at": "2026-08-27T11:41:41Z",
-    "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
-    "description": "\u041c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u044b \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u044f\u0432\u043d\u044b\u0435 \u0440\u043e\u043b\u0438, tier-\u043c\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0430\u0446\u0438\u044f, \u0442\u0440\u0438\u0430\u043d\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0440\u0435\u0432\u044c\u044e \u0438 ",
-    "id": "sergvss/agents-best-teams",
-    "language": "Python",
-    "name": "sergvss/agents-best-teams",
-    "stars": 2,
-    "updated_at": "2026-08-27T10:56:15Z",
-    "url": "https://github.com/sergvss/agents-best-teams"
-  },
-  {
-    "description": "builder prompts which can be sent to builders like cursor, bolt.diy, bolt.new, trae, project idx, Claude code, lovable.d",
-    "id": "KingLeoJr/awesome-vibe-coding-prompt-templates",
-    "language": "\u2014",
-    "name": "KingLeoJr/awesome-vibe-coding-prompt-templates",
-    "stars": 275,
-    "updated_at": "2026-08-27T10:54:05Z",
-    "url": "https://github.com/KingLeoJr/awesome-vibe-coding-prompt-templates"
   }
 ]
