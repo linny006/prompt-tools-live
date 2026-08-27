@@ -1,12 +1,138 @@
 [
   {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6437,
+    "updated_at": "2026-08-27T18:43:23Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Ecossistema de tutoria via IA que busca e estrutura provas da web. Integra Cloudflare Workers, GitHub Actions, OpenHands",
+    "id": "TouchRefletz/maia.edu",
+    "language": "JavaScript",
+    "name": "TouchRefletz/maia.edu",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:41:36Z",
+    "url": "https://github.com/TouchRefletz/maia.edu"
+  },
+  {
+    "description": "Wordware is a San Francisco AI company (YC S23, backed by Felicis and Spark Capital) that built a web-hosted IDE for bui",
+    "id": "api-evangelist/wordware",
+    "language": "\u2014",
+    "name": "api-evangelist/wordware",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:39:33Z",
+    "url": "https://github.com/api-evangelist/wordware"
+  },
+  {
+    "description": "Governed AI workspace for ChatGPT, Codex, routing, validation, and automation.",
+    "id": "sergstack/AI-OS",
+    "language": "Python",
+    "name": "sergstack/AI-OS",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:38:26Z",
+    "url": "https://github.com/sergstack/AI-OS"
+  },
+  {
+    "description": "A coaching harness for Claude Code: team memory, evidence-backed prompt coaching, injection defense, onboarding docs and",
+    "id": "MohammedMoataz/ai-coach",
+    "language": "JavaScript",
+    "name": "MohammedMoataz/ai-coach",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:39:38Z",
+    "url": "https://github.com/MohammedMoataz/ai-coach"
+  },
+  {
     "description": "CI for LLM behaviour: run a versioned prompt against a golden dataset, diff it against a promoted baseline, and block th",
     "id": "matsumoto1f-creator/llm-regression-ci",
     "language": "Python",
     "name": "matsumoto1f-creator/llm-regression-ci",
     "stars": 0,
-    "updated_at": "2026-08-27T18:29:49Z",
+    "updated_at": "2026-08-27T18:37:53Z",
     "url": "https://github.com/matsumoto1f-creator/llm-regression-ci"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3514,
+    "updated_at": "2026-08-27T18:44:09Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI skills for academic paper figures: repo analysis, figure planning, colorblind palettes, JSON figure specs. Install: n",
+    "id": "Azhi-ss/academic-figure-skills",
+    "language": "Python",
+    "name": "Azhi-ss/academic-figure-skills",
+    "stars": 94,
+    "updated_at": "2026-08-27T18:36:04Z",
+    "url": "https://github.com/Azhi-ss/academic-figure-skills"
+  },
+  {
+    "description": "Forge production-grade AI prompts for cinematic hero sections \u2014 14 archetypes, 12 mood palettes, live previews. React + ",
+    "id": "indrajeet877/herosmith",
+    "language": "TypeScript",
+    "name": "indrajeet877/herosmith",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:36:03Z",
+    "url": "https://github.com/indrajeet877/herosmith"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-08-27T18:34:57Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Vellum AI is an LLM development platform that helps product and engineering teams build, evaluate, deploy, and monitor L",
+    "id": "api-evangelist/vellum",
+    "language": "\u2014",
+    "name": "api-evangelist/vellum",
+    "stars": 1,
+    "updated_at": "2026-08-27T18:34:10Z",
+    "url": "https://github.com/api-evangelist/vellum"
+  },
+  {
+    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
+    "id": "Ntizar/MasterMind",
+    "language": "HTML",
+    "name": "Ntizar/MasterMind",
+    "stars": 2,
+    "updated_at": "2026-08-27T18:32:25Z",
+    "url": "https://github.com/Ntizar/MasterMind"
+  },
+  {
+    "description": "zc AI Coding Toolkit\uff1a\u5f00\u6e90 AI \u7f16\u7801\u5de5\u5177\u5305\uff0c\u63d0\u4f9b\u7ed3\u6784\u5316 commands / skills / agents \u5185\u5bb9\uff0c\u4ee5\u53ca Codex\u3001Claude\u3001OpenCode\u3001Qwen \u5e73\u53f0\u5b89\u88c5\u3002",
+    "id": "zmice/zc-ai-coding-toolkit",
+    "language": "TypeScript",
+    "name": "zmice/zc-ai-coding-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:31:44Z",
+    "url": "https://github.com/zmice/zc-ai-coding-toolkit"
+  },
+  {
+    "description": "Creative DNA video prompt cases and installable Skills for MiniMax H3 and Seedance 2.0, with an Electron video viewer.",
+    "id": "T8mars/minimax-h3-prompt-skill-T8",
+    "language": "JavaScript",
+    "name": "T8mars/minimax-h3-prompt-skill-T8",
+    "stars": 153,
+    "updated_at": "2026-08-27T18:30:45Z",
+    "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T18:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
@@ -22,8 +148,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33814,
-    "updated_at": "2026-08-27T18:29:06Z",
+    "stars": 33815,
+    "updated_at": "2026-08-27T18:44:06Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -45,12 +171,21 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
+    "description": "LLM Prompt Studio for image, 3D, video, and audio models",
+    "id": "doodersrage/llm-prompt-studio",
+    "language": "TypeScript",
+    "name": "doodersrage/llm-prompt-studio",
+    "stars": 1,
+    "updated_at": "2026-08-27T18:26:23Z",
+    "url": "https://github.com/doodersrage/llm-prompt-studio"
+  },
+  {
     "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
     "id": "Tubifix77/red-thread",
     "language": "Python",
     "name": "Tubifix77/red-thread",
     "stars": 0,
-    "updated_at": "2026-08-27T18:25:57Z",
+    "updated_at": "2026-08-27T18:38:11Z",
     "url": "https://github.com/Tubifix77/red-thread"
   },
   {
@@ -68,7 +203,7 @@
     "language": "Python",
     "name": "matsumoto1f-creator/prompt-experiments",
     "stars": 0,
-    "updated_at": "2026-08-27T18:23:45Z",
+    "updated_at": "2026-08-27T18:37:51Z",
     "url": "https://github.com/matsumoto1f-creator/prompt-experiments"
   },
   {
@@ -85,7 +220,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21639,
+    "stars": 21640,
     "updated_at": "2026-08-27T18:22:34Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -99,40 +234,13 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-08-27T18:30:03Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
     "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-S",
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 63679,
+    "stars": 63681,
     "updated_at": "2026-08-27T18:16:47Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T18:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6437,
-    "updated_at": "2026-08-27T18:29:48Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Agent skills for spec-driven delivery \u2014 one plugin for Claude Code, OpenAI Codex, and OpenCode. At the center: an agenti",
@@ -180,15 +288,6 @@
     "url": "https://github.com/slaFFik/mdredd"
   },
   {
-    "description": "LLM Prompt Studio for image, 3D, video, and audio models",
-    "id": "doodersrage/llm-prompt-studio",
-    "language": "TypeScript",
-    "name": "doodersrage/llm-prompt-studio",
-    "stars": 1,
-    "updated_at": "2026-08-27T18:26:23Z",
-    "url": "https://github.com/doodersrage/llm-prompt-studio"
-  },
-  {
     "description": "Agent skills by Titus Kirch \u2014 installable via skills.sh in Claude Code, Codex, Cursor, OpenCode and friends.",
     "id": "TitusKirch/skills",
     "language": "TypeScript",
@@ -203,7 +302,7 @@
     "language": "Python",
     "name": "sergeeey/Claude-cod-top-2026",
     "stars": 7,
-    "updated_at": "2026-08-27T18:28:32Z",
+    "updated_at": "2026-08-27T18:32:51Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
@@ -230,7 +329,7 @@
     "language": "JavaScript",
     "name": "thkt/dotclaude",
     "stars": 11,
-    "updated_at": "2026-08-27T18:05:12Z",
+    "updated_at": "2026-08-27T18:44:25Z",
     "url": "https://github.com/thkt/dotclaude"
   },
   {
@@ -257,17 +356,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11216,
-    "updated_at": "2026-08-27T18:17:35Z",
+    "updated_at": "2026-08-27T18:43:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
-    "id": "Ntizar/MasterMind",
-    "language": "HTML",
-    "name": "Ntizar/MasterMind",
-    "stars": 2,
-    "updated_at": "2026-08-27T18:01:36Z",
-    "url": "https://github.com/Ntizar/MasterMind"
   },
   {
     "description": "Agent Skills for vibe engineering \u2014 644 evidence-grounded practitioner references as a Claude Code plugin marketplace",
@@ -275,7 +365,7 @@
     "language": "Python",
     "name": "adammatthewsteinberger/vibey-skills",
     "stars": 1,
-    "updated_at": "2026-08-27T18:14:46Z",
+    "updated_at": "2026-08-27T18:43:46Z",
     "url": "https://github.com/adammatthewsteinberger/vibey-skills"
   },
   {
@@ -301,18 +391,9 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 67807,
+    "stars": 67808,
     "updated_at": "2026-08-27T17:55:57Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Creative DNA video prompt cases and installable Skills for MiniMax H3 and Seedance 2.0, with an Electron video viewer.",
-    "id": "T8mars/minimax-h3-prompt-skill-T8",
-    "language": "JavaScript",
-    "name": "T8mars/minimax-h3-prompt-skill-T8",
-    "stars": 153,
-    "updated_at": "2026-08-27T17:55:16Z",
-    "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
   },
   {
     "description": "\u9762\u5411 Coding Agent \u5f00\u53d1\u8005\u7684\u4e2d\u6587\u5de5\u7a0b\u77e5\u8bc6\u5e93\u4e0e\u53d8\u66f4\u60c5\u62a5\u7ad9",
@@ -342,15 +423,6 @@
     "url": "https://github.com/joker01-01/cursor-plan-build-judge"
   },
   {
-    "description": "AI skills for academic paper figures: repo analysis, figure planning, colorblind palettes, JSON figure specs. Install: n",
-    "id": "Azhi-ss/academic-figure-skills",
-    "language": "Python",
-    "name": "Azhi-ss/academic-figure-skills",
-    "stars": 94,
-    "updated_at": "2026-08-27T17:43:58Z",
-    "url": "https://github.com/Azhi-ss/academic-figure-skills"
-  },
-  {
     "description": "Build high-quality software faster with AI-driven lifecycle management.",
     "id": "markhazleton/devspark",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T17:41:25Z",
     "url": "https://github.com/ChefPlex/ai-automations"
-  },
-  {
-    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
-    "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "language": "Python",
-    "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "stars": 52,
-    "updated_at": "2026-08-27T17:41:08Z",
-    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
-  },
-  {
-    "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
-    "id": "winstonkoh87/Athena-Public",
-    "language": "Python",
-    "name": "winstonkoh87/Athena-Public",
-    "stars": 583,
-    "updated_at": "2026-08-27T17:38:49Z",
-    "url": "https://github.com/winstonkoh87/Athena-Public"
-  },
-  {
-    "description": "AI Systems Engineering: A Practical Bootcamp \u2014 a 30-working-day curriculum and build tooling for moving from traditional",
-    "id": "rioffe/ai_systems_engineering_bootcamp",
-    "language": "Python",
-    "name": "rioffe/ai_systems_engineering_bootcamp",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:38:34Z",
-    "url": "https://github.com/rioffe/ai_systems_engineering_bootcamp"
-  },
-  {
-    "description": "Snippets and prompts that expand wherever you type. One library, synced across Chrome and mobile.  Stress the model, not",
-    "id": "locoprice/SprintBrain",
-    "language": "TypeScript",
-    "name": "locoprice/SprintBrain",
-    "stars": 2,
-    "updated_at": "2026-08-27T17:37:12Z",
-    "url": "https://github.com/locoprice/SprintBrain"
-  },
-  {
-    "description": "Local-first prompt regression testing and evals for LLM apps.",
-    "id": "promptry/promptry",
-    "language": "Python",
-    "name": "promptry/promptry",
-    "stars": 4,
-    "updated_at": "2026-08-27T17:36:22Z",
-    "url": "https://github.com/promptry/promptry"
-  },
-  {
-    "description": "Klu (klu.ai) is an LLM app platform for designing, deploying, evaluating, and observing prompt-driven AI applications. T",
-    "id": "api-evangelist/klu-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/klu-ai",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:35:17Z",
-    "url": "https://github.com/api-evangelist/klu-ai"
-  },
-  {
-    "description": "Hermes ComfyUI playbooks and slash-command bundles for current Hermes \u2014 Flux.2, Z-Image, LTX, Wan 3.0, MiniMax H3, isola",
-    "id": "0xzgbot/hermes-comfyui-skills",
-    "language": "\u2014",
-    "name": "0xzgbot/hermes-comfyui-skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:33:37Z",
-    "url": "https://github.com/0xzgbot/hermes-comfyui-skills"
-  },
-  {
-    "description": "Skills and prompts for the AI tools you already use. Every skill for every tool, inside the app: 5,403 skills across 102",
-    "id": "ehsanking/Skills-Ai",
-    "language": "\u2014",
-    "name": "ehsanking/Skills-Ai",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:33:18Z",
-    "url": "https://github.com/ehsanking/Skills-Ai"
   }
 ]
