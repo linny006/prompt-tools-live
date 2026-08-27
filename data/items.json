@@ -1,5 +1,104 @@
 [
   {
+    "description": "Agent skills for spec-driven delivery \u2014 one plugin for Claude Code, OpenAI Codex, and OpenCode. At the center: an agenti",
+    "id": "valzav/valcraft",
+    "language": "Python",
+    "name": "valzav/valcraft",
+    "stars": 1,
+    "updated_at": "2026-08-27T01:58:00Z",
+    "url": "https://github.com/valzav/valcraft"
+  },
+  {
+    "description": "AI Systems Engineering: A Practical Bootcamp \u2014 a 30-working-day curriculum and build tooling for moving from traditional",
+    "id": "rioffe/ai_systems_engineering_bootcamp",
+    "language": "Python",
+    "name": "rioffe/ai_systems_engineering_bootcamp",
+    "stars": 0,
+    "updated_at": "2026-08-27T01:57:16Z",
+    "url": "https://github.com/rioffe/ai_systems_engineering_bootcamp"
+  },
+  {
+    "description": "A full prompt-writing studio in a single ComfyUI node - AI editing, style targeting, prompt browsing, and wireless promp",
+    "id": "pixelpainter/comfyui-AI-prompt-editor",
+    "language": "JavaScript",
+    "name": "pixelpainter/comfyui-AI-prompt-editor",
+    "stars": 27,
+    "updated_at": "2026-08-27T01:56:40Z",
+    "url": "https://github.com/pixelpainter/comfyui-AI-prompt-editor"
+  },
+  {
+    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-08-27T01:54:18Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "Ready-to-use Grok Bot profiles with focused outcomes, explicit approval boundaries, and separate specification, implemen",
+    "id": "HAEGONG/grok-bot-profiles",
+    "language": "\u2014",
+    "name": "HAEGONG/grok-bot-profiles",
+    "stars": 2,
+    "updated_at": "2026-08-27T01:52:22Z",
+    "url": "https://github.com/HAEGONG/grok-bot-profiles"
+  },
+  {
+    "description": "\u6559 AI \u5199 NovelAI Diffusion V5 \u63d0\u793a\u8bcd\u7684\u65b9\u6cd5 skill\uff1a\u6784\u601d\uff0b\u5199\u6cd5\u4e24\u4ef6\u5957\uff0c\u57fa\u4e8e 2226 \u5f20\u5b9e\u6d4b\u56fe\u5e93 / 962 \u6761\u771f\u5b9e\u63d0\u793a\u8bcd\u3002Agent Skills \u6807\u51c6\u5c01\u88c5\u3002",
+    "id": "Miint-Sunny/nai5-prompting",
+    "language": "\u2014",
+    "name": "Miint-Sunny/nai5-prompting",
+    "stars": 9,
+    "updated_at": "2026-08-27T01:49:53Z",
+    "url": "https://github.com/Miint-Sunny/nai5-prompting"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 38287,
+    "updated_at": "2026-08-27T01:50:04Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "\u9762\u5411 Coding Agent \u5f00\u53d1\u8005\u7684\u4e2d\u6587\u5de5\u7a0b\u77e5\u8bc6\u5e93\u4e0e\u53d8\u66f4\u60c5\u62a5\u7ad9",
+    "id": "dairui1/agentlab",
+    "language": "JavaScript",
+    "name": "dairui1/agentlab",
+    "stars": 4,
+    "updated_at": "2026-08-27T01:47:22Z",
+    "url": "https://github.com/dairui1/agentlab"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 9,
+    "updated_at": "2026-08-27T01:54:55Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Deterministic read-only MCP tools and OpenClaw Skill for Seedance-oriented prompts and reference-aware video sequences.",
+    "id": "gpt-img-2/see-dance-2-prompt-mcp",
+    "language": "TypeScript",
+    "name": "gpt-img-2/see-dance-2-prompt-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-27T01:46:47Z",
+    "url": "https://github.com/gpt-img-2/see-dance-2-prompt-mcp"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T01:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
     "id": "ZeroLu/awesome-seedance",
     "language": "Shell",
@@ -7,15 +106,6 @@
     "stars": 2338,
     "updated_at": "2026-08-27T01:41:04Z",
     "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 8,
-    "updated_at": "2026-08-27T01:45:02Z",
-    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "A decision benchmark for Parahelp's open-sourced manager prompt, plus a one-word defect in its output contract that fail",
@@ -27,15 +117,6 @@
     "url": "https://github.com/lgoyal6/promptgate"
   },
   {
-    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 1,
-    "updated_at": "2026-08-27T01:39:03Z",
-    "url": "https://github.com/gthgomez/Babel"
-  },
-  {
     "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
     "id": "conorbronsdon/agent-context-os",
     "language": "Python",
@@ -45,30 +126,12 @@
     "url": "https://github.com/conorbronsdon/agent-context-os"
   },
   {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 38286,
-    "updated_at": "2026-08-27T01:36:45Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "Ready-to-use Grok Bot profiles with focused outcomes, explicit approval boundaries, and separate specification, implemen",
-    "id": "HAEGONG/grok-bot-profiles",
-    "language": "\u2014",
-    "name": "HAEGONG/grok-bot-profiles",
-    "stars": 2,
-    "updated_at": "2026-08-27T01:35:33Z",
-    "url": "https://github.com/HAEGONG/grok-bot-profiles"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 67714,
-    "updated_at": "2026-08-27T01:33:53Z",
+    "updated_at": "2026-08-27T01:46:34Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 9,
     "updated_at": "2026-08-27T01:32:51Z",
     "url": "https://github.com/zxc663/shisan-xinuo-workflow"
-  },
-  {
-    "description": "\u9762\u5411 Coding Agent \u5f00\u53d1\u8005\u7684\u4e2d\u6587\u5de5\u7a0b\u77e5\u8bc6\u5e93\u4e0e\u53d8\u66f4\u60c5\u62a5\u7ad9",
-    "id": "dairui1/agentlab",
-    "language": "JavaScript",
-    "name": "dairui1/agentlab",
-    "stars": 4,
-    "updated_at": "2026-08-27T01:32:34Z",
-    "url": "https://github.com/dairui1/agentlab"
   },
   {
     "description": "Polite scraper + LLM enrichment endpoint. FastAPI, Pydantic, versioned prompts, schema validation with repair retry, cos",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T01:31:42Z",
     "url": "https://github.com/shahabahreini/360-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T01:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
@@ -153,15 +198,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "\u6559 AI \u5199 NovelAI Diffusion V5 \u63d0\u793a\u8bcd\u7684\u65b9\u6cd5 skill\uff1a\u6784\u601d\uff0b\u5199\u6cd5\u4e24\u4ef6\u5957\uff0c\u57fa\u4e8e 2226 \u5f20\u5b9e\u6d4b\u56fe\u5e93 / 962 \u6761\u771f\u5b9e\u63d0\u793a\u8bcd\u3002Agent Skills \u6807\u51c6\u5c01\u88c5\u3002",
-    "id": "Miint-Sunny/nai5-prompting",
-    "language": "\u2014",
-    "name": "Miint-Sunny/nai5-prompting",
-    "stars": 9,
-    "updated_at": "2026-08-27T01:23:34Z",
-    "url": "https://github.com/Miint-Sunny/nai5-prompting"
-  },
-  {
     "description": "Field-tested prompting skills and playbooks for AI video generation: Google Veo 3.1, Gemini Omni Flash, ByteDance Seedan",
     "id": "raphaelbgr/ai-video-prompting",
     "language": "Python",
@@ -193,7 +229,7 @@
     "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
     "language": "Python",
     "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "stars": 27,
+    "stars": 28,
     "updated_at": "2026-08-27T01:17:55Z",
     "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
   },
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "abdou-roa/linkrowth",
     "stars": 8,
-    "updated_at": "2026-08-27T01:14:41Z",
+    "updated_at": "2026-08-27T01:47:34Z",
     "url": "https://github.com/abdou-roa/linkrowth"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T00:42:01Z",
     "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:41:35Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
-  },
-  {
-    "description": "Enhance video production workflows with AI tools, 4K export support, and professional effects for CapCut.",
-    "id": "Kentlight970/Edit-Master-Pro",
-    "language": "Python",
-    "name": "Kentlight970/Edit-Master-Pro",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:41:30Z",
-    "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
-    "id": "Ekmsi8525/agentsmith",
-    "language": "\u2014",
-    "name": "Ekmsi8525/agentsmith",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:41:18Z",
-    "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:40:31Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
   }
 ]
