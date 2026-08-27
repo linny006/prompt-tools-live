@@ -1,12 +1,30 @@
 [
   {
-    "description": "Curated AI prompts for software development - comprehensive meta-prompts for documentation, CI/CD, testing, security aud",
-    "id": "agigante80/vibe-coding-prompts",
+    "description": "Production-grade prompts for luxury editorial AI content on Higgsfield. Seedance 2.5 \u00b7 Recraft V4.1 \u00b7 FLUX.2 Pro.",
+    "id": "proalexians/higgsfield-luxury-prompts",
     "language": "\u2014",
-    "name": "agigante80/vibe-coding-prompts",
-    "stars": 8,
-    "updated_at": "2026-08-27T10:38:43Z",
-    "url": "https://github.com/agigante80/vibe-coding-prompts"
+    "name": "proalexians/higgsfield-luxury-prompts",
+    "stars": 1,
+    "updated_at": "2026-08-27T10:44:43Z",
+    "url": "https://github.com/proalexians/higgsfield-luxury-prompts"
+  },
+  {
+    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
+    "id": "thkt/dotclaude",
+    "language": "JavaScript",
+    "name": "thkt/dotclaude",
+    "stars": 11,
+    "updated_at": "2026-08-27T10:44:02Z",
+    "url": "https://github.com/thkt/dotclaude"
+  },
+  {
+    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
+    "id": "Leo-maomao/pm-copilot",
+    "language": "Python",
+    "name": "Leo-maomao/pm-copilot",
+    "stars": 4,
+    "updated_at": "2026-08-27T10:43:54Z",
+    "url": "https://github.com/Leo-maomao/pm-copilot"
   },
   {
     "description": "\u041c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u044b \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432: \u044f\u0432\u043d\u044b\u0435 \u0440\u043e\u043b\u0438, tier-\u043c\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0430\u0446\u0438\u044f, \u0442\u0440\u0438\u0430\u043d\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0440\u0435\u0432\u044c\u044e \u0438 ",
@@ -14,8 +32,44 @@
     "language": "Python",
     "name": "sergvss/agents-best-teams",
     "stars": 2,
-    "updated_at": "2026-08-27T10:38:15Z",
+    "updated_at": "2026-08-27T10:41:52Z",
     "url": "https://github.com/sergvss/agents-best-teams"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T10:40:06Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Your AI marketing team for B2B SaaS: 73 specialist agents and 19 Claude Code skills \u2014 SEO/AEO/GEO, content, paid media, ",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 6,
+    "updated_at": "2026-08-27T10:39:05Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
+    "id": "conorbronsdon/agent-context-os",
+    "language": "Python",
+    "name": "conorbronsdon/agent-context-os",
+    "stars": 15,
+    "updated_at": "2026-08-27T10:45:09Z",
+    "url": "https://github.com/conorbronsdon/agent-context-os"
+  },
+  {
+    "description": "Curated AI prompts for software development - comprehensive meta-prompts for documentation, CI/CD, testing, security aud",
+    "id": "agigante80/vibe-coding-prompts",
+    "language": "Python",
+    "name": "agigante80/vibe-coding-prompts",
+    "stars": 8,
+    "updated_at": "2026-08-27T10:38:43Z",
+    "url": "https://github.com/agigante80/vibe-coding-prompts"
   },
   {
     "description": "Anime-archetype output styles for Claude Code. Same answers, same line numbers, considerably more feelings.",
@@ -90,15 +144,6 @@
     "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T10:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
     "id": "FlorianBruniaux/claude-code-ultimate-guide",
     "language": "Python",
@@ -142,15 +187,6 @@
     "stars": 27690,
     "updated_at": "2026-08-27T10:23:24Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Production-grade prompts for luxury editorial AI content on Higgsfield. Seedance 2.5 \u00b7 Recraft V4.1 \u00b7 FLUX.2 Pro.",
-    "id": "proalexians/higgsfield-luxury-prompts",
-    "language": "\u2014",
-    "name": "proalexians/higgsfield-luxury-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-27T10:22:43Z",
-    "url": "https://github.com/proalexians/higgsfield-luxury-prompts"
   },
   {
     "description": "\ud83c\uddf9\ud83c\uddf7 500+ T\u00fcrk\u00e7e ChatGPT, Claude, Gemini promptlar\u0131 - \u0130\u015f, Kodlama, Pazarlama, E\u011fitim kategorileri. Copy-paste kullan\u0131ma ha",
@@ -279,15 +315,6 @@
     "url": "https://github.com/koco-co/build-goals"
   },
   {
-    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
-    "id": "Leo-maomao/pm-copilot",
-    "language": "Python",
-    "name": "Leo-maomao/pm-copilot",
-    "stars": 4,
-    "updated_at": "2026-08-27T10:11:39Z",
-    "url": "https://github.com/Leo-maomao/pm-copilot"
-  },
-  {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
     "id": "martinholovsky/SOTA-skills",
     "language": "Python",
@@ -364,7 +391,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 67756,
+    "stars": 67757,
     "updated_at": "2026-08-27T10:01:34Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T09:56:10Z",
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 43908,
-    "updated_at": "2026-08-27T09:55:24Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "\ud83e\udd16 A curated, specification-first library of copy-ready prompts, instruction packs, skills, and Copilot agents designed t",
-    "id": "stefaniuk/loadout",
-    "language": "Shell",
-    "name": "stefaniuk/loadout",
-    "stars": 1,
-    "updated_at": "2026-08-27T09:52:04Z",
-    "url": "https://github.com/stefaniuk/loadout"
-  },
-  {
-    "description": "Grimoire's Tome & The Grim Council. A Prompt Spellbook of /skills. The #1 Coding Wizard \ud83e\uddd9\u200d\u2642\ufe0f",
-    "id": "MindGoblinStudios/grim-tome",
-    "language": "JavaScript",
-    "name": "MindGoblinStudios/grim-tome",
-    "stars": 0,
-    "updated_at": "2026-08-27T09:51:04Z",
-    "url": "https://github.com/MindGoblinStudios/grim-tome"
   }
 ]
