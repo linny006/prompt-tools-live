@@ -1,5 +1,131 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21629,
+    "updated_at": "2026-08-27T07:12:06Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-08-27T07:12:17Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
+    "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "language": "Python",
+    "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "stars": 31,
+    "updated_at": "2026-08-27T07:10:47Z",
+    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
+  },
+  {
+    "description": "\u300a\u8ba9AI\u771f\u6b63\u843d\u5730\uff1a\u4f01\u4e1a AI \u7a33\u5b9a\u4ea7\u51fa\u624b\u518c\u300b",
+    "id": "betta-labs/ai-stable-output-handbook",
+    "language": "TypeScript",
+    "name": "betta-labs/ai-stable-output-handbook",
+    "stars": 1,
+    "updated_at": "2026-08-27T07:10:03Z",
+    "url": "https://github.com/betta-labs/ai-stable-output-handbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33787,
+    "updated_at": "2026-08-27T07:09:05Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\ude80 The complete guide to vibe coding \u2014 build software with AI through natural language prompts. Tools, frameworks, best p",
+    "id": "taskade/awesome-vibe-coding",
+    "language": "\u2014",
+    "name": "taskade/awesome-vibe-coding",
+    "stars": 111,
+    "updated_at": "2026-08-27T07:07:43Z",
+    "url": "https://github.com/taskade/awesome-vibe-coding"
+  },
+  {
+    "description": "\u2728 Free AI image prompt library \u2014 globally curated, daily updated. Full prompt text, preview images, 10 languages. Browse",
+    "id": "ai-moge/awesome-image-prompts",
+    "language": "\u2014",
+    "name": "ai-moge/awesome-image-prompts",
+    "stars": 1,
+    "updated_at": "2026-08-27T07:07:36Z",
+    "url": "https://github.com/ai-moge/awesome-image-prompts"
+  },
+  {
+    "description": "Agent skills collection | Agent \u6280\u80fd\u5408\u96c6",
+    "id": "ppdbxdawj/ai-skills",
+    "language": "Python",
+    "name": "ppdbxdawj/ai-skills",
+    "stars": 6,
+    "updated_at": "2026-08-27T07:07:00Z",
+    "url": "https://github.com/ppdbxdawj/ai-skills"
+  },
+  {
+    "description": "Grimoire's Tome & The Grim Council. A Prompt Spellbook of /skills. The #1 Coding Wizard \ud83e\uddd9\u200d\u2642\ufe0f",
+    "id": "MindGoblinStudios/grim-tome",
+    "language": "JavaScript",
+    "name": "MindGoblinStudios/grim-tome",
+    "stars": 0,
+    "updated_at": "2026-08-27T07:05:57Z",
+    "url": "https://github.com/MindGoblinStudios/grim-tome"
+  },
+  {
+    "description": "Security enforcement for AI coding agents. Catch and block insecure code.",
+    "id": "akashsebastian333/peephole",
+    "language": "Go",
+    "name": "akashsebastian333/peephole",
+    "stars": 4,
+    "updated_at": "2026-08-27T07:15:27Z",
+    "url": "https://github.com/akashsebastian333/peephole"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T07:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
+    "id": "MihirKJha/enterprise-ai-engineering-handbook",
+    "language": "HTML",
+    "name": "MihirKJha/enterprise-ai-engineering-handbook",
+    "stars": 3,
+    "updated_at": "2026-08-27T07:00:21Z",
+    "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
+  },
+  {
+    "description": "Generate project-based guidance and interview Q&A docs with STAR speaking scripts. \u57fa\u4e8e\u771f\u5b9e\u9879\u76ee\u751f\u6210\u5bfc\u5b66\u4e0e\u9762\u7ecf\uff08\u542b\u7b2c\u4e00\u4eba\u79f0 STAR \u6cd5\u5219\u53e3\u64ad\u7b54\u6848\uff09",
+    "id": "Jaxon1216/interview-analyzer-skill",
+    "language": "Shell",
+    "name": "Jaxon1216/interview-analyzer-skill",
+    "stars": 74,
+    "updated_at": "2026-08-27T06:59:34Z",
+    "url": "https://github.com/Jaxon1216/interview-analyzer-skill"
+  },
+  {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 5035,
+    "updated_at": "2026-08-27T06:59:20Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -14,17 +140,8 @@
     "language": "Go",
     "name": "AltairaLabs/PromptKit",
     "stars": 9,
-    "updated_at": "2026-08-27T06:58:06Z",
+    "updated_at": "2026-08-27T07:06:05Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
-    "description": "\ud83d\ude80 The complete guide to vibe coding \u2014 build software with AI through natural language prompts. Tools, frameworks, best p",
-    "id": "taskade/awesome-vibe-coding",
-    "language": "\u2014",
-    "name": "taskade/awesome-vibe-coding",
-    "stars": 111,
-    "updated_at": "2026-08-27T06:56:34Z",
-    "url": "https://github.com/taskade/awesome-vibe-coding"
   },
   {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
@@ -63,15 +180,6 @@
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T06:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Local-first AI coding workflow for vibe coders, indie hackers, technical founders and product managers \u2014 catch missing t",
     "id": "hi0001234d/nexpath",
     "language": "TypeScript",
@@ -103,7 +211,7 @@
     "id": "github/awesome-copilot",
     "language": "JavaScript",
     "name": "github/awesome-copilot",
-    "stars": 38293,
+    "stars": 38295,
     "updated_at": "2026-08-27T06:41:27Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -135,31 +243,13 @@
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
-    "description": "Grimoire's Tome & The Grim Council. A Prompt Spellbook of /skills. The #1 Coding Wizard \ud83e\uddd9\u200d\u2642\ufe0f",
-    "id": "MindGoblinStudios/grim-tome",
-    "language": "JavaScript",
-    "name": "MindGoblinStudios/grim-tome",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:33:11Z",
-    "url": "https://github.com/MindGoblinStudios/grim-tome"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33784,
-    "updated_at": "2026-08-27T06:29:46Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:29:29Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
+    "name": "Arize-ai/phoenix",
+    "stars": 11210,
+    "updated_at": "2026-08-27T06:32:24Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Ready-to-use Grok Bot profiles with focused outcomes, explicit approval boundaries, and separate specification, implemen",
@@ -169,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-08-27T06:25:19Z",
     "url": "https://github.com/HAEGONG/grok-bot-profiles"
-  },
-  {
-    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
-    "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "language": "Python",
-    "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "stars": 31,
-    "updated_at": "2026-08-27T06:21:52Z",
-    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
   },
   {
     "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u7384\u5b66\u7b97\u547d\u5360\u535c\u5de5\u5177\u5305\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
@@ -230,7 +311,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27688,
-    "updated_at": "2026-08-27T06:43:59Z",
+    "updated_at": "2026-08-27T07:04:21Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -286,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T06:05:56Z",
     "url": "https://github.com/alexismaya/skills-lab"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11209,
-    "updated_at": "2026-08-27T06:32:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -360,15 +432,6 @@
     "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
   },
   {
-    "description": "Security enforcement for AI coding agents. Catch and block insecure code.",
-    "id": "akashsebastian333/peephole",
-    "language": "Go",
-    "name": "akashsebastian333/peephole",
-    "stars": 4,
-    "updated_at": "2026-08-27T06:54:53Z",
-    "url": "https://github.com/akashsebastian333/peephole"
-  },
-  {
     "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
     "id": "sou350121/Agent-Playbook",
     "language": "PowerShell",
@@ -378,75 +441,12 @@
     "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
-    "description": "Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl",
-    "id": "grimoire-rs/grimoire",
-    "language": "Rust",
-    "name": "grimoire-rs/grimoire",
-    "stars": 8,
-    "updated_at": "2026-08-27T05:45:29Z",
-    "url": "https://github.com/grimoire-rs/grimoire"
-  },
-  {
-    "description": "Claude Code(\u9032\u884c\u5f79)\u3068GPT\u30fbGemini(\u8ad6\u8005)\u3092\u5b9f\u969b\u306b\u8b70\u8ad6\u3055\u305b\u308b\u30013AI\u30c1\u30fc\u30e0\u30ec\u30d3\u30e5\u30fc\u306e\u4ed5\u7d44\u307f\u4e00\u5f0f",
-    "id": "kenjihobo-bit/KANAE_Project",
-    "language": "JavaScript",
-    "name": "kenjihobo-bit/KANAE_Project",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:44:54Z",
-    "url": "https://github.com/kenjihobo-bit/KANAE_Project"
-  },
-  {
-    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
-    "id": "T-Stephen/ai-mql-engine",
-    "language": "JavaScript",
-    "name": "T-Stephen/ai-mql-engine",
-    "stars": 1,
-    "updated_at": "2026-08-27T05:41:33Z",
-    "url": "https://github.com/T-Stephen/ai-mql-engine"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 888,
-    "updated_at": "2026-08-27T05:41:03Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "\ud83c\udf4c The largest Nano Banana Pro prompt library \u2014 26,648 prompts, daily updates, HuggingFace dataset download. More than an",
-    "id": "goku-open/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-nano-banana-pro-prompts",
-    "stars": 2,
-    "updated_at": "2026-08-27T05:39:21Z",
-    "url": "https://github.com/goku-open/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 5,
-    "updated_at": "2026-08-27T05:38:48Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "\u51fa\u54c1\u30ea\u30dd\u30b8\u30c8\u30ea: Markdown \u30921\u30d5\u30a1\u30a4\u30eb\u8db3\u3059 PR \u3067 \u30de\u30ad\u30e2\u30ce \u306b\u63b2\u8f09\u3055\u308c\u307e\u3059 / Playbook listings for Makimono",
-    "id": "seisaku-team-org/makimono-listings",
-    "language": "JavaScript",
-    "name": "seisaku-team-org/makimono-listings",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:37:57Z",
-    "url": "https://github.com/seisaku-team-org/makimono-listings"
-  },
-  {
-    "description": "\u540d\u5e08\u95ee\u95ee\uff1a\u878d\u5408\u8bfe\u7a0b\u6807\u51c6\u4e0e\u540d\u5e08\u65b9\u6cd5\u8bba\u7684\u5f00\u6e90\u6559\u5b66\u8bbe\u8ba1 Skill | Open-source lesson planning agent skill",
-    "id": "liqinling1994-cloud/master-teacher",
-    "language": "JavaScript",
-    "name": "liqinling1994-cloud/master-teacher",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:39:59Z",
-    "url": "https://github.com/liqinling1994-cloud/master-teacher"
+    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
+    "id": "Zipstack/unstract",
+    "language": "Python",
+    "name": "Zipstack/unstract",
+    "stars": 7173,
+    "updated_at": "2026-08-27T05:45:42Z",
+    "url": "https://github.com/Zipstack/unstract"
   }
 ]
