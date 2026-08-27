@@ -1,12 +1,39 @@
 [
   {
-    "description": "Installable Agent Skills for Claude Code, Cursor, Codex, and skills.sh: SKILL.md packages that push AI agents toward fla",
-    "id": "shahabahreini/360-skills",
-    "language": "JavaScript",
-    "name": "shahabahreini/360-skills",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27688,
+    "updated_at": "2026-08-27T03:15:13Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
     "stars": 0,
-    "updated_at": "2026-08-27T02:56:58Z",
-    "url": "https://github.com/shahabahreini/360-skills"
+    "updated_at": "2026-08-27T03:13:01Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "A daily news briefing where every citation is checked against its source corpus. Python stdlib core; use Claude Code/Cod",
+    "id": "elanthus/news-briefing",
+    "language": "Python",
+    "name": "elanthus/news-briefing",
+    "stars": 1,
+    "updated_at": "2026-08-27T03:12:52Z",
+    "url": "https://github.com/elanthus/news-briefing"
+  },
+  {
+    "description": "Natural-language execution architecture for ChatGPT: controls what to examine, when to invoke analysis or research, and ",
+    "id": "639228/structural-reading-protocol",
+    "language": "\u2014",
+    "name": "639228/structural-reading-protocol",
+    "stars": 1,
+    "updated_at": "2026-08-27T03:12:34Z",
+    "url": "https://github.com/639228/structural-reading-protocol"
   },
   {
     "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
@@ -14,8 +41,35 @@
     "language": "Python",
     "name": "Leo-maomao/pm-copilot",
     "stars": 4,
-    "updated_at": "2026-08-27T02:58:59Z",
+    "updated_at": "2026-08-27T03:09:51Z",
     "url": "https://github.com/Leo-maomao/pm-copilot"
+  },
+  {
+    "description": "Open-standard Agent Skills for AI coding agents (Claude Code, Cursor, Codex, Copilot). Senior-level planning, expert rev",
+    "id": "shahabahreini/360-skills",
+    "language": "JavaScript",
+    "name": "shahabahreini/360-skills",
+    "stars": 0,
+    "updated_at": "2026-08-27T03:03:04Z",
+    "url": "https://github.com/shahabahreini/360-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T03:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 43850,
+    "updated_at": "2026-08-27T02:59:56Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "Pack your codebase into a single markdown file optimized for LLMs. Supercharge your AI coding sessions. Zero dependencie",
@@ -162,15 +216,6 @@
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T02:45:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Marketing, Psychological Growth Engine & Anti-Slop Content Suite",
     "id": "TidyFactor/Marketing",
     "language": "JavaScript",
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 9,
-    "updated_at": "2026-08-27T02:43:18Z",
+    "updated_at": "2026-08-27T03:06:52Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -288,15 +333,6 @@
     "url": "https://github.com/sajjadGG/retro"
   },
   {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 43850,
-    "updated_at": "2026-08-27T02:59:56Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
     "description": "\u26a1 TidyFactor Architecture Ecosystem , AI-Native Web Architecture, Design Systems & Agent Skills .",
     "id": "TidyFactor/TidyFactor",
     "language": "\u2014",
@@ -311,7 +347,7 @@
     "language": "JavaScript",
     "name": "sawzhang/sawzhang_skills",
     "stars": 2,
-    "updated_at": "2026-08-27T02:33:44Z",
+    "updated_at": "2026-08-27T03:14:47Z",
     "url": "https://github.com/sawzhang/sawzhang_skills"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T02:25:10Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, a",
-    "id": "alivirgo/Major-AI-Skills",
-    "language": "HTML",
-    "name": "alivirgo/Major-AI-Skills",
-    "stars": 1,
-    "updated_at": "2026-08-27T02:23:57Z",
-    "url": "https://github.com/alivirgo/Major-AI-Skills"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27688,
-    "updated_at": "2026-08-27T02:37:57Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 4,
-    "updated_at": "2026-08-27T02:21:01Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 136,
-    "updated_at": "2026-08-27T02:17:00Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   }
 ]
