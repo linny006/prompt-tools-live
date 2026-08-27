@@ -1,5 +1,113 @@
 [
   {
+    "description": "Comprehensive hands-on LLM evaluation project covering prompt evaluation, response metrics, RAG evaluation, automated te",
+    "id": "subin-in/LLM-Evaluation-and-Testing",
+    "language": "Python",
+    "name": "subin-in/LLM-Evaluation-and-Testing",
+    "stars": 0,
+    "updated_at": "2026-08-27T21:13:55Z",
+    "url": "https://github.com/subin-in/LLM-Evaluation-and-Testing"
+  },
+  {
+    "description": "Review-first UI/UX design intelligence for coding agents: plan, route, implement, and verify intentional product experie",
+    "id": "TranQui004/signal-ledger-skills",
+    "language": "HTML",
+    "name": "TranQui004/signal-ledger-skills",
+    "stars": 0,
+    "updated_at": "2026-08-27T21:12:17Z",
+    "url": "https://github.com/TranQui004/signal-ledger-skills"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-08-27T21:13:39Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Skills and prompts for the AI tools you already use. Every skill for every tool, inside the app: 5,403 skills across 102",
+    "id": "ehsanking/Skills-Ai",
+    "language": "\u2014",
+    "name": "ehsanking/Skills-Ai",
+    "stars": 0,
+    "updated_at": "2026-08-27T21:11:10Z",
+    "url": "https://github.com/ehsanking/Skills-Ai"
+  },
+  {
+    "description": "A daily news briefing where every citation is checked against its source corpus. Python stdlib core; use Claude Code/Cod",
+    "id": "elanthus/news-briefing",
+    "language": "Python",
+    "name": "elanthus/news-briefing",
+    "stars": 1,
+    "updated_at": "2026-08-27T21:09:23Z",
+    "url": "https://github.com/elanthus/news-briefing"
+  },
+  {
+    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
+    "id": "martialsystems/verify-before-done",
+    "language": "Python",
+    "name": "martialsystems/verify-before-done",
+    "stars": 1,
+    "updated_at": "2026-08-27T21:08:45Z",
+    "url": "https://github.com/martialsystems/verify-before-done"
+  },
+  {
+    "description": "\ud83e\udd2b Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression c",
+    "id": "V-Songbird/hush",
+    "language": "JavaScript",
+    "name": "V-Songbird/hush",
+    "stars": 43,
+    "updated_at": "2026-08-27T21:08:00Z",
+    "url": "https://github.com/V-Songbird/hush"
+  },
+  {
+    "description": "Governed AI workspace for ChatGPT, Codex, routing, validation, and automation.",
+    "id": "sergstack/AI-OS",
+    "language": "Python",
+    "name": "sergstack/AI-OS",
+    "stars": 0,
+    "updated_at": "2026-08-27T21:07:38Z",
+    "url": "https://github.com/sergstack/AI-OS"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 67814,
+    "updated_at": "2026-08-27T21:07:01Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Claude Code & Cursor token usage monitor and cost tracker for macOS & Windows. Live token/cost/burn monitoring across 8 ",
+    "id": "Terse-AI/terseai",
+    "language": "JavaScript",
+    "name": "Terse-AI/terseai",
+    "stars": 29,
+    "updated_at": "2026-08-27T21:08:43Z",
+    "url": "https://github.com/Terse-AI/terseai"
+  },
+  {
+    "description": "ByteDance Seedance 2.0 & 2.5 prompt engineering toolkit with FTS5 search over 1,500+ community prompt cards.",
+    "id": "ardha27/seedance-prompts",
+    "language": "Python",
+    "name": "ardha27/seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-08-27T21:01:06Z",
+    "url": "https://github.com/ardha27/seedance-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T21:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "PromptLayer is a prompt engineering, prompt management, and LLM observability platform. Its REST API logs and tracks LLM",
     "id": "api-evangelist/promptlayer",
     "language": "\u2014",
@@ -9,6 +117,15 @@
     "url": "https://github.com/api-evangelist/promptlayer"
   },
   {
+    "description": "Reusable prompt template files for AI coding assistants, defining task-specific instructions that can be executed from c",
+    "id": "api-evangelist/prompt-md",
+    "language": "\u2014",
+    "name": "api-evangelist/prompt-md",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:59:02Z",
+    "url": "https://github.com/api-evangelist/prompt-md"
+  },
+  {
     "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
     "id": "apoapostolov/humanizer",
     "language": "JavaScript",
@@ -16,6 +133,15 @@
     "stars": 4,
     "updated_at": "2026-08-27T20:57:51Z",
     "url": "https://github.com/apoapostolov/humanizer"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-27T20:55:52Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "ComfyUI custom node for generating structured multi-character scene prompts with spatial layout control. Designed for Id",
@@ -90,15 +216,6 @@
     "url": "https://github.com/MohammedMoataz/ai-coach"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-27T20:55:52Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr",
     "id": "ariaxhan/kernel-claude",
     "language": "JavaScript",
@@ -113,17 +230,8 @@
     "language": "\u2014",
     "name": "chengzhi-c/natural-talk",
     "stars": 28,
-    "updated_at": "2026-08-27T20:50:02Z",
+    "updated_at": "2026-08-27T21:09:33Z",
     "url": "https://github.com/chengzhi-c/natural-talk"
-  },
-  {
-    "description": "Review-first UI/UX design intelligence for coding agents: plan, route, implement, and verify intentional product experie",
-    "id": "TranQui004/signal-ledger-skills",
-    "language": "HTML",
-    "name": "TranQui004/signal-ledger-skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T20:47:57Z",
-    "url": "https://github.com/TranQui004/signal-ledger-skills"
   },
   {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
@@ -133,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T20:47:44Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T20:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Curated catalog of open, specialized AI agents for real business work \u2014 organized as broad umbrella categories (video, i",
@@ -178,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T20:39:46Z",
     "url": "https://github.com/akashpatelknit/rezlo"
-  },
-  {
-    "description": "Claude Code & Cursor token usage monitor and cost tracker for macOS & Windows. Live token/cost/burn monitoring across 8 ",
-    "id": "Terse-AI/terseai",
-    "language": "JavaScript",
-    "name": "Terse-AI/terseai",
-    "stars": 29,
-    "updated_at": "2026-08-27T20:37:31Z",
-    "url": "https://github.com/Terse-AI/terseai"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -284,17 +374,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T20:57:47Z",
+    "updated_at": "2026-08-27T21:11:14Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 67814,
-    "updated_at": "2026-08-27T20:30:51Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Klu (klu.ai) is an LLM app platform for designing, deploying, evaluating, and observing prompt-driven AI applications. T",
@@ -367,86 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-27T20:20:51Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
-    "id": "calmrocks/ai-engineer-notebooks",
-    "language": "Jupyter Notebook",
-    "name": "calmrocks/ai-engineer-notebooks",
-    "stars": 1,
-    "updated_at": "2026-08-27T20:20:33Z",
-    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-08-27T20:17:30Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-27T20:16:49Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-08-27T20:13:57Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "FlowGPT is a community platform for discovering, sharing, and chatting with AI prompts, characters, and chatbots. Backed",
-    "id": "api-evangelist/flowgpt",
-    "language": "\u2014",
-    "name": "api-evangelist/flowgpt",
-    "stars": 0,
-    "updated_at": "2026-08-27T20:11:13Z",
-    "url": "https://github.com/api-evangelist/flowgpt"
-  },
-  {
-    "description": "Curated, verified Agent Skills powered by ModelStudio.",
-    "id": "modelstudioai/skills",
-    "language": "Python",
-    "name": "modelstudioai/skills",
-    "stars": 54,
-    "updated_at": "2026-08-27T20:10:20Z",
-    "url": "https://github.com/modelstudioai/skills"
-  },
-  {
-    "description": "Agent-native reporting framework: scenario-routed report protocols, bounded context bundles, checkpointed long-task memo",
-    "id": "asimfish/super_agent_presentation",
-    "language": "Python",
-    "name": "asimfish/super_agent_presentation",
-    "stars": 1,
-    "updated_at": "2026-08-27T20:09:02Z",
-    "url": "https://github.com/asimfish/super_agent_presentation"
-  },
-  {
-    "description": "138 Hermes Agent skills for cinematic AI production \u2014 LTX, MiniMax H3, Wan 2.2/3.0 prompting control, FLUX 2, isolated H",
-    "id": "0xzgbot/hermes-media-skill-pack",
-    "language": "Python",
-    "name": "0xzgbot/hermes-media-skill-pack",
-    "stars": 0,
-    "updated_at": "2026-08-27T20:05:02Z",
-    "url": "https://github.com/0xzgbot/hermes-media-skill-pack"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6437,
-    "updated_at": "2026-08-27T20:19:13Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   }
 ]
