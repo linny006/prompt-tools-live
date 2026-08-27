@@ -1,21 +1,48 @@
 [
   {
+    "description": "LLM-powered ticket triage + TAM account health briefs for technical support teams, with a rule-based fallback, RAG over ",
+    "id": "vishalmurugan1986/support-tam-ai-copilot",
+    "language": "Python",
+    "name": "vishalmurugan1986/support-tam-ai-copilot",
+    "stars": 1,
+    "updated_at": "2026-08-27T12:15:18Z",
+    "url": "https://github.com/vishalmurugan1986/support-tam-ai-copilot"
+  },
+  {
     "description": "Anime-archetype output styles for Claude Code. Same answers, same line numbers, considerably more feelings.",
     "id": "Luscha/claude-dere",
     "language": "Shell",
     "name": "Luscha/claude-dere",
     "stars": 0,
-    "updated_at": "2026-08-27T11:58:24Z",
+    "updated_at": "2026-08-27T12:14:56Z",
     "url": "https://github.com/Luscha/claude-dere"
   },
   {
-    "description": "Governed AI workspace for ChatGPT, Codex, routing, validation, and automation.",
-    "id": "sergstack/AI-OS",
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
     "language": "Python",
-    "name": "sergstack/AI-OS",
+    "name": "hakodev2k/AI-Engineering",
     "stars": 0,
-    "updated_at": "2026-08-27T11:57:28Z",
-    "url": "https://github.com/sergstack/AI-OS"
+    "updated_at": "2026-08-27T12:14:28Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33802,
+    "updated_at": "2026-08-27T12:12:36Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A CI gate for testing AI prompts and preventing regressions.",
+    "id": "mukundzha/crilio",
+    "language": "Python",
+    "name": "mukundzha/crilio",
+    "stars": 1,
+    "updated_at": "2026-08-27T12:08:17Z",
+    "url": "https://github.com/mukundzha/crilio"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -23,8 +50,80 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T11:56:59Z",
+    "updated_at": "2026-08-27T12:09:16Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Build a personal AI agent with its own identity, judgment, memory, authority boundaries, and verified action. Runtime-ne",
+    "id": "robertaustinbell/herbert",
+    "language": "Python",
+    "name": "robertaustinbell/herbert",
+    "stars": 0,
+    "updated_at": "2026-08-27T12:05:10Z",
+    "url": "https://github.com/robertaustinbell/herbert"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4376,
+    "updated_at": "2026-08-27T12:05:01Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "Test whether your CLAUDE.md actually works. A Claude Code skill that restructures agent-facing docs (CLAUDE.md, docs/, d",
+    "id": "rupel190/claude-interaction-tests",
+    "language": "Python",
+    "name": "rupel190/claude-interaction-tests",
+    "stars": 0,
+    "updated_at": "2026-08-27T12:04:30Z",
+    "url": "https://github.com/rupel190/claude-interaction-tests"
+  },
+  {
+    "description": "AI\u8d2d\u7269\u5411\u5bfcSkill - Shopping decision skill for AI Agents",
+    "id": "StaySound4/shopaholic-skill",
+    "language": "JavaScript",
+    "name": "StaySound4/shopaholic-skill",
+    "stars": 1,
+    "updated_at": "2026-08-27T12:03:08Z",
+    "url": "https://github.com/StaySound4/shopaholic-skill"
+  },
+  {
+    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
+    "id": "conorbronsdon/agent-context-os",
+    "language": "Python",
+    "name": "conorbronsdon/agent-context-os",
+    "stars": 15,
+    "updated_at": "2026-08-27T12:00:49Z",
+    "url": "https://github.com/conorbronsdon/agent-context-os"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T12:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
+    "id": "aidyou/chatspeed",
+    "language": "Rust",
+    "name": "aidyou/chatspeed",
+    "stars": 21,
+    "updated_at": "2026-08-27T11:57:54Z",
+    "url": "https://github.com/aidyou/chatspeed"
+  },
+  {
+    "description": "Governed AI workspace for ChatGPT, Codex, routing, validation, and automation.",
+    "id": "sergstack/AI-OS",
+    "language": "Python",
+    "name": "sergstack/AI-OS",
+    "stars": 0,
+    "updated_at": "2026-08-27T12:14:38Z",
+    "url": "https://github.com/sergstack/AI-OS"
   },
   {
     "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
@@ -32,7 +131,7 @@
     "language": "JavaScript",
     "name": "thkt/dotclaude",
     "stars": 11,
-    "updated_at": "2026-08-27T11:55:09Z",
+    "updated_at": "2026-08-27T12:06:40Z",
     "url": "https://github.com/thkt/dotclaude"
   },
   {
@@ -63,22 +162,13 @@
     "url": "https://github.com/TitusKirch/skills"
   },
   {
-    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
-    "id": "conorbronsdon/agent-context-os",
+    "description": "Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recov",
+    "id": "Jia-Ethan/codex-keysmith",
     "language": "Python",
-    "name": "conorbronsdon/agent-context-os",
-    "stars": 15,
-    "updated_at": "2026-08-27T11:55:23Z",
-    "url": "https://github.com/conorbronsdon/agent-context-os"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T11:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "Jia-Ethan/codex-keysmith",
+    "stars": 4094,
+    "updated_at": "2026-08-27T11:49:34Z",
+    "url": "https://github.com/Jia-Ethan/codex-keysmith"
   },
   {
     "description": "A Codex skill for identity-preserving person and character replacement, wardrobe control, and reusable photo base librar",
@@ -88,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T11:44:28Z",
     "url": "https://github.com/thjyy/personaswap-studio"
+  },
+  {
+    "description": "8 production-ready Claude skills for Claude Code and claude.ai: six document generators and a documentation-lifecycle to",
+    "id": "StefanoZaghi1987/ClaudeSkills",
+    "language": "Python",
+    "name": "StefanoZaghi1987/ClaudeSkills",
+    "stars": 1,
+    "updated_at": "2026-08-27T11:43:04Z",
+    "url": "https://github.com/StefanoZaghi1987/ClaudeSkills"
   },
   {
     "description": "Human-led AI workflows for real B2B sales work.",
@@ -108,24 +207,6 @@
     "url": "https://github.com/fsrmqi/dsh-promptkit"
   },
   {
-    "description": "Test whether your CLAUDE.md actually works. A Claude Code skill that restructures agent-facing docs (CLAUDE.md, docs/, d",
-    "id": "rupel190/claude-interaction-tests",
-    "language": "Python",
-    "name": "rupel190/claude-interaction-tests",
-    "stars": 0,
-    "updated_at": "2026-08-27T11:39:45Z",
-    "url": "https://github.com/rupel190/claude-interaction-tests"
-  },
-  {
-    "description": "Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recov",
-    "id": "Jia-Ethan/codex-keysmith",
-    "language": "Python",
-    "name": "Jia-Ethan/codex-keysmith",
-    "stars": 4093,
-    "updated_at": "2026-08-27T11:49:34Z",
-    "url": "https://github.com/Jia-Ethan/codex-keysmith"
-  },
-  {
     "description": "Open-source design intelligence pipeline that detects generic AI interfaces and guides LLM output toward deliberate visu",
     "id": "Almotasembellahawwad/Verve",
     "language": "TypeScript",
@@ -133,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T11:37:51Z",
     "url": "https://github.com/Almotasembellahawwad/Verve"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33801,
-    "updated_at": "2026-08-27T11:59:46Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "A directory of AI tools and the skills that make them better at your work. 5,402 skills for 102 tools, fully offline, in",
@@ -167,7 +239,7 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-08-27T11:34:17Z",
+    "updated_at": "2026-08-27T12:04:55Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -212,7 +284,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21632,
-    "updated_at": "2026-08-27T11:53:09Z",
+    "updated_at": "2026-08-27T12:03:15Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -277,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T11:22:31Z",
     "url": "https://github.com/trsthales/pactx"
-  },
-  {
-    "description": "AI\u8d2d\u7269\u5411\u5bfcSkill - Shopping decision skill for AI Agents",
-    "id": "StaySound4/shopaholic-skill",
-    "language": "JavaScript",
-    "name": "StaySound4/shopaholic-skill",
-    "stars": 1,
-    "updated_at": "2026-08-27T11:21:09Z",
-    "url": "https://github.com/StaySound4/shopaholic-skill"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -378,15 +441,6 @@
     "url": "https://github.com/proalexians/higgsfield-luxury-prompts"
   },
   {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-08-27T11:13:09Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
     "description": "Hands-on Generative AI learning with Large Language Models, prompt engineering, text generation, embeddings, vector data",
     "id": "subin-in/Generative-AI-with-LLMs",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T11:11:50Z",
     "url": "https://github.com/subin-in/Generative-AI-with-LLMs"
-  },
-  {
-    "description": "\u26a1 Google Antigravity Agent Protocol & Best Practices (v3.0.21) \u2014 Production-ready Agentic AI engineering specification f",
-    "id": "Alphaxiaoteng/antigravity-agent-protocol",
-    "language": "\u2014",
-    "name": "Alphaxiaoteng/antigravity-agent-protocol",
-    "stars": 1,
-    "updated_at": "2026-08-27T11:11:41Z",
-    "url": "https://github.com/Alphaxiaoteng/antigravity-agent-protocol"
-  },
-  {
-    "description": "Public base configs for Claude Code (skills, commands, agents) -- a working ccs payload repo. Content arriving via curat",
-    "id": "DazzleML/dazzle-claude-code-config",
-    "language": "Python",
-    "name": "DazzleML/dazzle-claude-code-config",
-    "stars": 0,
-    "updated_at": "2026-08-27T11:10:40Z",
-    "url": "https://github.com/DazzleML/dazzle-claude-code-config"
-  },
-  {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 6,
-    "updated_at": "2026-08-27T11:09:29Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
-    "description": "A CI gate for testing AI prompts and preventing regressions.",
-    "id": "mukundzha/crilio",
-    "language": "Python",
-    "name": "mukundzha/crilio",
-    "stars": 1,
-    "updated_at": "2026-08-27T11:06:04Z",
-    "url": "https://github.com/mukundzha/crilio"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4375,
-    "updated_at": "2026-08-27T11:03:04Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "A local-only, human-in-the-loop copypaste agent for LLM workflows.",
-    "id": "SunYanbox/ManualAid-Rust",
-    "language": "Rust",
-    "name": "SunYanbox/ManualAid-Rust",
-    "stars": 1,
-    "updated_at": "2026-08-27T11:00:59Z",
-    "url": "https://github.com/SunYanbox/ManualAid-Rust"
   }
 ]
