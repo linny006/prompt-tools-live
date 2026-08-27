@@ -1,5 +1,167 @@
 [
   {
+    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "stars": 1,
+    "updated_at": "2026-08-27T18:59:11Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "ComfyUI custom node for generating structured multi-character scene prompts with spatial layout control. Designed for Id",
+    "id": "elliefox-ai/comfyui-scene-generator",
+    "language": "Python",
+    "name": "elliefox-ai/comfyui-scene-generator",
+    "stars": 2,
+    "updated_at": "2026-08-27T18:58:02Z",
+    "url": "https://github.com/elliefox-ai/comfyui-scene-generator"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-08-27T18:57:38Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
+    "id": "Tubifix77/red-thread",
+    "language": "Python",
+    "name": "Tubifix77/red-thread",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:56:22Z",
+    "url": "https://github.com/Tubifix77/red-thread"
+  },
+  {
+    "description": "Agent Skills for vibe engineering \u2014 644 evidence-grounded practitioner references as a Claude Code plugin marketplace",
+    "id": "adammatthewsteinberger/vibey-skills",
+    "language": "Python",
+    "name": "adammatthewsteinberger/vibey-skills",
+    "stars": 1,
+    "updated_at": "2026-08-27T18:54:18Z",
+    "url": "https://github.com/adammatthewsteinberger/vibey-skills"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33816,
+    "updated_at": "2026-08-27T18:57:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A daily news briefing where every citation is checked against its source corpus. Python stdlib core; use Claude Code/Cod",
+    "id": "elanthus/news-briefing",
+    "language": "Python",
+    "name": "elanthus/news-briefing",
+    "stars": 1,
+    "updated_at": "2026-08-27T18:59:56Z",
+    "url": "https://github.com/elanthus/news-briefing"
+  },
+  {
+    "description": "Applied AI project portfolio featuring prompt systems, research tools, privacy-first utilities, and deployable product p",
+    "id": "atomicdjt/AI-Project-Portfolio",
+    "language": "JavaScript",
+    "name": "atomicdjt/AI-Project-Portfolio",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:51:52Z",
+    "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
+  },
+  {
+    "description": "AI-assisted TPM prompts, workflows, examples, and review checks for safer program artifacts.",
+    "id": "ChefPlex/ai-automations",
+    "language": "\u2014",
+    "name": "ChefPlex/ai-automations",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:51:26Z",
+    "url": "https://github.com/ChefPlex/ai-automations"
+  },
+  {
+    "description": "Learns what you leave unsaid in your prompts and steers the DeepSeek Harness agent for you",
+    "id": "hackernotfound/dsh-tacit",
+    "language": "JavaScript",
+    "name": "hackernotfound/dsh-tacit",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:55:41Z",
+    "url": "https://github.com/hackernotfound/dsh-tacit"
+  },
+  {
+    "description": "The large-model mechanics, running on a human. A prompt skill \u2014 for ADHDs.",
+    "id": "laverta/mindharp",
+    "language": "HTML",
+    "name": "laverta/mindharp",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:50:30Z",
+    "url": "https://github.com/laverta/mindharp"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "SAIRAMANALADI/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "SAIRAMANALADI/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-08-27T18:49:54Z",
+    "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-08-27T18:49:06Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
+    "id": "thkt/dotclaude",
+    "language": "JavaScript",
+    "name": "thkt/dotclaude",
+    "stars": 11,
+    "updated_at": "2026-08-27T18:47:32Z",
+    "url": "https://github.com/thkt/dotclaude"
+  },
+  {
+    "description": "LLM Prompt Studio for image, 3D, video, and audio models",
+    "id": "doodersrage/llm-prompt-studio",
+    "language": "TypeScript",
+    "name": "doodersrage/llm-prompt-studio",
+    "stars": 1,
+    "updated_at": "2026-08-27T18:46:41Z",
+    "url": "https://github.com/doodersrage/llm-prompt-studio"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 9,
+    "updated_at": "2026-08-27T18:55:47Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T18:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:45:29Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+  },
+  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
@@ -16,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:41:36Z",
     "url": "https://github.com/TouchRefletz/maia.edu"
+  },
+  {
+    "description": "A coaching harness for Claude Code: team memory, evidence-backed prompt coaching, injection defense, onboarding docs and",
+    "id": "MohammedMoataz/ai-coach",
+    "language": "JavaScript",
+    "name": "MohammedMoataz/ai-coach",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:39:38Z",
+    "url": "https://github.com/MohammedMoataz/ai-coach"
   },
   {
     "description": "Wordware is a San Francisco AI company (YC S23, backed by Felicis and Spark Capital) that built a web-hosted IDE for bui",
@@ -36,15 +207,6 @@
     "url": "https://github.com/sergstack/AI-OS"
   },
   {
-    "description": "A coaching harness for Claude Code: team memory, evidence-backed prompt coaching, injection defense, onboarding docs and",
-    "id": "MohammedMoataz/ai-coach",
-    "language": "JavaScript",
-    "name": "MohammedMoataz/ai-coach",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:39:38Z",
-    "url": "https://github.com/MohammedMoataz/ai-coach"
-  },
-  {
     "description": "CI for LLM behaviour: run a versioned prompt against a golden dataset, diff it against a promoted baseline, and block th",
     "id": "matsumoto1f-creator/llm-regression-ci",
     "language": "Python",
@@ -52,6 +214,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:37:53Z",
     "url": "https://github.com/matsumoto1f-creator/llm-regression-ci"
+  },
+  {
+    "description": "Prompt versioning and A/B testing that refuses to declare a winner from a peeked p-value: sequential boundaries calibrat",
+    "id": "matsumoto1f-creator/prompt-experiments",
+    "language": "Python",
+    "name": "matsumoto1f-creator/prompt-experiments",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:37:51Z",
+    "url": "https://github.com/matsumoto1f-creator/prompt-experiments"
   },
   {
     "description": "The platform for LLM evaluations and AI agent testing",
@@ -81,13 +252,13 @@
     "url": "https://github.com/indrajeet877/herosmith"
   },
   {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-08-27T18:34:57Z",
-    "url": "https://github.com/rockerlabs/keel"
+    "description": "AI session handoff manager for VS Code.",
+    "id": "Pain-Labs/Edo-Tensei",
+    "language": "TypeScript",
+    "name": "Pain-Labs/Edo-Tensei",
+    "stars": 3,
+    "updated_at": "2026-08-27T18:35:33Z",
+    "url": "https://github.com/Pain-Labs/Edo-Tensei"
   },
   {
     "description": "Vellum AI is an LLM development platform that helps product and engineering teams build, evaluate, deploy, and monitor L",
@@ -122,17 +293,8 @@
     "language": "JavaScript",
     "name": "T8mars/minimax-h3-prompt-skill-T8",
     "stars": 153,
-    "updated_at": "2026-08-27T18:30:45Z",
+    "updated_at": "2026-08-27T18:51:31Z",
     "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T18:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
@@ -142,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-08-27T18:29:41Z",
     "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33815,
-    "updated_at": "2026-08-27T18:44:06Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
@@ -171,24 +324,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
-    "description": "LLM Prompt Studio for image, 3D, video, and audio models",
-    "id": "doodersrage/llm-prompt-studio",
-    "language": "TypeScript",
-    "name": "doodersrage/llm-prompt-studio",
-    "stars": 1,
-    "updated_at": "2026-08-27T18:26:23Z",
-    "url": "https://github.com/doodersrage/llm-prompt-studio"
-  },
-  {
-    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
-    "id": "Tubifix77/red-thread",
-    "language": "Python",
-    "name": "Tubifix77/red-thread",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:38:11Z",
-    "url": "https://github.com/Tubifix77/red-thread"
-  },
-  {
     "description": "Taste Labs is a San Francisco research lab and infrastructure company building \"the taste layer for AI\" \u2014 decoding subje",
     "id": "api-evangelist/taste",
     "language": "\u2014",
@@ -196,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:24:52Z",
     "url": "https://github.com/api-evangelist/taste"
-  },
-  {
-    "description": "Prompt versioning and A/B testing that refuses to declare a winner from a peeked p-value: sequential boundaries calibrat",
-    "id": "matsumoto1f-creator/prompt-experiments",
-    "language": "Python",
-    "name": "matsumoto1f-creator/prompt-experiments",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:37:51Z",
-    "url": "https://github.com/matsumoto1f-creator/prompt-experiments"
   },
   {
     "description": "Lets Claude Code manage Architecture Decision Records in your repository via the adrplus CLI, in plain language, instead",
@@ -306,15 +432,6 @@
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
-    "description": "Learns what you leave unsaid in your prompts and steers the DeepSeek Harness agent for you",
-    "id": "hackernotfound/dsh-tacit",
-    "language": "JavaScript",
-    "name": "hackernotfound/dsh-tacit",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:06:25Z",
-    "url": "https://github.com/hackernotfound/dsh-tacit"
-  },
-  {
     "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
     "id": "jamestexas/agents",
     "language": "TypeScript",
@@ -324,15 +441,6 @@
     "url": "https://github.com/jamestexas/agents"
   },
   {
-    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
-    "id": "thkt/dotclaude",
-    "language": "JavaScript",
-    "name": "thkt/dotclaude",
-    "stars": 11,
-    "updated_at": "2026-08-27T18:44:25Z",
-    "url": "https://github.com/thkt/dotclaude"
-  },
-  {
     "description": "PromptLayer is a prompt engineering, prompt management, and LLM observability platform. Its REST API logs and tracks LLM",
     "id": "api-evangelist/promptlayer",
     "language": "\u2014",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:05:04Z",
     "url": "https://github.com/api-evangelist/promptlayer"
-  },
-  {
-    "description": "Reusable prompt template files for AI coding assistants, defining task-specific instructions that can be executed from c",
-    "id": "api-evangelist/prompt-md",
-    "language": "\u2014",
-    "name": "api-evangelist/prompt-md",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:05:03Z",
-    "url": "https://github.com/api-evangelist/prompt-md"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11216,
-    "updated_at": "2026-08-27T18:43:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Agent Skills for vibe engineering \u2014 644 evidence-grounded practitioner references as a Claude Code plugin marketplace",
-    "id": "adammatthewsteinberger/vibey-skills",
-    "language": "Python",
-    "name": "adammatthewsteinberger/vibey-skills",
-    "stars": 1,
-    "updated_at": "2026-08-27T18:43:46Z",
-    "url": "https://github.com/adammatthewsteinberger/vibey-skills"
-  },
-  {
-    "description": "Arize Phoenix is an open-source AI observability and evaluation platform built on OpenTelemetry, enabling developers to ",
-    "id": "api-evangelist/phoenix",
-    "language": "\u2014",
-    "name": "api-evangelist/phoenix",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:00:55Z",
-    "url": "https://github.com/api-evangelist/phoenix"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 16,
-    "updated_at": "2026-08-27T17:56:27Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 67808,
-    "updated_at": "2026-08-27T17:55:57Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "\u9762\u5411 Coding Agent \u5f00\u53d1\u8005\u7684\u4e2d\u6587\u5de5\u7a0b\u77e5\u8bc6\u5e93\u4e0e\u53d8\u66f4\u60c5\u62a5\u7ad9",
-    "id": "dairui1/agentlab",
-    "language": "JavaScript",
-    "name": "dairui1/agentlab",
-    "stars": 4,
-    "updated_at": "2026-08-27T17:54:35Z",
-    "url": "https://github.com/dairui1/agentlab"
-  },
-  {
-    "description": "Review-first UI/UX design intelligence for coding agents: plan, route, implement, and verify intentional product experie",
-    "id": "TranQui004/signal-ledger-skills",
-    "language": "HTML",
-    "name": "TranQui004/signal-ledger-skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:52:43Z",
-    "url": "https://github.com/TranQui004/signal-ledger-skills"
-  },
-  {
-    "description": "Spec-first Planner \u2192 Builder \u2192 Judge workflow for reliable AI coding agents.",
-    "id": "joker01-01/cursor-plan-build-judge",
-    "language": "\u2014",
-    "name": "joker01-01/cursor-plan-build-judge",
-    "stars": 1,
-    "updated_at": "2026-08-27T17:44:02Z",
-    "url": "https://github.com/joker01-01/cursor-plan-build-judge"
-  },
-  {
-    "description": "Build high-quality software faster with AI-driven lifecycle management.",
-    "id": "markhazleton/devspark",
-    "language": "Python",
-    "name": "markhazleton/devspark",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:43:23Z",
-    "url": "https://github.com/markhazleton/devspark"
-  },
-  {
-    "description": "Open-source design intelligence pipeline that detects generic AI interfaces and guides LLM output toward deliberate visu",
-    "id": "Almotasembellahawwad/Verve",
-    "language": "TypeScript",
-    "name": "Almotasembellahawwad/Verve",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:43:08Z",
-    "url": "https://github.com/Almotasembellahawwad/Verve"
-  },
-  {
-    "description": "AI-assisted TPM prompts, workflows, examples, and review checks for safer program artifacts.",
-    "id": "ChefPlex/ai-automations",
-    "language": "\u2014",
-    "name": "ChefPlex/ai-automations",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:41:25Z",
-    "url": "https://github.com/ChefPlex/ai-automations"
   }
 ]
