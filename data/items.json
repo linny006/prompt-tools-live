@@ -1,12 +1,138 @@
 [
   {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:13:57Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-08-27T20:13:31Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "FlowGPT is a community platform for discovering, sharing, and chatting with AI prompts, characters, and chatbots. Backed",
+    "id": "api-evangelist/flowgpt",
+    "language": "\u2014",
+    "name": "api-evangelist/flowgpt",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:11:13Z",
+    "url": "https://github.com/api-evangelist/flowgpt"
+  },
+  {
+    "description": "Curated, verified Agent Skills powered by ModelStudio.",
+    "id": "modelstudioai/skills",
+    "language": "Python",
+    "name": "modelstudioai/skills",
+    "stars": 54,
+    "updated_at": "2026-08-27T20:10:20Z",
+    "url": "https://github.com/modelstudioai/skills"
+  },
+  {
+    "description": "Agent-native reporting framework: scenario-routed report protocols, bounded context bundles, checkpointed long-task memo",
+    "id": "asimfish/super_agent_presentation",
+    "language": "Python",
+    "name": "asimfish/super_agent_presentation",
+    "stars": 1,
+    "updated_at": "2026-08-27T20:09:02Z",
+    "url": "https://github.com/asimfish/super_agent_presentation"
+  },
+  {
+    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
+    "id": "calmrocks/ai-engineer-notebooks",
+    "language": "Jupyter Notebook",
+    "name": "calmrocks/ai-engineer-notebooks",
+    "stars": 1,
+    "updated_at": "2026-08-27T20:08:53Z",
+    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-27T20:08:52Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Post-response grounding check + cross-family adversarial review for LLM chat agents",
+    "id": "polarisbuiltinc-wq/ora-grounding",
+    "language": "Python",
+    "name": "polarisbuiltinc-wq/ora-grounding",
+    "stars": 2,
+    "updated_at": "2026-08-27T20:06:04Z",
+    "url": "https://github.com/polarisbuiltinc-wq/ora-grounding"
+  },
+  {
+    "description": "138 Hermes Agent skills for cinematic AI production \u2014 LTX, MiniMax H3, Wan 2.2/3.0 prompting control, FLUX 2, isolated H",
+    "id": "0xzgbot/hermes-media-skill-pack",
+    "language": "Python",
+    "name": "0xzgbot/hermes-media-skill-pack",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:05:02Z",
+    "url": "https://github.com/0xzgbot/hermes-media-skill-pack"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6437,
+    "updated_at": "2026-08-27T20:04:38Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Hermes ComfyUI playbooks and slash-command bundles for current Hermes \u2014 Flux.2, Z-Image, LTX, Wan 3.0, MiniMax H3, isola",
+    "id": "0xzgbot/hermes-comfyui-skills",
+    "language": "\u2014",
+    "name": "0xzgbot/hermes-comfyui-skills",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:02:16Z",
+    "url": "https://github.com/0xzgbot/hermes-comfyui-skills"
+  },
+  {
     "description": "Build a personal AI agent with its own identity, judgment, memory, authority boundaries, and verified action. Runtime-ne",
     "id": "robertaustinbell/herbert",
     "language": "Python",
     "name": "robertaustinbell/herbert",
     "stars": 0,
-    "updated_at": "2026-08-27T19:57:27Z",
+    "updated_at": "2026-08-27T20:00:53Z",
     "url": "https://github.com/robertaustinbell/herbert"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T20:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "One teacher's setup for running AI agents on curriculum QA and student feedback \u2014 plus what went wrong and what it cost.",
+    "id": "reidstephen11/agent-starter-kit",
+    "language": "\u2014",
+    "name": "reidstephen11/agent-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-08-27T19:58:58Z",
+    "url": "https://github.com/reidstephen11/agent-starter-kit"
+  },
+  {
+    "description": ".cursorrules is a project-level configuration file used by the Cursor AI code editor to define custom rules, coding conv",
+    "id": "api-evangelist/cursorrules",
+    "language": "\u2014",
+    "name": "api-evangelist/cursorrules",
+    "stars": 0,
+    "updated_at": "2026-08-27T19:56:58Z",
+    "url": "https://github.com/api-evangelist/cursorrules"
   },
   {
     "description": "Doaa (Prism Engine): an open-source, governed linguistic-algorithmic mediator for compact LLM interaction, strict result",
@@ -16,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T19:55:03Z",
     "url": "https://github.com/saifromih-glitch/doaa-prism-engine"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6437,
-    "updated_at": "2026-08-27T19:54:42Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Compresr is an LLM context-compression API. You send the long context you would otherwise pass to a model plus the query",
@@ -43,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T19:53:23Z",
     "url": "https://github.com/elliefox-ai/comfyui-scene-generator"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-27T19:52:24Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": ".clinerules is the rule-file convention used by the Cline open-source AI coding agent. Projects expose persistent guidan",
@@ -86,7 +194,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33817,
-    "updated_at": "2026-08-27T19:50:02Z",
+    "updated_at": "2026-08-27T20:15:12Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -124,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T19:45:44Z",
     "url": "https://github.com/TouchRefletz/maia.edu"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T19:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "100+ open source security agents for the agentgg scanner. Every agent is a markdown file. Found a bug class we're missin",
@@ -248,7 +347,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 9,
-    "updated_at": "2026-08-27T19:52:24Z",
+    "updated_at": "2026-08-27T20:02:52Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -342,15 +441,6 @@
     "url": "https://github.com/jposluns/cleanlanguage"
   },
   {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-08-27T19:09:58Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -358,95 +448,5 @@
     "stars": 24622,
     "updated_at": "2026-08-27T19:07:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21642,
-    "updated_at": "2026-08-27T19:04:08Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-08-27T18:59:11Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11217,
-    "updated_at": "2026-08-27T19:59:35Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
-    "id": "Tubifix77/red-thread",
-    "language": "Python",
-    "name": "Tubifix77/red-thread",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:56:22Z",
-    "url": "https://github.com/Tubifix77/red-thread"
-  },
-  {
-    "description": "Learns what you leave unsaid in your prompts and steers the DeepSeek Harness agent for you",
-    "id": "hackernotfound/dsh-tacit",
-    "language": "JavaScript",
-    "name": "hackernotfound/dsh-tacit",
-    "stars": 0,
-    "updated_at": "2026-08-27T19:02:39Z",
-    "url": "https://github.com/hackernotfound/dsh-tacit"
-  },
-  {
-    "description": "Agent Skills for vibe engineering \u2014 644 evidence-grounded practitioner references as a Claude Code plugin marketplace",
-    "id": "adammatthewsteinberger/vibey-skills",
-    "language": "Python",
-    "name": "adammatthewsteinberger/vibey-skills",
-    "stars": 1,
-    "updated_at": "2026-08-27T19:18:42Z",
-    "url": "https://github.com/adammatthewsteinberger/vibey-skills"
-  },
-  {
-    "description": "A daily news briefing where every citation is checked against its source corpus. Python stdlib core; use Claude Code/Cod",
-    "id": "elanthus/news-briefing",
-    "language": "Python",
-    "name": "elanthus/news-briefing",
-    "stars": 1,
-    "updated_at": "2026-08-27T18:59:56Z",
-    "url": "https://github.com/elanthus/news-briefing"
-  },
-  {
-    "description": "Applied AI project portfolio featuring prompt systems, research tools, privacy-first utilities, and deployable product p",
-    "id": "atomicdjt/AI-Project-Portfolio",
-    "language": "JavaScript",
-    "name": "atomicdjt/AI-Project-Portfolio",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:51:52Z",
-    "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
-  },
-  {
-    "description": "AI-assisted TPM prompts, workflows, examples, and review checks for safer program artifacts.",
-    "id": "ChefPlex/ai-automations",
-    "language": "\u2014",
-    "name": "ChefPlex/ai-automations",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:51:26Z",
-    "url": "https://github.com/ChefPlex/ai-automations"
-  },
-  {
-    "description": "The large-model mechanics, running on a human. A prompt skill \u2014 for ADHDs.",
-    "id": "laverta/mindharp",
-    "language": "HTML",
-    "name": "laverta/mindharp",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:50:30Z",
-    "url": "https://github.com/laverta/mindharp"
   }
 ]
