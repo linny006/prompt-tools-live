@@ -1,5 +1,95 @@
 [
   {
+    "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
+    "id": "winstonkoh87/Athena-Public",
+    "language": "Python",
+    "name": "winstonkoh87/Athena-Public",
+    "stars": 583,
+    "updated_at": "2026-08-27T16:14:21Z",
+    "url": "https://github.com/winstonkoh87/Athena-Public"
+  },
+  {
+    "description": "Institutional memory and governance for AI-assisted engineering. Give Claude Code your team's context, enforce your stan",
+    "id": "karibew/crewkit-cli",
+    "language": "\u2014",
+    "name": "karibew/crewkit-cli",
+    "stars": 1,
+    "updated_at": "2026-08-27T16:10:45Z",
+    "url": "https://github.com/karibew/crewkit-cli"
+  },
+  {
+    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
+    "id": "martialsystems/verify-before-done",
+    "language": "Python",
+    "name": "martialsystems/verify-before-done",
+    "stars": 1,
+    "updated_at": "2026-08-27T16:08:58Z",
+    "url": "https://github.com/martialsystems/verify-before-done"
+  },
+  {
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 6,
+    "updated_at": "2026-08-27T16:08:55Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33811,
+    "updated_at": "2026-08-27T16:12:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Production-grade prompts for luxury editorial AI content on Higgsfield. Seedance 2.5 \u00b7 Recraft V4.1 \u00b7 FLUX.2 Pro.",
+    "id": "AlexianIulian/higgsfield-luxury-prompts",
+    "language": "\u2014",
+    "name": "AlexianIulian/higgsfield-luxury-prompts",
+    "stars": 1,
+    "updated_at": "2026-08-27T16:05:10Z",
+    "url": "https://github.com/AlexianIulian/higgsfield-luxury-prompts"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5821,
+    "updated_at": "2026-08-27T16:03:47Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21633,
+    "updated_at": "2026-08-27T16:08:29Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Memory engine for self-evolving AI agent ecosystems. Multi-tenant, multi-space isolation with Bayesian truth maintenance",
+    "id": "cyqlelabs/smrti",
+    "language": "Python",
+    "name": "cyqlelabs/smrti",
+    "stars": 3,
+    "updated_at": "2026-08-27T16:02:40Z",
+    "url": "https://github.com/cyqlelabs/smrti"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T16:00:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI security testing \u2014 find security vulnerabilities in LLM apps, chatbots, AI agents, MCP servers, and RAG systems. Mapp",
     "id": "YangYang-Research/yang-promptlab",
     "language": "Rust",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "agigante80/vibe-coding-prompts",
     "stars": 8,
-    "updated_at": "2026-08-27T15:58:37Z",
+    "updated_at": "2026-08-27T16:03:27Z",
     "url": "https://github.com/agigante80/vibe-coding-prompts"
   },
   {
@@ -27,13 +117,13 @@
     "url": "https://github.com/marmbiz/humanizer-de"
   },
   {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 6,
-    "updated_at": "2026-08-27T15:59:22Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27692,
+    "updated_at": "2026-08-27T15:56:46Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "",
@@ -59,17 +149,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11213,
-    "updated_at": "2026-08-27T15:51:15Z",
+    "updated_at": "2026-08-27T16:09:07Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33810,
-    "updated_at": "2026-08-27T15:59:24Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI-Document-Intelligence-API is an AI-powered Intelligent Document Processing (IDP) backend built with FastAPI, PostgreS",
@@ -94,18 +175,9 @@
     "id": "ZeroLu/awesome-seedance",
     "language": "Shell",
     "name": "ZeroLu/awesome-seedance",
-    "stars": 2343,
+    "stars": 2344,
     "updated_at": "2026-08-27T15:46:11Z",
     "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T15:45:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
@@ -113,7 +185,7 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-08-27T15:44:28Z",
+    "updated_at": "2026-08-27T16:11:39Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 27,
     "updated_at": "2026-08-27T15:41:32Z",
     "url": "https://github.com/leeex1/Quillan-Ronin"
-  },
-  {
-    "description": "Production-grade prompts for luxury editorial AI content on Higgsfield. Seedance 2.5 \u00b7 Recraft V4.1 \u00b7 FLUX.2 Pro.",
-    "id": "AlexianIulian/higgsfield-luxury-prompts",
-    "language": "\u2014",
-    "name": "AlexianIulian/higgsfield-luxury-prompts",
-    "stars": 1,
-    "updated_at": "2026-08-27T15:40:49Z",
-    "url": "https://github.com/AlexianIulian/higgsfield-luxury-prompts"
   },
   {
     "description": "8 reusable AI prompts for a customer support workflow - portfolio sample (fictional data). Triage, replies, de-escalatio",
@@ -151,6 +214,24 @@
     "stars": 0,
     "updated_at": "2026-08-27T15:38:41Z",
     "url": "https://github.com/lucasteixeirati/personal-ai-agents"
+  },
+  {
+    "description": "From public static void main to autonomous multi-agent systems \u2014 a code-first journey through Java, Spring AI, Google AD",
+    "id": "krishkumar4400/AgenticJVM",
+    "language": "Java",
+    "name": "krishkumar4400/AgenticJVM",
+    "stars": 1,
+    "updated_at": "2026-08-27T15:38:40Z",
+    "url": "https://github.com/krishkumar4400/AgenticJVM"
+  },
+  {
+    "description": "Offizielle Begleitmaterialien zum Buch 'Content Creation mit generativer KI' von Alexander Loth und Dilyana Bossenz (mit",
+    "id": "aloth/Generative-KI-Buch-Begleitmaterialien",
+    "language": "\u2014",
+    "name": "aloth/Generative-KI-Buch-Begleitmaterialien",
+    "stars": 1,
+    "updated_at": "2026-08-27T15:38:37Z",
+    "url": "https://github.com/aloth/Generative-KI-Buch-Begleitmaterialien"
   },
   {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
@@ -212,7 +293,7 @@
     "language": "TypeScript",
     "name": "doodersrage/llm-prompt-studio",
     "stars": 1,
-    "updated_at": "2026-08-27T15:55:02Z",
+    "updated_at": "2026-08-27T16:13:29Z",
     "url": "https://github.com/doodersrage/llm-prompt-studio"
   },
   {
@@ -230,7 +311,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T15:51:23Z",
+    "updated_at": "2026-08-27T16:09:43Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -275,7 +356,7 @@
     "language": "Python",
     "name": "adammatthewsteinberger/vibey-skills",
     "stars": 1,
-    "updated_at": "2026-08-27T15:24:29Z",
+    "updated_at": "2026-08-27T16:05:33Z",
     "url": "https://github.com/adammatthewsteinberger/vibey-skills"
   },
   {
@@ -286,15 +367,6 @@
     "stars": 8,
     "updated_at": "2026-08-27T15:21:50Z",
     "url": "https://github.com/bks-lab/open-bridge"
-  },
-  {
-    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5821,
-    "updated_at": "2026-08-27T15:21:45Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
   },
   {
     "description": "HubICG Community \u2014 auditable, model-agnostic AI configuration and role governance",
@@ -338,7 +410,7 @@
     "language": "HTML",
     "name": "jposluns/cleanlanguage",
     "stars": 2,
-    "updated_at": "2026-08-27T15:57:33Z",
+    "updated_at": "2026-08-27T16:14:41Z",
     "url": "https://github.com/jposluns/cleanlanguage"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T15:19:08Z",
     "url": "https://github.com/Prosy4967/deer-workflow"
-  },
-  {
-    "description": "Generate unique compositions of smooth closed bezier curves using random colors and seed-based patterns.",
-    "id": "Bessbuggy762/Bezier-1-Generative-Art",
-    "language": "HTML",
-    "name": "Bessbuggy762/Bezier-1-Generative-Art",
-    "stars": 0,
-    "updated_at": "2026-08-27T15:19:06Z",
-    "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
-  },
-  {
-    "description": "Claude skills \u2014 reusable instruction sets for AI-assisted workflows",
-    "id": "yazkyChristianNicolas/skills",
-    "language": "Python",
-    "name": "yazkyChristianNicolas/skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T15:18:37Z",
-    "url": "https://github.com/yazkyChristianNicolas/skills"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 3,
-    "updated_at": "2026-08-27T15:14:29Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-08-27T15:14:20Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-08-27T15:14:06Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-08-27T15:13:55Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-08-27T15:13:29Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-08-27T15:13:19Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
   }
 ]
