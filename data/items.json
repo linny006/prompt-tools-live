@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI\u8d2d\u7269\u5411\u5bfcSkill - Shopping decision skill for AI Agents",
+    "id": "StaySound4/shopaholic-skill",
+    "language": "JavaScript",
+    "name": "StaySound4/shopaholic-skill",
+    "stars": 1,
+    "updated_at": "2026-08-27T19:15:19Z",
+    "url": "https://github.com/StaySound4/shopaholic-skill"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1905,
+    "updated_at": "2026-08-27T19:14:03Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "A free cross-platform editorial standard for AI writing.",
+    "id": "jposluns/cleanlanguage",
+    "language": "HTML",
+    "name": "jposluns/cleanlanguage",
+    "stars": 2,
+    "updated_at": "2026-08-27T19:11:38Z",
+    "url": "https://github.com/jposluns/cleanlanguage"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-08-27T19:09:58Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21641,
+    "updated_at": "2026-08-27T19:04:08Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T19:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
     "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
     "language": "TypeScript",
@@ -23,8 +77,17 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-08-27T18:57:38Z",
+    "updated_at": "2026-08-27T19:15:18Z",
     "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11217,
+    "updated_at": "2026-08-27T18:57:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
@@ -34,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:56:22Z",
     "url": "https://github.com/Tubifix77/red-thread"
+  },
+  {
+    "description": "Learns what you leave unsaid in your prompts and steers the DeepSeek Harness agent for you",
+    "id": "hackernotfound/dsh-tacit",
+    "language": "JavaScript",
+    "name": "hackernotfound/dsh-tacit",
+    "stars": 0,
+    "updated_at": "2026-08-27T19:02:39Z",
+    "url": "https://github.com/hackernotfound/dsh-tacit"
   },
   {
     "description": "Agent Skills for vibe engineering \u2014 644 evidence-grounded practitioner references as a Claude Code plugin marketplace",
@@ -72,6 +144,15 @@
     "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
   },
   {
+    "description": "Creative DNA video prompt cases and installable Skills for MiniMax H3 and Seedance 2.0, with an Electron video viewer.",
+    "id": "T8mars/minimax-h3-prompt-skill-T8",
+    "language": "JavaScript",
+    "name": "T8mars/minimax-h3-prompt-skill-T8",
+    "stars": 153,
+    "updated_at": "2026-08-27T18:51:31Z",
+    "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
+  },
+  {
     "description": "AI-assisted TPM prompts, workflows, examples, and review checks for safer program artifacts.",
     "id": "ChefPlex/ai-automations",
     "language": "\u2014",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:51:26Z",
     "url": "https://github.com/ChefPlex/ai-automations"
-  },
-  {
-    "description": "Learns what you leave unsaid in your prompts and steers the DeepSeek Harness agent for you",
-    "id": "hackernotfound/dsh-tacit",
-    "language": "JavaScript",
-    "name": "hackernotfound/dsh-tacit",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:55:41Z",
-    "url": "https://github.com/hackernotfound/dsh-tacit"
   },
   {
     "description": "The large-model mechanics, running on a human. A prompt skill \u2014 for ADHDs.",
@@ -122,7 +194,7 @@
     "language": "JavaScript",
     "name": "thkt/dotclaude",
     "stars": 11,
-    "updated_at": "2026-08-27T18:47:32Z",
+    "updated_at": "2026-08-27T19:00:53Z",
     "url": "https://github.com/thkt/dotclaude"
   },
   {
@@ -142,15 +214,6 @@
     "stars": 9,
     "updated_at": "2026-08-27T18:55:47Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T18:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
@@ -230,7 +293,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T18:44:09Z",
+    "updated_at": "2026-08-27T19:03:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -288,15 +351,6 @@
     "url": "https://github.com/zmice/zc-ai-coding-toolkit"
   },
   {
-    "description": "Creative DNA video prompt cases and installable Skills for MiniMax H3 and Seedance 2.0, with an Electron video viewer.",
-    "id": "T8mars/minimax-h3-prompt-skill-T8",
-    "language": "JavaScript",
-    "name": "T8mars/minimax-h3-prompt-skill-T8",
-    "stars": 153,
-    "updated_at": "2026-08-27T18:51:31Z",
-    "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
-  },
-  {
     "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
     "id": "MihirKJha/enterprise-ai-engineering-handbook",
     "language": "HTML",
@@ -342,13 +396,13 @@
     "url": "https://github.com/FRACerqueira/AdrPlus-IA-Plugin"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21640,
-    "updated_at": "2026-08-27T18:22:34Z",
-    "url": "https://github.com/comet-ml/opik"
+    "description": "Skill de Claude Code para buscar empleo con m\u00e9todo: destila el vocabulario real del mercado desde un lote de vacantes, t",
+    "id": "danilo-jarrin/searchjobs",
+    "language": "\u2014",
+    "name": "danilo-jarrin/searchjobs",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:22:45Z",
+    "url": "https://github.com/danilo-jarrin/searchjobs"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -364,7 +418,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 63681,
+    "stars": 63680,
     "updated_at": "2026-08-27T18:16:47Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -383,17 +437,8 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-27T18:14:56Z",
+    "updated_at": "2026-08-27T19:08:14Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:12:55Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
     "description": "Model-conformance layer for Claude Code: detects instruction patterns superseded by Anthropic's current model guidance a",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:12:22Z",
     "url": "https://github.com/Nyx000/claude-conformance"
-  },
-  {
-    "description": "Side-by-side A/B testing for CLAUDE.md, skills, and agents, with live transcripts and AI-judged results.",
-    "id": "slaFFik/mdredd",
-    "language": "TypeScript",
-    "name": "slaFFik/mdredd",
-    "stars": 4,
-    "updated_at": "2026-08-27T18:11:44Z",
-    "url": "https://github.com/slaFFik/mdredd"
-  },
-  {
-    "description": "Agent skills by Titus Kirch \u2014 installable via skills.sh in Claude Code, Codex, Cursor, OpenCode and friends.",
-    "id": "TitusKirch/skills",
-    "language": "TypeScript",
-    "name": "TitusKirch/skills",
-    "stars": 1,
-    "updated_at": "2026-08-27T18:08:16Z",
-    "url": "https://github.com/TitusKirch/skills"
-  },
-  {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-08-27T18:32:51Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
-    "id": "jamestexas/agents",
-    "language": "TypeScript",
-    "name": "jamestexas/agents",
-    "stars": 2,
-    "updated_at": "2026-08-27T18:06:13Z",
-    "url": "https://github.com/jamestexas/agents"
-  },
-  {
-    "description": "PromptLayer is a prompt engineering, prompt management, and LLM observability platform. Its REST API logs and tracks LLM",
-    "id": "api-evangelist/promptlayer",
-    "language": "\u2014",
-    "name": "api-evangelist/promptlayer",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:05:04Z",
-    "url": "https://github.com/api-evangelist/promptlayer"
   }
 ]
