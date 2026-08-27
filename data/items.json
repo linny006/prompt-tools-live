@@ -1,5 +1,77 @@
 [
   {
+    "description": "Natural-language execution architecture for ChatGPT: controls what to examine, when to invoke analysis or research, and ",
+    "id": "639228/structural-reading-protocol",
+    "language": "\u2014",
+    "name": "639228/structural-reading-protocol",
+    "stars": 1,
+    "updated_at": "2026-08-27T04:00:10Z",
+    "url": "https://github.com/639228/structural-reading-protocol"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11206,
+    "updated_at": "2026-08-27T03:59:03Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27688,
+    "updated_at": "2026-08-27T03:54:40Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Claude Code skills collection \u2014 CCA study guides, Twitter research, MCP review, auto-iteration tools",
+    "id": "sawzhang/sawzhang_skills",
+    "language": "JavaScript",
+    "name": "sawzhang/sawzhang_skills",
+    "stars": 2,
+    "updated_at": "2026-08-27T03:52:08Z",
+    "url": "https://github.com/sawzhang/sawzhang_skills"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 9,
+    "updated_at": "2026-08-27T03:49:02Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
+    "id": "Prysai/Prysai-LLM-Playbook",
+    "language": "Python",
+    "name": "Prysai/Prysai-LLM-Playbook",
+    "stars": 160,
+    "updated_at": "2026-08-27T03:47:55Z",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+  },
+  {
+    "description": "The open-source atlas of AI skills, agent workflows, coding prompts, and reusable instructions for building modern web a",
+    "id": "pneqnp-iswr/web-skill-atlas",
+    "language": "Python",
+    "name": "pneqnp-iswr/web-skill-atlas",
+    "stars": 1,
+    "updated_at": "2026-08-27T03:46:07Z",
+    "url": "https://github.com/pneqnp-iswr/web-skill-atlas"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T03:45:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
     "id": "calmrocks/ai-engineer-notebooks",
     "language": "Jupyter Notebook",
@@ -18,12 +90,21 @@
     "url": "https://github.com/mars-tw/ai-instruction-detox"
   },
   {
+    "description": "21 Lessons, Get Started Building with Generative AI ",
+    "id": "microsoft/generative-ai-for-beginners",
+    "language": "Jupyter Notebook",
+    "name": "microsoft/generative-ai-for-beginners",
+    "stars": 118620,
+    "updated_at": "2026-08-27T03:43:29Z",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
     "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
     "id": "thkt/dotclaude",
     "language": "JavaScript",
     "name": "thkt/dotclaude",
     "stars": 11,
-    "updated_at": "2026-08-27T03:40:49Z",
+    "updated_at": "2026-08-27T03:50:13Z",
     "url": "https://github.com/thkt/dotclaude"
   },
   {
@@ -34,15 +115,6 @@
     "stars": 15,
     "updated_at": "2026-08-27T03:40:38Z",
     "url": "https://github.com/conorbronsdon/agent-context-os"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 9,
-    "updated_at": "2026-08-27T03:43:30Z",
-    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 573 prompts for Office apps, Copilot Studio, sec",
@@ -90,31 +162,13 @@
     "url": "https://github.com/albertstayhome/repo2llm"
   },
   {
-    "description": "The open-source atlas of AI skills, agent workflows, coding prompts, and reusable instructions for building modern web a",
-    "id": "pneqnp-iswr/web-skill-atlas",
-    "language": "Python",
-    "name": "pneqnp-iswr/web-skill-atlas",
-    "stars": 1,
-    "updated_at": "2026-08-27T03:33:03Z",
-    "url": "https://github.com/pneqnp-iswr/web-skill-atlas"
-  },
-  {
     "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 43856,
+    "stars": 43857,
     "updated_at": "2026-08-27T03:32:28Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T03:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u300a\u8ba9AI\u771f\u6b63\u843d\u5730\uff1a\u4f01\u4e1a AI \u7a33\u5b9a\u4ea7\u51fa\u624b\u518c\u300b",
@@ -185,17 +239,8 @@
     "language": "Rust",
     "name": "SunYanbox/ManualAid-Rust",
     "stars": 1,
-    "updated_at": "2026-08-27T03:21:07Z",
+    "updated_at": "2026-08-27T03:45:30Z",
     "url": "https://github.com/SunYanbox/ManualAid-Rust"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27688,
-    "updated_at": "2026-08-27T03:21:26Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "luckyrjain/software-builder",
     "stars": 1,
-    "updated_at": "2026-08-27T03:17:50Z",
+    "updated_at": "2026-08-27T03:49:01Z",
     "url": "https://github.com/luckyrjain/software-builder"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T03:20:44Z",
     "url": "https://github.com/ZiYao00/story-video-director"
-  },
-  {
-    "description": "Claude Code skills collection \u2014 CCA study guides, Twitter research, MCP review, auto-iteration tools",
-    "id": "sawzhang/sawzhang_skills",
-    "language": "JavaScript",
-    "name": "sawzhang/sawzhang_skills",
-    "stars": 2,
-    "updated_at": "2026-08-27T03:14:47Z",
-    "url": "https://github.com/sawzhang/sawzhang_skills"
   },
   {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
@@ -250,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T03:12:52Z",
     "url": "https://github.com/elanthus/news-briefing"
-  },
-  {
-    "description": "Natural-language execution architecture for ChatGPT: controls what to examine, when to invoke analysis or research, and ",
-    "id": "639228/structural-reading-protocol",
-    "language": "\u2014",
-    "name": "639228/structural-reading-protocol",
-    "stars": 1,
-    "updated_at": "2026-08-27T03:12:34Z",
-    "url": "https://github.com/639228/structural-reading-protocol"
   },
   {
     "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
@@ -283,7 +310,7 @@
     "id": "DavidBui1979/prompto-ai-prompt-generator-for-chatgpt",
     "language": "\u2014",
     "name": "DavidBui1979/prompto-ai-prompt-generator-for-chatgpt",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-27T03:00:53Z",
     "url": "https://github.com/DavidBui1979/prompto-ai-prompt-generator-for-chatgpt"
   },
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-27T02:45:12Z",
     "url": "https://github.com/TidyFactor/Marketing"
-  },
-  {
-    "description": "Canonical prompt vault. Production prompts, agent patterns, eval notes. Living.",
-    "id": "DillonBowen/dillys-prompt-vault",
-    "language": "\u2014",
-    "name": "DillonBowen/dillys-prompt-vault",
-    "stars": 0,
-    "updated_at": "2026-08-27T02:43:37Z",
-    "url": "https://github.com/DillonBowen/dillys-prompt-vault"
-  },
-  {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 204,
-    "updated_at": "2026-08-27T02:42:14Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "Produce high-impact, scroll-driven product films and luxury Cinematic Landing pages.",
-    "id": "TidyFactor/Cinematic",
-    "language": "HTML",
-    "name": "TidyFactor/Cinematic",
-    "stars": 1,
-    "updated_at": "2026-08-27T02:41:17Z",
-    "url": "https://github.com/TidyFactor/Cinematic"
   }
 ]
