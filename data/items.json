@@ -1,5 +1,122 @@
 [
   {
+    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
+    "id": "calmrocks/ai-engineer-notebooks",
+    "language": "Jupyter Notebook",
+    "name": "calmrocks/ai-engineer-notebooks",
+    "stars": 1,
+    "updated_at": "2026-08-27T03:44:33Z",
+    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
+  },
+  {
+    "description": "AI \u6307\u4ee4\u6392\u6bd2\u8207\u898f\u5247\u6cbb\u7406\uff1a\u628a\u8150\u721b\u7684 AI \u8a2d\u5b9a\u6e05\u4e7e\u6de8\uff0c\u800c\u4e0d\u662f\u522a\u5149\u3002\u9069\u7528 Claude Code / Codex / Cursor \u7b49\u4ee3\u7406\u3002",
+    "id": "mars-tw/ai-instruction-detox",
+    "language": "Python",
+    "name": "mars-tw/ai-instruction-detox",
+    "stars": 0,
+    "updated_at": "2026-08-27T03:43:55Z",
+    "url": "https://github.com/mars-tw/ai-instruction-detox"
+  },
+  {
+    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
+    "id": "thkt/dotclaude",
+    "language": "JavaScript",
+    "name": "thkt/dotclaude",
+    "stars": 11,
+    "updated_at": "2026-08-27T03:40:49Z",
+    "url": "https://github.com/thkt/dotclaude"
+  },
+  {
+    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
+    "id": "conorbronsdon/agent-context-os",
+    "language": "Python",
+    "name": "conorbronsdon/agent-context-os",
+    "stars": 15,
+    "updated_at": "2026-08-27T03:40:38Z",
+    "url": "https://github.com/conorbronsdon/agent-context-os"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 9,
+    "updated_at": "2026-08-27T03:43:30Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "The definitive Microsoft 365 Copilot prompt library for business teams. 573 prompts for Office apps, Copilot Studio, sec",
+    "id": "kesslernity/awesome-microsoft-copilot-prompts",
+    "language": "\u2014",
+    "name": "kesslernity/awesome-microsoft-copilot-prompts",
+    "stars": 500,
+    "updated_at": "2026-08-27T03:39:24Z",
+    "url": "https://github.com/kesslernity/awesome-microsoft-copilot-prompts"
+  },
+  {
+    "description": "AI-powered executive quote-page design workflow for WorkBuddy - calligraphy titles x cinematic AI backgrounds, 6-candida",
+    "id": "fenglinghuaxia-lab/ppt-flair",
+    "language": "Python",
+    "name": "fenglinghuaxia-lab/ppt-flair",
+    "stars": 0,
+    "updated_at": "2026-08-27T03:39:22Z",
+    "url": "https://github.com/fenglinghuaxia-lab/ppt-flair"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6422,
+    "updated_at": "2026-08-27T03:37:00Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "MiniMax H3 \u5b98\u65b9 Skills \u7684\u53ef\u89c6\u5316\u53d1\u73b0\u4e0e\u53c2\u8003\u7ad9\u70b9 \u00b7 A visual discovery & reference index for the official MiniMax H3 Skills (independent ",
+    "id": "gordonlu/awesome-minimax-h3-skills",
+    "language": "HTML",
+    "name": "gordonlu/awesome-minimax-h3-skills",
+    "stars": 1,
+    "updated_at": "2026-08-27T03:36:00Z",
+    "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
+  },
+  {
+    "description": "Pack your codebase into a single markdown file optimized for LLMs. Supercharge your AI coding sessions. Zero dependencie",
+    "id": "albertstayhome/repo2llm",
+    "language": "JavaScript",
+    "name": "albertstayhome/repo2llm",
+    "stars": 0,
+    "updated_at": "2026-08-27T03:33:21Z",
+    "url": "https://github.com/albertstayhome/repo2llm"
+  },
+  {
+    "description": "The open-source atlas of AI skills, agent workflows, coding prompts, and reusable instructions for building modern web a",
+    "id": "pneqnp-iswr/web-skill-atlas",
+    "language": "Python",
+    "name": "pneqnp-iswr/web-skill-atlas",
+    "stars": 1,
+    "updated_at": "2026-08-27T03:33:03Z",
+    "url": "https://github.com/pneqnp-iswr/web-skill-atlas"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 43856,
+    "updated_at": "2026-08-27T03:32:28Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T03:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u300a\u8ba9AI\u771f\u6b63\u843d\u5730\uff1a\u4f01\u4e1a AI \u7a33\u5b9a\u4ea7\u51fa\u624b\u518c\u300b",
     "id": "betta-labs/ai-stable-output-handbook",
     "language": "TypeScript",
@@ -54,15 +171,6 @@
     "url": "https://github.com/imhamzakhan/context-flow-compressor"
   },
   {
-    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
-    "id": "thkt/dotclaude",
-    "language": "JavaScript",
-    "name": "thkt/dotclaude",
-    "stars": 11,
-    "updated_at": "2026-08-27T03:24:52Z",
-    "url": "https://github.com/thkt/dotclaude"
-  },
-  {
     "description": "A decision benchmark for Parahelp's open-sourced manager prompt, plus a one-word defect in its output contract that fail",
     "id": "lgoyal6/promptgate",
     "language": "Python",
@@ -90,29 +198,11 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
-    "id": "conorbronsdon/agent-context-os",
-    "language": "Python",
-    "name": "conorbronsdon/agent-context-os",
-    "stars": 15,
-    "updated_at": "2026-08-27T03:19:53Z",
-    "url": "https://github.com/conorbronsdon/agent-context-os"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 9,
-    "updated_at": "2026-08-27T03:21:26Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
     "id": "ai-boost/awesome-prompts",
     "language": "\u2014",
     "name": "ai-boost/awesome-prompts",
-    "stars": 8771,
+    "stars": 8772,
     "updated_at": "2026-08-27T03:18:45Z",
     "url": "https://github.com/ai-boost/awesome-prompts"
   },
@@ -133,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T03:20:44Z",
     "url": "https://github.com/ZiYao00/story-video-director"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T03:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Code skills collection \u2014 CCA study guides, Twitter research, MCP review, auto-iteration tools",
@@ -198,31 +279,13 @@
     "url": "https://github.com/shahabahreini/360-skills"
   },
   {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 43855,
-    "updated_at": "2026-08-27T02:59:56Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Pack your codebase into a single markdown file optimized for LLMs. Supercharge your AI coding sessions. Zero dependencie",
-    "id": "albertstayhome/repo2llm",
-    "language": "JavaScript",
-    "name": "albertstayhome/repo2llm",
+    "description": "Create structured, multi-layer prompts to get 10x better responses from ChatGPT, Claude and Gemini.",
+    "id": "DavidBui1979/prompto-ai-prompt-generator-for-chatgpt",
+    "language": "\u2014",
+    "name": "DavidBui1979/prompto-ai-prompt-generator-for-chatgpt",
     "stars": 0,
-    "updated_at": "2026-08-27T02:54:36Z",
-    "url": "https://github.com/albertstayhome/repo2llm"
-  },
-  {
-    "description": "The open-source atlas of AI skills, agent workflows, coding prompts, and reusable instructions for building modern web a",
-    "id": "pneqnp-iswr/web-skill-atlas",
-    "language": "Python",
-    "name": "pneqnp-iswr/web-skill-atlas",
-    "stars": 1,
-    "updated_at": "2026-08-27T02:54:13Z",
-    "url": "https://github.com/pneqnp-iswr/web-skill-atlas"
+    "updated_at": "2026-08-27T03:00:53Z",
+    "url": "https://github.com/DavidBui1979/prompto-ai-prompt-generator-for-chatgpt"
   },
   {
     "description": "A growing library of build prompts extracted from real AI coding tool post-mortems.",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T02:41:17Z",
     "url": "https://github.com/TidyFactor/Cinematic"
-  },
-  {
-    "description": "Local NovelAI prompt builder, V5 artist mixer, custom visual tags, and image metadata inspector.",
-    "id": "shiza2xx/nai-prompt-studio",
-    "language": "TypeScript",
-    "name": "shiza2xx/nai-prompt-studio",
-    "stars": 1,
-    "updated_at": "2026-08-27T02:44:28Z",
-    "url": "https://github.com/shiza2xx/nai-prompt-studio"
-  },
-  {
-    "description": "The Vanilla JS track of the TidyFactor skill library",
-    "id": "TidyFactor/JS",
-    "language": "JavaScript",
-    "name": "TidyFactor/JS",
-    "stars": 0,
-    "updated_at": "2026-08-27T02:40:13Z",
-    "url": "https://github.com/TidyFactor/JS"
-  },
-  {
-    "description": "Your AI marketing team for B2B SaaS: 73 specialist agents and 19 Claude Code skills \u2014 SEO/AEO/GEO, content, paid media, ",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 6,
-    "updated_at": "2026-08-27T02:39:31Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "This is a professional prompt builder for SeaArt / Stable Diffusion, specialized in NSFW content and Japanese subculture",
-    "id": "tmhtdst0508-ux/KENZEN-SeaArt-Helper",
-    "language": "Python",
-    "name": "tmhtdst0508-ux/KENZEN-SeaArt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-27T02:39:00Z",
-    "url": "https://github.com/tmhtdst0508-ux/KENZEN-SeaArt-Helper"
-  },
-  {
-    "description": "The HTMX Server-Driven Micro-Interactions track of the TidyFactor skill library",
-    "id": "TidyFactor/HTMX",
-    "language": "JavaScript",
-    "name": "TidyFactor/HTMX",
-    "stars": 0,
-    "updated_at": "2026-08-27T02:37:55Z",
-    "url": "https://github.com/TidyFactor/HTMX"
-  },
-  {
-    "description": "Retrospect your AI usage ",
-    "id": "sajjadGG/retro",
-    "language": "Python",
-    "name": "sajjadGG/retro",
-    "stars": 2,
-    "updated_at": "2026-08-27T02:35:44Z",
-    "url": "https://github.com/sajjadGG/retro"
-  },
-  {
-    "description": "\u26a1 TidyFactor Architecture Ecosystem , AI-Native Web Architecture, Design Systems & Agent Skills .",
-    "id": "TidyFactor/TidyFactor",
-    "language": "\u2014",
-    "name": "TidyFactor/TidyFactor",
-    "stars": 2,
-    "updated_at": "2026-08-27T02:35:26Z",
-    "url": "https://github.com/TidyFactor/TidyFactor"
   }
 ]
