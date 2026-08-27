@@ -1,12 +1,93 @@
 [
   {
-    "description": "An evidence-driven Codex skill for consistent live-action AI filmmaking\u2014from clean identity and spatial anchors to cinem",
-    "id": "Hughhhhcoder/cinematic-ai-director",
+    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
+    "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
     "language": "Python",
-    "name": "Hughhhhcoder/cinematic-ai-director",
+    "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "stars": 45,
+    "updated_at": "2026-08-27T14:40:38Z",
+    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
+  },
+  {
+    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
+    "id": "conorbronsdon/agent-context-os",
+    "language": "Python",
+    "name": "conorbronsdon/agent-context-os",
+    "stars": 15,
+    "updated_at": "2026-08-27T14:37:59Z",
+    "url": "https://github.com/conorbronsdon/agent-context-os"
+  },
+  {
+    "description": "Continuously refreshed public feed of AI image and video prompts from X, with original authors, source links, preview me",
+    "id": "Hanyuyu/visual-prompt-feed",
+    "language": "JavaScript",
+    "name": "Hanyuyu/visual-prompt-feed",
+    "stars": 1,
+    "updated_at": "2026-08-27T14:37:10Z",
+    "url": "https://github.com/Hanyuyu/visual-prompt-feed"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33809,
+    "updated_at": "2026-08-27T14:44:15Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "HubICG Community \u2014 auditable, model-agnostic AI configuration and role governance",
+    "id": "HUBTECH-DEV/hubicg-community",
+    "language": "Python",
+    "name": "HUBTECH-DEV/hubicg-community",
+    "stars": 2,
+    "updated_at": "2026-08-27T14:34:43Z",
+    "url": "https://github.com/HUBTECH-DEV/hubicg-community"
+  },
+  {
+    "description": "A directory of AI tools and the skills that make them better at your work. 5,402 skills for 102 tools, fully offline, in",
+    "id": "ehsanking/Skills-Ai",
+    "language": "\u2014",
+    "name": "ehsanking/Skills-Ai",
     "stars": 0,
-    "updated_at": "2026-08-27T14:27:19Z",
-    "url": "https://github.com/Hughhhhcoder/cinematic-ai-director"
+    "updated_at": "2026-08-27T14:34:21Z",
+    "url": "https://github.com/ehsanking/Skills-Ai"
+  },
+  {
+    "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
+    "id": "Tymooh/GPT-DUEL-ARENA",
+    "language": "\u2014",
+    "name": "Tymooh/GPT-DUEL-ARENA",
+    "stars": 0,
+    "updated_at": "2026-08-27T14:33:20Z",
+    "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
+  },
+  {
+    "description": "LlamaIndex implementation of the PSE (Planner\u2013Specialist\u2013Evaluator) agent pattern, orchestrated as a LlamaIndex Workflow",
+    "id": "erishen/llamaindex-pse",
+    "language": "Python",
+    "name": "erishen/llamaindex-pse",
+    "stars": 0,
+    "updated_at": "2026-08-27T14:33:03Z",
+    "url": "https://github.com/erishen/llamaindex-pse"
+  },
+  {
+    "description": "AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff0c\u8986\u76d6\u5267\u672c\u3001\u8d44\u4ea7\u3001\u5206\u955c\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u5230\u72ec\u7acb\u5ba1\u67e5\u5168\u94fe\u8def\uff0c\u9002\u914d Claude Code \u4e0e Codex\u3002| An AI short-drama skill suite for Claude Code &",
+    "id": "zenstory-ai/drama-skills",
+    "language": "Python",
+    "name": "zenstory-ai/drama-skills",
+    "stars": 1280,
+    "updated_at": "2026-08-27T14:32:48Z",
+    "url": "https://github.com/zenstory-ai/drama-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T14:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A Human-AI product development workflow from idea to production, built around artifacts, validation gates, controlled re",
@@ -18,13 +99,13 @@
     "url": "https://github.com/1335389202-create/ai-product-development-workflow"
   },
   {
-    "description": "AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff0c\u8986\u76d6\u5267\u672c\u3001\u8d44\u4ea7\u3001\u5206\u955c\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u5230\u72ec\u7acb\u5ba1\u67e5\u5168\u94fe\u8def\uff0c\u9002\u914d Claude Code \u4e0e Codex\u3002| An AI short-drama skill suite for Claude Code &",
-    "id": "zenstory-ai/drama-skills",
+    "description": "An evidence-driven Codex skill for consistent live-action AI filmmaking\u2014from clean identity and spatial anchors to cinem",
+    "id": "Hughhhhcoder/cinematic-ai-director",
     "language": "Python",
-    "name": "zenstory-ai/drama-skills",
-    "stars": 1279,
-    "updated_at": "2026-08-27T14:29:56Z",
-    "url": "https://github.com/zenstory-ai/drama-skills"
+    "name": "Hughhhhcoder/cinematic-ai-director",
+    "stars": 0,
+    "updated_at": "2026-08-27T14:34:22Z",
+    "url": "https://github.com/Hughhhhcoder/cinematic-ai-director"
   },
   {
     "description": "AI-assisted UX requirements and design workflow that transforms user problems into structured UX briefs and Figma-ready ",
@@ -34,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T14:25:51Z",
     "url": "https://github.com/aimkhankhan2-source/ai-ux-requirements-assistant"
+  },
+  {
+    "description": "Five generations of a decision-driven frontend design Skill, with the rendered HTML evidence preserved.",
+    "id": "WangHexinyi/taste-lab",
+    "language": "Markdown",
+    "name": "WangHexinyi/taste-lab",
+    "stars": 1,
+    "updated_at": "2026-08-27T14:25:16Z",
+    "url": "https://github.com/WangHexinyi/taste-lab"
   },
   {
     "description": "AI security testing \u2014 find security vulnerabilities in LLM apps, chatbots, AI agents, MCP servers, and RAG systems. Mapp",
@@ -54,6 +144,24 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
+    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
+    "id": "imhamzakhan/context-flow-compressor",
+    "language": "HTML",
+    "name": "imhamzakhan/context-flow-compressor",
+    "stars": 0,
+    "updated_at": "2026-08-27T14:20:43Z",
+    "url": "https://github.com/imhamzakhan/context-flow-compressor"
+  },
+  {
+    "description": "AI Paper Reviewer: LLM-based tool for academic paper review",
+    "id": "FanBroWell/AI-paper-reviewer",
+    "language": "Python",
+    "name": "FanBroWell/AI-paper-reviewer",
+    "stars": 34,
+    "updated_at": "2026-08-27T14:18:58Z",
+    "url": "https://github.com/FanBroWell/AI-paper-reviewer"
+  },
+  {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
     "id": "IBM/mcp-context-forge",
     "language": "Python",
@@ -72,31 +180,22 @@
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
-    "description": "A directory of AI tools and the skills that make them better at your work. 5,402 skills for 102 tools, fully offline, in",
-    "id": "ehsanking/Skills-Ai",
+    "description": "Natural-language execution architecture for ChatGPT: controls what to examine, when to invoke analysis or research, and ",
+    "id": "639228/structural-reading-protocol",
     "language": "\u2014",
-    "name": "ehsanking/Skills-Ai",
-    "stars": 0,
-    "updated_at": "2026-08-27T14:16:28Z",
-    "url": "https://github.com/ehsanking/Skills-Ai"
-  },
-  {
-    "description": "Five generations of a decision-driven frontend design Skill, with the rendered HTML evidence preserved.",
-    "id": "WangHexinyi/taste-lab",
-    "language": "Markdown",
-    "name": "WangHexinyi/taste-lab",
+    "name": "639228/structural-reading-protocol",
     "stars": 1,
-    "updated_at": "2026-08-27T14:25:16Z",
-    "url": "https://github.com/WangHexinyi/taste-lab"
+    "updated_at": "2026-08-27T14:36:15Z",
+    "url": "https://github.com/639228/structural-reading-protocol"
   },
   {
-    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
-    "id": "conorbronsdon/agent-context-os",
+    "description": "\u628a\u9898\u76ee\u4e22\u7ed9 AI\uff0c\u8ba9\u5b83\u7528\u5927\u767d\u8bdd\u3001\u751f\u6d3b\u4f8b\u5b50\u548c\u201c\u4e3a\u4ec0\u4e48\u201d\uff0c\u4e00\u76f4\u8bb2\u5230\u4f60\u61c2 | Simple & sustainable AI learning prompts",
+    "id": "FanBroWell/simple-learning-prompts",
     "language": "Python",
-    "name": "conorbronsdon/agent-context-os",
-    "stars": 15,
-    "updated_at": "2026-08-27T14:16:03Z",
-    "url": "https://github.com/conorbronsdon/agent-context-os"
+    "name": "FanBroWell/simple-learning-prompts",
+    "stars": 1,
+    "updated_at": "2026-08-27T14:16:24Z",
+    "url": "https://github.com/FanBroWell/simple-learning-prompts"
   },
   {
     "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
@@ -115,24 +214,6 @@
     "stars": 8,
     "updated_at": "2026-08-27T14:15:50Z",
     "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T14:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33808,
-    "updated_at": "2026-08-27T14:30:00Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
@@ -166,18 +247,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21633,
-    "updated_at": "2026-08-27T14:10:53Z",
+    "stars": 21634,
+    "updated_at": "2026-08-27T14:38:29Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Natural-language execution architecture for ChatGPT: controls what to examine, when to invoke analysis or research, and ",
-    "id": "639228/structural-reading-protocol",
-    "language": "\u2014",
-    "name": "639228/structural-reading-protocol",
-    "stars": 1,
-    "updated_at": "2026-08-27T14:17:24Z",
-    "url": "https://github.com/639228/structural-reading-protocol"
   },
   {
     "description": "C# SDK for the Vellum AI API -- prompt engineering, evaluation, deployment, and workflow orchestration",
@@ -203,7 +275,7 @@
     "language": "JavaScript",
     "name": "thkt/dotclaude",
     "stars": 11,
-    "updated_at": "2026-08-27T14:23:28Z",
+    "updated_at": "2026-08-27T14:41:06Z",
     "url": "https://github.com/thkt/dotclaude"
   },
   {
@@ -220,7 +292,7 @@
     "id": "Kiln-AI/Kiln",
     "language": "Python",
     "name": "Kiln-AI/Kiln",
-    "stars": 5036,
+    "stars": 5037,
     "updated_at": "2026-08-27T14:00:46Z",
     "url": "https://github.com/Kiln-AI/Kiln"
   },
@@ -238,7 +310,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 101352,
+    "stars": 101355,
     "updated_at": "2026-08-27T13:59:59Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -275,7 +347,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6434,
-    "updated_at": "2026-08-27T13:54:16Z",
+    "updated_at": "2026-08-27T14:39:04Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -315,21 +387,12 @@
     "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
   },
   {
-    "description": "HubICG Community \u2014 auditable, model-agnostic AI configuration and role governance",
-    "id": "HUBTECH-DEV/hubicg-community",
-    "language": "Python",
-    "name": "HUBTECH-DEV/hubicg-community",
-    "stars": 2,
-    "updated_at": "2026-08-27T14:11:10Z",
-    "url": "https://github.com/HUBTECH-DEV/hubicg-community"
-  },
-  {
     "description": "A free cross-platform editorial standard for AI writing.",
     "id": "jposluns/cleanlanguage",
     "language": "HTML",
     "name": "jposluns/cleanlanguage",
     "stars": 2,
-    "updated_at": "2026-08-27T13:50:39Z",
+    "updated_at": "2026-08-27T14:41:20Z",
     "url": "https://github.com/jposluns/cleanlanguage"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-27T13:42:17Z",
     "url": "https://github.com/dairui1/agentlab"
-  },
-  {
-    "description": "AgentSpecGuard \u2014 Requirement & Scope GuaPreflight guardrail for Claude Code, Codex & OpenCode \u2014 clarifies vague requirem",
-    "id": "MoELuaNMaT/AgentSpecGuard",
-    "language": "\u2014",
-    "name": "MoELuaNMaT/AgentSpecGuard",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:41:52Z",
-    "url": "https://github.com/MoELuaNMaT/AgentSpecGuard"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-27T13:41:44Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "A small, self-hosted pipeline that pulls a set of RSS feeds and filters them for \"good news\" using a local LLM",
-    "id": "alexvervloet/good-news-briefing",
-    "language": "Python",
-    "name": "alexvervloet/good-news-briefing",
-    "stars": 1,
-    "updated_at": "2026-08-27T13:40:22Z",
-    "url": "https://github.com/alexvervloet/good-news-briefing"
-  },
-  {
-    "description": "Shared AI infrastructure for WordPress: provider credentials, live models, prompts, normalised requests and usage record",
-    "id": "OpaceDigitalAgency/opace-ai-prompt-library-api-hub-wordpress-plugin",
-    "language": "PHP",
-    "name": "OpaceDigitalAgency/opace-ai-prompt-library-api-hub-wordpress-plugin",
-    "stars": 1,
-    "updated_at": "2026-08-27T13:38:42Z",
-    "url": "https://github.com/OpaceDigitalAgency/opace-ai-prompt-library-api-hub-wordpress-plugin"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-27T13:38:16Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "\ud83c\udfa8 Curated Seedream 5.0 Pro prompts with previews \u2014 auto-generated README, EN/\u4e2d\u6587",
-    "id": "velokey-ai/awesome-seedream-5.0-pro-prompts",
-    "language": "Python",
-    "name": "velokey-ai/awesome-seedream-5.0-pro-prompts",
-    "stars": 2,
-    "updated_at": "2026-08-27T13:37:59Z",
-    "url": "https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-27T13:36:19Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
   }
 ]
