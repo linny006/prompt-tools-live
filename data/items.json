@@ -1,12 +1,93 @@
 [
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21629,
-    "updated_at": "2026-08-27T07:12:06Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "headroomlabs-ai/headroom",
+    "stars": 67741,
+    "updated_at": "2026-08-27T07:29:56Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
+    "id": "aidyou/chatspeed",
+    "language": "Rust",
+    "name": "aidyou/chatspeed",
+    "stars": 21,
+    "updated_at": "2026-08-27T07:26:27Z",
+    "url": "https://github.com/aidyou/chatspeed"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33787,
+    "updated_at": "2026-08-27T07:23:48Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Evidence-grounded interview analysis skill for Claude \u2014 verbatim-checked quotes, reliability council, cross-interview in",
+    "id": "Socialpranker/interview-mapper",
+    "language": "Python",
+    "name": "Socialpranker/interview-mapper",
+    "stars": 0,
+    "updated_at": "2026-08-27T07:23:34Z",
+    "url": "https://github.com/Socialpranker/interview-mapper"
+  },
+  {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 5035,
+    "updated_at": "2026-08-27T07:20:16Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
+  },
+  {
+    "description": "A simple CI gate for testing AI prompts and preventing regressions.",
+    "id": "mukundzha/crilio",
+    "language": "Python",
+    "name": "mukundzha/crilio",
+    "stars": 1,
+    "updated_at": "2026-08-27T07:18:46Z",
+    "url": "https://github.com/mukundzha/crilio"
+  },
+  {
+    "description": "Agent Skills for vibe engineering \u2014 644 evidence-grounded practitioner references as a Claude Code plugin marketplace",
+    "id": "adammatthewsteinberger/vibey-skills",
+    "language": "Python",
+    "name": "adammatthewsteinberger/vibey-skills",
+    "stars": 1,
+    "updated_at": "2026-08-27T07:18:33Z",
+    "url": "https://github.com/adammatthewsteinberger/vibey-skills"
+  },
+  {
+    "description": "Metis is a coding agent that boosts coding performance by 50%",
+    "id": "Wholiver/metis",
+    "language": "TypeScript",
+    "name": "Wholiver/metis",
+    "stars": 51,
+    "updated_at": "2026-08-27T07:18:11Z",
+    "url": "https://github.com/Wholiver/metis"
+  },
+  {
+    "description": "Security enforcement for AI coding agents. Catch and block insecure code.",
+    "id": "akashsebastian333/peephole",
+    "language": "Go",
+    "name": "akashsebastian333/peephole",
+    "stars": 4,
+    "updated_at": "2026-08-27T07:18:23Z",
+    "url": "https://github.com/akashsebastian333/peephole"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T07:15:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
@@ -16,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T07:12:17Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21629,
+    "updated_at": "2026-08-27T07:22:08Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
@@ -34,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T07:10:03Z",
     "url": "https://github.com/betta-labs/ai-stable-output-handbook"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33787,
-    "updated_at": "2026-08-27T07:09:05Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83d\ude80 The complete guide to vibe coding \u2014 build software with AI through natural language prompts. Tools, frameworks, best p",
@@ -81,24 +162,6 @@
     "url": "https://github.com/MindGoblinStudios/grim-tome"
   },
   {
-    "description": "Security enforcement for AI coding agents. Catch and block insecure code.",
-    "id": "akashsebastian333/peephole",
-    "language": "Go",
-    "name": "akashsebastian333/peephole",
-    "stars": 4,
-    "updated_at": "2026-08-27T07:15:27Z",
-    "url": "https://github.com/akashsebastian333/peephole"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T07:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
     "id": "MihirKJha/enterprise-ai-engineering-handbook",
     "language": "HTML",
@@ -115,15 +178,6 @@
     "stars": 74,
     "updated_at": "2026-08-27T06:59:34Z",
     "url": "https://github.com/Jaxon1216/interview-analyzer-skill"
-  },
-  {
-    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
-    "id": "Kiln-AI/Kiln",
-    "language": "Python",
-    "name": "Kiln-AI/Kiln",
-    "stars": 5035,
-    "updated_at": "2026-08-27T06:59:20Z",
-    "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6422,
-    "updated_at": "2026-08-27T06:47:06Z",
+    "updated_at": "2026-08-27T07:27:28Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 42,
     "updated_at": "2026-08-27T06:43:19Z",
     "url": "https://github.com/hi0001234d/nexpath"
-  },
-  {
-    "description": "Metis is a coding agent that boosts coding performance by 50%",
-    "id": "Wholiver/metis",
-    "language": "TypeScript",
-    "name": "Wholiver/metis",
-    "stars": 51,
-    "updated_at": "2026-08-27T06:42:59Z",
-    "url": "https://github.com/Wholiver/metis"
   },
   {
     "description": "Progressive engineering-governance Skill for AI coding agents \u2014 11-step gated workflow, 43 rules, 203 pitfall details, t",
@@ -211,7 +256,7 @@
     "id": "github/awesome-copilot",
     "language": "JavaScript",
     "name": "github/awesome-copilot",
-    "stars": 38295,
+    "stars": 38294,
     "updated_at": "2026-08-27T06:41:27Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11210,
-    "updated_at": "2026-08-27T06:32:24Z",
+    "updated_at": "2026-08-27T07:17:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27688,
-    "updated_at": "2026-08-27T07:04:21Z",
+    "updated_at": "2026-08-27T07:29:11Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 13287,
     "updated_at": "2026-08-27T06:02:04Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-08-27T06:01:50Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "The open-source atlas of AI skills, agent workflows, coding prompts, and reusable instructions for building modern web a",
-    "id": "pneqnp-iswr/web-skill-atlas",
-    "language": "Python",
-    "name": "pneqnp-iswr/web-skill-atlas",
-    "stars": 1,
-    "updated_at": "2026-08-27T05:59:42Z",
-    "url": "https://github.com/pneqnp-iswr/web-skill-atlas"
-  },
-  {
-    "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering ",
-    "id": "ZeroLu/awesome-nanobanana-pro",
-    "language": "\u2014",
-    "name": "ZeroLu/awesome-nanobanana-pro",
-    "stars": 10259,
-    "updated_at": "2026-08-27T05:56:51Z",
-    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
-  },
-  {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 13,
-    "updated_at": "2026-08-27T05:49:32Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 7173,
-    "updated_at": "2026-08-27T05:45:42Z",
-    "url": "https://github.com/Zipstack/unstract"
   }
 ]
