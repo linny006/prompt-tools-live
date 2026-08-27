@@ -1,5 +1,104 @@
 [
   {
+    "description": "Grimoire's Tome & The Grim Council. A Prompt Spellbook of /skills. The #1 Coding Wizard \ud83e\uddd9\u200d\u2642\ufe0f",
+    "id": "MindGoblinStudios/grim-tome",
+    "language": "JavaScript",
+    "name": "MindGoblinStudios/grim-tome",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:00:03Z",
+    "url": "https://github.com/MindGoblinStudios/grim-tome"
+  },
+  {
+    "description": "The open-source atlas of AI skills, agent workflows, coding prompts, and reusable instructions for building modern web a",
+    "id": "pneqnp-iswr/web-skill-atlas",
+    "language": "Python",
+    "name": "pneqnp-iswr/web-skill-atlas",
+    "stars": 1,
+    "updated_at": "2026-08-27T05:59:42Z",
+    "url": "https://github.com/pneqnp-iswr/web-skill-atlas"
+  },
+  {
+    "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering ",
+    "id": "ZeroLu/awesome-nanobanana-pro",
+    "language": "\u2014",
+    "name": "ZeroLu/awesome-nanobanana-pro",
+    "stars": 10259,
+    "updated_at": "2026-08-27T05:56:51Z",
+    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6422,
+    "updated_at": "2026-08-27T05:55:08Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Japanese writing-style skills for Claude Code (tech writing / pacing / fiction)",
+    "id": "MetamoL/ai-writing-skills-jp",
+    "language": "PowerShell",
+    "name": "MetamoL/ai-writing-skills-jp",
+    "stars": 0,
+    "updated_at": "2026-08-27T05:55:02Z",
+    "url": "https://github.com/MetamoL/ai-writing-skills-jp"
+  },
+  {
+    "description": "Security enforcement for AI coding agents. Catch and block insecure code.",
+    "id": "akashsebastian333/peephole",
+    "language": "Go",
+    "name": "akashsebastian333/peephole",
+    "stars": 4,
+    "updated_at": "2026-08-27T05:54:45Z",
+    "url": "https://github.com/akashsebastian333/peephole"
+  },
+  {
+    "description": "Governed AI workspace for ChatGPT, Codex, routing, validation, and automation.",
+    "id": "sergstack/AI-OS",
+    "language": "Python",
+    "name": "sergstack/AI-OS",
+    "stars": 0,
+    "updated_at": "2026-08-27T05:53:19Z",
+    "url": "https://github.com/sergstack/AI-OS"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 38292,
+    "updated_at": "2026-08-27T05:51:01Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-08-27T05:49:32Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T05:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl",
+    "id": "grimoire-rs/grimoire",
+    "language": "Rust",
+    "name": "grimoire-rs/grimoire",
+    "stars": 8,
+    "updated_at": "2026-08-27T05:45:29Z",
+    "url": "https://github.com/grimoire-rs/grimoire"
+  },
+  {
     "description": "Claude Code(\u9032\u884c\u5f79)\u3068GPT\u30fbGemini(\u8ad6\u8005)\u3092\u5b9f\u969b\u306b\u8b70\u8ad6\u3055\u305b\u308b\u30013AI\u30c1\u30fc\u30e0\u30ec\u30d3\u30e5\u30fc\u306e\u4ed5\u7d44\u307f\u4e00\u5f0f",
     "id": "kenjihobo-bit/KANAE_Project",
     "language": "JavaScript",
@@ -50,7 +149,7 @@
     "language": "Shell",
     "name": "zxc663/shisan-xinuo-workflow",
     "stars": 9,
-    "updated_at": "2026-08-27T05:40:34Z",
+    "updated_at": "2026-08-27T05:52:06Z",
     "url": "https://github.com/zxc663/shisan-xinuo-workflow"
   },
   {
@@ -112,7 +211,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 9512,
+    "stars": 9513,
     "updated_at": "2026-08-27T05:36:17Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -144,31 +243,13 @@
     "url": "https://github.com/DSeaStar/awesome-kling"
   },
   {
-    "description": "Grimoire's Tome & The Grim Council. A Prompt Spellbook of /skills. The #1 Coding Wizard \ud83e\uddd9\u200d\u2642\ufe0f",
-    "id": "MindGoblinStudios/grim-tome",
-    "language": "JavaScript",
-    "name": "MindGoblinStudios/grim-tome",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:32:48Z",
-    "url": "https://github.com/MindGoblinStudios/grim-tome"
-  },
-  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33782,
+    "stars": 33783,
     "updated_at": "2026-08-27T05:31:50Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T05:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
@@ -202,7 +283,7 @@
     "id": "Prysai/Prysai-LLM-Playbook",
     "language": "Python",
     "name": "Prysai/Prysai-LLM-Playbook",
-    "stars": 162,
+    "stars": 163,
     "updated_at": "2026-08-27T05:24:23Z",
     "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
   },
@@ -256,7 +337,7 @@
     "id": "MOON-0805/ai-agent-practice-demo",
     "language": "JavaScript",
     "name": "MOON-0805/ai-agent-practice-demo",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-27T05:11:39Z",
     "url": "https://github.com/MOON-0805/ai-agent-practice-demo"
   },
@@ -274,8 +355,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11208,
-    "updated_at": "2026-08-27T05:10:12Z",
+    "stars": 11209,
+    "updated_at": "2026-08-27T05:48:25Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -295,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T05:05:23Z",
     "url": "https://github.com/luxueliu/luxueliu-agent-discipline-skills"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 38291,
-    "updated_at": "2026-08-27T04:59:14Z",
-    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
@@ -346,7 +418,7 @@
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 168019,
+    "stars": 168020,
     "updated_at": "2026-08-27T04:53:07Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -369,15 +441,6 @@
     "url": "https://github.com/Open-Less/openless"
   },
   {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6422,
-    "updated_at": "2026-08-27T04:49:57Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
     "description": "Natural-language execution architecture for ChatGPT: controls what to examine, when to invoke analysis or research, and ",
     "id": "639228/structural-reading-protocol",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T04:48:11Z",
     "url": "https://github.com/639228/structural-reading-protocol"
-  },
-  {
-    "description": "A plain-text prompt for LLMs that teaches the essence of elegant coding and testing\u2014save it to ~/.claude/CLAUDE.md.",
-    "id": "yegor256/prompt",
-    "language": "\u2014",
-    "name": "yegor256/prompt",
-    "stars": 158,
-    "updated_at": "2026-08-27T04:49:06Z",
-    "url": "https://github.com/yegor256/prompt"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-27T04:46:37Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "\u4e2d\u6587 9 \u6bb5\u5f0f\u4eba\u50cf\u63d0\u793a\u8bcd\u521b\u4f5c\u4f53\u7cfb \u00b7 \u53ef\u76f4\u63a5\u51fa\u56fe\u7684\u6a21\u677f/\u98ce\u683c\u9884\u8bbe/\u5343\u6761\u7ea7\u6279\u91cf\u751f\u6210\u5668 \u00b7 \u8986\u76d6\u5168\u8eab\u7167\u4e0e\u4e0a\u534a\u8eab\u4e2d\u666f\u7167 \u00b7 \u9002\u914d ComfyUI/Krea2/GPT Image 2 \u00b7 \u65e0\u5f3a\u5236\u7ea6\u675f\uff0c\u521b\u4f5c\u81ea\u7531",
-    "id": "chengyansen-ai/cys-portrait-prompts",
-    "language": "Python",
-    "name": "chengyansen-ai/cys-portrait-prompts",
-    "stars": 17,
-    "updated_at": "2026-08-27T04:42:55Z",
-    "url": "https://github.com/chengyansen-ai/cys-portrait-prompts"
-  },
-  {
-    "description": "Build high-quality software faster with AI-driven lifecycle management.",
-    "id": "markhazleton/devspark",
-    "language": "Python",
-    "name": "markhazleton/devspark",
-    "stars": 0,
-    "updated_at": "2026-08-27T04:42:39Z",
-    "url": "https://github.com/markhazleton/devspark"
-  },
-  {
-    "description": "\ud83c\udfdb\ufe0f A structured 6-week daily study plan for Anthropic's Claude Certified Architect \u2013 Professional exam \u2014 domain guides, ",
-    "id": "gsaini/claude-certified-architect-prep",
-    "language": "\u2014",
-    "name": "gsaini/claude-certified-architect-prep",
-    "stars": 0,
-    "updated_at": "2026-08-27T04:41:54Z",
-    "url": "https://github.com/gsaini/claude-certified-architect-prep"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-27T04:34:22Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
-    "id": "conorbronsdon/agent-context-os",
-    "language": "Python",
-    "name": "conorbronsdon/agent-context-os",
-    "stars": 15,
-    "updated_at": "2026-08-27T04:34:06Z",
-    "url": "https://github.com/conorbronsdon/agent-context-os"
   }
 ]
