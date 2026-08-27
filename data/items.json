@@ -1,12 +1,138 @@
 [
   {
+    "description": "PromptLayer is a prompt engineering, prompt management, and LLM observability platform. Its REST API logs and tracks LLM",
+    "id": "api-evangelist/promptlayer",
+    "language": "\u2014",
+    "name": "api-evangelist/promptlayer",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:59:03Z",
+    "url": "https://github.com/api-evangelist/promptlayer"
+  },
+  {
+    "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
+    "id": "apoapostolov/humanizer",
+    "language": "JavaScript",
+    "name": "apoapostolov/humanizer",
+    "stars": 4,
+    "updated_at": "2026-08-27T20:57:51Z",
+    "url": "https://github.com/apoapostolov/humanizer"
+  },
+  {
+    "description": "ComfyUI custom node for generating structured multi-character scene prompts with spatial layout control. Designed for Id",
+    "id": "elliefox-ai/comfyui-scene-generator",
+    "language": "Python",
+    "name": "elliefox-ai/comfyui-scene-generator",
+    "stars": 2,
+    "updated_at": "2026-08-27T20:55:24Z",
+    "url": "https://github.com/elliefox-ai/comfyui-scene-generator"
+  },
+  {
+    "description": "Arize Phoenix is an open-source AI observability and evaluation platform built on OpenTelemetry, enabling developers to ",
+    "id": "api-evangelist/phoenix",
+    "language": "\u2014",
+    "name": "api-evangelist/phoenix",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:55:12Z",
+    "url": "https://github.com/api-evangelist/phoenix"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 16,
+    "updated_at": "2026-08-27T20:55:32Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "DeepSeek Harness Web \u53ef\u5f00\u5173\u7834\u9650\u63d0\u793a\u8bcd\u63d2\u4ef6\uff0c\u652f\u6301\u591a\u6a21\u5f0f\u3001\u5b50\u4ee3\u7406\u548c\u951a\u70b9\u517c\u5bb9\u68c0\u67e5\u3002",
+    "id": "yexi-by/dsh-unrestricted",
+    "language": "JavaScript",
+    "name": "yexi-by/dsh-unrestricted",
+    "stars": 4,
+    "updated_at": "2026-08-27T20:54:35Z",
+    "url": "https://github.com/yexi-by/dsh-unrestricted"
+  },
+  {
+    "description": "Prompt structure analyzer and refiner grounded in O'Reilly engineering books",
+    "id": "sshpie/prompt-architect",
+    "language": "Python",
+    "name": "sshpie/prompt-architect",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:53:45Z",
+    "url": "https://github.com/sshpie/prompt-architect"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-08-27T20:52:39Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Grimoire's Tome & The Grim Council. A Prompt Spellbook of /skills. The #1 Coding Wizard \ud83e\uddd9\u200d\u2642\ufe0f",
+    "id": "MindGoblinStudios/grim-tome",
+    "language": "JavaScript",
+    "name": "MindGoblinStudios/grim-tome",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:52:34Z",
+    "url": "https://github.com/MindGoblinStudios/grim-tome"
+  },
+  {
+    "description": "A coaching harness for Claude Code: team memory, evidence-backed prompt coaching, injection defense, onboarding docs and",
+    "id": "MohammedMoataz/ai-coach",
+    "language": "JavaScript",
+    "name": "MohammedMoataz/ai-coach",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:50:49Z",
+    "url": "https://github.com/MohammedMoataz/ai-coach"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-27T20:55:52Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr",
+    "id": "ariaxhan/kernel-claude",
+    "language": "JavaScript",
+    "name": "ariaxhan/kernel-claude",
+    "stars": 12,
+    "updated_at": "2026-08-27T20:49:05Z",
+    "url": "https://github.com/ariaxhan/kernel-claude"
+  },
+  {
     "description": "\u4e2d\u6587\uff1a\u8ba9 AI \u50cf\u4eba\u4e00\u6837\u8bf4\u8bdd\u3001\u521b\u4f5c\u7684\u5b8c\u6574\u89c4\u5219\u96c6\u3002\u53bb\u9664 AI \u8154\u3001\u8bb2\u4e49\u8154\u3001\u534f\u4f5c\u75d5\u8ff9\u3002\u9002\u7528\u4e8e Claude\u3001ChatGPT \u53ca\u6240\u6709\u5bf9\u8bdd AI\u3002  EN\uff1aComplete ruleset to make AI talk and write lik",
     "id": "chengzhi-c/natural-talk",
     "language": "\u2014",
     "name": "chengzhi-c/natural-talk",
     "stars": 28,
-    "updated_at": "2026-08-27T20:44:51Z",
+    "updated_at": "2026-08-27T20:50:02Z",
     "url": "https://github.com/chengzhi-c/natural-talk"
+  },
+  {
+    "description": "Review-first UI/UX design intelligence for coding agents: plan, route, implement, and verify intentional product experie",
+    "id": "TranQui004/signal-ledger-skills",
+    "language": "HTML",
+    "name": "TranQui004/signal-ledger-skills",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:47:57Z",
+    "url": "https://github.com/TranQui004/signal-ledger-skills"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-27T20:47:44Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
@@ -14,7 +140,7 @@
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 9,
-    "updated_at": "2026-08-27T20:44:39Z",
+    "updated_at": "2026-08-27T20:45:30Z",
     "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
@@ -45,22 +171,13 @@
     "url": "https://github.com/piyushdoorwar/ask-better"
   },
   {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-08-27T20:40:38Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
+    "description": "Built an AI-powered SaaS platform that helps job seekers create, optimize, and tailor resumes using GenAI \u2014 plus automat",
+    "id": "akashpatelknit/rezlo",
     "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-27T20:38:31Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "name": "akashpatelknit/rezlo",
+    "stars": 2,
+    "updated_at": "2026-08-27T20:39:46Z",
+    "url": "https://github.com/akashpatelknit/rezlo"
   },
   {
     "description": "Claude Code & Cursor token usage monitor and cost tracker for macOS & Windows. Live token/cost/burn monitoring across 8 ",
@@ -167,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T20:44:35Z",
+    "updated_at": "2026-08-27T20:57:47Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -175,7 +292,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 67813,
+    "stars": 67814,
     "updated_at": "2026-08-27T20:30:51Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -234,15 +351,6 @@
     "url": "https://github.com/markhazleton/devspark"
   },
   {
-    "description": "Review-first UI/UX design intelligence for coding agents: plan, route, implement, and verify intentional product experie",
-    "id": "TranQui004/signal-ledger-skills",
-    "language": "HTML",
-    "name": "TranQui004/signal-ledger-skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T20:21:24Z",
-    "url": "https://github.com/TranQui004/signal-ledger-skills"
-  },
-  {
     "description": "Keyboard-first local scratchpad and snippet workspace for Windows. Portable PyQt6 app with Markdown, file containers, gl",
     "id": "vacterro/FastPrompter",
     "language": "Python",
@@ -277,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T20:17:30Z",
     "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 16,
-    "updated_at": "2026-08-27T20:41:52Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -349,104 +448,5 @@
     "stars": 6437,
     "updated_at": "2026-08-27T20:19:13Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Hermes ComfyUI playbooks and slash-command bundles for current Hermes \u2014 Flux.2, Z-Image, LTX, Wan 3.0, MiniMax H3, isola",
-    "id": "0xzgbot/hermes-comfyui-skills",
-    "language": "\u2014",
-    "name": "0xzgbot/hermes-comfyui-skills",
-    "stars": 0,
-    "updated_at": "2026-08-27T20:02:16Z",
-    "url": "https://github.com/0xzgbot/hermes-comfyui-skills"
-  },
-  {
-    "description": "Build a personal AI agent with its own identity, judgment, memory, authority boundaries, and verified action. Runtime-ne",
-    "id": "robertaustinbell/herbert",
-    "language": "Python",
-    "name": "robertaustinbell/herbert",
-    "stars": 0,
-    "updated_at": "2026-08-27T20:00:53Z",
-    "url": "https://github.com/robertaustinbell/herbert"
-  },
-  {
-    "description": ".cursorrules is a project-level configuration file used by the Cursor AI code editor to define custom rules, coding conv",
-    "id": "api-evangelist/cursorrules",
-    "language": "\u2014",
-    "name": "api-evangelist/cursorrules",
-    "stars": 0,
-    "updated_at": "2026-08-27T19:56:58Z",
-    "url": "https://github.com/api-evangelist/cursorrules"
-  },
-  {
-    "description": "Doaa (Prism Engine): an open-source, governed linguistic-algorithmic mediator for compact LLM interaction, strict result",
-    "id": "saifromih-glitch/doaa-prism-engine",
-    "language": "Python",
-    "name": "saifromih-glitch/doaa-prism-engine",
-    "stars": 0,
-    "updated_at": "2026-08-27T19:55:03Z",
-    "url": "https://github.com/saifromih-glitch/doaa-prism-engine"
-  },
-  {
-    "description": "Compresr is an LLM context-compression API. You send the long context you would otherwise pass to a model plus the query",
-    "id": "api-evangelist/compresr",
-    "language": "\u2014",
-    "name": "api-evangelist/compresr",
-    "stars": 0,
-    "updated_at": "2026-08-27T19:53:53Z",
-    "url": "https://github.com/api-evangelist/compresr"
-  },
-  {
-    "description": "ComfyUI custom node for generating structured multi-character scene prompts with spatial layout control. Designed for Id",
-    "id": "elliefox-ai/comfyui-scene-generator",
-    "language": "Python",
-    "name": "elliefox-ai/comfyui-scene-generator",
-    "stars": 2,
-    "updated_at": "2026-08-27T19:53:23Z",
-    "url": "https://github.com/elliefox-ai/comfyui-scene-generator"
-  },
-  {
-    "description": ".clinerules is the rule-file convention used by the Cline open-source AI coding agent. Projects expose persistent guidan",
-    "id": "api-evangelist/clinerules",
-    "language": "\u2014",
-    "name": "api-evangelist/clinerules",
-    "stars": 0,
-    "updated_at": "2026-08-27T19:52:02Z",
-    "url": "https://github.com/api-evangelist/clinerules"
-  },
-  {
-    "description": "Skills and prompts for the AI tools you already use. Every skill for every tool, inside the app: 5,403 skills across 102",
-    "id": "ehsanking/Skills-Ai",
-    "language": "\u2014",
-    "name": "ehsanking/Skills-Ai",
-    "stars": 0,
-    "updated_at": "2026-08-27T19:50:04Z",
-    "url": "https://github.com/ehsanking/Skills-Ai"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 123,
-    "updated_at": "2026-08-27T19:46:11Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Ecossistema de tutoria via IA que busca e estrutura provas da web. Integra Cloudflare Workers, GitHub Actions, OpenHands",
-    "id": "TouchRefletz/maia.edu",
-    "language": "JavaScript",
-    "name": "TouchRefletz/maia.edu",
-    "stars": 0,
-    "updated_at": "2026-08-27T19:45:44Z",
-    "url": "https://github.com/TouchRefletz/maia.edu"
-  },
-  {
-    "description": "100+ open source security agents for the agentgg scanner. Every agent is a markdown file. Found a bug class we're missin",
-    "id": "agentgg-dev/agentgg-agents",
-    "language": "Shell",
-    "name": "agentgg-dev/agentgg-agents",
-    "stars": 4,
-    "updated_at": "2026-08-27T19:43:24Z",
-    "url": "https://github.com/agentgg-dev/agentgg-agents"
   }
 ]
