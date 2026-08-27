@@ -1,5 +1,86 @@
 [
   {
+    "description": "Community-maintained catalog of AI agent skills \u2014 structured, searchable and integrated with the OpenModels ecosystem.",
+    "id": "openmodelsrun/skills",
+    "language": "Python",
+    "name": "openmodelsrun/skills",
+    "stars": 0,
+    "updated_at": "2026-08-27T08:27:26Z",
+    "url": "https://github.com/openmodelsrun/skills"
+  },
+  {
+    "description": "Programming Prompts is a prompt library that provides reusable AI coding-agent prompts and engineering guidance for Code",
+    "id": "mikaeltorni/programming_prompts",
+    "language": "Python",
+    "name": "mikaeltorni/programming_prompts",
+    "stars": 1,
+    "updated_at": "2026-08-27T08:26:41Z",
+    "url": "https://github.com/mikaeltorni/programming_prompts"
+  },
+  {
+    "description": "Approval-gated, project-local guidance and reusable skills for AI coding agents.",
+    "id": "HyperVon/agent-guidance-kit",
+    "language": "Python",
+    "name": "HyperVon/agent-guidance-kit",
+    "stars": 1,
+    "updated_at": "2026-08-27T08:23:27Z",
+    "url": "https://github.com/HyperVon/agent-guidance-kit"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 9,
+    "updated_at": "2026-08-27T08:23:09Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "Creative Writing and General Conversation System Prompt for LLM",
+    "id": "baros4294/system_prompt",
+    "language": "\u2014",
+    "name": "baros4294/system_prompt",
+    "stars": 1,
+    "updated_at": "2026-08-27T08:22:35Z",
+    "url": "https://github.com/baros4294/system_prompt"
+  },
+  {
+    "description": "La cartella da cui l'assistente si legge da solo chi \u00e8 il cliente, come parla e cosa non dice mai. Per social media mana",
+    "id": "Lucas-Grilli/SMM_OS",
+    "language": "\u2014",
+    "name": "Lucas-Grilli/SMM_OS",
+    "stars": 0,
+    "updated_at": "2026-08-27T08:21:56Z",
+    "url": "https://github.com/Lucas-Grilli/SMM_OS"
+  },
+  {
+    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
+    "id": "conorbronsdon/agent-context-os",
+    "language": "Python",
+    "name": "conorbronsdon/agent-context-os",
+    "stars": 15,
+    "updated_at": "2026-08-27T08:21:30Z",
+    "url": "https://github.com/conorbronsdon/agent-context-os"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-27T08:21:09Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T08:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A bounded, evidence-driven Codex Skill for long development loops.",
     "id": "flyeasy/dev-loop-optimizer",
     "language": "\u2014",
@@ -9,6 +90,24 @@
     "url": "https://github.com/flyeasy/dev-loop-optimizer"
   },
   {
+    "description": "AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot.",
+    "id": "Sunil-M02/curiosity-engine",
+    "language": "TypeScript",
+    "name": "Sunil-M02/curiosity-engine",
+    "stars": 2,
+    "updated_at": "2026-08-27T08:25:18Z",
+    "url": "https://github.com/Sunil-M02/curiosity-engine"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 16,
+    "updated_at": "2026-08-27T08:14:39Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
     "description": "Prompt engineering as a procedure, not a document. Routes to the right artifact, sizes evals to the volume, ships a lint",
     "id": "AdrianAdem/prompt-engineer-skill",
     "language": "Python",
@@ -16,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T08:13:41Z",
     "url": "https://github.com/AdrianAdem/prompt-engineer-skill"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-08-27T08:12:13Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
     "description": "Drop-in instructions, prompts, and workflows to reduce token usage across Codex, Claude Code, GitHub Copilot, Cursor, an",
@@ -34,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T08:10:14Z",
     "url": "https://github.com/koco-co/build-goals"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-08-27T08:12:13Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -76,7 +175,7 @@
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1900,
+    "stars": 1901,
     "updated_at": "2026-08-27T08:04:59Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
@@ -88,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T08:04:31Z",
     "url": "https://github.com/mikaeltorni/prompt_challenge_generator"
-  },
-  {
-    "description": "Programming Prompts is a prompt library that provides reusable AI coding-agent prompts and engineering guidance for Code",
-    "id": "mikaeltorni/programming_prompts",
-    "language": "Python",
-    "name": "mikaeltorni/programming_prompts",
-    "stars": 1,
-    "updated_at": "2026-08-27T08:04:21Z",
-    "url": "https://github.com/mikaeltorni/programming_prompts"
   },
   {
     "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
@@ -135,29 +225,11 @@
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
   },
   {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 16,
-    "updated_at": "2026-08-27T08:14:39Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T08:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6423,
+    "stars": 6425,
     "updated_at": "2026-08-27T08:00:26Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -176,7 +248,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33792,
-    "updated_at": "2026-08-27T08:15:16Z",
+    "updated_at": "2026-08-27T08:27:58Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -212,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3514,
-    "updated_at": "2026-08-27T08:15:00Z",
+    "updated_at": "2026-08-27T08:26:47Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -248,7 +320,7 @@
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 67746,
-    "updated_at": "2026-08-27T08:14:32Z",
+    "updated_at": "2026-08-27T08:22:50Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -275,7 +347,7 @@
     "language": "Python",
     "name": "sergstack/AI-OS",
     "stars": 0,
-    "updated_at": "2026-08-27T08:13:18Z",
+    "updated_at": "2026-08-27T08:30:14Z",
     "url": "https://github.com/sergstack/AI-OS"
   },
   {
@@ -338,7 +410,7 @@
     "language": "Python",
     "name": "Jia-Ethan/codex-keysmith",
     "stars": 4085,
-    "updated_at": "2026-08-27T07:41:08Z",
+    "updated_at": "2026-08-27T08:16:06Z",
     "url": "https://github.com/Jia-Ethan/codex-keysmith"
   },
   {
@@ -365,7 +437,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27688,
-    "updated_at": "2026-08-27T07:35:56Z",
+    "updated_at": "2026-08-27T08:29:30Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-27T07:35:46Z",
     "url": "https://github.com/tushaarmehtaa/zero-to-ai-native"
-  },
-  {
-    "description": "Did your new system prompt change the answers? Score output drift 0-100 across matched sample IDs - offline single-file ",
-    "id": "qianbrady/promptdriftcheck",
-    "language": "HTML",
-    "name": "qianbrady/promptdriftcheck",
-    "stars": 0,
-    "updated_at": "2026-08-27T07:34:22Z",
-    "url": "https://github.com/qianbrady/promptdriftcheck"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 38295,
-    "updated_at": "2026-08-27T07:32:19Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
-    "id": "conorbronsdon/agent-context-os",
-    "language": "Python",
-    "name": "conorbronsdon/agent-context-os",
-    "stars": 15,
-    "updated_at": "2026-08-27T07:28:35Z",
-    "url": "https://github.com/conorbronsdon/agent-context-os"
-  },
-  {
-    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
-    "id": "thkt/dotclaude",
-    "language": "JavaScript",
-    "name": "thkt/dotclaude",
-    "stars": 11,
-    "updated_at": "2026-08-27T08:08:41Z",
-    "url": "https://github.com/thkt/dotclaude"
-  },
-  {
-    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
-    "id": "aidyou/chatspeed",
-    "language": "Rust",
-    "name": "aidyou/chatspeed",
-    "stars": 21,
-    "updated_at": "2026-08-27T07:26:27Z",
-    "url": "https://github.com/aidyou/chatspeed"
-  },
-  {
-    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
-    "id": "Kiln-AI/Kiln",
-    "language": "Python",
-    "name": "Kiln-AI/Kiln",
-    "stars": 5035,
-    "updated_at": "2026-08-27T07:32:07Z",
-    "url": "https://github.com/Kiln-AI/Kiln"
-  },
-  {
-    "description": "A simple CI gate for testing AI prompts and preventing regressions.",
-    "id": "mukundzha/crilio",
-    "language": "Python",
-    "name": "mukundzha/crilio",
-    "stars": 1,
-    "updated_at": "2026-08-27T07:18:46Z",
-    "url": "https://github.com/mukundzha/crilio"
-  },
-  {
-    "description": "Agent Skills for vibe engineering \u2014 644 evidence-grounded practitioner references as a Claude Code plugin marketplace",
-    "id": "adammatthewsteinberger/vibey-skills",
-    "language": "Python",
-    "name": "adammatthewsteinberger/vibey-skills",
-    "stars": 1,
-    "updated_at": "2026-08-27T07:36:43Z",
-    "url": "https://github.com/adammatthewsteinberger/vibey-skills"
   }
 ]
