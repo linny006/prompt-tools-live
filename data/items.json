@@ -1,11 +1,83 @@
 [
   {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "SAIRAMANALADI/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "SAIRAMANALADI/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-08-28T22:59:08Z",
+    "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7102,
+    "updated_at": "2026-08-28T22:57:21Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "Portable conversational intake protocol for AI agents: clarifies voice and natural language instructions before executio",
+    "id": "lucasmartins-ai/agentic-prompt-intake",
+    "language": "JavaScript",
+    "name": "lucasmartins-ai/agentic-prompt-intake",
+    "stars": 1,
+    "updated_at": "2026-08-28T22:55:10Z",
+    "url": "https://github.com/lucasmartins-ai/agentic-prompt-intake"
+  },
+  {
+    "description": "Local Context Compiler (lcc): deterministic, local-first toolkit to clean, dedupe, structure, and measure prompt context",
+    "id": "lucasmartins-ai/lcc",
+    "language": "Python",
+    "name": "lucasmartins-ai/lcc",
+    "stars": 2,
+    "updated_at": "2026-08-28T22:54:57Z",
+    "url": "https://github.com/lucasmartins-ai/lcc"
+  },
+  {
+    "description": "Structured AI learning workspace for ChatGPT Projects \u2014 source grounding, pedagogical guardrails, learning context, and ",
+    "id": "man612/ramu",
+    "language": "Python",
+    "name": "man612/ramu",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:00:15Z",
+    "url": "https://github.com/man612/ramu"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-28T22:52:03Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Frameworks, techniques, prompts, agents, skills, and workflows for engineering reliable, reusable AI and agentic systems",
+    "id": "jr-mccoy/prompt-agent-engineering",
+    "language": "Python",
+    "name": "jr-mccoy/prompt-agent-engineering",
+    "stars": 1,
+    "updated_at": "2026-08-28T22:48:40Z",
+    "url": "https://github.com/jr-mccoy/prompt-agent-engineering"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-28T22:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11227,
-    "updated_at": "2026-08-28T22:45:16Z",
+    "updated_at": "2026-08-28T22:55:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -41,26 +113,8 @@
     "language": "Python",
     "name": "AKzar1el/god-prompt",
     "stars": 7,
-    "updated_at": "2026-08-28T22:32:53Z",
+    "updated_at": "2026-08-28T22:54:58Z",
     "url": "https://github.com/AKzar1el/god-prompt"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-28T22:32:16Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-28T22:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Reto #7DaysOfCode de Prompt Engineering (Alura Latam): una t\u00e9cnica por d\u00eda hasta construir un Tutor Personal de Carrera ",
@@ -86,8 +140,17 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6474,
-    "updated_at": "2026-08-28T22:24:06Z",
+    "updated_at": "2026-08-28T22:48:21Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Snippets and prompts that expand wherever you type. One library, synced across Chrome and mobile.  Stress the model, not",
+    "id": "locoprice/SprintBrain",
+    "language": "TypeScript",
+    "name": "locoprice/SprintBrain",
+    "stars": 3,
+    "updated_at": "2026-08-28T22:23:12Z",
+    "url": "https://github.com/locoprice/SprintBrain"
   },
   {
     "description": "Post-response grounding check + cross-family adversarial review for LLM chat agents",
@@ -121,7 +184,7 @@
     "id": "ktleary/tailspin-client",
     "language": "JavaScript",
     "name": "ktleary/tailspin-client",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-28T22:19:22Z",
     "url": "https://github.com/ktleary/tailspin-client"
   },
@@ -202,7 +265,7 @@
     "id": "grimaldost/craft-collection",
     "language": "Python",
     "name": "grimaldost/craft-collection",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-28T22:03:19Z",
     "url": "https://github.com/grimaldost/craft-collection"
   },
@@ -229,7 +292,7 @@
     "id": "grigb/gas-prompt-library",
     "language": "Python",
     "name": "grigb/gas-prompt-library",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-08-28T22:00:28Z",
     "url": "https://github.com/grigb/gas-prompt-library"
   },
@@ -274,7 +337,7 @@
     "id": "renoise-ai/awesome-seedance-prompts",
     "language": "TypeScript",
     "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-08-28T21:47:15Z",
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
   },
@@ -310,7 +373,7 @@
     "id": "LangeVC/skillweave",
     "language": "Python",
     "name": "LangeVC/skillweave",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-28T21:40:15Z",
     "url": "https://github.com/LangeVC/skillweave"
   },
@@ -355,7 +418,7 @@
     "id": "Nanako0129/sepia",
     "language": "Shell",
     "name": "Nanako0129/sepia",
-    "stars": 265,
+    "stars": 272,
     "updated_at": "2026-08-28T21:33:38Z",
     "url": "https://github.com/Nanako0129/sepia"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T21:29:21Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
-    "id": "CodeAlive-AI/ai-driven-development",
-    "language": "Python",
-    "name": "CodeAlive-AI/ai-driven-development",
-    "stars": 130,
-    "updated_at": "2026-08-28T21:29:16Z",
-    "url": "https://github.com/CodeAlive-AI/ai-driven-development"
-  },
-  {
-    "description": "Evidence-gated removal of context instructions for Amplifier. Every context system can ADD instructions; almost none can",
-    "id": "michaeljabbour/amplifier-bundle-preceptor",
-    "language": "Python",
-    "name": "michaeljabbour/amplifier-bundle-preceptor",
-    "stars": 0,
-    "updated_at": "2026-08-28T21:26:42Z",
-    "url": "https://github.com/michaeljabbour/amplifier-bundle-preceptor"
-  },
-  {
-    "description": "Forge portable coding-agent skills with linting, activation tests, render adapters, and local-first packaging.",
-    "id": "rogerchappel/skillforge",
-    "language": "TypeScript",
-    "name": "rogerchappel/skillforge",
-    "stars": 0,
-    "updated_at": "2026-08-28T21:25:51Z",
-    "url": "https://github.com/rogerchappel/skillforge"
-  },
-  {
-    "description": "8 production-ready Claude skills for Claude Code and claude.ai: six document generators and a documentation-lifecycle to",
-    "id": "StefanoZaghi1987/ClaudeSkills",
-    "language": "Python",
-    "name": "StefanoZaghi1987/ClaudeSkills",
-    "stars": 1,
-    "updated_at": "2026-08-28T21:24:42Z",
-    "url": "https://github.com/StefanoZaghi1987/ClaudeSkills"
-  },
-  {
-    "description": "Free library of original guides on working with AI. Source and scripts for corewise.academy.",
-    "id": "ryanportfolio/Corewise.Academy",
-    "language": "MDX",
-    "name": "ryanportfolio/Corewise.Academy",
-    "stars": 1,
-    "updated_at": "2026-08-28T21:24:13Z",
-    "url": "https://github.com/ryanportfolio/Corewise.Academy"
-  },
-  {
-    "description": "165 evidence-grounded AI skills for teachers, school leaders and EdTech builders\u2014pedagogy, learning science, curriculum,",
-    "id": "GarethManning/education-agent-skills",
-    "language": "TypeScript",
-    "name": "GarethManning/education-agent-skills",
-    "stars": 702,
-    "updated_at": "2026-08-28T21:22:06Z",
-    "url": "https://github.com/GarethManning/education-agent-skills"
-  },
-  {
-    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
-    "id": "FoxsterDev/ai-research-hub",
-    "language": "Python",
-    "name": "FoxsterDev/ai-research-hub",
-    "stars": 5,
-    "updated_at": "2026-08-28T21:20:58Z",
-    "url": "https://github.com/FoxsterDev/ai-research-hub"
   }
 ]
