@@ -1,12 +1,156 @@
 [
   {
+    "description": "A blind tasting room for your prompts. Diagnose, rewrite, then prove the rewrite in a blind LLM-judged A/B eval.",
+    "id": "SamLarivs/prommelier",
+    "language": "JavaScript",
+    "name": "SamLarivs/prommelier",
+    "stars": 1,
+    "updated_at": "2026-08-28T07:00:04Z",
+    "url": "https://github.com/SamLarivs/prommelier"
+  },
+  {
+    "description": "\u53d1\u751f\u53d1\u5c55\u903b\u8f91\u6a21\u578b\uff08ODL\uff09\u2014\u2014\u9762\u5411 Agent \u8f93\u51fa\u7eaa\u5f8b\u4e0e\u957f\u7a0b\u4e00\u81f4\u6027\u7684\u8fd0\u884c\u65f6\u914d\u7f6e\u7eaa\u5f8b\u5c42\uff08System Prompt/skill \u4e3a\u52a0\u8f7d\u5f62\u6001\uff0cMIT\uff09",
+    "id": "1frank-art/occurrence-development-logic",
+    "language": "Python",
+    "name": "1frank-art/occurrence-development-logic",
+    "stars": 1,
+    "updated_at": "2026-08-28T06:58:52Z",
+    "url": "https://github.com/1frank-art/occurrence-development-logic"
+  },
+  {
+    "description": "90-style visual prompt atlas comparing ChatGPT and Gemini outputs",
+    "id": "leky90/promptatlas",
+    "language": "TypeScript",
+    "name": "leky90/promptatlas",
+    "stars": 0,
+    "updated_at": "2026-08-28T06:57:52Z",
+    "url": "https://github.com/leky90/promptatlas"
+  },
+  {
+    "description": "Cross-border e-commerce AI knowledge base, designed to be read by people and installed by agents. 69 trilingual guides, ",
+    "id": "kangise/ecommerce-ai-skills",
+    "language": "Python",
+    "name": "kangise/ecommerce-ai-skills",
+    "stars": 56,
+    "updated_at": "2026-08-28T06:57:38Z",
+    "url": "https://github.com/kangise/ecommerce-ai-skills"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-28T06:56:54Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
+    "id": "wangkant/personagent",
+    "language": "Python",
+    "name": "wangkant/personagent",
+    "stars": 15,
+    "updated_at": "2026-08-28T06:55:56Z",
+    "url": "https://github.com/wangkant/personagent"
+  },
+  {
+    "description": "Claude skill that asks clarifying questions before executing ambiguous instructions, preventing hallucination from uncle",
+    "id": "irfanannaafi19/Clarify-Intent",
+    "language": "\u2014",
+    "name": "irfanannaafi19/Clarify-Intent",
+    "stars": 0,
+    "updated_at": "2026-08-28T06:54:54Z",
+    "url": "https://github.com/irfanannaafi19/Clarify-Intent"
+  },
+  {
+    "description": "Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr",
+    "id": "ariaxhan/kernel-claude",
+    "language": "JavaScript",
+    "name": "ariaxhan/kernel-claude",
+    "stars": 12,
+    "updated_at": "2026-08-28T06:53:26Z",
+    "url": "https://github.com/ariaxhan/kernel-claude"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-08-28T06:52:17Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Git records each repository. vat records what happened across them \u2014 a control plane for multi-repo workspaces and the a",
+    "id": "takealook97/vat",
+    "language": "Go",
+    "name": "takealook97/vat",
+    "stars": 0,
+    "updated_at": "2026-08-28T06:48:12Z",
+    "url": "https://github.com/takealook97/vat"
+  },
+  {
+    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
+    "id": "martialsystems/verify-before-done",
+    "language": "Python",
+    "name": "martialsystems/verify-before-done",
+    "stars": 1,
+    "updated_at": "2026-08-28T06:47:32Z",
+    "url": "https://github.com/martialsystems/verify-before-done"
+  },
+  {
+    "description": "\ud835\udc7a\ud835\udc8c\ud835\udc8a\ud835\udc8d\ud835\udc8d\ud835\udc94 \ud835\udc82\ud835\udc8f\ud835\udc85 \ud835\udc91\ud835\udc8d\ud835\udc96\ud835\udc88\ud835\udc8a\ud835\udc8f \ud835\udc95\ud835\udc90\ud835\udc90\ud835\udc8d\ud835\udc8c\ud835\udc8a\ud835\udc95 \ud835\udc87\ud835\udc90\ud835\udc93 \ud835\udc6f\ud835\udc82\ud835\udc93\ud835\udc8f\ud835\udc86\ud835\udc94\ud835\udc94 \ud835\udc68\ud835\udc88\ud835\udc86\ud835\udc8f\ud835\udc95.",
+    "id": "koco-co/build-goals",
+    "language": "Python",
+    "name": "koco-co/build-goals",
+    "stars": 1,
+    "updated_at": "2026-08-28T06:47:18Z",
+    "url": "https://github.com/koco-co/build-goals"
+  },
+  {
+    "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
+    "id": "imMamdouhaboammar/get-fable",
+    "language": "JavaScript",
+    "name": "imMamdouhaboammar/get-fable",
+    "stars": 2,
+    "updated_at": "2026-08-28T06:47:15Z",
+    "url": "https://github.com/imMamdouhaboammar/get-fable"
+  },
+  {
     "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
     "id": "kochetkov-ma/claude-brewcode",
     "language": "JavaScript",
     "name": "kochetkov-ma/claude-brewcode",
     "stars": 31,
-    "updated_at": "2026-08-28T06:45:19Z",
+    "updated_at": "2026-08-28T06:46:52Z",
     "url": "https://github.com/kochetkov-ma/claude-brewcode"
+  },
+  {
+    "description": "This repository serves as the comprehensive workspace for Quarter 4-5 academic endeavors, encompassing assignments, tech",
+    "id": "DanielHashmi/Q4_learning",
+    "language": "Python",
+    "name": "DanielHashmi/Q4_learning",
+    "stars": 18,
+    "updated_at": "2026-08-28T06:45:46Z",
+    "url": "https://github.com/DanielHashmi/Q4_learning"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-28T06:45:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "A curated, safety-conscious collection of reusable Grok-compatible agent skills for workflow automation, research, integ",
+    "id": "Stijnman/grok-custom-skills",
+    "language": "Python",
+    "name": "Stijnman/grok-custom-skills",
+    "stars": 7,
+    "updated_at": "2026-08-28T06:45:21Z",
+    "url": "https://github.com/Stijnman/grok-custom-skills"
   },
   {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
@@ -18,15 +162,6 @@
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-28T06:43:58Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
     "id": "rockerlabs/keel",
     "language": "Shell",
@@ -36,47 +171,11 @@
     "url": "https://github.com/rockerlabs/keel"
   },
   {
-    "description": "This repository serves as the comprehensive workspace for Quarter 4-5 academic endeavors, encompassing assignments, tech",
-    "id": "DanielHashmi/Q4_learning",
-    "language": "Shell",
-    "name": "DanielHashmi/Q4_learning",
-    "stars": 18,
-    "updated_at": "2026-08-28T06:43:39Z",
-    "url": "https://github.com/DanielHashmi/Q4_learning"
-  },
-  {
-    "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
-    "id": "imMamdouhaboammar/get-fable",
-    "language": "JavaScript",
-    "name": "imMamdouhaboammar/get-fable",
-    "stars": 2,
-    "updated_at": "2026-08-28T06:43:23Z",
-    "url": "https://github.com/imMamdouhaboammar/get-fable"
-  },
-  {
-    "description": "\u53d1\u751f\u53d1\u5c55\u903b\u8f91\u6a21\u578b\uff08ODL\uff09\u2014\u2014\u9762\u5411 Agent \u8f93\u51fa\u7eaa\u5f8b\u4e0e\u957f\u7a0b\u4e00\u81f4\u6027\u7684\u8fd0\u884c\u65f6\u914d\u7f6e\u7eaa\u5f8b\u5c42\uff08System Prompt/skill \u4e3a\u52a0\u8f7d\u5f62\u6001\uff0cMIT\uff09",
-    "id": "1frank-art/occurrence-development-logic",
-    "language": "Python",
-    "name": "1frank-art/occurrence-development-logic",
-    "stars": 1,
-    "updated_at": "2026-08-28T06:43:20Z",
-    "url": "https://github.com/1frank-art/occurrence-development-logic"
-  },
-  {
-    "description": "Free ecommerce tools + original research, built in the open by an AI agent on a $1k budget. We scanned 70 brands: 0 of 6",
-    "id": "krisdiallo/ecom-agent",
-    "language": "HTML",
-    "name": "krisdiallo/ecom-agent",
-    "stars": 0,
-    "updated_at": "2026-08-28T06:45:09Z",
-    "url": "https://github.com/krisdiallo/ecom-agent"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24630,
+    "stars": 24632,
     "updated_at": "2026-08-28T06:42:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -94,18 +193,9 @@
     "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
     "language": "TypeScript",
     "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "stars": 165,
+    "stars": 166,
     "updated_at": "2026-08-28T06:40:55Z",
     "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
-  },
-  {
-    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
-    "id": "martialsystems/verify-before-done",
-    "language": "Python",
-    "name": "martialsystems/verify-before-done",
-    "stars": 1,
-    "updated_at": "2026-08-28T06:40:45Z",
-    "url": "https://github.com/martialsystems/verify-before-done"
   },
   {
     "description": "Awesome Happy Horse 1.0 Prompts",
@@ -149,7 +239,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21646,
-    "updated_at": "2026-08-28T06:39:06Z",
+    "updated_at": "2026-08-28T06:45:50Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -158,7 +248,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27702,
-    "updated_at": "2026-08-28T06:43:26Z",
+    "updated_at": "2026-08-28T06:47:50Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -189,15 +279,6 @@
     "url": "https://github.com/bks-lab/open-bridge"
   },
   {
-    "description": "Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr",
-    "id": "ariaxhan/kernel-claude",
-    "language": "JavaScript",
-    "name": "ariaxhan/kernel-claude",
-    "stars": 12,
-    "updated_at": "2026-08-28T06:33:49Z",
-    "url": "https://github.com/ariaxhan/kernel-claude"
-  },
-  {
     "description": "Agent Skills for vibe engineering \u2014 644 evidence-grounded practitioner references as a Claude Code plugin marketplace",
     "id": "adammatthewsteinberger/vibey-skills",
     "language": "Python",
@@ -207,24 +288,6 @@
     "url": "https://github.com/adammatthewsteinberger/vibey-skills"
   },
   {
-    "description": "Git records each repository. vat records what happened across them \u2014 a control plane for multi-repo workspaces and the a",
-    "id": "takealook97/vat",
-    "language": "Go",
-    "name": "takealook97/vat",
-    "stars": 0,
-    "updated_at": "2026-08-28T06:32:50Z",
-    "url": "https://github.com/takealook97/vat"
-  },
-  {
-    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
-    "id": "wangkant/personagent",
-    "language": "Python",
-    "name": "wangkant/personagent",
-    "stars": 15,
-    "updated_at": "2026-08-28T06:32:04Z",
-    "url": "https://github.com/wangkant/personagent"
-  },
-  {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
@@ -232,15 +295,6 @@
     "stars": 13297,
     "updated_at": "2026-08-28T06:31:23Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-28T06:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Retrospect your AI usage ",
@@ -283,7 +337,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6455,
+    "stars": 6456,
     "updated_at": "2026-08-28T06:22:05Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -329,7 +383,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 9,
-    "updated_at": "2026-08-28T06:13:52Z",
+    "updated_at": "2026-08-28T06:57:57Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -338,7 +392,7 @@
     "language": "TypeScript",
     "name": "Krishna-Modi12/frontend-design-pro",
     "stars": 6,
-    "updated_at": "2026-08-28T06:13:17Z",
+    "updated_at": "2026-08-28T06:58:22Z",
     "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
   },
   {
@@ -355,7 +409,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33833,
+    "stars": 33834,
     "updated_at": "2026-08-28T06:08:25Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T06:05:33Z",
     "url": "https://github.com/Hughhhhcoder/cinematic-ai-director"
-  },
-  {
-    "description": "A persistent, observable, and collaborative memory infrastructure",
-    "id": "lilhammerfun/clumsies",
-    "language": "Rust",
-    "name": "lilhammerfun/clumsies",
-    "stars": 17,
-    "updated_at": "2026-08-28T05:58:13Z",
-    "url": "https://github.com/lilhammerfun/clumsies"
-  },
-  {
-    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
-    "id": "F-e-u-e-r/opus-pack",
-    "language": "Python",
-    "name": "F-e-u-e-r/opus-pack",
-    "stars": 2,
-    "updated_at": "2026-08-28T05:55:35Z",
-    "url": "https://github.com/F-e-u-e-r/opus-pack"
-  },
-  {
-    "description": "Local-first desktop app for managing, analyzing and optimizing prompt collections \u2014 offline, private, Tauri + React + Ru",
-    "id": "Mueller-Systems-Lab/promptvault-lite",
-    "language": "TypeScript",
-    "name": "Mueller-Systems-Lab/promptvault-lite",
-    "stars": 0,
-    "updated_at": "2026-08-28T05:53:58Z",
-    "url": "https://github.com/Mueller-Systems-Lab/promptvault-lite"
-  },
-  {
-    "description": "Review-first UI/UX design intelligence for coding agents: plan, route, implement, and verify intentional product experie",
-    "id": "TranQui004/signal-ledger-skills",
-    "language": "HTML",
-    "name": "TranQui004/signal-ledger-skills",
-    "stars": 0,
-    "updated_at": "2026-08-28T05:53:12Z",
-    "url": "https://github.com/TranQui004/signal-ledger-skills"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 49,
-    "updated_at": "2026-08-28T05:51:29Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
-    "id": "f/prompts.chat",
-    "language": "HTML",
-    "name": "f/prompts.chat",
-    "stars": 168099,
-    "updated_at": "2026-08-28T05:47:17Z",
-    "url": "https://github.com/f/prompts.chat"
   }
 ]
