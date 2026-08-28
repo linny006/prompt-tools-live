@@ -1,5 +1,140 @@
 [
   {
+    "description": "Curated AI prompts for software development - comprehensive meta-prompts for documentation, CI/CD, testing, security aud",
+    "id": "agigante80/vibe-coding-prompts",
+    "language": "Python",
+    "name": "agigante80/vibe-coding-prompts",
+    "stars": 8,
+    "updated_at": "2026-08-28T09:29:23Z",
+    "url": "https://github.com/agigante80/vibe-coding-prompts"
+  },
+  {
+    "description": "\ud83d\udd2e Multi-tool AI prompt optimizer plugin for ZCode, Claude Code, Codex CLI, Reasonix, DSH, MimoCode, OpenCode \u2014 \u4e2d\u6587\u63d0\u793a\u8bcd\u4f18\u5316\u63d2\u4ef6",
+    "id": "goodie1972/prompt-optimizer",
+    "language": "Python",
+    "name": "goodie1972/prompt-optimizer",
+    "stars": 1,
+    "updated_at": "2026-08-28T09:29:02Z",
+    "url": "https://github.com/goodie1972/prompt-optimizer"
+  },
+  {
+    "description": "Governed workspace for ChatGPT Projects, Codex execution, validation, and Stream Deck automation.",
+    "id": "sergstack/AI-OS",
+    "language": "Python",
+    "name": "sergstack/AI-OS",
+    "stars": 0,
+    "updated_at": "2026-08-28T09:28:27Z",
+    "url": "https://github.com/sergstack/AI-OS"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 118,
+    "updated_at": "2026-08-28T09:28:06Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3514,
+    "updated_at": "2026-08-28T09:30:18Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles ",
+    "id": "PromptPartner/agentsmith",
+    "language": "Python",
+    "name": "PromptPartner/agentsmith",
+    "stars": 193,
+    "updated_at": "2026-08-28T09:26:10Z",
+    "url": "https://github.com/PromptPartner/agentsmith"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33849,
+    "updated_at": "2026-08-28T09:24:55Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-08-28T09:23:33Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "\u901a\u7528 AI Coding \u94c1\u5f8b CLAUDE.md \u6a21\u677f \u2014 11 \u6761 operational \u94c1\u5f8b, \u8de8\u9879\u76ee\u590d\u7528",
+    "id": "evan966890/ai-coding-ironrules",
+    "language": "Python",
+    "name": "evan966890/ai-coding-ironrules",
+    "stars": 1,
+    "updated_at": "2026-08-28T09:22:13Z",
+    "url": "https://github.com/evan966890/ai-coding-ironrules"
+  },
+  {
+    "description": "Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl",
+    "id": "grimoire-rs/grimoire",
+    "language": "Rust",
+    "name": "grimoire-rs/grimoire",
+    "stars": 8,
+    "updated_at": "2026-08-28T09:24:46Z",
+    "url": "https://github.com/grimoire-rs/grimoire"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-28T09:20:49Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-28T09:20:43Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
+    "id": "eric-sabe/engsys",
+    "language": "JavaScript",
+    "name": "eric-sabe/engsys",
+    "stars": 2,
+    "updated_at": "2026-08-28T09:17:37Z",
+    "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 17,
+    "updated_at": "2026-08-28T09:29:18Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-28T09:15:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
     "id": "costiash/claude-code-docs",
     "language": "Python",
@@ -16,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T09:13:25Z",
     "url": "https://github.com/aaronartistzhang-afk/DailyWork"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-28T09:13:13Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33844,
-    "updated_at": "2026-08-28T09:13:05Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
@@ -86,7 +203,7 @@
     "language": "TypeScript",
     "name": "cobusgreyling/loop-engineering",
     "stars": 10712,
-    "updated_at": "2026-08-28T09:04:01Z",
+    "updated_at": "2026-08-28T09:29:58Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
   {
@@ -112,7 +229,7 @@
     "id": "kangise/ecommerce-ai-skills",
     "language": "Python",
     "name": "kangise/ecommerce-ai-skills",
-    "stars": 56,
+    "stars": 57,
     "updated_at": "2026-08-28T09:01:41Z",
     "url": "https://github.com/kangise/ecommerce-ai-skills"
   },
@@ -124,15 +241,6 @@
     "stars": 9,
     "updated_at": "2026-08-28T09:01:11Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-28T09:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
@@ -151,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T08:59:05Z",
     "url": "https://github.com/ftvision/agent-prompt-observatory"
-  },
-  {
-    "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles ",
-    "id": "PromptPartner/agentsmith",
-    "language": "Python",
-    "name": "PromptPartner/agentsmith",
-    "stars": 193,
-    "updated_at": "2026-08-28T08:58:33Z",
-    "url": "https://github.com/PromptPartner/agentsmith"
   },
   {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
@@ -248,7 +347,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21648,
-    "updated_at": "2026-08-28T09:14:31Z",
+    "updated_at": "2026-08-28T09:16:43Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -329,7 +428,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 9,
-    "updated_at": "2026-08-28T08:32:02Z",
+    "updated_at": "2026-08-28T09:20:07Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T08:30:59Z",
     "url": "https://github.com/flux-art-ai/flux-art-ecom-image-workflow"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 1,
-    "updated_at": "2026-08-28T08:30:39Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-28T08:30:28Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6462,
-    "updated_at": "2026-08-28T08:30:15Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "14-arm ablation study on deep research pipelines (pre-citation, post-hoc citation repair, research/writing separation) o",
-    "id": "alloevil/deepresearch-arms-lab",
-    "language": "HTML",
-    "name": "alloevil/deepresearch-arms-lab",
-    "stars": 1,
-    "updated_at": "2026-08-28T08:29:56Z",
-    "url": "https://github.com/alloevil/deepresearch-arms-lab"
-  },
-  {
-    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
-    "id": "wangkant/personagent",
-    "language": "Python",
-    "name": "wangkant/personagent",
-    "stars": 15,
-    "updated_at": "2026-08-28T08:29:22Z",
-    "url": "https://github.com/wangkant/personagent"
-  },
-  {
-    "description": "Evidence-based AI self-review. Points your AI assistant at your own git history, files and sessions \u2014 and compares what ",
-    "id": "harshgoyal1/ground-truth",
-    "language": "\u2014",
-    "name": "harshgoyal1/ground-truth",
-    "stars": 1,
-    "updated_at": "2026-08-28T08:28:58Z",
-    "url": "https://github.com/harshgoyal1/ground-truth"
-  },
-  {
-    "description": "A lightweight anti-hallucination wrapper for LLMs using Chain-of-Verification.",
-    "id": "Muhtasim-Munif-Fahim/self-correct-agent",
-    "language": "Python",
-    "name": "Muhtasim-Munif-Fahim/self-correct-agent",
-    "stars": 6,
-    "updated_at": "2026-08-28T08:28:40Z",
-    "url": "https://github.com/Muhtasim-Munif-Fahim/self-correct-agent"
-  },
-  {
-    "description": "A Chinese AI Agent writing Skill powered by 12 social-psychology triggers \u2014 turn raw material into restrained, memorable",
-    "id": "1Lyn-en/three-sentence-virus",
-    "language": "\u2014",
-    "name": "1Lyn-en/three-sentence-virus",
-    "stars": 0,
-    "updated_at": "2026-08-28T08:27:35Z",
-    "url": "https://github.com/1Lyn-en/three-sentence-virus"
-  },
-  {
-    "description": "22 \u6b3e\u53ef\u72ec\u7acb\u5b89\u88c5\u7684 AI \u89c6\u89c9\u98ce\u683c Skill\uff1a\u6311\u4e00\u6b3e\u3001\u4e0a\u4f20\u4e00\u5f20\u7167\u7247\uff0c\u5728 Codex \u91cc\u76f4\u63a5\u751f\u6210\u6210\u54c1\u3002\u4f5c\u8005 @\u5a01\u6bd4 Hunter Wei.\uff08\u6296\u97f3\u3001\u5c0f\u7ea2\u4e66\u540c\u540d\uff09",
-    "id": "Vieeeeeee/wibi-style",
-    "language": "Python",
-    "name": "Vieeeeeee/wibi-style",
-    "stars": 116,
-    "updated_at": "2026-08-28T08:24:17Z",
-    "url": "https://github.com/Vieeeeeee/wibi-style"
-  },
-  {
-    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5825,
-    "updated_at": "2026-08-28T08:23:46Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-28T08:22:30Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   }
 ]
