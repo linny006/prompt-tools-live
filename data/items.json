@@ -1,12 +1,84 @@
 [
   {
-    "description": "A vendored guide that has the agent reconstruct raw speech-to-text against your code",
-    "id": "albertwujj/voice-to-agent",
-    "language": "\u2014",
-    "name": "albertwujj/voice-to-agent",
+    "description": "\u4e2d\u6587\uff1a\u8ba9 AI \u50cf\u4eba\u4e00\u6837\u8bf4\u8bdd\u3001\u521b\u4f5c\u7684\u5b8c\u6574\u89c4\u5219\u96c6\u3002\u53bb\u9664 AI \u8154\u3001\u8bb2\u4e49\u8154\u3001\u534f\u4f5c\u75d5\u8ff9\u3002\u9002\u7528\u4e8e Claude\u3001ChatGPT \u53ca\u6240\u6709\u5bf9\u8bdd AI\u3002  EN\uff1aComplete ruleset to make AI talk and write lik",
+    "id": "chengzhi-c/natural-talk",
+    "language": "Python",
+    "name": "chengzhi-c/natural-talk",
+    "stars": 28,
+    "updated_at": "2026-08-28T21:59:59Z",
+    "url": "https://github.com/chengzhi-c/natural-talk"
+  },
+  {
+    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
     "stars": 1,
-    "updated_at": "2026-08-28T21:43:53Z",
-    "url": "https://github.com/albertwujj/voice-to-agent"
+    "updated_at": "2026-08-28T21:59:35Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
+    "id": "adrianwedd/cv",
+    "language": "JavaScript",
+    "name": "adrianwedd/cv",
+    "stars": 4,
+    "updated_at": "2026-08-28T21:57:06Z",
+    "url": "https://github.com/adrianwedd/cv"
+  },
+  {
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1836,
+    "updated_at": "2026-08-28T21:56:16Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow \u2014 semantic code n",
+    "id": "konstantinos-malavazos/claude-code-playbook",
+    "language": "Shell",
+    "name": "konstantinos-malavazos/claude-code-playbook",
+    "stars": 2,
+    "updated_at": "2026-08-28T21:55:47Z",
+    "url": "https://github.com/konstantinos-malavazos/claude-code-playbook"
+  },
+  {
+    "description": "Agent Skills for coding agents: software engineering workflows and architecture tools. Personalized forks, with every up",
+    "id": "martonpaulo/skills",
+    "language": "Python",
+    "name": "martonpaulo/skills",
+    "stars": 1,
+    "updated_at": "2026-08-28T21:58:10Z",
+    "url": "https://github.com/martonpaulo/skills"
+  },
+  {
+    "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice along",
+    "id": "grimaldost/craft-collection",
+    "language": "Python",
+    "name": "grimaldost/craft-collection",
+    "stars": 1,
+    "updated_at": "2026-08-28T21:59:34Z",
+    "url": "https://github.com/grimaldost/craft-collection"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-28T21:53:13Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-28T21:52:30Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
     "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles ",
@@ -14,8 +86,62 @@
     "language": "Python",
     "name": "PromptPartner/agentsmith",
     "stars": 193,
-    "updated_at": "2026-08-28T21:42:28Z",
+    "updated_at": "2026-08-28T21:56:11Z",
     "url": "https://github.com/PromptPartner/agentsmith"
+  },
+  {
+    "description": "Build, version and distribute AI agent intelligence across your organization - one CLI, versioned Intelligence Packages,",
+    "id": "ainova-systems/intelligence",
+    "language": "Shell",
+    "name": "ainova-systems/intelligence",
+    "stars": 1,
+    "updated_at": "2026-08-28T22:00:01Z",
+    "url": "https://github.com/ainova-systems/intelligence"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 5,
+    "updated_at": "2026-08-28T21:47:15Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Archived - replaced by the Intelligence CLI (Single source of truth for AI coding rules across Claude Code, Cursor, Copi",
+    "id": "ainova-systems/intelligence-sync",
+    "language": "Shell",
+    "name": "ainova-systems/intelligence-sync",
+    "stars": 4,
+    "updated_at": "2026-08-28T21:46:35Z",
+    "url": "https://github.com/ainova-systems/intelligence-sync"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-28T21:45:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
+    "id": "grigb/gas-prompt-library",
+    "language": "Python",
+    "name": "grigb/gas-prompt-library",
+    "stars": 5,
+    "updated_at": "2026-08-28T21:45:05Z",
+    "url": "https://github.com/grigb/gas-prompt-library"
+  },
+  {
+    "description": "A vendored guide that has the agent reconstruct raw speech-to-text against your code",
+    "id": "albertwujj/voice-to-agent",
+    "language": "\u2014",
+    "name": "albertwujj/voice-to-agent",
+    "stars": 1,
+    "updated_at": "2026-08-28T21:43:53Z",
+    "url": "https://github.com/albertwujj/voice-to-agent"
   },
   {
     "description": "Agent skills for decisions under uncertainty, plus the evaluation harness that measures them: pre-registered predictions",
@@ -27,15 +153,6 @@
     "url": "https://github.com/AngelCampa1/decision-making-skills"
   },
   {
-    "description": "Single source of truth for AI coding rules across Claude Code, Cursor, Copilot, Codex, and more. Write once, sync everyw",
-    "id": "ainova-systems/intelligence-sync",
-    "language": "Shell",
-    "name": "ainova-systems/intelligence-sync",
-    "stars": 4,
-    "updated_at": "2026-08-28T21:41:37Z",
-    "url": "https://github.com/ainova-systems/intelligence-sync"
-  },
-  {
     "description": "Multi-agent AI skill orchestration \u2014 13 skills, 7 lifecycle phases, from idea to post-release. Works with Claude Code, C",
     "id": "LangeVC/skillweave",
     "language": "Python",
@@ -43,24 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T21:40:15Z",
     "url": "https://github.com/LangeVC/skillweave"
-  },
-  {
-    "description": "A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow \u2014 semantic code n",
-    "id": "konstantinos-malavazos/claude-code-playbook",
-    "language": "Shell",
-    "name": "konstantinos-malavazos/claude-code-playbook",
-    "stars": 2,
-    "updated_at": "2026-08-28T21:40:14Z",
-    "url": "https://github.com/konstantinos-malavazos/claude-code-playbook"
-  },
-  {
-    "description": "Agent Skills for coding agents: software engineering workflows and architecture tools. Personalized forks, with every up",
-    "id": "martonpaulo/skills",
-    "language": "Python",
-    "name": "martonpaulo/skills",
-    "stars": 1,
-    "updated_at": "2026-08-28T21:37:27Z",
-    "url": "https://github.com/martonpaulo/skills"
   },
   {
     "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
@@ -103,7 +202,7 @@
     "id": "Nanako0129/sepia",
     "language": "Shell",
     "name": "Nanako0129/sepia",
-    "stars": 235,
+    "stars": 242,
     "updated_at": "2026-08-28T21:33:38Z",
     "url": "https://github.com/Nanako0129/sepia"
   },
@@ -133,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T21:30:33Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-28T21:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -288,15 +378,6 @@
     "url": "https://github.com/ardha27/seedance-prompts"
   },
   {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 1,
-    "updated_at": "2026-08-28T21:28:07Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
-  },
-  {
     "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
     "id": "wangkant/personagent",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T20:39:53Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Explainable resume-job matching via a multi-stage LangChain pipeline \u2014 chain-of-thought scoring, structured validation, ",
-    "id": "MostafaNouh0011/resume-fit-analyzer",
-    "language": "Python",
-    "name": "MostafaNouh0011/resume-fit-analyzer",
-    "stars": 0,
-    "updated_at": "2026-08-28T20:37:41Z",
-    "url": "https://github.com/MostafaNouh0011/resume-fit-analyzer"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 3,
-    "updated_at": "2026-08-28T21:28:56Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-28T20:37:25Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-08-28T20:36:05Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-28T20:35:18Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 7179,
-    "updated_at": "2026-08-28T20:34:56Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-28T20:33:35Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Structured brainstorming, TDD, debugging, planning, and code-review workflows for GitHub Copilot.",
-    "id": "autovant/superpowers",
-    "language": "PowerShell",
-    "name": "autovant/superpowers",
-    "stars": 8,
-    "updated_at": "2026-08-28T20:32:46Z",
-    "url": "https://github.com/autovant/superpowers"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-28T20:32:36Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   }
 ]
