@@ -1,21 +1,21 @@
 [
   {
-    "description": "Git records each repository. vat records what happened across them \u2014 a control plane for multi-repo workspaces and the a",
-    "id": "takealook97/vat",
-    "language": "Go",
-    "name": "takealook97/vat",
-    "stars": 0,
-    "updated_at": "2026-08-27T23:41:24Z",
-    "url": "https://github.com/takealook97/vat"
+    "description": "Audit a GitHub README for AI-generated cliche patterns. Single HTML file, BYOK Claude API, MIT licensed. No build step, ",
+    "id": "0xelitesystem/readme-slop-checker",
+    "language": "HTML",
+    "name": "0xelitesystem/readme-slop-checker",
+    "stars": 1,
+    "updated_at": "2026-08-27T23:59:42Z",
+    "url": "https://github.com/0xelitesystem/readme-slop-checker"
   },
   {
-    "description": "Doaa (Prism Engine): an open-source, governed linguistic-algorithmic mediator for compact LLM interaction, strict result",
-    "id": "saifromih-glitch/doaa-prism-engine",
-    "language": "Python",
-    "name": "saifromih-glitch/doaa-prism-engine",
+    "description": "Estimate token count and API cost for a prompt across Anthropic, OpenAI, and Google models. Browser-only, no API calls, ",
+    "id": "0xelitesystem/prompt-cost-calculator",
+    "language": "HTML",
+    "name": "0xelitesystem/prompt-cost-calculator",
     "stars": 0,
-    "updated_at": "2026-08-27T23:41:24Z",
-    "url": "https://github.com/saifromih-glitch/doaa-prism-engine"
+    "updated_at": "2026-08-27T23:59:32Z",
+    "url": "https://github.com/0xelitesystem/prompt-cost-calculator"
   },
   {
     "description": "ComfyUI custom node for generating structured multi-character scene prompts with spatial layout control. Designed for Id",
@@ -23,8 +23,53 @@
     "language": "Python",
     "name": "elliefox-ai/comfyui-scene-generator",
     "stars": 2,
-    "updated_at": "2026-08-27T23:36:14Z",
+    "updated_at": "2026-08-27T23:59:16Z",
     "url": "https://github.com/elliefox-ai/comfyui-scene-generator"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 38330,
+    "updated_at": "2026-08-27T23:57:58Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
+    "id": "Tubifix77/red-thread",
+    "language": "Python",
+    "name": "Tubifix77/red-thread",
+    "stars": 0,
+    "updated_at": "2026-08-27T23:57:08Z",
+    "url": "https://github.com/Tubifix77/red-thread"
+  },
+  {
+    "description": "Plan an agent's context window like a budget: allocate it across every consumer, watch the stacked bar, and find the ove",
+    "id": "0xelitesystem/context-budget-planner",
+    "language": "HTML",
+    "name": "0xelitesystem/context-budget-planner",
+    "stars": 0,
+    "updated_at": "2026-08-27T23:56:47Z",
+    "url": "https://github.com/0xelitesystem/context-budget-planner"
+  },
+  {
+    "description": "Run the same prompt against multiple Claude models side-by-side. Compare outputs, latency, and cost in one click. BYOK, ",
+    "id": "0xelitesystem/claude-eval-harness",
+    "language": "HTML",
+    "name": "0xelitesystem/claude-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-08-27T23:56:41Z",
+    "url": "https://github.com/0xelitesystem/claude-eval-harness"
+  },
+  {
+    "description": "Git records each repository. vat records what happened across them \u2014 a control plane for multi-repo workspaces and the a",
+    "id": "takealook97/vat",
+    "language": "Go",
+    "name": "takealook97/vat",
+    "stars": 0,
+    "updated_at": "2026-08-27T23:56:28Z",
+    "url": "https://github.com/takealook97/vat"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -32,8 +77,44 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-27T23:36:03Z",
+    "updated_at": "2026-08-27T23:54:00Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Biblioteca port\u00e1til de agentes pessoais em Markdown, com privacidade por padr\u00e3o",
+    "id": "lucasteixeirati/personal-ai-agents",
+    "language": "JavaScript",
+    "name": "lucasteixeirati/personal-ai-agents",
+    "stars": 0,
+    "updated_at": "2026-08-27T23:53:46Z",
+    "url": "https://github.com/lucasteixeirati/personal-ai-agents"
+  },
+  {
+    "description": "Doaa (Prism Engine): an open-source, governed linguistic-algorithmic mediator for compact LLM interaction, strict result",
+    "id": "saifromih-glitch/doaa-prism-engine",
+    "language": "Python",
+    "name": "saifromih-glitch/doaa-prism-engine",
+    "stars": 0,
+    "updated_at": "2026-08-27T23:52:58Z",
+    "url": "https://github.com/saifromih-glitch/doaa-prism-engine"
+  },
+  {
+    "description": "Build high-quality software faster with AI-driven lifecycle management.",
+    "id": "markhazleton/devspark",
+    "language": "Python",
+    "name": "markhazleton/devspark",
+    "stars": 0,
+    "updated_at": "2026-08-27T23:46:31Z",
+    "url": "https://github.com/markhazleton/devspark"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-27T23:45:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A Claude Code skill that cuts coding token usage up to 94% without cutting quality. Measured, reproducible benchmark inc",
@@ -97,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T23:30:54Z",
     "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-27T23:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -252,15 +324,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
-    "id": "Tubifix77/red-thread",
-    "language": "Python",
-    "name": "Tubifix77/red-thread",
-    "stars": 0,
-    "updated_at": "2026-08-27T23:18:03Z",
-    "url": "https://github.com/Tubifix77/red-thread"
-  },
-  {
     "description": "Agent skills for decisions under uncertainty, plus the evaluation harness that measures them: pre-registered predictions",
     "id": "AngelCampa1/decision-making-skills",
     "language": "Python",
@@ -313,15 +376,6 @@
     "stars": 13290,
     "updated_at": "2026-08-27T23:06:29Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Biblioteca port\u00e1til de agentes pessoais em Markdown, com privacidade por padr\u00e3o",
-    "id": "lucasteixeirati/personal-ai-agents",
-    "language": "JavaScript",
-    "name": "lucasteixeirati/personal-ai-agents",
-    "stars": 0,
-    "updated_at": "2026-08-27T23:03:35Z",
-    "url": "https://github.com/lucasteixeirati/personal-ai-agents"
   },
   {
     "description": "Quality/cost-aware operating layer for Codex: skill routing, safety hooks, source provenance, evals, and CI-backed relea",
@@ -394,59 +448,5 @@
     "stars": 7098,
     "updated_at": "2026-08-27T22:52:37Z",
     "url": "https://github.com/kyegomez/swarms"
-  },
-  {
-    "description": "LLM Prompt Studio for image, 3D, video, and audio models",
-    "id": "doodersrage/llm-prompt-studio",
-    "language": "TypeScript",
-    "name": "doodersrage/llm-prompt-studio",
-    "stars": 1,
-    "updated_at": "2026-08-27T22:52:04Z",
-    "url": "https://github.com/doodersrage/llm-prompt-studio"
-  },
-  {
-    "description": "Build, version and distribute AI agent intelligence across your organization - one CLI, versioned Intelligence Packages,",
-    "id": "ainova-systems/intelligence",
-    "language": "Shell",
-    "name": "ainova-systems/intelligence",
-    "stars": 1,
-    "updated_at": "2026-08-27T22:52:00Z",
-    "url": "https://github.com/ainova-systems/intelligence"
-  },
-  {
-    "description": "Explainable resume-job matching via a multi-stage LangChain pipeline \u2014 chain-of-thought scoring, structured validation, ",
-    "id": "MostafaNouh0011/resume-fit-analyzer",
-    "language": "\u2014",
-    "name": "MostafaNouh0011/resume-fit-analyzer",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:51:15Z",
-    "url": "https://github.com/MostafaNouh0011/resume-fit-analyzer"
-  },
-  {
-    "description": "Based on Anthropic's skill-creator \u2014 with bug fixes, working Cowork support, and official best practices baked in. Claud",
-    "id": "yaniv-golan/skill-creator-plus",
-    "language": "Python",
-    "name": "yaniv-golan/skill-creator-plus",
-    "stars": 4,
-    "updated_at": "2026-08-27T22:46:29Z",
-    "url": "https://github.com/yaniv-golan/skill-creator-plus"
-  },
-  {
-    "description": "An eval harness that gates deployment and measures its own judges. Three LLM judges score a system under test against a ",
-    "id": "jkelly-dev1/llm-eval-gate",
-    "language": "Python",
-    "name": "jkelly-dev1/llm-eval-gate",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:46:22Z",
-    "url": "https://github.com/jkelly-dev1/llm-eval-gate"
-  },
-  {
-    "description": "Measures whether context quality changes what an LLM answers: 150 questions, ten single-variable context conditions, two",
-    "id": "jkelly-dev1/context-quality-ablation",
-    "language": "Python",
-    "name": "jkelly-dev1/context-quality-ablation",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:43:45Z",
-    "url": "https://github.com/jkelly-dev1/context-quality-ablation"
   }
 ]
