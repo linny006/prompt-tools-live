@@ -1,21 +1,138 @@
 [
   {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-08-28T21:29:36Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-08-28T21:29:21Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
+    "id": "CodeAlive-AI/ai-driven-development",
+    "language": "Python",
+    "name": "CodeAlive-AI/ai-driven-development",
+    "stars": 130,
+    "updated_at": "2026-08-28T21:29:16Z",
+    "url": "https://github.com/CodeAlive-AI/ai-driven-development"
+  },
+  {
+    "description": "Agent Skills for coding agents: software engineering workflows and architecture tools. Personalized forks, with every up",
+    "id": "martonpaulo/skills",
+    "language": "Python",
+    "name": "martonpaulo/skills",
+    "stars": 1,
+    "updated_at": "2026-08-28T21:28:02Z",
+    "url": "https://github.com/martonpaulo/skills"
+  },
+  {
+    "description": "Evidence-gated removal of context instructions for Amplifier. Every context system can ADD instructions; almost none can",
+    "id": "michaeljabbour/amplifier-bundle-preceptor",
+    "language": "Python",
+    "name": "michaeljabbour/amplifier-bundle-preceptor",
+    "stars": 0,
+    "updated_at": "2026-08-28T21:26:42Z",
+    "url": "https://github.com/michaeljabbour/amplifier-bundle-preceptor"
+  },
+  {
+    "description": "Forge portable coding-agent skills with linting, activation tests, render adapters, and local-first packaging.",
+    "id": "rogerchappel/skillforge",
+    "language": "TypeScript",
+    "name": "rogerchappel/skillforge",
+    "stars": 0,
+    "updated_at": "2026-08-28T21:25:51Z",
+    "url": "https://github.com/rogerchappel/skillforge"
+  },
+  {
+    "description": "8 production-ready Claude skills for Claude Code and claude.ai: six document generators and a documentation-lifecycle to",
+    "id": "StefanoZaghi1987/ClaudeSkills",
+    "language": "Python",
+    "name": "StefanoZaghi1987/ClaudeSkills",
+    "stars": 1,
+    "updated_at": "2026-08-28T21:24:42Z",
+    "url": "https://github.com/StefanoZaghi1987/ClaudeSkills"
+  },
+  {
+    "description": "Free library of original guides on working with AI. Source and scripts for corewise.academy.",
+    "id": "ryanportfolio/Corewise.Academy",
+    "language": "MDX",
+    "name": "ryanportfolio/Corewise.Academy",
+    "stars": 1,
+    "updated_at": "2026-08-28T21:24:13Z",
+    "url": "https://github.com/ryanportfolio/Corewise.Academy"
+  },
+  {
+    "description": "165 evidence-grounded AI skills for teachers, school leaders and EdTech builders\u2014pedagogy, learning science, curriculum,",
+    "id": "GarethManning/education-agent-skills",
+    "language": "TypeScript",
+    "name": "GarethManning/education-agent-skills",
+    "stars": 702,
+    "updated_at": "2026-08-28T21:22:06Z",
+    "url": "https://github.com/GarethManning/education-agent-skills"
+  },
+  {
+    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
+    "id": "FoxsterDev/ai-research-hub",
+    "language": "Python",
+    "name": "FoxsterDev/ai-research-hub",
+    "stars": 5,
+    "updated_at": "2026-08-28T21:20:58Z",
+    "url": "https://github.com/FoxsterDev/ai-research-hub"
+  },
+  {
+    "description": "Single source of truth for AI coding rules across Claude Code, Cursor, Copilot, Codex, and more. Write once, sync everyw",
+    "id": "ainova-systems/intelligence-sync",
+    "language": "Shell",
+    "name": "ainova-systems/intelligence-sync",
+    "stars": 4,
+    "updated_at": "2026-08-28T21:20:33Z",
+    "url": "https://github.com/ainova-systems/intelligence-sync"
+  },
+  {
+    "description": "How many tokens does an AI agent pay to read your repo? Measure it, find the waste (lockfiles, bundles, generated files)",
+    "id": "CAOShurong/contextcost",
+    "language": "Python",
+    "name": "CAOShurong/contextcost",
+    "stars": 0,
+    "updated_at": "2026-08-28T21:19:21Z",
+    "url": "https://github.com/CAOShurong/contextcost"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-28T21:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Bilingual, searchable radar for useful open-source AIGC creative tools.",
+    "id": "kwokwile/awesome-aigc-tools",
+    "language": "TypeScript",
+    "name": "kwokwile/awesome-aigc-tools",
+    "stars": 2,
+    "updated_at": "2026-08-28T21:14:55Z",
+    "url": "https://github.com/kwokwile/awesome-aigc-tools"
+  },
+  {
     "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
     "id": "elie222/botdirectory.ai",
     "language": "Astro",
     "name": "elie222/botdirectory.ai",
     "stars": 140,
-    "updated_at": "2026-08-28T21:12:53Z",
+    "updated_at": "2026-08-28T21:21:24Z",
     "url": "https://github.com/elie222/botdirectory.ai"
-  },
-  {
-    "description": "My personal Agent Skills for coding agents: engineering workflows plus a few personal-use tools. Personalized forks, wit",
-    "id": "martonpaulo/skills",
-    "language": "Python",
-    "name": "martonpaulo/skills",
-    "stars": 1,
-    "updated_at": "2026-08-28T21:12:42Z",
-    "url": "https://github.com/martonpaulo/skills"
   },
   {
     "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
@@ -81,31 +198,13 @@
     "url": "https://github.com/ardha27/seedance-prompts"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-28T21:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
     "id": "ntatschner/loadout-cli",
     "language": "C#",
     "name": "ntatschner/loadout-cli",
     "stars": 1,
-    "updated_at": "2026-08-28T20:58:43Z",
+    "updated_at": "2026-08-28T21:28:07Z",
     "url": "https://github.com/ntatschner/loadout-cli"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-08-28T20:57:57Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
     "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
@@ -203,7 +302,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 3,
-    "updated_at": "2026-08-28T20:37:28Z",
+    "updated_at": "2026-08-28T21:28:56Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -220,7 +319,7 @@
     "id": "Nanako0129/sepia",
     "language": "Shell",
     "name": "Nanako0129/sepia",
-    "stars": 216,
+    "stars": 228,
     "updated_at": "2026-08-28T20:37:24Z",
     "url": "https://github.com/Nanako0129/sepia"
   },
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T20:27:35Z",
     "url": "https://github.com/Mairaarshad19/FlyRankInternship-GeneralAIFluency"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 4,
-    "updated_at": "2026-08-28T20:20:55Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
-    "id": "conorbronsdon/agent-context-os",
-    "language": "Python",
-    "name": "conorbronsdon/agent-context-os",
-    "stars": 15,
-    "updated_at": "2026-08-28T21:02:10Z",
-    "url": "https://github.com/conorbronsdon/agent-context-os"
-  },
-  {
-    "description": "LLM Prompt Studio for image, 3D, video, and audio models",
-    "id": "doodersrage/llm-prompt-studio",
-    "language": "TypeScript",
-    "name": "doodersrage/llm-prompt-studio",
-    "stars": 1,
-    "updated_at": "2026-08-28T20:19:15Z",
-    "url": "https://github.com/doodersrage/llm-prompt-studio"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1910,
-    "updated_at": "2026-08-28T20:18:29Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21656,
-    "updated_at": "2026-08-28T20:16:26Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udd2b Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression c",
-    "id": "V-Songbird/hush",
-    "language": "JavaScript",
-    "name": "V-Songbird/hush",
-    "stars": 44,
-    "updated_at": "2026-08-28T20:13:59Z",
-    "url": "https://github.com/V-Songbird/hush"
-  },
-  {
-    "description": "\ud83d\udccb Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your",
-    "id": "V-Songbird/foreman",
-    "language": "JavaScript",
-    "name": "V-Songbird/foreman",
-    "stars": 33,
-    "updated_at": "2026-08-28T20:13:57Z",
-    "url": "https://github.com/V-Songbird/foreman"
-  },
-  {
-    "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
-    "id": "imMamdouhaboammar/get-fable",
-    "language": "TypeScript",
-    "name": "imMamdouhaboammar/get-fable",
-    "stars": 2,
-    "updated_at": "2026-08-28T20:48:59Z",
-    "url": "https://github.com/imMamdouhaboammar/get-fable"
-  },
-  {
-    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
-    "id": "Tubifix77/red-thread",
-    "language": "Python",
-    "name": "Tubifix77/red-thread",
-    "stars": 0,
-    "updated_at": "2026-08-28T20:08:42Z",
-    "url": "https://github.com/Tubifix77/red-thread"
-  },
-  {
-    "description": "Jest for prompts \u2014 catch LLM prompt regressions in CI, offline and deterministic. Record real model outputs once, replay",
-    "id": "manijose1919/promptproof",
-    "language": "TypeScript",
-    "name": "manijose1919/promptproof",
-    "stars": 0,
-    "updated_at": "2026-08-28T20:07:05Z",
-    "url": "https://github.com/manijose1919/promptproof"
-  },
-  {
-    "description": "\ud83e\ude92 YAGNI enforcement at the harness level, nudges toward the simplest solution and gates against unnecessary dependencies",
-    "id": "V-Songbird/razor",
-    "language": "JavaScript",
-    "name": "V-Songbird/razor",
-    "stars": 7,
-    "updated_at": "2026-08-28T20:06:41Z",
-    "url": "https://github.com/V-Songbird/razor"
   }
 ]
