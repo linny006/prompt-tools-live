@@ -1,12 +1,129 @@
 [
   {
+    "description": "\ud83e\udd2b Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression c",
+    "id": "V-Songbird/hush",
+    "language": "JavaScript",
+    "name": "V-Songbird/hush",
+    "stars": 44,
+    "updated_at": "2026-08-28T20:13:59Z",
+    "url": "https://github.com/V-Songbird/hush"
+  },
+  {
+    "description": "\ud83d\udccb Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your",
+    "id": "V-Songbird/foreman",
+    "language": "JavaScript",
+    "name": "V-Songbird/foreman",
+    "stars": 33,
+    "updated_at": "2026-08-28T20:13:57Z",
+    "url": "https://github.com/V-Songbird/foreman"
+  },
+  {
+    "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
+    "id": "imMamdouhaboammar/get-fable",
+    "language": "TypeScript",
+    "name": "imMamdouhaboammar/get-fable",
+    "stars": 2,
+    "updated_at": "2026-08-28T20:15:05Z",
+    "url": "https://github.com/imMamdouhaboammar/get-fable"
+  },
+  {
+    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
+    "id": "wangkant/personagent",
+    "language": "Python",
+    "name": "wangkant/personagent",
+    "stars": 15,
+    "updated_at": "2026-08-28T20:10:49Z",
+    "url": "https://github.com/wangkant/personagent"
+  },
+  {
+    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
+    "id": "Tubifix77/red-thread",
+    "language": "Python",
+    "name": "Tubifix77/red-thread",
+    "stars": 0,
+    "updated_at": "2026-08-28T20:08:42Z",
+    "url": "https://github.com/Tubifix77/red-thread"
+  },
+  {
+    "description": "Assignments and projects for the FlyRank General AI Fluency internship track.",
+    "id": "Mairaarshad19/FlyRankInternship-GeneralAIFluency",
+    "language": "HTML",
+    "name": "Mairaarshad19/FlyRankInternship-GeneralAIFluency",
+    "stars": 0,
+    "updated_at": "2026-08-28T20:08:15Z",
+    "url": "https://github.com/Mairaarshad19/FlyRankInternship-GeneralAIFluency"
+  },
+  {
     "description": "The private, offline-first prompt manager for AI power users. Features AES-256 encrypted local storage, a built-in AI Li",
     "id": "SagarBiswas-MultiHAT/promptVault",
     "language": "TypeScript",
     "name": "SagarBiswas-MultiHAT/promptVault",
     "stars": 19,
-    "updated_at": "2026-08-28T19:59:45Z",
+    "updated_at": "2026-08-28T20:07:58Z",
     "url": "https://github.com/SagarBiswas-MultiHAT/promptVault"
+  },
+  {
+    "description": "Jest for prompts \u2014 catch LLM prompt regressions in CI, offline and deterministic. Record real model outputs once, replay",
+    "id": "manijose1919/promptproof",
+    "language": "TypeScript",
+    "name": "manijose1919/promptproof",
+    "stars": 0,
+    "updated_at": "2026-08-28T20:07:05Z",
+    "url": "https://github.com/manijose1919/promptproof"
+  },
+  {
+    "description": "\ud83e\ude92 YAGNI enforcement at the harness level, nudges toward the simplest solution and gates against unnecessary dependencies",
+    "id": "V-Songbird/razor",
+    "language": "JavaScript",
+    "name": "V-Songbird/razor",
+    "stars": 7,
+    "updated_at": "2026-08-28T20:06:41Z",
+    "url": "https://github.com/V-Songbird/razor"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13304,
+    "updated_at": "2026-08-28T20:06:11Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Versioned, machine-readable UX-flow critique you operate, not paste \u2014 extracts a UI's structure, checks coupling invaria",
+    "id": "LinzLos/FLOWIE",
+    "language": "HTML",
+    "name": "LinzLos/FLOWIE",
+    "stars": 0,
+    "updated_at": "2026-08-28T20:04:46Z",
+    "url": "https://github.com/LinzLos/FLOWIE"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 1,
+    "updated_at": "2026-08-28T20:04:20Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
+    "id": "kochetkov-ma/claude-brewcode",
+    "language": "JavaScript",
+    "name": "kochetkov-ma/claude-brewcode",
+    "stars": 31,
+    "updated_at": "2026-08-28T20:01:20Z",
+    "url": "https://github.com/kochetkov-ma/claude-brewcode"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-28T20:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "1282 production-ready AI agent skills with self-evolving meta-skills \u2014 783 cybersecurity, SEO, trading, marketing, autom",
@@ -36,15 +153,6 @@
     "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
   },
   {
-    "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
-    "id": "imMamdouhaboammar/get-fable",
-    "language": "TypeScript",
-    "name": "imMamdouhaboammar/get-fable",
-    "stars": 2,
-    "updated_at": "2026-08-28T19:58:10Z",
-    "url": "https://github.com/imMamdouhaboammar/get-fable"
-  },
-  {
     "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
     "id": "FlorianBruniaux/claude-code-ultimate-guide",
     "language": "Python",
@@ -54,24 +162,6 @@
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
   },
   {
-    "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
-    "id": "kochetkov-ma/claude-brewcode",
-    "language": "JavaScript",
-    "name": "kochetkov-ma/claude-brewcode",
-    "stars": 31,
-    "updated_at": "2026-08-28T19:50:50Z",
-    "url": "https://github.com/kochetkov-ma/claude-brewcode"
-  },
-  {
-    "description": "Assignments and projects for the FlyRank General AI Fluency internship track.",
-    "id": "Mairaarshad19/FlyRankInternship-GeneralAIFluency",
-    "language": "HTML",
-    "name": "Mairaarshad19/FlyRankInternship-GeneralAIFluency",
-    "stars": 0,
-    "updated_at": "2026-08-28T19:49:51Z",
-    "url": "https://github.com/Mairaarshad19/FlyRankInternship-GeneralAIFluency"
-  },
-  {
     "description": "\ud83d\udd25 Two drop-in text files that make Claude Code write less and talk less \u2014 a CLAUDE.md fragment and a prompt that tunes t",
     "id": "V-Songbird/flint",
     "language": "\u2014",
@@ -79,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T19:46:29Z",
     "url": "https://github.com/V-Songbird/flint"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-28T19:45:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
@@ -103,7 +184,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21654,
+    "stars": 21655,
     "updated_at": "2026-08-28T19:42:42Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11227,
-    "updated_at": "2026-08-28T19:58:12Z",
+    "updated_at": "2026-08-28T20:13:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -175,7 +256,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24646,
+    "stars": 24647,
     "updated_at": "2026-08-28T19:34:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -185,7 +266,7 @@
     "language": "Python",
     "name": "conorbronsdon/agent-context-os",
     "stars": 15,
-    "updated_at": "2026-08-28T19:57:41Z",
+    "updated_at": "2026-08-28T20:14:02Z",
     "url": "https://github.com/conorbronsdon/agent-context-os"
   },
   {
@@ -196,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T19:34:35Z",
     "url": "https://github.com/Nurburgring-Zhang/ComfyUI-DirectorMaster"
-  },
-  {
-    "description": "Jest for prompts \u2014 catch LLM prompt regressions in CI, offline and deterministic. Record real model outputs once, replay",
-    "id": "manijose1919/promptproof",
-    "language": "TypeScript",
-    "name": "manijose1919/promptproof",
-    "stars": 0,
-    "updated_at": "2026-08-28T19:34:19Z",
-    "url": "https://github.com/manijose1919/promptproof"
   },
   {
     "description": "Reusable AI agent skills for Cursor & Claude Code \u2014 brainstorm \u2192 interview \u2192 plan \u2192 execute \u2192 review",
@@ -232,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T19:30:51Z",
     "url": "https://github.com/michaeljabbour/amplifier-bundle-preceptor"
-  },
-  {
-    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
-    "id": "wangkant/personagent",
-    "language": "Python",
-    "name": "wangkant/personagent",
-    "stars": 15,
-    "updated_at": "2026-08-28T19:26:57Z",
-    "url": "https://github.com/wangkant/personagent"
   },
   {
     "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
@@ -385,68 +448,5 @@
     "stars": 33864,
     "updated_at": "2026-08-28T19:04:54Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
-    "id": "grigb/gas-prompt-library",
-    "language": "Python",
-    "name": "grigb/gas-prompt-library",
-    "stars": 5,
-    "updated_at": "2026-08-28T19:00:28Z",
-    "url": "https://github.com/grigb/gas-prompt-library"
-  },
-  {
-    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
-    "id": "conorbronsdon/avoid-ai-writing",
-    "language": "JavaScript",
-    "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 3588,
-    "updated_at": "2026-08-28T18:59:19Z",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
-  },
-  {
-    "description": "A multi-modal AI integrating Grok, OpenAI, and Gemini for retrieval-augmented generation (RAG), semantic search, and str",
-    "id": "is-leeroy-jenkins/Buddy",
-    "language": "HTML",
-    "name": "is-leeroy-jenkins/Buddy",
-    "stars": 6,
-    "updated_at": "2026-08-28T18:57:54Z",
-    "url": "https://github.com/is-leeroy-jenkins/Buddy"
-  },
-  {
-    "description": "Open-source, platform-agnostic AI skills, prompts, workflows, and guardrails for churches, Hebrews and Christian ministr",
-    "id": "asjames18/ministry-ai-skills",
-    "language": "Python",
-    "name": "asjames18/ministry-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-08-28T18:56:01Z",
-    "url": "https://github.com/asjames18/ministry-ai-skills"
-  },
-  {
-    "description": "\ud83e\udd16 Curated agent skills for AI agents \u2014 one coherent engineering loop that compounds: grill \u2192 spec \u2192 implement \u2192 review \u2192",
-    "id": "toverux/cantrips",
-    "language": "Shell",
-    "name": "toverux/cantrips",
-    "stars": 2,
-    "updated_at": "2026-08-28T18:55:38Z",
-    "url": "https://github.com/toverux/cantrips"
-  },
-  {
-    "description": "Give your CLAUDE.md / AGENTS.md a checkup \u2014 audit size vitals, dead references, drifted claims, and backtest every rule ",
-    "id": "agent-clinic/claude-md-doctor",
-    "language": "Python",
-    "name": "agent-clinic/claude-md-doctor",
-    "stars": 11,
-    "updated_at": "2026-08-28T18:54:36Z",
-    "url": "https://github.com/agent-clinic/claude-md-doctor"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-28T18:53:40Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   }
 ]
