@@ -1,12 +1,84 @@
 [
   {
-    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
-    "id": "calmrocks/ai-engineer-notebooks",
-    "language": "Jupyter Notebook",
-    "name": "calmrocks/ai-engineer-notebooks",
-    "stars": 148,
-    "updated_at": "2026-08-28T03:00:25Z",
-    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
+    "description": "Curated AI prompts for software development - comprehensive meta-prompts for documentation, CI/CD, testing, security aud",
+    "id": "agigante80/vibe-coding-prompts",
+    "language": "Python",
+    "name": "agigante80/vibe-coding-prompts",
+    "stars": 8,
+    "updated_at": "2026-08-28T03:29:33Z",
+    "url": "https://github.com/agigante80/vibe-coding-prompts"
+  },
+  {
+    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
+    "id": "martialsystems/verify-before-done",
+    "language": "Python",
+    "name": "martialsystems/verify-before-done",
+    "stars": 1,
+    "updated_at": "2026-08-28T03:24:49Z",
+    "url": "https://github.com/martialsystems/verify-before-done"
+  },
+  {
+    "description": "Turn long-form speech into precise, domain-specific prompts with a tactile voice console for Omarchy.",
+    "id": "JamesWeatherhead/jukebox",
+    "language": "Python",
+    "name": "JamesWeatherhead/jukebox",
+    "stars": 0,
+    "updated_at": "2026-08-28T03:21:20Z",
+    "url": "https://github.com/JamesWeatherhead/jukebox"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-28T03:20:53Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "\u628a\u771f\u5b9e\u7ecf\u9a8c\u8bbe\u8ba1\u6210\u53ef\u9a8c\u8bc1\u5019\u9009 Skill\uff5cA Chinese-first Skill-building coach",
+    "id": "Natie717/build-reliable-skill",
+    "language": "\u2014",
+    "name": "Natie717/build-reliable-skill",
+    "stars": 0,
+    "updated_at": "2026-08-28T03:19:14Z",
+    "url": "https://github.com/Natie717/build-reliable-skill"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 67844,
+    "updated_at": "2026-08-28T03:16:29Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-28T03:16:08Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
+    "id": "grigb/gas-prompt-library",
+    "language": "Python",
+    "name": "grigb/gas-prompt-library",
+    "stars": 5,
+    "updated_at": "2026-08-28T03:13:17Z",
+    "url": "https://github.com/grigb/gas-prompt-library"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-08-28T03:11:50Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -14,8 +86,80 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27701,
-    "updated_at": "2026-08-28T03:00:05Z",
+    "updated_at": "2026-08-28T03:11:35Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-08-28T03:06:36Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
+    "id": "ZeroLu/awesome-seedance",
+    "language": "Shell",
+    "name": "ZeroLu/awesome-seedance",
+    "stars": 2343,
+    "updated_at": "2026-08-28T03:02:32Z",
+    "url": "https://github.com/ZeroLu/awesome-seedance"
+  },
+  {
+    "description": "A CI gate for testing AI prompts and preventing regressions.",
+    "id": "mukundzha/crilio",
+    "language": "Python",
+    "name": "mukundzha/crilio",
+    "stars": 1,
+    "updated_at": "2026-08-28T03:02:01Z",
+    "url": "https://github.com/mukundzha/crilio"
+  },
+  {
+    "description": "Doaa (Prism Engine): an open-source, governed linguistic-algorithmic mediator for compact LLM interaction, strict result",
+    "id": "saifromih-glitch/doaa-prism-engine",
+    "language": "Python",
+    "name": "saifromih-glitch/doaa-prism-engine",
+    "stars": 0,
+    "updated_at": "2026-08-28T03:01:38Z",
+    "url": "https://github.com/saifromih-glitch/doaa-prism-engine"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-28T03:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-08-28T03:00:29Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
+    "id": "calmrocks/ai-engineer-notebooks",
+    "language": "Jupyter Notebook",
+    "name": "calmrocks/ai-engineer-notebooks",
+    "stars": 161,
+    "updated_at": "2026-08-28T03:00:28Z",
+    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
+  },
+  {
+    "description": "My personal AI coding tool prompts (SKILL.md)",
+    "id": "jim60105/copilot-prompt",
+    "language": "Python",
+    "name": "jim60105/copilot-prompt",
+    "stars": 21,
+    "updated_at": "2026-08-28T02:58:57Z",
+    "url": "https://github.com/jim60105/copilot-prompt"
   },
   {
     "description": "Local Claude Code HTTP traffic inspector with a desktop GUI and agent API. Capture prompts, tools, SSE, errors, and toke",
@@ -27,6 +171,15 @@
     "url": "https://github.com/FuHehe12/cc-wire-analyzer"
   },
   {
+    "description": "Statistical analysis for LLM evaluations, from model comparisons to inference resilient to LLM judge bias, optimized for",
+    "id": "ianarawjo/evalstats",
+    "language": "Python",
+    "name": "ianarawjo/evalstats",
+    "stars": 117,
+    "updated_at": "2026-08-28T02:56:46Z",
+    "url": "https://github.com/ianarawjo/evalstats"
+  },
+  {
     "description": "Catch your AI coding agent's security slips and turn the correction into a local regression eval. Local-first, determini",
     "id": "TreeTraceTool/TreeTrace",
     "language": "JavaScript",
@@ -36,24 +189,6 @@
     "url": "https://github.com/TreeTraceTool/TreeTrace"
   },
   {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-08-28T02:54:07Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Doaa (Prism Engine): an open-source, governed linguistic-algorithmic mediator for compact LLM interaction, strict result",
-    "id": "saifromih-glitch/doaa-prism-engine",
-    "language": "Python",
-    "name": "saifromih-glitch/doaa-prism-engine",
-    "stars": 0,
-    "updated_at": "2026-08-28T02:54:04Z",
-    "url": "https://github.com/saifromih-glitch/doaa-prism-engine"
-  },
-  {
     "description": "A live AI wizard-council app + a reference implementation of MetaObjects: one metadata spine drives the DB schema, API t",
     "id": "Draagon/wizardsofodd",
     "language": "TypeScript",
@@ -61,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T02:55:44Z",
     "url": "https://github.com/Draagon/wizardsofodd"
-  },
-  {
-    "description": "Curated AI prompts for software development - comprehensive meta-prompts for documentation, CI/CD, testing, security aud",
-    "id": "agigante80/vibe-coding-prompts",
-    "language": "Python",
-    "name": "agigante80/vibe-coding-prompts",
-    "stars": 8,
-    "updated_at": "2026-08-28T02:49:43Z",
-    "url": "https://github.com/agigante80/vibe-coding-prompts"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-28T02:49:41Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -115,24 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T02:46:34Z",
     "url": "https://github.com/jposluns/cleanlanguage"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-28T02:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
-    "id": "grigb/gas-prompt-library",
-    "language": "Python",
-    "name": "grigb/gas-prompt-library",
-    "stars": 5,
-    "updated_at": "2026-08-28T02:43:46Z",
-    "url": "https://github.com/grigb/gas-prompt-library"
   },
   {
     "description": "Git records each repository. vat records what happened across them \u2014 a control plane for multi-repo workspaces and the a",
@@ -248,7 +347,7 @@
     "language": "Python",
     "name": "Hefrock/agent-skills",
     "stars": 0,
-    "updated_at": "2026-08-28T02:49:57Z",
+    "updated_at": "2026-08-28T03:10:33Z",
     "url": "https://github.com/Hefrock/agent-skills"
   },
   {
@@ -320,7 +419,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6445,
-    "updated_at": "2026-08-28T02:09:25Z",
+    "updated_at": "2026-08-28T03:09:58Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -337,7 +436,7 @@
     "id": "github/awesome-copilot",
     "language": "JavaScript",
     "name": "github/awesome-copilot",
-    "stars": 38336,
+    "stars": 38337,
     "updated_at": "2026-08-28T02:08:22Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -347,106 +446,7 @@
     "language": "JavaScript",
     "name": "thkt/dotclaude",
     "stars": 11,
-    "updated_at": "2026-08-28T02:07:13Z",
+    "updated_at": "2026-08-28T03:25:20Z",
     "url": "https://github.com/thkt/dotclaude"
-  },
-  {
-    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
-    "id": "smsheik1/wiggly",
-    "language": "TypeScript",
-    "name": "smsheik1/wiggly",
-    "stars": 1,
-    "updated_at": "2026-08-28T02:07:02Z",
-    "url": "https://github.com/smsheik1/wiggly"
-  },
-  {
-    "description": "Five generations of a decision-driven frontend design Skill, with the rendered HTML evidence preserved.",
-    "id": "WangHexinyi/taste-lab",
-    "language": "Markdown",
-    "name": "WangHexinyi/taste-lab",
-    "stars": 1,
-    "updated_at": "2026-08-28T02:04:41Z",
-    "url": "https://github.com/WangHexinyi/taste-lab"
-  },
-  {
-    "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
-    "id": "MihirKJha/enterprise-ai-engineering-handbook",
-    "language": "HTML",
-    "name": "MihirKJha/enterprise-ai-engineering-handbook",
-    "stars": 3,
-    "updated_at": "2026-08-28T02:03:30Z",
-    "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
-  },
-  {
-    "description": "Free library of original guides on working with AI. Source and scripts for corewise.academy.",
-    "id": "ryanportfolio/Corewise.Academy",
-    "language": "MDX",
-    "name": "ryanportfolio/Corewise.Academy",
-    "stars": 1,
-    "updated_at": "2026-08-28T02:01:54Z",
-    "url": "https://github.com/ryanportfolio/Corewise.Academy"
-  },
-  {
-    "description": "Brewcode - full-featured development platform for Claude Code: infinite focus tasks with automatic context handoff, prom",
-    "id": "kochetkov-ma/claude-brewcode",
-    "language": "JavaScript",
-    "name": "kochetkov-ma/claude-brewcode",
-    "stars": 31,
-    "updated_at": "2026-08-28T01:59:50Z",
-    "url": "https://github.com/kochetkov-ma/claude-brewcode"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 0,
-    "updated_at": "2026-08-28T01:59:36Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
-  },
-  {
-    "description": "AI-native .NET 8 Web API \u2014 business intelligence powered by AI: risk detection, bottleneck analysis, opportunity scoring",
-    "id": "ikilic-tech/ai-business-workflow",
-    "language": "C#",
-    "name": "ikilic-tech/ai-business-workflow",
-    "stars": 1,
-    "updated_at": "2026-08-28T01:56:54Z",
-    "url": "https://github.com/ikilic-tech/ai-business-workflow"
-  },
-  {
-    "description": "MindSpark - Mind Map for Everyone",
-    "id": "prasadpatil25/MindSpark",
-    "language": "JavaScript",
-    "name": "prasadpatil25/MindSpark",
-    "stars": 32,
-    "updated_at": "2026-08-28T01:54:28Z",
-    "url": "https://github.com/prasadpatil25/MindSpark"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-28T01:51:52Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "AI Systems Engineering: A Practical Bootcamp \u2014 a 30-working-day curriculum and build tooling for moving from traditional",
-    "id": "rioffe/ai_systems_engineering_bootcamp",
-    "language": "Python",
-    "name": "rioffe/ai_systems_engineering_bootcamp",
-    "stars": 0,
-    "updated_at": "2026-08-28T01:49:33Z",
-    "url": "https://github.com/rioffe/ai_systems_engineering_bootcamp"
-  },
-  {
-    "description": "Grimoire's Tome & The Grim Council. A Prompt Spellbook of /skills. The #1 Coding Wizard \ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udcd6",
-    "id": "MindGoblinStudios/grim-tome",
-    "language": "JavaScript",
-    "name": "MindGoblinStudios/grim-tome",
-    "stars": 0,
-    "updated_at": "2026-08-28T01:48:32Z",
-    "url": "https://github.com/MindGoblinStudios/grim-tome"
   }
 ]
