@@ -1,12 +1,174 @@
 [
   {
+    "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
+    "id": "CodeAlive-AI/ai-driven-development",
+    "language": "Python",
+    "name": "CodeAlive-AI/ai-driven-development",
+    "stars": 130,
+    "updated_at": "2026-08-28T19:45:11Z",
+    "url": "https://github.com/CodeAlive-AI/ai-driven-development"
+  },
+  {
+    "description": "How many tokens does an AI agent pay to read your repo? Measure it, find the waste (lockfiles, bundles, generated files)",
+    "id": "CAOShurong/contextcost",
+    "language": "Python",
+    "name": "CAOShurong/contextcost",
+    "stars": 0,
+    "updated_at": "2026-08-28T19:41:27Z",
+    "url": "https://github.com/CAOShurong/contextcost"
+  },
+  {
+    "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
+    "id": "imMamdouhaboammar/get-fable",
+    "language": "TypeScript",
+    "name": "imMamdouhaboammar/get-fable",
+    "stars": 2,
+    "updated_at": "2026-08-28T19:45:29Z",
+    "url": "https://github.com/imMamdouhaboammar/get-fable"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11226,
+    "updated_at": "2026-08-28T19:41:52Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Turn long-form speech into precise, domain-specific prompts with a tactile voice console for Omarchy.",
+    "id": "JamesWeatherhead/jukebox",
+    "language": "Python",
+    "name": "JamesWeatherhead/jukebox",
+    "stars": 0,
+    "updated_at": "2026-08-28T19:40:21Z",
+    "url": "https://github.com/JamesWeatherhead/jukebox"
+  },
+  {
+    "description": "\ud83d\udd25 Two drop-in text files that make Claude Code write less and talk less \u2014 a CLAUDE.md fragment and a prompt that tunes t",
+    "id": "V-Songbird/flint",
+    "language": "\u2014",
+    "name": "V-Songbird/flint",
+    "stars": 2,
+    "updated_at": "2026-08-28T19:38:39Z",
+    "url": "https://github.com/V-Songbird/flint"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 136,
+    "updated_at": "2026-08-28T19:38:03Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
     "description": "Copy-paste bundles that birth persistent, auditable AI agents for Codex, Claude Code/Cowork, Gemini CLI, GitHub Copilot,",
     "id": "LucDinhLe/ai-agent-tool",
     "language": "Python",
     "name": "LucDinhLe/ai-agent-tool",
     "stars": 1,
-    "updated_at": "2026-08-28T19:28:14Z",
+    "updated_at": "2026-08-28T19:41:55Z",
     "url": "https://github.com/LucDinhLe/ai-agent-tool"
+  },
+  {
+    "description": "A vendored guide that has the agent reconstruct raw speech-to-text against your code",
+    "id": "albertwujj/voice-to-agent",
+    "language": "\u2014",
+    "name": "albertwujj/voice-to-agent",
+    "stars": 1,
+    "updated_at": "2026-08-28T19:35:29Z",
+    "url": "https://github.com/albertwujj/voice-to-agent"
+  },
+  {
+    "description": "A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow \u2014 semantic code n",
+    "id": "konstantinos-malavazos/claude-code-playbook",
+    "language": "Shell",
+    "name": "konstantinos-malavazos/claude-code-playbook",
+    "stars": 2,
+    "updated_at": "2026-08-28T19:35:01Z",
+    "url": "https://github.com/konstantinos-malavazos/claude-code-playbook"
+  },
+  {
+    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
+    "id": "conorbronsdon/agent-context-os",
+    "language": "Python",
+    "name": "conorbronsdon/agent-context-os",
+    "stars": 15,
+    "updated_at": "2026-08-28T19:34:37Z",
+    "url": "https://github.com/conorbronsdon/agent-context-os"
+  },
+  {
+    "description": "\ud83c\udfac \u5bfc\u6f14\u7ea7 AI \u5f71\u89c6\u521b\u4f5c ComfyUI \u8282\u70b9\u5305\uff1a600 \u4f4d\u5bfc\u6f14\u98ce\u683c\u5e93 + 246 \u521b\u4f5c\u6a21\u5f0f\uff0c\u4e00\u53e5\u8bdd\u521b\u610f \u2192 \u5267\u672c\u3001\u5206\u955c\u4e0e AIGC \u955c\u5934\u7ea7\u63d0\u793a\u8bcd\uff0c\u76f4\u4f9b Seedance/Wan \u7b49\u89c6\u9891\u6a21\u578b | Director-grade AI fil",
+    "id": "Nurburgring-Zhang/ComfyUI-DirectorMaster",
+    "language": "Python",
+    "name": "Nurburgring-Zhang/ComfyUI-DirectorMaster",
+    "stars": 0,
+    "updated_at": "2026-08-28T19:34:35Z",
+    "url": "https://github.com/Nurburgring-Zhang/ComfyUI-DirectorMaster"
+  },
+  {
+    "description": "Jest for prompts \u2014 catch LLM prompt regressions in CI, offline and deterministic. Record real model outputs once, replay",
+    "id": "manijose1919/promptproof",
+    "language": "TypeScript",
+    "name": "manijose1919/promptproof",
+    "stars": 0,
+    "updated_at": "2026-08-28T19:34:19Z",
+    "url": "https://github.com/manijose1919/promptproof"
+  },
+  {
+    "description": "Reusable AI agent skills for Cursor & Claude Code \u2014 brainstorm \u2192 interview \u2192 plan \u2192 execute \u2192 review",
+    "id": "ayberkcansever/ai-skills",
+    "language": "HTML",
+    "name": "ayberkcansever/ai-skills",
+    "stars": 2,
+    "updated_at": "2026-08-28T19:34:05Z",
+    "url": "https://github.com/ayberkcansever/ai-skills"
+  },
+  {
+    "description": "Personal AI tooling library \u2014 reusable prompts, agent definitions, and system instructions",
+    "id": "brignano/ai-tools",
+    "language": "PowerShell",
+    "name": "brignano/ai-tools",
+    "stars": 0,
+    "updated_at": "2026-08-28T19:31:45Z",
+    "url": "https://github.com/brignano/ai-tools"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24645,
+    "updated_at": "2026-08-28T19:34:38Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Evidence-gated removal of context instructions for Amplifier. Every context system can ADD instructions; almost none can",
+    "id": "michaeljabbour/amplifier-bundle-preceptor",
+    "language": "Python",
+    "name": "michaeljabbour/amplifier-bundle-preceptor",
+    "stars": 0,
+    "updated_at": "2026-08-28T19:30:51Z",
+    "url": "https://github.com/michaeljabbour/amplifier-bundle-preceptor"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-28T19:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-08-28T19:39:51Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
     "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
@@ -108,15 +270,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-28T19:15:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "DeepEval LLM evaluation framework using  Claude API \u2014 tests GEval, Hallucination, and Prompt Alignment metrics on an AI ",
     "id": "swatijreddy/deepeval-llm-eval-bug-reports",
     "language": "Python",
@@ -135,24 +288,6 @@
     "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
   },
   {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-08-28T19:30:25Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11226,
-    "updated_at": "2026-08-28T19:25:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Open-source design intelligence pipeline that detects generic AI interfaces and guides LLM output toward deliberate visu",
     "id": "Almotasembellahawwad/Verve",
     "language": "TypeScript",
@@ -162,15 +297,6 @@
     "url": "https://github.com/Almotasembellahawwad/Verve"
   },
   {
-    "description": "Evidence-gated removal of context instructions for Amplifier. Every context system can ADD instructions; almost none can",
-    "id": "michaeljabbour/amplifier-bundle-preceptor",
-    "language": "Python",
-    "name": "michaeljabbour/amplifier-bundle-preceptor",
-    "stars": 0,
-    "updated_at": "2026-08-28T19:09:20Z",
-    "url": "https://github.com/michaeljabbour/amplifier-bundle-preceptor"
-  },
-  {
     "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
     "id": "F-e-u-e-r/opus-pack",
     "language": "Python",
@@ -178,24 +304,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T19:08:33Z",
     "url": "https://github.com/F-e-u-e-r/opus-pack"
-  },
-  {
-    "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
-    "id": "imMamdouhaboammar/get-fable",
-    "language": "TypeScript",
-    "name": "imMamdouhaboammar/get-fable",
-    "stars": 2,
-    "updated_at": "2026-08-28T19:29:20Z",
-    "url": "https://github.com/imMamdouhaboammar/get-fable"
-  },
-  {
-    "description": "Reusable AI agent skills for Cursor & Claude Code \u2014 brainstorm \u2192 interview \u2192 plan \u2192 execute \u2192 review",
-    "id": "ayberkcansever/ai-skills",
-    "language": "HTML",
-    "name": "ayberkcansever/ai-skills",
-    "stars": 2,
-    "updated_at": "2026-08-28T19:22:49Z",
-    "url": "https://github.com/ayberkcansever/ai-skills"
   },
   {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
@@ -220,18 +328,9 @@
     "id": "conorbronsdon/avoid-ai-writing",
     "language": "JavaScript",
     "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 3586,
+    "stars": 3587,
     "updated_at": "2026-08-28T18:59:19Z",
     "url": "https://github.com/conorbronsdon/avoid-ai-writing"
-  },
-  {
-    "description": "How many tokens does an AI agent pay to read your repo? Measure it, find the waste (lockfiles, bundles, generated files)",
-    "id": "CAOShurong/contextcost",
-    "language": "Python",
-    "name": "CAOShurong/contextcost",
-    "stars": 0,
-    "updated_at": "2026-08-28T18:58:45Z",
-    "url": "https://github.com/CAOShurong/contextcost"
   },
   {
     "description": "A multi-modal AI integrating Grok, OpenAI, and Gemini for retrieval-augmented generation (RAG), semantic search, and str",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T18:47:27Z",
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Creative DNA video prompt cases and installable Skills for MiniMax H3 and Seedance 2.0, with an Electron video viewer.",
-    "id": "T8mars/minimax-h3-prompt-skill-T8",
-    "language": "JavaScript",
-    "name": "T8mars/minimax-h3-prompt-skill-T8",
-    "stars": 159,
-    "updated_at": "2026-08-28T18:46:30Z",
-    "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
-  },
-  {
-    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
-    "id": "elie222/botdirectory.ai",
-    "language": "Astro",
-    "name": "elie222/botdirectory.ai",
-    "stars": 139,
-    "updated_at": "2026-08-28T18:45:39Z",
-    "url": "https://github.com/elie222/botdirectory.ai"
-  },
-  {
-    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-    "id": "Spielewoy/autoprompt-skill",
-    "language": "JavaScript",
-    "name": "Spielewoy/autoprompt-skill",
-    "stars": 926,
-    "updated_at": "2026-08-28T18:44:44Z",
-    "url": "https://github.com/Spielewoy/autoprompt-skill"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3516,
-    "updated_at": "2026-08-28T19:25:05Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Structured, spec-driven development workflow for AI coding agents.",
-    "id": "sahil87/fab-kit",
-    "language": "Go",
-    "name": "sahil87/fab-kit",
-    "stars": 30,
-    "updated_at": "2026-08-28T18:40:37Z",
-    "url": "https://github.com/sahil87/fab-kit"
-  },
-  {
-    "description": "The safe and simple Human In The Loop lab notebook for coordinating AI sessions with packets & provenance, all with trac",
-    "id": "Wonderforge-Lab/CapstanAI-LabNote",
-    "language": "\u2014",
-    "name": "Wonderforge-Lab/CapstanAI-LabNote",
-    "stars": 0,
-    "updated_at": "2026-08-28T18:39:19Z",
-    "url": "https://github.com/Wonderforge-Lab/CapstanAI-LabNote"
-  },
-  {
-    "description": "Behavioral testing infrastructure for AI applications \u2014 test what your AI means, not what it says. Local-first, open sou",
-    "id": "tarun753/axiom",
-    "language": "TypeScript",
-    "name": "tarun753/axiom",
-    "stars": 0,
-    "updated_at": "2026-08-28T18:38:46Z",
-    "url": "https://github.com/tarun753/axiom"
-  },
-  {
-    "description": "Local-first prompt regression testing and evals for LLM apps.",
-    "id": "promptry/promptry",
-    "language": "Python",
-    "name": "promptry/promptry",
-    "stars": 4,
-    "updated_at": "2026-08-28T18:37:38Z",
-    "url": "https://github.com/promptry/promptry"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4383,
-    "updated_at": "2026-08-28T18:32:03Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-28T18:31:40Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 1,
-    "updated_at": "2026-08-28T18:29:49Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
   }
 ]
