@@ -1,5 +1,122 @@
 [
   {
+    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
+    "stars": 1,
+    "updated_at": "2026-08-28T18:29:49Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor",
+    "id": "promptslab/Awesome-Prompt-Engineering",
+    "language": "TypeScript",
+    "name": "promptslab/Awesome-Prompt-Engineering",
+    "stars": 6297,
+    "updated_at": "2026-08-28T18:29:41Z",
+    "url": "https://github.com/promptslab/Awesome-Prompt-Engineering"
+  },
+  {
+    "description": "Applied AI project portfolio featuring prompt systems, research tools, privacy-first utilities, and deployable product p",
+    "id": "atomicdjt/AI-Project-Portfolio",
+    "language": "JavaScript",
+    "name": "atomicdjt/AI-Project-Portfolio",
+    "stars": 0,
+    "updated_at": "2026-08-28T18:28:16Z",
+    "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
+  },
+  {
+    "description": "Reusable AI agent skills for Cursor & Claude Code \u2014 brainstorm \u2192 interview \u2192 plan \u2192 execute \u2192 review",
+    "id": "ayberkcansever/ai-skills",
+    "language": "HTML",
+    "name": "ayberkcansever/ai-skills",
+    "stars": 2,
+    "updated_at": "2026-08-28T18:30:25Z",
+    "url": "https://github.com/ayberkcansever/ai-skills"
+  },
+  {
+    "description": "Skills and prompts for the AI tools you already use. Every skill for every tool, inside the app: 5,403 skills across 102",
+    "id": "ehsanking/Skills-Ai",
+    "language": "\u2014",
+    "name": "ehsanking/Skills-Ai",
+    "stars": 0,
+    "updated_at": "2026-08-28T18:26:16Z",
+    "url": "https://github.com/ehsanking/Skills-Ai"
+  },
+  {
+    "description": "My personal Agent Skills for coding agents: engineering workflows plus a few personal-use tools. Personalized forks, wit",
+    "id": "martonpaulo/skills",
+    "language": "Python",
+    "name": "martonpaulo/skills",
+    "stars": 1,
+    "updated_at": "2026-08-28T18:26:09Z",
+    "url": "https://github.com/martonpaulo/skills"
+  },
+  {
+    "description": "How many tokens does an AI agent pay to read your repo? Measure it, find the waste (lockfiles, bundles, generated files)",
+    "id": "CAOShurong/contextcost",
+    "language": "Python",
+    "name": "CAOShurong/contextcost",
+    "stars": 0,
+    "updated_at": "2026-08-28T18:25:15Z",
+    "url": "https://github.com/CAOShurong/contextcost"
+  },
+  {
+    "description": "Hands-on WSQ labs for prompt engineering, Stable Diffusion with Python, and agentic AI image-generation workflows.",
+    "id": "tertiarycourses/TGS-2021006714-AI-Vibe-Code-of-Image-Generation",
+    "language": "Python",
+    "name": "tertiarycourses/TGS-2021006714-AI-Vibe-Code-of-Image-Generation",
+    "stars": 2,
+    "updated_at": "2026-08-28T18:24:39Z",
+    "url": "https://github.com/tertiarycourses/TGS-2021006714-AI-Vibe-Code-of-Image-Generation"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-28T18:20:58Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Agent Harness \u5b66\u4e60\u6307\u5357\u4e0e\u9762\u8bd5\u9898\u5e93 \u2014 \u96f6\u57fa\u7840\u5230\u7cfb\u7edf\u7406\u89e3\uff0c73 \u5f20\u56fe\u89e3 + 37 \u9053\u9898 + Pi/dsh \u67b6\u6784\u6df1\u6f5c\uff08\u4e2d\u6587\uff09",
+    "id": "KimGLee/agent-harness-interview",
+    "language": "\u2014",
+    "name": "KimGLee/agent-harness-interview",
+    "stars": 1,
+    "updated_at": "2026-08-28T18:17:01Z",
+    "url": "https://github.com/KimGLee/agent-harness-interview"
+  },
+  {
+    "description": "Knowledge Intelligence System for AI Research",
+    "id": "letuandatt/AI-Radar",
+    "language": "Python",
+    "name": "letuandatt/AI-Radar",
+    "stars": 1,
+    "updated_at": "2026-08-28T18:17:33Z",
+    "url": "https://github.com/letuandatt/AI-Radar"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-08-28T18:15:48Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-28T18:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -16,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T18:13:17Z",
     "url": "https://github.com/LucDinhLe/ai-agent-tool"
-  },
-  {
-    "description": "My personal Agent Skills for coding agents: engineering workflows plus a few personal-use tools. Personalized forks, wit",
-    "id": "martonpaulo/skills",
-    "language": "Python",
-    "name": "martonpaulo/skills",
-    "stars": 1,
-    "updated_at": "2026-08-28T18:12:19Z",
-    "url": "https://github.com/martonpaulo/skills"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 1,
-    "updated_at": "2026-08-28T18:12:12Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -86,7 +185,7 @@
     "language": "HTML",
     "name": "Ntizar/MasterMind",
     "stars": 2,
-    "updated_at": "2026-08-28T18:04:43Z",
+    "updated_at": "2026-08-28T18:29:33Z",
     "url": "https://github.com/Ntizar/MasterMind"
   },
   {
@@ -99,21 +198,12 @@
     "url": "https://github.com/kyegomez/swarms"
   },
   {
-    "description": "Agent Harness \u5b66\u4e60\u6307\u5357\u4e0e\u9762\u8bd5\u9898\u5e93 \u2014 \u96f6\u57fa\u7840\u5230\u7cfb\u7edf\u7406\u89e3\uff0c73 \u5f20\u56fe\u89e3 + 37 \u9053\u9898 + Pi/dsh \u67b6\u6784\u6df1\u6f5c\uff08\u4e2d\u6587\uff09",
-    "id": "KimGLee/agent-harness-interview",
-    "language": "\u2014",
-    "name": "KimGLee/agent-harness-interview",
-    "stars": 1,
-    "updated_at": "2026-08-28T18:03:30Z",
-    "url": "https://github.com/KimGLee/agent-harness-interview"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11225,
-    "updated_at": "2026-08-28T18:02:55Z",
+    "updated_at": "2026-08-28T18:27:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -124,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T18:02:15Z",
     "url": "https://github.com/asimfish/super_agent_presentation"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-28T18:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Helps Claude Code select and implement the right ConsolePlus/PromptPlus control for a .NET console app: determines the p",
@@ -176,7 +257,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33862,
-    "updated_at": "2026-08-28T17:54:06Z",
+    "updated_at": "2026-08-28T18:29:50Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -212,7 +293,7 @@
     "language": "TypeScript",
     "name": "leky90/promptatlas",
     "stars": 0,
-    "updated_at": "2026-08-28T18:11:45Z",
+    "updated_at": "2026-08-28T18:23:36Z",
     "url": "https://github.com/leky90/promptatlas"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T17:35:29Z",
     "url": "https://github.com/Tubifix77/red-thread"
-  },
-  {
-    "description": "Structured AI learning workspace for ChatGPT Projects \u2014 source grounding, pedagogical guardrails, learning context, and ",
-    "id": "man612/ramu",
-    "language": "Python",
-    "name": "man612/ramu",
-    "stars": 0,
-    "updated_at": "2026-08-28T17:35:14Z",
-    "url": "https://github.com/man612/ramu"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 1,
-    "updated_at": "2026-08-28T17:33:09Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 1,
-    "updated_at": "2026-08-28T17:33:00Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-08-28T17:32:34Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Pytest-native evaluation harness for LLM features: pass rates with confidence intervals instead of assertions, a judge v",
-    "id": "Mohanad49/llm-eval-harness",
-    "language": "Python",
-    "name": "Mohanad49/llm-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-08-28T17:32:32Z",
-    "url": "https://github.com/Mohanad49/llm-eval-harness"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-08-28T17:32:31Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "\ud83e\udd2b Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression c",
-    "id": "V-Songbird/hush",
-    "language": "JavaScript",
-    "name": "V-Songbird/hush",
-    "stars": 44,
-    "updated_at": "2026-08-28T17:32:08Z",
-    "url": "https://github.com/V-Songbird/hush"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-08-28T17:31:52Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "AI skills for academic paper figures: repo analysis, figure planning, colorblind palettes, JSON figure specs. Install: n",
-    "id": "Azhi-ss/academic-figure-skills",
-    "language": "Python",
-    "name": "Azhi-ss/academic-figure-skills",
-    "stars": 94,
-    "updated_at": "2026-08-28T17:31:47Z",
-    "url": "https://github.com/Azhi-ss/academic-figure-skills"
   }
 ]
