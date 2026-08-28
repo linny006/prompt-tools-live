@@ -1,12 +1,156 @@
 [
   {
+    "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
+    "id": "Dangkoolwat/ai-learning-studio",
+    "language": "Python",
+    "name": "Dangkoolwat/ai-learning-studio",
+    "stars": 0,
+    "updated_at": "2026-08-28T02:14:49Z",
+    "url": "https://github.com/Dangkoolwat/ai-learning-studio"
+  },
+  {
+    "description": "Scores how well an AI coding agent can understand your prompt -- against your actual repository -- for zero context toke",
+    "id": "LiU-SKY/yourprompt",
+    "language": "Rust",
+    "name": "LiU-SKY/yourprompt",
+    "stars": 1,
+    "updated_at": "2026-08-28T02:14:06Z",
+    "url": "https://github.com/LiU-SKY/yourprompt"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-08-28T02:13:27Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "\ud504\ub86c\ud504\ud2b8 \ucc44\uc810 \uc6f9\uc571 (R-PCCO \ud504\ub808\uc784\uc6cc\ud06c) + AI \uac15\uc758 \uc2e4\uc2b5 \uc790\ub8cc",
+    "id": "thenext0202/pcco-scorer",
+    "language": "HTML",
+    "name": "thenext0202/pcco-scorer",
+    "stars": 1,
+    "updated_at": "2026-08-28T02:13:12Z",
+    "url": "https://github.com/thenext0202/pcco-scorer"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27699,
+    "updated_at": "2026-08-28T02:13:25Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "? AI ??????????? - ?100% AI???86.78%???????????",
+    "id": "qianchuan-ai/humanize-ai-writing",
+    "language": "\u2014",
+    "name": "qianchuan-ai/humanize-ai-writing",
+    "stars": 0,
+    "updated_at": "2026-08-28T02:10:33Z",
+    "url": "https://github.com/qianchuan-ai/humanize-ai-writing"
+  },
+  {
+    "description": "\ud83d\udd12 \u522b\u8ba9\u7f16\u7a0b Agent \u628a\u756a\u8304\u7092\u86cb\u4f18\u5316\u6210\u6cd5\u5f0f\u70f9\u996a\u6846\u67b6\u3002\u4e00\u4efd\u53ef\u6267\u884c\u7684\u8303\u56f4\u5408\u540c,\u4e00\u4e2a\u6587\u4ef6,\u9002\u914d Claude Code / Codex / \u4e00\u5207 AGENTS.md Agent\u3002",
+    "id": "2362461686/scope-lock",
+    "language": "\u2014",
+    "name": "2362461686/scope-lock",
+    "stars": 0,
+    "updated_at": "2026-08-28T02:10:12Z",
+    "url": "https://github.com/2362461686/scope-lock"
+  },
+  {
+    "description": "\u8ba9 Agent \u9ad8\u6548\u53c8\u5b88\u7eaa\u5f8b \u2014 \u4e0d\u6b62\u7701 token\uff1aZeroToken \u538b\u7f29\u65e0\u6548\u4e0a\u4e0b\u6587/\u63a8\u7406/\u8f93\u51fa\uff1b\u5c09\u7f2d\u5b50\u5341\u539f\u5219\u7ea6\u675f\u6743\u9650\u8fb9\u754c\u3001\u5355\u4e00\u6307\u4ee4\u3001\u5148\u8c0b\u540e\u52a8\u3001\u9a8c\u8bc1\u5148\u4e8e\u7ed3\u675f\uff1b\u9644 Unicode \u7f16\u7801\u89c4\u8303\u3001\u641c\u7d22\u89c4\u8303\u3001\u516d\u79cd\u4efb\u52a1\u6a21\u5f0f\u3002More than to",
+    "id": "phoenixlucky/zerotoken-skill",
+    "language": "Python",
+    "name": "phoenixlucky/zerotoken-skill",
+    "stars": 14,
+    "updated_at": "2026-08-28T02:09:14Z",
+    "url": "https://github.com/phoenixlucky/zerotoken-skill"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 38335,
+    "updated_at": "2026-08-28T02:08:22Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Safety-focused AI app that extracts radiology text from images and converts technical reports into patient-friendly lang",
+    "id": "younisraafat22/Radiology-Report-Simpilifier",
+    "language": "Python",
+    "name": "younisraafat22/Radiology-Report-Simpilifier",
+    "stars": 0,
+    "updated_at": "2026-08-28T02:07:55Z",
+    "url": "https://github.com/younisraafat22/Radiology-Report-Simpilifier"
+  },
+  {
+    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
+    "id": "thkt/dotclaude",
+    "language": "JavaScript",
+    "name": "thkt/dotclaude",
+    "stars": 11,
+    "updated_at": "2026-08-28T02:07:13Z",
+    "url": "https://github.com/thkt/dotclaude"
+  },
+  {
+    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
+    "id": "smsheik1/wiggly",
+    "language": "TypeScript",
+    "name": "smsheik1/wiggly",
+    "stars": 1,
+    "updated_at": "2026-08-28T02:07:02Z",
+    "url": "https://github.com/smsheik1/wiggly"
+  },
+  {
     "description": "Doaa (Prism Engine): an open-source, governed linguistic-algorithmic mediator for compact LLM interaction, strict result",
     "id": "saifromih-glitch/doaa-prism-engine",
     "language": "Python",
     "name": "saifromih-glitch/doaa-prism-engine",
     "stars": 0,
-    "updated_at": "2026-08-28T02:00:16Z",
+    "updated_at": "2026-08-28T02:05:52Z",
     "url": "https://github.com/saifromih-glitch/doaa-prism-engine"
+  },
+  {
+    "description": "Five generations of a decision-driven frontend design Skill, with the rendered HTML evidence preserved.",
+    "id": "WangHexinyi/taste-lab",
+    "language": "Markdown",
+    "name": "WangHexinyi/taste-lab",
+    "stars": 1,
+    "updated_at": "2026-08-28T02:04:41Z",
+    "url": "https://github.com/WangHexinyi/taste-lab"
+  },
+  {
+    "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
+    "id": "MihirKJha/enterprise-ai-engineering-handbook",
+    "language": "HTML",
+    "name": "MihirKJha/enterprise-ai-engineering-handbook",
+    "stars": 3,
+    "updated_at": "2026-08-28T02:03:30Z",
+    "url": "https://github.com/MihirKJha/enterprise-ai-engineering-handbook"
+  },
+  {
+    "description": "Free library of original guides on working with AI. Source and scripts for corewise.academy.",
+    "id": "ryanportfolio/Corewise.Academy",
+    "language": "MDX",
+    "name": "ryanportfolio/Corewise.Academy",
+    "stars": 1,
+    "updated_at": "2026-08-28T02:01:54Z",
+    "url": "https://github.com/ryanportfolio/Corewise.Academy"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-28T02:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u5916\u8d38 B2B \u5ba2\u6237\u667a\u80fd\u80cc\u8c03 Agent\uff1a\u516b\u6b65\u5de5\u4f5c\u6d41+\u7cfb\u7edf\u63d0\u793a\u8bcd+10\u9875\u4fe1\u606f\u56fe\uff0c\u628a\u788e\u7247\u7ebf\u7d22\u53d8\u6210\u53ef\u6267\u884c\u7684\u5ba2\u6237\u5546\u4e1a\u60c5\u62a5\u62a5\u544a | Buyer Intelligence skill for foreign trade B2B sales",
@@ -27,15 +171,6 @@
     "url": "https://github.com/kochetkov-ma/claude-brewcode"
   },
   {
-    "description": "Safety-focused AI app that extracts radiology text from images and converts technical reports into patient-friendly lang",
-    "id": "younisraafat22/Radiology-Report-Simpilifier",
-    "language": "Python",
-    "name": "younisraafat22/Radiology-Report-Simpilifier",
-    "stars": 0,
-    "updated_at": "2026-08-28T01:59:37Z",
-    "url": "https://github.com/younisraafat22/Radiology-Report-Simpilifier"
-  },
-  {
     "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
     "id": "ntatschner/loadout-cli",
     "language": "C#",
@@ -43,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T01:59:36Z",
     "url": "https://github.com/ntatschner/loadout-cli"
-  },
-  {
-    "description": "\ud83d\udd12 A contract that stops coding agents from turning a scrambled-egg recipe into a French culinary framework. One file, wo",
-    "id": "2362461686/scope-lock",
-    "language": "\u2014",
-    "name": "2362461686/scope-lock",
-    "stars": 0,
-    "updated_at": "2026-08-28T01:59:01Z",
-    "url": "https://github.com/2362461686/scope-lock"
-  },
-  {
-    "description": "\u8ba9 Agent \u9ad8\u6548\u53c8\u5b88\u7eaa\u5f8b \u2014 \u4e0d\u6b62\u7701 token\uff1aZeroToken \u538b\u7f29\u65e0\u6548\u4e0a\u4e0b\u6587/\u63a8\u7406/\u8f93\u51fa\uff1b\u5c09\u7f2d\u5b50\u5341\u539f\u5219\u7ea6\u675f\u6743\u9650\u8fb9\u754c\u3001\u5355\u4e00\u6307\u4ee4\u3001\u5148\u8c0b\u540e\u52a8\u3001\u9a8c\u8bc1\u5148\u4e8e\u7ed3\u675f\uff1b\u9644 Unicode \u7f16\u7801\u89c4\u8303\u3001\u641c\u7d22\u89c4\u8303\u3001\u516d\u79cd\u4efb\u52a1\u6a21\u5f0f\u3002More than to",
-    "id": "phoenixlucky/zerotoken-skill",
-    "language": "Python",
-    "name": "phoenixlucky/zerotoken-skill",
-    "stars": 14,
-    "updated_at": "2026-08-28T01:58:11Z",
-    "url": "https://github.com/phoenixlucky/zerotoken-skill"
   },
   {
     "description": "AI-native .NET 8 Web API \u2014 business intelligence powered by AI: risk detection, bottleneck analysis, opportunity scoring",
@@ -79,15 +196,6 @@
     "stars": 14,
     "updated_at": "2026-08-28T01:55:02Z",
     "url": "https://github.com/wangkant/personagent"
-  },
-  {
-    "description": "? AI ??????????? - ?100% AI???86.78%???????????",
-    "id": "qianchuan-ai/humanize-ai-writing",
-    "language": "\u2014",
-    "name": "qianchuan-ai/humanize-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-08-28T01:54:48Z",
-    "url": "https://github.com/qianchuan-ai/humanize-ai-writing"
   },
   {
     "description": "MindSpark - Mind Map for Everyone",
@@ -126,24 +234,6 @@
     "url": "https://github.com/MindGoblinStudios/grim-tome"
   },
   {
-    "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
-    "id": "Dangkoolwat/ai-learning-studio",
-    "language": "Python",
-    "name": "Dangkoolwat/ai-learning-studio",
-    "stars": 0,
-    "updated_at": "2026-08-28T01:48:20Z",
-    "url": "https://github.com/Dangkoolwat/ai-learning-studio"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-28T01:45:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Did your new system prompt change the answers? Score output drift 0-100 across matched sample IDs - offline single-file ",
     "id": "qianbrady/promptdriftcheck",
     "language": "HTML",
@@ -160,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T01:40:54Z",
     "url": "https://github.com/sajjadGG/retro"
-  },
-  {
-    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
-    "id": "thkt/dotclaude",
-    "language": "JavaScript",
-    "name": "thkt/dotclaude",
-    "stars": 11,
-    "updated_at": "2026-08-28T01:59:56Z",
-    "url": "https://github.com/thkt/dotclaude"
   },
   {
     "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
@@ -203,7 +284,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11220,
-    "updated_at": "2026-08-28T01:34:44Z",
+    "updated_at": "2026-08-28T02:15:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -225,15 +306,6 @@
     "url": "https://github.com/softwareasg-tools/information-security-for-vibecoded-apps"
   },
   {
-    "description": "Free library of original guides on working with AI. Source and scripts for corewise.academy.",
-    "id": "ryanportfolio/Corewise.Academy",
-    "language": "MDX",
-    "name": "ryanportfolio/Corewise.Academy",
-    "stars": 1,
-    "updated_at": "2026-08-28T01:58:27Z",
-    "url": "https://github.com/ryanportfolio/Corewise.Academy"
-  },
-  {
     "description": "Two lines of code to give your LLM eyes. One attribute.",
     "id": "askable-ui/askable",
     "language": "TypeScript",
@@ -241,15 +313,6 @@
     "stars": 12,
     "updated_at": "2026-08-28T01:29:36Z",
     "url": "https://github.com/askable-ui/askable"
-  },
-  {
-    "description": "Five generations of a decision-driven frontend design Skill, with the rendered HTML evidence preserved.",
-    "id": "WangHexinyi/taste-lab",
-    "language": "Markdown",
-    "name": "WangHexinyi/taste-lab",
-    "stars": 1,
-    "updated_at": "2026-08-28T01:27:19Z",
-    "url": "https://github.com/WangHexinyi/taste-lab"
   },
   {
     "description": "Git records each repository. vat records what happened across them \u2014 a control plane for multi-repo workspaces and the a",
@@ -261,22 +324,13 @@
     "url": "https://github.com/takealook97/vat"
   },
   {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-08-28T01:25:35Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27699,
-    "updated_at": "2026-08-28T02:00:16Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24624,
+    "updated_at": "2026-08-28T02:14:39Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and pa",
@@ -295,15 +349,6 @@
     "stars": 121,
     "updated_at": "2026-08-28T01:23:05Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24623,
-    "updated_at": "2026-08-28T01:24:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T01:17:00Z",
     "url": "https://github.com/illogical/LMEval"
-  },
-  {
-    "description": "DSH plugin: host-resident scheduled-jobs \u00d7 AI-agent engine (hermes-agent cron inspired) \u2014 60s ticker fires real agent se",
-    "id": "LouisHaoL/dsh-timer-agent",
-    "language": "TypeScript",
-    "name": "LouisHaoL/dsh-timer-agent",
-    "stars": 4,
-    "updated_at": "2026-08-28T01:16:56Z",
-    "url": "https://github.com/LouisHaoL/dsh-timer-agent"
-  },
-  {
-    "description": "A curated, safety-conscious collection of reusable Grok-compatible agent skills for workflow automation, research, integ",
-    "id": "Stijnman/grok-custom-skills",
-    "language": "Python",
-    "name": "Stijnman/grok-custom-skills",
-    "stars": 7,
-    "updated_at": "2026-08-28T01:14:59Z",
-    "url": "https://github.com/Stijnman/grok-custom-skills"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 38333,
-    "updated_at": "2026-08-28T01:52:27Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
-    "id": "luongs3/skill-atlas",
-    "language": "Python",
-    "name": "luongs3/skill-atlas",
-    "stars": 0,
-    "updated_at": "2026-08-28T01:14:02Z",
-    "url": "https://github.com/luongs3/skill-atlas"
-  },
-  {
-    "description": "A persistent, observable, and collaborative memory infrastructure",
-    "id": "lilhammerfun/clumsies",
-    "language": "Rust",
-    "name": "lilhammerfun/clumsies",
-    "stars": 17,
-    "updated_at": "2026-08-28T01:13:31Z",
-    "url": "https://github.com/lilhammerfun/clumsies"
   }
 ]
