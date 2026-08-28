@@ -1,8 +1,98 @@
 [
   {
+    "description": "An evidence-driven Codex skill for consistent live-action AI filmmaking\u2014from clean identity and spatial anchors to cinem",
+    "id": "Hughhhhcoder/cinematic-ai-director",
+    "language": "Python",
+    "name": "Hughhhhcoder/cinematic-ai-director",
+    "stars": 1,
+    "updated_at": "2026-08-28T07:13:20Z",
+    "url": "https://github.com/Hughhhhcoder/cinematic-ai-director"
+  },
+  {
+    "description": "OpenCode + Oh-My-OpenAgent configuration stack: auto-rules, model routing, scripts, ADRs, search infrastructure, and doc",
+    "id": "B67687/Agent-Stack",
+    "language": "Shell",
+    "name": "B67687/Agent-Stack",
+    "stars": 0,
+    "updated_at": "2026-08-28T07:12:32Z",
+    "url": "https://github.com/B67687/Agent-Stack"
+  },
+  {
+    "description": "Production engineering and design skills for OpenAI Codex.",
+    "id": "dayfinggg/openai-codex-agent-skills",
+    "language": "PowerShell",
+    "name": "dayfinggg/openai-codex-agent-skills",
+    "stars": 4,
+    "updated_at": "2026-08-28T07:12:18Z",
+    "url": "https://github.com/dayfinggg/openai-codex-agent-skills"
+  },
+  {
+    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
+    "id": "wangkant/personagent",
+    "language": "Python",
+    "name": "wangkant/personagent",
+    "stars": 15,
+    "updated_at": "2026-08-28T07:10:46Z",
+    "url": "https://github.com/wangkant/personagent"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 136,
+    "updated_at": "2026-08-28T07:09:26Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 6,
+    "updated_at": "2026-08-28T07:08:43Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
+  },
+  {
+    "description": "A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow \u2014 semantic code n",
+    "id": "konstantinos-malavazos/claude-code-playbook",
+    "language": "Shell",
+    "name": "konstantinos-malavazos/claude-code-playbook",
+    "stars": 2,
+    "updated_at": "2026-08-28T07:03:47Z",
+    "url": "https://github.com/konstantinos-malavazos/claude-code-playbook"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24633,
+    "updated_at": "2026-08-28T07:15:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "DSH plugin: host-resident scheduled-jobs \u00d7 AI-agent engine (hermes-agent cron inspired) \u2014 60s ticker fires real agent se",
+    "id": "LouisHaoL/dsh-timer-agent",
+    "language": "TypeScript",
+    "name": "LouisHaoL/dsh-timer-agent",
+    "stars": 4,
+    "updated_at": "2026-08-28T07:00:53Z",
+    "url": "https://github.com/LouisHaoL/dsh-timer-agent"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-28T07:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A blind tasting room for your prompts. Diagnose, rewrite, then prove the rewrite in a blind LLM-judged A/B eval.",
     "id": "SamLarivs/prommelier",
-    "language": "JavaScript",
+    "language": "TypeScript",
     "name": "SamLarivs/prommelier",
     "stars": 1,
     "updated_at": "2026-08-28T07:00:04Z",
@@ -43,15 +133,6 @@
     "stars": 22,
     "updated_at": "2026-08-28T06:56:54Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
-    "id": "wangkant/personagent",
-    "language": "Python",
-    "name": "wangkant/personagent",
-    "stars": 15,
-    "updated_at": "2026-08-28T06:55:56Z",
-    "url": "https://github.com/wangkant/personagent"
   },
   {
     "description": "Claude skill that asks clarifying questions before executing ambiguous instructions, preventing hallucination from uncle",
@@ -126,6 +207,15 @@
     "url": "https://github.com/kochetkov-ma/claude-brewcode"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21647,
+    "updated_at": "2026-08-28T06:45:50Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "This repository serves as the comprehensive workspace for Quarter 4-5 academic endeavors, encompassing assignments, tech",
     "id": "DanielHashmi/Q4_learning",
     "language": "Python",
@@ -133,15 +223,6 @@
     "stars": 18,
     "updated_at": "2026-08-28T06:45:46Z",
     "url": "https://github.com/DanielHashmi/Q4_learning"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-28T06:45:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A curated, safety-conscious collection of reusable Grok-compatible agent skills for workflow automation, research, integ",
@@ -169,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T06:43:57Z",
     "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24632,
-    "updated_at": "2026-08-28T06:42:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Every prompt from the official Wan 3.0 creator handbook, each paired with the official result clip \u2014 30s takes, multi-sh",
@@ -232,15 +304,6 @@
     "stars": 6,
     "updated_at": "2026-08-28T06:39:13Z",
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21646,
-    "updated_at": "2026-08-28T06:45:50Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -385,68 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-28T06:57:57Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 6,
-    "updated_at": "2026-08-28T06:58:22Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
-    "description": "\u96f6\u6846\u67b6A\u80a1\u7814\u7a76\u5458Agent\uff1aLLM\u88f8\u5faa\u73af+\u56db\u91cd\u7194\u65ad+\u4e0a\u4e0b\u6587\u9884\u7b97\u7eaa\u5f8b+12\u7528\u4f8b\u8bc4\u4f30\u3002Zero-framework A-share research agent: bare LLM loop, 4-tier circuit breaker, c",
-    "id": "Terry20161226/ashare-research-agent",
-    "language": "Python",
-    "name": "Terry20161226/ashare-research-agent",
-    "stars": 1,
-    "updated_at": "2026-08-28T06:12:21Z",
-    "url": "https://github.com/Terry20161226/ashare-research-agent"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33834,
-    "updated_at": "2026-08-28T06:08:25Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Cross-agent toolkit for prompts and coding-agent skills",
-    "id": "sungjunlee/craftkit",
-    "language": "JavaScript",
-    "name": "sungjunlee/craftkit",
-    "stars": 0,
-    "updated_at": "2026-08-28T06:07:30Z",
-    "url": "https://github.com/sungjunlee/craftkit"
-  },
-  {
-    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
-    "id": "smsheik1/wiggly",
-    "language": "TypeScript",
-    "name": "smsheik1/wiggly",
-    "stars": 1,
-    "updated_at": "2026-08-28T06:03:02Z",
-    "url": "https://github.com/smsheik1/wiggly"
-  },
-  {
-    "description": "Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for",
-    "id": "TomasHer/prompting-blueprints",
-    "language": "HTML",
-    "name": "TomasHer/prompting-blueprints",
-    "stars": 20,
-    "updated_at": "2026-08-28T06:02:52Z",
-    "url": "https://github.com/TomasHer/prompting-blueprints"
-  },
-  {
-    "description": "An evidence-driven Codex skill for consistent live-action AI filmmaking\u2014from clean identity and spatial anchors to cinem",
-    "id": "Hughhhhcoder/cinematic-ai-director",
-    "language": "Python",
-    "name": "Hughhhhcoder/cinematic-ai-director",
-    "stars": 1,
-    "updated_at": "2026-08-28T06:05:33Z",
-    "url": "https://github.com/Hughhhhcoder/cinematic-ai-director"
   }
 ]
