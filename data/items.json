@@ -1,11 +1,83 @@
 [
   {
+    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "stars": 0,
+    "updated_at": "2026-08-28T03:59:07Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+  },
+  {
+    "description": "Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr",
+    "id": "ariaxhan/kernel-claude",
+    "language": "JavaScript",
+    "name": "ariaxhan/kernel-claude",
+    "stars": 12,
+    "updated_at": "2026-08-28T03:58:43Z",
+    "url": "https://github.com/ariaxhan/kernel-claude"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 57,
+    "updated_at": "2026-08-28T03:53:53Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "An eval harness that gates deployment and measures its own judges. Three LLM judges score a system under test against a ",
+    "id": "jkelly-dev1/llm-eval-gate",
+    "language": "Python",
+    "name": "jkelly-dev1/llm-eval-gate",
+    "stars": 0,
+    "updated_at": "2026-08-28T03:53:27Z",
+    "url": "https://github.com/jkelly-dev1/llm-eval-gate"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 25,
+    "updated_at": "2026-08-28T03:53:20Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "\u96f6\u6846\u67b6A\u80a1\u7814\u7a76\u5458Agent\uff1aLLM\u88f8\u5faa\u73af+\u56db\u91cd\u7194\u65ad+\u4e0a\u4e0b\u6587\u9884\u7b97\u7eaa\u5f8b+12\u7528\u4f8b\u8bc4\u4f30\u3002Zero-framework A-share research agent: bare LLM loop, 4-tier circuit breaker, c",
+    "id": "Terry20161226/ashare-research-agent",
+    "language": "Python",
+    "name": "Terry20161226/ashare-research-agent",
+    "stars": 1,
+    "updated_at": "2026-08-28T03:49:36Z",
+    "url": "https://github.com/Terry20161226/ashare-research-agent"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 67849,
+    "updated_at": "2026-08-28T03:49:26Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-28T03:45:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "An evidence-driven Codex skill for consistent live-action AI filmmaking\u2014from clean identity and spatial anchors to cinem",
     "id": "Hughhhhcoder/cinematic-ai-director",
     "language": "Python",
     "name": "Hughhhhcoder/cinematic-ai-director",
-    "stars": 0,
-    "updated_at": "2026-08-28T03:45:21Z",
+    "stars": 1,
+    "updated_at": "2026-08-28T03:48:03Z",
     "url": "https://github.com/Hughhhhcoder/cinematic-ai-director"
   },
   {
@@ -45,15 +117,6 @@
     "url": "https://github.com/gustavo-meilus/aiboarding"
   },
   {
-    "description": "\u96f6\u6846\u67b6A\u80a1\u7814\u7a76\u5458Agent\uff1aLLM\u88f8\u5faa\u73af+\u56db\u91cd\u7194\u65ad+\u4e0a\u4e0b\u6587\u9884\u7b97\u7eaa\u5f8b+12\u7528\u4f8b\u8bc4\u4f30\u3002Zero-framework A-share research agent: bare LLM loop, 4-tier circuit breaker, c",
-    "id": "Terry20161226/ashare-research-agent",
-    "language": "Python",
-    "name": "Terry20161226/ashare-research-agent",
-    "stars": 1,
-    "updated_at": "2026-08-28T03:35:28Z",
-    "url": "https://github.com/Terry20161226/ashare-research-agent"
-  },
-  {
     "description": "\u7528\u4ebf\u4e07\u5bcc\u7fc1\u51b7\u8d26\u53d9\u4e8b\u521b\u4f5c\u514b\u5236\u3001\u7cbe\u786e\u4e14\u5e26\u9ed1\u8272\u5e7d\u9ed8\u7684\u4e2d\u6587\u865a\u6784\u6545\u4e8b",
     "id": "Bbbtt04/sun-yuchen-writing-skill",
     "language": "\u2014",
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T03:32:40Z",
     "url": "https://github.com/Bbbtt04/sun-yuchen-writing-skill"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-28T03:30:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "CRUMB is the copy-paste AI handoff format. Switch AIs without losing the plot.",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "agigante80/vibe-coding-prompts",
     "stars": 8,
-    "updated_at": "2026-08-28T03:29:33Z",
+    "updated_at": "2026-08-28T04:00:08Z",
     "url": "https://github.com/agigante80/vibe-coding-prompts"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T03:19:14Z",
     "url": "https://github.com/Natie717/build-reliable-skill"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 67847,
-    "updated_at": "2026-08-28T03:16:29Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -229,7 +274,7 @@
     "id": "calmrocks/ai-engineer-notebooks",
     "language": "Jupyter Notebook",
     "name": "calmrocks/ai-engineer-notebooks",
-    "stars": 176,
+    "stars": 184,
     "updated_at": "2026-08-28T03:00:28Z",
     "url": "https://github.com/calmrocks/ai-engineer-notebooks"
   },
@@ -328,7 +373,7 @@
     "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
     "language": "Python",
     "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "stars": 61,
+    "stars": 62,
     "updated_at": "2026-08-28T02:42:16Z",
     "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T02:34:40Z",
     "url": "https://github.com/iPythoning/b2b-buyer-intel"
-  },
-  {
-    "description": "Safety-focused AI app that extracts radiology text from images and converts technical reports into patient-friendly lang",
-    "id": "younisraafat22/Radiology-Report-Simpilifier",
-    "language": "Python",
-    "name": "younisraafat22/Radiology-Report-Simpilifier",
-    "stars": 0,
-    "updated_at": "2026-08-28T02:29:36Z",
-    "url": "https://github.com/younisraafat22/Radiology-Report-Simpilifier"
-  },
-  {
-    "description": "\ud83d\udd12 \u522b\u8ba9\u7f16\u7a0b Agent \u628a\u756a\u8304\u7092\u86cb\u4f18\u5316\u6210\u6cd5\u5f0f\u70f9\u996a\u6846\u67b6\u3002\u4e00\u4efd\u53ef\u6267\u884c\u7684\u8303\u56f4\u5408\u540c,\u4e00\u4e2a\u6587\u4ef6,\u9002\u914d Claude Code / Codex / \u4e00\u5207 AGENTS.md Agent\u3002",
-    "id": "2362461686/scope-lock",
-    "language": "\u2014",
-    "name": "2362461686/scope-lock",
-    "stars": 0,
-    "updated_at": "2026-08-28T02:27:37Z",
-    "url": "https://github.com/2362461686/scope-lock"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-28T03:10:33Z",
-    "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
-    "description": "One source of truth for AI agent instructions \u2014 linted, wired, scored.",
-    "id": "daichunghy/agentsmd",
-    "language": "JavaScript",
-    "name": "daichunghy/agentsmd",
-    "stars": 1,
-    "updated_at": "2026-08-28T02:25:23Z",
-    "url": "https://github.com/daichunghy/agentsmd"
-  },
-  {
-    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
-    "id": "wangkant/personagent",
-    "language": "Python",
-    "name": "wangkant/personagent",
-    "stars": 14,
-    "updated_at": "2026-08-28T02:25:09Z",
-    "url": "https://github.com/wangkant/personagent"
   }
 ]
