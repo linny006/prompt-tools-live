@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-28T16:45:40Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Agent skills for decisions under uncertainty, plus the evaluation harness that measures them: pre-registered predictions",
     "id": "AngelCampa1/decision-making-skills",
     "language": "Python",
@@ -9,6 +18,15 @@
     "url": "https://github.com/AngelCampa1/decision-making-skills"
   },
   {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-08-28T16:43:11Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
     "description": "Tools, prompts, workflows, and practical ideas for building better vibe-coded apps with less guesswork and more reusable",
     "id": "imMamdouhaboammar/Riftbook",
     "language": "JavaScript",
@@ -16,6 +34,15 @@
     "stars": 3,
     "updated_at": "2026-08-28T16:42:45Z",
     "url": "https://github.com/imMamdouhaboammar/Riftbook"
+  },
+  {
+    "description": "Automated prompt evaluation, generation, and iterative refinement CLI tool built with Google Gemini SDK",
+    "id": "Tony-Stark2025/Agent_DevKit",
+    "language": "Python",
+    "name": "Tony-Stark2025/Agent_DevKit",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:41:38Z",
+    "url": "https://github.com/Tony-Stark2025/Agent_DevKit"
   },
   {
     "description": "Two lines of code to give your LLM eyes. One attribute.",
@@ -41,7 +68,7 @@
     "language": "JavaScript",
     "name": "Shrbuz/JargonBuster",
     "stars": 1,
-    "updated_at": "2026-08-28T16:37:05Z",
+    "updated_at": "2026-08-28T16:47:00Z",
     "url": "https://github.com/Shrbuz/JargonBuster"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T16:36:18Z",
     "url": "https://github.com/xiangbianpangde/vibe-coding-wiki"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-08-28T16:43:11Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
     "description": "Production-focused handbook covering Enterprise AI, LLMs, RAG, AI Agents, MLOps, Cloud AI, and System Design.",
@@ -79,15 +97,6 @@
     "stars": 54,
     "updated_at": "2026-08-28T16:30:35Z",
     "url": "https://github.com/Wholiver/metis"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-28T16:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A Claude Code skill that rewrites your prompts for clarity before they run.",
@@ -113,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33861,
-    "updated_at": "2026-08-28T16:39:59Z",
+    "updated_at": "2026-08-28T16:46:28Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -131,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3515,
-    "updated_at": "2026-08-28T16:29:57Z",
+    "updated_at": "2026-08-28T16:45:43Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11225,
-    "updated_at": "2026-08-28T16:31:50Z",
+    "updated_at": "2026-08-28T16:46:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 22,
     "updated_at": "2026-08-28T15:56:35Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Ennoia AI \uc5d0\uc774\uc804\ud2b8\uc640 \uad00\uad11\ub370\uc774\ud130\ub85c \uc0b0\ucc45 \uc0ac\uc9c4\uc744 \uadf8\ub9bc\uc77c\uae30\u00b7\ucd94\ucc9c \ucf54\uc2a4\ub85c \ubc14\uafb8\ub294 \uacf5\ubaa8\uc804 \ud504\ub85c\uc81d\ud2b8",
-    "id": "kanghyunsoon/Paws-on-Keyboard",
-    "language": "\u2014",
-    "name": "kanghyunsoon/Paws-on-Keyboard",
-    "stars": 0,
-    "updated_at": "2026-08-28T15:52:53Z",
-    "url": "https://github.com/kanghyunsoon/Paws-on-Keyboard"
   }
 ]
