@@ -1,12 +1,93 @@
 [
   {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-28T23:12:18Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
+    "language": "JavaScript",
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 3593,
+    "updated_at": "2026-08-28T23:11:09Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "AI agent orchestration kit for Windows, Linux/MacOS with Codex skills, hooks, routing rules and profiles for Claude, Ope",
+    "id": "IAPro-Community/Orquestrador-Maestro",
+    "language": "Python",
+    "name": "IAPro-Community/Orquestrador-Maestro",
+    "stars": 40,
+    "updated_at": "2026-08-28T23:11:04Z",
+    "url": "https://github.com/IAPro-Community/Orquestrador-Maestro"
+  },
+  {
+    "description": ".clinerules \u2014 independent third-party profile of a public API surface, by API Evangelist. .clinerules is the rule-file c",
+    "id": "api-evangelist/clinerules",
+    "language": "\u2014",
+    "name": "api-evangelist/clinerules",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:09:31Z",
+    "url": "https://github.com/api-evangelist/clinerules"
+  },
+  {
+    "description": "Stop writing prompts from scratch \u2014 a searchable prompt library for ChatGPT, Claude, Gemini and Cursor \u00b7 \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \ud55c\uad6d\uc5b4 \u0627\u0644\u0639",
+    "id": "rockbenben/ChatGPT-Shortcut",
+    "language": "TypeScript",
+    "name": "rockbenben/ChatGPT-Shortcut",
+    "stars": 8727,
+    "updated_at": "2026-08-28T23:08:00Z",
+    "url": "https://github.com/rockbenben/ChatGPT-Shortcut"
+  },
+  {
+    "description": "How many tokens does an AI agent pay to read your repo? Measure it, find the waste (lockfiles, bundles, generated files)",
+    "id": "CAOShurong/contextcost",
+    "language": "Python",
+    "name": "CAOShurong/contextcost",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:06:33Z",
+    "url": "https://github.com/CAOShurong/contextcost"
+  },
+  {
+    "description": "Structured AI learning workspace for ChatGPT Projects \u2014 source grounding, pedagogical guardrails, learning context, and ",
+    "id": "man612/ramu",
+    "language": "Python",
+    "name": "man612/ramu",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:06:07Z",
+    "url": "https://github.com/man612/ramu"
+  },
+  {
+    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
+    "id": "Tubifix77/red-thread",
+    "language": "Python",
+    "name": "Tubifix77/red-thread",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:02:07Z",
+    "url": "https://github.com/Tubifix77/red-thread"
+  },
+  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "SAIRAMANALADI/vybe-intelligence-vault",
     "language": "JavaScript",
     "name": "SAIRAMANALADI/vybe-intelligence-vault",
     "stars": 22,
-    "updated_at": "2026-08-28T22:59:08Z",
+    "updated_at": "2026-08-28T23:01:35Z",
     "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-28T23:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
@@ -36,24 +117,6 @@
     "url": "https://github.com/lucasmartins-ai/lcc"
   },
   {
-    "description": "Structured AI learning workspace for ChatGPT Projects \u2014 source grounding, pedagogical guardrails, learning context, and ",
-    "id": "man612/ramu",
-    "language": "Python",
-    "name": "man612/ramu",
-    "stars": 0,
-    "updated_at": "2026-08-28T23:00:15Z",
-    "url": "https://github.com/man612/ramu"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-28T22:52:03Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "Frameworks, techniques, prompts, agents, skills, and workflows for engineering reliable, reusable AI and agentic systems",
     "id": "jr-mccoy/prompt-agent-engineering",
     "language": "Python",
@@ -63,21 +126,12 @@
     "url": "https://github.com/jr-mccoy/prompt-agent-engineering"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-28T22:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11227,
-    "updated_at": "2026-08-28T22:55:31Z",
+    "updated_at": "2026-08-28T23:01:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "AKzar1el/god-prompt",
     "stars": 7,
-    "updated_at": "2026-08-28T22:54:58Z",
+    "updated_at": "2026-08-28T23:14:28Z",
     "url": "https://github.com/AKzar1el/god-prompt"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6474,
-    "updated_at": "2026-08-28T22:48:21Z",
+    "updated_at": "2026-08-28T23:14:39Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -382,7 +436,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 9563,
+    "stars": 9564,
     "updated_at": "2026-08-28T21:36:10Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -394,59 +448,5 @@
     "stars": 5834,
     "updated_at": "2026-08-28T21:36:03Z",
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "How many tokens does an AI agent pay to read your repo? Measure it, find the waste (lockfiles, bundles, generated files)",
-    "id": "CAOShurong/contextcost",
-    "language": "Python",
-    "name": "CAOShurong/contextcost",
-    "stars": 0,
-    "updated_at": "2026-08-28T21:35:42Z",
-    "url": "https://github.com/CAOShurong/contextcost"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources",
-    "id": "DSeaStar/awesome-kling",
-    "language": "Python",
-    "name": "DSeaStar/awesome-kling",
-    "stars": 0,
-    "updated_at": "2026-08-28T21:34:28Z",
-    "url": "https://github.com/DSeaStar/awesome-kling"
-  },
-  {
-    "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity \u2014 narrative-architecture repair for fiction, ven",
-    "id": "Nanako0129/sepia",
-    "language": "Shell",
-    "name": "Nanako0129/sepia",
-    "stars": 272,
-    "updated_at": "2026-08-28T21:33:38Z",
-    "url": "https://github.com/Nanako0129/sepia"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 49,
-    "updated_at": "2026-08-28T21:33:22Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 1,
-    "updated_at": "2026-08-28T21:30:33Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-28T21:29:21Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
