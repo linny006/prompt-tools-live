@@ -1,5 +1,185 @@
 [
   {
+    "description": "AI \u63d0\u793a\u8bcd\u5de5\u4f5c\u53f0 - \u751f\u6210\u63d0\u793a\u8bcd\u3001\u7ba1\u7406\u6a21\u677f\u3001\u6c89\u6dc0\u8f93\u51fa\uff0c\u8ba9 AI \u534f\u4f5c\u53ef\u590d\u7528",
+    "id": "qianchuan-ai/shutai",
+    "language": "JavaScript",
+    "name": "qianchuan-ai/shutai",
+    "stars": 0,
+    "updated_at": "2026-08-28T00:43:21Z",
+    "url": "https://github.com/qianchuan-ai/shutai"
+  },
+  {
+    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
+    "stars": 0,
+    "updated_at": "2026-08-28T00:43:53Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
+    "id": "wangkant/personagent",
+    "language": "Python",
+    "name": "wangkant/personagent",
+    "stars": 14,
+    "updated_at": "2026-08-28T00:43:02Z",
+    "url": "https://github.com/wangkant/personagent"
+  },
+  {
+    "description": "An intel layer for AI coding agents that assumes its own rules might be wrong \u2014 and keeps the evidence. Authoritative no",
+    "id": "ReidenXerx/bearing",
+    "language": "JavaScript",
+    "name": "ReidenXerx/bearing",
+    "stars": 5,
+    "updated_at": "2026-08-28T00:42:59Z",
+    "url": "https://github.com/ReidenXerx/bearing"
+  },
+  {
+    "description": "Git records each repository. vat records what happened across them \u2014 a control plane for multi-repo workspaces and the a",
+    "id": "takealook97/vat",
+    "language": "Go",
+    "name": "takealook97/vat",
+    "stars": 0,
+    "updated_at": "2026-08-28T00:41:52Z",
+    "url": "https://github.com/takealook97/vat"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-08-28T00:41:46Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Python AI Study Buddy using the DeepSeek API, prompt engineering, structured JSON output, and error handling.",
+    "id": "Justriveting/study-buddy-api",
+    "language": "Python",
+    "name": "Justriveting/study-buddy-api",
+    "stars": 0,
+    "updated_at": "2026-08-28T00:40:59Z",
+    "url": "https://github.com/Justriveting/study-buddy-api"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-08-28T00:39:47Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
+    "id": "grigb/gas-prompt-library",
+    "language": "Python",
+    "name": "grigb/gas-prompt-library",
+    "stars": 5,
+    "updated_at": "2026-08-28T00:39:38Z",
+    "url": "https://github.com/grigb/gas-prompt-library"
+  },
+  {
+    "description": "LLM Prompt Studio for image, 3D, video, and audio models",
+    "id": "doodersrage/llm-prompt-studio",
+    "language": "TypeScript",
+    "name": "doodersrage/llm-prompt-studio",
+    "stars": 1,
+    "updated_at": "2026-08-28T00:38:46Z",
+    "url": "https://github.com/doodersrage/llm-prompt-studio"
+  },
+  {
+    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
+    "id": "smsheik1/wiggly",
+    "language": "TypeScript",
+    "name": "smsheik1/wiggly",
+    "stars": 1,
+    "updated_at": "2026-08-28T00:38:27Z",
+    "url": "https://github.com/smsheik1/wiggly"
+  },
+  {
+    "description": "A model-neutral skill for finding and removing the phrases and constructions that make writing sound machine-made.",
+    "id": "jerry-curl/ai-tells",
+    "language": "\u2014",
+    "name": "jerry-curl/ai-tells",
+    "stars": 0,
+    "updated_at": "2026-08-28T00:38:16Z",
+    "url": "https://github.com/jerry-curl/ai-tells"
+  },
+  {
+    "description": "AI-assisted TPM prompts, workflows, examples, and review checks for safer program artifacts.",
+    "id": "ChefPlex/ai-automations",
+    "language": "\u2014",
+    "name": "ChefPlex/ai-automations",
+    "stars": 0,
+    "updated_at": "2026-08-28T00:37:45Z",
+    "url": "https://github.com/ChefPlex/ai-automations"
+  },
+  {
+    "description": "Provider-neutral frameworks and TypeScript tooling for cinematic AI content planning, storyboards, prompt compilation, c",
+    "id": "shrishmanglik/auteur-frameworks",
+    "language": "TypeScript",
+    "name": "shrishmanglik/auteur-frameworks",
+    "stars": 1,
+    "updated_at": "2026-08-28T00:37:40Z",
+    "url": "https://github.com/shrishmanglik/auteur-frameworks"
+  },
+  {
+    "description": "\u6559 AI \u5199 NovelAI Diffusion V5 \u63d0\u793a\u8bcd\u7684\u65b9\u6cd5 skill\uff1a\u6784\u601d\uff0b\u5199\u6cd5\u4e24\u4ef6\u5957\uff0c\u57fa\u4e8e 2226 \u5f20\u5b9e\u6d4b\u56fe\u5e93 / 962 \u6761\u771f\u5b9e\u63d0\u793a\u8bcd\u3002Agent Skills \u6807\u51c6\u5c01\u88c5\u3002",
+    "id": "Miint-Sunny/nai5-prompting",
+    "language": "\u2014",
+    "name": "Miint-Sunny/nai5-prompting",
+    "stars": 15,
+    "updated_at": "2026-08-28T00:36:03Z",
+    "url": "https://github.com/Miint-Sunny/nai5-prompting"
+  },
+  {
+    "description": "Keyboard-first local scratchpad and snippet workspace for Windows. Portable PyQt6 app with Markdown, file containers, gl",
+    "id": "vacterro/FastPrompter",
+    "language": "Python",
+    "name": "vacterro/FastPrompter",
+    "stars": 9,
+    "updated_at": "2026-08-28T00:35:32Z",
+    "url": "https://github.com/vacterro/FastPrompter"
+  },
+  {
+    "description": "Semantic context compiler for LLM coding agents \u2014 packs the smallest useful codebase context for any task. Zero dependen",
+    "id": "francomano/coreball",
+    "language": "Python",
+    "name": "francomano/coreball",
+    "stars": 0,
+    "updated_at": "2026-08-28T00:33:45Z",
+    "url": "https://github.com/francomano/coreball"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-28T00:33:17Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-08-28T00:31:59Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-28T00:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Local-first desktop app for managing, analyzing and optimizing prompt collections \u2014 offline, private, Tauri + React + Ru",
     "id": "Mueller-Systems-Lab/promptvault-lite",
     "language": "TypeScript",
@@ -18,24 +198,6 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "Git records each repository. vat records what happened across them \u2014 a control plane for multi-repo workspaces and the a",
-    "id": "takealook97/vat",
-    "language": "Go",
-    "name": "takealook97/vat",
-    "stars": 0,
-    "updated_at": "2026-08-28T00:28:44Z",
-    "url": "https://github.com/takealook97/vat"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-28T00:27:54Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Doaa (Prism Engine): an open-source, governed linguistic-algorithmic mediator for compact LLM interaction, strict result",
     "id": "saifromih-glitch/doaa-prism-engine",
     "language": "Python",
@@ -52,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T00:25:37Z",
     "url": "https://github.com/PyModel/code-max"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 0,
-    "updated_at": "2026-08-28T00:25:16Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
   },
   {
     "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
@@ -90,24 +243,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Semantic context compiler for LLM coding agents \u2014 packs the smallest useful codebase context for any task. Zero dependen",
-    "id": "francomano/coreball",
-    "language": "Python",
-    "name": "francomano/coreball",
-    "stars": 0,
-    "updated_at": "2026-08-28T00:22:56Z",
-    "url": "https://github.com/francomano/coreball"
-  },
-  {
-    "description": "AI-assisted TPM prompts, workflows, examples, and review checks for safer program artifacts.",
-    "id": "ChefPlex/ai-automations",
-    "language": "\u2014",
-    "name": "ChefPlex/ai-automations",
-    "stars": 0,
-    "updated_at": "2026-08-28T00:21:39Z",
-    "url": "https://github.com/ChefPlex/ai-automations"
-  },
-  {
     "description": "Miniguia de estudos sobre Open Finance no Brasil utilizando NotebookLM e engenharia de prompts. Projeto desenvolvido no ",
     "id": "lucasdemrodrigues/open-finance-com-notebooklm",
     "language": "\u2014",
@@ -126,48 +261,12 @@
     "url": "https://github.com/rioffe/ai_systems_engineering_bootcamp"
   },
   {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 13,
-    "updated_at": "2026-08-28T00:17:03Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
-  },
-  {
-    "description": "LLM Prompt Studio for image, 3D, video, and audio models",
-    "id": "doodersrage/llm-prompt-studio",
-    "language": "TypeScript",
-    "name": "doodersrage/llm-prompt-studio",
-    "stars": 1,
-    "updated_at": "2026-08-28T00:16:24Z",
-    "url": "https://github.com/doodersrage/llm-prompt-studio"
-  },
-  {
-    "description": "AI \u63d0\u793a\u8bcd\u5de5\u4f5c\u53f0 - \u751f\u6210\u63d0\u793a\u8bcd\u3001\u7ba1\u7406\u6a21\u677f\u3001\u6c89\u6dc0\u8f93\u51fa\uff0c\u8ba9 AI \u534f\u4f5c\u53ef\u590d\u7528",
-    "id": "qianchuan-ai/shutai",
-    "language": "JavaScript",
-    "name": "qianchuan-ai/shutai",
-    "stars": 0,
-    "updated_at": "2026-08-28T00:15:34Z",
-    "url": "https://github.com/qianchuan-ai/shutai"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-28T00:15:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
     "id": "github/awesome-copilot",
     "language": "JavaScript",
     "name": "github/awesome-copilot",
-    "stars": 38331,
-    "updated_at": "2026-08-28T00:15:51Z",
+    "stars": 38332,
+    "updated_at": "2026-08-28T00:45:29Z",
     "url": "https://github.com/github/awesome-copilot"
   },
   {
@@ -205,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T00:09:22Z",
     "url": "https://github.com/flux-art-ai/flux-art-ecom-image-workflow"
-  },
-  {
-    "description": "A model-neutral skill for finding and removing the phrases and constructions that make writing sound machine-made.",
-    "id": "jerry-curl/ai-tells",
-    "language": "\u2014",
-    "name": "jerry-curl/ai-tells",
-    "stars": 0,
-    "updated_at": "2026-08-28T00:11:58Z",
-    "url": "https://github.com/jerry-curl/ai-tells"
   },
   {
     "description": "A free cross-platform editorial standard for AI writing.",
@@ -333,15 +423,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
-    "id": "smsheik1/wiggly",
-    "language": "TypeScript",
-    "name": "smsheik1/wiggly",
-    "stars": 1,
-    "updated_at": "2026-08-27T23:31:13Z",
-    "url": "https://github.com/smsheik1/wiggly"
-  },
-  {
     "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
     "id": "tubasa821004-hash/social-manipulation-radar",
     "language": "HTML",
@@ -367,86 +448,5 @@
     "stars": 50,
     "updated_at": "2026-08-27T23:28:05Z",
     "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-08-27T23:27:25Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-27T23:25:48Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-27T23:24:45Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-27T23:24:42Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-27T23:24:23Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-27T23:24:11Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
-    "id": "fabioc-aloha/Alex_Skill_Mall",
-    "language": "Python",
-    "name": "fabioc-aloha/Alex_Skill_Mall",
-    "stars": 4,
-    "updated_at": "2026-08-27T23:23:52Z",
-    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
-  },
-  {
-    "description": "Plugin-native baseline brain for Alex ACT, with critical-thinking instructions, reusable agent skills, prompts, and tool",
-    "id": "fabioc-aloha/Alex_ACT_Core",
-    "language": "JavaScript",
-    "name": "fabioc-aloha/Alex_ACT_Core",
-    "stars": 0,
-    "updated_at": "2026-08-27T23:23:44Z",
-    "url": "https://github.com/fabioc-aloha/Alex_ACT_Core"
-  },
-  {
-    "description": "Point-in-time correct LLM instrumentation \u2014 tracing, version pinning and look-ahead-bias protection for research pipelin",
-    "id": "lizhuojunx86/traceguard",
-    "language": "Python",
-    "name": "lizhuojunx86/traceguard",
-    "stars": 2,
-    "updated_at": "2026-08-27T23:23:37Z",
-    "url": "https://github.com/lizhuojunx86/traceguard"
   }
 ]
