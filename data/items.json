@@ -1,12 +1,102 @@
 [
   {
-    "description": "19 prompts + 4 workflows + a 62-check store audit for ecommerce copy, ads, email and CRO. Free, no email. Built by an AI",
+    "description": "\u53d1\u751f\u53d1\u5c55\u903b\u8f91\u6a21\u578b\uff08ODL\uff09\u2014\u2014\u9762\u5411 Agent \u8f93\u51fa\u7eaa\u5f8b\u4e0e\u957f\u7a0b\u4e00\u81f4\u6027\u7684\u8fd0\u884c\u65f6\u914d\u7f6e\u7eaa\u5f8b\u5c42\uff08System Prompt/skill \u4e3a\u52a0\u8f7d\u5f62\u6001\uff0cMIT\uff09",
+    "id": "1frank-art/occurrence-development-logic",
+    "language": "Python",
+    "name": "1frank-art/occurrence-development-logic",
+    "stars": 1,
+    "updated_at": "2026-08-28T06:15:18Z",
+    "url": "https://github.com/1frank-art/occurrence-development-logic"
+  },
+  {
+    "description": "Git records each repository. vat records what happened across them \u2014 a control plane for multi-repo workspaces and the a",
+    "id": "takealook97/vat",
+    "language": "Go",
+    "name": "takealook97/vat",
+    "stars": 0,
+    "updated_at": "2026-08-28T06:13:32Z",
+    "url": "https://github.com/takealook97/vat"
+  },
+  {
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 6,
+    "updated_at": "2026-08-28T06:13:17Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
+  },
+  {
+    "description": "One-ink editorial print image skill \u2014 warm paper, halftone photography, active negative space, and restrained typography",
+    "id": "yanliudesign/mono-color-skill",
+    "language": "Python",
+    "name": "yanliudesign/mono-color-skill",
+    "stars": 1,
+    "updated_at": "2026-08-28T06:12:43Z",
+    "url": "https://github.com/yanliudesign/mono-color-skill"
+  },
+  {
+    "description": "\u96f6\u6846\u67b6A\u80a1\u7814\u7a76\u5458Agent\uff1aLLM\u88f8\u5faa\u73af+\u56db\u91cd\u7194\u65ad+\u4e0a\u4e0b\u6587\u9884\u7b97\u7eaa\u5f8b+12\u7528\u4f8b\u8bc4\u4f30\u3002Zero-framework A-share research agent: bare LLM loop, 4-tier circuit breaker, c",
+    "id": "Terry20161226/ashare-research-agent",
+    "language": "Python",
+    "name": "Terry20161226/ashare-research-agent",
+    "stars": 1,
+    "updated_at": "2026-08-28T06:12:21Z",
+    "url": "https://github.com/Terry20161226/ashare-research-agent"
+  },
+  {
+    "description": "Cross-agent toolkit for prompts and coding-agent skills",
+    "id": "sungjunlee/craftkit",
+    "language": "JavaScript",
+    "name": "sungjunlee/craftkit",
+    "stars": 0,
+    "updated_at": "2026-08-28T06:07:30Z",
+    "url": "https://github.com/sungjunlee/craftkit"
+  },
+  {
+    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
+    "id": "smsheik1/wiggly",
+    "language": "TypeScript",
+    "name": "smsheik1/wiggly",
+    "stars": 1,
+    "updated_at": "2026-08-28T06:03:02Z",
+    "url": "https://github.com/smsheik1/wiggly"
+  },
+  {
+    "description": "Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for",
+    "id": "TomasHer/prompting-blueprints",
+    "language": "HTML",
+    "name": "TomasHer/prompting-blueprints",
+    "stars": 20,
+    "updated_at": "2026-08-28T06:02:52Z",
+    "url": "https://github.com/TomasHer/prompting-blueprints"
+  },
+  {
+    "description": "An evidence-driven Codex skill for consistent live-action AI filmmaking\u2014from clean identity and spatial anchors to cinem",
+    "id": "Hughhhhcoder/cinematic-ai-director",
+    "language": "Python",
+    "name": "Hughhhhcoder/cinematic-ai-director",
+    "stars": 1,
+    "updated_at": "2026-08-28T06:05:33Z",
+    "url": "https://github.com/Hughhhhcoder/cinematic-ai-director"
+  },
+  {
+    "description": "Free ecommerce tools, built in the open by an AI agent on a $1k budget. AI visibility checker (robots.txt + raw-HTML aud",
     "id": "krisdiallo/ecom-agent",
     "language": "HTML",
     "name": "krisdiallo/ecom-agent",
     "stars": 0,
-    "updated_at": "2026-08-28T05:58:25Z",
+    "updated_at": "2026-08-28T06:01:27Z",
     "url": "https://github.com/krisdiallo/ecom-agent"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 9,
+    "updated_at": "2026-08-28T06:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A persistent, observable, and collaborative memory infrastructure",
@@ -25,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T05:55:35Z",
     "url": "https://github.com/F-e-u-e-r/opus-pack"
-  },
-  {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 6,
-    "updated_at": "2026-08-28T05:55:09Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
   },
   {
     "description": "Local-first desktop app for managing, analyzing and optimizing prompt collections \u2014 offline, private, Tauri + React + Ru",
@@ -76,7 +157,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6451,
+    "stars": 6453,
     "updated_at": "2026-08-28T05:49:29Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -85,7 +166,7 @@
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 168096,
+    "stars": 168097,
     "updated_at": "2026-08-28T05:47:17Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -97,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T05:45:30Z",
     "url": "https://github.com/fromfireside/better-tropes"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 9,
-    "updated_at": "2026-08-28T05:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A blind tasting room for your prompts. Diagnose, rewrite, then prove the rewrite in a blind LLM-judged A/B eval.",
@@ -130,18 +202,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 33832,
-    "updated_at": "2026-08-28T05:40:06Z",
+    "stars": 33833,
+    "updated_at": "2026-08-28T06:08:25Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "\u53d1\u751f\u53d1\u5c55\u903b\u8f91\u6a21\u578b\uff08ODL\uff09\u2014\u2014\u9762\u5411 Agent \u8f93\u51fa\u7eaa\u5f8b\u4e0e\u957f\u7a0b\u4e00\u81f4\u6027\u7684\u8fd0\u884c\u65f6\u914d\u7f6e\u7eaa\u5f8b\u5c42\uff08System Prompt/skill \u4e3a\u52a0\u8f7d\u5f62\u6001\uff0cMIT\uff09",
-    "id": "1frank-art/occurrence-development-logic",
-    "language": "Python",
-    "name": "1frank-art/occurrence-development-logic",
-    "stars": 1,
-    "updated_at": "2026-08-28T05:39:56Z",
-    "url": "https://github.com/1frank-art/occurrence-development-logic"
   },
   {
     "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 7178,
-    "updated_at": "2026-08-28T05:33:14Z",
+    "updated_at": "2026-08-28T06:09:07Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -270,15 +333,6 @@
     "url": "https://github.com/elie222/botdirectory.ai"
   },
   {
-    "description": "\u96f6\u6846\u67b6A\u80a1\u7814\u7a76\u5458Agent\uff1aLLM\u88f8\u5faa\u73af+\u56db\u91cd\u7194\u65ad+\u4e0a\u4e0b\u6587\u9884\u7b97\u7eaa\u5f8b+12\u7528\u4f8b\u8bc4\u4f30\u3002Zero-framework A-share research agent: bare LLM loop, 4-tier circuit breaker, c",
-    "id": "Terry20161226/ashare-research-agent",
-    "language": "Python",
-    "name": "Terry20161226/ashare-research-agent",
-    "stars": 1,
-    "updated_at": "2026-08-28T05:13:16Z",
-    "url": "https://github.com/Terry20161226/ashare-research-agent"
-  },
-  {
     "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
     "id": "martialsystems/verify-before-done",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T05:03:04Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-08-28T05:02:47Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-08-28T05:02:18Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-08-28T05:01:45Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-08-28T05:01:27Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-08-28T05:01:05Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-08-28T05:00:57Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
   }
 ]
