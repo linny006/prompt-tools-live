@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-29 08:45 UTC
+> ⏰ Last updated: 2026-08-29 09:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Sungmin-Cho/deep-suite](https://github.com/Sungmin-Cho/deep-suite) | 8 | JavaScript | 2026-08-29 | Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a |
-| 2 | [fuchao2pku/awesome-dsh-experts](https://github.com/fuchao2pku/awesome-dsh-experts) | 1 | JavaScript | 2026-08-29 | 社区共建的 DSH（DeepSeek Harness）专家/专家团精选与贡献仓库：Markdown+manifest 定义专家，扫描器自动生成目录，未来以 DSH 插件形式集成。 |
-| 3 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 61 | Shell | 2026-08-29 | Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se |
-| 4 | [latryee/promptdiff](https://github.com/latryee/promptdiff) | 0 | Python | 2026-08-29 | ⚡ LLM Prompt & Output Regression Tester CLI with side-by-side visual diffs, cost/latency tracking & CI/CD assertions. |
-| 5 | [lilhammerfun/clumsies](https://github.com/lilhammerfun/clumsies) | 17 | Rust | 2026-08-29 | A persistent, observable, and collaborative memory infrastructure |
-| 6 | [gotonote/awesome-agent-boom](https://github.com/gotonote/awesome-agent-boom) | 5 | Python | 2026-08-29 | AI Agent 开源书单/教程合集 \| Awesome list of LLM Agent books & courses |
-| 7 | [JetXu-LLM/smallest-complete](https://github.com/JetXu-LLM/smallest-complete) | 8 | — | 2026-08-29 | A Codex and ChatGPT Skill that helps agents avoid scope creep and overengineering—finish the ask, prove it works, and ke |
-| 8 | [grigb/gas-prompt-library](https://github.com/grigb/gas-prompt-library) | 6 | Python | 2026-08-29 | Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b |
-| 9 | [Tubifix77/red-thread](https://github.com/Tubifix77/red-thread) | 0 | Python | 2026-08-29 | Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b |
-| 10 | [ariaxhan/kernel-claude](https://github.com/ariaxhan/kernel-claude) | 12 | JavaScript | 2026-08-29 | Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr |
-| 11 | [oleg494/coding-kit](https://github.com/oleg494/coding-kit) | 1 | Python | 2026-08-29 | Portable agent-brain kit: superpowers methodology, YAGNI minimalism, cross-chat SQLite FTS5 memory, adversarial trap-sui |
-| 12 | [konstantinos-malavazos/claude-code-playbook](https://github.com/konstantinos-malavazos/claude-code-playbook) | 2 | Shell | 2026-08-29 | A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow — semantic code n |
-| 13 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-08-29 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 14 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 5 | HTML | 2026-08-29 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
-| 15 | [V-Songbird/foreman](https://github.com/V-Songbird/foreman) | 33 | JavaScript | 2026-08-29 | 📋 Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your |
-| 16 | [erishen/resolve-skills](https://github.com/erishen/resolve-skills) | 0 | JavaScript | 2026-08-29 | Language-agnostic Skills (prompt packs) monorepo. Aligned with Agent Skills open standard, consumable by resolve-studio, |
-| 17 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33886 | TypeScript | 2026-08-29 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 1 | [baros4294/system_prompt](https://github.com/baros4294/system_prompt) | 1 | — | 2026-08-29 | Creative Writing and General Conversation System Prompt for LLM |
+| 2 | [stefaniuk/loadout](https://github.com/stefaniuk/loadout) | 1 | Shell | 2026-08-29 | 🤖 A curated, specification-first library of copy-ready prompts, instruction packs, skills, and Copilot agents designed t |
+| 3 | [gotonote/awesome-agent-boom](https://github.com/gotonote/awesome-agent-boom) | 5 | Python | 2026-08-29 | AI Agent 开源书单/教程合集 \| Awesome list of LLM Agent books & courses |
+| 4 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-29 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
+| 5 | [martonpaulo/skills](https://github.com/martonpaulo/skills) | 1 | Python | 2026-08-29 | Agent Skills for coding agents: software engineering workflows and architecture tools. Personalized forks, with every up |
+| 6 | [sergvss/agents-best-teams](https://github.com/sergvss/agents-best-teams) | 2 | Python | 2026-08-29 | Методология построения команды специализированных AI-агентов: явные роли, tier-маршрутизация, триангулированное ревью и  |
+| 7 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 123 | HTML | 2026-08-29 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
+| 8 | [adammatthewsteinberger/vibey-skills](https://github.com/adammatthewsteinberger/vibey-skills) | 1 | Python | 2026-08-29 | Agent Skills for vibe engineering — 644 evidence-grounded practitioner references as a Claude Code plugin marketplace |
+| 9 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-08-29 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
+| 10 | [SIGILIPELLI/claude-training-mastery-path](https://github.com/SIGILIPELLI/claude-training-mastery-path) | 0 | — | 2026-08-29 | Free, structured training on using Claude AI effectively — prompting, workflows and responsible use, entry level to mast |
+| 11 | [SIGILIPELLI/llm-dev-mastery-path](https://github.com/SIGILIPELLI/llm-dev-mastery-path) | 1 | — | 2026-08-29 | Free, module-wise training for building applications with LLMs — prompt engineering, LLM APIs, tool calling, agents, and |
+| 12 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-29 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 13 | [AgustiPuigserver/opus-prompt-architect](https://github.com/AgustiPuigserver/opus-prompt-architect) | 123 | HTML | 2026-08-29 | Best Prompt Engineering Tools for 2026 AI Workflow Optimization |
+| 14 | [IyedNasra/skeptic](https://github.com/IyedNasra/skeptic) | 1 | — | 2026-08-29 | Token-efficient anomaly detection and assumption verification skill for AI coding agents. |
+| 15 | [tonydzi/persona-portability-benchmark](https://github.com/tonydzi/persona-portability-benchmark) | 1 | Python | 2026-08-29 | One persona, one frozen memory, N models: how much of an agent's character survives a model swap? Harness + blind multi- |
+| 16 | [LouisHaoL/dsh-timer-agent](https://github.com/LouisHaoL/dsh-timer-agent) | 5 | TypeScript | 2026-08-29 | DSH plugin: host-resident scheduled-jobs × AI-agent engine (hermes-agent cron inspired) — 60s ticker fires real agent se |
+| 17 | [Sungmin-Cho/deep-suite](https://github.com/Sungmin-Cho/deep-suite) | 8 | JavaScript | 2026-08-29 | Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a |
 | 18 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-08-29 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 19 | [vishal2612200/agentpack](https://github.com/vishal2612200/agentpack) | 25 | Python | 2026-08-29 | Local context engine for AI coding agents. Routes tasks to relevant files, tests, rules, and skills, supports prompt cac |
-| 20 | [shashankgdev-bit/damame](https://github.com/shashankgdev-bit/damame) | 0 | TypeScript | 2026-08-29 | A profiler for your AI coding sessions — evidence-linked findings, an opportunity-aware AI skills profile, local-first,  |
-| 21 | [NicoGenti/opencode-orchestrator-kit](https://github.com/NicoGenti/opencode-orchestrator-kit) | 3 | TypeScript | 2026-08-29 | Cost-aware multi-agent orchestrator kit for OpenCode CLI — one routing agent, 14 specialized subagents, zero application |
-| 22 | [evan966890/ai-coding-ironrules](https://github.com/evan966890/ai-coding-ironrules) | 1 | Python | 2026-08-29 | 通用 AI Coding 铁律 CLAUDE.md 模板 — 11 条 operational 铁律, 跨项目复用 |
-| 23 | [Nyanna/XY.AI.Workbench](https://github.com/Nyanna/XY.AI.Workbench) | 1 | Python | 2026-08-29 | XY.AI Workbench – Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R |
-| 24 | [braboj/solid-ai-templates](https://github.com/braboj/solid-ai-templates) | 3 | Python | 2026-08-29 | Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates |
-| 25 | [lihongyu-dev/anzhice-crm](https://github.com/lihongyu-dev/anzhice-crm) | 0 | TypeScript | 2026-08-29 | 贷款线索 CRM：LLM 资质抽取 + eval 框架 + 规则引擎撮合判定 |
-| 26 | [tonydzi/claude-bible](https://github.com/tonydzi/claude-bible) | 9 | — | 2026-08-29 | Make Claude Code behave consistently across repos, sessions and humans: rules-as-files governance with precedence, decli |
-| 27 | [Hubujiu/practical-coding](https://github.com/Hubujiu/practical-coding) | 2 | Python | 2026-08-29 | A lean, event-driven coding skill for AI agents. Less over-engineering, zero ceremony, surgical diffs, and real evidence |
-| 28 | [TeeratP/prompt-lib](https://github.com/TeeratP/prompt-lib) | 0 | — | 2026-08-29 |  |
-| 29 | [papperrollinggery/jingzao-image-forge](https://github.com/papperrollinggery/jingzao-image-forge) | 3 | Python | 2026-08-29 | 镜造 Image Forge — Codex visual-director Skill for GPT Image 2, FLUX and Midjourney: structured visual specs, cinematic st |
-| 30 | [DamianBuilds-ai/atlas-method](https://github.com/DamianBuilds-ai/atlas-method) | 4 | JavaScript | 2026-08-29 | Build your own Claude Code OS. Forest of small domain docs. Agents do the work. |
-| 31 | [kangxiaodong58-create/rezero_twin](https://github.com/kangxiaodong58-create/rezero_twin) | 1 | Python | 2026-08-29 | 拉姆&蕾姆双子状态机 + LLM 灵魂表达系统｜硬约束×软表达的 Character AI 实践（状态机/忠诚锁定/事件记忆/可评估） |
-| 32 | [AtlasCloudAI/awesome-wan-3.0-prompts](https://github.com/AtlasCloudAI/awesome-wan-3.0-prompts) | 6 | TypeScript | 2026-08-29 | Every prompt from the official Wan 3.0 creator handbook, each paired with the official result clip — 30s takes, multi-sh |
-| 33 | [AtlasCloudAI/awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) | 169 | TypeScript | 2026-08-29 | 100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, crea |
-| 34 | [AtlasCloudAI/awesome-happy-horse-prompts](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts) | 3 | TypeScript | 2026-08-29 | Awesome Happy Horse 1.0 Prompts |
-| 35 | [AtlasCloudAI/awesome-seedance-2-prompts](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts) | 10 | TypeScript | 2026-08-29 | awesome-seedance-2-prompt |
-| 36 | [AtlasCloudAI/awesome-gpt-image-2-prompts](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts) | 43 | TypeScript | 2026-08-29 | Awesome GPT Image 2 Prompts |
-| 37 | [danfeistar/house-skills-kit](https://github.com/danfeistar/house-skills-kit) | 0 | Go Template | 2026-08-29 | 中文房产 AI 技能生成骨架 · 企业与个人从业者通用 · 4类角色 × 29个业务模块 · 一份配置生成品牌专属Skill · Apache-2.0 |
-| 38 | [baros4294/system_prompt](https://github.com/baros4294/system_prompt) | 1 | — | 2026-08-29 | Creative Writing and General Conversation System Prompt for LLM |
-| 39 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 13306 | TypeScript | 2026-08-29 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
-| 40 | [xsefirosus/sefi-agents](https://github.com/xsefirosus/sefi-agents) | 1 | Shell | 2026-08-29 | A 13-agent software company in a plugin: plan, build, and adversarially judge every change under hard budget caps. Markd |
-| 41 | [Muizzkolapo/agent-actions](https://github.com/Muizzkolapo/agent-actions) | 8 | Python | 2026-08-29 | Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates. |
-| 42 | [Traccyyyyy/freelancer-opportunity-finder](https://github.com/Traccyyyyy/freelancer-opportunity-finder) | 1 | JavaScript | 2026-08-29 | AI-powered agent that scrapes Freelancer.com for new projects, stores them in Dataverse via Power Automate, and uses a C |
-| 43 | [hun99999/agent-bootstrap](https://github.com/hun99999/agent-bootstrap) | 4 | Python | 2026-08-29 | Process-first bootstrap for Codex and Claude Code with superpowers, role-based subagents, token-efficient workflows, and |
-| 44 | [Purrple-hub/Prompts](https://github.com/Purrple-hub/Prompts) | 0 | — | 2026-08-29 | This repo is basically my stash of prompts — yeah, all of them. I keep adding more whenever inspiration hits, and honest |
-| 45 | [vignesh2027/Claude-Agentic-Skills2.0-version](https://github.com/vignesh2027/Claude-Agentic-Skills2.0-version) | 6 | — | 2026-08-29 | Been building this for 6 months. Finally at a place  where I'm comfortable sharing it. |
-| 46 | [vignesh2027/AI-AGENT-SKILLS](https://github.com/vignesh2027/AI-AGENT-SKILLS) | 2 | Shell | 2026-08-29 | Turn your ai agent into senior engineer..The result is fast code that fails slowly.  AI Agent Skills solves this by givi |
-| 47 | [leky90/promptatlas](https://github.com/leky90/promptatlas) | 0 | TypeScript | 2026-08-29 | 90-style visual prompt atlas comparing ChatGPT and Gemini outputs |
-| 48 | [SAIRAMANALADI/vybe-intelligence-vault](https://github.com/SAIRAMANALADI/vybe-intelligence-vault) | 22 | JavaScript | 2026-08-29 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
-| 49 | [geniusdapeng-collab/panda-cineforge](https://github.com/geniusdapeng-collab/panda-cineforge) | 0 | TypeScript | 2026-08-29 | The world's first skill-forging engine built for AI Agents in film & video production. 全球首个面向 AI Agent 的影视创作技能生成引擎。 |
-| 50 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11232 | Python | 2026-08-29 | AI Observability & Evaluation |
+| 19 | [latryee/promptdiff](https://github.com/latryee/promptdiff) | 1 | Python | 2026-08-29 | ⚡ LLM Prompt & Output Regression Tester CLI with side-by-side visual diffs, cost/latency tracking & CI/CD assertions. |
+| 20 | [fuchao2pku/awesome-dsh-experts](https://github.com/fuchao2pku/awesome-dsh-experts) | 1 | JavaScript | 2026-08-29 | 社区共建的 DSH（DeepSeek Harness）专家/专家团精选与贡献仓库：Markdown+manifest 定义专家，扫描器自动生成目录，未来以 DSH 插件形式集成。 |
+| 21 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 61 | Shell | 2026-08-29 | Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se |
+| 22 | [lilhammerfun/clumsies](https://github.com/lilhammerfun/clumsies) | 17 | Rust | 2026-08-29 | A persistent, observable, and collaborative memory infrastructure |
+| 23 | [JetXu-LLM/smallest-complete](https://github.com/JetXu-LLM/smallest-complete) | 8 | — | 2026-08-29 | A Codex and ChatGPT Skill that helps agents avoid scope creep and overengineering—finish the ask, prove it works, and ke |
+| 24 | [grigb/gas-prompt-library](https://github.com/grigb/gas-prompt-library) | 6 | Python | 2026-08-29 | Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b |
+| 25 | [Tubifix77/red-thread](https://github.com/Tubifix77/red-thread) | 0 | Python | 2026-08-29 | Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b |
+| 26 | [ariaxhan/kernel-claude](https://github.com/ariaxhan/kernel-claude) | 12 | JavaScript | 2026-08-29 | Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr |
+| 27 | [oleg494/coding-kit](https://github.com/oleg494/coding-kit) | 1 | Python | 2026-08-29 | Portable agent-brain kit: superpowers methodology, YAGNI minimalism, cross-chat SQLite FTS5 memory, adversarial trap-sui |
+| 28 | [konstantinos-malavazos/claude-code-playbook](https://github.com/konstantinos-malavazos/claude-code-playbook) | 2 | Shell | 2026-08-29 | A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow — semantic code n |
+| 29 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 5 | HTML | 2026-08-29 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
+| 30 | [V-Songbird/foreman](https://github.com/V-Songbird/foreman) | 33 | JavaScript | 2026-08-29 | 📋 Prompt-engineering and project-roadmap plugin that crafts professional xml prompts and picks, surveys, and tracks your |
+| 31 | [erishen/resolve-skills](https://github.com/erishen/resolve-skills) | 0 | JavaScript | 2026-08-29 | Language-agnostic Skills (prompt packs) monorepo. Aligned with Agent Skills open standard, consumable by resolve-studio, |
+| 32 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33887 | TypeScript | 2026-08-29 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 33 | [vishal2612200/agentpack](https://github.com/vishal2612200/agentpack) | 25 | Python | 2026-08-29 | Local context engine for AI coding agents. Routes tasks to relevant files, tests, rules, and skills, supports prompt cac |
+| 34 | [shashankgdev-bit/damame](https://github.com/shashankgdev-bit/damame) | 0 | TypeScript | 2026-08-29 | A profiler for your AI coding sessions — evidence-linked findings, an opportunity-aware AI skills profile, local-first,  |
+| 35 | [NicoGenti/opencode-orchestrator-kit](https://github.com/NicoGenti/opencode-orchestrator-kit) | 4 | TypeScript | 2026-08-29 | Cost-aware multi-agent orchestrator kit for OpenCode CLI — one routing agent, 14 specialized subagents, zero application |
+| 36 | [evan966890/ai-coding-ironrules](https://github.com/evan966890/ai-coding-ironrules) | 1 | Python | 2026-08-29 | 通用 AI Coding 铁律 CLAUDE.md 模板 — 11 条 operational 铁律, 跨项目复用 |
+| 37 | [HailorLEM/hermes-skills](https://github.com/HailorLEM/hermes-skills) | 0 | — | 2026-08-29 | Reusable AI agent skills in agentskills.io SKILL.md format: ESL teaching automation, video review summaries, homework wo |
+| 38 | [Nyanna/XY.AI.Workbench](https://github.com/Nyanna/XY.AI.Workbench) | 1 | Python | 2026-08-29 | XY.AI Workbench – Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R |
+| 39 | [braboj/solid-ai-templates](https://github.com/braboj/solid-ai-templates) | 3 | Python | 2026-08-29 | Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates |
+| 40 | [lihongyu-dev/anzhice-crm](https://github.com/lihongyu-dev/anzhice-crm) | 0 | TypeScript | 2026-08-29 | 贷款线索 CRM：LLM 资质抽取 + eval 框架 + 规则引擎撮合判定 |
+| 41 | [tonydzi/claude-bible](https://github.com/tonydzi/claude-bible) | 9 | — | 2026-08-29 | Make Claude Code behave consistently across repos, sessions and humans: rules-as-files governance with precedence, decli |
+| 42 | [Hubujiu/practical-coding](https://github.com/Hubujiu/practical-coding) | 2 | Python | 2026-08-29 | A lean, event-driven coding skill for AI agents. Less over-engineering, zero ceremony, surgical diffs, and real evidence |
+| 43 | [TeeratP/prompt-lib](https://github.com/TeeratP/prompt-lib) | 0 | — | 2026-08-29 |  |
+| 44 | [papperrollinggery/jingzao-image-forge](https://github.com/papperrollinggery/jingzao-image-forge) | 3 | Python | 2026-08-29 | 镜造 Image Forge — Codex visual-director Skill for GPT Image 2, FLUX and Midjourney: structured visual specs, cinematic st |
+| 45 | [DamianBuilds-ai/atlas-method](https://github.com/DamianBuilds-ai/atlas-method) | 4 | JavaScript | 2026-08-29 | Build your own Claude Code OS. Forest of small domain docs. Agents do the work. |
+| 46 | [kangxiaodong58-create/rezero_twin](https://github.com/kangxiaodong58-create/rezero_twin) | 1 | Python | 2026-08-29 | 拉姆&蕾姆双子状态机 + LLM 灵魂表达系统｜硬约束×软表达的 Character AI 实践（状态机/忠诚锁定/事件记忆/可评估） |
+| 47 | [AtlasCloudAI/awesome-wan-3.0-prompts](https://github.com/AtlasCloudAI/awesome-wan-3.0-prompts) | 6 | TypeScript | 2026-08-29 | Every prompt from the official Wan 3.0 creator handbook, each paired with the official result clip — 30s takes, multi-sh |
+| 48 | [AtlasCloudAI/awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) | 169 | TypeScript | 2026-08-29 | 100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, crea |
+| 49 | [AtlasCloudAI/awesome-happy-horse-prompts](https://github.com/AtlasCloudAI/awesome-happy-horse-prompts) | 3 | TypeScript | 2026-08-29 | Awesome Happy Horse 1.0 Prompts |
+| 50 | [AtlasCloudAI/awesome-seedance-2-prompts](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts) | 10 | TypeScript | 2026-08-29 | awesome-seedance-2-prompt |
 <!-- TRACKER_TABLE_END -->
 
 ---
