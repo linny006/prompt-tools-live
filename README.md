@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-29 13:15 UTC
+> ⏰ Last updated: 2026-08-29 13:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Shashwatss10/PromithicAI](https://github.com/Shashwatss10/PromithicAI) | 1 | HTML | 2026-08-29 | A futuristic AI-powered web application builder featuring a multi-agent workflow, live code streaming, Monaco Editor, Fi |
-| 2 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-08-29 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 3 | [papperrollinggery/Paperrolling-DIRcreative-SKILL](https://github.com/papperrollinggery/Paperrolling-DIRcreative-SKILL) | 3 | Python | 2026-08-29 | Chat-first film preproduction skill for Codex: director-room ideation, story/script/shot design, visual review, model-sp |
-| 4 | [konstantinos-malavazos/claude-code-playbook](https://github.com/konstantinos-malavazos/claude-code-playbook) | 2 | Shell | 2026-08-29 | A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow — semantic code n |
-| 5 | [Xwh630/PromptForge](https://github.com/Xwh630/PromptForge) | 0 | Python | 2026-08-29 | 500+ curated bilingual prompts & 24 industry-grade templates for AI image generation. Agent Skill ready. |
-| 6 | [man612/chatgpt-personalization](https://github.com/man612/chatgpt-personalization) | 1 | Python | 2026-08-29 | Public-first toolkit for building, validating, rendering, and evaluating reusable ChatGPT personalization profiles. |
-| 7 | [AldomarAssolin/7days-prompt-engineering](https://github.com/AldomarAssolin/7days-prompt-engineering) | 0 | — | 2026-08-29 | Desafio #7DaysOfCode de Prompt Engineering da Alura |
-| 8 | [danfeistar/house-skills-kit](https://github.com/danfeistar/house-skills-kit) | 1 | Go Template | 2026-08-29 | 中文房产 AI 技能生成骨架 · 企业与个人从业者通用 · 4类角色 × 29个业务模块 · 一份配置生成品牌专属Skill · Apache-2.0 |
-| 9 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 1 | HTML | 2026-08-29 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
-| 10 | [heavenaruba/codified-prompt-rule-engine](https://github.com/heavenaruba/codified-prompt-rule-engine) | 121 | HTML | 2026-08-29 | Top 10 Claude Prompt Optimization Frameworks 2026 |
-| 11 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27724 | Python | 2026-08-29 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 12 | [erishen/resolve-skills](https://github.com/erishen/resolve-skills) | 0 | JavaScript | 2026-08-29 | Language-agnostic Skills (prompt packs) monorepo. Aligned with Agent Skills open standard, consumable by resolve-studio, |
-| 13 | [parthmax2/ghostrun](https://github.com/parthmax2/ghostrun) | 26 | Python | 2026-08-29 | pytest for AI Apps — Fast, free, offline testing and self-improving prompts for Python developers. |
-| 14 | [Musengimana/stakeholder-analysis-skill-for-developing-partnership-strategy](https://github.com/Musengimana/stakeholder-analysis-skill-for-developing-partnership-strategy) | 0 | — | 2026-08-29 | Free AI skill that turns stakeholder analysis into a partnership strategy: stakeholder mapping matrix (impact vs influen |
-| 15 | [hysohail/agentic-experiment-designer](https://github.com/hysohail/agentic-experiment-designer) | 1 | HTML | 2026-08-29 | Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement |
-| 16 | [grigb/gas-prompt-library](https://github.com/grigb/gas-prompt-library) | 6 | Python | 2026-08-29 | Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b |
-| 17 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-08-29 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-08-29 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [Shashwatss10/PromithicAI](https://github.com/Shashwatss10/PromithicAI) | 1 | HTML | 2026-08-29 | A futuristic AI-powered web application builder featuring a multi-agent workflow, live code streaming, Monaco Editor, Fi |
+| 3 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-08-29 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
+| 4 | [papperrollinggery/Paperrolling-DIRcreative-SKILL](https://github.com/papperrollinggery/Paperrolling-DIRcreative-SKILL) | 3 | Python | 2026-08-29 | Chat-first film preproduction skill for Codex: director-room ideation, story/script/shot design, visual review, model-sp |
+| 5 | [konstantinos-malavazos/claude-code-playbook](https://github.com/konstantinos-malavazos/claude-code-playbook) | 2 | Shell | 2026-08-29 | A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow — semantic code n |
+| 6 | [Xwh630/PromptForge](https://github.com/Xwh630/PromptForge) | 0 | Python | 2026-08-29 | 500+ curated bilingual prompts & 24 industry-grade templates for AI image generation. Agent Skill ready. |
+| 7 | [man612/chatgpt-personalization](https://github.com/man612/chatgpt-personalization) | 1 | Python | 2026-08-29 | Public-first toolkit for building, validating, rendering, and evaluating reusable ChatGPT personalization profiles. |
+| 8 | [AldomarAssolin/7days-prompt-engineering](https://github.com/AldomarAssolin/7days-prompt-engineering) | 0 | — | 2026-08-29 | Desafio #7DaysOfCode de Prompt Engineering da Alura |
+| 9 | [danfeistar/house-skills-kit](https://github.com/danfeistar/house-skills-kit) | 1 | Go Template | 2026-08-29 | 中文房产 AI 技能生成骨架 · 企业与个人从业者通用 · 4类角色 × 29个业务模块 · 一份配置生成品牌专属Skill · Apache-2.0 |
+| 10 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 1 | HTML | 2026-08-29 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
+| 11 | [heavenaruba/codified-prompt-rule-engine](https://github.com/heavenaruba/codified-prompt-rule-engine) | 121 | HTML | 2026-08-29 | Top 10 Claude Prompt Optimization Frameworks 2026 |
+| 12 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27724 | Python | 2026-08-29 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 13 | [erishen/resolve-skills](https://github.com/erishen/resolve-skills) | 0 | JavaScript | 2026-08-29 | Language-agnostic Skills (prompt packs) monorepo. Aligned with Agent Skills open standard, consumable by resolve-studio, |
+| 14 | [parthmax2/ghostrun](https://github.com/parthmax2/ghostrun) | 26 | Python | 2026-08-29 | pytest for AI Apps — Fast, free, offline testing and self-improving prompts for Python developers. |
+| 15 | [Musengimana/stakeholder-analysis-skill-for-developing-partnership-strategy](https://github.com/Musengimana/stakeholder-analysis-skill-for-developing-partnership-strategy) | 0 | — | 2026-08-29 | Free AI skill that turns stakeholder analysis into a partnership strategy: stakeholder mapping matrix (impact vs influen |
+| 16 | [hysohail/agentic-experiment-designer](https://github.com/hysohail/agentic-experiment-designer) | 1 | HTML | 2026-08-29 | Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement |
+| 17 | [grigb/gas-prompt-library](https://github.com/grigb/gas-prompt-library) | 6 | Python | 2026-08-29 | Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b |
 | 18 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 117 | HTML | 2026-08-29 | HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code |
 | 19 | [hackernotfound/dsh-tacit](https://github.com/hackernotfound/dsh-tacit) | 0 | JavaScript | 2026-08-29 | Learns what you leave unsaid in your prompts and steers the DeepSeek Harness agent for you |
 | 20 | [geniusdapeng-collab/panda-cineforge](https://github.com/geniusdapeng-collab/panda-cineforge) | 0 | TypeScript | 2026-08-29 | The world's first skill-forging engine built for AI Agents in film & video production. 全球首个面向 AI Agent 的影视创作技能生成引擎。 |
