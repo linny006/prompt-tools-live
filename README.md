@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-29 17:13 UTC
+> ⏰ Last updated: 2026-08-29 17:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [dgaramos/dr-agents](https://github.com/dgaramos/dr-agents) | 0 | Shell | 2026-08-29 | Portable, model-neutral agent workflows for Codex and Claude Code: design, review, issues, and delivery. |
-| 2 | [yegor256/prompt](https://github.com/yegor256/prompt) | 158 | — | 2026-08-29 | A plain-text prompt for LLMs that teaches the essence of elegant coding and testing—save it to ~/.claude/CLAUDE.md. |
-| 3 | [hakodev2k/AI-Engineering](https://github.com/hakodev2k/AI-Engineering) | 0 | Python | 2026-08-29 | Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories. |
-| 4 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-08-29 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 5 | [abedinm/prompt-engineering-playground](https://github.com/abedinm/prompt-engineering-playground) | 0 | HTML | 2026-08-29 | Interactive playground for learning and testing prompt-engineering techniques. |
-| 6 | [lf1up/careersim](https://github.com/lf1up/careersim) | 25 | TypeScript | 2026-08-29 | 🎮 AI-Powered Career Skills SIMulator |
-| 7 | [notoriouslab/prompt-studio](https://github.com/notoriouslab/prompt-studio) | 1 | HTML | 2026-08-29 | Turn one idea into production-ready AI-video prompts. Single-file web app, VideoExpress-calibrated, with an optional ful |
-| 8 | [abedinm/100-ai-prompts](https://github.com/abedinm/100-ai-prompts) | 0 | HTML | 2026-08-29 | A browsable library of 100 ready-to-use AI prompts, as an interactive web app. |
-| 9 | [F-e-u-e-r/opus-pack](https://github.com/F-e-u-e-r/opus-pack) | 2 | Python | 2026-08-29 | Distilled operating skills for daily-driver Claude models — few dense rules, executable gates over long prose. |
-| 10 | [letuandatt/AI-Radar](https://github.com/letuandatt/AI-Radar) | 1 | Python | 2026-08-29 | Knowledge Intelligence System for AI Research |
-| 11 | [ipeterpetrus/samewrite](https://github.com/ipeterpetrus/samewrite) | 1 | Python | 2026-08-29 | Where a coding-agent session really spends tokens: 1,316 Claude Code transcripts, 300+ scored A/B runs. Cost is carry, s |
-| 12 | [ntaffzii/Skill-Agents](https://github.com/ntaffzii/Skill-Agents) | 4 | Python | 2026-08-29 | Personal AI-agent skills, workflows, prompts, and setup guides for local LLMs and MCP-powered assistants. |
-| 13 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 117 | HTML | 2026-08-29 | HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code |
-| 14 | [linnnn89/grill-me-for-ui](https://github.com/linnnn89/grill-me-for-ui) | 0 | — | 2026-08-29 | Design Intelligence Router for AI UI design and vibe coding: interview-first UX, Art Direction, UI Briefs, design-system |
-| 15 | [subhacademic-cmd/prompt-craft-ecommerce-visuals](https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals) | 2 | HTML | 2026-08-29 | AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library ✨ |
-| 16 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-08-29 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [hakodev2k/AI-Engineering](https://github.com/hakodev2k/AI-Engineering) | 0 | Python | 2026-08-29 | Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories. |
+| 2 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-08-29 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 3 | [dgaramos/dr-agents](https://github.com/dgaramos/dr-agents) | 0 | Shell | 2026-08-29 | Portable, model-neutral agent workflows for Codex and Claude Code: design, review, issues, and delivery. |
+| 4 | [yegor256/prompt](https://github.com/yegor256/prompt) | 158 | — | 2026-08-29 | A plain-text prompt for LLMs that teaches the essence of elegant coding and testing—save it to ~/.claude/CLAUDE.md. |
+| 5 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-08-29 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
+| 6 | [abedinm/prompt-engineering-playground](https://github.com/abedinm/prompt-engineering-playground) | 0 | HTML | 2026-08-29 | Interactive playground for learning and testing prompt-engineering techniques. |
+| 7 | [lf1up/careersim](https://github.com/lf1up/careersim) | 25 | TypeScript | 2026-08-29 | 🎮 AI-Powered Career Skills SIMulator |
+| 8 | [notoriouslab/prompt-studio](https://github.com/notoriouslab/prompt-studio) | 1 | HTML | 2026-08-29 | Turn one idea into production-ready AI-video prompts. Single-file web app, VideoExpress-calibrated, with an optional ful |
+| 9 | [abedinm/100-ai-prompts](https://github.com/abedinm/100-ai-prompts) | 0 | HTML | 2026-08-29 | A browsable library of 100 ready-to-use AI prompts, as an interactive web app. |
+| 10 | [F-e-u-e-r/opus-pack](https://github.com/F-e-u-e-r/opus-pack) | 2 | Python | 2026-08-29 | Distilled operating skills for daily-driver Claude models — few dense rules, executable gates over long prose. |
+| 11 | [letuandatt/AI-Radar](https://github.com/letuandatt/AI-Radar) | 1 | Python | 2026-08-29 | Knowledge Intelligence System for AI Research |
+| 12 | [ipeterpetrus/samewrite](https://github.com/ipeterpetrus/samewrite) | 1 | Python | 2026-08-29 | Where a coding-agent session really spends tokens: 1,316 Claude Code transcripts, 300+ scored A/B runs. Cost is carry, s |
+| 13 | [ntaffzii/Skill-Agents](https://github.com/ntaffzii/Skill-Agents) | 4 | Python | 2026-08-29 | Personal AI-agent skills, workflows, prompts, and setup guides for local LLMs and MCP-powered assistants. |
+| 14 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 117 | HTML | 2026-08-29 | HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code |
+| 15 | [linnnn89/grill-me-for-ui](https://github.com/linnnn89/grill-me-for-ui) | 0 | — | 2026-08-29 | Design Intelligence Router for AI UI design and vibe coding: interview-first UX, Art Direction, UI Briefs, design-system |
+| 16 | [subhacademic-cmd/prompt-craft-ecommerce-visuals](https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals) | 2 | HTML | 2026-08-29 | AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library ✨ |
 | 17 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27726 | Python | 2026-08-29 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 18 | [Atheerameer/agentic-cli-blueprint-library](https://github.com/Atheerameer/agentic-cli-blueprint-library) | 1 | HTML | 2026-08-29 | Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts |
 | 19 | [Asir11/langgraph-agentic-workflows-tutorial](https://github.com/Asir11/langgraph-agentic-workflows-tutorial) | 0 | HTML | 2026-08-29 | Build LLM Agents in 2026 🚀 - LangChain & LangGraph Projects & Tutorials |
