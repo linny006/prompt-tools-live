@@ -1,11 +1,128 @@
 [
   {
+    "description": "\ud83d\udc19 AI Craft delivers structured workflow prompts for software development across AI platforms, with Claude AI workflows a",
+    "id": "R-cloud-git/ai-craft",
+    "language": "\u2014",
+    "name": "R-cloud-git/ai-craft",
+    "stars": 3,
+    "updated_at": "2026-08-29T13:29:52Z",
+    "url": "https://github.com/R-cloud-git/ai-craft"
+  },
+  {
+    "description": "Local-first prompt template contract checker for developers and AI agents",
+    "id": "Tinkora/prompt_smith",
+    "language": "Ruby",
+    "name": "Tinkora/prompt_smith",
+    "stars": 0,
+    "updated_at": "2026-08-29T13:29:46Z",
+    "url": "https://github.com/Tinkora/prompt_smith"
+  },
+  {
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 6,
+    "updated_at": "2026-08-29T13:29:20Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
+  },
+  {
+    "description": "\u8bf4\u4eba\u8bdd\uff5c\u4e2d\u6587\u4f18\u5148\u7684\u53bb AI \u5473\u6539\u5199 skill\uff1a\u4fdd\u4e8b\u5b9e\u3001\u5206\u573a\u666f\u3001\u6539\u5b8c\u53ef\u76f4\u63a5\u53d1\u3002Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT \u2014 removes ",
+    "id": "MrGeDiao/shuorenhua",
+    "language": "Python",
+    "name": "MrGeDiao/shuorenhua",
+    "stars": 1288,
+    "updated_at": "2026-08-29T13:28:04Z",
+    "url": "https://github.com/MrGeDiao/shuorenhua"
+  },
+  {
+    "description": "Curated copy-paste AI prompts for student developers - disciplined workflows for coding agents that verify, don't guess",
+    "id": "StudentSuite/awesome-ai-prompts",
+    "language": "Shell",
+    "name": "StudentSuite/awesome-ai-prompts",
+    "stars": 4,
+    "updated_at": "2026-08-29T13:27:25Z",
+    "url": "https://github.com/StudentSuite/awesome-ai-prompts"
+  },
+  {
+    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
+    "id": "Muizzkolapo/agent-actions",
+    "language": "Python",
+    "name": "Muizzkolapo/agent-actions",
+    "stars": 8,
+    "updated_at": "2026-08-29T13:24:31Z",
+    "url": "https://github.com/Muizzkolapo/agent-actions"
+  },
+  {
+    "description": "\ud83e\udde0 A spec-driven intelligence framework for agents, skills, prompts, policies, evaluations, and execution contracts.",
+    "id": "egohygiene/aether",
+    "language": "Python",
+    "name": "egohygiene/aether",
+    "stars": 0,
+    "updated_at": "2026-08-29T13:23:20Z",
+    "url": "https://github.com/egohygiene/aether"
+  },
+  {
+    "description": "A modern AI workspace built with LangChain and Streamlit, developed by implementing LangChain concepts step by step whil",
+    "id": "visheshbpatel/synapse-ai",
+    "language": "Python",
+    "name": "visheshbpatel/synapse-ai",
+    "stars": 1,
+    "updated_at": "2026-08-29T13:23:54Z",
+    "url": "https://github.com/visheshbpatel/synapse-ai"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-29T13:22:31Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-29T13:20:53Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
+    "id": "conorbronsdon/agent-context-os",
+    "language": "Python",
+    "name": "conorbronsdon/agent-context-os",
+    "stars": 15,
+    "updated_at": "2026-08-29T13:20:20Z",
+    "url": "https://github.com/conorbronsdon/agent-context-os"
+  },
+  {
+    "description": "Persistent memory, BM25 code search, MCP tools, and hook guardrails for AI coding agents \u2014 Claude Code, Codex CLI & Anti",
+    "id": "ezBuilder/code-brain",
+    "language": "Python",
+    "name": "ezBuilder/code-brain",
+    "stars": 11,
+    "updated_at": "2026-08-29T13:20:17Z",
+    "url": "https://github.com/ezBuilder/code-brain"
+  },
+  {
+    "description": "\ud83c\udfae AI-Powered Career Skills SIMulator",
+    "id": "lf1up/careersim",
+    "language": "TypeScript",
+    "name": "lf1up/careersim",
+    "stars": 25,
+    "updated_at": "2026-08-29T13:28:51Z",
+    "url": "https://github.com/lf1up/careersim"
+  },
+  {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
     "id": "linny006/prompt-tools-live",
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 10,
-    "updated_at": "2026-08-29T13:15:29Z",
+    "updated_at": "2026-08-29T13:17:18Z",
     "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
@@ -104,7 +221,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27724,
-    "updated_at": "2026-08-29T13:06:55Z",
+    "updated_at": "2026-08-29T13:23:00Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -279,15 +396,6 @@
     "url": "https://github.com/akashsebastian333/peephole"
   },
   {
-    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
-    "id": "conorbronsdon/agent-context-os",
-    "language": "Python",
-    "name": "conorbronsdon/agent-context-os",
-    "stars": 15,
-    "updated_at": "2026-08-29T13:12:45Z",
-    "url": "https://github.com/conorbronsdon/agent-context-os"
-  },
-  {
     "description": "Local-first prompt regression testing and evals for LLM apps.",
     "id": "promptry/promptry",
     "language": "Python",
@@ -297,15 +405,6 @@
     "url": "https://github.com/promptry/promptry"
   },
   {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 6,
-    "updated_at": "2026-08-29T12:43:57Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
     "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
     "language": "HTML",
@@ -313,15 +412,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T12:37:57Z",
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Persistent memory, BM25 code search, MCP tools, and hook guardrails for AI coding agents \u2014 Claude Code, Codex CLI & Anti",
-    "id": "ezBuilder/code-brain",
-    "language": "Python",
-    "name": "ezBuilder/code-brain",
-    "stars": 11,
-    "updated_at": "2026-08-29T12:36:57Z",
-    "url": "https://github.com/ezBuilder/code-brain"
   },
   {
     "description": "\u26a1 TidyFactor Architecture Ecosystem , AI-Native Web Architecture, Design Systems & Agent Skills .",
@@ -358,95 +448,5 @@
     "stars": 6299,
     "updated_at": "2026-08-29T12:35:05Z",
     "url": "https://github.com/promptslab/Awesome-Prompt-Engineering"
-  },
-  {
-    "description": "Production-Stage Visual Design & In-Codebase UI Engineering Suite",
-    "id": "TidyFactor/Styler",
-    "language": "Python",
-    "name": "TidyFactor/Styler",
-    "stars": 79,
-    "updated_at": "2026-08-29T12:35:03Z",
-    "url": "https://github.com/TidyFactor/Styler"
-  },
-  {
-    "description": "Skills Governance Layer & Skill Methodology Engine for AI Coding Agents",
-    "id": "TidyFactor/skill-architect",
-    "language": "JavaScript",
-    "name": "TidyFactor/skill-architect",
-    "stars": 1,
-    "updated_at": "2026-08-29T12:34:42Z",
-    "url": "https://github.com/TidyFactor/skill-architect"
-  },
-  {
-    "description": "Production-Grade Multi-Tenant SaaS Architecture & Development Performance Engine",
-    "id": "TidyFactor/Next",
-    "language": "JavaScript",
-    "name": "TidyFactor/Next",
-    "stars": 3,
-    "updated_at": "2026-08-29T12:34:01Z",
-    "url": "https://github.com/TidyFactor/Next"
-  },
-  {
-    "description": "Marketing, Psychological Growth Engine & Anti-Slop Content Suite",
-    "id": "TidyFactor/Marketing",
-    "language": "JavaScript",
-    "name": "TidyFactor/Marketing",
-    "stars": 6,
-    "updated_at": "2026-08-29T12:33:39Z",
-    "url": "https://github.com/TidyFactor/Marketing"
-  },
-  {
-    "description": "The Vanilla JS track of the TidyFactor skill library",
-    "id": "TidyFactor/JS",
-    "language": "JavaScript",
-    "name": "TidyFactor/JS",
-    "stars": 2,
-    "updated_at": "2026-08-29T12:33:19Z",
-    "url": "https://github.com/TidyFactor/JS"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-08-29T12:33:05Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "The HTMX Server-Driven Micro-Interactions track of the TidyFactor skill library",
-    "id": "TidyFactor/HTMX",
-    "language": "JavaScript",
-    "name": "TidyFactor/HTMX",
-    "stars": 1,
-    "updated_at": "2026-08-29T12:32:59Z",
-    "url": "https://github.com/TidyFactor/HTMX"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-08-29T12:32:09Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 9,
-    "updated_at": "2026-08-29T12:31:20Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Produce high-impact, scroll-driven product films and luxury Cinematic Landing pages.",
-    "id": "TidyFactor/Cinematic",
-    "language": "HTML",
-    "name": "TidyFactor/Cinematic",
-    "stars": 2,
-    "updated_at": "2026-08-29T12:31:15Z",
-    "url": "https://github.com/TidyFactor/Cinematic"
   }
 ]
