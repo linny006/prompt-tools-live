@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [atomicdjt/AI-Project-Portfolio](https://github.com/atomicdjt/AI-Project-Portfolio) | 0 | JavaScript | 2026-08-29 | Source-backed applied AI and technical-operations portfolio with deployed local-first tools, tests, CI, and verification |
-| 2 | [TidyFactor/Styler](https://github.com/TidyFactor/Styler) | 68 | Python | 2026-08-29 | Production-Stage Visual Design & In-Codebase UI Engineering Suite |
-| 3 | [TidyFactor/skill-architect](https://github.com/TidyFactor/skill-architect) | 1 | Python | 2026-08-29 | Skills Governance Layer & Skill Methodology Engine for AI Coding Agents |
-| 4 | [TidyFactor/Next](https://github.com/TidyFactor/Next) | 2 | Python | 2026-08-29 | Production-Grade Multi-Tenant SaaS Architecture & Development Performance Engine |
-| 5 | [TidyFactor/Marketing](https://github.com/TidyFactor/Marketing) | 5 | JavaScript | 2026-08-29 | Marketing, Psychological Growth Engine & Anti-Slop Content Suite |
-| 6 | [TidyFactor/HTMX](https://github.com/TidyFactor/HTMX) | 1 | JavaScript | 2026-08-29 | The HTMX Server-Driven Micro-Interactions track of the TidyFactor skill library |
-| 7 | [TidyFactor/JS](https://github.com/TidyFactor/JS) | 1 | JavaScript | 2026-08-29 | The Vanilla JS track of the TidyFactor skill library |
-| 8 | [smsheik1/wiggly](https://github.com/smsheik1/wiggly) | 1 | TypeScript | 2026-08-29 | npm for generative video. Runnable creative formats for image, video, and audio. |
-| 9 | [shiza2xx/nai-prompt-studio](https://github.com/shiza2xx/nai-prompt-studio) | 2 | JavaScript | 2026-08-29 | Local NovelAI prompt builder, V5 artist mixer, custom visual tags, and image metadata inspector. |
-| 10 | [atapia9/7DaysOfCode-Prompt-Engineering](https://github.com/atapia9/7DaysOfCode-Prompt-Engineering) | 0 | — | 2026-08-29 | Reto #7DaysOfCode de Prompt Engineering (Alura Latam): una técnica por día hasta construir un Tutor Personal de Carrera  |
-| 11 | [parkerluxu/Awesome-agent-cases](https://github.com/parkerluxu/Awesome-agent-cases) | 8 | JavaScript | 2026-08-29 | A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource |
-| 12 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 61 | Shell | 2026-08-29 | Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se |
-| 13 | [martonpaulo/skills](https://github.com/martonpaulo/skills) | 1 | Python | 2026-08-29 | Agent Skills for coding agents: software engineering workflows and architecture tools. Personalized forks, with every up |
-| 14 | [sou350121/Agent-Playbook](https://github.com/sou350121/Agent-Playbook) | 13 | PowerShell | 2026-08-29 | ⚗️ AI Agent 生态每天海量资讯，99% 是噪音。这个仓库只做一件事：把最新碎片信号提纯为你能直接用的架构导轨、设计模式和工程实践。 |
-| 15 | [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) | 2347 | Shell | 2026-08-29 | The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us |
-| 16 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-08-29 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 17 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24650 | TypeScript | 2026-08-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 18 | [Ak863153/ChatGPT-Persona-Voice](https://github.com/Ak863153/ChatGPT-Persona-Voice) | 0 | — | 2026-08-29 | Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference. |
-| 19 | [pixexid/artinspire-prompt-atlas](https://github.com/pixexid/artinspire-prompt-atlas) | 0 | Python | 2026-08-29 | Pre-launch: an open, multi-model prompt atlas for real model outputs, reproducible prompts, provenance and rights metada |
-| 20 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-08-29 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-08-29 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [atomicdjt/AI-Project-Portfolio](https://github.com/atomicdjt/AI-Project-Portfolio) | 0 | JavaScript | 2026-08-29 | Source-backed applied AI and technical-operations portfolio with deployed local-first tools, tests, CI, and verification |
+| 3 | [TidyFactor/Styler](https://github.com/TidyFactor/Styler) | 68 | Python | 2026-08-29 | Production-Stage Visual Design & In-Codebase UI Engineering Suite |
+| 4 | [TidyFactor/skill-architect](https://github.com/TidyFactor/skill-architect) | 1 | Python | 2026-08-29 | Skills Governance Layer & Skill Methodology Engine for AI Coding Agents |
+| 5 | [TidyFactor/Next](https://github.com/TidyFactor/Next) | 2 | Python | 2026-08-29 | Production-Grade Multi-Tenant SaaS Architecture & Development Performance Engine |
+| 6 | [TidyFactor/Marketing](https://github.com/TidyFactor/Marketing) | 5 | JavaScript | 2026-08-29 | Marketing, Psychological Growth Engine & Anti-Slop Content Suite |
+| 7 | [TidyFactor/HTMX](https://github.com/TidyFactor/HTMX) | 1 | JavaScript | 2026-08-29 | The HTMX Server-Driven Micro-Interactions track of the TidyFactor skill library |
+| 8 | [TidyFactor/JS](https://github.com/TidyFactor/JS) | 1 | JavaScript | 2026-08-29 | The Vanilla JS track of the TidyFactor skill library |
+| 9 | [smsheik1/wiggly](https://github.com/smsheik1/wiggly) | 1 | TypeScript | 2026-08-29 | npm for generative video. Runnable creative formats for image, video, and audio. |
+| 10 | [shiza2xx/nai-prompt-studio](https://github.com/shiza2xx/nai-prompt-studio) | 2 | JavaScript | 2026-08-29 | Local NovelAI prompt builder, V5 artist mixer, custom visual tags, and image metadata inspector. |
+| 11 | [atapia9/7DaysOfCode-Prompt-Engineering](https://github.com/atapia9/7DaysOfCode-Prompt-Engineering) | 0 | — | 2026-08-29 | Reto #7DaysOfCode de Prompt Engineering (Alura Latam): una técnica por día hasta construir un Tutor Personal de Carrera  |
+| 12 | [parkerluxu/Awesome-agent-cases](https://github.com/parkerluxu/Awesome-agent-cases) | 8 | JavaScript | 2026-08-29 | A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource |
+| 13 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 61 | Shell | 2026-08-29 | Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se |
+| 14 | [martonpaulo/skills](https://github.com/martonpaulo/skills) | 1 | Python | 2026-08-29 | Agent Skills for coding agents: software engineering workflows and architecture tools. Personalized forks, with every up |
+| 15 | [sou350121/Agent-Playbook](https://github.com/sou350121/Agent-Playbook) | 13 | PowerShell | 2026-08-29 | ⚗️ AI Agent 生态每天海量资讯，99% 是噪音。这个仓库只做一件事：把最新碎片信号提纯为你能直接用的架构导轨、设计模式和工程实践。 |
+| 16 | [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) | 2347 | Shell | 2026-08-29 | The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us |
+| 17 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-08-29 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
+| 18 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24650 | TypeScript | 2026-08-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 19 | [Ak863153/ChatGPT-Persona-Voice](https://github.com/Ak863153/ChatGPT-Persona-Voice) | 0 | — | 2026-08-29 | Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference. |
+| 20 | [pixexid/artinspire-prompt-atlas](https://github.com/pixexid/artinspire-prompt-atlas) | 0 | Python | 2026-08-29 | Pre-launch: an open, multi-model prompt atlas for real model outputs, reproducible prompts, provenance and rights metada |
 | 21 | [chengyansen-ai/cys-prompt-suite](https://github.com/chengyansen-ai/cys-prompt-suite) | 1 | Python | 2026-08-29 | 中文人像、动漫与 MiniMax H3 提示词 MCP：可复现词库采样、严格参数校验、风险短语复检，以及默认隔离第三方 IP 的商用友好边界。 |
 | 22 | [partible-dicer700/SoDam-Persona-Codex](https://github.com/partible-dicer700/SoDam-Persona-Codex) | 0 | JavaScript | 2026-08-29 | Give your AI coding assistant a cautious, meticulous Korean developer personality with this persona plugin for OpenAI Co |
 | 23 | [nonliteral-fullhouse266/time-travel-sqlite-debugger](https://github.com/nonliteral-fullhouse266/time-travel-sqlite-debugger) | 0 | HTML | 2026-08-29 | Track and instantly rewind your SQLite database to any previous state during local development with a video-like scrubbe |
