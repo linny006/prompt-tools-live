@@ -1,11 +1,110 @@
 [
   {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-29T19:59:59Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "CLI tool for comparing prompt variants and models",
+    "id": "amro/evaling",
+    "language": "Python",
+    "name": "amro/evaling",
+    "stars": 2,
+    "updated_at": "2026-08-29T19:58:14Z",
+    "url": "https://github.com/amro/evaling"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-29T19:57:56Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "id": "JuliusBrussee/caveman",
+    "language": "Go",
+    "name": "JuliusBrussee/caveman",
+    "stars": 101746,
+    "updated_at": "2026-08-29T19:57:33Z",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "description": "",
+    "id": "xscriptor-ai/skills",
+    "language": "\u2014",
+    "name": "xscriptor-ai/skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:57:24Z",
+    "url": "https://github.com/xscriptor-ai/skills"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-29T19:54:23Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
+    "id": "Tubifix77/red-thread",
+    "language": "Python",
+    "name": "Tubifix77/red-thread",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:52:42Z",
+    "url": "https://github.com/Tubifix77/red-thread"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-29T19:52:03Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-08-29T19:47:24Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-29T19:47:15Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Make AI write in your voice without fine-tuning. Local-first style fingerprint + deterministic gates + a corrections loo",
+    "id": "assafkip/voice-loop",
+    "language": "Python",
+    "name": "assafkip/voice-loop",
+    "stars": 3,
+    "updated_at": "2026-08-29T19:47:02Z",
+    "url": "https://github.com/assafkip/voice-loop"
+  },
+  {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
     "id": "linny006/prompt-tools-live",
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 10,
-    "updated_at": "2026-08-29T19:44:03Z",
+    "updated_at": "2026-08-29T19:45:28Z",
     "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
@@ -22,18 +121,9 @@
     "id": "T8mars/minimax-h3-prompt-skill-T8",
     "language": "JavaScript",
     "name": "T8mars/minimax-h3-prompt-skill-T8",
-    "stars": 166,
+    "stars": 167,
     "updated_at": "2026-08-29T19:42:35Z",
     "url": "https://github.com/T8mars/minimax-h3-prompt-skill-T8"
-  },
-  {
-    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
-    "id": "christopherlouet/claude-base",
-    "language": "Shell",
-    "name": "christopherlouet/claude-base",
-    "stars": 5,
-    "updated_at": "2026-08-29T19:43:00Z",
-    "url": "https://github.com/christopherlouet/claude-base"
   },
   {
     "description": "This repository serves as the comprehensive workspace for Quarter 4-5 academic endeavors, encompassing assignments, tech",
@@ -117,15 +207,6 @@
     "url": "https://github.com/alanshurafa/co-evolution"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-29T19:32:19Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "LLM Prompt Studio for image, 3D, video, and audio models",
     "id": "doodersrage/llm-prompt-studio",
     "language": "TypeScript",
@@ -140,7 +221,7 @@
     "language": "JavaScript",
     "name": "hackernotfound/dsh-tacit",
     "stars": 0,
-    "updated_at": "2026-08-29T19:28:30Z",
+    "updated_at": "2026-08-29T19:49:42Z",
     "url": "https://github.com/hackernotfound/dsh-tacit"
   },
   {
@@ -160,15 +241,6 @@
     "stars": 8,
     "updated_at": "2026-08-29T19:26:50Z",
     "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "CLI tool for comparing prompt variants and models",
-    "id": "amro/evaling",
-    "language": "Python",
-    "name": "amro/evaling",
-    "stars": 2,
-    "updated_at": "2026-08-29T19:25:59Z",
-    "url": "https://github.com/amro/evaling"
   },
   {
     "description": "Ecossistema de tutoria via IA que busca e estrutura provas da web. Integra Cloudflare Workers, GitHub Actions, OpenHands",
@@ -203,7 +275,7 @@
     "language": "JavaScript",
     "name": "SAIRAMANALADI/vybe-intelligence-vault",
     "stars": 22,
-    "updated_at": "2026-08-29T19:20:58Z",
+    "updated_at": "2026-08-29T20:00:24Z",
     "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
   },
   {
@@ -223,15 +295,6 @@
     "stars": 7,
     "updated_at": "2026-08-29T19:18:24Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
-    "id": "Tubifix77/red-thread",
-    "language": "Python",
-    "name": "Tubifix77/red-thread",
-    "stars": 0,
-    "updated_at": "2026-08-29T19:16:27Z",
-    "url": "https://github.com/Tubifix77/red-thread"
   },
   {
     "description": "Starter kit for evidence-driven AI-assisted engineering: Define \u2192 Build \u2192 Verify \u2192 Review \u2192 Human gate",
@@ -259,6 +322,15 @@
     "stars": 0,
     "updated_at": "2026-08-29T19:14:36Z",
     "url": "https://github.com/gustavfreitas/A.X.E.L"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6498,
+    "updated_at": "2026-08-29T19:48:01Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T18:53:23Z",
     "url": "https://github.com/Akhil-631/ai-customer-support-agent"
-  },
-  {
-    "description": "Local-first MCP server for agent skills \u2014 validate, lint, convert, optimize tokens, and sync across Cursor, Claude, Kiro",
-    "id": "ModelBound/modelbound-mcp-server",
-    "language": "TypeScript",
-    "name": "ModelBound/modelbound-mcp-server",
-    "stars": 1,
-    "updated_at": "2026-08-29T18:52:58Z",
-    "url": "https://github.com/ModelBound/modelbound-mcp-server"
-  },
-  {
-    "description": "ModelBound CLI \u2014 token optimization, skill pipeline, version management, and cloud sync from your terminal or CI.",
-    "id": "ModelBound/modelbound-cli",
-    "language": "TypeScript",
-    "name": "ModelBound/modelbound-cli",
-    "stars": 1,
-    "updated_at": "2026-08-29T18:52:17Z",
-    "url": "https://github.com/ModelBound/modelbound-cli"
-  },
-  {
-    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
-    "id": "elie222/botdirectory.ai",
-    "language": "Astro",
-    "name": "elie222/botdirectory.ai",
-    "stars": 143,
-    "updated_at": "2026-08-29T18:51:36Z",
-    "url": "https://github.com/elie222/botdirectory.ai"
-  },
-  {
-    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
-    "id": "martialsystems/verify-before-done",
-    "language": "Python",
-    "name": "martialsystems/verify-before-done",
-    "stars": 1,
-    "updated_at": "2026-08-29T18:51:00Z",
-    "url": "https://github.com/martialsystems/verify-before-done"
-  },
-  {
-    "description": "A coaching harness for Claude Code: team memory, evidence-backed prompt coaching, injection defense, onboarding docs and",
-    "id": "MohammedMoataz/ai-coach",
-    "language": "JavaScript",
-    "name": "MohammedMoataz/ai-coach",
-    "stars": 0,
-    "updated_at": "2026-08-29T18:44:32Z",
-    "url": "https://github.com/MohammedMoataz/ai-coach"
-  },
-  {
-    "description": "Agent skill: generate beautiful dark-themed architecture diagrams from your project/demo/idea. Interactive, verifiable, ",
-    "id": "lewes2/archpresent",
-    "language": "HTML",
-    "name": "lewes2/archpresent",
-    "stars": 1,
-    "updated_at": "2026-08-29T18:41:57Z",
-    "url": "https://github.com/lewes2/archpresent"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-29T18:41:40Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-29T18:40:00Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
