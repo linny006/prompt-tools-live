@@ -1,12 +1,129 @@
 [
   {
+    "description": "Local Claude Code HTTP traffic inspector with a desktop GUI and agent API. Capture prompts, tools, SSE, errors, and toke",
+    "id": "FuHehe12/cc-wire-analyzer",
+    "language": "Python",
+    "name": "FuHehe12/cc-wire-analyzer",
+    "stars": 3,
+    "updated_at": "2026-08-29T01:42:25Z",
+    "url": "https://github.com/FuHehe12/cc-wire-analyzer"
+  },
+  {
+    "description": "C# SDK for the Vellum AI API -- prompt engineering, evaluation, deployment, and workflow orchestration",
+    "id": "tryAGI/Vellum",
+    "language": "C#",
+    "name": "tryAGI/Vellum",
+    "stars": 0,
+    "updated_at": "2026-08-29T01:42:02Z",
+    "url": "https://github.com/tryAGI/Vellum"
+  },
+  {
+    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
+    "id": "martialsystems/verify-before-done",
+    "language": "Python",
+    "name": "martialsystems/verify-before-done",
+    "stars": 1,
+    "updated_at": "2026-08-29T01:41:41Z",
+    "url": "https://github.com/martialsystems/verify-before-done"
+  },
+  {
+    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
+    "id": "Magma1321/mythos-agent-pipe",
+    "language": "HTML",
+    "name": "Magma1321/mythos-agent-pipe",
+    "stars": 123,
+    "updated_at": "2026-08-29T01:40:21Z",
+    "url": "https://github.com/Magma1321/mythos-agent-pipe"
+  },
+  {
     "description": "The Rails Doctrine, translated for the vibe coding era. One opinionated skill, every AI agent.",
     "id": "bobbyryandra/dhh-vibe",
     "language": "Shell",
     "name": "bobbyryandra/dhh-vibe",
     "stars": 0,
-    "updated_at": "2026-08-29T01:29:01Z",
+    "updated_at": "2026-08-29T01:39:09Z",
     "url": "https://github.com/bobbyryandra/dhh-vibe"
+  },
+  {
+    "description": "Skills Governance Layer & Skill Methodology Engine for AI Coding Agents",
+    "id": "TidyFactor/skill-architect",
+    "language": "Python",
+    "name": "TidyFactor/skill-architect",
+    "stars": 1,
+    "updated_at": "2026-08-29T01:38:40Z",
+    "url": "https://github.com/TidyFactor/skill-architect"
+  },
+  {
+    "description": "Production-Grade Multi-Tenant SaaS Architecture & Development Performance Engine",
+    "id": "TidyFactor/Next",
+    "language": "Python",
+    "name": "TidyFactor/Next",
+    "stars": 2,
+    "updated_at": "2026-08-29T01:38:30Z",
+    "url": "https://github.com/TidyFactor/Next"
+  },
+  {
+    "description": "How many tokens does an AI agent pay to read your repo? Measure it, find the waste (lockfiles, bundles, generated files)",
+    "id": "CAOShurong/contextcost",
+    "language": "Python",
+    "name": "CAOShurong/contextcost",
+    "stars": 0,
+    "updated_at": "2026-08-29T01:37:43Z",
+    "url": "https://github.com/CAOShurong/contextcost"
+  },
+  {
+    "description": "Marketing, Psychological Growth Engine & Anti-Slop Content Suite",
+    "id": "TidyFactor/Marketing",
+    "language": "JavaScript",
+    "name": "TidyFactor/Marketing",
+    "stars": 5,
+    "updated_at": "2026-08-29T01:38:22Z",
+    "url": "https://github.com/TidyFactor/Marketing"
+  },
+  {
+    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
+    "id": "luongs3/skill-atlas",
+    "language": "Python",
+    "name": "luongs3/skill-atlas",
+    "stars": 0,
+    "updated_at": "2026-08-29T01:37:15Z",
+    "url": "https://github.com/luongs3/skill-atlas"
+  },
+  {
+    "description": "The Vanilla JS track of the TidyFactor skill library",
+    "id": "TidyFactor/JS",
+    "language": "JavaScript",
+    "name": "TidyFactor/JS",
+    "stars": 1,
+    "updated_at": "2026-08-29T01:37:40Z",
+    "url": "https://github.com/TidyFactor/JS"
+  },
+  {
+    "description": "The HTMX Server-Driven Micro-Interactions track of the TidyFactor skill library",
+    "id": "TidyFactor/HTMX",
+    "language": "JavaScript",
+    "name": "TidyFactor/HTMX",
+    "stars": 1,
+    "updated_at": "2026-08-29T01:37:09Z",
+    "url": "https://github.com/TidyFactor/HTMX"
+  },
+  {
+    "description": "Structured AI learning workspace for ChatGPT Projects \u2014 source grounding, pedagogical guardrails, learning context, and ",
+    "id": "man612/ramu",
+    "language": "Python",
+    "name": "man612/ramu",
+    "stars": 0,
+    "updated_at": "2026-08-29T01:44:46Z",
+    "url": "https://github.com/man612/ramu"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-29T01:35:35Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Doaa (Prism Engine): an open-source, governed linguistic-algorithmic mediator for compact LLM interaction, strict result",
@@ -14,8 +131,71 @@
     "language": "Python",
     "name": "saifromih-glitch/doaa-prism-engine",
     "stars": 0,
-    "updated_at": "2026-08-29T01:27:42Z",
+    "updated_at": "2026-08-29T01:35:27Z",
     "url": "https://github.com/saifromih-glitch/doaa-prism-engine"
+  },
+  {
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "id": "AgustiPuigserver/opus-prompt-architect",
+    "language": "HTML",
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "stars": 123,
+    "updated_at": "2026-08-29T01:35:21Z",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 30,
+    "updated_at": "2026-08-29T01:35:05Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "Produce high-impact, scroll-driven product films and luxury Cinematic Landing pages.",
+    "id": "TidyFactor/Cinematic",
+    "language": "HTML",
+    "name": "TidyFactor/Cinematic",
+    "stars": 1,
+    "updated_at": "2026-08-29T01:34:45Z",
+    "url": "https://github.com/TidyFactor/Cinematic"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-29T01:32:13Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr",
+    "id": "ariaxhan/kernel-claude",
+    "language": "JavaScript",
+    "name": "ariaxhan/kernel-claude",
+    "stars": 12,
+    "updated_at": "2026-08-29T01:32:12Z",
+    "url": "https://github.com/ariaxhan/kernel-claude"
+  },
+  {
+    "description": "Automated daily tech briefing: 10 RSS feeds through a 4-stage GPT-4o-mini pipeline (dedup, classify, rank, analyze) into",
+    "id": "jtfernandezi/tech-news-aggregator",
+    "language": "JavaScript",
+    "name": "jtfernandezi/tech-news-aggregator",
+    "stars": 0,
+    "updated_at": "2026-08-29T01:31:28Z",
+    "url": "https://github.com/jtfernandezi/tech-news-aggregator"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-29T01:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A professional collection of AI prompts for QA (Quality Assurance) professionals, designed to help test engineers and QA",
@@ -25,24 +205,6 @@
     "stars": 41,
     "updated_at": "2026-08-29T01:26:32Z",
     "url": "https://github.com/naodeng/awesome-qa-prompt"
-  },
-  {
-    "description": "Structured, spec-driven development workflow for AI coding agents.",
-    "id": "sahil87/fab-kit",
-    "language": "Go",
-    "name": "sahil87/fab-kit",
-    "stars": 30,
-    "updated_at": "2026-08-29T01:24:59Z",
-    "url": "https://github.com/sahil87/fab-kit"
-  },
-  {
-    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
-    "id": "martialsystems/verify-before-done",
-    "language": "Python",
-    "name": "martialsystems/verify-before-done",
-    "stars": 1,
-    "updated_at": "2026-08-29T01:24:29Z",
-    "url": "https://github.com/martialsystems/verify-before-done"
   },
   {
     "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
@@ -95,17 +257,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11227,
-    "updated_at": "2026-08-29T01:26:20Z",
+    "updated_at": "2026-08-29T01:38:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-29T01:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Production-Stage Visual Design & In-Codebase UI Engineering Suite",
@@ -117,15 +270,6 @@
     "url": "https://github.com/TidyFactor/Styler"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-29T01:12:22Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "\u8d37\u6b3e\u7ebf\u7d22 CRM\uff1aLLM \u8d44\u8d28\u62bd\u53d6 + eval \u6846\u67b6 + \u89c4\u5219\u5f15\u64ce\u64ae\u5408\u5224\u5b9a",
     "id": "lihongyu-dev/anzhice-crm",
     "language": "TypeScript",
@@ -135,13 +279,13 @@
     "url": "https://github.com/lihongyu-dev/anzhice-crm"
   },
   {
-    "description": "Local Claude Code HTTP traffic inspector with a desktop GUI and agent API. Capture prompts, tools, SSE, errors, and toke",
-    "id": "FuHehe12/cc-wire-analyzer",
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
-    "name": "FuHehe12/cc-wire-analyzer",
-    "stars": 3,
-    "updated_at": "2026-08-29T01:07:37Z",
-    "url": "https://github.com/FuHehe12/cc-wire-analyzer"
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6475,
+    "updated_at": "2026-08-29T01:08:49Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Daily production-grade Agent Skills for OpenAI Codex, Claude Code, Cursor, GitHub Copilot and SKILL.md-compatible AI cod",
@@ -243,51 +387,6 @@
     "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
   },
   {
-    "description": "Skills Governance Layer & Skill Methodology Engine for AI Coding Agents",
-    "id": "TidyFactor/skill-architect",
-    "language": "Python",
-    "name": "TidyFactor/skill-architect",
-    "stars": 1,
-    "updated_at": "2026-08-29T00:43:46Z",
-    "url": "https://github.com/TidyFactor/skill-architect"
-  },
-  {
-    "description": "Production-Grade Multi-Tenant SaaS Architecture & Development Performance Engine",
-    "id": "TidyFactor/Next",
-    "language": "Python",
-    "name": "TidyFactor/Next",
-    "stars": 2,
-    "updated_at": "2026-08-29T00:43:28Z",
-    "url": "https://github.com/TidyFactor/Next"
-  },
-  {
-    "description": "Marketing, Psychological Growth Engine & Anti-Slop Content Suite",
-    "id": "TidyFactor/Marketing",
-    "language": "JavaScript",
-    "name": "TidyFactor/Marketing",
-    "stars": 5,
-    "updated_at": "2026-08-29T00:43:20Z",
-    "url": "https://github.com/TidyFactor/Marketing"
-  },
-  {
-    "description": "The HTMX Server-Driven Micro-Interactions track of the TidyFactor skill library",
-    "id": "TidyFactor/HTMX",
-    "language": "JavaScript",
-    "name": "TidyFactor/HTMX",
-    "stars": 1,
-    "updated_at": "2026-08-29T00:43:05Z",
-    "url": "https://github.com/TidyFactor/HTMX"
-  },
-  {
-    "description": "The Vanilla JS track of the TidyFactor skill library",
-    "id": "TidyFactor/JS",
-    "language": "JavaScript",
-    "name": "TidyFactor/JS",
-    "stars": 1,
-    "updated_at": "2026-08-29T00:43:00Z",
-    "url": "https://github.com/TidyFactor/JS"
-  },
-  {
     "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
     "id": "smsheik1/wiggly",
     "language": "TypeScript",
@@ -349,104 +448,5 @@
     "stars": 2347,
     "updated_at": "2026-08-29T00:33:01Z",
     "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference.",
-    "id": "Ak863153/ChatGPT-Persona-Voice",
-    "language": "\u2014",
-    "name": "Ak863153/ChatGPT-Persona-Voice",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:31:30Z",
-    "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
-  },
-  {
-    "description": "Pre-launch: an open, multi-model prompt atlas for real model outputs, reproducible prompts, provenance and rights metada",
-    "id": "pixexid/artinspire-prompt-atlas",
-    "language": "Python",
-    "name": "pixexid/artinspire-prompt-atlas",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:30:52Z",
-    "url": "https://github.com/pixexid/artinspire-prompt-atlas"
-  },
-  {
-    "description": "\u4e2d\u6587\u4eba\u50cf\u3001\u52a8\u6f2b\u4e0e MiniMax H3 \u63d0\u793a\u8bcd MCP\uff1a\u53ef\u590d\u73b0\u8bcd\u5e93\u91c7\u6837\u3001\u4e25\u683c\u53c2\u6570\u6821\u9a8c\u3001\u98ce\u9669\u77ed\u8bed\u590d\u68c0\uff0c\u4ee5\u53ca\u9ed8\u8ba4\u9694\u79bb\u7b2c\u4e09\u65b9 IP \u7684\u5546\u7528\u53cb\u597d\u8fb9\u754c\u3002",
-    "id": "chengyansen-ai/cys-prompt-suite",
-    "language": "Python",
-    "name": "chengyansen-ai/cys-prompt-suite",
-    "stars": 1,
-    "updated_at": "2026-08-29T00:30:26Z",
-    "url": "https://github.com/chengyansen-ai/cys-prompt-suite"
-  },
-  {
-    "description": "Give your AI coding assistant a cautious, meticulous Korean developer personality with this persona plugin for OpenAI Co",
-    "id": "partible-dicer700/SoDam-Persona-Codex",
-    "language": "JavaScript",
-    "name": "partible-dicer700/SoDam-Persona-Codex",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:30:25Z",
-    "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
-  },
-  {
-    "description": "Track and instantly rewind your SQLite database to any previous state during local development with a video-like scrubbe",
-    "id": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "language": "HTML",
-    "name": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:30:25Z",
-    "url": "https://github.com/nonliteral-fullhouse266/time-travel-sqlite-debugger"
-  },
-  {
-    "description": "C# SDK for the Vellum AI API -- prompt engineering, evaluation, deployment, and workflow orchestration",
-    "id": "tryAGI/Vellum",
-    "language": "C#",
-    "name": "tryAGI/Vellum",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:30:15Z",
-    "url": "https://github.com/tryAGI/Vellum"
-  },
-  {
-    "description": "Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions ",
-    "id": "householderbereavedperson505/promptloop",
-    "language": "\u2014",
-    "name": "householderbereavedperson505/promptloop",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:29:05Z",
-    "url": "https://github.com/householderbereavedperson505/promptloop"
-  },
-  {
-    "description": "Manage and organize your AI prompts locally with this private, self-hosted prompt manager for ChatGPT, Claude, and Gemin",
-    "id": "conniving-catechist742/ai-prompt-studio",
-    "language": "Python",
-    "name": "conniving-catechist742/ai-prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:29:02Z",
-    "url": "https://github.com/conniving-catechist742/ai-prompt-studio"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:28:21Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 1,
-    "updated_at": "2026-08-29T00:28:19Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
-    "id": "calabashspouter212/scriptbreak",
-    "language": "\u2014",
-    "name": "calabashspouter212/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-08-29T00:27:42Z",
-    "url": "https://github.com/calabashspouter212/scriptbreak"
   }
 ]
