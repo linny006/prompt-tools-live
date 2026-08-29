@@ -1,21 +1,138 @@
 [
   {
+    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
+    "id": "solo-vey/Ordo",
+    "language": "Python",
+    "name": "solo-vey/Ordo",
+    "stars": 1,
+    "updated_at": "2026-08-29T17:29:33Z",
+    "url": "https://github.com/solo-vey/Ordo"
+  },
+  {
+    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "Python",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 27,
+    "updated_at": "2026-08-29T17:29:16Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 9,
+    "updated_at": "2026-08-29T17:28:39Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
+    "id": "Tubifix77/red-thread",
+    "language": "Python",
+    "name": "Tubifix77/red-thread",
+    "stars": 0,
+    "updated_at": "2026-08-29T17:27:19Z",
+    "url": "https://github.com/Tubifix77/red-thread"
+  },
+  {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
     "id": "hakodev2k/AI-Engineering",
     "language": "Python",
     "name": "hakodev2k/AI-Engineering",
     "stars": 0,
-    "updated_at": "2026-08-29T17:14:50Z",
+    "updated_at": "2026-08-29T17:26:45Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "The engineering kit for Grok Bot templates. Spec, Bot Ready score, teams, skills, routines, and a catalog you can paste ",
+    "id": "cobusgreyling/grok-bot-templates",
+    "language": "JavaScript",
+    "name": "cobusgreyling/grok-bot-templates",
+    "stars": 2,
+    "updated_at": "2026-08-29T17:25:35Z",
+    "url": "https://github.com/cobusgreyling/grok-bot-templates"
+  },
+  {
+    "description": "Thinking in LLM \u2014 \u4ece next-token prediction \u51fa\u53d1\u7406\u89e3 LLM \u601d\u7ef4\u673a\u5236 / Understanding LLM thinking from the first principle of next-to",
+    "id": "yingwang/thinking-in-llm",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-29T17:13:59Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "yingwang/thinking-in-llm",
+    "stars": 3,
+    "updated_at": "2026-08-29T17:24:24Z",
+    "url": "https://github.com/yingwang/thinking-in-llm"
+  },
+  {
+    "description": "Slash commands for AI coding agents: portfolio cleanup, release notes, and issue tracking.",
+    "id": "davidtaylor6130/My-AI-Skills",
+    "language": "Python",
+    "name": "davidtaylor6130/My-AI-Skills",
+    "stars": 1,
+    "updated_at": "2026-08-29T17:22:41Z",
+    "url": "https://github.com/davidtaylor6130/My-AI-Skills"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-08-29T17:22:20Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-29T17:20:58Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Research on LLM Interactive Narrative: From Reverse Engineering to Automated Foundry. (Phase I-III)",
+    "id": "3aKHP/Neural-Narratology",
+    "language": "TypeScript",
+    "name": "3aKHP/Neural-Narratology",
+    "stars": 0,
+    "updated_at": "2026-08-29T17:19:28Z",
+    "url": "https://github.com/3aKHP/Neural-Narratology"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 1,
+    "updated_at": "2026-08-29T17:18:31Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel",
+    "id": "UditAkhourii/adhd",
+    "language": "TypeScript",
+    "name": "UditAkhourii/adhd",
+    "stars": 3990,
+    "updated_at": "2026-08-29T17:18:10Z",
+    "url": "https://github.com/UditAkhourii/adhd"
+  },
+  {
+    "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity \u2014 narrative-architecture repair for fiction, ven",
+    "id": "Nanako0129/sepia",
+    "language": "\u2014",
+    "name": "Nanako0129/sepia",
+    "stars": 587,
+    "updated_at": "2026-08-29T17:18:06Z",
+    "url": "https://github.com/Nanako0129/sepia"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-08-29T17:25:01Z",
+    "url": "https://github.com/christopherlouet/claude-base"
   },
   {
     "description": "Portable, model-neutral agent workflows for Codex and Claude Code: design, review, issues, and delivery.",
@@ -23,8 +140,35 @@
     "language": "Shell",
     "name": "dgaramos/dr-agents",
     "stars": 0,
-    "updated_at": "2026-08-29T17:15:05Z",
+    "updated_at": "2026-08-29T17:16:44Z",
     "url": "https://github.com/dgaramos/dr-agents"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-29T17:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83c\udfae AI-Powered Career Skills SIMulator",
+    "id": "lf1up/careersim",
+    "language": "TypeScript",
+    "name": "lf1up/careersim",
+    "stars": 25,
+    "updated_at": "2026-08-29T17:15:26Z",
+    "url": "https://github.com/lf1up/careersim"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-29T17:15:16Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
     "description": "A plain-text prompt for LLMs that teaches the essence of elegant coding and testing\u2014save it to ~/.claude/CLAUDE.md.",
@@ -52,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T17:09:16Z",
     "url": "https://github.com/abedinm/prompt-engineering-playground"
-  },
-  {
-    "description": "\ud83c\udfae AI-Powered Career Skills SIMulator",
-    "id": "lf1up/careersim",
-    "language": "TypeScript",
-    "name": "lf1up/careersim",
-    "stars": 25,
-    "updated_at": "2026-08-29T17:09:11Z",
-    "url": "https://github.com/lf1up/careersim"
   },
   {
     "description": "Turn one idea into production-ready AI-video prompts. Single-file web app, VideoExpress-calibrated, with an optional ful",
@@ -198,15 +333,6 @@
     "url": "https://github.com/Shrbuz/JargonBuster"
   },
   {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 1,
-    "updated_at": "2026-08-29T17:14:01Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
     "description": "Free library of original guides on working with AI. Source and scripts for corewise.academy.",
     "id": "ryanportfolio/Corewise.Academy",
     "language": "MDX",
@@ -225,13 +351,13 @@
     "url": "https://github.com/ryanportfolio/savetokens"
   },
   {
-    "description": "Research on LLM Interactive Narrative: From Reverse Engineering to Automated Foundry. (Phase I-III)",
-    "id": "3aKHP/Neural-Narratology",
-    "language": "TypeScript",
-    "name": "3aKHP/Neural-Narratology",
+    "description": "Folium is an engineering sandbox for **agentic AI in healthcare** \u2014 not a commercial or feature-complete EHR.",
+    "id": "pedropcamellon/folium",
+    "language": "Python",
+    "name": "pedropcamellon/folium",
     "stars": 0,
-    "updated_at": "2026-08-29T16:46:41Z",
-    "url": "https://github.com/3aKHP/Neural-Narratology"
+    "updated_at": "2026-08-29T16:46:48Z",
+    "url": "https://github.com/pedropcamellon/folium"
   },
   {
     "description": "One desktop window for ChatGPT, Claude, Gemini, Grok, Perplexity, Qwen, DeepSeek and Z.ai. Fast, private, fully local. B",
@@ -270,15 +396,6 @@
     "url": "https://github.com/dharmvest/skills"
   },
   {
-    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
-    "id": "leeex1/Quillan-Ronin",
-    "language": "Python",
-    "name": "leeex1/Quillan-Ronin",
-    "stars": 27,
-    "updated_at": "2026-08-29T16:37:32Z",
-    "url": "https://github.com/leeex1/Quillan-Ronin"
-  },
-  {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -302,7 +419,7 @@
     "language": "Python",
     "name": "ycl731816451-creator/long-project-guard",
     "stars": 0,
-    "updated_at": "2026-08-29T16:30:56Z",
+    "updated_at": "2026-08-29T17:28:10Z",
     "url": "https://github.com/ycl731816451-creator/long-project-guard"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 1837,
     "updated_at": "2026-08-29T16:29:40Z",
     "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6494,
-    "updated_at": "2026-08-29T16:28:23Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Chatez - \u53ef\u914d\u7f6e Prompt + Skill \u7684 AI \u5de5\u4f5c\u53f0",
-    "id": "anyuer678/chatez",
-    "language": "TypeScript",
-    "name": "anyuer678/chatez",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:28:19Z",
-    "url": "https://github.com/anyuer678/chatez"
-  },
-  {
-    "description": "N\u00facleo modular en TypeScript para crear, orquestar y evaluar agentes de IA especializados en desarrollo de software, con",
-    "id": "EdinsonG/ai-agents-typescript",
-    "language": "TypeScript",
-    "name": "EdinsonG/ai-agents-typescript",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:27:57Z",
-    "url": "https://github.com/EdinsonG/ai-agents-typescript"
-  },
-  {
-    "description": "Fable 5-style AGENTS.md and CLAUDE.md templates for high-agency coding assistants.",
-    "id": "ryu-tada/agent-operating-protocol",
-    "language": "Shell",
-    "name": "ryu-tada/agent-operating-protocol",
-    "stars": 11,
-    "updated_at": "2026-08-29T16:27:37Z",
-    "url": "https://github.com/ryu-tada/agent-operating-protocol"
-  },
-  {
-    "description": "Skills select behavior. Punctuate types the user\u2019s speech.",
-    "id": "ivklgn/punctuate",
-    "language": "JavaScript",
-    "name": "ivklgn/punctuate",
-    "stars": 3,
-    "updated_at": "2026-08-29T16:27:29Z",
-    "url": "https://github.com/ivklgn/punctuate"
-  },
-  {
-    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
-    "id": "minipuft/claude-prompts-mcp",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts-mcp",
-    "stars": 186,
-    "updated_at": "2026-08-29T16:27:28Z",
-    "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
-    "description": "YouMind Skill \u4e0a\u4f20\u5668\uff5c\u628a\u73b0\u6210 Agent Skill \u6574\u7406\u5e76\u53d1\u5e03\u5230 YouMind\uff0c\u81ea\u52a8\u751f\u6210\u540e\u53f0\u6587\u6848\u3001\u65b9\u5f62\u5934\u50cf\u4e0e\u6a2a\u7248\u5c55\u793a\u56fe\uff0c\u586b\u5199\u8868\u5355\u5e76\u6821\u9a8c\u53d1\u5e03\u7ed3\u679c",
-    "id": "pamelaaaaa1218/youmind-skill-uploader",
-    "language": "\u2014",
-    "name": "pamelaaaaa1218/youmind-skill-uploader",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:26:20Z",
-    "url": "https://github.com/pamelaaaaa1218/youmind-skill-uploader"
-  },
-  {
-    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
-    "id": "Tubifix77/red-thread",
-    "language": "Python",
-    "name": "Tubifix77/red-thread",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:25:29Z",
-    "url": "https://github.com/Tubifix77/red-thread"
-  },
-  {
-    "description": "The real prompt behind my daily AI paper radar: making AI research accessible to a non-academic audience. Runs unattende",
-    "id": "fedenardi1/paper-radar",
-    "language": "\u2014",
-    "name": "fedenardi1/paper-radar",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:20:56Z",
-    "url": "https://github.com/fedenardi1/paper-radar"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 9,
-    "updated_at": "2026-08-29T17:07:31Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:19:28Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "Agent Skills for vibe engineering \u2014 644 evidence-grounded practitioner references as a Claude Code plugin marketplace",
-    "id": "adammatthewsteinberger/vibey-skills",
-    "language": "Python",
-    "name": "adammatthewsteinberger/vibey-skills",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:22:19Z",
-    "url": "https://github.com/adammatthewsteinberger/vibey-skills"
-  },
-  {
-    "description": "Stop Building the Wrong Thing. Turn ideas into structured, agent-ready PRDs that AI coding tools can actually execute.",
-    "id": "solune-lab/prd-master",
-    "language": "TypeScript",
-    "name": "solune-lab/prd-master",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:17:04Z",
-    "url": "https://github.com/solune-lab/prd-master"
   }
 ]
