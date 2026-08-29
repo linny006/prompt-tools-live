@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 37,
-    "updated_at": "2026-08-28T23:44:40Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
+    "id": "grigb/gas-prompt-library",
+    "language": "Python",
+    "name": "grigb/gas-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-08-29T00:00:03Z",
+    "url": "https://github.com/grigb/gas-prompt-library"
   },
   {
     "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
@@ -14,8 +14,134 @@
     "language": "Python",
     "name": "martialsystems/verify-before-done",
     "stars": 1,
-    "updated_at": "2026-08-28T23:44:30Z",
+    "updated_at": "2026-08-28T23:59:36Z",
     "url": "https://github.com/martialsystems/verify-before-done"
+  },
+  {
+    "description": "A coaching harness for Claude Code: team memory, evidence-backed prompt coaching, injection defense, onboarding docs and",
+    "id": "MohammedMoataz/ai-coach",
+    "language": "JavaScript",
+    "name": "MohammedMoataz/ai-coach",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:58:54Z",
+    "url": "https://github.com/MohammedMoataz/ai-coach"
+  },
+  {
+    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
+    "id": "heavenaruba/codified-prompt-rule-engine",
+    "language": "HTML",
+    "name": "heavenaruba/codified-prompt-rule-engine",
+    "stars": 121,
+    "updated_at": "2026-08-28T23:57:19Z",
+    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11227,
+    "updated_at": "2026-08-28T23:57:14Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-S",
+    "id": "asgeirtj/system_prompts_leaks",
+    "language": "JavaScript",
+    "name": "asgeirtj/system_prompts_leaks",
+    "stars": 63763,
+    "updated_at": "2026-08-28T23:55:35Z",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze the mathematical reasoning abilities of the Mistral-7B model using diverse prompting techniques on multi-step ",
+    "id": "wolfenix/llm-math-reasoning-analysis",
+    "language": "HTML",
+    "name": "wolfenix/llm-math-reasoning-analysis",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:55:26Z",
+    "url": "https://github.com/wolfenix/llm-math-reasoning-analysis"
+  },
+  {
+    "description": "342 agent skills (Cursor, Claude Code & Codex), 5,380 OpenClaw skills, 201 ML notebooks, 9 textbooks, 93 research papers",
+    "id": "adriannoes/awesome-agentic-ai",
+    "language": "Jupyter Notebook",
+    "name": "adriannoes/awesome-agentic-ai",
+    "stars": 52,
+    "updated_at": "2026-08-28T23:54:30Z",
+    "url": "https://github.com/adriannoes/awesome-agentic-ai"
+  },
+  {
+    "description": "Evidence-gated removal of context instructions for Amplifier. Every context system can ADD instructions; almost none can",
+    "id": "michaeljabbour/amplifier-bundle-preceptor",
+    "language": "Python",
+    "name": "michaeljabbour/amplifier-bundle-preceptor",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:53:13Z",
+    "url": "https://github.com/michaeljabbour/amplifier-bundle-preceptor"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-28T23:52:18Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Elevate your coding with Supercharged AI Dev Tools, an open-source directory of AI-powered solutions to boost product",
+    "id": "SUASTELARA/Supercharged-AI-Dev-Tools",
+    "language": "\u2014",
+    "name": "SUASTELARA/Supercharged-AI-Dev-Tools",
+    "stars": 4,
+    "updated_at": "2026-08-28T23:51:09Z",
+    "url": "https://github.com/SUASTELARA/Supercharged-AI-Dev-Tools"
+  },
+  {
+    "description": "\u26a1 TidyFactor Architecture Ecosystem , AI-Native Web Architecture, Design Systems & Agent Skills .",
+    "id": "TidyFactor/TidyFactor",
+    "language": "\u2014",
+    "name": "TidyFactor/TidyFactor",
+    "stars": 8,
+    "updated_at": "2026-08-28T23:49:54Z",
+    "url": "https://github.com/TidyFactor/TidyFactor"
+  },
+  {
+    "description": "\ud83d\udd04 Enable seamless AI conversations with a universal file format that saves and transfers your chat history across platfo",
+    "id": "AFRATUL1/AI-dropin-spec",
+    "language": "\u2014",
+    "name": "AFRATUL1/AI-dropin-spec",
+    "stars": 1,
+    "updated_at": "2026-08-28T23:48:15Z",
+    "url": "https://github.com/AFRATUL1/AI-dropin-spec"
+  },
+  {
+    "description": "Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai",
+    "id": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "language": "\u2014",
+    "name": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "stars": 3,
+    "updated_at": "2026-08-28T23:46:00Z",
+    "url": "https://github.com/KingFishyXMesa/fuzz2-producer-ai-angklungmann"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-28T23:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 37,
+    "updated_at": "2026-08-28T23:44:40Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
   },
   {
     "description": ".cursorrules \u2014 independent third-party profile of a public API surface, by API Evangelist. .cursorrules is a project-lev",
@@ -36,24 +162,6 @@
     "url": "https://github.com/AngelCampa1/decision-making-skills"
   },
   {
-    "description": "329 agent skills (Cursor, Claude Code & Codex), 5,380 OpenClaw skills, 201 ML notebooks, 9 textbooks, 82 research papers",
-    "id": "adriannoes/awesome-agentic-ai",
-    "language": "Jupyter Notebook",
-    "name": "adriannoes/awesome-agentic-ai",
-    "stars": 52,
-    "updated_at": "2026-08-28T23:39:12Z",
-    "url": "https://github.com/adriannoes/awesome-agentic-ai"
-  },
-  {
-    "description": "\u26a1 TidyFactor Architecture Ecosystem , AI-Native Web Architecture, Design Systems & Agent Skills .",
-    "id": "TidyFactor/TidyFactor",
-    "language": "\u2014",
-    "name": "TidyFactor/TidyFactor",
-    "stars": 8,
-    "updated_at": "2026-08-28T23:38:03Z",
-    "url": "https://github.com/TidyFactor/TidyFactor"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -68,7 +176,7 @@
     "language": "JavaScript",
     "name": "atomicdjt/AI-Project-Portfolio",
     "stars": 0,
-    "updated_at": "2026-08-28T23:40:44Z",
+    "updated_at": "2026-08-28T23:58:44Z",
     "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
   },
   {
@@ -81,15 +189,6 @@
     "url": "https://github.com/cengicadis/BlankVisuals-Skill-Generator"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-28T23:32:10Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "Approval-gated, project-local guidance and reusable skills for AI coding agents.",
     "id": "HyperVon/agent-guidance-kit",
     "language": "Python",
@@ -97,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T23:30:49Z",
     "url": "https://github.com/HyperVon/agent-guidance-kit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-28T23:30:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
@@ -342,15 +432,6 @@
     "url": "https://github.com/jr-mccoy/prompt-agent-engineering"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11227,
-    "updated_at": "2026-08-28T23:38:57Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "AI Systems Engineering: A Practical Bootcamp \u2014 a 30-working-day curriculum and build tooling for moving from traditional",
     "id": "rioffe/ai_systems_engineering_bootcamp",
     "language": "HTML",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T22:41:37Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "GodPrompt \u2014 a universal AI coding system prompt and skill for Claude, ChatGPT, Cursor and coding agents, with TDD, debug",
-    "id": "AKzar1el/god-prompt-mcp",
-    "language": "TypeScript",
-    "name": "AKzar1el/god-prompt-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-28T22:34:06Z",
-    "url": "https://github.com/AKzar1el/god-prompt-mcp"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for GodPrompt \u2014 production-grade AI coding workflows with TDD, debugging protocols, ",
-    "id": "AKzar1el/god-prompt",
-    "language": "Python",
-    "name": "AKzar1el/god-prompt",
-    "stars": 7,
-    "updated_at": "2026-08-28T23:26:45Z",
-    "url": "https://github.com/AKzar1el/god-prompt"
-  },
-  {
-    "description": "Reto #7DaysOfCode de Prompt Engineering (Alura Latam): una t\u00e9cnica por d\u00eda hasta construir un Tutor Personal de Carrera ",
-    "id": "atapia9/7DaysOfCode-Prompt-Engineering",
-    "language": "\u2014",
-    "name": "atapia9/7DaysOfCode-Prompt-Engineering",
-    "stars": 0,
-    "updated_at": "2026-08-28T22:29:14Z",
-    "url": "https://github.com/atapia9/7DaysOfCode-Prompt-Engineering"
-  },
-  {
-    "description": "Local-first personal AI efficiency layer \u2014 MCP server for prompt improvement, template library, usage tracking, and scop",
-    "id": "Yann-0/ylang",
-    "language": "Python",
-    "name": "Yann-0/ylang",
-    "stars": 1,
-    "updated_at": "2026-08-28T22:28:08Z",
-    "url": "https://github.com/Yann-0/ylang"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6474,
-    "updated_at": "2026-08-28T23:14:39Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Snippets and prompts that expand wherever you type. One library, synced across Chrome and mobile.  Stress the model, not",
-    "id": "locoprice/SprintBrain",
-    "language": "TypeScript",
-    "name": "locoprice/SprintBrain",
-    "stars": 3,
-    "updated_at": "2026-08-28T22:23:12Z",
-    "url": "https://github.com/locoprice/SprintBrain"
-  },
-  {
-    "description": "Post-response grounding check + cross-family adversarial review for LLM chat agents",
-    "id": "polarisbuiltinc-wq/ora-grounding",
-    "language": "Python",
-    "name": "polarisbuiltinc-wq/ora-grounding",
-    "stars": 2,
-    "updated_at": "2026-08-28T22:21:35Z",
-    "url": "https://github.com/polarisbuiltinc-wq/ora-grounding"
-  },
-  {
-    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
-    "id": "elie222/botdirectory.ai",
-    "language": "Astro",
-    "name": "elie222/botdirectory.ai",
-    "stars": 140,
-    "updated_at": "2026-08-28T22:19:56Z",
-    "url": "https://github.com/elie222/botdirectory.ai"
-  },
-  {
-    "description": "Interactive AI Story Generator",
-    "id": "ktleary/tailspin-client",
-    "language": "JavaScript",
-    "name": "ktleary/tailspin-client",
-    "stars": 2,
-    "updated_at": "2026-08-28T22:19:22Z",
-    "url": "https://github.com/ktleary/tailspin-client"
   }
 ]
