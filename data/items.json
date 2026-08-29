@@ -1,5 +1,149 @@
 [
   {
+    "description": "`xxg-portrait-rebuild-light` is an image-edit skill for existing portrait photos. It reconstructs the key light, fill, s",
+    "id": "moskoo/xxg-portrait-rebuild-light",
+    "language": "Python",
+    "name": "moskoo/xxg-portrait-rebuild-light",
+    "stars": 136,
+    "updated_at": "2026-08-29T02:44:47Z",
+    "url": "https://github.com/moskoo/xxg-portrait-rebuild-light"
+  },
+  {
+    "description": "Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr",
+    "id": "ariaxhan/kernel-claude",
+    "language": "JavaScript",
+    "name": "ariaxhan/kernel-claude",
+    "stars": 12,
+    "updated_at": "2026-08-29T02:44:32Z",
+    "url": "https://github.com/ariaxhan/kernel-claude"
+  },
+  {
+    "description": "Get it right the first prompt. A free Claude skill that rewrites your prompt into an optimized format, audits 35 credit-",
+    "id": "Jakeschincariol/promptmaster-skill",
+    "language": "\u2014",
+    "name": "Jakeschincariol/promptmaster-skill",
+    "stars": 0,
+    "updated_at": "2026-08-29T02:44:31Z",
+    "url": "https://github.com/Jakeschincariol/promptmaster-skill"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 30,
+    "updated_at": "2026-08-29T02:44:24Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "Pre-launch: an open, multi-model prompt atlas for real model outputs, reproducible prompts, provenance and rights metada",
+    "id": "pixexid/artinspire-prompt-atlas",
+    "language": "Python",
+    "name": "pixexid/artinspire-prompt-atlas",
+    "stars": 0,
+    "updated_at": "2026-08-29T02:44:13Z",
+    "url": "https://github.com/pixexid/artinspire-prompt-atlas"
+  },
+  {
+    "description": "Your AI marketing team for B2B SaaS: 74 specialist agents and 19 Claude Code skills \u2014 SEO/AEO/GEO, content, paid media, ",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 7,
+    "updated_at": "2026-08-29T02:40:15Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "stars": 0,
+    "updated_at": "2026-08-29T02:39:18Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+  },
+  {
+    "description": "Reusable operating layer for long-running AI development: requirements, knowledge, verification, and audit.",
+    "id": "Lr1977/hangshi-diji",
+    "language": "\u2014",
+    "name": "Lr1977/hangshi-diji",
+    "stars": 1,
+    "updated_at": "2026-08-29T02:37:14Z",
+    "url": "https://github.com/Lr1977/hangshi-diji"
+  },
+  {
+    "description": "Creative Writing and General Conversation System Prompt for LLM",
+    "id": "baros4294/system_prompt",
+    "language": "\u2014",
+    "name": "baros4294/system_prompt",
+    "stars": 1,
+    "updated_at": "2026-08-29T02:35:29Z",
+    "url": "https://github.com/baros4294/system_prompt"
+  },
+  {
+    "description": "Metis is a coding agent that boosts AI/LLM coding performance by 50%",
+    "id": "Wholiver/metis",
+    "language": "TypeScript",
+    "name": "Wholiver/metis",
+    "stars": 55,
+    "updated_at": "2026-08-29T02:34:52Z",
+    "url": "https://github.com/Wholiver/metis"
+  },
+  {
+    "description": "QA \u5168\u6d41\u7a0b AI \u6280\u80fd\u5305\uff1a\u4ece\u539f\u578b\u56fe\u5230\u53ef\u8ffd\u6eaf\u6d4b\u8bd5\u7528\u4f8b\u2014\u2014\u591a\u8f68 OCR \u8bc6\u56fe \u2192 \u81ea\u52a8\u751f\u6210\u7528\u4f8b\uff08\u5173\u8054\u53d8\u66f4\u70b9\uff09 \u2192 \u7528\u4f8b\u4e0e\u539f\u578b\u9010\u6761\u4e00\u81f4\u6027\u6838\u67e5 \u2192 UI \u81ea\u52a8\u5316\u6267\u884c\u56de\u586b \u2192 \u89c4\u8303\u5316\u7f3a\u9677/\u9a8c\u6536\u62a5\u544a\uff1b\u771f\u5b9e\u6570\u636e\u9a71\u52a8\u675c\u7edd AI \u5e7b\u89c9\uff0c\u7eaf Skill \u96f6\u6846",
+    "id": "WL2O2O/QASkillKit",
+    "language": "Python",
+    "name": "WL2O2O/QASkillKit",
+    "stars": 0,
+    "updated_at": "2026-08-29T02:34:19Z",
+    "url": "https://github.com/WL2O2O/QASkillKit"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-29T02:32:20Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24650,
+    "updated_at": "2026-08-29T02:42:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The Rails Doctrine, translated for the vibe coding era. One opinionated skill, every AI agent.",
+    "id": "bobbyryandra/dhh-vibe",
+    "language": "Shell",
+    "name": "bobbyryandra/dhh-vibe",
+    "stars": 0,
+    "updated_at": "2026-08-29T02:31:23Z",
+    "url": "https://github.com/bobbyryandra/dhh-vibe"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-29T02:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "TypeScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 10722,
+    "updated_at": "2026-08-29T02:30:21Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
     "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
     "id": "elie222/botdirectory.ai",
     "language": "Astro",
@@ -54,15 +198,6 @@
     "url": "https://github.com/krishkumar4400/AgenticJVM"
   },
   {
-    "description": "Creative Writing and General Conversation System Prompt for LLM",
-    "id": "baros4294/system_prompt",
-    "language": "\u2014",
-    "name": "baros4294/system_prompt",
-    "stars": 1,
-    "updated_at": "2026-08-29T02:24:49Z",
-    "url": "https://github.com/baros4294/system_prompt"
-  },
-  {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
     "id": "J-nowcow/awesome-korean-agent-skills",
     "language": "\u2014",
@@ -81,15 +216,6 @@
     "url": "https://github.com/api-evangelist/klu-ai"
   },
   {
-    "description": "Metis is a coding agent that boosts coding performance by 50%",
-    "id": "Wholiver/metis",
-    "language": "TypeScript",
-    "name": "Wholiver/metis",
-    "stars": 55,
-    "updated_at": "2026-08-29T02:22:05Z",
-    "url": "https://github.com/Wholiver/metis"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -104,7 +230,7 @@
     "language": "JavaScript",
     "name": "naodeng/awesome-qa-prompt",
     "stars": 41,
-    "updated_at": "2026-08-29T02:19:41Z",
+    "updated_at": "2026-08-29T02:37:08Z",
     "url": "https://github.com/naodeng/awesome-qa-prompt"
   },
   {
@@ -162,15 +288,6 @@
     "url": "https://github.com/snapsynapse/skill-provenance"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-29T02:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
     "id": "tuantranute-it/icm-graph-context-flow",
     "language": "HTML",
@@ -189,15 +306,6 @@
     "url": "https://github.com/man612/ramu"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-29T02:12:14Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "Socratic Method: Reverse Questioning \u2014 Agent Skill. AI asks you questions in return, guiding you to clarify your thinkin",
     "id": "sjy20100819mc-cmyk/socratic-learning",
     "language": "\u2014",
@@ -205,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T02:11:09Z",
     "url": "https://github.com/sjy20100819mc-cmyk/socratic-learning"
-  },
-  {
-    "description": "Structured, spec-driven development workflow for AI coding agents.",
-    "id": "sahil87/fab-kit",
-    "language": "Go",
-    "name": "sahil87/fab-kit",
-    "stars": 30,
-    "updated_at": "2026-08-29T02:27:01Z",
-    "url": "https://github.com/sahil87/fab-kit"
   },
   {
     "description": "A comprehensive SWE workflow, encoded. Might be useful to you too.",
@@ -266,7 +365,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6476,
-    "updated_at": "2026-08-29T02:01:49Z",
+    "updated_at": "2026-08-29T02:36:25Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T01:42:02Z",
     "url": "https://github.com/tryAGI/Vellum"
-  },
-  {
-    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
-    "id": "martialsystems/verify-before-done",
-    "language": "Python",
-    "name": "martialsystems/verify-before-done",
-    "stars": 1,
-    "updated_at": "2026-08-29T01:41:41Z",
-    "url": "https://github.com/martialsystems/verify-before-done"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 123,
-    "updated_at": "2026-08-29T01:40:21Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "The Rails Doctrine, translated for the vibe coding era. One opinionated skill, every AI agent.",
-    "id": "bobbyryandra/dhh-vibe",
-    "language": "Shell",
-    "name": "bobbyryandra/dhh-vibe",
-    "stars": 0,
-    "updated_at": "2026-08-29T01:39:09Z",
-    "url": "https://github.com/bobbyryandra/dhh-vibe"
-  },
-  {
-    "description": "Skills Governance Layer & Skill Methodology Engine for AI Coding Agents",
-    "id": "TidyFactor/skill-architect",
-    "language": "Python",
-    "name": "TidyFactor/skill-architect",
-    "stars": 1,
-    "updated_at": "2026-08-29T01:38:40Z",
-    "url": "https://github.com/TidyFactor/skill-architect"
-  },
-  {
-    "description": "Production-Grade Multi-Tenant SaaS Architecture & Development Performance Engine",
-    "id": "TidyFactor/Next",
-    "language": "Python",
-    "name": "TidyFactor/Next",
-    "stars": 2,
-    "updated_at": "2026-08-29T01:38:30Z",
-    "url": "https://github.com/TidyFactor/Next"
-  },
-  {
-    "description": "How many tokens does an AI agent pay to read your repo? Measure it, find the waste (lockfiles, bundles, generated files)",
-    "id": "CAOShurong/contextcost",
-    "language": "Python",
-    "name": "CAOShurong/contextcost",
-    "stars": 0,
-    "updated_at": "2026-08-29T01:37:43Z",
-    "url": "https://github.com/CAOShurong/contextcost"
-  },
-  {
-    "description": "Marketing, Psychological Growth Engine & Anti-Slop Content Suite",
-    "id": "TidyFactor/Marketing",
-    "language": "JavaScript",
-    "name": "TidyFactor/Marketing",
-    "stars": 5,
-    "updated_at": "2026-08-29T01:38:22Z",
-    "url": "https://github.com/TidyFactor/Marketing"
-  },
-  {
-    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
-    "id": "luongs3/skill-atlas",
-    "language": "Python",
-    "name": "luongs3/skill-atlas",
-    "stars": 0,
-    "updated_at": "2026-08-29T01:37:15Z",
-    "url": "https://github.com/luongs3/skill-atlas"
-  },
-  {
-    "description": "The Vanilla JS track of the TidyFactor skill library",
-    "id": "TidyFactor/JS",
-    "language": "JavaScript",
-    "name": "TidyFactor/JS",
-    "stars": 1,
-    "updated_at": "2026-08-29T01:37:40Z",
-    "url": "https://github.com/TidyFactor/JS"
-  },
-  {
-    "description": "The HTMX Server-Driven Micro-Interactions track of the TidyFactor skill library",
-    "id": "TidyFactor/HTMX",
-    "language": "JavaScript",
-    "name": "TidyFactor/HTMX",
-    "stars": 1,
-    "updated_at": "2026-08-29T01:37:09Z",
-    "url": "https://github.com/TidyFactor/HTMX"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-29T01:35:35Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
