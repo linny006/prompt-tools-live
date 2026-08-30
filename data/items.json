@@ -1,11 +1,110 @@
 [
   {
+    "description": "Agent-agnostic skill: turn 1 idea into a full production repo. 5 roles x 5 gates x progress memory, auto fallback across",
+    "id": "ivercurry99/everyone-can-projects",
+    "language": "Python",
+    "name": "ivercurry99/everyone-can-projects",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:58:08Z",
+    "url": "https://github.com/ivercurry99/everyone-can-projects"
+  },
+  {
+    "description": "Structured prompts + multi-model adapter for Xiaohongshu AI carousels. 8 locked style presets, 4-tier vendor fallback (T",
+    "id": "ivercurry99/yy-text2-xhs-img",
+    "language": "Python",
+    "name": "ivercurry99/yy-text2-xhs-img",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:57:21Z",
+    "url": "https://github.com/ivercurry99/yy-text2-xhs-img"
+  },
+  {
+    "description": "\ud83e\udd2b Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression c",
+    "id": "V-Songbird/hush",
+    "language": "JavaScript",
+    "name": "V-Songbird/hush",
+    "stars": 44,
+    "updated_at": "2026-08-30T03:55:12Z",
+    "url": "https://github.com/V-Songbird/hush"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 68029,
+    "updated_at": "2026-08-30T03:54:01Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Evidence-gated removal of context instructions for Amplifier. Every context system can ADD instructions; almost none can",
+    "id": "michaeljabbour/amplifier-bundle-preceptor",
+    "language": "Python",
+    "name": "michaeljabbour/amplifier-bundle-preceptor",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:53:25Z",
+    "url": "https://github.com/michaeljabbour/amplifier-bundle-preceptor"
+  },
+  {
+    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
+    "id": "elie222/botdirectory.ai",
+    "language": "Astro",
+    "name": "elie222/botdirectory.ai",
+    "stars": 146,
+    "updated_at": "2026-08-30T03:52:56Z",
+    "url": "https://github.com/elie222/botdirectory.ai"
+  },
+  {
+    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
+    "id": "saghosh8/AI-For-DevOps",
+    "language": "\u2014",
+    "name": "saghosh8/AI-For-DevOps",
+    "stars": 4,
+    "updated_at": "2026-08-30T03:52:19Z",
+    "url": "https://github.com/saghosh8/AI-For-DevOps"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-30T03:52:07Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 889,
+    "updated_at": "2026-08-30T03:48:45Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Local NovelAI prompt builder, V5 artist mixer, custom visual tags, and image metadata inspector.",
+    "id": "shiza2xx/nai-prompt-studio",
+    "language": "JavaScript",
+    "name": "shiza2xx/nai-prompt-studio",
+    "stars": 2,
+    "updated_at": "2026-08-30T03:49:38Z",
+    "url": "https://github.com/shiza2xx/nai-prompt-studio"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-30T03:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Drop-in convention kit that enforces honest reporting in repos using LLM coding assistants \u2014 CI validators, smoke gates,",
     "id": "mattmre/Brutal-Honesty-Kit",
     "language": "Python",
     "name": "mattmre/Brutal-Honesty-Kit",
     "stars": 2,
-    "updated_at": "2026-08-30T03:43:52Z",
+    "updated_at": "2026-08-30T03:45:50Z",
     "url": "https://github.com/mattmre/Brutal-Honesty-Kit"
   },
   {
@@ -27,15 +126,6 @@
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
-    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
-    "id": "saghosh8/AI-For-DevOps",
-    "language": "\u2014",
-    "name": "saghosh8/AI-For-DevOps",
-    "stars": 4,
-    "updated_at": "2026-08-30T03:32:43Z",
-    "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -43,33 +133,6 @@
     "stars": 24666,
     "updated_at": "2026-08-30T03:33:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-30T03:32:19Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-30T03:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Evidence-gated removal of context instructions for Amplifier. Every context system can ADD instructions; almost none can",
-    "id": "michaeljabbour/amplifier-bundle-preceptor",
-    "language": "Python",
-    "name": "michaeljabbour/amplifier-bundle-preceptor",
-    "stars": 0,
-    "updated_at": "2026-08-30T03:27:52Z",
-    "url": "https://github.com/michaeljabbour/amplifier-bundle-preceptor"
   },
   {
     "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
@@ -104,7 +167,7 @@
     "language": "Go",
     "name": "sahil87/fab-kit",
     "stars": 30,
-    "updated_at": "2026-08-30T03:26:55Z",
+    "updated_at": "2026-08-30T03:55:22Z",
     "url": "https://github.com/sahil87/fab-kit"
   },
   {
@@ -189,6 +252,15 @@
     "url": "https://github.com/jianjian12138/cangjie-classics-skills"
   },
   {
+    "description": "A modern LLM evaluation and prompt engineering dashboard featuring parallel benchmarking, LLM-as-a-Judge grading, Ground",
+    "id": "suryapamungkas/llm-evaluation-dashboard",
+    "language": "Python",
+    "name": "suryapamungkas/llm-evaluation-dashboard",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:04:49Z",
+    "url": "https://github.com/suryapamungkas/llm-evaluation-dashboard"
+  },
+  {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
     "id": "teguhimanulloh47/pirate-talk-for-claude",
     "language": "HTML",
@@ -196,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T03:01:34Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 68027,
-    "updated_at": "2026-08-30T02:55:28Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -378,15 +441,6 @@
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
   },
   {
-    "description": "\ud83e\udd2b Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression c",
-    "id": "V-Songbird/hush",
-    "language": "JavaScript",
-    "name": "V-Songbird/hush",
-    "stars": 44,
-    "updated_at": "2026-08-30T02:32:54Z",
-    "url": "https://github.com/V-Songbird/hush"
-  },
-  {
     "description": "Give your CLAUDE.md / AGENTS.md a checkup \u2014 audit size vitals, dead references, drifted claims, and backtest every rule ",
     "id": "agent-clinic/claude-md-doctor",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 23,
     "updated_at": "2026-08-30T02:32:18Z",
     "url": "https://github.com/agent-clinic/claude-md-doctor"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-08-30T02:30:15Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Wordware \u2014 independent third-party profile of a public API surface, by API Evangelist. Wordware is a San Francisco AI co",
-    "id": "api-evangelist/wordware",
-    "language": "\u2014",
-    "name": "api-evangelist/wordware",
-    "stars": 0,
-    "updated_at": "2026-08-30T02:28:08Z",
-    "url": "https://github.com/api-evangelist/wordware"
-  },
-  {
-    "description": "The ultimate open-source hub to master AI \u2014 6 career roadmaps, curated resources, cheatsheets, interview prep & project ",
-    "id": "aredwan-xyz/ai-mastery-ultimate-resources",
-    "language": "\u2014",
-    "name": "aredwan-xyz/ai-mastery-ultimate-resources",
-    "stars": 0,
-    "updated_at": "2026-08-30T02:27:33Z",
-    "url": "https://github.com/aredwan-xyz/ai-mastery-ultimate-resources"
-  },
-  {
-    "description": "Vellum AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Vellum AI is an LLM development ",
-    "id": "api-evangelist/vellum",
-    "language": "\u2014",
-    "name": "api-evangelist/vellum",
-    "stars": 2,
-    "updated_at": "2026-08-30T02:24:38Z",
-    "url": "https://github.com/api-evangelist/vellum"
-  },
-  {
-    "description": "323\u500b\u306e\u5373\u6226\u529bAI\u5c02\u9580\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8 \u2014 Claude Code/Cursor/Copilot\u7b49\u306b\u5bfe\u5fdc\u3002SIer/\u53d7\u8a17\u958b\u767a/SaaS/\u88fd\u9020DX/\u516c\u5171\u5206\u91ce\u306a\u3069\u65e5\u672c\u5e02\u5834\u5411\u3051114\u500b\u306e\u30aa\u30ea\u30b8\u30ca\u30eb\u3092\u542b\u3080\u3001agency-agents\u65e5\u672c\u8a9e\u30b3\u30df\u30e5\u30cb\u30c6\u30a3",
-    "id": "sscodeai/agency-agents-ja",
-    "language": "Shell",
-    "name": "sscodeai/agency-agents-ja",
-    "stars": 4,
-    "updated_at": "2026-08-30T02:23:53Z",
-    "url": "https://github.com/sscodeai/agency-agents-ja"
-  },
-  {
-    "description": "LLM prompts, llama3 prompts, llama2 prompts",
-    "id": "langgptai/awesome-llama-prompts",
-    "language": "\u2014",
-    "name": "langgptai/awesome-llama-prompts",
-    "stars": 270,
-    "updated_at": "2026-08-30T02:22:57Z",
-    "url": "https://github.com/langgptai/awesome-llama-prompts"
   }
 ]
