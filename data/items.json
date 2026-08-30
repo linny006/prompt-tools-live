@@ -1,5 +1,68 @@
 [
   {
+    "description": "Drop-in convention kit that enforces honest reporting in repos using LLM coding assistants \u2014 CI validators, smoke gates,",
+    "id": "mattmre/Brutal-Honesty-Kit",
+    "language": "Python",
+    "name": "mattmre/Brutal-Honesty-Kit",
+    "stars": 2,
+    "updated_at": "2026-08-30T03:43:52Z",
+    "url": "https://github.com/mattmre/Brutal-Honesty-Kit"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3518,
+    "updated_at": "2026-08-30T03:43:57Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6506,
+    "updated_at": "2026-08-30T03:35:29Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
+    "id": "saghosh8/AI-For-DevOps",
+    "language": "\u2014",
+    "name": "saghosh8/AI-For-DevOps",
+    "stars": 4,
+    "updated_at": "2026-08-30T03:32:43Z",
+    "url": "https://github.com/saghosh8/AI-For-DevOps"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24666,
+    "updated_at": "2026-08-30T03:33:51Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-30T03:32:19Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-30T03:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Evidence-gated removal of context instructions for Amplifier. Every context system can ADD instructions; almost none can",
     "id": "michaeljabbour/amplifier-bundle-preceptor",
     "language": "Python",
@@ -27,6 +90,15 @@
     "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
   },
   {
+    "description": "DeepSeek Harness (DSH) \u63d0\u793a\u8bcd\u4f18\u5316\u5668\u63d2\u4ef6\uff1a\u4e00\u53e5\u53e3\u8bed\u5316\u9700\u6c42 \u2192 \u7ed3\u6784\u5316\u9ad8\u8d28\u91cf\u63d0\u793a\u8bcd\uff0c\u7ed3\u679c\u81ea\u52a8\u586b\u5165\u4f1a\u8bdd\u8f93\u5165\u6846\u3002\u590d\u7528 DSH \u5185\u7f6e\u6a21\u578b\u8def\u7531\uff0c\u96f6 API Key \u7ba1\u7406\u3002",
+    "id": "xiaozuishuai-eng/prompt_optimize_dsh",
+    "language": "JavaScript",
+    "name": "xiaozuishuai-eng/prompt_optimize_dsh",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:22:18Z",
+    "url": "https://github.com/xiaozuishuai-eng/prompt_optimize_dsh"
+  },
+  {
     "description": "Structured, spec-driven development workflow for AI coding agents.",
     "id": "sahil87/fab-kit",
     "language": "Go",
@@ -43,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-08-30T03:20:53Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24665,
-    "updated_at": "2026-08-30T03:23:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Bilingual, searchable radar for useful open-source AIGC creative tools.",
@@ -81,15 +144,6 @@
     "url": "https://github.com/dgaramos/dr-agents"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-30T03:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A continuously evolving personal Agent Skill for reproducing lailai's writing, thinking, design, and working style.",
     "id": "lailai0916/lailai-skill",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T03:14:02Z",
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-30T03:12:31Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "\ud83d\ude80 An awesome list of curated Seedance 2.5 prompts and examples. Your go-to resource for mastering prompt engineering and",
@@ -157,18 +202,9 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 68026,
+    "stars": 68027,
     "updated_at": "2026-08-30T02:55:28Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6505,
-    "updated_at": "2026-08-30T03:29:49Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -310,7 +346,7 @@
     "id": "kangarooking/cangjie-skill",
     "language": "Python",
     "name": "kangarooking/cangjie-skill",
-    "stars": 9177,
+    "stars": 9178,
     "updated_at": "2026-08-30T02:37:57Z",
     "url": "https://github.com/kangarooking/cangjie-skill"
   },
@@ -412,41 +448,5 @@
     "stars": 270,
     "updated_at": "2026-08-30T02:22:57Z",
     "url": "https://github.com/langgptai/awesome-llama-prompts"
-  },
-  {
-    "description": " Prompts of GPT-4V & DALL-E3 to full utilize the multi-modal ability. GPT4V Prompts, DALL-E3 Prompts.",
-    "id": "langgptai/Awesome-Multimodal-Prompts",
-    "language": "\u2014",
-    "name": "langgptai/Awesome-Multimodal-Prompts",
-    "stars": 289,
-    "updated_at": "2026-08-30T02:22:56Z",
-    "url": "https://github.com/langgptai/Awesome-Multimodal-Prompts"
-  },
-  {
-    "description": "A curated collection of resources, papers, tools, and best practices for Context Engineering in AI agents and Large Lang",
-    "id": "yzfly/awesome-context-engineering",
-    "language": "\u2014",
-    "name": "yzfly/awesome-context-engineering",
-    "stars": 131,
-    "updated_at": "2026-08-30T02:19:01Z",
-    "url": "https://github.com/yzfly/awesome-context-engineering"
-  },
-  {
-    "description": "\ud83c\udf4c The largest Nano Banana Pro prompt library \u2014 26,648 prompts, daily updates, HuggingFace dataset download. More than an",
-    "id": "goku-open/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-nano-banana-pro-prompts",
-    "stars": 2,
-    "updated_at": "2026-08-30T02:18:14Z",
-    "url": "https://github.com/goku-open/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Taste \u2014 independent third-party profile of a public API surface, by API Evangelist. Taste Labs is a San Francisco resear",
-    "id": "api-evangelist/taste",
-    "language": "\u2014",
-    "name": "api-evangelist/taste",
-    "stars": 0,
-    "updated_at": "2026-08-30T02:17:05Z",
-    "url": "https://github.com/api-evangelist/taste"
   }
 ]
