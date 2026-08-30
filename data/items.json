@@ -1,5 +1,95 @@
 [
   {
+    "description": "Evidence-gated removal of context instructions for Amplifier. Every context system can ADD instructions; almost none can",
+    "id": "michaeljabbour/amplifier-bundle-preceptor",
+    "language": "Python",
+    "name": "michaeljabbour/amplifier-bundle-preceptor",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:27:52Z",
+    "url": "https://github.com/michaeljabbour/amplifier-bundle-preceptor"
+  },
+  {
+    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
+    "id": "T-Stephen/ai-mql-engine",
+    "language": "JavaScript",
+    "name": "T-Stephen/ai-mql-engine",
+    "stars": 2,
+    "updated_at": "2026-08-30T03:24:20Z",
+    "url": "https://github.com/T-Stephen/ai-mql-engine"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 1,
+    "updated_at": "2026-08-30T03:22:34Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 30,
+    "updated_at": "2026-08-30T03:26:55Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-30T03:20:53Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24665,
+    "updated_at": "2026-08-30T03:23:08Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Bilingual, searchable radar for useful open-source AIGC creative tools.",
+    "id": "kwokwile/awesome-aigc-tools",
+    "language": "TypeScript",
+    "name": "kwokwile/awesome-aigc-tools",
+    "stars": 2,
+    "updated_at": "2026-08-30T03:19:14Z",
+    "url": "https://github.com/kwokwile/awesome-aigc-tools"
+  },
+  {
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
+    "id": "f/prompts.chat",
+    "language": "HTML",
+    "name": "f/prompts.chat",
+    "stars": 168182,
+    "updated_at": "2026-08-30T03:17:35Z",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "description": "Portable, model-neutral agent workflows for Codex and Claude Code: design, review, issues, and delivery.",
+    "id": "dgaramos/dr-agents",
+    "language": "Shell",
+    "name": "dgaramos/dr-agents",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:16:05Z",
+    "url": "https://github.com/dgaramos/dr-agents"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-30T03:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A continuously evolving personal Agent Skill for reproducing lailai's writing, thinking, design, and working style.",
     "id": "lailai0916/lailai-skill",
     "language": "Python",
@@ -7,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T03:14:42Z",
     "url": "https://github.com/lailai0916/lailai-skill"
-  },
-  {
-    "description": "Evidence-gated removal of context instructions for Amplifier. Every context system can ADD instructions; almost none can",
-    "id": "michaeljabbour/amplifier-bundle-preceptor",
-    "language": "Python",
-    "name": "michaeljabbour/amplifier-bundle-preceptor",
-    "stars": 0,
-    "updated_at": "2026-08-30T03:14:33Z",
-    "url": "https://github.com/michaeljabbour/amplifier-bundle-preceptor"
   },
   {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
@@ -36,15 +117,6 @@
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
-    "description": "Portable, model-neutral agent workflows for Codex and Claude Code: design, review, issues, and delivery.",
-    "id": "dgaramos/dr-agents",
-    "language": "Shell",
-    "name": "dgaramos/dr-agents",
-    "stars": 0,
-    "updated_at": "2026-08-30T03:14:11Z",
-    "url": "https://github.com/dgaramos/dr-agents"
-  },
-  {
     "description": "\ud83d\ude80 An awesome list of curated Seedance 2.5 prompts and examples. Your go-to resource for mastering prompt engineering and",
     "id": "ZeroLu/awesome-seedance-2.5",
     "language": "Shell",
@@ -52,6 +124,15 @@
     "stars": 97,
     "updated_at": "2026-08-30T03:07:59Z",
     "url": "https://github.com/ZeroLu/awesome-seedance-2.5"
+  },
+  {
+    "description": "Turn any logo into an illustration character. An agent skill for hand-drawn, white-background article and paper figures ",
+    "id": "Jung217/Any-Logo-illustrations",
+    "language": "Python",
+    "name": "Jung217/Any-Logo-illustrations",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:07:17Z",
+    "url": "https://github.com/Jung217/Any-Logo-illustrations"
   },
   {
     "description": "\u7528 cangjie-skill \u628a 18 \u90e8\u4e2d\u56fd\u7ecf\u5178\u84b8\u998f\u6210 Agent Skills \u6280\u80fd\u5305\u96c6\u5408",
@@ -72,20 +153,11 @@
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-30T03:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 68022,
+    "stars": 68026,
     "updated_at": "2026-08-30T02:55:28Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6505,
-    "updated_at": "2026-08-30T03:09:56Z",
+    "updated_at": "2026-08-30T03:29:49Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -351,24 +423,6 @@
     "url": "https://github.com/langgptai/Awesome-Multimodal-Prompts"
   },
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 4,
-    "updated_at": "2026-08-30T02:20:53Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Structured, spec-driven development workflow for AI coding agents.",
-    "id": "sahil87/fab-kit",
-    "language": "Go",
-    "name": "sahil87/fab-kit",
-    "stars": 30,
-    "updated_at": "2026-08-30T02:20:48Z",
-    "url": "https://github.com/sahil87/fab-kit"
-  },
-  {
     "description": "A curated collection of resources, papers, tools, and best practices for Context Engineering in AI agents and Large Lang",
     "id": "yzfly/awesome-context-engineering",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T02:17:05Z",
     "url": "https://github.com/api-evangelist/taste"
-  },
-  {
-    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 1,
-    "updated_at": "2026-08-30T02:16:03Z",
-    "url": "https://github.com/gthgomez/Babel"
-  },
-  {
-    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
-    "id": "YouMind-OpenLab/awesome-gpt-image-2",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 9603,
-    "updated_at": "2026-08-30T02:15:03Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
-  },
-  {
-    "description": "Local-first tool that strips emails, secrets, paths, and other identifying content out of your prompts before they reach",
-    "id": "Nano-Collective/prompt-scrubber",
-    "language": "TypeScript",
-    "name": "Nano-Collective/prompt-scrubber",
-    "stars": 14,
-    "updated_at": "2026-08-30T02:14:19Z",
-    "url": "https://github.com/Nano-Collective/prompt-scrubber"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources",
-    "id": "DSeaStar/awesome-kling",
-    "language": "Python",
-    "name": "DSeaStar/awesome-kling",
-    "stars": 0,
-    "updated_at": "2026-08-30T02:11:34Z",
-    "url": "https://github.com/DSeaStar/awesome-kling"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-08-30T02:11:33Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Human Cognitive Leverage Ratio \u2014 measure how much your interventions shape AI output / HCLR\u4eba\u7c7b\u8ba4\u77e5\u6760\u6746\u7387\uff1a\u8861\u91cf\u4f60\u7684\u4ecb\u5165\u5bf9AI\u8f93\u51fa\u7684\u5f71\u54cd",
-    "id": "Rootosophy/hclr",
-    "language": "\u2014",
-    "name": "Rootosophy/hclr",
-    "stars": 0,
-    "updated_at": "2026-08-30T02:11:22Z",
-    "url": "https://github.com/Rootosophy/hclr"
   }
 ]
