@@ -1,5 +1,149 @@
 [
   {
+    "description": "Context & prompt toolkit for coding agents: assembler, linter, prompt library, session archaeologist, plus a native macO",
+    "id": "lunamoth7533/ctxhub",
+    "language": "Python",
+    "name": "lunamoth7533/ctxhub",
+    "stars": 0,
+    "updated_at": "2026-08-30T17:00:16Z",
+    "url": "https://github.com/lunamoth7533/ctxhub"
+  },
+  {
+    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "Python",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 27,
+    "updated_at": "2026-08-30T16:59:48Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:57:20Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Rewrites an AI coding agent's last answer in plain English \u2014 keeping the caveats, the numbers, and the question it asked",
+    "id": "yogeshwarSW/plainly",
+    "language": "\u2014",
+    "name": "yogeshwarSW/plainly",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:56:30Z",
+    "url": "https://github.com/yogeshwarSW/plainly"
+  },
+  {
+    "description": "SLMArena is a self-hosted benchmarking & red-teaming platform for local SLMs. Measure TTFT, tok/s, & latency while an au",
+    "id": "tuxevil/SLMarena",
+    "language": "TypeScript",
+    "name": "tuxevil/SLMarena",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:59:54Z",
+    "url": "https://github.com/tuxevil/SLMarena"
+  },
+  {
+    "description": "Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for",
+    "id": "TomasHer/prompting-blueprints",
+    "language": "HTML",
+    "name": "TomasHer/prompting-blueprints",
+    "stars": 20,
+    "updated_at": "2026-08-30T16:52:37Z",
+    "url": "https://github.com/TomasHer/prompting-blueprints"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:52:09Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "\u26a1\ufe0f Blazing fast, offline notebook for leading AI projects. Brainstorm ideas and keep them connected, orchestrate and sca",
+    "id": "mory-dev/sudonotes",
+    "language": "TypeScript",
+    "name": "mory-dev/sudonotes",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:51:06Z",
+    "url": "https://github.com/mory-dev/sudonotes"
+  },
+  {
+    "description": "A harness for Claude Code: 22 playbooks and 22 principles you call by name, judgment routed to another model family, and",
+    "id": "Haruki1090/plumb",
+    "language": "Shell",
+    "name": "Haruki1090/plumb",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:49:44Z",
+    "url": "https://github.com/Haruki1090/plumb"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:49:07Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Turn prompt-based agents into auditable ops: state machine, decision log, risk scoring, and memory for Claude Code, Open",
+    "id": "HeiGeAi/opc-team",
+    "language": "Python",
+    "name": "HeiGeAi/opc-team",
+    "stars": 15,
+    "updated_at": "2026-08-30T16:47:39Z",
+    "url": "https://github.com/HeiGeAi/opc-team"
+  },
+  {
+    "description": "AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff0c\u8986\u76d6\u5267\u672c\u3001\u8d44\u4ea7\u3001\u5206\u955c\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u5230\u72ec\u7acb\u5ba1\u67e5\u5168\u94fe\u8def\uff0c\u9002\u914d Claude Code \u4e0e Codex\u3002| An AI short-drama skill suite for Claude Code &",
+    "id": "zenstory-ai/drama-skills",
+    "language": "Python",
+    "name": "zenstory-ai/drama-skills",
+    "stars": 1382,
+    "updated_at": "2026-08-30T16:46:53Z",
+    "url": "https://github.com/zenstory-ai/drama-skills"
+  },
+  {
+    "description": "Stop Claude, ChatGPT, or any LLM from hedging, padding, narrating, and handing you homework. A battle-tested operating d",
+    "id": "Ulysses05151997/anti-slop-doctrine",
+    "language": "\u2014",
+    "name": "Ulysses05151997/anti-slop-doctrine",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:46:41Z",
+    "url": "https://github.com/Ulysses05151997/anti-slop-doctrine"
+  },
+  {
+    "description": "Drop-in toolbar for any website \u2014 annotate the UI and capture selectors, computed styles, React component trees, and scr",
+    "id": "TimMikeladze/devbar",
+    "language": "TypeScript",
+    "name": "TimMikeladze/devbar",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:46:14Z",
+    "url": "https://github.com/TimMikeladze/devbar"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-30T16:45:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3668,
+    "updated_at": "2026-08-30T16:45:31Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
     "description": "Peque\u00f1as an\u00e9cdotas sobre IA, LLMs, prompts, ingenier\u00eda y esas cosas...",
     "id": "mmasias/ai-prompts",
     "language": "\u2014",
@@ -18,24 +162,6 @@
     "url": "https://github.com/Tubifix77/red-thread"
   },
   {
-    "description": "Stop Claude, ChatGPT, or any LLM from hedging, padding, narrating, and handing you homework. A battle-tested operating d",
-    "id": "Ulysses05151997/anti-slop-doctrine",
-    "language": "\u2014",
-    "name": "Ulysses05151997/anti-slop-doctrine",
-    "stars": 0,
-    "updated_at": "2026-08-30T16:43:48Z",
-    "url": "https://github.com/Ulysses05151997/anti-slop-doctrine"
-  },
-  {
-    "description": "AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff0c\u8986\u76d6\u5267\u672c\u3001\u8d44\u4ea7\u3001\u5206\u955c\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u5230\u72ec\u7acb\u5ba1\u67e5\u5168\u94fe\u8def\uff0c\u9002\u914d Claude Code \u4e0e Codex\u3002| An AI short-drama skill suite for Claude Code &",
-    "id": "zenstory-ai/drama-skills",
-    "language": "Python",
-    "name": "zenstory-ai/drama-skills",
-    "stars": 1382,
-    "updated_at": "2026-08-30T16:44:56Z",
-    "url": "https://github.com/zenstory-ai/drama-skills"
-  },
-  {
     "description": "\u628a\u7167\u7247\u53d8\u6210\u624b\u8d26\u63d2\u753b / \u6495\u7eb8 zine \u6d77\u62a5\u7684\u53ef\u7ec4\u5408 prompt skill \u00b7 A portable agent skill that compiles one self-contained photo-to-art prompt fo",
     "id": "LinHaiJ/pic-style",
     "language": "\u2014",
@@ -45,31 +171,13 @@
     "url": "https://github.com/LinHaiJ/pic-style"
   },
   {
-    "description": "\u26a1\ufe0f Blazing fast, offline notebook for leading AI projects. Brainstorm ideas and keep them connected, orchestrate and sca",
-    "id": "mory-dev/sudonotes",
-    "language": "TypeScript",
-    "name": "mory-dev/sudonotes",
-    "stars": 3,
-    "updated_at": "2026-08-30T16:42:03Z",
-    "url": "https://github.com/mory-dev/sudonotes"
-  },
-  {
     "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
     "id": "AltairaLabs/PromptKit",
     "language": "Go",
     "name": "AltairaLabs/PromptKit",
     "stars": 9,
-    "updated_at": "2026-08-30T16:41:40Z",
+    "updated_at": "2026-08-30T16:57:16Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
-    "description": "Rewrites an AI coding agent's last answer in plain English \u2014 keeping the caveats, the numbers, and the question it asked",
-    "id": "yogeshwarSW/plainly",
-    "language": "\u2014",
-    "name": "yogeshwarSW/plainly",
-    "stars": 0,
-    "updated_at": "2026-08-30T16:41:39Z",
-    "url": "https://github.com/yogeshwarSW/plainly"
   },
   {
     "description": "Public examples of my AI prompt systems and evaluation work (IP-safe, no client data).",
@@ -99,15 +207,6 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "Turn prompt-based agents into auditable ops: state machine, decision log, risk scoring, and memory for Claude Code, Open",
-    "id": "HeiGeAi/opc-team",
-    "language": "Python",
-    "name": "HeiGeAi/opc-team",
-    "stars": 15,
-    "updated_at": "2026-08-30T16:39:36Z",
-    "url": "https://github.com/HeiGeAi/opc-team"
-  },
-  {
     "description": "What your Claude Code config costs before you type anything",
     "id": "Aliwers/cc-tax",
     "language": "HTML",
@@ -115,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T16:39:13Z",
     "url": "https://github.com/Aliwers/cc-tax"
-  },
-  {
-    "description": "SLMArena is a self-hosted benchmarking & red-teaming platform for local SLMs. Measure TTFT, tok/s, & latency while an au",
-    "id": "tuxevil/SLMarena",
-    "language": "TypeScript",
-    "name": "tuxevil/SLMarena",
-    "stars": 1,
-    "updated_at": "2026-08-30T16:38:58Z",
-    "url": "https://github.com/tuxevil/SLMarena"
   },
   {
     "description": "Documentation, Specification and Website for PromptPack.org",
@@ -162,15 +252,6 @@
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-30T16:32:43Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "Local-first CLI for comparing prompt revisions and catching risky instruction, tool, and output-contract changes.",
     "id": "rogerchappel/promptdiff",
     "language": "TypeScript",
@@ -178,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T16:31:28Z",
     "url": "https://github.com/rogerchappel/promptdiff"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-30T16:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -342,15 +414,6 @@
     "url": "https://github.com/api-evangelist/compresr"
   },
   {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3668,
-    "updated_at": "2026-08-30T16:41:19Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
     "description": "RAG-based Prompt Engineering project for reliable document question answering with citations and test cases.",
     "id": "anishamunawar6/Prompt-Engineering-Project-3",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-30T16:06:21Z",
     "url": "https://github.com/adamlinscott/claude-skills"
-  },
-  {
-    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
-    "id": "Ntizar/MasterMind",
-    "language": "HTML",
-    "name": "Ntizar/MasterMind",
-    "stars": 2,
-    "updated_at": "2026-08-30T16:05:38Z",
-    "url": "https://github.com/Ntizar/MasterMind"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-08-30T16:05:01Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13312,
-    "updated_at": "2026-08-30T16:03:30Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": ".clinerules \u2014 independent third-party profile of a public API surface, by API Evangelist. .clinerules is the rule-file c",
-    "id": "api-evangelist/clinerules",
-    "language": "\u2014",
-    "name": "api-evangelist/clinerules",
-    "stars": 0,
-    "updated_at": "2026-08-30T16:01:40Z",
-    "url": "https://github.com/api-evangelist/clinerules"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 10,
-    "updated_at": "2026-08-30T16:00:52Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
-    "id": "elie222/botdirectory.ai",
-    "language": "Astro",
-    "name": "elie222/botdirectory.ai",
-    "stars": 149,
-    "updated_at": "2026-08-30T15:56:12Z",
-    "url": "https://github.com/elie222/botdirectory.ai"
-  },
-  {
-    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-08-30T15:55:21Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
   }
 ]
