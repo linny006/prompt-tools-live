@@ -1,12 +1,174 @@
 [
   {
+    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
+    "id": "Prysai/Prysai-LLM-Playbook",
+    "language": "Python",
+    "name": "Prysai/Prysai-LLM-Playbook",
+    "stars": 191,
+    "updated_at": "2026-08-30T14:59:16Z",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+  },
+  {
+    "description": "Advanced multilingual AI humanizer and writing toolkit for natural prose, voice preservation, long-form continuity, and ",
+    "id": "whh110112/human-writing-skills",
+    "language": "Python",
+    "name": "whh110112/human-writing-skills",
+    "stars": 2,
+    "updated_at": "2026-08-30T14:59:08Z",
+    "url": "https://github.com/whh110112/human-writing-skills"
+  },
+  {
+    "description": "GodPrompt \u2014 a universal AI coding system prompt and skill for Claude, ChatGPT, Cursor and coding agents, with TDD, debug",
+    "id": "AKzar1el/god-prompt-mcp",
+    "language": "TypeScript",
+    "name": "AKzar1el/god-prompt-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-30T14:58:57Z",
+    "url": "https://github.com/AKzar1el/god-prompt-mcp"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-30T14:57:45Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Production-Stage Visual Design & In-Codebase UI Engineering Suite",
+    "id": "TidyFactor/Styler",
+    "language": "Python",
+    "name": "TidyFactor/Styler",
+    "stars": 90,
+    "updated_at": "2026-08-30T14:56:00Z",
+    "url": "https://github.com/TidyFactor/Styler"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33929,
+    "updated_at": "2026-08-30T14:55:41Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A fork of Anthropic's skill-creator that fixes what the original got wrong: scripts Claude couldn't see, thin trigger te",
+    "id": "rolling-codes/-the-better-skill-creator-skill-",
+    "language": "Python",
+    "name": "rolling-codes/-the-better-skill-creator-skill-",
+    "stars": 2,
+    "updated_at": "2026-08-30T14:56:33Z",
+    "url": "https://github.com/rolling-codes/-the-better-skill-creator-skill-"
+  },
+  {
+    "description": "Claude Code skills covering the skill-authoring lifecycle: create, judge, eval with persisted regression suites, audit f",
+    "id": "robcsaszar/ai-forge",
+    "language": "JavaScript",
+    "name": "robcsaszar/ai-forge",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:57:16Z",
+    "url": "https://github.com/robcsaszar/ai-forge"
+  },
+  {
+    "description": "Write your AI coding setup once, run it in every tool. One source of truth \u2014 149 commands, 88 agents, 116 skills, 23 rol",
+    "id": "adnanmokhtar/refract",
+    "language": "Shell",
+    "name": "adnanmokhtar/refract",
+    "stars": 1,
+    "updated_at": "2026-08-30T14:52:53Z",
+    "url": "https://github.com/adnanmokhtar/refract"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-30T14:52:15Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24675,
+    "updated_at": "2026-08-30T14:50:06Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-08-30T14:50:01Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
     "description": "Claude Skill - \u5168\u6d41\u7a0b\u9762\u8bd5\u51c6\u5907\u4e0e\u6c42\u804c\u51b3\u7b56\u7cfb\u7edf",
     "id": "chen3tu/interview-master-skill",
-    "language": "\u2014",
+    "language": "Python",
     "name": "chen3tu/interview-master-skill",
     "stars": 70,
-    "updated_at": "2026-08-30T14:43:47Z",
+    "updated_at": "2026-08-30T14:49:18Z",
     "url": "https://github.com/chen3tu/interview-master-skill"
+  },
+  {
+    "description": "A hands-on GenAI Engineering roadmap from LLM fundamentals to production AI systems. Covers prompt engineering, RAG, Age",
+    "id": "SRCarlo/genai-course",
+    "language": "JavaScript",
+    "name": "SRCarlo/genai-course",
+    "stars": 5,
+    "updated_at": "2026-08-30T14:46:47Z",
+    "url": "https://github.com/SRCarlo/genai-course"
+  },
+  {
+    "description": "The real Claude Code configuration behind a 13-service TypeScript platform \u2014 71 skills, 34 hooks, 31 agents, 172 memorie",
+    "id": "milosCvetkovicDev/claude-code-monorepo",
+    "language": "Shell",
+    "name": "milosCvetkovicDev/claude-code-monorepo",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:46:41Z",
+    "url": "https://github.com/milosCvetkovicDev/claude-code-monorepo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-30T14:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3668,
+    "updated_at": "2026-08-30T14:59:58Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "A prompt-engineering project that builds and tests a Logic Reasoning Engine for solving multi-step logic problems accura",
+    "id": "anishamunawar6/Prompt-Engineering-Project-2",
+    "language": "\u2014",
+    "name": "anishamunawar6/Prompt-Engineering-Project-2",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:45:00Z",
+    "url": "https://github.com/anishamunawar6/Prompt-Engineering-Project-2"
+  },
+  {
+    "description": "Open-source framework for reproducible A/B evaluation of agent skills and instructions",
+    "id": "Dhi13man/skivolve",
+    "language": "Python",
+    "name": "Dhi13man/skivolve",
+    "stars": 1,
+    "updated_at": "2026-08-30T14:46:50Z",
+    "url": "https://github.com/Dhi13man/skivolve"
   },
   {
     "description": "A personal baseline template for Claude Code: spend fewer tokens per session without touching answer quality. Built for ",
@@ -68,17 +230,8 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 10,
-    "updated_at": "2026-08-30T14:43:08Z",
+    "updated_at": "2026-08-30T14:46:43Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3668,
-    "updated_at": "2026-08-30T14:45:06Z",
-    "url": "https://github.com/microsoft/apm"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -88,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-08-30T14:38:43Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "A fork of Anthropic's skill-creator that fixes what the original got wrong: scripts Claude couldn't see, thin trigger te",
-    "id": "rolling-codes/-the-better-skill-creator-skill-",
-    "language": "Python",
-    "name": "rolling-codes/-the-better-skill-creator-skill-",
-    "stars": 2,
-    "updated_at": "2026-08-30T14:38:05Z",
-    "url": "https://github.com/rolling-codes/-the-better-skill-creator-skill-"
   },
   {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
@@ -135,15 +279,6 @@
     "url": "https://github.com/FoxsterDev/ai-research-hub"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:32:16Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "APES 110-aligned and TPB Code guardrails for LLM-assisted Australian tax work. Not advice.",
     "id": "ryanduguid/DrDebits",
     "language": "Python",
@@ -160,15 +295,6 @@
     "stars": 22,
     "updated_at": "2026-08-30T14:30:58Z",
     "url": "https://github.com/mehrad-dm/mastermind"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-30T14:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u4e2d\u6587\u804c\u573a\u54a8\u8be2\u5e08 Agent\uff08v0.2\uff09\uff1a\u8986\u76d6\u5411\u4e0a\u6c9f\u901a\u3001\u8d23\u4efb\u8fb9\u754c\u3001\u8de8\u90e8\u95e8\u534f\u4f5c\u3001\u7ee9\u6548\u664b\u5347\u3001\u53bb\u7559\u51b3\u7b56\u4e94\u5927 P0 \u573a\u666f\uff0c40 \u4f8b\u8bc4\u6d4b + 7 \u7ef4 28 \u5206\u8bc4\u5206\u4f53\u7cfb",
@@ -216,15 +342,6 @@
     "url": "https://github.com/saghosh8/AI-For-DevOps"
   },
   {
-    "description": "Open-source framework for reproducible A/B evaluation of agent skills and instructions",
-    "id": "Dhi13man/skivolve",
-    "language": "Python",
-    "name": "Dhi13man/skivolve",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:44:53Z",
-    "url": "https://github.com/Dhi13man/skivolve"
-  },
-  {
     "description": "\u26a1\ufe0f Blazing fast, offline notebook for leading AI projects. Brainstorm ideas and keep them connected, orchestrate and sca",
     "id": "mory-dev/sudonotes",
     "language": "TypeScript",
@@ -232,15 +349,6 @@
     "stars": 3,
     "updated_at": "2026-08-30T14:25:35Z",
     "url": "https://github.com/mory-dev/sudonotes"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24675,
-    "updated_at": "2026-08-30T14:36:54Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\u89c4\u8303\u672f\u8bed\u2014\u2014\u628a\u6280\u672f\u9ed1\u8bdd\u8bb2\u6210\u4eba\u8bdd\uff0c\u8fd9\u662f\u4e00\u4e2a\u7eaf\u9759\u6001\u7f51\u9875\u9879\u76ee\uff0c\u5f00\u7bb1\u5373\u7528\uff0c\u5b66\u4e60\u5982\u4f55\u8ddfAI\u5bf9\u8bdd\u66f4\u51c6\u786e\u3002",
@@ -284,7 +392,7 @@
     "language": "Go",
     "name": "AltairaLabs/PromptKit",
     "stars": 9,
-    "updated_at": "2026-08-30T14:19:12Z",
+    "updated_at": "2026-08-30T14:56:52Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
   },
   {
@@ -311,7 +419,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27736,
-    "updated_at": "2026-08-30T14:41:48Z",
+    "updated_at": "2026-08-30T14:48:49Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 18,
     "updated_at": "2026-08-30T14:16:03Z",
     "url": "https://github.com/zxc663/shisan-xinuo-workflow"
-  },
-  {
-    "description": "The official skills marketplace for Agents Inc, an agent composition framework that builds stacks and compiles specializ",
-    "id": "agents-inc/skills",
-    "language": "JavaScript",
-    "name": "agents-inc/skills",
-    "stars": 23,
-    "updated_at": "2026-08-30T14:15:01Z",
-    "url": "https://github.com/agents-inc/skills"
-  },
-  {
-    "description": "Turn prompt-based agents into auditable ops: state machine, decision log, risk scoring, and memory for Claude Code, Open",
-    "id": "HeiGeAi/opc-team",
-    "language": "Python",
-    "name": "HeiGeAi/opc-team",
-    "stars": 15,
-    "updated_at": "2026-08-30T14:15:10Z",
-    "url": "https://github.com/HeiGeAi/opc-team"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-08-30T14:12:36Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-08-30T14:11:53Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-08-30T14:10:17Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:10:12Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:09:40Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:09:32Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "AI skills for Claude & ChatGPT that create and evaluate viral, sticky content \u2014 built on STEPPS (Contagious) and SUCCESs",
-    "id": "trananhtung/viral-content-skills",
-    "language": "\u2014",
-    "name": "trananhtung/viral-content-skills",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:08:59Z",
-    "url": "https://github.com/trananhtung/viral-content-skills"
-  },
-  {
-    "description": "The real Claude Code configuration behind a 13-service TypeScript platform \u2014 71 skills, 34 hooks, 31 agents, 172 memorie",
-    "id": "milosCvetkovicDev/claude-code-monorepo",
-    "language": "Shell",
-    "name": "milosCvetkovicDev/claude-code-monorepo",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:19:22Z",
-    "url": "https://github.com/milosCvetkovicDev/claude-code-monorepo"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:06:35Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:06:31Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
   }
 ]
