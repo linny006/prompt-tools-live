@@ -1,12 +1,66 @@
 [
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 7,
+    "updated_at": "2026-08-30T07:29:41Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
+  },
+  {
+    "description": "MiniMax H3 \u5168\u57df\u63d0\u793a\u8bcd\u5de5\u7a0b Skill v1.7\uff5cAIMixer Director \u5bfc\u6f14\u53f0\u751f\u4ea7\u89c4\u5219\uff5cT2VA / I2VA / FL2VA / L2VA / Ref2VA\uff5cSubject \u4e0e Picture \u8bed\u4e49\u5206\u79bb\u3001\u8de8\u955c\u5934\u56e0\u679c\u6865",
+    "id": "AI-KSK/aiksk-minimax-h3-local-prompt",
+    "language": "Python",
+    "name": "AI-KSK/aiksk-minimax-h3-local-prompt",
+    "stars": 14,
+    "updated_at": "2026-08-30T07:28:27Z",
+    "url": "https://github.com/AI-KSK/aiksk-minimax-h3-local-prompt"
+  },
+  {
+    "description": "12\u79cd\u7ed3\u6784\u5316\u601d\u8003\u65b9\u6cd5\u7684 Agent Skill(\u82cf\u683c\u62c9\u5e95\u63d0\u95ee/\u7b2c\u4e00\u6027\u539f\u7406/\u94a2\u4eba\u8bba\u8bc1\u7b49),\u9002\u914d Cursor \u4e0e Claude Code,\u9644\u7f51\u9875\u7248\u901a\u7528 Prompt\u3002\u6574\u7406\u81ea\u5361\u5179\u514b\u7684\u6587\u7ae0\u3002",
+    "id": "Rogers-F/thinking-toolkit",
+    "language": "\u2014",
+    "name": "Rogers-F/thinking-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-30T07:27:40Z",
+    "url": "https://github.com/Rogers-F/thinking-toolkit"
+  },
+  {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
     "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 4,
-    "updated_at": "2026-08-30T07:20:49Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 3799,
+    "updated_at": "2026-08-30T07:26:24Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "Your AI coding agent starts every session knowing your repos, your clients, and how you work \u2014 a plain git repo of markd",
+    "id": "bks-lab/open-bridge",
+    "language": "Python",
+    "name": "bks-lab/open-bridge",
+    "stars": 8,
+    "updated_at": "2026-08-30T07:26:01Z",
+    "url": "https://github.com/bks-lab/open-bridge"
+  },
+  {
+    "description": "Aftermarket system prompts for AI coding agents \u2014 recover a model's working style on a base model (Bun CLI).",
+    "id": "Trosfy/aip",
+    "language": "TypeScript",
+    "name": "Trosfy/aip",
+    "stars": 0,
+    "updated_at": "2026-08-30T07:25:56Z",
+    "url": "https://github.com/Trosfy/aip"
+  },
+  {
+    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "Python",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 27,
+    "updated_at": "2026-08-30T07:24:16Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -14,8 +68,26 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 9,
-    "updated_at": "2026-08-30T07:20:00Z",
+    "updated_at": "2026-08-30T07:25:07Z",
     "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-30T07:21:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 4,
+    "updated_at": "2026-08-30T07:20:49Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
     "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
@@ -52,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T07:16:56Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-30T07:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 3666,
-    "updated_at": "2026-08-30T07:07:55Z",
+    "updated_at": "2026-08-30T07:28:30Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -225,20 +288,11 @@
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   },
   {
-    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
-    "id": "leeex1/Quillan-Ronin",
-    "language": "Python",
-    "name": "leeex1/Quillan-Ronin",
-    "stars": 27,
-    "updated_at": "2026-08-30T06:46:49Z",
-    "url": "https://github.com/leeex1/Quillan-Ronin"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24669,
+    "stars": 24670,
     "updated_at": "2026-08-30T06:46:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -259,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T06:44:00Z",
     "url": "https://github.com/flyeasy/dev-loop-optimizer"
-  },
-  {
-    "description": "MiniMax H3 \u5168\u57df\u63d0\u793a\u8bcd\u5de5\u7a0b Skill v1.7\uff5cAIMixer Director \u5bfc\u6f14\u53f0\u751f\u4ea7\u89c4\u5219\uff5cT2VA / I2VA / FL2VA / L2VA / Ref2VA\uff5cSubject \u4e0e Picture \u8bed\u4e49\u5206\u79bb\u3001\u8de8\u955c\u5934\u56e0\u679c\u6865",
-    "id": "AI-KSK/aiksk-minimax-h3-local-prompt",
-    "language": "Python",
-    "name": "AI-KSK/aiksk-minimax-h3-local-prompt",
-    "stars": 14,
-    "updated_at": "2026-08-30T06:43:17Z",
-    "url": "https://github.com/AI-KSK/aiksk-minimax-h3-local-prompt"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -403,50 +448,5 @@
     "stars": 22,
     "updated_at": "2026-08-30T06:23:39Z",
     "url": "https://github.com/LocalSymmetry/lofn"
-  },
-  {
-    "description": "DeepSeek Harness (DSH) \u63d0\u793a\u8bcd\u4f18\u5316\u5668\u63d2\u4ef6\uff1a\u4e00\u53e5\u53e3\u8bed\u5316\u9700\u6c42 \u2192 \u7ed3\u6784\u5316\u9ad8\u8d28\u91cf\u63d0\u793a\u8bcd\uff0c\u7ed3\u679c\u81ea\u52a8\u586b\u5165\u4f1a\u8bdd\u8f93\u5165\u6846\u3002\u590d\u7528 DSH \u5185\u7f6e\u6a21\u578b\u8def\u7531\uff0c\u96f6 API Key \u7ba1\u7406\u3002",
-    "id": "xiaozuishuai-eng/prompt_optimize_dsh",
-    "language": "JavaScript",
-    "name": "xiaozuishuai-eng/prompt_optimize_dsh",
-    "stars": 1,
-    "updated_at": "2026-08-30T06:22:12Z",
-    "url": "https://github.com/xiaozuishuai-eng/prompt_optimize_dsh"
-  },
-  {
-    "description": "Forge portable coding-agent skills with linting, activation tests, render adapters, and local-first packaging.",
-    "id": "rogerchappel/skillforge",
-    "language": "TypeScript",
-    "name": "rogerchappel/skillforge",
-    "stars": 1,
-    "updated_at": "2026-08-30T06:19:37Z",
-    "url": "https://github.com/rogerchappel/skillforge"
-  },
-  {
-    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
-    "id": "F-e-u-e-r/opus-pack",
-    "language": "Python",
-    "name": "F-e-u-e-r/opus-pack",
-    "stars": 2,
-    "updated_at": "2026-08-30T06:19:18Z",
-    "url": "https://github.com/F-e-u-e-r/opus-pack"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 18,
-    "updated_at": "2026-08-30T06:25:42Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-08-30T06:18:32Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
   }
 ]
