@@ -1,5 +1,86 @@
 [
   {
+    "description": "A continuously evolving personal Agent Skill for reproducing lailai's writing, thinking, design, and working style.",
+    "id": "lailai0916/lailai-skill",
+    "language": "Python",
+    "name": "lailai0916/lailai-skill",
+    "stars": 1,
+    "updated_at": "2026-08-30T03:14:42Z",
+    "url": "https://github.com/lailai0916/lailai-skill"
+  },
+  {
+    "description": "Evidence-gated removal of context instructions for Amplifier. Every context system can ADD instructions; almost none can",
+    "id": "michaeljabbour/amplifier-bundle-preceptor",
+    "language": "Python",
+    "name": "michaeljabbour/amplifier-bundle-preceptor",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:14:33Z",
+    "url": "https://github.com/michaeljabbour/amplifier-bundle-preceptor"
+  },
+  {
+    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:14:02Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-30T03:12:31Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Portable, model-neutral agent workflows for Codex and Claude Code: design, review, issues, and delivery.",
+    "id": "dgaramos/dr-agents",
+    "language": "Shell",
+    "name": "dgaramos/dr-agents",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:14:11Z",
+    "url": "https://github.com/dgaramos/dr-agents"
+  },
+  {
+    "description": "\ud83d\ude80 An awesome list of curated Seedance 2.5 prompts and examples. Your go-to resource for mastering prompt engineering and",
+    "id": "ZeroLu/awesome-seedance-2.5",
+    "language": "Shell",
+    "name": "ZeroLu/awesome-seedance-2.5",
+    "stars": 97,
+    "updated_at": "2026-08-30T03:07:59Z",
+    "url": "https://github.com/ZeroLu/awesome-seedance-2.5"
+  },
+  {
+    "description": "\u7528 cangjie-skill \u628a 18 \u90e8\u4e2d\u56fd\u7ecf\u5178\u84b8\u998f\u6210 Agent Skills \u6280\u80fd\u5305\u96c6\u5408",
+    "id": "jianjian12138/cangjie-classics-skills",
+    "language": "\u2014",
+    "name": "jianjian12138/cangjie-classics-skills",
+    "stars": 0,
+    "updated_at": "2026-08-30T03:05:37Z",
+    "url": "https://github.com/jianjian12138/cangjie-classics-skills"
+  },
+  {
+    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
+    "id": "teguhimanulloh47/pirate-talk-for-claude",
+    "language": "HTML",
+    "name": "teguhimanulloh47/pirate-talk-for-claude",
+    "stars": 1,
+    "updated_at": "2026-08-30T03:01:34Z",
+    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-30T03:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6505,
-    "updated_at": "2026-08-30T02:55:02Z",
+    "updated_at": "2026-08-30T03:09:56Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -43,15 +124,6 @@
     "stars": 22,
     "updated_at": "2026-08-30T02:53:28Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-30T02:52:15Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Awesome QA Skills \u2014 a bilingual (zh/en) AI testing Agent Skills library for Codex, Cursor, Claude Code, Kiro, OpenCode, ",
@@ -88,15 +160,6 @@
     "stars": 22,
     "updated_at": "2026-08-30T02:46:18Z",
     "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-30T02:45:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
@@ -175,18 +238,9 @@
     "id": "kangarooking/cangjie-skill",
     "language": "Python",
     "name": "kangarooking/cangjie-skill",
-    "stars": 9176,
+    "stars": 9177,
     "updated_at": "2026-08-30T02:37:57Z",
     "url": "https://github.com/kangarooking/cangjie-skill"
-  },
-  {
-    "description": "Evidence-gated removal of context instructions for Amplifier. Every context system can ADD instructions; almost none can",
-    "id": "michaeljabbour/amplifier-bundle-preceptor",
-    "language": "Python",
-    "name": "michaeljabbour/amplifier-bundle-preceptor",
-    "stars": 0,
-    "updated_at": "2026-08-30T02:36:57Z",
-    "url": "https://github.com/michaeljabbour/amplifier-bundle-preceptor"
   },
   {
     "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T02:11:22Z",
     "url": "https://github.com/Rootosophy/hclr"
-  },
-  {
-    "description": "A collection of AI agent skills for Clawdbot, Claude Code, Codex",
-    "id": "jdrhyne/agent-skills",
-    "language": "Python",
-    "name": "jdrhyne/agent-skills",
-    "stars": 241,
-    "updated_at": "2026-08-30T02:05:52Z",
-    "url": "https://github.com/jdrhyne/agent-skills"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 57,
-    "updated_at": "2026-08-30T02:04:43Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "Traceable AI transcreation decision layer for cross-border ads, with Feishu human-in-the-loop collaboration",
-    "id": "helloworld-x3/LocalPipe",
-    "language": "Python",
-    "name": "helloworld-x3/LocalPipe",
-    "stars": 2,
-    "updated_at": "2026-08-30T02:02:55Z",
-    "url": "https://github.com/helloworld-x3/LocalPipe"
-  },
-  {
-    "description": "\ud83d\ude80 The largest downloadable GPT Image 2 prompt library \u2014 15,672 prompts and growing, daily updates with HuggingFace datas",
-    "id": "goku-open/awesome-gpt-image-2-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-gpt-image-2-prompts",
-    "stars": 4,
-    "updated_at": "2026-08-30T02:02:54Z",
-    "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
-  },
-  {
-    "description": "A reusable writing skill that helps AI agents produce clear, human-readable technical Chinese for reports, explanations,",
-    "id": "AIALRA-0/agent-human-readable-technical-writing",
-    "language": "PowerShell",
-    "name": "AIALRA-0/agent-human-readable-technical-writing",
-    "stars": 0,
-    "updated_at": "2026-08-30T02:01:58Z",
-    "url": "https://github.com/AIALRA-0/agent-human-readable-technical-writing"
-  },
-  {
-    "description": "PromptLayer \u2014 independent third-party profile of a public API surface, by API Evangelist. PromptLayer is a prompt engine",
-    "id": "api-evangelist/promptlayer",
-    "language": "\u2014",
-    "name": "api-evangelist/promptlayer",
-    "stars": 0,
-    "updated_at": "2026-08-30T02:01:05Z",
-    "url": "https://github.com/api-evangelist/promptlayer"
   }
 ]
