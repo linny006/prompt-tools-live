@@ -1,12 +1,48 @@
 [
   {
+    "description": "Turn your phone into an AI-powered Bluetooth HID keyboard. Dictate thoughts or prompts, polish with Gemini or custom age",
+    "id": "KoueKoffie-MW/Type4Me",
+    "language": "Kotlin",
+    "name": "KoueKoffie-MW/Type4Me",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:59:16Z",
+    "url": "https://github.com/KoueKoffie-MW/Type4Me"
+  },
+  {
+    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
+    "id": "Tubifix77/red-thread",
+    "language": "Python",
+    "name": "Tubifix77/red-thread",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:57:35Z",
+    "url": "https://github.com/Tubifix77/red-thread"
+  },
+  {
     "description": "Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 12 cloud providers + local models side-",
     "id": "SoraVantia/cli-modelarium",
     "language": "Python",
     "name": "SoraVantia/cli-modelarium",
     "stars": 1,
-    "updated_at": "2026-08-30T22:45:14Z",
+    "updated_at": "2026-08-30T22:57:33Z",
     "url": "https://github.com/SoraVantia/cli-modelarium"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-30T22:52:15Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-30T22:45:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -18,12 +54,21 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
   {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 10,
+    "updated_at": "2026-08-30T22:48:30Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 18,
-    "updated_at": "2026-08-30T22:41:06Z",
+    "updated_at": "2026-08-30T22:56:42Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -72,15 +117,6 @@
     "url": "https://github.com/EmmanuelM-A/askdocumind-api"
   },
   {
-    "description": "Turn your phone into an AI-powered Bluetooth HID keyboard. Dictate thoughts or prompts, polish with Gemini or custom age",
-    "id": "KoueKoffie-MW/Type4Me",
-    "language": "Python",
-    "name": "KoueKoffie-MW/Type4Me",
-    "stars": 0,
-    "updated_at": "2026-08-30T22:35:08Z",
-    "url": "https://github.com/KoueKoffie-MW/Type4Me"
-  },
-  {
     "description": "Full-stack prompt engineering workbench \u2014 multi-provider streaming, version diffs, A/B comparison, test cases, cost trac",
     "id": "saagpatel/prompt-englab",
     "language": "TypeScript",
@@ -124,33 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T22:32:24Z",
     "url": "https://github.com/colinalexander/super-skills"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-30T22:32:12Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
-    "id": "Tubifix77/red-thread",
-    "language": "Python",
-    "name": "Tubifix77/red-thread",
-    "stars": 0,
-    "updated_at": "2026-08-30T22:31:55Z",
-    "url": "https://github.com/Tubifix77/red-thread"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-30T22:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
@@ -214,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T22:26:57Z",
     "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 10,
-    "updated_at": "2026-08-30T22:44:40Z",
-    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
