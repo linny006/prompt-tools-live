@@ -1,5 +1,86 @@
 [
   {
+    "description": "A lightweight anti-hallucination wrapper for LLMs using Chain-of-Verification.",
+    "id": "Muhtasim-Munif-Fahim/self-correct-agent",
+    "language": "Python",
+    "name": "Muhtasim-Munif-Fahim/self-correct-agent",
+    "stars": 6,
+    "updated_at": "2026-08-30T19:52:32Z",
+    "url": "https://github.com/Muhtasim-Munif-Fahim/self-correct-agent"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-30T19:52:19Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Local-first desktop prompt library and studio for Stable Diffusion, FLUX and ComfyUI creators.",
+    "id": "Rona1do/PromptNook",
+    "language": "TypeScript",
+    "name": "Rona1do/PromptNook",
+    "stars": 1,
+    "updated_at": "2026-08-30T19:51:53Z",
+    "url": "https://github.com/Rona1do/PromptNook"
+  },
+  {
+    "description": "Your guide to the Agentic AI evolution. **Prompting Blueprints** offers a curated collection of concepts and tactics for",
+    "id": "TomasHer/prompting-blueprints",
+    "language": "HTML",
+    "name": "TomasHer/prompting-blueprints",
+    "stars": 20,
+    "updated_at": "2026-08-30T19:48:42Z",
+    "url": "https://github.com/TomasHer/prompting-blueprints"
+  },
+  {
+    "description": " Eval-driven multimodal agent for identifying trees, logs, bark, leaves and wood from photographs. Dendrology is the ref",
+    "id": "Dendro-Inspector/Dendro-Inspector",
+    "language": "Python",
+    "name": "Dendro-Inspector/Dendro-Inspector",
+    "stars": 16,
+    "updated_at": "2026-08-30T19:51:48Z",
+    "url": "https://github.com/Dendro-Inspector/Dendro-Inspector"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f 8 OpenAI Codex bundled skills forked & stripped of confirmation/security/privacy gates \u2014 install all 8 in one command",
+    "id": "samihalawa/openai-bundled-unrestricted",
+    "language": "JavaScript",
+    "name": "samihalawa/openai-bundled-unrestricted",
+    "stars": 0,
+    "updated_at": "2026-08-30T19:47:10Z",
+    "url": "https://github.com/samihalawa/openai-bundled-unrestricted"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-30T19:46:37Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "A hands-on Generative AI learning environment featuring practical experiments and projects for building AI-powered appli",
+    "id": "soumadip-dev/GenAI-Playground",
+    "language": "Python",
+    "name": "soumadip-dev/GenAI-Playground",
+    "stars": 0,
+    "updated_at": "2026-08-30T19:45:29Z",
+    "url": "https://github.com/soumadip-dev/GenAI-Playground"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-30T19:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83e\udd2b Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression c",
     "id": "V-Songbird/hush",
     "language": "JavaScript",
@@ -14,7 +95,7 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-08-30T19:43:36Z",
+    "updated_at": "2026-08-30T19:50:17Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -216,15 +297,6 @@
     "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:32:11Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
     "id": "herreravalenz6620/context-compression",
     "language": "Python",
@@ -268,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T19:30:31Z",
     "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-30T19:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T19:28:49Z",
     "url": "https://github.com/Scenic-urochordate607/claude-emotion-prompting"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s architecture with source-level research, code citations, and a 14-chapter deep dive into its TypeS",
-    "id": "flunkymercenary747/Claude-code-research",
-    "language": "\u2014",
-    "name": "flunkymercenary747/Claude-code-research",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:28:29Z",
-    "url": "https://github.com/flunkymercenary747/Claude-code-research"
-  },
-  {
-    "description": "Build production patterns for AI coding agents from Claude Code source analysis and harness engineering practice.",
-    "id": "dinho-afsn/agentic-harness-patterns-skill",
-    "language": "\u2014",
-    "name": "dinho-afsn/agentic-harness-patterns-skill",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:28:24Z",
-    "url": "https://github.com/dinho-afsn/agentic-harness-patterns-skill"
-  },
-  {
-    "description": "Explore AI agent CLI tools with clear guides to Claude Code, Codex, OpenCode, and Qwen CLI for practical use and workflo",
-    "id": "pickerrelict689/ai_agent_cli_guide",
-    "language": "\u2014",
-    "name": "pickerrelict689/ai_agent_cli_guide",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:28:20Z",
-    "url": "https://github.com/pickerrelict689/ai_agent_cli_guide"
-  },
-  {
-    "description": "Automate CRE analysis with AI skills for multifamily, industrial, and brokerage acquisitions, underwriting, due diligenc",
-    "id": "XAKLESK/cre-agent-skills",
-    "language": "\u2014",
-    "name": "XAKLESK/cre-agent-skills",
-    "stars": 6,
-    "updated_at": "2026-08-30T19:28:05Z",
-    "url": "https://github.com/XAKLESK/cre-agent-skills"
-  },
-  {
-    "description": "Build a self-improving agent system prompt for coding, research, automation, and long-running projects",
-    "id": "unofficial-necturus123/most-capable-agent-system-prompt",
-    "language": "\u2014",
-    "name": "unofficial-necturus123/most-capable-agent-system-prompt",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:27:37Z",
-    "url": "https://github.com/unofficial-necturus123/most-capable-agent-system-prompt"
-  },
-  {
-    "description": "Route OpenAI calls to 20+ free AI providers with fallback, 429 handling, and zero dependencies",
-    "id": "Kanjan4466/free-ai-router",
-    "language": "\u2014",
-    "name": "Kanjan4466/free-ai-router",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:27:01Z",
-    "url": "https://github.com/Kanjan4466/free-ai-router"
-  },
-  {
-    "description": "Track, diff, branch, and roll back LLM prompts from the CLI with git-style version control for prompt projects",
-    "id": "Bitter-ryeergot519/promptref",
-    "language": "Python",
-    "name": "Bitter-ryeergot519/promptref",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:26:39Z",
-    "url": "https://github.com/Bitter-ryeergot519/promptref"
   }
 ]
