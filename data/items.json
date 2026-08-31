@@ -1,5 +1,122 @@
 [
   {
+    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
+    "id": "zigrivers/scaffold",
+    "language": "TypeScript",
+    "name": "zigrivers/scaffold",
+    "stars": 5,
+    "updated_at": "2026-08-31T16:42:29Z",
+    "url": "https://github.com/zigrivers/scaffold"
+  },
+  {
+    "description": "A skill for AI agents to assess whether a digital product/SaaS design closes its business loop \u2014 \u5546\u4e1a\u94fe\u8def\u8bca\u65ad\uff1a\u5e2e\u521b\u9020\u8005\u8865\u5145\u5546\u4e1a\u601d\u7ef4",
+    "id": "QundaiCai314/Dandelion",
+    "language": "Python",
+    "name": "QundaiCai314/Dandelion",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:38:50Z",
+    "url": "https://github.com/QundaiCai314/Dandelion"
+  },
+  {
+    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
+    "id": "Prysai/Prysai-LLM-Playbook",
+    "language": "Python",
+    "name": "Prysai/Prysai-LLM-Playbook",
+    "stars": 206,
+    "updated_at": "2026-08-31T16:37:33Z",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+  },
+  {
+    "description": "Zero-GPU self-evolving harness for LLM agents. Evolve skills, prompts, and rules from real execution traces. Stdlib Pyth",
+    "id": "AkashPriyadarshii/sevolve",
+    "language": "Python",
+    "name": "AkashPriyadarshii/sevolve",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:38:31Z",
+    "url": "https://github.com/AkashPriyadarshii/sevolve"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33980,
+    "updated_at": "2026-08-31T16:43:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 203,
+    "updated_at": "2026-08-31T16:32:43Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-31T16:32:29Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
+    "id": "Sungmin-Cho/deep-suite",
+    "language": "JavaScript",
+    "name": "Sungmin-Cho/deep-suite",
+    "stars": 8,
+    "updated_at": "2026-08-31T16:31:24Z",
+    "url": "https://github.com/Sungmin-Cho/deep-suite"
+  },
+  {
+    "description": "Lean, outcome-first Superpowers for GPT-5.6 Sol and Codex",
+    "id": "bells0/agentic-superpowers",
+    "language": "Shell",
+    "name": "bells0/agentic-superpowers",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:30:39Z",
+    "url": "https://github.com/bells0/agentic-superpowers"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-31T16:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 18,
+    "updated_at": "2026-08-31T16:30:13Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Production engineering and design skills for OpenAI Codex.",
+    "id": "dayfinggg/openai-codex-agent-skills",
+    "language": "PowerShell",
+    "name": "dayfinggg/openai-codex-agent-skills",
+    "stars": 4,
+    "updated_at": "2026-08-31T16:30:04Z",
+    "url": "https://github.com/dayfinggg/openai-codex-agent-skills"
+  },
+  {
+    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "HTML",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 27,
+    "updated_at": "2026-08-31T16:29:43Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
     "description": "Central agentic standards, guidelines, skills & bootstrap tooling for AI coding agents (Claude, Codex, Copilot).",
     "id": "me-cedric/agent-compass",
     "language": "JavaScript",
@@ -7,6 +124,51 @@
     "stars": 2,
     "updated_at": "2026-08-31T16:29:23Z",
     "url": "https://github.com/me-cedric/agent-compass"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 137,
+    "updated_at": "2026-08-31T16:28:38Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "One-stop shop for AI skills and agents. Search 110K+ community skills, install and track them declaratively, and deploy ",
+    "id": "eljulians/skillfile",
+    "language": "Rust",
+    "name": "eljulians/skillfile",
+    "stars": 143,
+    "updated_at": "2026-08-31T16:28:15Z",
+    "url": "https://github.com/eljulians/skillfile"
+  },
+  {
+    "description": "Copy-paste prompts that turn your AI agents from a waiting line into a graph: a 5-min demo, false-edge audit, diamond re",
+    "id": "InjayTseng/graph-engineering-on-research",
+    "language": "Python",
+    "name": "InjayTseng/graph-engineering-on-research",
+    "stars": 10,
+    "updated_at": "2026-08-31T16:27:52Z",
+    "url": "https://github.com/InjayTseng/graph-engineering-on-research"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21715,
+    "updated_at": "2026-08-31T16:27:12Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Assignments and projects for the FlyRank General AI Fluency internship track.",
+    "id": "Mairaarshad19/FlyRankInternship-GeneralAIFluency",
+    "language": "HTML",
+    "name": "Mairaarshad19/FlyRankInternship-GeneralAIFluency",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:26:09Z",
+    "url": "https://github.com/Mairaarshad19/FlyRankInternship-GeneralAIFluency"
   },
   {
     "description": "A prompt builder that holds a real conversation instead of running a form: Hebrew or English in, a structured prompt out",
@@ -27,42 +189,6 @@
     "url": "https://github.com/laconiq-ai/tekmyra"
   },
   {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 18,
-    "updated_at": "2026-08-31T16:30:13Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "A skill for AI agents to assess whether a digital product/SaaS design closes its business loop \u2014 \u5546\u4e1a\u94fe\u8def\u8bca\u65ad\uff1a\u5e2e\u521b\u9020\u8005\u8865\u5145\u5546\u4e1a\u601d\u7ef4",
-    "id": "QundaiCai314/Dandelion",
-    "language": "Python",
-    "name": "QundaiCai314/Dandelion",
-    "stars": 0,
-    "updated_at": "2026-08-31T16:21:56Z",
-    "url": "https://github.com/QundaiCai314/Dandelion"
-  },
-  {
-    "description": "Agent Skill for Codex that helps frontend developers deliver production-capable backend changes from product requests.",
-    "id": "xllily/front-not-end",
-    "language": "JavaScript",
-    "name": "xllily/front-not-end",
-    "stars": 0,
-    "updated_at": "2026-08-31T16:21:32Z",
-    "url": "https://github.com/xllily/front-not-end"
-  },
-  {
-    "description": "Production engineering and design skills for OpenAI Codex.",
-    "id": "dayfinggg/openai-codex-agent-skills",
-    "language": "PowerShell",
-    "name": "dayfinggg/openai-codex-agent-skills",
-    "stars": 4,
-    "updated_at": "2026-08-31T16:30:04Z",
-    "url": "https://github.com/dayfinggg/openai-codex-agent-skills"
-  },
-  {
     "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
     "id": "Tubifix77/red-thread",
     "language": "Python",
@@ -72,13 +198,13 @@
     "url": "https://github.com/Tubifix77/red-thread"
   },
   {
-    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
-    "id": "leeex1/Quillan-Ronin",
-    "language": "HTML",
-    "name": "leeex1/Quillan-Ronin",
-    "stars": 27,
-    "updated_at": "2026-08-31T16:29:43Z",
-    "url": "https://github.com/leeex1/Quillan-Ronin"
+    "description": "Agent Skill for Codex that helps frontend developers deliver production-capable backend changes from product requests.",
+    "id": "xllily/front-not-end",
+    "language": "JavaScript",
+    "name": "xllily/front-not-end",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:21:32Z",
+    "url": "https://github.com/xllily/front-not-end"
   },
   {
     "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
@@ -108,24 +234,6 @@
     "url": "https://github.com/comprono/dont-x-smart-be-smart-skill"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-31T16:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Zero-GPU self-evolving harness for LLM agents. Evolve skills, prompts, and rules from real execution traces. Stdlib Pyth",
-    "id": "AkashPriyadarshii/sevolve",
-    "language": "Python",
-    "name": "AkashPriyadarshii/sevolve",
-    "stars": 0,
-    "updated_at": "2026-08-31T16:14:53Z",
-    "url": "https://github.com/AkashPriyadarshii/sevolve"
-  },
-  {
     "description": "CLI tool that reads files and directories and formats them as prompts for LLMs (XML for Claude, Markdown, etc.). Cross-p",
     "id": "truss44/files2prompt",
     "language": "TypeScript",
@@ -133,33 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T16:13:58Z",
     "url": "https://github.com/truss44/files2prompt"
-  },
-  {
-    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
-    "id": "Prysai/Prysai-LLM-Playbook",
-    "language": "Python",
-    "name": "Prysai/Prysai-LLM-Playbook",
-    "stars": 206,
-    "updated_at": "2026-08-31T16:13:23Z",
-    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-31T16:12:40Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21714,
-    "updated_at": "2026-08-31T16:27:12Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
@@ -270,15 +351,6 @@
     "url": "https://github.com/grigb/gas-prompt-library"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33979,
-    "updated_at": "2026-08-31T16:29:15Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Imprint: self-learning task handler for A3M Router - your AI bill should decay over time",
     "id": "Das-rebel/imprint",
     "language": "Python",
@@ -320,7 +392,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 10,
-    "updated_at": "2026-08-31T15:47:19Z",
+    "updated_at": "2026-08-31T16:44:31Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -374,79 +446,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11263,
-    "updated_at": "2026-08-31T16:29:10Z",
+    "updated_at": "2026-08-31T16:37:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\u2702\ufe0f Long-text splitter for AI prompts, doc editing & social posts \u2014 three modes, batch ZIP export \uff5c \u957f\u6587\u672c\u5206\u5272\u5668\uff0c\u4e09\u79cd\u6a21\u5f0f\uff08\u5b57\u7b26\u6570/\u5206\u9694\u7b26/\u4e2d",
-    "id": "rockbenben/text-splitter",
-    "language": "TypeScript",
-    "name": "rockbenben/text-splitter",
-    "stars": 1,
-    "updated_at": "2026-08-31T15:39:53Z",
-    "url": "https://github.com/rockbenben/text-splitter"
-  },
-  {
-    "description": "Agent skills that take their rules from your project's own docs and stop rather than guess. Claude Code, Codex, Gemini C",
-    "id": "404mw/MARWIX-SKILLS",
-    "language": "JavaScript",
-    "name": "404mw/MARWIX-SKILLS",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:39:24Z",
-    "url": "https://github.com/404mw/MARWIX-SKILLS"
-  },
-  {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 1,
-    "updated_at": "2026-08-31T15:39:06Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
-    "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-    "id": "majiayu000/spellbook",
-    "language": "Python",
-    "name": "majiayu000/spellbook",
-    "stars": 264,
-    "updated_at": "2026-08-31T15:38:47Z",
-    "url": "https://github.com/majiayu000/spellbook"
-  },
-  {
-    "description": "Free, structured training on using Claude AI effectively \u2014 prompting, workflows and responsible use, entry level to mast",
-    "id": "SIGILIPELLI/claude-training-mastery-path",
-    "language": "\u2014",
-    "name": "SIGILIPELLI/claude-training-mastery-path",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:37:19Z",
-    "url": "https://github.com/SIGILIPELLI/claude-training-mastery-path"
-  },
-  {
-    "description": "Human-first Codex skill for believable dialogue, dramatic scenes, purposeful storyboards, and video-model prompts.",
-    "id": "niuyupeng/role2reel",
-    "language": "Python",
-    "name": "niuyupeng/role2reel",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:36:10Z",
-    "url": "https://github.com/niuyupeng/role2reel"
-  },
-  {
-    "description": "Agent-ready production system for serialized AI comic dramas: story bibles, scripts, storyboards, character continuity, ",
-    "id": "siyuan-liu31/agentic-comic-drama-studio",
-    "language": "Python",
-    "name": "siyuan-liu31/agentic-comic-drama-studio",
-    "stars": 1,
-    "updated_at": "2026-08-31T15:35:42Z",
-    "url": "https://github.com/siyuan-liu31/agentic-comic-drama-studio"
-  },
-  {
-    "description": " Interactive MERN-platform for learning context engineering \u2014 compare LLM outputs with/without structured prompts, bench",
-    "id": "HafizAhmadHassan/context-engineering-lab2-system-prompt",
-    "language": "JavaScript",
-    "name": "HafizAhmadHassan/context-engineering-lab2-system-prompt",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:33:54Z",
-    "url": "https://github.com/HafizAhmadHassan/context-engineering-lab2-system-prompt"
   }
 ]
