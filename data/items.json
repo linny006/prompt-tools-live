@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11263,
+    "updated_at": "2026-08-31T13:12:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "KoEDUGPT (edub.kr) \u2014 a conversational AI assistant for South Korea's college admissions process. Source maintained priva",
+    "id": "dusdnKR/koedugpt",
+    "language": "\u2014",
+    "name": "dusdnKR/koedugpt",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:06:19Z",
+    "url": "https://github.com/dusdnKR/koedugpt"
+  },
+  {
+    "description": "40 curated agent skills \u2014 plain SKILL.md files for building calm, native software and running AI coding agents well. Cla",
+    "id": "aka-kika/akakika-skills",
+    "language": "TypeScript",
+    "name": "aka-kika/akakika-skills",
+    "stars": 8,
+    "updated_at": "2026-08-31T13:05:44Z",
+    "url": "https://github.com/aka-kika/akakika-skills"
+  },
+  {
+    "description": "Structured, curated learning paths for AI, LLMs, and agents - 17 topics, 100+ vetted resources. Zero deps, zero signups.",
+    "id": "SahirVhora/ai-learning-hub",
+    "language": "JavaScript",
+    "name": "SahirVhora/ai-learning-hub",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:02:34Z",
+    "url": "https://github.com/SahirVhora/ai-learning-hub"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4394,
+    "updated_at": "2026-08-31T13:15:27Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5859,
+    "updated_at": "2026-08-31T13:01:14Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
+    "id": "grigb/gas-prompt-library",
+    "language": "Python",
+    "name": "grigb/gas-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-08-31T13:00:37Z",
+    "url": "https://github.com/grigb/gas-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-31T13:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "How AI Learned to Engineer: a 41-slide talk on the evolution of AI engineering, from chatbot to autonomy. Laravel Nagpur",
     "id": "bhushan/ai-harness-to-ai-agents-slides",
     "language": "HTML",
@@ -9,12 +81,21 @@
     "url": "https://github.com/bhushan/ai-harness-to-ai-agents-slides"
   },
   {
+    "description": "Communication toolkit for burnt-out humans and collaborative AI's",
+    "id": "giladbarnea/interaction",
+    "language": "Shell",
+    "name": "giladbarnea/interaction",
+    "stars": 0,
+    "updated_at": "2026-08-31T12:57:46Z",
+    "url": "https://github.com/giladbarnea/interaction"
+  },
+  {
     "description": "Write your AI coding setup once, run it in every tool. One source of truth \u2014 149 commands, 88 agents, 116 skills, 23 rol",
     "id": "adnanmokhtar/refract",
     "language": "Shell",
     "name": "adnanmokhtar/refract",
     "stars": 1,
-    "updated_at": "2026-08-31T12:55:38Z",
+    "updated_at": "2026-08-31T13:12:17Z",
     "url": "https://github.com/adnanmokhtar/refract"
   },
   {
@@ -41,7 +122,7 @@
     "language": "\u2014",
     "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
     "stars": 1,
-    "updated_at": "2026-08-31T12:52:23Z",
+    "updated_at": "2026-08-31T13:12:37Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
@@ -63,12 +144,21 @@
     "url": "https://github.com/Giveapinch/No-Bos"
   },
   {
+    "description": "Curated, unified monorepo of high-performance skills for Google Antigravity, Claude Code, Gemini CLI, and agentic AI cod",
+    "id": "ksprashu/agent-skill-forge",
+    "language": "Python",
+    "name": "ksprashu/agent-skill-forge",
+    "stars": 2,
+    "updated_at": "2026-08-31T12:50:21Z",
+    "url": "https://github.com/ksprashu/agent-skill-forge"
+  },
+  {
     "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
     "id": "Dangkoolwat/ai-learning-studio",
     "language": "Python",
     "name": "Dangkoolwat/ai-learning-studio",
     "stars": 0,
-    "updated_at": "2026-08-31T12:46:32Z",
+    "updated_at": "2026-08-31T13:12:56Z",
     "url": "https://github.com/Dangkoolwat/ai-learning-studio"
   },
   {
@@ -79,24 +169,6 @@
     "stars": 18,
     "updated_at": "2026-08-31T12:45:34Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-31T12:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5858,
-    "updated_at": "2026-08-31T12:44:39Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -157,7 +229,7 @@
     "id": "Nanako0129/sepia",
     "language": "\u2014",
     "name": "Nanako0129/sepia",
-    "stars": 1129,
+    "stars": 1135,
     "updated_at": "2026-08-31T12:36:41Z",
     "url": "https://github.com/Nanako0129/sepia"
   },
@@ -167,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3517,
-    "updated_at": "2026-08-31T12:56:01Z",
+    "updated_at": "2026-08-31T13:14:56Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,7 +275,7 @@
     "language": "Python",
     "name": "bitranox/bitranox-skills",
     "stars": 1,
-    "updated_at": "2026-08-31T13:00:19Z",
+    "updated_at": "2026-08-31T13:14:15Z",
     "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
@@ -220,18 +292,9 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 68162,
+    "stars": 68163,
     "updated_at": "2026-08-31T12:25:53Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Communication toolkit for burnt-out humans and collaborative AI's",
-    "id": "giladbarnea/interaction",
-    "language": "Shell",
-    "name": "giladbarnea/interaction",
-    "stars": 0,
-    "updated_at": "2026-08-31T12:57:46Z",
-    "url": "https://github.com/giladbarnea/interaction"
   },
   {
     "description": "Assignments and projects for the FlyRank General AI Fluency internship track.",
@@ -277,15 +340,6 @@
     "stars": 2355,
     "updated_at": "2026-08-31T12:21:22Z",
     "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4393,
-    "updated_at": "2026-08-31T12:52:20Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "Hands-on Generative AI engineering lab: RAG, prompt evals, safety, agents, and production patterns from scratch.",
@@ -347,7 +401,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33971,
-    "updated_at": "2026-08-31T12:58:33Z",
+    "updated_at": "2026-08-31T13:03:31Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-31T12:10:44Z",
     "url": "https://github.com/nohn3043-arch/Anthropomorphic-Agent-Engine"
-  },
-  {
-    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
-    "id": "elie222/botdirectory.ai",
-    "language": "Astro",
-    "name": "elie222/botdirectory.ai",
-    "stars": 154,
-    "updated_at": "2026-08-31T12:10:32Z",
-    "url": "https://github.com/elie222/botdirectory.ai"
-  },
-  {
-    "description": "A full-stack AI engineering playbook \u2014 infrastructure, model lifecycle, agents, MCP, memory, evaluation, and production ",
-    "id": "Eric-LLMs/awesome-ai-engineering",
-    "language": "\u2014",
-    "name": "Eric-LLMs/awesome-ai-engineering",
-    "stars": 14,
-    "updated_at": "2026-08-31T12:10:16Z",
-    "url": "https://github.com/Eric-LLMs/awesome-ai-engineering"
-  },
-  {
-    "description": "8 production-ready Claude skills for Claude Code and claude.ai: six document generators and a documentation-lifecycle to",
-    "id": "StefanoZaghi1987/ClaudeSkills",
-    "language": "Python",
-    "name": "StefanoZaghi1987/ClaudeSkills",
-    "stars": 1,
-    "updated_at": "2026-08-31T12:46:50Z",
-    "url": "https://github.com/StefanoZaghi1987/ClaudeSkills"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
-    "id": "astorie-ai/awesome-seedance-2-prompt",
-    "language": "Shell",
-    "name": "astorie-ai/awesome-seedance-2-prompt",
-    "stars": 13,
-    "updated_at": "2026-08-31T12:07:56Z",
-    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 1,
-    "updated_at": "2026-08-31T12:07:21Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27748,
-    "updated_at": "2026-08-31T12:54:03Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
