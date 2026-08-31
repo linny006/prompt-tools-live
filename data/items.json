@@ -1,5 +1,104 @@
 [
   {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-31T06:12:37Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Canonical source for a cross-editor agent operating system built on the GOTCHA framework. Includes crypto/web3/Solana sk",
+    "id": "subkoks/agents-md",
+    "language": "Shell",
+    "name": "subkoks/agents-md",
+    "stars": 1,
+    "updated_at": "2026-08-31T06:12:11Z",
+    "url": "https://github.com/subkoks/agents-md"
+  },
+  {
+    "description": "Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups), preserves code/UR",
+    "id": "MohamedAbdallah-14/unslop",
+    "language": "Python",
+    "name": "MohamedAbdallah-14/unslop",
+    "stars": 121,
+    "updated_at": "2026-08-31T06:11:29Z",
+    "url": "https://github.com/MohamedAbdallah-14/unslop"
+  },
+  {
+    "description": "Hospital-oriented multi-agent MDT consultation platform: red-flag triage, CHA2DS2-VASc/Wells/CURB-65 scoring, lab refere",
+    "id": "Morningstar202604/medconsult",
+    "language": "Python",
+    "name": "Morningstar202604/medconsult",
+    "stars": 0,
+    "updated_at": "2026-08-31T06:10:28Z",
+    "url": "https://github.com/Morningstar202604/medconsult"
+  },
+  {
+    "description": "Keep finished deliverables limited to what their intended users need.",
+    "id": "Ljhhhhhh/user-facing-only-skill",
+    "language": "Python",
+    "name": "Ljhhhhhh/user-facing-only-skill",
+    "stars": 2,
+    "updated_at": "2026-08-31T06:08:54Z",
+    "url": "https://github.com/Ljhhhhhh/user-facing-only-skill"
+  },
+  {
+    "description": "Curated Agent Skills scene-packs for AI tools: content publishing across 18 Chinese platforms, AI media generation (vide",
+    "id": "Morningstar202604/awesome-skillkit",
+    "language": "Python",
+    "name": "Morningstar202604/awesome-skillkit",
+    "stars": 1,
+    "updated_at": "2026-08-31T06:14:28Z",
+    "url": "https://github.com/Morningstar202604/awesome-skillkit"
+  },
+  {
+    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
+    "id": "aidyou/chatspeed",
+    "language": "Rust",
+    "name": "aidyou/chatspeed",
+    "stars": 21,
+    "updated_at": "2026-08-31T06:08:31Z",
+    "url": "https://github.com/aidyou/chatspeed"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 18,
+    "updated_at": "2026-08-31T06:12:20Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "A persistent, observable, and collaborative memory infrastructure",
+    "id": "lilhammerfun/clumsies",
+    "language": "Rust",
+    "name": "lilhammerfun/clumsies",
+    "stars": 17,
+    "updated_at": "2026-08-31T06:08:14Z",
+    "url": "https://github.com/lilhammerfun/clumsies"
+  },
+  {
+    "description": "Codebase Q&A with (path:line) citations \u2014 the capstone of a from-scratch AI-engineering series. Built in 8 eval-gated st",
+    "id": "alexvervloet/deep-dive-capstone",
+    "language": "Python",
+    "name": "alexvervloet/deep-dive-capstone",
+    "stars": 1,
+    "updated_at": "2026-08-31T06:05:45Z",
+    "url": "https://github.com/alexvervloet/deep-dive-capstone"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-31T06:05:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Hypertaks = \"A founder who owns a library of more than 1,400 books, knows exactly which book to consult for this issue, ",
     "id": "aabrur/hypertaks-agent",
     "language": "JavaScript",
@@ -9,22 +108,13 @@
     "url": "https://github.com/aabrur/hypertaks-agent"
   },
   {
-    "description": "Curated Agent Skills scene-packs for AI tools: content publishing across 18 Chinese platforms, AI media generation (vide",
-    "id": "Morningstar202604/awesome-skillkit",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "Morningstar202604/awesome-skillkit",
-    "stars": 1,
-    "updated_at": "2026-08-31T06:03:21Z",
-    "url": "https://github.com/Morningstar202604/awesome-skillkit"
-  },
-  {
-    "description": "Hospital-oriented multi-agent MDT consultation platform: red-flag triage, CHA2DS2-VASc/Wells/CURB-65 scoring, lab refere",
-    "id": "Morningstar202604/medconsult",
-    "language": "Python",
-    "name": "Morningstar202604/medconsult",
-    "stars": 0,
-    "updated_at": "2026-08-31T06:05:06Z",
-    "url": "https://github.com/Morningstar202604/medconsult"
+    "name": "mlflow/mlflow",
+    "stars": 27742,
+    "updated_at": "2026-08-31T06:14:58Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
@@ -43,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T06:01:16Z",
     "url": "https://github.com/jackpwill/discogs-advisor"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-31T06:00:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -108,15 +189,6 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 18,
-    "updated_at": "2026-08-31T06:04:52Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
     "description": "\u9762\u5411\u7535\u5546\u89c6\u89c9\u751f\u4ea7\u7684 Agent \u6280\u80fd\u5e93\uff1a26 \u4e2a\u53ef\u7ec4\u5408\u7684 skill.md\uff0c\u8986\u76d6\u5e73\u94fa\u56fe \u2192 \u6a21\u7279\u4e0a\u8eab \u2192 \u88c2\u53d8\u5957\u56fe \u2192 \u8be6\u60c5\u9875 \u2192 \u4e3b\u56fe\u89c6\u9891 \u2192 \u6295\u524d\u8d28\u68c0 \u2192 \u5e73\u53f0\u5408\u89c4\u6821\u9a8c\u3002\u4e0d\u9501\u540e\u7aef\uff0cdLazy / OpenAI / Gemini / fa",
     "id": "dlazy-ai/ecommerce-skills",
     "language": "JavaScript",
@@ -124,24 +196,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T05:56:52Z",
     "url": "https://github.com/dlazy-ai/ecommerce-skills"
-  },
-  {
-    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
-    "id": "aidyou/chatspeed",
-    "language": "Rust",
-    "name": "aidyou/chatspeed",
-    "stars": 21,
-    "updated_at": "2026-08-31T05:56:35Z",
-    "url": "https://github.com/aidyou/chatspeed"
-  },
-  {
-    "description": "Codebase Q&A with (path:line) citations \u2014 the capstone of a from-scratch AI-engineering series. Built in 8 eval-gated st",
-    "id": "alexvervloet/deep-dive-capstone",
-    "language": "Python",
-    "name": "alexvervloet/deep-dive-capstone",
-    "stars": 1,
-    "updated_at": "2026-08-31T05:53:49Z",
-    "url": "https://github.com/alexvervloet/deep-dive-capstone"
   },
   {
     "description": "Retrospect your AI usage ",
@@ -153,15 +207,6 @@
     "url": "https://github.com/sajjadGG/retro"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-31T05:52:06Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "Multi-agent AI writing system for Chinese web novels with platform-specific knowledge bases and commercial storytelling ",
     "id": "TianHengZhuang/Chinese-WebNovel-Master",
     "language": "\u2014",
@@ -171,12 +216,21 @@
     "url": "https://github.com/TianHengZhuang/Chinese-WebNovel-Master"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 33958,
+    "updated_at": "2026-08-31T05:51:01Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
     "stars": 6535,
-    "updated_at": "2026-08-31T05:49:04Z",
+    "updated_at": "2026-08-31T06:07:33Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
@@ -225,15 +279,6 @@
     "url": "https://github.com/SRCarlo/genai-course"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33957,
-    "updated_at": "2026-08-31T05:51:01Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
     "id": "mrwogu/promptscript",
     "language": "TypeScript",
@@ -275,7 +320,7 @@
     "language": "HTML",
     "name": "gordonlu/awesome-minimax-h3-skills",
     "stars": 1,
-    "updated_at": "2026-08-31T05:29:51Z",
+    "updated_at": "2026-08-31T06:14:29Z",
     "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
   },
   {
@@ -342,15 +387,6 @@
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27741,
-    "updated_at": "2026-08-31T06:02:43Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "A sleek, lightweight Chrome extension that adds fluid, customizable quick-reply buttons (e.g. Yes / No / Continue / A-E ",
     "id": "QAInsights/prompticon",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-31T04:59:25Z",
     "url": "https://github.com/naticorrea-03/claude-code-skills"
-  },
-  {
-    "description": "LLM-Driven Extraction of Unstructured Data \u2014 Built for API Deployments & ETL Pipeline Workflows",
-    "id": "Zipstack/unstract",
-    "language": "Python",
-    "name": "Zipstack/unstract",
-    "stars": 7182,
-    "updated_at": "2026-08-31T05:48:31Z",
-    "url": "https://github.com/Zipstack/unstract"
-  },
-  {
-    "description": "Creative Writing and General Conversation System Prompt for LLM",
-    "id": "baros4294/system_prompt",
-    "language": "\u2014",
-    "name": "baros4294/system_prompt",
-    "stars": 1,
-    "updated_at": "2026-08-31T04:58:55Z",
-    "url": "https://github.com/baros4294/system_prompt"
-  },
-  {
-    "description": "Open-source Taiwan-law research framework for citation grounding, safety routing, and multi-model legal AI evaluation.",
-    "id": "Lucien-1127/zhiyan-legal",
-    "language": "Python",
-    "name": "Lucien-1127/zhiyan-legal",
-    "stars": 1,
-    "updated_at": "2026-08-31T04:58:49Z",
-    "url": "https://github.com/Lucien-1127/zhiyan-legal"
-  },
-  {
-    "description": "AI-writing humanizer for KO/EN/ZH/JA",
-    "id": "devswha/patina",
-    "language": "JavaScript",
-    "name": "devswha/patina",
-    "stars": 329,
-    "updated_at": "2026-08-31T04:58:32Z",
-    "url": "https://github.com/devswha/patina"
   }
 ]
