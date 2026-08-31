@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-31 00:45 UTC
+> ⏰ Last updated: 2026-08-31 01:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Tubifix77/red-thread](https://github.com/Tubifix77/red-thread) | 0 | Python | 2026-08-31 | Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b |
-| 2 | [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) | 2351 | Shell | 2026-08-31 | The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us |
-| 3 | [assafkip/voice-loop](https://github.com/assafkip/voice-loop) | 5 | Python | 2026-08-31 | Make AI write in your voice without fine-tuning. Local-first style fingerprint + deterministic gates + a corrections loo |
-| 4 | [tubasa821004-hash/social-manipulation-radar](https://github.com/tubasa821004-hash/social-manipulation-radar) | 1 | HTML | 2026-08-31 | AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics |
-| 5 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | 263 | Python | 2026-08-31 | Cross-runtime skills for Claude Code, Codex, and multi-agent workflows. |
-| 6 | [api-evangelist/wordware](https://github.com/api-evangelist/wordware) | 0 | — | 2026-08-31 | Wordware — independent third-party profile of a public API surface, by API Evangelist. Wordware is a San Francisco AI co |
-| 7 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-08-31 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 8 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-08-31 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 9 | [Kimhyuntae9665/codex-skill-ai-agent-career-radar](https://github.com/Kimhyuntae9665/codex-skill-ai-agent-career-radar) | 0 | Python | 2026-08-31 | AI Agent 중심 한국 채용을 딥서치하고 코딩테스트·자소서·포트폴리오를 검증하는 Codex Skill |
-| 10 | [truss44/files2prompt](https://github.com/truss44/files2prompt) | 0 | TypeScript | 2026-08-31 | CLI tool that reads files and directories and formats them as prompts for LLMs (XML for Claude, Markdown, etc.). Cross-p |
-| 11 | [api-evangelist/vellum](https://github.com/api-evangelist/vellum) | 2 | — | 2026-08-31 | Vellum AI — independent third-party profile of a public API surface, by API Evangelist. Vellum AI is an LLM development  |
-| 12 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-31 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
-| 13 | [api-evangelist/taste](https://github.com/api-evangelist/taste) | 0 | — | 2026-08-31 | Taste — independent third-party profile of a public API surface, by API Evangelist. Taste Labs is a San Francisco resear |
-| 14 | [astorie-ai/awesome-seedance-2-prompt](https://github.com/astorie-ai/awesome-seedance-2-prompt) | 13 | Shell | 2026-08-31 | Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art. |
-| 15 | [Prysai/Prysai-LLM-Playbook](https://github.com/Prysai/Prysai-LLM-Playbook) | 192 | Python | 2026-08-31 | An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla |
-| 16 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 61 | Shell | 2026-08-31 | Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se |
-| 17 | [agungkesmas/recallfox](https://github.com/agungkesmas/recallfox) | 0 | JavaScript | 2026-08-31 | Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho |
-| 18 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-31 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
-| 19 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 1 | HTML | 2026-08-31 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 20 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 13311 | TypeScript | 2026-08-31 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
-| 21 | [teguhimanulloh47/pirate-talk-for-claude](https://github.com/teguhimanulloh47/pirate-talk-for-claude) | 1 | HTML | 2026-08-31 | Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub |
-| 22 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21698 | Python | 2026-08-31 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 23 | [Kenny27lokku/prompt-integrity-validator](https://github.com/Kenny27lokku/prompt-integrity-validator) | 2 | HTML | 2026-08-31 | Lint Your Prompts, Ship Better Agents – Prompt Refiner 2026 Rule Engine |
-| 24 | [Liplus-Project/liplus-language](https://github.com/Liplus-Project/liplus-language) | 1 | Python | 2026-08-31 | Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut |
-| 25 | [api-evangelist/promptlayer](https://github.com/api-evangelist/promptlayer) | 0 | — | 2026-08-31 | PromptLayer — independent third-party profile of a public API surface, by API Evangelist. PromptLayer is a prompt engine |
-| 26 | [api-evangelist/prompt-md](https://github.com/api-evangelist/prompt-md) | 0 | — | 2026-08-31 | .Prompt.md — independent third-party profile of a public API surface, by API Evangelist. Reusable prompt template files  |
-| 27 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 1 | HTML | 2026-08-31 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
-| 28 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 2 | HTML | 2026-08-31 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
-| 29 | [kodancrash-oss/prompt-weaver-framework](https://github.com/kodancrash-oss/prompt-weaver-framework) | 1 | HTML | 2026-08-31 | Best Free Prompt Architect AI 2026 – Build Production Prompts with Claude's Interview Framework |
-| 30 | [tech-guru254/spec-weaver](https://github.com/tech-guru254/spec-weaver) | 1 | HTML | 2026-08-31 | Top AI Prompt Optimizer 2026 – Transform Vague Requests Into Structured Dev Specs |
-| 31 | [toolkitaiprompt-ui/AI-Prompt-Toolkit](https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit) | 1 | TypeScript | 2026-08-31 | 🚀 AI Prompt Toolkit — 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida |
-| 32 | [geniusdapeng-collab/panda-cineforge](https://github.com/geniusdapeng-collab/panda-cineforge) | 0 | TypeScript | 2026-08-31 | The world's first skill-forging engine built for AI Agents in film & video production. 全球首个面向 AI Agent 的影视创作技能生成引擎。 |
-| 33 | [Champ-X/DeepPrompt](https://github.com/Champ-X/DeepPrompt) | 0 | HTML | 2026-08-31 | Source-grounded Agent system prompt archive with verbatim snapshots, deep annotations, and cross-agent design analysis. |
-| 34 | [Faudzan10/outline-driven-starter-kit](https://github.com/Faudzan10/outline-driven-starter-kit) | 1 | HTML | 2026-08-31 | One-Click AI Dev Environment Setup 2026 – Outline-Driven CLI Instant Init |
-| 35 | [api-evangelist/phoenix](https://github.com/api-evangelist/phoenix) | 0 | — | 2026-08-31 | Arize Phoenix — independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou |
-| 36 | [edsondviana8/ai-humanizer-core](https://github.com/edsondviana8/ai-humanizer-core) | 1 | HTML | 2026-08-31 | Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clichés |
-| 37 | [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) | 149 | Astro | 2026-08-31 | Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai |
-| 38 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-31 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 39 | [Ian-Lo/application-doc-toolkit](https://github.com/Ian-Lo/application-doc-toolkit) | 0 | Python | 2026-08-30 | Fact-governance for LLM-written documents: claims trace to a verified source entry, a scripted lint gates every draft, r |
-| 40 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 6523 | Python | 2026-08-30 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura |
-| 41 | [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault) | 136 | HTML | 2026-08-30 | Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks |
-| 42 | [colinalexander/super-skills](https://github.com/colinalexander/super-skills) | 0 | Python | 2026-08-30 | Research and implementation pipeline for independently synthesized agent super-skills |
-| 43 | [yexi-by/dsh-unrestricted](https://github.com/yexi-by/dsh-unrestricted) | 10 | JavaScript | 2026-08-30 | DeepSeek Harness Web 可开关破限提示词插件，支持多模式、子代理和锚点兼容检查。 |
-| 44 | [Guille512/motor-evolutivo](https://github.com/Guille512/motor-evolutivo) | 0 | JavaScript | 2026-08-30 | GEPA-style, human-in-the-loop protocol for self-improving LLM prompts. Markdown-only, no code, no datasets — runs inside |
-| 45 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-30 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
-| 46 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-08-30 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
-| 47 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 5 | HTML | 2026-08-30 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
-| 48 | [imhamzakhan/context-flow-compressor](https://github.com/imhamzakhan/context-flow-compressor) | 0 | HTML | 2026-08-30 | Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90% |
-| 49 | [api-evangelist/klu-ai](https://github.com/api-evangelist/klu-ai) | 0 | — | 2026-08-30 | Klu — independent third-party profile of a public API surface, by API Evangelist. Klu (klu.ai) is an LLM app platform fo |
-| 50 | [wretcher207/dead-pixel-skills](https://github.com/wretcher207/dead-pixel-skills) | 0 | Shell | 2026-08-30 | Reusable agent skills from Dead Pixel Design, starting with an agent-agnostic Codex prompt compiler. |
+| 1 | [fsrmqi/dsh-promptkit](https://github.com/fsrmqi/dsh-promptkit) | 1 | JavaScript | 2026-08-31 | Prompt building & enhancement toolkit for DeepSeek Harness: Studio + QuickEnhancer. 开源的 Prompt 构建与增强工具包。 |
+| 2 | [Tubifix77/red-thread](https://github.com/Tubifix77/red-thread) | 0 | Python | 2026-08-31 | Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b |
+| 3 | [ford442/weeks_on_fire](https://github.com/ford442/weeks_on_fire) | 1 | TypeScript | 2026-08-31 | AI short-film series: Grok Imagine visuals + Minimax Music cutaways. Open production hub with prompts, screenplays, and  |
+| 4 | [mizzlelover/portrait-prompt-atlas](https://github.com/mizzlelover/portrait-prompt-atlas) | 5 | JavaScript | 2026-08-31 | A searchable GPT Image 2 portrait-prompt atlas organized by outcome and scenario. Maintained by @dboy_yi2025 on X. |
+| 5 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-08-31 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
+| 6 | [lunamoth7533/ctxhub](https://github.com/lunamoth7533/ctxhub) | 0 | Python | 2026-08-31 | Context & prompt toolkit for coding agents: assembler, linter, prompt library, session archaeologist, plus a native macO |
+| 7 | [geniusdapeng-collab/panda-cineforge](https://github.com/geniusdapeng-collab/panda-cineforge) | 0 | TypeScript | 2026-08-31 | The world's first skill-forging engine built for AI Agents in film & video production. 全球首个面向 AI Agent 的影视创作技能生成引擎。 |
+| 8 | [smsheik1/wiggly](https://github.com/smsheik1/wiggly) | 1 | TypeScript | 2026-08-31 | npm for generative video. Runnable creative formats for image, video, and audio. |
+| 9 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-08-31 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
+| 10 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27740 | Python | 2026-08-31 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 11 | [jt14den/agentic-research-workflows](https://github.com/jt14den/agentic-research-workflows) | 2 | Python | 2026-08-31 | This lesson introduces researchers to Agentic Research Workflows: using AI coding agents in the terminal while keeping t |
+| 12 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 890 | Swift | 2026-08-31 | Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. |
+| 13 | [PablitoPJ/drifter-blueprint-vault](https://github.com/PablitoPJ/drifter-blueprint-vault) | 1 | HTML | 2026-08-31 | Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI |
+| 14 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2277 | JavaScript | 2026-08-31 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 15 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-08-31 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 16 | [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) | 2351 | Shell | 2026-08-31 | The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us |
+| 17 | [assafkip/voice-loop](https://github.com/assafkip/voice-loop) | 5 | Python | 2026-08-31 | Make AI write in your voice without fine-tuning. Local-first style fingerprint + deterministic gates + a corrections loo |
+| 18 | [tubasa821004-hash/social-manipulation-radar](https://github.com/tubasa821004-hash/social-manipulation-radar) | 1 | HTML | 2026-08-31 | AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics |
+| 19 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | 263 | Python | 2026-08-31 | Cross-runtime skills for Claude Code, Codex, and multi-agent workflows. |
+| 20 | [api-evangelist/wordware](https://github.com/api-evangelist/wordware) | 0 | — | 2026-08-31 | Wordware — independent third-party profile of a public API surface, by API Evangelist. Wordware is a San Francisco AI co |
+| 21 | [Kimhyuntae9665/codex-skill-ai-agent-career-radar](https://github.com/Kimhyuntae9665/codex-skill-ai-agent-career-radar) | 0 | Python | 2026-08-31 | AI Agent 중심 한국 채용을 딥서치하고 코딩테스트·자소서·포트폴리오를 검증하는 Codex Skill |
+| 22 | [truss44/files2prompt](https://github.com/truss44/files2prompt) | 0 | TypeScript | 2026-08-31 | CLI tool that reads files and directories and formats them as prompts for LLMs (XML for Claude, Markdown, etc.). Cross-p |
+| 23 | [api-evangelist/vellum](https://github.com/api-evangelist/vellum) | 2 | — | 2026-08-31 | Vellum AI — independent third-party profile of a public API surface, by API Evangelist. Vellum AI is an LLM development  |
+| 24 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21699 | Python | 2026-08-31 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 25 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-31 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
+| 26 | [api-evangelist/taste](https://github.com/api-evangelist/taste) | 0 | — | 2026-08-31 | Taste — independent third-party profile of a public API surface, by API Evangelist. Taste Labs is a San Francisco resear |
+| 27 | [astorie-ai/awesome-seedance-2-prompt](https://github.com/astorie-ai/awesome-seedance-2-prompt) | 13 | Shell | 2026-08-31 | Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art. |
+| 28 | [Prysai/Prysai-LLM-Playbook](https://github.com/Prysai/Prysai-LLM-Playbook) | 192 | Python | 2026-08-31 | An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla |
+| 29 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 61 | Shell | 2026-08-31 | Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se |
+| 30 | [agungkesmas/recallfox](https://github.com/agungkesmas/recallfox) | 0 | JavaScript | 2026-08-31 | Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho |
+| 31 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-08-31 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 32 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 1 | HTML | 2026-08-31 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 33 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 13311 | TypeScript | 2026-08-31 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
+| 34 | [teguhimanulloh47/pirate-talk-for-claude](https://github.com/teguhimanulloh47/pirate-talk-for-claude) | 1 | HTML | 2026-08-31 | Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub |
+| 35 | [Kenny27lokku/prompt-integrity-validator](https://github.com/Kenny27lokku/prompt-integrity-validator) | 2 | HTML | 2026-08-31 | Lint Your Prompts, Ship Better Agents – Prompt Refiner 2026 Rule Engine |
+| 36 | [Liplus-Project/liplus-language](https://github.com/Liplus-Project/liplus-language) | 1 | Python | 2026-08-31 | Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut |
+| 37 | [api-evangelist/promptlayer](https://github.com/api-evangelist/promptlayer) | 0 | — | 2026-08-31 | PromptLayer — independent third-party profile of a public API surface, by API Evangelist. PromptLayer is a prompt engine |
+| 38 | [api-evangelist/prompt-md](https://github.com/api-evangelist/prompt-md) | 0 | — | 2026-08-31 | .Prompt.md — independent third-party profile of a public API surface, by API Evangelist. Reusable prompt template files  |
+| 39 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 1 | HTML | 2026-08-31 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
+| 40 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 2 | HTML | 2026-08-31 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
+| 41 | [kodancrash-oss/prompt-weaver-framework](https://github.com/kodancrash-oss/prompt-weaver-framework) | 1 | HTML | 2026-08-31 | Best Free Prompt Architect AI 2026 – Build Production Prompts with Claude's Interview Framework |
+| 42 | [tech-guru254/spec-weaver](https://github.com/tech-guru254/spec-weaver) | 1 | HTML | 2026-08-31 | Top AI Prompt Optimizer 2026 – Transform Vague Requests Into Structured Dev Specs |
+| 43 | [toolkitaiprompt-ui/AI-Prompt-Toolkit](https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit) | 1 | TypeScript | 2026-08-31 | 🚀 AI Prompt Toolkit — 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida |
+| 44 | [Champ-X/DeepPrompt](https://github.com/Champ-X/DeepPrompt) | 0 | HTML | 2026-08-31 | Source-grounded Agent system prompt archive with verbatim snapshots, deep annotations, and cross-agent design analysis. |
+| 45 | [Faudzan10/outline-driven-starter-kit](https://github.com/Faudzan10/outline-driven-starter-kit) | 1 | HTML | 2026-08-31 | One-Click AI Dev Environment Setup 2026 – Outline-Driven CLI Instant Init |
+| 46 | [api-evangelist/phoenix](https://github.com/api-evangelist/phoenix) | 0 | — | 2026-08-31 | Arize Phoenix — independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou |
+| 47 | [edsondviana8/ai-humanizer-core](https://github.com/edsondviana8/ai-humanizer-core) | 1 | HTML | 2026-08-31 | Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clichés |
+| 48 | [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) | 150 | Astro | 2026-08-31 | Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai |
+| 49 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 2 | HTML | 2026-08-31 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 50 | [Ian-Lo/application-doc-toolkit](https://github.com/Ian-Lo/application-doc-toolkit) | 0 | Python | 2026-08-30 | Fact-governance for LLM-written documents: claims trace to a verified source entry, a scripted lint gates every draft, r |
 <!-- TRACKER_TABLE_END -->
 
 ---
