@@ -1,11 +1,119 @@
 [
   {
+    "description": "A Codex skill that preserves project intent, survives context compaction, stops repeated failures, and verifies real out",
+    "id": "comprono/dont-x-smart-be-smart-skill",
+    "language": "Python",
+    "name": "comprono/dont-x-smart-be-smart-skill",
+    "stars": 1,
+    "updated_at": "2026-08-31T16:13:20Z",
+    "url": "https://github.com/comprono/dont-x-smart-be-smart-skill"
+  },
+  {
+    "description": "Zero-GPU self-evolving harness for LLM agents. Evolve skills, prompts, and rules from real execution traces. Stdlib Pyth",
+    "id": "AkashPriyadarshii/sevolve",
+    "language": "Python",
+    "name": "AkashPriyadarshii/sevolve",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:14:53Z",
+    "url": "https://github.com/AkashPriyadarshii/sevolve"
+  },
+  {
+    "description": "Aftermarket system prompts for AI coding agents \u2014 recover a model's working style on a base model (Bun CLI).",
+    "id": "Trosfy/aip",
+    "language": "TypeScript",
+    "name": "Trosfy/aip",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:06:54Z",
+    "url": "https://github.com/Trosfy/aip"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13320,
+    "updated_at": "2026-08-31T16:04:24Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
+    "id": "Ntizar/MasterMind",
+    "language": "HTML",
+    "name": "Ntizar/MasterMind",
+    "stars": 2,
+    "updated_at": "2026-08-31T16:03:43Z",
+    "url": "https://github.com/Ntizar/MasterMind"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 30,
+    "updated_at": "2026-08-31T16:03:38Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
+    "id": "solo-vey/Ordo",
+    "language": "Python",
+    "name": "solo-vey/Ordo",
+    "stars": 1,
+    "updated_at": "2026-08-31T16:03:35Z",
+    "url": "https://github.com/solo-vey/Ordo"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 9,
+    "updated_at": "2026-08-31T16:15:21Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "Structural prompt diffs, provider adapters, policy gates, and SARIF reporting",
+    "id": "appleweiping/promptwitness",
+    "language": "Python",
+    "name": "appleweiping/promptwitness",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:01:25Z",
+    "url": "https://github.com/appleweiping/promptwitness"
+  },
+  {
+    "description": "Local Claude Code HTTP traffic inspector with a desktop GUI and agent API. Capture prompts, tools, SSE, errors, and toke",
+    "id": "FuHehe12/cc-wire-analyzer",
+    "language": "Python",
+    "name": "FuHehe12/cc-wire-analyzer",
+    "stars": 3,
+    "updated_at": "2026-08-31T16:01:14Z",
+    "url": "https://github.com/FuHehe12/cc-wire-analyzer"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-08-31T16:09:51Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-31T16:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21713,
-    "updated_at": "2026-08-31T15:57:40Z",
+    "updated_at": "2026-08-31T16:11:34Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -36,13 +144,31 @@
     "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
   },
   {
-    "description": "Structural prompt diffs, provider adapters, policy gates, and SARIF reporting",
-    "id": "appleweiping/promptwitness",
-    "language": "Python",
-    "name": "appleweiping/promptwitness",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:47:30Z",
-    "url": "https://github.com/appleweiping/promptwitness"
+    "description": "Metis is a coding agent that boosts AI/LLM coding performance by 50%",
+    "id": "Wholiver/metis",
+    "language": "TypeScript",
+    "name": "Wholiver/metis",
+    "stars": 119,
+    "updated_at": "2026-08-31T15:53:19Z",
+    "url": "https://github.com/Wholiver/metis"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-31T16:12:40Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 10,
+    "updated_at": "2026-08-31T15:47:19Z",
+    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "Evidence-gated removal of context instructions for Amplifier. Every context system can ADD instructions; almost none can",
@@ -54,15 +180,6 @@
     "url": "https://github.com/michaeljabbour/amplifier-bundle-preceptor"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-31T15:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Give your LLM characters secrets they can actually keep \u2014 emotional state, Big Five personality, and two-tier secrets th",
     "id": "Kimerao0/llm-character",
     "language": "TypeScript",
@@ -70,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T15:45:19Z",
     "url": "https://github.com/Kimerao0/llm-character"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-08-31T15:55:57Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
   },
   {
     "description": "Local-first prompt library and version-control system for AI prompts (Desktop App, CLI, MCP Server, and AI execution eng",
@@ -115,6 +223,15 @@
     "stars": 11263,
     "updated_at": "2026-08-31T15:58:17Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\u2702\ufe0f Long-text splitter for AI prompts, doc editing & social posts \u2014 three modes, batch ZIP export \uff5c \u957f\u6587\u672c\u5206\u5272\u5668\uff0c\u4e09\u79cd\u6a21\u5f0f\uff08\u5b57\u7b26\u6570/\u5206\u9694\u7b26/\u4e2d",
+    "id": "rockbenben/text-splitter",
+    "language": "TypeScript",
+    "name": "rockbenben/text-splitter",
+    "stars": 1,
+    "updated_at": "2026-08-31T15:39:53Z",
+    "url": "https://github.com/rockbenben/text-splitter"
   },
   {
     "description": "Agent skills that take their rules from your project's own docs and stop rather than guess. Claude Code, Codex, Gemini C",
@@ -171,15 +288,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
-    "id": "AltairaLabs/PromptKit",
-    "language": "Go",
-    "name": "AltairaLabs/PromptKit",
-    "stars": 9,
-    "updated_at": "2026-08-31T15:45:18Z",
-    "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
     "description": " Interactive MERN-platform for learning context engineering \u2014 compare LLM outputs with/without structured prompts, bench",
     "id": "HafizAhmadHassan/context-engineering-lab2-system-prompt",
     "language": "JavaScript",
@@ -194,17 +302,8 @@
     "language": "Python",
     "name": "leeex1/Quillan-Ronin",
     "stars": 27,
-    "updated_at": "2026-08-31T15:32:33Z",
+    "updated_at": "2026-08-31T16:10:31Z",
     "url": "https://github.com/leeex1/Quillan-Ronin"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-31T15:52:23Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Context compression for LLM pipelines that proves nothing protected was lost before it emits, and refuses when it cannot",
@@ -234,7 +333,7 @@
     "url": "https://github.com/QundaiCai314/Dandelion"
   },
   {
-    "description": "15 battle-tested engineering skills for Claude Code \u2014 code review, testing, debugging, security, zero-downtime migration",
+    "description": "15 battle-tested engineering skills for Claude Code, Codex, Gemini CLI, Qwen Code, goose & crush \u2014 code review, testing,",
     "id": "Hahaknight/claude-skills-pro",
     "language": "\u2014",
     "name": "Hahaknight/claude-skills-pro",
@@ -283,7 +382,7 @@
     "id": "2akouwu/codex-cli-portable-setup-kit",
     "language": "Python",
     "name": "2akouwu/codex-cli-portable-setup-kit",
-    "stars": 8,
+    "stars": 10,
     "updated_at": "2026-08-31T15:19:12Z",
     "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit"
   },
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T15:13:50Z",
     "url": "https://github.com/shear559/prompt-engineering-info"
-  },
-  {
-    "description": "C\u00e9rebro central de diretrizes operacionais, regras de arquitetura e padr\u00f5es de c\u00f3digo para sincroniza\u00e7\u00e3o autom\u00e1tica com ",
-    "id": "JeffMr/diretrizes-ia",
-    "language": "HTML",
-    "name": "JeffMr/diretrizes-ia",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:12:49Z",
-    "url": "https://github.com/JeffMr/diretrizes-ia"
-  },
-  {
-    "description": "1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 from PRDs and postmortems to appealing a di",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "HTML",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1327,
-    "updated_at": "2026-08-31T15:11:27Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 1,
-    "updated_at": "2026-08-31T15:10:31Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
-  },
-  {
-    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravit",
-    "id": "saifullahseodeveloper/agents",
-    "language": "\u2014",
-    "name": "saifullahseodeveloper/agents",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:08:00Z",
-    "url": "https://github.com/saifullahseodeveloper/agents"
-  },
-  {
-    "description": "On-device prompt injection & jailbreak scanner for LLM apps: 22 deterministic rules across 8 attack categories score any",
-    "id": "pxlcrtiv/inject-scout",
-    "language": "Python",
-    "name": "pxlcrtiv/inject-scout",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:07:52Z",
-    "url": "https://github.com/pxlcrtiv/inject-scout"
-  },
-  {
-    "description": "APES 110-aligned and TPB Code guardrails for LLM-assisted Australian tax work. Not advice.",
-    "id": "ryanduguid/DrDebits",
-    "language": "Python",
-    "name": "ryanduguid/DrDebits",
-    "stars": 1,
-    "updated_at": "2026-08-31T15:07:24Z",
-    "url": "https://github.com/ryanduguid/DrDebits"
-  },
-  {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4396,
-    "updated_at": "2026-08-31T15:07:06Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "Automatic Prompt Optimization Framework",
-    "id": "CTLab-ITMO/CoolPrompt",
-    "language": "Python",
-    "name": "CTLab-ITMO/CoolPrompt",
-    "stars": 195,
-    "updated_at": "2026-08-31T15:06:35Z",
-    "url": "https://github.com/CTLab-ITMO/CoolPrompt"
-  },
-  {
-    "description": "The shortest complete answer: an agent skill",
-    "id": "agent-axiom/laconian",
-    "language": "Python",
-    "name": "agent-axiom/laconian",
-    "stars": 7,
-    "updated_at": "2026-08-31T15:05:19Z",
-    "url": "https://github.com/agent-axiom/laconian"
-  },
-  {
-    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
-    "id": "shortcuts/radin",
-    "language": "Shell",
-    "name": "shortcuts/radin",
-    "stars": 5,
-    "updated_at": "2026-08-31T15:02:25Z",
-    "url": "https://github.com/shortcuts/radin"
-  },
-  {
-    "description": "Creative Writing and General Conversation System Prompt for LLM",
-    "id": "baros4294/system_prompt",
-    "language": "\u2014",
-    "name": "baros4294/system_prompt",
-    "stars": 1,
-    "updated_at": "2026-08-31T15:01:46Z",
-    "url": "https://github.com/baros4294/system_prompt"
   }
 ]
