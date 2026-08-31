@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-31 00:30 UTC
+> ⏰ Last updated: 2026-08-31 00:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Kimhyuntae9665/codex-skill-ai-agent-career-radar](https://github.com/Kimhyuntae9665/codex-skill-ai-agent-career-radar) | 0 | Python | 2026-08-31 | AI Agent 중심 한국 채용을 딥서치하고 코딩테스트·자소서·포트폴리오를 검증하는 Codex Skill |
-| 2 | [truss44/files2prompt](https://github.com/truss44/files2prompt) | 0 | TypeScript | 2026-08-31 | CLI tool that reads files and directories and formats them as prompts for LLMs (XML for Claude, Markdown, etc.). Cross-p |
-| 3 | [api-evangelist/vellum](https://github.com/api-evangelist/vellum) | 2 | — | 2026-08-31 | Vellum AI — independent third-party profile of a public API surface, by API Evangelist. Vellum AI is an LLM development  |
-| 4 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-31 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
-| 5 | [Tubifix77/red-thread](https://github.com/Tubifix77/red-thread) | 0 | Python | 2026-08-31 | Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b |
-| 6 | [api-evangelist/taste](https://github.com/api-evangelist/taste) | 0 | — | 2026-08-31 | Taste — independent third-party profile of a public API surface, by API Evangelist. Taste Labs is a San Francisco resear |
-| 7 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-08-31 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-08-31 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [Kimhyuntae9665/codex-skill-ai-agent-career-radar](https://github.com/Kimhyuntae9665/codex-skill-ai-agent-career-radar) | 0 | Python | 2026-08-31 | AI Agent 중심 한국 채용을 딥서치하고 코딩테스트·자소서·포트폴리오를 검증하는 Codex Skill |
+| 3 | [truss44/files2prompt](https://github.com/truss44/files2prompt) | 0 | TypeScript | 2026-08-31 | CLI tool that reads files and directories and formats them as prompts for LLMs (XML for Claude, Markdown, etc.). Cross-p |
+| 4 | [api-evangelist/vellum](https://github.com/api-evangelist/vellum) | 2 | — | 2026-08-31 | Vellum AI — independent third-party profile of a public API surface, by API Evangelist. Vellum AI is an LLM development  |
+| 5 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-08-31 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
+| 6 | [Tubifix77/red-thread](https://github.com/Tubifix77/red-thread) | 0 | Python | 2026-08-31 | Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b |
+| 7 | [api-evangelist/taste](https://github.com/api-evangelist/taste) | 0 | — | 2026-08-31 | Taste — independent third-party profile of a public API surface, by API Evangelist. Taste Labs is a San Francisco resear |
 | 8 | [astorie-ai/awesome-seedance-2-prompt](https://github.com/astorie-ai/awesome-seedance-2-prompt) | 13 | Shell | 2026-08-31 | Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art. |
 | 9 | [Prysai/Prysai-LLM-Playbook](https://github.com/Prysai/Prysai-LLM-Playbook) | 192 | Python | 2026-08-31 | An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla |
 | 10 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 61 | Shell | 2026-08-31 | Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se |
