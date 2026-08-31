@@ -1,5 +1,68 @@
 [
   {
+    "description": "Hypertaks = \"A founder who owns a library of more than 1,400 books, knows exactly which book to consult for this issue, ",
+    "id": "aabrur/hypertaks-agent",
+    "language": "JavaScript",
+    "name": "aabrur/hypertaks-agent",
+    "stars": 15,
+    "updated_at": "2026-08-31T06:04:58Z",
+    "url": "https://github.com/aabrur/hypertaks-agent"
+  },
+  {
+    "description": "Curated Agent Skills scene-packs for AI tools: content publishing across 18 Chinese platforms, AI media generation (vide",
+    "id": "Morningstar202604/awesome-skillkit",
+    "language": "Python",
+    "name": "Morningstar202604/awesome-skillkit",
+    "stars": 1,
+    "updated_at": "2026-08-31T06:03:21Z",
+    "url": "https://github.com/Morningstar202604/awesome-skillkit"
+  },
+  {
+    "description": "Hospital-oriented multi-agent MDT consultation platform: red-flag triage, CHA2DS2-VASc/Wells/CURB-65 scoring, lab refere",
+    "id": "Morningstar202604/medconsult",
+    "language": "Python",
+    "name": "Morningstar202604/medconsult",
+    "stars": 0,
+    "updated_at": "2026-08-31T06:05:06Z",
+    "url": "https://github.com/Morningstar202604/medconsult"
+  },
+  {
+    "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
+    "id": "ftvision/agent-prompt-observatory",
+    "language": "Python",
+    "name": "ftvision/agent-prompt-observatory",
+    "stars": 2,
+    "updated_at": "2026-08-31T06:01:19Z",
+    "url": "https://github.com/ftvision/agent-prompt-observatory"
+  },
+  {
+    "description": "LLM-powered advisor for a Discogs record collection. Code computes every price statistic deterministically; Claude only ",
+    "id": "jackpwill/discogs-advisor",
+    "language": "Python",
+    "name": "jackpwill/discogs-advisor",
+    "stars": 0,
+    "updated_at": "2026-08-31T06:01:16Z",
+    "url": "https://github.com/jackpwill/discogs-advisor"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-31T06:00:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 10,
+    "updated_at": "2026-08-31T06:00:25Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
     "description": "AI marketing team for B2B SaaS: 75 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content, paid media, sponsor",
     "id": "shalintripathi/saas-marketing-agents",
     "language": "Markdown",
@@ -27,21 +90,12 @@
     "url": "https://github.com/ksprashu/agent-skill-forge"
   },
   {
-    "description": "LLM-powered advisor for a Discogs record collection. Code computes every price statistic deterministically; Claude only ",
-    "id": "jackpwill/discogs-advisor",
-    "language": "Python",
-    "name": "jackpwill/discogs-advisor",
-    "stars": 0,
-    "updated_at": "2026-08-31T05:58:01Z",
-    "url": "https://github.com/jackpwill/discogs-advisor"
-  },
-  {
     "description": "Twenty-three compact, vendor-neutral agent skills for engineering, research, communication, documents, experiments, and ",
     "id": "zznabil/lean-agent-skill-collection",
     "language": "PowerShell",
     "name": "zznabil/lean-agent-skill-collection",
     "stars": 0,
-    "updated_at": "2026-08-31T06:00:21Z",
+    "updated_at": "2026-08-31T06:04:47Z",
     "url": "https://github.com/zznabil/lean-agent-skill-collection"
   },
   {
@@ -59,7 +113,7 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 18,
-    "updated_at": "2026-08-31T05:57:19Z",
+    "updated_at": "2026-08-31T06:04:52Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -121,7 +175,7 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6534,
+    "stars": 6535,
     "updated_at": "2026-08-31T05:49:04Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -142,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T05:45:42Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-31T05:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27741,
-    "updated_at": "2026-08-31T05:54:01Z",
+    "updated_at": "2026-08-31T06:02:43Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 329,
     "updated_at": "2026-08-31T04:58:32Z",
     "url": "https://github.com/devswha/patina"
-  },
-  {
-    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
-    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1837,
-    "updated_at": "2026-08-31T04:54:51Z",
-    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 10,
-    "updated_at": "2026-08-31T06:00:25Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
-    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.1",
-    "language": "Python",
-    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.1",
-    "stars": 0,
-    "updated_at": "2026-08-31T04:52:14Z",
-    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.1"
-  },
-  {
-    "description": "Curated prompt engineering techniques and a reusable prompt catalog for LLM-driven development",
-    "id": "denis-samatov/prompts",
-    "language": "\u2014",
-    "name": "denis-samatov/prompts",
-    "stars": 0,
-    "updated_at": "2026-08-31T04:50:20Z",
-    "url": "https://github.com/denis-samatov/prompts"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 2110,
-    "updated_at": "2026-08-31T04:49:46Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
   }
 ]
