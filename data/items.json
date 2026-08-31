@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u628a Claude Code / Codex \u53d8\u6210\u4f60\u7684\u6570\u5b57\u5458\u5de5 \u2014 \u4e0a\u73ed\u65cf AI \u63d0\u6548\u6280\u80fd\u5305\uff08\u4e2d\u6587\uff09\uff1a6\u6280\u80fd+\u9632\u62a4Hooks+\u5de5\u4f5c\u6d41SOP",
+    "id": "Hahaknight/digital-employee-pack",
+    "language": "\u2014",
+    "name": "Hahaknight/digital-employee-pack",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:44:10Z",
+    "url": "https://github.com/Hahaknight/digital-employee-pack"
+  },
+  {
+    "description": "AI Agent Ops framework for Claude Code \u2014 independent evaluator, adversarial review, and pre-commit quality gate for AI-g",
+    "id": "TeamSPWK/nova",
+    "language": "Shell",
+    "name": "TeamSPWK/nova",
+    "stars": 2,
+    "updated_at": "2026-08-31T19:42:56Z",
+    "url": "https://github.com/TeamSPWK/nova"
+  },
+  {
+    "description": "Independent community library of reusable skills, hooks, and plugins for Claude Code.",
+    "id": "pgrzenko/claude-skills-and-hooks",
+    "language": "JavaScript",
+    "name": "pgrzenko/claude-skills-and-hooks",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:40:43Z",
+    "url": "https://github.com/pgrzenko/claude-skills-and-hooks"
+  },
+  {
+    "description": "vibestack is a portable skill pack for AI coding agents. Slash commands like /office-hours, /ship, /investigate, /tdd, /",
+    "id": "timurgaleev/vibestack",
+    "language": "TypeScript",
+    "name": "timurgaleev/vibestack",
+    "stars": 6,
+    "updated_at": "2026-08-31T19:38:57Z",
+    "url": "https://github.com/timurgaleev/vibestack"
+  },
+  {
+    "description": "Agent-first visual deliverable gateway for experts and PIs, spanning PPT decks and Xiaohongshu posts.",
+    "id": "gaofeng21cn/redcube-ai",
+    "language": "Python",
+    "name": "gaofeng21cn/redcube-ai",
+    "stars": 4,
+    "updated_at": "2026-08-31T19:38:23Z",
+    "url": "https://github.com/gaofeng21cn/redcube-ai"
+  },
+  {
+    "description": "Nine short files distilling writing-craft frameworks into operational guidance for an AI assistant",
+    "id": "donaldbrinkman/craft-files",
+    "language": "Python",
+    "name": "donaldbrinkman/craft-files",
+    "stars": 5,
+    "updated_at": "2026-08-31T19:38:01Z",
+    "url": "https://github.com/donaldbrinkman/craft-files"
+  },
+  {
+    "description": "Source-backed applied AI and technical-operations portfolio with deployed local-first tools, tests, CI, and verification",
+    "id": "atomicdjt/AI-Project-Portfolio",
+    "language": "JavaScript",
+    "name": "atomicdjt/AI-Project-Portfolio",
+    "stars": 1,
+    "updated_at": "2026-08-31T19:38:01Z",
+    "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-31T19:37:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
     "id": "cobusgreyling/loop-engineering",
     "language": "TypeScript",
@@ -7,6 +79,15 @@
     "stars": 10774,
     "updated_at": "2026-08-31T19:37:13Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
+    "id": "Prysai/Prysai-LLM-Playbook",
+    "language": "Python",
+    "name": "Prysai/Prysai-LLM-Playbook",
+    "stars": 209,
+    "updated_at": "2026-08-31T19:36:56Z",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
   },
   {
     "description": " Interactive MERN-platform for learning context engineering \u2014 compare LLM outputs with/without structured prompts, bench",
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11264,
-    "updated_at": "2026-08-31T19:37:24Z",
+    "updated_at": "2026-08-31T19:44:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -54,13 +135,13 @@
     "url": "https://github.com/GLMImage/awesome-glm-image-prompts"
   },
   {
-    "description": "Source-backed applied AI and technical-operations portfolio with deployed local-first tools, tests, CI, and verification",
-    "id": "atomicdjt/AI-Project-Portfolio",
-    "language": "JavaScript",
-    "name": "atomicdjt/AI-Project-Portfolio",
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
     "stars": 1,
-    "updated_at": "2026-08-31T19:35:42Z",
-    "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
+    "updated_at": "2026-08-31T19:32:19Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -86,17 +167,8 @@
     "language": "Go",
     "name": "AltairaLabs/PromptKit",
     "stars": 9,
-    "updated_at": "2026-08-31T19:30:48Z",
+    "updated_at": "2026-08-31T19:39:52Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-31T19:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Code\uc5d0 '15\uba85 \uc804\ubb38\uac00 \uad00\uc810 + \uc790\ub3d9 \ud2b8\ub9ac\uac70' AI \uac1c\ubc1c \ud30c\ud2b8\ub108 \ud398\ub974\uc18c\ub098\ub97c \uc785\ud788\ub294 \ud50c\ub7ec\uadf8\uc778. \ud56d\uc0c1\ucf1c\uc9d0 hook + \uc870\uac74\ubd80 skill + \uc778\ud130\ubdf0\ud615 \uc0dd\uc131/\ud3b8\uc9d1 \uba85\ub839\uc5b4, \uc138\ubb34\u00b7\ubc95\ub960 \uba74\ucc45 \uc790\ub3d9, \uc0c8 PC \uc774",
@@ -106,15 +178,6 @@
     "stars": 17,
     "updated_at": "2026-08-31T19:30:26Z",
     "url": "https://github.com/sodam-ai/SoDam-Persona"
-  },
-  {
-    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
-    "id": "Prysai/Prysai-LLM-Playbook",
-    "language": "Python",
-    "name": "Prysai/Prysai-LLM-Playbook",
-    "stars": 209,
-    "updated_at": "2026-08-31T19:36:56Z",
-    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
   },
   {
     "description": "Claude Code skill for AI filmmaking \u2014 shot lists, keyframe & video prompts, with 10 director-style overlays (Spielberg, ",
@@ -167,17 +230,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33986,
-    "updated_at": "2026-08-31T19:32:02Z",
+    "updated_at": "2026-08-31T19:44:36Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "\u628a Claude Code / Codex \u53d8\u6210\u4f60\u7684\u6570\u5b57\u5458\u5de5 \u2014 \u4e0a\u73ed\u65cf AI \u63d0\u6548\u6280\u80fd\u5305\uff08\u4e2d\u6587\uff09\uff1a6\u6280\u80fd+\u9632\u62a4Hooks+\u5de5\u4f5c\u6d41SOP",
-    "id": "Hahaknight/digital-employee-pack",
-    "language": "\u2014",
-    "name": "Hahaknight/digital-employee-pack",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:17:35Z",
-    "url": "https://github.com/Hahaknight/digital-employee-pack"
   },
   {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
@@ -214,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T19:13:09Z",
     "url": "https://github.com/thecoder1235/mun-advisory-council"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-31T19:32:19Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Documentation, Specification and Website for PromptPack.org",
@@ -275,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3519,
-    "updated_at": "2026-08-31T19:35:17Z",
+    "updated_at": "2026-08-31T19:44:13Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -284,7 +329,7 @@
     "language": "\u2014",
     "name": "Hahaknight/claude-skills-pro",
     "stars": 0,
-    "updated_at": "2026-08-31T19:02:23Z",
+    "updated_at": "2026-08-31T19:44:06Z",
     "url": "https://github.com/Hahaknight/claude-skills-pro"
   },
   {
@@ -311,7 +356,7 @@
     "language": "TypeScript",
     "name": "grimoire-rs/grimoire-vscode",
     "stars": 0,
-    "updated_at": "2026-08-31T18:57:30Z",
+    "updated_at": "2026-08-31T19:43:52Z",
     "url": "https://github.com/grimoire-rs/grimoire-vscode"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T18:48:58Z",
     "url": "https://github.com/ystk-kai/claude-harness"
-  },
-  {
-    "description": "Imprint: self-learning task handler for A3M Router - your AI bill should decay over time",
-    "id": "Das-rebel/imprint",
-    "language": "Python",
-    "name": "Das-rebel/imprint",
-    "stars": 0,
-    "updated_at": "2026-08-31T18:48:45Z",
-    "url": "https://github.com/Das-rebel/imprint"
-  },
-  {
-    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
-    "id": "Tubifix77/red-thread",
-    "language": "Python",
-    "name": "Tubifix77/red-thread",
-    "stars": 0,
-    "updated_at": "2026-08-31T18:47:47Z",
-    "url": "https://github.com/Tubifix77/red-thread"
-  },
-  {
-    "description": "AI-writing humanizer for KO/EN/ZH/JA",
-    "id": "devswha/patina",
-    "language": "JavaScript",
-    "name": "devswha/patina",
-    "stars": 331,
-    "updated_at": "2026-08-31T18:56:41Z",
-    "url": "https://github.com/devswha/patina"
-  },
-  {
-    "description": "Generate AGENTS.md in one second. Cut 40-80% of Claude Code, Cursor, Codex and Copilot tokens. Zero dependencies. No API",
-    "id": "mrtomdev/agentsmd",
-    "language": "JavaScript",
-    "name": "mrtomdev/agentsmd",
-    "stars": 0,
-    "updated_at": "2026-08-31T18:46:42Z",
-    "url": "https://github.com/mrtomdev/agentsmd"
-  },
-  {
-    "description": "Curated, validated harness primitives for GitHub Copilot and Claude Code: agents, skills, prompts, hooks, plugins, MCP i",
-    "id": "paulasilvatech/awesome-harness-primitives",
-    "language": "Python",
-    "name": "paulasilvatech/awesome-harness-primitives",
-    "stars": 0,
-    "updated_at": "2026-08-31T18:44:47Z",
-    "url": "https://github.com/paulasilvatech/awesome-harness-primitives"
   }
 ]
