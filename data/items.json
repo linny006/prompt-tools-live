@@ -1,5 +1,95 @@
 [
   {
+    "description": "59 curated GLM-Image prompts \u2014 bilingual long-form prompts with preview images, one-click generation at gmimage.app",
+    "id": "GLMImage/awesome-glm-image-prompts",
+    "language": "\u2014",
+    "name": "GLMImage/awesome-glm-image-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:13:08Z",
+    "url": "https://github.com/GLMImage/awesome-glm-image-prompts"
+  },
+  {
+    "description": "Documentation, Specification and Website for PromptPack.org",
+    "id": "AltairaLabs/promptpack-spec",
+    "language": "JavaScript",
+    "name": "AltairaLabs/promptpack-spec",
+    "stars": 6,
+    "updated_at": "2026-08-31T19:08:51Z",
+    "url": "https://github.com/AltairaLabs/promptpack-spec"
+  },
+  {
+    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
+    "id": "F-e-u-e-r/opus-pack",
+    "language": "Python",
+    "name": "F-e-u-e-r/opus-pack",
+    "stars": 2,
+    "updated_at": "2026-08-31T19:05:43Z",
+    "url": "https://github.com/F-e-u-e-r/opus-pack"
+  },
+  {
+    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
+    "id": "christopherlouet/claude-base",
+    "language": "Shell",
+    "name": "christopherlouet/claude-base",
+    "stars": 5,
+    "updated_at": "2026-08-31T19:05:07Z",
+    "url": "https://github.com/christopherlouet/claude-base"
+  },
+  {
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1838,
+    "updated_at": "2026-08-31T19:04:56Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "Refine any text, in the moment, in any app. Select text, hit a hotkey, get it sharpened and pasted back, prompts, emails",
+    "id": "duartelcunha/Ember",
+    "language": "Rust",
+    "name": "duartelcunha/Ember",
+    "stars": 3,
+    "updated_at": "2026-08-31T19:03:12Z",
+    "url": "https://github.com/duartelcunha/Ember"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3519,
+    "updated_at": "2026-08-31T19:11:20Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "15 battle-tested engineering skills for Claude Code, Codex, Gemini CLI, Qwen Code, goose & crush \u2014 code review, testing,",
+    "id": "Hahaknight/claude-skills-pro",
+    "language": "\u2014",
+    "name": "Hahaknight/claude-skills-pro",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:02:23Z",
+    "url": "https://github.com/Hahaknight/claude-skills-pro"
+  },
+  {
+    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
+    "id": "grigb/gas-prompt-library",
+    "language": "Python",
+    "name": "grigb/gas-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-08-31T19:00:32Z",
+    "url": "https://github.com/grigb/gas-prompt-library"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-31T19:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
     "id": "ZeroLu/awesome-gpt-image",
     "language": "Python",
@@ -23,8 +113,17 @@
     "language": "Python",
     "name": "Prysai/Prysai-LLM-Playbook",
     "stars": 208,
-    "updated_at": "2026-08-31T18:57:29Z",
+    "updated_at": "2026-08-31T19:13:57Z",
     "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+  },
+  {
+    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "HTML",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 27,
+    "updated_at": "2026-08-31T18:57:23Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
   },
   {
     "description": "Runtime security for AI agents. In-process, zero dependencies, Apache 2.0.",
@@ -45,12 +144,21 @@
     "url": "https://github.com/vb-tyagi/OP-debloat-any-prompt"
   },
   {
+    "description": "Production React/FastAPI system used by a housing co-op for secure intake, deterministic eligibility screening, human-we",
+    "id": "redwheeler3/penta-application-screener",
+    "language": "Python",
+    "name": "redwheeler3/penta-application-screener",
+    "stars": 1,
+    "updated_at": "2026-08-31T18:53:21Z",
+    "url": "https://github.com/redwheeler3/penta-application-screener"
+  },
+  {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
     "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
     "language": "\u2014",
     "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
     "stars": 1,
-    "updated_at": "2026-08-31T18:52:24Z",
+    "updated_at": "2026-08-31T19:12:30Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
@@ -90,15 +198,6 @@
     "url": "https://github.com/ilandahan/breather"
   },
   {
-    "description": "15 battle-tested engineering skills for Claude Code, Codex, Gemini CLI, Qwen Code, goose & crush \u2014 code review, testing,",
-    "id": "Hahaknight/claude-skills-pro",
-    "language": "\u2014",
-    "name": "Hahaknight/claude-skills-pro",
-    "stars": 0,
-    "updated_at": "2026-08-31T18:51:12Z",
-    "url": "https://github.com/Hahaknight/claude-skills-pro"
-  },
-  {
     "description": "\u628a Claude Code / Codex \u53d8\u6210\u4f60\u7684\u6570\u5b57\u5458\u5de5 \u2014 \u4e0a\u73ed\u65cf AI \u63d0\u6548\u6280\u80fd\u5305\uff08\u4e2d\u6587\uff09\uff1a6\u6280\u80fd+\u9632\u62a4Hooks+\u5de5\u4f5c\u6d41SOP",
     "id": "Hahaknight/digital-employee-pack",
     "language": "\u2014",
@@ -106,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-08-31T18:50:55Z",
     "url": "https://github.com/Hahaknight/digital-employee-pack"
+  },
+  {
+    "description": "Claude Code \u306e\u500b\u4eba\u30b0\u30ed\u30fc\u30d0\u30eb\u30cf\u30fc\u30cd\u30b9 (skills / CLAUDE.md \u5e38\u6642\u30eb\u30fc\u30eb) \u3092\u4e00\u5143\u7ba1\u7406\u3057\u3066\u5404\u74b0\u5883\u306b\u5c55\u958b\u3059\u308b",
+    "id": "ystk-kai/claude-harness",
+    "language": "Shell",
+    "name": "ystk-kai/claude-harness",
+    "stars": 0,
+    "updated_at": "2026-08-31T18:48:58Z",
+    "url": "https://github.com/ystk-kai/claude-harness"
   },
   {
     "description": "Imprint: self-learning task handler for A3M Router - your AI bill should decay over time",
@@ -144,15 +252,6 @@
     "url": "https://github.com/mrtomdev/agentsmd"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-31T18:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Curated, validated harness primitives for GitHub Copilot and Claude Code: agents, skills, prompts, hooks, plugins, MCP i",
     "id": "paulasilvatech/awesome-harness-primitives",
     "language": "Python",
@@ -160,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T18:44:47Z",
     "url": "https://github.com/paulasilvatech/awesome-harness-primitives"
-  },
-  {
-    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
-    "id": "leeex1/Quillan-Ronin",
-    "language": "HTML",
-    "name": "leeex1/Quillan-Ronin",
-    "stars": 27,
-    "updated_at": "2026-08-31T18:57:23Z",
-    "url": "https://github.com/leeex1/Quillan-Ronin"
   },
   {
     "description": "A lightweight anti-hallucination wrapper for LLMs using Chain-of-Verification.",
@@ -266,7 +356,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33986,
-    "updated_at": "2026-08-31T18:34:53Z",
+    "updated_at": "2026-08-31T19:14:02Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -288,15 +378,6 @@
     "url": "https://github.com/shmindmaster/crewscore"
   },
   {
-    "description": "Documentation, Specification and Website for PromptPack.org",
-    "id": "AltairaLabs/promptpack-spec",
-    "language": "JavaScript",
-    "name": "AltairaLabs/promptpack-spec",
-    "stars": 6,
-    "updated_at": "2026-08-31T18:59:53Z",
-    "url": "https://github.com/AltairaLabs/promptpack-spec"
-  },
-  {
     "description": "749studio AI \u77ed\u5267\u521b\u4f5c\u65b9\u6cd5\u8bba Skill \u96c6\uff08\u89c6\u89c9\u5bfc\u6f14 / \u5267\u672c\u89c6\u542c\u9002\u914d\uff09",
     "id": "along99518/749studio-skills",
     "language": "\u2014",
@@ -304,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T18:29:03Z",
     "url": "https://github.com/along99518/749studio-skills"
-  },
-  {
-    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
-    "id": "F-e-u-e-r/opus-pack",
-    "language": "Python",
-    "name": "F-e-u-e-r/opus-pack",
-    "stars": 2,
-    "updated_at": "2026-08-31T18:28:46Z",
-    "url": "https://github.com/F-e-u-e-r/opus-pack"
   },
   {
     "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
@@ -347,7 +419,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 10,
-    "updated_at": "2026-08-31T18:56:20Z",
+    "updated_at": "2026-08-31T19:12:42Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -369,15 +441,6 @@
     "url": "https://github.com/kunalsuri/1000x-Agent-Skills"
   },
   {
-    "description": "Opinionated Claude Code foundation \u2014 Explore \u2192 TDD \u2192 Audit workflow, auto-detected stack presets (nextjs, fastapi, astro",
-    "id": "christopherlouet/claude-base",
-    "language": "Shell",
-    "name": "christopherlouet/claude-base",
-    "stars": 5,
-    "updated_at": "2026-08-31T19:00:06Z",
-    "url": "https://github.com/christopherlouet/claude-base"
-  },
-  {
     "description": "The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources",
     "id": "DSeaStar/awesome-kling",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T18:21:44Z",
     "url": "https://github.com/DSeaStar/awesome-kling"
-  },
-  {
-    "description": "Refine any text, in the moment, in any app. Select text, hit a hotkey, get it sharpened and pasted back, prompts, emails",
-    "id": "duartelcunha/Ember",
-    "language": "Rust",
-    "name": "duartelcunha/Ember",
-    "stars": 3,
-    "updated_at": "2026-08-31T18:53:47Z",
-    "url": "https://github.com/duartelcunha/Ember"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 57,
-    "updated_at": "2026-08-31T18:19:34Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 49,
-    "updated_at": "2026-08-31T18:17:28Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 25,
-    "updated_at": "2026-08-31T18:16:38Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
-    "id": "grigb/gas-prompt-library",
-    "language": "Python",
-    "name": "grigb/gas-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-08-31T18:13:09Z",
-    "url": "https://github.com/grigb/gas-prompt-library"
-  },
-  {
-    "description": "Agent skills for decisions under uncertainty, plus the evaluation harness that measures them: pre-registered predictions",
-    "id": "AngelCampa1/decision-making-skills",
-    "language": "Python",
-    "name": "AngelCampa1/decision-making-skills",
-    "stars": 1,
-    "updated_at": "2026-08-31T18:30:54Z",
-    "url": "https://github.com/AngelCampa1/decision-making-skills"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-08-31T18:12:00Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   }
 ]
