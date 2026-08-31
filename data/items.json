@@ -1,12 +1,111 @@
 [
   {
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch",
+    "id": "cobusgreyling/loop-engineering",
+    "language": "TypeScript",
+    "name": "cobusgreyling/loop-engineering",
+    "stars": 10774,
+    "updated_at": "2026-08-31T19:37:13Z",
+    "url": "https://github.com/cobusgreyling/loop-engineering"
+  },
+  {
+    "description": " Interactive MERN-platform for learning context engineering \u2014 compare LLM outputs with/without structured prompts, bench",
+    "id": "HafizAhmadHassan/context-engineering-lab2-system-prompt",
+    "language": "JavaScript",
+    "name": "HafizAhmadHassan/context-engineering-lab2-system-prompt",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:34:44Z",
+    "url": "https://github.com/HafizAhmadHassan/context-engineering-lab2-system-prompt"
+  },
+  {
+    "description": "Independent Claude Certified Architect (CCA-F) preparation platform \u2014 Claude Architect Academy",
+    "id": "HafizAhmadHassan/claude-architect-academy",
+    "language": "TypeScript",
+    "name": "HafizAhmadHassan/claude-architect-academy",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:34:26Z",
+    "url": "https://github.com/HafizAhmadHassan/claude-architect-academy"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11264,
+    "updated_at": "2026-08-31T19:37:24Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "50 curated ERNIE Image prompts collected from the community \u2014 preview images, original-author credits, one-click generat",
+    "id": "GLMImage/awesome-ernie-image-prompts",
+    "language": "JavaScript",
+    "name": "GLMImage/awesome-ernie-image-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:32:41Z",
+    "url": "https://github.com/GLMImage/awesome-ernie-image-prompts"
+  },
+  {
+    "description": "59 curated GLM-Image prompts \u2014 bilingual long-form prompts with preview images, one-click generation at gmimage.app",
+    "id": "GLMImage/awesome-glm-image-prompts",
+    "language": "JavaScript",
+    "name": "GLMImage/awesome-glm-image-prompts",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:32:39Z",
+    "url": "https://github.com/GLMImage/awesome-glm-image-prompts"
+  },
+  {
+    "description": "Source-backed applied AI and technical-operations portfolio with deployed local-first tools, tests, CI, and verification",
+    "id": "atomicdjt/AI-Project-Portfolio",
+    "language": "JavaScript",
+    "name": "atomicdjt/AI-Project-Portfolio",
+    "stars": 1,
+    "updated_at": "2026-08-31T19:35:42Z",
+    "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
+  },
+  {
+    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
+    "id": "ekayaprod/jules-agent-roster",
+    "language": "JavaScript",
+    "name": "ekayaprod/jules-agent-roster",
+    "stars": 3,
+    "updated_at": "2026-08-31T19:32:08Z",
+    "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-31T19:32:03Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
     "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
     "id": "AltairaLabs/PromptKit",
     "language": "Go",
     "name": "AltairaLabs/PromptKit",
     "stars": 9,
-    "updated_at": "2026-08-31T19:28:49Z",
+    "updated_at": "2026-08-31T19:30:48Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-31T19:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Claude Code\uc5d0 '15\uba85 \uc804\ubb38\uac00 \uad00\uc810 + \uc790\ub3d9 \ud2b8\ub9ac\uac70' AI \uac1c\ubc1c \ud30c\ud2b8\ub108 \ud398\ub974\uc18c\ub098\ub97c \uc785\ud788\ub294 \ud50c\ub7ec\uadf8\uc778. \ud56d\uc0c1\ucf1c\uc9d0 hook + \uc870\uac74\ubd80 skill + \uc778\ud130\ubdf0\ud615 \uc0dd\uc131/\ud3b8\uc9d1 \uba85\ub839\uc5b4, \uc138\ubb34\u00b7\ubc95\ub960 \uba74\ucc45 \uc790\ub3d9, \uc0c8 PC \uc774",
+    "id": "sodam-ai/SoDam-Persona",
+    "language": "JavaScript",
+    "name": "sodam-ai/SoDam-Persona",
+    "stars": 17,
+    "updated_at": "2026-08-31T19:30:26Z",
+    "url": "https://github.com/sodam-ai/SoDam-Persona"
   },
   {
     "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
@@ -14,17 +113,8 @@
     "language": "Python",
     "name": "Prysai/Prysai-LLM-Playbook",
     "stars": 209,
-    "updated_at": "2026-08-31T19:26:52Z",
+    "updated_at": "2026-08-31T19:36:56Z",
     "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
-  },
-  {
-    "description": "59 curated GLM-Image prompts \u2014 bilingual long-form prompts with preview images, one-click generation at gmimage.app",
-    "id": "GLMImage/awesome-glm-image-prompts",
-    "language": "\u2014",
-    "name": "GLMImage/awesome-glm-image-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:26:03Z",
-    "url": "https://github.com/GLMImage/awesome-glm-image-prompts"
   },
   {
     "description": "Claude Code skill for AI filmmaking \u2014 shot lists, keyframe & video prompts, with 10 director-style overlays (Spielberg, ",
@@ -63,12 +153,21 @@
     "url": "https://github.com/m-sanchez/u-pack"
   },
   {
+    "description": "\ud83c\udf99\ufe0f Hardware Bluetooth & USB HID Keyboard & Touchpad Mouse bridge for Android. Brings voice typing & agentic AI prompt st",
+    "id": "KoueKoffie-MW/Type4Me",
+    "language": "Kotlin",
+    "name": "KoueKoffie-MW/Type4Me",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:19:16Z",
+    "url": "https://github.com/KoueKoffie-MW/Type4Me"
+  },
+  {
     "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33986,
-    "updated_at": "2026-08-31T19:25:07Z",
+    "updated_at": "2026-08-31T19:32:02Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -88,33 +187,6 @@
     "stars": 1932,
     "updated_at": "2026-08-31T19:17:07Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Claude Code\uc5d0 '15\uba85 \uc804\ubb38\uac00 \uad00\uc810 + \uc790\ub3d9 \ud2b8\ub9ac\uac70' AI \uac1c\ubc1c \ud30c\ud2b8\ub108 \ud398\ub974\uc18c\ub098\ub97c \uc785\ud788\ub294 \ud50c\ub7ec\uadf8\uc778. \ud56d\uc0c1\ucf1c\uc9d0 hook + \uc870\uac74\ubd80 skill + \uc778\ud130\ubdf0\ud615 \uc0dd\uc131/\ud3b8\uc9d1 \uba85\ub839\uc5b4, \uc138\ubb34\u00b7\ubc95\ub960 \uba74\ucc45 \uc790\ub3d9, \uc0c8 PC \uc774",
-    "id": "sodam-ai/SoDam-Persona",
-    "language": "JavaScript",
-    "name": "sodam-ai/SoDam-Persona",
-    "stars": 17,
-    "updated_at": "2026-08-31T19:16:57Z",
-    "url": "https://github.com/sodam-ai/SoDam-Persona"
-  },
-  {
-    "description": "59 curated GLM-Image prompts \u2014 bilingual long-form prompts with preview images, one-click generation at gmimage.app",
-    "id": "GLMImage/awesome-glm-image-prompts1",
-    "language": "JavaScript",
-    "name": "GLMImage/awesome-glm-image-prompts1",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:16:11Z",
-    "url": "https://github.com/GLMImage/awesome-glm-image-prompts1"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-31T19:15:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Skills, steering rules and multi-agent workflows I use with Claude Code. Autonomous issue runners, adversarial gates, pa",
@@ -149,7 +221,7 @@
     "language": "\u2014",
     "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
     "stars": 1,
-    "updated_at": "2026-08-31T19:12:30Z",
+    "updated_at": "2026-08-31T19:32:19Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
@@ -203,7 +275,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3519,
-    "updated_at": "2026-08-31T19:21:48Z",
+    "updated_at": "2026-08-31T19:35:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -250,6 +322,15 @@
     "stars": 27,
     "updated_at": "2026-08-31T18:57:23Z",
     "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24704,
+    "updated_at": "2026-08-31T18:55:00Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Runtime security for AI agents. In-process, zero dependencies, Apache 2.0.",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T18:44:47Z",
     "url": "https://github.com/paulasilvatech/awesome-harness-primitives"
-  },
-  {
-    "description": "A lightweight anti-hallucination wrapper for LLMs using Chain-of-Verification.",
-    "id": "Muhtasim-Munif-Fahim/self-correct-agent",
-    "language": "Python",
-    "name": "Muhtasim-Munif-Fahim/self-correct-agent",
-    "stars": 6,
-    "updated_at": "2026-08-31T18:43:44Z",
-    "url": "https://github.com/Muhtasim-Munif-Fahim/self-correct-agent"
-  },
-  {
-    "description": "Dryforge : New generation of harness engineering - Claude Code & Codex Plugin.",
-    "id": "prekuter/dryforge",
-    "language": "Shell",
-    "name": "prekuter/dryforge",
-    "stars": 141,
-    "updated_at": "2026-08-31T18:43:08Z",
-    "url": "https://github.com/prekuter/dryforge"
-  },
-  {
-    "description": "Local-first prompt library and version-control system for AI prompts (Desktop App, CLI, MCP Server, and AI execution eng",
-    "id": "PromptBranch/promptbranch",
-    "language": "TypeScript",
-    "name": "PromptBranch/promptbranch",
-    "stars": 0,
-    "updated_at": "2026-08-31T18:41:15Z",
-    "url": "https://github.com/PromptBranch/promptbranch"
-  },
-  {
-    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
-    "id": "wangkant/personagent",
-    "language": "Python",
-    "name": "wangkant/personagent",
-    "stars": 15,
-    "updated_at": "2026-08-31T18:39:49Z",
-    "url": "https://github.com/wangkant/personagent"
-  },
-  {
-    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-08-31T18:39:25Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "SAIRAMANALADI/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "SAIRAMANALADI/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-08-31T18:38:42Z",
-    "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
-  },
-  {
-    "description": "Learn a codebase's unwritten conventions (Python, React, Next.js, TypeScript, Tailwind) and condition AI coding agents (",
-    "id": "Kaifazad/Style-DNA-Ghostwriter",
-    "language": "Python",
-    "name": "Kaifazad/Style-DNA-Ghostwriter",
-    "stars": 1,
-    "updated_at": "2026-08-31T18:37:55Z",
-    "url": "https://github.com/Kaifazad/Style-DNA-Ghostwriter"
-  },
-  {
-    "description": "Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl",
-    "id": "grimoire-rs/grimoire",
-    "language": "Rust",
-    "name": "grimoire-rs/grimoire",
-    "stars": 8,
-    "updated_at": "2026-08-31T18:37:53Z",
-    "url": "https://github.com/grimoire-rs/grimoire"
-  },
-  {
-    "description": "Rewrites your rough prompt into a heavily-engineered one, shows it, then immediately runs it. Mandatory assessor gate + ",
-    "id": "vb-tyagi/OP-supercharge-any-prompt",
-    "language": "\u2014",
-    "name": "vb-tyagi/OP-supercharge-any-prompt",
-    "stars": 0,
-    "updated_at": "2026-08-31T18:37:52Z",
-    "url": "https://github.com/vb-tyagi/OP-supercharge-any-prompt"
   }
 ]
