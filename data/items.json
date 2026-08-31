@@ -1,12 +1,12 @@
 [
   {
-    "description": "Claude Code\uc5d0 '15\uba85 \uc804\ubb38\uac00 \uad00\uc810 + \uc790\ub3d9 \ud2b8\ub9ac\uac70' AI \uac1c\ubc1c \ud30c\ud2b8\ub108 \ud398\ub974\uc18c\ub098\ub97c \uc785\ud788\ub294 \ud50c\ub7ec\uadf8\uc778. \ud56d\uc0c1\ucf1c\uc9d0 hook + \uc870\uac74\ubd80 skill + \uc778\ud130\ubdf0\ud615 \uc0dd\uc131/\ud3b8\uc9d1 \uba85\ub839\uc5b4, \uc138\ubb34\u00b7\ubc95\ub960 \uba74\ucc45 \uc790\ub3d9, \uc0c8 PC \uc774",
-    "id": "sodam-ai/SoDam-Persona",
-    "language": "JavaScript",
-    "name": "sodam-ai/SoDam-Persona",
-    "stars": 17,
-    "updated_at": "2026-08-31T20:42:30Z",
-    "url": "https://github.com/sodam-ai/SoDam-Persona"
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-31T20:59:15Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -14,8 +14,116 @@
     "language": "Python",
     "name": "Nyanna/XY.AI.Workbench",
     "stars": 1,
-    "updated_at": "2026-08-31T20:41:20Z",
+    "updated_at": "2026-08-31T20:57:54Z",
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "Production WhatsApp AI agent for a hardware store \u2014 5-layer RAG retrieval (pg_trgm fuzzy matching + OpenAI embeddings/pg",
+    "id": "Gus2708/whatsapp-agent",
+    "language": "JavaScript",
+    "name": "Gus2708/whatsapp-agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T20:56:01Z",
+    "url": "https://github.com/Gus2708/whatsapp-agent"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-31T20:54:18Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "AI Systems Engineering: A Practical Bootcamp \u2014 a 30-working-day curriculum and build tooling for moving from traditional",
+    "id": "rioffe/ai_systems_engineering_bootcamp",
+    "language": "HTML",
+    "name": "rioffe/ai_systems_engineering_bootcamp",
+    "stars": 0,
+    "updated_at": "2026-08-31T20:53:16Z",
+    "url": "https://github.com/rioffe/ai_systems_engineering_bootcamp"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-31T20:52:27Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Say what the picture must contain, check that it does, and refuse when it does not. A typed contract of depictable claim",
+    "id": "mcp-tool-shop-org/prompt-craft",
+    "language": "Python",
+    "name": "mcp-tool-shop-org/prompt-craft",
+    "stars": 0,
+    "updated_at": "2026-08-31T20:52:27Z",
+    "url": "https://github.com/mcp-tool-shop-org/prompt-craft"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 9,
+    "updated_at": "2026-08-31T20:52:06Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5864,
+    "updated_at": "2026-08-31T20:51:02Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 38490,
+    "updated_at": "2026-08-31T20:48:41Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Zero-dependency, high-performance CLI for prompt enhancement, markdown restructuring, offline image prompt assembly, and",
+    "id": "dotcommander/prompter",
+    "language": "Go",
+    "name": "dotcommander/prompter",
+    "stars": 1,
+    "updated_at": "2026-08-31T20:59:25Z",
+    "url": "https://github.com/dotcommander/prompter"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-31T20:45:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
+    "id": "Prysai/Prysai-LLM-Playbook",
+    "language": "Python",
+    "name": "Prysai/Prysai-LLM-Playbook",
+    "stars": 210,
+    "updated_at": "2026-08-31T20:53:25Z",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+  },
+  {
+    "description": "Claude Code\uc5d0 '15\uba85 \uc804\ubb38\uac00 \uad00\uc810 + \uc790\ub3d9 \ud2b8\ub9ac\uac70' AI \uac1c\ubc1c \ud30c\ud2b8\ub108 \ud398\ub974\uc18c\ub098\ub97c \uc785\ud788\ub294 \ud50c\ub7ec\uadf8\uc778. \ud56d\uc0c1\ucf1c\uc9d0 hook + \uc870\uac74\ubd80 skill + \uc778\ud130\ubdf0\ud615 \uc0dd\uc131/\ud3b8\uc9d1 \uba85\ub839\uc5b4, \uc138\ubb34\u00b7\ubc95\ub960 \uba74\ucc45 \uc790\ub3d9, \uc0c8 PC \uc774",
+    "id": "sodam-ai/SoDam-Persona",
+    "language": "JavaScript",
+    "name": "sodam-ai/SoDam-Persona",
+    "stars": 17,
+    "updated_at": "2026-08-31T20:42:30Z",
+    "url": "https://github.com/sodam-ai/SoDam-Persona"
   },
   {
     "description": "50 curated ERNIE Image prompts collected from the community \u2014 preview images, original-author credits, one-click generat",
@@ -54,15 +162,6 @@
     "url": "https://github.com/kiarash65/sunjob-math-major-skill"
   },
   {
-    "description": "Say what the picture must contain, check that it does, and refuse when it does not. A typed contract of depictable claim",
-    "id": "mcp-tool-shop-org/prompt-craft",
-    "language": "Python",
-    "name": "mcp-tool-shop-org/prompt-craft",
-    "stars": 0,
-    "updated_at": "2026-08-31T20:35:33Z",
-    "url": "https://github.com/mcp-tool-shop-org/prompt-craft"
-  },
-  {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
     "id": "teguhimanulloh47/pirate-talk-for-claude",
     "language": "HTML",
@@ -72,15 +171,6 @@
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
   },
   {
-    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
-    "id": "Prysai/Prysai-LLM-Playbook",
-    "language": "Python",
-    "name": "Prysai/Prysai-LLM-Playbook",
-    "stars": 210,
-    "updated_at": "2026-08-31T20:45:01Z",
-    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
-  },
-  {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
     "id": "Kenny27lokku/prompt-integrity-validator",
     "language": "HTML",
@@ -88,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T20:32:56Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-31T20:32:25Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -133,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T20:31:42Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-31T20:30:38Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
@@ -221,26 +293,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33991,
-    "updated_at": "2026-08-31T20:37:54Z",
+    "updated_at": "2026-08-31T20:58:44Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5864,
-    "updated_at": "2026-08-31T20:24:31Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "Zero-dependency, high-performance CLI for prompt enhancement, markdown restructuring, offline image prompt assembly, and",
-    "id": "dotcommander/prompter",
-    "language": "Go",
-    "name": "dotcommander/prompter",
-    "stars": 1,
-    "updated_at": "2026-08-31T20:23:40Z",
-    "url": "https://github.com/dotcommander/prompter"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11266,
-    "updated_at": "2026-08-31T20:42:09Z",
+    "updated_at": "2026-08-31T20:48:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/michaeljabbour/amplifier-bundle-preceptor"
   },
   {
-    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
-    "id": "AltairaLabs/PromptKit",
-    "language": "Go",
-    "name": "AltairaLabs/PromptKit",
-    "stars": 9,
-    "updated_at": "2026-08-31T20:29:09Z",
-    "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T20:12:25Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Learn a codebase's unwritten conventions (Python, React, Next.js, TypeScript, Tailwind) and condition AI coding agents (",
-    "id": "Kaifazad/Style-DNA-Ghostwriter",
-    "language": "Python",
-    "name": "Kaifazad/Style-DNA-Ghostwriter",
-    "stars": 1,
-    "updated_at": "2026-08-31T20:01:06Z",
-    "url": "https://github.com/Kaifazad/Style-DNA-Ghostwriter"
-  },
-  {
-    "description": "A blind tested skill for better creative writing. Nine signals three AI judges named after scoring 50 samples blind, the",
-    "id": "Ptlimited/writing-craft",
-    "language": "Python",
-    "name": "Ptlimited/writing-craft",
-    "stars": 0,
-    "updated_at": "2026-08-31T20:00:30Z",
-    "url": "https://github.com/Ptlimited/writing-craft"
-  },
-  {
-    "description": "Cross-tool agent skills for Claude Code, GitHub Copilot and Codex \u2014 a low-token SDLC pipeline, brainstorming and repo-on",
-    "id": "exerias21/brainstorm-toolkit",
-    "language": "Python",
-    "name": "exerias21/brainstorm-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-31T20:00:23Z",
-    "url": "https://github.com/exerias21/brainstorm-toolkit"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-08-31T20:00:11Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-31T19:56:18Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
   }
 ]
