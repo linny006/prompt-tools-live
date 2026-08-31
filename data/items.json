@@ -1,8 +1,143 @@
 [
   {
+    "description": "\ud83e\udde0 A spec-driven intelligence framework for agents, skills, prompts, policies, evaluations, and execution contracts.",
+    "id": "egohygiene/aether",
+    "language": "Python",
+    "name": "egohygiene/aether",
+    "stars": 0,
+    "updated_at": "2026-08-31T04:28:46Z",
+    "url": "https://github.com/egohygiene/aether"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 18,
+    "updated_at": "2026-08-31T04:27:59Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
+    "id": "elie222/botdirectory.ai",
+    "language": "Astro",
+    "name": "elie222/botdirectory.ai",
+    "stars": 151,
+    "updated_at": "2026-08-31T04:24:13Z",
+    "url": "https://github.com/elie222/botdirectory.ai"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-08-31T04:23:56Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
+    "id": "Helicone/helicone",
+    "language": "TypeScript",
+    "name": "Helicone/helicone",
+    "stars": 6116,
+    "updated_at": "2026-08-31T04:25:25Z",
+    "url": "https://github.com/Helicone/helicone"
+  },
+  {
+    "description": "AI Systems Engineering: A Practical Bootcamp \u2014 a 30-working-day curriculum and build tooling for moving from traditional",
+    "id": "rioffe/ai_systems_engineering_bootcamp",
+    "language": "HTML",
+    "name": "rioffe/ai_systems_engineering_bootcamp",
+    "stars": 0,
+    "updated_at": "2026-08-31T04:20:39Z",
+    "url": "https://github.com/rioffe/ai_systems_engineering_bootcamp"
+  },
+  {
+    "description": "MiniMax H3 \u5b98\u65b9 Skills \u7684\u53ef\u89c6\u5316\u53d1\u73b0\u4e0e\u53c2\u8003\u7ad9\u70b9 \u00b7 A visual discovery & reference index for the official MiniMax H3 Skills (independent ",
+    "id": "gordonlu/awesome-minimax-h3-skills",
+    "language": "HTML",
+    "name": "gordonlu/awesome-minimax-h3-skills",
+    "stars": 1,
+    "updated_at": "2026-08-31T04:18:04Z",
+    "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11252,
+    "updated_at": "2026-08-31T04:19:09Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
+    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.1",
+    "language": "Python",
+    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.1",
+    "stars": 0,
+    "updated_at": "2026-08-31T04:16:47Z",
+    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.1"
+  },
+  {
+    "description": "Using AI/LLM prompting to accelerate SOC L1 alert triage - drafting incident summaries and analysis from real alert data",
+    "id": "zaimmzulhazziq/ai-assisted-incident-triage",
+    "language": "\u2014",
+    "name": "zaimmzulhazziq/ai-assisted-incident-triage",
+    "stars": 0,
+    "updated_at": "2026-08-31T04:16:46Z",
+    "url": "https://github.com/zaimmzulhazziq/ai-assisted-incident-triage"
+  },
+  {
+    "description": "Open-source collection of Gemini Spark tasks, skills, setup guides, prompts & workflows for developers and Gemini users.",
+    "id": "MAHESHMEKA/gemini-spark",
+    "language": "\u2014",
+    "name": "MAHESHMEKA/gemini-spark",
+    "stars": 4,
+    "updated_at": "2026-08-31T04:16:37Z",
+    "url": "https://github.com/MAHESHMEKA/gemini-spark"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 6,
+    "updated_at": "2026-08-31T04:16:02Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1925,
+    "updated_at": "2026-08-31T04:15:46Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-31T04:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Generate Prompt Web App",
+    "id": "khafidanasrulain18-web/meta-prompt",
+    "language": "TypeScript",
+    "name": "khafidanasrulain18-web/meta-prompt",
+    "stars": 0,
+    "updated_at": "2026-08-31T04:15:12Z",
+    "url": "https://github.com/khafidanasrulain18-web/meta-prompt"
+  },
+  {
     "description": "An adversarial reliability lab for conversational AI agents \u2014 stress-test a prompt against injection, opt-out compliance",
     "id": "HO1Golf/break-my-agent",
-    "language": "\u2014",
+    "language": "TypeScript",
     "name": "HO1Golf/break-my-agent",
     "stars": 0,
     "updated_at": "2026-08-31T04:14:38Z",
@@ -27,15 +162,6 @@
     "url": "https://github.com/flexigpt/flexigpt-app"
   },
   {
-    "description": "Generate Prompt Web App",
-    "id": "khafidanasrulain18-web/meta-prompt",
-    "language": "TypeScript",
-    "name": "khafidanasrulain18-web/meta-prompt",
-    "stars": 0,
-    "updated_at": "2026-08-31T04:15:12Z",
-    "url": "https://github.com/khafidanasrulain18-web/meta-prompt"
-  },
-  {
     "description": "\ud83e\udd17 The largest downloadable SeedDance 2 prompt library \u2014 8,105 prompts and growing, daily updates with HuggingFace datase",
     "id": "goku-open/awesome-seedance-2-prompts",
     "language": "TypeScript",
@@ -43,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T04:11:12Z",
     "url": "https://github.com/goku-open/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Using AI/LLM prompting to accelerate SOC L1 alert triage - drafting incident summaries and analysis from real alert data",
-    "id": "zaimmzulhazziq/ai-assisted-incident-triage",
-    "language": "\u2014",
-    "name": "zaimmzulhazziq/ai-assisted-incident-triage",
-    "stars": 0,
-    "updated_at": "2026-08-31T04:10:52Z",
-    "url": "https://github.com/zaimmzulhazziq/ai-assisted-incident-triage"
   },
   {
     "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
@@ -70,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T04:10:26Z",
     "url": "https://github.com/timharris707/skills"
-  },
-  {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-08-31T04:09:31Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
@@ -108,15 +216,6 @@
     "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
   },
   {
-    "description": "MiniMax H3 \u5b98\u65b9 Skills \u7684\u53ef\u89c6\u5316\u53d1\u73b0\u4e0e\u53c2\u8003\u7ad9\u70b9 \u00b7 A visual discovery & reference index for the official MiniMax H3 Skills (independent ",
-    "id": "gordonlu/awesome-minimax-h3-skills",
-    "language": "HTML",
-    "name": "gordonlu/awesome-minimax-h3-skills",
-    "stars": 1,
-    "updated_at": "2026-08-31T04:05:38Z",
-    "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
-  },
-  {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
@@ -135,15 +234,6 @@
     "url": "https://github.com/dean0x/mdscript"
   },
   {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 18,
-    "updated_at": "2026-08-31T04:03:03Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
     "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
     "id": "grigb/gas-prompt-library",
     "language": "Python",
@@ -151,15 +241,6 @@
     "stars": 6,
     "updated_at": "2026-08-31T04:01:07Z",
     "url": "https://github.com/grigb/gas-prompt-library"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-31T04:00:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
@@ -198,15 +279,6 @@
     "url": "https://github.com/majoie02/agent-contract-nexus"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11252,
-    "updated_at": "2026-08-31T03:55:54Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -221,7 +293,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-31T03:54:53Z",
+    "updated_at": "2026-08-31T04:29:19Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -306,21 +378,12 @@
     "url": "https://github.com/agungkesmas/recallfox"
   },
   {
-    "description": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
-    "id": "Helicone/helicone",
-    "language": "TypeScript",
-    "name": "Helicone/helicone",
-    "stars": 6116,
-    "updated_at": "2026-08-31T03:35:21Z",
-    "url": "https://github.com/Helicone/helicone"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1457,
-    "updated_at": "2026-08-31T03:59:30Z",
+    "updated_at": "2026-08-31T04:20:02Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T03:28:22Z",
     "url": "https://github.com/glichtenthal/agent-skills"
-  },
-  {
-    "description": " A native macOS menu bar app for lightning-fast AI prompt template insertion. Fill dynamic variables, live preview, and ",
-    "id": "Poseidoncode/HarmonyApp",
-    "language": "Swift",
-    "name": "Poseidoncode/HarmonyApp",
-    "stars": 0,
-    "updated_at": "2026-08-31T03:28:07Z",
-    "url": "https://github.com/Poseidoncode/HarmonyApp"
-  },
-  {
-    "description": "DSH \u63d2\u4ef6\uff1a\u7b80\u4f53\u4e2d\u6587\u884c\u4e3a\u89c4\u8303\u4e09\u5c42\u6ce8\u5165\uff08\u5e38\u9a7b\u5c42 + prompt \u6280\u80fd + anchored preset \u951a\u5b9a\u6ce8\u5165\uff09+ Web UI \u7f16\u8f91 prompt.md",
-    "id": "Czerror/dsh-plugin-prompt-tool",
-    "language": "TypeScript",
-    "name": "Czerror/dsh-plugin-prompt-tool",
-    "stars": 0,
-    "updated_at": "2026-08-31T03:27:03Z",
-    "url": "https://github.com/Czerror/dsh-plugin-prompt-tool"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-08-31T03:26:50Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "\u5728\u7f51\u9875\u4e2d\u9009\u62e9 DOM\u3001\u91c7\u96c6\u4e0a\u4e0b\u6587\uff0c\u5e76\u751f\u6210\u9762\u5411 AI \u7f16\u7a0b\u52a9\u624b\u7684\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u3002",
-    "id": "wo6909096/dom-prompt",
-    "language": "TypeScript",
-    "name": "wo6909096/dom-prompt",
-    "stars": 0,
-    "updated_at": "2026-08-31T03:26:02Z",
-    "url": "https://github.com/wo6909096/dom-prompt"
-  },
-  {
-    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
-    "id": "imhamzakhan/context-flow-compressor",
-    "language": "HTML",
-    "name": "imhamzakhan/context-flow-compressor",
-    "stars": 0,
-    "updated_at": "2026-08-31T03:23:02Z",
-    "url": "https://github.com/imhamzakhan/context-flow-compressor"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-31T03:21:26Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
-    "id": "archubbuck/workspace-architect",
-    "language": "Python",
-    "name": "archubbuck/workspace-architect",
-    "stars": 18,
-    "updated_at": "2026-08-31T03:20:50Z",
-    "url": "https://github.com/archubbuck/workspace-architect"
   }
 ]
