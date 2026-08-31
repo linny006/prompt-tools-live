@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-30 23:45 UTC
+> ⏰ Last updated: 2026-08-31 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-08-30 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
-| 2 | [Tubifix77/red-thread](https://github.com/Tubifix77/red-thread) | 0 | Python | 2026-08-30 | Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b |
-| 3 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 5 | HTML | 2026-08-30 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
-| 4 | [imhamzakhan/context-flow-compressor](https://github.com/imhamzakhan/context-flow-compressor) | 0 | HTML | 2026-08-30 | Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90% |
-| 5 | [api-evangelist/klu-ai](https://github.com/api-evangelist/klu-ai) | 0 | — | 2026-08-30 | Klu — independent third-party profile of a public API surface, by API Evangelist. Klu (klu.ai) is an LLM app platform fo |
-| 6 | [wretcher207/dead-pixel-skills](https://github.com/wretcher207/dead-pixel-skills) | 0 | Shell | 2026-08-30 | Reusable agent skills from Dead Pixel Design, starting with an agent-agnostic Codex prompt compiler. |
-| 7 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-30 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 8 | [agent-clinic/claude-md-doctor](https://github.com/agent-clinic/claude-md-doctor) | 26 | Python | 2026-08-30 | Give your CLAUDE.md / AGENTS.md a checkup — audit size vitals, dead references, drifted claims, and backtest every rule  |
-| 9 | [EmmanuelM-A/askdocumind-api](https://github.com/EmmanuelM-A/askdocumind-api) | 1 | Python | 2026-08-30 | A RAG-powered document chatbot - upload your files and ask questions about them using AI. Built with FastAPI, pgvector,  |
-| 10 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-30 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 11 | [agungkesmas/recallfox](https://github.com/agungkesmas/recallfox) | 0 | JavaScript | 2026-08-30 | Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho |
-| 12 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-08-30 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 13 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-08-30 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 14 | [hackernotfound/dsh-tacit](https://github.com/hackernotfound/dsh-tacit) | 1 | JavaScript | 2026-08-30 | Learns what you leave unsaid in your prompts and steers the DeepSeek Harness agent for you |
-| 15 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-08-30 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 16 | [Nova-Violet-Role/RoT-MoE](https://github.com/Nova-Violet-Role/RoT-MoE) | 2 | Shell | 2026-08-30 | The Role of Thoughts: a Dynamic Cognitive Mixture-of-Experts router for Claude Code. 9 expert lenses, 10 routing lanes,  |
-| 17 | [api-evangelist/flowgpt](https://github.com/api-evangelist/flowgpt) | 0 | — | 2026-08-30 | FlowGPT — independent third-party profile of a public API surface, by API Evangelist. FlowGPT is a community platform fo |
-| 18 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 1 | HTML | 2026-08-30 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
-| 19 | [Czerror/dsh-plugin-prompt-tool](https://github.com/Czerror/dsh-plugin-prompt-tool) | 0 | TypeScript | 2026-08-30 | DSH 插件：简体中文行为规范三层注入（常驻层 + prompt 技能 + anchored preset 锚定注入）+ Web UI 编辑 prompt.md |
-| 20 | [KoueKoffie-MW/Type4Me](https://github.com/KoueKoffie-MW/Type4Me) | 0 | Kotlin | 2026-08-30 | 🎙️ Hardware Bluetooth & USB HID Keyboard & Touchpad Mouse bridge for Android. Brings voice typing & agentic AI prompt st |
-| 21 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-08-30 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
-| 22 | [SAIRAMANALADI/vybe-intelligence-vault](https://github.com/SAIRAMANALADI/vybe-intelligence-vault) | 22 | JavaScript | 2026-08-30 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
-| 23 | [ntatschner/loadout-cli](https://github.com/ntatschner/loadout-cli) | 1 | C# | 2026-08-30 | Launch AI coding agents with your instructions, memory and usage tracking in one central workspace — and nothing left be |
-| 24 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 123 | HTML | 2026-08-30 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
-| 25 | [egohygiene/aether](https://github.com/egohygiene/aether) | 0 | Python | 2026-08-30 | 🧠 A spec-driven intelligence framework for agents, skills, prompts, policies, evaluations, and execution contracts. |
-| 26 | [yanliudesign/french-illustration-skill](https://github.com/yanliudesign/french-illustration-skill) | 3 | — | 2026-08-30 | Hand-drawn editorial poster skill, prompts, and examples · 抽象线条海报生成 Skill |
-| 27 | [api-evangelist/cursorrules](https://github.com/api-evangelist/cursorrules) | 0 | — | 2026-08-30 | .cursorrules — independent third-party profile of a public API surface, by API Evangelist. .cursorrules is a project-lev |
-| 28 | [api-evangelist/context-engineering](https://github.com/api-evangelist/context-engineering) | 0 | — | 2026-08-30 | Context Engineering — independent third-party profile of a public API surface, by API Evangelist. Context engineering is |
-| 29 | [api-evangelist/compresr](https://github.com/api-evangelist/compresr) | 0 | — | 2026-08-30 | Compresr — independent third-party profile of a public API surface, by API Evangelist. Compresr is an LLM context-compre |
-| 30 | [grimoire-rs/grimoire](https://github.com/grimoire-rs/grimoire) | 8 | Rust | 2026-08-30 | Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl |
-| 31 | [Atheerameer/agentic-cli-blueprint-library](https://github.com/Atheerameer/agentic-cli-blueprint-library) | 1 | HTML | 2026-08-30 | Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts |
-| 32 | [SHENG5411/grimoire-of-tools](https://github.com/SHENG5411/grimoire-of-tools) | 2 | HTML | 2026-08-30 | Ultimate AI Spellbook Workflows 2026 – Build Multi-Platform Skills & Automation |
-| 33 | [Asir11/langgraph-agentic-workflows-tutorial](https://github.com/Asir11/langgraph-agentic-workflows-tutorial) | 0 | HTML | 2026-08-30 | Build LLM Agents in 2026 🚀 - LangChain & LangGraph Projects & Tutorials |
-| 34 | [api-evangelist/clinerules](https://github.com/api-evangelist/clinerules) | 0 | — | 2026-08-30 | .clinerules — independent third-party profile of a public API surface, by API Evangelist. .clinerules is the rule-file c |
-| 35 | [IesoNagata/opencode-minimax-prompt-director](https://github.com/IesoNagata/opencode-minimax-prompt-director) | 1 | HTML | 2026-08-30 | Production-validated MiniMax H3 prompt director + validator for chained cinematic scenes (CC BY 4.0) |
-| 36 | [vikashjeyaraman/opencouncil-contract-inspector](https://github.com/vikashjeyaraman/opencouncil-contract-inspector) | 118 | HTML | 2026-08-30 | Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control |
-| 37 | [jestersanjay/slim-tools-claude-harness](https://github.com/jestersanjay/slim-tools-claude-harness) | 0 | HTML | 2026-08-30 | SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows |
-| 38 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-30 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 39 | [5uprem4/ai-skill-vault](https://github.com/5uprem4/ai-skill-vault) | 3 | HTML | 2026-08-30 | Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub |
-| 40 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 33940 | TypeScript | 2026-08-30 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 41 | [yahyambk57-stack/Ai-Object-Isolation-Toolkit](https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit) | 50 | HTML | 2026-08-30 | 2026 Next-Gen AI Photo Background Remover & Object Removal Tool |
-| 42 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 10 | TypeScript | 2026-08-30 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
-| 43 | [AKzar1el/god-prompt-mcp](https://github.com/AKzar1el/god-prompt-mcp) | 1 | TypeScript | 2026-08-30 | GodPrompt — a universal AI coding system prompt and skill for Claude, ChatGPT, Cursor and coding agents, with TDD, debug |
-| 44 | [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) | 18 | TypeScript | 2026-08-30 | OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude |
-| 45 | [SoraVantia/cli-modelarium](https://github.com/SoraVantia/cli-modelarium) | 1 | Python | 2026-08-30 | Statistically rigorous LLM comparison CLI for terminal-first developers. Compare 12 cloud providers + local models side- |
-| 46 | [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | 1925 | TypeScript | 2026-08-30 | 🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API g |
-| 47 | [leeex1/Quillan-Ronin](https://github.com/leeex1/Quillan-Ronin) | 27 | Python | 2026-08-30 | Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1  |
-| 48 | [joeblackwaslike/lessons-learned](https://github.com/joeblackwaslike/lessons-learned) | 1 | JavaScript | 2026-08-30 | A Claude Code plugin that automatically captures coding mistakes and injects relevant lessons before tool calls — preven |
-| 49 | [saagpatel/prompt-englab](https://github.com/saagpatel/prompt-englab) | 0 | TypeScript | 2026-08-30 | Full-stack prompt engineering workbench — multi-provider streaming, version diffs, A/B comparison, test cases, cost trac |
-| 50 | [AgustiPuigserver/opus-prompt-architect](https://github.com/AgustiPuigserver/opus-prompt-architect) | 123 | HTML | 2026-08-30 | Best Prompt Engineering Tools for 2026 AI Workflow Optimization |
+| 1 | [Tubifix77/red-thread](https://github.com/Tubifix77/red-thread) | 0 | Python | 2026-08-30 | Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b |
+| 2 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | 263 | Python | 2026-08-30 | Cross-runtime skills for Claude Code, Codex, and multi-agent workflows. |
+| 3 | [Ian-Lo/application-doc-toolkit](https://github.com/Ian-Lo/application-doc-toolkit) | 0 | Python | 2026-08-30 | Fact-governance for LLM-written documents: claims trace to a verified source entry, a scripted lint gates every draft, r |
+| 4 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 6523 | Python | 2026-08-30 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura |
+| 5 | [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault) | 136 | HTML | 2026-08-30 | Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks |
+| 6 | [colinalexander/super-skills](https://github.com/colinalexander/super-skills) | 0 | Python | 2026-08-30 | Research and implementation pipeline for independently synthesized agent super-skills |
+| 7 | [yexi-by/dsh-unrestricted](https://github.com/yexi-by/dsh-unrestricted) | 10 | JavaScript | 2026-08-30 | DeepSeek Harness Web 可开关破限提示词插件，支持多模式、子代理和锚点兼容检查。 |
+| 8 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-08-30 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
+| 9 | [Guille512/motor-evolutivo](https://github.com/Guille512/motor-evolutivo) | 0 | JavaScript | 2026-08-30 | GEPA-style, human-in-the-loop protocol for self-improving LLM prompts. Markdown-only, no code, no datasets — runs inside |
+| 10 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-08-30 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
+| 11 | [toolkitaiprompt-ui/AI-Prompt-Toolkit](https://github.com/toolkitaiprompt-ui/AI-Prompt-Toolkit) | 1 | TypeScript | 2026-08-30 | 🚀 AI Prompt Toolkit — 10+ free in-browser AI prompt engineering tools: Variable Extractor, JSON Schema Generator, Valida |
+| 12 | [Liplus-Project/liplus-language](https://github.com/Liplus-Project/liplus-language) | 1 | Python | 2026-08-30 | Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut |
+| 13 | [elie222/botdirectory.ai](https://github.com/elie222/botdirectory.ai) | 149 | Astro | 2026-08-30 | Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai |
+| 14 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-08-30 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 15 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 1 | HTML | 2026-08-30 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
+| 16 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 5 | HTML | 2026-08-30 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
+| 17 | [imhamzakhan/context-flow-compressor](https://github.com/imhamzakhan/context-flow-compressor) | 0 | HTML | 2026-08-30 | Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90% |
+| 18 | [api-evangelist/klu-ai](https://github.com/api-evangelist/klu-ai) | 0 | — | 2026-08-30 | Klu — independent third-party profile of a public API surface, by API Evangelist. Klu (klu.ai) is an LLM app platform fo |
+| 19 | [wretcher207/dead-pixel-skills](https://github.com/wretcher207/dead-pixel-skills) | 0 | Shell | 2026-08-30 | Reusable agent skills from Dead Pixel Design, starting with an agent-agnostic Codex prompt compiler. |
+| 20 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 1 | HTML | 2026-08-30 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 21 | [agent-clinic/claude-md-doctor](https://github.com/agent-clinic/claude-md-doctor) | 26 | Python | 2026-08-30 | Give your CLAUDE.md / AGENTS.md a checkup — audit size vitals, dead references, drifted claims, and backtest every rule  |
+| 22 | [EmmanuelM-A/askdocumind-api](https://github.com/EmmanuelM-A/askdocumind-api) | 1 | Python | 2026-08-30 | A RAG-powered document chatbot - upload your files and ask questions about them using AI. Built with FastAPI, pgvector,  |
+| 23 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-08-30 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
+| 24 | [agungkesmas/recallfox](https://github.com/agungkesmas/recallfox) | 0 | JavaScript | 2026-08-30 | Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho |
+| 25 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-08-30 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 26 | [hackernotfound/dsh-tacit](https://github.com/hackernotfound/dsh-tacit) | 1 | JavaScript | 2026-08-30 | Learns what you leave unsaid in your prompts and steers the DeepSeek Harness agent for you |
+| 27 | [Nova-Violet-Role/RoT-MoE](https://github.com/Nova-Violet-Role/RoT-MoE) | 2 | Shell | 2026-08-30 | The Role of Thoughts: a Dynamic Cognitive Mixture-of-Experts router for Claude Code. 9 expert lenses, 10 routing lanes,  |
+| 28 | [api-evangelist/flowgpt](https://github.com/api-evangelist/flowgpt) | 0 | — | 2026-08-30 | FlowGPT — independent third-party profile of a public API surface, by API Evangelist. FlowGPT is a community platform fo |
+| 29 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 1 | HTML | 2026-08-30 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
+| 30 | [Czerror/dsh-plugin-prompt-tool](https://github.com/Czerror/dsh-plugin-prompt-tool) | 0 | TypeScript | 2026-08-30 | DSH 插件：简体中文行为规范三层注入（常驻层 + prompt 技能 + anchored preset 锚定注入）+ Web UI 编辑 prompt.md |
+| 31 | [KoueKoffie-MW/Type4Me](https://github.com/KoueKoffie-MW/Type4Me) | 0 | Kotlin | 2026-08-30 | 🎙️ Hardware Bluetooth & USB HID Keyboard & Touchpad Mouse bridge for Android. Brings voice typing & agentic AI prompt st |
+| 32 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-08-30 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
+| 33 | [SAIRAMANALADI/vybe-intelligence-vault](https://github.com/SAIRAMANALADI/vybe-intelligence-vault) | 22 | JavaScript | 2026-08-30 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
+| 34 | [ntatschner/loadout-cli](https://github.com/ntatschner/loadout-cli) | 1 | C# | 2026-08-30 | Launch AI coding agents with your instructions, memory and usage tracking in one central workspace — and nothing left be |
+| 35 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 123 | HTML | 2026-08-30 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
+| 36 | [egohygiene/aether](https://github.com/egohygiene/aether) | 0 | Python | 2026-08-30 | 🧠 A spec-driven intelligence framework for agents, skills, prompts, policies, evaluations, and execution contracts. |
+| 37 | [yanliudesign/french-illustration-skill](https://github.com/yanliudesign/french-illustration-skill) | 3 | — | 2026-08-30 | Hand-drawn editorial poster skill, prompts, and examples · 抽象线条海报生成 Skill |
+| 38 | [api-evangelist/cursorrules](https://github.com/api-evangelist/cursorrules) | 0 | — | 2026-08-30 | .cursorrules — independent third-party profile of a public API surface, by API Evangelist. .cursorrules is a project-lev |
+| 39 | [api-evangelist/context-engineering](https://github.com/api-evangelist/context-engineering) | 0 | — | 2026-08-30 | Context Engineering — independent third-party profile of a public API surface, by API Evangelist. Context engineering is |
+| 40 | [api-evangelist/compresr](https://github.com/api-evangelist/compresr) | 0 | — | 2026-08-30 | Compresr — independent third-party profile of a public API surface, by API Evangelist. Compresr is an LLM context-compre |
+| 41 | [grimoire-rs/grimoire](https://github.com/grimoire-rs/grimoire) | 8 | Rust | 2026-08-30 | Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl |
+| 42 | [Atheerameer/agentic-cli-blueprint-library](https://github.com/Atheerameer/agentic-cli-blueprint-library) | 1 | HTML | 2026-08-30 | Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts |
+| 43 | [SHENG5411/grimoire-of-tools](https://github.com/SHENG5411/grimoire-of-tools) | 2 | HTML | 2026-08-30 | Ultimate AI Spellbook Workflows 2026 – Build Multi-Platform Skills & Automation |
+| 44 | [Asir11/langgraph-agentic-workflows-tutorial](https://github.com/Asir11/langgraph-agentic-workflows-tutorial) | 0 | HTML | 2026-08-30 | Build LLM Agents in 2026 🚀 - LangChain & LangGraph Projects & Tutorials |
+| 45 | [api-evangelist/clinerules](https://github.com/api-evangelist/clinerules) | 0 | — | 2026-08-30 | .clinerules — independent third-party profile of a public API surface, by API Evangelist. .clinerules is the rule-file c |
+| 46 | [IesoNagata/opencode-minimax-prompt-director](https://github.com/IesoNagata/opencode-minimax-prompt-director) | 1 | HTML | 2026-08-30 | Production-validated MiniMax H3 prompt director + validator for chained cinematic scenes (CC BY 4.0) |
+| 47 | [vikashjeyaraman/opencouncil-contract-inspector](https://github.com/vikashjeyaraman/opencouncil-contract-inspector) | 118 | HTML | 2026-08-30 | Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control |
+| 48 | [jestersanjay/slim-tools-claude-harness](https://github.com/jestersanjay/slim-tools-claude-harness) | 0 | HTML | 2026-08-30 | SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows |
+| 49 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-08-30 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 50 | [5uprem4/ai-skill-vault](https://github.com/5uprem4/ai-skill-vault) | 3 | HTML | 2026-08-30 | Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub |
 <!-- TRACKER_TABLE_END -->
 
 ---
