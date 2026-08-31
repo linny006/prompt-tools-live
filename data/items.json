@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI Agent \uc911\uc2ec \ud55c\uad6d \ucc44\uc6a9\uc744 \ub525\uc11c\uce58\ud558\uace0 \ucf54\ub529\ud14c\uc2a4\ud2b8\u00b7\uc790\uc18c\uc11c\u00b7\ud3ec\ud2b8\ud3f4\ub9ac\uc624\ub97c \uac80\uc99d\ud558\ub294 Codex Skill",
+    "id": "Kimhyuntae9665/codex-skill-ai-agent-career-radar",
+    "language": "Python",
+    "name": "Kimhyuntae9665/codex-skill-ai-agent-career-radar",
+    "stars": 0,
+    "updated_at": "2026-08-31T00:29:38Z",
+    "url": "https://github.com/Kimhyuntae9665/codex-skill-ai-agent-career-radar"
+  },
+  {
+    "description": "CLI tool that reads files and directories and formats them as prompts for LLMs (XML for Claude, Markdown, etc.). Cross-p",
+    "id": "truss44/files2prompt",
+    "language": "TypeScript",
+    "name": "truss44/files2prompt",
+    "stars": 0,
+    "updated_at": "2026-08-31T00:29:59Z",
+    "url": "https://github.com/truss44/files2prompt"
+  },
+  {
+    "description": "Vellum AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Vellum AI is an LLM development ",
+    "id": "api-evangelist/vellum",
+    "language": "\u2014",
+    "name": "api-evangelist/vellum",
+    "stars": 2,
+    "updated_at": "2026-08-31T00:29:22Z",
+    "url": "https://github.com/api-evangelist/vellum"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-08-31T00:26:49Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
+    "id": "Tubifix77/red-thread",
+    "language": "Python",
+    "name": "Tubifix77/red-thread",
+    "stars": 0,
+    "updated_at": "2026-08-31T00:24:28Z",
+    "url": "https://github.com/Tubifix77/red-thread"
+  },
+  {
+    "description": "Taste \u2014 independent third-party profile of a public API surface, by API Evangelist. Taste Labs is a San Francisco resear",
+    "id": "api-evangelist/taste",
+    "language": "\u2014",
+    "name": "api-evangelist/taste",
+    "stars": 0,
+    "updated_at": "2026-08-31T00:21:37Z",
+    "url": "https://github.com/api-evangelist/taste"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-31T00:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
     "id": "astorie-ai/awesome-seedance-2-prompt",
     "language": "Shell",
@@ -25,15 +88,6 @@
     "stars": 61,
     "updated_at": "2026-08-31T00:14:34Z",
     "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
-    "id": "Tubifix77/red-thread",
-    "language": "Python",
-    "name": "Tubifix77/red-thread",
-    "stars": 0,
-    "updated_at": "2026-08-31T00:14:29Z",
-    "url": "https://github.com/Tubifix77/red-thread"
   },
   {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
@@ -88,6 +142,15 @@
     "stars": 1,
     "updated_at": "2026-08-31T00:07:52Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21698,
+    "updated_at": "2026-08-31T00:29:00Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -225,15 +288,6 @@
     "url": "https://github.com/elie222/botdirectory.ai"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-31T00:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "majiayu000/spellbook",
     "stars": 263,
-    "updated_at": "2026-08-31T00:05:10Z",
+    "updated_at": "2026-08-31T00:19:02Z",
     "url": "https://github.com/majiayu000/spellbook"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T23:34:47Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-08-30T23:33:40Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Learns what you leave unsaid in your prompts and steers the DeepSeek Harness agent for you",
-    "id": "hackernotfound/dsh-tacit",
-    "language": "JavaScript",
-    "name": "hackernotfound/dsh-tacit",
-    "stars": 1,
-    "updated_at": "2026-08-30T23:31:14Z",
-    "url": "https://github.com/hackernotfound/dsh-tacit"
-  },
-  {
-    "description": "The Role of Thoughts: a Dynamic Cognitive Mixture-of-Experts router for Claude Code. 9 expert lenses, 10 routing lanes, ",
-    "id": "Nova-Violet-Role/RoT-MoE",
-    "language": "Shell",
-    "name": "Nova-Violet-Role/RoT-MoE",
-    "stars": 2,
-    "updated_at": "2026-08-30T23:29:58Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-MoE"
-  },
-  {
-    "description": "FlowGPT \u2014 independent third-party profile of a public API surface, by API Evangelist. FlowGPT is a community platform fo",
-    "id": "api-evangelist/flowgpt",
-    "language": "\u2014",
-    "name": "api-evangelist/flowgpt",
-    "stars": 0,
-    "updated_at": "2026-08-30T23:27:49Z",
-    "url": "https://github.com/api-evangelist/flowgpt"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-30T23:25:11Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "DSH \u63d2\u4ef6\uff1a\u7b80\u4f53\u4e2d\u6587\u884c\u4e3a\u89c4\u8303\u4e09\u5c42\u6ce8\u5165\uff08\u5e38\u9a7b\u5c42 + prompt \u6280\u80fd + anchored preset \u951a\u5b9a\u6ce8\u5165\uff09+ Web UI \u7f16\u8f91 prompt.md",
-    "id": "Czerror/dsh-plugin-prompt-tool",
-    "language": "TypeScript",
-    "name": "Czerror/dsh-plugin-prompt-tool",
-    "stars": 0,
-    "updated_at": "2026-08-30T23:24:08Z",
-    "url": "https://github.com/Czerror/dsh-plugin-prompt-tool"
   }
 ]
