@@ -1,11 +1,164 @@
 [
   {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-08-31T01:44:29Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Local NovelAI prompt builder, V5 artist mixer, custom visual tags, and image metadata inspector.",
+    "id": "shiza2xx/nai-prompt-studio",
+    "language": "JavaScript",
+    "name": "shiza2xx/nai-prompt-studio",
+    "stars": 3,
+    "updated_at": "2026-08-31T01:45:03Z",
+    "url": "https://github.com/shiza2xx/nai-prompt-studio"
+  },
+  {
+    "description": "The operating system I wrap around coding agents to ship and maintain production software: durable context, decision dis",
+    "id": "SFX-TECH/agentic-harness",
+    "language": "Shell",
+    "name": "SFX-TECH/agentic-harness",
+    "stars": 1,
+    "updated_at": "2026-08-31T01:41:28Z",
+    "url": "https://github.com/SFX-TECH/agentic-harness"
+  },
+  {
+    "description": "A curated, linked vault of production-grade agent skills, workflows, and operating systems.",
+    "id": "mannyandrs45/agentic-skill-library",
+    "language": "TypeScript",
+    "name": "mannyandrs45/agentic-skill-library",
+    "stars": 0,
+    "updated_at": "2026-08-31T01:41:26Z",
+    "url": "https://github.com/mannyandrs45/agentic-skill-library"
+  },
+  {
+    "description": "Universal Prompt Generator \u2014 prompt-engineering system for text-to-image models. Spectrum of 1\u20135 calibrated prompts per ",
+    "id": "404stillhere/upg",
+    "language": "Python",
+    "name": "404stillhere/upg",
+    "stars": 15,
+    "updated_at": "2026-08-31T01:41:13Z",
+    "url": "https://github.com/404stillhere/upg"
+  },
+  {
+    "description": "Less talk. More execution. A Codex profile that inspects, edits, tests, fixes, and keeps working until the task is done.",
+    "id": "2akouwu/codex-cli-portable-setup-kit",
+    "language": "Python",
+    "name": "2akouwu/codex-cli-portable-setup-kit",
+    "stars": 0,
+    "updated_at": "2026-08-31T01:41:11Z",
+    "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-08-31T01:40:14Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-08-31T01:38:58Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-08-31T01:38:45Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-08-31T01:37:04Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
+    "id": "Tubifix77/red-thread",
+    "language": "Python",
+    "name": "Tubifix77/red-thread",
+    "stars": 0,
+    "updated_at": "2026-08-31T01:36:26Z",
+    "url": "https://github.com/Tubifix77/red-thread"
+  },
+  {
+    "description": "Understanding LLM thinking from the first principle of next-token prediction",
+    "id": "yingwang/thinking-in-llm",
+    "language": "Python",
+    "name": "yingwang/thinking-in-llm",
+    "stars": 3,
+    "updated_at": "2026-08-31T01:32:33Z",
+    "url": "https://github.com/yingwang/thinking-in-llm"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-31T01:32:22Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "CLI tool that reads files and directories and formats them as prompts for LLMs (XML for Claude, Markdown, etc.). Cross-p",
+    "id": "truss44/files2prompt",
+    "language": "TypeScript",
+    "name": "truss44/files2prompt",
+    "stars": 0,
+    "updated_at": "2026-08-31T01:32:14Z",
+    "url": "https://github.com/truss44/files2prompt"
+  },
+  {
+    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
+    "id": "grigb/gas-prompt-library",
+    "language": "Python",
+    "name": "grigb/gas-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-08-31T01:31:31Z",
+    "url": "https://github.com/grigb/gas-prompt-library"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool",
+    "id": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.1",
+    "language": "Python",
+    "name": "KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.1",
+    "stars": 0,
+    "updated_at": "2026-08-31T01:31:06Z",
+    "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.1"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-31T01:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-31T01:27:58Z",
+    "updated_at": "2026-08-31T01:38:21Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -36,15 +189,6 @@
     "url": "https://github.com/tjdals12/AgentBolt"
   },
   {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-08-31T01:21:59Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
     "id": "github/awesome-copilot",
     "language": "JavaScript",
@@ -70,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T01:15:42Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-31T01:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
@@ -115,15 +250,6 @@
     "stars": 21700,
     "updated_at": "2026-08-31T01:12:25Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-31T01:12:23Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
@@ -184,9 +310,18 @@
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 6524,
+    "stars": 6525,
     "updated_at": "2026-08-31T01:08:35Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravit",
+    "id": "wshobson/agents",
+    "language": "Python",
+    "name": "wshobson/agents",
+    "stars": 39278,
+    "updated_at": "2026-08-31T01:08:27Z",
+    "url": "https://github.com/wshobson/agents"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -216,24 +351,6 @@
     "url": "https://github.com/Lr1977/hangshi-diji"
   },
   {
-    "description": "CLI tool that reads files and directories and formats them as prompts for LLMs (XML for Claude, Markdown, etc.). Cross-p",
-    "id": "truss44/files2prompt",
-    "language": "TypeScript",
-    "name": "truss44/files2prompt",
-    "stars": 0,
-    "updated_at": "2026-08-31T01:04:31Z",
-    "url": "https://github.com/truss44/files2prompt"
-  },
-  {
-    "description": "Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b",
-    "id": "Tubifix77/red-thread",
-    "language": "Python",
-    "name": "Tubifix77/red-thread",
-    "stars": 0,
-    "updated_at": "2026-08-31T01:02:20Z",
-    "url": "https://github.com/Tubifix77/red-thread"
-  },
-  {
     "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
     "id": "FoxsterDev/ai-research-hub",
     "language": "Python",
@@ -241,15 +358,6 @@
     "stars": 5,
     "updated_at": "2026-08-31T01:00:36Z",
     "url": "https://github.com/FoxsterDev/ai-research-hub"
-  },
-  {
-    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
-    "id": "grigb/gas-prompt-library",
-    "language": "Python",
-    "name": "grigb/gas-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-08-31T01:00:29Z",
-    "url": "https://github.com/grigb/gas-prompt-library"
   },
   {
     "description": "Prompt building & enhancement toolkit for DeepSeek Harness: Studio + QuickEnhancer. \u5f00\u6e90\u7684 Prompt \u6784\u5efa\u4e0e\u589e\u5f3a\u5de5\u5177\u5305\u3002",
@@ -340,113 +448,5 @@
     "stars": 2351,
     "updated_at": "2026-08-31T00:40:29Z",
     "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "Make AI write in your voice without fine-tuning. Local-first style fingerprint + deterministic gates + a corrections loo",
-    "id": "assafkip/voice-loop",
-    "language": "Python",
-    "name": "assafkip/voice-loop",
-    "stars": 5,
-    "updated_at": "2026-08-31T00:35:42Z",
-    "url": "https://github.com/assafkip/voice-loop"
-  },
-  {
-    "description": "AI Coding Toolkit (Prompts, Commands, Skills, and More)",
-    "id": "BerkaySevinc/agent-toolkit",
-    "language": "Batchfile",
-    "name": "BerkaySevinc/agent-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-31T00:35:29Z",
-    "url": "https://github.com/BerkaySevinc/agent-toolkit"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 1,
-    "updated_at": "2026-08-31T00:33:55Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-    "id": "majiayu000/spellbook",
-    "language": "Python",
-    "name": "majiayu000/spellbook",
-    "stars": 263,
-    "updated_at": "2026-08-31T00:53:14Z",
-    "url": "https://github.com/majiayu000/spellbook"
-  },
-  {
-    "description": "Wordware \u2014 independent third-party profile of a public API surface, by API Evangelist. Wordware is a San Francisco AI co",
-    "id": "api-evangelist/wordware",
-    "language": "\u2014",
-    "name": "api-evangelist/wordware",
-    "stars": 0,
-    "updated_at": "2026-08-31T00:33:02Z",
-    "url": "https://github.com/api-evangelist/wordware"
-  },
-  {
-    "description": "AI Agent \uc911\uc2ec \ud55c\uad6d \ucc44\uc6a9\uc744 \ub525\uc11c\uce58\ud558\uace0 \ucf54\ub529\ud14c\uc2a4\ud2b8\u00b7\uc790\uc18c\uc11c\u00b7\ud3ec\ud2b8\ud3f4\ub9ac\uc624\ub97c \uac80\uc99d\ud558\ub294 Codex Skill",
-    "id": "Kimhyuntae9665/codex-skill-ai-agent-career-radar",
-    "language": "Python",
-    "name": "Kimhyuntae9665/codex-skill-ai-agent-career-radar",
-    "stars": 0,
-    "updated_at": "2026-08-31T00:29:38Z",
-    "url": "https://github.com/Kimhyuntae9665/codex-skill-ai-agent-career-radar"
-  },
-  {
-    "description": "Vellum AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Vellum AI is an LLM development ",
-    "id": "api-evangelist/vellum",
-    "language": "\u2014",
-    "name": "api-evangelist/vellum",
-    "stars": 2,
-    "updated_at": "2026-08-31T00:29:22Z",
-    "url": "https://github.com/api-evangelist/vellum"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-31T00:26:49Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Taste \u2014 independent third-party profile of a public API surface, by API Evangelist. Taste Labs is a San Francisco resear",
-    "id": "api-evangelist/taste",
-    "language": "\u2014",
-    "name": "api-evangelist/taste",
-    "stars": 0,
-    "updated_at": "2026-08-31T00:21:37Z",
-    "url": "https://github.com/api-evangelist/taste"
-  },
-  {
-    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
-    "id": "astorie-ai/awesome-seedance-2-prompt",
-    "language": "Shell",
-    "name": "astorie-ai/awesome-seedance-2-prompt",
-    "stars": 13,
-    "updated_at": "2026-08-31T00:15:07Z",
-    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
-    "id": "Prysai/Prysai-LLM-Playbook",
-    "language": "Python",
-    "name": "Prysai/Prysai-LLM-Playbook",
-    "stars": 192,
-    "updated_at": "2026-08-31T00:14:52Z",
-    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
-  },
-  {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-08-31T00:11:58Z",
-    "url": "https://github.com/agungkesmas/recallfox"
   }
 ]
