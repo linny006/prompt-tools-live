@@ -1,5 +1,95 @@
 [
   {
+    "description": "How AI Learned to Engineer: a 41-slide talk on the evolution of AI engineering, from chatbot to autonomy. Laravel Nagpur",
+    "id": "bhushan/ai-harness-to-ai-agents-slides",
+    "language": "HTML",
+    "name": "bhushan/ai-harness-to-ai-agents-slides",
+    "stars": 0,
+    "updated_at": "2026-08-31T12:58:39Z",
+    "url": "https://github.com/bhushan/ai-harness-to-ai-agents-slides"
+  },
+  {
+    "description": "Write your AI coding setup once, run it in every tool. One source of truth \u2014 149 commands, 88 agents, 116 skills, 23 rol",
+    "id": "adnanmokhtar/refract",
+    "language": "Shell",
+    "name": "adnanmokhtar/refract",
+    "stars": 1,
+    "updated_at": "2026-08-31T12:55:38Z",
+    "url": "https://github.com/adnanmokhtar/refract"
+  },
+  {
+    "description": "Say what the picture must contain, check that it does, and refuse when it does not. A typed contract of depictable claim",
+    "id": "mcp-tool-shop-org/prompt-craft",
+    "language": "Python",
+    "name": "mcp-tool-shop-org/prompt-craft",
+    "stars": 0,
+    "updated_at": "2026-08-31T12:55:11Z",
+    "url": "https://github.com/mcp-tool-shop-org/prompt-craft"
+  },
+  {
+    "description": "AI \u4ea7\u54c1\u7ecf\u7406\u7684\u5b9e\u8df5\u624b\u518c\uff1a\u4ea7\u54c1\u5224\u65ad\u3001Prompt\u3001Skill\u3001Agent \u548c AI \u5de5\u4f5c\u6d41\u6c89\u6dc0",
+    "id": "yaowenhu-pm/ai-product-playbook",
+    "language": "TypeScript",
+    "name": "yaowenhu-pm/ai-product-playbook",
+    "stars": 10,
+    "updated_at": "2026-08-31T12:54:51Z",
+    "url": "https://github.com/yaowenhu-pm/ai-product-playbook"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-08-31T12:52:23Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "A TypeScript framework for orchestrating cooperative LLM agents with fault tolerance, circuit breakers, and observable s",
+    "id": "kreftamarcio/multi-agent-orchestrator",
+    "language": "TypeScript",
+    "name": "kreftamarcio/multi-agent-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-08-31T12:51:51Z",
+    "url": "https://github.com/kreftamarcio/multi-agent-orchestrator"
+  },
+  {
+    "description": "A simple prompt to instruct AI models to state their limitations when they can't fulfill a request",
+    "id": "Giveapinch/No-Bos",
+    "language": "\u2014",
+    "name": "Giveapinch/No-Bos",
+    "stars": 1,
+    "updated_at": "2026-08-31T12:51:12Z",
+    "url": "https://github.com/Giveapinch/No-Bos"
+  },
+  {
+    "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
+    "id": "Dangkoolwat/ai-learning-studio",
+    "language": "Python",
+    "name": "Dangkoolwat/ai-learning-studio",
+    "stars": 0,
+    "updated_at": "2026-08-31T12:46:32Z",
+    "url": "https://github.com/Dangkoolwat/ai-learning-studio"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 18,
+    "updated_at": "2026-08-31T12:45:34Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-31T12:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
     "id": "FlorianBruniaux/claude-code-ultimate-guide",
     "language": "Python",
@@ -27,15 +117,6 @@
     "url": "https://github.com/AtsutaEito/protocol-engineering"
   },
   {
-    "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
-    "id": "Dangkoolwat/ai-learning-studio",
-    "language": "Python",
-    "name": "Dangkoolwat/ai-learning-studio",
-    "stars": 0,
-    "updated_at": "2026-08-31T12:40:50Z",
-    "url": "https://github.com/Dangkoolwat/ai-learning-studio"
-  },
-  {
     "description": "Human-first Codex skill for believable dialogue, dramatic scenes, purposeful storyboards, and video-model prompts.",
     "id": "niuyupeng/role2reel",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T12:40:40Z",
     "url": "https://github.com/niuyupeng/role2reel"
-  },
-  {
-    "description": "A TypeScript framework for orchestrating cooperative LLM agents with fault tolerance, circuit breakers, and observable s",
-    "id": "kreftamarcio/multi-agent-orchestrator",
-    "language": "TypeScript",
-    "name": "kreftamarcio/multi-agent-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-31T12:38:56Z",
-    "url": "https://github.com/kreftamarcio/multi-agent-orchestrator"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -85,7 +157,7 @@
     "id": "Nanako0129/sepia",
     "language": "\u2014",
     "name": "Nanako0129/sepia",
-    "stars": 1127,
+    "stars": 1129,
     "updated_at": "2026-08-31T12:36:41Z",
     "url": "https://github.com/Nanako0129/sepia"
   },
@@ -95,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3517,
-    "updated_at": "2026-08-31T12:36:40Z",
+    "updated_at": "2026-08-31T12:56:01Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 38,
     "updated_at": "2026-08-31T12:34:41Z",
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "Write your AI coding setup once, run it in every tool. One source of truth \u2014 149 commands, 88 agents, 116 skills, 23 rol",
-    "id": "adnanmokhtar/refract",
-    "language": "Shell",
-    "name": "adnanmokhtar/refract",
-    "stars": 1,
-    "updated_at": "2026-08-31T12:33:38Z",
-    "url": "https://github.com/adnanmokhtar/refract"
   },
   {
     "description": "\u56e0\u4e3agithub\u548c\u5176\u4ed6\u5730\u65b9\u90fd\u6ca1\u6709\u4e2d\u6587\u623f\u4ea7\u76f8\u5173\u7684AI\u5de5\u5177\u5e93\u548cskill\u5e93\uff0c\u6240\u4ee5\u5c31\u51b3\u5b9a\u81ea\u5df1\u5f00\u59cb\u505a\u7b2c\u4e00\u6279\u6700\u65e9\u7684\u4e2d\u6587\u623f\u4ea7 AI \u6280\u80fd\u5de5\u5177\u5e93\uff1a7 \u7c7b\u89d2\u8272\uff08\u623f\u5f00\u5546 / \u7ecf\u7eaa\u516c\u53f8 / \u6e20\u9053\u5206\u9500\u516c\u53f8 / \u8d2d\u623f\u8005\u548c\u4e1a\u4e3b / \u4e00\u624b\u8425\u9500 / \u4e8c\u624b\u7ecf\u7eaa / \u623f\u4ea7\u81ea",
@@ -135,40 +198,13 @@
     "url": "https://github.com/nohn3043-arch/story-engine"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-08-31T12:32:37Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
     "id": "bitranox/bitranox-skills",
     "language": "Python",
     "name": "bitranox/bitranox-skills",
     "stars": 1,
-    "updated_at": "2026-08-31T12:31:07Z",
+    "updated_at": "2026-08-31T13:00:19Z",
     "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
-    "description": "A simple prompt to instruct AI models to state their limitations when they can't fulfill a request",
-    "id": "Giveapinch/No-Bos",
-    "language": "\u2014",
-    "name": "Giveapinch/No-Bos",
-    "stars": 0,
-    "updated_at": "2026-08-31T12:42:00Z",
-    "url": "https://github.com/Giveapinch/No-Bos"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-31T12:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Reusable skills, agents, and commands for AI-assisted development workflows across Claude Code and Codex.",
@@ -184,7 +220,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 68163,
+    "stars": 68162,
     "updated_at": "2026-08-31T12:25:53Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -194,7 +230,7 @@
     "language": "Shell",
     "name": "giladbarnea/interaction",
     "stars": 0,
-    "updated_at": "2026-08-31T12:24:29Z",
+    "updated_at": "2026-08-31T12:57:46Z",
     "url": "https://github.com/giladbarnea/interaction"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4393,
-    "updated_at": "2026-08-31T12:42:30Z",
+    "updated_at": "2026-08-31T12:52:20Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -311,7 +347,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 33971,
-    "updated_at": "2026-08-31T12:32:18Z",
+    "updated_at": "2026-08-31T12:58:33Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -383,17 +419,8 @@
     "language": "Python",
     "name": "StefanoZaghi1987/ClaudeSkills",
     "stars": 1,
-    "updated_at": "2026-08-31T12:20:35Z",
+    "updated_at": "2026-08-31T12:46:50Z",
     "url": "https://github.com/StefanoZaghi1987/ClaudeSkills"
-  },
-  {
-    "description": "Say what the picture must contain, check that it does, and refuse when it does not. A typed contract of depictable claim",
-    "id": "mcp-tool-shop-org/prompt-craft",
-    "language": "Python",
-    "name": "mcp-tool-shop-org/prompt-craft",
-    "stars": 0,
-    "updated_at": "2026-08-31T12:08:06Z",
-    "url": "https://github.com/mcp-tool-shop-org/prompt-craft"
   },
   {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
@@ -403,15 +430,6 @@
     "stars": 13,
     "updated_at": "2026-08-31T12:07:56Z",
     "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 18,
-    "updated_at": "2026-08-31T12:41:10Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
     "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27748,
-    "updated_at": "2026-08-31T12:21:05Z",
+    "updated_at": "2026-08-31T12:54:03Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The shortest complete answer: an agent skill",
-    "id": "agent-axiom/laconian",
-    "language": "Python",
-    "name": "agent-axiom/laconian",
-    "stars": 7,
-    "updated_at": "2026-08-31T12:06:56Z",
-    "url": "https://github.com/agent-axiom/laconian"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13316,
-    "updated_at": "2026-08-31T12:06:17Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   }
 ]
