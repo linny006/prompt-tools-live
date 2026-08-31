@@ -1,11 +1,74 @@
 [
   {
+    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
+    "id": "Ntizar/MasterMind",
+    "language": "HTML",
+    "name": "Ntizar/MasterMind",
+    "stars": 2,
+    "updated_at": "2026-08-31T23:29:00Z",
+    "url": "https://github.com/Ntizar/MasterMind"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 57,
+    "updated_at": "2026-08-31T23:28:18Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 25,
+    "updated_at": "2026-08-31T23:27:47Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
+    "id": "Prysai/Prysai-LLM-Playbook",
+    "language": "Python",
+    "name": "Prysai/Prysai-LLM-Playbook",
+    "stars": 213,
+    "updated_at": "2026-08-31T23:24:48Z",
+    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+  },
+  {
+    "description": "A ready-made .claude/ kit for Claude Code: 16 skills, 5 subagents, 4 slash commands, MCP server configs and multi-agent ",
+    "id": "mateusands/claude-code-crew-kit",
+    "language": "JavaScript",
+    "name": "mateusands/claude-code-crew-kit",
+    "stars": 0,
+    "updated_at": "2026-08-31T23:22:15Z",
+    "url": "https://github.com/mateusands/claude-code-crew-kit"
+  },
+  {
+    "description": "Multi-agent AI skill orchestration \u2014 13 skills, 7 lifecycle phases, from idea to post-release. Works with Claude Code, C",
+    "id": "LangeVC/skillweave",
+    "language": "Python",
+    "name": "LangeVC/skillweave",
+    "stars": 4,
+    "updated_at": "2026-08-31T23:20:58Z",
+    "url": "https://github.com/LangeVC/skillweave"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-08-31T23:20:40Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
     "id": "FlorianBruniaux/claude-code-ultimate-guide",
     "language": "Python",
     "name": "FlorianBruniaux/claude-code-ultimate-guide",
     "stars": 5864,
-    "updated_at": "2026-08-31T23:20:33Z",
+    "updated_at": "2026-08-31T23:20:37Z",
     "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
   },
   {
@@ -72,15 +135,6 @@
     "url": "https://github.com/emanf/eDock-Files2Prompt"
   },
   {
-    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
-    "id": "Prysai/Prysai-LLM-Playbook",
-    "language": "Python",
-    "name": "Prysai/Prysai-LLM-Playbook",
-    "stars": 213,
-    "updated_at": "2026-08-31T23:16:21Z",
-    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
-  },
-  {
     "description": "AI-powered CLI assistant \u2014 query LLMs, manage prompts, and automate workflows from your terminal",
     "id": "Raphasha27/ai-prompt-cli",
     "language": "Python",
@@ -88,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T23:16:06Z",
     "url": "https://github.com/Raphasha27/ai-prompt-cli"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-08-31T23:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "100+ open source security agents for the agentgg scanner. Every agent is a markdown file. Found a bug class we're missin",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T23:04:32Z",
     "url": "https://github.com/Tubifix77/red-thread"
-  },
-  {
-    "description": "A ready-made .claude/ kit for Claude Code: 16 skills, 5 subagents, 4 slash commands, MCP server configs and multi-agent ",
-    "id": "mateusands/claude-code-crew-kit",
-    "language": "JavaScript",
-    "name": "mateusands/claude-code-crew-kit",
-    "stars": 0,
-    "updated_at": "2026-08-31T23:01:54Z",
-    "url": "https://github.com/mateusands/claude-code-crew-kit"
   },
   {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
@@ -412,41 +448,5 @@
     "stars": 11266,
     "updated_at": "2026-08-31T23:15:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "A library of reusable instructions and Claude Code skills for AI coding agents.",
-    "id": "konstruktoid/agent-instructions-skills",
-    "language": "Python",
-    "name": "konstruktoid/agent-instructions-skills",
-    "stars": 1,
-    "updated_at": "2026-08-31T22:13:54Z",
-    "url": "https://github.com/konstruktoid/agent-instructions-skills"
-  },
-  {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 47,
-    "updated_at": "2026-08-31T22:10:15Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "Self-hosted web sharing portal and snapshot viewer for PromptBranch (Next.js SSR & Docker deployment).",
-    "id": "PromptBranch/promptbranch-portal",
-    "language": "TypeScript",
-    "name": "PromptBranch/promptbranch-portal",
-    "stars": 0,
-    "updated_at": "2026-08-31T22:10:07Z",
-    "url": "https://github.com/PromptBranch/promptbranch-portal"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 33992,
-    "updated_at": "2026-08-31T22:08:28Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
