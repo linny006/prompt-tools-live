@@ -1,12 +1,30 @@
 [
   {
+    "description": "Operator-grade AI agent skills for Claude Code, Cursor, Codex, and opencode.",
+    "id": "manusco/resonance",
+    "language": "Python",
+    "name": "manusco/resonance",
+    "stars": 37,
+    "updated_at": "2026-09-01T19:31:47Z",
+    "url": "https://github.com/manusco/resonance"
+  },
+  {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
     "id": "ekayaprod/jules-agent-roster",
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 3,
-    "updated_at": "2026-09-01T19:28:16Z",
+    "updated_at": "2026-09-01T19:32:43Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-01T19:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
@@ -108,15 +126,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Operator-grade AI agent skills for Claude Code, Cursor, Codex, and opencode.",
-    "id": "manusco/resonance",
-    "language": "Python",
-    "name": "manusco/resonance",
-    "stars": 37,
-    "updated_at": "2026-09-01T19:30:06Z",
-    "url": "https://github.com/manusco/resonance"
-  },
-  {
     "description": "Open-source design intelligence pipeline that detects generic AI interfaces and guides LLM output toward deliberate visu",
     "id": "Almotasembellahawwad/Verve",
     "language": "TypeScript",
@@ -135,6 +144,15 @@
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
   },
   {
+    "description": "100+ open source security agents for the agentgg scanner. Every agent is a markdown file. Found a bug class we're missin",
+    "id": "agentgg-dev/agentgg-agents",
+    "language": "Shell",
+    "name": "agentgg-dev/agentgg-agents",
+    "stars": 4,
+    "updated_at": "2026-09-01T19:15:55Z",
+    "url": "https://github.com/agentgg-dev/agentgg-agents"
+  },
+  {
     "description": "Zero-dependency, high-performance CLI for prompt enhancement, markdown restructuring, offline image prompt assembly, and",
     "id": "dotcommander/prompter",
     "language": "Go",
@@ -144,15 +162,6 @@
     "url": "https://github.com/dotcommander/prompter"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-01T19:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
     "id": "renoise-ai/awesome-seedance-prompts",
     "language": "TypeScript",
@@ -160,6 +169,15 @@
     "stars": 6,
     "updated_at": "2026-09-01T19:15:12Z",
     "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "AI-powered multimodal insurance claim verification system that analyzes images, claim conversations, user history, and e",
+    "id": "RakshatTiwari/multimodal-insurance-claim-verification",
+    "language": "Python",
+    "name": "RakshatTiwari/multimodal-insurance-claim-verification",
+    "stars": 0,
+    "updated_at": "2026-09-01T19:14:14Z",
+    "url": "https://github.com/RakshatTiwari/multimodal-insurance-claim-verification"
   },
   {
     "description": "LLM-powered Text-to-SQL analytics chatbot that converts natural-language questions into executable SQL and business insi",
@@ -297,15 +315,6 @@
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
   },
   {
-    "description": "AI-powered multimodal insurance claim verification system that analyzes images, claim conversations, user history, and e",
-    "id": "RakshatTiwari/multimodal-insurance-claim-verification",
-    "language": "Python",
-    "name": "RakshatTiwari/multimodal-insurance-claim-verification",
-    "stars": 0,
-    "updated_at": "2026-09-01T19:14:14Z",
-    "url": "https://github.com/RakshatTiwari/multimodal-insurance-claim-verification"
-  },
-  {
     "description": "Spec-first Planner \u2192 Builder \u2192 Judge workflow for reliable AI coding agents.",
     "id": "joker01-01/cursor-plan-build-judge",
     "language": "Python",
@@ -428,7 +437,7 @@
     "language": "\u2014",
     "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
     "stars": 1,
-    "updated_at": "2026-09-01T19:17:45Z",
+    "updated_at": "2026-09-01T19:32:47Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 138,
     "updated_at": "2026-09-01T18:53:29Z",
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "kanithanj.ai \u2014 Tauri heading cockpit: live fit/prep, SQLite ledger, next-act map",
-    "id": "p10ns11y/collab-finder",
-    "language": "Rust",
-    "name": "p10ns11y/collab-finder",
-    "stars": 2,
-    "updated_at": "2026-09-01T18:51:44Z",
-    "url": "https://github.com/p10ns11y/collab-finder"
   }
 ]
