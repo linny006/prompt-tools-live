@@ -1,5 +1,95 @@
 [
   {
+    "description": "Model-agnostic autonomous coding agent engine with Claude Code capabilities, subagents, and an 18-target cross-agent SSO",
+    "id": "ucsandman/Agnostic-AI",
+    "language": "Python",
+    "name": "ucsandman/Agnostic-AI",
+    "stars": 3,
+    "updated_at": "2026-09-01T02:57:49Z",
+    "url": "https://github.com/ucsandman/Agnostic-AI"
+  },
+  {
+    "description": "Prompt Runner SDK - Elixir toolkit for orchestrating multi-step prompt executions with Claude Code SDK and Codex SDK. St",
+    "id": "nshkrdotcom/prompt_runner_sdk",
+    "language": "Elixir",
+    "name": "nshkrdotcom/prompt_runner_sdk",
+    "stars": 2,
+    "updated_at": "2026-09-01T02:57:29Z",
+    "url": "https://github.com/nshkrdotcom/prompt_runner_sdk"
+  },
+  {
+    "description": "Advanced multilingual AI humanizer and writing toolkit for natural prose, voice preservation, long-form continuity, and ",
+    "id": "whh110112/human-writing-skills",
+    "language": "Python",
+    "name": "whh110112/human-writing-skills",
+    "stars": 2,
+    "updated_at": "2026-09-01T02:56:43Z",
+    "url": "https://github.com/whh110112/human-writing-skills"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 18,
+    "updated_at": "2026-09-01T02:55:48Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "SAIRAMANALADI/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "SAIRAMANALADI/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-09-01T02:54:46Z",
+    "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-01T02:53:32Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
+    "id": "Ntizar/MasterMind",
+    "language": "HTML",
+    "name": "Ntizar/MasterMind",
+    "stars": 2,
+    "updated_at": "2026-09-01T02:52:40Z",
+    "url": "https://github.com/Ntizar/MasterMind"
+  },
+  {
+    "description": "Evidence-first, token-efficient handoffs for Codex coding and research.",
+    "id": "ChloeVPin/codex-savings",
+    "language": "Python",
+    "name": "ChloeVPin/codex-savings",
+    "stars": 0,
+    "updated_at": "2026-09-01T02:51:45Z",
+    "url": "https://github.com/ChloeVPin/codex-savings"
+  },
+  {
+    "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering ",
+    "id": "ZeroLu/awesome-nanobanana-pro",
+    "language": "\u2014",
+    "name": "ZeroLu/awesome-nanobanana-pro",
+    "stars": 10273,
+    "updated_at": "2026-09-01T02:47:34Z",
+    "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-01T02:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Local, provider-neutral compression for LLM prompts, tool schemas, JSON, logs, and diffs. Lossless, receipt-audited, no ",
     "id": "snchimata/tokenfold",
     "language": "Rust",
@@ -72,6 +162,15 @@
     "url": "https://github.com/Brhiza/mingyu"
   },
   {
+    "description": "\u80a1\u6559\u7ec3AI | AI\u4ea4\u6613\u6210\u957f\u6559\u7ec3 - \u4ea7\u54c1\u6848\u4f8b\u7814\u7a76\uff1a\u4ea7\u54c1\u5b9a\u4f4d\u3001\u7528\u6237\u7814\u7a76\u3001AI\u5408\u89c4\u8bbe\u8ba1\u3001\u6570\u636e\u95ed\u73af\u3001\u6280\u672f\u67b6\u6784\u3001\u5546\u4e1a\u5316",
+    "id": "sfqw-a77/stock-coach-case-study",
+    "language": "\u2014",
+    "name": "sfqw-a77/stock-coach-case-study",
+    "stars": 0,
+    "updated_at": "2026-09-01T02:39:09Z",
+    "url": "https://github.com/sfqw-a77/stock-coach-case-study"
+  },
+  {
     "description": "Installable, managed global instructions, subagents, skills, and engineering workflows for Claude Code.",
     "id": "ArcanEdge-AI/coding-agent-playbook-claude-code",
     "language": "Shell",
@@ -94,7 +193,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "TypeScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 10785,
+    "stars": 10786,
     "updated_at": "2026-09-01T02:37:08Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -115,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T02:36:29Z",
     "url": "https://github.com/fsrmqi/dsh-promptkit"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-01T02:35:39Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Production-validated MiniMax H3 prompt director + validator for chained cinematic scenes (CC BY 4.0)",
@@ -153,15 +243,6 @@
     "url": "https://github.com/Hahaknight/claude-skills-pro"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-01T02:30:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "DSH \u534f\u4f5c\u6a21\u5f0f preset\uff1a\u53cc\u505c\u70b9\u786e\u8ba4\u3001\u7248\u672c\u5316\u72b6\u6001\u3001\u5019\u9009\u51bb\u7ed3\u4e0e\u72ec\u7acb\u5ba1\u67e5\u7684\u591a Agent \u534f\u4f5c\u89c4\u8303 \u00b7 Governed multi-agent collaboration preset for DSH",
     "id": "a1270425803-bit/dsh-collab-mode",
     "language": "JavaScript",
@@ -187,15 +268,6 @@
     "stars": 14,
     "updated_at": "2026-09-01T02:29:33Z",
     "url": "https://github.com/Nano-Collective/prompt-scrubber"
-  },
-  {
-    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
-    "id": "Ntizar/MasterMind",
-    "language": "HTML",
-    "name": "Ntizar/MasterMind",
-    "stars": 2,
-    "updated_at": "2026-09-01T02:28:19Z",
-    "url": "https://github.com/Ntizar/MasterMind"
   },
   {
     "description": "Free, module-wise training for building applications with LLMs \u2014 prompt engineering, LLM APIs, tool calling, agents, and",
@@ -279,15 +351,6 @@
     "url": "https://github.com/conorbronsdon/agent-context-os"
   },
   {
-    "description": "Advanced multilingual AI humanizer and writing toolkit for natural prose, voice preservation, long-form continuity, and ",
-    "id": "whh110112/human-writing-skills",
-    "language": "Python",
-    "name": "whh110112/human-writing-skills",
-    "stars": 2,
-    "updated_at": "2026-09-01T02:18:19Z",
-    "url": "https://github.com/whh110112/human-writing-skills"
-  },
-  {
     "description": "ARIOS - Artificial Renewable Intelligence Operating System",
     "id": "Phuire-Research/SuiteCascadeSystem",
     "language": "TypeScript",
@@ -328,7 +391,7 @@
     "id": "github/awesome-copilot",
     "language": "JavaScript",
     "name": "github/awesome-copilot",
-    "stars": 38488,
+    "stars": 38489,
     "updated_at": "2026-09-01T02:04:54Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -385,68 +448,5 @@
     "stars": 130,
     "updated_at": "2026-09-01T01:57:47Z",
     "url": "https://github.com/kangraemin/claude-inspector"
-  },
-  {
-    "description": "Local, read-only audit for stale AGENTS.md, CLAUDE.md, and generic SKILL.md instructions.",
-    "id": "ooocooc/open-skill-sunset",
-    "language": "JavaScript",
-    "name": "ooocooc/open-skill-sunset",
-    "stars": 88,
-    "updated_at": "2026-09-01T01:52:26Z",
-    "url": "https://github.com/ooocooc/open-skill-sunset"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-09-01T01:52:25Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
-    "id": "thkt/dotclaude",
-    "language": "JavaScript",
-    "name": "thkt/dotclaude",
-    "stars": 11,
-    "updated_at": "2026-09-01T02:39:12Z",
-    "url": "https://github.com/thkt/dotclaude"
-  },
-  {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 47,
-    "updated_at": "2026-09-01T01:45:41Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 1,
-    "updated_at": "2026-09-01T01:45:32Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-09-01T01:44:30Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 118,
-    "updated_at": "2026-09-01T01:37:07Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
   }
 ]
