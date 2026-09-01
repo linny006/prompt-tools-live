@@ -1,11 +1,137 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-01T11:14:37Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Turn any AI into a gamified learning engine. Master Python, PowerShell, and Linux through missions, zero installation, a",
+    "id": "Joupow/The-Prompt",
+    "language": "\u2014",
+    "name": "Joupow/The-Prompt",
+    "stars": 0,
+    "updated_at": "2026-09-01T11:11:30Z",
+    "url": "https://github.com/Joupow/The-Prompt"
+  },
+  {
+    "description": "Remove unrequested caveats, faux rigor, invented metrics, and AI formatting residue from academic writing.",
+    "id": "ZF-Utokyo/anti-ai-defensive-writing",
+    "language": "Python",
+    "name": "ZF-Utokyo/anti-ai-defensive-writing",
+    "stars": 2,
+    "updated_at": "2026-09-01T11:11:16Z",
+    "url": "https://github.com/ZF-Utokyo/anti-ai-defensive-writing"
+  },
+  {
+    "description": "On-device prompt injection & jailbreak scanner for LLM apps: 22 deterministic rules across 8 attack categories score any",
+    "id": "pxlcrtiv/inject-scout",
+    "language": "Python",
+    "name": "pxlcrtiv/inject-scout",
+    "stars": 0,
+    "updated_at": "2026-09-01T11:10:45Z",
+    "url": "https://github.com/pxlcrtiv/inject-scout"
+  },
+  {
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 8,
+    "updated_at": "2026-09-01T11:13:18Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 20,
+    "updated_at": "2026-09-01T11:06:06Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Local, read-only audit for stale AGENTS.md, CLAUDE.md, and generic SKILL.md instructions.",
+    "id": "ooocooc/open-skill-sunset",
+    "language": "JavaScript",
+    "name": "ooocooc/open-skill-sunset",
+    "stars": 88,
+    "updated_at": "2026-09-01T11:12:29Z",
+    "url": "https://github.com/ooocooc/open-skill-sunset"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3520,
+    "updated_at": "2026-09-01T11:14:16Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-01T11:02:42Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 1,
+    "updated_at": "2026-09-01T11:02:29Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 38,
+    "updated_at": "2026-09-01T11:01:00Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-01T11:00:38Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-",
+    "id": "2akouwu/codex-cli-portable-setup-kit",
+    "language": "Python",
+    "name": "2akouwu/codex-cli-portable-setup-kit",
+    "stars": 29,
+    "updated_at": "2026-09-01T10:59:15Z",
+    "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit"
+  },
+  {
+    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
+    "id": "Kenny27lokku/prompt-integrity-validator",
+    "language": "HTML",
+    "name": "Kenny27lokku/prompt-integrity-validator",
+    "stars": 2,
+    "updated_at": "2026-09-01T10:58:57Z",
+    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
+  },
+  {
     "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
     "id": "minipuft/claude-prompts-mcp",
     "language": "TypeScript",
     "name": "minipuft/claude-prompts-mcp",
     "stars": 185,
-    "updated_at": "2026-09-01T10:58:39Z",
+    "updated_at": "2026-09-01T11:10:09Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
@@ -41,17 +167,8 @@
     "language": "JavaScript",
     "name": "kadevin/ilab-conjure",
     "stars": 686,
-    "updated_at": "2026-09-01T10:56:16Z",
+    "updated_at": "2026-09-01T11:01:37Z",
     "url": "https://github.com/kadevin/ilab-conjure"
-  },
-  {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 8,
-    "updated_at": "2026-09-01T10:56:11Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
   },
   {
     "description": "\u7ed9 AI Agent \u7528\u7684\u62db\u8058\u6280\u80fd\u5305\uff1a\u7b80\u5386\u7b5b\u9009 \u2192 \u9762\u8bd5\u5206\u6790 \u2192 \u9762\u8bd5\u5b98\u590d\u76d8\uff0c\u4e09\u6bb5\u6d41\u7a0b\u5171\u4eab\u76ee\u5f55\u7ea6\u5b9a\u4e0e\u4ea4\u53c9\u9a8c\u8bc1\u951a\u70b9",
@@ -68,7 +185,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27764,
-    "updated_at": "2026-09-01T10:55:34Z",
+    "updated_at": "2026-09-01T11:15:25Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -94,7 +211,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34036,
+    "stars": 34039,
     "updated_at": "2026-09-01T10:54:06Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -162,6 +279,15 @@
     "url": "https://github.com/leeex1/Quillan-Ronin"
   },
   {
+    "description": "Self-healing prompt engineering. Autonomously test, converge, and translate prompts across 225+ AI models.",
+    "id": "enchanter-ai/wixie",
+    "language": "Python",
+    "name": "enchanter-ai/wixie",
+    "stars": 2,
+    "updated_at": "2026-09-01T11:15:22Z",
+    "url": "https://github.com/enchanter-ai/wixie"
+  },
+  {
     "description": "Learns what you leave unsaid in your prompts and steers the DeepSeek Harness agent for you",
     "id": "hackernotfound/dsh-tacit",
     "language": "JavaScript",
@@ -178,15 +304,6 @@
     "stars": 4,
     "updated_at": "2026-09-01T10:49:19Z",
     "url": "https://github.com/tjdwls101010/Harness-Creator"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-01T10:55:58Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
@@ -225,24 +342,6 @@
     "url": "https://github.com/rockerlabs/keel"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-01T10:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Turn any AI into a gamified learning engine. Master Python, PowerShell, and Linux through missions, zero installation, a",
-    "id": "Joupow/The-Prompt",
-    "language": "\u2014",
-    "name": "Joupow/The-Prompt",
-    "stars": 0,
-    "updated_at": "2026-09-01T10:44:49Z",
-    "url": "https://github.com/Joupow/The-Prompt"
-  },
-  {
     "description": "A stack-agnostic, human-in-the-loop AI development workflow kit. The kit owns the workflow; your project owns the stack.",
     "id": "rikilamadrid/pathfinder",
     "language": "JavaScript",
@@ -257,7 +356,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 3681,
-    "updated_at": "2026-09-01T10:42:38Z",
+    "updated_at": "2026-09-01T11:14:22Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -315,15 +414,6 @@
     "url": "https://github.com/ntatschner/loadout-cli"
   },
   {
-    "description": "Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-",
-    "id": "2akouwu/codex-cli-portable-setup-kit",
-    "language": "Python",
-    "name": "2akouwu/codex-cli-portable-setup-kit",
-    "stars": 29,
-    "updated_at": "2026-09-01T10:59:15Z",
-    "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit"
-  },
-  {
     "description": "A folder-based AI food-memory researcher. Drop it into a Claude project and it investigates a half-remembered family dis",
     "id": "simongonzalezdc/achiote-food-memory-researcher",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T10:31:51Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Engineered to transcend human limits. While other platforms struggle with basic utility, we have perfected absolute domi",
-    "id": "Rona-code/flowly.ai",
-    "language": "TypeScript",
-    "name": "Rona-code/flowly.ai",
-    "stars": 0,
-    "updated_at": "2026-09-01T10:31:19Z",
-    "url": "https://github.com/Rona-code/flowly.ai"
-  },
-  {
-    "description": "\u26a1\ufe0f Tiered AI Agent workflows (L1-L3) for autonomous coding. Standardized templates for Claude Code & Codex to ensure arc",
-    "id": "shaligg/ai-workflow-templates",
-    "language": "Shell",
-    "name": "shaligg/ai-workflow-templates",
-    "stars": 2,
-    "updated_at": "2026-09-01T10:28:45Z",
-    "url": "https://github.com/shaligg/ai-workflow-templates"
-  },
-  {
-    "description": "Claude Code injects every skill's frontmatter into the system prompt on every turn. 89 skills = 61,533 bytes before you ",
-    "id": "Fabi-SPL/skill-router",
-    "language": "JavaScript",
-    "name": "Fabi-SPL/skill-router",
-    "stars": 1,
-    "updated_at": "2026-09-01T10:25:10Z",
-    "url": "https://github.com/Fabi-SPL/skill-router"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-09-01T10:24:04Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-09-01T10:23:59Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5863,
-    "updated_at": "2026-09-01T10:21:41Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 8,
-    "updated_at": "2026-09-01T10:20:01Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-09-01T10:18:26Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "vibestack is a portable skill pack for AI coding agents. Slash commands like /office-hours, /ship, /investigate, /tdd, /",
-    "id": "timurgaleev/vibestack",
-    "language": "TypeScript",
-    "name": "timurgaleev/vibestack",
-    "stars": 6,
-    "updated_at": "2026-09-01T10:18:20Z",
-    "url": "https://github.com/timurgaleev/vibestack"
-  },
-  {
-    "description": "Meta-prompt framework for Claude. Interviews first, builds second, routes to the right artifact class.",
-    "id": "Tobeiyyy/FLIP-prompt-architect",
-    "language": "\u2014",
-    "name": "Tobeiyyy/FLIP-prompt-architect",
-    "stars": 2,
-    "updated_at": "2026-09-01T10:16:42Z",
-    "url": "https://github.com/Tobeiyyy/FLIP-prompt-architect"
   }
 ]
