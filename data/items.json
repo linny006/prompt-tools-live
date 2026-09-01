@@ -1,12 +1,93 @@
 [
   {
+    "description": "Codex \u5de5\u4f5c\u6d41\u3001\u6545\u969c\u6392\u67e5\u4e0e\u672c\u5730\u5de5\u5177 | Practical Codex workflows, troubleshooting guides, and utilities.",
+    "id": "RongNianXin/codex-workflows",
+    "language": "PowerShell",
+    "name": "RongNianXin/codex-workflows",
+    "stars": 0,
+    "updated_at": "2026-09-01T08:29:38Z",
+    "url": "https://github.com/RongNianXin/codex-workflows"
+  },
+  {
+    "description": "Cuaderno de produccion abierto de las imagenes de Verso: el camino, los callejones sin salida y los prompts que salieron",
+    "id": "andyeswong/verso-imagenes",
+    "language": "\u2014",
+    "name": "andyeswong/verso-imagenes",
+    "stars": 0,
+    "updated_at": "2026-09-01T08:29:13Z",
+    "url": "https://github.com/andyeswong/verso-imagenes"
+  },
+  {
+    "description": "Production WhatsApp AI agent for a hardware store \u2014 5-layer RAG retrieval (pg_trgm fuzzy matching + OpenAI embeddings/pg",
+    "id": "Gus2708/whatsapp-agent",
+    "language": "JavaScript",
+    "name": "Gus2708/whatsapp-agent",
+    "stars": 0,
+    "updated_at": "2026-09-01T08:29:52Z",
+    "url": "https://github.com/Gus2708/whatsapp-agent"
+  },
+  {
+    "description": "\ud83c\udfac Curated Seedance 2.5 video prompts with preview frames \u2014 auto-generated README, EN/\u4e2d\u6587",
+    "id": "velokey-ai/awesome-seedance-2.5-prompts",
+    "language": "Python",
+    "name": "velokey-ai/awesome-seedance-2.5-prompts",
+    "stars": 2,
+    "updated_at": "2026-09-01T08:20:04Z",
+    "url": "https://github.com/velokey-ai/awesome-seedance-2.5-prompts"
+  },
+  {
+    "description": "178-term bilingual taxonomy for AI-assisted programming: vibe coding, agentic engineering, Claude Code, MCP, RAG, and mo",
+    "id": "xiangbianpangde/vibe-coding-wiki",
+    "language": "JavaScript",
+    "name": "xiangbianpangde/vibe-coding-wiki",
+    "stars": 1,
+    "updated_at": "2026-09-01T08:18:18Z",
+    "url": "https://github.com/xiangbianpangde/vibe-coding-wiki"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-01T08:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Before asking AI for an answer, find the question that actually matters.",
     "id": "lilwind7/RightQuestion",
     "language": "Python",
     "name": "lilwind7/RightQuestion",
     "stars": 0,
-    "updated_at": "2026-09-01T08:15:11Z",
+    "updated_at": "2026-09-01T08:30:28Z",
     "url": "https://github.com/lilwind7/RightQuestion"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34024,
+    "updated_at": "2026-09-01T08:14:57Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Drop-in instructions, prompts, and workflows to reduce token usage across Codex, Claude Code, GitHub Copilot, Cursor, an",
+    "id": "ravinperera/ai-token-efficiency-playbook",
+    "language": "Python",
+    "name": "ravinperera/ai-token-efficiency-playbook",
+    "stars": 10,
+    "updated_at": "2026-09-01T08:14:23Z",
+    "url": "https://github.com/ravinperera/ai-token-efficiency-playbook"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5863,
+    "updated_at": "2026-09-01T08:13:47Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
   },
   {
     "description": "\ud83c\udfa8 Curated Seedream 5.0 Pro prompts with previews \u2014 auto-generated README, EN/\u4e2d\u6587",
@@ -18,13 +99,22 @@
     "url": "https://github.com/velokey-ai/awesome-seedream-5.0-pro-prompts"
   },
   {
-    "description": "Production WhatsApp AI agent for a hardware store \u2014 5-layer RAG retrieval (pg_trgm fuzzy matching + OpenAI embeddings/pg",
-    "id": "Gus2708/whatsapp-agent",
-    "language": "JavaScript",
-    "name": "Gus2708/whatsapp-agent",
-    "stars": 0,
-    "updated_at": "2026-09-01T08:14:16Z",
-    "url": "https://github.com/Gus2708/whatsapp-agent"
+    "description": "Libreria locale-first per prompt AI \u2014 vault cifrato, ricerca semantica offline, MCP-ready, AGPL 3.0",
+    "id": "robertomarchioro/prompt-a-porter",
+    "language": "Rust",
+    "name": "robertomarchioro/prompt-a-porter",
+    "stars": 3,
+    "updated_at": "2026-09-01T08:10:44Z",
+    "url": "https://github.com/robertomarchioro/prompt-a-porter"
+  },
+  {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 2,
+    "updated_at": "2026-09-01T08:09:26Z",
+    "url": "https://github.com/Ohswedd/vincio"
   },
   {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "braboj/solid-ai-templates",
     "stars": 3,
-    "updated_at": "2026-09-01T08:05:20Z",
+    "updated_at": "2026-09-01T08:29:45Z",
     "url": "https://github.com/braboj/solid-ai-templates"
   },
   {
@@ -55,21 +145,12 @@
   },
   {
     "description": "DSH \u534f\u4f5c\u6a21\u5f0f preset\uff1a\u53cc\u505c\u70b9\u786e\u8ba4\u3001\u7248\u672c\u5316\u72b6\u6001\u3001\u5019\u9009\u51bb\u7ed3\u4e0e\u72ec\u7acb\u5ba1\u67e5\u7684\u591a Agent \u534f\u4f5c\u89c4\u8303 \u00b7 Governed multi-agent collaboration preset for DSH",
-    "id": "a1270425803-bit/dsh-collab-mode",
+    "id": "YippeeXuXu/dsh-collab-mode",
     "language": "JavaScript",
-    "name": "a1270425803-bit/dsh-collab-mode",
-    "stars": 1,
+    "name": "YippeeXuXu/dsh-collab-mode",
+    "stars": 3,
     "updated_at": "2026-09-01T08:02:21Z",
-    "url": "https://github.com/a1270425803-bit/dsh-collab-mode"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34022,
-    "updated_at": "2026-09-01T08:14:57Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "url": "https://github.com/YippeeXuXu/dsh-collab-mode"
   },
   {
     "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
@@ -108,21 +189,12 @@
     "url": "https://github.com/tushaarmehtaa/zero-to-ai-native"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-01T08:00:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21727,
-    "updated_at": "2026-09-01T08:07:32Z",
+    "updated_at": "2026-09-01T08:23:23Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -176,7 +248,7 @@
     "language": "\u2014",
     "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
     "stars": 1,
-    "updated_at": "2026-09-01T07:53:30Z",
+    "updated_at": "2026-09-01T08:22:34Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
@@ -230,7 +302,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 10,
-    "updated_at": "2026-09-01T08:13:18Z",
+    "updated_at": "2026-09-01T08:20:13Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -238,7 +310,7 @@
     "id": "62656456/ai-film-skills",
     "language": "Python",
     "name": "62656456/ai-film-skills",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-09-01T07:45:11Z",
     "url": "https://github.com/62656456/ai-film-skills"
   },
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T07:25:38Z",
     "url": "https://github.com/fuchao2pku/awesome-dsh-experts"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-09-01T07:25:24Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "Transparent, self-correcting NL-to-SQL analytics copilot \u2014 LangChain LCEL pipeline with a bounded repair loop, AST-level",
-    "id": "meet7364/NL-To-SQL",
-    "language": "CSS",
-    "name": "meet7364/NL-To-SQL",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:25:20Z",
-    "url": "https://github.com/meet7364/NL-To-SQL"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-09-01T07:23:06Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Create polished presentations and clear owner briefs with Codex skills for visual decks, intent validation, and outcome ",
-    "id": "Yazanw6234/presentation-delivery-skills",
-    "language": "\u2014",
-    "name": "Yazanw6234/presentation-delivery-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:22:56Z",
-    "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference.",
-    "id": "Ak863153/ChatGPT-Persona-Voice",
-    "language": "\u2014",
-    "name": "Ak863153/ChatGPT-Persona-Voice",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:22:04Z",
-    "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24716,
-    "updated_at": "2026-09-01T07:21:34Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Track and instantly rewind your SQLite database to any previous state during local development with a video-like scrubbe",
-    "id": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "language": "HTML",
-    "name": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:21:03Z",
-    "url": "https://github.com/nonliteral-fullhouse266/time-travel-sqlite-debugger"
-  },
-  {
-    "description": "Give your AI coding assistant a cautious, meticulous Korean developer personality with this persona plugin for OpenAI Co",
-    "id": "partible-dicer700/SoDam-Persona-Codex",
-    "language": "JavaScript",
-    "name": "partible-dicer700/SoDam-Persona-Codex",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:21:01Z",
-    "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
   }
 ]
