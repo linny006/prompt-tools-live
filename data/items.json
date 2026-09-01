@@ -1,5 +1,122 @@
 [
   {
+    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
+    "id": "hanzhangzzz/agent-skills-zh",
+    "language": "Python",
+    "name": "hanzhangzzz/agent-skills-zh",
+    "stars": 1,
+    "updated_at": "2026-09-01T03:29:42Z",
+    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:28:22Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "360 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a ",
+    "id": "kydlikebtc/awesome-grokbot",
+    "language": "Python",
+    "name": "kydlikebtc/awesome-grokbot",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:23:57Z",
+    "url": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27759,
+    "updated_at": "2026-09-01T03:23:51Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "C\u00e9rebro central de diretrizes operacionais, regras de arquitetura e padr\u00f5es de c\u00f3digo para sincroniza\u00e7\u00e3o autom\u00e1tica com ",
+    "id": "JeffMr/diretrizes-ia",
+    "language": "HTML",
+    "name": "JeffMr/diretrizes-ia",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:23:48Z",
+    "url": "https://github.com/JeffMr/diretrizes-ia"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 1,
+    "updated_at": "2026-09-01T03:27:40Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 155,
+    "updated_at": "2026-09-01T03:22:46Z",
+    "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
+    "description": "Open Film Skills: 19 standalone Agent Skills for scripts, directing, storyboards, visual assets, prompts, and AI-video w",
+    "id": "62656456/ai-film-skills",
+    "language": "Python",
+    "name": "62656456/ai-film-skills",
+    "stars": 5,
+    "updated_at": "2026-09-01T03:22:01Z",
+    "url": "https://github.com/62656456/ai-film-skills"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-01T03:20:44Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-hos",
+    "id": "f/prompts.chat",
+    "language": "HTML",
+    "name": "f/prompts.chat",
+    "stars": 168360,
+    "updated_at": "2026-09-01T03:19:49Z",
+    "url": "https://github.com/f/prompts.chat"
+  },
+  {
+    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "HTML",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 27,
+    "updated_at": "2026-09-01T03:16:59Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-01T03:15:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11267,
+    "updated_at": "2026-09-01T03:14:53Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
     "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
     "language": "TypeScript",
@@ -9,22 +126,13 @@
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
   },
   {
-    "description": "C\u00e9rebro central de diretrizes operacionais, regras de arquitetura e padr\u00f5es de c\u00f3digo para sincroniza\u00e7\u00e3o autom\u00e1tica com ",
-    "id": "JeffMr/diretrizes-ia",
-    "language": "HTML",
-    "name": "JeffMr/diretrizes-ia",
+    "description": "DSH \u534f\u4f5c\u6a21\u5f0f preset\uff1a\u53cc\u505c\u70b9\u786e\u8ba4\u3001\u7248\u672c\u5316\u72b6\u6001\u3001\u5019\u9009\u51bb\u7ed3\u4e0e\u72ec\u7acb\u5ba1\u67e5\u7684\u591a Agent \u534f\u4f5c\u89c4\u8303 \u00b7 Governed multi-agent collaboration preset for DSH",
+    "id": "a1270425803-bit/dsh-collab-mode",
+    "language": "JavaScript",
+    "name": "a1270425803-bit/dsh-collab-mode",
     "stars": 0,
-    "updated_at": "2026-09-01T03:12:39Z",
-    "url": "https://github.com/JeffMr/diretrizes-ia"
-  },
-  {
-    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
-    "id": "leeex1/Quillan-Ronin",
-    "language": "HTML",
-    "name": "leeex1/Quillan-Ronin",
-    "stars": 27,
-    "updated_at": "2026-09-01T03:12:36Z",
-    "url": "https://github.com/leeex1/Quillan-Ronin"
+    "updated_at": "2026-09-01T03:13:02Z",
+    "url": "https://github.com/a1270425803-bit/dsh-collab-mode"
   },
   {
     "description": "Advanced multilingual AI humanizer and writing toolkit for natural prose, voice preservation, long-form continuity, and ",
@@ -72,24 +180,6 @@
     "url": "https://github.com/nuttaruj/rolepod"
   },
   {
-    "description": "360 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a ",
-    "id": "kydlikebtc/awesome-grokbot",
-    "language": "Python",
-    "name": "kydlikebtc/awesome-grokbot",
-    "stars": 0,
-    "updated_at": "2026-09-01T03:08:01Z",
-    "url": "https://github.com/kydlikebtc/awesome-grokbot"
-  },
-  {
-    "description": "20 standalone, cross-Agent Skills for AI filmmaking\u201418 stable plus 2 isolated experimental modules.",
-    "id": "62656456/ai-film-skills",
-    "language": "Python",
-    "name": "62656456/ai-film-skills",
-    "stars": 5,
-    "updated_at": "2026-09-01T03:06:58Z",
-    "url": "https://github.com/62656456/ai-film-skills"
-  },
-  {
     "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
     "id": "Ntizar/MasterMind",
     "language": "HTML",
@@ -97,33 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-01T03:02:44Z",
     "url": "https://github.com/Ntizar/MasterMind"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-01T03:05:11Z",
-    "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-01T03:00:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
-    "id": "hanzhangzzz/agent-skills-zh",
-    "language": "Python",
-    "name": "hanzhangzzz/agent-skills-zh",
-    "stars": 1,
-    "updated_at": "2026-09-01T02:59:54Z",
-    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
   },
   {
     "description": "Model-agnostic autonomous coding agent engine with Claude Code capabilities, subagents, and an 18-target cross-agent SSO",
@@ -162,15 +225,6 @@
     "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-01T02:53:32Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "Evidence-first, token-efficient handoffs for Codex coding and research.",
     "id": "ChloeVPin/codex-savings",
     "language": "Python",
@@ -184,7 +238,7 @@
     "id": "ZeroLu/awesome-nanobanana-pro",
     "language": "\u2014",
     "name": "ZeroLu/awesome-nanobanana-pro",
-    "stars": 10273,
+    "stars": 10274,
     "updated_at": "2026-09-01T02:47:34Z",
     "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
   },
@@ -214,15 +268,6 @@
     "stars": 11,
     "updated_at": "2026-09-01T02:42:11Z",
     "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27759,
-    "updated_at": "2026-09-01T03:15:15Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
@@ -274,7 +319,7 @@
     "id": "cobusgreyling/loop-engineering",
     "language": "TypeScript",
     "name": "cobusgreyling/loop-engineering",
-    "stars": 10786,
+    "stars": 10787,
     "updated_at": "2026-09-01T02:37:08Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
   },
@@ -324,20 +369,11 @@
     "url": "https://github.com/Hahaknight/claude-skills-pro"
   },
   {
-    "description": "DSH \u534f\u4f5c\u6a21\u5f0f preset\uff1a\u53cc\u505c\u70b9\u786e\u8ba4\u3001\u7248\u672c\u5316\u72b6\u6001\u3001\u5019\u9009\u51bb\u7ed3\u4e0e\u72ec\u7acb\u5ba1\u67e5\u7684\u591a Agent \u534f\u4f5c\u89c4\u8303 \u00b7 Governed multi-agent collaboration preset for DSH",
-    "id": "a1270425803-bit/dsh-collab-mode",
-    "language": "JavaScript",
-    "name": "a1270425803-bit/dsh-collab-mode",
-    "stars": 0,
-    "updated_at": "2026-09-01T03:13:02Z",
-    "url": "https://github.com/a1270425803-bit/dsh-collab-mode"
-  },
-  {
     "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 9663,
+    "stars": 9664,
     "updated_at": "2026-09-01T02:29:55Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-01T02:20:17Z",
     "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
-  },
-  {
-    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, and other compatible c",
-    "id": "conorbronsdon/agent-context-os",
-    "language": "Python",
-    "name": "conorbronsdon/agent-context-os",
-    "stars": 15,
-    "updated_at": "2026-09-01T03:03:09Z",
-    "url": "https://github.com/conorbronsdon/agent-context-os"
-  },
-  {
-    "description": "ARIOS - Artificial Renewable Intelligence Operating System",
-    "id": "Phuire-Research/SuiteCascadeSystem",
-    "language": "TypeScript",
-    "name": "Phuire-Research/SuiteCascadeSystem",
-    "stars": 1,
-    "updated_at": "2026-09-01T02:21:43Z",
-    "url": "https://github.com/Phuire-Research/SuiteCascadeSystem"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 25,
-    "updated_at": "2026-09-01T02:13:35Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "A professional plain English style guide and agent skill that translates legalese and purges AI slop.",
-    "id": "fayerman-source/deslop",
-    "language": "\u2014",
-    "name": "fayerman-source/deslop",
-    "stars": 17,
-    "updated_at": "2026-09-01T02:07:33Z",
-    "url": "https://github.com/fayerman-source/deslop"
   }
 ]
