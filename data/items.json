@@ -1,12 +1,111 @@
 [
   {
+    "description": "Curated Agent Skills scene-packs for AI tools: content publishing across 18 Chinese platforms, AI media generation (vide",
+    "id": "Morningstar202604/awesome-skillkit",
+    "language": "Python",
+    "name": "Morningstar202604/awesome-skillkit",
+    "stars": 1,
+    "updated_at": "2026-09-01T23:45:10Z",
+    "url": "https://github.com/Morningstar202604/awesome-skillkit"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-09-01T23:40:51Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "ComfyUI custom node for generating structured multi-character scene prompts with spatial layout control. Designed for Id",
+    "id": "elliefox-ai/comfyui-scene-generator",
+    "language": "Python",
+    "name": "elliefox-ai/comfyui-scene-generator",
+    "stars": 2,
+    "updated_at": "2026-09-01T23:40:03Z",
+    "url": "https://github.com/elliefox-ai/comfyui-scene-generator"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-09-01T23:39:05Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
     "description": "Cited rules for escaping recognizable AI writing and design defaults",
     "id": "jtc268/not-like-us",
     "language": "TypeScript",
     "name": "jtc268/not-like-us",
     "stars": 0,
-    "updated_at": "2026-09-01T23:28:15Z",
+    "updated_at": "2026-09-01T23:38:07Z",
     "url": "https://github.com/jtc268/not-like-us"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 138,
+    "updated_at": "2026-09-01T23:36:01Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 1,
+    "updated_at": "2026-09-01T23:35:37Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "Multi-Reference AI Composition recipes: ordered visual inputs, exact prompts, and final AI image compositions from Pixex",
+    "id": "pixexid/pixexid-prompt-atlas",
+    "language": "JavaScript",
+    "name": "pixexid/pixexid-prompt-atlas",
+    "stars": 0,
+    "updated_at": "2026-09-01T23:35:26Z",
+    "url": "https://github.com/pixexid/pixexid-prompt-atlas"
+  },
+  {
+    "description": "Package manager for AI-agent config. grim installs, updates, and publishes skills, rules, agents, MCP servers, and bundl",
+    "id": "grimoire-rs/grimoire",
+    "language": "Rust",
+    "name": "grimoire-rs/grimoire",
+    "stars": 8,
+    "updated_at": "2026-09-01T23:34:11Z",
+    "url": "https://github.com/grimoire-rs/grimoire"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 38524,
+    "updated_at": "2026-09-01T23:34:01Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-01T23:32:33Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-01T23:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "Hefrock/agent-skills",
     "stars": 0,
-    "updated_at": "2026-09-01T23:26:31Z",
+    "updated_at": "2026-09-01T23:35:31Z",
     "url": "https://github.com/Hefrock/agent-skills"
   },
   {
@@ -117,15 +216,6 @@
     "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-01T23:16:26Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
     "id": "jmagly/aiwg",
     "language": "TypeScript",
@@ -133,15 +223,6 @@
     "stars": 207,
     "updated_at": "2026-09-01T23:15:49Z",
     "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-01T23:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "APES 110-aligned and TPB Code guardrails for LLM-assisted Australian tax work. Not advice.",
@@ -185,7 +266,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11284,
-    "updated_at": "2026-09-01T23:20:43Z",
+    "updated_at": "2026-09-01T23:39:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -194,7 +275,7 @@
     "language": "JavaScript",
     "name": "ariaxhan/kernel-claude",
     "stars": 12,
-    "updated_at": "2026-09-01T23:13:03Z",
+    "updated_at": "2026-09-01T23:42:42Z",
     "url": "https://github.com/ariaxhan/kernel-claude"
   },
   {
@@ -212,7 +293,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-01T23:12:17Z",
+    "updated_at": "2026-09-01T23:38:28Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T22:59:07Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Compact, self-contained technical specs for LLM implementation, with reproducible Codex benchmarks.",
-    "id": "gvozdb/semantic-spec-writer-skill",
-    "language": "Python",
-    "name": "gvozdb/semantic-spec-writer-skill",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:58:34Z",
-    "url": "https://github.com/gvozdb/semantic-spec-writer-skill"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-09-01T22:56:49Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-09-01T22:55:58Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-09-01T22:55:02Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
-    "id": "ericrisco/rsc-harness",
-    "language": "Shell",
-    "name": "ericrisco/rsc-harness",
-    "stars": 58,
-    "updated_at": "2026-09-01T22:53:53Z",
-    "url": "https://github.com/ericrisco/rsc-harness"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34057,
-    "updated_at": "2026-09-01T22:53:45Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 10,
-    "updated_at": "2026-09-01T23:22:13Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Use cellular network, SMS, and calls on your Mac, and move the same module freely between Mac, iPhone/iPad, and DJI hard",
-    "id": "Feneliaearnest2534/celldock-for-mac",
-    "language": "\u2014",
-    "name": "Feneliaearnest2534/celldock-for-mac",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:53:05Z",
-    "url": "https://github.com/Feneliaearnest2534/celldock-for-mac"
-  },
-  {
-    "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
-    "id": "Irongrey-genusengelmannia453/zero-context",
-    "language": "HTML",
-    "name": "Irongrey-genusengelmannia453/zero-context",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:51:53Z",
-    "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
   }
 ]
