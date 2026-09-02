@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u7e41\u9ad4\u4e2d\u6587 AI \u5c08\u5bb6 Agent \u89d2\u8272\u5eab\uff5c18 \u90e8\u9580 46 \u4f4d\u6578\u4f4d\u54e1\u5de5\uff0841 \u7ffb\u8b6f + 5 \u539f\u5275\uff09\uff0c\u81ea The Agency \u82f1\u6587\u4e0a\u6e38\u9010\u6a94\u91cd\u8b6f\u4e26\u5728\u5730\u5316\uff0c\u53ef drop-in \u81f3 Claude Code / Cursor / Copilot\u3002M",
+    "id": "draiagent/AI-to-Agent-Agency-zh-TW",
+    "language": "\u2014",
+    "name": "draiagent/AI-to-Agent-Agency-zh-TW",
+    "stars": 1,
+    "updated_at": "2026-09-02T01:30:13Z",
+    "url": "https://github.com/draiagent/AI-to-Agent-Agency-zh-TW"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-02T01:29:13Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A free evidence-first readiness audit for projects built with AI coding agents.",
     "id": "abed211/mdp-preflight",
     "language": "\u2014",
@@ -36,15 +54,6 @@
     "url": "https://github.com/lilhammerfun/clumsies"
   },
   {
-    "description": "\u7e41\u9ad4\u4e2d\u6587 AI \u5c08\u5bb6 Agent \u89d2\u8272\u5eab\uff5c18 \u90e8\u9580 46 \u4f4d\u6578\u4f4d\u54e1\u5de5\uff0841 \u7ffb\u8b6f + 5 \u539f\u5275\uff09\uff0c\u81ea The Agency \u82f1\u6587\u4e0a\u6e38\u9010\u6a94\u91cd\u8b6f\u4e26\u5728\u5730\u5316\uff0c\u53ef drop-in \u81f3 Claude Code / Cursor / Copilot\u3002M",
-    "id": "draiagent/AI-to-Agent-Agency-zh-TW",
-    "language": "\u2014",
-    "name": "draiagent/AI-to-Agent-Agency-zh-TW",
-    "stars": 1,
-    "updated_at": "2026-09-02T01:23:46Z",
-    "url": "https://github.com/draiagent/AI-to-Agent-Agency-zh-TW"
-  },
-  {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
     "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
     "language": "\u2014",
@@ -79,15 +88,6 @@
     "stars": 27768,
     "updated_at": "2026-09-02T01:15:37Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-02T01:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
@@ -265,7 +265,7 @@
     "id": "2akouwu/codex-cli-portable-setup-kit",
     "language": "Python",
     "name": "2akouwu/codex-cli-portable-setup-kit",
-    "stars": 272,
+    "stars": 275,
     "updated_at": "2026-09-02T00:55:47Z",
     "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit"
   },

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-02 01:29 UTC
+> ⏰ Last updated: 2026-09-02 01:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [abed211/mdp-preflight](https://github.com/abed211/mdp-preflight) | 0 | — | 2026-09-02 | A free evidence-first readiness audit for projects built with AI coding agents. |
-| 2 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 38525 | JavaScript | 2026-09-02 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
-| 3 | [imhamzakhan/context-flow-compressor](https://github.com/imhamzakhan/context-flow-compressor) | 0 | HTML | 2026-09-02 | Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90% |
-| 4 | [lilhammerfun/clumsies](https://github.com/lilhammerfun/clumsies) | 17 | Rust | 2026-09-02 | A persistent, observable, and collaborative memory infrastructure |
-| 5 | [draiagent/AI-to-Agent-Agency-zh-TW](https://github.com/draiagent/AI-to-Agent-Agency-zh-TW) | 1 | — | 2026-09-02 | 繁體中文 AI 專家 Agent 角色庫｜18 部門 46 位數位員工（41 翻譯 + 5 原創），自 The Agency 英文上游逐檔重譯並在地化，可 drop-in 至 Claude Code / Cursor / Copilot。M |
-| 6 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-09-02 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 7 | [mory-dev/sudonotes](https://github.com/mory-dev/sudonotes) | 3 | TypeScript | 2026-09-02 | ⚡️ Blazing fast notebook for leading AI projects. Brainstorm ideas and keep them connected, orchestrate and scale your p |
-| 8 | [Tubifix77/red-thread](https://github.com/Tubifix77/red-thread) | 0 | Python | 2026-09-02 | Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b |
-| 9 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27768 | Python | 2026-09-02 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 10 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-02 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [draiagent/AI-to-Agent-Agency-zh-TW](https://github.com/draiagent/AI-to-Agent-Agency-zh-TW) | 1 | — | 2026-09-02 | 繁體中文 AI 專家 Agent 角色庫｜18 部門 46 位數位員工（41 翻譯 + 5 原創），自 The Agency 英文上游逐檔重譯並在地化，可 drop-in 至 Claude Code / Cursor / Copilot。M |
+| 2 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-02 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 3 | [abed211/mdp-preflight](https://github.com/abed211/mdp-preflight) | 0 | — | 2026-09-02 | A free evidence-first readiness audit for projects built with AI coding agents. |
+| 4 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 38525 | JavaScript | 2026-09-02 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
+| 5 | [imhamzakhan/context-flow-compressor](https://github.com/imhamzakhan/context-flow-compressor) | 0 | HTML | 2026-09-02 | Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90% |
+| 6 | [lilhammerfun/clumsies](https://github.com/lilhammerfun/clumsies) | 17 | Rust | 2026-09-02 | A persistent, observable, and collaborative memory infrastructure |
+| 7 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-09-02 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
+| 8 | [mory-dev/sudonotes](https://github.com/mory-dev/sudonotes) | 3 | TypeScript | 2026-09-02 | ⚡️ Blazing fast notebook for leading AI projects. Brainstorm ideas and keep them connected, orchestrate and scale your p |
+| 9 | [Tubifix77/red-thread](https://github.com/Tubifix77/red-thread) | 0 | Python | 2026-09-02 | Orchestrated long-form fiction: a spec tree, a fact ledger, and a verifier that refuses to commit prose that broke its b |
+| 10 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27768 | Python | 2026-09-02 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 11 | [Prysai/Prysai-LLM-Playbook](https://github.com/Prysai/Prysai-LLM-Playbook) | 262 | Python | 2026-09-02 | An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla |
 | 12 | [swaylq/master-skill](https://github.com/swaylq/master-skill) | 127 | Shell | 2026-09-02 | 大师.skill — 输入行业，自动调研 6 轨[行业大佬 / 工具地图 / 工作流 / 知识正典 / 信息源 / 术语标准] → 提炼为可运行的行业 Master OS skill；装到任意 Claude Code / OpenClaw  |
 | 13 | [Nova-Violet-Role/RoT-DtD-Commander](https://github.com/Nova-Violet-Role/RoT-DtD-Commander) | 1 | JavaScript | 2026-09-02 | RoT DtD Commander: 58 Claude Code commands, 18 skills and 4 agents that carry their own DTD grammar and trust boundary,  |
@@ -71,7 +71,7 @@ expired items removed — so you can rely on what you see being current.
 | 27 | [yunkon-kim/token-hop](https://github.com/yunkon-kim/token-hop) | 0 | Go | 2026-09-02 | Universal cross-agent prompt compiler & context synchronizer (Antigravity, Cursor, Copilot, Claude) |
 | 28 | [vikashjeyaraman/opencouncil-contract-inspector](https://github.com/vikashjeyaraman/opencouncil-contract-inspector) | 119 | HTML | 2026-09-02 | Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control |
 | 29 | [jestersanjay/slim-tools-claude-harness](https://github.com/jestersanjay/slim-tools-claude-harness) | 0 | HTML | 2026-09-02 | SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows |
-| 30 | [2akouwu/codex-cli-portable-setup-kit](https://github.com/2akouwu/codex-cli-portable-setup-kit) | 272 | Python | 2026-09-02 | Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero- |
+| 30 | [2akouwu/codex-cli-portable-setup-kit](https://github.com/2akouwu/codex-cli-portable-setup-kit) | 275 | Python | 2026-09-02 | Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero- |
 | 31 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-02 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 32 | [kangraemin/ai-knowledge](https://github.com/kangraemin/ai-knowledge) | 0 | Shell | 2026-09-02 | Claude의 장기 기억 저장소 — 프로젝트 학습, 스킬, 행동 규칙을 축적하는 개인 Claude 메모리 |
 | 33 | [Gus2708/whatsapp-agent](https://github.com/Gus2708/whatsapp-agent) | 0 | JavaScript | 2026-09-02 | Production WhatsApp AI agent for a hardware store — 5-layer RAG retrieval (pg_trgm fuzzy matching + OpenAI embeddings/pg |
