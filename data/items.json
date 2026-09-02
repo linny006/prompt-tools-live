@@ -1,5 +1,131 @@
 [
   {
+    "description": "Frameworks, techniques, prompts, agents, skills, and workflows for engineering reliable, reusable AI and agentic systems",
+    "id": "jr-mccoy/prompt-agent-engineering",
+    "language": "Python",
+    "name": "jr-mccoy/prompt-agent-engineering",
+    "stars": 1,
+    "updated_at": "2026-09-02T21:15:04Z",
+    "url": "https://github.com/jr-mccoy/prompt-agent-engineering"
+  },
+  {
+    "description": "Generate compact, ranked repo briefs for AI coding agents.",
+    "id": "subhanA-UA/context-scout-ai",
+    "language": "TypeScript",
+    "name": "subhanA-UA/context-scout-ai",
+    "stars": 0,
+    "updated_at": "2026-09-02T21:12:38Z",
+    "url": "https://github.com/subhanA-UA/context-scout-ai"
+  },
+  {
+    "description": "MCP Server for LynxPrompt \u2014 browse, search, and manage AI configuration blueprints (AGENTS.md, CLAUDE.md) via MCP",
+    "id": "GeiserX/lynxprompt-mcp",
+    "language": "Go",
+    "name": "GeiserX/lynxprompt-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-02T21:10:35Z",
+    "url": "https://github.com/GeiserX/lynxprompt-mcp"
+  },
+  {
+    "description": "LLM evaluation harness that archives every eval run \u2014 input, output, score, and trace \u2014 as immutable JSON on Backblaze B",
+    "id": "backblaze-b2-samples/eval-vault",
+    "language": "TypeScript",
+    "name": "backblaze-b2-samples/eval-vault",
+    "stars": 0,
+    "updated_at": "2026-09-02T21:08:14Z",
+    "url": "https://github.com/backblaze-b2-samples/eval-vault"
+  },
+  {
+    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
+    "id": "Leo-maomao/pm-copilot",
+    "language": "Python",
+    "name": "Leo-maomao/pm-copilot",
+    "stars": 4,
+    "updated_at": "2026-09-02T21:06:35Z",
+    "url": "https://github.com/Leo-maomao/pm-copilot"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7117,
+    "updated_at": "2026-09-02T21:06:10Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 1,
+    "updated_at": "2026-09-02T21:05:49Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "Agentic job-search workspace built on Claude Code: JD-tailored resumes, personalized outreach, a schema-driven tracker, ",
+    "id": "JeffreyZhu2323/agentic-job-search",
+    "language": "Shell",
+    "name": "JeffreyZhu2323/agentic-job-search",
+    "stars": 0,
+    "updated_at": "2026-09-02T21:05:36Z",
+    "url": "https://github.com/JeffreyZhu2323/agentic-job-search"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21751,
+    "updated_at": "2026-09-02T21:12:29Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Model-agnostic autonomous coding agent engine with Claude Code capabilities, subagents, and an 18-target cross-agent SSO",
+    "id": "ucsandman/Agnostic-AI",
+    "language": "Python",
+    "name": "ucsandman/Agnostic-AI",
+    "stars": 3,
+    "updated_at": "2026-09-02T21:02:38Z",
+    "url": "https://github.com/ucsandman/Agnostic-AI"
+  },
+  {
+    "description": "Provider-neutral frameworks and TypeScript tooling for cinematic AI content planning, storyboards, prompt compilation, c",
+    "id": "shrishmanglik/auteur-frameworks",
+    "language": "TypeScript",
+    "name": "shrishmanglik/auteur-frameworks",
+    "stars": 1,
+    "updated_at": "2026-09-02T21:02:00Z",
+    "url": "https://github.com/shrishmanglik/auteur-frameworks"
+  },
+  {
+    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
+    "id": "ericrisco/rsc-harness",
+    "language": "Shell",
+    "name": "ericrisco/rsc-harness",
+    "stars": 60,
+    "updated_at": "2026-09-02T21:00:43Z",
+    "url": "https://github.com/ericrisco/rsc-harness"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-02T21:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Use cellular network, SMS, and calls on your Mac, and move the same module freely between Mac, iPhone/iPad, and DJI hard",
+    "id": "Feneliaearnest2534/celldock-for-mac",
+    "language": "\u2014",
+    "name": "Feneliaearnest2534/celldock-for-mac",
+    "stars": 0,
+    "updated_at": "2026-09-02T21:00:24Z",
+    "url": "https://github.com/Feneliaearnest2534/celldock-for-mac"
+  },
+  {
     "description": "Analyze Danbooru references into clean tags and professional visual art direction prompts for image generation.",
     "id": "statisticiancockney4234/LAX-Prompt-Lens",
     "language": "JavaScript",
@@ -9,6 +135,15 @@
     "url": "https://github.com/statisticiancockney4234/LAX-Prompt-Lens"
   },
   {
+    "description": "Discover and compare open-source AI models by parameters, VRAM, license, and use-case for informed selection.",
+    "id": "Aggressive-tradescant8736/open-source-ai-models",
+    "language": "\u2014",
+    "name": "Aggressive-tradescant8736/open-source-ai-models",
+    "stars": 0,
+    "updated_at": "2026-09-02T21:00:08Z",
+    "url": "https://github.com/Aggressive-tradescant8736/open-source-ai-models"
+  },
+  {
     "description": "Create original conceptual photography from any word, object, or theme with AI-generated photorealistic prompts and imag",
     "id": "Genussticherusporkbarrel3616/conceptual-photography-plan",
     "language": "\u2014",
@@ -16,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T20:59:43Z",
     "url": "https://github.com/Genussticherusporkbarrel3616/conceptual-photography-plan"
-  },
-  {
-    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
-    "id": "ericrisco/rsc-harness",
-    "language": "Shell",
-    "name": "ericrisco/rsc-harness",
-    "stars": 60,
-    "updated_at": "2026-09-02T20:59:36Z",
-    "url": "https://github.com/ericrisco/rsc-harness"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -117,21 +243,12 @@
     "url": "https://github.com/templetongroup/fable-friend"
   },
   {
-    "description": "Model-agnostic autonomous coding agent engine with Claude Code capabilities, subagents, and an 18-target cross-agent SSO",
-    "id": "ucsandman/Agnostic-AI",
-    "language": "Python",
-    "name": "ucsandman/Agnostic-AI",
-    "stars": 3,
-    "updated_at": "2026-09-02T20:56:08Z",
-    "url": "https://github.com/ucsandman/Agnostic-AI"
-  },
-  {
     "description": "Agent Skills Studio \u2014 Curated skills and installable packs for engineering, design, security, writing and product workfl",
     "id": "jhonatan-oliveiradev/agent-skills",
     "language": "TypeScript",
     "name": "jhonatan-oliveiradev/agent-skills",
     "stars": 0,
-    "updated_at": "2026-09-02T20:55:46Z",
+    "updated_at": "2026-09-02T21:14:43Z",
     "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
   },
   {
@@ -158,13 +275,13 @@
     "language": "Python",
     "name": "Wonderforge-Lab/CapstanAI-LabNote",
     "stars": 0,
-    "updated_at": "2026-09-02T20:54:56Z",
+    "updated_at": "2026-09-02T21:09:55Z",
     "url": "https://github.com/Wonderforge-Lab/CapstanAI-LabNote"
   },
   {
     "description": "Lightweight networking layer for communicating with blockchain nodes.",
     "id": "Masonreid-Dev/node-relay",
-    "language": "\u2014",
+    "language": "Go",
     "name": "Masonreid-Dev/node-relay",
     "stars": 2,
     "updated_at": "2026-09-02T20:53:25Z",
@@ -187,6 +304,15 @@
     "stars": 3,
     "updated_at": "2026-09-02T20:52:04Z",
     "url": "https://github.com/alanshurafa/co-evolution"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-09-02T20:51:19Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T20:48:02Z",
     "url": "https://github.com/Wrongful-stratocracy6799/awesome-automated-ai"
-  },
-  {
-    "description": "Context engineering for AI Agents. Manage your LLM's context window with caching, compaction, summarization, and gracefu",
-    "id": "terminus-labs-ai/sr2",
-    "language": "Python",
-    "name": "terminus-labs-ai/sr2",
-    "stars": 3,
-    "updated_at": "2026-09-02T20:47:59Z",
-    "url": "https://github.com/terminus-labs-ai/sr2"
-  },
-  {
-    "description": "Convert tacit expert knowledge into reusable AI agents, skills, and training workflows to scale reliable performance.",
-    "id": "hostile-shorepatrol81/polanyi-stack",
-    "language": "\u2014",
-    "name": "hostile-shorepatrol81/polanyi-stack",
-    "stars": 1,
-    "updated_at": "2026-09-02T20:47:58Z",
-    "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Reduce Claude token consumption by using local manifests to index and summarize project files for efficient context mana",
-    "id": "aaron4605/context-optimizer",
-    "language": "HTML",
-    "name": "aaron4605/context-optimizer",
-    "stars": 3,
-    "updated_at": "2026-09-02T20:47:51Z",
-    "url": "https://github.com/aaron4605/context-optimizer"
-  },
-  {
-    "description": "Archive 126+ iterative Suno AI music prompts with structural metatags, style descriptions, and engineering notes for imp",
-    "id": "Defectlameness737/suno-lab",
-    "language": "\u2014",
-    "name": "Defectlameness737/suno-lab",
-    "stars": 2,
-    "updated_at": "2026-09-02T20:47:37Z",
-    "url": "https://github.com/Defectlameness737/suno-lab"
-  },
-  {
-    "description": "Organize AI conversations into clean, structured threads to refine context and improve model output quality.",
-    "id": "Robertmyerkesextremist950/metaprompt",
-    "language": "HTML",
-    "name": "Robertmyerkesextremist950/metaprompt",
-    "stars": 2,
-    "updated_at": "2026-09-02T20:47:36Z",
-    "url": "https://github.com/Robertmyerkesextremist950/metaprompt"
-  },
-  {
-    "description": "Test security vulnerabilities in Gemini, Claude, and DeepSeek models using specialized prompt injections.",
-    "id": "pezizalescricketer968/ChatGPT-Jailbreak",
-    "language": "\u2014",
-    "name": "pezizalescricketer968/ChatGPT-Jailbreak",
-    "stars": 13,
-    "updated_at": "2026-09-02T20:47:34Z",
-    "url": "https://github.com/pezizalescricketer968/ChatGPT-Jailbreak"
-  },
-  {
-    "description": "Orchestrate multi-agent OpenClaw workflows for code review, security checks, architecture feedback, prompt tuning, and A",
-    "id": "edwininspiring666/agencyteam-openclaw",
-    "language": "\u2014",
-    "name": "edwininspiring666/agencyteam-openclaw",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:47:27Z",
-    "url": "https://github.com/edwininspiring666/agencyteam-openclaw"
-  },
-  {
-    "description": "Improve Claude output with emotion-aware prompts, system configs, and workflows that boost honesty, reliability, and qua",
-    "id": "Scenic-urochordate607/claude-emotion-prompting",
-    "language": "\u2014",
-    "name": "Scenic-urochordate607/claude-emotion-prompting",
-    "stars": 1,
-    "updated_at": "2026-09-02T20:47:09Z",
-    "url": "https://github.com/Scenic-urochordate607/claude-emotion-prompting"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s architecture with source-level research, code citations, and a 14-chapter deep dive into its TypeS",
-    "id": "flunkymercenary747/Claude-code-research",
-    "language": "\u2014",
-    "name": "flunkymercenary747/Claude-code-research",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:46:52Z",
-    "url": "https://github.com/flunkymercenary747/Claude-code-research"
-  },
-  {
-    "description": "Build production patterns for AI coding agents from Claude Code source analysis and harness engineering practice.",
-    "id": "dinho-afsn/agentic-harness-patterns-skill",
-    "language": "\u2014",
-    "name": "dinho-afsn/agentic-harness-patterns-skill",
-    "stars": 1,
-    "updated_at": "2026-09-02T20:46:46Z",
-    "url": "https://github.com/dinho-afsn/agentic-harness-patterns-skill"
-  },
-  {
-    "description": "Managing prompts\uff0c, skills, MCP tools & wallpaper for DeepSeek Harness",
-    "id": "Qian-Ning/prompt-skill-armory",
-    "language": "TypeScript",
-    "name": "Qian-Ning/prompt-skill-armory",
-    "stars": 2,
-    "updated_at": "2026-09-02T20:46:46Z",
-    "url": "https://github.com/Qian-Ning/prompt-skill-armory"
-  },
-  {
-    "description": "Explore AI agent CLI tools with clear guides to Claude Code, Codex, OpenCode, and Qwen CLI for practical use and workflo",
-    "id": "pickerrelict689/ai_agent_cli_guide",
-    "language": "\u2014",
-    "name": "pickerrelict689/ai_agent_cli_guide",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:46:44Z",
-    "url": "https://github.com/pickerrelict689/ai_agent_cli_guide"
-  },
-  {
-    "description": "ARSENAL-powered epistemic research kit: claim lattices, dialectic briefs, freelance scopes, and Kaggle notebook spines (",
-    "id": "faresrafat3/epistemic-forge",
-    "language": "Python",
-    "name": "faresrafat3/epistemic-forge",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:46:35Z",
-    "url": "https://github.com/faresrafat3/epistemic-forge"
-  },
-  {
-    "description": "Automate CRE analysis with AI skills for multifamily, industrial, and brokerage acquisitions, underwriting, due diligenc",
-    "id": "XAKLESK/cre-agent-skills",
-    "language": "\u2014",
-    "name": "XAKLESK/cre-agent-skills",
-    "stars": 7,
-    "updated_at": "2026-09-02T20:46:10Z",
-    "url": "https://github.com/XAKLESK/cre-agent-skills"
   }
 ]
