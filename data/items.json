@@ -1,12 +1,102 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27770,
+    "updated_at": "2026-09-02T06:43:59Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Codex \u5de5\u4f5c\u6d41\u3001\u6545\u969c\u6392\u67e5\u4e0e\u672c\u5730\u5de5\u5177 | Practical Codex workflows, troubleshooting guides, and utilities.",
+    "id": "RongNianXin/codex-workflows",
+    "language": "PowerShell",
+    "name": "RongNianXin/codex-workflows",
+    "stars": 0,
+    "updated_at": "2026-09-02T06:42:54Z",
+    "url": "https://github.com/RongNianXin/codex-workflows"
+  },
+  {
+    "description": "Long-horizon agent skill for Claude Code / Cursor / Codex / Grok Build \u2014 multi-task ledger loop, host-portable, clean-co",
+    "id": "levi-qiao/longgraph-skill",
+    "language": "Shell",
+    "name": "levi-qiao/longgraph-skill",
+    "stars": 67,
+    "updated_at": "2026-09-02T06:41:37Z",
+    "url": "https://github.com/levi-qiao/longgraph-skill"
+  },
+  {
+    "description": "AI marketing team for B2B SaaS: 76 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content, paid media, email, ",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 8,
+    "updated_at": "2026-09-02T06:39:44Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Phase-gated Antigravity workflow for AI coding agents: ChatGPT Companion \u2192 one-phase execution \u2192 evidence-based SHIP/NO-",
+    "id": "0xAgentive/agentic-pipeline",
+    "language": "PowerShell",
+    "name": "0xAgentive/agentic-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-02T06:38:56Z",
+    "url": "https://github.com/0xAgentive/agentic-pipeline"
+  },
+  {
     "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
     "id": "Muizzkolapo/agent-actions",
     "language": "Python",
     "name": "Muizzkolapo/agent-actions",
     "stars": 8,
-    "updated_at": "2026-09-02T06:29:34Z",
+    "updated_at": "2026-09-02T06:40:13Z",
     "url": "https://github.com/Muizzkolapo/agent-actions"
+  },
+  {
+    "description": "Real-time learning platform with Redis-backed distributed coordination, multi-provider AI failover, and a distributed lo",
+    "id": "Devpaul-01/StudyHub",
+    "language": "Python",
+    "name": "Devpaul-01/StudyHub",
+    "stars": 0,
+    "updated_at": "2026-09-02T06:32:32Z",
+    "url": "https://github.com/Devpaul-01/StudyHub"
+  },
+  {
+    "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
+    "id": "eric-sabe/engsys",
+    "language": "JavaScript",
+    "name": "eric-sabe/engsys",
+    "stars": 2,
+    "updated_at": "2026-09-02T06:30:58Z",
+    "url": "https://github.com/eric-sabe/engsys"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-02T06:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34082,
+    "updated_at": "2026-09-02T06:30:05Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-02T06:29:55Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
@@ -18,13 +108,13 @@
     "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34080,
-    "updated_at": "2026-09-02T06:30:05Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "\u8bf4\u4eba\u8bdd\uff5c\u4e2d\u6587\u4f18\u5148\u7684\u53bb AI \u5473\u6539\u5199 skill\uff1a\u4fdd\u4e8b\u5b9e\u3001\u5206\u573a\u666f\u3001\u6539\u5b8c\u53ef\u76f4\u63a5\u53d1\u3002Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT \u2014 removes ",
+    "id": "MrGeDiao/shuorenhua",
+    "language": "Python",
+    "name": "MrGeDiao/shuorenhua",
+    "stars": 1352,
+    "updated_at": "2026-09-02T06:24:48Z",
+    "url": "https://github.com/MrGeDiao/shuorenhua"
   },
   {
     "description": "A plain-text prompt for LLMs that teaches the essence of elegant coding and testing\u2014save it to ~/.claude/CLAUDE.md.",
@@ -34,15 +124,6 @@
     "stars": 157,
     "updated_at": "2026-09-02T06:23:53Z",
     "url": "https://github.com/yegor256/prompt"
-  },
-  {
-    "description": "Phase-gated Antigravity workflow for AI coding agents: ChatGPT Companion \u2192 one-phase execution \u2192 evidence-based SHIP/NO-",
-    "id": "0xAgentive/agentic-pipeline",
-    "language": "PowerShell",
-    "name": "0xAgentive/agentic-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-02T06:21:28Z",
-    "url": "https://github.com/0xAgentive/agentic-pipeline"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -108,15 +189,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-02T06:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
     "id": "OutlineDriven/odin-claude-plugin",
     "language": "Python",
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "braboj/solid-ai-templates",
     "stars": 3,
-    "updated_at": "2026-09-02T06:14:11Z",
+    "updated_at": "2026-09-02T06:31:57Z",
     "url": "https://github.com/braboj/solid-ai-templates"
   },
   {
@@ -167,7 +239,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 10,
-    "updated_at": "2026-09-02T06:05:07Z",
+    "updated_at": "2026-09-02T06:39:32Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -178,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T06:04:20Z",
     "url": "https://github.com/tercel/prompt-coach"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27769,
-    "updated_at": "2026-09-02T06:04:17Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Token-Dense Format (TDF): Convert PDFs, Office docs, and HTML into a token-optimized text format for LLMs. 100% distinct",
@@ -205,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T06:01:19Z",
     "url": "https://github.com/ftvision/agent-prompt-observatory"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-02T06:29:55Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Static analyzer for AI system prompts: parses a prompt into normative rules and reports contradictions, coverage gaps, p",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T05:45:46Z",
     "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "AI marketing team for B2B SaaS: 76 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content, paid media, email, ",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 8,
-    "updated_at": "2026-09-02T05:45:40Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "A production-grade pipeline for extracting structured data from unstructured O&G filings \u2014 versioned rule registry, bloc",
-    "id": "Darvin2802/skill-driven-extraction",
-    "language": "Python",
-    "name": "Darvin2802/skill-driven-extraction",
-    "stars": 1,
-    "updated_at": "2026-09-02T05:45:01Z",
-    "url": "https://github.com/Darvin2802/skill-driven-extraction"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 1,
-    "updated_at": "2026-09-02T05:44:51Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "Design and audit autonomous agent loops using a tested framework for triggers, verification, guardrails, and human escal",
-    "id": "Norinatiring463/loop-engineering",
-    "language": "Python",
-    "name": "Norinatiring463/loop-engineering",
-    "stars": 2,
-    "updated_at": "2026-09-02T05:43:36Z",
-    "url": "https://github.com/Norinatiring463/loop-engineering"
-  },
-  {
-    "description": "Every prompt from the official Wan 3.0 creator handbook, each paired with the official result clip \u2014 30s takes, multi-sh",
-    "id": "AtlasCloudAI/awesome-wan-3.0-prompts",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-wan-3.0-prompts",
-    "stars": 6,
-    "updated_at": "2026-09-02T05:43:05Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-wan-3.0-prompts"
-  },
-  {
-    "description": "100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, crea",
-    "id": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "language": "TypeScript",
-    "name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
-    "stars": 175,
-    "updated_at": "2026-09-02T05:42:44Z",
-    "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills"
   }
 ]
