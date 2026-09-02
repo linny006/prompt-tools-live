@@ -1,5 +1,86 @@
 [
   {
+    "description": "LLM naming pass for generated worlds, in TypeScript: names every district, station, line and business against a theme pr",
+    "id": "hec-ovi/urbe-namer",
+    "language": "TypeScript",
+    "name": "hec-ovi/urbe-namer",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:35:52Z",
+    "url": "https://github.com/hec-ovi/urbe-namer"
+  },
+  {
+    "description": "GLM thinking-mode router suite for ZCode - dsh-routing-suite methodology re-implemented on ZCode hooks, calibrated for G",
+    "id": "moeform-re/glm-routing-suite-for-zcode",
+    "language": "JavaScript",
+    "name": "moeform-re/glm-routing-suite-for-zcode",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:35:34Z",
+    "url": "https://github.com/moeform-re/glm-routing-suite-for-zcode"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:34:56Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34106,
+    "updated_at": "2026-09-02T18:34:54Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "One-ink editorial print image skill \u2014 warm paper, halftone photography, active negative space, and restrained typography",
+    "id": "yanliudesign/mono-color-skill",
+    "language": "Python",
+    "name": "yanliudesign/mono-color-skill",
+    "stars": 2001,
+    "updated_at": "2026-09-02T18:34:49Z",
+    "url": "https://github.com/yanliudesign/mono-color-skill"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:32:28Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Governance methodology for building AI agent skills that don't rot: lifecycle, contracts, release gates.",
+    "id": "653390665/skill-engineering-kit",
+    "language": "Python",
+    "name": "653390665/skill-engineering-kit",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:32:13Z",
+    "url": "https://github.com/653390665/skill-engineering-kit"
+  },
+  {
+    "description": "Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B",
+    "id": "karanarora-aideveloper/stack-ai-tools",
+    "language": "TypeScript",
+    "name": "karanarora-aideveloper/stack-ai-tools",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:32:02Z",
+    "url": "https://github.com/karanarora-aideveloper/stack-ai-tools"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-02T18:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
     "id": "jamestexas/agents",
     "language": "TypeScript",
@@ -25,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-09-02T18:27:25Z",
     "url": "https://github.com/zkhyww/ai-short-drama-skills"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:27:17Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
     "description": "A multilingual, Git-first Prompt library with human-reviewed Agent workflows",
@@ -58,18 +148,9 @@
     "id": "Prysai/Prysai-LLM-Playbook",
     "language": "Python",
     "name": "Prysai/Prysai-LLM-Playbook",
-    "stars": 295,
+    "stars": 296,
     "updated_at": "2026-09-02T18:25:02Z",
     "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
-  },
-  {
-    "description": "LLM naming pass for generated worlds, in TypeScript: names every district, station, line and business against a theme pr",
-    "id": "hec-ovi/urbe-namer",
-    "language": "TypeScript",
-    "name": "hec-ovi/urbe-namer",
-    "stars": 0,
-    "updated_at": "2026-09-02T18:24:41Z",
-    "url": "https://github.com/hec-ovi/urbe-namer"
   },
   {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
@@ -153,6 +234,15 @@
     "url": "https://github.com/mohamedosamaai/ai-workspace-showcase"
   },
   {
+    "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
+    "id": "FoxsterDev/ai-research-hub",
+    "language": "Python",
+    "name": "FoxsterDev/ai-research-hub",
+    "stars": 5,
+    "updated_at": "2026-09-02T18:19:42Z",
+    "url": "https://github.com/FoxsterDev/ai-research-hub"
+  },
+  {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
@@ -207,15 +297,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "One-ink editorial print image skill \u2014 warm paper, halftone photography, active negative space, and restrained typography",
-    "id": "yanliudesign/mono-color-skill",
-    "language": "Python",
-    "name": "yanliudesign/mono-color-skill",
-    "stars": 2001,
-    "updated_at": "2026-09-02T18:16:37Z",
-    "url": "https://github.com/yanliudesign/mono-color-skill"
-  },
-  {
     "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
     "id": "tech-guru254/spec-weaver",
     "language": "HTML",
@@ -225,13 +306,13 @@
     "url": "https://github.com/tech-guru254/spec-weaver"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-02T18:15:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
+    "id": "kodancrash-oss/prompt-weaver-framework",
+    "language": "HTML",
+    "name": "kodancrash-oss/prompt-weaver-framework",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:16:30Z",
+    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -259,33 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T18:14:27Z",
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-09-02T18:29:43Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
-    "description": "Governance methodology for building AI agent skills that don't rot: lifecycle, contracts, release gates.",
-    "id": "653390665/skill-engineering-kit",
-    "language": "Python",
-    "name": "653390665/skill-engineering-kit",
-    "stars": 0,
-    "updated_at": "2026-09-02T18:10:34Z",
-    "url": "https://github.com/653390665/skill-engineering-kit"
-  },
-  {
-    "description": "Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B",
-    "id": "karanarora-aideveloper/stack-ai-tools",
-    "language": "TypeScript",
-    "name": "karanarora-aideveloper/stack-ai-tools",
-    "stars": 1,
-    "updated_at": "2026-09-02T18:09:49Z",
-    "url": "https://github.com/karanarora-aideveloper/stack-ai-tools"
   },
   {
     "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
@@ -369,15 +423,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34105,
-    "updated_at": "2026-09-02T18:16:38Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "LLMs as Scientific Abstract Evaluators",
     "id": "pascoalf/llm-abstract-evaluation",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T17:50:34Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice along",
-    "id": "grimaldost/craft-collection",
-    "language": "Python",
-    "name": "grimaldost/craft-collection",
-    "stars": 2,
-    "updated_at": "2026-09-02T17:50:16Z",
-    "url": "https://github.com/grimaldost/craft-collection"
-  },
-  {
-    "description": "Model-agnostic autonomous coding agent engine with Claude Code capabilities, subagents, and an 18-target cross-agent SSO",
-    "id": "ucsandman/Agnostic-AI",
-    "language": "Python",
-    "name": "ucsandman/Agnostic-AI",
-    "stars": 3,
-    "updated_at": "2026-09-02T17:49:19Z",
-    "url": "https://github.com/ucsandman/Agnostic-AI"
-  },
-  {
-    "description": "AI Systems Engineering: A Practical Bootcamp \u2014 a 30-working-day curriculum and build tooling for moving from traditional",
-    "id": "rioffe/ai_systems_engineering_bootcamp",
-    "language": "HTML",
-    "name": "rioffe/ai_systems_engineering_bootcamp",
-    "stars": 0,
-    "updated_at": "2026-09-02T17:48:25Z",
-    "url": "https://github.com/rioffe/ai_systems_engineering_bootcamp"
-  },
-  {
-    "description": "Agent Skills - 51 skills for AI agents (Sisyphus, opencode): frontend-perfection (Lighthouse audit), secret-scanner, sec",
-    "id": "bestdeejay-design/agent-skills",
-    "language": "Python",
-    "name": "bestdeejay-design/agent-skills",
-    "stars": 5,
-    "updated_at": "2026-09-02T17:47:54Z",
-    "url": "https://github.com/bestdeejay-design/agent-skills"
-  },
-  {
-    "description": "450+ visual styles for ComfyUI, every one with a rendered preview you can browse before you commit. Plus 700+ artists wi",
-    "id": "EnragedAntelope/comfyui-stylebook",
-    "language": "Python",
-    "name": "EnragedAntelope/comfyui-stylebook",
-    "stars": 3,
-    "updated_at": "2026-09-02T17:47:01Z",
-    "url": "https://github.com/EnragedAntelope/comfyui-stylebook"
   }
 ]
