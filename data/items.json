@@ -1,12 +1,129 @@
 [
   {
+    "description": "Adaptive resilience and scope-retention evaluator for OpenAI-compatible language models",
+    "id": "hakurido/universal-zero",
+    "language": "Python",
+    "name": "hakurido/universal-zero",
+    "stars": 4,
+    "updated_at": "2026-09-02T02:45:01Z",
+    "url": "https://github.com/hakurido/universal-zero"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3522,
+    "updated_at": "2026-09-02T02:45:06Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A curated collection of interesting AI drawing skills and production-ready prompts",
+    "id": "KenView/awesome-drawing-skills-prompts",
+    "language": "Python",
+    "name": "KenView/awesome-drawing-skills-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-02T02:42:16Z",
+    "url": "https://github.com/KenView/awesome-drawing-skills-prompts"
+  },
+  {
+    "description": "AI marketing team for B2B SaaS: 76 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content, paid media, email, ",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 8,
+    "updated_at": "2026-09-02T02:41:37Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
+    "id": "Nanako0129/sepia",
+    "language": "Python",
+    "name": "Nanako0129/sepia",
+    "stars": 1362,
+    "updated_at": "2026-09-02T02:39:46Z",
+    "url": "https://github.com/Nanako0129/sepia"
+  },
+  {
+    "description": "Stop getting ghosted by ATS filters \u2014 know exactly why your resume fails before you hit submit.",
+    "id": "avneetxsingh/ResCheck",
+    "language": "TypeScript",
+    "name": "avneetxsingh/ResCheck",
+    "stars": 1,
+    "updated_at": "2026-09-02T02:38:29Z",
+    "url": "https://github.com/avneetxsingh/ResCheck"
+  },
+  {
+    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
+    "id": "archubbuck/workspace-architect",
+    "language": "Python",
+    "name": "archubbuck/workspace-architect",
+    "stars": 18,
+    "updated_at": "2026-09-02T02:38:01Z",
+    "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T02:44:47Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 18,
-    "updated_at": "2026-09-02T02:29:53Z",
+    "updated_at": "2026-09-02T02:36:12Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-02T02:33:53Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
+    "stars": 1,
+    "updated_at": "2026-09-02T02:33:45Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T02:32:03Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+  },
+  {
+    "description": "MiniMax H3 \u5b98\u65b9 Skills \u7684\u53ef\u89c6\u5316\u53d1\u73b0\u4e0e\u53c2\u8003\u7ad9\u70b9 \u00b7 A visual discovery & reference index for the official MiniMax H3 Skills (independent ",
+    "id": "gordonlu/awesome-minimax-h3-skills",
+    "language": "HTML",
+    "name": "gordonlu/awesome-minimax-h3-skills",
+    "stars": 1,
+    "updated_at": "2026-09-02T02:31:07Z",
+    "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-02T02:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "RoT DtD Commander: 58 Claude Code commands, 18 skills and 4 agents that carry their own DTD grammar and trust boundary, ",
@@ -36,15 +153,6 @@
     "url": "https://github.com/notoriouslab/prompt-studio"
   },
   {
-    "description": "Adaptive resilience and scope-retention evaluator for OpenAI-compatible language models",
-    "id": "hakurido/universal-zero",
-    "language": "Python",
-    "name": "hakurido/universal-zero",
-    "stars": 4,
-    "updated_at": "2026-09-02T02:28:04Z",
-    "url": "https://github.com/hakurido/universal-zero"
-  },
-  {
     "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
     "id": "thkt/dotclaude",
     "language": "JavaScript",
@@ -72,24 +180,6 @@
     "url": "https://github.com/KhaledBaki/HackersAndHealersHackathon"
   },
   {
-    "description": "MiniMax H3 \u5b98\u65b9 Skills \u7684\u53ef\u89c6\u5316\u53d1\u73b0\u4e0e\u53c2\u8003\u7ad9\u70b9 \u00b7 A visual discovery & reference index for the official MiniMax H3 Skills (independent ",
-    "id": "gordonlu/awesome-minimax-h3-skills",
-    "language": "HTML",
-    "name": "gordonlu/awesome-minimax-h3-skills",
-    "stars": 1,
-    "updated_at": "2026-09-02T02:25:01Z",
-    "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
-  },
-  {
-    "description": "A curated collection of interesting AI drawing skills and production-ready prompts",
-    "id": "KenView/awesome-drawing-skills-prompts",
-    "language": "Python",
-    "name": "KenView/awesome-drawing-skills-prompts",
-    "stars": 0,
-    "updated_at": "2026-09-02T02:23:55Z",
-    "url": "https://github.com/KenView/awesome-drawing-skills-prompts"
-  },
-  {
     "description": "A persistent, observable, and collaborative memory infrastructure",
     "id": "lilhammerfun/clumsies",
     "language": "Rust",
@@ -106,15 +196,6 @@
     "stars": 7115,
     "updated_at": "2026-09-02T02:22:05Z",
     "url": "https://github.com/kyegomez/swarms"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 1,
-    "updated_at": "2026-09-02T02:21:13Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -162,21 +243,12 @@
     "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-02T02:15:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "ComfyUI custom node for generating structured multi-character scene prompts with spatial layout control. Designed for Id",
     "id": "elliefox-ai/comfyui-scene-generator",
     "language": "Python",
     "name": "elliefox-ai/comfyui-scene-generator",
     "stars": 2,
-    "updated_at": "2026-09-02T02:13:25Z",
+    "updated_at": "2026-09-02T02:45:14Z",
     "url": "https://github.com/elliefox-ai/comfyui-scene-generator"
   },
   {
@@ -207,20 +279,11 @@
     "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
   },
   {
-    "description": "Stop getting ghosted by ATS filters \u2014 know exactly why your resume fails before you hit submit.",
-    "id": "avneetxsingh/ResCheck",
-    "language": "TypeScript",
-    "name": "avneetxsingh/ResCheck",
-    "stars": 1,
-    "updated_at": "2026-09-02T02:07:25Z",
-    "url": "https://github.com/avneetxsingh/ResCheck"
-  },
-  {
     "description": "Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled pipeline, and zero-",
     "id": "2akouwu/codex-cli-portable-setup-kit",
     "language": "Python",
     "name": "2akouwu/codex-cli-portable-setup-kit",
-    "stars": 315,
+    "stars": 318,
     "updated_at": "2026-09-02T02:07:19Z",
     "url": "https://github.com/2akouwu/codex-cli-portable-setup-kit"
   },
@@ -241,15 +304,6 @@
     "stars": 35,
     "updated_at": "2026-09-02T02:04:42Z",
     "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-02T02:02:36Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
@@ -277,15 +331,6 @@
     "stars": 3,
     "updated_at": "2026-09-02T01:59:43Z",
     "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T02:12:41Z",
-    "url": "https://github.com/Hefrock/agent-skills"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -396,57 +441,12 @@
     "url": "https://github.com/goku-open/awesome-gpt-image-2-prompts"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24737,
-    "updated_at": "2026-09-02T01:41:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Hospital-oriented multi-agent MDT consultation platform: red-flag triage, CHA2DS2-VASc/Wells/CURB-65 scoring, lab refere",
-    "id": "Morningstar202604/medconsult",
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
     "language": "Python",
-    "name": "Morningstar202604/medconsult",
-    "stars": 1,
-    "updated_at": "2026-09-02T01:42:40Z",
-    "url": "https://github.com/Morningstar202604/medconsult"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 25,
-    "updated_at": "2026-09-02T01:36:29Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
-    "id": "luongs3/skill-atlas",
-    "language": "Python",
-    "name": "luongs3/skill-atlas",
-    "stars": 0,
-    "updated_at": "2026-09-02T01:34:45Z",
-    "url": "https://github.com/luongs3/skill-atlas"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 138,
-    "updated_at": "2026-09-02T01:30:23Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "A free evidence-first readiness audit for projects built with AI coding agents.",
-    "id": "abed211/mdp-preflight",
-    "language": "\u2014",
-    "name": "abed211/mdp-preflight",
-    "stars": 0,
-    "updated_at": "2026-09-02T01:31:48Z",
-    "url": "https://github.com/abed211/mdp-preflight"
+    "name": "Kiln-AI/Kiln",
+    "stars": 5041,
+    "updated_at": "2026-09-02T01:41:49Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
   }
 ]
