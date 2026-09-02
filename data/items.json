@@ -1,21 +1,48 @@
 [
   {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "braboj/solid-ai-templates",
-    "language": "Python",
-    "name": "braboj/solid-ai-templates",
-    "stars": 3,
-    "updated_at": "2026-09-02T06:07:38Z",
-    "url": "https://github.com/braboj/solid-ai-templates"
-  },
-  {
     "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
     "id": "OutlineDriven/odin-claude-plugin",
     "language": "Python",
     "name": "OutlineDriven/odin-claude-plugin",
     "stars": 35,
-    "updated_at": "2026-09-02T06:06:44Z",
+    "updated_at": "2026-09-02T06:14:34Z",
     "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "braboj/solid-ai-templates",
+    "language": "Python",
+    "name": "braboj/solid-ai-templates",
+    "stars": 3,
+    "updated_at": "2026-09-02T06:14:11Z",
+    "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "320+ curated Claude Code skills, 9 agents, 39 commands, sanitized configs & a Codex bridge \u2014 auto-indexed from skills/.",
+    "id": "shengdabai/Tony-Claude-Code-Skills",
+    "language": "HTML",
+    "name": "shengdabai/Tony-Claude-Code-Skills",
+    "stars": 1,
+    "updated_at": "2026-09-02T06:10:40Z",
+    "url": "https://github.com/shengdabai/Tony-Claude-Code-Skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-02T06:09:59Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udd16 Building AI agents from scratch \u2014 8-day hands-on journey through ReAct loops, memory systems, context engineering & to",
+    "id": "DetectiveSanket/AI-Engineering-Practice-Projects",
+    "language": "JavaScript",
+    "name": "DetectiveSanket/AI-Engineering-Practice-Projects",
+    "stars": 0,
+    "updated_at": "2026-09-02T06:09:36Z",
+    "url": "https://github.com/DetectiveSanket/AI-Engineering-Practice-Projects"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 18,
-    "updated_at": "2026-09-02T06:03:02Z",
+    "updated_at": "2026-09-02T06:13:11Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T06:02:30Z",
     "url": "https://github.com/dy1an-nt/Ultros"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-02T06:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
@@ -180,15 +198,6 @@
     "url": "https://github.com/laconiq-ai/tekmyra"
   },
   {
-    "description": "\ud83e\udd16 Building AI agents from scratch \u2014 8-day hands-on journey through ReAct loops, memory systems, context engineering & to",
-    "id": "DetectiveSanket/AI-Engineering-Practice-Projects",
-    "language": "JavaScript",
-    "name": "DetectiveSanket/AI-Engineering-Practice-Projects",
-    "stars": 0,
-    "updated_at": "2026-09-02T06:09:36Z",
-    "url": "https://github.com/DetectiveSanket/AI-Engineering-Practice-Projects"
-  },
-  {
     "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
     "id": "Rosmarinusofficinalispoloneck995/anti-slop",
     "language": "\u2014",
@@ -257,7 +266,7 @@
     "language": "PowerShell",
     "name": "0xAgentive/agentic-pipeline",
     "stars": 0,
-    "updated_at": "2026-09-02T05:46:24Z",
+    "updated_at": "2026-09-02T06:14:53Z",
     "url": "https://github.com/0xAgentive/agentic-pipeline"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T05:39:46Z",
     "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-09-02T05:39:13Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
   }
 ]
