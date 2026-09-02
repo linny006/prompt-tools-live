@@ -1,5 +1,86 @@
 [
   {
+    "description": "Frameworks, techniques, prompts, agents, skills, and workflows for engineering reliable, reusable AI and agentic systems",
+    "id": "jr-mccoy/prompt-agent-engineering",
+    "language": "Python",
+    "name": "jr-mccoy/prompt-agent-engineering",
+    "stars": 1,
+    "updated_at": "2026-09-02T15:04:18Z",
+    "url": "https://github.com/jr-mccoy/prompt-agent-engineering"
+  },
+  {
+    "description": "13 prompt-engineering and software-delivery skills for any agent that reads SKILL.md \u2014 Claude Code, Codex, Copilot, and ",
+    "id": "emtcmca/promptsmith-skills",
+    "language": "JavaScript",
+    "name": "emtcmca/promptsmith-skills",
+    "stars": 0,
+    "updated_at": "2026-09-02T15:03:29Z",
+    "url": "https://github.com/emtcmca/promptsmith-skills"
+  },
+  {
+    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
+    "id": "Sungmin-Cho/deep-suite",
+    "language": "JavaScript",
+    "name": "Sungmin-Cho/deep-suite",
+    "stars": 8,
+    "updated_at": "2026-09-02T15:02:57Z",
+    "url": "https://github.com/Sungmin-Cho/deep-suite"
+  },
+  {
+    "description": "Prompt & context engineering for agents \u2014 Claude Code plugin with /sharpen, /forge-agent, /lens, /orchestrate and a 20-a",
+    "id": "emtcmca/promptsmith",
+    "language": "\u2014",
+    "name": "emtcmca/promptsmith",
+    "stars": 2,
+    "updated_at": "2026-09-02T15:02:37Z",
+    "url": "https://github.com/emtcmca/promptsmith"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-02T15:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-09-02T14:59:38Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "Local, offline, single-file HTML tool for manually relaying conversations between AI assistants in five interface and pr",
+    "id": "LonelySoul87/relay-console",
+    "language": "HTML",
+    "name": "LonelySoul87/relay-console",
+    "stars": 0,
+    "updated_at": "2026-09-02T14:59:31Z",
+    "url": "https://github.com/LonelySoul87/relay-console"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 119,
+    "updated_at": "2026-09-02T14:57:26Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 68475,
+    "updated_at": "2026-09-02T14:57:01Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "Free, module-wise training for building applications with LLMs \u2014 prompt engineering, LLM APIs, tool calling, agents, and",
     "id": "SIGILIPELLI/llm-dev-mastery-path",
     "language": "\u2014",
@@ -25,6 +106,15 @@
     "stars": 10,
     "updated_at": "2026-09-02T14:56:00Z",
     "url": "https://github.com/ZF-Utokyo/anti-ai-defensive-writing"
+  },
+  {
+    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
+    "id": "AshwinUgale/muteval",
+    "language": "Python",
+    "name": "AshwinUgale/muteval",
+    "stars": 4,
+    "updated_at": "2026-09-02T14:55:59Z",
+    "url": "https://github.com/AshwinUgale/muteval"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -54,15 +144,6 @@
     "url": "https://github.com/jnMetaCode/superpowers-zh"
   },
   {
-    "description": "Local, offline, single-file HTML tool for manually relaying conversations between AI assistants in five interface and pr",
-    "id": "LonelySoul87/relay-console",
-    "language": "HTML",
-    "name": "LonelySoul87/relay-console",
-    "stars": 0,
-    "updated_at": "2026-09-02T14:59:31Z",
-    "url": "https://github.com/LonelySoul87/relay-console"
-  },
-  {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
     "id": "teguhimanulloh47/pirate-talk-for-claude",
     "language": "HTML",
@@ -70,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T14:52:46Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-09-02T14:59:38Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
     "description": "Reto #7DaysOfCode de Prompt Engineering (Alura Latam): una t\u00e9cnica por d\u00eda hasta construir un Tutor Personal de Carrera ",
@@ -90,13 +162,13 @@
     "url": "https://github.com/atapia9/7DaysOfCode-Prompt-Engineering"
   },
   {
-    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
-    "id": "AshwinUgale/muteval",
-    "language": "Python",
-    "name": "AshwinUgale/muteval",
-    "stars": 4,
-    "updated_at": "2026-09-02T14:55:59Z",
-    "url": "https://github.com/AshwinUgale/muteval"
+    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
+    "id": "Kenny27lokku/prompt-integrity-validator",
+    "language": "HTML",
+    "name": "Kenny27lokku/prompt-integrity-validator",
+    "stars": 2,
+    "updated_at": "2026-09-02T14:51:41Z",
+    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   },
   {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
@@ -160,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T14:46:11Z",
     "url": "https://github.com/SUNGHOONOH/wanted-prompton-course-chatbot"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-02T14:45:36Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Let your Agent call the local Antigravity CLI to get a task done.",
@@ -257,7 +320,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21749,
-    "updated_at": "2026-09-02T14:40:38Z",
+    "updated_at": "2026-09-02T15:03:34Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-02T14:27:41Z",
     "url": "https://github.com/Leo-maomao/pm-copilot"
-  },
-  {
-    "description": "\ud83e\udde9 Turn any AI into a gamified learning engine. Master Python, PowerShell, and Linux through missions, zero installation,",
-    "id": "Joupow/The-Prompt",
-    "language": "\u2014",
-    "name": "Joupow/The-Prompt",
-    "stars": 0,
-    "updated_at": "2026-09-02T14:27:19Z",
-    "url": "https://github.com/Joupow/The-Prompt"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27778,
-    "updated_at": "2026-09-02T14:37:12Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "A hands-on LangChain repository covering LLMs, ChatModels, embeddings, document loaders, text splitters, prompt engineer",
-    "id": "Sharif-Abusad/langchain-learning",
-    "language": "Python",
-    "name": "Sharif-Abusad/langchain-learning",
-    "stars": 0,
-    "updated_at": "2026-09-02T14:25:21Z",
-    "url": "https://github.com/Sharif-Abusad/langchain-learning"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 1,
-    "updated_at": "2026-09-02T14:48:06Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
-  },
-  {
-    "description": "Local Claude Code HTTP traffic inspector with a desktop GUI and agent API. Capture prompts, tools, SSE, errors, and toke",
-    "id": "FuHehe12/cc-wire-analyzer",
-    "language": "Python",
-    "name": "FuHehe12/cc-wire-analyzer",
-    "stars": 3,
-    "updated_at": "2026-09-02T14:24:08Z",
-    "url": "https://github.com/FuHehe12/cc-wire-analyzer"
-  },
-  {
-    "description": "Cross-agent toolkit for prompts and coding-agent skills",
-    "id": "sungjunlee/craftkit",
-    "language": "JavaScript",
-    "name": "sungjunlee/craftkit",
-    "stars": 0,
-    "updated_at": "2026-09-02T14:24:07Z",
-    "url": "https://github.com/sungjunlee/craftkit"
-  },
-  {
-    "description": "Platform for learning context engineering \u2014 compare LLM outputs with/without structured prompts, benchmark system prompt",
-    "id": "HafizAhmadHassan/context-engineering-lab2-system-prompt",
-    "language": "JavaScript",
-    "name": "HafizAhmadHassan/context-engineering-lab2-system-prompt",
-    "stars": 0,
-    "updated_at": "2026-09-02T14:42:46Z",
-    "url": "https://github.com/HafizAhmadHassan/context-engineering-lab2-system-prompt"
   }
 ]
