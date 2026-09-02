@@ -1,12 +1,39 @@
 [
   {
-    "description": "LLM naming pass for generated worlds, in TypeScript: names every district, station, line and business against a theme pr",
-    "id": "hec-ovi/urbe-namer",
+    "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
+    "id": "jamestexas/agents",
     "language": "TypeScript",
-    "name": "hec-ovi/urbe-namer",
+    "name": "jamestexas/agents",
+    "stars": 2,
+    "updated_at": "2026-09-02T18:43:58Z",
+    "url": "https://github.com/jamestexas/agents"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-09-02T18:43:35Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B",
+    "id": "karanarora-aideveloper/stack-ai-tools",
+    "language": "TypeScript",
+    "name": "karanarora-aideveloper/stack-ai-tools",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:41:49Z",
+    "url": "https://github.com/karanarora-aideveloper/stack-ai-tools"
+  },
+  {
+    "description": "Layered Paper Cut Design Skill \u2014 asset-aware prompts for exhibition handmade paper-cut collage.",
+    "id": "dse120071750/layered-paper-cut-design-skill",
+    "language": "Python",
+    "name": "dse120071750/layered-paper-cut-design-skill",
     "stars": 0,
-    "updated_at": "2026-09-02T18:35:52Z",
-    "url": "https://github.com/hec-ovi/urbe-namer"
+    "updated_at": "2026-09-02T18:41:38Z",
+    "url": "https://github.com/dse120071750/layered-paper-cut-design-skill"
   },
   {
     "description": "GLM thinking-mode router suite for ZCode - dsh-routing-suite methodology re-implemented on ZCode hooks, calibrated for G",
@@ -14,8 +41,44 @@
     "language": "JavaScript",
     "name": "moeform-re/glm-routing-suite-for-zcode",
     "stars": 0,
-    "updated_at": "2026-09-02T18:35:34Z",
+    "updated_at": "2026-09-02T18:40:33Z",
     "url": "https://github.com/moeform-re/glm-routing-suite-for-zcode"
+  },
+  {
+    "description": "Governance methodology for building AI agent skills that don't rot: lifecycle, contracts, release gates.",
+    "id": "653390665/skill-engineering-kit",
+    "language": "Python",
+    "name": "653390665/skill-engineering-kit",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:39:40Z",
+    "url": "https://github.com/653390665/skill-engineering-kit"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:39:18Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-02T18:37:55Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "LLM naming pass for generated worlds, in TypeScript: names every district, station, line and business against a theme pr",
+    "id": "hec-ovi/urbe-namer",
+    "language": "TypeScript",
+    "name": "hec-ovi/urbe-namer",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:37:57Z",
+    "url": "https://github.com/hec-ovi/urbe-namer"
   },
   {
     "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
@@ -54,42 +117,6 @@
     "url": "https://github.com/acipaaa/context-llm-chunks"
   },
   {
-    "description": "Governance methodology for building AI agent skills that don't rot: lifecycle, contracts, release gates.",
-    "id": "653390665/skill-engineering-kit",
-    "language": "Python",
-    "name": "653390665/skill-engineering-kit",
-    "stars": 0,
-    "updated_at": "2026-09-02T18:32:13Z",
-    "url": "https://github.com/653390665/skill-engineering-kit"
-  },
-  {
-    "description": "Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B",
-    "id": "karanarora-aideveloper/stack-ai-tools",
-    "language": "TypeScript",
-    "name": "karanarora-aideveloper/stack-ai-tools",
-    "stars": 1,
-    "updated_at": "2026-09-02T18:32:02Z",
-    "url": "https://github.com/karanarora-aideveloper/stack-ai-tools"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-02T18:30:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
-    "id": "jamestexas/agents",
-    "language": "TypeScript",
-    "name": "jamestexas/agents",
-    "stars": 2,
-    "updated_at": "2026-09-02T18:29:29Z",
-    "url": "https://github.com/jamestexas/agents"
-  },
-  {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
     "id": "vikashjeyaraman/opencouncil-contract-inspector",
     "language": "HTML",
@@ -117,9 +144,18 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
+    "description": "Multilingual AI workspace + MCP server for prompt workflows, model comparison, speech-to-text, language detection, trans",
+    "id": "hmoses/poly-glot-ai-workspace",
+    "language": "JavaScript",
+    "name": "hmoses/poly-glot-ai-workspace",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:27:02Z",
+    "url": "https://github.com/hmoses/poly-glot-ai-workspace"
+  },
+  {
     "description": "A multilingual, Git-first Prompt library with human-reviewed Agent workflows",
     "id": "ziyetsui/prompt-lab",
-    "language": "\u2014",
+    "language": "JavaScript",
     "name": "ziyetsui/prompt-lab",
     "stars": 0,
     "updated_at": "2026-09-02T18:25:19Z",
@@ -153,24 +189,6 @@
     "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-02T18:23:47Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-09-02T18:27:54Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
     "description": "Measured, opinionated CLAUDE.md ruleset for Claude Code. No plugins, no frameworks \u2014 one markdown file + benchmarks + re",
     "id": "itsnex1s/honed-claude",
     "language": "Shell",
@@ -196,15 +214,6 @@
     "stars": 5,
     "updated_at": "2026-09-02T18:21:07Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Multilingual AI workspace + MCP server for prompt workflows, model comparison, speech-to-text, language detection, trans",
-    "id": "hmoses/poly-glot-ai-workspace",
-    "language": "JavaScript",
-    "name": "hmoses/poly-glot-ai-workspace",
-    "stars": 0,
-    "updated_at": "2026-09-02T18:27:02Z",
-    "url": "https://github.com/hmoses/poly-glot-ai-workspace"
   },
   {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T17:51:01Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 1,
-    "updated_at": "2026-09-02T17:50:34Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   }
 ]
