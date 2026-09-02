@@ -1,5 +1,158 @@
 [
   {
+    "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinat",
+    "id": "2akouwu/reverify",
+    "language": "Python",
+    "name": "2akouwu/reverify",
+    "stars": 520,
+    "updated_at": "2026-09-02T13:13:23Z",
+    "url": "https://github.com/2akouwu/reverify"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-09-02T13:15:19Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 68439,
+    "updated_at": "2026-09-02T13:14:29Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "A harness for Claude Code: 22 playbooks and 22 principles you call by name, judgment routed to another model family, and",
+    "id": "Haruki1090/plumb",
+    "language": "Shell",
+    "name": "Haruki1090/plumb",
+    "stars": 0,
+    "updated_at": "2026-09-02T13:08:56Z",
+    "url": "https://github.com/Haruki1090/plumb"
+  },
+  {
+    "description": "\ud83d\udd0d Automate job discovery on Freelancer.com with AI-driven insights and tailored project recommendations for freelancers.",
+    "id": "EpicSaleh/freelancer-opportunity-finder",
+    "language": "JavaScript",
+    "name": "EpicSaleh/freelancer-opportunity-finder",
+    "stars": 1,
+    "updated_at": "2026-09-02T13:07:12Z",
+    "url": "https://github.com/EpicSaleh/freelancer-opportunity-finder"
+  },
+  {
+    "description": "\ud83e\udd16 Engage AI in dynamic debates with this customizable Python system, featuring unique personalities, original topics, an",
+    "id": "thucutos1fpt/Italian-AI-Debater",
+    "language": "Python",
+    "name": "thucutos1fpt/Italian-AI-Debater",
+    "stars": 1,
+    "updated_at": "2026-09-02T13:06:48Z",
+    "url": "https://github.com/thucutos1fpt/Italian-AI-Debater"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Manage and reuse AI prompts from the command line with cueCLI for ChatGPT, Claude, and more\u2014simplifying your workflow",
+    "id": "tito1405/cueCLI",
+    "language": "JavaScript",
+    "name": "tito1405/cueCLI",
+    "stars": 3,
+    "updated_at": "2026-09-02T13:06:27Z",
+    "url": "https://github.com/tito1405/cueCLI"
+  },
+  {
+    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
+    "stars": 1,
+    "updated_at": "2026-09-02T13:05:18Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "A plug-and-play framework for AI-assisted software development, enhancing context-aware collaboration in complex codebas",
+    "id": "JaiChaudhary07/ai-dev-assistant-framework",
+    "language": "\u2014",
+    "name": "JaiChaudhary07/ai-dev-assistant-framework",
+    "stars": 5,
+    "updated_at": "2026-09-02T13:04:46Z",
+    "url": "https://github.com/JaiChaudhary07/ai-dev-assistant-framework"
+  },
+  {
+    "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
+    "id": "Tymooh/GPT-DUEL-ARENA",
+    "language": "\u2014",
+    "name": "Tymooh/GPT-DUEL-ARENA",
+    "stars": 0,
+    "updated_at": "2026-09-02T13:04:10Z",
+    "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
+  },
+  {
+    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
+    "id": "grigb/gas-prompt-library",
+    "language": "Python",
+    "name": "grigb/gas-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-02T13:03:15Z",
+    "url": "https://github.com/grigb/gas-prompt-library"
+  },
+  {
+    "description": "361 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a ",
+    "id": "kydlikebtc/awesome-grokbot",
+    "language": "Python",
+    "name": "kydlikebtc/awesome-grokbot",
+    "stars": 121,
+    "updated_at": "2026-09-02T13:01:03Z",
+    "url": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
+    "id": "Leo-maomao/pm-copilot",
+    "language": "Python",
+    "name": "Leo-maomao/pm-copilot",
+    "stars": 4,
+    "updated_at": "2026-09-02T13:00:33Z",
+    "url": "https://github.com/Leo-maomao/pm-copilot"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-02T13:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Create, validate, and maintain project-specific Claude Code harnesses through a structured interview.",
+    "id": "tjdwls101010/Harness-Creator",
+    "language": "HTML",
+    "name": "tjdwls101010/Harness-Creator",
+    "stars": 4,
+    "updated_at": "2026-09-02T13:13:09Z",
+    "url": "https://github.com/tjdwls101010/Harness-Creator"
+  },
+  {
+    "description": "A governed operating system for ChatGPT Projects, Codex delivery, verification, and Stream Deck workflows.",
+    "id": "sergstack/AI-OS",
+    "language": "Python",
+    "name": "sergstack/AI-OS",
+    "stars": 0,
+    "updated_at": "2026-09-02T13:08:43Z",
+    "url": "https://github.com/sergstack/AI-OS"
+  },
+  {
+    "description": "\u8bf4\u4eba\u8bdd\uff5c\u4e2d\u6587\u4f18\u5148\u7684\u53bb AI \u5473\u6539\u5199 skill\uff1a\u4fdd\u4e8b\u5b9e\u3001\u5206\u573a\u666f\u3001\u6539\u5b8c\u53ef\u76f4\u63a5\u53d1\u3002Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT \u2014 removes ",
+    "id": "MrGeDiao/shuorenhua",
+    "language": "Python",
+    "name": "MrGeDiao/shuorenhua",
+    "stars": 1365,
+    "updated_at": "2026-09-02T12:59:52Z",
+    "url": "https://github.com/MrGeDiao/shuorenhua"
+  },
+  {
     "description": "\ud83e\udde9 Turn any AI into a gamified learning engine. Master Python, PowerShell, and Linux through missions, zero installation,",
     "id": "Joupow/The-Prompt",
     "language": "\u2014",
@@ -14,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3522,
-    "updated_at": "2026-09-02T13:00:01Z",
+    "updated_at": "2026-09-02T13:15:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -25,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T12:57:56Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Create, validate, and maintain project-specific Claude Code harnesses through a structured interview.",
-    "id": "tjdwls101010/Harness-Creator",
-    "language": "HTML",
-    "name": "tjdwls101010/Harness-Creator",
-    "stars": 4,
-    "updated_at": "2026-09-02T13:00:18Z",
-    "url": "https://github.com/tjdwls101010/Harness-Creator"
   },
   {
     "description": "On-device prompt injection & jailbreak scanner for LLM apps: 22 deterministic rules across 8 attack categories score any",
@@ -104,7 +248,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21746,
-    "updated_at": "2026-09-02T12:56:45Z",
+    "updated_at": "2026-09-02T13:05:59Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -115,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T12:51:30Z",
     "url": "https://github.com/zkhyww/ai-short-drama-skills"
-  },
-  {
-    "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinat",
-    "id": "2akouwu/reverify",
-    "language": "Python",
-    "name": "2akouwu/reverify",
-    "stars": 514,
-    "updated_at": "2026-09-02T12:50:44Z",
-    "url": "https://github.com/2akouwu/reverify"
   },
   {
     "description": "\ud83e\udde0 Local-first VS Code extension for codebase intelligence, AST guardrails, and deterministic AI context engineering. Pro",
@@ -171,15 +306,6 @@
     "url": "https://github.com/TitusKirch/skills"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-02T12:45:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Zero-config LLM cost & quality monitoring for Ruby apps - automatically log AI API calls and collect user feedback for a",
     "id": "Coolhand-Labs/coolhand-ruby",
     "language": "Ruby",
@@ -187,24 +313,6 @@
     "stars": 9,
     "updated_at": "2026-09-02T12:44:51Z",
     "url": "https://github.com/Coolhand-Labs/coolhand-ruby"
-  },
-  {
-    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
-    "id": "Leo-maomao/pm-copilot",
-    "language": "Python",
-    "name": "Leo-maomao/pm-copilot",
-    "stars": 4,
-    "updated_at": "2026-09-02T12:44:42Z",
-    "url": "https://github.com/Leo-maomao/pm-copilot"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 1,
-    "updated_at": "2026-09-02T12:43:42Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
   },
   {
     "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
@@ -221,7 +329,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34092,
-    "updated_at": "2026-09-02T12:54:27Z",
+    "updated_at": "2026-09-02T13:14:33Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -288,15 +396,6 @@
     "url": "https://github.com/Namit1867/CrewAI-Powered-AI-Agents"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 68433,
-    "updated_at": "2026-09-02T12:24:51Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
     "description": "The ultimate open-source directory of production-grade AI Agent skills, system instructions, and custom rules (.mdc) for",
     "id": "ashish7802/awesome-agent-skills",
     "language": "TypeScript",
@@ -333,15 +432,6 @@
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
   },
   {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-09-02T12:15:29Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
     "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
     "id": "Sungmin-Cho/deep-suite",
     "language": "JavaScript",
@@ -358,95 +448,5 @@
     "stars": 14,
     "updated_at": "2026-09-02T12:07:26Z",
     "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13346,
-    "updated_at": "2026-09-02T12:05:19Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen",
-    "id": "simota/agent-skills",
-    "language": "HTML",
-    "name": "simota/agent-skills",
-    "stars": 75,
-    "updated_at": "2026-09-02T12:04:34Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
-    "description": "A methodology so aggressive it demands to be replaced.",
-    "id": "unknowbug/physics-causality-anchored-verification-theory",
-    "language": "Python",
-    "name": "unknowbug/physics-causality-anchored-verification-theory",
-    "stars": 10,
-    "updated_at": "2026-09-02T12:04:24Z",
-    "url": "https://github.com/unknowbug/physics-causality-anchored-verification-theory"
-  },
-  {
-    "description": "Bilingual authoring methods for natural one-to-one LLM roleplay prompts.\u7528\u4e8e\u81ea\u7136\u4e00\u5bf9\u4e00LLM\u89d2\u8272\u626e\u6f14\u63d0\u793a\u7684\u53cc\u8bed\u7f16\u5199\u65b9\u6cd5\u3002",
-    "id": "Yuimi-chaya/llm-rp-role-prompt-authoring",
-    "language": "PowerShell",
-    "name": "Yuimi-chaya/llm-rp-role-prompt-authoring",
-    "stars": 0,
-    "updated_at": "2026-09-02T12:03:14Z",
-    "url": "https://github.com/Yuimi-chaya/llm-rp-role-prompt-authoring"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3698,
-    "updated_at": "2026-09-02T12:29:56Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "Human-led AI workflows for real B2B sales work.",
-    "id": "shaunmarsden/practical-ai-sales-workflows",
-    "language": "\u2014",
-    "name": "shaunmarsden/practical-ai-sales-workflows",
-    "stars": 2,
-    "updated_at": "2026-09-02T12:07:11Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27777,
-    "updated_at": "2026-09-02T12:00:03Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "CLI tool that finds files and folders by fuzzy name and recursively concatenates files to your clipboard as AI context f",
-    "id": "tigreau/catclip",
-    "language": "Go",
-    "name": "tigreau/catclip",
-    "stars": 5,
-    "updated_at": "2026-09-02T12:33:05Z",
-    "url": "https://github.com/tigreau/catclip"
-  },
-  {
-    "description": "",
-    "id": "ai-engineering-curriculum/llm-application-developer-learning",
-    "language": "\u2014",
-    "name": "ai-engineering-curriculum/llm-application-developer-learning",
-    "stars": 0,
-    "updated_at": "2026-09-02T11:57:55Z",
-    "url": "https://github.com/ai-engineering-curriculum/llm-application-developer-learning"
-  },
-  {
-    "description": "Agentic Workflow Based Coder System",
-    "id": "BerkayyKaya/X-Coder",
-    "language": "Python",
-    "name": "BerkayyKaya/X-Coder",
-    "stars": 0,
-    "updated_at": "2026-09-02T11:55:50Z",
-    "url": "https://github.com/BerkayyKaya/X-Coder"
   }
 ]
