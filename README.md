@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-02 11:12 UTC
+> ⏰ Last updated: 2026-09-02 11:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,31 +42,31 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [abed211/mdp-preflight](https://github.com/abed211/mdp-preflight) | 0 | — | 2026-09-02 | A free evidence-first readiness audit for projects built with AI coding agents. |
-| 2 | [timurgaleev/vibestack](https://github.com/timurgaleev/vibestack) | 6 | TypeScript | 2026-09-02 | vibestack is a portable skill pack for AI coding agents. Slash commands like /office-hours, /ship, /investigate, /tdd, / |
-| 3 | [Leo-maomao/pm-copilot](https://github.com/Leo-maomao/pm-copilot) | 4 | Python | 2026-09-02 | 产品经理 AI Agent 工作流套件，生成 PRD、埋点方案、可点击原型、研发交接和上线决策材料。PM Copilot is an Agent Workflow Kit for PMs. |
-| 4 | [jiabaobei/skills-constitution](https://github.com/jiabaobei/skills-constitution) | 215 | Python | 2026-09-02 | Skills Constitution — meta-rule governing all skill invocations across agent platforms |
-| 5 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 68411 | Python | 2026-09-02 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% |
-| 6 | [hakodev2k/AI-Engineering](https://github.com/hakodev2k/AI-Engineering) | 0 | Python | 2026-09-02 | Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories. |
-| 7 | [rumilhz/wrongbook](https://github.com/rumilhz/wrongbook) | 2 | Python | 2026-09-02 | Preventive rules book for AI agents — stop repeating mistakes（前置防错错题本） |
-| 8 | [Kakumanu26/LLM-Bug-Triage-Eval](https://github.com/Kakumanu26/LLM-Bug-Triage-Eval) | 0 | Python | 2026-09-02 | Does prompt-only Claude Haiku beat a majority-class baseline at predicting which GitHub issues get bounced back as info- |
-| 9 | [fysoul17/devlyn-cli](https://github.com/fysoul17/devlyn-cli) | 1 | Python | 2026-09-02 | AI development toolkit for Claude Code — ideate, auto-resolve, and ship with context engineering and agent orchestration |
-| 10 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34087 | TypeScript | 2026-09-02 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 11 | [tryAGI/Vellum](https://github.com/tryAGI/Vellum) | 0 | C# | 2026-09-02 | C# SDK for the Vellum AI API -- prompt engineering, evaluation, deployment, and workflow orchestration |
-| 12 | [neopen/story-shot-agent](https://github.com/neopen/story-shot-agent) | 159 | Python | 2026-09-02 | 剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt \| 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词 |
-| 13 | [sebhuet/claude-for-business](https://github.com/sebhuet/claude-for-business) | 0 | — | 2026-09-02 | Free prompt library, chapter guides and quiz for the book Claude for Business. |
-| 14 | [karanarora-aideveloper/stack-ai-tools](https://github.com/karanarora-aideveloper/stack-ai-tools) | 1 | TypeScript | 2026-09-02 | Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B |
-| 15 | [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | 6306 | TypeScript | 2026-09-02 | This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor |
-| 16 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27777 | Python | 2026-09-02 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 17 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-09-02 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 18 | [XiucuiGuan/requirements-extractor](https://github.com/XiucuiGuan/requirements-extractor) | 0 | — | 2026-09-02 | 对话历史需求提炼与文档化 Skill（达尔文进化版）：识别多需求场景、提取多轮修正历程与最终可执行提示词，生成结构化需求文档 |
-| 19 | [voytas75/PromptManager](https://github.com/voytas75/PromptManager) | 3 | Python | 2026-09-02 | PromptManager is a desktop application for cataloguing, searching, and executing AI prompts, and much more. |
-| 20 | [Erye932/OfferPilot-Web](https://github.com/Erye932/OfferPilot-Web) | 1 | TypeScript | 2026-09-02 | Open-source multi-stage AI workflow for diagnosing and rewriting technical resumes. Grounded in a curated corpus of recr |
-| 21 | [rockerlabs/keel](https://github.com/rockerlabs/keel) | 2 | Shell | 2026-09-02 | A thin, model-agnostic layer for what an AI agent loads, when, and how much — principles + plain-Bash tools. |
-| 22 | [aaronrene/overseer-kit](https://github.com/aaronrene/overseer-kit) | 1 | Python | 2026-09-02 | Portable AI governance kit — handover, roadmap, freeze review. Inject into any repo with ok init |
-| 23 | [StarSure/quiet-signal-press](https://github.com/StarSure/quiet-signal-press) | 0 | — | 2026-09-02 | 静默信号社：将主题、文章或照片变成高留白纸张编辑海报的 Codex Skill |
-| 24 | [Felix8686/ai-tools-workbench](https://github.com/Felix8686/ai-tools-workbench) | 0 | — | 2026-09-02 | 可复用的 Agent Skills、自动化脚本和个人 AI 工具工作台 |
-| 25 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-02 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [aaronrene/overseer-kit](https://github.com/aaronrene/overseer-kit) | 1 | Python | 2026-09-02 | Portable AI governance kit — handover, roadmap, freeze review. Inject into any repo with ok init |
+| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34088 | TypeScript | 2026-09-02 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 3 | [hakodev2k/AI-Engineering](https://github.com/hakodev2k/AI-Engineering) | 0 | Python | 2026-09-02 | Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories. |
+| 4 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-02 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 5 | [abed211/mdp-preflight](https://github.com/abed211/mdp-preflight) | 0 | — | 2026-09-02 | A free evidence-first readiness audit for projects built with AI coding agents. |
+| 6 | [timurgaleev/vibestack](https://github.com/timurgaleev/vibestack) | 6 | TypeScript | 2026-09-02 | vibestack is a portable skill pack for AI coding agents. Slash commands like /office-hours, /ship, /investigate, /tdd, / |
+| 7 | [Leo-maomao/pm-copilot](https://github.com/Leo-maomao/pm-copilot) | 4 | Python | 2026-09-02 | 产品经理 AI Agent 工作流套件，生成 PRD、埋点方案、可点击原型、研发交接和上线决策材料。PM Copilot is an Agent Workflow Kit for PMs. |
+| 8 | [jiabaobei/skills-constitution](https://github.com/jiabaobei/skills-constitution) | 215 | Python | 2026-09-02 | Skills Constitution — meta-rule governing all skill invocations across agent platforms |
+| 9 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 68411 | Python | 2026-09-02 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% |
+| 10 | [rumilhz/wrongbook](https://github.com/rumilhz/wrongbook) | 2 | Python | 2026-09-02 | Preventive rules book for AI agents — stop repeating mistakes（前置防错错题本） |
+| 11 | [Kakumanu26/LLM-Bug-Triage-Eval](https://github.com/Kakumanu26/LLM-Bug-Triage-Eval) | 0 | Python | 2026-09-02 | Does prompt-only Claude Haiku beat a majority-class baseline at predicting which GitHub issues get bounced back as info- |
+| 12 | [fysoul17/devlyn-cli](https://github.com/fysoul17/devlyn-cli) | 1 | Python | 2026-09-02 | AI development toolkit for Claude Code — ideate, auto-resolve, and ship with context engineering and agent orchestration |
+| 13 | [tryAGI/Vellum](https://github.com/tryAGI/Vellum) | 0 | C# | 2026-09-02 | C# SDK for the Vellum AI API -- prompt engineering, evaluation, deployment, and workflow orchestration |
+| 14 | [neopen/story-shot-agent](https://github.com/neopen/story-shot-agent) | 159 | Python | 2026-09-02 | 剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt \| 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词 |
+| 15 | [sebhuet/claude-for-business](https://github.com/sebhuet/claude-for-business) | 0 | — | 2026-09-02 | Free prompt library, chapter guides and quiz for the book Claude for Business. |
+| 16 | [karanarora-aideveloper/stack-ai-tools](https://github.com/karanarora-aideveloper/stack-ai-tools) | 1 | TypeScript | 2026-09-02 | Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B |
+| 17 | [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | 6306 | TypeScript | 2026-09-02 | This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor |
+| 18 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27777 | Python | 2026-09-02 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 19 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 22 | TypeScript | 2026-09-02 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 20 | [XiucuiGuan/requirements-extractor](https://github.com/XiucuiGuan/requirements-extractor) | 0 | — | 2026-09-02 | 对话历史需求提炼与文档化 Skill（达尔文进化版）：识别多需求场景、提取多轮修正历程与最终可执行提示词，生成结构化需求文档 |
+| 21 | [voytas75/PromptManager](https://github.com/voytas75/PromptManager) | 3 | Python | 2026-09-02 | PromptManager is a desktop application for cataloguing, searching, and executing AI prompts, and much more. |
+| 22 | [Erye932/OfferPilot-Web](https://github.com/Erye932/OfferPilot-Web) | 1 | TypeScript | 2026-09-02 | Open-source multi-stage AI workflow for diagnosing and rewriting technical resumes. Grounded in a curated corpus of recr |
+| 23 | [rockerlabs/keel](https://github.com/rockerlabs/keel) | 2 | Shell | 2026-09-02 | A thin, model-agnostic layer for what an AI agent loads, when, and how much — principles + plain-Bash tools. |
+| 24 | [StarSure/quiet-signal-press](https://github.com/StarSure/quiet-signal-press) | 0 | — | 2026-09-02 | 静默信号社：将主题、文章或照片变成高留白纸张编辑海报的 Codex Skill |
+| 25 | [Felix8686/ai-tools-workbench](https://github.com/Felix8686/ai-tools-workbench) | 0 | — | 2026-09-02 | 可复用的 Agent Skills、自动化脚本和个人 AI 工具工作台 |
 | 26 | [aegntic/cognitive-os](https://github.com/aegntic/cognitive-os) | 6 | HTML | 2026-09-02 | Cognitive OS v3.0 — Universal AI agent operating system specification. 16-section cognitive architecture for Claude Code |
 | 27 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-09-02 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
 | 28 | [Sunil-M02/curiosity-engine](https://github.com/Sunil-M02/curiosity-engine) | 2 | TypeScript | 2026-09-02 | AI Workflow Engine for SEO automation, market research, and developer productivity using Claude, GPT, and Copilot. |
