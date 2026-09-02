@@ -1,5 +1,104 @@
 [
   {
+    "description": "Braid a plan graph of plain-text files into one well-ordered prompt \u2014 with a live canvas, MCP control for agents, and de",
+    "id": "tzavislan/kumihimo",
+    "language": "Python",
+    "name": "tzavislan/kumihimo",
+    "stars": 0,
+    "updated_at": "2026-09-02T03:43:55Z",
+    "url": "https://github.com/tzavislan/kumihimo"
+  },
+  {
+    "description": "Generate Prompt Web App",
+    "id": "khafidanasrulain18-web/meta-prompt",
+    "language": "TypeScript",
+    "name": "khafidanasrulain18-web/meta-prompt",
+    "stars": 0,
+    "updated_at": "2026-09-02T03:41:57Z",
+    "url": "https://github.com/khafidanasrulain18-web/meta-prompt"
+  },
+  {
+    "description": "A professional collection of AI prompts for QA (Quality Assurance) professionals, designed to help test engineers and QA",
+    "id": "naodeng/awesome-qa-prompt",
+    "language": "JavaScript",
+    "name": "naodeng/awesome-qa-prompt",
+    "stars": 43,
+    "updated_at": "2026-09-02T03:41:21Z",
+    "url": "https://github.com/naodeng/awesome-qa-prompt"
+  },
+  {
+    "description": "Keep one fresh turn-level anchor in Claude Code while pruning historical copies to avoid context and token buildup.",
+    "id": "lllq-123/claude-code-turn-anchor",
+    "language": "Python",
+    "name": "lllq-123/claude-code-turn-anchor",
+    "stars": 3,
+    "updated_at": "2026-09-02T03:40:42Z",
+    "url": "https://github.com/lllq-123/claude-code-turn-anchor"
+  },
+  {
+    "description": "Practical AI workplace portfolio covering effective prompting, stakeholder presentations, and responsible AI-assisted de",
+    "id": "fetachino/partnering-with-ai-in-the-workplace",
+    "language": "PowerShell",
+    "name": "fetachino/partnering-with-ai-in-the-workplace",
+    "stars": 0,
+    "updated_at": "2026-09-02T03:38:12Z",
+    "url": "https://github.com/fetachino/partnering-with-ai-in-the-workplace"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-02T03:35:53Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Next-Gen Token, Context & Output Optimization Suite for Google Antigravity IDE & CLI",
+    "id": "axxion/antigravity-token-optimizer",
+    "language": "Python",
+    "name": "axxion/antigravity-token-optimizer",
+    "stars": 0,
+    "updated_at": "2026-09-02T03:33:56Z",
+    "url": "https://github.com/axxion/antigravity-token-optimizer"
+  },
+  {
+    "description": "Curated Agent Skills scene-packs for AI tools: content publishing across 18 Chinese platforms, AI media generation (vide",
+    "id": "Morningstar202604/awesome-skillkit",
+    "language": "Python",
+    "name": "Morningstar202604/awesome-skillkit",
+    "stars": 1,
+    "updated_at": "2026-09-02T03:31:01Z",
+    "url": "https://github.com/Morningstar202604/awesome-skillkit"
+  },
+  {
+    "description": "Hospital-oriented multi-agent MDT consultation platform: red-flag triage, CHA2DS2-VASc/Wells/CURB-65 scoring, lab refere",
+    "id": "Morningstar202604/medconsult",
+    "language": "Python",
+    "name": "Morningstar202604/medconsult",
+    "stars": 1,
+    "updated_at": "2026-09-02T03:30:52Z",
+    "url": "https://github.com/Morningstar202604/medconsult"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 1,
+    "updated_at": "2026-09-02T03:30:32Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-02T03:30:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Risk-gated /skills for Claude Code \u2014 14 invocable skills carry a change from brainstorm \u2192 ship.",
     "id": "minhtran3124/agent-harness",
     "language": "Python",
@@ -7,15 +106,6 @@
     "stars": 7,
     "updated_at": "2026-09-02T03:30:11Z",
     "url": "https://github.com/minhtran3124/agent-harness"
-  },
-  {
-    "description": "Next-Gen Token, Context & Output Optimization Suite for Google Antigravity IDE & CLI",
-    "id": "axxion/antigravity-token-optimizer",
-    "language": "\u2014",
-    "name": "axxion/antigravity-token-optimizer",
-    "stars": 0,
-    "updated_at": "2026-09-02T03:28:45Z",
-    "url": "https://github.com/axxion/antigravity-token-optimizer"
   },
   {
     "description": "Awesome QA Skills \u2014 a bilingual (zh/en) AI testing Agent Skills library for Codex, Cursor, Claude Code, Kiro, OpenCode, ",
@@ -126,15 +216,6 @@
     "url": "https://github.com/dgenio/contextweaver"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-02T03:19:39Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
     "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
     "language": "HTML",
@@ -166,7 +247,7 @@
     "id": "f/prompts.chat",
     "language": "HTML",
     "name": "f/prompts.chat",
-    "stars": 168458,
+    "stars": 168459,
     "updated_at": "2026-09-02T03:17:55Z",
     "url": "https://github.com/f/prompts.chat"
   },
@@ -187,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T03:15:53Z",
     "url": "https://github.com/dashtink/contextos"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-02T03:15:33Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T02:46:06Z",
     "url": "https://github.com/zmice/zc-ai-coding-toolkit"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3522,
-    "updated_at": "2026-09-02T02:51:28Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "A curated collection of interesting AI drawing skills and production-ready prompts",
-    "id": "KenView/awesome-drawing-skills-prompts",
-    "language": "Python",
-    "name": "KenView/awesome-drawing-skills-prompts",
-    "stars": 0,
-    "updated_at": "2026-09-02T02:42:16Z",
-    "url": "https://github.com/KenView/awesome-drawing-skills-prompts"
-  },
-  {
-    "description": "AI marketing team for B2B SaaS: 76 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content, paid media, email, ",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 8,
-    "updated_at": "2026-09-02T02:41:37Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
-    "id": "Nanako0129/sepia",
-    "language": "Python",
-    "name": "Nanako0129/sepia",
-    "stars": 1364,
-    "updated_at": "2026-09-02T02:39:46Z",
-    "url": "https://github.com/Nanako0129/sepia"
-  },
-  {
-    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
-    "id": "archubbuck/workspace-architect",
-    "language": "Python",
-    "name": "archubbuck/workspace-architect",
-    "stars": 18,
-    "updated_at": "2026-09-02T02:38:01Z",
-    "url": "https://github.com/archubbuck/workspace-architect"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T02:44:47Z",
-    "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 18,
-    "updated_at": "2026-09-02T03:04:37Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
-    "id": "ntatschner/loadout-cli",
-    "language": "C#",
-    "name": "ntatschner/loadout-cli",
-    "stars": 1,
-    "updated_at": "2026-09-02T02:33:45Z",
-    "url": "https://github.com/ntatschner/loadout-cli"
   }
 ]
