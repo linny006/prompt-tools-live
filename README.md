@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-03 14:29 UTC
+> ⏰ Last updated: 2026-09-03 14:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [KryIZX/claude-vault](https://github.com/KryIZX/claude-vault) | 0 | — | 2026-09-03 | 50 production AI agent prompts - architecture, tools, evals, guardrails, cost, shipping. Building AI agents in public. |
-| 2 | [hakodev2k/AI-Engineering](https://github.com/hakodev2k/AI-Engineering) | 1 | Python | 2026-09-03 | Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories. |
-| 3 | [FiL-Design-Ai/FiL_Design_ImageMind](https://github.com/FiL-Design-Ai/FiL_Design_ImageMind) | 3 | Python | 2026-09-03 | ⚡ AI-powered ComfyUI nodes for image analysis, prompt generation, and intelligent workflows |
-| 4 | [tjdwls101010/Harness-Creator](https://github.com/tjdwls101010/Harness-Creator) | 4 | HTML | 2026-09-03 | Create, validate, and maintain project-specific Claude Code harnesses through a structured interview. |
-| 5 | [enalbenerraw/blanewarrene](https://github.com/enalbenerraw/blanewarrene) | 1 | Python | 2026-09-03 | Blane's AI PM Repository |
-| 6 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21763 | Python | 2026-09-03 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 7 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-09-03 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 8 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34156 | TypeScript | 2026-09-03 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 9 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 5 | JavaScript | 2026-09-03 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
-| 10 | [hanzhangzzz/agent-skills-zh](https://github.com/hanzhangzzz/agent-skills-zh) | 1 | Python | 2026-09-03 | Agent Skills for Claude Code & Codex (中文优先): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene,  |
-| 11 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 123 | HTML | 2026-09-03 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
-| 12 | [duartelcunha/Ember](https://github.com/duartelcunha/Ember) | 3 | Rust | 2026-09-03 | Refine any text, in the moment, in any app. Select text, hit a hotkey, get it sharpened and pasted back, prompts, emails |
-| 13 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-03 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-03 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [KryIZX/claude-vault](https://github.com/KryIZX/claude-vault) | 0 | — | 2026-09-03 | 50 production AI agent prompts - architecture, tools, evals, guardrails, cost, shipping. Building AI agents in public. |
+| 3 | [hakodev2k/AI-Engineering](https://github.com/hakodev2k/AI-Engineering) | 1 | Python | 2026-09-03 | Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories. |
+| 4 | [FiL-Design-Ai/FiL_Design_ImageMind](https://github.com/FiL-Design-Ai/FiL_Design_ImageMind) | 3 | Python | 2026-09-03 | ⚡ AI-powered ComfyUI nodes for image analysis, prompt generation, and intelligent workflows |
+| 5 | [tjdwls101010/Harness-Creator](https://github.com/tjdwls101010/Harness-Creator) | 4 | HTML | 2026-09-03 | Create, validate, and maintain project-specific Claude Code harnesses through a structured interview. |
+| 6 | [enalbenerraw/blanewarrene](https://github.com/enalbenerraw/blanewarrene) | 1 | Python | 2026-09-03 | Blane's AI PM Repository |
+| 7 | [comet-ml/opik](https://github.com/comet-ml/opik) | 21763 | Python | 2026-09-03 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 8 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-09-03 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
+| 9 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34156 | TypeScript | 2026-09-03 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 10 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 5 | JavaScript | 2026-09-03 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
+| 11 | [hanzhangzzz/agent-skills-zh](https://github.com/hanzhangzzz/agent-skills-zh) | 1 | Python | 2026-09-03 | Agent Skills for Claude Code & Codex (中文优先): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene,  |
+| 12 | [Magma1321/mythos-agent-pipe](https://github.com/Magma1321/mythos-agent-pipe) | 123 | HTML | 2026-09-03 | Finish-First Autonomous Agent Loop for Claude Opus 4.7 – 2026 Edition |
+| 13 | [duartelcunha/Ember](https://github.com/duartelcunha/Ember) | 3 | Rust | 2026-09-03 | Refine any text, in the moment, in any app. Select text, hit a hotkey, get it sharpened and pasted back, prompts, emails |
 | 14 | [redwheeler3/penta-application-screener](https://github.com/redwheeler3/penta-application-screener) | 1 | Python | 2026-09-03 | Production React/FastAPI system used by a housing co-op for secure intake, deterministic eligibility screening, human-we |
 | 15 | [RafaelPupio/Agents](https://github.com/RafaelPupio/Agents) | 0 | Shell | 2026-09-03 | Reusable AI agents you drop into your own projects. Plain Markdown, no dependencies. First up: EcoPrompt, which turns va |
 | 16 | [ki-tomat/kitomat](https://github.com/ki-tomat/kitomat) | 4 | JavaScript | 2026-09-03 | Frische KI-Ressourcen. Reife Ideen. |
