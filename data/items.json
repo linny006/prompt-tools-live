@@ -1,11 +1,128 @@
 [
   {
+    "description": "A cited anti-default field manual for AI-assisted writing and design.",
+    "id": "jtc268/not-like-us",
+    "language": "TypeScript",
+    "name": "jtc268/not-like-us",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:12:34Z",
+    "url": "https://github.com/jtc268/not-like-us"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-09-03T01:10:43Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Lossless, structure-aware compression of logs, JSON & CSV to cut LLM prompt tokens. Lossless or no-op \u2014 never lossy.",
+    "id": "antrixy/ctxfold",
+    "language": "JavaScript",
+    "name": "antrixy/ctxfold",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:10:26Z",
+    "url": "https://github.com/antrixy/ctxfold"
+  },
+  {
+    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
+    "id": "OutlineDriven/odin-claude-plugin",
+    "language": "Python",
+    "name": "OutlineDriven/odin-claude-plugin",
+    "stars": 35,
+    "updated_at": "2026-09-03T01:09:49Z",
+    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
+  },
+  {
+    "description": "brain in a vat",
+    "id": "takealook97/vat",
+    "language": "Go",
+    "name": "takealook97/vat",
+    "stars": 1,
+    "updated_at": "2026-09-03T01:07:34Z",
+    "url": "https://github.com/takealook97/vat"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:07:06Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
+    "id": "FURUYAN1234/nano-banana-pro",
+    "language": "JavaScript",
+    "name": "FURUYAN1234/nano-banana-pro",
+    "stars": 18,
+    "updated_at": "2026-09-03T01:07:03Z",
+    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
+  },
+  {
+    "description": "\u300a\u4f01\u4e1a AI \u843d\u5730\u624b\u518c\u300b",
+    "id": "betta-labs/ai-stable-output-handbook",
+    "language": "TypeScript",
+    "name": "betta-labs/ai-stable-output-handbook",
+    "stars": 1,
+    "updated_at": "2026-09-03T01:06:17Z",
+    "url": "https://github.com/betta-labs/ai-stable-output-handbook"
+  },
+  {
+    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
+    "id": "elie222/botdirectory.ai",
+    "language": "Astro",
+    "name": "elie222/botdirectory.ai",
+    "stars": 159,
+    "updated_at": "2026-09-03T01:04:44Z",
+    "url": "https://github.com/elie222/botdirectory.ai"
+  },
+  {
+    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
+    "id": "grigb/gas-prompt-library",
+    "language": "Python",
+    "name": "grigb/gas-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-03T01:03:19Z",
+    "url": "https://github.com/grigb/gas-prompt-library"
+  },
+  {
+    "description": "A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and pa",
+    "id": "google/mantis",
+    "language": "Python",
+    "name": "google/mantis",
+    "stars": 872,
+    "updated_at": "2026-09-03T01:03:12Z",
+    "url": "https://github.com/google/mantis"
+  },
+  {
+    "description": "Agent Skills Studio \u2014 Curated skills and installable packs for engineering, design, security, writing and product workfl",
+    "id": "jhonatan-oliveiradev/agent-skills",
+    "language": "TypeScript",
+    "name": "jhonatan-oliveiradev/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-03T01:12:50Z",
+    "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-03T01:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
     "id": "Hefrock/agent-skills",
     "language": "Python",
     "name": "Hefrock/agent-skills",
     "stars": 0,
-    "updated_at": "2026-09-03T00:59:53Z",
+    "updated_at": "2026-09-03T01:08:52Z",
     "url": "https://github.com/Hefrock/agent-skills"
   },
   {
@@ -14,7 +131,7 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 18,
-    "updated_at": "2026-09-03T00:59:45Z",
+    "updated_at": "2026-09-03T01:00:44Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -27,13 +144,13 @@
     "url": "https://github.com/nathan-hayashi/psychic-sidekick"
   },
   {
-    "description": "A cited anti-default field manual for AI-assisted writing and design.",
-    "id": "jtc268/not-like-us",
-    "language": "TypeScript",
-    "name": "jtc268/not-like-us",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:57:59Z",
-    "url": "https://github.com/jtc268/not-like-us"
+    "description": "Local, private prompt optimization with DSPy and Ollama. Rewrites prompts, measures them against your own data, and evol",
+    "id": "shirkattack/PromptCraft",
+    "language": "Python",
+    "name": "shirkattack/PromptCraft",
+    "stars": 3,
+    "updated_at": "2026-09-03T01:11:20Z",
+    "url": "https://github.com/shirkattack/PromptCraft"
   },
   {
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
@@ -72,15 +189,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:49:03Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
     "description": "Cross-border e-commerce AI knowledge base, designed to be read by people and installed by agents. 69 trilingual guides, ",
     "id": "kangise/ecommerce-ai-skills",
     "language": "Python",
@@ -97,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T00:46:42Z",
     "url": "https://github.com/SaeMind/self-correcting-data-analysis-agent"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-03T00:45:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Adaptive thinking allocation for Claude Code",
@@ -131,7 +230,7 @@
     "language": "Python",
     "name": "jim60105/copilot-prompt",
     "stars": 21,
-    "updated_at": "2026-09-03T00:40:07Z",
+    "updated_at": "2026-09-03T01:13:19Z",
     "url": "https://github.com/jim60105/copilot-prompt"
   },
   {
@@ -220,18 +319,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 21750,
-    "updated_at": "2026-09-03T00:26:49Z",
+    "stars": 21751,
+    "updated_at": "2026-09-03T01:08:49Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Agent Skills Studio \u2014 Curated skills and installable packs for engineering, design, security, writing and product workfl",
-    "id": "jhonatan-oliveiradev/agent-skills",
-    "language": "TypeScript",
-    "name": "jhonatan-oliveiradev/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-09-03T00:49:52Z",
-    "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -247,7 +337,7 @@
     "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
     "language": "Python",
     "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
-    "stars": 95,
+    "stars": 96,
     "updated_at": "2026-09-03T00:23:23Z",
     "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
   },
@@ -358,95 +448,5 @@
     "stars": 14,
     "updated_at": "2026-09-03T00:14:03Z",
     "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
-  },
-  {
-    "description": "Most advanced and in depth prompt analyzer, refiner and generator, built and trained on a collection frontier LLM system",
-    "id": "Ker102/PromptTriage",
-    "language": "Python",
-    "name": "Ker102/PromptTriage",
-    "stars": 7,
-    "updated_at": "2026-09-03T00:11:43Z",
-    "url": "https://github.com/Ker102/PromptTriage"
-  },
-  {
-    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
-    "id": "elie222/botdirectory.ai",
-    "language": "Astro",
-    "name": "elie222/botdirectory.ai",
-    "stars": 159,
-    "updated_at": "2026-09-03T00:10:22Z",
-    "url": "https://github.com/elie222/botdirectory.ai"
-  },
-  {
-    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
-    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13350,
-    "updated_at": "2026-09-03T00:08:16Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Prot\u00f3tipo de agente de IA financeiro com an\u00e1lise preditiva de gastos e recomenda\u00e7\u00e3o contextual de produtos. Projeto fina",
-    "id": "GiovanniZucolin/agente-financeiro-preditivo",
-    "language": "Jupyter Notebook",
-    "name": "GiovanniZucolin/agente-financeiro-preditivo",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:06:42Z",
-    "url": "https://github.com/GiovanniZucolin/agente-financeiro-preditivo"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-09-03T00:06:36Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "\ud83d\ude80 AI Learning Studio: \ub204\uad6c\ub098 \uc27d\uac8c AI \ud504\ub86c\ud504\ud2b8\ub97c \uc791\uc131\ud558\uace0 \uc2e4\uc2b5\ud560 \uc218 \uc788\ub294 \ubaa8\ub358 \uc778\ud130\ub799\ud2f0\ube0c \uac00\uc774\ub4dc \uc6f9 \ud50c\ub7ab\ud3fc",
-    "id": "Dangkoolwat/ai-learning-studio",
-    "language": "Python",
-    "name": "Dangkoolwat/ai-learning-studio",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:06:17Z",
-    "url": "https://github.com/Dangkoolwat/ai-learning-studio"
-  },
-  {
-    "description": "The safe and simple Human In The Loop lab notebook for coordinating AI sessions with packets & provenance, all with trac",
-    "id": "Wonderforge-Lab/CapstanAI-LabNote",
-    "language": "Python",
-    "name": "Wonderforge-Lab/CapstanAI-LabNote",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:05:00Z",
-    "url": "https://github.com/Wonderforge-Lab/CapstanAI-LabNote"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-09-03T00:00:18Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 123,
-    "updated_at": "2026-09-02T23:58:44Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 207,
-    "updated_at": "2026-09-02T23:55:40Z",
-    "url": "https://github.com/jmagly/aiwg"
   }
 ]
