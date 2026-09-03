@@ -1,5 +1,122 @@
 [
   {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-09-03T10:15:05Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinat",
+    "id": "2akouwu/reverify",
+    "language": "Python",
+    "name": "2akouwu/reverify",
+    "stars": 661,
+    "updated_at": "2026-09-03T10:14:45Z",
+    "url": "https://github.com/2akouwu/reverify"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34144,
+    "updated_at": "2026-09-03T10:13:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u7c7b\u4e66\u5f0f AI Agent \u6280\u80fd\u5927\u5178 \u00b7 \u7cbe\u9009/\u4e2d\u6587\u5316/\u4e92\u89c1\u6210\u7f51\u7684 500+ \u5f00\u6e90\u6280\u80fd\uff0c\u53ef\u4f5c\u4e3a Claude Code \u63d2\u4ef6\u5e02\u573a\u4e00\u952e\u5b89\u88c5\u3002A curated, cross-referenced encyclopedia of 500+ ope",
+    "id": "findscripter/everything-skills",
+    "language": "JavaScript",
+    "name": "findscripter/everything-skills",
+    "stars": 3,
+    "updated_at": "2026-09-03T10:15:22Z",
+    "url": "https://github.com/findscripter/everything-skills"
+  },
+  {
+    "description": "Compact, self-contained technical specs for LLM implementation, with reproducible Codex benchmarks.",
+    "id": "gvozdb/semantic-spec-writer-skill",
+    "language": "Python",
+    "name": "gvozdb/semantic-spec-writer-skill",
+    "stars": 0,
+    "updated_at": "2026-09-03T10:12:24Z",
+    "url": "https://github.com/gvozdb/semantic-spec-writer-skill"
+  },
+  {
+    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
+    "id": "GenSEAM/asl",
+    "language": "Python",
+    "name": "GenSEAM/asl",
+    "stars": 1,
+    "updated_at": "2026-09-03T10:12:19Z",
+    "url": "https://github.com/GenSEAM/asl"
+  },
+  {
+    "description": "\ud83d\udd04 Enable seamless AI conversations with a universal file format that saves and transfers your chat history across platfo",
+    "id": "AFRATUL1/AI-dropin-spec",
+    "language": "\u2014",
+    "name": "AFRATUL1/AI-dropin-spec",
+    "stars": 1,
+    "updated_at": "2026-09-03T10:10:47Z",
+    "url": "https://github.com/AFRATUL1/AI-dropin-spec"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-03T10:10:13Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B",
+    "id": "karanarora-aideveloper/stack-ai-tools",
+    "language": "TypeScript",
+    "name": "karanarora-aideveloper/stack-ai-tools",
+    "stars": 1,
+    "updated_at": "2026-09-03T10:10:04Z",
+    "url": "https://github.com/karanarora-aideveloper/stack-ai-tools"
+  },
+  {
+    "description": "\ud83e\udd16 Curated agent skills for AI agents \u2014 one coherent engineering loop that compounds: grill \u2192 spec \u2192 implement \u2192 review \u2192",
+    "id": "toverux/cantrips",
+    "language": "Shell",
+    "name": "toverux/cantrips",
+    "stars": 2,
+    "updated_at": "2026-09-03T10:09:33Z",
+    "url": "https://github.com/toverux/cantrips"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2283,
+    "updated_at": "2026-09-03T10:09:08Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai",
+    "id": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "language": "\u2014",
+    "name": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
+    "stars": 3,
+    "updated_at": "2026-09-03T10:08:23Z",
+    "url": "https://github.com/KingFishyXMesa/fuzz2-producer-ai-angklungmann"
+  },
+  {
+    "description": "Outline-Driven Development - opinionated methodology between vibes and specs. AST tooling + context engineering + loop e",
+    "id": "OutlineDriven/outline-driven-development",
+    "language": "Python",
+    "name": "OutlineDriven/outline-driven-development",
+    "stars": 52,
+    "updated_at": "2026-09-03T10:08:22Z",
+    "url": "https://github.com/OutlineDriven/outline-driven-development"
+  },
+  {
     "description": "ACF-2: schema-driven wire format for agentic tool calls. -45.8% tokens vs compact JSON, -62.8% vs pretty JSON, verified ",
     "id": "metiu1/acf-agent-format",
     "language": "Python",
@@ -9,13 +126,13 @@
     "url": "https://github.com/metiu1/acf-agent-format"
   },
   {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
+    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
+    "id": "Ntizar/MasterMind",
     "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-09-03T10:10:09Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
+    "name": "Ntizar/MasterMind",
+    "stars": 2,
+    "updated_at": "2026-09-03T10:07:04Z",
+    "url": "https://github.com/Ntizar/MasterMind"
   },
   {
     "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
@@ -54,15 +171,6 @@
     "url": "https://github.com/sergstack/AI-OS"
   },
   {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34144,
-    "updated_at": "2026-09-03T10:09:51Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -77,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21761,
-    "updated_at": "2026-09-03T10:03:04Z",
+    "updated_at": "2026-09-03T10:11:37Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -86,7 +194,7 @@
     "language": "Python",
     "name": "Leo-maomao/pm-copilot",
     "stars": 4,
-    "updated_at": "2026-09-03T10:03:00Z",
+    "updated_at": "2026-09-03T10:14:34Z",
     "url": "https://github.com/Leo-maomao/pm-copilot"
   },
   {
@@ -99,38 +207,11 @@
     "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2283,
-    "updated_at": "2026-09-03T10:09:08Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B",
-    "id": "karanarora-aideveloper/stack-ai-tools",
-    "language": "TypeScript",
-    "name": "karanarora-aideveloper/stack-ai-tools",
-    "stars": 1,
-    "updated_at": "2026-09-03T10:10:04Z",
-    "url": "https://github.com/karanarora-aideveloper/stack-ai-tools"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-03T10:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments tha",
     "id": "sergebulaev/linkedin-skills",
     "language": "Python",
     "name": "sergebulaev/linkedin-skills",
-    "stars": 702,
+    "stars": 703,
     "updated_at": "2026-09-03T09:59:58Z",
     "url": "https://github.com/sergebulaev/linkedin-skills"
   },
@@ -167,7 +248,7 @@
     "language": "JavaScript",
     "name": "Vieeeeeee/skills-gallery",
     "stars": 0,
-    "updated_at": "2026-09-03T09:59:28Z",
+    "updated_at": "2026-09-03T10:14:41Z",
     "url": "https://github.com/Vieeeeeee/skills-gallery"
   },
   {
@@ -243,15 +324,6 @@
     "url": "https://github.com/dennishavermans/agentfile"
   },
   {
-    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
-    "id": "GenSEAM/asl",
-    "language": "Python",
-    "name": "GenSEAM/asl",
-    "stars": 1,
-    "updated_at": "2026-09-03T10:09:14Z",
-    "url": "https://github.com/GenSEAM/asl"
-  },
-  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -266,7 +338,7 @@
     "language": "Shell",
     "name": "adnanmokhtar/refract",
     "stars": 1,
-    "updated_at": "2026-09-03T09:50:39Z",
+    "updated_at": "2026-09-03T10:14:24Z",
     "url": "https://github.com/adnanmokhtar/refract"
   },
   {
@@ -320,7 +392,7 @@
     "language": "Python",
     "name": "chjm-ai/vococo",
     "stars": 16,
-    "updated_at": "2026-09-03T09:45:13Z",
+    "updated_at": "2026-09-03T10:14:26Z",
     "url": "https://github.com/chjm-ai/vococo"
   },
   {
@@ -360,15 +432,6 @@
     "url": "https://github.com/rockerlabs/keel"
   },
   {
-    "description": "\ud83e\udd16 Curated agent skills for AI agents \u2014 one coherent engineering loop that compounds: grill \u2192 spec \u2192 implement \u2192 review \u2192",
-    "id": "toverux/cantrips",
-    "language": "Shell",
-    "name": "toverux/cantrips",
-    "stars": 2,
-    "updated_at": "2026-09-03T10:09:33Z",
-    "url": "https://github.com/toverux/cantrips"
-  },
-  {
     "description": "Routes a task to the cheapest Claude and Codex/ChatGPT model + effort level that clears the bar \u2014 protects your rate-lim",
     "id": "enzoo808/model-effort-router",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 40,
     "updated_at": "2026-09-03T09:38:20Z",
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice along",
-    "id": "grimaldost/craft-collection",
-    "language": "Python",
-    "name": "grimaldost/craft-collection",
-    "stars": 2,
-    "updated_at": "2026-09-03T09:37:33Z",
-    "url": "https://github.com/grimaldost/craft-collection"
-  },
-  {
-    "description": "Portable AI coding-agent skills for source-attributed, human-approved context packages.",
-    "id": "linkpranay-ai/context-engineering-protocol",
-    "language": "Python",
-    "name": "linkpranay-ai/context-engineering-protocol",
-    "stars": 8,
-    "updated_at": "2026-09-03T09:35:10Z",
-    "url": "https://github.com/linkpranay-ai/context-engineering-protocol"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 123,
-    "updated_at": "2026-09-03T09:34:47Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Public-first toolkit for building, validating, rendering, and evaluating reusable ChatGPT personalization profiles.",
-    "id": "man612/chatgpt-personalization",
-    "language": "Python",
-    "name": "man612/chatgpt-personalization",
-    "stars": 1,
-    "updated_at": "2026-09-03T09:33:51Z",
-    "url": "https://github.com/man612/chatgpt-personalization"
-  },
-  {
-    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf t",
-    "id": "Leonxlnx/unlazy",
-    "language": "JavaScript",
-    "name": "Leonxlnx/unlazy",
-    "stars": 2989,
-    "updated_at": "2026-09-03T09:31:17Z",
-    "url": "https://github.com/Leonxlnx/unlazy"
-  },
-  {
-    "description": "Agent Skill that turns fiction and story text into faithful, continuity-aware Jimeng/Seedance video direction and prompt",
-    "id": "ZiYao00/story-video-director",
-    "language": "Python",
-    "name": "ZiYao00/story-video-director",
-    "stars": 1,
-    "updated_at": "2026-09-03T09:29:26Z",
-    "url": "https://github.com/ZiYao00/story-video-director"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-09-03T09:28:43Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
