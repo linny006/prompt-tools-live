@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-03 05:45 UTC
+> ⏰ Last updated: 2026-09-03 05:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Junhan2/oh-my-fable](https://github.com/Junhan2/oh-my-fable) | 19 | Shell | 2026-09-03 | Claude Fable 5.1 prompting guide as Claude Code skills (KO/EN/ZH). Output quality goes up on Opus 5 and Sonnet 5 too. |
-| 2 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 10 | TypeScript | 2026-09-03 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
-| 3 | [karanarora-aideveloper/stack-ai-tools](https://github.com/karanarora-aideveloper/stack-ai-tools) | 1 | TypeScript | 2026-09-03 | Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B |
-| 4 | [nivlewd1/prompt-optimizer](https://github.com/nivlewd1/prompt-optimizer) | 6 | JavaScript | 2026-09-03 | MCP Server that offers high-performance prompt optimization server with real-time streaming, pattern-based enhancement,  |
-| 5 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 61 | Shell | 2026-09-03 | Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se |
-| 6 | [skymanbp/cc-tree](https://github.com/skymanbp/cc-tree) | 107 | Python | 2026-09-03 | Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack /  |
-| 7 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-09-03 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
-| 8 | [Devpaul-01/StudyHub](https://github.com/Devpaul-01/StudyHub) | 0 | Python | 2026-09-03 | Real-time learning platform with Redis-backed distributed coordination, multi-provider AI failover, and a distributed lo |
-| 9 | [martialsystems/verify-before-done](https://github.com/martialsystems/verify-before-done) | 1 | Python | 2026-09-03 | Rules for coding assistants: check every interaction path before reporting work finished. © Martial Systems LLC |
-| 10 | [T-Stephen/ai-mql-engine](https://github.com/T-Stephen/ai-mql-engine) | 2 | JavaScript | 2026-09-03 | AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language |
-| 11 | [meashumishra/TDF](https://github.com/meashumishra/TDF) | 0 | HTML | 2026-09-03 | Token-Dense Format (TDF): Convert PDFs, Office docs, and HTML into a token-optimized text format for LLMs. 100% distinct |
-| 12 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-03 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-03 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [Junhan2/oh-my-fable](https://github.com/Junhan2/oh-my-fable) | 19 | Shell | 2026-09-03 | Claude Fable 5.1 prompting guide as Claude Code skills (KO/EN/ZH). Output quality goes up on Opus 5 and Sonnet 5 too. |
+| 3 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 10 | TypeScript | 2026-09-03 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
+| 4 | [karanarora-aideveloper/stack-ai-tools](https://github.com/karanarora-aideveloper/stack-ai-tools) | 1 | TypeScript | 2026-09-03 | Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B |
+| 5 | [nivlewd1/prompt-optimizer](https://github.com/nivlewd1/prompt-optimizer) | 6 | JavaScript | 2026-09-03 | MCP Server that offers high-performance prompt optimization server with real-time streaming, pattern-based enhancement,  |
+| 6 | [terrylica/cc-skills](https://github.com/terrylica/cc-skills) | 61 | Shell | 2026-09-03 | Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se |
+| 7 | [skymanbp/cc-tree](https://github.com/skymanbp/cc-tree) | 107 | Python | 2026-09-03 | Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack /  |
+| 8 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-09-03 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
+| 9 | [Devpaul-01/StudyHub](https://github.com/Devpaul-01/StudyHub) | 0 | Python | 2026-09-03 | Real-time learning platform with Redis-backed distributed coordination, multi-provider AI failover, and a distributed lo |
+| 10 | [martialsystems/verify-before-done](https://github.com/martialsystems/verify-before-done) | 1 | Python | 2026-09-03 | Rules for coding assistants: check every interaction path before reporting work finished. © Martial Systems LLC |
+| 11 | [T-Stephen/ai-mql-engine](https://github.com/T-Stephen/ai-mql-engine) | 2 | JavaScript | 2026-09-03 | AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language |
+| 12 | [meashumishra/TDF](https://github.com/meashumishra/TDF) | 0 | HTML | 2026-09-03 | Token-Dense Format (TDF): Convert PDFs, Office docs, and HTML into a token-optimized text format for LLMs. 100% distinct |
 | 13 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-09-03 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
 | 14 | [gotonote/awesome-agent-boom](https://github.com/gotonote/awesome-agent-boom) | 6 | Python | 2026-09-03 | AI Agent 开源书单/教程合集 \| Awesome list of LLM Agent books & courses |
 | 15 | [jiabaobei/skills-constitution](https://github.com/jiabaobei/skills-constitution) | 220 | Python | 2026-09-03 | Skills Constitution — meta-rule governing all skill invocations across agent platforms |
