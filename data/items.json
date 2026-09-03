@@ -1,11 +1,164 @@
 [
   {
+    "description": "Local, private prompt optimization with DSPy and Ollama. Rewrites prompts, measures them against your own data, and evol",
+    "id": "shirkattack/PromptCraft",
+    "language": "Python",
+    "name": "shirkattack/PromptCraft",
+    "stars": 3,
+    "updated_at": "2026-09-03T21:13:31Z",
+    "url": "https://github.com/shirkattack/PromptCraft"
+  },
+  {
+    "description": "Generate a Claude skill tailored to your own context. Static, bilingual FR/EN, no backend and no API key.",
+    "id": "romain-nicod/skill-forge",
+    "language": "JavaScript",
+    "name": "romain-nicod/skill-forge",
+    "stars": 0,
+    "updated_at": "2026-09-03T21:11:17Z",
+    "url": "https://github.com/romain-nicod/skill-forge"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 18,
+    "updated_at": "2026-09-03T21:11:53Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "GANFPU is a lightweight, local-only developer tool designed to standardize prompt engineering workflows. With multi-lang",
+    "id": "f4sT357/Gen_Ai_Normalizer_For_Power_Users",
+    "language": "HTML",
+    "name": "f4sT357/Gen_Ai_Normalizer_For_Power_Users",
+    "stars": 0,
+    "updated_at": "2026-09-03T21:10:24Z",
+    "url": "https://github.com/f4sT357/Gen_Ai_Normalizer_For_Power_Users"
+  },
+  {
+    "description": "Final project for Product School's AI Product Management certification. Juno PM, an AI copilot that turns a forming P0 S",
+    "id": "antje/product-school-ai-product-management",
+    "language": "HTML",
+    "name": "antje/product-school-ai-product-management",
+    "stars": 0,
+    "updated_at": "2026-09-03T21:09:31Z",
+    "url": "https://github.com/antje/product-school-ai-product-management"
+  },
+  {
+    "description": "Evidence-backed use cases, prompts, integrations, evaluations, and safety notes for OpenAI GPT-6 Astra.",
+    "id": "Anil-matcha/awesome-gpt-6-astra",
+    "language": "\u2014",
+    "name": "Anil-matcha/awesome-gpt-6-astra",
+    "stars": 0,
+    "updated_at": "2026-09-03T21:09:07Z",
+    "url": "https://github.com/Anil-matcha/awesome-gpt-6-astra"
+  },
+  {
+    "description": "Structured refinement of any document between AI agents. Two agent roles bounce a file back and forth using disagreement",
+    "id": "alanshurafa/co-evolution",
+    "language": "Shell",
+    "name": "alanshurafa/co-evolution",
+    "stars": 3,
+    "updated_at": "2026-09-03T21:06:42Z",
+    "url": "https://github.com/alanshurafa/co-evolution"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-09-03T21:06:12Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3711,
+    "updated_at": "2026-09-03T21:15:24Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
+    "language": "JavaScript",
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 4033,
+    "updated_at": "2026-09-03T21:05:16Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures",
+    "id": "ryanportfolio/savetokens",
+    "language": "HTML",
+    "name": "ryanportfolio/savetokens",
+    "stars": 1,
+    "updated_at": "2026-09-03T21:03:55Z",
+    "url": "https://github.com/ryanportfolio/savetokens"
+  },
+  {
+    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
+    "id": "aliasunder/agent-plugins",
+    "language": "\u2014",
+    "name": "aliasunder/agent-plugins",
+    "stars": 0,
+    "updated_at": "2026-09-03T21:03:41Z",
+    "url": "https://github.com/aliasunder/agent-plugins"
+  },
+  {
+    "description": "Braid a plan graph of plain-text files into one well-ordered prompt \u2014 with a live canvas, MCP control for agents, and de",
+    "id": "tzavislan/kumihimo",
+    "language": "Python",
+    "name": "tzavislan/kumihimo",
+    "stars": 0,
+    "updated_at": "2026-09-03T21:03:34Z",
+    "url": "https://github.com/tzavislan/kumihimo"
+  },
+  {
+    "description": "Enterprise LLM prompt regression testing, MCTS active optimization, token-level hallucination attribution, and guardrail",
+    "id": "latryee/promptdiff",
+    "language": "Python",
+    "name": "latryee/promptdiff",
+    "stars": 1,
+    "updated_at": "2026-09-03T21:03:29Z",
+    "url": "https://github.com/latryee/promptdiff"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34163,
+    "updated_at": "2026-09-03T21:11:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u7384\u5b66\u7b97\u547d\u5360\u535c\u5de5\u5177\u5305\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
+    "id": "Brhiza/mingyu",
+    "language": "TypeScript",
+    "name": "Brhiza/mingyu",
+    "stars": 380,
+    "updated_at": "2026-09-03T21:03:11Z",
+    "url": "https://github.com/Brhiza/mingyu"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-03T21:00:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11311,
-    "updated_at": "2026-09-03T21:00:11Z",
+    "updated_at": "2026-09-03T21:10:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -18,24 +171,6 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "Enterprise LLM prompt regression testing, MCTS active optimization, token-level hallucination attribution, and guardrail",
-    "id": "latryee/promptdiff",
-    "language": "Python",
-    "name": "latryee/promptdiff",
-    "stars": 1,
-    "updated_at": "2026-09-03T20:58:58Z",
-    "url": "https://github.com/latryee/promptdiff"
-  },
-  {
-    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u7384\u5b66\u7b97\u547d\u5360\u535c\u5de5\u5177\u5305\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
-    "id": "Brhiza/mingyu",
-    "language": "TypeScript",
-    "name": "Brhiza/mingyu",
-    "stars": 380,
-    "updated_at": "2026-09-03T20:57:28Z",
-    "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
     "description": "Agent Skills Studio \u2014 Curated skills and installable packs for engineering, design, security, writing and product workfl",
     "id": "jhonatan-oliveiradev/agent-skills",
     "language": "TypeScript",
@@ -43,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T20:54:46Z",
     "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
-  },
-  {
-    "description": "GANFPU is a lightweight, local-only developer tool designed to standardize prompt engineering workflows. With multi-lang",
-    "id": "f4sT357/Gen_Ai_Normalizer_For_Power_Users",
-    "language": "HTML",
-    "name": "f4sT357/Gen_Ai_Normalizer_For_Power_Users",
-    "stars": 0,
-    "updated_at": "2026-09-03T20:53:39Z",
-    "url": "https://github.com/f4sT357/Gen_Ai_Normalizer_For_Power_Users"
   },
   {
     "description": "Bilingual AI prompts library, MCP registry & developer workbench \u2014 Public showcase with type-safe mock layer and C4 arch",
@@ -76,7 +202,7 @@
     "id": "github/awesome-copilot",
     "language": "JavaScript",
     "name": "github/awesome-copilot",
-    "stars": 38608,
+    "stars": 38609,
     "updated_at": "2026-09-03T20:51:53Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -86,17 +212,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21769,
-    "updated_at": "2026-09-03T20:58:11Z",
+    "updated_at": "2026-09-03T21:10:57Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
-    "id": "conorbronsdon/avoid-ai-writing",
-    "language": "JavaScript",
-    "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 4031,
-    "updated_at": "2026-09-03T20:51:00Z",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
   },
   {
     "description": "Judgment infrastructure for human-led AI: portable Claude and Codex skills.",
@@ -144,15 +261,6 @@
     "url": "https://github.com/shiza2xx/nai-prompt-studio"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-03T20:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Agentic job-search workspace built on Claude Code: JD-tailored resumes, personalized outreach, a schema-driven tracker, ",
     "id": "JeffreyZhu2323/agentic-job-search",
     "language": "Shell",
@@ -171,15 +279,6 @@
     "url": "https://github.com/aliasunder/agent-skills"
   },
   {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3711,
-    "updated_at": "2026-09-03T21:00:14Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
     "description": "Real-time learning platform with Redis-backed distributed coordination, multi-provider AI failover, and a distributed lo",
     "id": "Devpaul-01/StudyHub",
     "language": "Python",
@@ -187,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T20:41:00Z",
     "url": "https://github.com/Devpaul-01/StudyHub"
-  },
-  {
-    "description": "Final project for Product School's AI Product Management certification. Juno PM, an AI copilot that turns a forming P0 S",
-    "id": "antje/product-school-ai-product-management",
-    "language": "\u2014",
-    "name": "antje/product-school-ai-product-management",
-    "stars": 0,
-    "updated_at": "2026-09-03T20:40:53Z",
-    "url": "https://github.com/antje/product-school-ai-product-management"
   },
   {
     "description": "Production engineering and design skills for OpenAI Codex.",
@@ -306,15 +396,6 @@
     "url": "https://github.com/robkazi52/upgradeables"
   },
   {
-    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
-    "id": "aliasunder/agent-plugins",
-    "language": "\u2014",
-    "name": "aliasunder/agent-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:00:26Z",
-    "url": "https://github.com/aliasunder/agent-plugins"
-  },
-  {
     "description": "A governed operating system for ChatGPT Projects, Codex delivery, verification, and Stream Deck workflows.",
     "id": "sergstack/AI-OS",
     "language": "Python",
@@ -331,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T20:28:23Z",
     "url": "https://github.com/gdw-programming/ai-project-workspace-jump-start"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34162,
-    "updated_at": "2026-09-03T20:27:48Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T20:19:55Z",
     "url": "https://github.com/Glenskii/Glenski-Toolkit"
-  },
-  {
-    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
-    "id": "adrianwedd/cv",
-    "language": "JavaScript",
-    "name": "adrianwedd/cv",
-    "stars": 4,
-    "updated_at": "2026-09-03T20:18:03Z",
-    "url": "https://github.com/adrianwedd/cv"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-09-03T20:16:52Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "A durable Python harness for agents that act on real systems.",
-    "id": "vanamayaswanth/tvastar",
-    "language": "Python",
-    "name": "vanamayaswanth/tvastar",
-    "stars": 2,
-    "updated_at": "2026-09-03T20:22:56Z",
-    "url": "https://github.com/vanamayaswanth/tvastar"
-  },
-  {
-    "description": "Braid a plan graph of plain-text files into one well-ordered prompt \u2014 with a live canvas, MCP control for agents, and de",
-    "id": "tzavislan/kumihimo",
-    "language": "Python",
-    "name": "tzavislan/kumihimo",
-    "stars": 0,
-    "updated_at": "2026-09-03T20:09:48Z",
-    "url": "https://github.com/tzavislan/kumihimo"
-  },
-  {
-    "description": "Source-backed applied AI and technical-operations portfolio with deployed local-first tools, tests, CI, and verification",
-    "id": "atomicdjt/AI-Project-Portfolio",
-    "language": "JavaScript",
-    "name": "atomicdjt/AI-Project-Portfolio",
-    "stars": 2,
-    "updated_at": "2026-09-03T20:13:58Z",
-    "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 10,
-    "updated_at": "2026-09-03T20:47:04Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 61,
-    "updated_at": "2026-09-03T20:08:24Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "A lightweight framework for clear authority, bounded memory, accountable personas, and independent agent review.",
-    "id": "Sankofa06/the-perfect-agent",
-    "language": "CSS",
-    "name": "Sankofa06/the-perfect-agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T20:08:22Z",
-    "url": "https://github.com/Sankofa06/the-perfect-agent"
   }
 ]
