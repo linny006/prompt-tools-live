@@ -1,12 +1,66 @@
 [
   {
-    "description": "AI Agent \u5f00\u6e90\u4e66\u5355/\u6559\u7a0b\u5408\u96c6 | Awesome list of LLM Agent books & courses",
-    "id": "gotonote/awesome-agent-boom",
-    "language": "Python",
-    "name": "gotonote/awesome-agent-boom",
+    "description": "Claude Fable 5.1 prompting guide as Claude Code skills (KO/EN/ZH). Output quality goes up on Opus 5 and Sonnet 5 too.",
+    "id": "Junhan2/oh-my-fable",
+    "language": "Shell",
+    "name": "Junhan2/oh-my-fable",
+    "stars": 19,
+    "updated_at": "2026-09-03T05:44:48Z",
+    "url": "https://github.com/Junhan2/oh-my-fable"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 10,
+    "updated_at": "2026-09-03T05:45:26Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B",
+    "id": "karanarora-aideveloper/stack-ai-tools",
+    "language": "TypeScript",
+    "name": "karanarora-aideveloper/stack-ai-tools",
+    "stars": 1,
+    "updated_at": "2026-09-03T05:41:15Z",
+    "url": "https://github.com/karanarora-aideveloper/stack-ai-tools"
+  },
+  {
+    "description": "MCP Server that offers high-performance prompt optimization server with real-time streaming, pattern-based enhancement, ",
+    "id": "nivlewd1/prompt-optimizer",
+    "language": "JavaScript",
+    "name": "nivlewd1/prompt-optimizer",
     "stars": 6,
-    "updated_at": "2026-09-03T05:29:07Z",
-    "url": "https://github.com/gotonote/awesome-agent-boom"
+    "updated_at": "2026-09-03T05:40:46Z",
+    "url": "https://github.com/nivlewd1/prompt-optimizer"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 61,
+    "updated_at": "2026-09-03T05:39:20Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
+    "id": "skymanbp/cc-tree",
+    "language": "Python",
+    "name": "skymanbp/cc-tree",
+    "stars": 107,
+    "updated_at": "2026-09-03T05:38:27Z",
+    "url": "https://github.com/skymanbp/cc-tree"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 1,
+    "updated_at": "2026-09-03T05:37:45Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
   },
   {
     "description": "Real-time learning platform with Redis-backed distributed coordination, multi-provider AI failover, and a distributed lo",
@@ -14,8 +68,62 @@
     "language": "Python",
     "name": "Devpaul-01/StudyHub",
     "stars": 0,
-    "updated_at": "2026-09-03T05:28:00Z",
+    "updated_at": "2026-09-03T05:42:18Z",
     "url": "https://github.com/Devpaul-01/StudyHub"
+  },
+  {
+    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
+    "id": "martialsystems/verify-before-done",
+    "language": "Python",
+    "name": "martialsystems/verify-before-done",
+    "stars": 1,
+    "updated_at": "2026-09-03T05:37:05Z",
+    "url": "https://github.com/martialsystems/verify-before-done"
+  },
+  {
+    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
+    "id": "T-Stephen/ai-mql-engine",
+    "language": "JavaScript",
+    "name": "T-Stephen/ai-mql-engine",
+    "stars": 2,
+    "updated_at": "2026-09-03T05:36:27Z",
+    "url": "https://github.com/T-Stephen/ai-mql-engine"
+  },
+  {
+    "description": "Token-Dense Format (TDF): Convert PDFs, Office docs, and HTML into a token-optimized text format for LLMs. 100% distinct",
+    "id": "meashumishra/TDF",
+    "language": "HTML",
+    "name": "meashumishra/TDF",
+    "stars": 0,
+    "updated_at": "2026-09-03T05:34:08Z",
+    "url": "https://github.com/meashumishra/TDF"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-03T05:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-03T05:30:05Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "AI Agent \u5f00\u6e90\u4e66\u5355/\u6559\u7a0b\u5408\u96c6 | Awesome list of LLM Agent books & courses",
+    "id": "gotonote/awesome-agent-boom",
+    "language": "Python",
+    "name": "gotonote/awesome-agent-boom",
+    "stars": 6,
+    "updated_at": "2026-09-03T05:29:07Z",
+    "url": "https://github.com/gotonote/awesome-agent-boom"
   },
   {
     "description": "Skills Constitution \u2014 meta-rule governing all skill invocations across agent platforms",
@@ -50,7 +158,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-09-03T05:26:03Z",
+    "updated_at": "2026-09-03T05:39:45Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -61,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T05:25:32Z",
     "url": "https://github.com/Kimhyuntae9665/codex-skill-ai-agent-career-radar"
-  },
-  {
-    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
-    "id": "martialsystems/verify-before-done",
-    "language": "Python",
-    "name": "martialsystems/verify-before-done",
-    "stars": 1,
-    "updated_at": "2026-09-03T05:25:25Z",
-    "url": "https://github.com/martialsystems/verify-before-done"
   },
   {
     "description": "Claude Code skills covering the skill-authoring lifecycle: create, judge, eval with persisted regression suites, audit f",
@@ -86,7 +185,7 @@
     "language": "Python",
     "name": "sergstack/AI-OS",
     "stars": 0,
-    "updated_at": "2026-09-03T05:22:33Z",
+    "updated_at": "2026-09-03T05:45:04Z",
     "url": "https://github.com/sergstack/AI-OS"
   },
   {
@@ -162,15 +261,6 @@
     "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-03T05:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Four React Native agents defined entirely in markdown \u2014 release notes, crash triage, performance audit, code review. No ",
     "id": "pathan-nilofar/rn-agents",
     "language": "\u2014",
@@ -185,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11299,
-    "updated_at": "2026-09-03T05:27:19Z",
+    "updated_at": "2026-09-03T05:42:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -223,15 +313,6 @@
     "stars": 13352,
     "updated_at": "2026-09-03T05:10:10Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Curated directory & open-source ecosystem of 65+ frontier AI software, autonomous coding agents, and prompt libraries. B",
-    "id": "karanarora-aideveloper/stack-ai-tools",
-    "language": "TypeScript",
-    "name": "karanarora-aideveloper/stack-ai-tools",
-    "stars": 1,
-    "updated_at": "2026-09-03T05:07:09Z",
-    "url": "https://github.com/karanarora-aideveloper/stack-ai-tools"
   },
   {
     "description": "A persistent, observable, and collaborative memory infrastructure",
@@ -286,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T04:58:01Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 61,
-    "updated_at": "2026-09-03T04:57:48Z",
-    "url": "https://github.com/terrylica/cc-skills"
   },
   {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
@@ -376,77 +448,5 @@
     "stars": 38576,
     "updated_at": "2026-09-03T04:44:50Z",
     "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "brain in a vat",
-    "id": "takealook97/vat",
-    "language": "Go",
-    "name": "takealook97/vat",
-    "stars": 1,
-    "updated_at": "2026-09-03T04:56:56Z",
-    "url": "https://github.com/takealook97/vat"
-  },
-  {
-    "description": "Agent skills across a range of topics. Prose only, so nothing here executes.",
-    "id": "MichaelLeeHobbs/skills",
-    "language": "\u2014",
-    "name": "MichaelLeeHobbs/skills",
-    "stars": 1,
-    "updated_at": "2026-09-03T04:44:12Z",
-    "url": "https://github.com/MichaelLeeHobbs/skills"
-  },
-  {
-    "description": "Guia de IA Generativa & LLMs: trilhas, cursos, livros, canais, ferramentas e comunidades para voc\u00ea entrar e evoluir na \u00e1",
-    "id": "arthurspk/guiadeiagenerativa",
-    "language": "\u2014",
-    "name": "arthurspk/guiadeiagenerativa",
-    "stars": 0,
-    "updated_at": "2026-09-03T04:43:18Z",
-    "url": "https://github.com/arthurspk/guiadeiagenerativa"
-  },
-  {
-    "description": "Production-tested prompts, roles and configs for Claude and Codex \u2014 private by default, public when ready.",
-    "id": "abraira85/rune-codex-page",
-    "language": "Python",
-    "name": "abraira85/rune-codex-page",
-    "stars": 0,
-    "updated_at": "2026-09-03T04:42:58Z",
-    "url": "https://github.com/abraira85/rune-codex-page"
-  },
-  {
-    "description": "PromptCraft is a local Windows AI prompt enhancer powered by user-configured DeepSeek APIs. 100% offline: your prompts, ",
-    "id": "wewe29/ai-prompt-enhancer",
-    "language": "Python",
-    "name": "wewe29/ai-prompt-enhancer",
-    "stars": 2,
-    "updated_at": "2026-09-03T04:58:58Z",
-    "url": "https://github.com/wewe29/ai-prompt-enhancer"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-09-03T04:40:28Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Outline-Driven Development - opinionated methodology between vibes and specs. AST tooling + context engineering + loop e",
-    "id": "OutlineDriven/outline-driven-development",
-    "language": "Python",
-    "name": "OutlineDriven/outline-driven-development",
-    "stars": 52,
-    "updated_at": "2026-09-03T04:37:13Z",
-    "url": "https://github.com/OutlineDriven/outline-driven-development"
-  },
-  {
-    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
-    "id": "OutlineDriven/odin-claude-plugin",
-    "language": "Python",
-    "name": "OutlineDriven/odin-claude-plugin",
-    "stars": 35,
-    "updated_at": "2026-09-03T04:37:03Z",
-    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
   }
 ]
