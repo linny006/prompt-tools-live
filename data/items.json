@@ -1,5 +1,113 @@
 [
   {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-03T00:59:53Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 18,
+    "updated_at": "2026-09-03T00:59:45Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Zero-dependency contract-compiler UI for psychic-templates \u2014 blanks become UNKNOWN, never guesses; local and phone-remot",
+    "id": "nathan-hayashi/psychic-sidekick",
+    "language": "Shell",
+    "name": "nathan-hayashi/psychic-sidekick",
+    "stars": 0,
+    "updated_at": "2026-09-03T00:59:37Z",
+    "url": "https://github.com/nathan-hayashi/psychic-sidekick"
+  },
+  {
+    "description": "A cited anti-default field manual for AI-assisted writing and design.",
+    "id": "jtc268/not-like-us",
+    "language": "TypeScript",
+    "name": "jtc268/not-like-us",
+    "stars": 0,
+    "updated_at": "2026-09-03T00:57:59Z",
+    "url": "https://github.com/jtc268/not-like-us"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 38569,
+    "updated_at": "2026-09-03T00:58:31Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 20,
+    "updated_at": "2026-09-03T00:57:31Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-03T00:56:14Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-09-03T00:52:10Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-03T00:49:03Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Cross-border e-commerce AI knowledge base, designed to be read by people and installed by agents. 69 trilingual guides, ",
+    "id": "kangise/ecommerce-ai-skills",
+    "language": "Python",
+    "name": "kangise/ecommerce-ai-skills",
+    "stars": 63,
+    "updated_at": "2026-09-03T00:47:05Z",
+    "url": "https://github.com/kangise/ecommerce-ai-skills"
+  },
+  {
+    "description": "Autonomous AI agent that tests hypotheses against a 10K-record synthetic healthcare claims dataset and detects/corrects ",
+    "id": "SaeMind/self-correcting-data-analysis-agent",
+    "language": "Python",
+    "name": "SaeMind/self-correcting-data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-09-03T00:46:42Z",
+    "url": "https://github.com/SaeMind/self-correcting-data-analysis-agent"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-03T00:45:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Adaptive thinking allocation for Claude Code",
     "id": "jeffmichaeljohnson-tech/neurotoken",
     "language": "JavaScript",
@@ -9,15 +117,6 @@
     "url": "https://github.com/jeffmichaeljohnson-tech/neurotoken"
   },
   {
-    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
-    "id": "dyronrh/awesome-agentops-landscape",
-    "language": "Python",
-    "name": "dyronrh/awesome-agentops-landscape",
-    "stars": 20,
-    "updated_at": "2026-09-03T00:45:09Z",
-    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
     "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
     "id": "domaingitshub/odin-mirror-scribe",
     "language": "HTML",
@@ -25,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-09-03T00:45:05Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Cross-border e-commerce AI knowledge base, designed to be read by people and installed by agents. 69 trilingual guides, ",
-    "id": "kangise/ecommerce-ai-skills",
-    "language": "Python",
-    "name": "kangise/ecommerce-ai-skills",
-    "stars": 63,
-    "updated_at": "2026-09-03T00:41:25Z",
-    "url": "https://github.com/kangise/ecommerce-ai-skills"
   },
   {
     "description": "My personal AI coding tool prompts (SKILL.md)",
@@ -108,33 +198,6 @@
     "url": "https://github.com/Enclave0775/APT-SillyTavern-Plugin"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-03T00:30:46Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-03T00:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:29:36Z",
-    "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -153,22 +216,22 @@
     "url": "https://github.com/gvozdb/semantic-spec-writer-skill"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21750,
+    "updated_at": "2026-09-03T00:26:49Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Agent Skills Studio \u2014 Curated skills and installable packs for engineering, design, security, writing and product workfl",
     "id": "jhonatan-oliveiradev/agent-skills",
     "language": "TypeScript",
     "name": "jhonatan-oliveiradev/agent-skills",
     "stars": 1,
-    "updated_at": "2026-09-03T00:44:40Z",
+    "updated_at": "2026-09-03T00:49:52Z",
     "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:25:18Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -385,68 +448,5 @@
     "stars": 207,
     "updated_at": "2026-09-02T23:55:40Z",
     "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "TRIZ AI Agent Skill for evidence-based engineering innovation \u2014 Codex, 39\u00d739 matrix, patents, standards, literature and ",
-    "id": "luchi2333/triz-worker-innovation-research",
-    "language": "Python",
-    "name": "luchi2333/triz-worker-innovation-research",
-    "stars": 1,
-    "updated_at": "2026-09-02T23:52:03Z",
-    "url": "https://github.com/luchi2333/triz-worker-innovation-research"
-  },
-  {
-    "description": "Reusable, selectively loaded agent skills: authorization, judgment ownership, data lineage, side-effect safety, rollout ",
-    "id": "xiongweilin/agent-skills",
-    "language": "\u2014",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T23:51:52Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 119,
-    "updated_at": "2026-09-02T23:50:32Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-    "id": "kyegomez/swarms",
-    "language": "Python",
-    "name": "kyegomez/swarms",
-    "stars": 7117,
-    "updated_at": "2026-09-02T23:50:29Z",
-    "url": "https://github.com/kyegomez/swarms"
-  },
-  {
-    "description": "A cited anti-default field manual for AI-assisted writing and design.",
-    "id": "jtc268/not-like-us",
-    "language": "TypeScript",
-    "name": "jtc268/not-like-us",
-    "stars": 0,
-    "updated_at": "2026-09-02T23:50:10Z",
-    "url": "https://github.com/jtc268/not-like-us"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 1,
-    "updated_at": "2026-09-02T23:49:47Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-02T23:48:44Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
