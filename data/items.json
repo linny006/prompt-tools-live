@@ -1,12 +1,102 @@
 [
   {
-    "description": "Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr",
-    "id": "ariaxhan/kernel-claude",
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
     "language": "JavaScript",
-    "name": "ariaxhan/kernel-claude",
-    "stars": 12,
-    "updated_at": "2026-09-03T23:13:51Z",
-    "url": "https://github.com/ariaxhan/kernel-claude"
+    "name": "github/awesome-copilot",
+    "stars": 38610,
+    "updated_at": "2026-09-03T23:30:04Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "GANFPU is a lightweight, local-only developer tool designed to standardize prompt engineering workflows. With multi-lang",
+    "id": "f4sT357/Gen_Ai_Normalizer_For_Power_Users",
+    "language": "JavaScript",
+    "name": "f4sT357/Gen_Ai_Normalizer_For_Power_Users",
+    "stars": 0,
+    "updated_at": "2026-09-03T23:28:49Z",
+    "url": "https://github.com/f4sT357/Gen_Ai_Normalizer_For_Power_Users"
+  },
+  {
+    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, OpenClaw, Cursor, Devi",
+    "id": "conorbronsdon/agent-context-os",
+    "language": "Python",
+    "name": "conorbronsdon/agent-context-os",
+    "stars": 22,
+    "updated_at": "2026-09-03T23:27:46Z",
+    "url": "https://github.com/conorbronsdon/agent-context-os"
+  },
+  {
+    "description": "Claude Fable 5.1 prompting guide as Claude Code skills (KO/EN/ZH). Output quality goes up on Opus 5 and Sonnet 5 too.",
+    "id": "Junhan2/oh-my-fable",
+    "language": "Shell",
+    "name": "Junhan2/oh-my-fable",
+    "stars": 44,
+    "updated_at": "2026-09-03T23:27:06Z",
+    "url": "https://github.com/Junhan2/oh-my-fable"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-09-03T23:27:05Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "\ud83c\udfac \u5bfc\u6f14\u7ea7 AI \u5f71\u89c6\u521b\u4f5c ComfyUI \u8282\u70b9\u5305\uff1a600 \u4f4d\u5bfc\u6f14\u98ce\u683c\u5e93 + 246 \u521b\u4f5c\u6a21\u5f0f\uff0c\u4e00\u53e5\u8bdd\u521b\u610f \u2192 \u5267\u672c\u3001\u5206\u955c\u4e0e AIGC \u955c\u5934\u7ea7\u63d0\u793a\u8bcd\uff0c\u76f4\u4f9b Seedance/Wan \u7b49\u89c6\u9891\u6a21\u578b | Director-grade AI fil",
+    "id": "Nurburgring-Zhang/ComfyUI-DirectorMaster",
+    "language": "Python",
+    "name": "Nurburgring-Zhang/ComfyUI-DirectorMaster",
+    "stars": 3,
+    "updated_at": "2026-09-03T23:26:12Z",
+    "url": "https://github.com/Nurburgring-Zhang/ComfyUI-DirectorMaster"
+  },
+  {
+    "description": "\ud83c\udf99\ufe0f Hardware Bluetooth & USB HID Keyboard & Touchpad Mouse bridge for Android. Brings voice typing & agentic AI prompt st",
+    "id": "KoueKoffie-MW/Type4Me",
+    "language": "Kotlin",
+    "name": "KoueKoffie-MW/Type4Me",
+    "stars": 0,
+    "updated_at": "2026-09-03T23:24:37Z",
+    "url": "https://github.com/KoueKoffie-MW/Type4Me"
+  },
+  {
+    "description": "Evidence-led auditing and minimal repair for Codex-compatible Skills",
+    "id": "yiyi13769-cmd/noahskill-doctor",
+    "language": "Python",
+    "name": "yiyi13769-cmd/noahskill-doctor",
+    "stars": 0,
+    "updated_at": "2026-09-03T23:22:03Z",
+    "url": "https://github.com/yiyi13769-cmd/noahskill-doctor"
+  },
+  {
+    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
+    "id": "hanzhangzzz/agent-skills-zh",
+    "language": "Python",
+    "name": "hanzhangzzz/agent-skills-zh",
+    "stars": 1,
+    "updated_at": "2026-09-03T23:21:43Z",
+    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-03T23:20:57Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11313,
+    "updated_at": "2026-09-03T23:28:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Agent Package Manager",
@@ -14,8 +104,53 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 3711,
-    "updated_at": "2026-09-03T23:14:10Z",
+    "updated_at": "2026-09-03T23:23:55Z",
     "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Premiere-inspired PySide6 director studio for MiniMax H3 Ref2VA with AI shot planning, semantic media enrichment, timeli",
+    "id": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "language": "Python",
+    "name": "karuvanan/MiniMax-H3-Director-Cut-Studio",
+    "stars": 101,
+    "updated_at": "2026-09-03T23:18:45Z",
+    "url": "https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-03T23:17:01Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "The safe and simple Human In The Loop lab notebook for coordinating AI sessions with packets & provenance, all with trac",
+    "id": "Wonderforge-Lab/CapstanAI-LabNote",
+    "language": "Python",
+    "name": "Wonderforge-Lab/CapstanAI-LabNote",
+    "stars": 0,
+    "updated_at": "2026-09-03T23:16:15Z",
+    "url": "https://github.com/Wonderforge-Lab/CapstanAI-LabNote"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-03T23:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Claude Code learns from itself. Persistent memory, multi-agent orchestration, and a scientific experiment engine that pr",
+    "id": "ariaxhan/kernel-claude",
+    "language": "JavaScript",
+    "name": "ariaxhan/kernel-claude",
+    "stars": 12,
+    "updated_at": "2026-09-03T23:13:51Z",
+    "url": "https://github.com/ariaxhan/kernel-claude"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -52,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T23:10:22Z",
     "url": "https://github.com/kimsanguine/AI_Human"
-  },
-  {
-    "description": "The safe and simple Human In The Loop lab notebook for coordinating AI sessions with packets & provenance, all with trac",
-    "id": "Wonderforge-Lab/CapstanAI-LabNote",
-    "language": "Python",
-    "name": "Wonderforge-Lab/CapstanAI-LabNote",
-    "stars": 0,
-    "updated_at": "2026-09-03T23:08:58Z",
-    "url": "https://github.com/Wonderforge-Lab/CapstanAI-LabNote"
-  },
-  {
-    "description": "GANFPU is a lightweight, local-only developer tool designed to standardize prompt engineering workflows. With multi-lang",
-    "id": "f4sT357/Gen_Ai_Normalizer_For_Power_Users",
-    "language": "JavaScript",
-    "name": "f4sT357/Gen_Ai_Normalizer_For_Power_Users",
-    "stars": 0,
-    "updated_at": "2026-09-03T23:08:53Z",
-    "url": "https://github.com/f4sT357/Gen_Ai_Normalizer_For_Power_Users"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -113,7 +230,7 @@
     "language": "TypeScript",
     "name": "jhonatan-oliveiradev/agent-skills",
     "stars": 1,
-    "updated_at": "2026-09-03T23:02:40Z",
+    "updated_at": "2026-09-03T23:24:20Z",
     "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
   },
   {
@@ -162,24 +279,6 @@
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-03T23:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11313,
-    "updated_at": "2026-09-03T23:05:20Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
     "id": "SHENG5411/grimoire-of-tools",
     "language": "HTML",
@@ -223,24 +322,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T23:07:48Z",
     "url": "https://github.com/latryee/promptdiff"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-03T22:52:14Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
-    "id": "hanzhangzzz/agent-skills-zh",
-    "language": "Python",
-    "name": "hanzhangzzz/agent-skills-zh",
-    "stars": 1,
-    "updated_at": "2026-09-03T22:50:14Z",
-    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
   },
   {
     "description": "\ubc1c\ud45c\uc790\ub8cc\u00b7\ub2e4\uc774\uc5b4\uadf8\ub7a8\u00b7\uc9c0\ub3c4\u00b7\ud64d\ubcf4 \uc774\ubbf8\uc9c0\u00b7\ub77c\ubca8\u00b7QR\uc744 \uc704\ud55c \uc0dd\uc131\ud615 AI \ud504\ub86c\ud504\ud2b8 \uc124\uacc4 \uc6cc\ud06c\uc2a4\ud398\uc774\uc2a4",
@@ -367,86 +448,5 @@
     "stars": 132,
     "updated_at": "2026-09-03T22:25:44Z",
     "url": "https://github.com/CodeAlive-AI/ai-driven-development"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-09-03T22:25:25Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-09-03T22:22:09Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 6,
-    "updated_at": "2026-09-03T22:21:52Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "ElucidatingYourLLM \u2014 rules framework to onboard your LLM: fewer AI hallucinations and unpredictable behavior, with AI-as",
-    "id": "FrigateCaptain/ElucidatingYourLLM",
-    "language": "\u2014",
-    "name": "FrigateCaptain/ElucidatingYourLLM",
-    "stars": 14,
-    "updated_at": "2026-09-03T22:21:07Z",
-    "url": "https://github.com/FrigateCaptain/ElucidatingYourLLM"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-09-03T22:21:00Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow \u2014 semantic code n",
-    "id": "konstantinos-malavazos/claude-code-playbook",
-    "language": "Shell",
-    "name": "konstantinos-malavazos/claude-code-playbook",
-    "stars": 2,
-    "updated_at": "2026-09-03T22:19:34Z",
-    "url": "https://github.com/konstantinos-malavazos/claude-code-playbook"
-  },
-  {
-    "description": "Model-agnostic autonomous coding agent engine with Claude Code capabilities, subagents, and an 18-target cross-agent SSO",
-    "id": "ucsandman/Agnostic-AI",
-    "language": "Python",
-    "name": "ucsandman/Agnostic-AI",
-    "stars": 3,
-    "updated_at": "2026-09-03T22:17:15Z",
-    "url": "https://github.com/ucsandman/Agnostic-AI"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 120,
-    "updated_at": "2026-09-03T22:15:37Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 1,
-    "updated_at": "2026-09-03T22:14:41Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   }
 ]
