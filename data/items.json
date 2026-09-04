@@ -1,5 +1,104 @@
 [
   {
+    "description": "\u300a\u5927\u5b66\u751fAI\u5168\u573a\u666f\u4f7f\u7528\u6307\u5357\u300b\u00b7 13 \u4e2a\u6821\u56ed\u573a\u666f\u7684\u5343\u95ee\u5b9e\u64cd\u624b\u518c\uff1a\u9010\u6b65\u622a\u56fe\u3001\u6307\u4ee4\u539f\u6587\u4e0e\u53ef\u590d\u7528\u63d0\u793a\u8bcd\u6a21\u677f",
+    "id": "fxyadela/qwen-bluebook",
+    "language": "HTML",
+    "name": "fxyadela/qwen-bluebook",
+    "stars": 0,
+    "updated_at": "2026-09-04T16:55:05Z",
+    "url": "https://github.com/fxyadela/qwen-bluebook"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-04T16:52:39Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 19,
+    "updated_at": "2026-09-04T16:50:53Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-09-04T16:52:15Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27811,
+    "updated_at": "2026-09-04T16:52:22Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 3,
+    "updated_at": "2026-09-04T16:48:52Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Skill f\u00fcr KI-Agenten, der deutsche Texte davon abh\u00e4lt, nach KI zu klingen. 74 Muster, jedes mit Klartext-Fassung und den",
+    "id": "lord-helicon/daitsch",
+    "language": "Python",
+    "name": "lord-helicon/daitsch",
+    "stars": 1,
+    "updated_at": "2026-09-04T16:49:39Z",
+    "url": "https://github.com/lord-helicon/daitsch"
+  },
+  {
+    "description": "Standardized Claude Code bootstrap \u2014 drop-in .claude/ tree with a 19-agent adversarial review team, Ralph Loop, dev-flow",
+    "id": "shawnclybor/clybor-claude-tooling",
+    "language": "Shell",
+    "name": "shawnclybor/clybor-claude-tooling",
+    "stars": 5,
+    "updated_at": "2026-09-04T16:48:40Z",
+    "url": "https://github.com/shawnclybor/clybor-claude-tooling"
+  },
+  {
+    "description": "Stop AI slop in documents. An adversarial review process: any AI chat works through eleven fixed reviewer roles, checks ",
+    "id": "syncytium2/murderboard",
+    "language": "Python",
+    "name": "syncytium2/murderboard",
+    "stars": 0,
+    "updated_at": "2026-09-04T16:46:07Z",
+    "url": "https://github.com/syncytium2/murderboard"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-04T16:46:04Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Inspect your MCP tool setup - see context weight, token usage, server dominance, and tool overlaps before your agent run",
+    "id": "nishantmodak/tare-mcp",
+    "language": "TypeScript",
+    "name": "nishantmodak/tare-mcp",
+    "stars": 4,
+    "updated_at": "2026-09-04T16:46:04Z",
+    "url": "https://github.com/nishantmodak/tare-mcp"
+  },
+  {
     "description": "Claude Code skill \u2014 guided interview that recommends AI skills for your repo or team. Install with one prompt.",
     "id": "lindblomstefan/skills-library",
     "language": "JavaScript",
@@ -49,18 +148,9 @@
     "id": "chigwell/Penelopa.ai",
     "language": "TypeScript",
     "name": "chigwell/Penelopa.ai",
-    "stars": 15,
+    "stars": 16,
     "updated_at": "2026-09-04T16:39:37Z",
     "url": "https://github.com/chigwell/Penelopa.ai"
-  },
-  {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-09-04T16:42:16Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
     "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
@@ -99,15 +189,6 @@
     "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-04T16:35:36Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "Shiva's personal Claude Code plugins. v0.1.0 ships /shva:brief-me \u2014 domain-agnostic pre-project vocabulary briefing for ",
     "id": "Shivak11/shva-marketplace",
     "language": "JavaScript",
@@ -140,17 +221,8 @@
     "language": "TypeScript",
     "name": "jhonatan-oliveiradev/agent-skills",
     "stars": 1,
-    "updated_at": "2026-09-04T16:42:00Z",
+    "updated_at": "2026-09-04T16:46:51Z",
     "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-04T16:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Delta debugging for AI failures. Shrink a failing agent context to the smallest reproducer someone else can run.",
@@ -252,13 +324,13 @@
     "url": "https://github.com/ariffazil/arifOS"
   },
   {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 19,
-    "updated_at": "2026-09-04T16:23:30Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+    "description": "Designer Skills Collection: agentic skills, commands, and plugins for design \u2014 from research to systems, UI, interaction",
+    "id": "Owl-Listener/designer-skills",
+    "language": "Markdown",
+    "name": "Owl-Listener/designer-skills",
+    "stars": 2496,
+    "updated_at": "2026-09-04T16:23:32Z",
+    "url": "https://github.com/Owl-Listener/designer-skills"
   },
   {
     "description": "A practical framework for consistent ChatGPT results: structured workflows, safety checks, smarter memory habits, and re",
@@ -286,15 +358,6 @@
     "stars": 30,
     "updated_at": "2026-09-04T16:43:47Z",
     "url": "https://github.com/bjcoombs/ai-native-toolkit"
-  },
-  {
-    "description": "Inspect your MCP tool setup - see context weight, token usage, server dominance, and tool overlaps before your agent run",
-    "id": "nishantmodak/tare-mcp",
-    "language": "TypeScript",
-    "name": "nishantmodak/tare-mcp",
-    "stars": 4,
-    "updated_at": "2026-09-04T16:44:38Z",
-    "url": "https://github.com/nishantmodak/tare-mcp"
   },
   {
     "description": "Yapay Zek\u00e2 ile G\u00f6rsel \u00dcretim i\u00e7in Prompt Rehberi \u2014 Prompt \u2022 Kompozisyon \u2022 Kamera \u2022 I\u015f\u0131k \u2022 Renk \u2022 Stil \u2022 Tipografi \u2022 Tren",
@@ -351,15 +414,6 @@
     "url": "https://github.com/rockerlabs/keel"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27811,
-    "updated_at": "2026-09-04T16:33:43Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Methodology for building a team of AI agents: explicit roles, tier routing, triangulated review, and tested protective h",
     "id": "sergvss/agents-best-teams",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 3522,
     "updated_at": "2026-09-04T16:38:58Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-09-04T16:13:41Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Standardized Claude Code bootstrap \u2014 drop-in .claude/ tree with a 19-agent adversarial review team, Ralph Loop, dev-flow",
-    "id": "shawnclybor/clybor-claude-tooling",
-    "language": "Shell",
-    "name": "shawnclybor/clybor-claude-tooling",
-    "stars": 5,
-    "updated_at": "2026-09-04T16:13:09Z",
-    "url": "https://github.com/shawnclybor/clybor-claude-tooling"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 1,
-    "updated_at": "2026-09-04T16:12:43Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
-    "id": "Ntizar/MasterMind",
-    "language": "Python",
-    "name": "Ntizar/MasterMind",
-    "stars": 2,
-    "updated_at": "2026-09-04T16:12:36Z",
-    "url": "https://github.com/Ntizar/MasterMind"
-  },
-  {
-    "description": "Skill f\u00fcr KI-Agenten, der deutsche Texte davon abh\u00e4lt, nach KI zu klingen. 74 Muster, jedes mit Klartext-Fassung und den",
-    "id": "lord-helicon/daitsch",
-    "language": "Python",
-    "name": "lord-helicon/daitsch",
-    "stars": 1,
-    "updated_at": "2026-09-04T16:12:05Z",
-    "url": "https://github.com/lord-helicon/daitsch"
-  },
-  {
-    "description": "On-device prompt injection & jailbreak scanner for LLM apps: 22 deterministic rules across 8 attack categories score any",
-    "id": "pxlcrtiv/inject-scout",
-    "language": "Python",
-    "name": "pxlcrtiv/inject-scout",
-    "stars": 0,
-    "updated_at": "2026-09-04T16:11:27Z",
-    "url": "https://github.com/pxlcrtiv/inject-scout"
   }
 ]
