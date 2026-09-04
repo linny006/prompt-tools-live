@@ -1,5 +1,149 @@
 [
   {
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 9,
+    "updated_at": "2026-09-04T19:59:12Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
+  },
+  {
+    "description": "Self-hosted web sharing portal and snapshot viewer for PromptBranch (Next.js SSR & Docker deployment).",
+    "id": "PromptBranch/promptbranch-portal",
+    "language": "TypeScript",
+    "name": "PromptBranch/promptbranch-portal",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:58:49Z",
+    "url": "https://github.com/PromptBranch/promptbranch-portal"
+  },
+  {
+    "description": "PromptLayer \u2014 independent third-party profile of a public API surface, by API Evangelist. PromptLayer is a prompt engine",
+    "id": "api-evangelist/promptlayer",
+    "language": "\u2014",
+    "name": "api-evangelist/promptlayer",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:55:38Z",
+    "url": "https://github.com/api-evangelist/promptlayer"
+  },
+  {
+    "description": ".Prompt.md \u2014 independent third-party profile of a public API surface, by API Evangelist. Reusable prompt template files ",
+    "id": "api-evangelist/prompt-md",
+    "language": "\u2014",
+    "name": "api-evangelist/prompt-md",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:55:37Z",
+    "url": "https://github.com/api-evangelist/prompt-md"
+  },
+  {
+    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "HTML",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 27,
+    "updated_at": "2026-09-04T19:54:37Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
+    "description": "\u2699\ufe0f Unified master LLM agent pipeline unifying 10 frameworks: AI Scientist v2, Self-Refine, Reflexion, Meta-Prompting, To",
+    "id": "faresrafat3/arsenal-unified-master-pipeline",
+    "language": "Python",
+    "name": "faresrafat3/arsenal-unified-master-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:53:22Z",
+    "url": "https://github.com/faresrafat3/arsenal-unified-master-pipeline"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 19,
+    "updated_at": "2026-09-04T19:52:55Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-09-04T19:52:25Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-04T19:52:14Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
+    "id": "api-evangelist/phoenix",
+    "language": "\u2014",
+    "name": "api-evangelist/phoenix",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:52:11Z",
+    "url": "https://github.com/api-evangelist/phoenix"
+  },
+  {
+    "description": "Runtime security for AI agents. In-process, zero dependencies, Apache 2.0.",
+    "id": "delphisecurity/xaidr",
+    "language": "Python",
+    "name": "delphisecurity/xaidr",
+    "stars": 26,
+    "updated_at": "2026-09-04T19:51:15Z",
+    "url": "https://github.com/delphisecurity/xaidr"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-09-04T19:49:39Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 1,
+    "updated_at": "2026-09-04T19:48:13Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-09-04T19:47:34Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "Learner labs for WSQ Claude Certified Architect Foundation (TGS-2026061312)",
+    "id": "tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation",
+    "language": "Python",
+    "name": "tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation",
+    "stars": 3,
+    "updated_at": "2026-09-04T19:47:24Z",
+    "url": "https://github.com/tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-04T19:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
     "id": "ariffazil/arifOS",
     "language": "Python",
@@ -45,33 +189,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 9,
-    "updated_at": "2026-09-04T19:38:52Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 19,
-    "updated_at": "2026-09-04T19:37:04Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-09-04T19:43:55Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
     "description": "Portable AI project workspace system with version-controlled context and command routing for team collaboration, model/a",
     "id": "gdw-programming/ai-project-workspace-jump-start",
     "language": "\u2014",
@@ -104,7 +221,7 @@
     "language": "TypeScript",
     "name": "gthgomez/Babel",
     "stars": 1,
-    "updated_at": "2026-09-04T19:39:55Z",
+    "updated_at": "2026-09-04T19:47:29Z",
     "url": "https://github.com/gthgomez/Babel"
   },
   {
@@ -122,17 +239,8 @@
     "language": "TypeScript",
     "name": "jhonatan-oliveiradev/agent-skills",
     "stars": 1,
-    "updated_at": "2026-09-04T19:41:55Z",
+    "updated_at": "2026-09-04T19:57:38Z",
     "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-04T19:32:48Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Designer Skills Collection: agentic skills, commands, and plugins for design \u2014 from research to systems, UI, interaction",
@@ -162,15 +270,6 @@
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-04T19:30:35Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Klu \u2014 independent third-party profile of a public API surface, by API Evangelist. Klu (klu.ai) is an LLM app platform fo",
     "id": "api-evangelist/klu-ai",
     "language": "\u2014",
@@ -187,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T19:29:11Z",
     "url": "https://github.com/f4sT357/Gen_Ai_Normalizer_For_Power_Users"
-  },
-  {
-    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
-    "id": "leeex1/Quillan-Ronin",
-    "language": "HTML",
-    "name": "leeex1/Quillan-Ronin",
-    "stars": 27,
-    "updated_at": "2026-09-04T19:28:18Z",
-    "url": "https://github.com/leeex1/Quillan-Ronin"
   },
   {
     "description": "The 1770 Mechanical Turk, reborn!",
@@ -239,7 +329,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11328,
-    "updated_at": "2026-09-04T19:44:58Z",
+    "updated_at": "2026-09-04T19:53:38Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T19:12:59Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1949,
-    "updated_at": "2026-09-04T19:10:37Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Learner labs for WSQ Claude Certified Architect Foundation (TGS-2026061312)",
-    "id": "tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation",
-    "language": "Python",
-    "name": "tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation",
-    "stars": 3,
-    "updated_at": "2026-09-04T19:05:15Z",
-    "url": "https://github.com/tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3523,
-    "updated_at": "2026-09-04T19:40:23Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": ".cursorrules \u2014 independent third-party profile of a public API surface, by API Evangelist. .cursorrules is a project-lev",
-    "id": "api-evangelist/cursorrules",
-    "language": "\u2014",
-    "name": "api-evangelist/cursorrules",
-    "stars": 0,
-    "updated_at": "2026-09-04T19:00:41Z",
-    "url": "https://github.com/api-evangelist/cursorrules"
-  },
-  {
-    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
-    "id": "terrylica/cc-skills",
-    "language": "Shell",
-    "name": "terrylica/cc-skills",
-    "stars": 62,
-    "updated_at": "2026-09-04T18:59:02Z",
-    "url": "https://github.com/terrylica/cc-skills"
-  },
-  {
-    "description": "Compresr \u2014 independent third-party profile of a public API surface, by API Evangelist. Compresr is an LLM context-compre",
-    "id": "api-evangelist/compresr",
-    "language": "\u2014",
-    "name": "api-evangelist/compresr",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:57:54Z",
-    "url": "https://github.com/api-evangelist/compresr"
-  },
-  {
-    "description": ".clinerules \u2014 independent third-party profile of a public API surface, by API Evangelist. .clinerules is the rule-file c",
-    "id": "api-evangelist/clinerules",
-    "language": "\u2014",
-    "name": "api-evangelist/clinerules",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:56:08Z",
-    "url": "https://github.com/api-evangelist/clinerules"
-  },
-  {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 50,
-    "updated_at": "2026-09-04T18:55:42Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "jailbreakme.xyz is an open-source decentralized app (dApp) where users are challenged to try and jailbreak pre-existing ",
-    "id": "merlo-team/jailbreak",
-    "language": "JavaScript",
-    "name": "merlo-team/jailbreak",
-    "stars": 49,
-    "updated_at": "2026-09-04T18:53:14Z",
-    "url": "https://github.com/merlo-team/jailbreak"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 6,
-    "updated_at": "2026-09-04T18:52:20Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
   }
 ]
