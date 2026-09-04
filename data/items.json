@@ -1,11 +1,101 @@
 [
   {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-04T09:07:49Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "1098 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 from PRDs and postmortems to appealing a di",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "HTML",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1336,
+    "updated_at": "2026-09-04T09:04:51Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4421,
+    "updated_at": "2026-09-04T09:07:19Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-09-04T09:04:05Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Verified Agent Skills registry for Codex and Claude Code: curated installs, provenance, license checks, reproducible evi",
+    "id": "userInner/SKILLS",
+    "language": "Python",
+    "name": "userInner/SKILLS",
+    "stars": 3,
+    "updated_at": "2026-09-04T09:03:41Z",
+    "url": "https://github.com/userInner/SKILLS"
+  },
+  {
+    "description": "These files also serve as model prompts to help them understand what this type of profile is capable of",
+    "id": "AETHER-ENGINEERS/AETHER-ENGINEERS",
+    "language": "\u2014",
+    "name": "AETHER-ENGINEERS/AETHER-ENGINEERS",
+    "stars": 4,
+    "updated_at": "2026-09-04T09:02:55Z",
+    "url": "https://github.com/AETHER-ENGINEERS/AETHER-ENGINEERS"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-09-04T09:07:13Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-04T09:00:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34187,
+    "updated_at": "2026-09-04T09:02:17Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
+    "id": "Ntizar/MasterMind",
+    "language": "Python",
+    "name": "Ntizar/MasterMind",
+    "stars": 2,
+    "updated_at": "2026-09-04T08:59:59Z",
+    "url": "https://github.com/Ntizar/MasterMind"
+  },
+  {
     "description": "\u955c\u9020 Image Forge \u2014 Codex visual-director Skill for GPT Image 2, FLUX and Midjourney: structured visual specs, cinematic st",
     "id": "papperrollinggery/jingzao-image-forge",
     "language": "Python",
     "name": "papperrollinggery/jingzao-image-forge",
     "stars": 3,
-    "updated_at": "2026-09-04T08:57:19Z",
+    "updated_at": "2026-09-04T09:03:08Z",
     "url": "https://github.com/papperrollinggery/jingzao-image-forge"
   },
   {
@@ -94,7 +184,7 @@
     "id": "zenstory-ai/drama-skills",
     "language": "Python",
     "name": "zenstory-ai/drama-skills",
-    "stars": 1558,
+    "stars": 1559,
     "updated_at": "2026-09-04T08:47:47Z",
     "url": "https://github.com/zenstory-ai/drama-skills"
   },
@@ -121,7 +211,7 @@
     "id": "AtlasCloudAI/awesome-happy-horse-prompts",
     "language": "TypeScript",
     "name": "AtlasCloudAI/awesome-happy-horse-prompts",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-09-04T08:47:15Z",
     "url": "https://github.com/AtlasCloudAI/awesome-happy-horse-prompts"
   },
@@ -144,15 +234,6 @@
     "url": "https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-04T08:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -167,7 +248,7 @@
     "language": "Python",
     "name": "eric861129/Workflow-skill-router",
     "stars": 16,
-    "updated_at": "2026-09-04T08:43:19Z",
+    "updated_at": "2026-09-04T09:07:30Z",
     "url": "https://github.com/eric861129/Workflow-skill-router"
   },
   {
@@ -207,15 +288,6 @@
     "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
   },
   {
-    "description": "These files also serve as model prompts to help them understand what this type of profile is capable of",
-    "id": "AETHER-ENGINEERS/AETHER-ENGINEERS",
-    "language": "\u2014",
-    "name": "AETHER-ENGINEERS/AETHER-ENGINEERS",
-    "stars": 4,
-    "updated_at": "2026-09-04T08:42:18Z",
-    "url": "https://github.com/AETHER-ENGINEERS/AETHER-ENGINEERS"
-  },
-  {
     "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
     "id": "variant-thripidae875/sols-rng-win-script-hub",
     "language": "HTML",
@@ -238,7 +310,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24803,
+    "stars": 24804,
     "updated_at": "2026-09-04T08:41:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -268,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-09-04T08:40:20Z",
     "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34187,
-    "updated_at": "2026-09-04T09:00:19Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T08:35:35Z",
     "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:35:35Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 1,
-    "updated_at": "2026-09-04T08:35:28Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Production WhatsApp AI agent for a hardware store \u2014 5-layer RAG retrieval (pg_trgm fuzzy matching + OpenAI embeddings/pg",
-    "id": "Gus2708/whatsapp-agent",
-    "language": "JavaScript",
-    "name": "Gus2708/whatsapp-agent",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:35:23Z",
-    "url": "https://github.com/Gus2708/whatsapp-agent"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-09-04T08:34:33Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 118,
-    "updated_at": "2026-09-04T08:34:24Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-09-04T08:34:02Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 1,
-    "updated_at": "2026-09-04T08:33:44Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
   }
 ]
