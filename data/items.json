@@ -1,12 +1,39 @@
 [
   {
-    "description": "Convenient, ready-to-use engineering skills and best practices for your AI assistant.",
-    "id": "kok-o/koko-contextos-agents",
-    "language": "TypeScript",
-    "name": "kok-o/koko-contextos-agents",
-    "stars": 2,
-    "updated_at": "2026-09-04T06:42:36Z",
-    "url": "https://github.com/kok-o/koko-contextos-agents"
+    "description": "Obsidian-powered token-efficient skill runtime for Codex CLI.",
+    "id": "skyexie1204/rase-v4-obsidian-skill",
+    "language": "\u2014",
+    "name": "skyexie1204/rase-v4-obsidian-skill",
+    "stars": 0,
+    "updated_at": "2026-09-04T07:00:03Z",
+    "url": "https://github.com/skyexie1204/rase-v4-obsidian-skill"
+  },
+  {
+    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
+    "id": "Nanako0129/sepia",
+    "language": "Python",
+    "name": "Nanako0129/sepia",
+    "stars": 1926,
+    "updated_at": "2026-09-04T06:58:05Z",
+    "url": "https://github.com/Nanako0129/sepia"
+  },
+  {
+    "description": "A self-evolving persona agent for group chats and DMs. Built to sound like a regular, not a help desk. Learns from real ",
+    "id": "wangkant/personagent",
+    "language": "Python",
+    "name": "wangkant/personagent",
+    "stars": 14,
+    "updated_at": "2026-09-04T06:57:46Z",
+    "url": "https://github.com/wangkant/personagent"
+  },
+  {
+    "description": "[RETIRED \u2014 no demonstrated value, see README] A Claude Code skill that puts the coding agent on a performance improvemen",
+    "id": "bowen31337/claude-code-pua",
+    "language": "Python",
+    "name": "bowen31337/claude-code-pua",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:57:19Z",
+    "url": "https://github.com/bowen31337/claude-code-pua"
   },
   {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
@@ -14,8 +41,80 @@
     "language": "\u2014",
     "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
     "stars": 1,
-    "updated_at": "2026-09-04T06:42:27Z",
+    "updated_at": "2026-09-04T06:57:02Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24802,
+    "updated_at": "2026-09-04T06:58:55Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
+    "id": "Leo-maomao/pm-copilot",
+    "language": "Python",
+    "name": "Leo-maomao/pm-copilot",
+    "stars": 4,
+    "updated_at": "2026-09-04T06:53:16Z",
+    "url": "https://github.com/Leo-maomao/pm-copilot"
+  },
+  {
+    "description": "These files also serve as model prompts to help them understand what this type of profile is capable of",
+    "id": "AETHER-ENGINEERS/AETHER-ENGINEERS",
+    "language": "\u2014",
+    "name": "AETHER-ENGINEERS/AETHER-ENGINEERS",
+    "stars": 4,
+    "updated_at": "2026-09-04T06:53:07Z",
+    "url": "https://github.com/AETHER-ENGINEERS/AETHER-ENGINEERS"
+  },
+  {
+    "description": "Portable Claude Code profile \u2014 8-step dev loop, CLAUDE.md pre-commit gate, zero-hallucination policy. Install once, carr",
+    "id": "kopp0510/claude-dd",
+    "language": "Shell",
+    "name": "kopp0510/claude-dd",
+    "stars": 6,
+    "updated_at": "2026-09-04T06:53:04Z",
+    "url": "https://github.com/kopp0510/claude-dd"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-09-04T06:52:44Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
+    "id": "hanzhangzzz/agent-skills-zh",
+    "language": "Python",
+    "name": "hanzhangzzz/agent-skills-zh",
+    "stars": 1,
+    "updated_at": "2026-09-04T06:51:48Z",
+    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+  },
+  {
+    "description": "Convenient, ready-to-use engineering skills and best practices for your AI assistant.",
+    "id": "kok-o/koko-contextos-agents",
+    "language": "TypeScript",
+    "name": "kok-o/koko-contextos-agents",
+    "stars": 2,
+    "updated_at": "2026-09-04T06:51:43Z",
+    "url": "https://github.com/kok-o/koko-contextos-agents"
+  },
+  {
+    "description": "\u2728 Free AI image prompt library \u2014 globally curated, daily updated. Full prompt text, preview images, 10 languages. Browse",
+    "id": "ai-moge/awesome-image-prompts",
+    "language": "\u2014",
+    "name": "ai-moge/awesome-image-prompts",
+    "stars": 1,
+    "updated_at": "2026-09-04T06:50:59Z",
+    "url": "https://github.com/ai-moge/awesome-image-prompts"
   },
   {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
@@ -23,15 +122,42 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 19,
-    "updated_at": "2026-09-04T06:42:08Z",
+    "updated_at": "2026-09-04T06:50:45Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "\u9762\u5411\u4e2d\u6587\u5f00\u53d1\u8005\u7684 Claude Code Skills / Agents / Plugins \u7cbe\u9009\u4e0e\u539f\u521b\u6280\u80fd\u5e93\uff5c\u6309\u573a\u666f\u5206\u7c7b\uff5c\u590d\u5236\u5373\u88c5\uff5c\u6301\u7eed\u66f4\u65b0",
+    "id": "laolaoshiren/claude-code-skills-zh",
+    "language": "Python",
+    "name": "laolaoshiren/claude-code-skills-zh",
+    "stars": 816,
+    "updated_at": "2026-09-04T06:47:21Z",
+    "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
+  },
+  {
+    "description": "Reusable Codex skill for turning rough engineering goals into source-grounded, scoped, executable, and verifiable task b",
+    "id": "Aaalexy/craft-codex-prompts",
+    "language": "\u2014",
+    "name": "Aaalexy/craft-codex-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:46:40Z",
+    "url": "https://github.com/Aaalexy/craft-codex-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-04T06:45:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u5185\u5bb9\u9a71\u52a8\u7684\u5c0f\u7ea2\u4e66\u56fe\u6587\u751f\u6210 Agent Skill\u3002Turn ideas, drafts, research, screenshots, or photos into complete visual stories without fixed",
     "id": "wang-bool/xiaohongshu-storycraft",
     "language": "Python",
     "name": "wang-bool/xiaohongshu-storycraft",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-04T06:41:49Z",
     "url": "https://github.com/wang-bool/xiaohongshu-storycraft"
   },
@@ -63,15 +189,6 @@
     "url": "https://github.com/khhvmc5g6f-eng/Neurodiversity"
   },
   {
-    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
-    "id": "Leo-maomao/pm-copilot",
-    "language": "Python",
-    "name": "Leo-maomao/pm-copilot",
-    "stars": 4,
-    "updated_at": "2026-09-04T06:35:40Z",
-    "url": "https://github.com/Leo-maomao/pm-copilot"
-  },
-  {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
     "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
     "language": "HTML",
@@ -97,24 +214,6 @@
     "stars": 1415,
     "updated_at": "2026-09-04T06:31:54Z",
     "url": "https://github.com/MrGeDiao/shuorenhua"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-04T06:30:37Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
-    "id": "Nanako0129/sepia",
-    "language": "Python",
-    "name": "Nanako0129/sepia",
-    "stars": 1926,
-    "updated_at": "2026-09-04T06:25:52Z",
-    "url": "https://github.com/Nanako0129/sepia"
   },
   {
     "description": "Prompt skill for Claude Code, Codex and Cursor. Turn a messy idea into a clear prompt. The AI asks before it guesses, an",
@@ -144,15 +243,6 @@
     "url": "https://github.com/superhumaan/DNA"
   },
   {
-    "description": "A Claude Code skill that puts the coding agent on a performance improvement plan: structured failure escalation, exhaust",
-    "id": "bowen31337/claude-code-pua",
-    "language": "Python",
-    "name": "bowen31337/claude-code-pua",
-    "stars": 0,
-    "updated_at": "2026-09-04T06:23:32Z",
-    "url": "https://github.com/bowen31337/claude-code-pua"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -171,13 +261,13 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
-    "id": "hanzhangzzz/agent-skills-zh",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "hanzhangzzz/agent-skills-zh",
-    "stars": 1,
-    "updated_at": "2026-09-04T06:19:46Z",
-    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+    "name": "Arize-ai/phoenix",
+    "stars": 11318,
+    "updated_at": "2026-09-04T06:18:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -194,7 +284,7 @@
     "language": "Python",
     "name": "Hao610/AI-Model-Atlas",
     "stars": 5,
-    "updated_at": "2026-09-04T06:16:21Z",
+    "updated_at": "2026-09-04T06:56:35Z",
     "url": "https://github.com/Hao610/AI-Model-Atlas"
   },
   {
@@ -211,7 +301,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34180,
+    "stars": 34182,
     "updated_at": "2026-09-04T06:14:08Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -288,15 +378,6 @@
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24802,
-    "updated_at": "2026-09-04T06:39:33Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u7384\u5b66\u7b97\u547d\u5360\u535c\u5de5\u5177\u5305\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
     "id": "Brhiza/mingyu",
     "language": "TypeScript",
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-04T05:59:34Z",
     "url": "https://github.com/Ayush-2703/Large_languaage_Models"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-09-04T05:58:42Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "An AGENTS.md governance layer that brings operational discipline to Claude Code, Codex, and other coding agents.",
-    "id": "gadflysu/agent-governor",
-    "language": "Shell",
-    "name": "gadflysu/agent-governor",
-    "stars": 1,
-    "updated_at": "2026-09-04T05:56:18Z",
-    "url": "https://github.com/gadflysu/agent-governor"
-  },
-  {
-    "description": "Multi-agent AI writing system for Chinese web novels with platform-specific knowledge bases and commercial storytelling ",
-    "id": "TianHengZhuang/Chinese-WebNovel-Master",
-    "language": "\u2014",
-    "name": "TianHengZhuang/Chinese-WebNovel-Master",
-    "stars": 6,
-    "updated_at": "2026-09-04T05:55:17Z",
-    "url": "https://github.com/TianHengZhuang/Chinese-WebNovel-Master"
-  },
-  {
-    "description": "Dual-protocol prompt optimizer plugins for GPT-5.6 and Claude Fable 5, compatible with Codex and Claude Code.",
-    "id": "IchenDEV/prompt-optimizer-plugins",
-    "language": "\u2014",
-    "name": "IchenDEV/prompt-optimizer-plugins",
-    "stars": 6,
-    "updated_at": "2026-09-04T05:51:04Z",
-    "url": "https://github.com/IchenDEV/prompt-optimizer-plugins"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-09-04T05:48:06Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "A hands-on notebook lab covering the core building blocks of LLM applications prompting, tokenization & embeddings, Retr",
-    "id": "gautam0222/GenAI_LLM_Fundamentals",
-    "language": "Jupyter Notebook",
-    "name": "gautam0222/GenAI_LLM_Fundamentals",
-    "stars": 0,
-    "updated_at": "2026-09-04T05:46:37Z",
-    "url": "https://github.com/gautam0222/GenAI_LLM_Fundamentals"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-09-04T05:43:26Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Curated Claude Code plugin marketplace and cross-platform generator for Claude, OpenCode, and Antigravity",
-    "id": "seankoji-com/claude-plugins",
-    "language": "Python",
-    "name": "seankoji-com/claude-plugins",
-    "stars": 1,
-    "updated_at": "2026-09-04T05:42:54Z",
-    "url": "https://github.com/seankoji-com/claude-plugins"
-  },
-  {
-    "description": "Safe, policy-driven personality-mode engine for LLM agents",
-    "id": "caty-ai/persona-engine",
-    "language": "TypeScript",
-    "name": "caty-ai/persona-engine",
-    "stars": 2,
-    "updated_at": "2026-09-04T05:41:27Z",
-    "url": "https://github.com/caty-ai/persona-engine"
   }
 ]
