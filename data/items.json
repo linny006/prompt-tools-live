@@ -1,12 +1,93 @@
 [
   {
+    "description": "Local, provider-neutral compression for LLM prompts, tool schemas, JSON, logs, and diffs. Lossless, receipt-audited, no ",
+    "id": "snchimata/tokenfold",
+    "language": "Rust",
+    "name": "snchimata/tokenfold",
+    "stars": 22,
+    "updated_at": "2026-09-04T02:57:10Z",
+    "url": "https://github.com/snchimata/tokenfold"
+  },
+  {
+    "description": "noguess. Make your AI stop guessing. 95% vs 63% in blind tests. The TCE + NHA method as a skill for Claude Code, Codex a",
+    "id": "albertpikkop/noguess",
+    "language": "Shell",
+    "name": "albertpikkop/noguess",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:57:05Z",
+    "url": "https://github.com/albertpikkop/noguess"
+  },
+  {
+    "description": "\ud83c\udf75 Deliberate engineering guidelines & deterministic lifecycle safety hooks to enforce planning, prevent bloat, and block",
+    "id": "plumpslabs/matcha",
+    "language": "JavaScript",
+    "name": "plumpslabs/matcha",
+    "stars": 1,
+    "updated_at": "2026-09-04T02:56:42Z",
+    "url": "https://github.com/plumpslabs/matcha"
+  },
+  {
+    "description": ":octocat: \u9762\u5411\u6df1\u5ea6 AI \u7f16\u7a0b\u5de5\u4f5c\u6d41\u7684 Android \u6a21\u677f\u9879\u76ee \u2014 AI-driven Android template with 30+ modular task prompts for full-cycle developm",
+    "id": "afkT/DevAICode-Android",
+    "language": "Kotlin",
+    "name": "afkT/DevAICode-Android",
+    "stars": 2,
+    "updated_at": "2026-09-04T02:55:38Z",
+    "url": "https://github.com/afkT/DevAICode-Android"
+  },
+  {
+    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
+    "id": "hanzhangzzz/agent-skills-zh",
+    "language": "Python",
+    "name": "hanzhangzzz/agent-skills-zh",
+    "stars": 1,
+    "updated_at": "2026-09-04T02:53:49Z",
+    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-04T02:53:37Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Build, validate, render, and evaluate reusable ChatGPT personalization profiles.",
+    "id": "man612/chatgpt-personalization",
+    "language": "Python",
+    "name": "man612/chatgpt-personalization",
+    "stars": 1,
+    "updated_at": "2026-09-04T02:51:27Z",
+    "url": "https://github.com/man612/chatgpt-personalization"
+  },
+  {
+    "description": "\ubc1c\ud45c\uc790\ub8cc\u00b7\ub2e4\uc774\uc5b4\uadf8\ub7a8\u00b7\uc9c0\ub3c4\u00b7\ud64d\ubcf4 \uc774\ubbf8\uc9c0\u00b7\ub77c\ubca8\u00b7QR\uc744 \uc704\ud55c \uc0dd\uc131\ud615 AI \ud504\ub86c\ud504\ud2b8 \uc124\uacc4 \uc6cc\ud06c\uc2a4\ud398\uc774\uc2a4",
+    "id": "Namer-kimhyojin/ppt_prompt",
+    "language": "JavaScript",
+    "name": "Namer-kimhyojin/ppt_prompt",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:46:02Z",
+    "url": "https://github.com/Namer-kimhyojin/ppt_prompt"
+  },
+  {
     "description": "Agent Package Manager",
     "id": "microsoft/apm",
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 3716,
-    "updated_at": "2026-09-04T02:44:55Z",
+    "updated_at": "2026-09-04T02:56:18Z",
     "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-04T02:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI marketing team for B2B SaaS: 77 specialist agents + 19 Claude Code skills \u2014 SEO/AEO/GEO, content + editorial ops, pai",
@@ -25,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-09-04T02:44:24Z",
     "url": "https://github.com/selvin24-tech/MicroSaas-AI-Youtube-Video-Maker"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11316,
+    "updated_at": "2026-09-04T02:43:13Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "OpenCode + Oh-My-OpenAgent configuration stack: auto-rules, model routing, scripts, ADRs, search infrastructure, and doc",
@@ -54,15 +144,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11315,
-    "updated_at": "2026-09-04T02:43:13Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
     "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
     "language": "TypeScript",
@@ -88,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T02:35:53Z",
     "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-04T02:35:08Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
@@ -126,15 +198,6 @@
     "url": "https://github.com/FURUYAN1234/nano-banana-pro"
   },
   {
-    "description": "noguess. Make your AI stop guessing. 95% vs 63% in blind tests. The TCE + NHA method as a skill for Claude Code, Codex a",
-    "id": "albertpikkop/noguess",
-    "language": "Shell",
-    "name": "albertpikkop/noguess",
-    "stars": 0,
-    "updated_at": "2026-09-04T02:32:22Z",
-    "url": "https://github.com/albertpikkop/noguess"
-  },
-  {
     "description": "Web application for systematic prompt engineering and model evaluation",
     "id": "illogical/LMEval",
     "language": "TypeScript",
@@ -160,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T02:30:45Z",
     "url": "https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.1"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-04T02:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "GEPA-style, human-in-the-loop protocol for self-improving LLM prompts. Markdown-only, no code, no datasets \u2014 runs inside",
@@ -311,7 +365,7 @@
     "language": "Python",
     "name": "robkazi52/upgradeables",
     "stars": 0,
-    "updated_at": "2026-09-04T02:08:44Z",
+    "updated_at": "2026-09-04T02:59:20Z",
     "url": "https://github.com/robkazi52/upgradeables"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 9730,
     "updated_at": "2026-09-04T01:51:25Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources",
-    "id": "DSeaStar/awesome-kling",
-    "language": "Python",
-    "name": "DSeaStar/awesome-kling",
-    "stars": 1,
-    "updated_at": "2026-09-04T01:48:47Z",
-    "url": "https://github.com/DSeaStar/awesome-kling"
-  },
-  {
-    "description": "Create polished presentations and clear owner briefs with Codex skills for visual decks, intent validation, and outcome ",
-    "id": "Yazanw6234/presentation-delivery-skills",
-    "language": "\u2014",
-    "name": "Yazanw6234/presentation-delivery-skills",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:48:04Z",
-    "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference.",
-    "id": "Ak863153/ChatGPT-Persona-Voice",
-    "language": "\u2014",
-    "name": "Ak863153/ChatGPT-Persona-Voice",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:47:15Z",
-    "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
-  },
-  {
-    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
-    "id": "AnastasiyaW/codex-claude-code-config",
-    "language": "Python",
-    "name": "AnastasiyaW/codex-claude-code-config",
-    "stars": 147,
-    "updated_at": "2026-09-04T01:47:13Z",
-    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
-  },
-  {
-    "description": "Reusable AI agents you drop into your own projects. Plain Markdown, no dependencies. First up: EcoPrompt, which turns va",
-    "id": "RafaelPupio/Agents",
-    "language": "Shell",
-    "name": "RafaelPupio/Agents",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:46:55Z",
-    "url": "https://github.com/RafaelPupio/Agents"
-  },
-  {
-    "description": "Give your AI coding assistant a cautious, meticulous Korean developer personality with this persona plugin for OpenAI Co",
-    "id": "partible-dicer700/SoDam-Persona-Codex",
-    "language": "JavaScript",
-    "name": "partible-dicer700/SoDam-Persona-Codex",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:46:13Z",
-    "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
   }
 ]
