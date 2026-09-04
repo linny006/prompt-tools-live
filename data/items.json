@@ -1,5 +1,167 @@
 [
   {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-09-04T12:44:55Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3522,
+    "updated_at": "2026-09-04T12:44:50Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34192,
+    "updated_at": "2026-09-04T12:44:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-04T12:44:06Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Claude Code \u0441\u043a\u0438\u043b\u043b: \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435, \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0435 \u0438 \u0430\u0443\u0434\u0438\u0442 \u043f\u0440\u043e\u043c\u043f\u0442\u043e\u0432 \u0434\u043b\u044f LLM (Claude, GPT-5.x, Gemini 3, Perplexity)",
+    "id": "kravcovtech/prompt-craft",
+    "language": "\u2014",
+    "name": "kravcovtech/prompt-craft",
+    "stars": 0,
+    "updated_at": "2026-09-04T12:42:45Z",
+    "url": "https://github.com/kravcovtech/prompt-craft"
+  },
+  {
+    "description": "\u041f\u0440\u043e\u043c\u043f\u0442 \u0434\u043b\u044f Claude Code \u0438 \u0434\u043b\u044f Codex \u044d\u0442\u043e \u0434\u0432\u0430 \u0440\u0430\u0437\u043d\u044b\u0445 \u044f\u0437\u044b\u043a\u0430. \u041f\u0435\u0440\u0435\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u0432\u0430\u0448 \u043f\u043e\u0434 \u0442\u0443 \u043c\u043e\u0434\u0435\u043b\u044c, \u0433\u0434\u0435 \u0432\u044b \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442\u0435, \u043f\u043e \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b",
+    "id": "edvardgrishin27/nativeprompt",
+    "language": "Python",
+    "name": "edvardgrishin27/nativeprompt",
+    "stars": 116,
+    "updated_at": "2026-09-04T12:41:18Z",
+    "url": "https://github.com/edvardgrishin27/nativeprompt"
+  },
+  {
+    "description": "An agent package and project manager, written in Rust.",
+    "id": "narumiruna/aru",
+    "language": "Rust",
+    "name": "narumiruna/aru",
+    "stars": 5,
+    "updated_at": "2026-09-04T12:39:53Z",
+    "url": "https://github.com/narumiruna/aru"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-04T12:38:14Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 19,
+    "updated_at": "2026-09-04T12:36:50Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "id": "DietrichGebert/ponytail",
+    "language": "JavaScript",
+    "name": "DietrichGebert/ponytail",
+    "stars": 124444,
+    "updated_at": "2026-09-04T12:35:29Z",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-04T12:35:14Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Build high-quality software faster with AI-driven lifecycle management.",
+    "id": "markhazleton/devspark",
+    "language": "PowerShell",
+    "name": "markhazleton/devspark",
+    "stars": 0,
+    "updated_at": "2026-09-04T12:35:08Z",
+    "url": "https://github.com/markhazleton/devspark"
+  },
+  {
+    "description": "Methodology for building a team of AI agents: explicit roles, tier routing, triangulated review, and tested protective h",
+    "id": "sergvss/agents-best-teams",
+    "language": "Python",
+    "name": "sergvss/agents-best-teams",
+    "stars": 2,
+    "updated_at": "2026-09-04T12:34:48Z",
+    "url": "https://github.com/sergvss/agents-best-teams"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3722,
+    "updated_at": "2026-09-04T12:42:06Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Reusable prompt instructions for reducing token usage across agent systems without sacrificing correctness.",
+    "id": "webdev0814/agent-prompt-context-compression",
+    "language": "\u2014",
+    "name": "webdev0814/agent-prompt-context-compression",
+    "stars": 0,
+    "updated_at": "2026-09-04T12:34:27Z",
+    "url": "https://github.com/webdev0814/agent-prompt-context-compression"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-09-04T12:33:18Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
+    "id": "GenSEAM/asl",
+    "language": "Python",
+    "name": "GenSEAM/asl",
+    "stars": 1,
+    "updated_at": "2026-09-04T12:33:03Z",
+    "url": "https://github.com/GenSEAM/asl"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-04T12:30:36Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "An AI-powered, local-first resume and cover letter generator. It dynamically fetches portfolio data from MongoDB and orc",
     "id": "PLLima/ai-resume-agent",
     "language": "\u2014",
@@ -9,30 +171,12 @@
     "url": "https://github.com/PLLima/ai-resume-agent"
   },
   {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-09-04T12:28:39Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
-  },
-  {
-    "description": "Reusable prompt instructions for reducing token usage across agent systems without sacrificing correctness.",
-    "id": "webdev0814/agent-prompt-context-compression",
-    "language": "\u2014",
-    "name": "webdev0814/agent-prompt-context-compression",
-    "stars": 0,
-    "updated_at": "2026-09-04T12:28:16Z",
-    "url": "https://github.com/webdev0814/agent-prompt-context-compression"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21787,
-    "updated_at": "2026-09-04T12:28:09Z",
+    "updated_at": "2026-09-04T12:44:57Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -41,35 +185,8 @@
     "language": "TypeScript",
     "name": "jhonatan-oliveiradev/agent-skills",
     "stars": 1,
-    "updated_at": "2026-09-04T12:27:40Z",
+    "updated_at": "2026-09-04T12:33:38Z",
     "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
-  },
-  {
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "id": "DietrichGebert/ponytail",
-    "language": "JavaScript",
-    "name": "DietrichGebert/ponytail",
-    "stars": 124414,
-    "updated_at": "2026-09-04T12:26:49Z",
-    "url": "https://github.com/DietrichGebert/ponytail"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-04T12:25:39Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 19,
-    "updated_at": "2026-09-04T12:24:07Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
     "description": "I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it",
@@ -130,7 +247,7 @@
     "id": "chengzhi-c/natural-talk",
     "language": "Python",
     "name": "chengzhi-c/natural-talk",
-    "stars": 33,
+    "stars": 34,
     "updated_at": "2026-09-04T12:19:40Z",
     "url": "https://github.com/chengzhi-c/natural-talk"
   },
@@ -144,42 +261,6 @@
     "url": "https://github.com/cskwork/THE-SYSTEM-PROMPT"
   },
   {
-    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
-    "id": "GenSEAM/asl",
-    "language": "Python",
-    "name": "GenSEAM/asl",
-    "stars": 1,
-    "updated_at": "2026-09-04T12:18:36Z",
-    "url": "https://github.com/GenSEAM/asl"
-  },
-  {
-    "description": "Methodology for building a team of AI agents: explicit roles, tier routing, triangulated review, and tested protective h",
-    "id": "sergvss/agents-best-teams",
-    "language": "Python",
-    "name": "sergvss/agents-best-teams",
-    "stars": 2,
-    "updated_at": "2026-09-04T12:18:26Z",
-    "url": "https://github.com/sergvss/agents-best-teams"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34192,
-    "updated_at": "2026-09-04T12:26:26Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3522,
-    "updated_at": "2026-09-04T12:29:43Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "10 project documents a coding agent can act on: fill in, adapt to your repo, or audit against. Markdown, YAML, INI and n",
     "id": "jamalkamaladdin/agent-ready-templates",
     "language": "\u2014",
@@ -187,33 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T12:16:20Z",
     "url": "https://github.com/jamalkamaladdin/agent-ready-templates"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-04T12:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 1,
-    "updated_at": "2026-09-04T12:29:08Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Build high-quality software faster with AI-driven lifecycle management.",
-    "id": "markhazleton/devspark",
-    "language": "PowerShell",
-    "name": "markhazleton/devspark",
-    "stars": 0,
-    "updated_at": "2026-09-04T12:13:31Z",
-    "url": "https://github.com/markhazleton/devspark"
   },
   {
     "description": "Local Claude Code HTTP traffic inspector with a desktop GUI and agent API. Capture prompts, tools, SSE, errors, and toke",
@@ -250,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T12:07:19Z",
     "url": "https://github.com/Akhil271-bot/AI-_Voice_Agent-"
-  },
-  {
-    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
-    "id": "sou350121/Agent-Playbook",
-    "language": "PowerShell",
-    "name": "sou350121/Agent-Playbook",
-    "stars": 13,
-    "updated_at": "2026-09-04T12:06:51Z",
-    "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
     "description": "Custom configuration for Claude Code that turns it into a disciplined engineering partner with structured workflows, str",
@@ -311,7 +356,7 @@
     "language": "Python",
     "name": "sergeeey/Claude-cod-top-2026",
     "stars": 7,
-    "updated_at": "2026-09-04T12:02:18Z",
+    "updated_at": "2026-09-04T12:44:08Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
@@ -333,15 +378,6 @@
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3722,
-    "updated_at": "2026-09-04T12:07:32Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
     "description": "Local-first prompt library and version-control system for AI prompts (Desktop App, CLI, MCP Server, and AI execution eng",
     "id": "PromptBranch/promptbranch",
     "language": "TypeScript",
@@ -349,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T11:53:59Z",
     "url": "https://github.com/PromptBranch/promptbranch"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-09-04T12:28:20Z",
-    "url": "https://github.com/rockerlabs/keel"
   },
   {
     "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T11:42:27Z",
     "url": "https://github.com/Emmimal/prompt-dependency-graph"
-  },
-  {
-    "description": "AI agents that improve themselves. Self-evolving prompts via A/B testing, multi-model critics, and safety gates. TypeScr",
-    "id": "studiomeyer-io/darwin-agents",
-    "language": "TypeScript",
-    "name": "studiomeyer-io/darwin-agents",
-    "stars": 9,
-    "updated_at": "2026-09-04T11:40:23Z",
-    "url": "https://github.com/studiomeyer-io/darwin-agents"
-  },
-  {
-    "description": "Human-led AI workflows for real B2B sales work.",
-    "id": "shaunmarsden/practical-ai-sales-workflows",
-    "language": "\u2014",
-    "name": "shaunmarsden/practical-ai-sales-workflows",
-    "stars": 2,
-    "updated_at": "2026-09-04T11:39:48Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
-  },
-  {
-    "description": "Visual cheat sheet to discover, search, and compare how different AI models (SD 1.5, SDXL, FLUX and other) interpret hun",
-    "id": "nauno40/OmniPromptStyle-CheatSheet",
-    "language": "TypeScript",
-    "name": "nauno40/OmniPromptStyle-CheatSheet",
-    "stars": 8,
-    "updated_at": "2026-09-04T11:39:36Z",
-    "url": "https://github.com/nauno40/OmniPromptStyle-CheatSheet"
   }
 ]
