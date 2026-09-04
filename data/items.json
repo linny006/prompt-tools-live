@@ -1,5 +1,41 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21787,
+    "updated_at": "2026-09-04T13:30:04Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-04T13:29:37Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-04T13:28:53Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-04T13:28:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Fact-governance for LLM-written documents: claims trace to a verified source entry, a scripted lint gates every draft, r",
     "id": "Ian-Lo/application-doc-toolkit",
     "language": "Python",
@@ -16,6 +52,15 @@
     "stars": 2,
     "updated_at": "2026-09-04T13:28:03Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Methodology for building a team of AI agents: explicit roles, tier routing, triangulated review, and tested protective h",
+    "id": "sergvss/agents-best-teams",
+    "language": "Python",
+    "name": "sergvss/agents-best-teams",
+    "stars": 2,
+    "updated_at": "2026-09-04T13:27:19Z",
+    "url": "https://github.com/sergvss/agents-best-teams"
   },
   {
     "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
@@ -72,15 +117,6 @@
     "url": "https://github.com/zenstory-ai/drama-skills"
   },
   {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 1,
-    "updated_at": "2026-09-04T13:27:19Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
     "description": "Runtime-aware Skill routing for Codex: choose the smallest verifiable Skill set across single tasks, phased work, and ma",
     "id": "eric861129/Workflow-skill-router",
     "language": "Python",
@@ -104,7 +140,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34193,
-    "updated_at": "2026-09-04T13:26:00Z",
+    "updated_at": "2026-09-04T13:29:20Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "Nanako0129/sepia",
     "stars": 1955,
-    "updated_at": "2026-09-04T13:23:59Z",
+    "updated_at": "2026-09-04T13:30:16Z",
     "url": "https://github.com/Nanako0129/sepia"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 21,
     "updated_at": "2026-09-04T13:22:36Z",
     "url": "https://github.com/aidyou/chatspeed"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21787,
-    "updated_at": "2026-09-04T13:22:21Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Rational engineering system prompt for Codex and LLMs \u2014 focused on accuracy, software engineering, AI, security research",
@@ -261,15 +288,6 @@
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-04T13:15:34Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -304,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-09-04T13:12:00Z",
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Methodology for building a team of AI agents: explicit roles, tier routing, triangulated review, and tested protective h",
-    "id": "sergvss/agents-best-teams",
-    "language": "Python",
-    "name": "sergvss/agents-best-teams",
-    "stars": 2,
-    "updated_at": "2026-09-04T13:27:19Z",
-    "url": "https://github.com/sergvss/agents-best-teams"
   },
   {
     "description": "A grammar for the language forming between humans and LLMs \u2014 21 prompt conventions with an explicit evidence standard, d",
@@ -439,14 +448,5 @@
     "stars": 185,
     "updated_at": "2026-09-04T13:21:23Z",
     "url": "https://github.com/PromptPartner/agentsmith"
-  },
-  {
-    "description": "An agent package and project manager, written in Rust.",
-    "id": "narumiruna/aru",
-    "language": "Rust",
-    "name": "narumiruna/aru",
-    "stars": 5,
-    "updated_at": "2026-09-04T13:00:47Z",
-    "url": "https://github.com/narumiruna/aru"
   }
 ]
