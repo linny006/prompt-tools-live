@@ -1,12 +1,165 @@
 [
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 68952,
+    "updated_at": "2026-09-05T04:00:46Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "WSQ Claude Certified Architect Foundation (TGS-2026061312): 2-day architecture course with six hands-on labs.",
+    "id": "tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation",
+    "language": "Python",
+    "name": "tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation",
+    "stars": 3,
+    "updated_at": "2026-09-05T04:00:30Z",
+    "url": "https://github.com/tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation"
+  },
+  {
+    "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
+    "id": "Raymondhou0917/speak-human-tw",
+    "language": "Python",
+    "name": "Raymondhou0917/speak-human-tw",
+    "stars": 932,
+    "updated_at": "2026-09-05T04:00:22Z",
+    "url": "https://github.com/Raymondhou0917/speak-human-tw"
+  },
+  {
+    "description": "Bilingual (Arabic/English) evidence-based scientific library of 60+ AI cost-reduction techniques, classified by evidence",
+    "id": "faresrafat3/ai-cost-library",
+    "language": "Python",
+    "name": "faresrafat3/ai-cost-library",
+    "stars": 0,
+    "updated_at": "2026-09-05T03:59:51Z",
+    "url": "https://github.com/faresrafat3/ai-cost-library"
+  },
+  {
+    "description": "Creative Writing and General Conversation System Prompt for LLM",
+    "id": "baros4294/system_prompt",
+    "language": "\u2014",
+    "name": "baros4294/system_prompt",
+    "stars": 1,
+    "updated_at": "2026-09-05T03:59:42Z",
+    "url": "https://github.com/baros4294/system_prompt"
+  },
+  {
+    "description": "CLI tool for comparing prompt variants and models",
+    "id": "amro/evaling",
+    "language": "Python",
+    "name": "amro/evaling",
+    "stars": 2,
+    "updated_at": "2026-09-05T03:58:31Z",
+    "url": "https://github.com/amro/evaling"
+  },
+  {
+    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
+    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 1848,
+    "updated_at": "2026-09-05T03:56:31Z",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "description": "Grow a real software project from a single prompt \u2014 no coding experience required.",
+    "id": "Berniebiloxi/Promptophyte",
+    "language": "HTML",
+    "name": "Berniebiloxi/Promptophyte",
+    "stars": 0,
+    "updated_at": "2026-09-05T03:55:49Z",
+    "url": "https://github.com/Berniebiloxi/Promptophyte"
+  },
+  {
+    "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
+    "id": "AmadeusITGroup/ai-primitives-hub",
+    "language": "TypeScript",
+    "name": "AmadeusITGroup/ai-primitives-hub",
+    "stars": 50,
+    "updated_at": "2026-09-05T03:54:52Z",
+    "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-05T03:52:23Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 209,
+    "updated_at": "2026-09-05T03:52:20Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "MIT Core for local-first e-commerce ad creative: Product DNA, Person DNA, Spatial Continuity, and matched image/video pr",
+    "id": "chuanxituzhu-lab/sayelf-commerce-dna",
+    "language": "Python",
+    "name": "chuanxituzhu-lab/sayelf-commerce-dna",
+    "stars": 1,
+    "updated_at": "2026-09-05T03:51:31Z",
+    "url": "https://github.com/chuanxituzhu-lab/sayelf-commerce-dna"
+  },
+  {
+    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
+    "id": "ZeroLu/awesome-gpt-image",
+    "language": "Python",
+    "name": "ZeroLu/awesome-gpt-image",
+    "stars": 2156,
+    "updated_at": "2026-09-05T03:50:54Z",
+    "url": "https://github.com/ZeroLu/awesome-gpt-image"
+  },
+  {
+    "description": "DSH plugin: host-resident scheduled-jobs \u00d7 AI-agent engine (hermes-agent cron inspired) \u2014 60s ticker fires real agent se",
+    "id": "LouisHaoL/dsh-timer-agent",
+    "language": "TypeScript",
+    "name": "LouisHaoL/dsh-timer-agent",
+    "stars": 13,
+    "updated_at": "2026-09-05T03:50:29Z",
+    "url": "https://github.com/LouisHaoL/dsh-timer-agent"
+  },
+  {
+    "description": "\u56e0\u4e3agithub\u548c\u5176\u4ed6\u5730\u65b9\u90fd\u6ca1\u6709\u4e2d\u6587\u623f\u4ea7\u76f8\u5173\u7684AI\u5de5\u5177\u5e93\u548cskill\u5e93\uff0c\u6240\u4ee5\u5c31\u51b3\u5b9a\u81ea\u5df1\u5f00\u59cb\u505a\u7b2c\u4e00\u6279\u6700\u65e9\u7684\u4e2d\u6587\u623f\u4ea7 AI \u6280\u80fd\u5de5\u5177\u5e93\uff1a7 \u7c7b\u89d2\u8272\uff08\u623f\u5f00\u5546 / \u7ecf\u7eaa\u516c\u53f8 / \u6e20\u9053\u5206\u9500\u516c\u53f8 / \u8d2d\u623f\u8005\u548c\u4e1a\u4e3b / \u4e00\u624b\u8425\u9500 / \u4e8c\u624b\u7ecf\u7eaa / \u623f\u4ea7\u81ea",
+    "id": "danfeistar/house-skills-kit",
+    "language": "Python",
+    "name": "danfeistar/house-skills-kit",
+    "stars": 1,
+    "updated_at": "2026-09-05T03:47:54Z",
+    "url": "https://github.com/danfeistar/house-skills-kit"
+  },
+  {
     "description": "\ud83d\ude80 126 Specialized AI Agent Skills, 3-Step Autonomous Workflow, and Local SEO Operating System for Antigravity & Claude C",
     "id": "jahidulislamseo/antigravity-ai-skills",
     "language": "Shell",
     "name": "jahidulislamseo/antigravity-ai-skills",
     "stars": 0,
-    "updated_at": "2026-09-05T03:44:15Z",
+    "updated_at": "2026-09-05T03:47:49Z",
     "url": "https://github.com/jahidulislamseo/antigravity-ai-skills"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 19,
+    "updated_at": "2026-09-05T03:45:35Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-05T03:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u300a\u672b\u65e5NPC\u90fd\u4e0d\u592a\u6b63\u5e38\u300b\u7684 Agent Skills \u4ed3\u5e93 \u00b7 \u53ef\u590d\u7528\u5de5\u4f5c\u6d41\u6280\u80fd",
@@ -32,7 +185,7 @@
     "language": "TypeScript",
     "name": "intelligent-iterations/ii-llm-lab",
     "stars": 0,
-    "updated_at": "2026-09-05T03:44:00Z",
+    "updated_at": "2026-09-05T04:00:43Z",
     "url": "https://github.com/intelligent-iterations/ii-llm-lab"
   },
   {
@@ -43,24 +196,6 @@
     "stars": 4,
     "updated_at": "2026-09-05T03:38:54Z",
     "url": "https://github.com/masini1491/ai-development-playbook"
-  },
-  {
-    "description": "Bilingual (Arabic/English) evidence-based scientific library of 60+ AI cost-reduction techniques, classified by evidence",
-    "id": "faresrafat3/ai-cost-library",
-    "language": "Python",
-    "name": "faresrafat3/ai-cost-library",
-    "stars": 0,
-    "updated_at": "2026-09-05T03:37:25Z",
-    "url": "https://github.com/faresrafat3/ai-cost-library"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-05T03:35:36Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Tool-agnostic AI Development Runtime for team coding workflows (/init, /feature, /fix).",
@@ -99,15 +234,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-05T03:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A collection of custom skills",
     "id": "Emlembow/skills",
     "language": "Python",
@@ -124,15 +250,6 @@
     "stars": 17,
     "updated_at": "2026-09-05T03:28:39Z",
     "url": "https://github.com/sanic732/P2P"
-  },
-  {
-    "description": "Grow a real software project from a single prompt \u2014 no coding experience required.",
-    "id": "Berniebiloxi/Promptophyte",
-    "language": "HTML",
-    "name": "Berniebiloxi/Promptophyte",
-    "stars": 0,
-    "updated_at": "2026-09-05T03:28:08Z",
-    "url": "https://github.com/Berniebiloxi/Promptophyte"
   },
   {
     "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
@@ -203,7 +320,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27817,
-    "updated_at": "2026-09-05T03:21:42Z",
+    "updated_at": "2026-09-05T03:52:10Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -265,7 +382,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 64183,
+    "stars": 64184,
     "updated_at": "2026-09-05T03:18:00Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -306,24 +423,6 @@
     "url": "https://github.com/atomicdjt/AI-Project-Portfolio"
   },
   {
-    "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
-    "id": "AmadeusITGroup/ai-primitives-hub",
-    "language": "TypeScript",
-    "name": "AmadeusITGroup/ai-primitives-hub",
-    "stars": 50,
-    "updated_at": "2026-09-05T03:42:50Z",
-    "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
-  },
-  {
-    "description": "CLI tool for comparing prompt variants and models",
-    "id": "amro/evaling",
-    "language": "Python",
-    "name": "amro/evaling",
-    "stars": 2,
-    "updated_at": "2026-09-05T03:18:55Z",
-    "url": "https://github.com/amro/evaling"
-  },
-  {
     "description": "A hands-on GenAI Engineering roadmap from LLM fundamentals to production AI systems. Covers prompt engineering, RAG, Age",
     "id": "SRCarlo/genai-course",
     "language": "JavaScript",
@@ -349,104 +448,5 @@
     "stars": 41,
     "updated_at": "2026-09-05T03:10:13Z",
     "url": "https://github.com/personamanagmentlayer/pcl"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-09-05T03:09:13Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 19,
-    "updated_at": "2026-09-05T03:42:25Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Broadcast one prompt to 2-6 AI models side-by-side - or convene them as a deliberative panel: an AI-only Habermas Machin",
-    "id": "zmustafa/MultiChat",
-    "language": "Python",
-    "name": "zmustafa/MultiChat",
-    "stars": 2,
-    "updated_at": "2026-09-05T03:07:44Z",
-    "url": "https://github.com/zmustafa/MultiChat"
-  },
-  {
-    "description": "Learner labs for WSQ Claude Certified Architect Foundation (TGS-2026061312)",
-    "id": "tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation",
-    "language": "Python",
-    "name": "tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation",
-    "stars": 3,
-    "updated_at": "2026-09-05T03:07:37Z",
-    "url": "https://github.com/tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 18,
-    "updated_at": "2026-09-05T03:06:47Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "codex\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 \ud50c\ub7ec\uadf8\uc778 \ubaa8\uc74c\uc9d1\uc785\ub2c8\ub2e4.",
-    "id": "HYEXE/codex-plugins",
-    "language": "Python",
-    "name": "HYEXE/codex-plugins",
-    "stars": 1,
-    "updated_at": "2026-09-05T03:30:40Z",
-    "url": "https://github.com/HYEXE/codex-plugins"
-  },
-  {
-    "description": "zer0lint is a memory-extraction health diagnostic for mem0 configs and HTTP memory endpoints. It flags silent failure mo",
-    "id": "hermes-labs-ai/zer0lint",
-    "language": "Python",
-    "name": "hermes-labs-ai/zer0lint",
-    "stars": 0,
-    "updated_at": "2026-09-05T03:03:09Z",
-    "url": "https://github.com/hermes-labs-ai/zer0lint"
-  },
-  {
-    "description": "Static analyzer for AI system prompts: parses a prompt into normative rules and reports contradictions, coverage gaps, p",
-    "id": "hermes-labs-ai/rule-audit",
-    "language": "Python",
-    "name": "hermes-labs-ai/rule-audit",
-    "stars": 0,
-    "updated_at": "2026-09-05T03:03:07Z",
-    "url": "https://github.com/hermes-labs-ai/rule-audit"
-  },
-  {
-    "description": "532 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a ",
-    "id": "kydlikebtc/awesome-grokbot",
-    "language": "Python",
-    "name": "kydlikebtc/awesome-grokbot",
-    "stars": 307,
-    "updated_at": "2026-09-05T03:00:36Z",
-    "url": "https://github.com/kydlikebtc/awesome-grokbot"
-  },
-  {
-    "description": "\u955c\u53d9\uff1a\u628a\u7535\u5f71\u611f\u8f6c\u6210\u53ef\u751f\u6210\u3001\u53ef\u7eed\u62cd\u3001\u53ef\u9a8c\u6536\u7684\u7535\u5f71\u5173\u952e\u5e27 Codex Skill",
-    "id": "22570994-creator/jingxu-cinematic-keyframes",
-    "language": "PowerShell",
-    "name": "22570994-creator/jingxu-cinematic-keyframes",
-    "stars": 1,
-    "updated_at": "2026-09-05T02:56:40Z",
-    "url": "https://github.com/22570994-creator/jingxu-cinematic-keyframes"
-  },
-  {
-    "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
-    "id": "Prysai/Prysai-LLM-Playbook",
-    "language": "Python",
-    "name": "Prysai/Prysai-LLM-Playbook",
-    "stars": 415,
-    "updated_at": "2026-09-05T02:56:34Z",
-    "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
   }
 ]
