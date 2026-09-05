@@ -1,5 +1,104 @@
 [
   {
+    "description": "Enterprise LLM prompt regression testing, MCTS active optimization, token-level hallucination attribution, and guardrail",
+    "id": "latryee/promptdiff",
+    "language": "Python",
+    "name": "latryee/promptdiff",
+    "stars": 1,
+    "updated_at": "2026-09-05T12:08:41Z",
+    "url": "https://github.com/latryee/promptdiff"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-05T12:08:40Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "\u5c06\u4e66\u7c4d\u3001PDF \u6216\u6587\u5b57\u6750\u6599\u8f6c\u5316\u4e3a\u7cbe\u7f8e\u53ef\u7f16\u8f91 PPT \u7684 AI \u5de5\u4f5c\u6d41\u6280\u80fd | \u4e09\u6b65\u6d41\u7a0b\uff1a\u5185\u5bb9\u63d0\u70bc - \u56fe\u7247PPT\u751f\u6210 - \u53ef\u7f16\u8f91PPTX\u8fd8\u539f | \u63a8\u8350 Codex + GPT-Image 2.0",
+    "id": "helloo1568/image-ppt",
+    "language": "Python",
+    "name": "helloo1568/image-ppt",
+    "stars": 4,
+    "updated_at": "2026-09-05T12:08:21Z",
+    "url": "https://github.com/helloo1568/image-ppt"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-09-05T12:06:40Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
+    "id": "astorie-ai/awesome-seedance-2-prompt",
+    "language": "Shell",
+    "name": "astorie-ai/awesome-seedance-2-prompt",
+    "stars": 14,
+    "updated_at": "2026-09-05T12:06:21Z",
+    "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "Safe, policy-driven personality-mode engine for LLM agents",
+    "id": "caty-ai/persona-engine",
+    "language": "TypeScript",
+    "name": "caty-ai/persona-engine",
+    "stars": 2,
+    "updated_at": "2026-09-05T12:05:45Z",
+    "url": "https://github.com/caty-ai/persona-engine"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-09-05T12:04:47Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13367,
+    "updated_at": "2026-09-05T12:04:15Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-09-05T12:00:56Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-09-05T12:00:40Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-05T12:00:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -72,15 +171,6 @@
     "url": "https://github.com/LouisHaoL/dsh-timer-agent"
   },
   {
-    "description": "Enterprise LLM prompt regression testing, MCTS active optimization, token-level hallucination attribution, and guardrail",
-    "id": "latryee/promptdiff",
-    "language": "Python",
-    "name": "latryee/promptdiff",
-    "stars": 1,
-    "updated_at": "2026-09-05T11:48:20Z",
-    "url": "https://github.com/latryee/promptdiff"
-  },
-  {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
     "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
     "language": "TypeScript",
@@ -97,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T11:45:39Z",
     "url": "https://github.com/sufleur/cli"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-05T11:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
@@ -203,7 +284,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 3728,
-    "updated_at": "2026-09-05T11:35:35Z",
+    "updated_at": "2026-09-05T12:05:09Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -211,8 +292,8 @@
     "id": "Spielewoy/autoprompt-skill",
     "language": "JavaScript",
     "name": "Spielewoy/autoprompt-skill",
-    "stars": 988,
-    "updated_at": "2026-09-05T11:35:22Z",
+    "stars": 989,
+    "updated_at": "2026-09-05T12:06:13Z",
     "url": "https://github.com/Spielewoy/autoprompt-skill"
   },
   {
@@ -364,89 +445,8 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 64198,
+    "stars": 64199,
     "updated_at": "2026-09-05T11:14:45Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "Description Evidence-driven evaluation, benchmarking, and verified repair for Agent Skills across Codex, Claude Code, Ge",
-    "id": "MaxLaurieHutchinson/skill-evaluation-graph",
-    "language": "Python",
-    "name": "MaxLaurieHutchinson/skill-evaluation-graph",
-    "stars": 2,
-    "updated_at": "2026-09-05T11:14:14Z",
-    "url": "https://github.com/MaxLaurieHutchinson/skill-evaluation-graph"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 1,
-    "updated_at": "2026-09-05T11:13:17Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 904,
-    "updated_at": "2026-09-05T11:41:37Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Find what is wrong with the AI agent configuration your repository already has.",
-    "id": "dennishavermans/agentfile",
-    "language": "TypeScript",
-    "name": "dennishavermans/agentfile",
-    "stars": 9,
-    "updated_at": "2026-09-05T11:13:17Z",
-    "url": "https://github.com/dennishavermans/agentfile"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 10,
-    "updated_at": "2026-09-05T11:11:11Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34219,
-    "updated_at": "2026-09-05T11:16:50Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Your assistant tells you what you want to hear, and doesn't know when it's making things up. HEXAGRAM adds the missing l",
-    "id": "nowespojrzenie/HEXAGRAM",
-    "language": "Shell",
-    "name": "nowespojrzenie/HEXAGRAM",
-    "stars": 1,
-    "updated_at": "2026-09-05T11:10:11Z",
-    "url": "https://github.com/nowespojrzenie/HEXAGRAM"
-  },
-  {
-    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
-    "id": "BootBlock/SpriteGubbins",
-    "language": "TypeScript",
-    "name": "BootBlock/SpriteGubbins",
-    "stars": 0,
-    "updated_at": "2026-09-05T11:09:48Z",
-    "url": "https://github.com/BootBlock/SpriteGubbins"
-  },
-  {
-    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
-    "id": "gthgomez/Babel",
-    "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 1,
-    "updated_at": "2026-09-05T11:10:27Z",
-    "url": "https://github.com/gthgomez/Babel"
   }
 ]
