@@ -1,11 +1,74 @@
 [
   {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-05T03:14:03Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
+    "id": "AmadeusITGroup/ai-primitives-hub",
+    "language": "TypeScript",
+    "name": "AmadeusITGroup/ai-primitives-hub",
+    "stars": 50,
+    "updated_at": "2026-09-05T03:14:01Z",
+    "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
+  },
+  {
+    "description": "Refine any text, in the moment, in any app. Select text, hit a hotkey, get it sharpened and pasted back, prompts, emails",
+    "id": "duartelcunha/Ember",
+    "language": "Rust",
+    "name": "duartelcunha/Ember",
+    "stars": 3,
+    "updated_at": "2026-09-05T03:14:19Z",
+    "url": "https://github.com/duartelcunha/Ember"
+  },
+  {
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-S",
+    "id": "asgeirtj/system_prompts_leaks",
+    "language": "JavaScript",
+    "name": "asgeirtj/system_prompts_leaks",
+    "stars": 64185,
+    "updated_at": "2026-09-05T03:13:06Z",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "description": "CLI tool for comparing prompt variants and models",
+    "id": "amro/evaling",
+    "language": "Python",
+    "name": "amro/evaling",
+    "stars": 2,
+    "updated_at": "2026-09-05T03:12:51Z",
+    "url": "https://github.com/amro/evaling"
+  },
+  {
+    "description": "A hands-on GenAI Engineering roadmap from LLM fundamentals to production AI systems. Covers prompt engineering, RAG, Age",
+    "id": "SRCarlo/genai-course",
+    "language": "JavaScript",
+    "name": "SRCarlo/genai-course",
+    "stars": 5,
+    "updated_at": "2026-09-05T03:10:46Z",
+    "url": "https://github.com/SRCarlo/genai-course"
+  },
+  {
+    "description": "Personalize any AI with dynamic instructions. One profile, one rule source, rendered for Claude, Codex, Cursor, Gemini a",
+    "id": "aunysillyme/agent-personalizer",
+    "language": "JavaScript",
+    "name": "aunysillyme/agent-personalizer",
+    "stars": 0,
+    "updated_at": "2026-09-05T03:11:11Z",
+    "url": "https://github.com/aunysillyme/agent-personalizer"
+  },
+  {
     "description": "Persona Control Language (PCL)",
     "id": "personamanagmentlayer/pcl",
     "language": "TypeScript",
     "name": "personamanagmentlayer/pcl",
     "stars": 41,
-    "updated_at": "2026-09-05T02:59:56Z",
+    "updated_at": "2026-09-05T03:10:13Z",
     "url": "https://github.com/personamanagmentlayer/pcl"
   },
   {
@@ -14,26 +77,98 @@
     "language": "Python",
     "name": "faresrafat3/ai-cost-library",
     "stars": 0,
-    "updated_at": "2026-09-05T02:57:55Z",
+    "updated_at": "2026-09-05T03:09:56Z",
     "url": "https://github.com/faresrafat3/ai-cost-library"
   },
   {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 1,
-    "updated_at": "2026-09-05T02:57:49Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-09-05T03:09:13Z",
+    "url": "https://github.com/nuttaruj/rolepod"
   },
   {
-    "description": "Personalize any AI with dynamic instructions. One profile, one rule source, rendered for Claude, Codex, Cursor, Gemini a",
-    "id": "aunysillyme/agent-personalizer",
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 19,
+    "updated_at": "2026-09-05T03:07:59Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Broadcast one prompt to 2-6 AI models side-by-side - or convene them as a deliberative panel: an AI-only Habermas Machin",
+    "id": "zmustafa/MultiChat",
+    "language": "Python",
+    "name": "zmustafa/MultiChat",
+    "stars": 2,
+    "updated_at": "2026-09-05T03:07:44Z",
+    "url": "https://github.com/zmustafa/MultiChat"
+  },
+  {
+    "description": "Learner labs for WSQ Claude Certified Architect Foundation (TGS-2026061312)",
+    "id": "tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation",
+    "language": "Python",
+    "name": "tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation",
+    "stars": 3,
+    "updated_at": "2026-09-05T03:07:37Z",
+    "url": "https://github.com/tertiarycourses/TGS-2026061312-Claude-Certified-Architect-Foundation"
+  },
+  {
+    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
+    "id": "FURUYAN1234/nano-banana-pro",
     "language": "JavaScript",
-    "name": "aunysillyme/agent-personalizer",
+    "name": "FURUYAN1234/nano-banana-pro",
+    "stars": 18,
+    "updated_at": "2026-09-05T03:06:47Z",
+    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
+  },
+  {
+    "description": "codex\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 \ud50c\ub7ec\uadf8\uc778 \ubaa8\uc74c\uc9d1\uc785\ub2c8\ub2e4.",
+    "id": "HYEXE/codex-plugins",
+    "language": "Python",
+    "name": "HYEXE/codex-plugins",
+    "stars": 1,
+    "updated_at": "2026-09-05T03:02:30Z",
+    "url": "https://github.com/HYEXE/codex-plugins"
+  },
+  {
+    "description": "zer0lint is a memory-extraction health diagnostic for mem0 configs and HTTP memory endpoints. It flags silent failure mo",
+    "id": "hermes-labs-ai/zer0lint",
+    "language": "Python",
+    "name": "hermes-labs-ai/zer0lint",
     "stars": 0,
-    "updated_at": "2026-09-05T02:56:57Z",
-    "url": "https://github.com/aunysillyme/agent-personalizer"
+    "updated_at": "2026-09-05T03:03:09Z",
+    "url": "https://github.com/hermes-labs-ai/zer0lint"
+  },
+  {
+    "description": "Static analyzer for AI system prompts: parses a prompt into normative rules and reports contradictions, coverage gaps, p",
+    "id": "hermes-labs-ai/rule-audit",
+    "language": "Python",
+    "name": "hermes-labs-ai/rule-audit",
+    "stars": 0,
+    "updated_at": "2026-09-05T03:03:07Z",
+    "url": "https://github.com/hermes-labs-ai/rule-audit"
+  },
+  {
+    "description": "532 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a ",
+    "id": "kydlikebtc/awesome-grokbot",
+    "language": "Python",
+    "name": "kydlikebtc/awesome-grokbot",
+    "stars": 307,
+    "updated_at": "2026-09-05T03:00:36Z",
+    "url": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-05T03:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u955c\u53d9\uff1a\u628a\u7535\u5f71\u611f\u8f6c\u6210\u53ef\u751f\u6210\u3001\u53ef\u7eed\u62cd\u3001\u53ef\u9a8c\u6536\u7684\u7535\u5f71\u5173\u952e\u5e27 Codex Skill",
@@ -49,7 +184,7 @@
     "id": "Prysai/Prysai-LLM-Playbook",
     "language": "Python",
     "name": "Prysai/Prysai-LLM-Playbook",
-    "stars": 413,
+    "stars": 414,
     "updated_at": "2026-09-05T02:56:34Z",
     "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
   },
@@ -117,15 +252,6 @@
     "url": "https://github.com/ryanduguid/DrDebits"
   },
   {
-    "description": "Broadcast one prompt to 2-6 AI models side-by-side - or convene them as a deliberative panel: an AI-only Habermas Machin",
-    "id": "zmustafa/MultiChat",
-    "language": "Python",
-    "name": "zmustafa/MultiChat",
-    "stars": 2,
-    "updated_at": "2026-09-05T02:46:05Z",
-    "url": "https://github.com/zmustafa/MultiChat"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -133,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T02:45:42Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-05T02:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -162,21 +279,12 @@
     "url": "https://github.com/Nova-Violet-Role/RoT-DtD-Commander"
   },
   {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-09-05T02:42:50Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
     "description": "AI-writing humanizer for KO/EN/ZH/JA",
     "id": "devswha/patina",
     "language": "JavaScript",
     "name": "devswha/patina",
     "stars": 344,
-    "updated_at": "2026-09-05T02:59:56Z",
+    "updated_at": "2026-09-05T03:04:10Z",
     "url": "https://github.com/devswha/patina"
   },
   {
@@ -261,15 +369,6 @@
     "url": "https://github.com/ZeroLu/awesome-seedance-2.5"
   },
   {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 19,
-    "updated_at": "2026-09-05T02:31:17Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 10286,
     "updated_at": "2026-09-05T02:10:35Z",
     "url": "https://github.com/ZeroLu/awesome-nanobanana-pro"
-  },
-  {
-    "description": "claude-router is a local prompt router that picks the right Claude model tier and prepends the right scaffold using loca",
-    "id": "hermes-labs-ai/claude-router",
-    "language": "Python",
-    "name": "hermes-labs-ai/claude-router",
-    "stars": 0,
-    "updated_at": "2026-09-05T02:08:58Z",
-    "url": "https://github.com/hermes-labs-ai/claude-router"
-  },
-  {
-    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing s",
-    "id": "hermes-labs-ai/lintlang",
-    "language": "Python",
-    "name": "hermes-labs-ai/lintlang",
-    "stars": 63,
-    "updated_at": "2026-09-05T02:07:50Z",
-    "url": "https://github.com/hermes-labs-ai/lintlang"
-  },
-  {
-    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI i",
-    "id": "kadevin/ilab-conjure",
-    "language": "JavaScript",
-    "name": "kadevin/ilab-conjure",
-    "stars": 689,
-    "updated_at": "2026-09-05T02:06:58Z",
-    "url": "https://github.com/kadevin/ilab-conjure"
-  },
-  {
-    "description": "AI release engineering - CI gate for prompts, skills, MCP, and models",
-    "id": "xdlc-labs/airlock",
-    "language": "Go",
-    "name": "xdlc-labs/airlock",
-    "stars": 6,
-    "updated_at": "2026-09-05T02:06:48Z",
-    "url": "https://github.com/xdlc-labs/airlock"
-  },
-  {
-    "description": "German AI Text Humanizer for Claude Code & Codex. Audits 72 German AI-writing patterns using deterministic linters and e",
-    "id": "marmbiz/humanizer-de",
-    "language": "Python",
-    "name": "marmbiz/humanizer-de",
-    "stars": 139,
-    "updated_at": "2026-09-05T02:06:10Z",
-    "url": "https://github.com/marmbiz/humanizer-de"
-  },
-  {
-    "description": "Writing rules for AI agent responses making them clear, concise, and scannable - use built-in rules or create your own m",
-    "id": "OpenScribbler/Katharsis",
-    "language": "Shell",
-    "name": "OpenScribbler/Katharsis",
-    "stars": 4,
-    "updated_at": "2026-09-05T02:04:43Z",
-    "url": "https://github.com/OpenScribbler/Katharsis"
-  },
-  {
-    "description": "Inspectable context compression for LLM conversations: turn older history into visible scaffold state, keep recent turns",
-    "id": "hermes-labs-ai/langstate",
-    "language": "Python",
-    "name": "hermes-labs-ai/langstate",
-    "stars": 0,
-    "updated_at": "2026-09-05T02:04:23Z",
-    "url": "https://github.com/hermes-labs-ai/langstate"
-  },
-  {
-    "description": "25 practical agent skills for Codex, Claude Code, and Cursor: plan products, recover projects, test prompts, preserve vo",
-    "id": "m1nga/skills",
-    "language": "Python",
-    "name": "m1nga/skills",
-    "stars": 0,
-    "updated_at": "2026-09-05T02:04:20Z",
-    "url": "https://github.com/m1nga/skills"
-  },
-  {
-    "description": "\u5343\u7b14\u4e00\u6587 Novel \u2014 \u4eba AI \u5171\u5199\u7684\u957f\u7bc7\u7f51\u6587\u521b\u4f5c\u53f0\uff1a\u6761\u76ee\u5316\u4e16\u754c\u4e66 \u00b7 \u6b63\u5219 must \u5951\u7ea6\uff08\u786e\u5b9a\u6027\u590d\u68c0\uff0c\u8fdd\u89c4\u62e6\u4f4f\u9501\u5b9a\uff09\u00b7 \u4e09\u5c42\u5ba1\u6821\uff08\u5f15\u8bc1\u9a8c\u771f + \u6295\u7968\uff09\u00b7 \u540c\u4eba\u6587\u5916\u90e8\u5bfc\u5165\u53ef\u6574\u6279\u64a4\u9500 \u00b7 \u5347\u7ea7\u4e0d\u52a8\u4e66\u7a3f \u00b7 BYOK \u5168\u672c\u5730 \u00b7 MIT\u3002",
-    "id": "GLFzr/QianBi-Novel",
-    "language": "Python",
-    "name": "GLFzr/QianBi-Novel",
-    "stars": 1,
-    "updated_at": "2026-09-05T02:04:10Z",
-    "url": "https://github.com/GLFzr/QianBi-Novel"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-09-05T02:03:29Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "CLI tool for comparing prompt variants and models",
-    "id": "amro/evaling",
-    "language": "Python",
-    "name": "amro/evaling",
-    "stars": 2,
-    "updated_at": "2026-09-05T02:06:43Z",
-    "url": "https://github.com/amro/evaling"
   }
 ]
