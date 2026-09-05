@@ -1,12 +1,21 @@
 [
   {
-    "description": "Enterprise LLM prompt regression testing, MCTS active optimization, token-level hallucination attribution, and guardrail",
-    "id": "latryee/promptdiff",
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-09-05T12:15:20Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Governance framework for AI coding agents. It runs them through a five-step workflow (plan, build, review, test, ship) w",
+    "id": "KbWen/agentic-os",
     "language": "Python",
-    "name": "latryee/promptdiff",
-    "stars": 1,
-    "updated_at": "2026-09-05T12:08:41Z",
-    "url": "https://github.com/latryee/promptdiff"
+    "name": "KbWen/agentic-os",
+    "stars": 157,
+    "updated_at": "2026-09-05T12:15:03Z",
+    "url": "https://github.com/KbWen/agentic-os"
   },
   {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
@@ -14,8 +23,80 @@
     "language": "Python",
     "name": "hakodev2k/AI-Engineering",
     "stars": 1,
-    "updated_at": "2026-09-05T12:08:40Z",
+    "updated_at": "2026-09-05T12:14:12Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "AI-driven analysis workflow that uses LLMs to analyze narratives, content patterns, and information structures.",
+    "id": "estebanpdl/narrative-blueprint",
+    "language": "Python",
+    "name": "estebanpdl/narrative-blueprint",
+    "stars": 7,
+    "updated_at": "2026-09-05T12:14:10Z",
+    "url": "https://github.com/estebanpdl/narrative-blueprint"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 19,
+    "updated_at": "2026-09-05T12:13:07Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "One photo to one poetic postcard. Model-neutral Agent Skill for Codex, Claude Code, WorkBuddy, Dreamina and Doubao. \u7167\u7247\u8bd7\u610f",
+    "id": "yinxiaowai/xiaowai-photo-poetic-postcard",
+    "language": "Python",
+    "name": "yinxiaowai/xiaowai-photo-poetic-postcard",
+    "stars": 0,
+    "updated_at": "2026-09-05T12:12:44Z",
+    "url": "https://github.com/yinxiaowai/xiaowai-photo-poetic-postcard"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-09-05T12:11:17Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
+    "id": "imhamzakhan/context-flow-compressor",
+    "language": "HTML",
+    "name": "imhamzakhan/context-flow-compressor",
+    "stars": 1,
+    "updated_at": "2026-09-05T12:09:06Z",
+    "url": "https://github.com/imhamzakhan/context-flow-compressor"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-05T12:08:48Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3523,
+    "updated_at": "2026-09-05T12:11:15Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Enterprise LLM prompt regression testing, MCTS active optimization, token-level hallucination attribution, and guardrail",
+    "id": "latryee/promptdiff",
+    "language": "Python",
+    "name": "latryee/promptdiff",
+    "stars": 1,
+    "updated_at": "2026-09-05T12:08:41Z",
+    "url": "https://github.com/latryee/promptdiff"
   },
   {
     "description": "\u5c06\u4e66\u7c4d\u3001PDF \u6216\u6587\u5b57\u6750\u6599\u8f6c\u5316\u4e3a\u7cbe\u7f8e\u53ef\u7f16\u8f91 PPT \u7684 AI \u5de5\u4f5c\u6d41\u6280\u80fd | \u4e09\u6b65\u6d41\u7a0b\uff1a\u5185\u5bb9\u63d0\u70bc - \u56fe\u7247PPT\u751f\u6210 - \u53ef\u7f16\u8f91PPTX\u8fd8\u539f | \u63a8\u8350 Codex + GPT-Image 2.0",
@@ -27,15 +108,6 @@
     "url": "https://github.com/helloo1568/image-ppt"
   },
   {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-09-05T12:06:40Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
     "id": "astorie-ai/awesome-seedance-2-prompt",
     "language": "Shell",
@@ -43,6 +115,15 @@
     "stars": 14,
     "updated_at": "2026-09-05T12:06:21Z",
     "url": "https://github.com/astorie-ai/awesome-seedance-2-prompt"
+  },
+  {
+    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+    "id": "Spielewoy/autoprompt-skill",
+    "language": "JavaScript",
+    "name": "Spielewoy/autoprompt-skill",
+    "stars": 990,
+    "updated_at": "2026-09-05T12:06:13Z",
+    "url": "https://github.com/Spielewoy/autoprompt-skill"
   },
   {
     "description": "Safe, policy-driven personality-mode engine for LLM agents",
@@ -72,6 +153,15 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
+    "description": "\u8bfe\u7a0b\u4f5c\u4e1a\uff1a\u7528 AI \u6784\u5efa\u53ef\u590d\u7528\u7684\u6982\u5ff5\u5b66\u4e60 Skill\uff08concept-study-forge\uff09\uff0c\u5e76\u7528\u5b83\u5b66\u4e60 Agent\u3001\u5927\u6a21\u578b\u7684\u4e0a\u4e0b\u6587\u3001Skill \u4e09\u4e2a\u6982\u5ff5\u3002\u542b\u4e09\u4efd\u5b66\u4e60\u8d44\u6599\u4e0e\u6982\u5ff5\u5173\u7cfb\u8bf4\u660e\u3002",
+    "id": "summer0914232/ai-concept-study-kit",
+    "language": "HTML",
+    "name": "summer0914232/ai-concept-study-kit",
+    "stars": 0,
+    "updated_at": "2026-09-05T12:02:00Z",
+    "url": "https://github.com/summer0914232/ai-concept-study-kit"
+  },
+  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -88,15 +178,6 @@
     "stars": 5,
     "updated_at": "2026-09-05T12:00:40Z",
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-05T12:00:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -207,15 +288,6 @@
     "url": "https://github.com/findscripter/everything-skills"
   },
   {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 19,
-    "updated_at": "2026-09-05T11:42:12Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
     "description": "Meta Rules for prompt engineering \u2014 A persistent cognitive architecture for LLM prompt design.",
     "id": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
     "language": "\u2014",
@@ -288,15 +360,6 @@
     "url": "https://github.com/microsoft/apm"
   },
   {
-    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-    "id": "Spielewoy/autoprompt-skill",
-    "language": "JavaScript",
-    "name": "Spielewoy/autoprompt-skill",
-    "stars": 989,
-    "updated_at": "2026-09-05T12:06:13Z",
-    "url": "https://github.com/Spielewoy/autoprompt-skill"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -311,7 +374,7 @@
     "language": "Rust",
     "name": "narumiruna/aru",
     "stars": 5,
-    "updated_at": "2026-09-05T11:33:44Z",
+    "updated_at": "2026-09-05T12:13:08Z",
     "url": "https://github.com/narumiruna/aru"
   },
   {
@@ -356,7 +419,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21809,
-    "updated_at": "2026-09-05T11:53:18Z",
+    "updated_at": "2026-09-05T12:12:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T11:30:22Z",
     "url": "https://github.com/PromptBranch/promptbranch-portal"
-  },
-  {
-    "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u63d0\u793a\u8bcd \u2192 \u89c6\u9891\u3002| \u57fa\u4e8eLLM \u901a\u8fc7 LangGraph+LlamaIndex\uff0c\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftex",
-    "id": "neopen/story-shot-agent",
-    "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 172,
-    "updated_at": "2026-09-05T11:27:07Z",
-    "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 59,
-    "updated_at": "2026-09-05T11:26:49Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 25,
-    "updated_at": "2026-09-05T11:25:45Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Structured, spec-driven development workflow for AI coding agents.",
-    "id": "sahil87/fab-kit",
-    "language": "Go",
-    "name": "sahil87/fab-kit",
-    "stars": 30,
-    "updated_at": "2026-09-05T11:22:27Z",
-    "url": "https://github.com/sahil87/fab-kit"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-09-05T11:20:56Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
-    "id": "lulin70/carrymem",
-    "language": "Python",
-    "name": "lulin70/carrymem",
-    "stars": 5,
-    "updated_at": "2026-09-05T11:17:39Z",
-    "url": "https://github.com/lulin70/carrymem"
-  },
-  {
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-S",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "JavaScript",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 64199,
-    "updated_at": "2026-09-05T11:14:45Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
   }
 ]
