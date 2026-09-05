@@ -1,12 +1,84 @@
 [
   {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
+    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "JavaScript",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 2,
+    "updated_at": "2026-09-05T08:59:54Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "Claude Code & Cursor token usage monitor and cost tracker for macOS & Windows. Live token/cost/burn monitoring across 8 ",
+    "id": "Terse-AI/terseai",
+    "language": "JavaScript",
+    "name": "Terse-AI/terseai",
+    "stars": 33,
+    "updated_at": "2026-09-05T08:59:43Z",
+    "url": "https://github.com/Terse-AI/terseai"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 40,
+    "updated_at": "2026-09-05T08:59:37Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice along",
+    "id": "grimaldost/craft-collection",
     "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-09-05T08:46:35Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+    "name": "grimaldost/craft-collection",
+    "stars": 2,
+    "updated_at": "2026-09-05T08:58:59Z",
+    "url": "https://github.com/grimaldost/craft-collection"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-09-05T08:58:08Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "AI-writing humanizer for KO/EN/ZH/JA",
+    "id": "devswha/patina",
+    "language": "JavaScript",
+    "name": "devswha/patina",
+    "stars": 345,
+    "updated_at": "2026-09-05T08:58:06Z",
+    "url": "https://github.com/devswha/patina"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 19,
+    "updated_at": "2026-09-05T08:58:02Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
+    "id": "Magma1321/mythos-agent-pipe",
+    "language": "HTML",
+    "name": "Magma1321/mythos-agent-pipe",
+    "stars": 125,
+    "updated_at": "2026-09-05T08:54:48Z",
+    "url": "https://github.com/Magma1321/mythos-agent-pipe"
+  },
+  {
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,149-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 9,
+    "updated_at": "2026-09-05T08:55:03Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
   },
   {
     "description": "A lightweight anti-hallucination wrapper for LLMs using Chain-of-Verification.",
@@ -14,8 +86,53 @@
     "language": "Python",
     "name": "Muhtasim-Munif-Fahim/self-correct-agent",
     "stars": 6,
-    "updated_at": "2026-09-05T08:45:59Z",
+    "updated_at": "2026-09-05T08:54:21Z",
     "url": "https://github.com/Muhtasim-Munif-Fahim/self-correct-agent"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-05T08:52:07Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 1,
+    "updated_at": "2026-09-05T08:49:56Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
+    "id": "Nanako0129/sepia",
+    "language": "Python",
+    "name": "Nanako0129/sepia",
+    "stars": 2170,
+    "updated_at": "2026-09-05T08:59:40Z",
+    "url": "https://github.com/Nanako0129/sepia"
+  },
+  {
+    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
+    "id": "BootBlock/SpriteGubbins",
+    "language": "TypeScript",
+    "name": "BootBlock/SpriteGubbins",
+    "stars": 0,
+    "updated_at": "2026-09-05T08:48:39Z",
+    "url": "https://github.com/BootBlock/SpriteGubbins"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-09-05T08:46:50Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
     "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
@@ -23,7 +140,7 @@
     "language": "Python",
     "name": "linny006/prompt-tools-live",
     "stars": 10,
-    "updated_at": "2026-09-05T08:45:25Z",
+    "updated_at": "2026-09-05T08:46:48Z",
     "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
@@ -32,7 +149,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 10,
-    "updated_at": "2026-09-05T08:44:50Z",
+    "updated_at": "2026-09-05T08:48:04Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -54,15 +171,6 @@
     "url": "https://github.com/masini1491/ai-development-playbook"
   },
   {
-    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
-    "id": "Nanako0129/sepia",
-    "language": "Python",
-    "name": "Nanako0129/sepia",
-    "stars": 2168,
-    "updated_at": "2026-09-05T08:42:23Z",
-    "url": "https://github.com/Nanako0129/sepia"
-  },
-  {
     "description": "Semantic completion controller for AI agents: keeps the objective stable, allocates the next action from explicit progre",
     "id": "utsapoddar/dopa-kernel",
     "language": "Python",
@@ -77,7 +185,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 3728,
-    "updated_at": "2026-09-05T08:39:20Z",
+    "updated_at": "2026-09-05T08:56:24Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -88,24 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T08:39:11Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
-    "id": "BootBlock/SpriteGubbins",
-    "language": "TypeScript",
-    "name": "BootBlock/SpriteGubbins",
-    "stars": 0,
-    "updated_at": "2026-09-05T08:41:45Z",
-    "url": "https://github.com/BootBlock/SpriteGubbins"
-  },
-  {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,099-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 9,
-    "updated_at": "2026-09-05T08:46:05Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
   },
   {
     "description": "Agent Skill for Codex that helps frontend developers deliver production-capable backend changes from product requests.",
@@ -171,15 +261,6 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-05T08:34:52Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -187,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T08:34:01Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "TypeScript",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 4,
-    "updated_at": "2026-09-05T08:33:55Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
   },
   {
     "description": "`\u9762\u8bd5\u590d\u76d8\u4e13\u5bb6 \u00b7 AI Skill \u2014 128\u9898\u9898\u5e93 / 24\u8003\u5bdf\u610f\u56fe / 72\u9677\u9631\u6a21\u5f0f / 72\u8bc4\u5206\u7ef4\u5ea6 / 20\u6539\u8fdb\u6846\u67b6\uff0c\u628a\u9762\u8bd5\u8fc7\u7a0b\u8f6c\u5199\u6587\u5b57\u4e22\u8fdb\u53bb\uff0c\u9010\u9898\u8bca\u65ad\u4f60\u8e29\u4e86\u4ec0\u4e48\u5751\uff0c\u751f\u6210\u53ea\u6709HR\u624d\u80fd\u770b\u5f97\u62a5\u544a\u3002",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T08:38:38Z",
     "url": "https://github.com/Gus2708/whatsapp-agent"
-  },
-  {
-    "description": "Your assistant tells you what you want to hear, and doesn't know when it's making things up. HEXAGRAM adds the missing l",
-    "id": "nowespojrzenie/HEXAGRAM",
-    "language": "Shell",
-    "name": "nowespojrzenie/HEXAGRAM",
-    "stars": 1,
-    "updated_at": "2026-09-05T08:10:34Z",
-    "url": "https://github.com/nowespojrzenie/HEXAGRAM"
-  },
-  {
-    "description": "Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir",
-    "id": "ccarvalho-eng/aludel",
-    "language": "Elixir",
-    "name": "ccarvalho-eng/aludel",
-    "stars": 35,
-    "updated_at": "2026-09-05T08:14:47Z",
-    "url": "https://github.com/ccarvalho-eng/aludel"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 6,
-    "updated_at": "2026-09-05T08:08:35Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Claude Skill \u0e40\u0e02\u0e35\u0e22\u0e19\u0e42\u0e04\u0e23\u0e07\u0e07\u0e32\u0e19\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22: \u0e40\u0e01\u0e47\u0e1a\u0e42\u0e08\u0e17\u0e22\u0e4c \u0e40\u0e02\u0e35\u0e22\u0e19\u0e1a\u0e17\u0e17\u0e35\u0e48 1\u20133 \u0e08\u0e31\u0e14 APA \u0e41\u0e25\u0e30\u0e40\u0e2d\u0e01\u0e2a\u0e32\u0e23 Word",
-    "id": "sriwitsumo/project-skill",
-    "language": "Shell",
-    "name": "sriwitsumo/project-skill",
-    "stars": 1,
-    "updated_at": "2026-09-05T08:10:31Z",
-    "url": "https://github.com/sriwitsumo/project-skill"
-  },
-  {
-    "description": "AI engineering notes \u2014 LLMs in production, prompts, and software design. Moss Gu's blog, home of Design is Code.",
-    "id": "mossgreen/mossgreen.github.io",
-    "language": "CSS",
-    "name": "mossgreen/mossgreen.github.io",
-    "stars": 10,
-    "updated_at": "2026-09-05T08:08:14Z",
-    "url": "https://github.com/mossgreen/mossgreen.github.io"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-09-05T08:08:01Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-09-05T08:07:00Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 1,
-    "updated_at": "2026-09-05T08:06:59Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
   }
 ]
