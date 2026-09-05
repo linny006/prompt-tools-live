@@ -1,21 +1,183 @@
 [
   {
-    "description": "Bilingual (Arabic/English) evidence-based scientific library of 60+ AI cost-reduction techniques, classified by evidence",
-    "id": "faresrafat3/ai-cost-library",
-    "language": "Python",
-    "name": "faresrafat3/ai-cost-library",
-    "stars": 0,
-    "updated_at": "2026-09-05T05:29:24Z",
-    "url": "https://github.com/faresrafat3/ai-cost-library"
-  },
-  {
     "description": "GANFPU is a lightweight, local-only developer tool designed to standardize prompt engineering workflows. With multi-lang",
     "id": "f4sT357/Gen_Ai_Normalizer_For_Power_Users",
     "language": "JavaScript",
     "name": "f4sT357/Gen_Ai_Normalizer_For_Power_Users",
     "stars": 0,
-    "updated_at": "2026-09-05T05:29:14Z",
+    "updated_at": "2026-09-05T05:45:07Z",
     "url": "https://github.com/f4sT357/Gen_Ai_Normalizer_For_Power_Users"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-09-05T05:44:48Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Break complex tasks into self-propagating prompt chains across Claude sessions.",
+    "id": "1marcelserrano/prompt-chain",
+    "language": "Python",
+    "name": "1marcelserrano/prompt-chain",
+    "stars": 1,
+    "updated_at": "2026-09-05T05:44:14Z",
+    "url": "https://github.com/1marcelserrano/prompt-chain"
+  },
+  {
+    "description": "A local-only, human-in-the-loop copypaste agent for LLM workflows.",
+    "id": "SunYanbox/ManualAid-Rust",
+    "language": "Rust",
+    "name": "SunYanbox/ManualAid-Rust",
+    "stars": 1,
+    "updated_at": "2026-09-05T05:43:51Z",
+    "url": "https://github.com/SunYanbox/ManualAid-Rust"
+  },
+  {
+    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing s",
+    "id": "hermes-labs-ai/lintlang",
+    "language": "Python",
+    "name": "hermes-labs-ai/lintlang",
+    "stars": 63,
+    "updated_at": "2026-09-05T05:41:56Z",
+    "url": "https://github.com/hermes-labs-ai/lintlang"
+  },
+  {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "braboj/solid-ai-templates",
+    "language": "Python",
+    "name": "braboj/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-09-05T05:41:02Z",
+    "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 51,
+    "updated_at": "2026-09-05T05:41:25Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 2,
+    "updated_at": "2026-09-05T05:40:57Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 899,
+    "updated_at": "2026-09-05T05:40:49Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Segment-aware prompt compression lab: measures real token savings on YOUR text plus in-browser embedding fidelity. Day 1",
+    "id": "kbipul/prompt-compressor",
+    "language": "TypeScript",
+    "name": "kbipul/prompt-compressor",
+    "stars": 0,
+    "updated_at": "2026-09-05T05:39:55Z",
+    "url": "https://github.com/kbipul/prompt-compressor"
+  },
+  {
+    "description": "Production WhatsApp AI agent for a hardware store \u2014 5-layer RAG retrieval (pg_trgm fuzzy matching + OpenAI embeddings/pg",
+    "id": "Gus2708/whatsapp-agent",
+    "language": "JavaScript",
+    "name": "Gus2708/whatsapp-agent",
+    "stars": 0,
+    "updated_at": "2026-09-05T05:38:19Z",
+    "url": "https://github.com/Gus2708/whatsapp-agent"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 19,
+    "updated_at": "2026-09-05T05:37:03Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Web application for systematic prompt engineering and model evaluation",
+    "id": "illogical/LMEval",
+    "language": "TypeScript",
+    "name": "illogical/LMEval",
+    "stars": 0,
+    "updated_at": "2026-09-05T05:35:03Z",
+    "url": "https://github.com/illogical/LMEval"
+  },
+  {
+    "description": "Bilingual (Arabic/English) evidence-based scientific library of 60+ AI cost-reduction techniques, classified by evidence",
+    "id": "faresrafat3/ai-cost-library",
+    "language": "Python",
+    "name": "faresrafat3/ai-cost-library",
+    "stars": 0,
+    "updated_at": "2026-09-05T05:34:46Z",
+    "url": "https://github.com/faresrafat3/ai-cost-library"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3726,
+    "updated_at": "2026-09-05T05:34:24Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-05T05:33:59Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 10,
+    "updated_at": "2026-09-05T05:40:48Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 1,
+    "updated_at": "2026-09-05T05:32:52Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Research-backed, role-adaptive AI literacy platform \u2014 interactive modules on LLMs, prompt engineering, and responsible A",
+    "id": "Artem1bar/ai-literacy-app",
+    "language": "TypeScript",
+    "name": "Artem1bar/ai-literacy-app",
+    "stars": 0,
+    "updated_at": "2026-09-05T05:32:21Z",
+    "url": "https://github.com/Artem1bar/ai-literacy-app"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-05T05:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -34,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-09-05T05:27:50Z",
     "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
-    "description": "Production WhatsApp AI agent for a hardware store \u2014 5-layer RAG retrieval (pg_trgm fuzzy matching + OpenAI embeddings/pg",
-    "id": "Gus2708/whatsapp-agent",
-    "language": "JavaScript",
-    "name": "Gus2708/whatsapp-agent",
-    "stars": 0,
-    "updated_at": "2026-09-05T05:27:39Z",
-    "url": "https://github.com/Gus2708/whatsapp-agent"
   },
   {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
@@ -86,7 +239,7 @@
     "language": "Python",
     "name": "KbWen/agentic-os",
     "stars": 157,
-    "updated_at": "2026-09-05T05:24:41Z",
+    "updated_at": "2026-09-05T05:40:28Z",
     "url": "https://github.com/KbWen/agentic-os"
   },
   {
@@ -121,7 +274,7 @@
     "id": "Nanako0129/sepia",
     "language": "Python",
     "name": "Nanako0129/sepia",
-    "stars": 2112,
+    "stars": 2115,
     "updated_at": "2026-09-05T05:20:53Z",
     "url": "https://github.com/Nanako0129/sepia"
   },
@@ -153,24 +306,6 @@
     "url": "https://github.com/masini1491/ai-development-playbook"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-05T05:17:42Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-05T05:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
     "id": "hakodev2k/AI-Engineering",
     "language": "Python",
@@ -178,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T05:13:37Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 19,
-    "updated_at": "2026-09-05T05:12:47Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
     "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
@@ -322,131 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T05:06:36Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-09-05T05:06:32Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing s",
-    "id": "hermes-labs-ai/lintlang",
-    "language": "Python",
-    "name": "hermes-labs-ai/lintlang",
-    "stars": 63,
-    "updated_at": "2026-09-05T05:20:11Z",
-    "url": "https://github.com/hermes-labs-ai/lintlang"
-  },
-  {
-    "description": "A live AI wizard-council app + a reference implementation of MetaObjects: one metadata spine drives the DB schema, API t",
-    "id": "Draagon/wizardsofodd",
-    "language": "TypeScript",
-    "name": "Draagon/wizardsofodd",
-    "stars": 0,
-    "updated_at": "2026-09-05T05:08:34Z",
-    "url": "https://github.com/Draagon/wizardsofodd"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-09-05T05:04:16Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Cross-agent toolkit for prompts and coding-agent skills",
-    "id": "sungjunlee/craftkit",
-    "language": "JavaScript",
-    "name": "sungjunlee/craftkit",
-    "stars": 0,
-    "updated_at": "2026-09-05T05:02:57Z",
-    "url": "https://github.com/sungjunlee/craftkit"
-  },
-  {
-    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
-    "id": "saghosh8/AI-For-DevOps",
-    "language": "\u2014",
-    "name": "saghosh8/AI-For-DevOps",
-    "stars": 14,
-    "updated_at": "2026-09-05T05:00:54Z",
-    "url": "https://github.com/saghosh8/AI-For-DevOps"
-  },
-  {
-    "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
-    "id": "AmadeusITGroup/ai-primitives-hub",
-    "language": "TypeScript",
-    "name": "AmadeusITGroup/ai-primitives-hub",
-    "stars": 50,
-    "updated_at": "2026-09-05T05:30:18Z",
-    "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
-  },
-  {
-    "description": "Reusable AIGC creative skills for image, video, feedback, and music / \u9762\u5411\u56fe\u7247\u3001\u89c6\u9891\u3001\u53cd\u9988\u4e0e\u97f3\u4e50\u521b\u4f5c\u7684\u53ef\u590d\u7528 AIGC \u80fd\u529b\u5e93",
-    "id": "chenzhiyong1994/AIGC",
-    "language": "PowerShell",
-    "name": "chenzhiyong1994/AIGC",
-    "stars": 4,
-    "updated_at": "2026-09-05T04:56:38Z",
-    "url": "https://github.com/chenzhiyong1994/AIGC"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27817,
-    "updated_at": "2026-09-05T05:25:10Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "A local-only, human-in-the-loop copypaste agent for LLM workflows.",
-    "id": "SunYanbox/ManualAid-Rust",
-    "language": "Rust",
-    "name": "SunYanbox/ManualAid-Rust",
-    "stars": 1,
-    "updated_at": "2026-09-05T04:55:36Z",
-    "url": "https://github.com/SunYanbox/ManualAid-Rust"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 10,
-    "updated_at": "2026-09-05T05:20:15Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Portable, evolving context and workflow layer that works across Claude Code, Codex, Hermes Agent, OpenClaw, Cursor, Devi",
-    "id": "conorbronsdon/agent-context-os",
-    "language": "Python",
-    "name": "conorbronsdon/agent-context-os",
-    "stars": 22,
-    "updated_at": "2026-09-05T04:55:05Z",
-    "url": "https://github.com/conorbronsdon/agent-context-os"
-  },
-  {
-    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
-    "id": "thkt/dotclaude",
-    "language": "JavaScript",
-    "name": "thkt/dotclaude",
-    "stars": 12,
-    "updated_at": "2026-09-05T04:52:39Z",
-    "url": "https://github.com/thkt/dotclaude"
-  },
-  {
-    "description": "\u628a@\u5cf0\u54e5\u4ea1\u547d\u5929\u6daf \u7684 559 \u6761\u5fae\u535a + 2440 \u6761\u226530\u8d5e\u8bc4\u8bba\uff0c\u84b8\u998f\u6210\u53ef\u590d\u7528\u7684\u300c\u5cf0\u54e5\u8bed\u4f53\u5f15\u64ce\u300d\uff1a\u4e32\u5b50\u3001\u8e6d\u5b50\u3001\u88c5\u9893\u3001\u88ab\u770b\u7a7f\u7684\u81ea\u6211\u5439\u5618\u3002\u542b\u8bed\u6599\u7ba1\u9053(nodejs)\u3001\u7b5b\u9009\u811a\u672c\u3001\u7edf\u8ba1\u53e3\u5f84\u3002/ Distilling @fengge's Weibo",
-    "id": "MincongZhou/fengge-distill",
-    "language": "JavaScript",
-    "name": "MincongZhou/fengge-distill",
-    "stars": 0,
-    "updated_at": "2026-09-05T04:52:07Z",
-    "url": "https://github.com/MincongZhou/fengge-distill"
   }
 ]
