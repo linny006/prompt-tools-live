@@ -1,12 +1,66 @@
 [
   {
-    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-S",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "JavaScript",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 64195,
-    "updated_at": "2026-09-05T11:14:45Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 1,
+    "updated_at": "2026-09-05T11:29:31Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-09-05T11:29:01Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "Portable AI governance kit \u2014 handover, roadmap, freeze review. Inject into any repo with ok init",
+    "id": "aaronrene/overseer-kit",
+    "language": "Python",
+    "name": "aaronrene/overseer-kit",
+    "stars": 1,
+    "updated_at": "2026-09-05T11:28:49Z",
+    "url": "https://github.com/aaronrene/overseer-kit"
+  },
+  {
+    "description": "Self-hosted web sharing portal and snapshot viewer for PromptBranch (Next.js SSR & Docker deployment).",
+    "id": "PromptBranch/promptbranch-portal",
+    "language": "TypeScript",
+    "name": "PromptBranch/promptbranch-portal",
+    "stars": 0,
+    "updated_at": "2026-09-05T11:30:22Z",
+    "url": "https://github.com/PromptBranch/promptbranch-portal"
+  },
+  {
+    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 172,
+    "updated_at": "2026-09-05T11:27:07Z",
+    "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 59,
+    "updated_at": "2026-09-05T11:26:49Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 25,
+    "updated_at": "2026-09-05T11:25:45Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
   },
   {
     "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
@@ -14,8 +68,44 @@
     "language": "JavaScript",
     "name": "DaveHomeAssist/prompt-lab",
     "stars": 2,
-    "updated_at": "2026-09-05T11:14:43Z",
+    "updated_at": "2026-09-05T11:28:16Z",
     "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 30,
+    "updated_at": "2026-09-05T11:22:27Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-05T11:20:56Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-05T11:19:34Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "npm for prompts \u2014 publish versioned prompt templates, pull them into your code as typed functions",
+    "id": "sufleur/cli",
+    "language": "Go",
+    "name": "sufleur/cli",
+    "stars": 2,
+    "updated_at": "2026-09-05T11:18:30Z",
+    "url": "https://github.com/sufleur/cli"
   },
   {
     "description": "Your portable AI memory \u2014 preferences, decisions, and corrections that follow you across models, tools, and devices. Zer",
@@ -23,8 +113,35 @@
     "language": "Python",
     "name": "lulin70/carrymem",
     "stars": 5,
-    "updated_at": "2026-09-05T11:15:17Z",
+    "updated_at": "2026-09-05T11:17:39Z",
     "url": "https://github.com/lulin70/carrymem"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-05T11:17:31Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-05T11:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-S",
+    "id": "asgeirtj/system_prompts_leaks",
+    "language": "JavaScript",
+    "name": "asgeirtj/system_prompts_leaks",
+    "stars": 64197,
+    "updated_at": "2026-09-05T11:14:45Z",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
   {
     "description": "Enterprise LLM prompt regression testing, MCTS active optimization, token-level hallucination attribution, and guardrail",
@@ -63,6 +180,15 @@
     "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 903,
+    "updated_at": "2026-09-05T11:13:16Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
     "description": "Find what is wrong with the AI agent configuration your repository already has.",
     "id": "dennishavermans/agentfile",
     "language": "TypeScript",
@@ -86,7 +212,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34219,
-    "updated_at": "2026-09-05T11:10:11Z",
+    "updated_at": "2026-09-05T11:16:50Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -124,15 +250,6 @@
     "stars": 19,
     "updated_at": "2026-09-05T11:08:12Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
-    "id": "neopen/story-shot-agent",
-    "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 172,
-    "updated_at": "2026-09-05T11:06:47Z",
-    "url": "https://github.com/neopen/story-shot-agent"
   },
   {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
@@ -189,15 +306,6 @@
     "url": "https://github.com/bryancollins99/agent-skills"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-05T11:00:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Local-first prompt library and version-control system for AI prompts (Desktop App, CLI, MCP Server, and AI execution eng",
     "id": "PromptBranch/promptbranch",
     "language": "TypeScript",
@@ -243,24 +351,6 @@
     "url": "https://github.com/yapeepee/agent-harnesses"
   },
   {
-    "description": "Portable AI governance kit \u2014 handover, roadmap, freeze review. Inject into any repo with ok init",
-    "id": "aaronrene/overseer-kit",
-    "language": "Python",
-    "name": "aaronrene/overseer-kit",
-    "stars": 1,
-    "updated_at": "2026-09-05T11:04:35Z",
-    "url": "https://github.com/aaronrene/overseer-kit"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-05T10:52:13Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "Open-source prompt analyzer and optimizer for better AI interactions.",
     "id": "Bortechin/prismpt",
     "language": "TypeScript",
@@ -268,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T10:51:55Z",
     "url": "https://github.com/Bortechin/prismpt"
-  },
-  {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 1,
-    "updated_at": "2026-09-05T10:51:43Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
     "description": "Curated copy-paste AI prompts for student developers - disciplined workflows for coding agents that verify, don't guess",
@@ -295,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T10:48:23Z",
     "url": "https://github.com/Irene-Busah/llm-engineering-course"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-09-05T10:48:08Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T10:38:40Z",
     "url": "https://github.com/Foces-core/prompt-paradox-2"
-  },
-  {
-    "description": "Skills Governance Layer & Skill Methodology Engine for AI Coding Agents",
-    "id": "TidyFactor/skill-architect",
-    "language": "Python",
-    "name": "TidyFactor/skill-architect",
-    "stars": 3,
-    "updated_at": "2026-09-05T10:39:15Z",
-    "url": "https://github.com/TidyFactor/skill-architect"
-  },
-  {
-    "description": "An agent package and project manager, written in Rust.",
-    "id": "narumiruna/aru",
-    "language": "Rust",
-    "name": "narumiruna/aru",
-    "stars": 5,
-    "updated_at": "2026-09-05T10:36:44Z",
-    "url": "https://github.com/narumiruna/aru"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-09-05T10:36:21Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
-    "id": "tobiast5801/mdp-preflight",
-    "language": "\u2014",
-    "name": "tobiast5801/mdp-preflight",
-    "stars": 0,
-    "updated_at": "2026-09-05T10:36:10Z",
-    "url": "https://github.com/tobiast5801/mdp-preflight"
-  },
-  {
-    "description": "\u9700\u6c42\u6f84\u6e05\u4e0e\u610f\u56fe\u5bf9\u9f50\uff5cTurn rough ideas into clear, checkable requirements.",
-    "id": "bydtesla1609/intent-debugger",
-    "language": "Python",
-    "name": "bydtesla1609/intent-debugger",
-    "stars": 54,
-    "updated_at": "2026-09-05T10:34:36Z",
-    "url": "https://github.com/bydtesla1609/intent-debugger"
-  },
-  {
-    "description": "Build, version and distribute AI agent intelligence across your organization - one CLI, versioned Intelligence Packages,",
-    "id": "ainova-systems/intelligence",
-    "language": "Shell",
-    "name": "ainova-systems/intelligence",
-    "stars": 1,
-    "updated_at": "2026-09-05T10:36:19Z",
-    "url": "https://github.com/ainova-systems/intelligence"
-  },
-  {
-    "description": "Free AI agent that turns a month-end property management export into a plain-language owner update. Explains every line,",
-    "id": "Sokage-AI/owner-statement-agent",
-    "language": "Python",
-    "name": "Sokage-AI/owner-statement-agent",
-    "stars": 0,
-    "updated_at": "2026-09-05T10:32:51Z",
-    "url": "https://github.com/Sokage-AI/owner-statement-agent"
-  },
-  {
-    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
-    "id": "masini1491/ai-development-playbook",
-    "language": "Python",
-    "name": "masini1491/ai-development-playbook",
-    "stars": 4,
-    "updated_at": "2026-09-05T10:32:22Z",
-    "url": "https://github.com/masini1491/ai-development-playbook"
   }
 ]
