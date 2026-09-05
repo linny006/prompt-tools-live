@@ -1,5 +1,131 @@
 [
   {
+    "description": "A Claude Code plugin for orchestrating parallel AI agent quests with worktree isolation, phase gates, and context discip",
+    "id": "justinjdev/fellowship",
+    "language": "Go",
+    "name": "justinjdev/fellowship",
+    "stars": 5,
+    "updated_at": "2026-09-05T19:45:19Z",
+    "url": "https://github.com/justinjdev/fellowship"
+  },
+  {
+    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u7384\u5b66\u7b97\u547d\u5360\u535c\u5de5\u5177\u5305\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
+    "id": "Brhiza/mingyu",
+    "language": "TypeScript",
+    "name": "Brhiza/mingyu",
+    "stars": 390,
+    "updated_at": "2026-09-05T19:43:39Z",
+    "url": "https://github.com/Brhiza/mingyu"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-09-05T19:43:08Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "Vitruvius is an engineering research agent. ",
+    "id": "adeerkhan/vitruvius",
+    "language": "JavaScript",
+    "name": "adeerkhan/vitruvius",
+    "stars": 0,
+    "updated_at": "2026-09-05T19:42:43Z",
+    "url": "https://github.com/adeerkhan/vitruvius"
+  },
+  {
+    "description": "A free cross-platform editorial standard for AI writing.",
+    "id": "jposluns/cleanlanguage",
+    "language": "HTML",
+    "name": "jposluns/cleanlanguage",
+    "stars": 3,
+    "updated_at": "2026-09-05T19:40:47Z",
+    "url": "https://github.com/jposluns/cleanlanguage"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-09-05T19:40:26Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "A fork of Anthropic's skill-creator that fixes what the original got wrong: scripts Claude couldn't see, thin trigger te",
+    "id": "rolling-codes/-the-better-skill-creator-skill-",
+    "language": "Python",
+    "name": "rolling-codes/-the-better-skill-creator-skill-",
+    "stars": 2,
+    "updated_at": "2026-09-05T19:39:49Z",
+    "url": "https://github.com/rolling-codes/-the-better-skill-creator-skill-"
+  },
+  {
+    "description": "\ud83d\udc85 A pipeline for producing style-locked image-generation prompts",
+    "id": "funsaized/lith",
+    "language": "Python",
+    "name": "funsaized/lith",
+    "stars": 2,
+    "updated_at": "2026-09-05T19:36:07Z",
+    "url": "https://github.com/funsaized/lith"
+  },
+  {
+    "description": "103 curated GPT-6 Astra prompts & 3D examples for games, Blender scenes and interactive worlds. 14 languages, source lin",
+    "id": "TripoGrowthLab/awesome-astra-prompts",
+    "language": "JavaScript",
+    "name": "TripoGrowthLab/awesome-astra-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-05T19:33:31Z",
+    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+  },
+  {
+    "description": "\ubc1c\ud45c\uc790\ub8cc\u00b7\ub2e4\uc774\uc5b4\uadf8\ub7a8\u00b7\uc9c0\ub3c4\u00b7\ud64d\ubcf4 \uc774\ubbf8\uc9c0\u00b7\ub77c\ubca8\u00b7QR\uc744 \uc704\ud55c \uc0dd\uc131\ud615 AI \ud504\ub86c\ud504\ud2b8 \uc124\uacc4 \uc6cc\ud06c\uc2a4\ud398\uc774\uc2a4",
+    "id": "Namer-kimhyojin/ppt_prompt",
+    "language": "JavaScript",
+    "name": "Namer-kimhyojin/ppt_prompt",
+    "stars": 0,
+    "updated_at": "2026-09-05T19:32:47Z",
+    "url": "https://github.com/Namer-kimhyojin/ppt_prompt"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-05T19:32:42Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 2,
+    "updated_at": "2026-09-05T19:31:48Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
+    "id": "smsheik1/wiggly",
+    "language": "TypeScript",
+    "name": "smsheik1/wiggly",
+    "stars": 1,
+    "updated_at": "2026-09-05T19:30:33Z",
+    "url": "https://github.com/smsheik1/wiggly"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-05T19:30:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Local-first AI job-prep tool: turn collected JDs into requirement maps and learning paths, then practice with a note-gro",
     "id": "lemma42796/job-copilot",
     "language": "Python",
@@ -23,7 +149,7 @@
     "language": "Python",
     "name": "sergeeey/Claude-cod-top-2026",
     "stars": 7,
-    "updated_at": "2026-09-05T19:22:35Z",
+    "updated_at": "2026-09-05T19:33:54Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
@@ -36,13 +162,13 @@
     "url": "https://github.com/delphisecurity/xaidr"
   },
   {
-    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
-    "id": "smsheik1/wiggly",
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "smsheik1/wiggly",
-    "stars": 1,
-    "updated_at": "2026-09-05T19:25:27Z",
-    "url": "https://github.com/smsheik1/wiggly"
+    "name": "langfuse/langfuse",
+    "stars": 34231,
+    "updated_at": "2026-09-05T19:20:33Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Agent Package Manager",
@@ -63,13 +189,13 @@
     "url": "https://github.com/lparfieniuk/context-forge"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-05T19:16:48Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+    "id": "Spielewoy/autoprompt-skill",
+    "language": "JavaScript",
+    "name": "Spielewoy/autoprompt-skill",
+    "stars": 994,
+    "updated_at": "2026-09-05T19:19:01Z",
+    "url": "https://github.com/Spielewoy/autoprompt-skill"
   },
   {
     "description": "Version identity and integrity verification for Agent Skills. Tracks versions, detects staleness, and verifies bundle in",
@@ -99,15 +225,6 @@
     "url": "https://github.com/vijayptiwari/agent-engineering-framework"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-05T19:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Local-first AI coding workflow for vibe coders, indie hackers, technical founders and product managers \u2014 catch missing t",
     "id": "hi0001234d/nexpath",
     "language": "TypeScript",
@@ -135,15 +252,6 @@
     "url": "https://github.com/jtplugin/sol"
   },
   {
-    "description": "A Claude Code plugin for orchestrating parallel AI agent quests with worktree isolation, phase gates, and context discip",
-    "id": "justinjdev/fellowship",
-    "language": "Go",
-    "name": "justinjdev/fellowship",
-    "stars": 5,
-    "updated_at": "2026-09-05T19:10:18Z",
-    "url": "https://github.com/justinjdev/fellowship"
-  },
-  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -158,7 +266,7 @@
     "language": "TypeScript",
     "name": "PromptBranch/promptbranch",
     "stars": 2,
-    "updated_at": "2026-09-05T19:07:15Z",
+    "updated_at": "2026-09-05T19:37:32Z",
     "url": "https://github.com/PromptBranch/promptbranch"
   },
   {
@@ -196,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T19:05:04Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "A fork of Anthropic's skill-creator that fixes what the original got wrong: scripts Claude couldn't see, thin trigger te",
-    "id": "rolling-codes/-the-better-skill-creator-skill-",
-    "language": "Python",
-    "name": "rolling-codes/-the-better-skill-creator-skill-",
-    "stars": 2,
-    "updated_at": "2026-09-05T19:23:08Z",
-    "url": "https://github.com/rolling-codes/-the-better-skill-creator-skill-"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -268,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T19:01:43Z",
     "url": "https://github.com/agmonetti/disambiguator"
-  },
-  {
-    "description": "\ubc1c\ud45c\uc790\ub8cc\u00b7\ub2e4\uc774\uc5b4\uadf8\ub7a8\u00b7\uc9c0\ub3c4\u00b7\ud64d\ubcf4 \uc774\ubbf8\uc9c0\u00b7\ub77c\ubca8\u00b7QR\uc744 \uc704\ud55c \uc0dd\uc131\ud615 AI \ud504\ub86c\ud504\ud2b8 \uc124\uacc4 \uc6cc\ud06c\uc2a4\ud398\uc774\uc2a4",
-    "id": "Namer-kimhyojin/ppt_prompt",
-    "language": "JavaScript",
-    "name": "Namer-kimhyojin/ppt_prompt",
-    "stars": 0,
-    "updated_at": "2026-09-05T19:01:38Z",
-    "url": "https://github.com/Namer-kimhyojin/ppt_prompt"
   },
   {
     "description": "\u65e0\u6781\u519b\u56e2 3.0\uff1a\u9762\u5411 Codex \u7684\u667a\u80fd\u5de5\u4f5c\u4e2d\u67a2\u3002\u4ee5\u81ea\u7136\u8bed\u8a00\u7ec4\u7ec7 Skill\u3001\u63d2\u4ef6\u4e0e MCP\uff0c\u4fdd\u7559\u767d\u5e3d\u5224\u65ad\u3001\u6709\u754c\u6267\u884c\u4e0e\u8bc1\u636e\u9a71\u52a8\u8fdb\u5316\u3002\u516c\u5f00\u5f00\u53d1\u4e2d\u3002",
@@ -358,95 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-05T18:55:59Z",
     "url": "https://github.com/mory-dev/sudonotes"
-  },
-  {
-    "description": "Write your AI coding setup once, run it in every tool. One source of truth \u2014 149 commands, 88 agents, 116 skills, 23 rol",
-    "id": "adnanmokhtar/refract",
-    "language": "Shell",
-    "name": "adnanmokhtar/refract",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:55:06Z",
-    "url": "https://github.com/adnanmokhtar/refract"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:54:36Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 125,
-    "updated_at": "2026-09-05T18:54:29Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 121,
-    "updated_at": "2026-09-05T18:54:07Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Outline-Driven Development - opinionated methodology between vibes and specs. AST tooling + context engineering + loop e",
-    "id": "OutlineDriven/outline-driven-development",
-    "language": "Python",
-    "name": "OutlineDriven/outline-driven-development",
-    "stars": 52,
-    "updated_at": "2026-09-05T18:53:19Z",
-    "url": "https://github.com/OutlineDriven/outline-driven-development"
-  },
-  {
-    "description": "A durable Python harness for agents that act on real systems.",
-    "id": "vanamayaswanth/tvastar",
-    "language": "Python",
-    "name": "vanamayaswanth/tvastar",
-    "stars": 2,
-    "updated_at": "2026-09-05T18:53:47Z",
-    "url": "https://github.com/vanamayaswanth/tvastar"
-  },
-  {
-    "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
-    "id": "ekayaprod/jules-agent-roster",
-    "language": "JavaScript",
-    "name": "ekayaprod/jules-agent-roster",
-    "stars": 3,
-    "updated_at": "2026-09-05T18:52:19Z",
-    "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:51:01Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 118,
-    "updated_at": "2026-09-05T18:50:18Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "aigent-OS gives Claude Code fully autonomous memory and context management. It remembers across sessions, checkpoints it",
-    "id": "wrg32786/aigent-os",
-    "language": "JavaScript",
-    "name": "wrg32786/aigent-os",
-    "stars": 18,
-    "updated_at": "2026-09-05T19:11:08Z",
-    "url": "https://github.com/wrg32786/aigent-os"
   }
 ]
