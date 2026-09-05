@@ -1,5 +1,41 @@
 [
   {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-09-05T05:00:09Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
+    "id": "AmadeusITGroup/ai-primitives-hub",
+    "language": "TypeScript",
+    "name": "AmadeusITGroup/ai-primitives-hub",
+    "stars": 50,
+    "updated_at": "2026-09-05T04:59:58Z",
+    "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
+  },
+  {
+    "description": "A 21-day hands-on journey to mastering AI for DevOps \u2014 covering LLMs, GenAI, CI/CD, Kubernetes, cloud, automation, and A",
+    "id": "saghosh8/AI-For-DevOps",
+    "language": "\u2014",
+    "name": "saghosh8/AI-For-DevOps",
+    "stars": 14,
+    "updated_at": "2026-09-05T04:59:36Z",
+    "url": "https://github.com/saghosh8/AI-For-DevOps"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-05T04:59:08Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Reusable AIGC creative skills for image, video, feedback, and music / \u9762\u5411\u56fe\u7247\u3001\u89c6\u9891\u3001\u53cd\u9988\u4e0e\u97f3\u4e50\u521b\u4f5c\u7684\u53ef\u590d\u7528 AIGC \u80fd\u529b\u5e93",
     "id": "chenzhiyong1994/AIGC",
     "language": "PowerShell",
@@ -81,15 +117,6 @@
     "url": "https://github.com/hermes-labs-ai/lintlang"
   },
   {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "TypeScript",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 4,
-    "updated_at": "2026-09-05T04:49:40Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
     "description": "Personalize any AI with dynamic instructions. One profile, one rule source, rendered for Claude, Codex, Cursor, Gemini a",
     "id": "aunysillyme/agent-personalizer",
     "language": "JavaScript",
@@ -104,7 +131,7 @@
     "language": "JavaScript",
     "name": "devswha/patina",
     "stars": 345,
-    "updated_at": "2026-09-05T04:48:06Z",
+    "updated_at": "2026-09-05T05:00:19Z",
     "url": "https://github.com/devswha/patina"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T04:46:18Z",
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-05T04:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Refine any text, in the moment, in any app. Select text, hit a hotkey, get it sharpened and pasted back, prompts, emails",
@@ -187,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T04:40:45Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
-    "id": "AmadeusITGroup/ai-primitives-hub",
-    "language": "TypeScript",
-    "name": "AmadeusITGroup/ai-primitives-hub",
-    "stars": 50,
-    "updated_at": "2026-09-05T04:47:36Z",
-    "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
   },
   {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-05T04:16:41Z",
     "url": "https://github.com/ichangyou/mf-ai-skills"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-09-05T04:15:40Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   }
 ]
