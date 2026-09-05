@@ -1,12 +1,111 @@
 [
   {
+    "description": "Local-first AI job-prep tool: turn collected JDs into requirement maps and learning paths, then practice with a note-gro",
+    "id": "lemma42796/job-copilot",
+    "language": "Python",
+    "name": "lemma42796/job-copilot",
+    "stars": 2,
+    "updated_at": "2026-09-05T19:27:12Z",
+    "url": "https://github.com/lemma42796/job-copilot"
+  },
+  {
+    "description": "A CLI tool and Python library for optimizing LLM prompts through systematic testing, version control, and performance me",
+    "id": "Lanier-Developments/prompt-optimizer",
+    "language": "Python",
+    "name": "Lanier-Developments/prompt-optimizer",
+    "stars": 0,
+    "updated_at": "2026-09-05T19:25:23Z",
+    "url": "https://github.com/Lanier-Developments/prompt-optimizer"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-09-05T19:22:35Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "Runtime security for AI agents. In-process, zero dependencies, Apache 2.0.",
+    "id": "delphisecurity/xaidr",
+    "language": "Python",
+    "name": "delphisecurity/xaidr",
+    "stars": 26,
+    "updated_at": "2026-09-05T19:22:20Z",
+    "url": "https://github.com/delphisecurity/xaidr"
+  },
+  {
+    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
+    "id": "smsheik1/wiggly",
+    "language": "TypeScript",
+    "name": "smsheik1/wiggly",
+    "stars": 1,
+    "updated_at": "2026-09-05T19:25:27Z",
+    "url": "https://github.com/smsheik1/wiggly"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3733,
+    "updated_at": "2026-09-05T19:19:47Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Deterministic context engineering for AI coding agents \u2014 structure over search, tokens over brute force. Claude Code / C",
+    "id": "lparfieniuk/context-forge",
+    "language": "Shell",
+    "name": "lparfieniuk/context-forge",
+    "stars": 0,
+    "updated_at": "2026-09-05T19:21:53Z",
+    "url": "https://github.com/lparfieniuk/context-forge"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-05T19:16:48Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Version identity and integrity verification for Agent Skills. Tracks versions, detects staleness, and verifies bundle in",
+    "id": "snapsynapse/skill-provenance",
+    "language": "HTML",
+    "name": "snapsynapse/skill-provenance",
+    "stars": 7,
+    "updated_at": "2026-09-05T19:18:19Z",
+    "url": "https://github.com/snapsynapse/skill-provenance"
+  },
+  {
     "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments tha",
     "id": "sergebulaev/linkedin-skills",
     "language": "Python",
     "name": "sergebulaev/linkedin-skills",
-    "stars": 1035,
-    "updated_at": "2026-09-05T19:14:42Z",
+    "stars": 1041,
+    "updated_at": "2026-09-05T19:15:44Z",
     "url": "https://github.com/sergebulaev/linkedin-skills"
+  },
+  {
+    "description": "The 10 Pillars of Production Agent Engineering \u2014 open practitioner framework with white paper, readiness rubric, and des",
+    "id": "vijayptiwari/agent-engineering-framework",
+    "language": "\u2014",
+    "name": "vijayptiwari/agent-engineering-framework",
+    "stars": 0,
+    "updated_at": "2026-09-05T19:15:32Z",
+    "url": "https://github.com/vijayptiwari/agent-engineering-framework"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-05T19:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local-first AI coding workflow for vibe coders, indie hackers, technical founders and product managers \u2014 catch missing t",
@@ -43,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-09-05T19:10:18Z",
     "url": "https://github.com/justinjdev/fellowship"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-05T19:08:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
@@ -113,7 +203,7 @@
     "language": "Python",
     "name": "rolling-codes/-the-better-skill-creator-skill-",
     "stars": 2,
-    "updated_at": "2026-09-05T19:04:58Z",
+    "updated_at": "2026-09-05T19:23:08Z",
     "url": "https://github.com/rolling-codes/-the-better-skill-creator-skill-"
   },
   {
@@ -306,15 +396,6 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:53:52Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "Outline-Driven Development - opinionated methodology between vibes and specs. AST tooling + context engineering + loop e",
     "id": "OutlineDriven/outline-driven-development",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 18,
     "updated_at": "2026-09-05T19:11:08Z",
     "url": "https://github.com/wrg32786/aigent-os"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-09-05T18:49:03Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "kanithanj.ai \u2014 Tauri heading cockpit: live fit/prep, SQLite ledger, next-act map",
-    "id": "p10ns11y/collab-finder",
-    "language": "Rust",
-    "name": "p10ns11y/collab-finder",
-    "stars": 2,
-    "updated_at": "2026-09-05T18:47:56Z",
-    "url": "https://github.com/p10ns11y/collab-finder"
-  },
-  {
-    "description": "LLM Prompt Studio for image, 3D, video, and audio models",
-    "id": "doodersrage/llm-prompt-studio",
-    "language": "TypeScript",
-    "name": "doodersrage/llm-prompt-studio",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:47:02Z",
-    "url": "https://github.com/doodersrage/llm-prompt-studio"
-  },
-  {
-    "description": "Seven Claude Code skills that stop an LLM agent asserting what it has not measured. Each born from a dated production in",
-    "id": "AAAA-Coalition/claude-code-discipline-skills",
-    "language": "\u2014",
-    "name": "AAAA-Coalition/claude-code-discipline-skills",
-    "stars": 0,
-    "updated_at": "2026-09-05T18:46:33Z",
-    "url": "https://github.com/AAAA-Coalition/claude-code-discipline-skills"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-09-05T18:45:05Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "AI-powered knowledge and productivity assistant with Smart Prompt Engineering, RAG-based PDF assistance, conversation me",
-    "id": "swathiajay/CognitiveNexus",
-    "language": "Python",
-    "name": "swathiajay/CognitiveNexus",
-    "stars": 0,
-    "updated_at": "2026-09-05T18:44:41Z",
-    "url": "https://github.com/swathiajay/CognitiveNexus"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-09-05T18:44:22Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:44:09Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
-    "id": "BootBlock/SpriteGubbins",
-    "language": "TypeScript",
-    "name": "BootBlock/SpriteGubbins",
-    "stars": 0,
-    "updated_at": "2026-09-05T18:44:00Z",
-    "url": "https://github.com/BootBlock/SpriteGubbins"
   }
 ]
