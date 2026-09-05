@@ -1,11 +1,110 @@
 [
   {
+    "description": "\u9762\u5411 Claude Code / Codex \u7684\u8bbe\u8ba1 Skill\uff1a\u628a\u300a\u660e\u65e5\u65b9\u821f\uff1a\u7ec8\u672b\u5730\u300b\u7684\u89c6\u89c9\u8bed\u8a00\u63d0\u70bc\u6210\u53ef\u5224\u65ad\u3001\u53ef\u9a8c\u8bc1\u7684\u8bbe\u8ba1\u65b9\u6cd5",
+    "id": "Statrue/endfield-design-skill",
+    "language": "\u2014",
+    "name": "Statrue/endfield-design-skill",
+    "stars": 1,
+    "updated_at": "2026-09-05T02:27:36Z",
+    "url": "https://github.com/Statrue/endfield-design-skill"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7131,
+    "updated_at": "2026-09-05T02:25:20Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "Persona Control Language (PCL)",
+    "id": "personamanagmentlayer/pcl",
+    "language": "TypeScript",
+    "name": "personamanagmentlayer/pcl",
+    "stars": 41,
+    "updated_at": "2026-09-05T02:25:15Z",
+    "url": "https://github.com/personamanagmentlayer/pcl"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 212,
+    "updated_at": "2026-09-05T02:23:08Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "Bilingual (Arabic/English) evidence-based scientific library of 60+ AI cost-reduction techniques, classified by evidence",
+    "id": "faresrafat3/ai-cost-library",
+    "language": "Python",
+    "name": "faresrafat3/ai-cost-library",
+    "stars": 0,
+    "updated_at": "2026-09-05T02:22:08Z",
+    "url": "https://github.com/faresrafat3/ai-cost-library"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-05T02:21:03Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "A ready-made .claude/ kit for Claude Code: 16 skills, 5 subagents, 4 slash commands, MCP server configs and multi-agent ",
+    "id": "mateusands/claude-code-crew-kit",
+    "language": "JavaScript",
+    "name": "mateusands/claude-code-crew-kit",
+    "stars": 0,
+    "updated_at": "2026-09-05T02:21:09Z",
+    "url": "https://github.com/mateusands/claude-code-crew-kit"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-05T02:18:58Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "\ud83e\ude92 Stops Claude from adding code nobody needed. A Claude Code plugin: one check before every new package, file or abstrac",
+    "id": "V-Songbird/razor",
+    "language": "JavaScript",
+    "name": "V-Songbird/razor",
+    "stars": 8,
+    "updated_at": "2026-09-05T02:18:49Z",
+    "url": "https://github.com/V-Songbird/razor"
+  },
+  {
+    "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+    "id": "majiayu000/spellbook",
+    "language": "Python",
+    "name": "majiayu000/spellbook",
+    "stars": 265,
+    "updated_at": "2026-09-05T02:17:25Z",
+    "url": "https://github.com/majiayu000/spellbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-05T02:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27816,
-    "updated_at": "2026-09-05T02:11:48Z",
+    "updated_at": "2026-09-05T02:28:00Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -23,26 +122,8 @@
     "language": "JavaScript",
     "name": "conorbronsdon/avoid-ai-writing",
     "stars": 4103,
-    "updated_at": "2026-09-05T02:10:34Z",
+    "updated_at": "2026-09-05T02:30:28Z",
     "url": "https://github.com/conorbronsdon/avoid-ai-writing"
-  },
-  {
-    "description": "Bilingual (Arabic/English) evidence-based scientific library of 60+ AI cost-reduction techniques, classified by evidence",
-    "id": "faresrafat3/ai-cost-library",
-    "language": "Python",
-    "name": "faresrafat3/ai-cost-library",
-    "stars": 0,
-    "updated_at": "2026-09-05T02:09:55Z",
-    "url": "https://github.com/faresrafat3/ai-cost-library"
-  },
-  {
-    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
-    "id": "EvoMap/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "EvoMap/awesome-agent-evolution",
-    "stars": 212,
-    "updated_at": "2026-09-05T02:09:29Z",
-    "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
     "description": "claude-router is a local prompt router that picks the right Claude model tier and prepends the right scaffold using loca",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T02:08:58Z",
     "url": "https://github.com/hermes-labs-ai/claude-router"
-  },
-  {
-    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-    "id": "kyegomez/swarms",
-    "language": "Python",
-    "name": "kyegomez/swarms",
-    "stars": 7131,
-    "updated_at": "2026-09-05T02:07:59Z",
-    "url": "https://github.com/kyegomez/swarms"
   },
   {
     "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing s",
@@ -153,15 +225,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "Persona Control Language (PCL)",
-    "id": "personamanagmentlayer/pcl",
-    "language": "TypeScript",
-    "name": "personamanagmentlayer/pcl",
-    "stars": 41,
-    "updated_at": "2026-09-05T02:02:02Z",
-    "url": "https://github.com/personamanagmentlayer/pcl"
-  },
-  {
     "description": "CLI tool for comparing prompt variants and models",
     "id": "amro/evaling",
     "language": "Python",
@@ -169,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T02:06:43Z",
     "url": "https://github.com/amro/evaling"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-05T02:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Index of 20 prompt/logic/flow + Mermaid graph extractions: LATS, ToT, CoT, Reflexion, Self-Refine, Voyager, STORM, Meta-",
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 3726,
-    "updated_at": "2026-09-05T02:13:58Z",
+    "updated_at": "2026-09-05T02:28:00Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -241,15 +295,6 @@
     "stars": 9748,
     "updated_at": "2026-09-05T01:52:25Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-05T01:52:18Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Local-first tool that strips emails, secrets, paths, and other identifying content out of your prompts before they reach",
@@ -293,7 +338,7 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 19,
-    "updated_at": "2026-09-05T01:49:38Z",
+    "updated_at": "2026-09-05T02:28:03Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-05T01:36:20Z",
     "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 25,
-    "updated_at": "2026-09-05T01:35:34Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "Fifty evidence-forged skills for directing AI coding agents\u2014organized by outcome, backed by executable gates, and indepe",
-    "id": "Island-Dev-Crew/uncle-bob-skills",
-    "language": "Python",
-    "name": "Island-Dev-Crew/uncle-bob-skills",
-    "stars": 1,
-    "updated_at": "2026-09-05T01:35:11Z",
-    "url": "https://github.com/Island-Dev-Crew/uncle-bob-skills"
-  },
-  {
-    "description": "AI-writing humanizer for KO/EN/ZH/JA",
-    "id": "devswha/patina",
-    "language": "JavaScript",
-    "name": "devswha/patina",
-    "stars": 344,
-    "updated_at": "2026-09-05T02:12:20Z",
-    "url": "https://github.com/devswha/patina"
-  },
-  {
-    "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
-    "id": "AmadeusITGroup/ai-primitives-hub",
-    "language": "TypeScript",
-    "name": "AmadeusITGroup/ai-primitives-hub",
-    "stars": 50,
-    "updated_at": "2026-09-05T02:13:38Z",
-    "url": "https://github.com/AmadeusITGroup/ai-primitives-hub"
-  },
-  {
-    "description": "Audit and optimize your Claude Code config for context efficiency. Measures what the diet bought you in working hours, n",
-    "id": "leonardocandiani/claude-optimizer",
-    "language": "JavaScript",
-    "name": "leonardocandiani/claude-optimizer",
-    "stars": 0,
-    "updated_at": "2026-09-05T01:32:49Z",
-    "url": "https://github.com/leonardocandiani/claude-optimizer"
   }
 ]
