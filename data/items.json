@@ -1,12 +1,66 @@
 [
   {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 49,
+    "updated_at": "2026-09-05T15:14:38Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Local-first prompt library and version-control system for AI prompts (Desktop App, CLI, MCP Server, and AI execution eng",
+    "id": "PromptBranch/promptbranch",
+    "language": "TypeScript",
+    "name": "PromptBranch/promptbranch",
+    "stars": 2,
+    "updated_at": "2026-09-05T15:14:11Z",
+    "url": "https://github.com/PromptBranch/promptbranch"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:13:57Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, a",
+    "id": "alivirgo/Major-AI-Skills",
     "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "name": "alivirgo/Major-AI-Skills",
     "stars": 1,
-    "updated_at": "2026-09-05T15:07:38Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+    "updated_at": "2026-09-05T15:13:48Z",
+    "url": "https://github.com/alivirgo/Major-AI-Skills"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-09-05T15:12:48Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Professional writing skills for AI coding agents: anti-slop editing and technical content writing. Claude Code + Codex p",
+    "id": "Kaos599/professional-skills",
+    "language": "Python",
+    "name": "Kaos599/professional-skills",
+    "stars": 3,
+    "updated_at": "2026-09-05T15:11:14Z",
+    "url": "https://github.com/Kaos599/professional-skills"
+  },
+  {
+    "description": "Multilingual AI workspace + MCP server for prompt workflows, model comparison, speech-to-text, language detection, trans",
+    "id": "hmoses/poly-glot-ai-workspace",
+    "language": "JavaScript",
+    "name": "hmoses/poly-glot-ai-workspace",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:11:01Z",
+    "url": "https://github.com/hmoses/poly-glot-ai-workspace"
   },
   {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
@@ -14,8 +68,125 @@
     "language": "Python",
     "name": "hakodev2k/AI-Engineering",
     "stars": 1,
-    "updated_at": "2026-09-05T15:07:32Z",
+    "updated_at": "2026-09-05T15:10:48Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "AI dan Claude Code untuk Praktik Game Design \u2014 Indonesian edition of the Korean original (CC BY-NC-SA 4.0, original ISBN",
+    "id": "eremes81/game-design-ai-practice-id",
+    "language": "HTML",
+    "name": "eremes81/game-design-ai-practice-id",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:09:57Z",
+    "url": "https://github.com/eremes81/game-design-ai-practice-id"
+  },
+  {
+    "description": "AI \u00b7 Claude Code \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e07\u0e32\u0e19\u0e2d\u0e2d\u0e01\u0e41\u0e1a\u0e1a\u0e40\u0e01\u0e21\u0e43\u0e19\u0e17\u0e32\u0e07\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34 \u2014 Thai edition of the Korean original (CC BY-NC-SA 4.0, original ISBN 97",
+    "id": "eremes81/game-design-ai-practice-th",
+    "language": "HTML",
+    "name": "eremes81/game-design-ai-practice-th",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:09:54Z",
+    "url": "https://github.com/eremes81/game-design-ai-practice-th"
+  },
+  {
+    "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+    "id": "DenisSergeevitch/agents-best-practices",
+    "language": "\u2014",
+    "name": "DenisSergeevitch/agents-best-practices",
+    "stars": 2273,
+    "updated_at": "2026-09-05T15:09:54Z",
+    "url": "https://github.com/DenisSergeevitch/agents-best-practices"
+  },
+  {
+    "description": "\u30b2\u30fc\u30e0\u30d7\u30e9\u30f3\u30ca\u30fc\u306e\u305f\u3081\u306e AI \u5b9f\u52d9\u30ef\u30fc\u30af\u30d5\u30ed\u30fc - \u4f5c\u308a\u8a71\u306e\u6570\u5b57\u306f\u3072\u3068\u3064\u3082\u306a\u3044\u3002\u97d3\u56fd\u8a9e\u539f\u66f8\u306e\u65e5\u672c\u8a9e\u7248 (CC BY-NC-SA 4.0, \u539f\u66f8ISBN 979-11-12-21479-9)",
+    "id": "eremes81/game-design-ai-practice-ja",
+    "language": "HTML",
+    "name": "eremes81/game-design-ai-practice-ja",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:09:36Z",
+    "url": "https://github.com/eremes81/game-design-ai-practice-ja"
+  },
+  {
+    "description": "Free book: AI Workflow for Game Designers \u2014 No Fabricated Numbers. Full text free in this repo (CC BY-NC-SA). English ed",
+    "id": "eremes81/game-design-ai-practice-en",
+    "language": "HTML",
+    "name": "eremes81/game-design-ai-practice-en",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:09:34Z",
+    "url": "https://github.com/eremes81/game-design-ai-practice-en"
+  },
+  {
+    "description": "\uac8c\uc784 \uae30\ud68d \uc2e4\ubb34\uc5d0\uc11c \ubc14\ub85c \uc4f0\ub294 AI\u00b7\ud074\ub85c\ub4dc \ucf54\ub4dc \ud65c\uc6a9\ubc95 \u2014 \ud55c\uad6d\uc5b4\ud310 \uc6d0\uace0 (CC BY-NC-SA 4.0 \u00b7 \ubd80\ud06c\ud06c ISBN 979-11-12-21479-9)",
+    "id": "eremes81/game-design-ai-practice",
+    "language": "HTML",
+    "name": "eremes81/game-design-ai-practice",
+    "stars": 3,
+    "updated_at": "2026-09-05T15:09:32Z",
+    "url": "https://github.com/eremes81/game-design-ai-practice"
+  },
+  {
+    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
+    "id": "smsheik1/wiggly",
+    "language": "TypeScript",
+    "name": "smsheik1/wiggly",
+    "stars": 1,
+    "updated_at": "2026-09-05T15:09:27Z",
+    "url": "https://github.com/smsheik1/wiggly"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 909,
+    "updated_at": "2026-09-05T15:09:23Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "A hands-on journey into Generative AI and LLM Engineering \u2014 covering frontier and open-source models, RAG, agents, multi",
+    "id": "Irene-Busah/llm-engineering-course",
+    "language": "Jupyter Notebook",
+    "name": "Irene-Busah/llm-engineering-course",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:09:04Z",
+    "url": "https://github.com/Irene-Busah/llm-engineering-course"
+  },
+  {
+    "description": "Open-source evaluation control plane for AI agents: versioned datasets, scorers, experiments, traces, budgets, and risk-",
+    "id": "intelligent-iterations/ii-llm-lab",
+    "language": "TypeScript",
+    "name": "intelligent-iterations/ii-llm-lab",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:08:40Z",
+    "url": "https://github.com/intelligent-iterations/ii-llm-lab"
+  },
+  {
+    "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-09-05T15:08:06Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-05T15:07:51Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-09-05T15:07:38Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
     "description": "VS Code extension for managing, sharing, and installing AI primitives (Agents, Skills, Prompts, Instructions, MCP) colle",
@@ -54,15 +225,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
   },
   {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-09-05T15:02:35Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -88,24 +250,6 @@
     "stars": 4,
     "updated_at": "2026-09-05T15:00:41Z",
     "url": "https://github.com/MarieLynneBlock/arcanum-artifex"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-05T15:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Multilingual AI workspace + MCP server for prompt workflows, model comparison, speech-to-text, language detection, trans",
-    "id": "hmoses/poly-glot-ai-workspace",
-    "language": "JavaScript",
-    "name": "hmoses/poly-glot-ai-workspace",
-    "stars": 0,
-    "updated_at": "2026-09-05T14:58:15Z",
-    "url": "https://github.com/hmoses/poly-glot-ai-workspace"
   },
   {
     "description": "AI\u6a21\u578b\u8bc4\u6d4b\u5168\u6d41\u7a0bSkill - 7\u6b65\u6d41\u7a0b\u5e26\u4f60\u4ece\u5b9a\u76ee\u6807\u5230\u51fa\u62a5\u544a\uff0c\u9002\u7528\u4e8e\u5927\u6a21\u578b\u9009\u578b\u3001\u4ea7\u54c1\u8fed\u4ee3\u6548\u679c\u9a8c\u8bc1\u7b49\u573a\u666f",
@@ -193,18 +337,9 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 46405,
-    "updated_at": "2026-09-05T14:52:06Z",
+    "stars": 46406,
+    "updated_at": "2026-09-05T15:14:49Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "Open-source evaluation control plane for AI agents: versioned datasets, scorers, experiments, traces, budgets, and risk-",
-    "id": "intelligent-iterations/ii-llm-lab",
-    "language": "TypeScript",
-    "name": "intelligent-iterations/ii-llm-lab",
-    "stars": 0,
-    "updated_at": "2026-09-05T15:05:58Z",
-    "url": "https://github.com/intelligent-iterations/ii-llm-lab"
   },
   {
     "description": "Classifies public defense news into category, operational domain, and region. Human-graded gold at v3.2.1: 94.4% / 98.1%",
@@ -223,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T14:46:45Z",
     "url": "https://github.com/imhamzakhan/context-flow-compressor"
-  },
-  {
-    "description": "A hands-on journey into Generative AI and LLM Engineering \u2014 covering frontier and open-source models, RAG, agents, multi",
-    "id": "Irene-Busah/llm-engineering-course",
-    "language": "Jupyter Notebook",
-    "name": "Irene-Busah/llm-engineering-course",
-    "stars": 0,
-    "updated_at": "2026-09-05T14:46:30Z",
-    "url": "https://github.com/Irene-Busah/llm-engineering-course"
   },
   {
     "description": "Systematically iterate prompts for product renders, three-view sheets, and hero images.",
@@ -301,7 +427,7 @@
     "id": "KhazP/vibe-coding-prompt-template",
     "language": "TypeScript",
     "name": "KhazP/vibe-coding-prompt-template",
-    "stars": 3040,
+    "stars": 3041,
     "updated_at": "2026-09-05T14:41:52Z",
     "url": "https://github.com/KhazP/vibe-coding-prompt-template"
   },
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T14:40:41Z",
     "url": "https://github.com/adeerkhan/vitruvius"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-09-05T14:40:37Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
-    "id": "Nanako0129/sepia",
-    "language": "Python",
-    "name": "Nanako0129/sepia",
-    "stars": 2233,
-    "updated_at": "2026-09-05T14:40:32Z",
-    "url": "https://github.com/Nanako0129/sepia"
-  },
-  {
-    "description": "Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic",
-    "id": "OutlineDriven/odin-claude-plugin",
-    "language": "Python",
-    "name": "OutlineDriven/odin-claude-plugin",
-    "stars": 35,
-    "updated_at": "2026-09-05T14:39:12Z",
-    "url": "https://github.com/OutlineDriven/odin-claude-plugin"
-  },
-  {
-    "description": "The e/acc field commander for high-reasoning AI agents.",
-    "id": "SHADOWPR0/atropos-command",
-    "language": "Python",
-    "name": "SHADOWPR0/atropos-command",
-    "stars": 1,
-    "updated_at": "2026-09-05T14:37:11Z",
-    "url": "https://github.com/SHADOWPR0/atropos-command"
-  },
-  {
-    "description": "gpt6 Astra-claude-grok4.6-deepseekv4pro-glm5.3-gemini\u7834\u7532\u8d8a\u72f1 \u00b7 \u51b7\u5496\u5561 BREAK//OPEN \u5de5\u4f5c\u53f0",
-    "id": "3641397194-wq/gpt6-Astra",
-    "language": "JavaScript",
-    "name": "3641397194-wq/gpt6-Astra",
-    "stars": 427,
-    "updated_at": "2026-09-05T14:36:29Z",
-    "url": "https://github.com/3641397194-wq/gpt6-Astra"
-  },
-  {
-    "description": "Meta Rules for prompt engineering \u2014 A persistent cognitive architecture for LLM prompt design.",
-    "id": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
-    "language": "\u2014",
-    "name": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
-    "stars": 1,
-    "updated_at": "2026-09-05T14:35:36Z",
-    "url": "https://github.com/Nous-Think/LLM-Cognitive-Architecture-By-Prompt"
-  },
-  {
-    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5902,
-    "updated_at": "2026-09-05T14:35:35Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice along",
-    "id": "grimaldost/craft-collection",
-    "language": "Python",
-    "name": "grimaldost/craft-collection",
-    "stars": 2,
-    "updated_at": "2026-09-05T14:35:11Z",
-    "url": "https://github.com/grimaldost/craft-collection"
-  },
-  {
-    "description": "Metis is a coding agent that boosts AI/LLM coding performance by 50%",
-    "id": "Wholiver/metis",
-    "language": "TypeScript",
-    "name": "Wholiver/metis",
-    "stars": 136,
-    "updated_at": "2026-09-05T14:34:19Z",
-    "url": "https://github.com/Wholiver/metis"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 120,
-    "updated_at": "2026-09-05T14:33:53Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 1,
-    "updated_at": "2026-09-05T14:32:38Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "Version-controlled catalog of Dryvist LLM prompts",
-    "id": "dryvist/ai-llm-prompts",
-    "language": "Nix",
-    "name": "dryvist/ai-llm-prompts",
-    "stars": 0,
-    "updated_at": "2026-09-05T14:32:20Z",
-    "url": "https://github.com/dryvist/ai-llm-prompts"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 1,
-    "updated_at": "2026-09-05T14:32:13Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "\u03b4-me13 skill \u00b7 \u300a\u5d29\u574f:\u661f\u7a79\u94c1\u9053\u300b\u03b4-me13\u7bc7\u540c\u4eba:\u5341\u4e09\u9ec4\u91d1\u88d4\u5de5\u7a0b\u65b9\u6cd5\u5361+\u603b\u8def\u7531 skill \u5957\u4ef6(Claude Code/Cursor),\u5de5\u4f5c\u53ef\u4ea4\u4ed8\u3001\u95f2\u65f6\u53ef\u6c99\u9f99;\u9644\u4ecb\u7ecd\u9875\u3001\u95ea\u5361\u753b\u5eca\u4e0e\u5168\u4f53\u4f1a\u8bae\u5b9e\u5f55",
-    "id": "xi-kari/delta-me13-skill",
-    "language": "HTML",
-    "name": "xi-kari/delta-me13-skill",
-    "stars": 1,
-    "updated_at": "2026-09-05T14:31:56Z",
-    "url": "https://github.com/xi-kari/delta-me13-skill"
   }
 ]
