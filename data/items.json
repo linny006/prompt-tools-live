@@ -1,5 +1,68 @@
 [
   {
+    "description": "A structured, no-fluff reference for AI Engineering \u2014 from math foundations to LLMs, RAG, agents, and MCP \u2014 with curated",
+    "id": "Rishav408/ai-engineering-handbook",
+    "language": "\u2014",
+    "name": "Rishav408/ai-engineering-handbook",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:34:49Z",
+    "url": "https://github.com/Rishav408/ai-engineering-handbook"
+  },
+  {
+    "description": "Bilingual Claude Code handbook for social scientists, with citation-audited workflows and AI disclosure templates.",
+    "id": "OnourImpram/claude-code-for-social-scientists",
+    "language": "JavaScript",
+    "name": "OnourImpram/claude-code-for-social-scientists",
+    "stars": 2,
+    "updated_at": "2026-09-06T12:33:40Z",
+    "url": "https://github.com/OnourImpram/claude-code-for-social-scientists"
+  },
+  {
+    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
+    "id": "GenSEAM/asl",
+    "language": "ASL",
+    "name": "GenSEAM/asl",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:33:25Z",
+    "url": "https://github.com/GenSEAM/asl"
+  },
+  {
+    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
+    "id": "Muizzkolapo/agent-actions",
+    "language": "Python",
+    "name": "Muizzkolapo/agent-actions",
+    "stars": 8,
+    "updated_at": "2026-09-06T12:32:46Z",
+    "url": "https://github.com/Muizzkolapo/agent-actions"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-09-06T12:30:43Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-06T12:30:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Evolve AI agent skills through iterative meta-skill-driven optimization. Inspired by SkillEvolver and EmbodiSkill.",
+    "id": "victorzhong0110/skill-evolution",
+    "language": "Python",
+    "name": "victorzhong0110/skill-evolution",
+    "stars": 10,
+    "updated_at": "2026-09-06T12:30:22Z",
+    "url": "https://github.com/victorzhong0110/skill-evolution"
+  },
+  {
     "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
     "id": "nikolay-e/diffctx",
     "language": "Rust",
@@ -9,21 +72,12 @@
     "url": "https://github.com/nikolay-e/diffctx"
   },
   {
-    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
-    "id": "GenSEAM/asl",
-    "language": "ASL",
-    "name": "GenSEAM/asl",
-    "stars": 1,
-    "updated_at": "2026-09-06T12:29:27Z",
-    "url": "https://github.com/GenSEAM/asl"
-  },
-  {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 19,
-    "updated_at": "2026-09-06T12:28:02Z",
+    "updated_at": "2026-09-06T12:34:37Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -34,15 +88,6 @@
     "stars": 133,
     "updated_at": "2026-09-06T12:28:09Z",
     "url": "https://github.com/0xhimanshu/governor"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-09-06T12:25:34Z",
-    "url": "https://github.com/clay-good/agent-replay"
   },
   {
     "description": "Visual diagnostic and anchor drift tracking layer for generative AI pipelines. Never regenerate blind.",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T12:16:01Z",
     "url": "https://github.com/aalbeek-ai/voice-evals"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-06T12:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -355,7 +391,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 103870,
+    "stars": 103869,
     "updated_at": "2026-09-06T11:57:12Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -412,41 +448,5 @@
     "stars": 51,
     "updated_at": "2026-09-06T11:52:46Z",
     "url": "https://github.com/ariffazil/arifOS"
-  },
-  {
-    "description": "A guided, principle-driven Claude Code skill set: 18 commands that take your idea \u2192 shipped, one phase at a time, with e",
-    "id": "kish21/product-playbook",
-    "language": "Python",
-    "name": "kish21/product-playbook",
-    "stars": 2,
-    "updated_at": "2026-09-06T11:49:02Z",
-    "url": "https://github.com/kish21/product-playbook"
-  },
-  {
-    "description": "Code and reproducibility artifacts for PRISM: A Predictive Protocol for Permutation Optimization via Landscape Diagnosti",
-    "id": "bleymambwe/PRISM",
-    "language": "Python",
-    "name": "bleymambwe/PRISM",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:48:29Z",
-    "url": "https://github.com/bleymambwe/PRISM"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:45:22Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Save 30-60% on Claude Code costs -- proven strategies, real benchmarks, copy-paste configs, and interactive tools",
-    "id": "Sagargupta16/claude-cost-optimizer",
-    "language": "TypeScript",
-    "name": "Sagargupta16/claude-cost-optimizer",
-    "stars": 35,
-    "updated_at": "2026-09-06T11:43:24Z",
-    "url": "https://github.com/Sagargupta16/claude-cost-optimizer"
   }
 ]
