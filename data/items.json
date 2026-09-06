@@ -1,12 +1,129 @@
 [
   {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 11,
+    "updated_at": "2026-09-06T18:14:27Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-09-06T18:14:06Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "A collection of original AI video skills for storyboards, first/last frames, image assets, and video prompts.",
+    "id": "Conatus0727/ai-video-first-last-frame-workflow",
+    "language": "\u2014",
+    "name": "Conatus0727/ai-video-first-last-frame-workflow",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:13:46Z",
+    "url": "https://github.com/Conatus0727/ai-video-first-last-frame-workflow"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 18,
+    "updated_at": "2026-09-06T18:11:39Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-09-06T18:09:24Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "AI prompt engineering skill for Codex: guided requirements gathering, context research, and ready-to-use prompts. \u0423\u043b\u0443\u0447\u0448\u0435",
+    "id": "saymonseo/prompt-improver",
+    "language": "Python",
+    "name": "saymonseo/prompt-improver",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:08:00Z",
+    "url": "https://github.com/saymonseo/prompt-improver"
+  },
+  {
+    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
+    "id": "AnastasiyaW/codex-claude-code-config",
+    "language": "Python",
+    "name": "AnastasiyaW/codex-claude-code-config",
+    "stars": 149,
+    "updated_at": "2026-09-06T18:07:27Z",
+    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3524,
+    "updated_at": "2026-09-06T18:07:01Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 1,
+    "updated_at": "2026-09-06T18:06:09Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 6,
+    "updated_at": "2026-09-06T18:05:06Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "stars": 1,
+    "updated_at": "2026-09-06T18:04:48Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "AI-\u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u043d\u0430 Python \u0434\u043b\u044f \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0438\u0445 \u043e\u0442\u0437\u044b\u0432\u043e\u0432 \u0441 OpenAI API, \u0431\u0430\u0437\u043e\u0439 \u0437\u043d\u0430\u043d\u0438\u0439, \u0431\u0438\u0437\u043d\u0435\u0441-\u043f\u0440\u0430\u0432\u0438\u043b\u0430\u043c\u0438 \u0438 \u0433\u0440\u0443\u043f\u043f\u043e\u0432\u043e\u0439 \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u043e",
+    "id": "andrgol12-sys/review-ai-assistant",
+    "language": "Python",
+    "name": "andrgol12-sys/review-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:03:14Z",
+    "url": "https://github.com/andrgol12-sys/review-ai-assistant"
+  },
+  {
     "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
     "id": "masini1491/ai-development-playbook",
     "language": "Python",
     "name": "masini1491/ai-development-playbook",
     "stars": 4,
-    "updated_at": "2026-09-06T18:00:21Z",
+    "updated_at": "2026-09-06T18:01:07Z",
     "url": "https://github.com/masini1491/ai-development-playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-06T18:00:42Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -54,15 +171,6 @@
     "url": "https://github.com/naimkatiman/continuous-improvement"
   },
   {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-09-06T17:56:19Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
     "description": "AI Agent \u5f00\u6e90\u4e66\u5355/\u6559\u7a0b\u5408\u96c6 | Awesome list of LLM Agent books & courses",
     "id": "gotonote/awesome-agent-boom",
     "language": "Python",
@@ -97,24 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T17:52:31Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 1,
-    "updated_at": "2026-09-06T17:52:03Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "A collection of original AI video skills for storyboards, first/last frames, image assets, and video prompts.",
-    "id": "Conatus0727/ai-video-first-last-frame-workflow",
-    "language": "\u2014",
-    "name": "Conatus0727/ai-video-first-last-frame-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:51:54Z",
-    "url": "https://github.com/Conatus0727/ai-video-first-last-frame-workflow"
   },
   {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
@@ -160,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T17:46:05Z",
     "url": "https://github.com/m1nga/skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-06T17:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83d\udc69\u200d\ud83d\udcbb\u270d\ufe0f Prompt orchestration with Vue/React components. Compatible on any Node.js/browser runtime. No more context renderi",
@@ -225,20 +306,11 @@
     "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3523,
-    "updated_at": "2026-09-06T17:55:00Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
-    "stars": 917,
+    "stars": 918,
     "updated_at": "2026-09-06T17:37:42Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
@@ -250,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T17:35:54Z",
     "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
-  },
-  {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "JavaScript",
-    "name": "spidey889/context-generator",
-    "stars": 11,
-    "updated_at": "2026-09-06T17:35:43Z",
-    "url": "https://github.com/spidey889/context-generator"
   },
   {
     "description": "Vitruvius is an engineering research agent. ",
@@ -333,6 +396,15 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27832,
+    "updated_at": "2026-09-06T17:27:58Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "A guided, principle-driven Claude Code skill set: 18 commands that take your idea \u2192 shipped, one phase at a time, with e",
     "id": "kish21/product-playbook",
     "language": "Python",
@@ -349,15 +421,6 @@
     "stars": 10,
     "updated_at": "2026-09-06T17:56:05Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27831,
-    "updated_at": "2026-09-06T17:27:58Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "One source of truth for AI agent instructions \u2014 linted, wired, scored.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T17:24:49Z",
     "url": "https://github.com/kavuriShivaSaiKiran/promptopia"
-  },
-  {
-    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-    "id": "kyegomez/swarms",
-    "language": "Python",
-    "name": "kyegomez/swarms",
-    "stars": 7138,
-    "updated_at": "2026-09-06T17:23:25Z",
-    "url": "https://github.com/kyegomez/swarms"
-  },
-  {
-    "description": "Source-grounded AI first-look legal assessments for German law (Erstorientierung, kein Anwaltsersatz) \u2014 statute registry",
-    "id": "ellmos-ai/rechtsabteilung",
-    "language": "Python",
-    "name": "ellmos-ai/rechtsabteilung",
-    "stars": 1,
-    "updated_at": "2026-09-06T17:22:52Z",
-    "url": "https://github.com/ellmos-ai/rechtsabteilung"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-09-06T17:20:57Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "A template language for composable LLM prompt engineering. Write prompts with variables, loops, conditionals, functions,",
-    "id": "dean0x/mdscript",
-    "language": "Rust",
-    "name": "dean0x/mdscript",
-    "stars": 2,
-    "updated_at": "2026-09-06T17:24:48Z",
-    "url": "https://github.com/dean0x/mdscript"
-  },
-  {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-09-06T17:18:25Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-09-06T17:13:16Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "A hands-on GenAI Engineering roadmap from LLM fundamentals to production AI systems. Covers prompt engineering, RAG, Age",
-    "id": "SRCarlo/genai-course",
-    "language": "JavaScript",
-    "name": "SRCarlo/genai-course",
-    "stars": 5,
-    "updated_at": "2026-09-06T17:13:14Z",
-    "url": "https://github.com/SRCarlo/genai-course"
   }
 ]
