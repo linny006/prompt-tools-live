@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 16:30 UTC
+> ⏰ Last updated: 2026-09-06 16:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ingridleiria/breaktalk-skills](https://github.com/ingridleiria/breaktalk-skills) | 0 | Python | 2026-09-06 | 104 open, model-agnostic AI working instructions for Chief of Staff work and empirical research. Plain Markdown, usable  |
-| 2 | [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault) | 138 | HTML | 2026-09-06 | Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks |
-| 3 | [spidey889/context-generator](https://github.com/spidey889/context-generator) | 11 | JavaScript | 2026-09-06 | Switch AIs without re-explaining everything. |
-| 4 | [Phyxashun/pendex](https://github.com/Phyxashun/pendex) | 1 | TypeScript | 2026-09-06 | Turn a source tree into portable, plain‑text archives — paste into an LLM context window, diff against a snapshot, or re |
-| 5 | [GenSEAM/asl](https://github.com/GenSEAM/asl) | 1 | TypeScript | 2026-09-06 | Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents  |
-| 6 | [adeerkhan/vitruvius](https://github.com/adeerkhan/vitruvius) | 0 | JavaScript | 2026-09-06 | Vitruvius is an engineering research agent.  |
-| 7 | [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) | 19 | TypeScript | 2026-09-06 | OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude |
-| 8 | [fysoul17/devlyn-cli](https://github.com/fysoul17/devlyn-cli) | 1 | Python | 2026-09-06 | AI development toolkit for Claude Code — ideate, auto-resolve, and ship with context engineering and agent orchestration |
-| 9 | [enchanter-ai/wixie](https://github.com/enchanter-ai/wixie) | 2 | Python | 2026-09-06 | Self-healing prompt engineering. Autonomously test, converge, and translate prompts across 225+ AI models. |
-| 10 | [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | 4147 | JavaScript | 2026-09-06 | Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude  |
-| 11 | [baros4294/system_prompt](https://github.com/baros4294/system_prompt) | 1 | — | 2026-09-06 | Creative Writing and General Conversation System Prompt for LLM |
-| 12 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27831 | Python | 2026-09-06 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 13 | [clay-good/agent-replay](https://github.com/clay-good/agent-replay) | 13 | TypeScript | 2026-09-06 | agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution |
-| 14 | [rahulrajaram/rahulskills](https://github.com/rahulrajaram/rahulskills) | 0 | Python | 2026-09-06 | A set of agentic CLI SKILLS.md files |
-| 15 | [BELYAGOUBIABDELILAH/awesome-prompt-library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library) | 6 | JavaScript | 2026-09-06 | Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more. |
-| 16 | [taomar/foldspace-orchestrator](https://github.com/taomar/foldspace-orchestrator) | 0 | — | 2026-09-06 | A documentation-based operating protocol for GitHub Copilot: coordinated workers, operator-approved run controls, durabl |
-| 17 | [masini1491/ai-development-playbook](https://github.com/masini1491/ai-development-playbook) | 4 | Python | 2026-09-06 | AI development playbook for ChatGPT, Codex & GitHub — context engineering, agent governance, task routing, validation, r |
-| 18 | [beta-dream-24495/Midjourney-Advanced-Prompt-Helper](https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper) | 1 | — | 2026-09-06 | Midjourney – A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win |
-| 19 | [Open-Less/openless](https://github.com/Open-Less/openless) | 3438 | Rust | 2026-09-06 | Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win |
-| 20 | [geniusdapeng-collab/panda-cineforge](https://github.com/geniusdapeng-collab/panda-cineforge) | 0 | TypeScript | 2026-09-06 | The world's first skill-forging engine built for AI Agents in film & video production. 全球首个面向 AI Agent 的影视创作技能生成引擎。 |
-| 21 | [royverd/llm-answer-ruleset](https://github.com/royverd/llm-answer-ruleset) | 0 | — | 2026-09-06 | A system prompt that constrains how an LLM answers, plus six skills built under it |
-| 22 | [domaingitshub/odin-mirror-scribe](https://github.com/domaingitshub/odin-mirror-scribe) | 2 | HTML | 2026-09-06 | 🚀 ODIN Reflector 2026 – Next-Gen Meta-Reflection Engine for Outline-Driven AI Development |
-| 23 | [hakodev2k/AI-Engineering](https://github.com/hakodev2k/AI-Engineering) | 1 | Python | 2026-09-06 | Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories. |
-| 24 | [chigwell/Penelopa.ai](https://github.com/chigwell/Penelopa.ai) | 66 | JavaScript | 2026-09-06 | Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workf |
-| 25 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-06 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 26 | [imymi/ComfyUI-IYKYK](https://github.com/imymi/ComfyUI-IYKYK) | 1 | Python | 2026-09-06 | 🔞 ComfyUI 东亚人像写真与成人美学 15 槽位提示词生成套件 \| Asian NSFW & Portrait Prompt Generator with context affinity, nudity linkage, confl |
-| 27 | [songchizao/ppt-basic-deduction](https://github.com/songchizao/ppt-basic-deduction) | 0 | — | 2026-09-06 | PPT基本演绎法 — 将 PPT 学习内容演绎为自包含理解型 Markdown 笔记的 AI Skill（费曼学习法 × 渐进式总结 × 知识解构重构） |
-| 28 | [Namer-kimhyojin/ppt_prompt](https://github.com/Namer-kimhyojin/ppt_prompt) | 0 | JavaScript | 2026-09-06 | 발표자료·다이어그램·지도·홍보 이미지·라벨·QR을 위한 생성형 AI 프롬프트 설계 워크스페이스 |
-| 29 | [SAIRAMANALADI/vybe-intelligence-vault](https://github.com/SAIRAMANALADI/vybe-intelligence-vault) | 22 | JavaScript | 2026-09-06 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
-| 30 | [zohaamalik/ocds-procura-semantic-nexus](https://github.com/zohaamalik/ocds-procura-semantic-nexus) | 1 | HTML | 2026-09-06 | AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles |
-| 31 | [luchi2333/triz-worker-innovation-research](https://github.com/luchi2333/triz-worker-innovation-research) | 1 | Python | 2026-09-06 | TRIZ AI Agent Skill for evidence-based engineering innovation — Codex, 39×39 matrix, patents, standards, literature and  |
-| 32 | [smsheik1/wiggly](https://github.com/smsheik1/wiggly) | 1 | TypeScript | 2026-09-06 | npm for generative video. Runnable creative formats for image, video, and audio. |
-| 33 | [jatinloey1598-dot/social-signals-analyzer](https://github.com/jatinloey1598-dot/social-signals-analyzer) | 1 | HTML | 2026-09-06 | Detect & Counter Pickup Artist Tactics 2026 – AI-Powered Social Defense Toolkit |
-| 34 | [ainova-systems/intelligence](https://github.com/ainova-systems/intelligence) | 1 | Shell | 2026-09-06 | Build, version and distribute AI agent intelligence across your organization - one CLI, versioned Intelligence Packages, |
-| 35 | [m1nga/skills](https://github.com/m1nga/skills) | 0 | Python | 2026-09-06 | 25 practical agent skills for Codex, Claude Code, and Cursor: plan products, recover projects, test prompts, preserve vo |
-| 36 | [Ntizar/MasterMind](https://github.com/Ntizar/MasterMind) | 2 | Python | 2026-09-06 | Framework de orquestación multi-agente con 143 skills especializados, memoria persistente y ejecución en NaN.builders. T |
-| 37 | [vickywu97/legal-hallucination-bench](https://github.com/vickywu97/legal-hallucination-bench) | 2 | Python | 2026-09-06 | 中文法律引注幻觉基准 · 离线零依赖 · 2327 条专家核验法条 · 5 国产模型真实跑分 |
-| 38 | [naimkatiman/continuous-improvement](https://github.com/naimkatiman/continuous-improvement) | 7 | JavaScript | 2026-09-06 | Claude Code that gets sharper every session: runtime discipline and instinct memory (the 7 Laws of AI Agent Discipline) |
-| 39 | [sauravbhattacharya001/prompt](https://github.com/sauravbhattacharya001/prompt) | 1 | C# | 2026-09-06 | .NET 8 prompt engineering toolkit — Azure OpenAI client, template engine, prompt chaining, injection detection, bias det |
-| 40 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-06 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 41 | [AgustiPuigserver/opus-prompt-architect](https://github.com/AgustiPuigserver/opus-prompt-architect) | 125 | HTML | 2026-09-06 | Best Prompt Engineering Tools for 2026 AI Workflow Optimization |
-| 42 | [DDDFXYqiming/Agent_Extensions](https://github.com/DDDFXYqiming/Agent_Extensions) | 7 | Python | 2026-09-06 | 跨框架 Agent Skills 合集：视频笔记生成、本地识图、Windows 桌面/浏览器自动化，外加 Hermes 语言路由插件。DSH 插件已拆分为独立仓库。 |
-| 43 | [heavenaruba/codified-prompt-rule-engine](https://github.com/heavenaruba/codified-prompt-rule-engine) | 121 | HTML | 2026-09-06 | Top 10 Claude Prompt Optimization Frameworks 2026 |
-| 44 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | 13376 | TypeScript | 2026-09-06 | 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gem |
-| 45 | [MindGoblinStudios/grim-tome](https://github.com/MindGoblinStudios/grim-tome) | 13 | JavaScript | 2026-09-06 | Grimoire's Tome & The Grim Council. A Prompt Spellbook of /skills. The #1 Coding Wizard 🧙‍♂️📖 |
-| 46 | [semitexa/semitexa-platform-ui](https://github.com/semitexa/semitexa-platform-ui) | 1 | PHP | 2026-09-06 | Semitexa Platform UI — LLM-friendly CSS grammar, design tokens, primitive components, and AI-assisted skin generation (S |
-| 47 | [Global-AI-Group-Inc/content-generation-skills](https://github.com/Global-AI-Group-Inc/content-generation-skills) | 1 | JavaScript | 2026-09-06 | Mira AI content generation skills: genre playbooks and prompting knowledge for AI agents that generate video and images  |
-| 48 | [angelazu-builder/repo-organizer-skill](https://github.com/angelazu-builder/repo-organizer-skill) | 0 | Python | 2026-09-06 | 🤖 AI Agent Skill for Automatically Reorganizing & Cleaning GitHub Repositories based on Audience & Use-Case (Paper Relea |
-| 49 | [Nyanna/XY.AI.Workbench](https://github.com/Nyanna/XY.AI.Workbench) | 1 | Python | 2026-09-06 | XY.AI Workbench – Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R |
-| 50 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 10 | TypeScript | 2026-09-06 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
+| 1 | [masini1491/ai-development-playbook](https://github.com/masini1491/ai-development-playbook) | 4 | Python | 2026-09-06 | AI development playbook for ChatGPT, Codex & GitHub — context engineering, agent governance, task routing, validation, r |
+| 2 | [microsoft/apm](https://github.com/microsoft/apm) | 3738 | Python | 2026-09-06 | Agent Package Manager |
+| 3 | [clay-good/agent-replay](https://github.com/clay-good/agent-replay) | 13 | TypeScript | 2026-09-06 | agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution |
+| 4 | [mytech-today-now/prompt-refined](https://github.com/mytech-today-now/prompt-refined) | 4 | — | 2026-09-06 | A meta-prompt that refactors any LLM prompt into a clearer, more structured, and higher-performing version using proven  |
+| 5 | [zchstime/wechat-miniapp-development-blueprint](https://github.com/zchstime/wechat-miniapp-development-blueprint) | 0 | — | 2026-09-06 | 从业务想法生成可开发、可评审、可验收的微信小程序产品与技术蓝图。 |
+| 6 | [zchstime/market-competitive-research-brief](https://github.com/zchstime/market-competitive-research-brief) | 0 | — | 2026-09-06 | 交叉验证公开信息，输出竞品矩阵、市场洞察与管理层决策简报。 |
+| 7 | [zchstime/founder-ip-content-matrix](https://github.com/zchstime/founder-ip-content-matrix) | 0 | — | 2026-09-06 | 把创始人和专家经验沉淀为持续输出、建立信任并产生线索的内容系统。 |
+| 8 | [zchstime/enterprise-role-ai-practicum-design](https://github.com/zchstime/enterprise-role-ai-practicum-design) | 0 | — | 2026-09-06 | 围绕真实岗位任务设计可练习、可验收、能转化的企业 AI 实训。 |
+| 9 | [zchstime/enterprise-rag-knowledge-base](https://github.com/zchstime/enterprise-rag-knowledge-base) | 0 | — | 2026-09-06 | 构建可检索、可引用、可授权、可评测和可持续运营的企业 RAG。 |
+| 10 | [zchstime/enterprise-ai-scenario-diagnosis](https://github.com/zchstime/enterprise-ai-scenario-diagnosis) | 0 | — | 2026-09-06 | 识别、量化并排序企业高价值 AI 场景，形成 4—8 周试点路线。 |
+| 11 | [zchstime/course-material-to-assessment](https://github.com/zchstime/course-material-to-assessment) | 0 | — | 2026-09-06 | 把教材和业务资料转成知识地图、实训活动、分层题库和评分规准。 |
+| 12 | [zchstime/b2b-sales-opportunity-followup](https://github.com/zchstime/b2b-sales-opportunity-followup) | 0 | — | 2026-09-06 | 把客户会议转成商机判断、风险清单、跟进话术和下一步成交动作。 |
+| 13 | [zchstime/ai-workflow-automation-sop](https://github.com/zchstime/ai-workflow-automation-sop) | 0 | — | 2026-09-06 | 为销售、客服、运营、行政和财务设计可落地的人机协作 SOP。 |
+| 14 | [zchstime/ai-supply-chain-forecast](https://github.com/zchstime/ai-supply-chain-forecast) | 0 | — | 2026-09-06 | 结合销量、库存、交期和季节性，设计可解释的预测与补货决策。 |
+| 15 | [zchstime/ai-short-video-production](https://github.com/zchstime/ai-short-video-production) | 0 | — | 2026-09-06 | 把专业观点变成有钩子、可拍摄、可剪辑、可发布的短视频方案。 |
+| 16 | [zchstime/ai-security-red-team-evaluation](https://github.com/zchstime/ai-security-red-team-evaluation) | 0 | — | 2026-09-06 | 用可复现测试评估提示注入、数据泄露、越权调用和高风险 AI 行动。 |
+| 17 | [zchstime/ai-sales-roleplay-coach](https://github.com/zchstime/ai-sales-roleplay-coach) | 0 | — | 2026-09-06 | 模拟真实客户和异议，用行为证据评分并生成个性化销售复训任务。 |
+| 18 | [enchanter-ai/wixie](https://github.com/enchanter-ai/wixie) | 2 | Python | 2026-09-06 | Self-healing prompt engineering. Autonomously test, converge, and translate prompts across 447 AI models. |
+| 19 | [zchstime/ai-recruiting-interview-coach](https://github.com/zchstime/ai-recruiting-interview-coach) | 0 | — | 2026-09-06 | 从岗位需求生成候选人画像、结构化面试、评分表与合规招聘流程。 |
+| 20 | [zchstime/ai-prompt-workflow-design](https://github.com/zchstime/ai-prompt-workflow-design) | 0 | — | 2026-09-06 | 把业务目标转成可复用、可评测、可维护的提示词模板和多步 AI 工作流。 |
+| 21 | [zchstime/ai-project-delivery-copilot](https://github.com/zchstime/ai-project-delivery-copilot) | 0 | — | 2026-09-06 | 把 AI 项目目标拆成范围、故事、里程碑、责任、风险和验收闭环。 |
+| 22 | [zchstime/ai-product-mvp-prd](https://github.com/zchstime/ai-product-mvp-prd) | 0 | — | 2026-09-06 | 将模糊 AI 创意转成可验证、可开发、可评测的 MVP 与 PRD。 |
+| 23 | [zchstime/ai-product-metrics-events](https://github.com/zchstime/ai-product-metrics-events) | 0 | — | 2026-09-06 | 为 AI 产品设计事件模型、转化漏斗、质量成本指标与数据看板。 |
+| 24 | [zchstime/ai-privacy-compliance-audit](https://github.com/zchstime/ai-privacy-compliance-audit) | 0 | — | 2026-09-06 | 审视 AI 产品的数据生命周期、权限、日志、用户告知与合规风险。 |
+| 25 | [5uprem4/ai-skill-vault](https://github.com/5uprem4/ai-skill-vault) | 3 | HTML | 2026-09-06 | Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub |
+| 26 | [zchstime/ai-performance-review](https://github.com/zchstime/ai-performance-review) | 0 | — | 2026-09-06 | 从工作记录中提炼绩效事实，设计目标、关键结果和可执行改进计划。 |
+| 27 | [zchstime/ai-mobile-app-planning](https://github.com/zchstime/ai-mobile-app-planning) | 0 | — | 2026-09-06 | 系统规划 AI 移动应用的场景、信息架构、模型能力、权限与发布路线。 |
+| 28 | [zchstime/ai-miniapp-prd-prototype](https://github.com/zchstime/ai-miniapp-prd-prototype) | 0 | — | 2026-09-06 | 把 AI 小程序想法转成用户流程、页面结构、MVP、接口和验收标准。 |
+| 29 | [zchstime/ai-meeting-action-minutes](https://github.com/zchstime/ai-meeting-action-minutes) | 0 | — | 2026-09-06 | 把会议记录转成决策、风险、责任人、截止时间和可跟踪行动项。 |
+| 30 | [zchstime/ai-knowledge-base-ops](https://github.com/zchstime/ai-knowledge-base-ops) | 0 | — | 2026-09-06 | 规划知识结构、更新治理、权限边界与 RAG 检索质量评测。 |
+| 31 | [zchstime/ai-growth-experiment](https://github.com/zchstime/ai-growth-experiment) | 0 | — | 2026-09-06 | 为获客、激活、留存和转化建立可证伪的增长假设与实验方案。 |
+| 32 | [zchstime/ai-frontend-growth-design](https://github.com/zchstime/ai-frontend-growth-design) | 0 | — | 2026-09-06 | 把 AI 产品卖点转成可信、易懂、可转化且可度量的前端体验。 |
+| 33 | [spidey889/context-generator](https://github.com/spidey889/context-generator) | 11 | JavaScript | 2026-09-06 | Switch AIs without re-explaining everything. |
+| 34 | [zchstime/ai-financial-model-scenarios](https://github.com/zchstime/ai-financial-model-scenarios) | 0 | — | 2026-09-06 | 用透明假设把业务驱动因素映射为收入、成本、利润和现金流情景。 |
+| 35 | [zchstime/ai-ecommerce-content-growth](https://github.com/zchstime/ai-ecommerce-content-growth) | 0 | — | 2026-09-06 | 围绕商品卖点和转化漏斗，生产详情页、短视频与直播内容。 |
+| 36 | [zchstime/ai-customer-service-quality](https://github.com/zchstime/ai-customer-service-quality) | 0 | — | 2026-09-06 | 用知识库、标准回复、自动质检和人工接管提升客服解决率与一致性。 |
+| 37 | [zchstime/ai-customer-segmentation](https://github.com/zchstime/ai-customer-segmentation) | 0 | — | 2026-09-06 | 把客户属性、行为、交易和反馈转化为可解释、可触达的客户分群。 |
+| 38 | [yahyambk57-stack/Ai-Object-Isolation-Toolkit](https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit) | 50 | HTML | 2026-09-06 | 2026 Next-Gen AI Photo Background Remover & Object Removal Tool |
+| 39 | [zchstime/ai-corporate-learning-path](https://github.com/zchstime/ai-corporate-learning-path) | 0 | — | 2026-09-06 | 从岗位能力差距出发，设计课程、练习、测评和学习运营闭环。 |
+| 40 | [zchstime/ai-contract-risk-review](https://github.com/zchstime/ai-contract-risk-review) | 0 | — | 2026-09-06 | 围绕业务目标识别合同责任、交付、付款、数据与违约风险。 |
+| 41 | [zchstime/ai-business-writing-studio](https://github.com/zchstime/ai-business-writing-studio) | 0 | — | 2026-09-06 | 生成事实准确、目标明确、语气得体的邮件、汇报、方案与谈判文本。 |
+| 42 | [zchstime/ai-brand-creative-kit](https://github.com/zchstime/ai-brand-creative-kit) | 0 | — | 2026-09-06 | 把品牌定位、语气和视觉方向沉淀为可批量复用的营销内容系统。 |
+| 43 | [zchstime/ai-app-prototype-acceptance](https://github.com/zchstime/ai-app-prototype-acceptance) | 0 | — | 2026-09-06 | 从交互原型到评测集和上线门槛，完整设计可验收的生成式 AI 应用。 |
+| 44 | [zchstime/ai-api-integration-debug](https://github.com/zchstime/ai-api-integration-debug) | 0 | — | 2026-09-06 | 系统设计和排查大模型 API 接入中的鉴权、流式响应、限流与成本问题。 |
+| 45 | [teguhimanulloh47/pirate-talk-for-claude](https://github.com/teguhimanulloh47/pirate-talk-for-claude) | 1 | HTML | 2026-09-06 | Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub |
+| 46 | [Yann-0/ylang](https://github.com/Yann-0/ylang) | 1 | Python | 2026-09-06 | Local-first personal AI efficiency layer — MCP server for prompt improvement, template library, usage tracking, and scop |
+| 47 | [zchstime/ai-agent-tool-orchestration](https://github.com/zchstime/ai-agent-tool-orchestration) | 0 | — | 2026-09-06 | 把复杂 Agent 任务拆成可执行、可恢复、可审计的工具调用流程。 |
+| 48 | [Phyxashun/pendex](https://github.com/Phyxashun/pendex) | 1 | TypeScript | 2026-09-06 | Turn a source tree into portable, plain‑text archives — paste into an LLM context window, diff against a snapshot, or re |
+| 49 | [Krishna-Modi12/frontend-design-pro](https://github.com/Krishna-Modi12/frontend-design-pro) | 10 | TypeScript | 2026-09-06 | Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,149-token router loads one skill  |
+| 50 | [Kenny27lokku/prompt-integrity-validator](https://github.com/Kenny27lokku/prompt-integrity-validator) | 2 | HTML | 2026-09-06 | Lint Your Prompts, Ship Better Agents – Prompt Refiner 2026 Rule Engine |
 <!-- TRACKER_TABLE_END -->
 
 ---
