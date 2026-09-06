@@ -1,12 +1,93 @@
 [
   {
-    "description": "\u628a@\u5cf0\u54e5\u4ea1\u547d\u5929\u6daf \u7684 559 \u6761\u5fae\u535a + 2440 \u6761\u226530\u8d5e\u8bc4\u8bba\uff0c\u84b8\u998f\u6210\u53ef\u590d\u7528\u7684\u300c\u5cf0\u54e5\u8bed\u4f53\u5f15\u64ce\u300d\uff1a\u4e32\u5b50\u3001\u8e6d\u5b50\u3001\u88c5\u9893\u3001\u88ab\u770b\u7a7f\u7684\u81ea\u6211\u5439\u5618\u3002\u542b\u8bed\u6599\u7ba1\u9053(nodejs)\u3001\u7b5b\u9009\u811a\u672c\u3001\u7edf\u8ba1\u53e3\u5f84\u3002/ Distilling @fengge's Weibo",
-    "id": "MincongZhou/fengge-distill",
-    "language": "JavaScript",
-    "name": "MincongZhou/fengge-distill",
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 62,
+    "updated_at": "2026-09-06T05:13:46Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Open-source knowledge and control repository for AI video production workflows, reusable abilities, and weekly public ca",
+    "id": "daijiapeng2012-cyber/ai-video-master-agent",
+    "language": "Python",
+    "name": "daijiapeng2012-cyber/ai-video-master-agent",
     "stars": 0,
-    "updated_at": "2026-09-06T04:59:54Z",
-    "url": "https://github.com/MincongZhou/fengge-distill"
+    "updated_at": "2026-09-06T05:11:58Z",
+    "url": "https://github.com/daijiapeng2012-cyber/ai-video-master-agent"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 138,
+    "updated_at": "2026-09-06T05:10:52Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "TWIE \u2014 Technical Writing Integrity & Quality Engine. Better writing. Zero fact drift. An anti-slop engine for high-integ",
+    "id": "Leo1968/TWIE",
+    "language": "Python",
+    "name": "Leo1968/TWIE",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:10:29Z",
+    "url": "https://github.com/Leo1968/TWIE"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-09-06T05:09:31Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Runtime-aware Skill routing for Codex: choose the smallest verifiable Skill set across single tasks, phased work, and ma",
+    "id": "eric861129/Workflow-skill-router",
+    "language": "Python",
+    "name": "eric861129/Workflow-skill-router",
+    "stars": 16,
+    "updated_at": "2026-09-06T05:11:59Z",
+    "url": "https://github.com/eric861129/Workflow-skill-router"
+  },
+  {
+    "description": "CRUMB is the copy-paste AI handoff format. Switch AIs without losing the plot.",
+    "id": "XioAISolutions/crumb-format",
+    "language": "Python",
+    "name": "XioAISolutions/crumb-format",
+    "stars": 2,
+    "updated_at": "2026-09-06T05:09:11Z",
+    "url": "https://github.com/XioAISolutions/crumb-format"
+  },
+  {
+    "description": "AI-powered knowledge and productivity assistant with Smart Prompt Engineering, RAG-based PDF assistance, conversation me",
+    "id": "swathiajay/CognitiveNexus",
+    "language": "Python",
+    "name": "swathiajay/CognitiveNexus",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:08:19Z",
+    "url": "https://github.com/swathiajay/CognitiveNexus"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-09-06T05:07:40Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Engineering workflows, mentorship protocols, and quality gates for developers pairing with AI coding assistants.",
+    "id": "lowqualityloey/better-promptkit",
+    "language": "PowerShell",
+    "name": "lowqualityloey/better-promptkit",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:07:08Z",
+    "url": "https://github.com/lowqualityloey/better-promptkit"
   },
   {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
@@ -14,8 +95,35 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 19,
-    "updated_at": "2026-09-06T04:59:03Z",
+    "updated_at": "2026-09-06T05:05:49Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Tiered intent & subject router for LLM apps: heuristics + light-LLM classification + degradation chains | LLM \u5e94\u7528\u4e09\u7ea7\u610f\u56fe\u8def\u7531\u5e93",
+    "id": "1084669403/llm-intent-router",
+    "language": "Python",
+    "name": "1084669403/llm-intent-router",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:00:53Z",
+    "url": "https://github.com/1084669403/llm-intent-router"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-06T05:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\u628a@\u5cf0\u54e5\u4ea1\u547d\u5929\u6daf \u7684 559 \u6761\u5fae\u535a + 2440 \u6761\u226530\u8d5e\u8bc4\u8bba\uff0c\u84b8\u998f\u6210\u53ef\u590d\u7528\u7684\u300c\u5cf0\u54e5\u8bed\u4f53\u5f15\u64ce\u300d\uff1a\u4e32\u5b50\u3001\u8e6d\u5b50\u3001\u88c5\u9893\u3001\u88ab\u770b\u7a7f\u7684\u81ea\u6211\u5439\u5618\u3002\u542b\u8bed\u6599\u7ba1\u9053(nodejs)\u3001\u7b5b\u9009\u811a\u672c\u3001\u7edf\u8ba1\u53e3\u5f84\u3002/ Distilling @fengge's Weibo",
+    "id": "MincongZhou/fengge-distill",
+    "language": "JavaScript",
+    "name": "MincongZhou/fengge-distill",
+    "stars": 0,
+    "updated_at": "2026-09-06T04:59:54Z",
+    "url": "https://github.com/MincongZhou/fengge-distill"
   },
   {
     "description": "92+ atomic, copy-paste-ready modules & artifacts for building AI agents, LLM apps, RAG, agentic tools, fintech ledgers, ",
@@ -50,7 +158,7 @@
     "language": "Go",
     "name": "sahil87/fab-kit",
     "stars": 30,
-    "updated_at": "2026-09-06T05:00:16Z",
+    "updated_at": "2026-09-06T05:15:21Z",
     "url": "https://github.com/sahil87/fab-kit"
   },
   {
@@ -70,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T04:51:28Z",
     "url": "https://github.com/B67687/Agent-Stack"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-06T04:51:16Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Engineering workflows, mentorship protocols, and quality gates for developers pairing with AI coding assistants.",
-    "id": "lowqualityloey/better-promptkit",
-    "language": "PowerShell",
-    "name": "lowqualityloey/better-promptkit",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:51:02Z",
-    "url": "https://github.com/lowqualityloey/better-promptkit"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -261,15 +351,6 @@
     "url": "https://github.com/Anil-matcha/awesome-gpt-6-astra"
   },
   {
-    "description": "Tiered intent & subject router for LLM apps: heuristics + light-LLM classification + degradation chains | LLM \u5e94\u7528\u4e09\u7ea7\u610f\u56fe\u8def\u7531\u5e93",
-    "id": "1084669403/llm-intent-router",
-    "language": "Python",
-    "name": "1084669403/llm-intent-router",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:23:15Z",
-    "url": "https://github.com/1084669403/llm-intent-router"
-  },
-  {
     "description": "Teach AI assistants eight reusable skills for studying, presentations, customer service, browser handoffs, and privacy.",
     "id": "Williamunpalatable7706/ai-life-skills-toolkit",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T04:17:51Z",
     "url": "https://github.com/Prosy4967/deer-workflow"
-  },
-  {
-    "description": "Generate unique compositions of smooth closed bezier curves using random colors and seed-based patterns.",
-    "id": "Bessbuggy762/Bezier-1-Generative-Art",
-    "language": "HTML",
-    "name": "Bessbuggy762/Bezier-1-Generative-Art",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:17:47Z",
-    "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
-  },
-  {
-    "description": "Creative Writing and General Conversation System Prompt for LLM",
-    "id": "baros4294/system_prompt",
-    "language": "\u2014",
-    "name": "baros4294/system_prompt",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:17:36Z",
-    "url": "https://github.com/baros4294/system_prompt"
-  },
-  {
-    "description": "Base de conocimiento en espa\u00f1ol e ingl\u00e9s para Claude Code y la API de Claude \u2014 documentaci\u00f3n curada, ejercicios de arqui",
-    "id": "MKoci85/claude-architect-academy",
-    "language": "JavaScript",
-    "name": "MKoci85/claude-architect-academy",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:17:17Z",
-    "url": "https://github.com/MKoci85/claude-architect-academy"
-  },
-  {
-    "description": "Cross-agent toolkit for prompts and coding-agent skills",
-    "id": "sungjunlee/craftkit",
-    "language": "JavaScript",
-    "name": "sungjunlee/craftkit",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:15:56Z",
-    "url": "https://github.com/sungjunlee/craftkit"
-  },
-  {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 8,
-    "updated_at": "2026-09-06T04:14:01Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-06T04:13:24Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:13:21Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:12:59Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-09-06T04:12:28Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
   }
 ]
