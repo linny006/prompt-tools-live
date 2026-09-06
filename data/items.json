@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u628a@\u5cf0\u54e5\u4ea1\u547d\u5929\u6daf \u7684 559 \u6761\u5fae\u535a + 2440 \u6761\u226530\u8d5e\u8bc4\u8bba\uff0c\u84b8\u998f\u6210\u53ef\u590d\u7528\u7684\u300c\u5cf0\u54e5\u8bed\u4f53\u5f15\u64ce\u300d\uff1a\u4e32\u5b50\u3001\u8e6d\u5b50\u3001\u88c5\u9893\u3001\u88ab\u770b\u7a7f\u7684\u81ea\u6211\u5439\u5618\u3002\u542b\u8bed\u6599\u7ba1\u9053(nodejs)\u3001\u7b5b\u9009\u811a\u672c\u3001\u7edf\u8ba1\u53e3\u5f84\u3002/ Distilling @fengge's Weibo",
+    "id": "MincongZhou/fengge-distill",
+    "language": "JavaScript",
+    "name": "MincongZhou/fengge-distill",
+    "stars": 0,
+    "updated_at": "2026-09-06T04:59:54Z",
+    "url": "https://github.com/MincongZhou/fengge-distill"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 19,
+    "updated_at": "2026-09-06T04:59:03Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "92+ atomic, copy-paste-ready modules & artifacts for building AI agents, LLM apps, RAG, agentic tools, fintech ledgers, ",
+    "id": "fahmiwol/tyx-lab",
+    "language": "HTML",
+    "name": "fahmiwol/tyx-lab",
+    "stars": 1,
+    "updated_at": "2026-09-06T04:57:02Z",
+    "url": "https://github.com/fahmiwol/tyx-lab"
+  },
+  {
+    "description": "Engineered to transcend human limits. While other platforms struggle with basic utility, we have perfected absolute domi",
+    "id": "Rona-code/flowly.ai",
+    "language": "TypeScript",
+    "name": "Rona-code/flowly.ai",
+    "stars": 0,
+    "updated_at": "2026-09-06T04:56:46Z",
+    "url": "https://github.com/Rona-code/flowly.ai"
+  },
+  {
+    "description": "Your AI agent is amnesiac between sessions. Four Markdown files and one ritual fix it. Free starter: 4 memory types, 3 p",
+    "id": "fahmiwol/agent-memory-starter",
+    "language": "\u2014",
+    "name": "fahmiwol/agent-memory-starter",
+    "stars": 0,
+    "updated_at": "2026-09-06T04:53:56Z",
+    "url": "https://github.com/fahmiwol/agent-memory-starter"
+  },
+  {
+    "description": "Structured, spec-driven development workflow for AI coding agents.",
+    "id": "sahil87/fab-kit",
+    "language": "Go",
+    "name": "sahil87/fab-kit",
+    "stars": 30,
+    "updated_at": "2026-09-06T05:00:16Z",
+    "url": "https://github.com/sahil87/fab-kit"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-06T04:52:25Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "OpenCode + Oh-My-OpenAgent configuration stack: auto-rules, model routing, scripts, ADRs, search infrastructure, and doc",
+    "id": "B67687/Agent-Stack",
+    "language": "Shell",
+    "name": "B67687/Agent-Stack",
+    "stars": 0,
+    "updated_at": "2026-09-06T04:51:28Z",
+    "url": "https://github.com/B67687/Agent-Stack"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-06T04:51:16Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Engineering workflows, mentorship protocols, and quality gates for developers pairing with AI coding assistants.",
     "id": "lowqualityloey/better-promptkit",
     "language": "PowerShell",
@@ -45,15 +126,6 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-06T04:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A planning skill for Claude or ChatGPT that asks before it plans. Three versions: claude.ai, engineers, and read-only fo",
     "id": "marcosathanasoulis/prompt-it",
     "language": "Python",
@@ -90,15 +162,6 @@
     "url": "https://github.com/timharris707/skills"
   },
   {
-    "description": "OpenCode + Oh-My-OpenAgent configuration stack: auto-rules, model routing, scripts, ADRs, search infrastructure, and doc",
-    "id": "B67687/Agent-Stack",
-    "language": "Shell",
-    "name": "B67687/Agent-Stack",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:39:38Z",
-    "url": "https://github.com/B67687/Agent-Stack"
-  },
-  {
     "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
     "id": "Liplus-Project/liplus-language",
     "language": "Python",
@@ -133,15 +196,6 @@
     "stars": 915,
     "updated_at": "2026-09-06T04:38:10Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:35:46Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Uses Claude Agents SDK to decode job listings into the problems a company is actually hiring to solve and proposes repre",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-06T04:12:28Z",
     "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:11:57Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 136,
-    "updated_at": "2026-09-06T04:11:52Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:11:35Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:11:21Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:11:06Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:11:04Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
   }
 ]
