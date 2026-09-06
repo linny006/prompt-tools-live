@@ -1,12 +1,21 @@
 [
   {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
+    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 3,
+    "updated_at": "2026-09-06T12:29:34Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
+    "id": "GenSEAM/asl",
+    "language": "ASL",
+    "name": "GenSEAM/asl",
     "stars": 1,
-    "updated_at": "2026-09-06T12:15:11Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
+    "updated_at": "2026-09-06T12:29:27Z",
+    "url": "https://github.com/GenSEAM/asl"
   },
   {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
@@ -14,8 +23,170 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 19,
-    "updated_at": "2026-09-06T12:14:29Z",
+    "updated_at": "2026-09-06T12:28:02Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Claude Code usage governor: compact professional output, context slimming, tool-output filtering, telemetry, and drift g",
+    "id": "0xhimanshu/governor",
+    "language": "Python",
+    "name": "0xhimanshu/governor",
+    "stars": 133,
+    "updated_at": "2026-09-06T12:28:09Z",
+    "url": "https://github.com/0xhimanshu/governor"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-09-06T12:25:34Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Visual diagnostic and anchor drift tracking layer for generative AI pipelines. Never regenerate blind.",
+    "id": "mehanshbarthwal-lab/driftline",
+    "language": "JavaScript",
+    "name": "mehanshbarthwal-lab/driftline",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:24:50Z",
+    "url": "https://github.com/mehanshbarthwal-lab/driftline"
+  },
+  {
+    "description": "Creative Writing and General Conversation System Prompt for LLM",
+    "id": "baros4294/system_prompt",
+    "language": "\u2014",
+    "name": "baros4294/system_prompt",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:24:50Z",
+    "url": "https://github.com/baros4294/system_prompt"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:24:36Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Habilidades personalizadas para o Databricks Genie Code (Assistente de IA) \u2013 Investiga\u00e7\u00e3o, padr\u00f5es de projeto e melhores",
+    "id": "1pedroosilva/databricks-genie-skills",
+    "language": "\u2014",
+    "name": "1pedroosilva/databricks-genie-skills",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:23:55Z",
+    "url": "https://github.com/1pedroosilva/databricks-genie-skills"
+  },
+  {
+    "description": "KI f\u00fcr Content Creation (mitp) - Prompts, Beispiele und Ressourcen zu jedem Kapitel. Platz 1 der Amazon-Bestseller in K\u00fc",
+    "id": "aloth/KI-Buch-Begleitmaterialien",
+    "language": "\u2014",
+    "name": "aloth/KI-Buch-Begleitmaterialien",
+    "stars": 3,
+    "updated_at": "2026-09-06T12:23:45Z",
+    "url": "https://github.com/aloth/KI-Buch-Begleitmaterialien"
+  },
+  {
+    "description": "Offizielle Begleitmaterialien zum Buch 'Content Creation mit generativer KI' von Alexander Loth und Dilyana Bossenz (mit",
+    "id": "aloth/Generative-KI-Buch-Begleitmaterialien",
+    "language": "\u2014",
+    "name": "aloth/Generative-KI-Buch-Begleitmaterialien",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:23:43Z",
+    "url": "https://github.com/aloth/Generative-KI-Buch-Begleitmaterialien"
+  },
+  {
+    "description": "A comprehensive resource for mastering data analysis in Excel with Microsoft Copilot. Features the dataset and prompts f",
+    "id": "aloth/ExcelCopilotDemo",
+    "language": "\u2014",
+    "name": "aloth/ExcelCopilotDemo",
+    "stars": 3,
+    "updated_at": "2026-09-06T12:23:40Z",
+    "url": "https://github.com/aloth/ExcelCopilotDemo"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:23:17Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:22:58Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Evidence-backed developer preferences from Codex history, with privacy redaction, human approval, and incremental checkp",
+    "id": "yukkit/developer-evolution-skill",
+    "language": "Python",
+    "name": "yukkit/developer-evolution-skill",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:20:01Z",
+    "url": "https://github.com/yukkit/developer-evolution-skill"
+  },
+  {
+    "description": "A multi-modal AI integrating Grok, OpenAI, and Gemini for retrieval-augmented generation (RAG), semantic search, and str",
+    "id": "is-leeroy-jenkins/buddy",
+    "language": "HTML",
+    "name": "is-leeroy-jenkins/buddy",
+    "stars": 6,
+    "updated_at": "2026-09-06T12:20:01Z",
+    "url": "https://github.com/is-leeroy-jenkins/buddy"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
+    "id": "ZeroLu/awesome-seedance",
+    "language": "Shell",
+    "name": "ZeroLu/awesome-seedance",
+    "stars": 2380,
+    "updated_at": "2026-09-06T12:17:22Z",
+    "url": "https://github.com/ZeroLu/awesome-seedance"
+  },
+  {
+    "description": "kanithanj.ai \u2014 Tauri heading cockpit: live fit/prep, SQLite ledger, next-act map",
+    "id": "p10ns11y/collab-finder",
+    "language": "Rust",
+    "name": "p10ns11y/collab-finder",
+    "stars": 2,
+    "updated_at": "2026-09-06T12:20:51Z",
+    "url": "https://github.com/p10ns11y/collab-finder"
+  },
+  {
+    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
+    "id": "imhamzakhan/context-flow-compressor",
+    "language": "HTML",
+    "name": "imhamzakhan/context-flow-compressor",
+    "stars": 1,
+    "updated_at": "2026-09-06T12:17:00Z",
+    "url": "https://github.com/imhamzakhan/context-flow-compressor"
+  },
+  {
+    "description": "voice-evals is an eval harness for testing voice agent systems, plus the grader, spreadsheet template, and Claude Code s",
+    "id": "aalbeek-ai/voice-evals",
+    "language": "\u2014",
+    "name": "aalbeek-ai/voice-evals",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:16:01Z",
+    "url": "https://github.com/aalbeek-ai/voice-evals"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-06T12:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -27,31 +198,13 @@
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-09-06T12:14:19Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
-    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
-    "id": "GenSEAM/asl",
-    "language": "ASL",
-    "name": "GenSEAM/asl",
-    "stars": 1,
-    "updated_at": "2026-09-06T12:10:01Z",
-    "url": "https://github.com/GenSEAM/asl"
-  },
-  {
-    "description": "Visual diagnostic and anchor drift tracking layer for generative AI pipelines. Never regenerate blind.",
-    "id": "mehanshbarthwal-lab/driftline",
-    "language": "JavaScript",
-    "name": "mehanshbarthwal-lab/driftline",
-    "stars": 0,
-    "updated_at": "2026-09-06T12:09:39Z",
-    "url": "https://github.com/mehanshbarthwal-lab/driftline"
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3736,
+    "updated_at": "2026-09-06T12:09:53Z",
+    "url": "https://github.com/microsoft/apm"
   },
   {
     "description": "A documentation-based operating protocol for GitHub Copilot: coordinated workers, operator-approved run controls, durabl",
@@ -85,7 +238,7 @@
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
     "name": "repoprompt/repoprompt-ce",
-    "stars": 915,
+    "stars": 916,
     "updated_at": "2026-09-06T12:08:06Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
   },
@@ -104,17 +257,8 @@
     "language": "Python",
     "name": "papperrollinggery/Paperrolling-DIRcreative-SKILL",
     "stars": 3,
-    "updated_at": "2026-09-06T12:06:49Z",
+    "updated_at": "2026-09-06T12:19:43Z",
     "url": "https://github.com/papperrollinggery/Paperrolling-DIRcreative-SKILL"
-  },
-  {
-    "description": "voice-evals is an eval harness for testing voice agent systems, plus the grader, spreadsheet template, and Claude Code s",
-    "id": "aalbeek-ai/voice-evals",
-    "language": "\u2014",
-    "name": "aalbeek-ai/voice-evals",
-    "stars": 0,
-    "updated_at": "2026-09-06T12:06:40Z",
-    "url": "https://github.com/aalbeek-ai/voice-evals"
   },
   {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
@@ -189,15 +333,6 @@
     "url": "https://github.com/elK-liang/less-ai-tone-academic"
   },
   {
-    "description": "Creative Writing and General Conversation System Prompt for LLM",
-    "id": "baros4294/system_prompt",
-    "language": "\u2014",
-    "name": "baros4294/system_prompt",
-    "stars": 1,
-    "updated_at": "2026-09-06T12:00:53Z",
-    "url": "https://github.com/baros4294/system_prompt"
-  },
-  {
     "description": "Bilingual (EN/UK) open-source library of AI prompts \u2014 138+ ready-to-copy prompts, no app, just markdown in a git repo.",
     "id": "Mattakushi432/PromptAtlas",
     "language": "JavaScript",
@@ -205,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T12:00:46Z",
     "url": "https://github.com/Mattakushi432/PromptAtlas"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-06T12:00:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Claude\uc758 \uc7a5\uae30 \uae30\uc5b5 \uc800\uc7a5\uc18c \u2014 \ud504\ub85c\uc81d\ud2b8 \ud559\uc2b5, \uc2a4\ud0ac, \ud589\ub3d9 \uaddc\uce59\uc744 \ucd95\uc801\ud558\ub294 \uac1c\uc778 Claude \uba54\ubaa8\ub9ac",
@@ -229,7 +355,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 103865,
+    "stars": 103870,
     "updated_at": "2026-09-06T11:57:12Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -279,15 +405,6 @@
     "url": "https://github.com/Yash897542/AI-Healthcare-Assistant"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:52:35Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
     "id": "ariffazil/arifOS",
     "language": "Python",
@@ -331,122 +448,5 @@
     "stars": 35,
     "updated_at": "2026-09-06T11:43:24Z",
     "url": "https://github.com/Sagargupta16/claude-cost-optimizer"
-  },
-  {
-    "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
-    "id": "mufeedvh/code2prompt",
-    "language": "Rust",
-    "name": "mufeedvh/code2prompt",
-    "stars": 7632,
-    "updated_at": "2026-09-06T11:43:24Z",
-    "url": "https://github.com/mufeedvh/code2prompt"
-  },
-  {
-    "description": "\ud83e\udd16 PretendAI \u2014 A reverse Turing Test where humans act as AI assistants and AI acts as users. Built with Python, Flask, Mo",
-    "id": "MKishoreDev/PretendAi",
-    "language": "HTML",
-    "name": "MKishoreDev/PretendAi",
-    "stars": 3,
-    "updated_at": "2026-09-06T11:40:43Z",
-    "url": "https://github.com/MKishoreDev/PretendAi"
-  },
-  {
-    "description": "Evidence-backed use cases, prompts, integrations, evaluations, and safety notes for OpenAI GPT-6 Astra.",
-    "id": "Anil-matcha/awesome-gpt-6-astra",
-    "language": "\u2014",
-    "name": "Anil-matcha/awesome-gpt-6-astra",
-    "stars": 1049,
-    "updated_at": "2026-09-06T11:39:15Z",
-    "url": "https://github.com/Anil-matcha/awesome-gpt-6-astra"
-  },
-  {
-    "description": "A governed operating system for ChatGPT Projects, Codex delivery, verification, and Stream Deck workflows.",
-    "id": "sergstack/AI-OS",
-    "language": "Python",
-    "name": "sergstack/AI-OS",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:39:08Z",
-    "url": "https://github.com/sergstack/AI-OS"
-  },
-  {
-    "description": "Smart git diff context for LLMs and AI agents \u2014 selects the minimal code fragments needed to understand a change, under ",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 3,
-    "updated_at": "2026-09-06T11:38:15Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
-    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
-    "id": "Muizzkolapo/agent-actions",
-    "language": "Python",
-    "name": "Muizzkolapo/agent-actions",
-    "stars": 8,
-    "updated_at": "2026-09-06T12:12:18Z",
-    "url": "https://github.com/Muizzkolapo/agent-actions"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:37:23Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "GPT-Image2 \u63d0\u793a\u8a5e\u8207\u7bc4\u672c\u5eab\u7684\u53f0\u7063\u7e41\u9ad4\u4e2d\u6587\u5728\u5730\u5316\u7248\u672c\uff0c\u6536\u9304 500+ \u6848\u4f8b\u8207 20+ \u7bc4\u672c\u3002",
-    "id": "irons163/awesome-gpt-image-2-zh",
-    "language": "JavaScript",
-    "name": "irons163/awesome-gpt-image-2-zh",
-    "stars": 3,
-    "updated_at": "2026-09-06T11:34:04Z",
-    "url": "https://github.com/irons163/awesome-gpt-image-2-zh"
-  },
-  {
-    "description": "Multi-agent LLM pipeline for long-form novel continuation \u00b7 \u591a Agent \u957f\u7bc7\u5c0f\u8bf4\u7eed\u5199\u6d41\u6c34\u7ebf\uff0c19 \u8f6e\u8fed\u4ee3 + \u5168\u7a0b mock-first",
-    "id": "ARMANDSnow/make-ur-Agent-writer",
-    "language": "Python",
-    "name": "ARMANDSnow/make-ur-Agent-writer",
-    "stars": 20,
-    "updated_at": "2026-09-06T11:33:56Z",
-    "url": "https://github.com/ARMANDSnow/make-ur-Agent-writer"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-09-06T11:28:38Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "Project control for Claude Code: requirements enrichment, anti-drift execution, context recovery, agent orchestration, a",
-    "id": "sultan-repo/forge",
-    "language": "Python",
-    "name": "sultan-repo/forge",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:27:23Z",
-    "url": "https://github.com/sultan-repo/forge"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:27:07Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Public examples of my AI prompt systems and evaluation work (IP-safe, no client data).",
-    "id": "ndrorchestration/ai-prompt-systems-portfolio",
-    "language": "\u2014",
-    "name": "ndrorchestration/ai-prompt-systems-portfolio",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:24:11Z",
-    "url": "https://github.com/ndrorchestration/ai-prompt-systems-portfolio"
   }
 ]
