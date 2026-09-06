@@ -1,12 +1,120 @@
 [
   {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
+    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
+    "id": "masini1491/ai-development-playbook",
     "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
+    "name": "masini1491/ai-development-playbook",
+    "stars": 4,
+    "updated_at": "2026-09-06T17:30:20Z",
+    "url": "https://github.com/masini1491/ai-development-playbook"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
     "stars": 1,
-    "updated_at": "2026-09-06T17:15:03Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
+    "updated_at": "2026-09-06T17:29:41Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
+    "id": "BootBlock/SpriteGubbins",
+    "language": "TypeScript",
+    "name": "BootBlock/SpriteGubbins",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:29:32Z",
+    "url": "https://github.com/BootBlock/SpriteGubbins"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:28:53Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A guided, principle-driven Claude Code skill set: 18 commands that take your idea \u2192 shipped, one phase at a time, with e",
+    "id": "kish21/product-playbook",
+    "language": "Python",
+    "name": "kish21/product-playbook",
+    "stars": 2,
+    "updated_at": "2026-09-06T17:27:21Z",
+    "url": "https://github.com/kish21/product-playbook"
+  },
+  {
+    "description": "Vitruvius is an engineering research agent. ",
+    "id": "adeerkhan/vitruvius",
+    "language": "JavaScript",
+    "name": "adeerkhan/vitruvius",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:27:10Z",
+    "url": "https://github.com/adeerkhan/vitruvius"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 10,
+    "updated_at": "2026-09-06T17:26:11Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27831,
+    "updated_at": "2026-09-06T17:27:58Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "One source of truth for AI agent instructions \u2014 linted, wired, scored.",
+    "id": "daichunghy/agentsmd",
+    "language": "JavaScript",
+    "name": "daichunghy/agentsmd",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:25:25Z",
+    "url": "https://github.com/daichunghy/agentsmd"
+  },
+  {
+    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
+    "id": "edsondviana8/ai-humanizer-core",
+    "language": "HTML",
+    "name": "edsondviana8/ai-humanizer-core",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:25:13Z",
+    "url": "https://github.com/edsondviana8/ai-humanizer-core"
+  },
+  {
+    "description": "Promptopia is a Next.js full-stack platform acting as a chat-like hub for users to discover, create, and share creative ",
+    "id": "kavuriShivaSaiKiran/promptopia",
+    "language": "JavaScript",
+    "name": "kavuriShivaSaiKiran/promptopia",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:24:49Z",
+    "url": "https://github.com/kavuriShivaSaiKiran/promptopia"
+  },
+  {
+    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+    "id": "kyegomez/swarms",
+    "language": "Python",
+    "name": "kyegomez/swarms",
+    "stars": 7138,
+    "updated_at": "2026-09-06T17:23:25Z",
+    "url": "https://github.com/kyegomez/swarms"
+  },
+  {
+    "description": "Source-grounded AI first-look legal assessments for German law (Erstorientierung, kein Anwaltsersatz) \u2014 statute registry",
+    "id": "ellmos-ai/rechtsabteilung",
+    "language": "Python",
+    "name": "ellmos-ai/rechtsabteilung",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:22:52Z",
+    "url": "https://github.com/ellmos-ai/rechtsabteilung"
   },
   {
     "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
@@ -14,8 +122,89 @@
     "language": "TypeScript",
     "name": "clay-good/agent-replay",
     "stars": 13,
-    "updated_at": "2026-09-06T17:13:59Z",
+    "updated_at": "2026-09-06T17:22:15Z",
     "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "A system prompt that constrains how an LLM answers, plus six skills built under it",
+    "id": "royverd/llm-answer-ruleset",
+    "language": "\u2014",
+    "name": "royverd/llm-answer-ruleset",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:22:05Z",
+    "url": "https://github.com/royverd/llm-answer-ruleset"
+  },
+  {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "braboj/solid-ai-templates",
+    "language": "Python",
+    "name": "braboj/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-09-06T17:27:22Z",
+    "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-06T17:20:57Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "A template language for composable LLM prompt engineering. Write prompts with variables, loops, conditionals, functions,",
+    "id": "dean0x/mdscript",
+    "language": "Rust",
+    "name": "dean0x/mdscript",
+    "stars": 2,
+    "updated_at": "2026-09-06T17:24:48Z",
+    "url": "https://github.com/dean0x/mdscript"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-09-06T17:18:25Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 11,
+    "updated_at": "2026-09-06T17:17:53Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:17:15Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-06T17:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:15:03Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
@@ -117,22 +306,13 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "JavaScript",
-    "name": "spidey889/context-generator",
-    "stars": 11,
-    "updated_at": "2026-09-06T17:05:05Z",
-    "url": "https://github.com/spidey889/context-generator"
-  },
-  {
-    "description": "Vitruvius is an engineering research agent. ",
-    "id": "adeerkhan/vitruvius",
-    "language": "JavaScript",
-    "name": "adeerkhan/vitruvius",
+    "description": "A single, practical reference for writing prompts that reliably produce good output \u2014 from your first \"explain X\" prompt",
+    "id": "Ashukr321/Prompt-Engineering-Basic-to-Advanced",
+    "language": "\u2014",
+    "name": "Ashukr321/Prompt-Engineering-Basic-to-Advanced",
     "stars": 0,
-    "updated_at": "2026-09-06T17:15:23Z",
-    "url": "https://github.com/adeerkhan/vitruvius"
+    "updated_at": "2026-09-06T17:06:13Z",
+    "url": "https://github.com/Ashukr321/Prompt-Engineering-Basic-to-Advanced"
   },
   {
     "description": "Zero-dependency prompt and AI agent regression testing with baselines, deterministic assertions, and CI gates.",
@@ -144,15 +324,6 @@
     "url": "https://github.com/zchstime/prompt-regression-gate"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-06T17:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,154-token router loads one skill ",
     "id": "Krishna-Modi12/frontend-design-pro",
     "language": "TypeScript",
@@ -160,15 +331,6 @@
     "stars": 10,
     "updated_at": "2026-09-06T17:12:59Z",
     "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
-    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
-    "id": "masini1491/ai-development-playbook",
-    "language": "Python",
-    "name": "masini1491/ai-development-playbook",
-    "stars": 4,
-    "updated_at": "2026-09-06T17:00:21Z",
-    "url": "https://github.com/masini1491/ai-development-playbook"
   },
   {
     "description": "ChatGPT \u4e0e Codex \u7684\u53ef\u9a8c\u8bc1\u5de5\u4f5c\u6d41\u3001\u65ad\u70b9\u4ea4\u63a5\u3001\u7f51\u9875\u589e\u5f3a\u548c\u672c\u5730\u5de5\u5177",
@@ -207,15 +369,6 @@
     "url": "https://github.com/AKin-lvyifang/human-doc-writing"
   },
   {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 1,
-    "updated_at": "2026-09-06T16:55:23Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -234,15 +387,6 @@
     "url": "https://github.com/kaderkck/hewn-forge"
   },
   {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-09-06T17:14:50Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
     "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
     "language": "HTML",
@@ -250,15 +394,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T16:52:54Z",
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-06T16:52:12Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
@@ -288,15 +423,6 @@
     "url": "https://github.com/SHENG5411/grimoire-of-tools"
   },
   {
-    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
-    "id": "BootBlock/SpriteGubbins",
-    "language": "TypeScript",
-    "name": "BootBlock/SpriteGubbins",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:51:54Z",
-    "url": "https://github.com/BootBlock/SpriteGubbins"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -322,131 +448,5 @@
     "stars": 136,
     "updated_at": "2026-09-06T16:50:16Z",
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "Your AI coding harness, ported to every client you use. Capture Claude Code (or Codex) rules, hooks, skills, subagents, ",
-    "id": "ucsandman/Agnostic-AI",
-    "language": "JavaScript",
-    "name": "ucsandman/Agnostic-AI",
-    "stars": 3,
-    "updated_at": "2026-09-06T16:50:03Z",
-    "url": "https://github.com/ucsandman/Agnostic-AI"
-  },
-  {
-    "description": "Self-healing prompt engineering. Autonomously test, converge, and translate prompts across 447 AI models.",
-    "id": "enchanter-ai/wixie",
-    "language": "Python",
-    "name": "enchanter-ai/wixie",
-    "stars": 2,
-    "updated_at": "2026-09-06T16:50:01Z",
-    "url": "https://github.com/enchanter-ai/wixie"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-09-06T16:46:14Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "Validate, pressure-test, and release-gate SKILL.md packages for OpenAI and portable agent runtimes.",
-    "id": "zztimur/skill-forge",
-    "language": "Python",
-    "name": "zztimur/skill-forge",
-    "stars": 1,
-    "updated_at": "2026-09-06T16:45:49Z",
-    "url": "https://github.com/zztimur/skill-forge"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3738,
-    "updated_at": "2026-09-06T17:08:43Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "\u4ece\u4e1a\u52a1\u60f3\u6cd5\u751f\u6210\u53ef\u5f00\u53d1\u3001\u53ef\u8bc4\u5ba1\u3001\u53ef\u9a8c\u6536\u7684\u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u4ea7\u54c1\u4e0e\u6280\u672f\u84dd\u56fe\u3002",
-    "id": "zchstime/wechat-miniapp-development-blueprint",
-    "language": "\u2014",
-    "name": "zchstime/wechat-miniapp-development-blueprint",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:41:30Z",
-    "url": "https://github.com/zchstime/wechat-miniapp-development-blueprint"
-  },
-  {
-    "description": "\u4ea4\u53c9\u9a8c\u8bc1\u516c\u5f00\u4fe1\u606f\uff0c\u8f93\u51fa\u7ade\u54c1\u77e9\u9635\u3001\u5e02\u573a\u6d1e\u5bdf\u4e0e\u7ba1\u7406\u5c42\u51b3\u7b56\u7b80\u62a5\u3002",
-    "id": "zchstime/market-competitive-research-brief",
-    "language": "\u2014",
-    "name": "zchstime/market-competitive-research-brief",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:41:26Z",
-    "url": "https://github.com/zchstime/market-competitive-research-brief"
-  },
-  {
-    "description": "\u628a\u521b\u59cb\u4eba\u548c\u4e13\u5bb6\u7ecf\u9a8c\u6c89\u6dc0\u4e3a\u6301\u7eed\u8f93\u51fa\u3001\u5efa\u7acb\u4fe1\u4efb\u5e76\u4ea7\u751f\u7ebf\u7d22\u7684\u5185\u5bb9\u7cfb\u7edf\u3002",
-    "id": "zchstime/founder-ip-content-matrix",
-    "language": "\u2014",
-    "name": "zchstime/founder-ip-content-matrix",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:41:21Z",
-    "url": "https://github.com/zchstime/founder-ip-content-matrix"
-  },
-  {
-    "description": "\u56f4\u7ed5\u771f\u5b9e\u5c97\u4f4d\u4efb\u52a1\u8bbe\u8ba1\u53ef\u7ec3\u4e60\u3001\u53ef\u9a8c\u6536\u3001\u80fd\u8f6c\u5316\u7684\u4f01\u4e1a AI \u5b9e\u8bad\u3002",
-    "id": "zchstime/enterprise-role-ai-practicum-design",
-    "language": "\u2014",
-    "name": "zchstime/enterprise-role-ai-practicum-design",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:41:16Z",
-    "url": "https://github.com/zchstime/enterprise-role-ai-practicum-design"
-  },
-  {
-    "description": "\u6784\u5efa\u53ef\u68c0\u7d22\u3001\u53ef\u5f15\u7528\u3001\u53ef\u6388\u6743\u3001\u53ef\u8bc4\u6d4b\u548c\u53ef\u6301\u7eed\u8fd0\u8425\u7684\u4f01\u4e1a RAG\u3002",
-    "id": "zchstime/enterprise-rag-knowledge-base",
-    "language": "\u2014",
-    "name": "zchstime/enterprise-rag-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:41:12Z",
-    "url": "https://github.com/zchstime/enterprise-rag-knowledge-base"
-  },
-  {
-    "description": "\u8bc6\u522b\u3001\u91cf\u5316\u5e76\u6392\u5e8f\u4f01\u4e1a\u9ad8\u4ef7\u503c AI \u573a\u666f\uff0c\u5f62\u6210 4\u20148 \u5468\u8bd5\u70b9\u8def\u7ebf\u3002",
-    "id": "zchstime/enterprise-ai-scenario-diagnosis",
-    "language": "\u2014",
-    "name": "zchstime/enterprise-ai-scenario-diagnosis",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:41:07Z",
-    "url": "https://github.com/zchstime/enterprise-ai-scenario-diagnosis"
-  },
-  {
-    "description": "\u628a\u6559\u6750\u548c\u4e1a\u52a1\u8d44\u6599\u8f6c\u6210\u77e5\u8bc6\u5730\u56fe\u3001\u5b9e\u8bad\u6d3b\u52a8\u3001\u5206\u5c42\u9898\u5e93\u548c\u8bc4\u5206\u89c4\u51c6\u3002",
-    "id": "zchstime/course-material-to-assessment",
-    "language": "\u2014",
-    "name": "zchstime/course-material-to-assessment",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:41:02Z",
-    "url": "https://github.com/zchstime/course-material-to-assessment"
-  },
-  {
-    "description": "\u628a\u5ba2\u6237\u4f1a\u8bae\u8f6c\u6210\u5546\u673a\u5224\u65ad\u3001\u98ce\u9669\u6e05\u5355\u3001\u8ddf\u8fdb\u8bdd\u672f\u548c\u4e0b\u4e00\u6b65\u6210\u4ea4\u52a8\u4f5c\u3002",
-    "id": "zchstime/b2b-sales-opportunity-followup",
-    "language": "\u2014",
-    "name": "zchstime/b2b-sales-opportunity-followup",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:40:57Z",
-    "url": "https://github.com/zchstime/b2b-sales-opportunity-followup"
-  },
-  {
-    "description": "\u4e3a\u9500\u552e\u3001\u5ba2\u670d\u3001\u8fd0\u8425\u3001\u884c\u653f\u548c\u8d22\u52a1\u8bbe\u8ba1\u53ef\u843d\u5730\u7684\u4eba\u673a\u534f\u4f5c SOP\u3002",
-    "id": "zchstime/ai-workflow-automation-sop",
-    "language": "\u2014",
-    "name": "zchstime/ai-workflow-automation-sop",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:40:52Z",
-    "url": "https://github.com/zchstime/ai-workflow-automation-sop"
   }
 ]
