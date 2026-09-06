@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\udc69\u200d\ud83d\udcbb\u270d\ufe0f Prompt orchestration with Vue/React components. Compatible on any Node.js/browser runtime. No more context renderi",
+    "id": "moeru-ai/velin",
+    "language": "TypeScript",
+    "name": "moeru-ai/velin",
+    "stars": 78,
+    "updated_at": "2026-09-06T17:44:55Z",
+    "url": "https://github.com/moeru-ai/velin"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-09-06T17:44:17Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-09-06T17:43:50Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "kanithanj.ai \u2014 Tauri heading cockpit: live fit/prep, SQLite ledger, next-act map",
+    "id": "p10ns11y/collab-finder",
+    "language": "Rust",
+    "name": "p10ns11y/collab-finder",
+    "stars": 2,
+    "updated_at": "2026-09-06T17:43:42Z",
+    "url": "https://github.com/p10ns11y/collab-finder"
+  },
+  {
+    "description": "A system prompt that constrains how an LLM answers, plus six skills built under it",
+    "id": "royverd/llm-answer-ruleset",
+    "language": "\u2014",
+    "name": "royverd/llm-answer-ruleset",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:42:39Z",
+    "url": "https://github.com/royverd/llm-answer-ruleset"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-06T17:41:41Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "DSH Math Modeling Team Plugin Pack: 2 role agent presets (modeling-coding / paper) for DeepSeek Harness, multi-folder Gi",
     "id": "OrinVoss/dsh-math-team",
     "language": "\u2014",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T17:40:14Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-09-06T17:39:59Z",
-    "url": "https://github.com/clay-good/agent-replay"
   },
   {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
@@ -144,15 +189,6 @@
     "url": "https://github.com/Yuimi-chaya/llm-rp-role-prompt-authoring"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-06T17:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
     "id": "elie222/botdirectory.ai",
     "language": "Astro",
@@ -261,15 +297,6 @@
     "url": "https://github.com/ellmos-ai/rechtsabteilung"
   },
   {
-    "description": "A system prompt that constrains how an LLM answers, plus six skills built under it",
-    "id": "royverd/llm-answer-ruleset",
-    "language": "\u2014",
-    "name": "royverd/llm-answer-ruleset",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:22:05Z",
-    "url": "https://github.com/royverd/llm-answer-ruleset"
-  },
-  {
     "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
     "id": "braboj/solid-ai-templates",
     "language": "Python",
@@ -329,7 +356,7 @@
     "language": "JavaScript",
     "name": "naimkatiman/continuous-improvement",
     "stars": 7,
-    "updated_at": "2026-09-06T17:31:44Z",
+    "updated_at": "2026-09-06T17:44:28Z",
     "url": "https://github.com/naimkatiman/continuous-improvement"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 10,
     "updated_at": "2026-09-06T17:12:59Z",
     "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
-    "description": "ChatGPT \u4e0e Codex \u7684\u53ef\u9a8c\u8bc1\u5de5\u4f5c\u6d41\u3001\u65ad\u70b9\u4ea4\u63a5\u3001\u7f51\u9875\u589e\u5f3a\u548c\u672c\u5730\u5de5\u5177",
-    "id": "RongNianXin/codex-workflows",
-    "language": "PowerShell",
-    "name": "RongNianXin/codex-workflows",
-    "stars": 3,
-    "updated_at": "2026-09-06T16:57:55Z",
-    "url": "https://github.com/RongNianXin/codex-workflows"
-  },
-  {
-    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
-    "id": "aliasunder/agent-plugins",
-    "language": "\u2014",
-    "name": "aliasunder/agent-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:56:21Z",
-    "url": "https://github.com/aliasunder/agent-plugins"
-  },
-  {
-    "description": "Description Evidence-driven evaluation, benchmarking, and verified repair for Agent Skills across Codex, Claude Code, Ge",
-    "id": "MaxLaurieHutchinson/skill-evaluation-graph",
-    "language": "Python",
-    "name": "MaxLaurieHutchinson/skill-evaluation-graph",
-    "stars": 2,
-    "updated_at": "2026-09-06T16:57:14Z",
-    "url": "https://github.com/MaxLaurieHutchinson/skill-evaluation-graph"
   }
 ]
