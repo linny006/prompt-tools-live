@@ -1,12 +1,120 @@
 [
   {
-    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
-    "id": "masini1491/ai-development-playbook",
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
     "language": "Python",
-    "name": "masini1491/ai-development-playbook",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:15:03Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-09-06T17:13:59Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:13:16Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "A hands-on GenAI Engineering roadmap from LLM fundamentals to production AI systems. Covers prompt engineering, RAG, Age",
+    "id": "SRCarlo/genai-course",
+    "language": "JavaScript",
+    "name": "SRCarlo/genai-course",
+    "stars": 5,
+    "updated_at": "2026-09-06T17:13:14Z",
+    "url": "https://github.com/SRCarlo/genai-course"
+  },
+  {
+    "description": "Claude Code that gets sharper every session: runtime discipline and instinct memory (the 7 Laws of AI Agent Discipline)",
+    "id": "naimkatiman/continuous-improvement",
+    "language": "JavaScript",
+    "name": "naimkatiman/continuous-improvement",
+    "stars": 7,
+    "updated_at": "2026-09-06T17:11:44Z",
+    "url": "https://github.com/naimkatiman/continuous-improvement"
+  },
+  {
+    "description": "100+ curated GPT-6 Astra prompts & 3D examples for games, Blender scenes and interactive worlds. 14 languages, source li",
+    "id": "TripoGrowthLab/awesome-astra-prompts",
+    "language": "JavaScript",
+    "name": "TripoGrowthLab/awesome-astra-prompts",
+    "stars": 2,
+    "updated_at": "2026-09-06T17:11:22Z",
+    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:11:17Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Local-first personal AI efficiency layer \u2014 MCP server for prompt improvement, template library, usage tracking, and scop",
+    "id": "Yann-0/ylang",
+    "language": "Python",
+    "name": "Yann-0/ylang",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:11:01Z",
+    "url": "https://github.com/Yann-0/ylang"
+  },
+  {
+    "description": "Open-source browser extension for Google Gemini with themes, chat navigation, shortcuts, and prompt automation.",
+    "id": "RonkTsang/gemini-chat-extension",
+    "language": "TypeScript",
+    "name": "RonkTsang/gemini-chat-extension",
+    "stars": 20,
+    "updated_at": "2026-09-06T17:10:48Z",
+    "url": "https://github.com/RonkTsang/gemini-chat-extension"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:09:08Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "A meta-prompt that refactors any LLM prompt into a clearer, more structured, and higher-performing version using proven ",
+    "id": "mytech-today-now/prompt-refined",
+    "language": "\u2014",
+    "name": "mytech-today-now/prompt-refined",
     "stars": 4,
-    "updated_at": "2026-09-06T17:00:21Z",
-    "url": "https://github.com/masini1491/ai-development-playbook"
+    "updated_at": "2026-09-06T17:08:16Z",
+    "url": "https://github.com/mytech-today-now/prompt-refined"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:07:39Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:06:38Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
     "description": "Switch AIs without re-explaining everything.",
@@ -14,8 +122,53 @@
     "language": "JavaScript",
     "name": "spidey889/context-generator",
     "stars": 11,
-    "updated_at": "2026-09-06T17:00:13Z",
+    "updated_at": "2026-09-06T17:05:05Z",
     "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "Vitruvius is an engineering research agent. ",
+    "id": "adeerkhan/vitruvius",
+    "language": "JavaScript",
+    "name": "adeerkhan/vitruvius",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:15:23Z",
+    "url": "https://github.com/adeerkhan/vitruvius"
+  },
+  {
+    "description": "Zero-dependency prompt and AI agent regression testing with baselines, deterministic assertions, and CI gates.",
+    "id": "zchstime/prompt-regression-gate",
+    "language": "Python",
+    "name": "zchstime/prompt-regression-gate",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:04:15Z",
+    "url": "https://github.com/zchstime/prompt-regression-gate"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-06T17:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,154-token router loads one skill ",
+    "id": "Krishna-Modi12/frontend-design-pro",
+    "language": "TypeScript",
+    "name": "Krishna-Modi12/frontend-design-pro",
+    "stars": 10,
+    "updated_at": "2026-09-06T17:12:59Z",
+    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
+  },
+  {
+    "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
+    "id": "masini1491/ai-development-playbook",
+    "language": "Python",
+    "name": "masini1491/ai-development-playbook",
+    "stars": 4,
+    "updated_at": "2026-09-06T17:00:21Z",
+    "url": "https://github.com/masini1491/ai-development-playbook"
   },
   {
     "description": "ChatGPT \u4e0e Codex \u7684\u53ef\u9a8c\u8bc1\u5de5\u4f5c\u6d41\u3001\u65ad\u70b9\u4ea4\u63a5\u3001\u7f51\u9875\u589e\u5f3a\u548c\u672c\u5730\u5de5\u5177",
@@ -27,15 +180,6 @@
     "url": "https://github.com/RongNianXin/codex-workflows"
   },
   {
-    "description": "Machine-enforced frontend UI/UX skill pack for AI agents. Registry + lazy loading: a 2,149-token router loads one skill ",
-    "id": "Krishna-Modi12/frontend-design-pro",
-    "language": "TypeScript",
-    "name": "Krishna-Modi12/frontend-design-pro",
-    "stars": 10,
-    "updated_at": "2026-09-06T17:00:26Z",
-    "url": "https://github.com/Krishna-Modi12/frontend-design-pro"
-  },
-  {
     "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
     "id": "aliasunder/agent-plugins",
     "language": "\u2014",
@@ -43,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T16:56:21Z",
     "url": "https://github.com/aliasunder/agent-plugins"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-09-06T16:56:04Z",
-    "url": "https://github.com/clay-good/agent-replay"
   },
   {
     "description": "Description Evidence-driven evaluation, benchmarking, and verified repair for Agent Skills across Codex, Claude Code, Ge",
@@ -104,7 +239,7 @@
     "language": "Python",
     "name": "sergeeey/Claude-cod-top-2026",
     "stars": 7,
-    "updated_at": "2026-09-06T16:53:00Z",
+    "updated_at": "2026-09-06T17:14:50Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
@@ -189,15 +324,6 @@
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
   },
   {
-    "description": "Vitruvius is an engineering research agent. ",
-    "id": "adeerkhan/vitruvius",
-    "language": "JavaScript",
-    "name": "adeerkhan/vitruvius",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:50:05Z",
-    "url": "https://github.com/adeerkhan/vitruvius"
-  },
-  {
     "description": "Your AI coding harness, ported to every client you use. Capture Claude Code (or Codex) rules, hooks, skills, subagents, ",
     "id": "ucsandman/Agnostic-AI",
     "language": "JavaScript",
@@ -234,31 +360,13 @@
     "url": "https://github.com/zztimur/skill-forge"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-06T16:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Agent Package Manager",
     "id": "microsoft/apm",
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 3738,
-    "updated_at": "2026-09-06T16:43:07Z",
+    "updated_at": "2026-09-06T17:08:43Z",
     "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "A meta-prompt that refactors any LLM prompt into a clearer, more structured, and higher-performing version using proven ",
-    "id": "mytech-today-now/prompt-refined",
-    "language": "\u2014",
-    "name": "mytech-today-now/prompt-refined",
-    "stars": 4,
-    "updated_at": "2026-09-06T16:42:11Z",
-    "url": "https://github.com/mytech-today-now/prompt-refined"
   },
   {
     "description": "\u4ece\u4e1a\u52a1\u60f3\u6cd5\u751f\u6210\u53ef\u5f00\u53d1\u3001\u53ef\u8bc4\u5ba1\u3001\u53ef\u9a8c\u6536\u7684\u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u4ea7\u54c1\u4e0e\u6280\u672f\u84dd\u56fe\u3002",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T16:40:52Z",
     "url": "https://github.com/zchstime/ai-workflow-automation-sop"
-  },
-  {
-    "description": "\u7ed3\u5408\u9500\u91cf\u3001\u5e93\u5b58\u3001\u4ea4\u671f\u548c\u5b63\u8282\u6027\uff0c\u8bbe\u8ba1\u53ef\u89e3\u91ca\u7684\u9884\u6d4b\u4e0e\u8865\u8d27\u51b3\u7b56\u3002",
-    "id": "zchstime/ai-supply-chain-forecast",
-    "language": "\u2014",
-    "name": "zchstime/ai-supply-chain-forecast",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:40:47Z",
-    "url": "https://github.com/zchstime/ai-supply-chain-forecast"
-  },
-  {
-    "description": "\u628a\u4e13\u4e1a\u89c2\u70b9\u53d8\u6210\u6709\u94a9\u5b50\u3001\u53ef\u62cd\u6444\u3001\u53ef\u526a\u8f91\u3001\u53ef\u53d1\u5e03\u7684\u77ed\u89c6\u9891\u65b9\u6848\u3002",
-    "id": "zchstime/ai-short-video-production",
-    "language": "\u2014",
-    "name": "zchstime/ai-short-video-production",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:40:42Z",
-    "url": "https://github.com/zchstime/ai-short-video-production"
-  },
-  {
-    "description": "\u7528\u53ef\u590d\u73b0\u6d4b\u8bd5\u8bc4\u4f30\u63d0\u793a\u6ce8\u5165\u3001\u6570\u636e\u6cc4\u9732\u3001\u8d8a\u6743\u8c03\u7528\u548c\u9ad8\u98ce\u9669 AI \u884c\u52a8\u3002",
-    "id": "zchstime/ai-security-red-team-evaluation",
-    "language": "\u2014",
-    "name": "zchstime/ai-security-red-team-evaluation",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:40:38Z",
-    "url": "https://github.com/zchstime/ai-security-red-team-evaluation"
-  },
-  {
-    "description": "\u6a21\u62df\u771f\u5b9e\u5ba2\u6237\u548c\u5f02\u8bae\uff0c\u7528\u884c\u4e3a\u8bc1\u636e\u8bc4\u5206\u5e76\u751f\u6210\u4e2a\u6027\u5316\u9500\u552e\u590d\u8bad\u4efb\u52a1\u3002",
-    "id": "zchstime/ai-sales-roleplay-coach",
-    "language": "\u2014",
-    "name": "zchstime/ai-sales-roleplay-coach",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:40:33Z",
-    "url": "https://github.com/zchstime/ai-sales-roleplay-coach"
-  },
-  {
-    "description": "\u4ece\u5c97\u4f4d\u9700\u6c42\u751f\u6210\u5019\u9009\u4eba\u753b\u50cf\u3001\u7ed3\u6784\u5316\u9762\u8bd5\u3001\u8bc4\u5206\u8868\u4e0e\u5408\u89c4\u62db\u8058\u6d41\u7a0b\u3002",
-    "id": "zchstime/ai-recruiting-interview-coach",
-    "language": "\u2014",
-    "name": "zchstime/ai-recruiting-interview-coach",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:40:28Z",
-    "url": "https://github.com/zchstime/ai-recruiting-interview-coach"
-  },
-  {
-    "description": "\u628a\u4e1a\u52a1\u76ee\u6807\u8f6c\u6210\u53ef\u590d\u7528\u3001\u53ef\u8bc4\u6d4b\u3001\u53ef\u7ef4\u62a4\u7684\u63d0\u793a\u8bcd\u6a21\u677f\u548c\u591a\u6b65 AI \u5de5\u4f5c\u6d41\u3002",
-    "id": "zchstime/ai-prompt-workflow-design",
-    "language": "\u2014",
-    "name": "zchstime/ai-prompt-workflow-design",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:40:24Z",
-    "url": "https://github.com/zchstime/ai-prompt-workflow-design"
-  },
-  {
-    "description": "\u628a AI \u9879\u76ee\u76ee\u6807\u62c6\u6210\u8303\u56f4\u3001\u6545\u4e8b\u3001\u91cc\u7a0b\u7891\u3001\u8d23\u4efb\u3001\u98ce\u9669\u548c\u9a8c\u6536\u95ed\u73af\u3002",
-    "id": "zchstime/ai-project-delivery-copilot",
-    "language": "\u2014",
-    "name": "zchstime/ai-project-delivery-copilot",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:40:19Z",
-    "url": "https://github.com/zchstime/ai-project-delivery-copilot"
-  },
-  {
-    "description": "\u5c06\u6a21\u7cca AI \u521b\u610f\u8f6c\u6210\u53ef\u9a8c\u8bc1\u3001\u53ef\u5f00\u53d1\u3001\u53ef\u8bc4\u6d4b\u7684 MVP \u4e0e PRD\u3002",
-    "id": "zchstime/ai-product-mvp-prd",
-    "language": "\u2014",
-    "name": "zchstime/ai-product-mvp-prd",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:40:15Z",
-    "url": "https://github.com/zchstime/ai-product-mvp-prd"
-  },
-  {
-    "description": "\u4e3a AI \u4ea7\u54c1\u8bbe\u8ba1\u4e8b\u4ef6\u6a21\u578b\u3001\u8f6c\u5316\u6f0f\u6597\u3001\u8d28\u91cf\u6210\u672c\u6307\u6807\u4e0e\u6570\u636e\u770b\u677f\u3002",
-    "id": "zchstime/ai-product-metrics-events",
-    "language": "\u2014",
-    "name": "zchstime/ai-product-metrics-events",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:40:11Z",
-    "url": "https://github.com/zchstime/ai-product-metrics-events"
-  },
-  {
-    "description": "\u5ba1\u89c6 AI \u4ea7\u54c1\u7684\u6570\u636e\u751f\u547d\u5468\u671f\u3001\u6743\u9650\u3001\u65e5\u5fd7\u3001\u7528\u6237\u544a\u77e5\u4e0e\u5408\u89c4\u98ce\u9669\u3002",
-    "id": "zchstime/ai-privacy-compliance-audit",
-    "language": "\u2014",
-    "name": "zchstime/ai-privacy-compliance-audit",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:40:07Z",
-    "url": "https://github.com/zchstime/ai-privacy-compliance-audit"
-  },
-  {
-    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
-    "id": "5uprem4/ai-skill-vault",
-    "language": "HTML",
-    "name": "5uprem4/ai-skill-vault",
-    "stars": 3,
-    "updated_at": "2026-09-06T16:40:04Z",
-    "url": "https://github.com/5uprem4/ai-skill-vault"
-  },
-  {
-    "description": "\u4ece\u5de5\u4f5c\u8bb0\u5f55\u4e2d\u63d0\u70bc\u7ee9\u6548\u4e8b\u5b9e\uff0c\u8bbe\u8ba1\u76ee\u6807\u3001\u5173\u952e\u7ed3\u679c\u548c\u53ef\u6267\u884c\u6539\u8fdb\u8ba1\u5212\u3002",
-    "id": "zchstime/ai-performance-review",
-    "language": "\u2014",
-    "name": "zchstime/ai-performance-review",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:40:02Z",
-    "url": "https://github.com/zchstime/ai-performance-review"
   }
 ]
