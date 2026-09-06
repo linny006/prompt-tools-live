@@ -1,12 +1,138 @@
 [
   {
+    "description": "\u5927\u6a21\u578b\u7cfb\u7edf\u5b66\u4e60\u624b\u518c \u00b7 LLM Study Manual \u2014 \u4ece\u539f\u7406\u5230\u843d\u5730\uff0c\u4e00\u4efd\u7cfb\u7edf\u7684\u5927\u6a21\u578b\u81ea\u5b66\u624b\u518c / From fundamentals to practice, a systematic self-study guide to LLM",
+    "id": "Zane517/llm-study-manual",
+    "language": "HTML",
+    "name": "Zane517/llm-study-manual",
+    "stars": 0,
+    "updated_at": "2026-09-06T06:15:04Z",
+    "url": "https://github.com/Zane517/llm-study-manual"
+  },
+  {
+    "description": "Deterministic context engineering for AI coding agents \u2014 structure over search, tokens over brute force. Claude Code / C",
+    "id": "lparfieniuk/context-forge",
+    "language": "Shell",
+    "name": "lparfieniuk/context-forge",
+    "stars": 0,
+    "updated_at": "2026-09-06T06:12:18Z",
+    "url": "https://github.com/lparfieniuk/context-forge"
+  },
+  {
+    "description": "Score the prompts you actually typed into Claude Code, using the expert rubric from Thorgeirsson, Weidmann & Su (CHI '26",
+    "id": "yunhui-chae-krafton/prompt-quality-monitor",
+    "language": "Python",
+    "name": "yunhui-chae-krafton/prompt-quality-monitor",
+    "stars": 0,
+    "updated_at": "2026-09-06T06:10:53Z",
+    "url": "https://github.com/yunhui-chae-krafton/prompt-quality-monitor"
+  },
+  {
+    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
+    "id": "alinafe82/cognitive-deadlift",
+    "language": "Python",
+    "name": "alinafe82/cognitive-deadlift",
+    "stars": 0,
+    "updated_at": "2026-09-06T06:11:13Z",
+    "url": "https://github.com/alinafe82/cognitive-deadlift"
+  },
+  {
+    "description": "Your naming pal, written in Go \ud83d\udc36",
+    "id": "huangsam/namigo",
+    "language": "Go",
+    "name": "huangsam/namigo",
+    "stars": 18,
+    "updated_at": "2026-09-06T06:09:18Z",
+    "url": "https://github.com/huangsam/namigo"
+  },
+  {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "braboj/solid-ai-templates",
+    "language": "Python",
+    "name": "braboj/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-09-06T06:09:07Z",
+    "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "AI short-film series: Grok Imagine visuals + Minimax Music cutaways. Open production hub with prompts, screenplays, and ",
+    "id": "ford442/weeks_on_fire",
+    "language": "TypeScript",
+    "name": "ford442/weeks_on_fire",
+    "stars": 1,
+    "updated_at": "2026-09-06T06:07:31Z",
+    "url": "https://github.com/ford442/weeks_on_fire"
+  },
+  {
     "description": "pytest for prompts \u2014 write a test, get a baseline, catch regressions in CI",
     "id": "m0thermulia/promptgold",
     "language": "Python",
     "name": "m0thermulia/promptgold",
     "stars": 0,
-    "updated_at": "2026-09-06T05:59:33Z",
+    "updated_at": "2026-09-06T06:07:28Z",
     "url": "https://github.com/m0thermulia/promptgold"
+  },
+  {
+    "description": "Instruction files and benchmarking scripts that teach Claude Code to do the same work with fewer tokens.",
+    "id": "Srinivasan-78/tokenmiser",
+    "language": "JavaScript",
+    "name": "Srinivasan-78/tokenmiser",
+    "stars": 1,
+    "updated_at": "2026-09-06T06:06:57Z",
+    "url": "https://github.com/Srinivasan-78/tokenmiser"
+  },
+  {
+    "description": "Portable agent-brain kit: superpowers methodology, YAGNI minimalism, cross-chat SQLite FTS5 memory, adversarial trap-sui",
+    "id": "oleg494/coding-kit",
+    "language": "Python",
+    "name": "oleg494/coding-kit",
+    "stars": 1,
+    "updated_at": "2026-09-06T06:04:44Z",
+    "url": "https://github.com/oleg494/coding-kit"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-09-06T06:02:00Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
+    "id": "ftvision/agent-prompt-observatory",
+    "language": "Python",
+    "name": "ftvision/agent-prompt-observatory",
+    "stars": 2,
+    "updated_at": "2026-09-06T06:00:49Z",
+    "url": "https://github.com/ftvision/agent-prompt-observatory"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-09-06T06:00:33Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-06T06:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3735,
+    "updated_at": "2026-09-06T06:03:16Z",
+    "url": "https://github.com/microsoft/apm"
   },
   {
     "description": "AI-powered knowledge and productivity assistant with Smart Prompt Engineering, RAG-based PDF assistance, conversation me",
@@ -23,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3523,
-    "updated_at": "2026-09-06T05:59:12Z",
+    "updated_at": "2026-09-06T06:14:38Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -144,15 +270,6 @@
     "url": "https://github.com/yang-shenxu/engineering-delivery-playbook"
   },
   {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3735,
-    "updated_at": "2026-09-06T06:00:21Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
     "description": "Three zero-dependency local ComfyUI tools: LoRA gallery generator / \u7075\u611f\u79ef\u6728 prompt builder / batch image runner. Pure Pytho",
     "id": "nancary/comfyui-local-toolbox",
     "language": "Python",
@@ -166,7 +283,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 64240,
+    "stars": 64241,
     "updated_at": "2026-09-06T05:49:05Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -178,24 +295,6 @@
     "stars": 415,
     "updated_at": "2026-09-06T05:47:47Z",
     "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-06T05:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "braboj/solid-ai-templates",
-    "language": "Python",
-    "name": "braboj/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-09-06T05:46:00Z",
-    "url": "https://github.com/braboj/solid-ai-templates"
   },
   {
     "description": "An agent package and project manager, written in Rust.",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T05:23:41Z",
     "url": "https://github.com/zztimur/skill-forge"
-  },
-  {
-    "description": "Run Claude, Cursor, Copilot, and Gemini on the same codebase without rule-file chaos. Bilingual (EN/KO) AGENTS.md-first ",
-    "id": "SoliEstre/EstreGenesis",
-    "language": "JavaScript",
-    "name": "SoliEstre/EstreGenesis",
-    "stars": 8,
-    "updated_at": "2026-09-06T05:22:27Z",
-    "url": "https://github.com/SoliEstre/EstreGenesis"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-09-06T05:22:27Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "No BB - a middleware that trims LLM reasoning tokens with zero accuracy loss. Appends a wrap-up constraint to the last u",
-    "id": "totwo2/no-bb",
-    "language": "Python",
-    "name": "totwo2/no-bb",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:22:52Z",
-    "url": "https://github.com/totwo2/no-bb"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 1,
-    "updated_at": "2026-09-06T05:21:27Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-09-06T05:21:26Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
-    "id": "Mr-Salticidae/knowledge-base",
-    "language": "Python",
-    "name": "Mr-Salticidae/knowledge-base",
-    "stars": 24,
-    "updated_at": "2026-09-06T05:21:14Z",
-    "url": "https://github.com/Mr-Salticidae/knowledge-base"
-  },
-  {
-    "description": "One photo to one poetic postcard. Model-neutral Agent Skill for Codex, Claude Code, WorkBuddy, Dreamina and Doubao. \u7167\u7247\u8bd7\u610f",
-    "id": "yinxiaowai/xiaowai-photo-poetic-postcard",
-    "language": "Python",
-    "name": "yinxiaowai/xiaowai-photo-poetic-postcard",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:24:44Z",
-    "url": "https://github.com/yinxiaowai/xiaowai-photo-poetic-postcard"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 1,
-    "updated_at": "2026-09-06T05:21:00Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-09-06T05:21:02Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 1,
-    "updated_at": "2026-09-06T05:20:55Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Turn a source tree into portable, plain\u2011text archives \u2014 paste into an LLM context window, diff against a snapshot, or re",
-    "id": "Phyxashun/pendex",
-    "language": "TypeScript",
-    "name": "Phyxashun/pendex",
-    "stars": 1,
-    "updated_at": "2026-09-06T05:19:19Z",
-    "url": "https://github.com/Phyxashun/pendex"
   }
 ]
