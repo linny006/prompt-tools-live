@@ -1,5 +1,149 @@
 [
   {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "braboj/solid-ai-templates",
+    "language": "Python",
+    "name": "braboj/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-09-06T05:43:40Z",
+    "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "Three zero-dependency local ComfyUI tools: LoRA gallery generator / \u7075\u611f\u79ef\u6728 prompt builder / batch image runner. Pure Pytho",
+    "id": "nancary/comfyui-local-toolbox",
+    "language": "Python",
+    "name": "nancary/comfyui-local-toolbox",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:42:56Z",
+    "url": "https://github.com/nancary/comfyui-local-toolbox"
+  },
+  {
+    "description": "An agent package and project manager, written in Rust.",
+    "id": "narumiruna/aru",
+    "language": "Rust",
+    "name": "narumiruna/aru",
+    "stars": 5,
+    "updated_at": "2026-09-06T05:40:58Z",
+    "url": "https://github.com/narumiruna/aru"
+  },
+  {
+    "description": "Engineering workflows, mentorship protocols, and quality gates for developers pairing with AI coding assistants.",
+    "id": "lowqualityloey/better-promptkit",
+    "language": "PowerShell",
+    "name": "lowqualityloey/better-promptkit",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:40:27Z",
+    "url": "https://github.com/lowqualityloey/better-promptkit"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 1,
+    "updated_at": "2026-09-06T05:37:59Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "Your AI agent is amnesiac between sessions. Four Markdown files and one ritual fix it. Free starter: 4 memory types, 3 p",
+    "id": "fahmiwol/agent-memory-starter",
+    "language": "\u2014",
+    "name": "fahmiwol/agent-memory-starter",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:37:43Z",
+    "url": "https://github.com/fahmiwol/agent-memory-starter"
+  },
+  {
+    "description": "92+ atomic, copy-paste-ready modules & artifacts for building AI agents, LLM apps, RAG, agentic tools, fintech ledgers, ",
+    "id": "fahmiwol/tyx-lab",
+    "language": "HTML",
+    "name": "fahmiwol/tyx-lab",
+    "stars": 1,
+    "updated_at": "2026-09-06T05:37:21Z",
+    "url": "https://github.com/fahmiwol/tyx-lab"
+  },
+  {
+    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+    "id": "kaderkck/hewn-forge",
+    "language": "HTML",
+    "name": "kaderkck/hewn-forge",
+    "stars": 118,
+    "updated_at": "2026-09-06T05:36:55Z",
+    "url": "https://github.com/kaderkck/hewn-forge"
+  },
+  {
+    "description": "Rules for coding assistants: check every interaction path before reporting work finished. \u00a9 Martial Systems LLC",
+    "id": "martialsystems/verify-before-done",
+    "language": "Python",
+    "name": "martialsystems/verify-before-done",
+    "stars": 1,
+    "updated_at": "2026-09-06T05:35:16Z",
+    "url": "https://github.com/martialsystems/verify-before-done"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-06T05:34:59Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
+    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "language": "HTML",
+    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+    "stars": 2,
+    "updated_at": "2026-09-06T05:34:56Z",
+    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
+  },
+  {
+    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
+    "id": "Atheerameer/agentic-cli-blueprint-library",
+    "language": "HTML",
+    "name": "Atheerameer/agentic-cli-blueprint-library",
+    "stars": 1,
+    "updated_at": "2026-09-06T05:34:00Z",
+    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
+  },
+  {
+    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
+    "id": "SHENG5411/grimoire-of-tools",
+    "language": "HTML",
+    "name": "SHENG5411/grimoire-of-tools",
+    "stars": 2,
+    "updated_at": "2026-09-06T05:33:49Z",
+    "url": "https://github.com/SHENG5411/grimoire-of-tools"
+  },
+  {
+    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
+    "id": "Asir11/langgraph-agentic-workflows-tutorial",
+    "language": "HTML",
+    "name": "Asir11/langgraph-agentic-workflows-tutorial",
+    "stars": 1,
+    "updated_at": "2026-09-06T05:33:37Z",
+    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3735,
+    "updated_at": "2026-09-06T05:44:32Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-06T05:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI-powered goal planning and progress tracking system built with Node.js, OpenAI-compatible APIs, and agentic AI concept",
     "id": "mrshanshuvo/goalpilot-ai",
     "language": "JavaScript",
@@ -7,6 +151,15 @@
     "stars": 1,
     "updated_at": "2026-09-06T05:29:32Z",
     "url": "https://github.com/mrshanshuvo/goalpilot-ai"
+  },
+  {
+    "description": "\u5de5\u7a0b\u4ea4\u4ed8\u65b9\u6cd5\u8bba + \u53ef\u8fd0\u884c\u4ee3\u7801\uff1a\u62a5\u8868\u6027\u80fd\u4f18\u5316 / \u9632\u5e7b\u89c9\u63d0\u793a\u8bcd / AI \u534f\u4f5c\u6cbb\u7406 / \u914d\u7f6e\u9a71\u52a8\u62a5\u8868\u5de5\u5177\uff08\u8131\u654f\u7248\uff09",
+    "id": "yang-shenxu/engineering-delivery-playbook",
+    "language": "Python",
+    "name": "yang-shenxu/engineering-delivery-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:28:51Z",
+    "url": "https://github.com/yang-shenxu/engineering-delivery-playbook"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -27,7 +180,7 @@
     "url": "https://github.com/5uprem4/ai-skill-vault"
   },
   {
-    "description": "\ud83c\udfad AI \u5199\u5c0f\u8bf4\uff1a\u4ece\u96f6\u751f\u6210 10-50 \u7ae0\u5b8c\u6574\u4e2d\u6587\u5c0f\u8bf4\uff0c\u4e09\u5c42\u95ee\u7b54 \u00b7 \u521b\u4f5c\u8bb0\u5fc6 \u00b7 \u60ac\u5ff5\u94a9\u5b50 \u00b7 \u81ea\u52a8\u6821\u9a8c\uff0c\u957f\u7bc7\u7f51\u6587\u8fde\u8f7d\u7686\u5b9c\uff5c\u5f00\u6e90 Claude Code \u6280\u80fd\uff5cAI novel writing skill",
+    "description": "\ud83c\udfad AI \u5199\u5c0f\u8bf4\uff1a\u4ece\u96f6\u751f\u6210 10-50 \u7ae0\u5b8c\u6574\u4e2d\u6587\u5c0f\u8bf4\uff0c\u4e09\u5c42\u95ee\u7b54 \u00b7 \u521b\u4f5c\u8bb0\u5fc6 \u00b7 \u60ac\u5ff5\u94a9\u5b50 \u00b7 \u81ea\u52a8\u6821\u9a8c\uff0c\u957f\u7bc7\u7f51\u6587\u8fde\u8f7d\u7686\u5b9c\uff5c\u5f00\u6e90\u514d\u8d39\uff0c\u9002\u914d\u4e3b\u6d41 coding agent\uff5cAI novel writing skill",
     "id": "PenglongHuang/chinese-novelist-skill",
     "language": "Python",
     "name": "PenglongHuang/chinese-novelist-skill",
@@ -97,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T05:22:27Z",
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "braboj/solid-ai-templates",
-    "language": "Python",
-    "name": "braboj/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-09-06T05:26:21Z",
-    "url": "https://github.com/braboj/solid-ai-templates"
   },
   {
     "description": "No BB - a middleware that trims LLM reasoning tokens with zero accuracy loss. Appends a wrap-up constraint to the last u",
@@ -198,15 +342,6 @@
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
   },
   {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-06T05:18:12Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
     "description": "Web application for systematic prompt engineering and model evaluation",
     "id": "illogical/LMEval",
     "language": "TypeScript",
@@ -214,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T05:17:29Z",
     "url": "https://github.com/illogical/LMEval"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-06T05:15:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Structured, spec-driven development workflow for AI coding agents.",
@@ -315,15 +441,6 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "Engineering workflows, mentorship protocols, and quality gates for developers pairing with AI coding assistants.",
-    "id": "lowqualityloey/better-promptkit",
-    "language": "PowerShell",
-    "name": "lowqualityloey/better-promptkit",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:07:08Z",
-    "url": "https://github.com/lowqualityloey/better-promptkit"
-  },
-  {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
@@ -331,122 +448,5 @@
     "stars": 19,
     "updated_at": "2026-09-06T05:05:49Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Tiered intent & subject router for LLM apps: heuristics + light-LLM classification + degradation chains | LLM \u5e94\u7528\u4e09\u7ea7\u610f\u56fe\u8def\u7531\u5e93",
-    "id": "1084669403/llm-intent-router",
-    "language": "Python",
-    "name": "1084669403/llm-intent-router",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:00:53Z",
-    "url": "https://github.com/1084669403/llm-intent-router"
-  },
-  {
-    "description": "\u628a@\u5cf0\u54e5\u4ea1\u547d\u5929\u6daf \u7684 559 \u6761\u5fae\u535a + 2440 \u6761\u226530\u8d5e\u8bc4\u8bba\uff0c\u84b8\u998f\u6210\u53ef\u590d\u7528\u7684\u300c\u5cf0\u54e5\u8bed\u4f53\u5f15\u64ce\u300d\uff1a\u4e32\u5b50\u3001\u8e6d\u5b50\u3001\u88c5\u9893\u3001\u88ab\u770b\u7a7f\u7684\u81ea\u6211\u5439\u5618\u3002\u542b\u8bed\u6599\u7ba1\u9053(nodejs)\u3001\u7b5b\u9009\u811a\u672c\u3001\u7edf\u8ba1\u53e3\u5f84\u3002/ Distilling @fengge's Weibo",
-    "id": "MincongZhou/fengge-distill",
-    "language": "JavaScript",
-    "name": "MincongZhou/fengge-distill",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:59:54Z",
-    "url": "https://github.com/MincongZhou/fengge-distill"
-  },
-  {
-    "description": "92+ atomic, copy-paste-ready modules & artifacts for building AI agents, LLM apps, RAG, agentic tools, fintech ledgers, ",
-    "id": "fahmiwol/tyx-lab",
-    "language": "HTML",
-    "name": "fahmiwol/tyx-lab",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:57:02Z",
-    "url": "https://github.com/fahmiwol/tyx-lab"
-  },
-  {
-    "description": "Engineered to transcend human limits. While other platforms struggle with basic utility, we have perfected absolute domi",
-    "id": "Rona-code/flowly.ai",
-    "language": "TypeScript",
-    "name": "Rona-code/flowly.ai",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:56:46Z",
-    "url": "https://github.com/Rona-code/flowly.ai"
-  },
-  {
-    "description": "Your AI agent is amnesiac between sessions. Four Markdown files and one ritual fix it. Free starter: 4 memory types, 3 p",
-    "id": "fahmiwol/agent-memory-starter",
-    "language": "\u2014",
-    "name": "fahmiwol/agent-memory-starter",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:53:56Z",
-    "url": "https://github.com/fahmiwol/agent-memory-starter"
-  },
-  {
-    "description": "OpenCode + Oh-My-OpenAgent configuration stack: auto-rules, model routing, scripts, ADRs, search infrastructure, and doc",
-    "id": "B67687/Agent-Stack",
-    "language": "Shell",
-    "name": "B67687/Agent-Stack",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:51:28Z",
-    "url": "https://github.com/B67687/Agent-Stack"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:50:04Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Profile README | Ingeniera en Inform\u00e1tica & AI Engineer. Especialista en React, Node.js y flujos de desarrollo asistidos",
-    "id": "lesm23031990/lesm23031990",
-    "language": "\u2014",
-    "name": "lesm23031990/lesm23031990",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:49:37Z",
-    "url": "https://github.com/lesm23031990/lesm23031990"
-  },
-  {
-    "description": "A hands-on evaluation lab for comparing AI model behavior, prompt configurations, latency, token usage, and human-assign",
-    "id": "rajeshwarigorthi/ai-model-behavior-evaluation-lab",
-    "language": "Python",
-    "name": "rajeshwarigorthi/ai-model-behavior-evaluation-lab",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:46:36Z",
-    "url": "https://github.com/rajeshwarigorthi/ai-model-behavior-evaluation-lab"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-09-06T04:45:43Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "A planning skill for Claude or ChatGPT that asks before it plans. Three versions: claude.ai, engineers, and read-only fo",
-    "id": "marcosathanasoulis/prompt-it",
-    "language": "Python",
-    "name": "marcosathanasoulis/prompt-it",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:46:08Z",
-    "url": "https://github.com/marcosathanasoulis/prompt-it"
-  },
-  {
-    "description": "\u5229\u7528\u5834\u9762\u3068\u5883\u754c\u4e8b\u4f8b\u304b\u3089\u81ea\u5df1\u5b8c\u7d50\u3057\u305fSkill\u3092\u8a2d\u8a08\u30fb\u4f5c\u6210\u30fb\u66f4\u65b0\u3059\u308bClaude Code/Codex\u30d7\u30e9\u30b0\u30a4\u30f3",
-    "id": "nakamori-naoya/skill-authoring-plugins",
-    "language": "Shell",
-    "name": "nakamori-naoya/skill-authoring-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:42:17Z",
-    "url": "https://github.com/nakamori-naoya/skill-authoring-plugins"
-  },
-  {
-    "description": "Deepdive skill for Claude Code \u2014 12-phase research pipeline: plan-review gate, parallel sub-agent search, claims-ledger ",
-    "id": "Socialpranker/deepdive",
-    "language": "Python",
-    "name": "Socialpranker/deepdive",
-    "stars": 393,
-    "updated_at": "2026-09-06T04:40:35Z",
-    "url": "https://github.com/Socialpranker/deepdive"
   }
 ]
