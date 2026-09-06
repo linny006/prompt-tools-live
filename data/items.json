@@ -1,5 +1,131 @@
 [
   {
+    "description": "The creator kit: 134 Claude Code commands, 22 skills and 5 agents that carry their own DTD grammar, laws and trust bound",
+    "id": "Nova-Violet-Role/RoT-DtD-Commander",
+    "language": "JavaScript",
+    "name": "Nova-Violet-Role/RoT-DtD-Commander",
+    "stars": 3,
+    "updated_at": "2026-09-06T20:14:00Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-DtD-Commander"
+  },
+  {
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "id": "blader/humanizer",
+    "language": "Python",
+    "name": "blader/humanizer",
+    "stars": 44122,
+    "updated_at": "2026-09-06T20:13:37Z",
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-06T20:11:32Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-09-06T20:11:21Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 1,
+    "updated_at": "2026-09-06T20:11:04Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "braboj/solid-ai-templates",
+    "language": "Python",
+    "name": "braboj/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-09-06T20:10:26Z",
+    "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "A Claude Code plugin for orchestrating parallel AI agent quests with worktree isolation, phase gates, and context discip",
+    "id": "justinjdev/fellowship",
+    "language": "Go",
+    "name": "justinjdev/fellowship",
+    "stars": 5,
+    "updated_at": "2026-09-06T20:10:14Z",
+    "url": "https://github.com/justinjdev/fellowship"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-09-06T20:15:02Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Curated, verified Agent Skills powered by ModelStudio.",
+    "id": "modelstudioai/skills",
+    "language": "Python",
+    "name": "modelstudioai/skills",
+    "stars": 55,
+    "updated_at": "2026-09-06T20:04:53Z",
+    "url": "https://github.com/modelstudioai/skills"
+  },
+  {
+    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
+    "id": "imhamzakhan/context-flow-compressor",
+    "language": "HTML",
+    "name": "imhamzakhan/context-flow-compressor",
+    "stars": 1,
+    "updated_at": "2026-09-06T20:04:16Z",
+    "url": "https://github.com/imhamzakhan/context-flow-compressor"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13376,
+    "updated_at": "2026-09-06T20:03:57Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Enterprise LLM prompt regression testing, MCTS active optimization, token-level hallucination attribution, and guardrail",
+    "id": "latryee/promptdiff",
+    "language": "Python",
+    "name": "latryee/promptdiff",
+    "stars": 1,
+    "updated_at": "2026-09-06T20:01:39Z",
+    "url": "https://github.com/latryee/promptdiff"
+  },
+  {
+    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
+    "id": "Muizzkolapo/agent-actions",
+    "language": "Python",
+    "name": "Muizzkolapo/agent-actions",
+    "stars": 8,
+    "updated_at": "2026-09-06T20:01:00Z",
+    "url": "https://github.com/Muizzkolapo/agent-actions"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-06T20:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
     "id": "sergeeey/Claude-cod-top-2026",
     "language": "Python",
@@ -7,15 +133,6 @@
     "stars": 7,
     "updated_at": "2026-09-06T19:59:38Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "Agent skill that removes signs of AI-generated writing from text",
-    "id": "blader/humanizer",
-    "language": "Python",
-    "name": "blader/humanizer",
-    "stars": 44108,
-    "updated_at": "2026-09-06T19:58:50Z",
-    "url": "https://github.com/blader/humanizer"
   },
   {
     "description": "Your AI coding agent starts every session knowing your repos, your clients, and how you work \u2014 a plain git repo of markd",
@@ -36,15 +153,6 @@
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
   },
   {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-09-06T19:59:27Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -61,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T19:55:54Z",
     "url": "https://github.com/soul-sol/claude-md-patterns"
-  },
-  {
-    "description": "The creator kit: 134 Claude Code commands, 22 skills and 5 agents that carry their own DTD grammar, laws and trust bound",
-    "id": "Nova-Violet-Role/RoT-DtD-Commander",
-    "language": "JavaScript",
-    "name": "Nova-Violet-Role/RoT-DtD-Commander",
-    "stars": 3,
-    "updated_at": "2026-09-06T19:55:07Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-DtD-Commander"
-  },
-  {
-    "description": "Enterprise LLM prompt regression testing, MCTS active optimization, token-level hallucination attribution, and guardrail",
-    "id": "latryee/promptdiff",
-    "language": "Python",
-    "name": "latryee/promptdiff",
-    "stars": 1,
-    "updated_at": "2026-09-06T19:53:39Z",
-    "url": "https://github.com/latryee/promptdiff"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -115,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T19:52:07Z",
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-09-06T19:51:00Z",
-    "url": "https://github.com/clay-good/agent-replay"
   },
   {
     "description": "Marketing prompt builder that turns rough ideas or dictated notes into reusable AI instructions grounded in your brand v",
@@ -180,24 +261,6 @@
     "url": "https://github.com/mufeedvh/code2prompt"
   },
   {
-    "description": "A Claude Code plugin for orchestrating parallel AI agent quests with worktree isolation, phase gates, and context discip",
-    "id": "justinjdev/fellowship",
-    "language": "Go",
-    "name": "justinjdev/fellowship",
-    "stars": 5,
-    "updated_at": "2026-09-06T19:47:56Z",
-    "url": "https://github.com/justinjdev/fellowship"
-  },
-  {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "braboj/solid-ai-templates",
-    "language": "Python",
-    "name": "braboj/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-09-06T19:47:50Z",
-    "url": "https://github.com/braboj/solid-ai-templates"
-  },
-  {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
@@ -223,15 +286,6 @@
     "stars": 66,
     "updated_at": "2026-09-06T19:45:28Z",
     "url": "https://github.com/ericrisco/rsc-harness"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-06T19:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
@@ -311,7 +365,7 @@
     "language": "Go",
     "name": "AltairaLabs/PromptKit",
     "stars": 9,
-    "updated_at": "2026-09-06T19:43:25Z",
+    "updated_at": "2026-09-06T20:12:11Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
   },
   {
@@ -387,15 +441,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "Declarative framework for orchestrating multi-model Agentic pipelines with context engineering and quality gates.",
-    "id": "Muizzkolapo/agent-actions",
-    "language": "Python",
-    "name": "Muizzkolapo/agent-actions",
-    "stars": 8,
-    "updated_at": "2026-09-06T19:55:51Z",
-    "url": "https://github.com/Muizzkolapo/agent-actions"
-  },
-  {
     "description": "Vitruvius is an engineering research agent. ",
     "id": "adeerkhan/vitruvius",
     "language": "JavaScript",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T19:17:08Z",
     "url": "https://github.com/adeerkhan/vitruvius"
-  },
-  {
-    "description": "Harness-agnostic multi-agent delivery pipeline \u2014 plan \u2192 implement \u2192 review \u2192 QA \u2192 ship. Stack-neutral roles plus one pro",
-    "id": "TeleginS/agent-orchestration",
-    "language": "\u2014",
-    "name": "TeleginS/agent-orchestration",
-    "stars": 1,
-    "updated_at": "2026-09-06T19:16:37Z",
-    "url": "https://github.com/TeleginS/agent-orchestration"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-09-06T19:16:35Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-09-06T19:14:52Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-09-06T19:14:43Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Production-validated MiniMax H3 prompt director + validator for chained cinematic scenes (CC BY 4.0)",
-    "id": "IesoNagata/opencode-minimax-prompt-director",
-    "language": "HTML",
-    "name": "IesoNagata/opencode-minimax-prompt-director",
-    "stars": 1,
-    "updated_at": "2026-09-06T19:12:40Z",
-    "url": "https://github.com/IesoNagata/opencode-minimax-prompt-director"
   }
 ]
