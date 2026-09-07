@@ -1,12 +1,165 @@
 [
   {
+    "description": "The Dream Machine \u2014 a config-driven engine for nightly, cloud-scheduled, evidence-gated repository evolution. Composes @",
+    "id": "ruvnet/dream-machine",
+    "language": "TypeScript",
+    "name": "ruvnet/dream-machine",
+    "stars": 26,
+    "updated_at": "2026-09-07T17:14:43Z",
+    "url": "https://github.com/ruvnet/dream-machine"
+  },
+  {
+    "description": "CLI and shared catalog for initializing repos with skills, rules, and instructions across multiple agentic coding platfo",
+    "id": "pedromvgomes/agentic-toolkit",
+    "language": "Go",
+    "name": "pedromvgomes/agentic-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-07T17:14:32Z",
+    "url": "https://github.com/pedromvgomes/agentic-toolkit"
+  },
+  {
+    "description": "Local Claude Code HTTP traffic inspector with a desktop GUI and agent API. Capture prompts, tools, SSE, errors, and toke",
+    "id": "FuHehe12/cc-wire-analyzer",
+    "language": "HTML",
+    "name": "FuHehe12/cc-wire-analyzer",
+    "stars": 3,
+    "updated_at": "2026-09-07T17:14:23Z",
+    "url": "https://github.com/FuHehe12/cc-wire-analyzer"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 120,
+    "updated_at": "2026-09-07T17:13:02Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 1,
+    "updated_at": "2026-09-07T17:11:43Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
     "description": "Shared agent configuration for Claude Code, Codex, and Pi. One AGENTS.md instruction source, 35 portable skills, 16 expe",
     "id": "domengabrovsek/agent-config",
     "language": "Shell",
     "name": "domengabrovsek/agent-config",
     "stars": 15,
-    "updated_at": "2026-09-07T16:59:11Z",
+    "updated_at": "2026-09-07T17:14:43Z",
     "url": "https://github.com/domengabrovsek/agent-config"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-07T17:10:32Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "Shell",
+    "name": "terrylica/cc-skills",
+    "stars": 62,
+    "updated_at": "2026-09-07T17:10:18Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "HTML",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 27,
+    "updated_at": "2026-09-07T17:09:38Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
+    "description": "Deterministic context-window budgeting for LLM prompts, with a full audit trail of every token decision. Zero dependenci",
+    "id": "mathewOracle/contextbudget",
+    "language": "Python",
+    "name": "mathewOracle/contextbudget",
+    "stars": 0,
+    "updated_at": "2026-09-07T17:09:15Z",
+    "url": "https://github.com/mathewOracle/contextbudget"
+  },
+  {
+    "description": "Grimoire's Tome & The Grim Council. A Prompt Spellbook of /skills. The #1 Coding Wizard \ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udcd6",
+    "id": "MindGoblinStudios/grim-tome",
+    "language": "JavaScript",
+    "name": "MindGoblinStudios/grim-tome",
+    "stars": 16,
+    "updated_at": "2026-09-07T17:07:35Z",
+    "url": "https://github.com/MindGoblinStudios/grim-tome"
+  },
+  {
+    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "stars": 0,
+    "updated_at": "2026-09-07T17:06:22Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+  },
+  {
+    "description": "Skills, steering rules and multi-agent workflows I use with Claude Code. Autonomous issue runners, adversarial gates, pa",
+    "id": "roufmlp/agent-skills",
+    "language": "Python",
+    "name": "roufmlp/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-07T17:06:01Z",
+    "url": "https://github.com/roufmlp/agent-skills"
+  },
+  {
+    "description": "Local, deterministic lifecycle orchestrator CLI \u2014 a process conductor for AI-assisted projects, with explicit human appr",
+    "id": "migmcc/project-pilot",
+    "language": "Python",
+    "name": "migmcc/project-pilot",
+    "stars": 1,
+    "updated_at": "2026-09-07T17:03:51Z",
+    "url": "https://github.com/migmcc/project-pilot"
+  },
+  {
+    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
+    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "language": "HTML",
+    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "stars": 50,
+    "updated_at": "2026-09-07T17:03:24Z",
+    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
+  },
+  {
+    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
+    "id": "teguhimanulloh47/pirate-talk-for-claude",
+    "language": "HTML",
+    "name": "teguhimanulloh47/pirate-talk-for-claude",
+    "stars": 1,
+    "updated_at": "2026-09-07T17:01:58Z",
+    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24899,
+    "updated_at": "2026-09-07T17:09:19Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-07T17:00:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -54,15 +207,6 @@
     "url": "https://github.com/lizliz404/agent-skills"
   },
   {
-    "description": "Grimoire's Tome & The Grim Council. A Prompt Spellbook of /skills. The #1 Coding Wizard \ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udcd6",
-    "id": "MindGoblinStudios/grim-tome",
-    "language": "JavaScript",
-    "name": "MindGoblinStudios/grim-tome",
-    "stars": 16,
-    "updated_at": "2026-09-07T16:57:53Z",
-    "url": "https://github.com/MindGoblinStudios/grim-tome"
-  },
-  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -95,7 +239,7 @@
     "language": "JavaScript",
     "name": "thkt/dotclaude",
     "stars": 12,
-    "updated_at": "2026-09-07T16:56:22Z",
+    "updated_at": "2026-09-07T17:10:20Z",
     "url": "https://github.com/thkt/dotclaude"
   },
   {
@@ -133,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T16:54:24Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Deterministic context-window budgeting for LLM prompts, with a full audit trail of every token decision. Zero dependenci",
-    "id": "mathewOracle/contextbudget",
-    "language": "Python",
-    "name": "mathewOracle/contextbudget",
-    "stars": 0,
-    "updated_at": "2026-09-07T16:54:12Z",
-    "url": "https://github.com/mathewOracle/contextbudget"
   },
   {
     "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
@@ -193,7 +328,7 @@
     "id": "YouMind-OpenLab/awesome-gpt-image-2",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 9773,
+    "stars": 9775,
     "updated_at": "2026-09-07T16:49:16Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
   },
@@ -205,15 +340,6 @@
     "stars": 50,
     "updated_at": "2026-09-07T16:48:46Z",
     "url": "https://github.com/avasol/galadriel-public"
-  },
-  {
-    "description": "The Dream Machine \u2014 a config-driven engine for nightly, cloud-scheduled, evidence-gated repository evolution. Composes @",
-    "id": "ruvnet/dream-machine",
-    "language": "TypeScript",
-    "name": "ruvnet/dream-machine",
-    "stars": 26,
-    "updated_at": "2026-09-07T16:47:53Z",
-    "url": "https://github.com/ruvnet/dream-machine"
   },
   {
     "description": "The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources",
@@ -270,15 +396,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-07T16:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
     "id": "smsheik1/wiggly",
     "language": "TypeScript",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T16:38:01Z",
     "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
-  },
-  {
-    "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
-    "id": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "language": "\u2014",
-    "name": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "stars": 0,
-    "updated_at": "2026-09-07T16:37:26Z",
-    "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
-  },
-  {
-    "description": "\u955c\u9020 Image Forge \u2014 Codex visual-director Skill for GPT Image 2, FLUX and Midjourney: structured visual specs, cinematic st",
-    "id": "papperrollinggery/jingzao-image-forge",
-    "language": "Python",
-    "name": "papperrollinggery/jingzao-image-forge",
-    "stars": 3,
-    "updated_at": "2026-09-07T16:41:23Z",
-    "url": "https://github.com/papperrollinggery/jingzao-image-forge"
-  },
-  {
-    "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
-    "id": "variant-thripidae875/sols-rng-win-script-hub",
-    "language": "HTML",
-    "name": "variant-thripidae875/sols-rng-win-script-hub",
-    "stars": 0,
-    "updated_at": "2026-09-07T16:37:18Z",
-    "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27845,
-    "updated_at": "2026-09-07T16:36:03Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3525,
-    "updated_at": "2026-09-07T16:42:46Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "",
-    "id": "asa834/paperforge-2026-paper-workflow",
-    "language": "HTML",
-    "name": "asa834/paperforge-2026-paper-workflow",
-    "stars": 1,
-    "updated_at": "2026-09-07T16:35:35Z",
-    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "ChatGPT \u4e0e Codex \u7684\u53ef\u9a8c\u8bc1\u5de5\u4f5c\u6d41\u3001\u65ad\u70b9\u4ea4\u63a5\u3001\u7f51\u9875\u589e\u5f3a\u548c\u672c\u5730\u5de5\u5177",
-    "id": "RongNianXin/codex-workflows",
-    "language": "PowerShell",
-    "name": "RongNianXin/codex-workflows",
-    "stars": 4,
-    "updated_at": "2026-09-07T16:35:34Z",
-    "url": "https://github.com/RongNianXin/codex-workflows"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 2,
-    "updated_at": "2026-09-07T16:35:25Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 2,
-    "updated_at": "2026-09-07T16:35:05Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
-  },
-  {
-    "description": "Access curated prompts and output examples to optimize image generation with the GPT-Image-2 API.",
-    "id": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "language": "\u2014",
-    "name": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "stars": 2,
-    "updated_at": "2026-09-07T16:35:01Z",
-    "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "Enhance video production workflows with AI tools, 4K export support, and professional effects for CapCut.",
-    "id": "Kentlight970/Edit-Master-Pro",
-    "language": "Python",
-    "name": "Kentlight970/Edit-Master-Pro",
-    "stars": 2,
-    "updated_at": "2026-09-07T16:34:56Z",
-    "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "Vitruvius is an engineering research agent. ",
-    "id": "adeerkhan/vitruvius",
-    "language": "JavaScript",
-    "name": "adeerkhan/vitruvius",
-    "stars": 0,
-    "updated_at": "2026-09-07T16:34:56Z",
-    "url": "https://github.com/adeerkhan/vitruvius"
-  },
-  {
-    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
-    "id": "Ekmsi8525/agentsmith",
-    "language": "\u2014",
-    "name": "Ekmsi8525/agentsmith",
-    "stars": 2,
-    "updated_at": "2026-09-07T16:34:43Z",
-    "url": "https://github.com/Ekmsi8525/agentsmith"
   }
 ]
