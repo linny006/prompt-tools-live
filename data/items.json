@@ -1,5 +1,86 @@
 [
   {
+    "description": "The Dream Machine \u2014 a config-driven engine for nightly, cloud-scheduled, evidence-gated repository evolution. Composes @",
+    "id": "ruvnet/dream-machine",
+    "language": "TypeScript",
+    "name": "ruvnet/dream-machine",
+    "stars": 26,
+    "updated_at": "2026-09-07T21:45:00Z",
+    "url": "https://github.com/ruvnet/dream-machine"
+  },
+  {
+    "description": "The creator kit: 139 Claude Code commands, 22 skills and 5 agents that carry their own DTD grammar, laws and trust bound",
+    "id": "Nova-Violet-Role/RoT-DtD-Commander",
+    "language": "JavaScript",
+    "name": "Nova-Violet-Role/RoT-DtD-Commander",
+    "stars": 3,
+    "updated_at": "2026-09-07T21:44:58Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-DtD-Commander"
+  },
+  {
+    "description": "AI-native sales operating system built with Node.js, PostgreSQL, Redis, BullMQ, and a resilient multi-provider LLM archi",
+    "id": "Devpaul-01/Foundersales",
+    "language": "JavaScript",
+    "name": "Devpaul-01/Foundersales",
+    "stars": 1,
+    "updated_at": "2026-09-07T21:43:02Z",
+    "url": "https://github.com/Devpaul-01/Foundersales"
+  },
+  {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 11,
+    "updated_at": "2026-09-07T21:38:22Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-07T21:35:55Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Make a coding agent lead with the answer, without letting brevity delete or invent anything\" and add topics",
+    "id": "moecui22/spit-it-out",
+    "language": "Python",
+    "name": "moecui22/spit-it-out",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:35:10Z",
+    "url": "https://github.com/moecui22/spit-it-out"
+  },
+  {
+    "description": "A framework-free LLM engineering toolkit in one Python package: provider adapters, prompt and context engineering, struc",
+    "id": "fport/aimai-kit",
+    "language": "Python",
+    "name": "fport/aimai-kit",
+    "stars": 1,
+    "updated_at": "2026-09-07T21:32:15Z",
+    "url": "https://github.com/fport/aimai-kit"
+  },
+  {
+    "description": "AI-assisted sales landing page \u2014 prompt engineering, web development and Cloudflare deployment.",
+    "id": "MiguelHenriqueAIDEV/purple-rbx",
+    "language": "\u2014",
+    "name": "MiguelHenriqueAIDEV/purple-rbx",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:31:35Z",
+    "url": "https://github.com/MiguelHenriqueAIDEV/purple-rbx"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-07T21:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Skills, steering rules and multi-agent workflows I use with Claude Code. Autonomous issue runners, adversarial gates, pa",
     "id": "roufmlp/agent-skills",
     "language": "Python",
@@ -18,15 +99,6 @@
     "url": "https://github.com/CodeAlive-AI/ai-driven-development"
   },
   {
-    "description": "A framework-free LLM engineering toolkit in one Python package: provider adapters, prompt and context engineering, struc",
-    "id": "fport/aimai-kit",
-    "language": "Python",
-    "name": "fport/aimai-kit",
-    "stars": 1,
-    "updated_at": "2026-09-07T21:21:53Z",
-    "url": "https://github.com/fport/aimai-kit"
-  },
-  {
     "description": "",
     "id": "Practice019/agent-skills",
     "language": "PowerShell",
@@ -43,51 +115,6 @@
     "stars": 6,
     "updated_at": "2026-09-07T21:20:59Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "AI-assisted sales landing page \u2014 prompt engineering, web development and Cloudflare deployment.",
-    "id": "MiguelHenriqueAIDEV/purple-rbx",
-    "language": "\u2014",
-    "name": "MiguelHenriqueAIDEV/purple-rbx",
-    "stars": 0,
-    "updated_at": "2026-09-07T21:20:41Z",
-    "url": "https://github.com/MiguelHenriqueAIDEV/purple-rbx"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-07T21:19:41Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "JavaScript",
-    "name": "spidey889/context-generator",
-    "stars": 11,
-    "updated_at": "2026-09-07T21:18:44Z",
-    "url": "https://github.com/spidey889/context-generator"
-  },
-  {
-    "description": "Make a coding agent lead with the answer, without letting brevity delete or invent anything\" and add topics",
-    "id": "moecui22/spit-it-out",
-    "language": "Python",
-    "name": "moecui22/spit-it-out",
-    "stars": 0,
-    "updated_at": "2026-09-07T21:21:37Z",
-    "url": "https://github.com/moecui22/spit-it-out"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-07T21:15:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Long-session handoff for Hermes Agent: measure how close a chat is to the token limit that ends it, export the whole ses",
@@ -248,7 +275,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24904,
-    "updated_at": "2026-09-07T21:29:24Z",
+    "updated_at": "2026-09-07T21:39:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T20:38:15Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Prompt Runner SDK - Elixir toolkit for orchestrating multi-step prompt executions with Claude Code SDK and Codex SDK. St",
-    "id": "nshkrdotcom/prompt_runner_sdk",
-    "language": "Elixir",
-    "name": "nshkrdotcom/prompt_runner_sdk",
-    "stars": 2,
-    "updated_at": "2026-09-07T20:37:34Z",
-    "url": "https://github.com/nshkrdotcom/prompt_runner_sdk"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-09-07T20:37:01Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3524,
-    "updated_at": "2026-09-07T20:47:05Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
