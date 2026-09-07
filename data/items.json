@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\ude80 Convert your project structure into a single text file for LLMs, simplifying your development workflow and enhancing p",
+    "id": "Projectcafetechnolgoies/RepoToPrompt",
+    "language": "HTML",
+    "name": "Projectcafetechnolgoies/RepoToPrompt",
+    "stars": 2,
+    "updated_at": "2026-09-07T16:01:44Z",
+    "url": "https://github.com/Projectcafetechnolgoies/RepoToPrompt"
+  },
+  {
+    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "HTML",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 27,
+    "updated_at": "2026-09-07T16:01:42Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5913,
+    "updated_at": "2026-09-07T16:01:24Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "",
+    "id": "valenciakeithdonnel/awesome-gemini-ai",
+    "language": "\u2014",
+    "name": "valenciakeithdonnel/awesome-gemini-ai",
+    "stars": 1,
+    "updated_at": "2026-09-07T16:01:19Z",
+    "url": "https://github.com/valenciakeithdonnel/awesome-gemini-ai"
+  },
+  {
+    "description": "\ud83c\udf1f Explore creative prompts for Google's Gemini 3, designed to harness its Deep Think, multimodal understanding, and long",
+    "id": "Feezah/gemini3-starter-prompts",
+    "language": "\u2014",
+    "name": "Feezah/gemini3-starter-prompts",
+    "stars": 2,
+    "updated_at": "2026-09-07T16:01:14Z",
+    "url": "https://github.com/Feezah/gemini3-starter-prompts"
+  },
+  {
+    "description": "\ud83d\udcca Explore how Shannon entropy and mutual information can quantify prompt quality in generative AI systems across various",
+    "id": "kadirovjr/prompt-entropy-experiment",
+    "language": "Jupyter Notebook",
+    "name": "kadirovjr/prompt-entropy-experiment",
+    "stars": 1,
+    "updated_at": "2026-09-07T16:01:11Z",
+    "url": "https://github.com/kadirovjr/prompt-entropy-experiment"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-07T16:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workf",
+    "id": "chigwell/Penelopa.ai",
+    "language": "JavaScript",
+    "name": "chigwell/Penelopa.ai",
+    "stars": 87,
+    "updated_at": "2026-09-07T16:00:20Z",
+    "url": "https://github.com/chigwell/Penelopa.ai"
+  },
+  {
     "description": "AI release engineering - CI gate for prompts, skills, MCP, and models",
     "id": "xdlc-labs/airlock",
     "language": "Go",
@@ -50,17 +122,8 @@
     "language": "Shell",
     "name": "domengabrovsek/agent-config",
     "stars": 15,
-    "updated_at": "2026-09-07T15:58:24Z",
+    "updated_at": "2026-09-07T16:01:54Z",
     "url": "https://github.com/domengabrovsek/agent-config"
-  },
-  {
-    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
-    "id": "leeex1/Quillan-Ronin",
-    "language": "HTML",
-    "name": "leeex1/Quillan-Ronin",
-    "stars": 27,
-    "updated_at": "2026-09-07T15:57:13Z",
-    "url": "https://github.com/leeex1/Quillan-Ronin"
   },
   {
     "description": "\ud83d\ude80 Explore Prometheus and Grafana in this self-contained playground with a mock metrics server for learning and simulatin",
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21853,
-    "updated_at": "2026-09-07T15:57:47Z",
+    "updated_at": "2026-09-07T16:02:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -232,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T15:45:54Z",
     "url": "https://github.com/ElJoakoDELxD/Chief-of-Vibes"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-07T15:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Human-led AI workflows for real B2B sales work.",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-07T15:32:42Z",
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Local-first tool that strips emails, secrets, paths, and other identifying content out of your prompts before they reach",
-    "id": "Nano-Collective/prompt-scrubber",
-    "language": "TypeScript",
-    "name": "Nano-Collective/prompt-scrubber",
-    "stars": 16,
-    "updated_at": "2026-09-07T15:31:30Z",
-    "url": "https://github.com/Nano-Collective/prompt-scrubber"
-  },
-  {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "braboj/solid-ai-templates",
-    "language": "Python",
-    "name": "braboj/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-09-07T15:31:02Z",
-    "url": "https://github.com/braboj/solid-ai-templates"
-  },
-  {
-    "description": "Local-first agent skill for deterministic prompt regression reports",
-    "id": "rogerchappel/prompt-regression-skill",
-    "language": "JavaScript",
-    "name": "rogerchappel/prompt-regression-skill",
-    "stars": 0,
-    "updated_at": "2026-09-07T15:30:41Z",
-    "url": "https://github.com/rogerchappel/prompt-regression-skill"
-  },
-  {
-    "description": "\ud83c\udfac Verified Seedance 2.5 / 2.0 prompt library \u2014 every prompt human-checked against its original post, with author, source",
-    "id": "LearnPrompt/awesome-seedance",
-    "language": "JavaScript",
-    "name": "LearnPrompt/awesome-seedance",
-    "stars": 3,
-    "updated_at": "2026-09-07T15:24:51Z",
-    "url": "https://github.com/LearnPrompt/awesome-seedance"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 921,
-    "updated_at": "2026-09-07T15:24:38Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "An intel layer for AI coding agents that assumes its own rules might be wrong \u2014 and keeps the evidence. Authoritative no",
-    "id": "ReidenXerx/bearing",
-    "language": "JavaScript",
-    "name": "ReidenXerx/bearing",
-    "stars": 6,
-    "updated_at": "2026-09-07T15:26:21Z",
-    "url": "https://github.com/ReidenXerx/bearing"
   }
 ]
