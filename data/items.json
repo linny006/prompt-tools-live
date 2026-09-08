@@ -1,5 +1,131 @@
 [
   {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-09-08T08:58:05Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "Claude Code, Codex, and multi-agent configuration system: principles, hooks, skills, and workflow patterns for AI-assist",
+    "id": "AnastasiyaW/codex-claude-code-config",
+    "language": "Python",
+    "name": "AnastasiyaW/codex-claude-code-config",
+    "stars": 149,
+    "updated_at": "2026-09-08T08:57:24Z",
+    "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1960,
+    "updated_at": "2026-09-08T08:57:00Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Curated catalog of open, specialized AI agents for real business work \u2014 organized as broad umbrella categories (video, i",
+    "id": "Anil-matcha/agency-agents-os",
+    "language": "\u2014",
+    "name": "Anil-matcha/agency-agents-os",
+    "stars": 1,
+    "updated_at": "2026-09-08T08:56:48Z",
+    "url": "https://github.com/Anil-matcha/agency-agents-os"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-08T08:56:06Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "",
+    "id": "prudhvikakkunuri/Zomato-AI-Chatbot",
+    "language": "HTML",
+    "name": "prudhvikakkunuri/Zomato-AI-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-09-08T08:55:26Z",
+    "url": "https://github.com/prudhvikakkunuri/Zomato-AI-Chatbot"
+  },
+  {
+    "description": "Research-backed AI prompts for architectural visualization, interior design, home exteriors, landscapes, and reference-i",
+    "id": "jac2020-2020/architectural-visualization-prompt-library",
+    "language": "\u2014",
+    "name": "jac2020-2020/architectural-visualization-prompt-library",
+    "stars": 0,
+    "updated_at": "2026-09-08T08:53:34Z",
+    "url": "https://github.com/jac2020-2020/architectural-visualization-prompt-library"
+  },
+  {
+    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
+    "id": "Leo-maomao/pm-copilot",
+    "language": "Python",
+    "name": "Leo-maomao/pm-copilot",
+    "stars": 4,
+    "updated_at": "2026-09-08T08:53:04Z",
+    "url": "https://github.com/Leo-maomao/pm-copilot"
+  },
+  {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "braboj/solid-ai-templates",
+    "language": "Python",
+    "name": "braboj/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-09-08T08:50:04Z",
+    "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-08T08:48:51Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "A mobile-first AI game that turns visible photo traits into playful public style/vibe matches using a privacy-safe Gemin",
+    "id": "ihabkhaled/TwinzyAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/TwinzyAI",
+    "stars": 1,
+    "updated_at": "2026-09-08T08:48:41Z",
+    "url": "https://github.com/ihabkhaled/TwinzyAI"
+  },
+  {
+    "description": "AI coding assistant for VS Code \u2014 free BYOK (Claude, GPT-4o, DeepSeek, Qwen), unlimited local Ollama, 20 free cloud edit",
+    "id": "Adilaw12/freebird-vscode",
+    "language": "JavaScript",
+    "name": "Adilaw12/freebird-vscode",
+    "stars": 3,
+    "updated_at": "2026-09-08T08:47:54Z",
+    "url": "https://github.com/Adilaw12/freebird-vscode"
+  },
+  {
+    "description": "Agent Package Manager",
+    "id": "microsoft/apm",
+    "language": "Python",
+    "name": "microsoft/apm",
+    "stars": 3754,
+    "updated_at": "2026-09-08T08:50:07Z",
+    "url": "https://github.com/microsoft/apm"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-08T08:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Judgment infrastructure for AI coding agents \u2014 model tiering, adversarial verification gates, design QA, and enforcement",
     "id": "shubhamsingh-cell/fleetcraft",
     "language": "Python",
@@ -16,6 +142,15 @@
     "stars": 10,
     "updated_at": "2026-09-08T08:44:23Z",
     "url": "https://github.com/ravinperera/ai-token-efficiency-playbook"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34327,
+    "updated_at": "2026-09-08T08:43:53Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
@@ -36,21 +171,12 @@
     "url": "https://github.com/imainzed5/openprompting"
   },
   {
-    "description": "A mobile-first AI game that turns visible photo traits into playful public style/vibe matches using a privacy-safe Gemin",
-    "id": "ihabkhaled/TwinzyAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/TwinzyAI",
-    "stars": 1,
-    "updated_at": "2026-09-08T08:42:11Z",
-    "url": "https://github.com/ihabkhaled/TwinzyAI"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21865,
-    "updated_at": "2026-09-08T08:41:51Z",
+    "updated_at": "2026-09-08T08:48:50Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -77,26 +203,8 @@
     "language": "Python",
     "name": "JadeYingWah/gpt-5-6-sol-reasoning-style",
     "stars": 4,
-    "updated_at": "2026-09-08T08:39:54Z",
+    "updated_at": "2026-09-08T08:54:08Z",
     "url": "https://github.com/JadeYingWah/gpt-5-6-sol-reasoning-style"
-  },
-  {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 1,
-    "updated_at": "2026-09-08T08:39:50Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-08T08:39:48Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
@@ -113,17 +221,8 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 10,
-    "updated_at": "2026-09-08T08:39:20Z",
+    "updated_at": "2026-09-08T09:00:03Z",
     "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
-    "id": "Leo-maomao/pm-copilot",
-    "language": "Python",
-    "name": "Leo-maomao/pm-copilot",
-    "stars": 4,
-    "updated_at": "2026-09-08T08:39:19Z",
-    "url": "https://github.com/Leo-maomao/pm-copilot"
   },
   {
     "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
@@ -133,15 +232,6 @@
     "stars": 4,
     "updated_at": "2026-09-08T08:37:41Z",
     "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "braboj/solid-ai-templates",
-    "language": "Python",
-    "name": "braboj/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-09-08T08:37:33Z",
-    "url": "https://github.com/braboj/solid-ai-templates"
   },
   {
     "description": "DeepSeek Harness \u7684 Prompt \u5de5\u5177\u7bb1\uff1a\u522b\u518d\u590d\u5236\u7c98\u8d34\u2014\u201424 \u6761\u6df1\u5ea6\u6a21\u677f\u968f\u624b\u70b9\uff0c/prompt \u4e0e\u667a\u80fd\u63a8\u8350\u4e3b\u52a8\u515c\u5e95\uff0c\u88c5\u597d\u5373\u7528\u3001\u53ef\u81ea\u5b9a\u4e49\u3002 | The Prompt toolbox for DeepSeek Harness",
@@ -162,15 +252,6 @@
     "url": "https://github.com/luckyrjain/software-builder"
   },
   {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3754,
-    "updated_at": "2026-09-08T08:44:02Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
     "description": "AutoDL.Art MiniMax H3\u89c6\u9891\u751f\u6210API\u5ba2\u6237\u7aef\u4e0e\u4f73\u5eb7\u987a\u8f6f\u5e7f\u63d0\u793a\u8bcd\u6a21\u677fv7 (MiniMax H3 video generation API client + prompt template for Jiachengshun ",
     "id": "DaBaoAgent/autodl",
     "language": "Python",
@@ -187,24 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T08:34:46Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Research-backed AI prompts for architectural visualization, interior design, home exteriors, landscapes, and reference-i",
-    "id": "jac2020-2020/architectural-visualization-prompt-library",
-    "language": "\u2014",
-    "name": "jac2020-2020/architectural-visualization-prompt-library",
-    "stars": 0,
-    "updated_at": "2026-09-08T08:33:03Z",
-    "url": "https://github.com/jac2020-2020/architectural-visualization-prompt-library"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34326,
-    "updated_at": "2026-09-08T08:43:53Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -243,6 +306,15 @@
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
   },
   {
+    "description": "AI-writing humanizer for KO/EN/ZH/JA",
+    "id": "devswha/patina",
+    "language": "JavaScript",
+    "name": "devswha/patina",
+    "stars": 351,
+    "updated_at": "2026-09-08T08:31:09Z",
+    "url": "https://github.com/devswha/patina"
+  },
+  {
     "description": "Deterministic context-window budgeting for LLM prompts, with a full audit trail of every token decision. Zero dependenci",
     "id": "mathewOracle/contextbudget",
     "language": "Python",
@@ -250,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T08:30:52Z",
     "url": "https://github.com/mathewOracle/contextbudget"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-08T08:30:42Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Eight independently reusable AGENTS.md rule groups for Codex workflows: multi-agent routing, task hygiene, Caffeine keep",
@@ -288,15 +351,6 @@
     "url": "https://github.com/prudhvikakkunuri/AI-Legal-Assistant"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-08T08:33:33Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Engineered to transcend human limits. While other platforms struggle with basic utility, we have perfected absolute domi",
     "id": "Rona-code/flowly.ai",
     "language": "TypeScript",
@@ -313,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-09-08T08:26:43Z",
     "url": "https://github.com/zlxxlz1026/awesome-gpt-6-astra-casebook"
-  },
-  {
-    "description": "AI coding assistant for VS Code \u2014 free BYOK (Claude, GPT-4o, DeepSeek, Qwen), unlimited local Ollama, 20 free cloud edit",
-    "id": "Adilaw12/freebird-vscode",
-    "language": "JavaScript",
-    "name": "Adilaw12/freebird-vscode",
-    "stars": 3,
-    "updated_at": "2026-09-08T08:26:32Z",
-    "url": "https://github.com/Adilaw12/freebird-vscode"
   },
   {
     "description": "This repository serves as the comprehensive workspace for Quarter 4-5 academic endeavors, encompassing assignments, tech",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T08:19:25Z",
     "url": "https://github.com/theluckystrike/claudflow.com"
-  },
-  {
-    "description": "Claude Prompt Library -- 30+ ready-to-use prompt templates for coding, writing, analysis, and business. Search, filter, ",
-    "id": "theluckystrike/claudhq.com",
-    "language": "HTML",
-    "name": "theluckystrike/claudhq.com",
-    "stars": 2,
-    "updated_at": "2026-09-08T08:17:37Z",
-    "url": "https://github.com/theluckystrike/claudhq.com"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24922,
-    "updated_at": "2026-09-08T08:36:56Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Visual cheat sheet to discover, search, and compare how different AI models (SD 1.5, SDXL, FLUX and other) interpret hun",
-    "id": "nauno40/OmniPromptStyle-CheatSheet",
-    "language": "TypeScript",
-    "name": "nauno40/OmniPromptStyle-CheatSheet",
-    "stars": 8,
-    "updated_at": "2026-09-08T08:13:42Z",
-    "url": "https://github.com/nauno40/OmniPromptStyle-CheatSheet"
-  },
-  {
-    "description": "Helen Agent Develop Language ",
-    "id": "hahalee000000/helen",
-    "language": "Python",
-    "name": "hahalee000000/helen",
-    "stars": 1,
-    "updated_at": "2026-09-08T08:15:42Z",
-    "url": "https://github.com/hahalee000000/helen"
-  },
-  {
-    "description": "AI Paper Reviewer: LLM-based tool for academic paper review",
-    "id": "FanBroWell/AI-paper-reviewer",
-    "language": "Python",
-    "name": "FanBroWell/AI-paper-reviewer",
-    "stars": 37,
-    "updated_at": "2026-09-08T08:11:13Z",
-    "url": "https://github.com/FanBroWell/AI-paper-reviewer"
   }
 ]
