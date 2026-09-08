@@ -1,5 +1,131 @@
 [
   {
+    "description": "Projeto de estudo desenvolvido durante o bootcamp da DIO sobre utiliza\u00e7\u00e3o de IA como copiloto de desenvolvimento, com ad",
+    "id": "isaac0300/Bootcamp-DIO-IAS",
+    "language": "\u2014",
+    "name": "isaac0300/Bootcamp-DIO-IAS",
+    "stars": 0,
+    "updated_at": "2026-09-08T04:29:58Z",
+    "url": "https://github.com/isaac0300/Bootcamp-DIO-IAS"
+  },
+  {
+    "description": "AI-powered DevOps assistant that turns plain-English questions into structured runbooks using Gemini \u2014 runs as a CLI or ",
+    "id": "saghosh8/ai-devops-release-assistant",
+    "language": "Python",
+    "name": "saghosh8/ai-devops-release-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-08T04:28:18Z",
+    "url": "https://github.com/saghosh8/ai-devops-release-assistant"
+  },
+  {
+    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
+    "id": "GenSEAM/asl",
+    "language": "ASL",
+    "name": "GenSEAM/asl",
+    "stars": 1,
+    "updated_at": "2026-09-08T04:25:30Z",
+    "url": "https://github.com/GenSEAM/asl"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-09-08T04:23:11Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 922,
+    "updated_at": "2026-09-08T04:22:38Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-08T04:21:06Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Bilingual, review-gated Twitter/X automation skill suite powered by ThreadWave",
+    "id": "ohmyskyhigh/threadwave-skill",
+    "language": "JavaScript",
+    "name": "ohmyskyhigh/threadwave-skill",
+    "stars": 0,
+    "updated_at": "2026-09-08T04:19:35Z",
+    "url": "https://github.com/ohmyskyhigh/threadwave-skill"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 186,
+    "updated_at": "2026-09-08T04:23:07Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27851,
+    "updated_at": "2026-09-08T04:19:01Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Bakeoff campaigns measuring how conditional clauses in agent instructions change model behavior",
+    "id": "jamesdebatty/proviso",
+    "language": "Python",
+    "name": "jamesdebatty/proviso",
+    "stars": 0,
+    "updated_at": "2026-09-08T04:18:42Z",
+    "url": "https://github.com/jamesdebatty/proviso"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-08T04:17:58Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
+    "id": "DaveHomeAssist/prompt-lab",
+    "language": "JavaScript",
+    "name": "DaveHomeAssist/prompt-lab",
+    "stars": 2,
+    "updated_at": "2026-09-08T04:16:34Z",
+    "url": "https://github.com/DaveHomeAssist/prompt-lab"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-08T04:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Text-first toolkit for building reproducible, composable LLM workflows as plain files in OCaml.",
+    "id": "dakotamurphyucf/ochat",
+    "language": "OCaml",
+    "name": "dakotamurphyucf/ochat",
+    "stars": 30,
+    "updated_at": "2026-09-08T04:15:29Z",
+    "url": "https://github.com/dakotamurphyucf/ochat"
+  },
+  {
     "description": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Cla",
     "id": "Prysai/Prysai-LLM-Playbook",
     "language": "Python",
@@ -16,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T04:12:56Z",
     "url": "https://github.com/Lin830326/claude-code-model-playbook"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 922,
-    "updated_at": "2026-09-08T04:12:37Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
   },
   {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
@@ -45,21 +162,12 @@
     "url": "https://github.com/jnMetaCode/superpowers-zh"
   },
   {
-    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
-    "id": "DaveHomeAssist/prompt-lab",
-    "language": "JavaScript",
-    "name": "DaveHomeAssist/prompt-lab",
-    "stars": 2,
-    "updated_at": "2026-09-08T04:11:38Z",
-    "url": "https://github.com/DaveHomeAssist/prompt-lab"
-  },
-  {
     "description": "The platform for LLM evaluations and AI agent testing",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3524,
-    "updated_at": "2026-09-08T04:14:40Z",
+    "updated_at": "2026-09-08T04:15:52Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -90,15 +198,6 @@
     "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
   },
   {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 1,
-    "updated_at": "2026-09-08T04:09:12Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
     "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
     "id": "Raymondhou0917/speak-human-tw",
     "language": "Python",
@@ -106,15 +205,6 @@
     "stars": 944,
     "updated_at": "2026-09-08T04:08:29Z",
     "url": "https://github.com/Raymondhou0917/speak-human-tw"
-  },
-  {
-    "description": "AI-powered DevOps assistant that turns plain-English questions into structured runbooks using Gemini \u2014 runs as a CLI or ",
-    "id": "saghosh8/ai-devops-release-assistant",
-    "language": "Python",
-    "name": "saghosh8/ai-devops-release-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-08T04:09:32Z",
-    "url": "https://github.com/saghosh8/ai-devops-release-assistant"
   },
   {
     "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
@@ -148,7 +238,7 @@
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
     "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13382,
+    "stars": 13383,
     "updated_at": "2026-09-08T04:04:26Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
@@ -189,15 +279,6 @@
     "url": "https://github.com/irons163/awesome-gpt-image-2-zh"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-08T04:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A comprehensive blueprint for Large Language Models. A rigorous curriculum covering transformer architectures, pre-train",
     "id": "Ayush-2703/Large_languaage_Models",
     "language": "Python",
@@ -229,7 +310,7 @@
     "id": "ZeroLu/awesome-gpt-image",
     "language": "Python",
     "name": "ZeroLu/awesome-gpt-image",
-    "stars": 2169,
+    "stars": 2170,
     "updated_at": "2026-09-08T03:57:07Z",
     "url": "https://github.com/ZeroLu/awesome-gpt-image"
   },
@@ -241,15 +322,6 @@
     "stars": 3,
     "updated_at": "2026-09-08T03:56:30Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-08T03:55:32Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "Same AI, fewer tokens. Free forever. \u2014 tokenshrink.com",
@@ -274,7 +346,7 @@
     "id": "wilu222/unpolish-ai-writing",
     "language": "\u2014",
     "name": "wilu222/unpolish-ai-writing",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-08T03:49:15Z",
     "url": "https://github.com/wilu222/unpolish-ai-writing"
   },
@@ -333,15 +405,6 @@
     "url": "https://github.com/saghosh8/AI-For-DevOps"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-08T04:09:26Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
     "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T03:31:16Z",
     "url": "https://github.com/Stephenxu000/adr-runtime"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 6,
-    "updated_at": "2026-09-08T03:30:45Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24914,
-    "updated_at": "2026-09-08T04:11:19Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
-    "id": "ZeroLu/awesome-seedance",
-    "language": "Shell",
-    "name": "ZeroLu/awesome-seedance",
-    "stars": 2384,
-    "updated_at": "2026-09-08T03:29:12Z",
-    "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "\ud83e\udd17 The largest downloadable SeedDance 2 prompt library \u2014 8,105 prompts and growing, daily updates with HuggingFace datase",
-    "id": "goku-open/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "goku-open/awesome-seedance-2-prompts",
-    "stars": 2,
-    "updated_at": "2026-09-08T03:27:18Z",
-    "url": "https://github.com/goku-open/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27851,
-    "updated_at": "2026-09-08T03:27:01Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-09-08T03:26:56Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "An adversarial feedback swarm approach to AI-first engineering",
-    "id": "davehowell/council-of-nark",
-    "language": "Go",
-    "name": "davehowell/council-of-nark",
-    "stars": 3,
-    "updated_at": "2026-09-08T03:25:27Z",
-    "url": "https://github.com/davehowell/council-of-nark"
   }
 ]
