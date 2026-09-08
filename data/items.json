@@ -1,11 +1,110 @@
 [
   {
+    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
+    "id": "skillberry-ai/cap-evolve",
+    "language": "Python",
+    "name": "skillberry-ai/cap-evolve",
+    "stars": 54,
+    "updated_at": "2026-09-08T21:30:15Z",
+    "url": "https://github.com/skillberry-ai/cap-evolve"
+  },
+  {
+    "description": "Portable, version-controlled Claude Code configuration \u2014 structured engineering workflows with problem definition, syste",
+    "id": "chriscantu/claude-config",
+    "language": "TypeScript",
+    "name": "chriscantu/claude-config",
+    "stars": 0,
+    "updated_at": "2026-09-08T21:29:43Z",
+    "url": "https://github.com/chriscantu/claude-config"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24934,
+    "updated_at": "2026-09-08T21:28:53Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Grimoire's Tome & The Grim Council. A Prompt Spellbook of /skills. The #1 Coding Wizard \ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udcd6",
+    "id": "MindGoblinStudios/grim-tome",
+    "language": "JavaScript",
+    "name": "MindGoblinStudios/grim-tome",
+    "stars": 16,
+    "updated_at": "2026-09-08T21:28:18Z",
+    "url": "https://github.com/MindGoblinStudios/grim-tome"
+  },
+  {
+    "description": "Production-grade skills for autonomous AI coding agents \u2014 spec-driven dev, test-first, debug loop, PR review, security s",
+    "id": "mohamed-bashir-dev/agent-craft",
+    "language": "Shell",
+    "name": "mohamed-bashir-dev/agent-craft",
+    "stars": 0,
+    "updated_at": "2026-09-08T21:26:20Z",
+    "url": "https://github.com/mohamed-bashir-dev/agent-craft"
+  },
+  {
+    "description": "Prompt as Spec \u2014 2,383 GPT-Image-2.5 prompts, each a complete design specification with the design it produces. By Devau",
+    "id": "stretchcloud/awesome-gpt-image-prompt-2.5",
+    "language": "\u2014",
+    "name": "stretchcloud/awesome-gpt-image-prompt-2.5",
+    "stars": 0,
+    "updated_at": "2026-09-08T21:24:37Z",
+    "url": "https://github.com/stretchcloud/awesome-gpt-image-prompt-2.5"
+  },
+  {
+    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
+    "id": "AN0099/toothpaste-kit",
+    "language": "Python",
+    "name": "AN0099/toothpaste-kit",
+    "stars": 1,
+    "updated_at": "2026-09-08T21:22:58Z",
+    "url": "https://github.com/AN0099/toothpaste-kit"
+  },
+  {
+    "description": "No longer actively developed. Free, open-source standalone CAT tool: editor, AI translation, termbases, TMs, plus system",
+    "id": "Supervertaler/Supervertaler-Workbench",
+    "language": "Python",
+    "name": "Supervertaler/Supervertaler-Workbench",
+    "stars": 55,
+    "updated_at": "2026-09-08T21:20:39Z",
+    "url": "https://github.com/Supervertaler/Supervertaler-Workbench"
+  },
+  {
+    "description": "Build, version and distribute AI agent intelligence across your organization - one CLI, versioned Intelligence Packages,",
+    "id": "ainova-systems/intelligence",
+    "language": "Shell",
+    "name": "ainova-systems/intelligence",
+    "stars": 1,
+    "updated_at": "2026-09-08T21:17:31Z",
+    "url": "https://github.com/ainova-systems/intelligence"
+  },
+  {
+    "description": "Quality-gated toolkit for building Claude Code skills \u2014 trigger evaluation, description optimization, six-gate packaging",
+    "id": "rolling-codes/-the-better-skill-creator-skill-",
+    "language": "Python",
+    "name": "rolling-codes/-the-better-skill-creator-skill-",
+    "stars": 2,
+    "updated_at": "2026-09-08T21:17:13Z",
+    "url": "https://github.com/rolling-codes/-the-better-skill-creator-skill-"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-08T21:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Agent Skills Studio \u2014 Curated skills and installable packs for engineering, design, security, writing and product workfl",
     "id": "jhonatan-oliveiradev/agent-skills",
     "language": "TypeScript",
     "name": "jhonatan-oliveiradev/agent-skills",
     "stars": 1,
-    "updated_at": "2026-09-08T21:14:45Z",
+    "updated_at": "2026-09-08T21:28:53Z",
     "url": "https://github.com/jhonatan-oliveiradev/agent-skills"
   },
   {
@@ -18,24 +117,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
-    "id": "AN0099/toothpaste-kit",
-    "language": "Python",
-    "name": "AN0099/toothpaste-kit",
-    "stars": 1,
-    "updated_at": "2026-09-08T21:13:44Z",
-    "url": "https://github.com/AN0099/toothpaste-kit"
-  },
-  {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 54,
-    "updated_at": "2026-09-08T21:12:17Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
     "id": "hakodev2k/AI-Engineering",
     "language": "Python",
@@ -43,6 +124,15 @@
     "stars": 1,
     "updated_at": "2026-09-08T21:11:36Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11381,
+    "updated_at": "2026-09-08T21:11:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -54,21 +144,12 @@
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11380,
-    "updated_at": "2026-09-08T21:11:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
     "id": "jmagly/aiwg",
     "language": "TypeScript",
     "name": "jmagly/aiwg",
     "stars": 210,
-    "updated_at": "2026-09-08T21:10:18Z",
+    "updated_at": "2026-09-08T21:29:42Z",
     "url": "https://github.com/jmagly/aiwg"
   },
   {
@@ -86,26 +167,8 @@
     "language": "Python",
     "name": "LangeVC/skillweave",
     "stars": 4,
-    "updated_at": "2026-09-08T21:09:34Z",
+    "updated_at": "2026-09-08T21:17:53Z",
     "url": "https://github.com/LangeVC/skillweave"
-  },
-  {
-    "description": "2,383 GPT-Image-2.5 prompts generated from real, machine-extracted design systems \u2014 exact hex palettes, type scales, spa",
-    "id": "stretchcloud/awesome-gpt-image-prompt-2.5",
-    "language": "\u2014",
-    "name": "stretchcloud/awesome-gpt-image-prompt-2.5",
-    "stars": 0,
-    "updated_at": "2026-09-08T21:09:22Z",
-    "url": "https://github.com/stretchcloud/awesome-gpt-image-prompt-2.5"
-  },
-  {
-    "description": "Quality-gated toolkit for building Claude Code skills \u2014 trigger evaluation, description optimization, six-gate packaging",
-    "id": "rolling-codes/-the-better-skill-creator-skill-",
-    "language": "Python",
-    "name": "rolling-codes/-the-better-skill-creator-skill-",
-    "stars": 2,
-    "updated_at": "2026-09-08T21:14:51Z",
-    "url": "https://github.com/rolling-codes/-the-better-skill-creator-skill-"
   },
   {
     "description": "Curated GPT-Image-2.5 prompts and API notes for OpenAI's newest image model \u2014 reference-photo fidelity, precision editin",
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-08T21:03:34Z",
+    "updated_at": "2026-09-08T21:15:43Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -178,24 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T21:01:06Z",
     "url": "https://github.com/rokokol/companion-skill"
-  },
-  {
-    "description": "Production-grade skills for autonomous AI coding agents \u2014 spec-driven dev, test-first, debug loop, PR review, security s",
-    "id": "mohamed-bashir-dev/agent-craft",
-    "language": "Shell",
-    "name": "mohamed-bashir-dev/agent-craft",
-    "stars": 0,
-    "updated_at": "2026-09-08T21:00:53Z",
-    "url": "https://github.com/mohamed-bashir-dev/agent-craft"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-08T21:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "ByteDance Seedance 2.0 & 2.5 prompt engineering toolkit with FTS5 search over 1,500+ community prompt cards.",
@@ -211,7 +256,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34358,
+    "stars": 34359,
     "updated_at": "2026-09-08T20:59:44Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -306,15 +351,6 @@
     "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24934,
-    "updated_at": "2026-09-08T21:14:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Project OS: 39 engineering skills, parallel MCP worktrees, and token optimizer with auto-stack profiles for Claude Co",
     "id": "kok-o/contextos-agents",
     "language": "TypeScript",
@@ -378,6 +414,15 @@
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27869,
+    "updated_at": "2026-09-08T20:18:33Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Curated catalog of open, specialized AI agents for real business work \u2014 organized as broad umbrella categories (video, i",
     "id": "Anil-matcha/agency-agents-os",
     "language": "\u2014",
@@ -396,15 +441,6 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27868,
-    "updated_at": "2026-09-08T20:18:33Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
     "id": "adrianwedd/cv",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-08T20:16:54Z",
     "url": "https://github.com/adrianwedd/cv"
-  },
-  {
-    "description": "A guided, principle-driven Claude Code skill set: 18 commands that take your idea \u2192 shipped, one phase at a time, with e",
-    "id": "kish21/product-playbook",
-    "language": "Python",
-    "name": "kish21/product-playbook",
-    "stars": 2,
-    "updated_at": "2026-09-08T20:15:19Z",
-    "url": "https://github.com/kish21/product-playbook"
-  },
-  {
-    "description": "Write a prompt once and instantly open it in multiple AI platforms",
-    "id": "ilhan-mstf/prompt-router",
-    "language": "HTML",
-    "name": "ilhan-mstf/prompt-router",
-    "stars": 0,
-    "updated_at": "2026-09-08T20:14:45Z",
-    "url": "https://github.com/ilhan-mstf/prompt-router"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-09-08T20:12:50Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-09-08T20:11:45Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]
