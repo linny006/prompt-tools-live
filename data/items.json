@@ -5,8 +5,89 @@
     "language": "HTML",
     "name": "cycheng-max/gpt6-astra-prompts",
     "stars": 0,
-    "updated_at": "2026-09-08T01:14:56Z",
+    "updated_at": "2026-09-08T01:29:03Z",
     "url": "https://github.com/cycheng-max/gpt6-astra-prompts"
+  },
+  {
+    "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments tha",
+    "id": "sergebulaev/linkedin-skills",
+    "language": "Python",
+    "name": "sergebulaev/linkedin-skills",
+    "stars": 1267,
+    "updated_at": "2026-09-08T01:28:09Z",
+    "url": "https://github.com/sergebulaev/linkedin-skills"
+  },
+  {
+    "description": "61 GPT-6 Astra 3D examples: Blender, Three.js, WebGPU, games & architecture. 29 demos, 23 source projects, 22 full video",
+    "id": "carpentry-liu/awesome-astra-3d",
+    "language": "TypeScript",
+    "name": "carpentry-liu/awesome-astra-3d",
+    "stars": 2,
+    "updated_at": "2026-09-08T01:26:59Z",
+    "url": "https://github.com/carpentry-liu/awesome-astra-3d"
+  },
+  {
+    "description": "Refine any text, in the moment, in any app. Select text, hit a hotkey, get it sharpened and pasted back, prompts, emails",
+    "id": "duartelcunha/Ember",
+    "language": "Rust",
+    "name": "duartelcunha/Ember",
+    "stars": 3,
+    "updated_at": "2026-09-08T01:26:53Z",
+    "url": "https://github.com/duartelcunha/Ember"
+  },
+  {
+    "description": "Bakeoff campaigns measuring how conditional clauses in agent instructions change model behavior",
+    "id": "jamesdebatty/proviso",
+    "language": "Python",
+    "name": "jamesdebatty/proviso",
+    "stars": 0,
+    "updated_at": "2026-09-08T01:23:29Z",
+    "url": "https://github.com/jamesdebatty/proviso"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 1,
+    "updated_at": "2026-09-08T01:20:40Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24910,
+    "updated_at": "2026-09-08T01:29:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-08T01:19:38Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Compile short or underspecified user messages into explicit prompts for coding-agent executors.",
+    "id": "bodencrouch/prompt-uplift",
+    "language": "Python",
+    "name": "bodencrouch/prompt-uplift",
+    "stars": 0,
+    "updated_at": "2026-09-08T01:17:28Z",
+    "url": "https://github.com/bodencrouch/prompt-uplift"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-08T01:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A trust-rated index of public AI-agent skills, organized by job. Tells your agent which skills to load for a task \u2014 and ",
@@ -49,9 +130,18 @@
     "id": "github/awesome-copilot",
     "language": "JavaScript",
     "name": "github/awesome-copilot",
-    "stars": 38733,
+    "stars": 38736,
     "updated_at": "2026-09-08T01:09:39Z",
     "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21858,
+    "updated_at": "2026-09-08T01:08:16Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "IntelliJ \uc624\ub958 \ub85c\uadf8\uc758 \ubbfc\uac10\uc815\ubcf4\ub97c \ub9c8\uc2a4\ud0b9\ud558\uace0 \ubc18\ubcf5 \uad6c\uac04\uc744 \uc555\ucd95\ud574 LLM \uc785\ub825 \ud1a0\ud070 \ub0ad\ube44\ub97c \uc904\uc774\ub294 Java 21/Spring Boot \uc140\ud504 \ud638\uc2a4\ud305 \ubc31\uc5d4\ub4dc",
@@ -61,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T01:08:01Z",
     "url": "https://github.com/Seongbin-Choo/errorPurifier"
-  },
-  {
-    "description": "Refine any text, in the moment, in any app. Select text, hit a hotkey, get it sharpened and pasted back, prompts, emails",
-    "id": "duartelcunha/Ember",
-    "language": "Rust",
-    "name": "duartelcunha/Ember",
-    "stars": 3,
-    "updated_at": "2026-09-08T01:09:19Z",
-    "url": "https://github.com/duartelcunha/Ember"
   },
   {
     "description": "App site for https://github.com/QAInsights/prompticon",
@@ -108,15 +189,6 @@
     "url": "https://github.com/QianJinGuo/prompt-contract"
   },
   {
-    "description": "Bakeoff campaigns measuring how conditional clauses in agent instructions change model behavior",
-    "id": "jamesdebatty/proviso",
-    "language": "Python",
-    "name": "jamesdebatty/proviso",
-    "stars": 0,
-    "updated_at": "2026-09-08T01:04:38Z",
-    "url": "https://github.com/jamesdebatty/proviso"
-  },
-  {
     "description": "An intel layer for AI coding agents that assumes its own rules might be wrong \u2014 and keeps the evidence. Authoritative no",
     "id": "ReidenXerx/bearing",
     "language": "JavaScript",
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27848,
-    "updated_at": "2026-09-08T01:06:14Z",
+    "updated_at": "2026-09-08T01:19:09Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -162,15 +234,6 @@
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-08T01:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
     "id": "hysohail/agentic-experiment-designer",
     "language": "HTML",
@@ -187,15 +250,6 @@
     "stars": 118,
     "updated_at": "2026-09-08T00:58:35Z",
     "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-08T00:58:06Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "An open-source library of Claude Code skills: five-pass codebase review plus 26 reference docs, wired into projects thro",
@@ -324,15 +378,6 @@
     "url": "https://github.com/shirkattack/PromptCraft"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24909,
-    "updated_at": "2026-09-08T01:12:24Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Curated library of 123 production-ready skills for Codex, Claude Code, Cursor, and other AI coding agents, covering secu",
     "id": "rksharma-owg/Codex-Skills",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-08T00:23:47Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.3.1 ",
-    "id": "leeex1/Quillan-Ronin",
-    "language": "HTML",
-    "name": "leeex1/Quillan-Ronin",
-    "stars": 27,
-    "updated_at": "2026-09-08T00:21:54Z",
-    "url": "https://github.com/leeex1/Quillan-Ronin"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-09-08T00:21:15Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-09-08T00:20:59Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 1,
-    "updated_at": "2026-09-08T00:20:48Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Professional-grade skills for Claude Code & Claude AI - Transform Claude into a domain expert in seconds",
-    "id": "frankxai/claude-skills-library",
-    "language": "Python",
-    "name": "frankxai/claude-skills-library",
-    "stars": 39,
-    "updated_at": "2026-09-08T00:19:28Z",
-    "url": "https://github.com/frankxai/claude-skills-library"
   }
 ]
