@@ -1,5 +1,158 @@
 [
   {
+    "description": "Tool-agnostic AI Development Runtime for team coding workflows (/init, /feature, /fix).",
+    "id": "Stephenxu000/adr-runtime",
+    "language": "TypeScript",
+    "name": "Stephenxu000/adr-runtime",
+    "stars": 0,
+    "updated_at": "2026-09-08T05:29:36Z",
+    "url": "https://github.com/Stephenxu000/adr-runtime"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1469,
+    "updated_at": "2026-09-08T05:30:05Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-09-08T05:27:21Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "Portable Claude Code profile \u2014 8-step dev loop, CLAUDE.md pre-commit gate, zero-hallucination policy. Install once, carr",
+    "id": "kopp0510/claude-dd",
+    "language": "Python",
+    "name": "kopp0510/claude-dd",
+    "stars": 6,
+    "updated_at": "2026-09-08T05:26:34Z",
+    "url": "https://github.com/kopp0510/claude-dd"
+  },
+  {
+    "description": "Static analyzer for AI system prompts: parses a prompt into normative rules and reports contradictions, coverage gaps, p",
+    "id": "hermes-labs-ai/rule-audit",
+    "language": "Python",
+    "name": "hermes-labs-ai/rule-audit",
+    "stars": 0,
+    "updated_at": "2026-09-08T05:26:57Z",
+    "url": "https://github.com/hermes-labs-ai/rule-audit"
+  },
+  {
+    "description": "Automated MiniMax H3 official prompt skill with local Qwen3.8 vision optimization for ComfyUI",
+    "id": "basil-hayden/ComfyUI-H3-OfficialSkill-QwenLocal",
+    "language": "Python",
+    "name": "basil-hayden/ComfyUI-H3-OfficialSkill-QwenLocal",
+    "stars": 0,
+    "updated_at": "2026-09-08T05:26:18Z",
+    "url": "https://github.com/basil-hayden/ComfyUI-H3-OfficialSkill-QwenLocal"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24914,
+    "updated_at": "2026-09-08T05:29:04Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27850,
+    "updated_at": "2026-09-08T05:23:47Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "SAIRAMANALADI/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "SAIRAMANALADI/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-09-08T05:23:09Z",
+    "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
+  },
+  {
+    "description": "AI-powered DevOps assistant that turns plain-English questions into structured runbooks using Gemini \u2014 runs as a CLI or ",
+    "id": "saghosh8/ai-devops-release-assistant",
+    "language": "Python",
+    "name": "saghosh8/ai-devops-release-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-08T05:28:59Z",
+    "url": "https://github.com/saghosh8/ai-devops-release-assistant"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-08T05:21:01Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-09-08T05:20:08Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 1,
+    "updated_at": "2026-09-08T05:20:03Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "MiniMax H3 \u5b98\u65b9 Skills \u7684\u53ef\u89c6\u5316\u53d1\u73b0\u4e0e\u53c2\u8003\u7ad9\u70b9 \u00b7 A visual discovery & reference index for the official MiniMax H3 Skills (independent ",
+    "id": "gordonlu/awesome-minimax-h3-skills",
+    "language": "HTML",
+    "name": "gordonlu/awesome-minimax-h3-skills",
+    "stars": 2,
+    "updated_at": "2026-09-08T05:16:55Z",
+    "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-09-08T05:15:57Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "Bilingual, review-gated Twitter/X automation skill suite powered by ThreadWave",
+    "id": "ohmyskyhigh/threadwave-skill",
+    "language": "JavaScript",
+    "name": "ohmyskyhigh/threadwave-skill",
+    "stars": 0,
+    "updated_at": "2026-09-08T05:15:39Z",
+    "url": "https://github.com/ohmyskyhigh/threadwave-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-08T05:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\u4e00\u6b3e\u628a\u4efb\u610f\u56fe\u7247\u8f6c\u6362\u4e3a\u4e13\u4e1a\u751f\u56fe\u63d0\u793a\u8bcd\u7684 Chrome / Edge \u6d4f\u89c8\u5668\u63d2\u4ef6\u3002\u652f\u6301\u7f51\u9875\u53f3\u952e\u8bc6\u56fe\u3001\u672c\u5730\u4e0a\u4f20\u4e0e\u526a\u8d34\u677f\u7c98\u8d34\uff0c\u751f\u6210\u4e2d\u6587\u3001\u82f1\u6587\u548c JSON \u63d0\u793a\u8bcd\uff0c\u5e76\u63d0\u4f9b\u5386\u53f2\u8bb0\u5f55\u4e0e\u6536\u85cf\u3002",
     "id": "binghe1980/PromptLens",
     "language": "\u2014",
@@ -36,40 +189,13 @@
     "url": "https://github.com/irons163/awesome-gpt-image-2-zh"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-08T05:11:11Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 1,
-    "updated_at": "2026-09-08T05:08:30Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
     "description": "Switch AIs without re-explaining everything.",
     "id": "spidey889/context-generator",
     "language": "JavaScript",
     "name": "spidey889/context-generator",
     "stars": 11,
-    "updated_at": "2026-09-08T05:13:00Z",
+    "updated_at": "2026-09-08T05:26:26Z",
     "url": "https://github.com/spidey889/context-generator"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24914,
-    "updated_at": "2026-09-08T05:12:52Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -95,7 +221,7 @@
     "language": "Go",
     "name": "pedromvgomes/agentic-toolkit",
     "stars": 0,
-    "updated_at": "2026-09-08T05:06:03Z",
+    "updated_at": "2026-09-08T05:28:04Z",
     "url": "https://github.com/pedromvgomes/agentic-toolkit"
   },
   {
@@ -122,17 +248,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3524,
-    "updated_at": "2026-09-08T05:14:27Z",
+    "updated_at": "2026-09-08T05:26:40Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "MiniMax H3 \u5b98\u65b9 Skills \u7684\u53ef\u89c6\u5316\u53d1\u73b0\u4e0e\u53c2\u8003\u7ad9\u70b9 \u00b7 A visual discovery & reference index for the official MiniMax H3 Skills (independent ",
-    "id": "gordonlu/awesome-minimax-h3-skills",
-    "language": "HTML",
-    "name": "gordonlu/awesome-minimax-h3-skills",
-    "stars": 2,
-    "updated_at": "2026-09-08T05:02:34Z",
-    "url": "https://github.com/gordonlu/awesome-minimax-h3-skills"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -196,15 +313,6 @@
     "stars": 12,
     "updated_at": "2026-09-08T04:55:35Z",
     "url": "https://github.com/thkt/dotclaude"
-  },
-  {
-    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
-    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "language": "\u2014",
-    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
-    "stars": 1,
-    "updated_at": "2026-09-08T04:55:12Z",
-    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
   },
   {
     "description": "A localized Retrieval-Augmented Generation (RAG) pipeline optimized for analyzing complex legal corpora across PDF, TXT,",
@@ -340,113 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-08T04:38:58Z",
     "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
-    "id": "aidyou/chatspeed",
-    "language": "Rust",
-    "name": "aidyou/chatspeed",
-    "stars": 21,
-    "updated_at": "2026-09-08T04:38:49Z",
-    "url": "https://github.com/aidyou/chatspeed"
-  },
-  {
-    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
-    "id": "T-Stephen/ai-mql-engine",
-    "language": "JavaScript",
-    "name": "T-Stephen/ai-mql-engine",
-    "stars": 2,
-    "updated_at": "2026-09-08T04:38:01Z",
-    "url": "https://github.com/T-Stephen/ai-mql-engine"
-  },
-  {
-    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
-    "id": "GenSEAM/asl",
-    "language": "ASL",
-    "name": "GenSEAM/asl",
-    "stars": 1,
-    "updated_at": "2026-09-08T04:37:24Z",
-    "url": "https://github.com/GenSEAM/asl"
-  },
-  {
-    "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, a",
-    "id": "alivirgo/Major-AI-Skills",
-    "language": "HTML",
-    "name": "alivirgo/Major-AI-Skills",
-    "stars": 1,
-    "updated_at": "2026-09-08T04:35:17Z",
-    "url": "https://github.com/alivirgo/Major-AI-Skills"
-  },
-  {
-    "description": "Flexible and lightweight library for creating prompt templates",
-    "id": "Goldziher/prompt-template",
-    "language": "Python",
-    "name": "Goldziher/prompt-template",
-    "stars": 26,
-    "updated_at": "2026-09-08T04:34:54Z",
-    "url": "https://github.com/Goldziher/prompt-template"
-  },
-  {
-    "description": "AI-powered DevOps assistant that turns plain-English questions into structured runbooks using Gemini \u2014 runs as a CLI or ",
-    "id": "saghosh8/ai-devops-release-assistant",
-    "language": "Python",
-    "name": "saghosh8/ai-devops-release-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-08T05:14:20Z",
-    "url": "https://github.com/saghosh8/ai-devops-release-assistant"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 922,
-    "updated_at": "2026-09-08T04:22:38Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Bilingual, review-gated Twitter/X automation skill suite powered by ThreadWave",
-    "id": "ohmyskyhigh/threadwave-skill",
-    "language": "JavaScript",
-    "name": "ohmyskyhigh/threadwave-skill",
-    "stars": 0,
-    "updated_at": "2026-09-08T05:14:48Z",
-    "url": "https://github.com/ohmyskyhigh/threadwave-skill"
-  },
-  {
-    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
-    "id": "minipuft/claude-prompts-mcp",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts-mcp",
-    "stars": 186,
-    "updated_at": "2026-09-08T04:32:55Z",
-    "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27850,
-    "updated_at": "2026-09-08T04:19:01Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Bakeoff campaigns measuring how conditional clauses in agent instructions change model behavior",
-    "id": "jamesdebatty/proviso",
-    "language": "Python",
-    "name": "jamesdebatty/proviso",
-    "stars": 0,
-    "updated_at": "2026-09-08T04:18:42Z",
-    "url": "https://github.com/jamesdebatty/proviso"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-08T04:41:48Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   }
 ]
