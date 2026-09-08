@@ -1,11 +1,128 @@
 [
   {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 10,
+    "updated_at": "2026-09-08T03:13:52Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "GPT-Image2 \u63d0\u793a\u8a5e\u8207\u7bc4\u672c\u5eab\u7684\u53f0\u7063\u7e41\u9ad4\u4e2d\u6587\u5728\u5730\u5316\u7248\u672c\uff0c\u6536\u9304 500+ \u6848\u4f8b\u8207 20+ \u7bc4\u672c\u3002",
+    "id": "irons163/awesome-gpt-image-2-zh",
+    "language": "JavaScript",
+    "name": "irons163/awesome-gpt-image-2-zh",
+    "stars": 8,
+    "updated_at": "2026-09-08T03:13:41Z",
+    "url": "https://github.com/irons163/awesome-gpt-image-2-zh"
+  },
+  {
+    "description": "Question Answer bot based on langchain RAG retriever",
+    "id": "GamedevDeadend/QA_Bot",
+    "language": "Python",
+    "name": "GamedevDeadend/QA_Bot",
+    "stars": 0,
+    "updated_at": "2026-09-08T03:13:34Z",
+    "url": "https://github.com/GamedevDeadend/QA_Bot"
+  },
+  {
+    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
+    "id": "alinafe82/cognitive-deadlift",
+    "language": "Python",
+    "name": "alinafe82/cognitive-deadlift",
+    "stars": 0,
+    "updated_at": "2026-09-08T03:13:03Z",
+    "url": "https://github.com/alinafe82/cognitive-deadlift"
+  },
+  {
+    "description": "An adversarial feedback swarm approach to AI-first engineering",
+    "id": "davehowell/council-of-nark",
+    "language": "Go",
+    "name": "davehowell/council-of-nark",
+    "stars": 3,
+    "updated_at": "2026-09-08T03:12:51Z",
+    "url": "https://github.com/davehowell/council-of-nark"
+  },
+  {
+    "description": "Text-first toolkit for building reproducible, composable LLM workflows as plain files in OCaml.",
+    "id": "dakotamurphyucf/ochat",
+    "language": "OCaml",
+    "name": "dakotamurphyucf/ochat",
+    "stars": 30,
+    "updated_at": "2026-09-08T03:12:25Z",
+    "url": "https://github.com/dakotamurphyucf/ochat"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-08T03:11:34Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Hypertaks = \"A founder who owns a library of more than 1,400 books, knows exactly which book to consult for this issue, ",
+    "id": "aabrur/hypertaks-agent",
+    "language": "JavaScript",
+    "name": "aabrur/hypertaks-agent",
+    "stars": 15,
+    "updated_at": "2026-09-08T03:10:11Z",
+    "url": "https://github.com/aabrur/hypertaks-agent"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-09-08T03:09:16Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27851,
+    "updated_at": "2026-09-08T03:04:00Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-08T03:04:17Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-09-08T03:00:47Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-08T03:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24913,
-    "updated_at": "2026-09-08T02:59:57Z",
+    "updated_at": "2026-09-08T03:14:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -25,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T02:55:28Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "GPT-Image2 \u63d0\u793a\u8a5e\u8207\u7bc4\u672c\u5eab\u7684\u53f0\u7063\u7e41\u9ad4\u4e2d\u6587\u5728\u5730\u5316\u7248\u672c\uff0c\u6536\u9304 500+ \u6848\u4f8b\u8207 20+ \u7bc4\u672c\u3002",
-    "id": "irons163/awesome-gpt-image-2-zh",
-    "language": "JavaScript",
-    "name": "irons163/awesome-gpt-image-2-zh",
-    "stars": 8,
-    "updated_at": "2026-09-08T02:54:23Z",
-    "url": "https://github.com/irons163/awesome-gpt-image-2-zh"
   },
   {
     "description": "\u628a\u4eba\u7684\u5224\u65ad\u3001\u53d6\u820d\u4e0e\u53cd\u9988\uff0c\u7f16\u8bd1\u6210\u53ef\u6267\u884c\u3001\u53ef\u9a8c\u8bc1\u3001\u53ef\u6301\u7eed\u8fdb\u5316\u7684\u4e13\u4e1a Agent \u80fd\u529b\u3002",
@@ -97,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T02:47:53Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-08T02:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
@@ -189,6 +288,15 @@
     "url": "https://github.com/Seongbin-Choo/errorPurifier"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21860,
+    "updated_at": "2026-09-08T02:37:03Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
     "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
     "language": "HTML",
@@ -234,30 +342,12 @@
     "url": "https://github.com/chinelee/chinese-visual-director-skills"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27850,
-    "updated_at": "2026-09-08T02:30:22Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-09-08T02:28:44Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1469,
-    "updated_at": "2026-09-08T02:45:01Z",
+    "updated_at": "2026-09-08T03:14:00Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -277,15 +367,6 @@
     "stars": 394,
     "updated_at": "2026-09-08T02:25:12Z",
     "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
-    "description": "An adversarial feedback swarm approach to AI-first engineering",
-    "id": "davehowell/council-of-nark",
-    "language": "Go",
-    "name": "davehowell/council-of-nark",
-    "stars": 3,
-    "updated_at": "2026-09-08T02:23:33Z",
-    "url": "https://github.com/davehowell/council-of-nark"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -311,7 +392,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11366,
-    "updated_at": "2026-09-08T02:58:44Z",
+    "updated_at": "2026-09-08T03:04:07Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -351,15 +432,6 @@
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
   },
   {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 10,
-    "updated_at": "2026-09-08T02:54:58Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering ",
     "id": "ZeroLu/awesome-nanobanana-pro",
     "language": "\u2014",
@@ -376,77 +448,5 @@
     "stars": 52,
     "updated_at": "2026-09-08T02:13:47Z",
     "url": "https://github.com/chuwu57/Chuwu-PR-OS"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 20,
-    "updated_at": "2026-09-08T02:19:30Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Multi-agent AI writing system for Chinese web novels with platform-specific knowledge bases and commercial storytelling ",
-    "id": "TianHengZhuang/Chinese-WebNovel-Master",
-    "language": "\u2014",
-    "name": "TianHengZhuang/Chinese-WebNovel-Master",
-    "stars": 6,
-    "updated_at": "2026-09-08T02:11:47Z",
-    "url": "https://github.com/TianHengZhuang/Chinese-WebNovel-Master"
-  },
-  {
-    "description": "\uae38\uac8c \uc4f0\uc9c0 \ub9d0\uace0, \ub05d\uae4c\uc9c0 \uc2e4\ud589\ub418\uac8c. \uac70\uce5c \uc694\uccad\uc744 \uacb0\uacfc\u00b7\uac80\uc99d\uae4c\uc9c0 \ub2eb\ud78c \uc5d0\uc774\uc804\ud2b8 \ud504\ub86c\ud504\ud2b8\ub85c \ubc14\uafb8\ub294 \uc2a4\ud0ac.",
-    "id": "HeiTuz/MPW",
-    "language": "Python",
-    "name": "HeiTuz/MPW",
-    "stars": 0,
-    "updated_at": "2026-09-08T02:10:53Z",
-    "url": "https://github.com/HeiTuz/MPW"
-  },
-  {
-    "description": "\u5f9e\u54c8\u5229\u8aaa\u7684 DGX Spark \u5be6\u6e2c\u5ef6\u4f38\u7684\u901a\u7528\u6a21\u677f\u3002\u53ea\u8981 360\u5ea6\u7167\u7247\uff0cGPT-6 Astra \u5c31\u80fd\u5728 16 \u5206\u9418\u5167\u5e6b\u4f60\u5b8c\u6210\uff1a\u7167\u7247 \u2192 Blender \u9ad8\u7cbe\u5ea6 PBR \u6a21\u578b \u2192 Three.js \u53ef\u73a9\u7684\u5c4b\u9802\u5c0f\u5e02\u96c6\u3002\u5df2\u8655\u7406\u597d 1:1 \u5c3a\u5ea6\u3001\u91dd",
-    "id": "cycheng-max/gpt6-astra-prompts",
-    "language": "HTML",
-    "name": "cycheng-max/gpt6-astra-prompts",
-    "stars": 0,
-    "updated_at": "2026-09-08T02:10:36Z",
-    "url": "https://github.com/cycheng-max/gpt6-astra-prompts"
-  },
-  {
-    "description": "Prompt design companion for DeepSeek Harness. Designs next development prompts and optimizes current drafts with project",
-    "id": "XXXXXQ-0206/dsh-prompt-for-me",
-    "language": "JavaScript",
-    "name": "XXXXXQ-0206/dsh-prompt-for-me",
-    "stars": 0,
-    "updated_at": "2026-09-08T02:09:43Z",
-    "url": "https://github.com/XXXXXQ-0206/dsh-prompt-for-me"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-09-08T02:09:27Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "ChatGPT \u4e0e Codex \u7684\u53ef\u9a8c\u8bc1\u5de5\u4f5c\u6d41\u3001\u65ad\u70b9\u4ea4\u63a5\u3001\u7f51\u9875\u589e\u5f3a\u548c\u672c\u5730\u5de5\u5177",
-    "id": "RongNianXin/codex-workflows",
-    "language": "PowerShell",
-    "name": "RongNianXin/codex-workflows",
-    "stars": 4,
-    "updated_at": "2026-09-08T02:08:52Z",
-    "url": "https://github.com/RongNianXin/codex-workflows"
-  },
-  {
-    "description": "AI \u77ed\u5267\u751f\u6210\u5e73\u53f0\uff5cAI Short-Drama Video Generator \u2014 \u4ece\u5267\u672c\u5230\u6210\u7247\u4e00\u7ad9\u5f0f\u751f\u4ea7\uff1aLLM \u5267\u672c\u89e3\u6790\u3001\u667a\u80fd\u5206\u955c\u3001@\u5f15\u7528\u63d0\u793a\u8bcd\u3001\u591a\u6a21\u578b\u89c6\u9891\u751f\u6210\uff08MiniMax-H3 r2va \u591a\u6a21\u6001\u53c2\u8003\uff09\u3001React-Flow \u8282\u70b9",
-    "id": "xxx-888/super_gen",
-    "language": "TypeScript",
-    "name": "xxx-888/super_gen",
-    "stars": 6,
-    "updated_at": "2026-09-08T02:07:44Z",
-    "url": "https://github.com/xxx-888/super_gen"
   }
 ]
