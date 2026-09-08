@@ -1,5 +1,113 @@
 [
   {
+    "description": "ByteDance Seedance 2.0 & 2.5 prompt engineering toolkit with FTS5 search over 1,500+ community prompt cards.",
+    "id": "ardha27/seedance-prompts",
+    "language": "Python",
+    "name": "ardha27/seedance-prompts",
+    "stars": 2,
+    "updated_at": "2026-09-08T21:00:20Z",
+    "url": "https://github.com/ardha27/seedance-prompts"
+  },
+  {
+    "description": "A fork of Anthropic's skill-creator that fixes what the original got wrong: scripts Claude couldn't see, thin trigger te",
+    "id": "rolling-codes/-the-better-skill-creator-skill-",
+    "language": "Python",
+    "name": "rolling-codes/-the-better-skill-creator-skill-",
+    "stars": 2,
+    "updated_at": "2026-09-08T21:00:03Z",
+    "url": "https://github.com/rolling-codes/-the-better-skill-creator-skill-"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21881,
+    "updated_at": "2026-09-08T20:57:41Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Claude Code plugin: structures a request into a 5-element prompt before Claude produces content. Ships enforcement hooks",
+    "id": "neelshah4/claude-prompt-optimizer",
+    "language": "Shell",
+    "name": "neelshah4/claude-prompt-optimizer",
+    "stars": 0,
+    "updated_at": "2026-09-08T20:53:41Z",
+    "url": "https://github.com/neelshah4/claude-prompt-optimizer"
+  },
+  {
+    "description": "\u5343\u7b14\u4e00\u6587 Novel \u2014 \u4eba AI \u5171\u5199\u7684\u957f\u7bc7\u7f51\u6587\u521b\u4f5c\u53f0\uff1a\u6761\u76ee\u5316\u4e16\u754c\u4e66 \u00b7 \u6b63\u5219 must \u5951\u7ea6\uff08\u786e\u5b9a\u6027\u590d\u68c0\uff0c\u8fdd\u89c4\u62e6\u4f4f\u9501\u5b9a\uff09\u00b7 \u4e09\u5c42\u5ba1\u6821\uff08\u5f15\u8bc1\u9a8c\u771f + \u6295\u7968\uff09\u00b7 \u540c\u4eba\u6587\u5916\u90e8\u5bfc\u5165\u53ef\u6574\u6279\u64a4\u9500 \u00b7 \u5347\u7ea7\u4e0d\u52a8\u4e66\u7a3f \u00b7 BYOK \u5168\u672c\u5730 \u00b7 MIT\u3002",
+    "id": "GLFzr/QianBi-Novel",
+    "language": "Python",
+    "name": "GLFzr/QianBi-Novel",
+    "stars": 4,
+    "updated_at": "2026-09-08T20:55:01Z",
+    "url": "https://github.com/GLFzr/QianBi-Novel"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-09-08T20:51:44Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "Guia de prompts, skills especialistas e agentes de IA para consultoria e treinamentos em Lean, Lean Seis Sigma, Kaizen, ",
+    "id": "gstrafacci/excelencia-operacional-ai",
+    "language": "JavaScript",
+    "name": "gstrafacci/excelencia-operacional-ai",
+    "stars": 0,
+    "updated_at": "2026-09-08T20:50:55Z",
+    "url": "https://github.com/gstrafacci/excelencia-operacional-ai"
+  },
+  {
+    "description": "CI release gate for AI agents. Blocks the pull request when a prompt, skill, MCP permission, or model quietly changes wh",
+    "id": "xdlc-labs/airlock",
+    "language": "Go",
+    "name": "xdlc-labs/airlock",
+    "stars": 8,
+    "updated_at": "2026-09-08T20:48:53Z",
+    "url": "https://github.com/xdlc-labs/airlock"
+  },
+  {
+    "description": "01- AI auto generated content blog website with admin interface.",
+    "id": "fawredd/fawredd-nextjs-simple-blog",
+    "language": "TypeScript",
+    "name": "fawredd/fawredd-nextjs-simple-blog",
+    "stars": 1,
+    "updated_at": "2026-09-08T20:48:46Z",
+    "url": "https://github.com/fawredd/fawredd-nextjs-simple-blog"
+  },
+  {
+    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
+    "id": "geniusdapeng-collab/panda-cineforge",
+    "language": "TypeScript",
+    "name": "geniusdapeng-collab/panda-cineforge",
+    "stars": 0,
+    "updated_at": "2026-09-08T20:47:36Z",
+    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11380,
+    "updated_at": "2026-09-08T20:56:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-08T20:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Who we are, as opposed to what to do: a template for keeping an assistant's persona and dossiers out of the always-loade",
     "id": "rokokol/companion-skill",
     "language": "Shell",
@@ -9,21 +117,12 @@
     "url": "https://github.com/rokokol/companion-skill"
   },
   {
-    "description": "CI release gate for AI agents. Blocks the pull request when a prompt, skill, MCP permission, or model quietly changes wh",
-    "id": "xdlc-labs/airlock",
-    "language": "Go",
-    "name": "xdlc-labs/airlock",
-    "stars": 8,
-    "updated_at": "2026-09-08T20:45:11Z",
-    "url": "https://github.com/xdlc-labs/airlock"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24934,
-    "updated_at": "2026-09-08T20:43:00Z",
+    "updated_at": "2026-09-08T20:58:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -50,17 +149,8 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-09-08T20:39:22Z",
+    "updated_at": "2026-09-08T20:57:46Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11380,
-    "updated_at": "2026-09-08T20:44:49Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
@@ -77,7 +167,7 @@
     "language": "Python",
     "name": "LangeVC/skillweave",
     "stars": 4,
-    "updated_at": "2026-09-08T20:35:45Z",
+    "updated_at": "2026-09-08T20:51:53Z",
     "url": "https://github.com/LangeVC/skillweave"
   },
   {
@@ -95,26 +185,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34357,
-    "updated_at": "2026-09-08T20:41:40Z",
+    "updated_at": "2026-09-08T20:59:44Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-08T20:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "The world's first skill-forging engine built for AI Agents in film & video production. \u5168\u7403\u9996\u4e2a\u9762\u5411 AI Agent \u7684\u5f71\u89c6\u521b\u4f5c\u6280\u80fd\u751f\u6210\u5f15\u64ce\u3002",
-    "id": "geniusdapeng-collab/panda-cineforge",
-    "language": "TypeScript",
-    "name": "geniusdapeng-collab/panda-cineforge",
-    "stars": 0,
-    "updated_at": "2026-09-08T20:27:56Z",
-    "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T19:52:55Z",
     "url": "https://github.com/workshop-gbb/awesome-copilot-adventures"
-  },
-  {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 210,
-    "updated_at": "2026-09-08T19:52:46Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-09-08T19:49:34Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-08T20:22:04Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
-    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "language": "HTML",
-    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
-    "stars": 50,
-    "updated_at": "2026-09-08T19:48:05Z",
-    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 1,
-    "updated_at": "2026-09-08T19:47:07Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "A persistent AI colleague for Claude Code, and the harness you build your next thing on. It administers its own memory a",
-    "id": "ElJoakoDELxD/Chief-of-Vibes",
-    "language": "Shell",
-    "name": "ElJoakoDELxD/Chief-of-Vibes",
-    "stars": 0,
-    "updated_at": "2026-09-08T19:54:40Z",
-    "url": "https://github.com/ElJoakoDELxD/Chief-of-Vibes"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 1,
-    "updated_at": "2026-09-08T19:46:49Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 2,
-    "updated_at": "2026-09-08T19:44:59Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   }
 ]
