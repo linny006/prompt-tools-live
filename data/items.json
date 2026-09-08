@@ -1,12 +1,147 @@
 [
   {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 3525,
+    "updated_at": "2026-09-08T11:14:04Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-09-08T11:12:56Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 5,
+    "updated_at": "2026-09-08T11:12:26Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "Local-first prompt regression testing and evals for LLM apps.",
+    "id": "promptry/promptry",
+    "language": "Python",
+    "name": "promptry/promptry",
+    "stars": 4,
+    "updated_at": "2026-09-08T11:12:26Z",
+    "url": "https://github.com/promptry/promptry"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21866,
+    "updated_at": "2026-09-08T11:13:27Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-08T11:06:06Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 1,
+    "updated_at": "2026-09-08T11:06:00Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-09-08T11:14:50Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
+    "id": "thkt/dotclaude",
+    "language": "JavaScript",
+    "name": "thkt/dotclaude",
+    "stars": 12,
+    "updated_at": "2026-09-08T11:12:25Z",
+    "url": "https://github.com/thkt/dotclaude"
+  },
+  {
+    "description": "openPrompting \u2014 source-backed guidance for AI models, harnesses, and workflows.",
+    "id": "imainzed5/openprompting",
+    "language": "TypeScript",
+    "name": "imainzed5/openprompting",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:04:39Z",
+    "url": "https://github.com/imainzed5/openprompting"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34333,
+    "updated_at": "2026-09-08T11:10:49Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor",
+    "id": "promptslab/Awesome-Prompt-Engineering",
+    "language": "TypeScript",
+    "name": "promptslab/Awesome-Prompt-Engineering",
+    "stars": 6318,
+    "updated_at": "2026-09-08T11:03:05Z",
+    "url": "https://github.com/promptslab/Awesome-Prompt-Engineering"
+  },
+  {
     "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
     "id": "StephenQiu30/lanverse",
     "language": "Go",
     "name": "StephenQiu30/lanverse",
     "stars": 1,
-    "updated_at": "2026-09-08T10:58:28Z",
+    "updated_at": "2026-09-08T11:02:57Z",
     "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
+    "id": "Leo-maomao/pm-copilot",
+    "language": "Python",
+    "name": "Leo-maomao/pm-copilot",
+    "stars": 4,
+    "updated_at": "2026-09-08T11:01:13Z",
+    "url": "https://github.com/Leo-maomao/pm-copilot"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-08T11:00:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\ud83c\udff0 883+ Universal Agentic Skills for Claude Code, Gemini CLI, Cursor & More \u2014 Curated by Rootcastle Engineering & Innovat",
+    "id": "rootcastleco/rei-skills",
+    "language": "Python",
+    "name": "rootcastleco/rei-skills",
+    "stars": 6,
+    "updated_at": "2026-09-08T10:58:19Z",
+    "url": "https://github.com/rootcastleco/rei-skills"
   },
   {
     "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
@@ -34,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T10:56:58Z",
     "url": "https://github.com/gstrafacci/excelencia-operacional-ai"
-  },
-  {
-    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
-    "id": "thkt/dotclaude",
-    "language": "JavaScript",
-    "name": "thkt/dotclaude",
-    "stars": 12,
-    "updated_at": "2026-09-08T10:55:38Z",
-    "url": "https://github.com/thkt/dotclaude"
   },
   {
     "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
@@ -81,15 +207,6 @@
     "url": "https://github.com/ParkerHwang/OpenSocrates"
   },
   {
-    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
-    "id": "shortcuts/radin",
-    "language": "Shell",
-    "name": "shortcuts/radin",
-    "stars": 5,
-    "updated_at": "2026-09-08T10:54:01Z",
-    "url": "https://github.com/shortcuts/radin"
-  },
-  {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
     "id": "Open-Less/openless",
     "language": "Rust",
@@ -108,21 +225,12 @@
     "url": "https://github.com/CTOUT/Symdicate"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21866,
-    "updated_at": "2026-09-08T10:57:16Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
     "id": "event4u-app/agent-config",
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 10,
-    "updated_at": "2026-09-08T10:57:27Z",
+    "updated_at": "2026-09-08T11:15:16Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -158,7 +266,7 @@
     "language": "Python",
     "name": "Zipstack/unstract",
     "stars": 7226,
-    "updated_at": "2026-09-08T10:47:59Z",
+    "updated_at": "2026-09-08T11:03:44Z",
     "url": "https://github.com/Zipstack/unstract"
   },
   {
@@ -187,24 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T10:45:43Z",
     "url": "https://github.com/Abulfadl-Ahmadi/AM2"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34333,
-    "updated_at": "2026-09-08T10:59:52Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-08T10:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -261,15 +351,6 @@
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 3525,
-    "updated_at": "2026-09-08T10:57:50Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Craft, encoded. 152 skills and 16 agents that hold an agent to a professional standard: writing, documents, engineering,",
     "id": "Handsomeboy990/craft-suite",
     "language": "HTML",
@@ -315,15 +396,6 @@
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
   },
   {
-    "description": "openPrompting \u2014 source-backed guidance for AI models, harnesses, and workflows.",
-    "id": "imainzed5/openprompting",
-    "language": "TypeScript",
-    "name": "imainzed5/openprompting",
-    "stars": 0,
-    "updated_at": "2026-09-08T10:29:28Z",
-    "url": "https://github.com/imainzed5/openprompting"
-  },
-  {
     "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
     "id": "nuttaruj/rolepod",
     "language": "Shell",
@@ -356,7 +428,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24925,
-    "updated_at": "2026-09-08T11:00:29Z",
+    "updated_at": "2026-09-08T11:15:06Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 228,
     "updated_at": "2026-09-08T10:24:11Z",
     "url": "https://github.com/fkiene/llmtrim"
-  },
-  {
-    "description": "Hands-on Generative AI engineering lab: RAG, prompt evals, safety, agents, and production patterns from scratch.",
-    "id": "P-r-e-m-i-u-m/generative-ai-engineering-lab",
-    "language": "Python",
-    "name": "P-r-e-m-i-u-m/generative-ai-engineering-lab",
-    "stars": 2,
-    "updated_at": "2026-09-08T10:22:58Z",
-    "url": "https://github.com/P-r-e-m-i-u-m/generative-ai-engineering-lab"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-09-08T10:47:39Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-09-08T10:20:59Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Reusable AIGC creative skills for image, video, feedback, and music / \u9762\u5411\u56fe\u7247\u3001\u89c6\u9891\u3001\u53cd\u9988\u4e0e\u97f3\u4e50\u521b\u4f5c\u7684\u53ef\u590d\u7528 AIGC \u80fd\u529b\u5e93",
-    "id": "chenzhiyong1994/AIGC",
-    "language": "PowerShell",
-    "name": "chenzhiyong1994/AIGC",
-    "stars": 4,
-    "updated_at": "2026-09-08T10:19:18Z",
-    "url": "https://github.com/chenzhiyong1994/AIGC"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 18,
-    "updated_at": "2026-09-08T10:18:58Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "Evidence-grounded AI critique for resumes, reports, copy & product proposals\uff5c\u57fa\u4e8e\u8bc1\u636e\u7684\u7b80\u5386\u3001\u6c47\u62a5\u3001\u6587\u6848\u548c\u4ea7\u54c1\u65b9\u6848 AI \u8bc4\u5ba1\u5fae\u4fe1\u5c0f\u7a0b\u5e8f",
-    "id": "chenzhiyong1994/bie-ma-le",
-    "language": "JavaScript",
-    "name": "chenzhiyong1994/bie-ma-le",
-    "stars": 3,
-    "updated_at": "2026-09-08T10:18:32Z",
-    "url": "https://github.com/chenzhiyong1994/bie-ma-le"
-  },
-  {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "braboj/solid-ai-templates",
-    "language": "Python",
-    "name": "braboj/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-09-08T10:17:34Z",
-    "url": "https://github.com/braboj/solid-ai-templates"
-  },
-  {
-    "description": "Enterprise AI engineering covering local inference, Azure OpenAI, RAG, agents, MCP, evaluation, security, and cost contr",
-    "id": "mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems",
-    "language": "JavaScript",
-    "name": "mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems",
-    "stars": 0,
-    "updated_at": "2026-09-08T10:15:49Z",
-    "url": "https://github.com/mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems"
   }
 ]
