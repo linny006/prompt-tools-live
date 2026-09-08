@@ -1,12 +1,93 @@
 [
   {
+    "description": "Local Claude Code HTTP traffic inspector with a desktop GUI and agent API. Capture prompts, tools, SSE, errors, and toke",
+    "id": "FuHehe12/cc-wire-analyzer",
+    "language": "HTML",
+    "name": "FuHehe12/cc-wire-analyzer",
+    "stars": 3,
+    "updated_at": "2026-09-08T23:43:29Z",
+    "url": "https://github.com/FuHehe12/cc-wire-analyzer"
+  },
+  {
+    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
+    "id": "jmagly/aiwg",
+    "language": "TypeScript",
+    "name": "jmagly/aiwg",
+    "stars": 210,
+    "updated_at": "2026-09-08T23:43:04Z",
+    "url": "https://github.com/jmagly/aiwg"
+  },
+  {
+    "description": "Agent skills by Titus Kirch \u2014 installable via skills.sh in Claude Code, Codex, Cursor, OpenCode and friends.",
+    "id": "TitusKirch/skills",
+    "language": "TypeScript",
+    "name": "TitusKirch/skills",
+    "stars": 1,
+    "updated_at": "2026-09-08T23:43:27Z",
+    "url": "https://github.com/TitusKirch/skills"
+  },
+  {
+    "description": "A searchable GPT Image 2 portrait-prompt atlas organized by outcome and scenario. Maintained by @dboy_yi2025 on X.",
+    "id": "mizzlelover/portrait-prompt-atlas",
+    "language": "JavaScript",
+    "name": "mizzlelover/portrait-prompt-atlas",
+    "stars": 7,
+    "updated_at": "2026-09-08T23:42:54Z",
+    "url": "https://github.com/mizzlelover/portrait-prompt-atlas"
+  },
+  {
+    "description": "LLM Prompt Studio for image, 3D, video, and audio models",
+    "id": "doodersrage/llm-prompt-studio",
+    "language": "TypeScript",
+    "name": "doodersrage/llm-prompt-studio",
+    "stars": 1,
+    "updated_at": "2026-09-08T23:42:47Z",
+    "url": "https://github.com/doodersrage/llm-prompt-studio"
+  },
+  {
+    "description": "AI-writing humanizer for KO/EN/ZH/JA",
+    "id": "devswha/patina",
+    "language": "JavaScript",
+    "name": "devswha/patina",
+    "stars": 352,
+    "updated_at": "2026-09-08T23:41:58Z",
+    "url": "https://github.com/devswha/patina"
+  },
+  {
     "description": "Evidence-first, fantasy-themed curriculum for agentic development with GitHub Copilot across VS Code, CLI, cloud agent, ",
     "id": "workshop-gbb/awesome-copilot-adventures",
     "language": "C#",
     "name": "workshop-gbb/awesome-copilot-adventures",
     "stars": 0,
-    "updated_at": "2026-09-08T23:30:03Z",
+    "updated_at": "2026-09-08T23:41:17Z",
     "url": "https://github.com/workshop-gbb/awesome-copilot-adventures"
+  },
+  {
+    "description": "Claude Skill for defensive vulnerability analysis: CVSS v3.1/v4.0 scoring, exploit-quality assessment, EPSS/KEV/SSVC pri",
+    "id": "jacklonsmith/cvss-exploit-evaluator",
+    "language": "Python",
+    "name": "jacklonsmith/cvss-exploit-evaluator",
+    "stars": 0,
+    "updated_at": "2026-09-08T23:40:04Z",
+    "url": "https://github.com/jacklonsmith/cvss-exploit-evaluator"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24937,
+    "updated_at": "2026-09-08T23:42:28Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "An embeddable clarification agent. Works out what your prompt left undecided, answers most of it from your codebase, ask",
+    "id": "Vedanshu7/crux",
+    "language": "Python",
+    "name": "Vedanshu7/crux",
+    "stars": 0,
+    "updated_at": "2026-09-08T23:41:06Z",
+    "url": "https://github.com/Vedanshu7/crux"
   },
   {
     "description": "An open-source curriculum of primary-source AI material, from fundamentals to production systems.",
@@ -14,8 +95,44 @@
     "language": "TypeScript",
     "name": "tushaarmehtaa/zero-to-ai-native",
     "stars": 5,
-    "updated_at": "2026-09-08T23:28:05Z",
+    "updated_at": "2026-09-08T23:36:44Z",
     "url": "https://github.com/tushaarmehtaa/zero-to-ai-native"
+  },
+  {
+    "description": "AI CLI tools: prompt censorship checker & bypass, model quality watchdog & degradation monitor, API cost comparison for ",
+    "id": "minirr890112-byte/HermesMade",
+    "language": "Shell",
+    "name": "minirr890112-byte/HermesMade",
+    "stars": 3,
+    "updated_at": "2026-09-08T23:36:43Z",
+    "url": "https://github.com/minirr890112-byte/HermesMade"
+  },
+  {
+    "description": "MiniMax H3 (Hailuo) storyboard WebUI \u2014 a local llama-server writes video+audio prompts (T2VA / I2VA / FL2VA / L2VA / REF",
+    "id": "acer1204/h3-storyboard-ALLInOne",
+    "language": "HTML",
+    "name": "acer1204/h3-storyboard-ALLInOne",
+    "stars": 1,
+    "updated_at": "2026-09-08T23:33:51Z",
+    "url": "https://github.com/acer1204/h3-storyboard-ALLInOne"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-08T23:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Curated, validated harness primitives for GitHub Copilot and Claude Code: agents, skills, prompts, hooks, plugins, MCP i",
+    "id": "paulasilvatech/awesome-harness-primitives",
+    "language": "Python",
+    "name": "paulasilvatech/awesome-harness-primitives",
+    "stars": 2,
+    "updated_at": "2026-09-08T23:30:13Z",
+    "url": "https://github.com/paulasilvatech/awesome-harness-primitives"
   },
   {
     "description": "The anti-Caveman protocol: an ultra-verbose, deeply analytical, didactic communication mode for AI agents. Five levels, ",
@@ -59,7 +176,7 @@
     "language": "TypeScript",
     "name": "Krablante/opencodez",
     "stars": 7,
-    "updated_at": "2026-09-08T23:21:37Z",
+    "updated_at": "2026-09-08T23:32:17Z",
     "url": "https://github.com/Krablante/opencodez"
   },
   {
@@ -68,7 +185,7 @@
     "language": "TypeScript",
     "name": "smsheik1/wiggly",
     "stars": 1,
-    "updated_at": "2026-09-08T23:21:37Z",
+    "updated_at": "2026-09-08T23:43:13Z",
     "url": "https://github.com/smsheik1/wiggly"
   },
   {
@@ -79,24 +196,6 @@
     "stars": 2,
     "updated_at": "2026-09-08T23:21:13Z",
     "url": "https://github.com/dean0x/mdscript"
-  },
-  {
-    "description": "An embeddable clarification agent. Works out what your prompt left undecided, answers most of it from your codebase, ask",
-    "id": "Vedanshu7/crux",
-    "language": "Python",
-    "name": "Vedanshu7/crux",
-    "stars": 0,
-    "updated_at": "2026-09-08T23:20:59Z",
-    "url": "https://github.com/Vedanshu7/crux"
-  },
-  {
-    "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platfo",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 210,
-    "updated_at": "2026-09-08T23:20:51Z",
-    "url": "https://github.com/jmagly/aiwg"
   },
   {
     "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
@@ -142,15 +241,6 @@
     "stars": 49,
     "updated_at": "2026-09-08T23:16:51Z",
     "url": "https://github.com/IBM/granite-workshop"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-08T23:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Fan out AI coding agent rules, skills, and workflows from one source to every agent you use. Ships with Compound V \u2014 a r",
@@ -261,15 +351,6 @@
     "url": "https://github.com/delphisecurity/xaidr"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24936,
-    "updated_at": "2026-09-08T23:30:04Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Multilingual AI workspace + MCP server for prompt workflows, model comparison, speech-to-text, language detection, trans",
     "id": "hmoses/poly-glot-ai-workspace",
     "language": "JavaScript",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T22:38:06Z",
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 2,
-    "updated_at": "2026-09-08T22:36:39Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "\ud83c\udfac Verified Seedance 2.5 / 2.0 prompt library \u2014 every prompt human-checked against its original post, with author, source",
-    "id": "LearnPrompt/awesome-seedance",
-    "language": "JavaScript",
-    "name": "LearnPrompt/awesome-seedance",
-    "stars": 3,
-    "updated_at": "2026-09-08T22:34:42Z",
-    "url": "https://github.com/LearnPrompt/awesome-seedance"
-  },
-  {
-    "description": "Teach AI assistants eight reusable skills for studying, presentations, customer service, browser handoffs, and privacy.",
-    "id": "Williamunpalatable7706/ai-life-skills-toolkit",
-    "language": "Python",
-    "name": "Williamunpalatable7706/ai-life-skills-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-08T22:34:28Z",
-    "url": "https://github.com/Williamunpalatable7706/ai-life-skills-toolkit"
-  },
-  {
-    "description": "A feature-frozen V20 AI short-drama production skill: staged professional creation with lightweight quality gates coveri",
-    "id": "rouql/ai-short-drama-production",
-    "language": "Python",
-    "name": "rouql/ai-short-drama-production",
-    "stars": 0,
-    "updated_at": "2026-09-08T22:34:25Z",
-    "url": "https://github.com/rouql/ai-short-drama-production"
-  },
-  {
-    "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
-    "id": "skillberry-ai/cap-evolve",
-    "language": "Python",
-    "name": "skillberry-ai/cap-evolve",
-    "stars": 54,
-    "updated_at": "2026-09-08T22:34:16Z",
-    "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "A professional AI short-drama creation skill: a multi-agent production system for story development, character design, s",
-    "id": "rouql/AI-Drama-Skill",
-    "language": "\u2014",
-    "name": "rouql/AI-Drama-Skill",
-    "stars": 0,
-    "updated_at": "2026-09-08T22:34:11Z",
-    "url": "https://github.com/rouql/AI-Drama-Skill"
-  },
-  {
-    "description": "Use cellular network, SMS, and calls on your Mac, and move the same module freely between Mac, iPhone/iPad, and DJI hard",
-    "id": "Feneliaearnest2534/celldock-for-mac",
-    "language": "\u2014",
-    "name": "Feneliaearnest2534/celldock-for-mac",
-    "stars": 0,
-    "updated_at": "2026-09-08T22:33:30Z",
-    "url": "https://github.com/Feneliaearnest2534/celldock-for-mac"
-  },
-  {
-    "description": "Analyze Danbooru references into clean tags and professional visual art direction prompts for image generation.",
-    "id": "statisticiancockney4234/LAX-Prompt-Lens",
-    "language": "JavaScript",
-    "name": "statisticiancockney4234/LAX-Prompt-Lens",
-    "stars": 0,
-    "updated_at": "2026-09-08T22:33:19Z",
-    "url": "https://github.com/statisticiancockney4234/LAX-Prompt-Lens"
-  },
-  {
-    "description": "Discover and compare open-source AI models by parameters, VRAM, license, and use-case for informed selection.",
-    "id": "Aggressive-tradescant8736/open-source-ai-models",
-    "language": "\u2014",
-    "name": "Aggressive-tradescant8736/open-source-ai-models",
-    "stars": 0,
-    "updated_at": "2026-09-08T22:33:12Z",
-    "url": "https://github.com/Aggressive-tradescant8736/open-source-ai-models"
   }
 ]
