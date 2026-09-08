@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u4e00\u6b3e\u628a\u4efb\u610f\u56fe\u7247\u8f6c\u6362\u4e3a\u4e13\u4e1a\u751f\u56fe\u63d0\u793a\u8bcd\u7684 Chrome / Edge \u6d4f\u89c8\u5668\u63d2\u4ef6\u3002\u652f\u6301\u7f51\u9875\u53f3\u952e\u8bc6\u56fe\u3001\u672c\u5730\u4e0a\u4f20\u4e0e\u526a\u8d34\u677f\u7c98\u8d34\uff0c\u751f\u6210\u4e2d\u6587\u3001\u82f1\u6587\u548c JSON \u63d0\u793a\u8bcd\uff0c\u5e76\u63d0\u4f9b\u5386\u53f2\u8bb0\u5f55\u4e0e\u6536\u85cf\u3002",
+    "id": "binghe1980/PromptLens",
+    "language": "\u2014",
+    "name": "binghe1980/PromptLens",
+    "stars": 51,
+    "updated_at": "2026-09-08T05:15:21Z",
+    "url": "https://github.com/binghe1980/PromptLens"
+  },
+  {
+    "description": "\u5f9e\u54c8\u5229\u8aaa\u7684 DGX Spark \u5be6\u6e2c\u5ef6\u4f38\u7684\u901a\u7528\u6a21\u677f\u3002\u53ea\u8981 360\u5ea6\u7167\u7247\uff0cGPT-6 Astra \u5c31\u80fd\u5728 16 \u5206\u9418\u5167\u5e6b\u4f60\u5b8c\u6210\uff1a\u7167\u7247 \u2192 Blender \u9ad8\u7cbe\u5ea6 PBR \u6a21\u578b \u2192 Three.js \u53ef\u73a9\u7684\u5c4b\u9802\u5c0f\u5e02\u96c6\u3002\u5df2\u8655\u7406\u597d 1:1 \u5c3a\u5ea6\u3001\u91dd",
+    "id": "cycheng-max/gpt6-astra-prompts",
+    "language": "HTML",
+    "name": "cycheng-max/gpt6-astra-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-08T05:14:55Z",
+    "url": "https://github.com/cycheng-max/gpt6-astra-prompts"
+  },
+  {
+    "description": "The creator kit: 139 Claude Code commands, 22 skills and 5 agents that carry their own DTD grammar, laws and trust bound",
+    "id": "Nova-Violet-Role/RoT-DtD-Commander",
+    "language": "JavaScript",
+    "name": "Nova-Violet-Role/RoT-DtD-Commander",
+    "stars": 3,
+    "updated_at": "2026-09-08T05:13:11Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-DtD-Commander"
+  },
+  {
+    "description": "GPT-Image2 \u63d0\u793a\u8a5e\u8207\u7bc4\u672c\u5eab\u7684\u53f0\u7063\u7e41\u9ad4\u4e2d\u6587\u5728\u5730\u5316\u7248\u672c\uff0c\u6536\u9304 500+ \u6848\u4f8b\u8207 20+ \u7bc4\u672c\u3002",
+    "id": "irons163/awesome-gpt-image-2-zh",
+    "language": "JavaScript",
+    "name": "irons163/awesome-gpt-image-2-zh",
+    "stars": 8,
+    "updated_at": "2026-09-08T05:12:58Z",
+    "url": "https://github.com/irons163/awesome-gpt-image-2-zh"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-08T05:11:11Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
     "id": "fysoul17/devlyn-cli",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "JavaScript",
     "name": "spidey889/context-generator",
     "stars": 11,
-    "updated_at": "2026-09-08T05:08:21Z",
+    "updated_at": "2026-09-08T05:13:00Z",
     "url": "https://github.com/spidey889/context-generator"
   },
   {
@@ -23,17 +68,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24914,
-    "updated_at": "2026-09-08T05:08:21Z",
+    "updated_at": "2026-09-08T05:12:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "GPT-Image2 \u63d0\u793a\u8a5e\u8207\u7bc4\u672c\u5eab\u7684\u53f0\u7063\u7e41\u9ad4\u4e2d\u6587\u5728\u5730\u5316\u7248\u672c\uff0c\u6536\u9304 500+ \u6848\u4f8b\u8207 20+ \u7bc4\u672c\u3002",
-    "id": "irons163/awesome-gpt-image-2-zh",
-    "language": "JavaScript",
-    "name": "irons163/awesome-gpt-image-2-zh",
-    "stars": 8,
-    "updated_at": "2026-09-08T05:07:46Z",
-    "url": "https://github.com/irons163/awesome-gpt-image-2-zh"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 3524,
-    "updated_at": "2026-09-08T05:04:39Z",
+    "updated_at": "2026-09-08T05:14:27Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -126,15 +162,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-08T05:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Free library of original guides on working with AI. Source and scripts for corewise.academy.",
     "id": "ryanportfolio/Corewise.Academy",
     "language": "MDX",
@@ -160,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T04:56:50Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "The creator kit: 139 Claude Code commands, 22 skills and 5 agents that carry their own DTD grammar, laws and trust bound",
-    "id": "Nova-Violet-Role/RoT-DtD-Commander",
-    "language": "JavaScript",
-    "name": "Nova-Violet-Role/RoT-DtD-Commander",
-    "stars": 3,
-    "updated_at": "2026-09-08T04:55:51Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-DtD-Commander"
   },
   {
     "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "saghosh8/ai-devops-release-assistant",
     "stars": 0,
-    "updated_at": "2026-09-08T04:59:53Z",
+    "updated_at": "2026-09-08T05:14:20Z",
     "url": "https://github.com/saghosh8/ai-devops-release-assistant"
   },
   {
@@ -392,7 +410,7 @@
     "language": "JavaScript",
     "name": "ohmyskyhigh/threadwave-skill",
     "stars": 0,
-    "updated_at": "2026-09-08T04:19:35Z",
+    "updated_at": "2026-09-08T05:14:48Z",
     "url": "https://github.com/ohmyskyhigh/threadwave-skill"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T04:41:48Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Prompt engineering workbench for web, browser, desktop, iPhone, and iPad",
-    "id": "DaveHomeAssist/prompt-lab",
-    "language": "JavaScript",
-    "name": "DaveHomeAssist/prompt-lab",
-    "stars": 2,
-    "updated_at": "2026-09-08T04:16:34Z",
-    "url": "https://github.com/DaveHomeAssist/prompt-lab"
-  },
-  {
-    "description": "Text-first toolkit for building reproducible, composable LLM workflows as plain files in OCaml.",
-    "id": "dakotamurphyucf/ochat",
-    "language": "OCaml",
-    "name": "dakotamurphyucf/ochat",
-    "stars": 30,
-    "updated_at": "2026-09-08T05:02:17Z",
-    "url": "https://github.com/dakotamurphyucf/ochat"
   }
 ]
