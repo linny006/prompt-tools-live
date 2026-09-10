@@ -1,5 +1,86 @@
 [
   {
+    "description": "Practical CLAUDE.md and AGENTS.md patterns that make AI coding agent rules testable and enforceable.",
+    "id": "soul-sol/claude-md-patterns",
+    "language": "\u2014",
+    "name": "soul-sol/claude-md-patterns",
+    "stars": 2,
+    "updated_at": "2026-09-10T04:42:52Z",
+    "url": "https://github.com/soul-sol/claude-md-patterns"
+  },
+  {
+    "description": "Adversarial AI code review prompts for finding correctness, security, test, and CI failures.",
+    "id": "soul-sol/ai-code-review-prompts",
+    "language": "\u2014",
+    "name": "soul-sol/ai-code-review-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-10T04:42:50Z",
+    "url": "https://github.com/soul-sol/ai-code-review-prompts"
+  },
+  {
+    "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, a",
+    "id": "alivirgo/Major-AI-Skills",
+    "language": "HTML",
+    "name": "alivirgo/Major-AI-Skills",
+    "stars": 1,
+    "updated_at": "2026-09-10T04:42:09Z",
+    "url": "https://github.com/alivirgo/Major-AI-Skills"
+  },
+  {
+    "description": "A coding-discipline spec for OpenAI's Codex CLI, enforced by native Codex hooks + a rule-hit telemetry loop. Turns an AG",
+    "id": "sdsrss/agentsmd",
+    "language": "JavaScript",
+    "name": "sdsrss/agentsmd",
+    "stars": 0,
+    "updated_at": "2026-09-10T04:39:21Z",
+    "url": "https://github.com/sdsrss/agentsmd"
+  },
+  {
+    "description": "An explainable full-stack TypeScript tool that combines structural analysis and AI-assisted assessment to detect cross-P",
+    "id": "sophiatheofanidou/cross-pr-integration-risk-analyzer",
+    "language": "TypeScript",
+    "name": "sophiatheofanidou/cross-pr-integration-risk-analyzer",
+    "stars": 0,
+    "updated_at": "2026-09-10T04:39:07Z",
+    "url": "https://github.com/sophiatheofanidou/cross-pr-integration-risk-analyzer"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1472,
+    "updated_at": "2026-09-10T04:35:27Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Portable agent-brain kit: superpowers methodology, YAGNI minimalism, cross-chat SQLite FTS5 memory, adversarial trap-sui",
+    "id": "oleg494/coding-kit",
+    "language": "Python",
+    "name": "oleg494/coding-kit",
+    "stars": 2,
+    "updated_at": "2026-09-10T04:34:03Z",
+    "url": "https://github.com/oleg494/coding-kit"
+  },
+  {
+    "description": "Russian-first writing skill for AI agents. Removes AI slop, bureaucratic Russian and chatbot habits without making text ",
+    "id": "codemistake/human-writing",
+    "language": "Python",
+    "name": "codemistake/human-writing",
+    "stars": 3,
+    "updated_at": "2026-09-10T04:34:02Z",
+    "url": "https://github.com/codemistake/human-writing"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-10T04:33:41Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -14,7 +95,7 @@
     "language": "PowerShell",
     "name": "lowqualityloey/better-promptkit",
     "stars": 0,
-    "updated_at": "2026-09-10T04:31:40Z",
+    "updated_at": "2026-09-10T04:42:15Z",
     "url": "https://github.com/lowqualityloey/better-promptkit"
   },
   {
@@ -25,15 +106,6 @@
     "stars": 12,
     "updated_at": "2026-09-10T04:30:53Z",
     "url": "https://github.com/oyi77/1ai-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-10T04:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Chrome Extension (MV3) to inject 90+ multi-agent expert teams & skills into DeepSeek, ChatGPT, Kimi, Doubao, Gemini and ",
@@ -144,20 +216,11 @@
     "url": "https://github.com/ENTELYX/triangulate-not-echo"
   },
   {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1472,
-    "updated_at": "2026-09-10T04:20:10Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 71133,
+    "stars": 71135,
     "updated_at": "2026-09-10T04:19:57Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-10T04:30:55Z",
+    "updated_at": "2026-09-10T04:33:49Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T03:57:42Z",
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 0,
-    "updated_at": "2026-09-10T03:57:35Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 1,
-    "updated_at": "2026-09-10T03:57:32Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
-    "id": "calabashspouter212/scriptbreak",
-    "language": "\u2014",
-    "name": "calabashspouter212/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-09-10T03:56:53Z",
-    "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "Build cinematic scroll-driven 2.5D websites using a framework-agnostic prompt system for coding agents.",
-    "id": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "language": "\u2014",
-    "name": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "stars": 1,
-    "updated_at": "2026-09-10T03:56:47Z",
-    "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-09-10T03:56:39Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-09-10T03:56:38Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
-  },
-  {
-    "description": "Improve your precision in browser-based FPS games with a live crosshair overlay and targeting script.",
-    "id": "Despairing-taka262/xios-aim-assist-script",
-    "language": "HTML",
-    "name": "Despairing-taka262/xios-aim-assist-script",
-    "stars": 0,
-    "updated_at": "2026-09-10T03:56:19Z",
-    "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
   }
 ]
