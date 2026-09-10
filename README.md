@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-10 13:30 UTC
+> ⏰ Last updated: 2026-09-10 13:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [yzfly/skills](https://github.com/yzfly/skills) | 12 | — | 2026-09-10 | 云中江树 (yzfly) Agent Skills 统一仓库 \| Claude Skills 一行命令安装：CTO（一场对话把 idea 变成可执行的软件设计）、王者荣耀出装参谋等，适配 Claude Code / Cursor / Cli |
-| 2 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34441 | TypeScript | 2026-09-10 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
-| 3 | [zznabil/lean-agent-skill-collection](https://github.com/zznabil/lean-agent-skill-collection) | 1 | PowerShell | 2026-09-10 | Twenty-three compact, vendor-neutral agent skills for engineering, research, communication, documents, experiments, and  |
-| 4 | [heavenaruba/codified-prompt-rule-engine](https://github.com/heavenaruba/codified-prompt-rule-engine) | 122 | HTML | 2026-09-10 | Top 10 Claude Prompt Optimization Frameworks 2026 |
-| 5 | [YuhaoLin2005/resume-stress-test](https://github.com/YuhaoLin2005/resume-stress-test) | 0 | — | 2026-09-10 | 投递之前，让 AI 先假装成最不想录用你的人，把你查一遍。三层递进简历压力测试闭环，纯提示词、无依赖、任意 AI 平台可用。 |
-| 6 | [B67687/Development-Protocol](https://github.com/B67687/Development-Protocol) | 1 | Rust | 2026-09-10 | Document-driven development protocol with three decision gates that prevent solution-jumping and catch wrong foundations |
-| 7 | [hysohail/agentic-experiment-designer](https://github.com/hysohail/agentic-experiment-designer) | 1 | HTML | 2026-09-10 | Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement |
-| 8 | [Saul1382/promptpilot-tab](https://github.com/Saul1382/promptpilot-tab) | 1 | — | 2026-09-10 | PromptPilot Tab product showcase and community hub |
-| 9 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 118 | HTML | 2026-09-10 | HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code |
-| 10 | [chigwell/Penelopa.ai](https://github.com/chigwell/Penelopa.ai) | 114 | JavaScript | 2026-09-10 | Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workf |
-| 11 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 10 | TypeScript | 2026-09-10 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
-| 12 | [aniruddhaadak80/gpt-6-astra-awesome](https://github.com/aniruddhaadak80/gpt-6-astra-awesome) | 0 | Python | 2026-09-10 | GPT-6 Astra Awesome Hub - 2,520 copy-paste prompts, carousel navigator, real community builds index, API quickstarts and |
-| 13 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24997 | TypeScript | 2026-09-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 14 | [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) | 21 | TypeScript | 2026-09-10 | OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude |
-| 15 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27901 | Python | 2026-09-10 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 16 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-10 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 1 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-10 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 2 | [zznabil/lean-agent-skill-collection](https://github.com/zznabil/lean-agent-skill-collection) | 1 | PowerShell | 2026-09-10 | Twenty-three compact, vendor-neutral agent skills for engineering, research, communication, documents, experiments, and  |
+| 3 | [yzfly/skills](https://github.com/yzfly/skills) | 12 | — | 2026-09-10 | 云中江树 (yzfly) Agent Skills 统一仓库 \| Claude Skills 一行命令安装：CTO（一场对话把 idea 变成可执行的软件设计）、王者荣耀出装参谋等，适配 Claude Code / Cursor / Cli |
+| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 34441 | TypeScript | 2026-09-10 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ |
+| 5 | [heavenaruba/codified-prompt-rule-engine](https://github.com/heavenaruba/codified-prompt-rule-engine) | 122 | HTML | 2026-09-10 | Top 10 Claude Prompt Optimization Frameworks 2026 |
+| 6 | [YuhaoLin2005/resume-stress-test](https://github.com/YuhaoLin2005/resume-stress-test) | 0 | Python | 2026-09-10 | 投递之前，让 AI 先假装成最不想录用你的人，把你查一遍。三层递进简历压力测试闭环，纯提示词、无依赖、任意 AI 平台可用。 |
+| 7 | [B67687/Development-Protocol](https://github.com/B67687/Development-Protocol) | 1 | Rust | 2026-09-10 | Document-driven development protocol with three decision gates that prevent solution-jumping and catch wrong foundations |
+| 8 | [hysohail/agentic-experiment-designer](https://github.com/hysohail/agentic-experiment-designer) | 1 | HTML | 2026-09-10 | Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement |
+| 9 | [Saul1382/promptpilot-tab](https://github.com/Saul1382/promptpilot-tab) | 1 | — | 2026-09-10 | PromptPilot Tab product showcase and community hub |
+| 10 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 118 | HTML | 2026-09-10 | HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code |
+| 11 | [chigwell/Penelopa.ai](https://github.com/chigwell/Penelopa.ai) | 114 | JavaScript | 2026-09-10 | Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workf |
+| 12 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 10 | TypeScript | 2026-09-10 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
+| 13 | [aniruddhaadak80/gpt-6-astra-awesome](https://github.com/aniruddhaadak80/gpt-6-astra-awesome) | 0 | Python | 2026-09-10 | GPT-6 Astra Awesome Hub - 2,520 copy-paste prompts, carousel navigator, real community builds index, API quickstarts and |
+| 14 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24997 | TypeScript | 2026-09-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 15 | [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) | 21 | TypeScript | 2026-09-10 | OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude |
+| 16 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 27901 | Python | 2026-09-10 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 17 | [Practice019/agent-skills](https://github.com/Practice019/agent-skills) | 0 | Python | 2026-09-10 |  |
 | 18 | [dustin-olenslager/claude-phalanx](https://github.com/dustin-olenslager/claude-phalanx) | 1 | Shell | 2026-09-10 | Turn Claude Code into a phase-aware, multi-team software factory: hard-gated pipeline, Clean Architecture + Effect stand |
 | 19 | [agungkesmas/recallfox](https://github.com/agungkesmas/recallfox) | 0 | JavaScript | 2026-09-10 | Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho |
