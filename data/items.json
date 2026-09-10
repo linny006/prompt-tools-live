@@ -1,5 +1,122 @@
 [
   {
+    "description": "Persona Control Language (PCL)",
+    "id": "personamanagmentlayer/pcl",
+    "language": "TypeScript",
+    "name": "personamanagmentlayer/pcl",
+    "stars": 40,
+    "updated_at": "2026-09-10T03:13:32Z",
+    "url": "https://github.com/personamanagmentlayer/pcl"
+  },
+  {
+    "description": "A desktop workspace for crafting vivid AI personas and exploring what emerges when different personalities fuse.",
+    "id": "mindaxis-ai/alchemy-furnace",
+    "language": "Go",
+    "name": "mindaxis-ai/alchemy-furnace",
+    "stars": 56,
+    "updated_at": "2026-09-10T03:11:48Z",
+    "url": "https://github.com/mindaxis-ai/alchemy-furnace"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-10T03:08:01Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24982,
+    "updated_at": "2026-09-10T03:13:27Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "MIT Core for local-first e-commerce ad creative: Product DNA, Person DNA, Spatial Continuity, and matched image/video pr",
+    "id": "chuanxituzhu-lab/sayelf-commerce-dna",
+    "language": "Python",
+    "name": "chuanxituzhu-lab/sayelf-commerce-dna",
+    "stars": 1,
+    "updated_at": "2026-09-10T03:05:47Z",
+    "url": "https://github.com/chuanxituzhu-lab/sayelf-commerce-dna"
+  },
+  {
+    "description": "A local-only, human-in-the-loop copypaste agent for LLM workflows.",
+    "id": "SunYanbox/ManualAid-Rust",
+    "language": "Rust",
+    "name": "SunYanbox/ManualAid-Rust",
+    "stars": 1,
+    "updated_at": "2026-09-10T03:05:32Z",
+    "url": "https://github.com/SunYanbox/ManualAid-Rust"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 71121,
+    "updated_at": "2026-09-10T03:03:30Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "BotShelf Vampire: free, focused AI prompt packs for Grok Bot, Claude Code and ChatGPT. Practical research, writing and c",
+    "id": "BotShelfVampire/botshelf",
+    "language": "\u2014",
+    "name": "BotShelfVampire/botshelf",
+    "stars": 0,
+    "updated_at": "2026-09-10T03:02:37Z",
+    "url": "https://github.com/BotShelfVampire/botshelf"
+  },
+  {
+    "description": "LLM engineering knowledge cards: from Attention to production.",
+    "id": "weicyang/llm-eng-cards",
+    "language": "HTML",
+    "name": "weicyang/llm-eng-cards",
+    "stars": 0,
+    "updated_at": "2026-09-10T03:02:20Z",
+    "url": "https://github.com/weicyang/llm-eng-cards"
+  },
+  {
+    "description": "Agent context, cast from one roster. Change what a role may do and the evaluation that checks it moves with it, in the s",
+    "id": "coilyco-flight-deck/housecast",
+    "language": "Python",
+    "name": "coilyco-flight-deck/housecast",
+    "stars": 0,
+    "updated_at": "2026-09-10T03:01:38Z",
+    "url": "https://github.com/coilyco-flight-deck/housecast"
+  },
+  {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 5053,
+    "updated_at": "2026-09-10T03:03:35Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
+  },
+  {
+    "description": "Curated, measurement-driven collection of token-saving MCPs for Claude Code, Codex, Cursor & Windsurf. Each MCP shipped ",
+    "id": "g-shevchenko/mcp-token-savers",
+    "language": "TypeScript",
+    "name": "g-shevchenko/mcp-token-savers",
+    "stars": 1,
+    "updated_at": "2026-09-10T03:00:39Z",
+    "url": "https://github.com/g-shevchenko/mcp-token-savers"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-10T03:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "",
     "id": "Practice019/agent-skills",
     "language": "Python",
@@ -18,31 +135,13 @@
     "url": "https://github.com/Krabbens/crayon"
   },
   {
-    "description": "LLM engineering knowledge cards: from Attention to production.",
-    "id": "weicyang/llm-eng-cards",
-    "language": "HTML",
-    "name": "weicyang/llm-eng-cards",
-    "stars": 0,
-    "updated_at": "2026-09-10T02:52:11Z",
-    "url": "https://github.com/weicyang/llm-eng-cards"
-  },
-  {
-    "description": "A local-only, human-in-the-loop copypaste agent for LLM workflows.",
-    "id": "SunYanbox/ManualAid-Rust",
-    "language": "Rust",
-    "name": "SunYanbox/ManualAid-Rust",
-    "stars": 1,
-    "updated_at": "2026-09-10T02:56:48Z",
-    "url": "https://github.com/SunYanbox/ManualAid-Rust"
-  },
-  {
-    "description": "Agent context, cast from one roster. Change what a role may do and the evaluation that checks it moves with it, in the s",
-    "id": "coilyco-flight-deck/housecast",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "coilyco-flight-deck/housecast",
-    "stars": 0,
-    "updated_at": "2026-09-10T02:51:39Z",
-    "url": "https://github.com/coilyco-flight-deck/housecast"
+    "name": "comet-ml/opik",
+    "stars": 21906,
+    "updated_at": "2026-09-10T02:55:05Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -54,6 +153,15 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34413,
+    "updated_at": "2026-09-10T02:47:10Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
     "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
     "language": "TypeScript",
@@ -61,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T02:46:33Z",
     "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-10T02:45:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
-    "id": "Kiln-AI/Kiln",
-    "language": "Python",
-    "name": "Kiln-AI/Kiln",
-    "stars": 5053,
-    "updated_at": "2026-09-10T02:42:59Z",
-    "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
     "description": "Russian-first writing skill for AI agents. Removes AI slop, bureaucratic Russian and chatbot habits without making text ",
@@ -153,15 +243,6 @@
     "url": "https://github.com/techmahato-com/ClaudeCertifiedArchitectFoundations"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24981,
-    "updated_at": "2026-09-10T02:55:45Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Engineering Atlas \u2014 The interactive map for understanding modern AI systems, architectures, and engineering patterns.",
     "id": "jie955/AI-Engineering-Atlas",
     "language": "TypeScript",
@@ -202,7 +283,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27890,
+    "stars": 27891,
     "updated_at": "2026-09-10T02:26:52Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -241,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-09-10T02:23:49Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 1,
-    "updated_at": "2026-09-10T02:22:42Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
     "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T02:09:33Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Give your AI coding assistant a cautious, meticulous Korean developer personality with this persona plugin for OpenAI Co",
-    "id": "partible-dicer700/SoDam-Persona-Codex",
-    "language": "JavaScript",
-    "name": "partible-dicer700/SoDam-Persona-Codex",
-    "stars": 0,
-    "updated_at": "2026-09-10T02:08:53Z",
-    "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
-  },
-  {
-    "description": "Track and instantly rewind your SQLite database to any previous state during local development with a video-like scrubbe",
-    "id": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "language": "HTML",
-    "name": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "stars": 0,
-    "updated_at": "2026-09-10T02:08:50Z",
-    "url": "https://github.com/nonliteral-fullhouse266/time-travel-sqlite-debugger"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 1,
-    "updated_at": "2026-09-10T02:08:20Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "Manage and organize your AI prompts locally with this private, self-hosted prompt manager for ChatGPT, Claude, and Gemin",
-    "id": "conniving-catechist742/ai-prompt-studio",
-    "language": "Python",
-    "name": "conniving-catechist742/ai-prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-09-10T02:07:31Z",
-    "url": "https://github.com/conniving-catechist742/ai-prompt-studio"
-  },
-  {
-    "description": "Personal Claude Code rulebook: CLAUDE.md, harness/, memory/, skills/, hooks/.",
-    "id": "firaen22/claude-rulebook",
-    "language": "Shell",
-    "name": "firaen22/claude-rulebook",
-    "stars": 0,
-    "updated_at": "2026-09-10T02:07:29Z",
-    "url": "https://github.com/firaen22/claude-rulebook"
-  },
-  {
-    "description": "Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions ",
-    "id": "householderbereavedperson505/promptloop",
-    "language": "\u2014",
-    "name": "householderbereavedperson505/promptloop",
-    "stars": 0,
-    "updated_at": "2026-09-10T02:07:20Z",
-    "url": "https://github.com/householderbereavedperson505/promptloop"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 0,
-    "updated_at": "2026-09-10T02:06:54Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 1,
-    "updated_at": "2026-09-10T02:06:51Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   }
 ]
