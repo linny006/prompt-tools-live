@@ -1,5 +1,113 @@
 [
   {
+    "description": "\u4e00\u4e2a\u4f1a\u62f7\u95ee\u4f60\u7684 AI \u521b\u4e1a\u8bca\u65ad\u5b98 \u00b7 \u4e0d\u7ed9\u901a\u7528\u5efa\u8bae,\u53ea\u903c\u4f60\u770b\u6e05\u771f\u75c5\u56e0 | An AI diagnostician that interrogates your startup",
+    "id": "qrex102300-ui/opc-clinic",
+    "language": "HTML",
+    "name": "qrex102300-ui/opc-clinic",
+    "stars": 3,
+    "updated_at": "2026-09-10T12:24:57Z",
+    "url": "https://github.com/qrex102300-ui/opc-clinic"
+  },
+  {
+    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34440,
+    "updated_at": "2026-09-10T12:21:20Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-10T12:21:04Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27901,
+    "updated_at": "2026-09-10T12:20:21Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-09-10T12:20:04Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "Routes a task to the cheapest Claude and Codex/ChatGPT model + effort level that clears the bar \u2014 protects your rate-lim",
+    "id": "enzoo808/model-effort-router",
+    "language": "Python",
+    "name": "enzoo808/model-effort-router",
+    "stars": 0,
+    "updated_at": "2026-09-10T12:19:29Z",
+    "url": "https://github.com/enzoo808/model-effort-router"
+  },
+  {
+    "description": "Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs",
+    "id": "KhazP/vibe-coding-prompt-template",
+    "language": "TypeScript",
+    "name": "KhazP/vibe-coding-prompt-template",
+    "stars": 3055,
+    "updated_at": "2026-09-10T12:19:12Z",
+    "url": "https://github.com/KhazP/vibe-coding-prompt-template"
+  },
+  {
+    "description": "AI-powered RAG document assistant for chatting with PDF documents using LangChain, Hugging Face, ChromaDB, Streamlit, an",
+    "id": "Purvesh271/DocsMate",
+    "language": "Python",
+    "name": "Purvesh271/DocsMate",
+    "stars": 0,
+    "updated_at": "2026-09-10T12:17:36Z",
+    "url": "https://github.com/Purvesh271/DocsMate"
+  },
+  {
+    "description": "A stack-agnostic, human-in-the-loop AI development workflow kit. The kit owns the workflow; your project owns the stack.",
+    "id": "rikilamadrid/pathfinder",
+    "language": "JavaScript",
+    "name": "rikilamadrid/pathfinder",
+    "stars": 1,
+    "updated_at": "2026-09-10T12:17:08Z",
+    "url": "https://github.com/rikilamadrid/pathfinder"
+  },
+  {
+    "description": "Human-led AI workflows for real B2B sales work.",
+    "id": "shaunmarsden/practical-ai-sales-workflows",
+    "language": "Python",
+    "name": "shaunmarsden/practical-ai-sales-workflows",
+    "stars": 2,
+    "updated_at": "2026-09-10T12:16:23Z",
+    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-10T12:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "\u5343\u7b14\u4e00\u6587 Novel \u2014 \u4eba AI \u5171\u5199\u7684\u957f\u7bc7\u7f51\u6587\u521b\u4f5c\u53f0\uff1a\u6761\u76ee\u5316\u4e16\u754c\u4e66 \u00b7 \u6b63\u5219 must \u5951\u7ea6\uff08\u786e\u5b9a\u6027\u590d\u68c0\uff0c\u8fdd\u89c4\u62e6\u4f4f\u9501\u5b9a\uff09\u00b7 \u4e09\u5c42\u5ba1\u6821\uff08\u5f15\u8bc1\u9a8c\u771f + \u6295\u7968\uff09\u00b7 \u540c\u4eba\u6587\u5916\u90e8\u5bfc\u5165\u53ef\u6574\u6279\u64a4\u9500 \u00b7 \u5347\u7ea7\u4e0d\u52a8\u4e66\u7a3f \u00b7 BYOK \u5168\u672c\u5730 \u00b7 MIT\u3002",
+    "id": "GLFzr/QianBi-Novel",
+    "language": "Python",
+    "name": "GLFzr/QianBi-Novel",
+    "stars": 6,
+    "updated_at": "2026-09-10T12:15:21Z",
+    "url": "https://github.com/GLFzr/QianBi-Novel"
+  },
+  {
     "description": "AI \u5e94\u7528\u4f5c\u54c1\u96c6 \u00b7 \u738b\u5ca9 | Prompt \u5de5\u7a0b / \u667a\u80fd\u4f53 / \u72ec\u7acb\u4ea4\u4ed8",
     "id": "vamyane/ai-portfolio",
     "language": "JavaScript",
@@ -40,7 +148,7 @@
     "id": "linshenkx/prompt-optimizer",
     "language": "TypeScript",
     "name": "linshenkx/prompt-optimizer",
-    "stars": 34427,
+    "stars": 34428,
     "updated_at": "2026-09-10T12:10:30Z",
     "url": "https://github.com/linshenkx/prompt-optimizer"
   },
@@ -50,7 +158,7 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-09-10T12:09:52Z",
+    "updated_at": "2026-09-10T12:27:06Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -95,26 +203,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21915,
-    "updated_at": "2026-09-10T12:12:06Z",
+    "updated_at": "2026-09-10T12:27:59Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integ",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34437,
-    "updated_at": "2026-09-10T12:09:24Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-10T12:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
@@ -131,7 +221,7 @@
     "language": "Python",
     "name": "Jia-Ethan/codex-keysmith",
     "stars": 4405,
-    "updated_at": "2026-09-10T11:58:04Z",
+    "updated_at": "2026-09-10T12:17:54Z",
     "url": "https://github.com/Jia-Ethan/codex-keysmith"
   },
   {
@@ -283,7 +373,7 @@
     "id": "zenstory-ai/drama-skills",
     "language": "Python",
     "name": "zenstory-ai/drama-skills",
-    "stars": 1753,
+    "stars": 1754,
     "updated_at": "2026-09-10T11:50:01Z",
     "url": "https://github.com/zenstory-ai/drama-skills"
   },
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T11:48:14Z",
     "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 1,
-    "updated_at": "2026-09-10T11:47:59Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "BotShelf Vampire: free, focused AI prompt packs for Grok Bot, Claude Code and ChatGPT. Practical research, writing and c",
-    "id": "BotShelfVampire/botshelf",
-    "language": "\u2014",
-    "name": "BotShelfVampire/botshelf",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:47:31Z",
-    "url": "https://github.com/BotShelfVampire/botshelf"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-09-10T11:47:27Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-09-10T11:46:33Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
-  },
-  {
-    "description": "",
-    "id": "celestynallmains51/claude-nexus",
-    "language": "\u2014",
-    "name": "celestynallmains51/claude-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:46:28Z",
-    "url": "https://github.com/celestynallmains51/claude-nexus"
-  },
-  {
-    "description": "Synthesize multiple AI answers into one clear recommendation and save time deciding what to trust",
-    "id": "abi71111/Ai-Answer-Synthesizer",
-    "language": "\u2014",
-    "name": "abi71111/Ai-Answer-Synthesizer",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:46:19Z",
-    "url": "https://github.com/abi71111/Ai-Answer-Synthesizer"
-  },
-  {
-    "description": "Analyze and visualize SQL in PHP code to find security risks, performance issues, and query patterns across frameworks",
-    "id": "straightrazorgagarin889/sqlens",
-    "language": "TypeScript",
-    "name": "straightrazorgagarin889/sqlens",
-    "stars": 1,
-    "updated_at": "2026-09-10T11:46:00Z",
-    "url": "https://github.com/straightrazorgagarin889/sqlens"
-  },
-  {
-    "description": "Build a B2B sales policy copilot for compliance, pricing, and risk checks with LLMs, LangChain, and structured business ",
-    "id": "Stunning-navelorange917/Agent-Pathway",
-    "language": "Python",
-    "name": "Stunning-navelorange917/Agent-Pathway",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:45:53Z",
-    "url": "https://github.com/Stunning-navelorange917/Agent-Pathway"
-  },
-  {
-    "description": "Package portable CC coding-agent skills for Claude Code, Codex, and OpenClaw with reusable prompts, helper scripts, and ",
-    "id": "kentunderage549/cc-harness-skills",
-    "language": "Python",
-    "name": "kentunderage549/cc-harness-skills",
-    "stars": 1,
-    "updated_at": "2026-09-10T11:45:51Z",
-    "url": "https://github.com/kentunderage549/cc-harness-skills"
-  },
-  {
-    "description": "Explore Claude Code prompt references for system, tool, skill, command, memory, and agent prompts in one organized repo",
-    "id": "moiralongspurred78/claude-code-prompts-reference",
-    "language": "\u2014",
-    "name": "moiralongspurred78/claude-code-prompts-reference",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:45:38Z",
-    "url": "https://github.com/moiralongspurred78/claude-code-prompts-reference"
   }
 ]
