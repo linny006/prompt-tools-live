@@ -1,5 +1,68 @@
 [
   {
+    "description": "Portable, model-neutral agent workflows for Codex and Claude Code: design, review, issues, and delivery.",
+    "id": "dgaramos/dr-agents",
+    "language": "Shell",
+    "name": "dgaramos/dr-agents",
+    "stars": 0,
+    "updated_at": "2026-09-11T01:44:15Z",
+    "url": "https://github.com/dgaramos/dr-agents"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 25,
+    "updated_at": "2026-09-11T01:39:22Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
+    "id": "agungkesmas/recallfox",
+    "language": "JavaScript",
+    "name": "agungkesmas/recallfox",
+    "stars": 0,
+    "updated_at": "2026-09-11T01:38:37Z",
+    "url": "https://github.com/agungkesmas/recallfox"
+  },
+  {
+    "description": "LlamaIndex implementation of the PSE (Planner\u2013Specialist\u2013Evaluator) agent pattern, orchestrated as a LlamaIndex Workflow",
+    "id": "erishen/llamaindex-pse",
+    "language": "Python",
+    "name": "erishen/llamaindex-pse",
+    "stars": 0,
+    "updated_at": "2026-09-11T01:35:42Z",
+    "url": "https://github.com/erishen/llamaindex-pse"
+  },
+  {
+    "description": "LLM prompt engineering pipelines, causal inference, and training convergence telemetry (Loss vs. Perplexity).",
+    "id": "NeoScraids/ml-prompt-engineering",
+    "language": "Python",
+    "name": "NeoScraids/ml-prompt-engineering",
+    "stars": 0,
+    "updated_at": "2026-09-11T01:33:19Z",
+    "url": "https://github.com/NeoScraids/ml-prompt-engineering"
+  },
+  {
+    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
+    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "language": "HTML",
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "stars": 140,
+    "updated_at": "2026-09-11T01:32:58Z",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-11T01:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "GPT Image 2.5 \u63d0\u793a\u8bcd\u753b\u5eca \u00b7 Agent Skills \u00b7 \u751f\u56fe\u4e0e\u6539\u56fe CLI | Flare & Sunburst",
     "id": "Fangx-AI/awesome-image2.5",
     "language": "Python",
@@ -16,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-09-11T01:29:51Z",
     "url": "https://github.com/benyshen/awesome-image-prompts"
+  },
+  {
+    "description": "Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recov",
+    "id": "Jia-Ethan/codex-keysmith",
+    "language": "Python",
+    "name": "Jia-Ethan/codex-keysmith",
+    "stars": 4412,
+    "updated_at": "2026-09-11T01:28:08Z",
+    "url": "https://github.com/Jia-Ethan/codex-keysmith"
   },
   {
     "description": "Curated Claude Code plugin marketplace and cross-platform generator for Claude, OpenCode, and Antigravity",
@@ -36,15 +108,6 @@
     "url": "https://github.com/callirra-ai/gpt-image-2-5-prompt-atlas"
   },
   {
-    "description": "LlamaIndex implementation of the PSE (Planner\u2013Specialist\u2013Evaluator) agent pattern, orchestrated as a LlamaIndex Workflow",
-    "id": "erishen/llamaindex-pse",
-    "language": "HTML",
-    "name": "erishen/llamaindex-pse",
-    "stars": 0,
-    "updated_at": "2026-09-11T01:25:14Z",
-    "url": "https://github.com/erishen/llamaindex-pse"
-  },
-  {
     "description": "Reusable, selectively loaded agent skills: authorization, judgment ownership, data lineage, side-effect safety, rollout ",
     "id": "xiongweilin/agent-skills",
     "language": "\u2014",
@@ -63,15 +126,6 @@
     "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
   },
   {
-    "description": "Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recov",
-    "id": "Jia-Ethan/codex-keysmith",
-    "language": "Python",
-    "name": "Jia-Ethan/codex-keysmith",
-    "stars": 4411,
-    "updated_at": "2026-09-11T01:28:08Z",
-    "url": "https://github.com/Jia-Ethan/codex-keysmith"
-  },
-  {
     "description": "Inspectable context compression for LLM conversations: turn older history into visible scaffold state, keep recent turns",
     "id": "hermes-labs-ai/langstate",
     "language": "Python",
@@ -88,6 +142,15 @@
     "stars": 6,
     "updated_at": "2026-09-11T01:21:54Z",
     "url": "https://github.com/hermes-labs-ai/hermes-blind"
+  },
+  {
+    "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
+    "id": "linshenkx/prompt-optimizer",
+    "language": "TypeScript",
+    "name": "linshenkx/prompt-optimizer",
+    "stars": 34459,
+    "updated_at": "2026-09-11T01:21:20Z",
+    "url": "https://github.com/linshenkx/prompt-optimizer"
   },
   {
     "description": "A planning skill for Claude or ChatGPT that asks before it plans. Three versions: claude.ai, engineers, and read-only fo",
@@ -124,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T01:17:48Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
-    "id": "linshenkx/prompt-optimizer",
-    "language": "TypeScript",
-    "name": "linshenkx/prompt-optimizer",
-    "stars": 34460,
-    "updated_at": "2026-09-11T01:21:20Z",
-    "url": "https://github.com/linshenkx/prompt-optimizer"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-11T01:15:46Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
@@ -270,15 +315,6 @@
     "url": "https://github.com/kaderkck/hewn-forge"
   },
   {
-    "description": "Firefox addon all-in-one untuk produktivitas AI + kehidupan Muslim Indonesia. Vault prompt & konteks, screenshot FireSho",
-    "id": "agungkesmas/recallfox",
-    "language": "JavaScript",
-    "name": "agungkesmas/recallfox",
-    "stars": 0,
-    "updated_at": "2026-09-11T00:55:12Z",
-    "url": "https://github.com/agungkesmas/recallfox"
-  },
-  {
     "description": "Model Context Protocol (MCP) server for GodPrompt \u2014 production-grade AI coding workflows with TDD, debugging protocols, ",
     "id": "AKzar1el/god-prompt-mcp",
     "language": "TypeScript",
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "AKzar1el/god-prompt",
     "stars": 7,
-    "updated_at": "2026-09-11T01:13:05Z",
+    "updated_at": "2026-09-11T01:39:02Z",
     "url": "https://github.com/AKzar1el/god-prompt"
   },
   {
@@ -329,7 +365,7 @@
     "language": "\u2014",
     "name": "hokwanhung/notebooklm-studio",
     "stars": 1,
-    "updated_at": "2026-09-11T00:47:49Z",
+    "updated_at": "2026-09-11T01:43:28Z",
     "url": "https://github.com/hokwanhung/notebooklm-studio"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-11T00:42:50Z",
     "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-09-11T00:41:20Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-09-11T00:40:53Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "MindSpark - Mind Map for Everyone",
-    "id": "prasadpatil25/MindSpark",
-    "language": "JavaScript",
-    "name": "prasadpatil25/MindSpark",
-    "stars": 74,
-    "updated_at": "2026-09-11T00:40:05Z",
-    "url": "https://github.com/prasadpatil25/MindSpark"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
-    "id": "ZeroLu/awesome-seedance",
-    "language": "Shell",
-    "name": "ZeroLu/awesome-seedance",
-    "stars": 2398,
-    "updated_at": "2026-09-11T00:35:50Z",
-    "url": "https://github.com/ZeroLu/awesome-seedance"
   }
 ]
