@@ -1,5 +1,104 @@
 [
   {
+    "description": "Spec-driven AI coding automation CLI. AI Loops runner for Claude Code, OpenCode, Cursor, and other agent CLIs.",
+    "id": "iyaki/specralph",
+    "language": "Go",
+    "name": "iyaki/specralph",
+    "stars": 4,
+    "updated_at": "2026-09-11T17:30:03Z",
+    "url": "https://github.com/iyaki/specralph"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Go",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-09-11T17:28:02Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 51,
+    "updated_at": "2026-09-11T17:26:48Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
+    "id": "BootBlock/SpriteGubbins",
+    "language": "TypeScript",
+    "name": "BootBlock/SpriteGubbins",
+    "stars": 0,
+    "updated_at": "2026-09-11T17:25:35Z",
+    "url": "https://github.com/BootBlock/SpriteGubbins"
+  },
+  {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-09-11T17:22:48Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-11T17:21:06Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 1,
+    "updated_at": "2026-09-11T17:20:46Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "\ud83c\udfae AI-Powered Career Skills SIMulator",
+    "id": "lf1up/careersim",
+    "language": "TypeScript",
+    "name": "lf1up/careersim",
+    "stars": 25,
+    "updated_at": "2026-09-11T17:28:36Z",
+    "url": "https://github.com/lf1up/careersim"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-09-11T17:16:42Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-11T17:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25028,
+    "updated_at": "2026-09-11T17:26:48Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\u5343\u7b14\u4e00\u6587 Novel \u2014 \u4eba AI \u5171\u5199\u7684\u957f\u7bc7\u7f51\u6587\u521b\u4f5c\u53f0\uff1a\u6761\u76ee\u5316\u4e16\u754c\u4e66 \u00b7 \u6b63\u5219 must \u5951\u7ea6\uff08\u786e\u5b9a\u6027\u590d\u68c0\uff0c\u8fdd\u89c4\u62e6\u4f4f\u9501\u5b9a\uff09\u00b7 \u4e09\u5c42\u5ba1\u6821\uff08\u5f15\u8bc1\u9a8c\u771f + \u6295\u7968\uff09\u00b7 \u540c\u4eba\u6587\u5916\u90e8\u5bfc\u5165\u53ef\u6574\u6279\u64a4\u9500 \u00b7 \u5347\u7ea7\u4e0d\u52a8\u4e66\u7a3f \u00b7 BYOK \u5168\u672c\u5730 \u00b7 MIT\u3002",
     "id": "GLFzr/QianBi-Novel",
     "language": "Python",
@@ -27,15 +126,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Go",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-09-11T17:11:14Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
-  },
-  {
     "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
     "id": "jatinloey1598-dot/social-signals-analyzer",
     "language": "HTML",
@@ -45,7 +135,7 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "\u3010Hermes \u684c\u9762\u7aef\u63d2\u4ef6 v1.0.5\u3011\u8f93\u5165\u6846\u589e\u5f3a\u63d0\u793a\u8bcd\u6309\u94ae\u2014\u2014\u4e00\u53e5\u8bdd\u8349\u7a3f\u6539\u5199\u4e3a\u7ed3\u6784\u5316\u5b8c\u6574\u63d0\u793a\u8bcd\uff0c\u6587\u4ef6\u5f15\u7528\u4e0e\u6587\u672c\u6df7\u5408\u53ef\u7528\uff0c\u6a21\u578b\u53ef\u81ea\u5b9a\u4e49\uff0cen/zh/\u7e41\u9ad4",
+    "description": "\u3010Hermes \u684c\u9762\u7aef\u63d2\u4ef6 v1.0.6\u3011\u8f93\u5165\u6846\u589e\u5f3a\u63d0\u793a\u8bcd\u6309\u94ae\u2014\u2014\u4e00\u53e5\u8bdd\u8349\u7a3f\u6539\u5199\u4e3a\u7ed3\u6784\u5316\u5b8c\u6574\u63d0\u793a\u8bcd\uff0c\u589e\u5f3a\u4e2d\u53ef\u53d6\u6d88\uff0c429\u81ea\u52a8\u91cd\u8bd5\uff0c\u6587\u4ef6\u5f15\u7528\u6df7\u5408\u53ef\u7528\uff0cen/zh/\u7e41\u9ad4",
     "id": "Heybinshao/prompt-enhancer",
     "language": "JavaScript",
     "name": "Heybinshao/prompt-enhancer",
@@ -90,15 +180,6 @@
     "url": "https://github.com/Jia-Ethan/codex-keysmith"
   },
   {
-    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
-    "id": "BootBlock/SpriteGubbins",
-    "language": "TypeScript",
-    "name": "BootBlock/SpriteGubbins",
-    "stars": 0,
-    "updated_at": "2026-09-11T17:06:46Z",
-    "url": "https://github.com/BootBlock/SpriteGubbins"
-  },
-  {
     "description": "Imprint: self-learning task handler for A3M Router - your AI bill should decay over time",
     "id": "Das-rebel/imprint",
     "language": "Python",
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 21934,
-    "updated_at": "2026-09-11T17:09:38Z",
+    "updated_at": "2026-09-11T17:17:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -121,18 +202,9 @@
     "id": "zenstory-ai/drama-skills",
     "language": "Python",
     "name": "zenstory-ai/drama-skills",
-    "stars": 1795,
+    "stars": 1796,
     "updated_at": "2026-09-11T17:02:58Z",
     "url": "https://github.com/zenstory-ai/drama-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-11T17:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -140,7 +212,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34477,
-    "updated_at": "2026-09-11T17:12:00Z",
+    "updated_at": "2026-09-11T17:26:37Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -342,15 +414,6 @@
     "url": "https://github.com/adeerkhan/vitruvius"
   },
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-09-11T16:21:04Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
     "description": "Agent context, cast from one roster. Change what a role may do and the evaluation that checks it moves with it, in the s",
     "id": "coilyco-flight-deck/housecast",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 41,
     "updated_at": "2026-09-11T16:17:43Z",
     "url": "https://github.com/chjm-ai/vococo"
-  },
-  {
-    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
-    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1971,
-    "updated_at": "2026-09-11T16:17:33Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
-  },
-  {
-    "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
-    "id": "winstonkoh87/Athena-Public",
-    "language": "Python",
-    "name": "winstonkoh87/Athena-Public",
-    "stars": 587,
-    "updated_at": "2026-09-11T16:17:27Z",
-    "url": "https://github.com/winstonkoh87/Athena-Public"
-  },
-  {
-    "description": "gpt6 Astra-claude-grok4.6-deepseekv4pro-glm5.3-gemini\u7834\u7532\u8d8a\u72f1 \u00b7 \u51b7\u5496\u5561 BREAK//OPEN \u5de5\u4f5c\u53f0",
-    "id": "3641397194-wq/gpt6-Astra",
-    "language": "Python",
-    "name": "3641397194-wq/gpt6-Astra",
-    "stars": 555,
-    "updated_at": "2026-09-11T16:15:41Z",
-    "url": "https://github.com/3641397194-wq/gpt6-Astra"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators ",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 2187,
-    "updated_at": "2026-09-11T16:12:14Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use ",
-    "id": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1852,
-    "updated_at": "2026-09-11T16:12:07Z",
-    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
-    "id": "grigb/gas-prompt-library",
-    "language": "Python",
-    "name": "grigb/gas-prompt-library",
-    "stars": 5,
-    "updated_at": "2026-09-11T16:11:34Z",
-    "url": "https://github.com/grigb/gas-prompt-library"
-  },
-  {
-    "description": "\u81ea\u6211\u84b8\u998f \u00b7 \u9690\u79c1\u4f18\u5148\u7684\u4e2a\u4eba AI \u5185\u7701\u5de5\u5177:\u7528\u5bf9\u8bdd\u628a\u81ea\u5df1\u84b8\u51fa\u6765\u3002\u672c\u5730\u5b58\u50a8 \u00b7 \u63d0\u793a\u8bcd\u5168\u5f00\u6e90 \u00b7 DeepSeek \u6210\u672c\u5de5\u7a0b(97% \u524d\u7f00\u547d\u4e2d) \u00b7 \u624b\u673a\u5230\u5e73\u677f\u81ea\u9002\u5e94",
-    "id": "GLFzr/self-distill",
-    "language": "JavaScript",
-    "name": "GLFzr/self-distill",
-    "stars": 1,
-    "updated_at": "2026-09-11T16:09:42Z",
-    "url": "https://github.com/GLFzr/self-distill"
   }
 ]
