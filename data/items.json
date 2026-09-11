@@ -1,12 +1,102 @@
 [
   {
+    "description": "\u5341\u4e09\u5e0c\u8bfa Agent \u5de5\u4f5c\u6d41\uff1a\u53ef\u5ba1\u8ba1\u5de5\u7a0b\u6cbb\u7406 Skill\u3002\u4e09\u7ea7\u8dd1\u9053\uff08L1 \u5feb\u901a/L2-S \u77ed\u6d41/L2-F 9 \u6b65\uff09+ L1/L2/L3 \u5c01\u95ed\u6e05\u5355\u901f\u5224 + \u4e09\u6a21\u5f0f\uff1b\u6e10\u8fdb\u5f0f\u62ab\u9732\uff08294 \u6761\u7ec6\u5219 17 \u7c7b\u6309 T1/T2/T3 \u4e09\u5c42 + \u4e00\u952e\u68c0\u7d22\u7aef",
+    "id": "zxc663/shisan-xinuo-workflow",
+    "language": "PowerShell",
+    "name": "zxc663/shisan-xinuo-workflow",
+    "stars": 23,
+    "updated_at": "2026-09-11T06:14:56Z",
+    "url": "https://github.com/zxc663/shisan-xinuo-workflow"
+  },
+  {
+    "description": "Agentic context engineering for GitHub Copilot \u2014 agents route, skills execute, instructions enforce, hooks guard. Tuned ",
+    "id": "zexion7873/copilot-setting",
+    "language": "Shell",
+    "name": "zexion7873/copilot-setting",
+    "stars": 1,
+    "updated_at": "2026-09-11T06:14:02Z",
+    "url": "https://github.com/zexion7873/copilot-setting"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 7,
+    "updated_at": "2026-09-11T06:13:28Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-09-11T06:13:14Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "Agent context, cast from one roster. Change what a role may do and the evaluation that checks it moves with it, in the s",
+    "id": "coilyco-flight-deck/housecast",
+    "language": "Python",
+    "name": "coilyco-flight-deck/housecast",
+    "stars": 1,
+    "updated_at": "2026-09-11T06:11:49Z",
+    "url": "https://github.com/coilyco-flight-deck/housecast"
+  },
+  {
+    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
+    "id": "coilyco-flight-deck/agent-compose",
+    "language": "Go",
+    "name": "coilyco-flight-deck/agent-compose",
+    "stars": 1,
+    "updated_at": "2026-09-11T06:11:38Z",
+    "url": "https://github.com/coilyco-flight-deck/agent-compose"
+  },
+  {
+    "description": "An open-source Antigravity skill that forces Gemini to code like Claude Models. It makes the AI read your files, plan it",
+    "id": "udaysharmadev/Gravitas",
+    "language": "Python",
+    "name": "udaysharmadev/Gravitas",
+    "stars": 4,
+    "updated_at": "2026-09-11T06:11:28Z",
+    "url": "https://github.com/udaysharmadev/Gravitas"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25012,
+    "updated_at": "2026-09-11T06:09:39Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
     "id": "hakodev2k/AI-Engineering",
     "language": "Python",
     "name": "hakodev2k/AI-Engineering",
     "stars": 1,
-    "updated_at": "2026-09-11T06:08:07Z",
+    "updated_at": "2026-09-11T06:09:30Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Test your prompts across multiple AI models simultaneously with our open source playground. Evaluate responses side-by-s",
+    "id": "supernova-app/ai-playground",
+    "language": "TypeScript",
+    "name": "supernova-app/ai-playground",
+    "stars": 5,
+    "updated_at": "2026-09-11T06:09:05Z",
+    "url": "https://github.com/supernova-app/ai-playground"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-11T06:08:16Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Open-source Chrome extension for drafting GPT Image 2 prompts for image2.to.",
@@ -27,15 +117,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "An open-source Antigravity skill that forces Gemini to code like Claude Models. It makes the AI read your files, plan it",
-    "id": "udaysharmadev/Gravitas",
-    "language": "Python",
-    "name": "udaysharmadev/Gravitas",
-    "stars": 4,
-    "updated_at": "2026-09-11T06:04:44Z",
-    "url": "https://github.com/udaysharmadev/Gravitas"
-  },
-  {
     "description": "\u672c\u9879\u76ee\u6574\u7406\u4e86\u7528\u4e8e\u751f\u6210[\u70ab\u9177 HTML \u52a8\u753b\u7f51\u9875]\u7684 AI Prompts\uff0c\u6db5\u76d6\u52a8\u753b\u6548\u679c\u30013D \u53ef\u89c6\u5316\u3001PPT \u98ce\u683c\u6f14\u793a\u3001UI \u7f8e\u5316\u7b49\u591a\u4e2a\u7c7b\u522b\u3002",
     "id": "Unclecheng-li/AI_Animation",
     "language": "HTML",
@@ -54,15 +135,6 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "\u5341\u4e09\u5e0c\u8bfa Agent \u5de5\u4f5c\u6d41\uff1a\u53ef\u5ba1\u8ba1\u5de5\u7a0b\u6cbb\u7406 Skill\u3002\u4e09\u7ea7\u8dd1\u9053\uff08L1 \u5feb\u901a/L2-S \u77ed\u6d41/L2-F 9 \u6b65\uff09+ L1/L2/L3 \u5c01\u95ed\u6e05\u5355\u901f\u5224 + \u4e09\u6a21\u5f0f\uff1b\u6e10\u8fdb\u5f0f\u62ab\u9732\uff08294 \u6761\u7ec6\u5219 17 \u7c7b\u6309 T1/T2/T3 \u4e09\u5c42 + \u4e00\u952e\u68c0\u7d22\u7aef",
-    "id": "zxc663/shisan-xinuo-workflow",
-    "language": "PowerShell",
-    "name": "zxc663/shisan-xinuo-workflow",
-    "stars": 23,
-    "updated_at": "2026-09-11T06:01:39Z",
-    "url": "https://github.com/zxc663/shisan-xinuo-workflow"
-  },
-  {
     "description": "Visual history of Claude Code's system prompt: stream-graph timeline across every published version, inline content diff",
     "id": "ftvision/agent-prompt-observatory",
     "language": "Python",
@@ -70,24 +142,6 @@
     "stars": 2,
     "updated_at": "2026-09-11T06:01:02Z",
     "url": "https://github.com/ftvision/agent-prompt-observatory"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-11T06:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
-    "id": "sergeeey/Claude-cod-top-2026",
-    "language": "Python",
-    "name": "sergeeey/Claude-cod-top-2026",
-    "stars": 7,
-    "updated_at": "2026-09-11T06:00:28Z",
-    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -288,15 +342,6 @@
     "url": "https://github.com/Ekmsi8525/agentsmith"
   },
   {
-    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
-    "id": "coilyco-flight-deck/agent-compose",
-    "language": "Go",
-    "name": "coilyco-flight-deck/agent-compose",
-    "stars": 1,
-    "updated_at": "2026-09-11T05:41:35Z",
-    "url": "https://github.com/coilyco-flight-deck/agent-compose"
-  },
-  {
     "description": "CLI and shared catalog for initializing repos with skills, rules, and instructions across multiple agentic coding platfo",
     "id": "pedromvgomes/agentic-toolkit",
     "language": "Go",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-11T05:35:40Z",
     "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-09-11T05:34:48Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
-  },
-  {
-    "description": "",
-    "id": "celestynallmains51/claude-nexus",
-    "language": "\u2014",
-    "name": "celestynallmains51/claude-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-11T05:34:43Z",
-    "url": "https://github.com/celestynallmains51/claude-nexus"
-  },
-  {
-    "description": "Synthesize multiple AI answers into one clear recommendation and save time deciding what to trust",
-    "id": "abi71111/Ai-Answer-Synthesizer",
-    "language": "\u2014",
-    "name": "abi71111/Ai-Answer-Synthesizer",
-    "stars": 0,
-    "updated_at": "2026-09-11T05:34:42Z",
-    "url": "https://github.com/abi71111/Ai-Answer-Synthesizer"
-  },
-  {
-    "description": "Analyze and visualize SQL in PHP code to find security risks, performance issues, and query patterns across frameworks",
-    "id": "straightrazorgagarin889/sqlens",
-    "language": "TypeScript",
-    "name": "straightrazorgagarin889/sqlens",
-    "stars": 1,
-    "updated_at": "2026-09-11T05:34:19Z",
-    "url": "https://github.com/straightrazorgagarin889/sqlens"
-  },
-  {
-    "description": "Build a B2B sales policy copilot for compliance, pricing, and risk checks with LLMs, LangChain, and structured business ",
-    "id": "Stunning-navelorange917/Agent-Pathway",
-    "language": "Python",
-    "name": "Stunning-navelorange917/Agent-Pathway",
-    "stars": 0,
-    "updated_at": "2026-09-11T05:34:11Z",
-    "url": "https://github.com/Stunning-navelorange917/Agent-Pathway"
   }
 ]
