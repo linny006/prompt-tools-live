@@ -1,5 +1,131 @@
 [
   {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "braboj/solid-ai-templates",
+    "language": "Python",
+    "name": "braboj/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-09-11T12:59:51Z",
+    "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Manage and reuse AI prompts from the command line with cueCLI for ChatGPT, Claude, and more\u2014simplifying your workflow",
+    "id": "tito1405/cueCLI",
+    "language": "JavaScript",
+    "name": "tito1405/cueCLI",
+    "stars": 3,
+    "updated_at": "2026-09-11T12:59:49Z",
+    "url": "https://github.com/tito1405/cueCLI"
+  },
+  {
+    "description": "\u7b80\u7ea6\u7684 AI \u751f\u56fe Tag \u9009\u62e9\u5668 \u00b7 \u521d\u97f3\u672a\u6765\u4e3b\u9898 \u00b7 \u4e2d\u6587\u641c\u82f1\u6587 \u00b7 \u4e00\u952e\u590d\u5236\u63d0\u793a\u8bcd | Minimal AI-image tag picker for ComfyUI / NovelAI / WebUI",
+    "id": "Luoury/ComfyUI_TagSelect",
+    "language": "Python",
+    "name": "Luoury/ComfyUI_TagSelect",
+    "stars": 0,
+    "updated_at": "2026-09-11T12:58:42Z",
+    "url": "https://github.com/Luoury/ComfyUI_TagSelect"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Go",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-09-11T12:58:33Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "A plug-and-play framework for AI-assisted software development, enhancing context-aware collaboration in complex codebas",
+    "id": "JaiChaudhary07/ai-dev-assistant-framework",
+    "language": "\u2014",
+    "name": "JaiChaudhary07/ai-dev-assistant-framework",
+    "stars": 5,
+    "updated_at": "2026-09-11T12:58:15Z",
+    "url": "https://github.com/JaiChaudhary07/ai-dev-assistant-framework"
+  },
+  {
+    "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
+    "id": "Tymooh/GPT-DUEL-ARENA",
+    "language": "\u2014",
+    "name": "Tymooh/GPT-DUEL-ARENA",
+    "stars": 0,
+    "updated_at": "2026-09-11T12:58:02Z",
+    "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
+  },
+  {
+    "description": "AI agent orchestration kit for Windows, Linux/MacOS with Codex skills, hooks, routing rules and profiles for Claude, Ope",
+    "id": "IAPro-Community/Orquestrador-Maestro",
+    "language": "JavaScript",
+    "name": "IAPro-Community/Orquestrador-Maestro",
+    "stars": 42,
+    "updated_at": "2026-09-11T12:57:20Z",
+    "url": "https://github.com/IAPro-Community/Orquestrador-Maestro"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-09-11T12:56:29Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21933,
+    "updated_at": "2026-09-11T12:56:12Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\u65e0\u9650\u521b\u610f\u63d0\u793a\u8bcd\u5e93 | Prompt as Code | 631 \u4e2a AI \u56fe\u50cf/\u89c6\u9891\u63d0\u793a\u8bcd\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\u4e0e 14 \u7c7b\u573a\u666f\u91cd\u5206\u7c7b\uff1a\u914d\u56fe+\u5168\u6587 prompt+\u6765\u6e90+\u7ed3\u6784\u5316 JSON\uff0cGitHub Pages \u5728\u7ebf\u6d4f\u89c8",
+    "id": "benyshen/awesome-image-prompts",
+    "language": "Python",
+    "name": "benyshen/awesome-image-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-11T12:49:54Z",
+    "url": "https://github.com/benyshen/awesome-image-prompts"
+  },
+  {
+    "description": "A 13-agent software company in a plugin: plan, build, and adversarially judge every change under hard budget caps. Route",
+    "id": "xsefirosus/sefi-agents",
+    "language": "Shell",
+    "name": "xsefirosus/sefi-agents",
+    "stars": 1,
+    "updated_at": "2026-09-11T12:47:37Z",
+    "url": "https://github.com/xsefirosus/sefi-agents"
+  },
+  {
+    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
+    "id": "flexigpt/flexigpt-app",
+    "language": "TypeScript",
+    "name": "flexigpt/flexigpt-app",
+    "stars": 4,
+    "updated_at": "2026-09-11T12:47:20Z",
+    "url": "https://github.com/flexigpt/flexigpt-app"
+  },
+  {
+    "description": "Practice-built skills that give AI agents practical judgment for product, web, engineering, delivery, go-to-market, comm",
+    "id": "sebastian-software/skills.sebastian-software.com",
+    "language": "Python",
+    "name": "sebastian-software/skills.sebastian-software.com",
+    "stars": 0,
+    "updated_at": "2026-09-11T12:46:53Z",
+    "url": "https://github.com/sebastian-software/skills.sebastian-software.com"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-11T12:45:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Public AI operating layer for repo-attached engineering workflows, built around XUUnity.",
     "id": "FoxsterDev/ai-research-hub",
     "language": "Python",
@@ -50,7 +176,7 @@
     "language": "TypeScript",
     "name": "Fanjiale-CN/press-print",
     "stars": 3,
-    "updated_at": "2026-09-11T12:41:14Z",
+    "updated_at": "2026-09-11T12:49:51Z",
     "url": "https://github.com/Fanjiale-CN/press-print"
   },
   {
@@ -72,30 +198,12 @@
     "url": "https://github.com/janzong/agent-charters"
   },
   {
-    "description": "Local-first BYOK AI workspace for reusable assistants, prompts, tools, skills, model choices, and private local history ",
-    "id": "flexigpt/flexigpt-app",
-    "language": "TypeScript",
-    "name": "flexigpt/flexigpt-app",
-    "stars": 4,
-    "updated_at": "2026-09-11T12:40:01Z",
-    "url": "https://github.com/flexigpt/flexigpt-app"
-  },
-  {
-    "description": "\u7b80\u7ea6\u7684 AI \u751f\u56fe Tag \u9009\u62e9\u5668 \u00b7 \u521d\u97f3\u672a\u6765\u4e3b\u9898 \u00b7 \u4e2d\u6587\u641c\u82f1\u6587 \u00b7 \u4e00\u952e\u590d\u5236\u63d0\u793a\u8bcd | Minimal AI-image tag picker for ComfyUI / NovelAI / WebUI",
-    "id": "Luoury/ComfyUI_TagSelect",
-    "language": "Python",
-    "name": "Luoury/ComfyUI_TagSelect",
-    "stars": 0,
-    "updated_at": "2026-09-11T12:39:48Z",
-    "url": "https://github.com/Luoury/ComfyUI_TagSelect"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34474,
-    "updated_at": "2026-09-11T12:44:30Z",
+    "updated_at": "2026-09-11T12:59:03Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -106,24 +214,6 @@
     "stars": 2,
     "updated_at": "2026-09-11T12:44:25Z",
     "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21932,
-    "updated_at": "2026-09-11T12:45:06Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Go",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-09-11T12:35:54Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -140,7 +230,7 @@
     "language": "Go",
     "name": "AltairaLabs/PromptKit",
     "stars": 9,
-    "updated_at": "2026-09-11T12:35:33Z",
+    "updated_at": "2026-09-11T12:54:24Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
   },
   {
@@ -189,15 +279,6 @@
     "url": "https://github.com/coilyco-flight-deck/agent-compose"
   },
   {
-    "description": "A 13-agent software company in a plugin: plan, build, and adversarially judge every change under hard budget caps. Route",
-    "id": "xsefirosus/sefi-agents",
-    "language": "Shell",
-    "name": "xsefirosus/sefi-agents",
-    "stars": 1,
-    "updated_at": "2026-09-11T12:31:36Z",
-    "url": "https://github.com/xsefirosus/sefi-agents"
-  },
-  {
     "description": "Deterministic context compiler and policy engine for Cursor, Copilot, Cline, and Claude. One source of truth for every c",
     "id": "kok-o/contextos-agents",
     "language": "JavaScript",
@@ -205,15 +286,6 @@
     "stars": 6,
     "updated_at": "2026-09-11T12:31:30Z",
     "url": "https://github.com/kok-o/contextos-agents"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-11T12:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -239,7 +311,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25020,
-    "updated_at": "2026-09-11T12:45:24Z",
+    "updated_at": "2026-09-11T12:59:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -324,15 +396,6 @@
     "url": "https://github.com/hongforge/image-prompt-atlas"
   },
   {
-    "description": "Practice-built skills that give AI agents practical judgment for product, web, engineering, delivery, go-to-market, comm",
-    "id": "sebastian-software/skills.sebastian-software.com",
-    "language": "Python",
-    "name": "sebastian-software/skills.sebastian-software.com",
-    "stars": 0,
-    "updated_at": "2026-09-11T12:18:29Z",
-    "url": "https://github.com/sebastian-software/skills.sebastian-software.com"
-  },
-  {
     "description": "Open-source Claude Code skills that bring planning, building, and verification gates to agentic coding workflows.",
     "id": "adamlinscott/claude-skills",
     "language": "TypeScript",
@@ -349,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T12:14:43Z",
     "url": "https://github.com/MichaelZelbel/querino"
-  },
-  {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "braboj/solid-ai-templates",
-    "language": "Python",
-    "name": "braboj/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-09-11T12:14:32Z",
-    "url": "https://github.com/braboj/solid-ai-templates"
   },
   {
     "description": "BCP (Blueprint Completion Protocol) \u2014 a development paradigm that lets domain experts build complex systems with AI, saf",
@@ -394,59 +448,5 @@
     "stars": 13407,
     "updated_at": "2026-09-11T12:05:37Z",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-11T12:31:11Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Turn Claude Code into a senior software architect that orchestrates a team of specialist agents and audits itself. An 8-",
-    "id": "vlad-ko/claude-wizard",
-    "language": "Shell",
-    "name": "vlad-ko/claude-wizard",
-    "stars": 71,
-    "updated_at": "2026-09-11T12:02:12Z",
-    "url": "https://github.com/vlad-ko/claude-wizard"
-  },
-  {
-    "description": "AI short-film series: Grok Imagine visuals + Minimax Music cutaways. Open production hub with prompts, screenplays, and ",
-    "id": "ford442/weeks_on_fire",
-    "language": "TypeScript",
-    "name": "ford442/weeks_on_fire",
-    "stars": 1,
-    "updated_at": "2026-09-11T12:01:19Z",
-    "url": "https://github.com/ford442/weeks_on_fire"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 18,
-    "updated_at": "2026-09-11T12:02:03Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "A stack-agnostic, human-in-the-loop AI development workflow kit. The kit owns the workflow; your project owns the stack.",
-    "id": "rikilamadrid/pathfinder",
-    "language": "JavaScript",
-    "name": "rikilamadrid/pathfinder",
-    "stars": 1,
-    "updated_at": "2026-09-11T11:54:51Z",
-    "url": "https://github.com/rikilamadrid/pathfinder"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 141,
-    "updated_at": "2026-09-11T11:51:35Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
   }
 ]
