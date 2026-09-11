@@ -1,12 +1,75 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25010,
-    "updated_at": "2026-09-11T04:45:07Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "\ud83d\udc19 AI Craft delivers structured workflow prompts for software development across AI platforms, with Claude AI workflows a",
+    "id": "R-cloud-git/ai-craft",
+    "language": "\u2014",
+    "name": "R-cloud-git/ai-craft",
+    "stars": 3,
+    "updated_at": "2026-09-11T04:59:54Z",
+    "url": "https://github.com/R-cloud-git/ai-craft"
+  },
+  {
+    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
+    "id": "janzong/agent-charters",
+    "language": "Python",
+    "name": "janzong/agent-charters",
+    "stars": 1,
+    "updated_at": "2026-09-11T04:58:41Z",
+    "url": "https://github.com/janzong/agent-charters"
+  },
+  {
+    "description": "\u5343\u7b14\u4e00\u6587 Novel \u2014 \u4eba AI \u5171\u5199\u7684\u957f\u7bc7\u7f51\u6587\u521b\u4f5c\u53f0\uff1a\u6761\u76ee\u5316\u4e16\u754c\u4e66 \u00b7 \u6b63\u5219 must \u5951\u7ea6\uff08\u786e\u5b9a\u6027\u590d\u68c0\uff0c\u8fdd\u89c4\u62e6\u4f4f\u9501\u5b9a\uff09\u00b7 \u4e09\u5c42\u5ba1\u6821\uff08\u5f15\u8bc1\u9a8c\u771f + \u6295\u7968\uff09\u00b7 \u540c\u4eba\u6587\u5916\u90e8\u5bfc\u5165\u53ef\u6574\u6279\u64a4\u9500 \u00b7 \u5347\u7ea7\u4e0d\u52a8\u4e66\u7a3f \u00b7 BYOK \u5168\u672c\u5730 \u00b7 MIT\u3002",
+    "id": "GLFzr/QianBi-Novel",
+    "language": "Python",
+    "name": "GLFzr/QianBi-Novel",
+    "stars": 7,
+    "updated_at": "2026-09-11T04:57:10Z",
+    "url": "https://github.com/GLFzr/QianBi-Novel"
+  },
+  {
+    "description": "Free, module-wise training for building applications with LLMs \u2014 prompt engineering, LLM APIs, tool calling, agents, and",
+    "id": "SIGILIPELLI/llm-dev-mastery-path",
+    "language": "\u2014",
+    "name": "SIGILIPELLI/llm-dev-mastery-path",
+    "stars": 1,
+    "updated_at": "2026-09-11T04:54:03Z",
+    "url": "https://github.com/SIGILIPELLI/llm-dev-mastery-path"
+  },
+  {
+    "description": "Turn any topic into a complete business presentation deck.",
+    "id": "TianHengZhuang/One-click-AI-PPT-creation",
+    "language": "\u2014",
+    "name": "TianHengZhuang/One-click-AI-PPT-creation",
+    "stars": 6,
+    "updated_at": "2026-09-11T04:52:56Z",
+    "url": "https://github.com/TianHengZhuang/One-click-AI-PPT-creation"
+  },
+  {
+    "description": "Portable Claude Code profile \u2014 8-step dev loop, CLAUDE.md pre-commit gate, zero-hallucination policy. Install once, carr",
+    "id": "kopp0510/claude-dd",
+    "language": "Python",
+    "name": "kopp0510/claude-dd",
+    "stars": 6,
+    "updated_at": "2026-09-11T04:52:32Z",
+    "url": "https://github.com/kopp0510/claude-dd"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 1,
+    "updated_at": "2026-09-11T04:52:20Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-09-11T04:49:31Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   },
   {
     "description": "A 13-agent software company in a plugin: plan, build, and adversarially judge every change under hard budget caps. Route",
@@ -14,8 +77,53 @@
     "language": "Shell",
     "name": "xsefirosus/sefi-agents",
     "stars": 1,
-    "updated_at": "2026-09-11T04:44:16Z",
+    "updated_at": "2026-09-11T04:48:39Z",
     "url": "https://github.com/xsefirosus/sefi-agents"
+  },
+  {
+    "description": "Metis is a coding agent that boosts AI/LLM coding performance by 50%",
+    "id": "Wholiver/metis",
+    "language": "TypeScript",
+    "name": "Wholiver/metis",
+    "stars": 138,
+    "updated_at": "2026-09-11T04:47:57Z",
+    "url": "https://github.com/Wholiver/metis"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-09-11T04:47:27Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-09-11T04:47:23Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-11T04:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25010,
+    "updated_at": "2026-09-11T04:57:04Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A persistent, observable, and collaborative memory infrastructure",
@@ -45,15 +153,6 @@
     "url": "https://github.com/anatelgovbr/prompts"
   },
   {
-    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
-    "id": "janzong/agent-charters",
-    "language": "Python",
-    "name": "janzong/agent-charters",
-    "stars": 1,
-    "updated_at": "2026-09-11T04:39:21Z",
-    "url": "https://github.com/janzong/agent-charters"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -79,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-09-11T04:37:28Z",
     "url": "https://github.com/darker2016/DsWebChromeAgent"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11414,
+    "updated_at": "2026-09-11T04:51:24Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u591a\u6a21\u6001 Prompt \u9006\u5411\u5de5\u7a0b Skill\uff1a\u628a\u6587\u672c/\u56fe\u7247/\u89c6\u9891/\u5267\u672c\u9006\u5411\u62c6\u89e3\u4e3a\u53ef\u590d\u7528 Prompt\uff0c\u9002\u914d Midjourney/Stable Diffusion/GPT-4\u00b7Claude/DeepSeek/Sora \u4e94\u79cd\u6a21\u578b\u683c\u5f0f\uff0c\u652f\u6301 Cl",
@@ -113,26 +221,8 @@
     "language": "Python",
     "name": "luckyrjain/software-builder",
     "stars": 1,
-    "updated_at": "2026-09-11T04:32:07Z",
+    "updated_at": "2026-09-11T05:00:10Z",
     "url": "https://github.com/luckyrjain/software-builder"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-11T04:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Turn any topic into a complete business presentation deck.",
-    "id": "TianHengZhuang/One-click-AI-PPT-creation",
-    "language": "\u2014",
-    "name": "TianHengZhuang/One-click-AI-PPT-creation",
-    "stars": 6,
-    "updated_at": "2026-09-11T04:27:38Z",
-    "url": "https://github.com/TianHengZhuang/One-click-AI-PPT-creation"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -142,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T04:27:14Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Metis is a coding agent that boosts AI/LLM coding performance by 50%",
-    "id": "Wholiver/metis",
-    "language": "TypeScript",
-    "name": "Wholiver/metis",
-    "stars": 138,
-    "updated_at": "2026-09-11T04:23:30Z",
-    "url": "https://github.com/Wholiver/metis"
   },
   {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
@@ -324,15 +405,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11413,
-    "updated_at": "2026-09-11T04:35:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "A planning skill for Claude or ChatGPT that asks before it plans. Three versions: claude.ai, engineers, and read-only fo",
     "id": "marcosathanasoulis/prompt-it",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 123,
     "updated_at": "2026-09-11T03:55:36Z",
     "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "PPT Architect Pro\uff1a\u9ad8\u8d28\u91cf\u6f14\u793a\u6587\u7a3f\u81ea\u52a8\u89c4\u5212 Skill",
-    "id": "Babykiller1005/PPT_Architect_Pro",
-    "language": "\u2014",
-    "name": "Babykiller1005/PPT_Architect_Pro",
-    "stars": 0,
-    "updated_at": "2026-09-11T03:55:14Z",
-    "url": "https://github.com/Babykiller1005/PPT_Architect_Pro"
-  },
-  {
-    "description": "Meta Rules for prompt engineering \u2014 A persistent cognitive architecture for LLM prompt design.",
-    "id": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
-    "language": "HTML",
-    "name": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
-    "stars": 1,
-    "updated_at": "2026-09-11T03:51:51Z",
-    "url": "https://github.com/Nous-Think/LLM-Cognitive-Architecture-By-Prompt"
-  },
-  {
-    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
-    "id": "coilyco-flight-deck/agent-compose",
-    "language": "Go",
-    "name": "coilyco-flight-deck/agent-compose",
-    "stars": 1,
-    "updated_at": "2026-09-11T03:51:31Z",
-    "url": "https://github.com/coilyco-flight-deck/agent-compose"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 1,
-    "updated_at": "2026-09-11T03:47:04Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "Structured, spec-driven development workflow for AI coding agents.",
-    "id": "sahil87/fab-kit",
-    "language": "Go",
-    "name": "sahil87/fab-kit",
-    "stars": 30,
-    "updated_at": "2026-09-11T03:44:49Z",
-    "url": "https://github.com/sahil87/fab-kit"
-  },
-  {
-    "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
-    "id": "tobiast5801/mdp-preflight",
-    "language": "\u2014",
-    "name": "tobiast5801/mdp-preflight",
-    "stars": 0,
-    "updated_at": "2026-09-11T03:37:56Z",
-    "url": "https://github.com/tobiast5801/mdp-preflight"
-  },
-  {
-    "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
-    "id": "Irongrey-genusengelmannia453/zero-context",
-    "language": "HTML",
-    "name": "Irongrey-genusengelmannia453/zero-context",
-    "stars": 0,
-    "updated_at": "2026-09-11T03:36:05Z",
-    "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
-  },
-  {
-    "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
-    "id": "variant-thripidae875/sols-rng-win-script-hub",
-    "language": "HTML",
-    "name": "variant-thripidae875/sols-rng-win-script-hub",
-    "stars": 0,
-    "updated_at": "2026-09-11T03:35:20Z",
-    "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
   }
 ]
