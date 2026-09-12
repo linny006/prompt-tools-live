@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u26a1 Universal Package Manager for Pre-Harmonized AI Agent Skills (Claude Code, Cursor, OpenCode, Windsurf) \u2022 npx awesome-a",
+    "id": "Ali-Ch-001/awesome-agent-packs",
+    "language": "TypeScript",
+    "name": "Ali-Ch-001/awesome-agent-packs",
+    "stars": 0,
+    "updated_at": "2026-09-12T21:35:19Z",
+    "url": "https://github.com/Ali-Ch-001/awesome-agent-packs"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 43,
+    "updated_at": "2026-09-12T21:34:30Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
+    "id": "janzong/agent-charters",
+    "language": "Python",
+    "name": "janzong/agent-charters",
+    "stars": 1,
+    "updated_at": "2026-09-12T21:34:01Z",
+    "url": "https://github.com/janzong/agent-charters"
+  },
+  {
+    "description": "114 source-backed /goal contracts for coding agents, plus 200 separated seed patterns.",
+    "id": "majiayu000/awesome-goal-prompts",
+    "language": "Python",
+    "name": "majiayu000/awesome-goal-prompts",
+    "stars": 51,
+    "updated_at": "2026-09-12T21:33:10Z",
+    "url": "https://github.com/majiayu000/awesome-goal-prompts"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-09-12T21:32:45Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "Taste \u2014 independent third-party profile of a public API surface, by API Evangelist. Taste Labs is a San Francisco resear",
+    "id": "api-evangelist/taste",
+    "language": "\u2014",
+    "name": "api-evangelist/taste",
+    "stars": 0,
+    "updated_at": "2026-09-12T21:31:50Z",
+    "url": "https://github.com/api-evangelist/taste"
+  },
+  {
+    "description": "Ready Player One - stop prompting; start shipping",
+    "id": "rp1-run/rp1",
+    "language": "TypeScript",
+    "name": "rp1-run/rp1",
+    "stars": 38,
+    "updated_at": "2026-09-12T21:36:22Z",
+    "url": "https://github.com/rp1-run/rp1"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-12T21:30:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -52,15 +124,6 @@
     "stars": 13,
     "updated_at": "2026-09-12T21:26:09Z",
     "url": "https://github.com/ariaxhan/kernel-claude"
-  },
-  {
-    "description": "Ready Player One - stop prompting; start shipping",
-    "id": "rp1-run/rp1",
-    "language": "TypeScript",
-    "name": "rp1-run/rp1",
-    "stars": 38,
-    "updated_at": "2026-09-12T21:25:31Z",
-    "url": "https://github.com/rp1-run/rp1"
   },
   {
     "description": "\u5343\u7b14\u4e00\u6587 Novel \u2014 \u4eba AI \u5171\u5199\u7684\u957f\u7bc7\u7f51\u6587\u521b\u4f5c\u53f0\uff1a\u6761\u76ee\u5316\u4e16\u754c\u4e66 \u00b7 \u6b63\u5219 must \u5951\u7ea6\uff08\u786e\u5b9a\u6027\u590d\u68c0\uff0c\u8fdd\u89c4\u62e6\u4f4f\u9501\u5b9a\uff09\u00b7 \u4e09\u5c42\u5ba1\u6821\uff08\u5f15\u8bc1\u9a8c\u771f + \u6295\u7968\uff09\u00b7 \u540c\u4eba\u6587\u5916\u90e8\u5bfc\u5165\u53ef\u6574\u6279\u64a4\u9500 \u00b7 \u5347\u7ea7\u4e0d\u52a8\u4e66\u7a3f \u00b7 BYOK \u5168\u672c\u5730 \u00b7 MIT\u3002",
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "Liplus-Project/liplus-language",
     "stars": 1,
-    "updated_at": "2026-09-12T21:25:13Z",
+    "updated_at": "2026-09-12T21:31:20Z",
     "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
@@ -187,24 +250,6 @@
     "stars": 136,
     "updated_at": "2026-09-12T21:19:31Z",
     "url": "https://github.com/CodeAlive-AI/ai-driven-development"
-  },
-  {
-    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
-    "id": "janzong/agent-charters",
-    "language": "Python",
-    "name": "janzong/agent-charters",
-    "stars": 1,
-    "updated_at": "2026-09-12T21:16:23Z",
-    "url": "https://github.com/janzong/agent-charters"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-12T21:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "PromptLayer \u2014 independent third-party profile of a public API surface, by API Evangelist. PromptLayer is a prompt engine",
@@ -238,7 +283,7 @@
     "id": "martinholovsky/SOTA-skills",
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
-    "stars": 19,
+    "stars": 20,
     "updated_at": "2026-09-12T21:14:35Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-12T20:59:06Z",
     "url": "https://github.com/h00w/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34511,
-    "updated_at": "2026-09-12T20:56:30Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
-    "id": "majiayu000/spellbook",
-    "language": "Python",
-    "name": "majiayu000/spellbook",
-    "stars": 278,
-    "updated_at": "2026-09-12T20:56:29Z",
-    "url": "https://github.com/majiayu000/spellbook"
-  },
-  {
-    "description": "Klu \u2014 independent third-party profile of a public API surface, by API Evangelist. Klu (klu.ai) is an LLM app platform fo",
-    "id": "api-evangelist/klu-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/klu-ai",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:51:25Z",
-    "url": "https://github.com/api-evangelist/klu-ai"
-  },
-  {
-    "description": "Fable-model operating discipline for any AI coding agent - Claude Code, Cursor, Copilot, Codex, Gemini, Windsurf, Cline,",
-    "id": "almutaz9000/fable-skill",
-    "language": "JavaScript",
-    "name": "almutaz9000/fable-skill",
-    "stars": 2,
-    "updated_at": "2026-09-12T20:49:59Z",
-    "url": "https://github.com/almutaz9000/fable-skill"
-  },
-  {
-    "description": "A modular AI SEO standard operating procedure skill for AI coding agents.",
-    "id": "markkirby125/kirby-aiseo-skill",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-aiseo-skill",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:47:53Z",
-    "url": "https://github.com/markkirby125/kirby-aiseo-skill"
   }
 ]
