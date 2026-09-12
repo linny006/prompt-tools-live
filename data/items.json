@@ -1,5 +1,275 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-12T14:59:20Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "A conduct codex for AI coding agents, skinned as the warrior's code \u2014 four virtues (Rei, Gi, Makoto, Chugi), each rule w",
+    "id": "arnoldwender/bushido-harness",
+    "language": "Python",
+    "name": "arnoldwender/bushido-harness",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:59:14Z",
+    "url": "https://github.com/arnoldwender/bushido-harness"
+  },
+  {
+    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
+    "id": "thkt/dotclaude",
+    "language": "TypeScript",
+    "name": "thkt/dotclaude",
+    "stars": 12,
+    "updated_at": "2026-09-12T14:59:00Z",
+    "url": "https://github.com/thkt/dotclaude"
+  },
+  {
+    "description": "15-point diagnostic and surgical debugging suite for personalizing PLR content",
+    "id": "markkirby125/kirby-plr-diagnostic-debugger",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-plr-diagnostic-debugger",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:58:43Z",
+    "url": "https://github.com/markkirby125/kirby-plr-diagnostic-debugger"
+  },
+  {
+    "description": "Cascades 1 core personalized PLR asset into 12 platform-native social/video formats",
+    "id": "markkirby125/kirby-plr-omnichannel-repurposer",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-plr-omnichannel-repurposer",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:58:15Z",
+    "url": "https://github.com/markkirby125/kirby-plr-omnichannel-repurposer"
+  },
+  {
+    "description": "Transforms informative PLR into direct response sales pages across 8 business models",
+    "id": "markkirby125/kirby-plr-sales-converter",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-plr-sales-converter",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:57:52Z",
+    "url": "https://github.com/markkirby125/kirby-plr-sales-converter"
+  },
+  {
+    "description": "Transforms raw PLR into 10 high-converting email autoresponder sequences",
+    "id": "markkirby125/kirby-plr-email-sequences",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-plr-email-sequences",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:57:31Z",
+    "url": "https://github.com/markkirby125/kirby-plr-email-sequences"
+  },
+  {
+    "description": "Subniche audience intelligence and lexicon extraction tool for AI agents",
+    "id": "markkirby125/kirby-audience-intel-profiler",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-audience-intel-profiler",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:57:08Z",
+    "url": "https://github.com/markkirby125/kirby-audience-intel-profiler"
+  },
+  {
+    "description": "DeepSeek Harness \u7684 Prompt \u5de5\u5177\u7bb1\uff1a\u522b\u518d\u590d\u5236\u7c98\u8d34\u2014\u201424 \u6761\u6df1\u5ea6\u6a21\u677f\u968f\u624b\u70b9\uff0c/prompt \u4e0e\u667a\u80fd\u63a8\u8350\u4e3b\u52a8\u515c\u5e95\uff0c\u88c5\u597d\u5373\u7528\u3001\u53ef\u81ea\u5b9a\u4e49\u3002 | The Prompt toolbox for DeepSeek Harness",
+    "id": "FeatherHunter/dsh-prompt",
+    "language": "JavaScript",
+    "name": "FeatherHunter/dsh-prompt",
+    "stars": 5,
+    "updated_at": "2026-09-12T14:56:51Z",
+    "url": "https://github.com/FeatherHunter/dsh-prompt"
+  },
+  {
+    "description": "Structured storyline bank extraction and query engine for AI agents",
+    "id": "markkirby125/kirby-storyline-bank",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-storyline-bank",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:56:44Z",
+    "url": "https://github.com/markkirby125/kirby-storyline-bank"
+  },
+  {
+    "description": "Author Voice DNA extraction and codification tool for AI agents",
+    "id": "markkirby125/kirby-voice-dna-extractor",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-voice-dna-extractor",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:56:24Z",
+    "url": "https://github.com/markkirby125/kirby-voice-dna-extractor"
+  },
+  {
+    "description": "A complete, working CLAUDE.md written as a character sheet instead of a rulebook \u2014 plus the conversion recipe and an hon",
+    "id": "TJ11000/low-pressure-claude-md",
+    "language": "Shell",
+    "name": "TJ11000/low-pressure-claude-md",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:56:15Z",
+    "url": "https://github.com/TJ11000/low-pressure-claude-md"
+  },
+  {
+    "description": "Master Two-Way PLR Personalization & Framework Fusion engine for AI agents",
+    "id": "markkirby125/kirby-plr-personalizer",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-plr-personalizer",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:56:03Z",
+    "url": "https://github.com/markkirby125/kirby-plr-personalizer"
+  },
+  {
+    "description": "A conduct codex for AI coding agents, skinned as the hacker ethic \u2014 four disciplines (Leave It Hackable, Read the Source",
+    "id": "arnoldwender/nerd-harness",
+    "language": "Python",
+    "name": "arnoldwender/nerd-harness",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:55:28Z",
+    "url": "https://github.com/arnoldwender/nerd-harness"
+  },
+  {
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "id": "Imbad0202/academic-research-skills",
+    "language": "Python",
+    "name": "Imbad0202/academic-research-skills",
+    "stars": 47753,
+    "updated_at": "2026-09-12T14:54:38Z",
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "Python",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 4,
+    "updated_at": "2026-09-12T14:54:01Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:53:14Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+  },
+  {
+    "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
+    "id": "5uprem4/ai-skill-vault",
+    "language": "HTML",
+    "name": "5uprem4/ai-skill-vault",
+    "stars": 3,
+    "updated_at": "2026-09-12T14:52:18Z",
+    "url": "https://github.com/5uprem4/ai-skill-vault"
+  },
+  {
+    "description": "Generates fair, publishable reviews from structured feedback thanks to a Ports-and-adapters FastAPI service along with i",
+    "id": "Nosgard/FairRate",
+    "language": "Python",
+    "name": "Nosgard/FairRate",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:51:44Z",
+    "url": "https://github.com/Nosgard/FairRate"
+  },
+  {
+    "description": "A conduct codex for AI coding agents, skinned as the Confucian way of the junzi \u2014 four disciplines from the Five Constan",
+    "id": "arnoldwender/junzi-harness",
+    "language": "Python",
+    "name": "arnoldwender/junzi-harness",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:51:46Z",
+    "url": "https://github.com/arnoldwender/junzi-harness"
+  },
+  {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 11,
+    "updated_at": "2026-09-12T14:51:31Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
+    "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "language": "HTML",
+    "name": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
+    "stars": 50,
+    "updated_at": "2026-09-12T14:50:06Z",
+    "url": "https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 21,
+    "updated_at": "2026-09-12T14:49:55Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "A conduct codex for AI coding agents, skinned as the pillars of empirical practice \u2014 the Bench, the Hypothesis, the Reco",
+    "id": "arnoldwender/empirical-harness",
+    "language": "Python",
+    "name": "arnoldwender/empirical-harness",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:49:45Z",
+    "url": "https://github.com/arnoldwender/empirical-harness"
+  },
+  {
+    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
+    "id": "teguhimanulloh47/pirate-talk-for-claude",
+    "language": "HTML",
+    "name": "teguhimanulloh47/pirate-talk-for-claude",
+    "stars": 1,
+    "updated_at": "2026-09-12T14:48:51Z",
+    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
+  },
+  {
+    "description": "The Zen Harness \u2014 a conduct codex for AI coding agents, skinned as Zen practice: four disciplines (S\u014dji, Shoshin, the Cl",
+    "id": "arnoldwender/zen-harness",
+    "language": "Python",
+    "name": "arnoldwender/zen-harness",
+    "stars": 0,
+    "updated_at": "2026-09-12T14:47:55Z",
+    "url": "https://github.com/arnoldwender/zen-harness"
+  },
+  {
+    "description": "LLM Prompt Studio for image, 3D, video, and audio models",
+    "id": "doodersrage/llm-prompt-studio",
+    "language": "TypeScript",
+    "name": "doodersrage/llm-prompt-studio",
+    "stars": 1,
+    "updated_at": "2026-09-12T14:47:33Z",
+    "url": "https://github.com/doodersrage/llm-prompt-studio"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Go",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-09-12T14:46:01Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
+    "id": "Kenny27lokku/prompt-integrity-validator",
+    "language": "HTML",
+    "name": "Kenny27lokku/prompt-integrity-validator",
+    "stars": 2,
+    "updated_at": "2026-09-12T14:45:49Z",
+    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-12T14:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Agent context, cast from one roster. Change what a role may do and the evaluation that checks it moves with it, in the s",
     "id": "coilyco-flight-deck/housecast",
     "language": "Python",
@@ -23,7 +293,7 @@
     "language": "Python",
     "name": "sergeeey/Claude-cod-top-2026",
     "stars": 7,
-    "updated_at": "2026-09-12T14:44:59Z",
+    "updated_at": "2026-09-12T14:55:53Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
@@ -52,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T14:44:39Z",
     "url": "https://github.com/Ramiz1323/TypeCast"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 21,
-    "updated_at": "2026-09-12T14:44:57Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
@@ -144,15 +405,6 @@
     "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
   },
   {
-    "description": "LLM Prompt Studio for image, 3D, video, and audio models",
-    "id": "doodersrage/llm-prompt-studio",
-    "language": "TypeScript",
-    "name": "doodersrage/llm-prompt-studio",
-    "stars": 1,
-    "updated_at": "2026-09-12T14:39:08Z",
-    "url": "https://github.com/doodersrage/llm-prompt-studio"
-  },
-  {
     "description": "The Engineering Operating System for AI coding agents. 20 senior workflows, JIT filesystem routing, and zero runtime loc",
     "id": "lowqualityloey/promptkit-os",
     "language": "PowerShell",
@@ -169,15 +421,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T14:38:37Z",
     "url": "https://github.com/adnanmokhtar/refract"
-  },
-  {
-    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
-    "id": "JadeYingWah/gpt-series-reasoning-style",
-    "language": "Python",
-    "name": "JadeYingWah/gpt-series-reasoning-style",
-    "stars": 4,
-    "updated_at": "2026-09-12T14:38:11Z",
-    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
   },
   {
     "description": "\u6570\u5b66\u7814\u7a76\u4e3b\u63a7\u534f\u8bae V2 \u4e0e Prompt \u4f7f\u7528\u5305(\u7f51\u9875\u7248\u4e0e Codex)/ Math research master protocol V2 & prompt package (web + Codex) \u2014 \u4e2d\u6587\u539f\u6587 + English t",
@@ -205,248 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T14:36:38Z",
     "url": "https://github.com/sublimecoder/sublimecoding"
-  },
-  {
-    "description": "Prompt-Driven Engineering \u2014 \u3042\u3089\u3086\u308b\u9818\u57df\u3068\u958b\u767a\u30d7\u30ed\u30bb\u30b9\u306bAI\u3092\u7d44\u307f\u8fbc\u3080\u305f\u3081\u306e\u5b9f\u8df5\u30ca\u30ec\u30c3\u30b8\u30d9\u30fc\u30b9 (domains x SDLC phases knowledge base)",
-    "id": "zixuniaowu/PDE-AI-Knowledge-Base",
-    "language": "TypeScript",
-    "name": "zixuniaowu/PDE-AI-Knowledge-Base",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:36:27Z",
-    "url": "https://github.com/zixuniaowu/PDE-AI-Knowledge-Base"
-  },
-  {
-    "description": "\ud83d\ude80 World's largest GPT Image 2 prompt library, updated daily \u2014 2000+ curated prompts with preview images, 16 languages. O",
-    "id": "YouMind-OpenLab/awesome-gpt-image-2",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-2",
-    "stars": 9846,
-    "updated_at": "2026-09-12T14:36:13Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2"
-  },
-  {
-    "description": "Production engineering and design skills for OpenAI Codex.",
-    "id": "dayfinggg/openai-codex-agent-skills",
-    "language": "PowerShell",
-    "name": "dayfinggg/openai-codex-agent-skills",
-    "stars": 4,
-    "updated_at": "2026-09-12T14:35:58Z",
-    "url": "https://github.com/dayfinggg/openai-codex-agent-skills"
-  },
-  {
-    "description": "\ud83e\udde0 Understand AI in minutes: 32 core AI concepts explained with simple visuals + everyday analogies, for technical and no",
-    "id": "behnia137/ai-for-beginners-visual",
-    "language": "\u2014",
-    "name": "behnia137/ai-for-beginners-visual",
-    "stars": 5,
-    "updated_at": "2026-09-12T14:34:16Z",
-    "url": "https://github.com/behnia137/ai-for-beginners-visual"
-  },
-  {
-    "description": "The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources",
-    "id": "DSeaStar/awesome-kling",
-    "language": "Python",
-    "name": "DSeaStar/awesome-kling",
-    "stars": 2,
-    "updated_at": "2026-09-12T14:33:59Z",
-    "url": "https://github.com/DSeaStar/awesome-kling"
-  },
-  {
-    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
-    "id": "YouMind-OpenLab/awesome-seedream-4.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-seedream-4.5",
-    "stars": 60,
-    "updated_at": "2026-09-12T14:31:50Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-12T14:30:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
-    "id": "imMamdouhaboammar/get-fable",
-    "language": "TypeScript",
-    "name": "imMamdouhaboammar/get-fable",
-    "stars": 4,
-    "updated_at": "2026-09-12T14:45:18Z",
-    "url": "https://github.com/imMamdouhaboammar/get-fable"
-  },
-  {
-    "description": "A secular conduct codex for AI coding agents: four disciplines, each rule with a falsifier. The reason-and-craft sibling",
-    "id": "arnoldwender/agnostic-harness",
-    "language": "Python",
-    "name": "arnoldwender/agnostic-harness",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:29:54Z",
-    "url": "https://github.com/arnoldwender/agnostic-harness"
-  },
-  {
-    "description": "Projet d\u2019apprentissage r\u00e9alis\u00e9 avec Cognitive Class : cr\u00e9ation d\u2019un agent de support client avec PydanticAI et Pydantic.",
-    "id": "ACADEMIC-AND-PERSONAL-PROJECTS/Customer-Support-Agent",
-    "language": "Jupyter Notebook",
-    "name": "ACADEMIC-AND-PERSONAL-PROJECTS/Customer-Support-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:29:44Z",
-    "url": "https://github.com/ACADEMIC-AND-PERSONAL-PROJECTS/Customer-Support-Agent"
-  },
-  {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "JavaScript",
-    "name": "spidey889/context-generator",
-    "stars": 11,
-    "updated_at": "2026-09-12T14:29:29Z",
-    "url": "https://github.com/spidey889/context-generator"
-  },
-  {
-    "description": "An easy-going custom SDD protocol for agentic coding \u2014 the paperwork is the agent's problem, not yours.",
-    "id": "vlr-code/PayneSDD",
-    "language": "Shell",
-    "name": "vlr-code/PayneSDD",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:29:03Z",
-    "url": "https://github.com/vlr-code/PayneSDD"
-  },
-  {
-    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
-    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "language": "TypeScript",
-    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
-    "stars": 25,
-    "updated_at": "2026-09-12T14:28:33Z",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
-  },
-  {
-    "description": "A conduct codex for AI coding agents: four disciplines, each rule with a falsifier. Named for the angels that guard the ",
-    "id": "arnoldwender/angelical-harness",
-    "language": "Python",
-    "name": "arnoldwender/angelical-harness",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:27:08Z",
-    "url": "https://github.com/arnoldwender/angelical-harness"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 141,
-    "updated_at": "2026-09-12T14:25:34Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "A conduct codex for AI coding agents, skinned as the Islamic ethic of craft \u2014 four virtues (Adab, Hikmah, Sidq, Sabr) un",
-    "id": "arnoldwender/ihsan-harness",
-    "language": "Python",
-    "name": "arnoldwender/ihsan-harness",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:25:15Z",
-    "url": "https://github.com/arnoldwender/ihsan-harness"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 19,
-    "updated_at": "2026-09-12T14:24:42Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "PromptPotter: AI optimization engine for automated prompt engineering (APE). Searches and tunes prompts and parameters a",
-    "id": "PromptPotter/prompt-potter-optimizer",
-    "language": "Python",
-    "name": "PromptPotter/prompt-potter-optimizer",
-    "stars": 6,
-    "updated_at": "2026-09-12T14:23:57Z",
-    "url": "https://github.com/PromptPotter/prompt-potter-optimizer"
-  },
-  {
-    "description": "Production-ready system prompts and .cursorrules for Claude 3.5 Sonnet, GPT-4o, and Cursor. Clean architecture, refactor",
-    "id": "AymaneWebDEV/developer-prompt-vault",
-    "language": "\u2014",
-    "name": "AymaneWebDEV/developer-prompt-vault",
-    "stars": 1,
-    "updated_at": "2026-09-12T14:23:18Z",
-    "url": "https://github.com/AymaneWebDEV/developer-prompt-vault"
-  },
-  {
-    "description": "The Umuntu Harness \u2014 a conduct codex for AI coding agents, skinned as the ethics of Ubuntu ('a person is a person throug",
-    "id": "arnoldwender/umuntu-harness",
-    "language": "Python",
-    "name": "arnoldwender/umuntu-harness",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:21:17Z",
-    "url": "https://github.com/arnoldwender/umuntu-harness"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-09-12T14:21:01Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
-    "id": "FURUYAN1234/nano-banana-pro",
-    "language": "JavaScript",
-    "name": "FURUYAN1234/nano-banana-pro",
-    "stars": 18,
-    "updated_at": "2026-09-12T14:21:10Z",
-    "url": "https://github.com/FURUYAN1234/nano-banana-pro"
-  },
-  {
-    "description": "A conduct codex for AI coding agents, skinned as dharma \u2014 four virtues from the yamas/niyamas and the Gita (Shaucha, Viv",
-    "id": "arnoldwender/dharma-harness",
-    "language": "Python",
-    "name": "arnoldwender/dharma-harness",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:19:37Z",
-    "url": "https://github.com/arnoldwender/dharma-harness"
-  },
-  {
-    "description": "A conduct codex for AI coding agents, skinned as the hacker ethic \u2014 four disciplines (Leave It Hackable, Read the Source",
-    "id": "arnoldwender/nerd-harness",
-    "language": "Python",
-    "name": "arnoldwender/nerd-harness",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:18:50Z",
-    "url": "https://github.com/arnoldwender/nerd-harness"
-  },
-  {
-    "description": "\u820a Prompt \u2192 GPT Image 2.5\uff1a\u9077\u79fb\u3001\u7a3d\u6838\u3001\u4fee\u5fa9 Skill\u3002Migrate and audit existing legacy or cross-AI image prompts for GPT Image 2.5, t",
-    "id": "gd8455-create/image25-prompt-migrator",
-    "language": "Python",
-    "name": "gd8455-create/image25-prompt-migrator",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:17:58Z",
-    "url": "https://github.com/gd8455-create/image25-prompt-migrator"
-  },
-  {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
-    "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 47751,
-    "updated_at": "2026-09-12T14:17:44Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "A conduct codex for AI coding agents, skinned as the warrior's code \u2014 four virtues (Rei, Gi, Makoto, Chugi), each rule w",
-    "id": "arnoldwender/bushido-harness",
-    "language": "Python",
-    "name": "arnoldwender/bushido-harness",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:17:43Z",
-    "url": "https://github.com/arnoldwender/bushido-harness"
   }
 ]
