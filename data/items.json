@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-09-12T12:48:27Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "170 GPT-6 Astra 3D examples: Blender, Houdini, Rhino, Three.js, Godot & CAD. 54 source projects, 64 demos, 82 full video",
+    "id": "carpentry-liu/awesome-astra-3d",
+    "language": "TypeScript",
+    "name": "carpentry-liu/awesome-astra-3d",
+    "stars": 7,
+    "updated_at": "2026-09-12T12:47:53Z",
+    "url": "https://github.com/carpentry-liu/awesome-astra-3d"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-09-12T12:46:51Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "Honesty-first coding skill set for Claude Code \u2014 21 skills behind an orchestrate router with an enforced governance gate",
+    "id": "adtn0810/truestack",
+    "language": "PowerShell",
+    "name": "adtn0810/truestack",
+    "stars": 2,
+    "updated_at": "2026-09-12T12:46:43Z",
+    "url": "https://github.com/adtn0810/truestack"
+  },
+  {
+    "description": "Portable Claude Code profile \u2014 8-step dev loop, CLAUDE.md pre-commit gate, zero-hallucination policy. Install once, carr",
+    "id": "kopp0510/claude-dd",
+    "language": "Python",
+    "name": "kopp0510/claude-dd",
+    "stars": 6,
+    "updated_at": "2026-09-12T12:46:05Z",
+    "url": "https://github.com/kopp0510/claude-dd"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-12T12:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
     "id": "heavenaruba/codified-prompt-rule-engine",
     "language": "HTML",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T12:43:56Z",
     "url": "https://github.com/StephenQiu30/lanverse"
-  },
-  {
-    "description": "Honesty-first coding skill set for Claude Code \u2014 21 skills behind an orchestrate router with an enforced governance gate",
-    "id": "adtn0810/truestack",
-    "language": "PowerShell",
-    "name": "adtn0810/truestack",
-    "stars": 2,
-    "updated_at": "2026-09-12T12:42:12Z",
-    "url": "https://github.com/adtn0810/truestack"
   },
   {
     "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
@@ -95,7 +140,7 @@
     "language": "Rust",
     "name": "SunYanbox/ManualAid-Rust",
     "stars": 1,
-    "updated_at": "2026-09-12T12:34:44Z",
+    "updated_at": "2026-09-12T12:46:42Z",
     "url": "https://github.com/SunYanbox/ManualAid-Rust"
   },
   {
@@ -153,21 +198,12 @@
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-12T12:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
     "id": "sergeeey/Claude-cod-top-2026",
     "language": "Python",
     "name": "sergeeey/Claude-cod-top-2026",
     "stars": 7,
-    "updated_at": "2026-09-12T12:38:41Z",
+    "updated_at": "2026-09-12T12:50:24Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/microsoft/apm"
   },
   {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-09-12T12:28:54Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
     "description": "A verification gate for AI coding agents. Stops your agent from telling you things it never checked. Six named rationali",
     "id": "jared-the-automator/bitch-stop-lyin",
     "language": "Shell",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T11:58:31Z",
     "url": "https://github.com/vlr-code/PayneSDD"
-  },
-  {
-    "description": "Write your AI coding setup once, run it in every tool. One source of truth \u2014 149 commands, 88 agents, 116 skills, 23 rol",
-    "id": "adnanmokhtar/refract",
-    "language": "Shell",
-    "name": "adnanmokhtar/refract",
-    "stars": 1,
-    "updated_at": "2026-09-12T11:57:09Z",
-    "url": "https://github.com/adnanmokhtar/refract"
-  },
-  {
-    "description": "Effortlessly save prompts for your AI agent and quickly reuse them whenever the output meets your expectations.",
-    "id": "olivierluethy/PromptIn",
-    "language": "JavaScript",
-    "name": "olivierluethy/PromptIn",
-    "stars": 0,
-    "updated_at": "2026-09-12T11:56:48Z",
-    "url": "https://github.com/olivierluethy/PromptIn"
-  },
-  {
-    "description": "Prompt workflow platform to build reusable prompt templates with variables and chain them into workflows",
-    "id": "olivierluethy/AI_Prompt_Variables",
-    "language": "JavaScript",
-    "name": "olivierluethy/AI_Prompt_Variables",
-    "stars": 0,
-    "updated_at": "2026-09-12T11:55:30Z",
-    "url": "https://github.com/olivierluethy/AI_Prompt_Variables"
   }
 ]
