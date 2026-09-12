@@ -1,12 +1,138 @@
 [
   {
+    "description": "Write your AI coding setup once, run it in every tool. One source of truth \u2014 149 commands, 88 agents, 116 skills, 23 rol",
+    "id": "adnanmokhtar/refract",
+    "language": "Shell",
+    "name": "adnanmokhtar/refract",
+    "stars": 1,
+    "updated_at": "2026-09-12T19:41:27Z",
+    "url": "https://github.com/adnanmokhtar/refract"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 1,
+    "updated_at": "2026-09-12T19:41:20Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
+    "id": "apoapostolov/humanizer",
+    "language": "JavaScript",
+    "name": "apoapostolov/humanizer",
+    "stars": 7,
+    "updated_at": "2026-09-12T19:39:43Z",
+    "url": "https://github.com/apoapostolov/humanizer"
+  },
+  {
+    "description": "Shrink LLM prompts by 40-70% while preserving meaning, semantic chunking + extractive summarization",
+    "id": "Thanatos9404/llmslim",
+    "language": "Python",
+    "name": "Thanatos9404/llmslim",
+    "stars": 15,
+    "updated_at": "2026-09-12T19:39:28Z",
+    "url": "https://github.com/Thanatos9404/llmslim"
+  },
+  {
     "description": "\u5343\u7b14\u4e00\u6587 Novel \u2014 \u4eba AI \u5171\u5199\u7684\u957f\u7bc7\u7f51\u6587\u521b\u4f5c\u53f0\uff1a\u6761\u76ee\u5316\u4e16\u754c\u4e66 \u00b7 \u6b63\u5219 must \u5951\u7ea6\uff08\u786e\u5b9a\u6027\u590d\u68c0\uff0c\u8fdd\u89c4\u62e6\u4f4f\u9501\u5b9a\uff09\u00b7 \u4e09\u5c42\u5ba1\u6821\uff08\u5f15\u8bc1\u9a8c\u771f + \u6295\u7968\uff09\u00b7 \u540c\u4eba\u6587\u5916\u90e8\u5bfc\u5165\u53ef\u6574\u6279\u64a4\u9500 \u00b7 \u5347\u7ea7\u4e0d\u52a8\u4e66\u7a3f \u00b7 BYOK \u5168\u672c\u5730 \u00b7 MIT\u3002",
     "id": "GLFzr/QianBi-Novel",
     "language": "Python",
     "name": "GLFzr/QianBi-Novel",
     "stars": 7,
-    "updated_at": "2026-09-12T19:29:55Z",
+    "updated_at": "2026-09-12T19:39:17Z",
     "url": "https://github.com/GLFzr/QianBi-Novel"
+  },
+  {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
+    "language": "JavaScript",
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 4331,
+    "updated_at": "2026-09-12T19:39:15Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Go",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-09-12T19:38:53Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze the mathematical reasoning abilities of the Mistral-7B model using diverse prompting techniques on multi-step ",
+    "id": "wolfenix/llm-math-reasoning-analysis",
+    "language": "HTML",
+    "name": "wolfenix/llm-math-reasoning-analysis",
+    "stars": 0,
+    "updated_at": "2026-09-12T19:37:51Z",
+    "url": "https://github.com/wolfenix/llm-math-reasoning-analysis"
+  },
+  {
+    "description": "Evidence-first LLM-as-judge scoring for AI artifacts \u2014 papers, PRs, prompts, cold emails: synthesizes a rubric, collects",
+    "id": "hermes-labs-ai/hermes-rubric",
+    "language": "Python",
+    "name": "hermes-labs-ai/hermes-rubric",
+    "stars": 1,
+    "updated_at": "2026-09-12T19:35:24Z",
+    "url": "https://github.com/hermes-labs-ai/hermes-rubric"
+  },
+  {
+    "description": "A free cross-platform editorial standard for AI writing.",
+    "id": "jposluns/cleanlanguage",
+    "language": "Python",
+    "name": "jposluns/cleanlanguage",
+    "stars": 3,
+    "updated_at": "2026-09-12T19:33:31Z",
+    "url": "https://github.com/jposluns/cleanlanguage"
+  },
+  {
+    "description": "An easy-going custom SDD protocol for agentic coding \u2014 the paperwork is the agent's problem, not yours.",
+    "id": "vlr-code/PayneSDD",
+    "language": "Shell",
+    "name": "vlr-code/PayneSDD",
+    "stars": 0,
+    "updated_at": "2026-09-12T19:33:09Z",
+    "url": "https://github.com/vlr-code/PayneSDD"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Elevate your coding with Supercharged AI Dev Tools, an open-source directory of AI-powered solutions to boost product",
+    "id": "SUASTELARA/Supercharged-AI-Dev-Tools",
+    "language": "\u2014",
+    "name": "SUASTELARA/Supercharged-AI-Dev-Tools",
+    "stars": 4,
+    "updated_at": "2026-09-12T19:32:41Z",
+    "url": "https://github.com/SUASTELARA/Supercharged-AI-Dev-Tools"
+  },
+  {
+    "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
+    "id": "CodeAlive-AI/ai-driven-development",
+    "language": "Python",
+    "name": "CodeAlive-AI/ai-driven-development",
+    "stars": 135,
+    "updated_at": "2026-09-12T19:30:54Z",
+    "url": "https://github.com/CodeAlive-AI/ai-driven-development"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-09-12T19:30:27Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-12T19:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\ud83d\udd04 Enable seamless AI conversations with a universal file format that saves and transfers your chat history across platfo",
@@ -162,15 +288,6 @@
     "url": "https://github.com/FabioLousJay/optical-camera-compiler"
   },
   {
-    "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
-    "id": "apoapostolov/humanizer",
-    "language": "JavaScript",
-    "name": "apoapostolov/humanizer",
-    "stars": 7,
-    "updated_at": "2026-09-12T19:16:48Z",
-    "url": "https://github.com/apoapostolov/humanizer"
-  },
-  {
     "description": "Better writing without quietly changing the facts.",
     "id": "benjaminstelzer/scoville-scribe-anti-ai-slop",
     "language": "Python",
@@ -198,15 +315,6 @@
     "url": "https://github.com/benjaminstelzer/scoville-ui-anti-ai-slop"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-12T19:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Asistente Retail AI: Chatbot inteligente RAG para consulta de cat\u00e1logos, pol\u00edticas y manuales comerciales en espa\u00f1ol. An",
     "id": "robert0777/Asistente-Inteligente-de-Ventas-y-Soporte-para-Retail",
     "language": "Python",
@@ -225,24 +333,6 @@
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
   },
   {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Go",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-09-12T19:14:29Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
-  },
-  {
-    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
-    "id": "conorbronsdon/avoid-ai-writing",
-    "language": "JavaScript",
-    "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 4331,
-    "updated_at": "2026-09-12T19:23:25Z",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
-  },
-  {
     "description": "Keeps the engineering result visible through the process around it.",
     "id": "benjaminstelzer/scoville-code-anti-ai-slop",
     "language": "\u2014",
@@ -250,15 +340,6 @@
     "stars": 8,
     "updated_at": "2026-09-12T19:13:39Z",
     "url": "https://github.com/benjaminstelzer/scoville-code-anti-ai-slop"
-  },
-  {
-    "description": "A free cross-platform editorial standard for AI writing.",
-    "id": "jposluns/cleanlanguage",
-    "language": "Python",
-    "name": "jposluns/cleanlanguage",
-    "stars": 3,
-    "updated_at": "2026-09-12T19:20:28Z",
-    "url": "https://github.com/jposluns/cleanlanguage"
   },
   {
     "description": "Knowledge Intelligence System for AI-Research - Personal Tech News",
@@ -347,7 +428,7 @@
     "language": "Go",
     "name": "AltairaLabs/PromptKit",
     "stars": 9,
-    "updated_at": "2026-09-12T19:30:17Z",
+    "updated_at": "2026-09-12T19:31:09Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-12T19:04:56Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The only Java AI framework with a complete Dev \u2192 Test \u2192 Prod prompt lifecycle, featuring multi-agent orchestration and b",
-    "id": "driftkit-ai/driftkit-framework",
-    "language": "Java",
-    "name": "driftkit-ai/driftkit-framework",
-    "stars": 49,
-    "updated_at": "2026-09-12T19:09:03Z",
-    "url": "https://github.com/driftkit-ai/driftkit-framework"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 125,
-    "updated_at": "2026-09-12T19:04:28Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 123,
-    "updated_at": "2026-09-12T19:03:41Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "Instructions and templates that set up a project for Claude Code: a CLAUDE.md, a docs/ folder, a plan, an append-only le",
-    "id": "raichominev/project-starter-kit",
-    "language": "\u2014",
-    "name": "raichominev/project-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-09-12T19:03:16Z",
-    "url": "https://github.com/raichominev/project-starter-kit"
-  },
-  {
-    "description": "A Claude Code skill for session handoffs that actually survive \u2014 write the handoff, then verify it in rounds, changing t",
-    "id": "raichominev/session-handoff-skill",
-    "language": "\u2014",
-    "name": "raichominev/session-handoff-skill",
-    "stars": 0,
-    "updated_at": "2026-09-12T19:03:01Z",
-    "url": "https://github.com/raichominev/session-handoff-skill"
-  },
-  {
-    "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments tha",
-    "id": "sergebulaev/linkedin-skills",
-    "language": "Python",
-    "name": "sergebulaev/linkedin-skills",
-    "stars": 2014,
-    "updated_at": "2026-09-12T19:03:01Z",
-    "url": "https://github.com/sergebulaev/linkedin-skills"
-  },
-  {
-    "description": "Agent context, cast from one roster. Change what a role may do and the evaluation that checks it moves with it, in the s",
-    "id": "coilyco-flight-deck/housecast",
-    "language": "Python",
-    "name": "coilyco-flight-deck/housecast",
-    "stars": 1,
-    "updated_at": "2026-09-12T19:01:37Z",
-    "url": "https://github.com/coilyco-flight-deck/housecast"
-  },
-  {
-    "description": "Transfers the work state, not the whole conversation.",
-    "id": "benjaminstelzer/scoville-handoff",
-    "language": "\u2014",
-    "name": "benjaminstelzer/scoville-handoff",
-    "stars": 2,
-    "updated_at": "2026-09-12T19:01:46Z",
-    "url": "https://github.com/benjaminstelzer/scoville-handoff"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 1,
-    "updated_at": "2026-09-12T19:00:36Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
   }
 ]
