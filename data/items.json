@@ -1,5 +1,221 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-12T15:45:20Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
+    "id": "janzong/agent-charters",
+    "language": "Python",
+    "name": "janzong/agent-charters",
+    "stars": 1,
+    "updated_at": "2026-09-12T15:44:41Z",
+    "url": "https://github.com/janzong/agent-charters"
+  },
+  {
+    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
+    "id": "StephenQiu30/lanverse",
+    "language": "Go",
+    "name": "StephenQiu30/lanverse",
+    "stars": 1,
+    "updated_at": "2026-09-12T15:44:32Z",
+    "url": "https://github.com/StephenQiu30/lanverse"
+  },
+  {
+    "description": "Version-controlled catalog of Dryvist LLM prompts",
+    "id": "dryvist/ai-llm-prompts",
+    "language": "Nix",
+    "name": "dryvist/ai-llm-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:43:41Z",
+    "url": "https://github.com/dryvist/ai-llm-prompts"
+  },
+  {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 11,
+    "updated_at": "2026-09-12T15:43:27Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-09-12T15:42:38Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "200+ Curated GPT-6 Astra prompts and 3D examples for games, Blender scenes and interactive worlds. 14 languages, preview",
+    "id": "TripoGrowthLab/awesome-astra-prompts",
+    "language": "JavaScript",
+    "name": "TripoGrowthLab/awesome-astra-prompts",
+    "stars": 203,
+    "updated_at": "2026-09-12T15:38:15Z",
+    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+  },
+  {
+    "description": "Statistical inference for AI evaluations, from model comparisons to corrections for LLM judge bias, optimized for small ",
+    "id": "ianarawjo/evalstats",
+    "language": "Python",
+    "name": "ianarawjo/evalstats",
+    "stars": 127,
+    "updated_at": "2026-09-12T15:37:49Z",
+    "url": "https://github.com/ianarawjo/evalstats"
+  },
+  {
+    "description": "Reverse-engineers author voice, cadence, and lexicon into machine-enforceable Voice DNA profiles",
+    "id": "markkirby125/kirby-voice-dna-extractor",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-voice-dna-extractor",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:34:46Z",
+    "url": "https://github.com/markkirby125/kirby-voice-dna-extractor"
+  },
+  {
+    "description": "Extracts, structures, and catalogs personal business scars and epiphanies for authentic storytelling",
+    "id": "markkirby125/kirby-storyline-bank",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-storyline-bank",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:34:45Z",
+    "url": "https://github.com/markkirby125/kirby-storyline-bank"
+  },
+  {
+    "description": "Transforms educational PLR into persuasive direct-response sales copy across 8 commercial delivery models",
+    "id": "markkirby125/kirby-plr-sales-converter",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-plr-sales-converter",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:34:44Z",
+    "url": "https://github.com/markkirby125/kirby-plr-sales-converter"
+  },
+  {
+    "description": "Master Two-Way PLR Personalization & Framework Fusion engine for AI agents",
+    "id": "markkirby125/kirby-plr-personalizer",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-plr-personalizer",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:34:43Z",
+    "url": "https://github.com/markkirby125/kirby-plr-personalizer"
+  },
+  {
+    "description": "Deconstructs a single personalized PLR asset into 12 platform-native social, audio-visual, and editorial formats",
+    "id": "markkirby125/kirby-plr-omnichannel-repurposer",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-plr-omnichannel-repurposer",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:34:41Z",
+    "url": "https://github.com/markkirby125/kirby-plr-omnichannel-repurposer"
+  },
+  {
+    "description": "Converts raw informational PLR into 10 high-converting direct-response email autoresponder sequences",
+    "id": "markkirby125/kirby-plr-email-sequences",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-plr-email-sequences",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:34:40Z",
+    "url": "https://github.com/markkirby125/kirby-plr-email-sequences"
+  },
+  {
+    "description": "15-point diagnostic audit and surgical repair suite to eliminate tone drift, forced stories, and AI slop",
+    "id": "markkirby125/kirby-plr-diagnostic-debugger",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-plr-diagnostic-debugger",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:34:39Z",
+    "url": "https://github.com/markkirby125/kirby-plr-diagnostic-debugger"
+  },
+  {
+    "description": "Extracts subniche jargon, operational friction, and taboo buzzwords to ground AI content in buyer reality",
+    "id": "markkirby125/kirby-audience-intel-profiler",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-audience-intel-profiler",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:34:37Z",
+    "url": "https://github.com/markkirby125/kirby-audience-intel-profiler"
+  },
+  {
+    "description": "A VS Code workbench for testing, debugging, replaying, and red-teaming streaming LLM and agent experiences.",
+    "id": "boloagegit/TurnStage",
+    "language": "TypeScript",
+    "name": "boloagegit/TurnStage",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:37:47Z",
+    "url": "https://github.com/boloagegit/TurnStage"
+  },
+  {
+    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
+    "id": "smsheik1/wiggly",
+    "language": "TypeScript",
+    "name": "smsheik1/wiggly",
+    "stars": 1,
+    "updated_at": "2026-09-12T15:33:50Z",
+    "url": "https://github.com/smsheik1/wiggly"
+  },
+  {
+    "description": "Portable Cursor/Claude agent skills for GitLab MR review, incident RCA, Kubernetes rightsizing, squad ownership, and org",
+    "id": "luckyrjain/software-builder",
+    "language": "Python",
+    "name": "luckyrjain/software-builder",
+    "stars": 1,
+    "updated_at": "2026-09-12T15:33:08Z",
+    "url": "https://github.com/luckyrjain/software-builder"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 1,
+    "updated_at": "2026-09-12T15:32:47Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "An easy-going custom SDD protocol for agentic coding \u2014 the paperwork is the agent's problem, not yours.",
+    "id": "vlr-code/PayneSDD",
+    "language": "Shell",
+    "name": "vlr-code/PayneSDD",
+    "stars": 0,
+    "updated_at": "2026-09-12T15:32:29Z",
+    "url": "https://github.com/vlr-code/PayneSDD"
+  },
+  {
+    "description": "HanaAgent \u63d0\u793a\u8bcd\u4f18\u5316 \u00b7 \u628a\u968f\u624b\u5199\u7684\u57fa\u7840\u63d0\u793a\u8bcd\u4e00\u952e\u91cd\u5199\u6210\u6a21\u578b\u66f4\u61c2\u7684\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u3002\u5361\u7247 + Agent \u5de5\u5177\u53cc\u5165\u53e3\uff0c\u652f\u6301\u901a\u7528/\u7f16\u7a0b/\u5199\u4f5c/\u56fe\u50cf/\u5206\u6790/Agent \u516d\u79cd\u573a\u666f\u3002",
+    "id": "youyongdemao/HanaAgent-prompt-optimizer",
+    "language": "JavaScript",
+    "name": "youyongdemao/HanaAgent-prompt-optimizer",
+    "stars": 1,
+    "updated_at": "2026-09-12T15:33:56Z",
+    "url": "https://github.com/youyongdemao/HanaAgent-prompt-optimizer"
+  },
+  {
+    "description": "Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity \u2014 292+ product, efficiency, a",
+    "id": "alivirgo/Major-AI-Skills",
+    "language": "HTML",
+    "name": "alivirgo/Major-AI-Skills",
+    "stars": 1,
+    "updated_at": "2026-09-12T15:31:20Z",
+    "url": "https://github.com/alivirgo/Major-AI-Skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-12T15:30:24Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
     "id": "JadeYingWah/gpt-series-reasoning-style",
     "language": "Python",
@@ -14,17 +230,8 @@
     "language": "Python",
     "name": "sergeeey/Claude-cod-top-2026",
     "stars": 7,
-    "updated_at": "2026-09-12T15:29:22Z",
+    "updated_at": "2026-09-12T15:42:26Z",
     "url": "https://github.com/sergeeey/Claude-cod-top-2026"
-  },
-  {
-    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
-    "id": "smsheik1/wiggly",
-    "language": "TypeScript",
-    "name": "smsheik1/wiggly",
-    "stars": 1,
-    "updated_at": "2026-09-12T15:29:06Z",
-    "url": "https://github.com/smsheik1/wiggly"
   },
   {
     "description": "\u5343\u7b14\u4e00\u6587 Novel \u2014 \u4eba AI \u5171\u5199\u7684\u957f\u7bc7\u7f51\u6587\u521b\u4f5c\u53f0\uff1a\u6761\u76ee\u5316\u4e16\u754c\u4e66 \u00b7 \u6b63\u5219 must \u5951\u7ea6\uff08\u786e\u5b9a\u6027\u590d\u68c0\uff0c\u8fdd\u89c4\u62e6\u4f4f\u9501\u5b9a\uff09\u00b7 \u4e09\u5c42\u5ba1\u6821\uff08\u5f15\u8bc1\u9a8c\u771f + \u6295\u7968\uff09\u00b7 \u540c\u4eba\u6587\u5916\u90e8\u5bfc\u5165\u53ef\u6574\u6279\u64a4\u9500 \u00b7 \u5347\u7ea7\u4e0d\u52a8\u4e66\u7a3f \u00b7 BYOK \u5168\u672c\u5730 \u00b7 MIT\u3002",
@@ -90,20 +297,11 @@
     "url": "https://github.com/tryAGI/Vellum"
   },
   {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "JavaScript",
-    "name": "spidey889/context-generator",
-    "stars": 11,
-    "updated_at": "2026-09-12T15:25:11Z",
-    "url": "https://github.com/spidey889/context-generator"
-  },
-  {
-    "description": "",
+    "description": "Turn your app's codebase and UI snapshots into ready-to-paste video prompts and style reference images for AI video gene",
     "id": "betyourluck/AppPromoVideo",
     "language": "Rust",
     "name": "betyourluck/AppPromoVideo",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-12T15:24:21Z",
     "url": "https://github.com/betyourluck/AppPromoVideo"
   },
@@ -144,15 +342,6 @@
     "url": "https://github.com/TauqeerMustafa/prompt-vault-cli"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-12T15:21:07Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -160,15 +349,6 @@
     "stars": 6,
     "updated_at": "2026-09-12T15:21:05Z",
     "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Statistical inference for AI evaluations, from model comparisons to corrections for LLM judge bias, optimized for small ",
-    "id": "ianarawjo/evalstats",
-    "language": "Python",
-    "name": "ianarawjo/evalstats",
-    "stars": 127,
-    "updated_at": "2026-09-12T15:20:39Z",
-    "url": "https://github.com/ianarawjo/evalstats"
   },
   {
     "description": "Curated, verified Agent Skills powered by ModelStudio.",
@@ -220,7 +400,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 47756,
+    "stars": 47758,
     "updated_at": "2026-09-12T15:17:58Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -243,21 +423,12 @@
     "url": "https://github.com/arnoldwender/agnostic-harness"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-12T15:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
     "id": "imMamdouhaboammar/get-fable",
     "language": "TypeScript",
     "name": "imMamdouhaboammar/get-fable",
     "stars": 4,
-    "updated_at": "2026-09-12T15:25:21Z",
+    "updated_at": "2026-09-12T15:43:39Z",
     "url": "https://github.com/imMamdouhaboammar/get-fable"
   },
   {
@@ -265,7 +436,7 @@
     "id": "RongNianXin/ChatGPT-Workflows",
     "language": "JavaScript",
     "name": "RongNianXin/ChatGPT-Workflows",
-    "stars": 9,
+    "stars": 11,
     "updated_at": "2026-09-12T15:14:57Z",
     "url": "https://github.com/RongNianXin/ChatGPT-Workflows"
   },
@@ -277,176 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T15:14:34Z",
     "url": "https://github.com/arnoldwender/angelical-harness"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 21,
-    "updated_at": "2026-09-12T15:29:14Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "A conduct codex for AI coding agents, skinned as the Islamic ethic of craft \u2014 four virtues (Adab, Hikmah, Sidq, Sabr) un",
-    "id": "arnoldwender/ihsan-harness",
-    "language": "Python",
-    "name": "arnoldwender/ihsan-harness",
-    "stars": 0,
-    "updated_at": "2026-09-12T15:11:26Z",
-    "url": "https://github.com/arnoldwender/ihsan-harness"
-  },
-  {
-    "description": "AI \u7ed8\u753b\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u6548\u679c\u7684\u5408\u89c4\u91c7\u96c6\u3001\u6cbb\u7406\u3001\u68c0\u7d22\u548c\u5c55\u793a\u77e5\u8bc6\u5e93\uff0c\u91c7\u7528 FastAPI\u3001Next.js\u3001PostgreSQL\u3001RabbitMQ \u4e0e MinIO\u3002",
-    "id": "StephenQiu30/lanverse",
-    "language": "Go",
-    "name": "StephenQiu30/lanverse",
-    "stars": 1,
-    "updated_at": "2026-09-12T15:10:50Z",
-    "url": "https://github.com/StephenQiu30/lanverse"
-  },
-  {
-    "description": "AI short-drama writing and production skills for Chinese agent workflows",
-    "id": "zkhyww/ai-short-drama-skills",
-    "language": "Python",
-    "name": "zkhyww/ai-short-drama-skills",
-    "stars": 1,
-    "updated_at": "2026-09-12T15:10:26Z",
-    "url": "https://github.com/zkhyww/ai-short-drama-skills"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 7,
-    "updated_at": "2026-09-12T15:10:06Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "DeepSeek Harness \u7684 Prompt \u5de5\u5177\u7bb1\uff1a\u522b\u518d\u590d\u5236\u7c98\u8d34\u2014\u201424 \u6761\u6df1\u5ea6\u6a21\u677f\u968f\u624b\u70b9\uff0c/prompt \u4e0e\u667a\u80fd\u63a8\u8350\u4e3b\u52a8\u515c\u5e95\uff0c\u88c5\u597d\u5373\u7528\u3001\u53ef\u81ea\u5b9a\u4e49\u3002 | The Prompt toolbox for DeepSeek Harness",
-    "id": "FeatherHunter/dsh-prompt",
-    "language": "JavaScript",
-    "name": "FeatherHunter/dsh-prompt",
-    "stars": 5,
-    "updated_at": "2026-09-12T15:09:48Z",
-    "url": "https://github.com/FeatherHunter/dsh-prompt"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 1,
-    "updated_at": "2026-09-12T15:09:14Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-09-12T15:08:37Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "An opinionated agentic development layer for OpenCode \u2014 spec-first when it matters, review-driven execution, portable mo",
-    "id": "osovv/vv-opencode",
-    "language": "TypeScript",
-    "name": "osovv/vv-opencode",
-    "stars": 13,
-    "updated_at": "2026-09-12T15:07:42Z",
-    "url": "https://github.com/osovv/vv-opencode"
-  },
-  {
-    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
-    "id": "janzong/agent-charters",
-    "language": "Python",
-    "name": "janzong/agent-charters",
-    "stars": 1,
-    "updated_at": "2026-09-12T15:06:41Z",
-    "url": "https://github.com/janzong/agent-charters"
-  },
-  {
-    "description": "The Umuntu Harness \u2014 a conduct codex for AI coding agents, skinned as the ethics of Ubuntu ('a person is a person throug",
-    "id": "arnoldwender/umuntu-harness",
-    "language": "Python",
-    "name": "arnoldwender/umuntu-harness",
-    "stars": 0,
-    "updated_at": "2026-09-12T15:05:58Z",
-    "url": "https://github.com/arnoldwender/umuntu-harness"
-  },
-  {
-    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5960,
-    "updated_at": "2026-09-12T15:05:49Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "A conduct codex for AI coding agents, skinned as dharma \u2014 four virtues from the yamas/niyamas and the Gita (Shaucha, Viv",
-    "id": "arnoldwender/dharma-harness",
-    "language": "Python",
-    "name": "arnoldwender/dharma-harness",
-    "stars": 0,
-    "updated_at": "2026-09-12T15:03:51Z",
-    "url": "https://github.com/arnoldwender/dharma-harness"
-  },
-  {
-    "description": "30 visual GPT Image 2.5 studies + 20 editing recipes. Bilingual prompts, creator examples, source links and practical ch",
-    "id": "VulcanEon/insane-gpt-image-2.5-prompts",
-    "language": "Python",
-    "name": "VulcanEon/insane-gpt-image-2.5-prompts",
-    "stars": 1,
-    "updated_at": "2026-09-12T15:03:03Z",
-    "url": "https://github.com/VulcanEon/insane-gpt-image-2.5-prompts"
-  },
-  {
-    "description": "A prompting improvement site. ",
-    "id": "e-allora/plainspoken",
-    "language": "TypeScript",
-    "name": "e-allora/plainspoken",
-    "stars": 0,
-    "updated_at": "2026-09-12T15:02:24Z",
-    "url": "https://github.com/e-allora/plainspoken"
-  },
-  {
-    "description": "Sprite Gubbins \u2014 an offline-capable PWA that composes precise, model-targeted prompts for generating game sprite sheets ",
-    "id": "BootBlock/SpriteGubbins",
-    "language": "TypeScript",
-    "name": "BootBlock/SpriteGubbins",
-    "stars": 0,
-    "updated_at": "2026-09-12T15:05:36Z",
-    "url": "https://github.com/BootBlock/SpriteGubbins"
-  },
-  {
-    "description": "A conduct codex for AI coding agents, skinned as the warrior's code \u2014 four virtues (Rei, Gi, Makoto, Chugi), each rule w",
-    "id": "arnoldwender/bushido-harness",
-    "language": "Python",
-    "name": "arnoldwender/bushido-harness",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:59:14Z",
-    "url": "https://github.com/arnoldwender/bushido-harness"
-  },
-  {
-    "description": "Personal Claude Code configuration \u2014 28 skills, 28 agents, deterministic multi-agent workflows, and quality-gate hooks",
-    "id": "thkt/dotclaude",
-    "language": "TypeScript",
-    "name": "thkt/dotclaude",
-    "stars": 12,
-    "updated_at": "2026-09-12T14:59:00Z",
-    "url": "https://github.com/thkt/dotclaude"
-  },
-  {
-    "description": "15-point diagnostic and surgical debugging suite for personalizing PLR content",
-    "id": "markkirby125/kirby-plr-diagnostic-debugger",
-    "language": "\u2014",
-    "name": "markkirby125/kirby-plr-diagnostic-debugger",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:58:43Z",
-    "url": "https://github.com/markkirby125/kirby-plr-diagnostic-debugger"
   }
 ]
