@@ -1,5 +1,122 @@
 [
   {
+    "description": "Builds the system prompt that decides how Mavis sounds, with the voice rules that stop a model reading markdown asterisk",
+    "id": "keefng8/persona-lab",
+    "language": "\u2014",
+    "name": "keefng8/persona-lab",
+    "stars": 0,
+    "updated_at": "2026-09-13T23:14:30Z",
+    "url": "https://github.com/keefng8/persona-lab"
+  },
+  {
+    "description": "Prompt-Driven Engineering \u2014 \u3042\u3089\u3086\u308b\u9818\u57df\u3068\u958b\u767a\u30d7\u30ed\u30bb\u30b9\u306bAI\u3092\u7d44\u307f\u8fbc\u3080\u305f\u3081\u306e\u5b9f\u8df5\u30ca\u30ec\u30c3\u30b8\u30d9\u30fc\u30b9 (domains x SDLC phases knowledge base)",
+    "id": "zixuniaowu/PDE-AI-Knowledge-Base",
+    "language": "TypeScript",
+    "name": "zixuniaowu/PDE-AI-Knowledge-Base",
+    "stars": 0,
+    "updated_at": "2026-09-13T23:12:55Z",
+    "url": "https://github.com/zixuniaowu/PDE-AI-Knowledge-Base"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-09-13T23:12:49Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "LLM world-naming pipeline in TypeScript: constrained repairable passes name districts, transit and businesses, then emit",
+    "id": "hec-ovi/urbe-namer",
+    "language": "TypeScript",
+    "name": "hec-ovi/urbe-namer",
+    "stars": 0,
+    "updated_at": "2026-09-13T23:12:31Z",
+    "url": "https://github.com/hec-ovi/urbe-namer"
+  },
+  {
+    "description": "Recovering the prompts behind diffusion-generated images by searching prompt space and ranking candidates on rendered-im",
+    "id": "JohnyPeters/image-to-prompt-inversion",
+    "language": "Python",
+    "name": "JohnyPeters/image-to-prompt-inversion",
+    "stars": 0,
+    "updated_at": "2026-09-13T23:11:21Z",
+    "url": "https://github.com/JohnyPeters/image-to-prompt-inversion"
+  },
+  {
+    "description": "\ucd08\uae09\uc790\ub97c \uc704\ud55c AI Engineer 100\uc77c \ucee4\ub9ac\ud058\ub7fc \u2014 Python\ubd80\ud130 RAG\uae4c\uc9c0 + \ub9e4\uc77c AI \ub274\uc2a4 \uc790\ub3d9 \ud050\ub808\uc774\uc158",
+    "id": "kimsanguine/AI_Human",
+    "language": "Shell",
+    "name": "kimsanguine/AI_Human",
+    "stars": 1,
+    "updated_at": "2026-09-13T23:11:04Z",
+    "url": "https://github.com/kimsanguine/AI_Human"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-09-13T23:09:57Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-09-13T23:09:37Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Bilingual (English \u00b7 \u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8) prompt engineering skill and library \u2014 240 prompts across text, image, video, code, audio ",
+    "id": "AvtandilMghebrishvili/promptcraft",
+    "language": "Python",
+    "name": "AvtandilMghebrishvili/promptcraft",
+    "stars": 0,
+    "updated_at": "2026-09-13T23:08:45Z",
+    "url": "https://github.com/AvtandilMghebrishvili/promptcraft"
+  },
+  {
+    "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
+    "id": "fabioc-aloha/Alex_Skill_Mall",
+    "language": "Python",
+    "name": "fabioc-aloha/Alex_Skill_Mall",
+    "stars": 4,
+    "updated_at": "2026-09-13T23:06:31Z",
+    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 21999,
+    "updated_at": "2026-09-13T23:07:47Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-13T23:00:25Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
+    "language": "JavaScript",
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 4360,
+    "updated_at": "2026-09-13T23:08:51Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
     "description": "AI agent orchestration kit for Windows, Linux/MacOS with Codex skills, hooks, routing rules and profiles for Claude, Ope",
     "id": "IAPro-Community/Orquestrador-Maestro",
     "language": "JavaScript",
@@ -34,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T22:57:28Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
-    "id": "fabioc-aloha/Alex_Skill_Mall",
-    "language": "Python",
-    "name": "fabioc-aloha/Alex_Skill_Mall",
-    "stars": 4,
-    "updated_at": "2026-09-13T22:56:40Z",
-    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
   },
   {
     "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
@@ -86,7 +194,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25066,
-    "updated_at": "2026-09-13T22:55:05Z",
+    "updated_at": "2026-09-13T23:14:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -95,7 +203,7 @@
     "language": "Rust",
     "name": "seankim658/codeprompts",
     "stars": 3,
-    "updated_at": "2026-09-13T23:00:13Z",
+    "updated_at": "2026-09-13T23:00:32Z",
     "url": "https://github.com/seankim658/codeprompts"
   },
   {
@@ -115,24 +223,6 @@
     "stars": 3,
     "updated_at": "2026-09-13T22:54:23Z",
     "url": "https://github.com/Zizwar/vibe-note"
-  },
-  {
-    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
-    "id": "conorbronsdon/avoid-ai-writing",
-    "language": "JavaScript",
-    "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 4360,
-    "updated_at": "2026-09-13T22:59:18Z",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 21998,
-    "updated_at": "2026-09-13T22:53:39Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
@@ -180,15 +270,6 @@
     "url": "https://github.com/alanshurafa/co-evolution"
   },
   {
-    "description": "Bilingual (English \u00b7 \u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8) prompt engineering skill and library \u2014 240 prompts across text, image, video, code, audio ",
-    "id": "AvtandilMghebrishvili/promptcraft",
-    "language": "Python",
-    "name": "AvtandilMghebrishvili/promptcraft",
-    "stars": 0,
-    "updated_at": "2026-09-13T22:48:09Z",
-    "url": "https://github.com/AvtandilMghebrishvili/promptcraft"
-  },
-  {
     "description": "Master AI Skills Collection 2026 - Scalable Agent Scripts & Automation Hub",
     "id": "5uprem4/ai-skill-vault",
     "language": "HTML",
@@ -214,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T22:46:12Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-13T22:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
@@ -376,77 +448,5 @@
     "stars": 148,
     "updated_at": "2026-09-13T22:17:42Z",
     "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "\ucd08\uae09\uc790\ub97c \uc704\ud55c AI Engineer 100\uc77c \ucee4\ub9ac\ud058\ub7fc \u2014 Python\ubd80\ud130 RAG\uae4c\uc9c0 + \ub9e4\uc77c AI \ub274\uc2a4 \uc790\ub3d9 \ud050\ub808\uc774\uc158",
-    "id": "kimsanguine/AI_Human",
-    "language": "Shell",
-    "name": "kimsanguine/AI_Human",
-    "stars": 1,
-    "updated_at": "2026-09-13T22:13:22Z",
-    "url": "https://github.com/kimsanguine/AI_Human"
-  },
-  {
-    "description": "User-level global AGENTS.md for DeepSeek Harness (dsh). Defines collaboration, communication, code hygiene, and anti-syc",
-    "id": "daha1216/dsh-agents-md",
-    "language": "\u2014",
-    "name": "daha1216/dsh-agents-md",
-    "stars": 0,
-    "updated_at": "2026-09-13T22:11:12Z",
-    "url": "https://github.com/daha1216/dsh-agents-md"
-  },
-  {
-    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
-    "id": "renoise-ai/awesome-seedance-prompts",
-    "language": "TypeScript",
-    "name": "renoise-ai/awesome-seedance-prompts",
-    "stars": 7,
-    "updated_at": "2026-09-13T22:11:09Z",
-    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
-  },
-  {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 1,
-    "updated_at": "2026-09-13T22:19:26Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
-    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
-    "stars": 1,
-    "updated_at": "2026-09-13T22:10:09Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance AI collaboration with these five reusable skills, fostering effective teamwork in software development while m",
-    "id": "JoaoVyttorFelix/lightweight-ai-development-agent-skills",
-    "language": "\u2014",
-    "name": "JoaoVyttorFelix/lightweight-ai-development-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T22:08:08Z",
-    "url": "https://github.com/JoaoVyttorFelix/lightweight-ai-development-agent-skills"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance AI capabilities with a robust skills library, featuring over 25 specialized skills to make your AI smarter and",
-    "id": "thugyi/Super-Agent-Skills",
-    "language": "HTML",
-    "name": "thugyi/Super-Agent-Skills",
-    "stars": 1,
-    "updated_at": "2026-09-13T22:07:38Z",
-    "url": "https://github.com/thugyi/Super-Agent-Skills"
-  },
-  {
-    "description": "\ud83c\udf4c Generate JSON prompts for ultra-photorealistic images of nano bananas and related subjects, ensuring reproducible and ",
-    "id": "vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts",
-    "language": "\u2014",
-    "name": "vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts",
-    "stars": 2,
-    "updated_at": "2026-09-13T22:07:17Z",
-    "url": "https://github.com/vivekanandan22/Reproducible-Photorealistic-Nano-Banana-Pro-JSON-Prompts"
   }
 ]
