@@ -1,5 +1,131 @@
 [
   {
+    "description": "\u5343\u7b14\u4e00\u6587 Novel \u2014 \u4eba AI \u5171\u5199\u7684\u957f\u7bc7\u7f51\u6587\u521b\u4f5c\u53f0\uff1a\u6761\u76ee\u5316\u4e16\u754c\u4e66 \u00b7 \u6b63\u5219 must \u5951\u7ea6\uff08\u786e\u5b9a\u6027\u590d\u68c0\uff0c\u8fdd\u89c4\u62e6\u4f4f\u9501\u5b9a\uff09\u00b7 \u4e09\u5c42\u5ba1\u6821\uff08\u5f15\u8bc1\u9a8c\u771f + \u6295\u7968\uff09\u00b7 \u540c\u4eba\u6587\u5916\u90e8\u5bfc\u5165\u53ef\u6574\u6279\u64a4\u9500 \u00b7 \u5347\u7ea7\u4e0d\u52a8\u4e66\u7a3f \u00b7 BYOK \u5168\u672c\u5730 \u00b7 MIT\u3002",
+    "id": "GLFzr/QianBi-Novel",
+    "language": "Python",
+    "name": "GLFzr/QianBi-Novel",
+    "stars": 7,
+    "updated_at": "2026-09-13T07:12:37Z",
+    "url": "https://github.com/GLFzr/QianBi-Novel"
+  },
+  {
+    "description": "A lightweight anti-hallucination wrapper for LLMs using Chain-of-Verification.",
+    "id": "Muhtasim-Munif-Fahim/self-correct-agent",
+    "language": "Python",
+    "name": "Muhtasim-Munif-Fahim/self-correct-agent",
+    "stars": 6,
+    "updated_at": "2026-09-13T07:11:08Z",
+    "url": "https://github.com/Muhtasim-Munif-Fahim/self-correct-agent"
+  },
+  {
+    "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
+    "id": "imMamdouhaboammar/get-fable",
+    "language": "TypeScript",
+    "name": "imMamdouhaboammar/get-fable",
+    "stars": 4,
+    "updated_at": "2026-09-13T07:08:12Z",
+    "url": "https://github.com/imMamdouhaboammar/get-fable"
+  },
+  {
+    "description": "Meta Rules for prompt engineering \u2014 A persistent cognitive architecture for LLM prompt design.",
+    "id": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
+    "language": "HTML",
+    "name": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
+    "stars": 1,
+    "updated_at": "2026-09-13T07:08:03Z",
+    "url": "https://github.com/Nous-Think/LLM-Cognitive-Architecture-By-Prompt"
+  },
+  {
+    "description": "A self-testing rule router for AI agents \u2014 routes a query to relevant rules, with precision/recall receipts",
+    "id": "gkw77/rule-entropy",
+    "language": "JavaScript",
+    "name": "gkw77/rule-entropy",
+    "stars": 1,
+    "updated_at": "2026-09-13T07:07:02Z",
+    "url": "https://github.com/gkw77/rule-entropy"
+  },
+  {
+    "description": "Novadiem's agentic engineering system for complex software work, with isolated specialists, durable run state and indepe",
+    "id": "Novadiem-Studio/bureau",
+    "language": "Shell",
+    "name": "Novadiem-Studio/bureau",
+    "stars": 2,
+    "updated_at": "2026-09-13T07:06:30Z",
+    "url": "https://github.com/Novadiem-Studio/bureau"
+  },
+  {
+    "description": "\u4ece\u539f\u4f5c\u53f0\u8bcd\u84b8\u998f\u89d2\u8272\u7684\u8bf4\u8bdd\u65b9\u5f0f\uff0c\u843d\u6210\u53ef\u9a8c\u8bc1\u7684 prompt \u7ea6\u675f\uff1a\u65b9\u6cd5\u5b66 + \u5de5\u5177\u94fe + \u8bc4\u6d4b\u95ed\u73af\uff08\u793a\u4f8b\u89d2\u8272\uff1aMyGO!!!!! \u4e94\u4eba\uff09",
+    "id": "puresky271/idiolect",
+    "language": "Python",
+    "name": "puresky271/idiolect",
+    "stars": 5,
+    "updated_at": "2026-09-13T07:05:45Z",
+    "url": "https://github.com/puresky271/idiolect"
+  },
+  {
+    "description": "Local-only content sketchbook and visual planning canvas built with Rust (Axum, SQLite) and vanilla JS.",
+    "id": "pgwiz/atelier",
+    "language": "Rust",
+    "name": "pgwiz/atelier",
+    "stars": 0,
+    "updated_at": "2026-09-13T07:05:19Z",
+    "url": "https://github.com/pgwiz/atelier"
+  },
+  {
+    "description": "Questions \u2192 Research \u2192 Spec \u2192 Plan \u2192 Implement: a phase-gated Claude Code plugin that keeps a coding agent under 40% con",
+    "id": "Allan-Nava/qrspi",
+    "language": "JavaScript",
+    "name": "Allan-Nava/qrspi",
+    "stars": 0,
+    "updated_at": "2026-09-13T07:04:27Z",
+    "url": "https://github.com/Allan-Nava/qrspi"
+  },
+  {
+    "description": "Skills published by 5dive \u2014 drop-in SKILL.md bundles for Claude Code, openclaw, hermes, and any harness that loads skill",
+    "id": "5dive-ai/skills",
+    "language": "Shell",
+    "name": "5dive-ai/skills",
+    "stars": 1,
+    "updated_at": "2026-09-13T07:02:13Z",
+    "url": "https://github.com/5dive-ai/skills"
+  },
+  {
+    "description": "Agentless prompt change intelligence + eval \u2014 watch the prompts in your codebase, detect changes, and eval them with zer",
+    "id": "GoReal-AI/echostash-oss",
+    "language": "TypeScript",
+    "name": "GoReal-AI/echostash-oss",
+    "stars": 6,
+    "updated_at": "2026-09-13T07:01:34Z",
+    "url": "https://github.com/GoReal-AI/echostash-oss"
+  },
+  {
+    "description": "\u9762\u5411\u4e2d\u6587\u5f00\u53d1\u8005\u7684 Claude Code Skills / Agents / Plugins \u7cbe\u9009\u4e0e\u539f\u521b\u6280\u80fd\u5e93\uff5c\u6309\u573a\u666f\u5206\u7c7b\uff5c\u590d\u5236\u5373\u88c5\uff5c\u6301\u7eed\u66f4\u65b0",
+    "id": "laolaoshiren/claude-code-skills-zh",
+    "language": "Python",
+    "name": "laolaoshiren/claude-code-skills-zh",
+    "stars": 840,
+    "updated_at": "2026-09-13T07:01:15Z",
+    "url": "https://github.com/laolaoshiren/claude-code-skills-zh"
+  },
+  {
+    "description": "Makes your AI coding agent tell you the truth. No \"You're absolutely right!\", no caving when you push back on correct co",
+    "id": "HimanshuJ16/frank",
+    "language": "JavaScript",
+    "name": "HimanshuJ16/frank",
+    "stars": 3,
+    "updated_at": "2026-09-13T07:01:00Z",
+    "url": "https://github.com/HimanshuJ16/frank"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-13T07:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The creator kit: 139 Claude Code commands, 22 skills and 5 agents that carry their own DTD grammar, laws and trust bound",
     "id": "Nova-Violet-Role/RoT-DtD-Commander",
     "language": "JavaScript",
@@ -25,42 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T06:58:55Z",
     "url": "https://github.com/ashish7802/awesome-agent-skills"
-  },
-  {
-    "description": "Agentless prompt change intelligence + eval \u2014 watch the prompts in your codebase, detect changes, and eval them with zer",
-    "id": "GoReal-AI/echostash-oss",
-    "language": "TypeScript",
-    "name": "GoReal-AI/echostash-oss",
-    "stars": 6,
-    "updated_at": "2026-09-13T06:58:24Z",
-    "url": "https://github.com/GoReal-AI/echostash-oss"
-  },
-  {
-    "description": "\u5343\u7b14\u4e00\u6587 Novel \u2014 \u4eba AI \u5171\u5199\u7684\u957f\u7bc7\u7f51\u6587\u521b\u4f5c\u53f0\uff1a\u6761\u76ee\u5316\u4e16\u754c\u4e66 \u00b7 \u6b63\u5219 must \u5951\u7ea6\uff08\u786e\u5b9a\u6027\u590d\u68c0\uff0c\u8fdd\u89c4\u62e6\u4f4f\u9501\u5b9a\uff09\u00b7 \u4e09\u5c42\u5ba1\u6821\uff08\u5f15\u8bc1\u9a8c\u771f + \u6295\u7968\uff09\u00b7 \u540c\u4eba\u6587\u5916\u90e8\u5bfc\u5165\u53ef\u6574\u6279\u64a4\u9500 \u00b7 \u5347\u7ea7\u4e0d\u52a8\u4e66\u7a3f \u00b7 BYOK \u5168\u672c\u5730 \u00b7 MIT\u3002",
-    "id": "GLFzr/QianBi-Novel",
-    "language": "Python",
-    "name": "GLFzr/QianBi-Novel",
-    "stars": 7,
-    "updated_at": "2026-09-13T06:56:12Z",
-    "url": "https://github.com/GLFzr/QianBi-Novel"
-  },
-  {
-    "description": "\u4ece\u539f\u4f5c\u53f0\u8bcd\u84b8\u998f\u89d2\u8272\u7684\u8bf4\u8bdd\u65b9\u5f0f\uff0c\u843d\u6210\u53ef\u9a8c\u8bc1\u7684 prompt \u7ea6\u675f\uff1a\u65b9\u6cd5\u5b66 + \u5de5\u5177\u94fe + \u8bc4\u6d4b\u95ed\u73af\uff08\u793a\u4f8b\u89d2\u8272\uff1aMyGO!!!!! \u4e94\u4eba\uff09",
-    "id": "puresky271/idiolect",
-    "language": "Python",
-    "name": "puresky271/idiolect",
-    "stars": 5,
-    "updated_at": "2026-09-13T06:52:48Z",
-    "url": "https://github.com/puresky271/idiolect"
-  },
-  {
-    "description": "Meta Rules for prompt engineering \u2014 A persistent cognitive architecture for LLM prompt design.",
-    "id": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
-    "language": "HTML",
-    "name": "Nous-Think/LLM-Cognitive-Architecture-By-Prompt",
-    "stars": 1,
-    "updated_at": "2026-09-13T06:51:25Z",
-    "url": "https://github.com/Nous-Think/LLM-Cognitive-Architecture-By-Prompt"
   },
   {
     "description": "AI short-film series: Grok Imagine visuals + Minimax Music cutaways. Open production hub with prompts, screenplays, and ",
@@ -121,18 +211,9 @@
     "id": "MrGeDiao/shuorenhua",
     "language": "Python",
     "name": "MrGeDiao/shuorenhua",
-    "stars": 1585,
+    "stars": 1588,
     "updated_at": "2026-09-13T06:45:39Z",
     "url": "https://github.com/MrGeDiao/shuorenhua"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-13T06:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0-",
@@ -212,7 +293,7 @@
     "language": "Python",
     "name": "drayline/rootnode-skills",
     "stars": 40,
-    "updated_at": "2026-09-13T06:22:26Z",
+    "updated_at": "2026-09-13T07:11:01Z",
     "url": "https://github.com/drayline/rootnode-skills"
   },
   {
@@ -248,17 +329,8 @@
     "language": "Python",
     "name": "fysoul17/devlyn-cli",
     "stars": 1,
-    "updated_at": "2026-09-13T06:21:40Z",
+    "updated_at": "2026-09-13T07:08:53Z",
     "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "Local-only content sketchbook and visual planning canvas built with Rust (Axum, SQLite) and vanilla JS.",
-    "id": "pgwiz/atelier",
-    "language": "Rust",
-    "name": "pgwiz/atelier",
-    "stars": 0,
-    "updated_at": "2026-09-13T06:19:35Z",
-    "url": "https://github.com/pgwiz/atelier"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -304,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T06:15:45Z",
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Novadiem's agentic engineering system for complex software work, with isolated specialists, durable run state and indepe",
-    "id": "Novadiem-Studio/bureau",
-    "language": "Shell",
-    "name": "Novadiem-Studio/bureau",
-    "stars": 2,
-    "updated_at": "2026-09-13T06:13:54Z",
-    "url": "https://github.com/Novadiem-Studio/bureau"
   },
   {
     "description": "The Open Registry for AI Engineering Presets.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T06:09:50Z",
     "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
-  },
-  {
-    "description": "Track and instantly rewind your SQLite database to any previous state during local development with a video-like scrubbe",
-    "id": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "language": "HTML",
-    "name": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "stars": 0,
-    "updated_at": "2026-09-13T06:09:50Z",
-    "url": "https://github.com/nonliteral-fullhouse266/time-travel-sqlite-debugger"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 21,
-    "updated_at": "2026-09-13T06:08:38Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Manage and organize your AI prompts locally with this private, self-hosted prompt manager for ChatGPT, Claude, and Gemin",
-    "id": "conniving-catechist742/ai-prompt-studio",
-    "language": "Python",
-    "name": "conniving-catechist742/ai-prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-09-13T06:08:29Z",
-    "url": "https://github.com/conniving-catechist742/ai-prompt-studio"
-  },
-  {
-    "description": "Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions ",
-    "id": "householderbereavedperson505/promptloop",
-    "language": "\u2014",
-    "name": "householderbereavedperson505/promptloop",
-    "stars": 0,
-    "updated_at": "2026-09-13T06:08:24Z",
-    "url": "https://github.com/householderbereavedperson505/promptloop"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 1,
-    "updated_at": "2026-09-13T06:07:58Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 1,
-    "updated_at": "2026-09-13T06:07:52Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "A 13-agent software company in a plugin: plan, build, and adversarially judge every change under hard budget caps. Route",
-    "id": "xsefirosus/sefi-agents",
-    "language": "Shell",
-    "name": "xsefirosus/sefi-agents",
-    "stars": 1,
-    "updated_at": "2026-09-13T06:07:23Z",
-    "url": "https://github.com/xsefirosus/sefi-agents"
   }
 ]
