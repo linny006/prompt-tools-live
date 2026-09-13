@@ -1,12 +1,120 @@
 [
   {
+    "description": "A collection of utility scripts and tools that streamline my daily development workflow.",
+    "id": "FarzamMohammadi/dev-toolbox",
+    "language": "Python",
+    "name": "FarzamMohammadi/dev-toolbox",
+    "stars": 1,
+    "updated_at": "2026-09-13T05:14:56Z",
+    "url": "https://github.com/FarzamMohammadi/dev-toolbox"
+  },
+  {
+    "description": "\u4ece\u539f\u4f5c\u53f0\u8bcd\u84b8\u998f\u89d2\u8272\u7684\u8bf4\u8bdd\u65b9\u5f0f\uff0c\u843d\u6210\u53ef\u9a8c\u8bc1\u7684 prompt \u7ea6\u675f\uff1a\u65b9\u6cd5\u5b66 + \u5de5\u5177\u94fe + \u8bc4\u6d4b\u95ed\u73af\uff08\u793a\u4f8b\u89d2\u8272\uff1aMyGO!!!!! \u4e94\u4eba\uff09",
+    "id": "puresky271/idiolect",
+    "language": "Python",
+    "name": "puresky271/idiolect",
+    "stars": 5,
+    "updated_at": "2026-09-13T05:13:47Z",
+    "url": "https://github.com/puresky271/idiolect"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 21,
+    "updated_at": "2026-09-13T05:10:48Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 11,
+    "updated_at": "2026-09-13T05:09:18Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Kling AI / Kling 3.0 prompts, Motion Control workflows, and Kling API resources",
+    "id": "DSeaStar/awesome-kling",
+    "language": "Python",
+    "name": "DSeaStar/awesome-kling",
+    "stars": 2,
+    "updated_at": "2026-09-13T05:08:59Z",
+    "url": "https://github.com/DSeaStar/awesome-kling"
+  },
+  {
+    "description": "Open-source Codex Skill with 24 photo-to-art styles for illustrations, stickers, paper cutouts, prints, collage, pixel a",
+    "id": "AlbertAZ1992/albert-imagebook",
+    "language": "JavaScript",
+    "name": "AlbertAZ1992/albert-imagebook",
+    "stars": 0,
+    "updated_at": "2026-09-13T05:08:13Z",
+    "url": "https://github.com/AlbertAZ1992/albert-imagebook"
+  },
+  {
+    "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
+    "id": "piyalidas10/AI",
+    "language": "Python",
+    "name": "piyalidas10/AI",
+    "stars": 0,
+    "updated_at": "2026-09-13T05:07:43Z",
+    "url": "https://github.com/piyalidas10/AI"
+  },
+  {
+    "description": "A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and pa",
+    "id": "google/mantis",
+    "language": "Python",
+    "name": "google/mantis",
+    "stars": 1491,
+    "updated_at": "2026-09-13T05:05:10Z",
+    "url": "https://github.com/google/mantis"
+  },
+  {
+    "description": "Curated MiniMax H3 Max video prompts, creator examples, shot breakdowns and workflows. Maintained by h3max.io.",
+    "id": "VulcanEon/insane-minimax-h3-max-prompts",
+    "language": "JavaScript",
+    "name": "VulcanEon/insane-minimax-h3-max-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-13T05:04:48Z",
+    "url": "https://github.com/VulcanEon/insane-minimax-h3-max-prompts"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-09-13T05:03:48Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "Turn a messy request into a prompt your coding agent gets right the first time. One Agent Skills folder \u2014 works in Codex",
+    "id": "sazzadurrahmaan/sharpen",
+    "language": "Shell",
+    "name": "sazzadurrahmaan/sharpen",
+    "stars": 0,
+    "updated_at": "2026-09-13T05:03:29Z",
+    "url": "https://github.com/sazzadurrahmaan/sharpen"
+  },
+  {
     "description": "A structured reasoning skill for Claude. Forces context-first thinking, goal identification, assumption auditing, and wa",
     "id": "Firekid-is-him/Reasoning-Skill-Claude",
     "language": "\u2014",
     "name": "Firekid-is-him/Reasoning-Skill-Claude",
     "stars": 1,
-    "updated_at": "2026-09-13T04:59:08Z",
+    "updated_at": "2026-09-13T05:01:48Z",
     "url": "https://github.com/Firekid-is-him/Reasoning-Skill-Claude"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-13T05:00:23Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
@@ -32,7 +140,7 @@
     "language": "Python",
     "name": "johnsmithCA-sta/skill-dev-kit",
     "stars": 0,
-    "updated_at": "2026-09-13T04:58:28Z",
+    "updated_at": "2026-09-13T05:01:07Z",
     "url": "https://github.com/johnsmithCA-sta/skill-dev-kit"
   },
   {
@@ -49,7 +157,7 @@
     "id": "Imbad0202/academic-research-skills",
     "language": "Python",
     "name": "Imbad0202/academic-research-skills",
-    "stars": 47789,
+    "stars": 47790,
     "updated_at": "2026-09-13T04:56:38Z",
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
@@ -61,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T04:56:13Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "\u4ece\u539f\u4f5c\u53f0\u8bcd\u84b8\u998f\u89d2\u8272\u7684\u8bf4\u8bdd\u65b9\u5f0f\uff0c\u843d\u6210\u53ef\u9a8c\u8bc1\u7684 prompt \u7ea6\u675f\uff1a\u65b9\u6cd5\u5b66 + \u5de5\u5177\u94fe + \u8bc4\u6d4b\u95ed\u73af\uff08\u793a\u4f8b\u89d2\u8272\uff1aMyGO!!!!! \u4e94\u4eba\uff09",
-    "id": "puresky271/idiolect",
-    "language": "Python",
-    "name": "puresky271/idiolect",
-    "stars": 5,
-    "updated_at": "2026-09-13T04:55:57Z",
-    "url": "https://github.com/puresky271/idiolect"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -130,7 +229,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34518,
+    "stars": 34519,
     "updated_at": "2026-09-13T04:46:52Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -162,15 +261,6 @@
     "url": "https://github.com/hermes-labs-ai/hermes-blind"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-13T04:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
     "id": "CodeAlive-AI/ai-driven-development",
     "language": "Python",
@@ -185,7 +275,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-13T04:44:54Z",
+    "updated_at": "2026-09-13T05:14:57Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -196,15 +286,6 @@
     "stars": 7,
     "updated_at": "2026-09-13T04:42:08Z",
     "url": "https://github.com/raspie10032/ComfyUI_RS_NAI_API_Request"
-  },
-  {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "JavaScript",
-    "name": "spidey889/context-generator",
-    "stars": 11,
-    "updated_at": "2026-09-13T04:41:43Z",
-    "url": "https://github.com/spidey889/context-generator"
   },
   {
     "description": "Installable Agent Skill for software design review, refactoring, architecture boundaries, testing strategy, debugging di",
@@ -284,7 +365,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25054,
-    "updated_at": "2026-09-13T04:56:48Z",
+    "updated_at": "2026-09-13T05:14:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 9900,
     "updated_at": "2026-09-13T04:12:02Z",
     "url": "https://github.com/kangarooking/cangjie-skill"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-09-13T04:10:55Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators ",
-    "id": "ZeroLu/awesome-gpt-image",
-    "language": "Python",
-    "name": "ZeroLu/awesome-gpt-image",
-    "stars": 2190,
-    "updated_at": "2026-09-13T04:10:43Z",
-    "url": "https://github.com/ZeroLu/awesome-gpt-image"
-  },
-  {
-    "description": "Create polished presentations and clear owner briefs with Codex skills for visual decks, intent validation, and outcome ",
-    "id": "Yazanw6234/presentation-delivery-skills",
-    "language": "\u2014",
-    "name": "Yazanw6234/presentation-delivery-skills",
-    "stars": 0,
-    "updated_at": "2026-09-13T04:10:16Z",
-    "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "AI-assisted workflows, prompts, and templates for robotics research.",
-    "id": "asandstar/ai-for-robotics-research",
-    "language": "TypeScript",
-    "name": "asandstar/ai-for-robotics-research",
-    "stars": 0,
-    "updated_at": "2026-09-13T04:09:54Z",
-    "url": "https://github.com/asandstar/ai-for-robotics-research"
-  },
-  {
-    "description": "Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference.",
-    "id": "Ak863153/ChatGPT-Persona-Voice",
-    "language": "\u2014",
-    "name": "Ak863153/ChatGPT-Persona-Voice",
-    "stars": 0,
-    "updated_at": "2026-09-13T04:09:29Z",
-    "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 1,
-    "updated_at": "2026-09-13T04:09:14Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Track and instantly rewind your SQLite database to any previous state during local development with a video-like scrubbe",
-    "id": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "language": "HTML",
-    "name": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "stars": 0,
-    "updated_at": "2026-09-13T04:08:37Z",
-    "url": "https://github.com/nonliteral-fullhouse266/time-travel-sqlite-debugger"
-  },
-  {
-    "description": "Give your AI coding assistant a cautious, meticulous Korean developer personality with this persona plugin for OpenAI Co",
-    "id": "partible-dicer700/SoDam-Persona-Codex",
-    "language": "JavaScript",
-    "name": "partible-dicer700/SoDam-Persona-Codex",
-    "stars": 0,
-    "updated_at": "2026-09-13T04:08:31Z",
-    "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
-  },
-  {
-    "description": "Manage and organize your AI prompts locally with this private, self-hosted prompt manager for ChatGPT, Claude, and Gemin",
-    "id": "conniving-catechist742/ai-prompt-studio",
-    "language": "Python",
-    "name": "conniving-catechist742/ai-prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-09-13T04:07:21Z",
-    "url": "https://github.com/conniving-catechist742/ai-prompt-studio"
   }
 ]
