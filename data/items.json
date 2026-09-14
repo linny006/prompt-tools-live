@@ -1,11 +1,128 @@
 [
   {
+    "description": "Static analyzer for AI system prompts: parses a prompt into normative rules and reports contradictions, coverage gaps, p",
+    "id": "hermes-labs-ai/rule-audit",
+    "language": "Python",
+    "name": "hermes-labs-ai/rule-audit",
+    "stars": 1,
+    "updated_at": "2026-09-14T15:12:01Z",
+    "url": "https://github.com/hermes-labs-ai/rule-audit"
+  },
+  {
+    "description": "quickthink is a local-first CLI and Python library that wraps Ollama-backed LLM calls with a compressed plan-then-answer",
+    "id": "hermes-labs-ai/quickthink",
+    "language": "Python",
+    "name": "hermes-labs-ai/quickthink",
+    "stars": 1,
+    "updated_at": "2026-09-14T15:12:01Z",
+    "url": "https://github.com/hermes-labs-ai/quickthink"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34592,
+    "updated_at": "2026-09-14T15:13:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Turn a rough draft into a complete, sendable request (enrich) or an executor specification (spec), with programmatic qua",
+    "id": "wuhua2026/dsh-prompt-enhance",
+    "language": "JavaScript",
+    "name": "wuhua2026/dsh-prompt-enhance",
+    "stars": 0,
+    "updated_at": "2026-09-14T15:12:41Z",
+    "url": "https://github.com/wuhua2026/dsh-prompt-enhance"
+  },
+  {
+    "description": "This project implements Multi Turn Coversational RAG pipeline from scratch.",
+    "id": "ShehrozAhmadkhan/Multi-Turn-Coversational-RAG-pipeline",
+    "language": "Python",
+    "name": "ShehrozAhmadkhan/Multi-Turn-Coversational-RAG-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-14T15:08:58Z",
+    "url": "https://github.com/ShehrozAhmadkhan/Multi-Turn-Coversational-RAG-pipeline"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-14T15:08:48Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 21,
+    "updated_at": "2026-09-14T15:07:33Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Recovers the original goal of a long Claude Code or Codex session from its first user turn, so you can restate it before",
+    "id": "hermes-labs-ai/hermes-blind",
+    "language": "Python",
+    "name": "hermes-labs-ai/hermes-blind",
+    "stars": 8,
+    "updated_at": "2026-09-14T15:04:07Z",
+    "url": "https://github.com/hermes-labs-ai/hermes-blind"
+  },
+  {
+    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
+    "id": "janzong/agent-charters",
+    "language": "Python",
+    "name": "janzong/agent-charters",
+    "stars": 1,
+    "updated_at": "2026-09-14T15:03:52Z",
+    "url": "https://github.com/janzong/agent-charters"
+  },
+  {
+    "description": "claude-router is a local prompt router that picks the right Claude model tier and prepends the right scaffold using loca",
+    "id": "hermes-labs-ai/claude-router",
+    "language": "Python",
+    "name": "hermes-labs-ai/claude-router",
+    "stars": 1,
+    "updated_at": "2026-09-14T15:03:18Z",
+    "url": "https://github.com/hermes-labs-ai/claude-router"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22011,
+    "updated_at": "2026-09-14T15:09:43Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Paste the text you would put in an AI bot's profile. Get back what is already there and the lines that are missing.",
+    "id": "Mnilax/lintcha",
+    "language": "HTML",
+    "name": "Mnilax/lintcha",
+    "stars": 15,
+    "updated_at": "2026-09-14T15:00:41Z",
+    "url": "https://github.com/Mnilax/lintcha"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-14T15:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi",
     "id": "ekayaprod/jules-agent-roster",
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 3,
-    "updated_at": "2026-09-14T15:00:01Z",
+    "updated_at": "2026-09-14T15:06:38Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -16,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-09-14T14:59:55Z",
     "url": "https://github.com/kish21/product-playbook"
-  },
-  {
-    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
-    "id": "janzong/agent-charters",
-    "language": "Python",
-    "name": "janzong/agent-charters",
-    "stars": 1,
-    "updated_at": "2026-09-14T14:56:32Z",
-    "url": "https://github.com/janzong/agent-charters"
   },
   {
     "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
@@ -81,15 +189,6 @@
     "url": "https://github.com/saghosh8/ai-devops-release-assistant"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-14T14:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
     "id": "synaptiai/synapti-marketplace",
     "language": "Shell",
@@ -115,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T14:42:37Z",
     "url": "https://github.com/Ceasary/data-to-deck"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22011,
-    "updated_at": "2026-09-14T14:57:00Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "DeepSeek Harness \u7684 Prompt \u5de5\u5177\u7bb1\uff1a\u522b\u518d\u590d\u5236\u7c98\u8d34\u2014\u201424 \u6761\u6df1\u5ea6\u6a21\u677f\u968f\u624b\u70b9\uff0c/prompt \u4e0e\u667a\u80fd\u63a8\u8350\u4e3b\u52a8\u515c\u5e95\uff0c\u88c5\u597d\u5373\u7528\u3001\u53ef\u81ea\u5b9a\u4e49\u3002 | The Prompt toolbox for DeepSeek Harness",
@@ -171,15 +261,6 @@
     "url": "https://github.com/tradecatlabs/vibe-coding-cn"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34592,
-    "updated_at": "2026-09-14T14:58:42Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\u4e00\u4e2a\u4f1a\u62f7\u95ee\u4f60\u7684 AI \u521b\u4e1a\u8bca\u65ad\u5b98 \u00b7 \u4e0d\u7ed9\u901a\u7528\u5efa\u8bae,\u53ea\u903c\u4f60\u770b\u6e05\u771f\u75c5\u56e0 | An AI diagnostician that interrogates your startup",
     "id": "qrex102300-ui/opc-clinic",
     "language": "HTML",
@@ -193,7 +274,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 138061,
+    "stars": 138072,
     "updated_at": "2026-09-14T14:34:56Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -221,7 +302,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4469,
-    "updated_at": "2026-09-14T15:00:20Z",
+    "updated_at": "2026-09-14T15:10:06Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -333,15 +414,6 @@
     "url": "https://github.com/derob98/ailmanac"
   },
   {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 1,
-    "updated_at": "2026-09-14T14:15:41Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T14:12:45Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "\u96f6\u57fa\u7840\u8fdb\u9636 AI \u4ea7\u54c1\u7ecf\u7406\u7684\u77e5\u8bc6\u7ad9\uff1a\u6982\u5ff5\u626b\u76f2 \u00b7 \u65b9\u6cd5\u5b9e\u64cd \u00b7 \u884c\u4e1a\u5750\u6807 \u00b7 \u6c42\u804c\u51b2\u523a \u00b7 12 \u5468\u5b66\u4e60\u8def\u5f84\uff08\u8bf4\u4eba\u8bdd\u7248\uff09",
-    "id": "sjx-design/aipm-starter-map",
-    "language": "JavaScript",
-    "name": "sjx-design/aipm-starter-map",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:11:08Z",
-    "url": "https://github.com/sjx-design/aipm-starter-map"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-09-14T14:10:09Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Personal Claude Code rulebook: CLAUDE.md, harness/, memory/, skills/, hooks/.",
-    "id": "firaen22/claude-rulebook",
-    "language": "Shell",
-    "name": "firaen22/claude-rulebook",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:07:15Z",
-    "url": "https://github.com/firaen22/claude-rulebook"
-  },
-  {
-    "description": "A free cross-platform editorial standard for AI writing.",
-    "id": "jposluns/cleanlanguage",
-    "language": "Python",
-    "name": "jposluns/cleanlanguage",
-    "stars": 3,
-    "updated_at": "2026-09-14T14:06:01Z",
-    "url": "https://github.com/jposluns/cleanlanguage"
-  },
-  {
-    "description": "Local-first anti-pattern distiller for AI agent conversation threads. Extracts transferable failure mechanisms across Mo",
-    "id": "tetsuose/agent-gotchas",
-    "language": "Python",
-    "name": "tetsuose/agent-gotchas",
-    "stars": 1,
-    "updated_at": "2026-09-14T14:05:20Z",
-    "url": "https://github.com/tetsuose/agent-gotchas"
-  },
-  {
-    "description": "A multi-agent AI platform that automates software engineering workflows using Python, LangGraph, FastAPI, and LLMs.",
-    "id": "saba0-data/ai-software-engineering-agent",
-    "language": "Python",
-    "name": "saba0-data/ai-software-engineering-agent",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:04:09Z",
-    "url": "https://github.com/saba0-data/ai-software-engineering-agent"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 1,
-    "updated_at": "2026-09-14T14:02:52Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Customer operations demo: explainable risk scoring, optional AI QBR briefs, and customer-facing PDF reports. Synthetic d",
-    "id": "jeypnet/csm-account-intelligence",
-    "language": "Python",
-    "name": "jeypnet/csm-account-intelligence",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:02:08Z",
-    "url": "https://github.com/jeypnet/csm-account-intelligence"
   }
 ]
