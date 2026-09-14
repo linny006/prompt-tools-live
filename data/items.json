@@ -1,12 +1,120 @@
 [
   {
-    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
-    "id": "Leo-maomao/pm-copilot",
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-14T14:15:23Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "AI writes code faster than anyone can reason about it. product-playbook puts evidence gates between the phases: 21 Claud",
+    "id": "kish21/product-playbook",
+    "language": "Python",
+    "name": "kish21/product-playbook",
+    "stars": 2,
+    "updated_at": "2026-09-14T14:14:29Z",
+    "url": "https://github.com/kish21/product-playbook"
+  },
+  {
+    "description": "Plan, build, review, and ship anything to the real world without leaving your environment. AI harness with built-in Proj",
+    "id": "agent-kit-startup/agent-kit",
     "language": "TypeScript",
-    "name": "Leo-maomao/pm-copilot",
-    "stars": 4,
-    "updated_at": "2026-09-14T13:59:24Z",
-    "url": "https://github.com/Leo-maomao/pm-copilot"
+    "name": "agent-kit-startup/agent-kit",
+    "stars": 10,
+    "updated_at": "2026-09-14T14:14:30Z",
+    "url": "https://github.com/agent-kit-startup/agent-kit"
+  },
+  {
+    "description": "\u628a\u6a21\u7cca\u4efb\u52a1\u9700\u6c42\u8f6c\u6210\u53ef\u6267\u884c\u3001\u53ef\u9a8c\u6536\u7684 SPEC\uff08\u4efb\u52a1\u89c4\u683c / \u6267\u884c\u89c4\u8303 / \u6267\u884c\u5951\u7ea6\uff09\u7684 Agent Skill\uff0c\u652f\u6301 feature/bugfix/refactor/research/ops",
+    "id": "kaijia323/spec-builder",
+    "language": "HTML",
+    "name": "kaijia323/spec-builder",
+    "stars": 0,
+    "updated_at": "2026-09-14T14:13:39Z",
+    "url": "https://github.com/kaijia323/spec-builder"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-09-14T14:12:45Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "\u96f6\u57fa\u7840\u8fdb\u9636 AI \u4ea7\u54c1\u7ecf\u7406\u7684\u77e5\u8bc6\u7ad9\uff1a\u6982\u5ff5\u626b\u76f2 \u00b7 \u65b9\u6cd5\u5b9e\u64cd \u00b7 \u884c\u4e1a\u5750\u6807 \u00b7 \u6c42\u804c\u51b2\u523a \u00b7 12 \u5468\u5b66\u4e60\u8def\u5f84\uff08\u8bf4\u4eba\u8bdd\u7248\uff09",
+    "id": "sjx-design/aipm-starter-map",
+    "language": "JavaScript",
+    "name": "sjx-design/aipm-starter-map",
+    "stars": 0,
+    "updated_at": "2026-09-14T14:11:08Z",
+    "url": "https://github.com/sjx-design/aipm-starter-map"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-09-14T14:10:09Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34591,
+    "updated_at": "2026-09-14T14:09:44Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
+    "id": "janzong/agent-charters",
+    "language": "Python",
+    "name": "janzong/agent-charters",
+    "stars": 1,
+    "updated_at": "2026-09-14T14:08:13Z",
+    "url": "https://github.com/janzong/agent-charters"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 8,
+    "updated_at": "2026-09-14T14:07:46Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Personal Claude Code rulebook: CLAUDE.md, harness/, memory/, skills/, hooks/.",
+    "id": "firaen22/claude-rulebook",
+    "language": "Shell",
+    "name": "firaen22/claude-rulebook",
+    "stars": 0,
+    "updated_at": "2026-09-14T14:07:15Z",
+    "url": "https://github.com/firaen22/claude-rulebook"
+  },
+  {
+    "description": "A free cross-platform editorial standard for AI writing.",
+    "id": "jposluns/cleanlanguage",
+    "language": "Python",
+    "name": "jposluns/cleanlanguage",
+    "stars": 3,
+    "updated_at": "2026-09-14T14:06:01Z",
+    "url": "https://github.com/jposluns/cleanlanguage"
+  },
+  {
+    "description": "Local-first anti-pattern distiller for AI agent conversation threads. Extracts transferable failure mechanisms across Mo",
+    "id": "tetsuose/agent-gotchas",
+    "language": "Python",
+    "name": "tetsuose/agent-gotchas",
+    "stars": 1,
+    "updated_at": "2026-09-14T14:05:20Z",
+    "url": "https://github.com/tetsuose/agent-gotchas"
   },
   {
     "description": "A multi-agent AI platform that automates software engineering workflows using Python, LangGraph, FastAPI, and LLMs.",
@@ -14,17 +122,53 @@
     "language": "Python",
     "name": "saba0-data/ai-software-engineering-agent",
     "stars": 0,
-    "updated_at": "2026-09-14T13:59:19Z",
+    "updated_at": "2026-09-14T14:04:09Z",
     "url": "https://github.com/saba0-data/ai-software-engineering-agent"
   },
   {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-09-14T14:02:52Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "Customer operations demo: explainable risk scoring, optional AI QBR briefs, and customer-facing PDF reports. Synthetic d",
+    "id": "jeypnet/csm-account-intelligence",
     "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1475,
-    "updated_at": "2026-09-14T13:58:42Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+    "name": "jeypnet/csm-account-intelligence",
+    "stars": 0,
+    "updated_at": "2026-09-14T14:02:08Z",
+    "url": "https://github.com/jeypnet/csm-account-intelligence"
+  },
+  {
+    "description": "\"NotebookLM-powered research notebook for M&A analysis: Paramount Skydance acquisition of Warner Bros. Discovery \u2014 finan",
+    "id": "antoniolpagnano/notebooklm-mea-wbd-paramount",
+    "language": "\u2014",
+    "name": "antoniolpagnano/notebooklm-mea-wbd-paramount",
+    "stars": 0,
+    "updated_at": "2026-09-14T14:01:56Z",
+    "url": "https://github.com/antoniolpagnano/notebooklm-mea-wbd-paramount"
+  },
+  {
+    "description": "A decision-oriented LLM engineering knowledge base \u2014 from Attention to production. 291 cards, 36-card path: fundamentals",
+    "id": "weicyang/llm-eng-cards",
+    "language": "HTML",
+    "name": "weicyang/llm-eng-cards",
+    "stars": 3,
+    "updated_at": "2026-09-14T14:01:43Z",
+    "url": "https://github.com/weicyang/llm-eng-cards"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-14T14:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
@@ -34,6 +178,24 @@
     "stars": 220,
     "updated_at": "2026-09-14T14:00:15Z",
     "url": "https://github.com/coco-research/coco"
+  },
+  {
+    "description": "\u4ea7\u54c1\u7ecf\u7406 AI Agent \u5de5\u4f5c\u6d41\u5957\u4ef6\uff0c\u751f\u6210 PRD\u3001\u57cb\u70b9\u65b9\u6848\u3001\u53ef\u70b9\u51fb\u539f\u578b\u3001\u7814\u53d1\u4ea4\u63a5\u548c\u4e0a\u7ebf\u51b3\u7b56\u6750\u6599\u3002PM Copilot is an Agent Workflow Kit for PMs.",
+    "id": "Leo-maomao/pm-copilot",
+    "language": "TypeScript",
+    "name": "Leo-maomao/pm-copilot",
+    "stars": 4,
+    "updated_at": "2026-09-14T13:59:24Z",
+    "url": "https://github.com/Leo-maomao/pm-copilot"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1475,
+    "updated_at": "2026-09-14T14:07:22Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "A premium Context Staging IDE for AI workflows. Curate, compress, and stage code payloads for LLMs with surgical precisi",
@@ -63,13 +225,13 @@
     "url": "https://github.com/minekurs53-cmd/st-preset-engineering"
   },
   {
-    "description": "AI writes code faster than anyone can reason about it. product-playbook puts evidence gates between the phases: 21 Claud",
-    "id": "kish21/product-playbook",
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
     "language": "Python",
-    "name": "kish21/product-playbook",
-    "stars": 2,
-    "updated_at": "2026-09-14T13:57:04Z",
-    "url": "https://github.com/kish21/product-playbook"
+    "name": "IBM/mcp-context-forge",
+    "stars": 4469,
+    "updated_at": "2026-09-14T13:56:56Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "\u9762\u5411 AI Agent \u7684 App IP \u4ea7\u54c1\u5316\u8bbe\u8ba1 Skill\uff1a\u8986\u76d6\u89d2\u8272\u3001\u4e1a\u52a1\u72b6\u6001\u3001UI \u8054\u8c03\u3001App Icon \u98ce\u683c\u4e0e Prompt\u3001\u5546\u5e97\u7d20\u6750\u53ca\u751f\u4ea7\u4ea4\u63a5\u3002",
@@ -86,7 +248,7 @@
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 21,
-    "updated_at": "2026-09-14T13:56:26Z",
+    "updated_at": "2026-09-14T14:07:08Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -117,24 +279,6 @@
     "url": "https://github.com/acipaaa/context-llm-chunks"
   },
   {
-    "description": "\u96f6\u57fa\u7840\u8fdb\u9636 AI \u4ea7\u54c1\u7ecf\u7406\u7684\u77e5\u8bc6\u7ad9\uff1a\u6982\u5ff5\u626b\u76f2 \u00b7 \u65b9\u6cd5\u5b9e\u64cd \u00b7 \u884c\u4e1a\u5750\u6807 \u00b7 \u6c42\u804c\u51b2\u523a \u00b7 12 \u5468\u5b66\u4e60\u8def\u5f84\uff08\u8bf4\u4eba\u8bdd\u7248\uff09",
-    "id": "2766782232sjx-commits/aipm-starter-map",
-    "language": "JavaScript",
-    "name": "2766782232sjx-commits/aipm-starter-map",
-    "stars": 0,
-    "updated_at": "2026-09-14T13:50:54Z",
-    "url": "https://github.com/2766782232sjx-commits/aipm-starter-map"
-  },
-  {
-    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
-    "id": "janzong/agent-charters",
-    "language": "Python",
-    "name": "janzong/agent-charters",
-    "stars": 1,
-    "updated_at": "2026-09-14T13:50:31Z",
-    "url": "https://github.com/janzong/agent-charters"
-  },
-  {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
     "id": "Magma1321/mythos-agent-pipe",
     "language": "HTML",
@@ -157,18 +301,9 @@
     "id": "JularDepick/AGENTS.md-Best-Practices",
     "language": "\u2014",
     "name": "JularDepick/AGENTS.md-Best-Practices",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-09-14T13:45:47Z",
     "url": "https://github.com/JularDepick/AGENTS.md-Best-Practices"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-14T13:45:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Practice-built skills that give AI agents practical judgment for product, web, engineering, delivery, go-to-market, comm",
@@ -297,15 +432,6 @@
     "url": "https://github.com/jamditis/mooc-starter-kit"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34589,
-    "updated_at": "2026-09-14T13:38:45Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "A coding-agent skill for film editing: cut, review a finished cut with timecode-level evidence, and QC AI-generated clip",
     "id": "Maoxintao98/cutting-room",
     "language": "Python",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T13:36:16Z",
     "url": "https://github.com/cskwork/THE-SYSTEM-PROMPT"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-14T13:36:01Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 1,
-    "updated_at": "2026-09-14T13:36:00Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-09-14T13:35:07Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-09-14T13:34:54Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "\u8ba9 AI \u50cf\u4eba\u4e00\u6837\u8bf4\u8bdd\u3001\u521b\u4f5c\u7684\u89c4\u5219\u96c6\u3002Ruleset for making AI talk and write like a human.",
-    "id": "chengzhi-c/natural-talk",
-    "language": "Python",
-    "name": "chengzhi-c/natural-talk",
-    "stars": 49,
-    "updated_at": "2026-09-14T13:34:28Z",
-    "url": "https://github.com/chengzhi-c/natural-talk"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-09-14T13:34:28Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-09-14T13:33:40Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-09-14T13:33:31Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments tha",
-    "id": "sergebulaev/linkedin-skills",
-    "language": "Python",
-    "name": "sergebulaev/linkedin-skills",
-    "stars": 2312,
-    "updated_at": "2026-09-14T13:33:26Z",
-    "url": "https://github.com/sergebulaev/linkedin-skills"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-09-14T13:33:09Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-09-14T13:32:56Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Build unit tests for AI prompts to compare models, track performance, and prevent regressions.",
-    "id": "Topsailpediculati120/litmux",
-    "language": "Python",
-    "name": "Topsailpediculati120/litmux",
-    "stars": 4,
-    "updated_at": "2026-09-14T13:32:36Z",
-    "url": "https://github.com/Topsailpediculati120/litmux"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-09-14T13:32:29Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "\u7528\u5bfc\u6f14\u601d\u7ef4\u5199\u77ed\u89c6\u9891\u53e3\u64ad\u7a3f\uff1a\u5148\u505a\u62cd\u6444\u51b3\u7b56\uff0c\u518d\u9009\u7ed3\u6784\u53d8\u4f53\uff0c\u6309\u516d\u6bb5\u9aa8\u67b6\u6210\u7a3f\uff0c\u5e76\u81ea\u52a8\u505a\u53bb AI \u5473\u5904\u7406\u3002",
-    "id": "Ethantrump/director-perspective-script-workflow",
-    "language": "\u2014",
-    "name": "Ethantrump/director-perspective-script-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-14T13:32:22Z",
-    "url": "https://github.com/Ethantrump/director-perspective-script-workflow"
   }
 ]
