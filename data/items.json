@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u8ba9 Hermes \u4ece\"\u964c\u751f\u5916\u5305\"\u53d8\u6210\"\u61c2\u4f60\u7684 AI \u5408\u4f19\u4eba\"\u2014\u2014\u4e00\u952e\u521d\u59cb\u5316\uff0c\u65b0\u8001\u7528\u6237\u96f6\u914d\u7f6e\u589e\u91cf\u96f6\u526f\u4f5c\u7528",
+    "id": "boainet/hermes-onboarding",
+    "language": "Python",
+    "name": "boainet/hermes-onboarding",
+    "stars": 1,
+    "updated_at": "2026-09-14T00:22:03Z",
+    "url": "https://github.com/boainet/hermes-onboarding"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-14T00:20:55Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "DSH agent preset for local ComfyUI: Anima / MiniMax H3 AI art & video \u2014 5 CLI skills for prompt authoring, t2i/i2i image",
+    "id": "cxin21/dsh-comfyui-chenxin",
+    "language": "TypeScript",
+    "name": "cxin21/dsh-comfyui-chenxin",
+    "stars": 0,
+    "updated_at": "2026-09-14T00:19:28Z",
+    "url": "https://github.com/cxin21/dsh-comfyui-chenxin"
+  },
+  {
+    "description": "Prompt engineering patterns, templates, and optimization techniques for LLMs",
+    "id": "amori27/prompt-engineering-toolkit",
+    "language": "Python",
+    "name": "amori27/prompt-engineering-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-14T00:19:06Z",
+    "url": "https://github.com/amori27/prompt-engineering-toolkit"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25067,
+    "updated_at": "2026-09-14T00:22:06Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\u2697\ufe0f AI Agent \u751f\u6001\u6bcf\u5929\u6d77\u91cf\u8d44\u8baf\uff0c99% \u662f\u566a\u97f3\u3002\u8fd9\u4e2a\u4ed3\u5e93\u53ea\u505a\u4e00\u4ef6\u4e8b\uff1a\u628a\u6700\u65b0\u788e\u7247\u4fe1\u53f7\u63d0\u7eaf\u4e3a\u4f60\u80fd\u76f4\u63a5\u7528\u7684\u67b6\u6784\u5bfc\u8f68\u3001\u8bbe\u8ba1\u6a21\u5f0f\u548c\u5de5\u7a0b\u5b9e\u8df5\u3002",
+    "id": "sou350121/Agent-Playbook",
+    "language": "PowerShell",
+    "name": "sou350121/Agent-Playbook",
+    "stars": 13,
+    "updated_at": "2026-09-14T00:16:21Z",
+    "url": "https://github.com/sou350121/Agent-Playbook"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-14T00:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.",
     "id": "astorie-ai/awesome-seedance-2-prompt",
     "language": "Shell",
@@ -14,7 +77,7 @@
     "language": "TypeScript",
     "name": "gthgomez/Babel",
     "stars": 1,
-    "updated_at": "2026-09-14T00:14:57Z",
+    "updated_at": "2026-09-14T00:17:59Z",
     "url": "https://github.com/gthgomez/Babel"
   },
   {
@@ -36,15 +99,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "\u8ba9 Hermes \u4ece\"\u964c\u751f\u5916\u5305\"\u53d8\u6210\"\u61c2\u4f60\u7684 AI \u5408\u4f19\u4eba\"\u2014\u2014\u4e00\u952e\u521d\u59cb\u5316\uff0c\u65b0\u8001\u7528\u6237\u96f6\u914d\u7f6e\u589e\u91cf\u96f6\u526f\u4f5c\u7528",
-    "id": "boainet/hermes-onboarding",
-    "language": "Python",
-    "name": "boainet/hermes-onboarding",
-    "stars": 1,
-    "updated_at": "2026-09-14T00:06:41Z",
-    "url": "https://github.com/boainet/hermes-onboarding"
-  },
-  {
     "description": "Curated collection of structured system prompts, persona definitions, and AI engineering workflows.",
     "id": "Hectormalvarez/ai-prompts",
     "language": "Shell",
@@ -52,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T00:06:11Z",
     "url": "https://github.com/Hectormalvarez/ai-prompts"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25067,
-    "updated_at": "2026-09-14T00:10:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-14T00:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-13T23:51:35Z",
+    "updated_at": "2026-09-14T00:19:55Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-09-13T23:21:05Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
     "description": "Recovering the prompts behind diffusion-generated images by searching prompt space and ranking candidates on rendered-im",
     "id": "JohnyPeters/image-to-prompt-inversion",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T23:17:17Z",
     "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
-  },
-  {
-    "description": "Builds the system prompt that decides how Mavis sounds, with the voice rules that stop a model reading markdown asterisk",
-    "id": "keefng8/persona-lab",
-    "language": "Python",
-    "name": "keefng8/persona-lab",
-    "stars": 0,
-    "updated_at": "2026-09-13T23:15:33Z",
-    "url": "https://github.com/keefng8/persona-lab"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-09-13T23:12:49Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "LLM world-naming pipeline in TypeScript: constrained repairable passes name districts, transit and businesses, then emit",
-    "id": "hec-ovi/urbe-namer",
-    "language": "TypeScript",
-    "name": "hec-ovi/urbe-namer",
-    "stars": 0,
-    "updated_at": "2026-09-13T23:12:31Z",
-    "url": "https://github.com/hec-ovi/urbe-namer"
   }
 ]
