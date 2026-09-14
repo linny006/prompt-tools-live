@@ -1,5 +1,149 @@
 [
   {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
+    "language": "JavaScript",
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 4378,
+    "updated_at": "2026-09-14T21:59:53Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-09-14T21:59:39Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Folium is an engineering sandbox for **agentic AI in healthcare** \u2014 not a commercial or feature-complete EHR.",
+    "id": "pedropcamellon/folium",
+    "language": "Python",
+    "name": "pedropcamellon/folium",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:59:35Z",
+    "url": "https://github.com/pedropcamellon/folium"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5965,
+    "updated_at": "2026-09-14T21:58:43Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 1,
+    "updated_at": "2026-09-14T21:56:26Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
+  },
+  {
+    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
+    "id": "cannonade-ai/cannonade",
+    "language": "TypeScript",
+    "name": "cannonade-ai/cannonade",
+    "stars": 2,
+    "updated_at": "2026-09-14T21:56:27Z",
+    "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
+    "description": "TUI for prompt engineering and testing AI endpoints, showing the raw HTTP, latency and cost of every request.",
+    "id": "petrsx/aibench",
+    "language": "Go",
+    "name": "petrsx/aibench",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:55:08Z",
+    "url": "https://github.com/petrsx/aibench"
+  },
+  {
+    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+    "id": "majoie02/agent-contract-nexus",
+    "language": "HTML",
+    "name": "majoie02/agent-contract-nexus",
+    "stars": 1,
+    "updated_at": "2026-09-14T21:54:04Z",
+    "url": "https://github.com/majoie02/agent-contract-nexus"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 1,
+    "updated_at": "2026-09-14T21:52:03Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "",
+    "id": "AminMusah/reframe",
+    "language": "TypeScript",
+    "name": "AminMusah/reframe",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:51:38Z",
+    "url": "https://github.com/AminMusah/reframe"
+  },
+  {
+    "description": "A free cross-platform editorial standard for AI writing.",
+    "id": "jposluns/cleanlanguage",
+    "language": "Python",
+    "name": "jposluns/cleanlanguage",
+    "stars": 3,
+    "updated_at": "2026-09-14T21:48:59Z",
+    "url": "https://github.com/jposluns/cleanlanguage"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 23,
+    "updated_at": "2026-09-14T21:49:05Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-14T21:59:29Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Practical CLAUDE.md and AGENTS.md patterns that make AI coding agent rules testable and enforceable.",
+    "id": "soul-sol/claude-md-patterns",
+    "language": "\u2014",
+    "name": "soul-sol/claude-md-patterns",
+    "stars": 2,
+    "updated_at": "2026-09-14T21:45:57Z",
+    "url": "https://github.com/soul-sol/claude-md-patterns"
+  },
+  {
+    "description": "Adversarial AI code review prompts for finding correctness, security, test, and CI failures.",
+    "id": "soul-sol/ai-code-review-prompts",
+    "language": "\u2014",
+    "name": "soul-sol/ai-code-review-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:45:55Z",
+    "url": "https://github.com/soul-sol/ai-code-review-prompts"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-14T21:45:37Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0-",
     "id": "leeex1/Quillan-Ronin",
     "language": "HTML",
@@ -36,21 +180,12 @@
     "url": "https://github.com/doodersrage/castcut"
   },
   {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 23,
-    "updated_at": "2026-09-14T21:41:50Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34600,
-    "updated_at": "2026-09-14T21:40:20Z",
+    "updated_at": "2026-09-14T21:49:49Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -72,15 +207,6 @@
     "url": "https://github.com/Quazmoz/agentdefaults"
   },
   {
-    "description": "TUI for prompt engineering and testing AI endpoints, showing the raw HTTP, latency and cost of every request.",
-    "id": "petrsx/aibench",
-    "language": "Go",
-    "name": "petrsx/aibench",
-    "stars": 0,
-    "updated_at": "2026-09-14T21:37:25Z",
-    "url": "https://github.com/petrsx/aibench"
-  },
-  {
     "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
     "id": "minipuft/claude-prompts-mcp",
     "language": "TypeScript",
@@ -88,15 +214,6 @@
     "stars": 186,
     "updated_at": "2026-09-14T21:38:45Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-14T21:30:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Novadiem's agentic engineering system for complex software work, with isolated specialists, durable run state and indepe",
@@ -158,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11458,
-    "updated_at": "2026-09-14T21:42:43Z",
+    "updated_at": "2026-09-14T21:51:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -216,15 +333,6 @@
     "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
   },
   {
-    "description": "",
-    "id": "AminMusah/reframe",
-    "language": "TypeScript",
-    "name": "AminMusah/reframe",
-    "stars": 0,
-    "updated_at": "2026-09-14T21:13:35Z",
-    "url": "https://github.com/AminMusah/reframe"
-  },
-  {
     "description": "\ud83e\udde0 Analyze your AI interactions to boost understanding or reveal dependency with insight from prompts and chat history.",
     "id": "guiqmaia/ai-mind-playground",
     "language": "\u2014",
@@ -275,7 +383,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22017,
-    "updated_at": "2026-09-14T21:06:52Z",
+    "updated_at": "2026-09-14T21:53:02Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T21:03:49Z",
     "url": "https://github.com/pawellach/pm-ai-prompts"
-  },
-  {
-    "description": "A premium Context Staging IDE for AI workflows. Curate, compress, and stage code payloads for LLMs with surgical precisi",
-    "id": "Stinger05189/xcerpt-app",
-    "language": "TypeScript",
-    "name": "Stinger05189/xcerpt-app",
-    "stars": 0,
-    "updated_at": "2026-09-14T21:13:41Z",
-    "url": "https://github.com/Stinger05189/xcerpt-app"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Verify civic engagement with the Zero Trust Advocacy Prompt, a framework that demands accountability from bureaucrati",
-    "id": "Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement",
-    "language": "\u2014",
-    "name": "Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement",
-    "stars": 1,
-    "updated_at": "2026-09-14T21:02:49Z",
-    "url": "https://github.com/Ardyyyyyyyy/The-Zero-Trust-Advocacy-Prompt-A-Framework-for-Civic-Engagement"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance your GitHub Copilot experience with curated prompts and instructions for diverse languages and tasks to boost ",
-    "id": "sEbas12312nft/awesome-copilot",
-    "language": "JavaScript",
-    "name": "sEbas12312nft/awesome-copilot",
-    "stars": 5,
-    "updated_at": "2026-09-14T21:02:41Z",
-    "url": "https://github.com/sEbas12312nft/awesome-copilot"
-  },
-  {
-    "description": "\ud83c\udfb6 Analyze Spotify playlists to uncover \"dating red flag\" insights using data scraping and GenAI for a fun personality br",
-    "id": "Merveil22/spotify-playlist-dating-redflag-analysis",
-    "language": "Python",
-    "name": "Merveil22/spotify-playlist-dating-redflag-analysis",
-    "stars": 1,
-    "updated_at": "2026-09-14T21:01:33Z",
-    "url": "https://github.com/Merveil22/spotify-playlist-dating-redflag-analysis"
-  },
-  {
-    "description": "ByteDance Seedance 2.0 & 2.5 prompt engineering toolkit with FTS5 search over 1,500+ community prompt cards.",
-    "id": "ardha27/seedance-prompts",
-    "language": "Python",
-    "name": "ardha27/seedance-prompts",
-    "stars": 2,
-    "updated_at": "2026-09-14T21:00:39Z",
-    "url": "https://github.com/ardha27/seedance-prompts"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-14T21:28:51Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "\ud83d\udd0d Automate job discovery on Freelancer.com with AI-driven insights and tailored project recommendations for freelancers.",
-    "id": "EpicSaleh/freelancer-opportunity-finder",
-    "language": "JavaScript",
-    "name": "EpicSaleh/freelancer-opportunity-finder",
-    "stars": 1,
-    "updated_at": "2026-09-14T20:58:39Z",
-    "url": "https://github.com/EpicSaleh/freelancer-opportunity-finder"
-  },
-  {
-    "description": "\ud83e\udd16 Engage AI in dynamic debates with this customizable Python system, featuring unique personalities, original topics, an",
-    "id": "thucutos1fpt/Italian-AI-Debater",
-    "language": "Python",
-    "name": "thucutos1fpt/Italian-AI-Debater",
-    "stars": 1,
-    "updated_at": "2026-09-14T20:58:14Z",
-    "url": "https://github.com/thucutos1fpt/Italian-AI-Debater"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Manage and reuse AI prompts from the command line with cueCLI for ChatGPT, Claude, and more\u2014simplifying your workflow",
-    "id": "tito1405/cueCLI",
-    "language": "JavaScript",
-    "name": "tito1405/cueCLI",
-    "stars": 3,
-    "updated_at": "2026-09-14T20:57:48Z",
-    "url": "https://github.com/tito1405/cueCLI"
-  },
-  {
-    "description": "Teach any AI agent (Hermes, Claude Code, Codex, OpenCode, omp itself) to drive omp \u2014 the terminal coding agent with LSP ",
-    "id": "zaharenok/omp-skill",
-    "language": "Shell",
-    "name": "zaharenok/omp-skill",
-    "stars": 0,
-    "updated_at": "2026-09-14T20:56:28Z",
-    "url": "https://github.com/zaharenok/omp-skill"
-  },
-  {
-    "description": "A plug-and-play framework for AI-assisted software development, enhancing context-aware collaboration in complex codebas",
-    "id": "JaiChaudhary07/ai-dev-assistant-framework",
-    "language": "\u2014",
-    "name": "JaiChaudhary07/ai-dev-assistant-framework",
-    "stars": 5,
-    "updated_at": "2026-09-14T20:55:13Z",
-    "url": "https://github.com/JaiChaudhary07/ai-dev-assistant-framework"
-  },
-  {
-    "description": "Quality-process skills, rules, and playbooks that make cheaper AI coding agents produce near-frontier output. Ports for ",
-    "id": "franciszver/ways-of-working",
-    "language": "Shell",
-    "name": "franciszver/ways-of-working",
-    "stars": 0,
-    "updated_at": "2026-09-14T20:54:59Z",
-    "url": "https://github.com/franciszver/ways-of-working"
   }
 ]
