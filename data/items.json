@@ -1,5 +1,122 @@
 [
   {
+    "description": "\u5343\u7b14\u4e00\u6587 Novel \u2014 \u4eba AI \u5171\u5199\u7684\u957f\u7bc7\u7f51\u6587\u521b\u4f5c\u53f0\uff1a\u6761\u76ee\u5316\u4e16\u754c\u4e66 \u00b7 \u6b63\u5219 must \u5951\u7ea6\uff08\u786e\u5b9a\u6027\u590d\u68c0\uff0c\u8fdd\u89c4\u62e6\u4f4f\u9501\u5b9a\uff09\u00b7 \u4e09\u5c42\u5ba1\u6821\uff08\u5f15\u8bc1\u9a8c\u771f + \u6295\u7968\uff09\u00b7 \u540c\u4eba\u6587\u5916\u90e8\u5bfc\u5165\u53ef\u6574\u6279\u64a4\u9500 \u00b7 \u5347\u7ea7\u4e0d\u52a8\u4e66\u7a3f \u00b7 BYOK \u5168\u672c\u5730 \u00b7 MIT\u3002",
+    "id": "GLFzr/QianBi-Novel",
+    "language": "Python",
+    "name": "GLFzr/QianBi-Novel",
+    "stars": 8,
+    "updated_at": "2026-09-14T20:29:00Z",
+    "url": "https://github.com/GLFzr/QianBi-Novel"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 72114,
+    "updated_at": "2026-09-14T20:28:33Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "",
+    "id": "AminMusah/reframe",
+    "language": "TypeScript",
+    "name": "AminMusah/reframe",
+    "stars": 0,
+    "updated_at": "2026-09-14T20:26:36Z",
+    "url": "https://github.com/AminMusah/reframe"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-14T20:25:40Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Prompt security scanner and source-grounded multi-agent research studio",
+    "id": "mzatylny/aegis_prompt_studio",
+    "language": "Python",
+    "name": "mzatylny/aegis_prompt_studio",
+    "stars": 1,
+    "updated_at": "2026-09-14T20:23:35Z",
+    "url": "https://github.com/mzatylny/aegis_prompt_studio"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4781,
+    "updated_at": "2026-09-14T20:29:38Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 10,
+    "updated_at": "2026-09-14T20:21:51Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-14T20:21:21Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-14T20:21:12Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Canonical AI Gateway for Protocol Engineering | \u6709\u6a5f\u7684\u601d\u8003\u306e\u4eba\u9593\u3068\u76f4\u7dda\u7684\u601d\u8003\u306eAI\u3092\u540c\u671f\u3059\u308b\u5171\u5275\u898f\u5f8b",
+    "id": "AtsutaEito/protocol-engineering",
+    "language": "HTML",
+    "name": "AtsutaEito/protocol-engineering",
+    "stars": 0,
+    "updated_at": "2026-09-14T20:20:14Z",
+    "url": "https://github.com/AtsutaEito/protocol-engineering"
+  },
+  {
+    "description": "A free cross-platform editorial standard for AI writing.",
+    "id": "jposluns/cleanlanguage",
+    "language": "Python",
+    "name": "jposluns/cleanlanguage",
+    "stars": 3,
+    "updated_at": "2026-09-14T20:18:56Z",
+    "url": "https://github.com/jposluns/cleanlanguage"
+  },
+  {
+    "description": "Claude Code plugin with agent skills harvested from real corrections, not invented \u2014 every SKILL.md passes a determinist",
+    "id": "64x-lunicorn/skills",
+    "language": "TypeScript",
+    "name": "64x-lunicorn/skills",
+    "stars": 0,
+    "updated_at": "2026-09-14T20:15:30Z",
+    "url": "https://github.com/64x-lunicorn/skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-14T20:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
     "id": "tubasa821004-hash/social-manipulation-radar",
     "language": "HTML",
@@ -16,15 +133,6 @@
     "stars": 56,
     "updated_at": "2026-09-14T20:14:36Z",
     "url": "https://github.com/modelstudioai/skills"
-  },
-  {
-    "description": "Canonical AI Gateway for Protocol Engineering | \u6709\u6a5f\u7684\u601d\u8003\u306e\u4eba\u9593\u3068\u76f4\u7dda\u7684\u601d\u8003\u306eAI\u3092\u540c\u671f\u3059\u308b\u5171\u5275\u898f\u5f8b",
-    "id": "AtsutaEito/protocol-engineering",
-    "language": "HTML",
-    "name": "AtsutaEito/protocol-engineering",
-    "stars": 0,
-    "updated_at": "2026-09-14T20:13:26Z",
-    "url": "https://github.com/AtsutaEito/protocol-engineering"
   },
   {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
@@ -72,15 +180,6 @@
     "url": "https://github.com/ucsandman/Agnostic-AI"
   },
   {
-    "description": "",
-    "id": "AminMusah/reframe",
-    "language": "TypeScript",
-    "name": "AminMusah/reframe",
-    "stars": 0,
-    "updated_at": "2026-09-14T20:09:23Z",
-    "url": "https://github.com/AminMusah/reframe"
-  },
-  {
     "description": "AI Agent \u5f00\u6e90\u4e66\u5355/\u6559\u7a0b\u5408\u96c6 | Awesome list of LLM Agent books & courses",
     "id": "gotonote/awesome-agent-boom",
     "language": "Python",
@@ -122,7 +221,7 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 23,
-    "updated_at": "2026-09-14T20:04:27Z",
+    "updated_at": "2026-09-14T20:23:46Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
@@ -162,15 +261,6 @@
     "url": "https://github.com/AlexLvGulyaev/PromptReview"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-14T20:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Professional skills for nasty bugs, hard decisions and reliable software delivery with Claude Code, Codex and other AI a",
     "id": "simonasrazm/skills",
     "language": "TypeScript",
@@ -203,7 +293,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25098,
-    "updated_at": "2026-09-14T20:07:47Z",
+    "updated_at": "2026-09-14T20:29:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -239,17 +329,8 @@
     "language": "Python",
     "name": "omar-y-abdi/furl-ctx",
     "stars": 5,
-    "updated_at": "2026-09-14T20:03:05Z",
+    "updated_at": "2026-09-14T20:21:27Z",
     "url": "https://github.com/omar-y-abdi/furl-ctx"
-  },
-  {
-    "description": "Claude Code plugin with agent skills harvested from real corrections, not invented \u2014 every SKILL.md passes a determinist",
-    "id": "64x-lunicorn/skills",
-    "language": "TypeScript",
-    "name": "64x-lunicorn/skills",
-    "stars": 0,
-    "updated_at": "2026-09-14T19:39:34Z",
-    "url": "https://github.com/64x-lunicorn/skills"
   },
   {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
@@ -351,15 +432,6 @@
     "url": "https://github.com/liuxm2011/vibesys"
   },
   {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-09-14T19:21:07Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
     "description": "Token-efficient coding-agent skill for Claude Code: less context, tool noise, unnecessary edits and retries \u2014 result-fir",
     "id": "ipeterpetrus/samewrite",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T19:19:51Z",
     "url": "https://github.com/osteodystrophysalmonellatyphimurium635/OpenJarvisDashboard"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-14T20:06:47Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-09-14T19:19:17Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1193 questions & 52 RAG types), system design scenarios, arch",
-    "id": "ather-techie/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "ather-techie/rag-interview-system",
-    "stars": 150,
-    "updated_at": "2026-09-14T19:20:19Z",
-    "url": "https://github.com/ather-techie/rag-interview-system"
-  },
-  {
-    "description": "Provide a native mjlab environment for Project-Instinct to support reinforcement learning in humanoid whole-body control",
-    "id": "PHOENIX01ALX/InstinctMJ",
-    "language": "Python",
-    "name": "PHOENIX01ALX/InstinctMJ",
-    "stars": 2,
-    "updated_at": "2026-09-14T19:18:35Z",
-    "url": "https://github.com/PHOENIX01ALX/InstinctMJ"
-  },
-  {
-    "description": "Package code context into clean markdown for LLM prompts using a minimalist, lightweight tool that respects .gitignore a",
-    "id": "Crystainexhaustible329/pack-my-code",
-    "language": "Lua",
-    "name": "Crystainexhaustible329/pack-my-code",
-    "stars": 0,
-    "updated_at": "2026-09-14T19:18:12Z",
-    "url": "https://github.com/Crystainexhaustible329/pack-my-code"
-  },
-  {
-    "description": "Provide structured markdown guides to teach AI assistants how to complete complex React Native engineering tasks efficie",
-    "id": "Marshanda14816/agent-skills",
-    "language": "\u2014",
-    "name": "Marshanda14816/agent-skills",
-    "stars": 2,
-    "updated_at": "2026-09-14T19:18:03Z",
-    "url": "https://github.com/Marshanda14816/agent-skills"
-  },
-  {
-    "description": "Manage and track local stock watchlists and positions with a desktop tool using Vue 3, Electron, Python, and SQLite for ",
-    "id": "GhaziBukhari/Stocktool-for-nga",
-    "language": "Vue",
-    "name": "GhaziBukhari/Stocktool-for-nga",
-    "stars": 1,
-    "updated_at": "2026-09-14T19:17:32Z",
-    "url": "https://github.com/GhaziBukhari/Stocktool-for-nga"
-  },
-  {
-    "description": "Develop a framework that simplifies building interactive web interfaces using reusable components and modular design pri",
-    "id": "SURFLIN2030/swing-skills",
-    "language": "\u2014",
-    "name": "SURFLIN2030/swing-skills",
-    "stars": 1,
-    "updated_at": "2026-09-14T19:17:29Z",
-    "url": "https://github.com/SURFLIN2030/swing-skills"
   }
 ]
