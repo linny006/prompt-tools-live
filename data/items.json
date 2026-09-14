@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent \u2014 botdirectory.ai",
+    "id": "elie222/botdirectory.ai",
+    "language": "Astro",
+    "name": "elie222/botdirectory.ai",
+    "stars": 185,
+    "updated_at": "2026-09-14T19:57:59Z",
+    "url": "https://github.com/elie222/botdirectory.ai"
+  },
+  {
+    "description": "Professional skills for nasty bugs, hard decisions and reliable software delivery with Claude Code, Codex and other AI a",
+    "id": "simonasrazm/skills",
+    "language": "TypeScript",
+    "name": "simonasrazm/skills",
+    "stars": 3,
+    "updated_at": "2026-09-14T19:58:36Z",
+    "url": "https://github.com/simonasrazm/skills"
+  },
+  {
+    "description": "Responsive web application for performing AI-assisted tasks, such as summarization, translation, explanation and code ge",
+    "id": "lianeheidemann/ai-prompt-studio",
+    "language": "Python",
+    "name": "lianeheidemann/ai-prompt-studio",
+    "stars": 1,
+    "updated_at": "2026-09-14T19:56:14Z",
+    "url": "https://github.com/lianeheidemann/ai-prompt-studio"
+  },
+  {
+    "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
+    "id": "jamestexas/agents",
+    "language": "JavaScript",
+    "name": "jamestexas/agents",
+    "stars": 2,
+    "updated_at": "2026-09-14T19:51:23Z",
+    "url": "https://github.com/jamestexas/agents"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25098,
+    "updated_at": "2026-09-14T19:55:10Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-14T19:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
+    "id": "coco-research/coco",
+    "language": "HTML",
+    "name": "coco-research/coco",
+    "stars": 221,
+    "updated_at": "2026-09-14T19:53:14Z",
+    "url": "https://github.com/coco-research/coco"
+  },
+  {
     "description": "A stack-agnostic, human-in-the-loop AI development workflow kit. The kit owns the workflow; your project owns the stack.",
     "id": "rikilamadrid/pathfinder",
     "language": "JavaScript",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "omar-y-abdi/furl-ctx",
     "stars": 5,
-    "updated_at": "2026-09-14T19:38:40Z",
+    "updated_at": "2026-09-14T19:59:40Z",
     "url": "https://github.com/omar-y-abdi/furl-ctx"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-09-14T19:36:09Z",
     "url": "https://github.com/gaofeng21cn/redcube-ai"
-  },
-  {
-    "description": "Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in",
-    "id": "jamestexas/agents",
-    "language": "JavaScript",
-    "name": "jamestexas/agents",
-    "stars": 2,
-    "updated_at": "2026-09-14T19:35:31Z",
-    "url": "https://github.com/jamestexas/agents"
   },
   {
     "description": "Agentless prompt change intelligence + eval \u2014 watch the prompts in your codebase, detect changes, and eval them with zer",
@@ -97,15 +151,6 @@
     "stars": 5064,
     "updated_at": "2026-09-14T19:33:00Z",
     "url": "https://github.com/Kiln-AI/Kiln"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-14T19:30:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "ipeterpetrus/samewrite",
     "stars": 1,
-    "updated_at": "2026-09-14T19:29:30Z",
+    "updated_at": "2026-09-14T19:56:04Z",
     "url": "https://github.com/ipeterpetrus/samewrite"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-14T19:42:12Z",
+    "updated_at": "2026-09-14T19:58:01Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T19:12:00Z",
     "url": "https://github.com/marcelgundelach284-ai/ghcopilot-taskbar-gui"
-  },
-  {
-    "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
-    "id": "Magma1321/mythos-agent-pipe",
-    "language": "HTML",
-    "name": "Magma1321/mythos-agent-pipe",
-    "stars": 148,
-    "updated_at": "2026-09-14T19:11:52Z",
-    "url": "https://github.com/Magma1321/mythos-agent-pipe"
-  },
-  {
-    "description": "\ud83e\udd16 Analyze financial data effortlessly with FinRobot, an open-source AI agent platform powered by large language models f",
-    "id": "Ludwig-H-PW/FinRobot",
-    "language": "Jupyter Notebook",
-    "name": "Ludwig-H-PW/FinRobot",
-    "stars": 4,
-    "updated_at": "2026-09-14T19:10:54Z",
-    "url": "https://github.com/Ludwig-H-PW/FinRobot"
-  },
-  {
-    "description": "\ud83d\udcac Build a high-performance, real-time chat application with Django, Go, PostgreSQL, and Next.js for seamless user experi",
-    "id": "panchalsagar303/Universal-Chat",
-    "language": "Python",
-    "name": "panchalsagar303/Universal-Chat",
-    "stars": 0,
-    "updated_at": "2026-09-14T19:10:28Z",
-    "url": "https://github.com/panchalsagar303/Universal-Chat"
-  },
-  {
-    "description": "\ud83d\ude80 Optimize large-scale queries with this Spring Boot app, efficiently processing 1 billion rows through advanced memory ",
-    "id": "muquisjose/QueryOptimizer",
-    "language": "JavaScript",
-    "name": "muquisjose/QueryOptimizer",
-    "stars": 0,
-    "updated_at": "2026-09-14T19:10:23Z",
-    "url": "https://github.com/muquisjose/QueryOptimizer"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Bundle your code effortlessly with Srcpack, optimizing it for LLMs by creating clear, semantic contexts in seconds.",
-    "id": "noumanrahoo/srcpack",
-    "language": "TypeScript",
-    "name": "noumanrahoo/srcpack",
-    "stars": 1,
-    "updated_at": "2026-09-14T19:09:08Z",
-    "url": "https://github.com/noumanrahoo/srcpack"
   }
 ]
