@@ -1,5 +1,104 @@
 [
   {
+    "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0-",
+    "id": "leeex1/Quillan-Ronin",
+    "language": "HTML",
+    "name": "leeex1/Quillan-Ronin",
+    "stars": 27,
+    "updated_at": "2026-09-14T21:42:11Z",
+    "url": "https://github.com/leeex1/Quillan-Ronin"
+  },
+  {
+    "description": "My Claude Code stack: 42 skills, 12 subagent personas, and global engineering rules, symlinked into any project by a sta",
+    "id": "orrrrli/ai-engineering-stack",
+    "language": "Python",
+    "name": "orrrrli/ai-engineering-stack",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:42:06Z",
+    "url": "https://github.com/orrrrli/ai-engineering-stack"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 8,
+    "updated_at": "2026-09-14T21:41:32Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
+    "id": "doodersrage/castcut",
+    "language": "TypeScript",
+    "name": "doodersrage/castcut",
+    "stars": 1,
+    "updated_at": "2026-09-14T21:40:26Z",
+    "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 23,
+    "updated_at": "2026-09-14T21:41:50Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34600,
+    "updated_at": "2026-09-14T21:40:20Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Vibe-coded Avalonia app to manage prompts library locally.",
+    "id": "StraykerPL/PromptManager",
+    "language": "C#",
+    "name": "StraykerPL/PromptManager",
+    "stars": 1,
+    "updated_at": "2026-09-14T21:38:58Z",
+    "url": "https://github.com/StraykerPL/PromptManager"
+  },
+  {
+    "description": "Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie",
+    "id": "Quazmoz/agentdefaults",
+    "language": "Python",
+    "name": "Quazmoz/agentdefaults",
+    "stars": 1,
+    "updated_at": "2026-09-14T21:37:29Z",
+    "url": "https://github.com/Quazmoz/agentdefaults"
+  },
+  {
+    "description": "TUI for prompt engineering and testing AI endpoints, showing the raw HTTP, latency and cost of every request.",
+    "id": "petrsx/aibench",
+    "language": "Go",
+    "name": "petrsx/aibench",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:37:25Z",
+    "url": "https://github.com/petrsx/aibench"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 186,
+    "updated_at": "2026-09-14T21:38:45Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-14T21:30:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Novadiem's agentic engineering system for complex software work, with isolated specialists, durable run state and indepe",
     "id": "Novadiem-Studio/bureau",
     "language": "Shell",
@@ -16,15 +115,6 @@
     "stars": 122,
     "updated_at": "2026-09-14T21:27:31Z",
     "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "TUI for prompt engineering and testing AI endpoints, showing the raw HTTP, latency and cost of every request.",
-    "id": "petrsx/aibench",
-    "language": "Go",
-    "name": "petrsx/aibench",
-    "stars": 0,
-    "updated_at": "2026-09-14T21:27:06Z",
-    "url": "https://github.com/petrsx/aibench"
   },
   {
     "description": "[Emacs] Compose LLM prompts from building blocks.",
@@ -54,15 +144,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 23,
-    "updated_at": "2026-09-14T21:23:16Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -77,7 +158,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11458,
-    "updated_at": "2026-09-14T21:20:22Z",
+    "updated_at": "2026-09-14T21:42:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -115,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T21:17:15Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-14T21:15:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
@@ -360,15 +432,6 @@
     "url": "https://github.com/zaharenok/omp-skill"
   },
   {
-    "description": "My Claude Code stack: 42 skills, 12 subagent personas, and global engineering rules, symlinked into any project by a sta",
-    "id": "orrrrli/ai-engineering-stack",
-    "language": "Python",
-    "name": "orrrrli/ai-engineering-stack",
-    "stars": 0,
-    "updated_at": "2026-09-14T20:55:29Z",
-    "url": "https://github.com/orrrrli/ai-engineering-stack"
-  },
-  {
     "description": "A plug-and-play framework for AI-assisted software development, enhancing context-aware collaboration in complex codebas",
     "id": "JaiChaudhary07/ai-dev-assistant-framework",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T20:54:59Z",
     "url": "https://github.com/franciszver/ways-of-working"
-  },
-  {
-    "description": "AI Avatars Arena: Engage GPT-based avatars in competitive debates across law, logic, art, and philosophy. Test unique AI",
-    "id": "Tymooh/GPT-DUEL-ARENA",
-    "language": "\u2014",
-    "name": "Tymooh/GPT-DUEL-ARENA",
-    "stars": 0,
-    "updated_at": "2026-09-14T20:54:46Z",
-    "url": "https://github.com/Tymooh/GPT-DUEL-ARENA"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-09-14T20:53:20Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34599,
-    "updated_at": "2026-09-14T20:52:00Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Agentforce and Data Cloud portfolio build for a fictional HVAC company. Two agents: a customer portal service agent and ",
-    "id": "Camden-sung/agentforce-portfolio",
-    "language": "JavaScript",
-    "name": "Camden-sung/agentforce-portfolio",
-    "stars": 0,
-    "updated_at": "2026-09-14T20:49:54Z",
-    "url": "https://github.com/Camden-sung/agentforce-portfolio"
-  },
-  {
-    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "id": "github/awesome-copilot",
-    "language": "JavaScript",
-    "name": "github/awesome-copilot",
-    "stars": 39001,
-    "updated_at": "2026-09-14T20:49:15Z",
-    "url": "https://github.com/github/awesome-copilot"
-  },
-  {
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "id": "AgustiPuigserver/opus-prompt-architect",
-    "language": "HTML",
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "stars": 125,
-    "updated_at": "2026-09-14T20:49:15Z",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25100,
-    "updated_at": "2026-09-14T21:25:33Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
