@@ -1,12 +1,93 @@
 [
   {
+    "description": "Code has coverage. Your prompts should too. CausEval finds behavioral rules your LLM evals don\u2019t actually protect.",
+    "id": "aravinda-1402/causeval",
+    "language": "TypeScript",
+    "name": "aravinda-1402/causeval",
+    "stars": 0,
+    "updated_at": "2026-09-15T01:45:16Z",
+    "url": "https://github.com/aravinda-1402/causeval"
+  },
+  {
+    "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
+    "id": "imMamdouhaboammar/get-fable",
+    "language": "TypeScript",
+    "name": "imMamdouhaboammar/get-fable",
+    "stars": 4,
+    "updated_at": "2026-09-15T01:42:59Z",
+    "url": "https://github.com/imMamdouhaboammar/get-fable"
+  },
+  {
+    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
+    "id": "aliasunder/agent-plugins",
+    "language": "\u2014",
+    "name": "aliasunder/agent-plugins",
+    "stars": 0,
+    "updated_at": "2026-09-15T01:42:35Z",
+    "url": "https://github.com/aliasunder/agent-plugins"
+  },
+  {
+    "description": "The enterprise AI governance and safety control plane for AI agent prompts",
+    "id": "spectrayan/promptly",
+    "language": "Java",
+    "name": "spectrayan/promptly",
+    "stars": 4,
+    "updated_at": "2026-09-15T01:41:54Z",
+    "url": "https://github.com/spectrayan/promptly"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 2,
+    "updated_at": "2026-09-15T01:40:16Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "This is an experimental project for text generation using Large Language Models (LLMs). It covers parameter comparison, ",
+    "id": "PhiLia0933/AI-Experiment",
+    "language": "Python",
+    "name": "PhiLia0933/AI-Experiment",
+    "stars": 0,
+    "updated_at": "2026-09-15T01:39:54Z",
+    "url": "https://github.com/PhiLia0933/AI-Experiment"
+  },
+  {
+    "description": "brain in a vat",
+    "id": "takealook97/vat",
+    "language": "Go",
+    "name": "takealook97/vat",
+    "stars": 1,
+    "updated_at": "2026-09-15T01:39:30Z",
+    "url": "https://github.com/takealook97/vat"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 72153,
+    "updated_at": "2026-09-15T01:38:38Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
     "id": "winstonkoh87/Athena-Public",
     "language": "Python",
     "name": "winstonkoh87/Athena-Public",
     "stars": 587,
-    "updated_at": "2026-09-15T01:36:07Z",
+    "updated_at": "2026-09-15T01:38:19Z",
     "url": "https://github.com/winstonkoh87/Athena-Public"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-15T01:36:14Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A curated collection of GPT Image 2.5 prompts for image generation and editing. Explore creative ideas with SeeAPI.",
@@ -54,15 +135,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
-    "id": "aliasunder/agent-plugins",
-    "language": "\u2014",
-    "name": "aliasunder/agent-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-15T01:31:18Z",
-    "url": "https://github.com/aliasunder/agent-plugins"
-  },
-  {
     "description": "A lightweight anti-hallucination wrapper for LLMs using Chain-of-Verification.",
     "id": "Muhtasim-Munif-Fahim/self-correct-agent",
     "language": "Python",
@@ -72,15 +144,6 @@
     "url": "https://github.com/Muhtasim-Munif-Fahim/self-correct-agent"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-15T01:30:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
     "id": "doodersrage/castcut",
     "language": "TypeScript",
@@ -88,6 +151,15 @@
     "stars": 1,
     "updated_at": "2026-09-15T01:29:10Z",
     "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25102,
+    "updated_at": "2026-09-15T01:28:51Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -270,15 +342,6 @@
     "url": "https://github.com/johnqtcg/awesome-skills"
   },
   {
-    "description": "The enterprise AI governance and safety control plane for AI agent prompts",
-    "id": "spectrayan/promptly",
-    "language": "Java",
-    "name": "spectrayan/promptly",
-    "stars": 4,
-    "updated_at": "2026-09-15T01:35:36Z",
-    "url": "https://github.com/spectrayan/promptly"
-  },
-  {
     "description": "AI-coding pitfalls & best practices, written from the AI's first-person POV \u2014 76 entries across 5 tools (Claude Code, Cu",
     "id": "XuebinMa/AIWiki",
     "language": "MDX",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T01:12:14Z",
     "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-09-15T01:12:13Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
-  },
-  {
-    "description": "Build LLM Agents in 2026 \ud83d\ude80 - LangChain & LangGraph Projects & Tutorials",
-    "id": "Asir11/langgraph-agentic-workflows-tutorial",
-    "language": "HTML",
-    "name": "Asir11/langgraph-agentic-workflows-tutorial",
-    "stars": 1,
-    "updated_at": "2026-09-15T01:11:49Z",
-    "url": "https://github.com/Asir11/langgraph-agentic-workflows-tutorial"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-09-15T01:11:49Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-09-15T01:11:30Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Build software projects using AI chat interactions instead of manual file management and code editing.",
-    "id": "fonscutup654/ELAI-DevKit",
-    "language": "Python",
-    "name": "fonscutup654/ELAI-DevKit",
-    "stars": 1,
-    "updated_at": "2026-09-15T01:11:13Z",
-    "url": "https://github.com/fonscutup654/ELAI-DevKit"
-  },
-  {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 1,
-    "updated_at": "2026-09-15T01:32:35Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-09-15T01:11:07Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
   }
 ]
