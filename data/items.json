@@ -1,5 +1,140 @@
 [
   {
+    "description": "A multi-agent system that automates software project construction.",
+    "id": "PyAimind/MetaForge",
+    "language": "Python",
+    "name": "PyAimind/MetaForge",
+    "stars": 1,
+    "updated_at": "2026-09-15T10:14:25Z",
+    "url": "https://github.com/PyAimind/MetaForge"
+  },
+  {
+    "description": "Curated copy-paste AI prompts for student developers - disciplined workflows for coding agents that verify, don't guess",
+    "id": "shauryagangrade/awesome-ai-prompts",
+    "language": "Shell",
+    "name": "shauryagangrade/awesome-ai-prompts",
+    "stars": 57,
+    "updated_at": "2026-09-15T10:13:55Z",
+    "url": "https://github.com/shauryagangrade/awesome-ai-prompts"
+  },
+  {
+    "description": "AI-powered MongoDB Query (MQL) generation engine with prompt engineering, validation, and analytics for natural language",
+    "id": "T-Stephen/ai-mql-engine",
+    "language": "JavaScript",
+    "name": "T-Stephen/ai-mql-engine",
+    "stars": 2,
+    "updated_at": "2026-09-15T10:13:08Z",
+    "url": "https://github.com/T-Stephen/ai-mql-engine"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-15T10:12:01Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "AI work, carried forward - a prompt-based framework for focused execution, structured handoff and continuity across sess",
+    "id": "eddlev/vm4ai-air-kit",
+    "language": "Python",
+    "name": "eddlev/vm4ai-air-kit",
+    "stars": 2,
+    "updated_at": "2026-09-15T10:11:37Z",
+    "url": "https://github.com/eddlev/vm4ai-air-kit"
+  },
+  {
+    "description": "DSH PUA \u2014 \u4e3a DeepSeek Harness \u63d0\u4f9b PUA \u4efb\u52a1\u63a8\u8fdb\u3001\u89d2\u8272\u98ce\u5473\u3001\u9a8c\u6536\u5faa\u73af\u548c\u8fd0\u884c\u72b6\u6001\u5361\u7247 \u00b7 PUA task persistence, personas, verification loops, and live",
+    "id": "MichengAI/dsh-pua",
+    "language": "TypeScript",
+    "name": "MichengAI/dsh-pua",
+    "stars": 1,
+    "updated_at": "2026-09-15T10:10:04Z",
+    "url": "https://github.com/MichengAI/dsh-pua"
+  },
+  {
+    "description": "Mini-sito interattivo per una lezione su LLM, agenti e gli strumenti Anthropic (Claude Code, Cowork, Design). Vanilla, o",
+    "id": "matteoscurati/cc-claude-course",
+    "language": "HTML",
+    "name": "matteoscurati/cc-claude-course",
+    "stars": 0,
+    "updated_at": "2026-09-15T10:08:52Z",
+    "url": "https://github.com/matteoscurati/cc-claude-course"
+  },
+  {
+    "description": "730 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a ",
+    "id": "kydlikebtc/awesome-grokbot",
+    "language": "Python",
+    "name": "kydlikebtc/awesome-grokbot",
+    "stars": 302,
+    "updated_at": "2026-09-15T10:07:19Z",
+    "url": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4475,
+    "updated_at": "2026-09-15T10:08:30Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "The most expensive bug in AI-assisted building is shipping the wrong thing, well. A CLAUDE.md for PM + eng teams using C",
+    "id": "sohaibt/product-mode",
+    "language": "TypeScript",
+    "name": "sohaibt/product-mode",
+    "stars": 53,
+    "updated_at": "2026-09-15T10:05:31Z",
+    "url": "https://github.com/sohaibt/product-mode"
+  },
+  {
+    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
+    "id": "juniorbaixista4/b2b-outreach-orchestrator",
+    "language": "HTML",
+    "name": "juniorbaixista4/b2b-outreach-orchestrator",
+    "stars": 5,
+    "updated_at": "2026-09-15T10:03:30Z",
+    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-15T10:01:10Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Launch AI coding agents with your instructions, memory and usage tracking in one central workspace \u2014 and nothing left be",
+    "id": "ntatschner/loadout-cli",
+    "language": "C#",
+    "name": "ntatschner/loadout-cli",
+    "stars": 1,
+    "updated_at": "2026-09-15T10:00:40Z",
+    "url": "https://github.com/ntatschner/loadout-cli"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25116,
+    "updated_at": "2026-09-15T10:00:39Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-15T10:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
     "id": "J-nowcow/awesome-korean-agent-skills",
     "language": "\u2014",
@@ -27,15 +162,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-15T09:58:27Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -43,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T09:58:12Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Curated copy-paste AI prompts for student developers - disciplined workflows for coding agents that verify, don't guess",
-    "id": "shauryagangrade/awesome-ai-prompts",
-    "language": "Shell",
-    "name": "shauryagangrade/awesome-ai-prompts",
-    "stars": 57,
-    "updated_at": "2026-09-15T09:57:28Z",
-    "url": "https://github.com/shauryagangrade/awesome-ai-prompts"
   },
   {
     "description": "Finish-First Autonomous Agent Loop for Claude Opus 4.7 \u2013 2026 Edition",
@@ -77,7 +194,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34631,
-    "updated_at": "2026-09-15T09:56:18Z",
+    "updated_at": "2026-09-15T10:12:41Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -121,7 +238,7 @@
     "id": "jnMetaCode/agency-agents-zh",
     "language": "Shell",
     "name": "jnMetaCode/agency-agents-zh",
-    "stars": 20680,
+    "stars": 20681,
     "updated_at": "2026-09-15T09:48:41Z",
     "url": "https://github.com/jnMetaCode/agency-agents-zh"
   },
@@ -167,17 +284,8 @@
     "language": "Ruby",
     "name": "cura-yjk/pera-flash",
     "stars": 0,
-    "updated_at": "2026-09-15T09:46:48Z",
+    "updated_at": "2026-09-15T10:10:08Z",
     "url": "https://github.com/cura-yjk/pera-flash"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-15T09:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI development playbook for ChatGPT, Codex & GitHub \u2014 context engineering, agent governance, task routing, validation, r",
@@ -198,15 +306,6 @@
     "url": "https://github.com/minipuft/claude-prompts-mcp"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25117,
-    "updated_at": "2026-09-15T09:59:07Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Digitizing various Bantu languages' dictionaries using OCR and Vision LLMs following Cross-Linguistic Data Format (CLDF)",
     "id": "harshamarsha/bantu_hiwi",
     "language": "Jupyter Notebook",
@@ -221,7 +320,7 @@
     "language": "JavaScript",
     "name": "sdsrss/agentsmd",
     "stars": 0,
-    "updated_at": "2026-09-15T09:42:48Z",
+    "updated_at": "2026-09-15T10:00:28Z",
     "url": "https://github.com/sdsrss/agentsmd"
   },
   {
@@ -229,7 +328,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27960,
+    "stars": 27961,
     "updated_at": "2026-09-15T09:42:27Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -320,7 +419,7 @@
     "language": "Rust",
     "name": "lilhammerfun/clumsies",
     "stars": 18,
-    "updated_at": "2026-09-15T09:34:13Z",
+    "updated_at": "2026-09-15T10:12:26Z",
     "url": "https://github.com/lilhammerfun/clumsies"
   },
   {
@@ -338,7 +437,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22034,
-    "updated_at": "2026-09-15T09:25:10Z",
+    "updated_at": "2026-09-15T10:13:22Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 51,
     "updated_at": "2026-09-15T09:24:49Z",
     "url": "https://github.com/ariffazil/arifOS"
-  },
-  {
-    "description": "\u26a1\ufe0f \u4e13\u4e3a AI \u7f16\u7a0b\u52a9\u624b\u6253\u9020\u7684\u6a21\u5757\u5316\u5f00\u53d1\u8005\u6280\u80fd\u4e0e\u5de5\u7a0b\u5de5\u4f5c\u6d41\u5408\u96c6",
-    "id": "hydrz/dev-skills",
-    "language": "JavaScript",
-    "name": "hydrz/dev-skills",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:24:29Z",
-    "url": "https://github.com/hydrz/dev-skills"
-  },
-  {
-    "description": "Inspectable context compression for LLM conversations: turn older history into visible scaffold state, keep recent turns",
-    "id": "hermes-labs-ai/langstate",
-    "language": "Python",
-    "name": "hermes-labs-ai/langstate",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:45:21Z",
-    "url": "https://github.com/hermes-labs-ai/langstate"
-  },
-  {
-    "description": "FinBERT+LoRA hits 0.978 macro F1 at 50ms and zero API cost, matching GPT-4o-mini few-shot. A six-tier financial sentimen",
-    "id": "fj2039/finsentinel",
-    "language": "Jupyter Notebook",
-    "name": "fj2039/finsentinel",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:23:05Z",
-    "url": "https://github.com/fj2039/finsentinel"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-09-15T09:21:07Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "Human-first Codex skill for believable dialogue, dramatic scenes, purposeful storyboards, and video-model prompts.",
-    "id": "niuyupeng/role2reel",
-    "language": "Python",
-    "name": "niuyupeng/role2reel",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:20:22Z",
-    "url": "https://github.com/niuyupeng/role2reel"
-  },
-  {
-    "description": "Your coding agent starts every session knowing nothing about your project. One line, and it writes its own memory from y",
-    "id": "NirDiamant/Agentic_Engineering",
-    "language": "Python",
-    "name": "NirDiamant/Agentic_Engineering",
-    "stars": 1,
-    "updated_at": "2026-09-15T09:18:25Z",
-    "url": "https://github.com/NirDiamant/Agentic_Engineering"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:17:54Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Create polished presentations and clear owner briefs with Codex skills for visual decks, intent validation, and outcome ",
-    "id": "Yazanw6234/presentation-delivery-skills",
-    "language": "\u2014",
-    "name": "Yazanw6234/presentation-delivery-skills",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:17:15Z",
-    "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "Mines corrections from your AI agent's chat logs to catch recurring drift and overclaiming before the next response ship",
-    "id": "hermes-labs-ai/hermeneutic",
-    "language": "Python",
-    "name": "hermes-labs-ai/hermeneutic",
-    "stars": 7,
-    "updated_at": "2026-09-15T09:16:53Z",
-    "url": "https://github.com/hermes-labs-ai/hermeneutic"
-  },
-  {
-    "description": "Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference.",
-    "id": "Ak863153/ChatGPT-Persona-Voice",
-    "language": "\u2014",
-    "name": "Ak863153/ChatGPT-Persona-Voice",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:16:23Z",
-    "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
-  },
-  {
-    "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI i",
-    "id": "kadevin/ilab-conjure",
-    "language": "JavaScript",
-    "name": "kadevin/ilab-conjure",
-    "stars": 700,
-    "updated_at": "2026-09-15T09:17:52Z",
-    "url": "https://github.com/kadevin/ilab-conjure"
   }
 ]
