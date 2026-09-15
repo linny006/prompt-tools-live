@@ -1,5 +1,167 @@
 [
   {
+    "description": "AI-powered Japanese tutor app that corrects sentences with structured LLM feedback and generates flashcards from your co",
+    "id": "cura-yjk/pera-flash",
+    "language": "Ruby",
+    "name": "cura-yjk/pera-flash",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:15:03Z",
+    "url": "https://github.com/cura-yjk/pera-flash"
+  },
+  {
+    "description": "Turn natural-language search queries into structured JSON filters using the Claude API. Production-grade intent extracti",
+    "id": "jd215/claude-intent-extraction-demo",
+    "language": "Vue",
+    "name": "jd215/claude-intent-extraction-demo",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:13:07Z",
+    "url": "https://github.com/jd215/claude-intent-extraction-demo"
+  },
+  {
+    "description": "A centralized directory of Kirby Skills\u2014specialized standard operating procedures and frameworks for AI agents.",
+    "id": "markkirby125/kirby-skills-collection",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-skills-collection",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:12:43Z",
+    "url": "https://github.com/markkirby125/kirby-skills-collection"
+  },
+  {
+    "description": "Kirby skill: run Alibaba Open Code Review (ocr) from an AI agent \u2014 diff review, full-file scan, host-agent delegation.",
+    "id": "markkirby125/kirby-open-code-review",
+    "language": "\u2014",
+    "name": "markkirby125/kirby-open-code-review",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:12:17Z",
+    "url": "https://github.com/markkirby125/kirby-open-code-review"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-15T11:09:34Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Methodology for building a team of AI agents: explicit roles, tier routing, triangulated review, and tested protective h",
+    "id": "sergvss/agents-best-teams",
+    "language": "Python",
+    "name": "sergvss/agents-best-teams",
+    "stars": 2,
+    "updated_at": "2026-09-15T11:08:57Z",
+    "url": "https://github.com/sergvss/agents-best-teams"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-15T11:08:26Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "AI Made Easy (aimadeeasy) | \u63d0\u793a\u8bcd\u5e93 \u00b7 Prompt library \u00b7 \u30d7\u30ed\u30f3\u30d7\u30c8\u96c6 | \u7f16\u7a0b\u3001AI\u56fe\u7247\u4e0e\u89c6\u9891\uff0c\u4e2d\u82f1\u65e5\u4e09\u8bed",
+    "id": "zhufu0801-sudo/prompt-library",
+    "language": "TypeScript",
+    "name": "zhufu0801-sudo/prompt-library",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:07:42Z",
+    "url": "https://github.com/zhufu0801-sudo/prompt-library"
+  },
+  {
+    "description": "A multi-agent system that automates software project construction.",
+    "id": "PyAimind/MetaForge",
+    "language": "Python",
+    "name": "PyAimind/MetaForge",
+    "stars": 1,
+    "updated_at": "2026-09-15T11:07:37Z",
+    "url": "https://github.com/PyAimind/MetaForge"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 21,
+    "updated_at": "2026-09-15T11:04:26Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "AI work, carried forward - a prompt-based framework for focused execution, structured handoff and continuity across sess",
+    "id": "eddlev/vm4ai-air-kit",
+    "language": "Python",
+    "name": "eddlev/vm4ai-air-kit",
+    "stars": 2,
+    "updated_at": "2026-09-15T11:03:55Z",
+    "url": "https://github.com/eddlev/vm4ai-air-kit"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34635,
+    "updated_at": "2026-09-15T11:13:56Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 122,
+    "updated_at": "2026-09-15T11:03:03Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "\ud83d\udd04 Enable seamless AI conversations with a universal file format that saves and transfers your chat history across platfo",
+    "id": "AFRATUL1/AI-dropin-spec",
+    "language": "\u2014",
+    "name": "AFRATUL1/AI-dropin-spec",
+    "stars": 1,
+    "updated_at": "2026-09-15T11:02:29Z",
+    "url": "https://github.com/AFRATUL1/AI-dropin-spec"
+  },
+  {
+    "description": "FinBERT+LoRA hits 0.978 macro F1 at 50ms and zero API cost, matching GPT-4o-mini few-shot. A six-tier financial sentimen",
+    "id": "fj2039/finsentinel",
+    "language": "Jupyter Notebook",
+    "name": "fj2039/finsentinel",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:02:01Z",
+    "url": "https://github.com/fj2039/finsentinel"
+  },
+  {
+    "description": "The Engineering Operating System for AI coding agents. 20 senior workflows, JIT filesystem routing, and zero runtime loc",
+    "id": "lowqualityloey/promptkit-os",
+    "language": "Shell",
+    "name": "lowqualityloey/promptkit-os",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:13:32Z",
+    "url": "https://github.com/lowqualityloey/promptkit-os"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 1,
+    "updated_at": "2026-09-15T11:01:04Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-15T11:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Explore fuzz2-producer-ai-angklungmann for Fuzz 2.0 templates, prompts, and workflows to shape AI music with Producer.ai",
     "id": "KingFishyXMesa/fuzz2-producer-ai-angklungmann",
     "language": "\u2014",
@@ -45,21 +207,12 @@
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34634,
-    "updated_at": "2026-09-15T10:58:11Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22035,
-    "updated_at": "2026-09-15T10:57:08Z",
+    "updated_at": "2026-09-15T11:13:29Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -135,24 +288,6 @@
     "url": "https://github.com/jason3e7/ai-101"
   },
   {
-    "description": "The Engineering Operating System for AI coding agents. 20 senior workflows, JIT filesystem routing, and zero runtime loc",
-    "id": "lowqualityloey/promptkit-os",
-    "language": "Shell",
-    "name": "lowqualityloey/promptkit-os",
-    "stars": 0,
-    "updated_at": "2026-09-15T10:57:25Z",
-    "url": "https://github.com/lowqualityloey/promptkit-os"
-  },
-  {
-    "description": "Methodology for building a team of AI agents: explicit roles, tier routing, triangulated review, and tested protective h",
-    "id": "sergvss/agents-best-teams",
-    "language": "Python",
-    "name": "sergvss/agents-best-teams",
-    "stars": 2,
-    "updated_at": "2026-09-15T10:52:47Z",
-    "url": "https://github.com/sergvss/agents-best-teams"
-  },
-  {
     "description": "2026 Next-Gen AI Photo Background Remover & Object Removal Tool",
     "id": "yahyambk57-stack/Ai-Object-Isolation-Toolkit",
     "language": "HTML",
@@ -216,15 +351,6 @@
     "url": "https://github.com/hoyyang/dsh-improve-prompt"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-15T10:45:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "SOP for auditing and validating third-party AI agent skills, plugins, and MCP servers prior to installation.",
     "id": "markkirby125/kirby-agent-security",
     "language": "\u2014",
@@ -241,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T10:45:13Z",
     "url": "https://github.com/markkirby125/kirby-aiseo-skill"
-  },
-  {
-    "description": "A multi-agent system that automates software project construction.",
-    "id": "PyAimind/MetaForge",
-    "language": "Python",
-    "name": "PyAimind/MetaForge",
-    "stars": 1,
-    "updated_at": "2026-09-15T10:45:13Z",
-    "url": "https://github.com/PyAimind/MetaForge"
   },
   {
     "description": "\u65e0\u6781\u519b\u56e2 3.0\uff1a\u9762\u5411 Codex \u7684\u667a\u80fd\u5de5\u4f5c\u4e2d\u67a2\u3002\u4ee5\u81ea\u7136\u8bed\u8a00\u7ec4\u7ec7 Skill\u3001\u63d2\u4ef6\u4e0e MCP\uff0c\u4fdd\u7559\u767d\u5e3d\u5224\u65ad\u3001\u6709\u754c\u6267\u884c\u4e0e\u8bc1\u636e\u9a71\u52a8\u8fdb\u5316\u3002\u516c\u5f00\u5f00\u53d1\u4e2d\u3002",
@@ -270,15 +387,6 @@
     "url": "https://github.com/puresky271/idiolect"
   },
   {
-    "description": "AI-powered Japanese tutor app that corrects sentences with structured LLM feedback and generates flashcards from your co",
-    "id": "cura-yjk/pera-flash",
-    "language": "Ruby",
-    "name": "cura-yjk/pera-flash",
-    "stars": 0,
-    "updated_at": "2026-09-15T10:53:10Z",
-    "url": "https://github.com/cura-yjk/pera-flash"
-  },
-  {
     "description": "# Manga-Autonoma (powered by nano-banana-2 and ChatGPT Images 2.0)\u3000Autonomous AI 4-panel manga production system using G",
     "id": "FURUYAN1234/nano-banana-pro",
     "language": "JavaScript",
@@ -293,7 +401,7 @@
     "language": "\u2014",
     "name": "ovhirup/stackwich",
     "stars": 1,
-    "updated_at": "2026-09-15T10:40:06Z",
+    "updated_at": "2026-09-15T11:12:41Z",
     "url": "https://github.com/ovhirup/stackwich"
   },
   {
@@ -301,7 +409,7 @@
     "id": "jnMetaCode/superpowers-zh",
     "language": "JavaScript",
     "name": "jnMetaCode/superpowers-zh",
-    "stars": 8096,
+    "stars": 8095,
     "updated_at": "2026-09-15T10:32:59Z",
     "url": "https://github.com/jnMetaCode/superpowers-zh"
   },
@@ -329,7 +437,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25117,
-    "updated_at": "2026-09-15T10:45:00Z",
+    "updated_at": "2026-09-15T11:14:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T10:29:35Z",
     "url": "https://github.com/pliablepixels/slop-mop"
-  },
-  {
-    "description": "A lightweight, repository-aware framework prompt that helps coding agents take software from idea to production while ke",
-    "id": "st-designs/shipwright",
-    "language": "\u2014",
-    "name": "st-designs/shipwright",
-    "stars": 0,
-    "updated_at": "2026-09-15T10:27:54Z",
-    "url": "https://github.com/st-designs/shipwright"
-  },
-  {
-    "description": "Curated copy-paste AI prompts for student developers - disciplined workflows for coding agents that verify, don't guess",
-    "id": "shauryagangrade/awesome-ai-prompts",
-    "language": "Shell",
-    "name": "shauryagangrade/awesome-ai-prompts",
-    "stars": 57,
-    "updated_at": "2026-09-15T10:27:41Z",
-    "url": "https://github.com/shauryagangrade/awesome-ai-prompts"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27962,
-    "updated_at": "2026-09-15T10:26:57Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 1,
-    "updated_at": "2026-09-15T10:24:41Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4790,
-    "updated_at": "2026-09-15T10:24:16Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
-    "id": "rockerlabs/keel",
-    "language": "Shell",
-    "name": "rockerlabs/keel",
-    "stars": 2,
-    "updated_at": "2026-09-15T10:24:12Z",
-    "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "Mira AI content generation skills: genre playbooks and prompting knowledge for AI agents that generate video and images ",
-    "id": "Global-AI-Group-Inc/content-generation-skills",
-    "language": "JavaScript",
-    "name": "Global-AI-Group-Inc/content-generation-skills",
-    "stars": 6,
-    "updated_at": "2026-09-15T10:24:09Z",
-    "url": "https://github.com/Global-AI-Group-Inc/content-generation-skills"
-  },
-  {
-    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
-    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "language": "JavaScript",
-    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
-    "stars": 6,
-    "updated_at": "2026-09-15T10:21:06Z",
-    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
-  },
-  {
-    "description": "DSH Web \u63d2\u4ef6 v0.2.1-beta.2\uff08\u9002\u7528\u4e8e dsh-0.1.6-alpha.1\uff09\uff1a\u6309\u56de\u8f66\u5148\u7531\u300e\u4f20\u8bdd AI\u300f\u628a\u63d0\u793a\u8bcd\u6539\u5199\u6210\u53ef\u76f4\u63a5\u53d1\u7ed9\u5de5\u4f5c AI \u7684\u547d\u4ee4\u2014\u2014\u56db\u6863\u5f3a\u5ea6\u3001\u6309\u96be\u5ea6\u5b9a\u6d41\u7a0b\u957f\u5ea6\u3001\u6309\u4f1a\u8bdd\u9694\u79bb\uff0c\u786e\u8ba4\u540e\u518d\u53d1\u9001",
-    "id": "WestFox-AwA/dsh-prompt-optimizer",
-    "language": "JavaScript",
-    "name": "WestFox-AwA/dsh-prompt-optimizer",
-    "stars": 42,
-    "updated_at": "2026-09-15T10:20:17Z",
-    "url": "https://github.com/WestFox-AwA/dsh-prompt-optimizer"
-  },
-  {
-    "description": "Codebase Q&A with (path:line) citations \u2014 the capstone of a from-scratch AI-engineering series. Built in 8 eval-gated st",
-    "id": "alexvervloet/deep-dive-capstone",
-    "language": "Python",
-    "name": "alexvervloet/deep-dive-capstone",
-    "stars": 1,
-    "updated_at": "2026-09-15T10:19:49Z",
-    "url": "https://github.com/alexvervloet/deep-dive-capstone"
-  },
-  {
-    "description": "Autonomous security-testing platform that red-teams AI agents \u2014 prompt injection, tool abuse, memory/RAG isolation, auth",
-    "id": "mr-bala-kavi/Agentic-AI-Hacker",
-    "language": "Python",
-    "name": "mr-bala-kavi/Agentic-AI-Hacker",
-    "stars": 0,
-    "updated_at": "2026-09-15T10:18:50Z",
-    "url": "https://github.com/mr-bala-kavi/Agentic-AI-Hacker"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "rxmna8502/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "rxmna8502/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-09-15T10:17:54Z",
-    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
   }
 ]
