@@ -1,5 +1,140 @@
 [
   {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "braboj/solid-ai-templates",
+    "language": "Python",
+    "name": "braboj/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-09-15T12:30:15Z",
+    "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22036,
+    "updated_at": "2026-09-15T12:28:51Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI-powered DevOps assistant that turns plain-English questions into structured runbooks using Gemini \u2014 runs as a CLI or ",
+    "id": "saghosh8/ai-devops-release-assistant",
+    "language": "Python",
+    "name": "saghosh8/ai-devops-release-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-15T12:24:13Z",
+    "url": "https://github.com/saghosh8/ai-devops-release-assistant"
+  },
+  {
+    "description": "AI-powered career life simulator: 7-step guided odyssey with structured LLM prompt engineering, built with Streamlit",
+    "id": "alyssa6520/AI-Sim-Life",
+    "language": "Python",
+    "name": "alyssa6520/AI-Sim-Life",
+    "stars": 0,
+    "updated_at": "2026-09-15T12:23:09Z",
+    "url": "https://github.com/alyssa6520/AI-Sim-Life"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34635,
+    "updated_at": "2026-09-15T12:26:47Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-15T12:22:52Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
+    "id": "janzong/agent-charters",
+    "language": "Python",
+    "name": "janzong/agent-charters",
+    "stars": 1,
+    "updated_at": "2026-09-15T12:21:08Z",
+    "url": "https://github.com/janzong/agent-charters"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-15T12:21:09Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "Awesome QA Skills is an open-source AI-native Quality Engineering skill system that helps engineering teams reason about",
+    "id": "naodeng/awesome-qa-skills",
+    "language": "Python",
+    "name": "naodeng/awesome-qa-skills",
+    "stars": 211,
+    "updated_at": "2026-09-15T12:20:48Z",
+    "url": "https://github.com/naodeng/awesome-qa-skills"
+  },
+  {
+    "description": "Draw your idea, get interviewed about it and paste the prompt into your coding agent.",
+    "id": "AminMusah/reframe",
+    "language": "TypeScript",
+    "name": "AminMusah/reframe",
+    "stars": 0,
+    "updated_at": "2026-09-15T12:20:45Z",
+    "url": "https://github.com/AminMusah/reframe"
+  },
+  {
+    "description": "AI Made Easy (aimadeeasy) | \u63d0\u793a\u8bcd\u5e93 \u00b7 Prompt library \u00b7 \u30d7\u30ed\u30f3\u30d7\u30c8\u96c6 | \u7f16\u7a0b\u3001AI\u56fe\u7247\u4e0e\u89c6\u9891\uff0c\u4e2d\u82f1\u65e5\u4e09\u8bed",
+    "id": "zhufu0801-sudo/prompt-library",
+    "language": "TypeScript",
+    "name": "zhufu0801-sudo/prompt-library",
+    "stars": 0,
+    "updated_at": "2026-09-15T12:20:20Z",
+    "url": "https://github.com/zhufu0801-sudo/prompt-library"
+  },
+  {
+    "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to us",
+    "id": "ZeroLu/awesome-seedance",
+    "language": "Shell",
+    "name": "ZeroLu/awesome-seedance",
+    "stars": 2410,
+    "updated_at": "2026-09-15T12:19:30Z",
+    "url": "https://github.com/ZeroLu/awesome-seedance"
+  },
+  {
+    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
+    "id": "solo-vey/Ordo",
+    "language": "Python",
+    "name": "solo-vey/Ordo",
+    "stars": 1,
+    "updated_at": "2026-09-15T12:27:14Z",
+    "url": "https://github.com/solo-vey/Ordo"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-15T12:15:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 21,
+    "updated_at": "2026-09-15T12:21:52Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
     "description": "A template language for composable LLM prompt engineering. Write prompts with variables, loops, conditionals, functions,",
     "id": "dean0x/mdscript",
     "language": "Rust",
@@ -23,7 +158,7 @@
     "language": "Ruby",
     "name": "cura-yjk/pera-flash",
     "stars": 0,
-    "updated_at": "2026-09-15T12:14:38Z",
+    "updated_at": "2026-09-15T12:20:13Z",
     "url": "https://github.com/cura-yjk/pera-flash"
   },
   {
@@ -54,15 +189,6 @@
     "url": "https://github.com/694410194/hanyu-skill"
   },
   {
-    "description": "AI-powered DevOps assistant that turns plain-English questions into structured runbooks using Gemini \u2014 runs as a CLI or ",
-    "id": "saghosh8/ai-devops-release-assistant",
-    "language": "Python",
-    "name": "saghosh8/ai-devops-release-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-15T12:11:54Z",
-    "url": "https://github.com/saghosh8/ai-devops-release-assistant"
-  },
-  {
     "description": "Reusable AI image skills for linocut, etching, and risograph. Style recipes, prompts, visual examples, and workflows by ",
     "id": "Howell5/berryon-visual-skills",
     "language": "JavaScript",
@@ -79,24 +205,6 @@
     "stars": 2,
     "updated_at": "2026-09-15T12:11:30Z",
     "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
-    "id": "janzong/agent-charters",
-    "language": "Python",
-    "name": "janzong/agent-charters",
-    "stars": 1,
-    "updated_at": "2026-09-15T12:11:07Z",
-    "url": "https://github.com/janzong/agent-charters"
-  },
-  {
-    "description": "Draw your idea, get interviewed about it and paste the prompt into your coding agent.",
-    "id": "AminMusah/reframe",
-    "language": "TypeScript",
-    "name": "AminMusah/reframe",
-    "stars": 0,
-    "updated_at": "2026-09-15T12:10:35Z",
-    "url": "https://github.com/AminMusah/reframe"
   },
   {
     "description": "DSH Web \u8f93\u5165\u6846\u63a5\u7ba1\uff08v0.2.2-beta.1 \u00b7 \u754c\u9762\u4e2d\u82f1\u53cc\u8bed\u3001\u8ddf\u968f DSH \u8bed\u8a00\u8bbe\u7f6e \u00b7 \u9002\u7528\u4e8e dsh-0.1.6-alpha.1\uff09\uff1a\u53d1\u9001\u524d\u7528\u72ec\u7acb AI\uff08\u4f20\u8bdd\u8005\uff09\u628a\u63d0\u793a\u8bcd\u4f18\u5316\u6210\u53ef\u76f4\u63a5\u53d1\u7ed9\u5de5\u4f5c AI \u7684\u547d\u4ee4\uff08\u56db\u6863\u5f3a\u5ea6\u3001\u6309\u96be\u5ea6\u5b9a\u6d41",
@@ -122,7 +230,7 @@
     "language": "Python",
     "name": "skillberry-ai/cap-evolve",
     "stars": 56,
-    "updated_at": "2026-09-15T12:08:56Z",
+    "updated_at": "2026-09-15T12:22:11Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
   },
   {
@@ -144,6 +252,15 @@
     "url": "https://github.com/hakodev2k/AI-Engineering"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25120,
+    "updated_at": "2026-09-15T12:22:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
     "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "language": "TypeScript",
@@ -160,15 +277,6 @@
     "stars": 6,
     "updated_at": "2026-09-15T12:04:48Z",
     "url": "https://github.com/Global-AI-Group-Inc/content-generation-skills"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-15T12:04:21Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u8ba9 AI \u50cf\u4eba\u4e00\u6837\u8bf4\u8bdd\u3001\u521b\u4f5c\u7684\u89c4\u5219\u96c6\u3002Ruleset for making AI talk and write like a human.",
@@ -194,7 +302,7 @@
     "language": "Python",
     "name": "Liplus-Project/liplus-language",
     "stars": 1,
-    "updated_at": "2026-09-15T12:00:45Z",
+    "updated_at": "2026-09-15T12:30:08Z",
     "url": "https://github.com/Liplus-Project/liplus-language"
   },
   {
@@ -203,35 +311,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4789,
-    "updated_at": "2026-09-15T12:15:16Z",
+    "updated_at": "2026-09-15T12:29:36Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-15T12:00:10Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "braboj/solid-ai-templates",
-    "language": "Python",
-    "name": "braboj/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-09-15T11:59:28Z",
-    "url": "https://github.com/braboj/solid-ai-templates"
-  },
-  {
-    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
-    "id": "solo-vey/Ordo",
-    "language": "Python",
-    "name": "solo-vey/Ordo",
-    "stars": 1,
-    "updated_at": "2026-09-15T12:12:13Z",
-    "url": "https://github.com/solo-vey/Ordo"
   },
   {
     "description": "Plain-English, evidence-grounded guides for using AI well at work. No technical background required.",
@@ -270,24 +351,6 @@
     "url": "https://github.com/albertpikkop/noguess-prompt-skill"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22035,
-    "updated_at": "2026-09-15T12:15:25Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 21,
-    "updated_at": "2026-09-15T12:15:22Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
     "description": "One desktop window for ChatGPT, Claude, Gemini, Grok, Perplexity, Qwen, DeepSeek and Z.ai. Fast, private, fully local. B",
     "id": "Michel-IT/Kotodama",
     "language": "Rust",
@@ -295,15 +358,6 @@
     "stars": 4,
     "updated_at": "2026-09-15T11:53:44Z",
     "url": "https://github.com/Michel-IT/Kotodama"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34635,
-    "updated_at": "2026-09-15T12:15:23Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\u9762\u5411\u65c5\u62cd/\u5986\u9020/\u6c11\u5bbf\u4e0e\u72ec\u7acb\u6444\u5f71\u5e08\u7684\u77ed\u89c6\u9891\u5185\u5bb9\u751f\u4ea7 AI   skill\u2014\u2014\u4e5d\u4e2a\u65b9\u5411\u4ece\u62c6\u7206\u6b3e\u5230\u5f00\u62cd\uff0c\u4ea7\u51fa\u53ef\u5f00\u62cd\u7684\u811a\u672c\u3001\u5206\u955c\u4e0e\u62cd\u6444\u65b9\u6848\u3002A Claude skill for  short-video creators.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T11:44:11Z",
     "url": "https://github.com/hydrz/dev-skills"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-15T11:43:44Z",
-    "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25119,
-    "updated_at": "2026-09-15T12:05:35Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Turn vague product or feature ideas into clear, checkable requirements before planning or coding\u2014mapping rough descripti",
-    "id": "bydtesla1609/intent-debugger",
-    "language": "Python",
-    "name": "bydtesla1609/intent-debugger",
-    "stars": 109,
-    "updated_at": "2026-09-15T11:43:24Z",
-    "url": "https://github.com/bydtesla1609/intent-debugger"
-  },
-  {
-    "description": "Curated, verified Agent Skills powered by ModelStudio.",
-    "id": "modelstudioai/skills",
-    "language": "Python",
-    "name": "modelstudioai/skills",
-    "stars": 56,
-    "updated_at": "2026-09-15T11:42:19Z",
-    "url": "https://github.com/modelstudioai/skills"
-  },
-  {
-    "description": "\u8239\u957fAI\u89c6\u754c\uff5cSeedance \u4e8c\u6b21\u5143\u6253\u620f\u63d0\u793a\u8bcd\u6280\u80fd\uff1a\u52a8\u4f5c\u7f16\u6392\u3001\u8fd0\u955c\u8bbe\u8ba1\u4e0e\u5b9e\u7528\u5de5\u4f5c\u6d41\u3002",
-    "id": "zhangxiansheng-888/captain-ai-seedance-combat-prompt",
-    "language": "\u2014",
-    "name": "zhangxiansheng-888/captain-ai-seedance-combat-prompt",
-    "stars": 0,
-    "updated_at": "2026-09-15T11:42:17Z",
-    "url": "https://github.com/zhangxiansheng-888/captain-ai-seedance-combat-prompt"
-  },
-  {
-    "description": "A multi-agent system that automates software project construction.",
-    "id": "PyAimind/MetaForge",
-    "language": "Python",
-    "name": "PyAimind/MetaForge",
-    "stars": 1,
-    "updated_at": "2026-09-15T11:46:38Z",
-    "url": "https://github.com/PyAimind/MetaForge"
   }
 ]
