@@ -1,12 +1,57 @@
 [
   {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 2,
-    "updated_at": "2026-09-15T12:44:28Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27965,
+    "updated_at": "2026-09-15T13:00:23Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination",
+    "id": "neomjs/neo-agent-skills",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-09-15T12:59:46Z",
+    "url": "https://github.com/neomjs/neo-agent-skills"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-15T13:01:02Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Universal AI agent skill for directing photorealistic, believable, human-first images",
+    "id": "imMamdouhaboammar/lively-photos-director",
+    "language": "Python",
+    "name": "imMamdouhaboammar/lively-photos-director",
+    "stars": 0,
+    "updated_at": "2026-09-15T12:58:59Z",
+    "url": "https://github.com/imMamdouhaboammar/lively-photos-director"
+  },
+  {
+    "description": "\u4e2d\u6587 AI \u5473\u68c0\u6d4b\u4e0e\u6e05\u9664 \u2014\u2014 \u552f\u9648\u8a00\u4e4b\u52a1\u53bb\u3002\u82f1\u6587 humanizer \u6293\u4e0d\u5230\u4e2d\u6587\u7684 AI \u8154\uff0c\u8fd9\u4e2a\u80fd\u3002",
+    "id": "694410194/hanyu-skill",
+    "language": "Python",
+    "name": "694410194/hanyu-skill",
+    "stars": 0,
+    "updated_at": "2026-09-15T12:58:44Z",
+    "url": "https://github.com/694410194/hanyu-skill"
+  },
+  {
+    "description": "Genetic algorithm-powered prompt optimization for LLMs. Evolves prompts across generations using mutation, crossover & L",
+    "id": "MAYANK12-WQ/promptdna",
+    "language": "Python",
+    "name": "MAYANK12-WQ/promptdna",
+    "stars": 0,
+    "updated_at": "2026-09-15T12:58:07Z",
+    "url": "https://github.com/MAYANK12-WQ/promptdna"
   },
   {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
@@ -14,8 +59,89 @@
     "language": "TypeScript",
     "name": "doodersrage/castcut",
     "stars": 1,
-    "updated_at": "2026-09-15T12:42:38Z",
+    "updated_at": "2026-09-15T12:57:14Z",
     "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22037,
+    "updated_at": "2026-09-15T12:55:32Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
+    "id": "janzong/agent-charters",
+    "language": "Python",
+    "name": "janzong/agent-charters",
+    "stars": 1,
+    "updated_at": "2026-09-15T12:55:19Z",
+    "url": "https://github.com/janzong/agent-charters"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1477,
+    "updated_at": "2026-09-15T12:54:01Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34637,
+    "updated_at": "2026-09-15T13:01:00Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Your coding agent starts every session knowing nothing about your project. One line, and it writes its own memory from y",
+    "id": "NirDiamant/Agentic_Engineering",
+    "language": "Python",
+    "name": "NirDiamant/Agentic_Engineering",
+    "stars": 1,
+    "updated_at": "2026-09-15T12:51:34Z",
+    "url": "https://github.com/NirDiamant/Agentic_Engineering"
+  },
+  {
+    "description": "22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strateg",
+    "id": "NirDiamant/Prompt_Engineering",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/Prompt_Engineering",
+    "stars": 7851,
+    "updated_at": "2026-09-15T12:51:19Z",
+    "url": "https://github.com/NirDiamant/Prompt_Engineering"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 21,
+    "updated_at": "2026-09-15T13:00:36Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-15T12:45:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 2,
+    "updated_at": "2026-09-15T12:44:28Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
     "description": "A 13-agent software company in a plugin: plan, build, and adversarially judge every change under hard budget caps. Route",
@@ -54,15 +180,6 @@
     "url": "https://github.com/Sungmin-Cho/deep-suite"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34636,
-    "updated_at": "2026-09-15T12:45:13Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
     "id": "Open-Less/openless",
     "language": "Rust",
@@ -70,15 +187,6 @@
     "stars": 3533,
     "updated_at": "2026-09-15T12:36:25Z",
     "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "\u4e2d\u6587 AI \u5473\u68c0\u6d4b\u4e0e\u6e05\u9664 \u2014\u2014 \u552f\u9648\u8a00\u4e4b\u52a1\u53bb\u3002\u82f1\u6587 humanizer \u6293\u4e0d\u5230\u4e2d\u6587\u7684 AI \u8154\uff0c\u8fd9\u4e2a\u80fd\u3002",
-    "id": "694410194/hanyu-skill",
-    "language": "JavaScript",
-    "name": "694410194/hanyu-skill",
-    "stars": 0,
-    "updated_at": "2026-09-15T12:34:19Z",
-    "url": "https://github.com/694410194/hanyu-skill"
   },
   {
     "description": "15 reusable AI image skills: crayon, oil painting, collage, illustration, anime, claymation, comic, scribble, vintage po",
@@ -126,15 +234,6 @@
     "url": "https://github.com/solo-vey/Ordo"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-15T12:32:05Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "AI-powered Japanese tutor app that corrects sentences with structured LLM feedback and generates flashcards from your co",
     "id": "cura-yjk/pera-flash",
     "language": "Ruby",
@@ -153,15 +252,6 @@
     "url": "https://github.com/zhufu0801-sudo/prompt-library"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-15T12:30:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
     "id": "braboj/solid-ai-templates",
     "language": "Python",
@@ -169,15 +259,6 @@
     "stars": 4,
     "updated_at": "2026-09-15T12:34:20Z",
     "url": "https://github.com/braboj/solid-ai-templates"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22036,
-    "updated_at": "2026-09-15T12:39:30Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI-powered DevOps assistant that turns plain-English questions into structured runbooks using Gemini \u2014 runs as a CLI or ",
@@ -198,15 +279,6 @@
     "url": "https://github.com/alyssa6520/AI-Sim-Life"
   },
   {
-    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
-    "id": "janzong/agent-charters",
-    "language": "Python",
-    "name": "janzong/agent-charters",
-    "stars": 1,
-    "updated_at": "2026-09-15T12:21:08Z",
-    "url": "https://github.com/janzong/agent-charters"
-  },
-  {
     "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
     "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
     "language": "JavaScript",
@@ -221,7 +293,7 @@
     "language": "Python",
     "name": "naodeng/awesome-qa-skills",
     "stars": 211,
-    "updated_at": "2026-09-15T12:20:48Z",
+    "updated_at": "2026-09-15T12:58:02Z",
     "url": "https://github.com/naodeng/awesome-qa-skills"
   },
   {
@@ -241,24 +313,6 @@
     "stars": 2410,
     "updated_at": "2026-09-15T12:19:30Z",
     "url": "https://github.com/ZeroLu/awesome-seedance"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27965,
-    "updated_at": "2026-09-15T12:45:19Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 21,
-    "updated_at": "2026-09-15T12:42:38Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
     "description": "A template language for composable LLM prompt engineering. Write prompts with variables, loops, conditionals, functions,",
@@ -392,61 +446,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4475,
-    "updated_at": "2026-09-15T12:44:19Z",
+    "updated_at": "2026-09-15T12:54:33Z",
     "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
-    "id": "Liplus-Project/liplus-language",
-    "language": "Python",
-    "name": "Liplus-Project/liplus-language",
-    "stars": 1,
-    "updated_at": "2026-09-15T12:31:08Z",
-    "url": "https://github.com/Liplus-Project/liplus-language"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4789,
-    "updated_at": "2026-09-15T12:45:07Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Plain-English, evidence-grounded guides for using AI well at work. No technical background required.",
-    "id": "shaunmarsden/practical-ai-adoption",
-    "language": "\u2014",
-    "name": "shaunmarsden/practical-ai-adoption",
-    "stars": 0,
-    "updated_at": "2026-09-15T11:55:10Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-adoption"
-  },
-  {
-    "description": "Human-led AI workflows for real B2B sales work.",
-    "id": "shaunmarsden/practical-ai-sales-workflows",
-    "language": "Python",
-    "name": "shaunmarsden/practical-ai-sales-workflows",
-    "stars": 3,
-    "updated_at": "2026-09-15T11:55:05Z",
-    "url": "https://github.com/shaunmarsden/practical-ai-sales-workflows"
-  },
-  {
-    "description": "Agent skill for authentic Arabic writing: strips English calques and translated phraseology (\u0627\u0644\u0639\u0631\u0646\u062c\u064a\u0629) from Arabic text.",
-    "id": "specailm5/anti-aranjiya-skill",
-    "language": "\u2014",
-    "name": "specailm5/anti-aranjiya-skill",
-    "stars": 0,
-    "updated_at": "2026-09-15T11:55:01Z",
-    "url": "https://github.com/specailm5/anti-aranjiya-skill"
-  },
-  {
-    "description": "Prompt skill for Claude Code, Codex and Cursor. Turn a messy idea into a clear prompt. The AI asks before it guesses, an",
-    "id": "albertpikkop/noguess-prompt-skill",
-    "language": "Shell",
-    "name": "albertpikkop/noguess-prompt-skill",
-    "stars": 0,
-    "updated_at": "2026-09-15T11:54:52Z",
-    "url": "https://github.com/albertpikkop/noguess-prompt-skill"
   }
 ]
