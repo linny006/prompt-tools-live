@@ -1,5 +1,122 @@
 [
   {
+    "description": "A language and runtime framework for designing, validating, executing, testing, and improving structured AI-assisted pro",
+    "id": "solo-vey/Ordo",
+    "language": "Python",
+    "name": "solo-vey/Ordo",
+    "stars": 1,
+    "updated_at": "2026-09-15T13:29:31Z",
+    "url": "https://github.com/solo-vey/Ordo"
+  },
+  {
+    "description": "opencode-artes: 115 production-grade OpenCode skills for fullstack web development, localhost security auditing and AI a",
+    "id": "RMAzrim/opencode-artes",
+    "language": "Python",
+    "name": "RMAzrim/opencode-artes",
+    "stars": 1,
+    "updated_at": "2026-09-15T13:27:33Z",
+    "url": "https://github.com/RMAzrim/opencode-artes"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34637,
+    "updated_at": "2026-09-15T13:30:34Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27967,
+    "updated_at": "2026-09-15T13:26:14Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "A local-only, human-in-the-loop copypaste agent for LLM workflows.",
+    "id": "SunYanbox/ManualAid-Rust",
+    "language": "Rust",
+    "name": "SunYanbox/ManualAid-Rust",
+    "stars": 1,
+    "updated_at": "2026-09-15T13:24:45Z",
+    "url": "https://github.com/SunYanbox/ManualAid-Rust"
+  },
+  {
+    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
+    "id": "janzong/agent-charters",
+    "language": "Python",
+    "name": "janzong/agent-charters",
+    "stars": 1,
+    "updated_at": "2026-09-15T13:22:54Z",
+    "url": "https://github.com/janzong/agent-charters"
+  },
+  {
+    "description": "Awesome prompt library . ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/awesome-prompt-library",
+    "stars": 6,
+    "updated_at": "2026-09-15T13:21:05Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+  },
+  {
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
+    "language": "Python",
+    "name": "IBM/mcp-context-forge",
+    "stars": 4475,
+    "updated_at": "2026-09-15T13:20:55Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
+  },
+  {
+    "description": "Draw your idea, get interviewed about it and paste the prompt into your coding agent.",
+    "id": "AminMusah/reframe",
+    "language": "TypeScript",
+    "name": "AminMusah/reframe",
+    "stars": 0,
+    "updated_at": "2026-09-15T13:20:36Z",
+    "url": "https://github.com/AminMusah/reframe"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 21,
+    "updated_at": "2026-09-15T13:17:28Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-15T13:16:12Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-15T13:16:07Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25123,
+    "updated_at": "2026-09-15T13:22:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Curated Claude Code plugin marketplace and cross-platform generator for Claude, OpenCode, and Antigravity",
     "id": "seankoji-com/claude-plugins",
     "language": "Python",
@@ -63,13 +180,13 @@
     "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
   },
   {
-    "description": "\u4eba\u5199\u7ed9 AI \u667a\u80fd\u4f53\u7684\u4e66\u9762\u89c4\u7ea6\u7684\u7ed3\u6784\u5316\u8bed\u6599\u5e93\uff5c558 \u4efd AGENTS.md\uff0c9 \u7c7b\u6807\u6ce8\uff0c\u542b\u5206\u7c7b\u6cd5\u4e0e\u5df2\u77e5\u5c40\u9650",
-    "id": "janzong/agent-charters",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "janzong/agent-charters",
-    "stars": 1,
-    "updated_at": "2026-09-15T13:12:18Z",
-    "url": "https://github.com/janzong/agent-charters"
+    "name": "Arize-ai/phoenix",
+    "stars": 11468,
+    "updated_at": "2026-09-15T13:12:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
@@ -133,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T13:09:32Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34637,
-    "updated_at": "2026-09-15T13:10:55Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI-powered Prompt Spec Generator Skill \u2014 Generate AI Prompt Specifications through structured AI conversation. Works wit",
@@ -225,24 +333,6 @@
     "url": "https://github.com/hermes-labs-ai/hermeneutic"
   },
   {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 21,
-    "updated_at": "2026-09-15T13:10:28Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-09-15T13:06:01Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "AI-powered PDD Generator Skill \u2014 Generate Product Design Documents through structured AI conversation. Works with Claude",
     "id": "Vann4799/ai-pdd-generator",
     "language": "\u2014",
@@ -261,24 +351,6 @@
     "url": "https://github.com/cura-yjk/pera-flash"
   },
   {
-    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
-    "id": "IBM/mcp-context-forge",
-    "language": "Python",
-    "name": "IBM/mcp-context-forge",
-    "stars": 4475,
-    "updated_at": "2026-09-15T13:07:20Z",
-    "url": "https://github.com/IBM/mcp-context-forge"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25122,
-    "updated_at": "2026-09-15T13:16:03Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Optimize any AI agent\u2019s skills, tools/MCP, and prompts against your own evals.",
     "id": "skillberry-ai/cap-evolve",
     "language": "Python",
@@ -286,24 +358,6 @@
     "stars": 56,
     "updated_at": "2026-09-15T13:03:29Z",
     "url": "https://github.com/skillberry-ai/cap-evolve"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27966,
-    "updated_at": "2026-09-15T13:01:45Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-15T13:01:07Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination",
@@ -347,7 +401,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22038,
-    "updated_at": "2026-09-15T13:12:51Z",
+    "updated_at": "2026-09-15T13:29:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T12:41:21Z",
     "url": "https://github.com/xsefirosus/sefi-agents"
-  },
-  {
-    "description": "Plan, build, review, and ship anything to the real world without leaving your environment. AI harness with built-in Proj",
-    "id": "agent-kit-startup/agent-kit",
-    "language": "TypeScript",
-    "name": "agent-kit-startup/agent-kit",
-    "stars": 10,
-    "updated_at": "2026-09-15T12:42:29Z",
-    "url": "https://github.com/agent-kit-startup/agent-kit"
-  },
-  {
-    "description": "Claude Code plugin with agent skills harvested from real corrections, not invented \u2014 every SKILL.md passes a determinist",
-    "id": "64x-lunicorn/skills",
-    "language": "TypeScript",
-    "name": "64x-lunicorn/skills",
-    "stars": 0,
-    "updated_at": "2026-09-15T12:37:42Z",
-    "url": "https://github.com/64x-lunicorn/skills"
-  },
-  {
-    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
-    "id": "Sungmin-Cho/deep-suite",
-    "language": "JavaScript",
-    "name": "Sungmin-Cho/deep-suite",
-    "stars": 9,
-    "updated_at": "2026-09-15T12:37:19Z",
-    "url": "https://github.com/Sungmin-Cho/deep-suite"
-  },
-  {
-    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
-    "id": "Open-Less/openless",
-    "language": "Rust",
-    "name": "Open-Less/openless",
-    "stars": 3533,
-    "updated_at": "2026-09-15T12:36:25Z",
-    "url": "https://github.com/Open-Less/openless"
-  },
-  {
-    "description": "15 reusable AI image skills: crayon, oil painting, collage, illustration, anime, claymation, comic, scribble, vintage po",
-    "id": "Howell5/berryon-visual-skills",
-    "language": "JavaScript",
-    "name": "Howell5/berryon-visual-skills",
-    "stars": 0,
-    "updated_at": "2026-09-15T12:35:16Z",
-    "url": "https://github.com/Howell5/berryon-visual-skills"
-  },
-  {
-    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
-    "id": "F-e-u-e-r/opus-pack",
-    "language": "Python",
-    "name": "F-e-u-e-r/opus-pack",
-    "stars": 2,
-    "updated_at": "2026-09-15T12:33:23Z",
-    "url": "https://github.com/F-e-u-e-r/opus-pack"
   }
 ]
