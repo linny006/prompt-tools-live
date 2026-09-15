@@ -1,5 +1,95 @@
 [
   {
+    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
+    "id": "coilyco-flight-deck/agent-compose",
+    "language": "Go",
+    "name": "coilyco-flight-deck/agent-compose",
+    "stars": 1,
+    "updated_at": "2026-09-15T19:51:35Z",
+    "url": "https://github.com/coilyco-flight-deck/agent-compose"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-15T19:51:28Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Vibe Coding \u4ece\u5165\u95e8\u5230\u7cbe\u901a\u6559\u7a0b\uff5cAI \u7ed3\u5bf9\u7f16\u7a0b\u5de5\u4f5c\u6d41\uff5cPrompt\u3001Skill\u3001Workflow\u3001\u4e0a\u4e0b\u6587\u7ba1\u7406\u3001codex\u5b9e\u6218\u6307\u5357",
+    "id": "tradecatlabs/vibe-coding-cn",
+    "language": "Python",
+    "name": "tradecatlabs/vibe-coding-cn",
+    "stars": 16237,
+    "updated_at": "2026-09-15T19:51:05Z",
+    "url": "https://github.com/tradecatlabs/vibe-coding-cn"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 3,
+    "updated_at": "2026-09-15T19:49:42Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 21,
+    "updated_at": "2026-09-15T19:48:46Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Agent skills for making video from generated footage: pre-production, cost-gated generation, edit, audio, finish and QC",
+    "id": "konradre/video-production-skills",
+    "language": "Python",
+    "name": "konradre/video-production-skills",
+    "stars": 1,
+    "updated_at": "2026-09-15T19:48:02Z",
+    "url": "https://github.com/konradre/video-production-skills"
+  },
+  {
+    "description": "How a good skill is written, and the gate that checks it",
+    "id": "rokokol/skill-authoring-skill",
+    "language": "Shell",
+    "name": "rokokol/skill-authoring-skill",
+    "stars": 0,
+    "updated_at": "2026-09-15T19:48:00Z",
+    "url": "https://github.com/rokokol/skill-authoring-skill"
+  },
+  {
+    "description": "Who we are, as opposed to what to do: a template for keeping an assistant's persona and dossiers out of the always-loade",
+    "id": "rokokol/companion-skill",
+    "language": "Shell",
+    "name": "rokokol/companion-skill",
+    "stars": 0,
+    "updated_at": "2026-09-15T19:47:03Z",
+    "url": "https://github.com/rokokol/companion-skill"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 186,
+    "updated_at": "2026-09-15T19:51:06Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-15T19:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
     "id": "parkerluxu/Awesome-agent-cases",
     "language": "JavaScript",
@@ -34,6 +124,15 @@
     "stars": 1,
     "updated_at": "2026-09-15T19:41:40Z",
     "url": "https://github.com/doodersrage/castcut"
+  },
+  {
+    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
+    "id": "Kiln-AI/Kiln",
+    "language": "Python",
+    "name": "Kiln-AI/Kiln",
+    "stars": 5070,
+    "updated_at": "2026-09-15T19:41:33Z",
+    "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
     "description": "Claude Code plugin with agent skills harvested from real corrections, not invented \u2014 every SKILL.md passes a determinist",
@@ -72,24 +171,6 @@
     "url": "https://github.com/Lucebrallc/awesome-ai-chatgpt-courses"
   },
   {
-    "description": "Vibe Coding \u4ece\u5165\u95e8\u5230\u7cbe\u901a\u6559\u7a0b\uff5cAI \u7ed3\u5bf9\u7f16\u7a0b\u5de5\u4f5c\u6d41\uff5cPrompt\u3001Skill\u3001Workflow\u3001\u4e0a\u4e0b\u6587\u7ba1\u7406\u3001codex\u5b9e\u6218\u6307\u5357",
-    "id": "tradecatlabs/vibe-coding-cn",
-    "language": "Python",
-    "name": "tradecatlabs/vibe-coding-cn",
-    "stars": 16237,
-    "updated_at": "2026-09-15T19:35:41Z",
-    "url": "https://github.com/tradecatlabs/vibe-coding-cn"
-  },
-  {
-    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 3,
-    "updated_at": "2026-09-15T19:35:52Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
     "description": "Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie",
     "id": "Quazmoz/agentdefaults",
     "language": "Python",
@@ -104,35 +185,8 @@
     "language": "JavaScript",
     "name": "Spielewoy/autoprompt-skill",
     "stars": 1151,
-    "updated_at": "2026-09-15T19:32:13Z",
+    "updated_at": "2026-09-15T19:50:57Z",
     "url": "https://github.com/Spielewoy/autoprompt-skill"
-  },
-  {
-    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
-    "id": "coilyco-flight-deck/agent-compose",
-    "language": "Go",
-    "name": "coilyco-flight-deck/agent-compose",
-    "stars": 1,
-    "updated_at": "2026-09-15T19:32:01Z",
-    "url": "https://github.com/coilyco-flight-deck/agent-compose"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 21,
-    "updated_at": "2026-09-15T19:43:45Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-15T19:30:24Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -176,7 +230,7 @@
     "language": "Shell",
     "name": "synaptiai/synapti-marketplace",
     "stars": 6,
-    "updated_at": "2026-09-15T19:27:10Z",
+    "updated_at": "2026-09-15T19:46:42Z",
     "url": "https://github.com/synaptiai/synapti-marketplace"
   },
   {
@@ -252,15 +306,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
-    "id": "minipuft/claude-prompts-mcp",
-    "language": "TypeScript",
-    "name": "minipuft/claude-prompts-mcp",
-    "stars": 186,
-    "updated_at": "2026-09-15T19:35:36Z",
-    "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
     "description": "AI-powered study and interview preparation app built with Python, FastAPI, LLMs, structured outputs, and document analys",
     "id": "marciodearagao/ai-study-lab",
     "language": "Python",
@@ -333,15 +378,6 @@
     "url": "https://github.com/jcempro/agents.md"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-15T19:41:47Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "Local-first tool that strips emails, secrets, paths, and other identifying content out of your prompts before they reach",
     "id": "Nano-Collective/prompt-scrubber",
     "language": "TypeScript",
@@ -358,24 +394,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T19:09:43Z",
     "url": "https://github.com/hmoses/poly-glot-ai-workspace"
-  },
-  {
-    "description": "Agent skills for making video from generated footage: pre-production, cost-gated generation, edit, audio, finish and QC",
-    "id": "konradre/video-production-skills",
-    "language": "Python",
-    "name": "konradre/video-production-skills",
-    "stars": 1,
-    "updated_at": "2026-09-15T19:09:16Z",
-    "url": "https://github.com/konradre/video-production-skills"
-  },
-  {
-    "description": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset m",
-    "id": "Kiln-AI/Kiln",
-    "language": "Python",
-    "name": "Kiln-AI/Kiln",
-    "stars": 5069,
-    "updated_at": "2026-09-15T19:41:33Z",
-    "url": "https://github.com/Kiln-AI/Kiln"
   },
   {
     "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T19:01:30Z",
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "npm for generative video. Runnable creative formats for image, video, and audio.",
-    "id": "smsheik1/wiggly",
-    "language": "TypeScript",
-    "name": "smsheik1/wiggly",
-    "stars": 1,
-    "updated_at": "2026-09-15T18:59:18Z",
-    "url": "https://github.com/smsheik1/wiggly"
-  },
-  {
-    "description": "A design interrogation skill that refuses to generate until it understands.",
-    "id": "CG12358/excavate-skill",
-    "language": "\u2014",
-    "name": "CG12358/excavate-skill",
-    "stars": 0,
-    "updated_at": "2026-09-15T18:59:13Z",
-    "url": "https://github.com/CG12358/excavate-skill"
   }
 ]
