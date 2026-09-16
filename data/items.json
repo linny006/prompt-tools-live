@@ -1,5 +1,68 @@
 [
   {
+    "description": "Portable, agent-agnostic skill library for AI coding agents, grouped into reusable packs for engineering, review, securi",
+    "id": "hi-donwi/Agent-Skills",
+    "language": "Python",
+    "name": "hi-donwi/Agent-Skills",
+    "stars": 0,
+    "updated_at": "2026-09-16T14:30:06Z",
+    "url": "https://github.com/hi-donwi/Agent-Skills"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34685,
+    "updated_at": "2026-09-16T14:28:22Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI Made Easy (aimadeeasy) | \u63d0\u793a\u8bcd\u5e93 \u00b7 Prompt library \u00b7 \u30d7\u30ed\u30f3\u30d7\u30c8\u96c6 | \u7f16\u7a0b\u3001AI\u56fe\u7247\u4e0e\u89c6\u9891\uff0c\u4e2d\u82f1\u65e5\u4e09\u8bed",
+    "id": "zhufu0801-sudo/prompt-library",
+    "language": "TypeScript",
+    "name": "zhufu0801-sudo/prompt-library",
+    "stars": 0,
+    "updated_at": "2026-09-16T14:27:09Z",
+    "url": "https://github.com/zhufu0801-sudo/prompt-library"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 3,
+    "updated_at": "2026-09-16T14:26:43Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Local-first desktop studio for ComfyUI, built for AI short-drama production - zero-dependency 10MB exe: creation, galler",
+    "id": "IvenKooLab/comfy-agent",
+    "language": "Python",
+    "name": "IvenKooLab/comfy-agent",
+    "stars": 8,
+    "updated_at": "2026-09-16T14:26:27Z",
+    "url": "https://github.com/IvenKooLab/comfy-agent"
+  },
+  {
+    "description": "DSH Web \u63d0\u793a\u8bcd\u5de5\u4f5c\u53f0\uff1a\u628a\u8f93\u5165\u6846\u91cc\u7684\u8349\u7a3f\u4f18\u5316\u6210\u4e00\u6761\u53ef\u76f4\u63a5\u6267\u884c\u7684\u547d\u4ee4\uff08\u5f15\u64ce fork \u81ea WestFox-AwA/dsh-prompt-optimizer\uff0cBSD-3-Clause\uff0c\u7f72\u540d\u4fdd\u7559\uff09",
+    "id": "Ethereal-ljq/dsh-prompt-toolkit",
+    "language": "JavaScript",
+    "name": "Ethereal-ljq/dsh-prompt-toolkit",
+    "stars": 0,
+    "updated_at": "2026-09-16T14:25:48Z",
+    "url": "https://github.com/Ethereal-ljq/dsh-prompt-toolkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-16T14:23:47Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
     "id": "PablitoPJ/drifter-blueprint-vault",
     "language": "HTML",
@@ -9,20 +72,11 @@
     "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34684,
-    "updated_at": "2026-09-16T14:23:05Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
     "id": "Open-Less/openless",
     "language": "Rust",
     "name": "Open-Less/openless",
-    "stars": 3547,
+    "stars": 3548,
     "updated_at": "2026-09-16T14:22:49Z",
     "url": "https://github.com/Open-Less/openless"
   },
@@ -81,7 +135,7 @@
     "url": "https://github.com/Ntizar/MasterMind"
   },
   {
-    "description": "Open-source library of token-efficient prompts \u2014 18 prompts, 14 categories, 3 variants each (Lean/Balanced/Max Quality).",
+    "description": "Open-source library of token-efficient prompts \u2014 120 prompts, 14 categories, 3 variants each (Lean/Balanced/Max Quality)",
     "id": "kishormorol/promptlean",
     "language": "JavaScript",
     "name": "kishormorol/promptlean",
@@ -99,15 +153,6 @@
     "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-16T14:15:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
     "id": "CodeAlive-AI/ai-driven-development",
     "language": "Python",
@@ -122,17 +167,8 @@
     "language": "Python",
     "name": "Nanako0129/sepia",
     "stars": 2639,
-    "updated_at": "2026-09-16T14:14:51Z",
+    "updated_at": "2026-09-16T14:28:58Z",
     "url": "https://github.com/Nanako0129/sepia"
-  },
-  {
-    "description": "Portable, agent-agnostic skill library for AI coding agents, grouped into reusable packs for engineering, review, securi",
-    "id": "hi-donwi/Agent-Skills",
-    "language": "Python",
-    "name": "hi-donwi/Agent-Skills",
-    "stars": 0,
-    "updated_at": "2026-09-16T14:14:23Z",
-    "url": "https://github.com/hi-donwi/Agent-Skills"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25179,
-    "updated_at": "2026-09-16T14:23:02Z",
+    "updated_at": "2026-09-16T14:30:09Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4804,
-    "updated_at": "2026-09-16T14:11:19Z",
+    "updated_at": "2026-09-16T14:29:35Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27983,
-    "updated_at": "2026-09-16T14:08:49Z",
+    "updated_at": "2026-09-16T14:26:20Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -221,7 +257,7 @@
     "language": "JavaScript",
     "name": "prasadpatil25/MindSpark",
     "stars": 80,
-    "updated_at": "2026-09-16T14:02:16Z",
+    "updated_at": "2026-09-16T14:30:13Z",
     "url": "https://github.com/prasadpatil25/MindSpark"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Go",
     "name": "sahil87/fab-kit",
     "stars": 31,
-    "updated_at": "2026-09-16T13:55:54Z",
+    "updated_at": "2026-09-16T14:29:40Z",
     "url": "https://github.com/sahil87/fab-kit"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/liuweispace/posterloom-sklls"
   },
   {
-    "description": "AI Made Easy (aimadeeasy) | \u63d0\u793a\u8bcd\u5e93 \u00b7 Prompt library \u00b7 \u30d7\u30ed\u30f3\u30d7\u30c8\u96c6 | \u7f16\u7a0b\u3001AI\u56fe\u7247\u4e0e\u89c6\u9891\uff0c\u4e2d\u82f1\u65e5\u4e09\u8bed",
-    "id": "zhufu0801-sudo/prompt-library",
-    "language": "TypeScript",
-    "name": "zhufu0801-sudo/prompt-library",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:51:26Z",
-    "url": "https://github.com/zhufu0801-sudo/prompt-library"
-  },
-  {
     "description": "AI Engineering Atlas \u2014 The interactive map for understanding modern AI systems, architectures, and engineering patterns.",
     "id": "jie955/AI-Engineering-Atlas",
     "language": "TypeScript",
@@ -414,15 +441,6 @@
     "url": "https://github.com/doodersrage/castcut"
   },
   {
-    "description": "DSH Web \u63d0\u793a\u8bcd\u5de5\u4f5c\u53f0\uff1a\u628a\u8f93\u5165\u6846\u91cc\u7684\u8349\u7a3f\u4f18\u5316\u6210\u4e00\u6761\u53ef\u76f4\u63a5\u6267\u884c\u7684\u547d\u4ee4\uff08\u5f15\u64ce fork \u81ea WestFox-AwA/dsh-prompt-optimizer\uff0cBSD-3-Clause\uff0c\u7f72\u540d\u4fdd\u7559\uff09",
-    "id": "Ethereal-ljq/dsh-prompt-toolkit",
-    "language": "JavaScript",
-    "name": "Ethereal-ljq/dsh-prompt-toolkit",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:48:43Z",
-    "url": "https://github.com/Ethereal-ljq/dsh-prompt-toolkit"
-  },
-  {
     "description": "Skill abierta de direcci\u00f3n de arte publicitaria para producto con cinco comandos",
     "id": "jossslopez/arte-basico",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T13:48:10Z",
     "url": "https://github.com/jossslopez/arte-basico"
-  },
-  {
-    "description": "\u8de8\u5e73\u53f0 AI \u6307\u4ee4\uff08Prompt\uff09\u7ba1\u7406\u4e2d\u5fc3 \u2014\u2014 \u56db\u79cd\u641c\u7d22\uff08\u5feb\u901f/\u6a21\u7cca/\u8fd1\u4e49\u8bcd/\u81ea\u7136\u8bed\u8a00\uff09\u300113 \u7c7b\u667a\u80fd\u81ea\u52a8\u5206\u7c7b\u30016 \u79cd\u7f51\u76d8\u540c\u6b65\u901a\u9053\u3002Windows \u684c\u9762\u7aef + Android\uff0c\u96f6\u6784\u5efa\u7eaf\u524d\u7aef\u3002",
-    "id": "hongrui023/promots",
-    "language": "JavaScript",
-    "name": "hongrui023/promots",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:45:02Z",
-    "url": "https://github.com/hongrui023/promots"
-  },
-  {
-    "description": "Synthelion compresses prompts before they reach any AI model \u2014 cutting token usage by up to 70%, reducing API costs, and",
-    "id": "francescopaolopassaro/Synthelion",
-    "language": "Python",
-    "name": "francescopaolopassaro/Synthelion",
-    "stars": 4,
-    "updated_at": "2026-09-16T13:44:30Z",
-    "url": "https://github.com/francescopaolopassaro/Synthelion"
   }
 ]
