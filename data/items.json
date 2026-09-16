@@ -1,5 +1,140 @@
 [
   {
+    "description": "Responsive web application for performing AI-assisted tasks, such as summarization, translation, explanation and code ge",
+    "id": "lianeheidemann/ai-prompt-studio",
+    "language": "Python",
+    "name": "lianeheidemann/ai-prompt-studio",
+    "stars": 1,
+    "updated_at": "2026-09-16T20:29:00Z",
+    "url": "https://github.com/lianeheidemann/ai-prompt-studio"
+  },
+  {
+    "description": "Production AI agent skills and tool protocols across Claude Code, Cursor, Antigravity, ChatGPT, and Local LLMs",
+    "id": "mehanshbarthwal-lab/universal-agent-skills",
+    "language": "JavaScript",
+    "name": "mehanshbarthwal-lab/universal-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-16T20:27:35Z",
+    "url": "https://github.com/mehanshbarthwal-lab/universal-agent-skills"
+  },
+  {
+    "description": "Your AI coding harness, ported to every client you use. Capture Claude Code (or Codex) rules, hooks, skills, subagents, ",
+    "id": "ucsandman/Agnostic-AI",
+    "language": "JavaScript",
+    "name": "ucsandman/Agnostic-AI",
+    "stars": 11,
+    "updated_at": "2026-09-16T20:27:33Z",
+    "url": "https://github.com/ucsandman/Agnostic-AI"
+  },
+  {
+    "description": "Claude Code plugin with agent skills harvested from real corrections, not invented \u2014 every SKILL.md passes a determinist",
+    "id": "64x-lunicorn/skills",
+    "language": "Shell",
+    "name": "64x-lunicorn/skills",
+    "stars": 0,
+    "updated_at": "2026-09-16T20:25:54Z",
+    "url": "https://github.com/64x-lunicorn/skills"
+  },
+  {
+    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
+    "id": "ericrisco/rsc-harness",
+    "language": "JavaScript",
+    "name": "ericrisco/rsc-harness",
+    "stars": 84,
+    "updated_at": "2026-09-16T20:24:50Z",
+    "url": "https://github.com/ericrisco/rsc-harness"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 21,
+    "updated_at": "2026-09-16T20:24:40Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 25,
+    "updated_at": "2026-09-16T20:21:27Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 72476,
+    "updated_at": "2026-09-16T20:19:46Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Proven-freshness context store for coding agents - mtime-verified reuse, TF-IDF recall, faithful compression. 100% local",
+    "id": "Azertyuiop442/deepshrink",
+    "language": "TypeScript",
+    "name": "Azertyuiop442/deepshrink",
+    "stars": 1,
+    "updated_at": "2026-09-16T20:17:56Z",
+    "url": "https://github.com/Azertyuiop442/deepshrink"
+  },
+  {
+    "description": "Open-source library of token-efficient prompts \u2014 120 prompts, 14 categories, 3 variants each (Lean/Balanced/Max Quality)",
+    "id": "kishormorol/promptlean",
+    "language": "JavaScript",
+    "name": "kishormorol/promptlean",
+    "stars": 11,
+    "updated_at": "2026-09-16T20:17:48Z",
+    "url": "https://github.com/kishormorol/promptlean"
+  },
+  {
+    "description": "Voc\u00ea n\u00e3o come\u00e7a do zero \u2014 chega com impulso. Guarda as pe\u00e7as de site que voc\u00ea j\u00e1 fez e as encontra de volta antes de ger",
+    "id": "harebeats/cannonball",
+    "language": "Python",
+    "name": "harebeats/cannonball",
+    "stars": 12,
+    "updated_at": "2026-09-16T20:17:09Z",
+    "url": "https://github.com/harebeats/cannonball"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11494,
+    "updated_at": "2026-09-16T20:28:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
+    "id": "adrianwedd/cv",
+    "language": "JavaScript",
+    "name": "adrianwedd/cv",
+    "stars": 4,
+    "updated_at": "2026-09-16T20:16:48Z",
+    "url": "https://github.com/adrianwedd/cv"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-16T20:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-09-16T20:15:20Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
     "description": "Claude Cowork Skill f\u00fcr professionelle LinkedIn-Profilanalyse: Gewichtetes Scoring (0\u2013100), Headline/About-Optimierung, ",
     "id": "GodModeAI2025/LinkedInOptimizer",
     "language": "Python",
@@ -32,7 +167,7 @@
     "language": "TypeScript",
     "name": "geniusdapeng-collab/panda-cineforge",
     "stars": 0,
-    "updated_at": "2026-09-16T20:13:27Z",
+    "updated_at": "2026-09-16T20:28:28Z",
     "url": "https://github.com/geniusdapeng-collab/panda-cineforge"
   },
   {
@@ -45,15 +180,6 @@
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   },
   {
-    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
-    "id": "adrianwedd/cv",
-    "language": "JavaScript",
-    "name": "adrianwedd/cv",
-    "stars": 4,
-    "updated_at": "2026-09-16T20:10:35Z",
-    "url": "https://github.com/adrianwedd/cv"
-  },
-  {
     "description": "The Engineering Operating System for AI coding agents. 23 senior workflows, JIT filesystem routing, and zero runtime loc",
     "id": "lowqualityloey/promptkit-os",
     "language": "Shell",
@@ -61,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T20:08:43Z",
     "url": "https://github.com/lowqualityloey/promptkit-os"
-  },
-  {
-    "description": "Voc\u00ea n\u00e3o come\u00e7a do zero \u2014 chega com impulso. Guarda as pe\u00e7as de site que voc\u00ea j\u00e1 fez e as encontra de volta antes de ger",
-    "id": "harebeats/cannonball",
-    "language": "Python",
-    "name": "harebeats/cannonball",
-    "stars": 12,
-    "updated_at": "2026-09-16T20:08:13Z",
-    "url": "https://github.com/harebeats/cannonball"
   },
   {
     "description": "Cognitive scaffolding for coding agents",
@@ -135,15 +252,6 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-16T20:00:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A centralized directory of Kirby Skills\u2014specialized standard operating procedures and frameworks for AI agents.",
     "id": "markkirby125/kirby-skills-collection",
     "language": "\u2014",
@@ -160,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T19:59:07Z",
     "url": "https://github.com/markkirby125/kirby-aiseo-skill"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 25,
-    "updated_at": "2026-09-16T19:58:17Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
     "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
@@ -220,7 +319,7 @@
     "id": "michael-denyer/pstack-claude",
     "language": "TypeScript",
     "name": "michael-denyer/pstack-claude",
-    "stars": 436,
+    "stars": 437,
     "updated_at": "2026-09-16T19:54:02Z",
     "url": "https://github.com/michael-denyer/pstack-claude"
   },
@@ -256,7 +355,7 @@
     "id": "conorbronsdon/avoid-ai-writing",
     "language": "JavaScript",
     "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 4418,
+    "stars": 4419,
     "updated_at": "2026-09-16T19:50:22Z",
     "url": "https://github.com/conorbronsdon/avoid-ai-writing"
   },
@@ -268,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T19:50:09Z",
     "url": "https://github.com/ghalynho10/JobHunt"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11493,
-    "updated_at": "2026-09-16T20:13:30Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
@@ -351,15 +441,6 @@
     "url": "https://github.com/shortcuts/radin"
   },
   {
-    "description": "Claude Code plugin with agent skills harvested from real corrections, not invented \u2014 every SKILL.md passes a determinist",
-    "id": "64x-lunicorn/skills",
-    "language": "Shell",
-    "name": "64x-lunicorn/skills",
-    "stars": 0,
-    "updated_at": "2026-09-16T19:38:47Z",
-    "url": "https://github.com/64x-lunicorn/skills"
-  },
-  {
     "description": "\u901a\u8fc7\u5bf9\u8bdd\u4e3b\u52a8\u5411\u4f60\u4e86\u89e3\u8bfe\u7a0b\u3001\u57fa\u7840\u4e0e\u5b66\u4e60\u504f\u597d\uff0c\u751f\u6210\u4e13\u5c5e\u6559\u5b66\u6216\u8d44\u6599\u6574\u7406\u63d0\u793a\u8bcd\uff0c\u63d0\u9ad8ai\u8bfe\u5802\u8d28\u91cf\u548c\u6548\u7387\uff0c\u8ba9 AI \u6309\u4f60\u786e\u8ba4\u7684\u76ee\u6807\u4e0e\u65b9\u5f0f\u5e26\u4f60\u5b66\u3002",
     "id": "wojiaozyh123-hub/good-teacher",
     "language": "\u2014",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T19:38:27Z",
     "url": "https://github.com/wojiaozyh123-hub/good-teacher"
-  },
-  {
-    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
-    "id": "parkerluxu/Awesome-agent-cases",
-    "language": "JavaScript",
-    "name": "parkerluxu/Awesome-agent-cases",
-    "stars": 11,
-    "updated_at": "2026-09-16T19:37:10Z",
-    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination",
-    "id": "neomjs/neo-agent-skills",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-skills",
-    "stars": 10,
-    "updated_at": "2026-09-16T19:35:35Z",
-    "url": "https://github.com/neomjs/neo-agent-skills"
-  },
-  {
-    "description": "A pre-code crucible for Claude Code \u2014 refuses to write code, interrogates your plan against your vault, and hands back a",
-    "id": "tolvi-labs/bastion",
-    "language": "Shell",
-    "name": "tolvi-labs/bastion",
-    "stars": 0,
-    "updated_at": "2026-09-16T19:34:10Z",
-    "url": "https://github.com/tolvi-labs/bastion"
-  },
-  {
-    "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
-    "id": "tobiast5801/mdp-preflight",
-    "language": "\u2014",
-    "name": "tobiast5801/mdp-preflight",
-    "stars": 0,
-    "updated_at": "2026-09-16T19:31:08Z",
-    "url": "https://github.com/tobiast5801/mdp-preflight"
-  },
-  {
-    "description": "AI writes code faster than anyone can reason about it. product-playbook puts evidence gates between the phases: 21 Claud",
-    "id": "kish21/product-playbook",
-    "language": "Python",
-    "name": "kish21/product-playbook",
-    "stars": 3,
-    "updated_at": "2026-09-16T19:30:43Z",
-    "url": "https://github.com/kish21/product-playbook"
-  },
-  {
-    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
-    "id": "gmaheshraju/Hands-on-AgenticAI",
-    "language": "JavaScript",
-    "name": "gmaheshraju/Hands-on-AgenticAI",
-    "stars": 0,
-    "updated_at": "2026-09-16T19:30:36Z",
-    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
-  },
-  {
-    "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
-    "id": "Irongrey-genusengelmannia453/zero-context",
-    "language": "HTML",
-    "name": "Irongrey-genusengelmannia453/zero-context",
-    "stars": 0,
-    "updated_at": "2026-09-16T19:29:05Z",
-    "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
-  },
-  {
-    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-09-16T19:28:41Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25186,
-    "updated_at": "2026-09-16T19:31:44Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
