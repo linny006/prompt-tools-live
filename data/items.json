@@ -1,5 +1,113 @@
 [
   {
+    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
+    "id": "PablitoPJ/drifter-blueprint-vault",
+    "language": "HTML",
+    "name": "PablitoPJ/drifter-blueprint-vault",
+    "stars": 0,
+    "updated_at": "2026-09-16T14:23:35Z",
+    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34684,
+    "updated_at": "2026-09-16T14:23:05Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Win",
+    "id": "Open-Less/openless",
+    "language": "Rust",
+    "name": "Open-Less/openless",
+    "stars": 3547,
+    "updated_at": "2026-09-16T14:22:49Z",
+    "url": "https://github.com/Open-Less/openless"
+  },
+  {
+    "description": "Enterprise AI prompts for knowledge workers - PM, Career, AI Policy and more",
+    "id": "pawellach/pm-ai-prompts",
+    "language": "Shell",
+    "name": "pawellach/pm-ai-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-16T14:22:41Z",
+    "url": "https://github.com/pawellach/pm-ai-prompts"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-09-16T14:21:37Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": "Skills told agents how. A syllabus tells them in what order \u2014 and when they may skip.",
+    "id": "rustybladerunner/agent-syllabus",
+    "language": "JavaScript",
+    "name": "rustybladerunner/agent-syllabus",
+    "stars": 0,
+    "updated_at": "2026-09-16T14:20:47Z",
+    "url": "https://github.com/rustybladerunner/agent-syllabus"
+  },
+  {
+    "description": "A clan of orcs that crafts and orchestrates the software development lifecycle for AI coding agents.",
+    "id": "karloows/orchraft",
+    "language": "Shell",
+    "name": "karloows/orchraft",
+    "stars": 2,
+    "updated_at": "2026-09-16T14:20:21Z",
+    "url": "https://github.com/karloows/orchraft"
+  },
+  {
+    "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 51,
+    "updated_at": "2026-09-16T14:19:45Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
+    "id": "Ntizar/MasterMind",
+    "language": "Python",
+    "name": "Ntizar/MasterMind",
+    "stars": 2,
+    "updated_at": "2026-09-16T14:19:18Z",
+    "url": "https://github.com/Ntizar/MasterMind"
+  },
+  {
+    "description": "Open-source library of token-efficient prompts \u2014 18 prompts, 14 categories, 3 variants each (Lean/Balanced/Max Quality).",
+    "id": "kishormorol/promptlean",
+    "language": "JavaScript",
+    "name": "kishormorol/promptlean",
+    "stars": 11,
+    "updated_at": "2026-09-16T14:18:31Z",
+    "url": "https://github.com/kishormorol/promptlean"
+  },
+  {
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "HTML",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 3,
+    "updated_at": "2026-09-16T14:15:55Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-16T14:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
     "id": "CodeAlive-AI/ai-driven-development",
     "language": "Python",
@@ -32,7 +140,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25179,
-    "updated_at": "2026-09-16T14:13:42Z",
+    "updated_at": "2026-09-16T14:23:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -90,15 +198,6 @@
     "url": "https://github.com/FeatherHunter/dsh-prompt"
   },
   {
-    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
-    "id": "JadeYingWah/gpt-series-reasoning-style",
-    "language": "HTML",
-    "name": "JadeYingWah/gpt-series-reasoning-style",
-    "stars": 3,
-    "updated_at": "2026-09-16T14:08:09Z",
-    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -144,24 +243,6 @@
     "url": "https://github.com/domengabrovsek/agent-config"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34684,
-    "updated_at": "2026-09-16T14:08:45Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-16T14:00:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "A curated library of reusable LLM prompts for domain experts, personas, creative practice, structured workflows, and arc",
     "id": "1arry1iu/archetype",
     "language": "Python",
@@ -169,15 +250,6 @@
     "stars": 56,
     "updated_at": "2026-09-16T14:00:17Z",
     "url": "https://github.com/1arry1iu/archetype"
-  },
-  {
-    "description": "Open-source library of token-efficient prompts \u2014 18 prompts, 14 categories, 3 variants each (Lean/Balanced/Max Quality).",
-    "id": "kishormorol/promptlean",
-    "language": "JavaScript",
-    "name": "kishormorol/promptlean",
-    "stars": 11,
-    "updated_at": "2026-09-16T13:59:50Z",
-    "url": "https://github.com/kishormorol/promptlean"
   },
   {
     "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
@@ -333,15 +405,6 @@
     "url": "https://github.com/weicyang/llm-eng-cards"
   },
   {
-    "description": "Enterprise AI prompts for knowledge workers - PM, Career, AI Policy and more",
-    "id": "pawellach/pm-ai-prompts",
-    "language": "Shell",
-    "name": "pawellach/pm-ai-prompts",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:49:49Z",
-    "url": "https://github.com/pawellach/pm-ai-prompts"
-  },
-  {
     "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
     "id": "doodersrage/castcut",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-16T13:44:30Z",
     "url": "https://github.com/francescopaolopassaro/Synthelion"
-  },
-  {
-    "description": "David Petry's Website --->  Music \u00b7 Education \u00b7 Technology \u00b7 Innovation",
-    "id": "davidpetry-cloud/david-petry-site",
-    "language": "HTML",
-    "name": "davidpetry-cloud/david-petry-site",
-    "stars": 1,
-    "updated_at": "2026-09-16T13:42:34Z",
-    "url": "https://github.com/davidpetry-cloud/david-petry-site"
-  },
-  {
-    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u7384\u5b66\u7b97\u547d\u5360\u535c\u5de5\u5177\u5305\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
-    "id": "Brhiza/mingyu",
-    "language": "TypeScript",
-    "name": "Brhiza/mingyu",
-    "stars": 422,
-    "updated_at": "2026-09-16T13:43:06Z",
-    "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
-    "description": "Trustworthy AI Agent Skills: A Capability-Declared, Attested, and Evaluated Agent Skills library.",
-    "id": "kunalsuri/1000x-Agent-Skills",
-    "language": "Python",
-    "name": "kunalsuri/1000x-Agent-Skills",
-    "stars": 1,
-    "updated_at": "2026-09-16T13:42:15Z",
-    "url": "https://github.com/kunalsuri/1000x-Agent-Skills"
-  },
-  {
-    "description": "AI \u751f\u6210\u6d4b\u8bd5\u7528\u4f8b\u80fd\u529b\u7684\u53ef\u590d\u73b0\u5bf9\u7167\u5b9e\u9a8c\uff1a\u76f2\u6d4b + \u53d8\u5f02\u6d4b\u8bd5\u3002\u8986\u76d6\u7387 +24.3pp\uff0c\u771f bug \u96f6\u547d\u4e2d\u3002",
-    "id": "manonglaowang/ai-test-workbench",
-    "language": "Python",
-    "name": "manonglaowang/ai-test-workbench",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:40:46Z",
-    "url": "https://github.com/manonglaowang/ai-test-workbench"
-  },
-  {
-    "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
-    "id": "tobiast5801/mdp-preflight",
-    "language": "\u2014",
-    "name": "tobiast5801/mdp-preflight",
-    "stars": 0,
-    "updated_at": "2026-09-16T13:31:18Z",
-    "url": "https://github.com/tobiast5801/mdp-preflight"
-  },
-  {
-    "description": "\u7c7b\u4e66\u5f0f AI Agent \u6280\u80fd\u5927\u5178 \u00b7 \u7cbe\u9009/\u4e2d\u6587\u5316/\u4e92\u89c1\u6210\u7f51\u7684 500+ \u5f00\u6e90\u6280\u80fd\uff0c\u53ef\u4f5c\u4e3a Claude Code \u63d2\u4ef6\u5e02\u573a\u4e00\u952e\u5b89\u88c5\u3002A curated, cross-referenced encyclopedia of 500+ ope",
-    "id": "findscripter/everything-skills",
-    "language": "JavaScript",
-    "name": "findscripter/everything-skills",
-    "stars": 3,
-    "updated_at": "2026-09-16T13:30:16Z",
-    "url": "https://github.com/findscripter/everything-skills"
-  },
-  {
-    "description": "DSH Web \u8f93\u5165\u6846\u63a5\u7ba1\uff08v0.3.9-beta.1 \u00b7 \u4f18\u5316\u7b56\u7565\u56de\u9000\u5230 0.1.1 \u00b7 \u9488\u5bf9 PTC \u6a21\u5f0f\u4f18\u5316\uff0c\u5efa\u8bae\u5728 PTC \u6a21\u5f0f\u4e0b\u4f7f\u7528 \u00b7 \u9002\u7528\u4e8e dsh-0.1.6-alpha.1\uff09\uff1a\u53d1\u9001\u524d\u7528\u72ec\u7acb AI\uff08\u4f20\u8bdd\u8005\uff09\u628a\u63d0\u793a\u8bcd\u4f18\u5316\u6210\u53ef\u76f4",
-    "id": "WestFox-AwA/dsh-prompt-optimizer",
-    "language": "HTML",
-    "name": "WestFox-AwA/dsh-prompt-optimizer",
-    "stars": 50,
-    "updated_at": "2026-09-16T13:30:14Z",
-    "url": "https://github.com/WestFox-AwA/dsh-prompt-optimizer"
   }
 ]
