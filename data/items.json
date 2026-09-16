@@ -1,5 +1,140 @@
 [
   {
+    "description": " A curated system of production-ready Claude Code skills with quantitative evaluation reports, golden test fixtures, and",
+    "id": "johnqtcg/awesome-skills",
+    "language": "Python",
+    "name": "johnqtcg/awesome-skills",
+    "stars": 30,
+    "updated_at": "2026-09-16T10:14:58Z",
+    "url": "https://github.com/johnqtcg/awesome-skills"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 27978,
+    "updated_at": "2026-09-16T10:14:44Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34678,
+    "updated_at": "2026-09-16T10:12:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI \u76f4\u64ad\u95f4\u573a\u666f\u4e0e\u8d34\u7247\u63d0\u793a\u8bcd\u5e93 \u2014\u2014 \u80cc\u666f\u89c6\u9891\u5c42 + \u524d\u666f\u8d34\u7247\u5c42\u7684\u8bbe\u8ba1\u65b9\u6cd5\u4e0e\u91cf\u5316\u9a8c\u6536\u6807\u51c6",
+    "id": "SpongebobKing/ai-livestream-prompt-kit",
+    "language": "\u2014",
+    "name": "SpongebobKing/ai-livestream-prompt-kit",
+    "stars": 0,
+    "updated_at": "2026-09-16T10:11:36Z",
+    "url": "https://github.com/SpongebobKing/ai-livestream-prompt-kit"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22057,
+    "updated_at": "2026-09-16T10:14:48Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "Python",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 3,
+    "updated_at": "2026-09-16T10:10:25Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 21,
+    "updated_at": "2026-09-16T10:10:21Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Still trusting results that AI generated, tested, and declared successful by itself? This Claude Code methodology adds e",
+    "id": "sergeeey/Claude-cod-top-2026",
+    "language": "Python",
+    "name": "sergeeey/Claude-cod-top-2026",
+    "stars": 8,
+    "updated_at": "2026-09-16T10:10:27Z",
+    "url": "https://github.com/sergeeey/Claude-cod-top-2026"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-09-16T10:07:55Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Static analyzer for AI system prompts: parses a prompt into normative rules and reports contradictions, coverage gaps, p",
+    "id": "hermes-labs-ai/rule-audit",
+    "language": "Python",
+    "name": "hermes-labs-ai/rule-audit",
+    "stars": 2,
+    "updated_at": "2026-09-16T10:06:21Z",
+    "url": "https://github.com/hermes-labs-ai/rule-audit"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-09-16T10:05:53Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4801,
+    "updated_at": "2026-09-16T10:14:59Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "28 agents IA qui connaissent les m\u00e9tiers et les secteurs fran\u00e7ais : BTP, notariat, sant\u00e9, expertise comptable, collectiv",
+    "id": "ORIQ-IA/agents-metiers-fr",
+    "language": "JavaScript",
+    "name": "ORIQ-IA/agents-metiers-fr",
+    "stars": 0,
+    "updated_at": "2026-09-16T10:03:45Z",
+    "url": "https://github.com/ORIQ-IA/agents-metiers-fr"
+  },
+  {
+    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
+    "id": "synaptiai/synapti-marketplace",
+    "language": "Shell",
+    "name": "synaptiai/synapti-marketplace",
+    "stars": 6,
+    "updated_at": "2026-09-16T10:01:09Z",
+    "url": "https://github.com/synaptiai/synapti-marketplace"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-16T10:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "730 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a ",
     "id": "kydlikebtc/awesome-grokbot",
     "language": "Python",
@@ -18,40 +153,13 @@
     "url": "https://github.com/Amer-CN/super-official-writer"
   },
   {
-    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
-    "id": "synaptiai/synapti-marketplace",
-    "language": "Shell",
-    "name": "synaptiai/synapti-marketplace",
-    "stars": 6,
-    "updated_at": "2026-09-16T10:00:22Z",
-    "url": "https://github.com/synaptiai/synapti-marketplace"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34678,
-    "updated_at": "2026-09-16T09:58:39Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
     "id": "mrwogu/promptscript",
     "language": "TypeScript",
     "name": "mrwogu/promptscript",
     "stars": 396,
-    "updated_at": "2026-09-16T09:54:54Z",
+    "updated_at": "2026-09-16T10:02:48Z",
     "url": "https://github.com/mrwogu/promptscript"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-16T09:54:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
@@ -68,7 +176,7 @@
     "language": "Shell",
     "name": "chiragmangaldev3112/agent-playbooks",
     "stars": 1,
-    "updated_at": "2026-09-16T09:53:32Z",
+    "updated_at": "2026-09-16T10:03:17Z",
     "url": "https://github.com/chiragmangaldev3112/agent-playbooks"
   },
   {
@@ -140,7 +248,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25166,
-    "updated_at": "2026-09-16T09:58:44Z",
+    "updated_at": "2026-09-16T10:08:32Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -171,24 +279,6 @@
     "url": "https://github.com/neopen/story-shot-agent"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27978,
-    "updated_at": "2026-09-16T09:47:44Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22056,
-    "updated_at": "2026-09-16T09:59:09Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
     "id": "IBM/mcp-context-forge",
     "language": "Python",
@@ -211,7 +301,7 @@
     "id": "sodam-ai/SoDam-Persona-Codex",
     "language": "JavaScript",
     "name": "sodam-ai/SoDam-Persona-Codex",
-    "stars": 6,
+    "stars": 8,
     "updated_at": "2026-09-16T09:44:00Z",
     "url": "https://github.com/sodam-ai/SoDam-Persona-Codex"
   },
@@ -279,15 +369,6 @@
     "url": "https://github.com/Brhiza/mingyu"
   },
   {
-    "description": "28 agents IA qui connaissent les m\u00e9tiers et les secteurs fran\u00e7ais : BTP, notariat, sant\u00e9, expertise comptable, collectiv",
-    "id": "ORIQ-IA/agents-metiers-fr",
-    "language": "JavaScript",
-    "name": "ORIQ-IA/agents-metiers-fr",
-    "stars": 0,
-    "updated_at": "2026-09-16T09:37:11Z",
-    "url": "https://github.com/ORIQ-IA/agents-metiers-fr"
-  },
-  {
     "description": "AI music prompt nodes for ComfyUI \u2014 73 style presets plus song analysis for MiniMax Music 3 and YuE2. Runs on CPU.",
     "id": "TheLocalLab/ComfyUI-SongScribe",
     "language": "Python",
@@ -295,15 +376,6 @@
     "stars": 13,
     "updated_at": "2026-09-16T09:36:40Z",
     "url": "https://github.com/TheLocalLab/ComfyUI-SongScribe"
-  },
-  {
-    "description": " A curated system of production-ready Claude Code skills with quantitative evaluation reports, golden test fixtures, and",
-    "id": "johnqtcg/awesome-skills",
-    "language": "Python",
-    "name": "johnqtcg/awesome-skills",
-    "stars": 30,
-    "updated_at": "2026-09-16T09:36:04Z",
-    "url": "https://github.com/johnqtcg/awesome-skills"
   },
   {
     "description": "AI-powered Japanese tutor app that corrects sentences with structured LLM feedback and generates flashcards from your co",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T09:23:33Z",
     "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
-  },
-  {
-    "description": "Research-backed, role-adaptive AI literacy platform \u2014 interactive modules on LLMs, prompt engineering, and responsible A",
-    "id": "Artem1bar/ai-literacy-app",
-    "language": "TypeScript",
-    "name": "Artem1bar/ai-literacy-app",
-    "stars": 0,
-    "updated_at": "2026-09-16T09:22:48Z",
-    "url": "https://github.com/Artem1bar/ai-literacy-app"
-  },
-  {
-    "description": "",
-    "id": "asa834/paperforge-2026-paper-workflow",
-    "language": "HTML",
-    "name": "asa834/paperforge-2026-paper-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-16T09:21:44Z",
-    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 1,
-    "updated_at": "2026-09-16T09:21:37Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 2,
-    "updated_at": "2026-09-16T09:21:16Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
-  },
-  {
-    "description": "Access curated prompts and output examples to optimize image generation with the GPT-Image-2 API.",
-    "id": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "language": "\u2014",
-    "name": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "stars": 2,
-    "updated_at": "2026-09-16T09:21:14Z",
-    "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "Enhance video production workflows with AI tools, 4K export support, and professional effects for CapCut.",
-    "id": "Kentlight970/Edit-Master-Pro",
-    "language": "Python",
-    "name": "Kentlight970/Edit-Master-Pro",
-    "stars": 1,
-    "updated_at": "2026-09-16T09:21:05Z",
-    "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
-    "id": "Ekmsi8525/agentsmith",
-    "language": "\u2014",
-    "name": "Ekmsi8525/agentsmith",
-    "stars": 1,
-    "updated_at": "2026-09-16T09:20:54Z",
-    "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "AI\u56fe\u7247\u751f\u6210\u5668| \u6587\u751f\u56fe\u3001\u56fe\u751f\u56fe\u684c\u9762\u5de5\u5177\uff1a\u9002\u914dFLUX\u3001Gemini\u3001GPT-Image\u3001XAI\u3001\u7845\u57fa\u6d41\u52a8\u7b49 19 \u4e2a\u514d\u8d39/\u4ed8\u8d39\u751f\u56feAPI\uff0c\u652f\u6301\u667a\u80fd\u8def\u7531\u3001\u6279\u91cf\u53d8\u4f53\u3001\u63d0\u793a\u8bcd\u4f18\u5316\u4e0e\u961f\u5217\u6279\u91cf\u751f\u6210\u3002",
-    "id": "Aswellle/2image",
-    "language": "Python",
-    "name": "Aswellle/2image",
-    "stars": 3,
-    "updated_at": "2026-09-16T09:20:33Z",
-    "url": "https://github.com/Aswellle/2image"
   }
 ]
