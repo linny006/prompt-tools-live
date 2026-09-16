@@ -1,12 +1,30 @@
 [
   {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 23,
-    "updated_at": "2026-09-16T16:29:50Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
+    "name": "mlflow/mlflow",
+    "stars": 27985,
+    "updated_at": "2026-09-16T16:44:40Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Proven-freshness context store for coding agents - mtime-verified reuse, TF-IDF recall, faithful compression. 100% local",
+    "id": "Azertyuiop442/deepshrink",
+    "language": "TypeScript",
+    "name": "Azertyuiop442/deepshrink",
+    "stars": 1,
+    "updated_at": "2026-09-16T16:44:21Z",
+    "url": "https://github.com/Azertyuiop442/deepshrink"
+  },
+  {
+    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
+    "id": "dimitardamjan7-a11y/spec-flow-framework",
+    "language": "HTML",
+    "name": "dimitardamjan7-a11y/spec-flow-framework",
+    "stars": 0,
+    "updated_at": "2026-09-16T16:43:42Z",
+    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
   },
   {
     "description": "Portable, agent-agnostic skill library for AI coding agents, grouped into reusable packs for engineering, review, securi",
@@ -14,8 +32,143 @@
     "language": "Python",
     "name": "hi-donwi/Agent-Skills",
     "stars": 0,
-    "updated_at": "2026-09-16T16:29:22Z",
+    "updated_at": "2026-09-16T16:43:13Z",
     "url": "https://github.com/hi-donwi/Agent-Skills"
+  },
+  {
+    "description": "Less yapping more coding your tokens will thank you",
+    "id": "BlizPS/lazy-developer-skill",
+    "language": "\u2014",
+    "name": "BlizPS/lazy-developer-skill",
+    "stars": 0,
+    "updated_at": "2026-09-16T16:42:48Z",
+    "url": "https://github.com/BlizPS/lazy-developer-skill"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-16T16:42:14Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "\u76ee\u524d\u6570\u636e\u652f\u6491\u6700\u624e\u5b9e\u7684\u4e2d\u6587\u516c\u6587\u5199\u4f5c Skill\uff1a720 \u671f\u7b14\u6746\u5b50\u535a\u4e3b\u89c6\u9891 + 5 \u672c\u4e13\u8457 + 27 \u4efd\u653f\u5e9c\u5de5\u4f5c\u62a5\u544a \u2192 \u84b8\u998f 965 \u6761\u7ed3\u6784\u5316\u77e5\u8bc6\uff08350 \u4e07\u5b57\u8bed\u6599\u5e95\u8d26\uff09\u3002\u91cf\u5316\u6587\u98ce\u53c2\u6570\u3001GB/T 9704 \u56fd\u6807 docx \u6392\u7248\u300115 \u7528\u4f8b\u56db\u8f6e",
+    "id": "Amer-CN/super-official-writer",
+    "language": "Python",
+    "name": "Amer-CN/super-official-writer",
+    "stars": 2,
+    "updated_at": "2026-09-16T16:41:58Z",
+    "url": "https://github.com/Amer-CN/super-official-writer"
+  },
+  {
+    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
+    "id": "fkiene/llmtrim",
+    "language": "Rust",
+    "name": "fkiene/llmtrim",
+    "stars": 232,
+    "updated_at": "2026-09-16T16:40:57Z",
+    "url": "https://github.com/fkiene/llmtrim"
+  },
+  {
+    "description": "Taste \u2014 independent third-party profile of a public API surface, by API Evangelist. Taste Labs is a San Francisco resear",
+    "id": "api-evangelist/taste",
+    "language": "\u2014",
+    "name": "api-evangelist/taste",
+    "stars": 0,
+    "updated_at": "2026-09-16T16:38:09Z",
+    "url": "https://github.com/api-evangelist/taste"
+  },
+  {
+    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 3,
+    "updated_at": "2026-09-16T16:37:23Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 186,
+    "updated_at": "2026-09-16T16:39:23Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "An easy-going custom SDD protocol for agentic coding \u2014 the paperwork is the agent's problem, not yours.",
+    "id": "vlr-code/PayneSDD",
+    "language": "Shell",
+    "name": "vlr-code/PayneSDD",
+    "stars": 0,
+    "updated_at": "2026-09-16T16:35:39Z",
+    "url": "https://github.com/vlr-code/PayneSDD"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25180,
+    "updated_at": "2026-09-16T16:36:43Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators ",
+    "id": "ZeroLu/awesome-gpt-image",
+    "language": "Python",
+    "name": "ZeroLu/awesome-gpt-image",
+    "stars": 2207,
+    "updated_at": "2026-09-16T16:32:46Z",
+    "url": "https://github.com/ZeroLu/awesome-gpt-image"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1997,
+    "updated_at": "2026-09-16T16:31:17Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
+    "id": "heavenaruba/codified-prompt-rule-engine",
+    "language": "HTML",
+    "name": "heavenaruba/codified-prompt-rule-engine",
+    "stars": 123,
+    "updated_at": "2026-09-16T16:31:16Z",
+    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
+  },
+  {
+    "description": "Real-world examples of AI prompts from the University of Michigan. [DOI: 10.5281/zenodo.15242741]",
+    "id": "DepressionCenter/AI-prompt-database",
+    "language": "CSS",
+    "name": "DepressionCenter/AI-prompt-database",
+    "stars": 11,
+    "updated_at": "2026-09-16T16:31:06Z",
+    "url": "https://github.com/DepressionCenter/AI-prompt-database"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-16T16:30:32Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 23,
+    "updated_at": "2026-09-16T16:29:50Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
     "description": "Enterprise AI engineering covering local inference, Azure OpenAI, RAG, agents, MCP, evaluation, security, and cost contr",
@@ -34,24 +187,6 @@
     "stars": 1853,
     "updated_at": "2026-09-16T16:27:43Z",
     "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-  },
-  {
-    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 3,
-    "updated_at": "2026-09-16T16:26:23Z",
-    "url": "https://github.com/nikolay-e/diffctx"
-  },
-  {
-    "description": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens fr",
-    "id": "fkiene/llmtrim",
-    "language": "Rust",
-    "name": "fkiene/llmtrim",
-    "stars": 232,
-    "updated_at": "2026-09-16T16:26:11Z",
-    "url": "https://github.com/fkiene/llmtrim"
   },
   {
     "description": "Manage and generate prompts quickly with correct context to speedup your AI workflows",
@@ -140,7 +275,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 34691,
-    "updated_at": "2026-09-16T16:29:33Z",
+    "updated_at": "2026-09-16T16:45:17Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -160,24 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T16:17:06Z",
     "url": "https://github.com/api-evangelist/promptlayer"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25180,
-    "updated_at": "2026-09-16T16:18:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-16T16:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
@@ -283,7 +400,7 @@
     "id": "Nanako0129/sepia",
     "language": "Python",
     "name": "Nanako0129/sepia",
-    "stars": 2643,
+    "stars": 2644,
     "updated_at": "2026-09-16T16:04:09Z",
     "url": "https://github.com/Nanako0129/sepia"
   },
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T15:58:47Z",
     "url": "https://github.com/innovationengines/skills-repo"
-  },
-  {
-    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
-    "id": "JuliusBrussee/caveman",
-    "language": "Go",
-    "name": "JuliusBrussee/caveman",
-    "stars": 105941,
-    "updated_at": "2026-09-16T15:58:16Z",
-    "url": "https://github.com/JuliusBrussee/caveman"
-  },
-  {
-    "description": "Claude Code skill/plugin that rewrites a raw question into a high-performing LLM prompt by auto-selecting research-backe",
-    "id": "host452b/polish",
-    "language": "Python",
-    "name": "host452b/polish",
-    "stars": 0,
-    "updated_at": "2026-09-16T15:58:12Z",
-    "url": "https://github.com/host452b/polish"
-  },
-  {
-    "description": "Open-source prompt development and orchestration system powered by Supabase.",
-    "id": "MichaelZelbel/querino",
-    "language": "TypeScript",
-    "name": "MichaelZelbel/querino",
-    "stars": 1,
-    "updated_at": "2026-09-16T15:57:42Z",
-    "url": "https://github.com/MichaelZelbel/querino"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 1,
-    "updated_at": "2026-09-16T15:56:48Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "A fleet of specialized AI agents \u2014 each one a neurotype, each one a specialist. Installs in one command.",
-    "id": "emb715/neurodiveragents",
-    "language": "JavaScript",
-    "name": "emb715/neurodiveragents",
-    "stars": 2,
-    "updated_at": "2026-09-16T15:56:48Z",
-    "url": "https://github.com/emb715/neurodiveragents"
-  },
-  {
-    "description": "Synthelion compresses prompts before they reach any AI model \u2014 cutting token usage by up to 70%, reducing API costs, and",
-    "id": "francescopaolopassaro/Synthelion",
-    "language": "Python",
-    "name": "francescopaolopassaro/Synthelion",
-    "stars": 4,
-    "updated_at": "2026-09-16T15:55:29Z",
-    "url": "https://github.com/francescopaolopassaro/Synthelion"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 27985,
-    "updated_at": "2026-09-16T15:54:59Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-16T16:23:05Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "UI Design Agent Kit: prompt kit for a UI/UX agent with spring physics, tool routing, design contract, and evidence-based",
-    "id": "muzimu217/ui-design-agent-kit",
-    "language": "JavaScript",
-    "name": "muzimu217/ui-design-agent-kit",
-    "stars": 19,
-    "updated_at": "2026-09-16T15:51:28Z",
-    "url": "https://github.com/muzimu217/ui-design-agent-kit"
-  },
-  {
-    "description": "Klu \u2014 independent third-party profile of a public API surface, by API Evangelist. Klu (klu.ai) is an LLM app platform fo",
-    "id": "api-evangelist/klu-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/klu-ai",
-    "stars": 0,
-    "updated_at": "2026-09-16T15:47:41Z",
-    "url": "https://github.com/api-evangelist/klu-ai"
-  },
-  {
-    "description": "Rust port of prompt-chainmail-ts. Security middleware that shields AI applications from prompt injection, jailbreaking, ",
-    "id": "prompt-chainmail/prompt-chainmail-rs",
-    "language": "Rust",
-    "name": "prompt-chainmail/prompt-chainmail-rs",
-    "stars": 1,
-    "updated_at": "2026-09-16T15:47:29Z",
-    "url": "https://github.com/prompt-chainmail/prompt-chainmail-rs"
-  },
-  {
-    "description": "Agent Package Manager",
-    "id": "microsoft/apm",
-    "language": "Python",
-    "name": "microsoft/apm",
-    "stars": 3824,
-    "updated_at": "2026-09-16T16:13:03Z",
-    "url": "https://github.com/microsoft/apm"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-09-16T15:45:00Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
   }
 ]
