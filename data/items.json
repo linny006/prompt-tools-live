@@ -1,5 +1,149 @@
 [
   {
+    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
+    "id": "nikolay-e/diffctx",
+    "language": "Rust",
+    "name": "nikolay-e/diffctx",
+    "stars": 3,
+    "updated_at": "2026-09-16T16:14:17Z",
+    "url": "https://github.com/nikolay-e/diffctx"
+  },
+  {
+    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
+    "id": "api-evangelist/phoenix",
+    "language": "\u2014",
+    "name": "api-evangelist/phoenix",
+    "stars": 0,
+    "updated_at": "2026-09-16T16:13:21Z",
+    "url": "https://github.com/api-evangelist/phoenix"
+  },
+  {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
+    "language": "JavaScript",
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 4416,
+    "updated_at": "2026-09-16T16:12:32Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-09-16T16:11:13Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "A local-first workspace for Codex history, instruction audits and reusable Skill drafts. \u56de\u770b\u534f\u4f5c\u4e60\u60ef\uff0c\u6574\u7406\u53ef\u590d\u7528\u65b9\u6cd5\u3002",
+    "id": "wp-a/codex-evolution",
+    "language": "Python",
+    "name": "wp-a/codex-evolution",
+    "stars": 1,
+    "updated_at": "2026-09-16T16:09:32Z",
+    "url": "https://github.com/wp-a/codex-evolution"
+  },
+  {
+    "description": "Open-source library of token-efficient prompts \u2014 120 prompts, 14 categories, 3 variants each (Lean/Balanced/Max Quality)",
+    "id": "kishormorol/promptlean",
+    "language": "JavaScript",
+    "name": "kishormorol/promptlean",
+    "stars": 11,
+    "updated_at": "2026-09-16T16:09:06Z",
+    "url": "https://github.com/kishormorol/promptlean"
+  },
+  {
+    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+    "id": "fysoul17/devlyn-cli",
+    "language": "Python",
+    "name": "fysoul17/devlyn-cli",
+    "stars": 1,
+    "updated_at": "2026-09-16T16:08:56Z",
+    "url": "https://github.com/fysoul17/devlyn-cli"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-09-16T16:06:57Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "Turn goals and existing Agent tools into readable, reviewable, reusable workflow Skills.",
+    "id": "ailiheizi/workflow-to-skill",
+    "language": "HTML",
+    "name": "ailiheizi/workflow-to-skill",
+    "stars": 2,
+    "updated_at": "2026-09-16T16:06:52Z",
+    "url": "https://github.com/ailiheizi/workflow-to-skill"
+  },
+  {
+    "description": "29-case benchmark testing whether frontier LLMs can read biometric JSON well enough to settle a real-money commitment ma",
+    "id": "pvcomms/biometric-json-eval",
+    "language": "Python",
+    "name": "pvcomms/biometric-json-eval",
+    "stars": 0,
+    "updated_at": "2026-09-16T16:05:52Z",
+    "url": "https://github.com/pvcomms/biometric-json-eval"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13429,
+    "updated_at": "2026-09-16T16:04:53Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Framework de orquestaci\u00f3n multi-agente con 143 skills especializados, memoria persistente y ejecuci\u00f3n en NaN.builders. T",
+    "id": "Ntizar/MasterMind",
+    "language": "Python",
+    "name": "Ntizar/MasterMind",
+    "stars": 2,
+    "updated_at": "2026-09-16T16:04:12Z",
+    "url": "https://github.com/Ntizar/MasterMind"
+  },
+  {
+    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
+    "id": "Nanako0129/sepia",
+    "language": "Python",
+    "name": "Nanako0129/sepia",
+    "stars": 2642,
+    "updated_at": "2026-09-16T16:04:09Z",
+    "url": "https://github.com/Nanako0129/sepia"
+  },
+  {
+    "description": "Kerangka dulu, baru menulis. Skill terbuka untuk Claude dan model AI lain.",
+    "id": "bryankwandou/rangka",
+    "language": "HTML",
+    "name": "bryankwandou/rangka",
+    "stars": 0,
+    "updated_at": "2026-09-16T16:03:44Z",
+    "url": "https://github.com/bryankwandou/rangka"
+  },
+  {
+    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
+    "id": "lizhiyao/oh-my-knowledge",
+    "language": "TypeScript",
+    "name": "lizhiyao/oh-my-knowledge",
+    "stars": 22,
+    "updated_at": "2026-09-16T16:03:32Z",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-16T16:00:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Open-source starter skills for AI video shot planning and review",
     "id": "masonmosen/cueshot-starter-skills",
     "language": "Python",
@@ -31,7 +175,7 @@
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 105931,
+    "stars": 105935,
     "updated_at": "2026-09-16T15:58:16Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -99,6 +243,15 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34690,
+    "updated_at": "2026-09-16T15:53:58Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
@@ -106,33 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T15:53:48Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "29-case benchmark testing whether frontier LLMs can read biometric JSON well enough to settle a real-money commitment ma",
-    "id": "pvcomms/biometric-json-eval",
-    "language": "Python",
-    "name": "pvcomms/biometric-json-eval",
-    "stars": 0,
-    "updated_at": "2026-09-16T15:53:42Z",
-    "url": "https://github.com/pvcomms/biometric-json-eval"
-  },
-  {
-    "description": "Kerangka dulu, baru menulis. Skill terbuka untuk Claude dan model AI lain.",
-    "id": "bryankwandou/rangka",
-    "language": "HTML",
-    "name": "bryankwandou/rangka",
-    "stars": 0,
-    "updated_at": "2026-09-16T15:53:32Z",
-    "url": "https://github.com/bryankwandou/rangka"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34689,
-    "updated_at": "2026-09-16T15:53:58Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Evidence-first, fantasy-themed curriculum for agentic development with GitHub Copilot across VS Code, CLI, cloud agent, ",
@@ -153,15 +279,6 @@
     "url": "https://github.com/byhsr/prmptly"
   },
   {
-    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
-    "id": "conorbronsdon/avoid-ai-writing",
-    "language": "JavaScript",
-    "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 4416,
-    "updated_at": "2026-09-16T15:48:46Z",
-    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
-  },
-  {
     "description": "UI Design Agent Kit: prompt kit for a UI/UX agent with spring physics, tool routing, design contract, and evidence-based",
     "id": "muzimu217/ui-design-agent-kit",
     "language": "JavaScript",
@@ -169,15 +286,6 @@
     "stars": 19,
     "updated_at": "2026-09-16T15:51:28Z",
     "url": "https://github.com/muzimu217/ui-design-agent-kit"
-  },
-  {
-    "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
-    "id": "nikolay-e/diffctx",
-    "language": "Rust",
-    "name": "nikolay-e/diffctx",
-    "stars": 3,
-    "updated_at": "2026-09-16T15:48:09Z",
-    "url": "https://github.com/nikolay-e/diffctx"
   },
   {
     "description": "Klu \u2014 independent third-party profile of a public API surface, by API Evangelist. Klu (klu.ai) is an LLM app platform fo",
@@ -189,15 +297,6 @@
     "url": "https://github.com/api-evangelist/klu-ai"
   },
   {
-    "description": "A local-first workspace for Codex history, instruction audits and reusable Skill drafts. \u56de\u770b\u534f\u4f5c\u4e60\u60ef\uff0c\u6574\u7406\u53ef\u590d\u7528\u65b9\u6cd5\u3002",
-    "id": "wp-a/codex-evolution",
-    "language": "Python",
-    "name": "wp-a/codex-evolution",
-    "stars": 0,
-    "updated_at": "2026-09-16T15:50:13Z",
-    "url": "https://github.com/wp-a/codex-evolution"
-  },
-  {
     "description": "Rust port of prompt-chainmail-ts. Security middleware that shields AI applications from prompt injection, jailbreaking, ",
     "id": "prompt-chainmail/prompt-chainmail-rs",
     "language": "Rust",
@@ -207,30 +306,12 @@
     "url": "https://github.com/prompt-chainmail/prompt-chainmail-rs"
   },
   {
-    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
-    "id": "Nanako0129/sepia",
-    "language": "Python",
-    "name": "Nanako0129/sepia",
-    "stars": 2641,
-    "updated_at": "2026-09-16T15:55:07Z",
-    "url": "https://github.com/Nanako0129/sepia"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-16T15:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "Agent Package Manager",
     "id": "microsoft/apm",
     "language": "Python",
     "name": "microsoft/apm",
     "stars": 3824,
-    "updated_at": "2026-09-16T15:45:11Z",
+    "updated_at": "2026-09-16T16:13:03Z",
     "url": "https://github.com/microsoft/apm"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T15:26:18Z",
     "url": "https://github.com/sonalisrisivani/harness-structure"
-  },
-  {
-    "description": "AI-assisted developer workflow companion for turning diffs and requirements into reviewable plans, with human approval a",
-    "id": "michael-nagen/code-change-agent",
-    "language": "TypeScript",
-    "name": "michael-nagen/code-change-agent",
-    "stars": 0,
-    "updated_at": "2026-09-16T15:26:08Z",
-    "url": "https://github.com/michael-nagen/code-change-agent"
-  },
-  {
-    "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
-    "id": "Irongrey-genusengelmannia453/zero-context",
-    "language": "HTML",
-    "name": "Irongrey-genusengelmannia453/zero-context",
-    "stars": 0,
-    "updated_at": "2026-09-16T15:24:37Z",
-    "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
-  },
-  {
-    "description": "Meridian - A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversa",
-    "id": "MathisVerstrepen/Meridian",
-    "language": "Python",
-    "name": "MathisVerstrepen/Meridian",
-    "stars": 21,
-    "updated_at": "2026-09-16T15:24:06Z",
-    "url": "https://github.com/MathisVerstrepen/Meridian"
-  },
-  {
-    "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
-    "id": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "language": "\u2014",
-    "name": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "stars": 0,
-    "updated_at": "2026-09-16T15:23:54Z",
-    "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
-  },
-  {
-    "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
-    "id": "variant-thripidae875/sols-rng-win-script-hub",
-    "language": "HTML",
-    "name": "variant-thripidae875/sols-rng-win-script-hub",
-    "stars": 0,
-    "updated_at": "2026-09-16T15:23:51Z",
-    "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
-  },
-  {
-    "description": "Prompt IA open-source : analyse juridique des obligations normatives et voies de simplification l\u00e9gales (CC BY-NC 4.0)",
-    "id": "potierdecourcy/prompt-simplification-normative",
-    "language": "\u2014",
-    "name": "potierdecourcy/prompt-simplification-normative",
-    "stars": 0,
-    "updated_at": "2026-09-16T15:21:57Z",
-    "url": "https://github.com/potierdecourcy/prompt-simplification-normative"
-  },
-  {
-    "description": "",
-    "id": "asa834/paperforge-2026-paper-workflow",
-    "language": "HTML",
-    "name": "asa834/paperforge-2026-paper-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-16T15:21:53Z",
-    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 1,
-    "updated_at": "2026-09-16T15:21:48Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 2,
-    "updated_at": "2026-09-16T15:21:28Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
   }
 ]
