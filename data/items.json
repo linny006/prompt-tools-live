@@ -1,5 +1,59 @@
 [
   {
+    "description": "730 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a ",
+    "id": "kydlikebtc/awesome-grokbot",
+    "language": "Python",
+    "name": "kydlikebtc/awesome-grokbot",
+    "stars": 304,
+    "updated_at": "2026-09-16T09:59:30Z",
+    "url": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "description": "\u76ee\u524d\u6570\u636e\u652f\u6491\u6700\u624e\u5b9e\u7684\u4e2d\u6587\u516c\u6587\u5199\u4f5c Skill\uff1a720 \u671f\u7b14\u6746\u5b50\u535a\u4e3b\u89c6\u9891 + 5 \u672c\u4e13\u8457 + 27 \u4efd\u653f\u5e9c\u5de5\u4f5c\u62a5\u544a \u2192 \u84b8\u998f 965 \u6761\u7ed3\u6784\u5316\u77e5\u8bc6\uff08350 \u4e07\u5b57\u8bed\u6599\u5e95\u8d26\uff09\u3002\u91cf\u5316\u6587\u98ce\u53c2\u6570\u3001GB/T 9704 \u56fd\u6807 docx \u6392\u7248\u300115 \u7528\u4f8b\u56db\u8f6e",
+    "id": "Amer-CN/super-official-writer",
+    "language": "Python",
+    "name": "Amer-CN/super-official-writer",
+    "stars": 2,
+    "updated_at": "2026-09-16T09:59:15Z",
+    "url": "https://github.com/Amer-CN/super-official-writer"
+  },
+  {
+    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
+    "id": "synaptiai/synapti-marketplace",
+    "language": "Shell",
+    "name": "synaptiai/synapti-marketplace",
+    "stars": 6,
+    "updated_at": "2026-09-16T10:00:22Z",
+    "url": "https://github.com/synaptiai/synapti-marketplace"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34678,
+    "updated_at": "2026-09-16T09:58:39Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 396,
+    "updated_at": "2026-09-16T09:54:54Z",
+    "url": "https://github.com/mrwogu/promptscript"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-16T09:54:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -9,7 +63,7 @@
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   },
   {
-    "description": "Portable AI-agent playbooks installer -- fix bugs, build features, review code, and more, across any AI coding tool.",
+    "description": "Portable engineering workflows for AI coding agents \u2014 35 playbooks for bug fixing, feature development, code review, tes",
     "id": "chiragmangaldev3112/agent-playbooks",
     "language": "Shell",
     "name": "chiragmangaldev3112/agent-playbooks",
@@ -81,6 +135,15 @@
     "url": "https://github.com/lilhammerfun/clumsies"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25166,
+    "updated_at": "2026-09-16T09:58:44Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "A hands-on Generative AI learning environment featuring practical experiments and projects for building AI-powered appli",
     "id": "soumadip-dev/GenAI-Playground",
     "language": "Python",
@@ -122,26 +185,17 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22056,
-    "updated_at": "2026-09-16T09:50:42Z",
+    "updated_at": "2026-09-16T09:59:09Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25165,
-    "updated_at": "2026-09-16T09:50:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
+    "description": "An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi",
+    "id": "IBM/mcp-context-forge",
     "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-16T09:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
+    "name": "IBM/mcp-context-forge",
+    "stars": 4479,
+    "updated_at": "2026-09-16T10:00:19Z",
+    "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
     "description": "The Engineering Operating System for AI coding agents. 23 senior workflows, JIT filesystem routing, and zero runtime loc",
@@ -223,15 +277,6 @@
     "stars": 422,
     "updated_at": "2026-09-16T09:42:35Z",
     "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34679,
-    "updated_at": "2026-09-16T09:52:48Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "28 agents IA qui connaissent les m\u00e9tiers et les secteurs fran\u00e7ais : BTP, notariat, sant\u00e9, expertise comptable, collectiv",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-16T09:20:33Z",
     "url": "https://github.com/Aswellle/2image"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 1,
-    "updated_at": "2026-09-16T09:20:10Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "\u7528\u51af\u5510\u8bf4\u7406\u6563\u6587\u7684\u8bed\u8a00\u7ed3\u6784\u5199\u4e2d\u6587\u957f\u6587\u7684 Codex Skill\u3002\u4ece\u7ea6 100 \u4e07\u5b57\u8bed\u6599\u91cf\u5316\u63d0\u53d6\u7ed3\u6784\u673a\u5236\uff0c\u542b\u81ea\u68c0\u5de5\u5177\u3002",
-    "id": "da-damu/fengtang-style",
-    "language": "Python",
-    "name": "da-damu/fengtang-style",
-    "stars": 0,
-    "updated_at": "2026-09-16T09:20:05Z",
-    "url": "https://github.com/da-damu/fengtang-style"
-  },
-  {
-    "description": "UI Design Agent Kit: prompt kit for a UI/UX agent with spring physics, tool routing, design contract, and evidence-based",
-    "id": "muzimu217/ui-design-agent-kit",
-    "language": "JavaScript",
-    "name": "muzimu217/ui-design-agent-kit",
-    "stars": 19,
-    "updated_at": "2026-09-16T09:20:02Z",
-    "url": "https://github.com/muzimu217/ui-design-agent-kit"
-  },
-  {
-    "description": "Evidence-based AI workflow for analysing job applications, transferable skills and development gaps.",
-    "id": "chrisredman005-crypto/ai-job-application-assistant",
-    "language": "\u2014",
-    "name": "chrisredman005-crypto/ai-job-application-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-16T09:18:51Z",
-    "url": "https://github.com/chrisredman005-crypto/ai-job-application-assistant"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-16T09:18:21Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
   }
 ]
