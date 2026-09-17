@@ -1,5 +1,104 @@
 [
   {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 21,
+    "updated_at": "2026-09-17T14:14:42Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "\u8070\u660e\u4f7f\u7528 AI \u7684\u77e5\u8b58\u5eab \u2014 AI knowledge base: Claude Code, Context Engineering, local LLM, AI agents. From concepts to hands-on.",
+    "id": "jason3e7/ai-101",
+    "language": "HTML",
+    "name": "jason3e7/ai-101",
+    "stars": 1,
+    "updated_at": "2026-09-17T14:14:35Z",
+    "url": "https://github.com/jason3e7/ai-101"
+  },
+  {
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-09-17T14:14:06Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
+    "id": "tubasa821004-hash/social-manipulation-radar",
+    "language": "HTML",
+    "name": "tubasa821004-hash/social-manipulation-radar",
+    "stars": 0,
+    "updated_at": "2026-09-17T14:13:33Z",
+    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
+  },
+  {
+    "description": "\u63d0\u793a\u8bcd\u5de5\u4f5c\u6d41\u5de5\u4f5c\u53f0 \u00b7 2026 \u4e0a\u6d77\u5f00\u6e90\u8f6f\u4ef6\u5e94\u7528\u521b\u65b0\u5927\u8d5b\u53c2\u8d5b\u4f5c\u54c1\uff08\u5f00\u6e90 AI \u5de5\u5177\u8d5b\u9053\uff09",
+    "id": "longxing-alt/promptstudio",
+    "language": "Python",
+    "name": "longxing-alt/promptstudio",
+    "stars": 0,
+    "updated_at": "2026-09-17T14:13:30Z",
+    "url": "https://github.com/longxing-alt/promptstudio"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34725,
+    "updated_at": "2026-09-17T14:15:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "One-shot build discipline for AI coding: correct context, SHA-bound proof, parallel-safe multi-agent leases. One stdlib ",
+    "id": "shahmanager/frontier",
+    "language": "Python",
+    "name": "shahmanager/frontier",
+    "stars": 0,
+    "updated_at": "2026-09-17T14:08:19Z",
+    "url": "https://github.com/shahmanager/frontier"
+  },
+  {
+    "description": "Prompt injection detection API. One HTTP call detects jailbreaks, system-prompt extraction, code injection and credentia",
+    "id": "ianreboot/safeprompt",
+    "language": "Python",
+    "name": "ianreboot/safeprompt",
+    "stars": 2,
+    "updated_at": "2026-09-17T14:14:04Z",
+    "url": "https://github.com/ianreboot/safeprompt"
+  },
+  {
+    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
+    "id": "Nanako0129/sepia",
+    "language": "Python",
+    "name": "Nanako0129/sepia",
+    "stars": 2661,
+    "updated_at": "2026-09-17T14:10:06Z",
+    "url": "https://github.com/Nanako0129/sepia"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-17T14:00:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22095,
+    "updated_at": "2026-09-17T14:07:04Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -63,15 +162,6 @@
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
   },
   {
-    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-09-17T13:56:53Z",
-    "url": "https://github.com/blauwtje/exo"
-  },
-  {
     "description": "Roadmap first free and legal AI resources: courses, books, papers, tools, APIs, labs, and communities, ordered from foun",
     "id": "mohabdelkarim/awesome-ai-resources",
     "language": "Python",
@@ -108,20 +198,11 @@
     "url": "https://github.com/robertaustinbell/herbert"
   },
   {
-    "description": "One-shot build discipline for AI coding: correct context, SHA-bound proof, parallel-safe multi-agent leases. One stdlib ",
-    "id": "shahmanager/frontier",
-    "language": "Python",
-    "name": "shahmanager/frontier",
-    "stars": 0,
-    "updated_at": "2026-09-17T13:48:26Z",
-    "url": "https://github.com/shahmanager/frontier"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25220,
+    "stars": 25222,
     "updated_at": "2026-09-17T13:47:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -135,15 +216,6 @@
     "url": "https://github.com/Heybinshao/prompt-enhancer"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-17T13:45:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "\u8df3\u86db\u5148\u751f\u7684 AIGC \u521b\u4f5c\u65b9\u6cd5\u8bba\u516c\u5f00\u77e5\u8bc6\u5e93\uff0c\u6c89\u6dc0 AI \u56fe\u50cf\u3001\u89c6\u9891\u3001\u97f3\u4e50\u3001\u89d2\u8272\u4e00\u81f4\u6027\u3001\u590d\u76d8\u673a\u5236\u4e0e\u4eba\u673a\u534f\u4f5c\u5de5\u4f5c\u6d41\u4e2d\u7684\u53ef\u590d\u7528 insight\u3002",
     "id": "Mr-Salticidae/knowledge-base",
     "language": "Python",
@@ -151,24 +223,6 @@
     "stars": 27,
     "updated_at": "2026-09-17T13:43:45Z",
     "url": "https://github.com/Mr-Salticidae/knowledge-base"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22095,
-    "updated_at": "2026-09-17T14:00:26Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34725,
-    "updated_at": "2026-09-17T13:59:02Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI coding agent \u5de5\u7a0b\u6280\u80fd\u5305\uff1a25 \u500b skill\u30019 \u500b slash command\uff0c\u6db5\u84cb spec\u2192plan\u2192build\u2192verify\u2192review\u2192ship\uff5cProduction-grade engineering sk",
@@ -347,7 +401,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4484,
-    "updated_at": "2026-09-17T13:44:52Z",
+    "updated_at": "2026-09-17T14:12:09Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -365,7 +419,7 @@
     "language": "TypeScript",
     "name": "Brhiza/mingyu",
     "stars": 427,
-    "updated_at": "2026-09-17T13:18:52Z",
+    "updated_at": "2026-09-17T14:07:38Z",
     "url": "https://github.com/Brhiza/mingyu"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-17T13:16:08Z",
     "url": "https://github.com/xingtu1996/xingtu-ai-engineering"
-  },
-  {
-    "description": "A requirements compiler and verification framework that turns an incomplete AI-task request into an auditable, versioned",
-    "id": "MazenAbbas/groundspec",
-    "language": "Python",
-    "name": "MazenAbbas/groundspec",
-    "stars": 0,
-    "updated_at": "2026-09-17T13:16:56Z",
-    "url": "https://github.com/MazenAbbas/groundspec"
-  },
-  {
-    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
-    "id": "heavenaruba/codified-prompt-rule-engine",
-    "language": "HTML",
-    "name": "heavenaruba/codified-prompt-rule-engine",
-    "stars": 123,
-    "updated_at": "2026-09-17T13:14:16Z",
-    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11516,
-    "updated_at": "2026-09-17T13:11:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-09-17T13:10:53Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1481,
-    "updated_at": "2026-09-17T13:08:56Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-09-17T13:08:47Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
   }
 ]
