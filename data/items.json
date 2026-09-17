@@ -1,5 +1,140 @@
 [
   {
+    "description": "The creator kit: 145 Claude Code commands, 23 skills and 5 agents that carry their own DTD grammar, laws and trust bound",
+    "id": "Nova-Violet-Role/RoT-DtD-Commander",
+    "language": "JavaScript",
+    "name": "Nova-Violet-Role/RoT-DtD-Commander",
+    "stars": 3,
+    "updated_at": "2026-09-17T01:30:15Z",
+    "url": "https://github.com/Nova-Violet-Role/RoT-DtD-Commander"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-09-17T01:29:37Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
+    "id": "tuantranute-it/icm-graph-context-flow",
+    "language": "HTML",
+    "name": "tuantranute-it/icm-graph-context-flow",
+    "stars": 1,
+    "updated_at": "2026-09-17T01:29:21Z",
+    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
+  },
+  {
+    "description": "Metis is a coding agent that boosts AI/LLM coding performance by 50%",
+    "id": "Wholiver/metis",
+    "language": "TypeScript",
+    "name": "Wholiver/metis",
+    "stars": 142,
+    "updated_at": "2026-09-17T01:27:23Z",
+    "url": "https://github.com/Wholiver/metis"
+  },
+  {
+    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude ",
+    "id": "conorbronsdon/avoid-ai-writing",
+    "language": "JavaScript",
+    "name": "conorbronsdon/avoid-ai-writing",
+    "stars": 4424,
+    "updated_at": "2026-09-17T01:27:19Z",
+    "url": "https://github.com/conorbronsdon/avoid-ai-writing"
+  },
+  {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 25,
+    "updated_at": "2026-09-17T01:26:46Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen",
+    "id": "simota/agent-skills",
+    "language": "Python",
+    "name": "simota/agent-skills",
+    "stars": 78,
+    "updated_at": "2026-09-17T01:25:39Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "AI Engineering Atlas \u2014 The interactive map for understanding modern AI systems, architectures, and engineering patterns.",
+    "id": "jie955/AI-Engineering-Atlas",
+    "language": "TypeScript",
+    "name": "jie955/AI-Engineering-Atlas",
+    "stars": 1,
+    "updated_at": "2026-09-17T01:24:39Z",
+    "url": "https://github.com/jie955/AI-Engineering-Atlas"
+  },
+  {
+    "description": "A multi-agent prototype for manufacturing B2B overseas market research and prospect prioritization.",
+    "id": "mycatcute/industrial-global-sales-ai-agent",
+    "language": "Python",
+    "name": "mycatcute/industrial-global-sales-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-09-17T01:24:08Z",
+    "url": "https://github.com/mycatcute/industrial-global-sales-ai-agent"
+  },
+  {
+    "description": "190 GPT-6 Astra 3D examples: Blender, Houdini, Rhino, Three.js, Godot & CAD. 56 source projects, 71 demos, 94 full video",
+    "id": "carpentry-liu/awesome-astra-3d",
+    "language": "TypeScript",
+    "name": "carpentry-liu/awesome-astra-3d",
+    "stars": 8,
+    "updated_at": "2026-09-17T01:23:44Z",
+    "url": "https://github.com/carpentry-liu/awesome-astra-3d"
+  },
+  {
+    "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
+    "id": "ryanduguid/llm-tax-guardrails",
+    "language": "Python",
+    "name": "ryanduguid/llm-tax-guardrails",
+    "stars": 0,
+    "updated_at": "2026-09-17T01:19:33Z",
+    "url": "https://github.com/ryanduguid/llm-tax-guardrails"
+  },
+  {
+    "description": "\u7535\u5546\u89c6\u89c9\u6587\u6848\u8bbe\u8ba1SOP Skill - \u8ba9\u7535\u5546\u8bbe\u8ba1\u5c0f\u767d\u4e5f\u80fd\u4e00\u952e\u505a\u51fa5\u5e74\u8d44\u6df1\u8bbe\u8ba1\u7ecf\u9a8c\u7684\u5546\u54c1\u56fe\u7247.\u517c\u5bb9 Claude / Codex / Cursor / Workbuddy \u7b49 SKILL.md Agent. AI-powered e-com",
+    "id": "feichanggege/ecommerce-visual-copywriting-skill",
+    "language": "Python",
+    "name": "feichanggege/ecommerce-visual-copywriting-skill",
+    "stars": 770,
+    "updated_at": "2026-09-17T01:18:35Z",
+    "url": "https://github.com/feichanggege/ecommerce-visual-copywriting-skill"
+  },
+  {
+    "description": "Explain how anything works like I'm 5 \u2014 built around cause and effect.",
+    "id": "prgmr99/eli5-flow",
+    "language": "TypeScript",
+    "name": "prgmr99/eli5-flow",
+    "stars": 0,
+    "updated_at": "2026-09-17T01:18:23Z",
+    "url": "https://github.com/prgmr99/eli5-flow"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-09-17T01:16:45Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-17T01:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Agentic job-search workspace built on Claude Code: JD-tailored resumes, personalized outreach, a schema-driven tracker, ",
     "id": "JeffreyZhu2323/agentic-job-search",
     "language": "Python",
@@ -14,7 +149,7 @@
     "language": "Python",
     "name": "naodeng/awesome-qa-skills",
     "stars": 212,
-    "updated_at": "2026-09-17T01:14:32Z",
+    "updated_at": "2026-09-17T01:19:45Z",
     "url": "https://github.com/naodeng/awesome-qa-skills"
   },
   {
@@ -68,7 +203,7 @@
     "language": "TypeScript",
     "name": "jmagly/aiwg",
     "stars": 213,
-    "updated_at": "2026-09-17T01:09:12Z",
+    "updated_at": "2026-09-17T01:18:42Z",
     "url": "https://github.com/jmagly/aiwg"
   },
   {
@@ -77,7 +212,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27989,
-    "updated_at": "2026-09-17T01:10:21Z",
+    "updated_at": "2026-09-17T01:24:53Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -151,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T01:00:44Z",
     "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-17T01:00:29Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
@@ -261,15 +387,6 @@
     "url": "https://github.com/Ekmsi8525/agentsmith"
   },
   {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 25,
-    "updated_at": "2026-09-17T00:57:13Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
-  },
-  {
     "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
     "id": "linnetforeign896/app-monitor",
     "language": "Swift",
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T00:52:47Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "The creator kit: 145 Claude Code commands, 23 skills and 5 agents that carry their own DTD grammar, laws and trust bound",
-    "id": "Nova-Violet-Role/RoT-DtD-Commander",
-    "language": "JavaScript",
-    "name": "Nova-Violet-Role/RoT-DtD-Commander",
-    "stars": 3,
-    "updated_at": "2026-09-17T00:52:45Z",
-    "url": "https://github.com/Nova-Violet-Role/RoT-DtD-Commander"
-  },
-  {
-    "description": "Build precise goal prompts for Claude CLI agents using a five-section template to ensure audit-friendly execution and ef",
-    "id": "quiescencycommonrush642/goal-prompt-builder",
-    "language": "\u2014",
-    "name": "quiescencycommonrush642/goal-prompt-builder",
-    "stars": 1,
-    "updated_at": "2026-09-17T00:52:11Z",
-    "url": "https://github.com/quiescencycommonrush642/goal-prompt-builder"
-  },
-  {
-    "description": "Access a collection of proven AI prompts and workflow templates for creating high-performing YouTube Shorts and vertical",
-    "id": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "language": "\u2014",
-    "name": "teddahippocratic9414/awesome-ai-youtube-shorts-prompts",
-    "stars": 1,
-    "updated_at": "2026-09-17T00:51:56Z",
-    "url": "https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25186,
-    "updated_at": "2026-09-17T00:53:36Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Integrate Claude AI into Microsoft Word to write, edit, and summarize documents directly within your desktop application",
-    "id": "fatinzark-stack/Claude-for-Word-Desktop",
-    "language": "JavaScript",
-    "name": "fatinzark-stack/Claude-for-Word-Desktop",
-    "stars": 1,
-    "updated_at": "2026-09-17T00:51:29Z",
-    "url": "https://github.com/fatinzark-stack/Claude-for-Word-Desktop"
-  },
-  {
-    "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
-    "id": "fysoul17/devlyn-cli",
-    "language": "Python",
-    "name": "fysoul17/devlyn-cli",
-    "stars": 1,
-    "updated_at": "2026-09-17T00:51:15Z",
-    "url": "https://github.com/fysoul17/devlyn-cli"
-  },
-  {
-    "description": "Automate academic research workflows with tools for proposal writing, medical imaging literature reviews, and paper pres",
-    "id": "khoman9874/research-skills-guide",
-    "language": "\u2014",
-    "name": "khoman9874/research-skills-guide",
-    "stars": 1,
-    "updated_at": "2026-09-17T00:50:33Z",
-    "url": "https://github.com/khoman9874/research-skills-guide"
-  },
-  {
-    "description": "",
-    "id": "celestynallmains51/claude-nexus",
-    "language": "\u2014",
-    "name": "celestynallmains51/claude-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:50:30Z",
-    "url": "https://github.com/celestynallmains51/claude-nexus"
-  },
-  {
-    "description": "Synthesize multiple AI answers into one clear recommendation and save time deciding what to trust",
-    "id": "abi71111/Ai-Answer-Synthesizer",
-    "language": "\u2014",
-    "name": "abi71111/Ai-Answer-Synthesizer",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:50:27Z",
-    "url": "https://github.com/abi71111/Ai-Answer-Synthesizer"
-  },
-  {
-    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
-    "id": "api-evangelist/phoenix",
-    "language": "\u2014",
-    "name": "api-evangelist/phoenix",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:50:27Z",
-    "url": "https://github.com/api-evangelist/phoenix"
-  },
-  {
-    "description": "Analyze and visualize SQL in PHP code to find security risks, performance issues, and query patterns across frameworks",
-    "id": "straightrazorgagarin889/sqlens",
-    "language": "TypeScript",
-    "name": "straightrazorgagarin889/sqlens",
-    "stars": 1,
-    "updated_at": "2026-09-17T00:50:03Z",
-    "url": "https://github.com/straightrazorgagarin889/sqlens"
-  },
-  {
-    "description": "Build a B2B sales policy copilot for compliance, pricing, and risk checks with LLMs, LangChain, and structured business ",
-    "id": "Stunning-navelorange917/Agent-Pathway",
-    "language": "Python",
-    "name": "Stunning-navelorange917/Agent-Pathway",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:49:51Z",
-    "url": "https://github.com/Stunning-navelorange917/Agent-Pathway"
-  },
-  {
-    "description": "Explore Claude Code prompt references for system, tool, skill, command, memory, and agent prompts in one organized repo",
-    "id": "moiralongspurred78/claude-code-prompts-reference",
-    "language": "\u2014",
-    "name": "moiralongspurred78/claude-code-prompts-reference",
-    "stars": 0,
-    "updated_at": "2026-09-17T00:49:41Z",
-    "url": "https://github.com/moiralongspurred78/claude-code-prompts-reference"
   }
 ]
