@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-17 21:45 UTC
+> ⏰ Last updated: 2026-09-17 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [arnoldwender/dharma-harness](https://github.com/arnoldwender/dharma-harness) | 0 | Python | 2026-09-17 | A conduct codex for AI coding agents, skinned as dharma — four virtues from the yamas/niyamas and the Gita (Shaucha, Viv |
-| 2 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-09-17 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
-| 3 | [arnoldwender/bushido-harness](https://github.com/arnoldwender/bushido-harness) | 0 | Python | 2026-09-17 | A conduct codex for AI coding agents, skinned as the warrior's code — four virtues (Rei, Gi, Makoto, Chugi), each rule w |
-| 4 | [Hefrock/agent-skills](https://github.com/Hefrock/agent-skills) | 0 | Python | 2026-09-17 | Portable AI agent skills built on the open SKILL.md standard  — self-contained capabilities any compatible agent can dis |
-| 5 | [Brhiza/mingyu](https://github.com/Brhiza/mingyu) | 427 | TypeScript | 2026-09-17 | 八字、紫微、星盘、六爻、梅花、奇门、大六壬、小六壬、塔罗、雷诺曼、灵签、择日一站式玄学算命占卜工具包，输出结构化提示词与数据。提供公开 API、MCP Server 与 skill。 |
-| 6 | [hraness/gobstopper](https://github.com/hraness/gobstopper) | 0 | Rust | 2026-09-17 | Automatic context compaction for coding-agent sessions — Codex and Claude Code today, any JSONL-transcript agent tomorro |
-| 7 | [aryrabelo/next-action-protocol](https://github.com/aryrabelo/next-action-protocol) | 0 | Shell | 2026-09-17 | Every agent response ends in exactly one unambiguous next action: [DONE], [DECIDE], [HUMAN] or [WAIT]. |
-| 8 | [lowqualityloey/promptkit-os](https://github.com/lowqualityloey/promptkit-os) | 0 | PowerShell | 2026-09-17 | The Engineering Operating System for AI coding agents. 23 senior workflows, JIT filesystem routing, and zero runtime loc |
-| 9 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-09-17 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 10 | [miguelmartens/opencode-caveman](https://github.com/miguelmartens/opencode-caveman) | 1 | JavaScript | 2026-09-17 | Caveman for OpenCode: terse output mode that cuts agent tokens without losing technical accuracy. Always-on ruleset inje |
-| 11 | [ekayaprod/jules-agent-roster](https://github.com/ekayaprod/jules-agent-roster) | 3 | JavaScript | 2026-09-17 | The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi |
-| 12 | [axelfreeman/marketing-mindset](https://github.com/axelfreeman/marketing-mindset) | 31 | HTML | 2026-09-17 | Open-source skill (MIT) that gives AI agents a marketer's mindset: volume floors, kill rules, positioning, offers, outre |
-| 13 | [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | 5987 | Python | 2026-09-17 | The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t |
-| 14 | [Quazmoz/agentdefaults](https://github.com/Quazmoz/agentdefaults) | 2 | Python | 2026-09-17 | Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie |
-| 15 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-17 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
-| 16 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-09-17 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
-| 17 | [IBM/responsible-prompting-api](https://github.com/IBM/responsible-prompting-api) | 50 | Jupyter Notebook | 2026-09-17 | Responsible Prompting is an LLM-agnostic tool that aims at dynamically supporting users in crafting prompts that embed r |
-| 18 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-09-17 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
-| 19 | [CodeAlive-AI/ai-driven-development](https://github.com/CodeAlive-AI/ai-driven-development) | 138 | Python | 2026-09-17 | Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope |
-| 20 | [AminMusah/reframe](https://github.com/AminMusah/reframe) | 0 | TypeScript | 2026-09-17 | Draw your idea, get interviewed about it and paste the prompt into your coding agent. |
-| 21 | [arnoldwender/nerd-harness](https://github.com/arnoldwender/nerd-harness) | 0 | Python | 2026-09-17 | A conduct codex for AI coding agents, skinned as the hacker ethic — four disciplines (Leave It Hackable, Read the Source |
-| 22 | [vivek-viswam-rv/ai-customer-support](https://github.com/vivek-viswam-rv/ai-customer-support) | 0 | JavaScript | 2026-09-17 | LLM-powered customer support agent that automates support ticket handling. |
-| 23 | [arnoldwender/angelical-harness](https://github.com/arnoldwender/angelical-harness) | 0 | Python | 2026-09-17 | A conduct codex for AI coding agents: four disciplines, each rule with a falsifier. Named for the angels that guard the  |
-| 24 | [arnoldwender/agnostic-harness](https://github.com/arnoldwender/agnostic-harness) | 0 | Python | 2026-09-17 | A secular conduct codex for AI coding agents: four disciplines, each rule with a falsifier. The reason-and-craft sibling |
-| 25 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-09-17 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
-| 26 | [NullframeAI/modeldepth](https://github.com/NullframeAI/modeldepth) | 0 | — | 2026-09-17 | Below the interface: LLM behavior maps, prompting depth, and evaluation rigs. |
-| 27 | [arnoldwender/ihsan-harness](https://github.com/arnoldwender/ihsan-harness) | 0 | Python | 2026-09-17 | A conduct codex for AI coding agents, skinned as the Islamic ethic of craft — four virtues (Adab, Hikmah, Sidq, Sabr) un |
-| 28 | [MincongZhou/fengge-distill](https://github.com/MincongZhou/fengge-distill) | 1 | JavaScript | 2026-09-17 | 把@峰哥亡命天涯 的 1,921 条微博（18 个月，跨封禁前后两期）+ 4,163 条≥30赞评论，蒸馏成可复用的「峰哥语体引擎」：串子、蹭子、装颓、被看穿的自我吹嘘。含语料管道(nodejs)、话术演进分期参考、筛选脚本、统计口径。 / |
-| 29 | [hysohail/agentic-experiment-designer](https://github.com/hysohail/agentic-experiment-designer) | 0 | HTML | 2026-09-17 | Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement |
-| 30 | [Nyanna/XY.AI.Workbench](https://github.com/Nyanna/XY.AI.Workbench) | 1 | Python | 2026-09-17 | XY.AI Workbench – Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R |
-| 31 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 118 | HTML | 2026-09-17 | HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code |
-| 32 | [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) | 52 | Python | 2026-09-17 | Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's |
-| 33 | [damanoreshkan-beep/dream-skill](https://github.com/damanoreshkan-beep/dream-skill) | 0 | — | 2026-09-17 | A one-breath awareness primer skill for Claude Code and other agents — DreamStudio style. |
-| 34 | [RuloGB/opencode-persona](https://github.com/RuloGB/opencode-persona) | 2 | TypeScript | 2026-09-17 | Persona is a plugin for OpenCode that adapts the assistant to each user's professional role. |
-| 35 | [konradre/video-production-skills](https://github.com/konradre/video-production-skills) | 3 | Python | 2026-09-17 | Agent skills for making video from generated footage: pre-production, cost-gated generation, edit, audio, finish and QC |
-| 36 | [ryanportfolio/savetokens](https://github.com/ryanportfolio/savetokens) | 1 | HTML | 2026-09-17 | Token-saving techniques for Claude Code and Codex, published as a component datasheet. Measured before-and-after figures |
-| 37 | [PromptBranch/promptbranch](https://github.com/PromptBranch/promptbranch) | 2 | TypeScript | 2026-09-17 | Local-first prompt library and version-control system for AI prompts (Desktop App, CLI, MCP Server, and AI execution eng |
-| 38 | [ardha27/seedance-prompts](https://github.com/ardha27/seedance-prompts) | 2 | Python | 2026-09-17 | ByteDance Seedance 2.0 & 2.5 prompt engineering toolkit with FTS5 search over 1,500+ community prompt cards. |
-| 39 | [ariffazil/arifOS](https://github.com/ariffazil/arifOS) | 51 | Python | 2026-09-17 | Independent policy kernel for AI agents: judge before execute. F1–F13 floors, VAULT999 receipts. Not a model. Not a chat |
-| 40 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 39117 | JavaScript | 2026-09-17 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
-| 41 | [jamestexas/agents](https://github.com/jamestexas/agents) | 2 | JavaScript | 2026-09-17 | Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in |
-| 42 | [tubasa821004-hash/social-manipulation-radar](https://github.com/tubasa821004-hash/social-manipulation-radar) | 0 | HTML | 2026-09-17 | AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics |
-| 43 | [Irene-Busah/llm-engineering-course](https://github.com/Irene-Busah/llm-engineering-course) | 0 | Jupyter Notebook | 2026-09-17 | A hands-on journey into Generative AI and LLM Engineering — covering frontier and open-source models, RAG, agents, multi |
-| 44 | [KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.2](https://github.com/KraLurmumcoelcarix-173/Digital-Lab-Coach-v0.1.2) | 0 | Python | 2026-09-17 | 🛠️ UNC Hybrid LLM Assisted Computer Organization Digital Lab Feedback + Test writing + Debug + Test Expanding Tool |
-| 45 | [sutro-sh/sutro](https://github.com/sutro-sh/sutro) | 17 | Python | 2026-09-17 | Optimize and run consistent AI Functions. |
-| 46 | [eddlev/vm4ai-air-kit](https://github.com/eddlev/vm4ai-air-kit) | 4 | Python | 2026-09-17 | AI work, carried forward - a prompt-based framework for focused execution, structured handoff and continuity across sess |
-| 47 | [coreyhiggins/grain](https://github.com/coreyhiggins/grain) | 0 | JavaScript | 2026-09-17 | Routes each prompt to the right discipline and injects only the matching guidance. Zero tokens on conversational turns.  |
-| 48 | [yahyambk57-stack/Ai-Object-Isolation-Toolkit](https://github.com/yahyambk57-stack/Ai-Object-Isolation-Toolkit) | 50 | HTML | 2026-09-17 | 2026 Next-Gen AI Photo Background Remover & Object Removal Tool |
-| 49 | [teguhimanulloh47/pirate-talk-for-claude](https://github.com/teguhimanulloh47/pirate-talk-for-claude) | 0 | HTML | 2026-09-17 | Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub |
-| 50 | [h00w/agentic-ai](https://github.com/h00w/agentic-ai) | 4 | Python | 2026-09-17 | Open-source Agentic AI Academy for engineering trustworthy AI agents from learning to production: agents, RAG, MCP, eval |
+| 1 | [heavenaruba/codified-prompt-rule-engine](https://github.com/heavenaruba/codified-prompt-rule-engine) | 123 | HTML | 2026-09-17 | Top 10 Claude Prompt Optimization Frameworks 2026 |
+| 2 | [lowqualityloey/promptkit-os](https://github.com/lowqualityloey/promptkit-os) | 0 | PowerShell | 2026-09-17 | The Engineering Operating System for AI coding agents. 23 senior workflows, JIT filesystem routing, and zero runtime loc |
+| 3 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 1 | Python | 2026-09-17 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
+| 4 | [kuzniarr/ai-native-ba-framework](https://github.com/kuzniarr/ai-native-ba-framework) | 0 | — | 2026-09-17 | Context files, system prompt and skills for an AI-native business analyst workflow on delivery projects. |
+| 5 | [jestersanjay/slim-tools-claude-harness](https://github.com/jestersanjay/slim-tools-claude-harness) | 0 | HTML | 2026-09-17 | SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows |
+| 6 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-09-17 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 7 | [hraness/gobstopper](https://github.com/hraness/gobstopper) | 0 | Rust | 2026-09-17 | Automatic context compaction for coding-agent sessions — Codex and Claude Code today, any JSONL-transcript agent tomorro |
+| 8 | [damanoreshkan-beep/dream-skill](https://github.com/damanoreshkan-beep/dream-skill) | 0 | — | 2026-09-17 | A one-breath awareness primer skill for Claude Code and other agents — DreamStudio style. |
+| 9 | [ryanduguid/llm-tax-guardrails](https://github.com/ryanduguid/llm-tax-guardrails) | 0 | Python | 2026-09-17 | APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work. |
+| 10 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 0 | HTML | 2026-09-17 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
+| 11 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 1 | HTML | 2026-09-17 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
+| 12 | [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | 5987 | Python | 2026-09-17 | The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t |
+| 13 | [tech-guru254/spec-weaver](https://github.com/tech-guru254/spec-weaver) | 0 | HTML | 2026-09-17 | Top AI Prompt Optimizer 2026 – Transform Vague Requests Into Structured Dev Specs |
+| 14 | [kodancrash-oss/prompt-weaver-framework](https://github.com/kodancrash-oss/prompt-weaver-framework) | 0 | HTML | 2026-09-17 | Best Free Prompt Architect AI 2026 – Build Production Prompts with Claude's Interview Framework |
+| 15 | [arnoldwender/junzi-harness](https://github.com/arnoldwender/junzi-harness) | 0 | Python | 2026-09-17 | A conduct codex for AI coding agents, skinned as the Confucian way of the junzi — four disciplines from the Five Constan |
+| 16 | [juniorbaixista4/b2b-outreach-orchestrator](https://github.com/juniorbaixista4/b2b-outreach-orchestrator) | 4 | HTML | 2026-09-17 | AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code |
+| 17 | [leeex1/Quillan-Ronin](https://github.com/leeex1/Quillan-Ronin) | 27 | HTML | 2026-09-17 | Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0- |
+| 18 | [agentik-os/claude-code-skills](https://github.com/agentik-os/claude-code-skills) | 0 | Python | 2026-09-17 | 223 production-ready skills for Claude Code — marketing, design, motion, security, SEO, agent systems. MIT. |
+| 19 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-09-17 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
+| 20 | [emb715/neurodiveragents](https://github.com/emb715/neurodiveragents) | 2 | JavaScript | 2026-09-17 | A fleet of specialized AI agents — each one a neurotype, each one a specialist. Installs in one command. |
+| 21 | [linny006/prompt-tools-live](https://github.com/linny006/prompt-tools-live) | 10 | Python | 2026-09-17 | Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi |
+| 22 | [arnoldwender/dharma-harness](https://github.com/arnoldwender/dharma-harness) | 0 | Python | 2026-09-17 | A conduct codex for AI coding agents, skinned as dharma — four virtues from the yamas/niyamas and the Gita (Shaucha, Viv |
+| 23 | [dimitardamjan7-a11y/spec-flow-framework](https://github.com/dimitardamjan7-a11y/spec-flow-framework) | 0 | HTML | 2026-09-17 | Nam-Cheol/namba-ai → AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026 |
+| 24 | [arnoldwender/bushido-harness](https://github.com/arnoldwender/bushido-harness) | 0 | Python | 2026-09-17 | A conduct codex for AI coding agents, skinned as the warrior's code — four virtues (Rei, Gi, Makoto, Chugi), each rule w |
+| 25 | [Hefrock/agent-skills](https://github.com/Hefrock/agent-skills) | 0 | Python | 2026-09-17 | Portable AI agent skills built on the open SKILL.md standard  — self-contained capabilities any compatible agent can dis |
+| 26 | [Brhiza/mingyu](https://github.com/Brhiza/mingyu) | 427 | TypeScript | 2026-09-17 | 八字、紫微、星盘、六爻、梅花、奇门、大六壬、小六壬、塔罗、雷诺曼、灵签、择日一站式玄学算命占卜工具包，输出结构化提示词与数据。提供公开 API、MCP Server 与 skill。 |
+| 27 | [aryrabelo/next-action-protocol](https://github.com/aryrabelo/next-action-protocol) | 0 | Shell | 2026-09-17 | Every agent response ends in exactly one unambiguous next action: [DONE], [DECIDE], [HUMAN] or [WAIT]. |
+| 28 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-09-17 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
+| 29 | [miguelmartens/opencode-caveman](https://github.com/miguelmartens/opencode-caveman) | 1 | JavaScript | 2026-09-17 | Caveman for OpenCode: terse output mode that cuts agent tokens without losing technical accuracy. Always-on ruleset inje |
+| 30 | [ekayaprod/jules-agent-roster](https://github.com/ekayaprod/jules-agent-roster) | 3 | JavaScript | 2026-09-17 | The master roster of specialized 'Plus' agents for Jules AI. Features the Overseer Protocol for systematic codebase audi |
+| 31 | [axelfreeman/marketing-mindset](https://github.com/axelfreeman/marketing-mindset) | 31 | HTML | 2026-09-17 | Open-source skill (MIT) that gives AI agents a marketer's mindset: volume floors, kill rules, positioning, offers, outre |
+| 32 | [Quazmoz/agentdefaults](https://github.com/Quazmoz/agentdefaults) | 2 | Python | 2026-09-17 | Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie |
+| 33 | [tuantranute-it/icm-graph-context-flow](https://github.com/tuantranute-it/icm-graph-context-flow) | 1 | HTML | 2026-09-17 | Best Token-Efficient AI Coding Tools 2026 – Reduce Costs 90% with Local Memory & MCP |
+| 34 | [IBM/responsible-prompting-api](https://github.com/IBM/responsible-prompting-api) | 50 | Jupyter Notebook | 2026-09-17 | Responsible Prompting is an LLM-agnostic tool that aims at dynamically supporting users in crafting prompts that embed r |
+| 35 | [t02beurko-sys/ai-primer-for-everyone](https://github.com/t02beurko-sys/ai-primer-for-everyone) | 1 | HTML | 2026-09-17 | New AI Tutorials 2026 – No-Code Workflows & Beginner Guides |
+| 36 | [CodeAlive-AI/ai-driven-development](https://github.com/CodeAlive-AI/ai-driven-development) | 138 | Python | 2026-09-17 | Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope |
+| 37 | [AminMusah/reframe](https://github.com/AminMusah/reframe) | 0 | TypeScript | 2026-09-17 | Draw your idea, get interviewed about it and paste the prompt into your coding agent. |
+| 38 | [arnoldwender/nerd-harness](https://github.com/arnoldwender/nerd-harness) | 0 | Python | 2026-09-17 | A conduct codex for AI coding agents, skinned as the hacker ethic — four disciplines (Leave It Hackable, Read the Source |
+| 39 | [vivek-viswam-rv/ai-customer-support](https://github.com/vivek-viswam-rv/ai-customer-support) | 0 | JavaScript | 2026-09-17 | LLM-powered customer support agent that automates support ticket handling. |
+| 40 | [arnoldwender/angelical-harness](https://github.com/arnoldwender/angelical-harness) | 0 | Python | 2026-09-17 | A conduct codex for AI coding agents: four disciplines, each rule with a falsifier. Named for the angels that guard the  |
+| 41 | [arnoldwender/agnostic-harness](https://github.com/arnoldwender/agnostic-harness) | 0 | Python | 2026-09-17 | A secular conduct codex for AI coding agents: four disciplines, each rule with a falsifier. The reason-and-craft sibling |
+| 42 | [cannonade-ai/cannonade](https://github.com/cannonade-ai/cannonade) | 2 | TypeScript | 2026-09-17 | Local-first desktop app for building LLM test suites and running them against many local or cloud models at once |
+| 43 | [NullframeAI/modeldepth](https://github.com/NullframeAI/modeldepth) | 0 | — | 2026-09-17 | Below the interface: LLM behavior maps, prompting depth, and evaluation rigs. |
+| 44 | [arnoldwender/ihsan-harness](https://github.com/arnoldwender/ihsan-harness) | 0 | Python | 2026-09-17 | A conduct codex for AI coding agents, skinned as the Islamic ethic of craft — four virtues (Adab, Hikmah, Sidq, Sabr) un |
+| 45 | [MincongZhou/fengge-distill](https://github.com/MincongZhou/fengge-distill) | 1 | JavaScript | 2026-09-17 | 把@峰哥亡命天涯 的 1,921 条微博（18 个月，跨封禁前后两期）+ 4,163 条≥30赞评论，蒸馏成可复用的「峰哥语体引擎」：串子、蹭子、装颓、被看穿的自我吹嘘。含语料管道(nodejs)、话术演进分期参考、筛选脚本、统计口径。 / |
+| 46 | [hysohail/agentic-experiment-designer](https://github.com/hysohail/agentic-experiment-designer) | 0 | HTML | 2026-09-17 | Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement |
+| 47 | [Nyanna/XY.AI.Workbench](https://github.com/Nyanna/XY.AI.Workbench) | 1 | Python | 2026-09-17 | XY.AI Workbench – Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R |
+| 48 | [kaderkck/hewn-forge](https://github.com/kaderkck/hewn-forge) | 118 | HTML | 2026-09-17 | HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code |
+| 49 | [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) | 52 | Python | 2026-09-17 | Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's |
+| 50 | [RuloGB/opencode-persona](https://github.com/RuloGB/opencode-persona) | 2 | TypeScript | 2026-09-17 | Persona is a plugin for OpenCode that adapts the assistant to each user's professional role. |
 <!-- TRACKER_TABLE_END -->
 
 ---
