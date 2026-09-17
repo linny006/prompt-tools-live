@@ -1,5 +1,167 @@
 [
   {
+    "description": "Reusable AI agent defaults, prompts, skills, wrappers, and MCP video-editing workflows for coding, DevOps, token efficie",
+    "id": "Quazmoz/agentdefaults",
+    "language": "Python",
+    "name": "Quazmoz/agentdefaults",
+    "stars": 2,
+    "updated_at": "2026-09-17T21:30:17Z",
+    "url": "https://github.com/Quazmoz/agentdefaults"
+  },
+  {
+    "description": "Responsible Prompting is an LLM-agnostic tool that aims at dynamically supporting users in crafting prompts that embed r",
+    "id": "IBM/responsible-prompting-api",
+    "language": "Jupyter Notebook",
+    "name": "IBM/responsible-prompting-api",
+    "stars": 50,
+    "updated_at": "2026-09-17T21:29:14Z",
+    "url": "https://github.com/IBM/responsible-prompting-api"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-09-17T21:28:54Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope",
+    "id": "CodeAlive-AI/ai-driven-development",
+    "language": "Python",
+    "name": "CodeAlive-AI/ai-driven-development",
+    "stars": 138,
+    "updated_at": "2026-09-17T21:28:47Z",
+    "url": "https://github.com/CodeAlive-AI/ai-driven-development"
+  },
+  {
+    "description": "Draw your idea, get interviewed about it and paste the prompt into your coding agent.",
+    "id": "AminMusah/reframe",
+    "language": "TypeScript",
+    "name": "AminMusah/reframe",
+    "stars": 0,
+    "updated_at": "2026-09-17T21:27:24Z",
+    "url": "https://github.com/AminMusah/reframe"
+  },
+  {
+    "description": "Caveman for OpenCode: terse output mode that cuts agent tokens without losing technical accuracy. Always-on ruleset inje",
+    "id": "miguelmartens/opencode-caveman",
+    "language": "JavaScript",
+    "name": "miguelmartens/opencode-caveman",
+    "stars": 1,
+    "updated_at": "2026-09-17T21:27:32Z",
+    "url": "https://github.com/miguelmartens/opencode-caveman"
+  },
+  {
+    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "Python",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 5986,
+    "updated_at": "2026-09-17T21:26:40Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Automatic context compaction for coding-agent sessions \u2014 Codex and Claude Code today, any JSONL-transcript agent tomorro",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 0,
+    "updated_at": "2026-09-17T21:24:05Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "A conduct codex for AI coding agents, skinned as the hacker ethic \u2014 four disciplines (Leave It Hackable, Read the Source",
+    "id": "arnoldwender/nerd-harness",
+    "language": "Python",
+    "name": "arnoldwender/nerd-harness",
+    "stars": 0,
+    "updated_at": "2026-09-17T21:23:58Z",
+    "url": "https://github.com/arnoldwender/nerd-harness"
+  },
+  {
+    "description": "LLM-powered customer support agent that automates support ticket handling.",
+    "id": "vivek-viswam-rv/ai-customer-support",
+    "language": "JavaScript",
+    "name": "vivek-viswam-rv/ai-customer-support",
+    "stars": 0,
+    "updated_at": "2026-09-17T21:23:56Z",
+    "url": "https://github.com/vivek-viswam-rv/ai-customer-support"
+  },
+  {
+    "description": "A conduct codex for AI coding agents: four disciplines, each rule with a falsifier. Named for the angels that guard the ",
+    "id": "arnoldwender/angelical-harness",
+    "language": "Python",
+    "name": "arnoldwender/angelical-harness",
+    "stars": 0,
+    "updated_at": "2026-09-17T21:23:36Z",
+    "url": "https://github.com/arnoldwender/angelical-harness"
+  },
+  {
+    "description": "A secular conduct codex for AI coding agents: four disciplines, each rule with a falsifier. The reason-and-craft sibling",
+    "id": "arnoldwender/agnostic-harness",
+    "language": "Python",
+    "name": "arnoldwender/agnostic-harness",
+    "stars": 0,
+    "updated_at": "2026-09-17T21:23:20Z",
+    "url": "https://github.com/arnoldwender/agnostic-harness"
+  },
+  {
+    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
+    "id": "cannonade-ai/cannonade",
+    "language": "TypeScript",
+    "name": "cannonade-ai/cannonade",
+    "stars": 2,
+    "updated_at": "2026-09-17T21:30:05Z",
+    "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
+    "description": "Below the interface: LLM behavior maps, prompting depth, and evaluation rigs.",
+    "id": "NullframeAI/modeldepth",
+    "language": "\u2014",
+    "name": "NullframeAI/modeldepth",
+    "stars": 0,
+    "updated_at": "2026-09-17T21:21:22Z",
+    "url": "https://github.com/NullframeAI/modeldepth"
+  },
+  {
+    "description": "A conduct codex for AI coding agents, skinned as the Islamic ethic of craft \u2014 four virtues (Adab, Hikmah, Sidq, Sabr) un",
+    "id": "arnoldwender/ihsan-harness",
+    "language": "Python",
+    "name": "arnoldwender/ihsan-harness",
+    "stars": 0,
+    "updated_at": "2026-09-17T21:20:16Z",
+    "url": "https://github.com/arnoldwender/ihsan-harness"
+  },
+  {
+    "description": "\u628a@\u5cf0\u54e5\u4ea1\u547d\u5929\u6daf \u7684 1,921 \u6761\u5fae\u535a\uff0818 \u4e2a\u6708\uff0c\u8de8\u5c01\u7981\u524d\u540e\u4e24\u671f\uff09+ 4,163 \u6761\u226530\u8d5e\u8bc4\u8bba\uff0c\u84b8\u998f\u6210\u53ef\u590d\u7528\u7684\u300c\u5cf0\u54e5\u8bed\u4f53\u5f15\u64ce\u300d\uff1a\u4e32\u5b50\u3001\u8e6d\u5b50\u3001\u88c5\u9893\u3001\u88ab\u770b\u7a7f\u7684\u81ea\u6211\u5439\u5618\u3002\u542b\u8bed\u6599\u7ba1\u9053(nodejs)\u3001\u8bdd\u672f\u6f14\u8fdb\u5206\u671f\u53c2\u8003\u3001\u7b5b\u9009\u811a\u672c\u3001\u7edf\u8ba1\u53e3\u5f84\u3002 /",
+    "id": "MincongZhou/fengge-distill",
+    "language": "JavaScript",
+    "name": "MincongZhou/fengge-distill",
+    "stars": 1,
+    "updated_at": "2026-09-17T21:16:30Z",
+    "url": "https://github.com/MincongZhou/fengge-distill"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 0,
+    "updated_at": "2026-09-17T21:15:55Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-17T21:15:26Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
     "id": "Nyanna/XY.AI.Workbench",
     "language": "Python",
@@ -18,24 +180,6 @@
     "url": "https://github.com/kaderkck/hewn-forge"
   },
   {
-    "description": "Automatic context compaction for coding-agent sessions \u2014 Codex and Claude Code today, any JSONL-transcript agent tomorro",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 0,
-    "updated_at": "2026-09-17T21:14:53Z",
-    "url": "https://github.com/hraness/gobstopper"
-  },
-  {
-    "description": "Caveman for OpenCode: terse output mode that cuts agent tokens without losing technical accuracy. Always-on ruleset inje",
-    "id": "miguelmartens/opencode-caveman",
-    "language": "JavaScript",
-    "name": "miguelmartens/opencode-caveman",
-    "stars": 1,
-    "updated_at": "2026-09-17T21:13:15Z",
-    "url": "https://github.com/miguelmartens/opencode-caveman"
-  },
-  {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
     "id": "costiash/claude-code-docs",
     "language": "Python",
@@ -43,15 +187,6 @@
     "stars": 52,
     "updated_at": "2026-09-17T21:13:15Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "LLM-powered customer support agent that automates support ticket handling.",
-    "id": "vivek-viswam-rv/ai-customer-support",
-    "language": "JavaScript",
-    "name": "vivek-viswam-rv/ai-customer-support",
-    "stars": 0,
-    "updated_at": "2026-09-17T21:12:01Z",
-    "url": "https://github.com/vivek-viswam-rv/ai-customer-support"
   },
   {
     "description": "A one-breath awareness primer skill for Claude Code and other agents \u2014 DreamStudio style.",
@@ -95,7 +230,7 @@
     "language": "TypeScript",
     "name": "Brhiza/mingyu",
     "stars": 427,
-    "updated_at": "2026-09-17T21:06:08Z",
+    "updated_at": "2026-09-17T21:28:44Z",
     "url": "https://github.com/Brhiza/mingyu"
   },
   {
@@ -117,30 +252,12 @@
     "url": "https://github.com/ardha27/seedance-prompts"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-17T21:00:32Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
-    "id": "cannonade-ai/cannonade",
-    "language": "TypeScript",
-    "name": "cannonade-ai/cannonade",
-    "stars": 2,
-    "updated_at": "2026-09-17T20:59:35Z",
-    "url": "https://github.com/cannonade-ai/cannonade"
-  },
-  {
     "description": "The Engineering Operating System for AI coding agents. 23 senior workflows, JIT filesystem routing, and zero runtime loc",
     "id": "lowqualityloey/promptkit-os",
     "language": "PowerShell",
     "name": "lowqualityloey/promptkit-os",
     "stars": 0,
-    "updated_at": "2026-09-17T21:14:27Z",
+    "updated_at": "2026-09-17T21:27:00Z",
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
@@ -157,7 +274,7 @@
     "id": "github/awesome-copilot",
     "language": "JavaScript",
     "name": "github/awesome-copilot",
-    "stars": 39115,
+    "stars": 39117,
     "updated_at": "2026-09-17T20:55:45Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -230,7 +347,7 @@
     "language": "JavaScript",
     "name": "ekayaprod/jules-agent-roster",
     "stars": 3,
-    "updated_at": "2026-09-17T20:51:10Z",
+    "updated_at": "2026-09-17T21:30:17Z",
     "url": "https://github.com/ekayaprod/jules-agent-roster"
   },
   {
@@ -266,7 +383,7 @@
     "language": "Python",
     "name": "Hefrock/agent-skills",
     "stars": 0,
-    "updated_at": "2026-09-17T20:49:01Z",
+    "updated_at": "2026-09-17T21:19:55Z",
     "url": "https://github.com/Hefrock/agent-skills"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 72,
     "updated_at": "2026-09-17T20:42:34Z",
     "url": "https://github.com/hermes-labs-ai/lintlang"
-  },
-  {
-    "description": "Curated, verified Agent Skills powered by ModelStudio.",
-    "id": "modelstudioai/skills",
-    "language": "Python",
-    "name": "modelstudioai/skills",
-    "stars": 57,
-    "updated_at": "2026-09-17T20:40:17Z",
-    "url": "https://github.com/modelstudioai/skills"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25232,
-    "updated_at": "2026-09-17T20:49:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-09-17T20:34:00Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Cut Claude Code's skill manifest by ~75% with TypeSafe Jev. Scores every installed skill for relevance and hides the res",
-    "id": "ShivamPansuriya/jev-skill-gate",
-    "language": "JavaScript",
-    "name": "ShivamPansuriya/jev-skill-gate",
-    "stars": 1,
-    "updated_at": "2026-09-17T20:32:54Z",
-    "url": "https://github.com/ShivamPansuriya/jev-skill-gate"
-  },
-  {
-    "description": "An AI-powered, local-first resume and cover letter generator. It dynamically fetches portfolio data from MongoDB and orc",
-    "id": "PLLima/ai-resume-agent",
-    "language": "Python",
-    "name": "PLLima/ai-resume-agent",
-    "stars": 0,
-    "updated_at": "2026-09-17T20:32:01Z",
-    "url": "https://github.com/PLLima/ai-resume-agent"
-  },
-  {
-    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready t",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide",
-    "language": "Python",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide",
-    "stars": 5986,
-    "updated_at": "2026-09-17T20:30:09Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
-  },
-  {
-    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
-    "id": "ralphmoran/ticket-lens",
-    "language": "JavaScript",
-    "name": "ralphmoran/ticket-lens",
-    "stars": 3,
-    "updated_at": "2026-09-17T20:29:12Z",
-    "url": "https://github.com/ralphmoran/ticket-lens"
-  },
-  {
-    "description": "Instructions and templates that set up a project for Claude Code: a CLAUDE.md, a docs/ folder, a plan, an append-only le",
-    "id": "raichominev/project-starter-kit",
-    "language": "Python",
-    "name": "raichominev/project-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-09-17T20:28:13Z",
-    "url": "https://github.com/raichominev/project-starter-kit"
-  },
-  {
-    "description": "A futuristic AI-powered web application builder featuring a multi-agent workflow, live code streaming, Monaco Editor, Fi",
-    "id": "Shashwatss10/PromithicAI",
-    "language": "CSS",
-    "name": "Shashwatss10/PromithicAI",
-    "stars": 1,
-    "updated_at": "2026-09-17T20:28:10Z",
-    "url": "https://github.com/Shashwatss10/PromithicAI"
-  },
-  {
-    "description": "Fluxdwell portfolio \u2014 Retell voice intake + n8n/GHL home-services automation",
-    "id": "indefatigable94/Fluxdwell",
-    "language": "JavaScript",
-    "name": "indefatigable94/Fluxdwell",
-    "stars": 0,
-    "updated_at": "2026-09-17T20:27:36Z",
-    "url": "https://github.com/indefatigable94/Fluxdwell"
-  },
-  {
-    "description": "The platform for LLM evaluations and AI agent testing",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4811,
-    "updated_at": "2026-09-17T21:12:55Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Keywords & questions that can be used as a limited framework for idea/ context generation about a topic of interest. Thi",
-    "id": "OJB-Quantum/Critical-Questions",
-    "language": "Jupyter Notebook",
-    "name": "OJB-Quantum/Critical-Questions",
-    "stars": 6,
-    "updated_at": "2026-09-17T20:23:13Z",
-    "url": "https://github.com/OJB-Quantum/Critical-Questions"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-17T20:23:11Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
   }
 ]
