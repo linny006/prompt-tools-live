@@ -1,5 +1,122 @@
 [
   {
+    "description": "A collection of system prompts and AI kernels for use with large language models.",
+    "id": "thatoldfarm/system-prompt",
+    "language": "HTML",
+    "name": "thatoldfarm/system-prompt",
+    "stars": 6,
+    "updated_at": "2026-09-17T04:13:17Z",
+    "url": "https://github.com/thatoldfarm/system-prompt"
+  },
+  {
+    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
+    "id": "coco-research/coco",
+    "language": "HTML",
+    "name": "coco-research/coco",
+    "stars": 251,
+    "updated_at": "2026-09-17T04:11:12Z",
+    "url": "https://github.com/coco-research/coco"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-09-17T04:11:11Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-09-17T04:09:47Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "An AI agent that runs a SaaS support & billing back office \u2014 versioned SOP-as-prompt, full run tracing, human approval g",
+    "id": "DonSuavvy/opspilot",
+    "language": "TypeScript",
+    "name": "DonSuavvy/opspilot",
+    "stars": 0,
+    "updated_at": "2026-09-17T04:05:21Z",
+    "url": "https://github.com/DonSuavvy/opspilot"
+  },
+  {
+    "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
+    "id": "ianarawjo/ChainForge",
+    "language": "TypeScript",
+    "name": "ianarawjo/ChainForge",
+    "stars": 3029,
+    "updated_at": "2026-09-17T04:10:54Z",
+    "url": "https://github.com/ianarawjo/ChainForge"
+  },
+  {
+    "description": "\ud83c\udf4c World's largest Nano Banana Pro prompt library \u2014 10,000+ curated prompts with preview images, 16 languages. Google Gem",
+    "id": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "stars": 13431,
+    "updated_at": "2026-09-17T04:04:09Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
+  },
+  {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 25,
+    "updated_at": "2026-09-17T04:04:04Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "Agent skills for AI coding agents \u2014 trip planner, Obsidian vault, and more",
+    "id": "aliasunder/agent-skills",
+    "language": "HTML",
+    "name": "aliasunder/agent-skills",
+    "stars": 5,
+    "updated_at": "2026-09-17T04:02:54Z",
+    "url": "https://github.com/aliasunder/agent-skills"
+  },
+  {
+    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
+    "id": "aliasunder/agent-plugins",
+    "language": "\u2014",
+    "name": "aliasunder/agent-plugins",
+    "stars": 0,
+    "updated_at": "2026-09-17T04:02:30Z",
+    "url": "https://github.com/aliasunder/agent-plugins"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25193,
+    "updated_at": "2026-09-17T04:02:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\u6279\u91cf\u81ea\u52a8\u5316\u751f\u6210\u4e00\u955c\u5230\u5e95\u65f6\u7a7a\u5217\u8f66\u89c6\u9891\u7684\u5f00\u6e90 Agent Skill\uff0c\u652f\u6301 15/60 \u79d2 H3 \u63d0\u793a\u8bcd\u3001\u8fde\u7eed\u5173\u952e\u5e27\u4e0e\u6388\u6743\u540e\u89c6\u9891\u751f\u6210\u3002",
+    "id": "squashtrr-prog/time-space-train-skill",
+    "language": "PowerShell",
+    "name": "squashtrr-prog/time-space-train-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T04:00:53Z",
+    "url": "https://github.com/squashtrr-prog/time-space-train-skill"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-17T04:00:33Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
     "id": "ryanduguid/llm-tax-guardrails",
     "language": "Python",
@@ -126,20 +243,11 @@
     "url": "https://github.com/JGRFW/comfyui-AICG3D"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-17T03:45:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "21 Lessons, Get Started Building with Generative AI ",
     "id": "microsoft/generative-ai-for-beginners",
     "language": "Jupyter Notebook",
     "name": "microsoft/generative-ai-for-beginners",
-    "stars": 119906,
+    "stars": 119908,
     "updated_at": "2026-09-17T03:44:45Z",
     "url": "https://github.com/microsoft/generative-ai-for-beginners"
   },
@@ -176,7 +284,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-17T03:42:04Z",
+    "updated_at": "2026-09-17T04:11:41Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -187,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T03:41:51Z",
     "url": "https://github.com/ZhiqingHeyi/asu-resume-forge"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 25,
-    "updated_at": "2026-09-17T03:40:22Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -261,15 +360,6 @@
     "url": "https://github.com/usernamermh/help-sale"
   },
   {
-    "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
-    "id": "coco-research/coco",
-    "language": "HTML",
-    "name": "coco-research/coco",
-    "stars": 249,
-    "updated_at": "2026-09-17T03:20:05Z",
-    "url": "https://github.com/coco-research/coco"
-  },
-  {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
     "id": "jestersanjay/slim-tools-claude-harness",
     "language": "HTML",
@@ -277,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T03:19:58Z",
     "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
-    "id": "aliasunder/agent-plugins",
-    "language": "\u2014",
-    "name": "aliasunder/agent-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:17:47Z",
-    "url": "https://github.com/aliasunder/agent-plugins"
   },
   {
     "description": "Website for Raposa Millar Piano & Theory",
@@ -311,7 +392,7 @@
     "language": "Shell",
     "name": "karloows/orchraft",
     "stars": 2,
-    "updated_at": "2026-09-17T03:50:48Z",
+    "updated_at": "2026-09-17T04:10:18Z",
     "url": "https://github.com/karloows/orchraft"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 186,
     "updated_at": "2026-09-17T03:14:57Z",
     "url": "https://github.com/minipuft/claude-prompts-mcp"
-  },
-  {
-    "description": "An open-source visual programming environment for battle-testing prompts to LLMs.",
-    "id": "ianarawjo/ChainForge",
-    "language": "TypeScript",
-    "name": "ianarawjo/ChainForge",
-    "stars": 3029,
-    "updated_at": "2026-09-17T03:51:10Z",
-    "url": "https://github.com/ianarawjo/ChainForge"
-  },
-  {
-    "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
-    "id": "tobiast5801/mdp-preflight",
-    "language": "\u2014",
-    "name": "tobiast5801/mdp-preflight",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:11:24Z",
-    "url": "https://github.com/tobiast5801/mdp-preflight"
-  },
-  {
-    "description": "BotShelf Vampire Build Library: AI workflow prompts, recipes and code sketches for Ollama, LM Studio, Open WebUI, n8n, C",
-    "id": "BotShelfVampire/botshelf-ai-team-registry",
-    "language": "Python",
-    "name": "BotShelfVampire/botshelf-ai-team-registry",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:09:59Z",
-    "url": "https://github.com/BotShelfVampire/botshelf-ai-team-registry"
-  },
-  {
-    "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
-    "id": "Irongrey-genusengelmannia453/zero-context",
-    "language": "HTML",
-    "name": "Irongrey-genusengelmannia453/zero-context",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:09:29Z",
-    "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
-  },
-  {
-    "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
-    "id": "variant-thripidae875/sols-rng-win-script-hub",
-    "language": "HTML",
-    "name": "variant-thripidae875/sols-rng-win-script-hub",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:08:44Z",
-    "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
-  },
-  {
-    "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
-    "id": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "language": "\u2014",
-    "name": "Rosmarinusofficinalispoloneck995/anti-slop",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:08:43Z",
-    "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
-  },
-  {
-    "description": "A Codex Skill for creating interactive, shareable HTML presentations from speaking goals.",
-    "id": "SuperWBY/wby-html-ppt",
-    "language": "Python",
-    "name": "SuperWBY/wby-html-ppt",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:07:01Z",
-    "url": "https://github.com/SuperWBY/wby-html-ppt"
-  },
-  {
-    "description": "",
-    "id": "asa834/paperforge-2026-paper-workflow",
-    "language": "HTML",
-    "name": "asa834/paperforge-2026-paper-workflow",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:07:01Z",
-    "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "Visualize, design, and share ontologies with this browser-based tool for Microsoft Fabric IQ, featuring a visual editor ",
-    "id": "afrazpindari14-commits/Ontology-Playground",
-    "language": "TypeScript",
-    "name": "afrazpindari14-commits/Ontology-Playground",
-    "stars": 1,
-    "updated_at": "2026-09-17T03:06:58Z",
-    "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
   }
 ]
