@@ -1,12 +1,48 @@
 [
   {
+    "description": "An AI-powered, local-first resume and cover letter generator. It dynamically fetches portfolio data from MongoDB and orc",
+    "id": "PLLima/ai-resume-agent",
+    "language": "Python",
+    "name": "PLLima/ai-resume-agent",
+    "stars": 0,
+    "updated_at": "2026-09-17T01:43:49Z",
+    "url": "https://github.com/PLLima/ai-resume-agent"
+  },
+  {
+    "description": "Agent context, cast from one roster. Change what a role may do and the evaluation that checks it moves with it, in the s",
+    "id": "coilyco-flight-deck/housecast",
+    "language": "Python",
+    "name": "coilyco-flight-deck/housecast",
+    "stars": 1,
+    "updated_at": "2026-09-17T01:41:47Z",
+    "url": "https://github.com/coilyco-flight-deck/housecast"
+  },
+  {
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
     "id": "github/awesome-copilot",
     "language": "JavaScript",
     "name": "github/awesome-copilot",
     "stars": 39089,
-    "updated_at": "2026-09-17T01:40:22Z",
+    "updated_at": "2026-09-17T01:45:23Z",
     "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 50,
+    "updated_at": "2026-09-17T01:43:43Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-17T01:40:34Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A multi-agent prototype for manufacturing B2B overseas market research and prospect prioritization.",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T01:31:45Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "An AI-powered, local-first resume and cover letter generator. It dynamically fetches portfolio data from MongoDB and orc",
-    "id": "PLLima/ai-resume-agent",
-    "language": "Python",
-    "name": "PLLima/ai-resume-agent",
-    "stars": 0,
-    "updated_at": "2026-09-17T01:31:42Z",
-    "url": "https://github.com/PLLima/ai-resume-agent"
   },
   {
     "description": "190 GPT-6 Astra 3D examples: Blender, Houdini, Rhino, Three.js, Godot & CAD. 56 source projects, 71 demos, 94 full video",
@@ -63,15 +90,6 @@
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-17T01:30:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "The creator kit: 145 Claude Code commands, 23 skills and 5 agents that carry their own DTD grammar, laws and trust bound",
     "id": "Nova-Violet-Role/RoT-DtD-Commander",
     "language": "JavaScript",
@@ -79,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-09-17T01:30:15Z",
     "url": "https://github.com/Nova-Violet-Role/RoT-DtD-Commander"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 50,
-    "updated_at": "2026-09-17T01:29:37Z",
-    "url": "https://github.com/costiash/claude-code-docs"
   },
   {
     "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
@@ -112,7 +121,7 @@
     "id": "conorbronsdon/avoid-ai-writing",
     "language": "JavaScript",
     "name": "conorbronsdon/avoid-ai-writing",
-    "stars": 4424,
+    "stars": 4425,
     "updated_at": "2026-09-17T01:27:19Z",
     "url": "https://github.com/conorbronsdon/avoid-ai-writing"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T00:57:36Z",
     "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 1,
-    "updated_at": "2026-09-17T00:56:50Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
   }
 ]
