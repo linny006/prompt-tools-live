@@ -1,12 +1,93 @@
 [
   {
+    "description": "Four execution-first Agent Skills for coding agents \u2014 research, build, debug, review, and test with less context, less A",
+    "id": "BlizPS/lazy-developer-skill",
+    "language": "Python",
+    "name": "BlizPS/lazy-developer-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T12:00:02Z",
+    "url": "https://github.com/BlizPS/lazy-developer-skill"
+  },
+  {
+    "description": "Synthelion compresses prompts before they reach any AI model \u2014 cutting token usage by up to 70%, reducing API costs, and",
+    "id": "francescopaolopassaro/Synthelion",
+    "language": "Python",
+    "name": "francescopaolopassaro/Synthelion",
+    "stars": 4,
+    "updated_at": "2026-09-17T11:59:55Z",
+    "url": "https://github.com/francescopaolopassaro/Synthelion"
+  },
+  {
+    "description": "A custom mode for DeepSeek Harness (dsh): an editable system prompt that takes effect on the next step, per-row plugin s",
+    "id": "BOWLUNA/dsh-custom-mode",
+    "language": "JavaScript",
+    "name": "BOWLUNA/dsh-custom-mode",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:59:40Z",
+    "url": "https://github.com/BOWLUNA/dsh-custom-mode"
+  },
+  {
+    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
+    "id": "cannonade-ai/cannonade",
+    "language": "TypeScript",
+    "name": "cannonade-ai/cannonade",
+    "stars": 2,
+    "updated_at": "2026-09-17T11:57:34Z",
+    "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 34719,
-    "updated_at": "2026-09-17T11:45:15Z",
+    "stars": 34721,
+    "updated_at": "2026-09-17T11:59:59Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Agent-neutral context-engineering frameworks for reliable AI work: ACE, V10\u2013V13, Guard, Build, Skills, Plugins, and Meta",
+    "id": "Wazifati/loka-context-harness",
+    "language": "Python",
+    "name": "Wazifati/loka-context-harness",
+    "stars": 2,
+    "updated_at": "2026-09-17T11:54:11Z",
+    "url": "https://github.com/Wazifati/loka-context-harness"
+  },
+  {
+    "description": "Claude Code, Codex, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor ",
+    "id": "michael-denyer/pstack-claude",
+    "language": "TypeScript",
+    "name": "michael-denyer/pstack-claude",
+    "stars": 444,
+    "updated_at": "2026-09-17T11:48:33Z",
+    "url": "https://github.com/michael-denyer/pstack-claude"
+  },
+  {
+    "description": "A creative AI platform for discovering, sharing and exploring stunning AI-generated visuals and prompts",
+    "id": "paro-studio/web",
+    "language": "TypeScript",
+    "name": "paro-studio/web",
+    "stars": 10,
+    "updated_at": "2026-09-17T11:48:03Z",
+    "url": "https://github.com/paro-studio/web"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-17T11:45:31Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 396,
+    "updated_at": "2026-09-17T11:43:40Z",
+    "url": "https://github.com/mrwogu/promptscript"
   },
   {
     "description": "Turn vague product or feature ideas into clear, checkable requirements before planning or coding\u2014mapping rough descripti",
@@ -18,13 +99,13 @@
     "url": "https://github.com/bydtesla1609/intent-debugger"
   },
   {
-    "description": "A custom mode for DeepSeek Harness (dsh): an editable system prompt that takes effect on the next step, per-row plugin s",
-    "id": "BOWLUNA/dsh-custom-mode",
-    "language": "JavaScript",
-    "name": "BOWLUNA/dsh-custom-mode",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:38:34Z",
-    "url": "https://github.com/BOWLUNA/dsh-custom-mode"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22093,
+    "updated_at": "2026-09-17T11:58:12Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Creative Writing and General Conversation System Prompt for LLM",
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "braboj/solid-ai-templates",
     "stars": 4,
-    "updated_at": "2026-09-17T11:33:23Z",
+    "updated_at": "2026-09-17T11:59:19Z",
     "url": "https://github.com/braboj/solid-ai-templates"
   },
   {
@@ -115,15 +196,6 @@
     "stars": 427,
     "updated_at": "2026-09-17T11:31:40Z",
     "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-17T11:30:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transfor",
@@ -180,15 +252,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Claude Code, Codex, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor ",
-    "id": "michael-denyer/pstack-claude",
-    "language": "TypeScript",
-    "name": "michael-denyer/pstack-claude",
-    "stars": 444,
-    "updated_at": "2026-09-17T11:42:28Z",
-    "url": "https://github.com/michael-denyer/pstack-claude"
-  },
-  {
     "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
     "id": "AgustiPuigserver/opus-prompt-architect",
     "language": "HTML",
@@ -211,18 +274,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 27994,
+    "stars": 27996,
     "updated_at": "2026-09-17T11:19:28Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22092,
-    "updated_at": "2026-09-17T11:39:01Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Recovers the original goal of a long Claude Code or Codex session from its first user turn, so you can restate it before",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T11:05:25Z",
     "url": "https://github.com/Feneliaearnest2534/celldock-for-mac"
-  },
-  {
-    "description": "Analyze Danbooru references into clean tags and professional visual art direction prompts for image generation.",
-    "id": "statisticiancockney4234/LAX-Prompt-Lens",
-    "language": "JavaScript",
-    "name": "statisticiancockney4234/LAX-Prompt-Lens",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:05:13Z",
-    "url": "https://github.com/statisticiancockney4234/LAX-Prompt-Lens"
-  },
-  {
-    "description": "Discover and compare open-source AI models by parameters, VRAM, license, and use-case for informed selection.",
-    "id": "Aggressive-tradescant8736/open-source-ai-models",
-    "language": "\u2014",
-    "name": "Aggressive-tradescant8736/open-source-ai-models",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:05:07Z",
-    "url": "https://github.com/Aggressive-tradescant8736/open-source-ai-models"
-  },
-  {
-    "description": "Create original conceptual photography from any word, object, or theme with AI-generated photorealistic prompts and imag",
-    "id": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "language": "\u2014",
-    "name": "Genussticherusporkbarrel3616/conceptual-photography-plan",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:04:55Z",
-    "url": "https://github.com/Genussticherusporkbarrel3616/conceptual-photography-plan"
-  },
-  {
-    "description": "Prompt engineering portfolio for text, image, video, multimodal workflows, reasoning, ReAct, tool use, and AI agents.",
-    "id": "artyomboyko/Prompt_Engineer_Portfolio",
-    "language": "Jupyter Notebook",
-    "name": "artyomboyko/Prompt_Engineer_Portfolio",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:04:27Z",
-    "url": "https://github.com/artyomboyko/Prompt_Engineer_Portfolio"
-  },
-  {
-    "description": "Nano Banana Pro prompts: tested prompt recipes with example renders, aspect ratios, the model id (gemini-3-pro-image-pre",
-    "id": "apimart-awesome-ai-api-proxy/nano-banana-pro-prompts",
-    "language": "Python",
-    "name": "apimart-awesome-ai-api-proxy/nano-banana-pro-prompts",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:03:53Z",
-    "url": "https://github.com/apimart-awesome-ai-api-proxy/nano-banana-pro-prompts"
-  },
-  {
-    "description": "The local control plane for long-running AI agent work.",
-    "id": "inionrhinocerotidae914/loopx",
-    "language": "\u2014",
-    "name": "inionrhinocerotidae914/loopx",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:03:21Z",
-    "url": "https://github.com/inionrhinocerotidae914/loopx"
   }
 ]
