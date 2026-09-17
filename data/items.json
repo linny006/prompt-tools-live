@@ -1,12 +1,210 @@
 [
   {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 25,
+    "updated_at": "2026-09-17T05:15:11Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "Manage and generate prompts quickly with correct context to speedup your AI workflows",
+    "id": "byhsr/prmptly",
+    "language": "TypeScript",
+    "name": "byhsr/prmptly",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:15:00Z",
+    "url": "https://github.com/byhsr/prmptly"
+  },
+  {
+    "description": "A conduct codex for AI coding agents, skinned as the hacker ethic \u2014 four disciplines (Leave It Hackable, Read the Source",
+    "id": "arnoldwender/nerd-harness",
+    "language": "Python",
+    "name": "arnoldwender/nerd-harness",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:12:57Z",
+    "url": "https://github.com/arnoldwender/nerd-harness"
+  },
+  {
+    "description": "\u628a@\u5cf0\u54e5\u4ea1\u547d\u5929\u6daf \u7684 1,921 \u6761\u5fae\u535a\uff0818 \u4e2a\u6708\uff0c\u8de8\u5c01\u7981\u524d\u540e\u4e24\u671f\uff09+ 4,163 \u6761\u226530\u8d5e\u8bc4\u8bba\uff0c\u84b8\u998f\u6210\u53ef\u590d\u7528\u7684\u300c\u5cf0\u54e5\u8bed\u4f53\u5f15\u64ce\u300d\uff1a\u4e32\u5b50\u3001\u8e6d\u5b50\u3001\u88c5\u9893\u3001\u88ab\u770b\u7a7f\u7684\u81ea\u6211\u5439\u5618\u3002\u542b\u8bed\u6599\u7ba1\u9053(nodejs)\u3001\u8bdd\u672f\u6f14\u8fdb\u5206\u671f\u53c2\u8003\u3001\u7b5b\u9009\u811a\u672c\u3001\u7edf\u8ba1\u53e3\u5f84\u3002 /",
+    "id": "MincongZhou/fengge-distill",
+    "language": "JavaScript",
+    "name": "MincongZhou/fengge-distill",
+    "stars": 1,
+    "updated_at": "2026-09-17T05:12:33Z",
+    "url": "https://github.com/MincongZhou/fengge-distill"
+  },
+  {
+    "description": "AI Acting System: Multi-skill inference layer & prompt compiler for AI cinema (Kling, Runway, Veo, Sora). Eliminates rob",
+    "id": "wangsalin/ai-acting-system",
+    "language": "\u2014",
+    "name": "wangsalin/ai-acting-system",
+    "stars": 1,
+    "updated_at": "2026-09-17T05:11:00Z",
+    "url": "https://github.com/wangsalin/ai-acting-system"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 22,
+    "updated_at": "2026-09-17T05:10:17Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "A conduct codex for AI coding agents, skinned as the Confucian way of the junzi \u2014 four disciplines from the Five Constan",
+    "id": "arnoldwender/junzi-harness",
+    "language": "Python",
+    "name": "arnoldwender/junzi-harness",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:10:08Z",
+    "url": "https://github.com/arnoldwender/junzi-harness"
+  },
+  {
+    "description": "The Engineering Operating System for AI coding agents. 23 senior workflows, JIT filesystem routing, and zero runtime loc",
+    "id": "lowqualityloey/promptkit-os",
+    "language": "PowerShell",
+    "name": "lowqualityloey/promptkit-os",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:09:55Z",
+    "url": "https://github.com/lowqualityloey/promptkit-os"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:12:22Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
     "description": "\u7528\u51af\u5510\u8bf4\u7406\u6563\u6587\u7684\u8bed\u8a00\u7ed3\u6784\u5199\u4e2d\u6587\u957f\u6587\u7684 Codex Skill\u3002\u4ece\u7ea6 100 \u4e07\u5b57\u8bed\u6599\u91cf\u5316\u63d0\u53d6\u7ed3\u6784\u673a\u5236\uff0c\u542b\u81ea\u68c0\u5de5\u5177\u3002",
     "id": "da-damu/fengtang-style",
     "language": "Python",
     "name": "da-damu/fengtang-style",
     "stars": 0,
-    "updated_at": "2026-09-17T05:00:18Z",
+    "updated_at": "2026-09-17T05:07:56Z",
     "url": "https://github.com/da-damu/fengtang-style"
+  },
+  {
+    "description": "A conduct codex for AI coding agents, skinned as the pillars of empirical practice \u2014 the Bench, the Hypothesis, the Reco",
+    "id": "arnoldwender/empirical-harness",
+    "language": "Python",
+    "name": "arnoldwender/empirical-harness",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:07:48Z",
+    "url": "https://github.com/arnoldwender/empirical-harness"
+  },
+  {
+    "description": "Midjourney \u2013 A desktop tool to enhance your Midjourney experience with advanced prompts and unlimited generations on Win",
+    "id": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "language": "\u2014",
+    "name": "beta-dream-24495/Midjourney-Advanced-Prompt-Helper",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:07:11Z",
+    "url": "https://github.com/beta-dream-24495/Midjourney-Advanced-Prompt-Helper"
+  },
+  {
+    "description": "Agent-neutral context-engineering frameworks for reliable AI work: ACE, V10\u2013V13, Guard, Build, Skills, Plugins, and Meta",
+    "id": "Wazifati/loka-context-harness",
+    "language": "Python",
+    "name": "Wazifati/loka-context-harness",
+    "stars": 2,
+    "updated_at": "2026-09-17T05:07:01Z",
+    "url": "https://github.com/Wazifati/loka-context-harness"
+  },
+  {
+    "description": "Prove your AI-coded project is ready with a free, evidence-first readiness audit for repos built with Codex, Claude, Cur",
+    "id": "tobiast5801/mdp-preflight",
+    "language": "\u2014",
+    "name": "tobiast5801/mdp-preflight",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:03:36Z",
+    "url": "https://github.com/tobiast5801/mdp-preflight"
+  },
+  {
+    "description": "The Zen Harness \u2014 a conduct codex for AI coding agents, skinned as Zen practice: four disciplines (S\u014dji, Shoshin, the Cl",
+    "id": "arnoldwender/zen-harness",
+    "language": "Python",
+    "name": "arnoldwender/zen-harness",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:03:12Z",
+    "url": "https://github.com/arnoldwender/zen-harness"
+  },
+  {
+    "description": "MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with ",
+    "id": "minipuft/claude-prompts-mcp",
+    "language": "TypeScript",
+    "name": "minipuft/claude-prompts-mcp",
+    "stars": 186,
+    "updated_at": "2026-09-17T05:04:40Z",
+    "url": "https://github.com/minipuft/claude-prompts-mcp"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 72529,
+    "updated_at": "2026-09-17T05:02:09Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11504,
+    "updated_at": "2026-09-17T05:01:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Claude Code skill/plugin that rewrites a raw question into a high-performing LLM prompt by auto-selecting research-backe",
+    "id": "host452b/polish",
+    "language": "Python",
+    "name": "host452b/polish",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:01:36Z",
+    "url": "https://github.com/host452b/polish"
+  },
+  {
+    "description": "Redact sensitive data before sending to AI, then restore it automatically with this local-first DLP extension.",
+    "id": "Irongrey-genusengelmannia453/zero-context",
+    "language": "HTML",
+    "name": "Irongrey-genusengelmannia453/zero-context",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:01:36Z",
+    "url": "https://github.com/Irongrey-genusengelmannia453/zero-context"
+  },
+  {
+    "description": "Eliminate generic AI-generated UI with 36 enforceable design rules for coding agents and a mandatory delivery gate.",
+    "id": "Rosmarinusofficinalispoloneck995/anti-slop",
+    "language": "\u2014",
+    "name": "Rosmarinusofficinalispoloneck995/anti-slop",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:01:31Z",
+    "url": "https://github.com/Rosmarinusofficinalispoloneck995/anti-slop"
+  },
+  {
+    "description": "Download Sol's RNG Script 2026 for Windows \u2013 automate gameplay, secure event wins, and boost session efficiency with thi",
+    "id": "variant-thripidae875/sols-rng-win-script-hub",
+    "language": "HTML",
+    "name": "variant-thripidae875/sols-rng-win-script-hub",
+    "stars": 0,
+    "updated_at": "2026-09-17T05:00:57Z",
+    "url": "https://github.com/variant-thripidae875/sols-rng-win-script-hub"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-17T05:00:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "\u6d88\u78c1 \u00b7 \u4e2d\u6587\u53bb AI \u5473 skill\uff1a\u7528\u5bc6\u5ea6\u95e8\u9650\u548c\u53cd\u5411\u6e05\u5355\uff0c\u66ff\u4ee3\u6d41\u884c\u7684 AI \u5473\u7279\u5f81\u6e05\u5355",
@@ -34,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T04:59:10Z",
     "url": "https://github.com/asa834/paperforge-2026-paper-workflow"
-  },
-  {
-    "description": "AI Acting System: Multi-skill inference layer & prompt compiler for AI cinema (Kling, Runway, Veo, Sora). Eliminates rob",
-    "id": "wangsalin/ai-acting-system",
-    "language": "\u2014",
-    "name": "wangsalin/ai-acting-system",
-    "stars": 0,
-    "updated_at": "2026-09-17T04:58:58Z",
-    "url": "https://github.com/wangsalin/ai-acting-system"
   },
   {
     "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
@@ -104,17 +293,8 @@
     "language": "TypeScript",
     "name": "gthgomez/Babel",
     "stars": 1,
-    "updated_at": "2026-09-17T04:55:56Z",
+    "updated_at": "2026-09-17T05:06:18Z",
     "url": "https://github.com/gthgomez/Babel"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 25,
-    "updated_at": "2026-09-17T04:55:04Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
     "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
@@ -268,185 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T04:50:45Z",
     "url": "https://github.com/unoccupied-creep552/agentic-ai-prompt-research"
-  },
-  {
-    "description": "Package portable CC coding-agent skills for Claude Code, Codex, and OpenClaw with reusable prompts, helper scripts, and ",
-    "id": "kentunderage549/cc-harness-skills",
-    "language": "Python",
-    "name": "kentunderage549/cc-harness-skills",
-    "stars": 1,
-    "updated_at": "2026-09-17T04:50:43Z",
-    "url": "https://github.com/kentunderage549/cc-harness-skills"
-  },
-  {
-    "description": "Explore and compare 45+ system prompts across models with a live gallery, research paper, and open dataset for prompt an",
-    "id": "pinchhitterequatorialcurrent101/System-Prompt-Open",
-    "language": "HTML",
-    "name": "pinchhitterequatorialcurrent101/System-Prompt-Open",
-    "stars": 1,
-    "updated_at": "2026-09-17T04:50:42Z",
-    "url": "https://github.com/pinchhitterequatorialcurrent101/System-Prompt-Open"
-  },
-  {
-    "description": "Explore Claude Code\u2019s source architecture and learn how a top AI coding agent works",
-    "id": "Euphonic-treesparrow658/how-claude-code-works",
-    "language": "\u2014",
-    "name": "Euphonic-treesparrow658/how-claude-code-works",
-    "stars": 0,
-    "updated_at": "2026-09-17T04:50:31Z",
-    "url": "https://github.com/Euphonic-treesparrow658/how-claude-code-works"
-  },
-  {
-    "description": "Explore reverse engineering specs for Claude Code CLI, with implementation-ready design docs from source map analysis of",
-    "id": "Arteriogramtrombiculiasis120/claude-code-reverse-engineering",
-    "language": "HCL",
-    "name": "Arteriogramtrombiculiasis120/claude-code-reverse-engineering",
-    "stars": 1,
-    "updated_at": "2026-09-17T04:50:30Z",
-    "url": "https://github.com/Arteriogramtrombiculiasis120/claude-code-reverse-engineering"
-  },
-  {
-    "description": "Organize AI agent skills, scripts, and references in scalable folders for fast reuse across engineering, research, writi",
-    "id": "marysatasselshaped667/skills-collection-1",
-    "language": "Python",
-    "name": "marysatasselshaped667/skills-collection-1",
-    "stars": 1,
-    "updated_at": "2026-09-17T04:50:16Z",
-    "url": "https://github.com/marysatasselshaped667/skills-collection-1"
-  },
-  {
-    "description": "Bootstrap the 45ck agent stack with shared skills, Claude and Codex agents, project tooling, and embedded packs",
-    "id": "blinnieinfertile577/skill-harness",
-    "language": "JavaScript",
-    "name": "blinnieinfertile577/skill-harness",
-    "stars": 1,
-    "updated_at": "2026-09-17T04:49:46Z",
-    "url": "https://github.com/blinnieinfertile577/skill-harness"
-  },
-  {
-    "description": "Manage NeuralVaultCore memory with a safe, low-token system prompt for Claude Code, plus /nvc:init and /nvc:end commands",
-    "id": "Marlorecent554/NeuralVaultSkill",
-    "language": "\u2014",
-    "name": "Marlorecent554/NeuralVaultSkill",
-    "stars": 0,
-    "updated_at": "2026-09-17T04:49:33Z",
-    "url": "https://github.com/Marlorecent554/NeuralVaultSkill"
-  },
-  {
-    "description": "Build production-grade Claude Code project templates with specialized agents, reusable skills, rules, and hooks for fast",
-    "id": "IuliaIvanaPatras/claude-code-templates",
-    "language": "Shell",
-    "name": "IuliaIvanaPatras/claude-code-templates",
-    "stars": 1,
-    "updated_at": "2026-09-17T04:49:15Z",
-    "url": "https://github.com/IuliaIvanaPatras/claude-code-templates"
-  },
-  {
-    "description": "Install 154+ Claude Code skills for SEO, code review, marketing, and AI agent tasks with one command",
-    "id": "eastindian-wallpepper214/claude-skills",
-    "language": "\u2014",
-    "name": "eastindian-wallpepper214/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-17T04:49:11Z",
-    "url": "https://github.com/eastindian-wallpepper214/claude-skills"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-09-17T04:49:00Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Build type-safe LLM prompt templates for Rust with compile-time variable checks and clear runtime errors",
-    "id": "mosesking8230/promptml",
-    "language": "Rust",
-    "name": "mosesking8230/promptml",
-    "stars": 0,
-    "updated_at": "2026-09-17T04:48:59Z",
-    "url": "https://github.com/mosesking8230/promptml"
-  },
-  {
-    "description": "Audit code health with AI using evidence-based checks, risk metrics, and prioritized findings for clear refactor decisio",
-    "id": "Petrcatapultian539/Code-Health-Check-Prompt",
-    "language": "\u2014",
-    "name": "Petrcatapultian539/Code-Health-Check-Prompt",
-    "stars": 0,
-    "updated_at": "2026-09-17T04:48:58Z",
-    "url": "https://github.com/Petrcatapultian539/Code-Health-Check-Prompt"
-  },
-  {
-    "description": "Harden a Hetzner Ubuntu 24.04 VPS with Claude Code: SSH, UFW, fail2ban, updates, and optional Tailscale setup",
-    "id": "religious-polygoniacomma936/claude-vps-setup-prompt",
-    "language": "\u2014",
-    "name": "religious-polygoniacomma936/claude-vps-setup-prompt",
-    "stars": 1,
-    "updated_at": "2026-09-17T04:48:53Z",
-    "url": "https://github.com/religious-polygoniacomma936/claude-vps-setup-prompt"
-  },
-  {
-    "description": "Build reusable skills from shell, git, browser, and Claude logs to spot patterns and install slash commands in your AI t",
-    "id": "izzidescendent834/skill-builder",
-    "language": "JavaScript",
-    "name": "izzidescendent834/skill-builder",
-    "stars": 4,
-    "updated_at": "2026-09-17T04:48:45Z",
-    "url": "https://github.com/izzidescendent834/skill-builder"
-  },
-  {
-    "description": "Build AI chief of staff skills for founders, with frameworks for strategy, GTM, sales, and ops in one repo",
-    "id": "Layneformalized225/ai-cofounder",
-    "language": "Python",
-    "name": "Layneformalized225/ai-cofounder",
-    "stars": 1,
-    "updated_at": "2026-09-17T04:48:24Z",
-    "url": "https://github.com/Layneformalized225/ai-cofounder"
-  },
-  {
-    "description": "Turn AI coding agents into research assistants that design, test, and refine experiments with one file",
-    "id": "Kitakyushulassavirus728/ResearcherSkill",
-    "language": "Python",
-    "name": "Kitakyushulassavirus728/ResearcherSkill",
-    "stars": 0,
-    "updated_at": "2026-09-17T04:48:23Z",
-    "url": "https://github.com/Kitakyushulassavirus728/ResearcherSkill"
-  },
-  {
-    "description": "Discover CLAUDE.md best practices for project-specific AI coding guidance, with ready-to-use templates for languages, fr",
-    "id": "Overseastelegramaliterateperson865/awesome-claude-md",
-    "language": "\u2014",
-    "name": "Overseastelegramaliterateperson865/awesome-claude-md",
-    "stars": 2,
-    "updated_at": "2026-09-17T04:47:55Z",
-    "url": "https://github.com/Overseastelegramaliterateperson865/awesome-claude-md"
-  },
-  {
-    "description": "Translate and adapt Superpowers for Chinese AI coding tools, with 20 skills and 6 China-specific workflows for better pl",
-    "id": "Leodorareluctant259/superpowers-zh",
-    "language": "Shell",
-    "name": "Leodorareluctant259/superpowers-zh",
-    "stars": 5,
-    "updated_at": "2026-09-17T04:47:48Z",
-    "url": "https://github.com/Leodorareluctant259/superpowers-zh"
-  },
-  {
-    "description": "Build GEO monitoring prompts from client briefs with a topic-first system for discovery, comparison, and brand defense",
-    "id": "rheumatologyquadrivium246/geo-prompt-architecture",
-    "language": "\u2014",
-    "name": "rheumatologyquadrivium246/geo-prompt-architecture",
-    "stars": 1,
-    "updated_at": "2026-09-17T04:47:28Z",
-    "url": "https://github.com/rheumatologyquadrivium246/geo-prompt-architecture"
-  },
-  {
-    "description": "Discover curated AI prompts and resources for game development, tools, assets, APIs, tutorials, and communities in one p",
-    "id": "sojongki/-Ultimate-AI-Resources-Prompts-Collection",
-    "language": "\u2014",
-    "name": "sojongki/-Ultimate-AI-Resources-Prompts-Collection",
-    "stars": 2,
-    "updated_at": "2026-09-17T04:47:10Z",
-    "url": "https://github.com/sojongki/-Ultimate-AI-Resources-Prompts-Collection"
   }
 ]
