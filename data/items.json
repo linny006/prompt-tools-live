@@ -1,5 +1,23 @@
 [
   {
+    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
+    "id": "braboj/solid-ai-templates",
+    "language": "Python",
+    "name": "braboj/solid-ai-templates",
+    "stars": 4,
+    "updated_at": "2026-09-17T12:00:30Z",
+    "url": "https://github.com/braboj/solid-ai-templates"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-17T12:00:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Four execution-first Agent Skills for coding agents \u2014 research, build, debug, review, and test with less context, less A",
     "id": "BlizPS/lazy-developer-skill",
     "language": "Python",
@@ -70,15 +88,6 @@
     "stars": 10,
     "updated_at": "2026-09-17T11:48:03Z",
     "url": "https://github.com/paro-studio/web"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-17T11:45:31Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
@@ -162,15 +171,6 @@
     "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
   },
   {
-    "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
-    "id": "braboj/solid-ai-templates",
-    "language": "Python",
-    "name": "braboj/solid-ai-templates",
-    "stars": 4,
-    "updated_at": "2026-09-17T11:59:19Z",
-    "url": "https://github.com/braboj/solid-ai-templates"
-  },
-  {
     "description": "\u76ee\u524d\u6570\u636e\u652f\u6491\u6700\u624e\u5b9e\u7684\u4e2d\u6587\u516c\u6587\u5199\u4f5c Skill\uff1a720 \u671f\u7b14\u6746\u5b50\u535a\u4e3b\u89c6\u9891 + 5 \u672c\u4e13\u8457 + 27 \u4efd\u653f\u5e9c\u5de5\u4f5c\u62a5\u544a \u2192 \u84b8\u998f 965 \u6761\u7ed3\u6784\u5316\u77e5\u8bc6\uff08350 \u4e07\u5b57\u8bed\u6599\u5e95\u8d26\uff09\u3002\u91cf\u5316\u6587\u98ce\u53c2\u6570\u3001GB/T 9704 \u56fd\u6807 docx \u6392\u7248\u300115 \u7528\u4f8b\u56db\u8f6e",
     "id": "Amer-CN/super-official-writer",
     "language": "Python",
@@ -202,7 +202,7 @@
     "id": "promptslab/Awesome-Prompt-Engineering",
     "language": "TypeScript",
     "name": "promptslab/Awesome-Prompt-Engineering",
-    "stars": 6336,
+    "stars": 6337,
     "updated_at": "2026-09-17T11:26:49Z",
     "url": "https://github.com/promptslab/Awesome-Prompt-Engineering"
   },
@@ -275,7 +275,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27996,
-    "updated_at": "2026-09-17T11:19:28Z",
+    "updated_at": "2026-09-17T12:01:24Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
