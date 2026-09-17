@@ -1,5 +1,149 @@
 [
   {
+    "description": "APES 110 and TPB Code controls, DrDebits refusal patterns and evaluation fixtures for firms using LLMs in tax work.",
+    "id": "ryanduguid/llm-tax-guardrails",
+    "language": "Python",
+    "name": "ryanduguid/llm-tax-guardrails",
+    "stars": 0,
+    "updated_at": "2026-09-17T04:00:22Z",
+    "url": "https://github.com/ryanduguid/llm-tax-guardrails"
+  },
+  {
+    "description": "Curated prompt templates and specialized agents for AI orchestration systems. 29+ agents across development, research, b",
+    "id": "grigb/gas-prompt-library",
+    "language": "Python",
+    "name": "grigb/gas-prompt-library",
+    "stars": 5,
+    "updated_at": "2026-09-17T03:59:27Z",
+    "url": "https://github.com/grigb/gas-prompt-library"
+  },
+  {
+    "description": "\u6d88\u78c1 \u00b7 \u4e2d\u6587\u53bb AI \u5473 skill\uff1a\u7528\u5bc6\u5ea6\u95e8\u9650\u548c\u53cd\u5411\u6e05\u5355\uff0c\u66ff\u4ee3\u6d41\u884c\u7684 AI \u5473\u7279\u5f81\u6e05\u5355",
+    "id": "evoworkAI/xiaoci-skill",
+    "language": "Python",
+    "name": "evoworkAI/xiaoci-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T03:58:55Z",
+    "url": "https://github.com/evoworkAI/xiaoci-skill"
+  },
+  {
+    "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, cen",
+    "id": "aidyou/chatspeed",
+    "language": "Rust",
+    "name": "aidyou/chatspeed",
+    "stars": 21,
+    "updated_at": "2026-09-17T03:55:46Z",
+    "url": "https://github.com/aidyou/chatspeed"
+  },
+  {
+    "description": "\ud83c\udfdb\ufe0f A structured 6-week daily study plan for Anthropic's Claude Certified Architect \u2013 Professional exam \u2014 domain guides, ",
+    "id": "gsaini/claude-certified-architect-prep",
+    "language": "\u2014",
+    "name": "gsaini/claude-certified-architect-prep",
+    "stars": 0,
+    "updated_at": "2026-09-17T03:55:17Z",
+    "url": "https://github.com/gsaini/claude-certified-architect-prep"
+  },
+  {
+    "description": "\ud83c\udfac 2000+ curated Seedance 2.0 video generation prompts \u2014 cinematic, anime, UGC, ads, meme styles. Includes Seedance API g",
+    "id": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
+    "stars": 1998,
+    "updated_at": "2026-09-17T03:55:08Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "\u591a\u667a\u80fd\u4f53\u534f\u540c\u5f71\u89c6\u5de5\u4e1a\u5316AI\u5de5\u4f5c\u53f0 | \u5185\u7f6e\u7f16\u5267\u5ba4SOP + AI\u89c6\u9891\u5206\u955c\u63d0\u793a\u8bcd\u5f15\u64ce + \u957f\u6587\u672c\u6df1\u5ea6\u5904\u7406 | \u652f\u630112+ LLM\u670d\u52a1\u5546",
+    "id": "slipknot0130/Film-Production-Toolkit",
+    "language": "Python",
+    "name": "slipknot0130/Film-Production-Toolkit",
+    "stars": 11,
+    "updated_at": "2026-09-17T03:53:21Z",
+    "url": "https://github.com/slipknot0130/Film-Production-Toolkit"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 7,
+    "updated_at": "2026-09-17T03:52:59Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
+    "id": "nuttaruj/rolepod",
+    "language": "Shell",
+    "name": "nuttaruj/rolepod",
+    "stars": 3,
+    "updated_at": "2026-09-17T03:50:57Z",
+    "url": "https://github.com/nuttaruj/rolepod"
+  },
+  {
+    "description": "\ud83e\udd17 The largest downloadable SeedDance 2 prompt library \u2014 8,105 prompts and growing, daily updates with HuggingFace datase",
+    "id": "goku-open/awesome-seedance-2-prompts",
+    "language": "TypeScript",
+    "name": "goku-open/awesome-seedance-2-prompts",
+    "stars": 2,
+    "updated_at": "2026-09-17T03:49:28Z",
+    "url": "https://github.com/goku-open/awesome-seedance-2-prompts"
+  },
+  {
+    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "stars": 1,
+    "updated_at": "2026-09-17T03:48:59Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 21,
+    "updated_at": "2026-09-17T03:47:17Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "The platform for LLM evaluations and AI agent testing",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4803,
+    "updated_at": "2026-09-17T03:46:42Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\u628a ComfyUI-MiniMaxH3-Easy \u4e0e Goohai-MiniMax-H3_Integration \u5408\u5e76\u6210\u4e00\u4e2a\u7edf\u4e00\u7684 MiniMax H3 \u521b\u4f5c\u5de5\u4f5c\u53f0\uff08\u975e\u5b98\u65b9\uff09",
+    "id": "JGRFW/comfyui-AICG3D",
+    "language": "JavaScript",
+    "name": "JGRFW/comfyui-AICG3D",
+    "stars": 60,
+    "updated_at": "2026-09-17T03:46:34Z",
+    "url": "https://github.com/JGRFW/comfyui-AICG3D"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-17T03:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "21 Lessons, Get Started Building with Generative AI ",
+    "id": "microsoft/generative-ai-for-beginners",
+    "language": "Jupyter Notebook",
+    "name": "microsoft/generative-ai-for-beginners",
+    "stars": 119906,
+    "updated_at": "2026-09-17T03:44:45Z",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners"
+  },
+  {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
     "id": "imhamzakhan/context-flow-compressor",
     "language": "HTML",
@@ -59,7 +203,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 27989,
-    "updated_at": "2026-09-17T03:41:23Z",
+    "updated_at": "2026-09-17T03:54:08Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -70,15 +214,6 @@
     "stars": 9,
     "updated_at": "2026-09-17T03:37:47Z",
     "url": "https://github.com/dgenio/contextweaver"
-  },
-  {
-    "description": "\u6d88\u78c1 \u00b7 \u4e2d\u6587\u53bb AI \u5473 skill\uff1a\u7528\u5bc6\u5ea6\u95e8\u9650\u548c\u53cd\u5411\u6e05\u5355\uff0c\u66ff\u4ee3\u6d41\u884c\u7684 AI \u5473\u7279\u5f81\u6e05\u5355",
-    "id": "evoworkAI/xiaoci-skill",
-    "language": "Python",
-    "name": "evoworkAI/xiaoci-skill",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:35:20Z",
-    "url": "https://github.com/evoworkAI/xiaoci-skill"
   },
   {
     "description": "10 production-tested Claude Code skills \u2014 model routing, security hardening, code quality, tax advisory, cost optimizati",
@@ -97,15 +232,6 @@
     "stars": 4,
     "updated_at": "2026-09-17T03:31:36Z",
     "url": "https://github.com/alanshurafa/co-evolution"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-17T03:30:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "A hands-on GenAI Engineering roadmap from LLM fundamentals to production AI systems. Covers prompt engineering, RAG, Age",
@@ -133,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T03:29:19Z",
     "url": "https://github.com/usernamermh/help-sale"
-  },
-  {
-    "description": "\u628a ComfyUI-MiniMaxH3-Easy \u4e0e Goohai-MiniMax-H3_Integration \u5408\u5e76\u6210\u4e00\u4e2a\u7edf\u4e00\u7684 MiniMax H3 \u521b\u4f5c\u5de5\u4f5c\u53f0\uff08\u975e\u5b98\u65b9\uff09",
-    "id": "JGRFW/comfyui-AICG3D",
-    "language": "JavaScript",
-    "name": "JGRFW/comfyui-AICG3D",
-    "stars": 60,
-    "updated_at": "2026-09-17T03:29:04Z",
-    "url": "https://github.com/JGRFW/comfyui-AICG3D"
   },
   {
     "description": "CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering departme",
@@ -194,7 +311,7 @@
     "language": "Shell",
     "name": "karloows/orchraft",
     "stars": 2,
-    "updated_at": "2026-09-17T03:17:48Z",
+    "updated_at": "2026-09-17T03:50:48Z",
     "url": "https://github.com/karloows/orchraft"
   },
   {
@@ -221,7 +338,7 @@
     "language": "PowerShell",
     "name": "lowqualityloey/promptkit-os",
     "stars": 0,
-    "updated_at": "2026-09-17T03:15:02Z",
+    "updated_at": "2026-09-17T03:50:09Z",
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
@@ -257,7 +374,7 @@
     "language": "TypeScript",
     "name": "ianarawjo/ChainForge",
     "stars": 3029,
-    "updated_at": "2026-09-17T03:40:30Z",
+    "updated_at": "2026-09-17T03:51:10Z",
     "url": "https://github.com/ianarawjo/ChainForge"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T03:06:58Z",
     "url": "https://github.com/afrazpindari14-commits/Ontology-Playground"
-  },
-  {
-    "description": "Local AI character filmmaking with ComfyUI \u2014 create consistent characters, scenes, images, and short films.",
-    "id": "doodersrage/castcut",
-    "language": "TypeScript",
-    "name": "doodersrage/castcut",
-    "stars": 1,
-    "updated_at": "2026-09-17T03:06:38Z",
-    "url": "https://github.com/doodersrage/castcut"
-  },
-  {
-    "description": "Route design engineering tasks through specific UI skill sets using this command-line tool.",
-    "id": "Discriminative-shoji607/ui-skills",
-    "language": "TypeScript",
-    "name": "Discriminative-shoji607/ui-skills",
-    "stars": 2,
-    "updated_at": "2026-09-17T03:06:36Z",
-    "url": "https://github.com/Discriminative-shoji607/ui-skills"
-  },
-  {
-    "description": "Access curated prompts and output examples to optimize image generation with the GPT-Image-2 API.",
-    "id": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "language": "\u2014",
-    "name": "riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts",
-    "stars": 2,
-    "updated_at": "2026-09-17T03:06:31Z",
-    "url": "https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts"
-  },
-  {
-    "description": "Enhance video production workflows with AI tools, 4K export support, and professional effects for CapCut.",
-    "id": "Kentlight970/Edit-Master-Pro",
-    "language": "Python",
-    "name": "Kentlight970/Edit-Master-Pro",
-    "stars": 1,
-    "updated_at": "2026-09-17T03:06:28Z",
-    "url": "https://github.com/Kentlight970/Edit-Master-Pro"
-  },
-  {
-    "description": "Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems.",
-    "id": "Ekmsi8525/agentsmith",
-    "language": "\u2014",
-    "name": "Ekmsi8525/agentsmith",
-    "stars": 1,
-    "updated_at": "2026-09-17T03:06:14Z",
-    "url": "https://github.com/Ekmsi8525/agentsmith"
-  },
-  {
-    "description": "Track macOS application usage, storage, and cleanup requirements through a native SwiftUI dashboard.",
-    "id": "linnetforeign896/app-monitor",
-    "language": "Swift",
-    "name": "linnetforeign896/app-monitor",
-    "stars": 1,
-    "updated_at": "2026-09-17T03:05:31Z",
-    "url": "https://github.com/linnetforeign896/app-monitor"
-  },
-  {
-    "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
-    "id": "lizhiyao/oh-my-knowledge",
-    "language": "TypeScript",
-    "name": "lizhiyao/oh-my-knowledge",
-    "stars": 22,
-    "updated_at": "2026-09-17T03:04:59Z",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-09-17T03:04:10Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
-    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "language": "TypeScript",
-    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:03:58Z",
-    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
-  },
-  {
-    "description": "\ud504\ub86c\ud504\ud2b8 \ucc44\uc810 \uc6f9\uc571 (R-PCCO \ud504\ub808\uc784\uc6cc\ud06c) + AI \uac15\uc758 \uc2e4\uc2b5 \uc790\ub8cc",
-    "id": "thenext0202/pcco-scorer",
-    "language": "HTML",
-    "name": "thenext0202/pcco-scorer",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:03:37Z",
-    "url": "https://github.com/thenext0202/pcco-scorer"
-  },
-  {
-    "description": "Agent skills for AI coding agents \u2014 trip planner, Obsidian vault, and more",
-    "id": "aliasunder/agent-skills",
-    "language": "HTML",
-    "name": "aliasunder/agent-skills",
-    "stars": 5,
-    "updated_at": "2026-09-17T03:03:09Z",
-    "url": "https://github.com/aliasunder/agent-skills"
-  },
-  {
-    "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
-    "id": "Donnatruculent617/Codex-Mini",
-    "language": "\u2014",
-    "name": "Donnatruculent617/Codex-Mini",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:02:39Z",
-    "url": "https://github.com/Donnatruculent617/Codex-Mini"
-  },
-  {
-    "description": "Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta",
-    "id": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "language": "Python",
-    "name": "vikynofebriputra-creator/Orkas-Awesome-AgentSkills",
-    "stars": 0,
-    "updated_at": "2026-09-17T03:02:38Z",
-    "url": "https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills"
   }
 ]
