@@ -1,12 +1,39 @@
 [
   {
-    "description": "Agent-neutral context-engineering frameworks for reliable AI work: ACE, V10\u2013V13, Guard, Build, Skills, Plugins, and Meta",
-    "id": "Wazifati/loka-context-harness",
+    "description": "Agent \u6280\u80fd\uff1a\u63a7\u5236 AGENTS.md / CLAUDE.md \u8fd9\u7c7b Agent \u5165\u53e3\u6587\u6863\u7684\u957f\u5ea6\u548c\u4fe1\u606f\u5bc6\u5ea6\u2014\u2014\u8bbe\u5b9a\u4e0a\u4e0b\u6587\u9884\u7b97\uff0c\u8d85\u51fa\u7684\u77e5\u8bc6\u4e0b\u6c89\u6210\u6307\u9488\uff0c\u5e76\u5728\u63d0\u4ea4\u70b9\u88c5\u5b88\u536b\u62e6\u622a\u8d85\u9650\u5185\u5bb9\u3002",
+    "id": "ranjiushu/agent-entry-governance",
+    "language": "Shell",
+    "name": "ranjiushu/agent-entry-governance",
+    "stars": 0,
+    "updated_at": "2026-09-17T09:26:27Z",
+    "url": "https://github.com/ranjiushu/agent-entry-governance"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34713,
+    "updated_at": "2026-09-17T09:29:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "Wazifati/loka-context-harness",
-    "stars": 2,
-    "updated_at": "2026-09-17T09:14:56Z",
-    "url": "https://github.com/Wazifati/loka-context-harness"
+    "name": "Arize-ai/phoenix",
+    "stars": 11512,
+    "updated_at": "2026-09-17T09:30:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
+    "id": "mrwogu/promptscript",
+    "language": "TypeScript",
+    "name": "mrwogu/promptscript",
+    "stars": 396,
+    "updated_at": "2026-09-17T09:26:43Z",
+    "url": "https://github.com/mrwogu/promptscript"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -14,8 +41,44 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-09-17T09:14:07Z",
+    "updated_at": "2026-09-17T09:24:15Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22089,
+    "updated_at": "2026-09-17T09:30:15Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "One desktop window for ChatGPT, Claude, Gemini, Grok, Perplexity, Qwen, DeepSeek and Z.ai. Fast, private, fully local. B",
+    "id": "Michel-IT/Kotodama",
+    "language": "Rust",
+    "name": "Michel-IT/Kotodama",
+    "stars": 5,
+    "updated_at": "2026-09-17T09:22:53Z",
+    "url": "https://github.com/Michel-IT/Kotodama"
+  },
+  {
+    "description": "\u5e7b\u60f3\u6587\u660e\u7f8e\u5b66\u5bfc\u6f14 \u2014 \u4ece\u6750\u8d28\u3001\u5f62\u6001\u5230\u6587\u660e\u8d44\u4ea7\u7684\u901a\u7528\u5e7b\u60f3\u6587\u660e\u7f8e\u5b66\u94fe\u8def\uff1a8\u5f20\u7ec4\u56fe\u3001\u89d2\u8272\u8fd1\u666f/\u5ba4\u5185/\u751f\u7269\u5168\u8c31\u3001MJ\u63d0\u793a\u8bcd\u4e0e\u8d28\u68c0\u3002A portable agent skill.",
+    "id": "dashian1/fantasy-civilization-aesthetics",
+    "language": "\u2014",
+    "name": "dashian1/fantasy-civilization-aesthetics",
+    "stars": 0,
+    "updated_at": "2026-09-17T09:21:57Z",
+    "url": "https://github.com/dashian1/fantasy-civilization-aesthetics"
+  },
+  {
+    "description": "AI-image-prompt-TAG-skill",
+    "id": "1756141021/tag-skill",
+    "language": "\u2014",
+    "name": "1756141021/tag-skill",
+    "stars": 12,
+    "updated_at": "2026-09-17T09:21:10Z",
+    "url": "https://github.com/1756141021/tag-skill"
   },
   {
     "description": "AI \u52a9\u9500 Agent(\u9500\u552e\u519b\u5e08):\u5bf9\u8bdd\u5206\u6790/\u8bdd\u672f\u77e5\u8bc6\u5e93/\u8ddf\u8fdb\u4efb\u52a1/\u9500\u552e\u6f0f\u6597/\u8bd5\u9a7e\u56de\u8bbf/\u7ecf\u8425\u6d1e\u5bdf,\u4e1a\u52a1\u4e0e\u7cfb\u7edf\u53cc\u5c42\u5de5\u5177\u67b6\u6784,\u652f\u6301\u591a\u79df\u6237\u4e0e\u672c\u5730\u90e8\u7f72",
@@ -23,17 +86,80 @@
     "language": "TypeScript",
     "name": "usernamermh/help-sale",
     "stars": 0,
-    "updated_at": "2026-09-17T09:13:24Z",
+    "updated_at": "2026-09-17T09:20:22Z",
     "url": "https://github.com/usernamermh/help-sale"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Domain-agnostic SKILL.md studio with a built-in eval harness \u2014 author, validate, version, and prove your skill makes the",
+    "id": "Mine-FNL/LLM-Skill-Factory-Tool",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11511,
-    "updated_at": "2026-09-17T09:13:20Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "Mine-FNL/LLM-Skill-Factory-Tool",
+    "stars": 0,
+    "updated_at": "2026-09-17T09:17:36Z",
+    "url": "https://github.com/Mine-FNL/LLM-Skill-Factory-Tool"
+  },
+  {
+    "description": "\u6bcf\u65e5\u76d8\u9762\u590d\u76d8\u63a8\u9001\u7cfb\u7edf\uff08\u89c4\u5219\u4e8b\u5b9e\u9aa8\u67b6 + LLM \u4eba\u683c\u8868\u8fbe + \u6570\u5b57\u56de\u586b\u6821\u9a8c\uff1b\u6bcf\u4ea4\u6613\u65e5 08:40 \u81ea\u52a8\u63a8\u9001\u5230\u4f01\u4e1a\u5fae\u4fe1\uff09",
+    "id": "luochao58/stock-daily-review",
+    "language": "Python",
+    "name": "luochao58/stock-daily-review",
+    "stars": 0,
+    "updated_at": "2026-09-17T09:17:03Z",
+    "url": "https://github.com/luochao58/stock-daily-review"
+  },
+  {
+    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-09-17T09:16:47Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "A decision-oriented LLM engineering knowledge base \u2014 from Attention to production. 291 cards, 36-card path: fundamentals",
+    "id": "weicyang/llm-eng-cards",
+    "language": "HTML",
+    "name": "weicyang/llm-eng-cards",
+    "stars": 3,
+    "updated_at": "2026-09-17T09:16:45Z",
+    "url": "https://github.com/weicyang/llm-eng-cards"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 7,
+    "updated_at": "2026-09-17T09:16:35Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "stars": 1,
+    "updated_at": "2026-09-17T09:15:49Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-17T09:15:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Agent-neutral context-engineering frameworks for reliable AI work: ACE, V10\u2013V13, Guard, Build, Skills, Plugins, and Meta",
+    "id": "Wazifati/loka-context-harness",
+    "language": "Python",
+    "name": "Wazifati/loka-context-harness",
+    "stars": 2,
+    "updated_at": "2026-09-17T09:14:56Z",
+    "url": "https://github.com/Wazifati/loka-context-harness"
   },
   {
     "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
@@ -49,7 +175,7 @@
     "id": "jnMetaCode/superpowers-zh",
     "language": "JavaScript",
     "name": "jnMetaCode/superpowers-zh",
-    "stars": 8116,
+    "stars": 8117,
     "updated_at": "2026-09-17T09:11:21Z",
     "url": "https://github.com/jnMetaCode/superpowers-zh"
   },
@@ -70,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T09:10:57Z",
     "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22089,
-    "updated_at": "2026-09-17T09:11:40Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
@@ -108,15 +225,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Prompt-as-Code for Enterprise AI. Standardize, audit, and deploy instructions across any AI coding assistant.",
-    "id": "mrwogu/promptscript",
-    "language": "TypeScript",
-    "name": "mrwogu/promptscript",
-    "stars": 396,
-    "updated_at": "2026-09-17T09:12:59Z",
-    "url": "https://github.com/mrwogu/promptscript"
-  },
-  {
     "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
     "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
     "language": "TypeScript",
@@ -133,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-09-17T09:06:56Z",
     "url": "https://github.com/konradre/video-production-skills"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34713,
-    "updated_at": "2026-09-17T09:10:34Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\u672c\u9879\u76ee\u6574\u7406\u4e86\u7528\u4e8e\u751f\u6210[\u70ab\u9177 HTML \u52a8\u753b\u7f51\u9875]\u7684 AI Prompts\uff0c\u6db5\u76d6\u52a8\u753b\u6548\u679c\u30013D \u53ef\u89c6\u5316\u3001PPT \u98ce\u683c\u6f14\u793a\u3001UI \u7f8e\u5316\u7b49\u591a\u4e2a\u7c7b\u522b\u3002",
@@ -171,15 +270,6 @@
     "url": "https://github.com/kiarash65/sunjob-math-major-skill"
   },
   {
-    "description": "Agent \u6280\u80fd\uff1a\u63a7\u5236 AGENTS.md / CLAUDE.md \u8fd9\u7c7b Agent \u5165\u53e3\u6587\u6863\u7684\u957f\u5ea6\u548c\u4fe1\u606f\u5bc6\u5ea6\u2014\u2014\u8bbe\u5b9a\u4e0a\u4e0b\u6587\u9884\u7b97\uff0c\u8d85\u51fa\u7684\u77e5\u8bc6\u4e0b\u6c89\u6210\u6307\u9488\uff0c\u5e76\u5728\u63d0\u4ea4\u70b9\u88c5\u5b88\u536b\u62e6\u622a\u8d85\u9650\u5185\u5bb9\u3002",
-    "id": "ranjiushu/agent-entry-governance",
-    "language": "Shell",
-    "name": "ranjiushu/agent-entry-governance",
-    "stars": 0,
-    "updated_at": "2026-09-17T09:05:12Z",
-    "url": "https://github.com/ranjiushu/agent-entry-governance"
-  },
-  {
     "description": "This repository serves as the comprehensive workspace for Quarter 4-5 academic endeavors, encompassing assignments, tech",
     "id": "DanielHashmi/Q4_learning",
     "language": "Python",
@@ -189,21 +279,12 @@
     "url": "https://github.com/DanielHashmi/Q4_learning"
   },
   {
-    "description": "Domain-agnostic SKILL.md studio with a built-in eval harness \u2014 author, validate, version, and prove your skill makes the",
-    "id": "Mine-FNL/LLM-Skill-Factory-Tool",
-    "language": "Python",
-    "name": "Mine-FNL/LLM-Skill-Factory-Tool",
-    "stars": 0,
-    "updated_at": "2026-09-17T09:01:29Z",
-    "url": "https://github.com/Mine-FNL/LLM-Skill-Factory-Tool"
-  },
-  {
     "description": "Smart git diff context for LLMs and AI agents: budgeted fragment selection, deterministic, MCP server included",
     "id": "nikolay-e/diffctx",
     "language": "Rust",
     "name": "nikolay-e/diffctx",
     "stars": 4,
-    "updated_at": "2026-09-17T09:01:15Z",
+    "updated_at": "2026-09-17T09:19:19Z",
     "url": "https://github.com/nikolay-e/diffctx"
   },
   {
@@ -223,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T09:00:42Z",
     "url": "https://github.com/unmanageable-mauiisland8443/PromptLedger"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-17T09:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Teach AI assistants eight reusable skills for studying, presentations, customer service, browser handoffs, and privacy.",
@@ -360,6 +432,15 @@
     "url": "https://github.com/interbankloansenega594/Context_OS"
   },
   {
+    "description": "Privacy-first developer utilities & technical architecture reference. Fast, client-side tools for prompt engineering, JS",
+    "id": "santechedu-87/synth-labs-studio",
+    "language": "JavaScript",
+    "name": "santechedu-87/synth-labs-studio",
+    "stars": 0,
+    "updated_at": "2026-09-17T08:56:44Z",
+    "url": "https://github.com/santechedu-87/synth-labs-studio"
+  },
+  {
     "description": "Build, run, and monitor reusable agent graphs with this open-source dynamic workflow runtime.",
     "id": "Prosy4967/deer-workflow",
     "language": "TypeScript",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T08:56:36Z",
     "url": "https://github.com/Prosy4967/deer-workflow"
-  },
-  {
-    "description": "Generate unique compositions of smooth closed bezier curves using random colors and seed-based patterns.",
-    "id": "Bessbuggy762/Bezier-1-Generative-Art",
-    "language": "HTML",
-    "name": "Bessbuggy762/Bezier-1-Generative-Art",
-    "stars": 1,
-    "updated_at": "2026-09-17T08:56:34Z",
-    "url": "https://github.com/Bessbuggy762/Bezier-1-Generative-Art"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-17T08:52:01Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-09-17T08:51:57Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-09-17T08:51:40Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Reduce token usage for JSON, CSV, and TSV files with deterministic compression that keeps data intact for AI agents.",
-    "id": "herreravalenz6620/context-compression",
-    "language": "Python",
-    "name": "herreravalenz6620/context-compression",
-    "stars": 3,
-    "updated_at": "2026-09-17T08:51:05Z",
-    "url": "https://github.com/herreravalenz6620/context-compression"
-  },
-  {
-    "description": "A decision-oriented LLM engineering knowledge base \u2014 from Attention to production. 291 cards, 36-card path: fundamentals",
-    "id": "weicyang/llm-eng-cards",
-    "language": "HTML",
-    "name": "weicyang/llm-eng-cards",
-    "stars": 3,
-    "updated_at": "2026-09-17T08:50:38Z",
-    "url": "https://github.com/weicyang/llm-eng-cards"
-  },
-  {
-    "description": "Convert complex medical discharge summaries into simple, actionable health plans for patients and caregivers.",
-    "id": "Connieverbal484/Anthropic_Hackathon",
-    "language": "\u2014",
-    "name": "Connieverbal484/Anthropic_Hackathon",
-    "stars": 1,
-    "updated_at": "2026-09-17T08:50:35Z",
-    "url": "https://github.com/Connieverbal484/Anthropic_Hackathon"
-  },
-  {
-    "description": "Replace Claudesona emotion tags with flower-headed sprites in your Claude.ai chat interface using this Chrome extension.",
-    "id": "Paranthropusdwarfchestnut642/claudesona",
-    "language": "\u2014",
-    "name": "Paranthropusdwarfchestnut642/claudesona",
-    "stars": 0,
-    "updated_at": "2026-09-17T08:50:13Z",
-    "url": "https://github.com/Paranthropusdwarfchestnut642/claudesona"
-  },
-  {
-    "description": "Audit AI coding agents and project configurations for security flaws using static analysis, custom rules, and LLM-assist",
-    "id": "muhamedali7713/agent-audit",
-    "language": "Python",
-    "name": "muhamedali7713/agent-audit",
-    "stars": 0,
-    "updated_at": "2026-09-17T08:49:55Z",
-    "url": "https://github.com/muhamedali7713/agent-audit"
   }
 ]
