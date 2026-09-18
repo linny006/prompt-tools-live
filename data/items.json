@@ -1,21 +1,75 @@
 [
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
+    "description": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing s",
+    "id": "hermes-labs-ai/lintlang",
     "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-18T18:44:53Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
+    "name": "hermes-labs-ai/lintlang",
+    "stars": 74,
+    "updated_at": "2026-09-18T19:00:13Z",
+    "url": "https://github.com/hermes-labs-ai/lintlang"
   },
   {
-    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
-    "id": "AltairaLabs/PromptKit",
-    "language": "Go",
-    "name": "AltairaLabs/PromptKit",
-    "stars": 9,
-    "updated_at": "2026-09-18T18:43:33Z",
-    "url": "https://github.com/AltairaLabs/PromptKit"
+    "description": "Agent Skill for transforming photographs into bold, contemporary print-driven editorial compositions using source-aware ",
+    "id": "Fanjiale-CN/MixMatter",
+    "language": "\u2014",
+    "name": "Fanjiale-CN/MixMatter",
+    "stars": 3,
+    "updated_at": "2026-09-18T19:00:08Z",
+    "url": "https://github.com/Fanjiale-CN/MixMatter"
+  },
+  {
+    "description": "A curated collection of 290+ high-quality video generation prompts for ByteDance's Seedance 2.0 (text-to-video, image-to",
+    "id": "renoise-ai/awesome-seedance-prompts",
+    "language": "TypeScript",
+    "name": "renoise-ai/awesome-seedance-prompts",
+    "stars": 7,
+    "updated_at": "2026-09-18T18:59:48Z",
+    "url": "https://github.com/renoise-ai/awesome-seedance-prompts"
+  },
+  {
+    "description": "Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-video-prompts-and-skills",
+    "stars": 1,
+    "updated_at": "2026-09-18T18:59:02Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills"
+  },
+  {
+    "description": "Evidence-backed Gemini 4 Pro use cases, prompts, evaluations, and status tracking",
+    "id": "Anil-matcha/awesome-gemini-4-pro",
+    "language": "\u2014",
+    "name": "Anil-matcha/awesome-gemini-4-pro",
+    "stars": 1,
+    "updated_at": "2026-09-18T18:58:43Z",
+    "url": "https://github.com/Anil-matcha/awesome-gemini-4-pro"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:57:24Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "Hands-on labs and courseware for Generative AI for Business Presentation (C329) \u2014 10 connected practical activities from",
+    "id": "tertiarycourses/C329-Generative-AI-for-Business-Presentation",
+    "language": "\u2014",
+    "name": "tertiarycourses/C329-Generative-AI-for-Business-Presentation",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:56:38Z",
+    "url": "https://github.com/tertiarycourses/C329-Generative-AI-for-Business-Presentation"
+  },
+  {
+    "description": "Open-source Agent Skill: turns a brief request into a professional image-generation prompt and drives batch generation.",
+    "id": "QYDION/ai-image-generator",
+    "language": "\u2014",
+    "name": "QYDION/ai-image-generator",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:55:14Z",
+    "url": "https://github.com/QYDION/ai-image-generator"
   },
   {
     "description": "Official JasoosLabs software releases. NovaInsert \u2014 Agentic AI simplified: a tool for structured AI-assisted coding, asy",
@@ -23,8 +77,107 @@
     "language": "\u2014",
     "name": "jasoos-labs/releases",
     "stars": 0,
-    "updated_at": "2026-09-18T18:43:10Z",
+    "updated_at": "2026-09-18T18:54:38Z",
     "url": "https://github.com/jasoos-labs/releases"
+  },
+  {
+    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
+    "id": "J-nowcow/awesome-korean-agent-skills",
+    "language": "\u2014",
+    "name": "J-nowcow/awesome-korean-agent-skills",
+    "stars": 46,
+    "updated_at": "2026-09-18T18:53:41Z",
+    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
+  },
+  {
+    "description": "Website for Raposa Millar Piano & Theory",
+    "id": "raposamillar/studio-website",
+    "language": "HTML",
+    "name": "raposamillar/studio-website",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:53:16Z",
+    "url": "https://github.com/raposamillar/studio-website"
+  },
+  {
+    "description": "Li+ is a high-level programming language for AI agents, built with prompt-native harness engineering. Any AI that execut",
+    "id": "Liplus-Project/liplus-language",
+    "language": "Python",
+    "name": "Liplus-Project/liplus-language",
+    "stars": 2,
+    "updated_at": "2026-09-18T18:53:20Z",
+    "url": "https://github.com/Liplus-Project/liplus-language"
+  },
+  {
+    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
+    "id": "aliasunder/agent-plugins",
+    "language": "\u2014",
+    "name": "aliasunder/agent-plugins",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:52:15Z",
+    "url": "https://github.com/aliasunder/agent-plugins"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 9,
+    "updated_at": "2026-09-18T18:51:51Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "Knowledge-grounded Generative AI assistant for IT Service Desk incident analysis using RAG, semantic retrieval, AI guard",
+    "id": "jyotikanwarjo/AI-Service-Desk-Copilot",
+    "language": "Python",
+    "name": "jyotikanwarjo/AI-Service-Desk-Copilot",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:50:58Z",
+    "url": "https://github.com/jyotikanwarjo/AI-Service-Desk-Copilot"
+  },
+  {
+    "description": "Source-backed Muse Image prompts with real result images, research-aware editing, reference workflows, and multilingual ",
+    "id": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "language": "TypeScript",
+    "name": "imagineVid/Awesome-muse-image-prompts-and-skills",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:49:26Z",
+    "url": "https://github.com/imagineVid/Awesome-muse-image-prompts-and-skills"
+  },
+  {
+    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
+    "id": "Nyanna/XY.AI.Workbench",
+    "language": "Python",
+    "name": "Nyanna/XY.AI.Workbench",
+    "stars": 1,
+    "updated_at": "2026-09-18T18:48:02Z",
+    "url": "https://github.com/Nyanna/XY.AI.Workbench"
+  },
+  {
+    "description": "AI Agent \u5f00\u6e90\u4e66\u5355/\u6559\u7a0b\u5408\u96c6 | Awesome list of LLM Agent books & courses",
+    "id": "gotonote/awesome-agent-boom",
+    "language": "Python",
+    "name": "gotonote/awesome-agent-boom",
+    "stars": 9,
+    "updated_at": "2026-09-18T18:45:48Z",
+    "url": "https://github.com/gotonote/awesome-agent-boom"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-18T18:45:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-18T18:55:04Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
@@ -126,21 +279,12 @@
     "url": "https://github.com/X33834/awesome-skillkit"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-18T18:30:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
     "name": "lizhiyao/oh-my-knowledge",
     "stars": 22,
-    "updated_at": "2026-09-18T18:30:19Z",
+    "updated_at": "2026-09-18T19:00:25Z",
     "url": "https://github.com/lizhiyao/oh-my-knowledge"
   },
   {
@@ -151,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T18:29:31Z",
     "url": "https://github.com/jprevo/microcouncil"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-18T18:28:52Z",
-    "url": "https://github.com/Hefrock/agent-skills"
   },
   {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
@@ -187,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-09-18T18:44:38Z",
     "url": "https://github.com/rockerlabs/keel"
-  },
-  {
-    "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
-    "id": "Nyanna/XY.AI.Workbench",
-    "language": "Python",
-    "name": "Nyanna/XY.AI.Workbench",
-    "stars": 1,
-    "updated_at": "2026-09-18T18:25:05Z",
-    "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -248,7 +374,7 @@
     "language": "Python",
     "name": "IBM/mcp-context-forge",
     "stars": 4492,
-    "updated_at": "2026-09-18T18:18:57Z",
+    "updated_at": "2026-09-18T18:53:54Z",
     "url": "https://github.com/IBM/mcp-context-forge"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 936,
     "updated_at": "2026-09-18T18:11:24Z",
     "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "A lightweight anti-hallucination wrapper for LLMs using Chain-of-Verification.",
-    "id": "Muhtasim-Munif-Fahim/self-correct-agent",
-    "language": "Python",
-    "name": "Muhtasim-Munif-Fahim/self-correct-agent",
-    "stars": 7,
-    "updated_at": "2026-09-18T18:09:07Z",
-    "url": "https://github.com/Muhtasim-Munif-Fahim/self-correct-agent"
-  },
-  {
-    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
-    "id": "hakodev2k/AI-Engineering",
-    "language": "Python",
-    "name": "hakodev2k/AI-Engineering",
-    "stars": 0,
-    "updated_at": "2026-09-18T18:08:57Z",
-    "url": "https://github.com/hakodev2k/AI-Engineering"
-  },
-  {
-    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
-    "id": "hysohail/agentic-experiment-designer",
-    "language": "HTML",
-    "name": "hysohail/agentic-experiment-designer",
-    "stars": 0,
-    "updated_at": "2026-09-18T18:08:28Z",
-    "url": "https://github.com/hysohail/agentic-experiment-designer"
-  },
-  {
-    "description": "Multi-user job search app where every ranking shows its work: which skills matched, which are missing, and why the score",
-    "id": "ghalynho10/JobHunt",
-    "language": "TypeScript",
-    "name": "ghalynho10/JobHunt",
-    "stars": 0,
-    "updated_at": "2026-09-18T18:07:12Z",
-    "url": "https://github.com/ghalynho10/JobHunt"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 118,
-    "updated_at": "2026-09-18T18:07:01Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
-  },
-  {
-    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
-    "id": "domaingitshub/odin-mirror-scribe",
-    "language": "HTML",
-    "name": "domaingitshub/odin-mirror-scribe",
-    "stars": 1,
-    "updated_at": "2026-09-18T18:04:21Z",
-    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
-  },
-  {
-    "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
-    "id": "ariffazil/arifOS",
-    "language": "Python",
-    "name": "ariffazil/arifOS",
-    "stars": 51,
-    "updated_at": "2026-09-18T18:04:19Z",
-    "url": "https://github.com/ariffazil/arifOS"
-  },
-  {
-    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
-    "id": "vikashjeyaraman/opencouncil-contract-inspector",
-    "language": "HTML",
-    "name": "vikashjeyaraman/opencouncil-contract-inspector",
-    "stars": 122,
-    "updated_at": "2026-09-18T18:03:24Z",
-    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-  },
-  {
-    "description": "Production phone booking agent for dental clinics, with a 75-scenario simulated-patient test suite: 10/75 to 69/75 over ",
-    "id": "aliarmanmasoumi-byte/dental-voice-agent",
-    "language": "JavaScript",
-    "name": "aliarmanmasoumi-byte/dental-voice-agent",
-    "stars": 0,
-    "updated_at": "2026-09-18T18:03:18Z",
-    "url": "https://github.com/aliarmanmasoumi-byte/dental-voice-agent"
-  },
-  {
-    "description": "A Claude Code plugin that automatically captures coding mistakes and injects relevant lessons before tool calls \u2014 preven",
-    "id": "joeblackwaslike/lessons-learned",
-    "language": "JavaScript",
-    "name": "joeblackwaslike/lessons-learned",
-    "stars": 0,
-    "updated_at": "2026-09-18T18:03:16Z",
-    "url": "https://github.com/joeblackwaslike/lessons-learned"
-  },
-  {
-    "description": "Local-first PySide6 prompt manager with versions, boards, clipboard modes, JSON export and a read-only Web/PWA companion",
-    "id": "file-bricks/ProfiPrompt",
-    "language": "Python",
-    "name": "file-bricks/ProfiPrompt",
-    "stars": 3,
-    "updated_at": "2026-09-18T17:59:32Z",
-    "url": "https://github.com/file-bricks/ProfiPrompt"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-09-18T17:59:08Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 46,
-    "updated_at": "2026-09-18T17:57:16Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "Suite de ingenier\u00eda de prompts para IA generativa \u2014 271 modelos de imagen, v\u00eddeo y audio, cada uno con sus propias regla",
-    "id": "Gustaafvito/gprompt-studio",
-    "language": "Python",
-    "name": "Gustaafvito/gprompt-studio",
-    "stars": 2,
-    "updated_at": "2026-09-18T17:56:40Z",
-    "url": "https://github.com/Gustaafvito/gprompt-studio"
   }
 ]
