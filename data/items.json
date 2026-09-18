@@ -1,12 +1,174 @@
 [
   {
+    "description": "Zebra \u662f AI Agent \u7684\u5168\u529f\u80fd\u6700\u5c0f\u5b9e\u73b0\uff0c\u5e2e\u52a9\u638c\u63e1 AI Agent \u539f\u7406\uff0c\u628a\u5404\u4e2a\u6280\u80fd\u3001\u5bf9\u8bdd\u4e0e\u63a8\u7406\u3001\u8bb0\u5fc6\u3001\u77e5\u8bc6\u3001\u5de5\u5177\u3001\u591a Agent\u3001\u8bc4\u6d4b\u3001\u5b89\u5168\u3001\u53ef\u89c2\u6d4b\u3001\u89c4\u6a21\u5316\uff0c\u7528\u6700\u5c0f\u53ef\u8bfb\u7684\u4ee3\u7801\u5b9e\u73b0\u51fa\u6765\uff0c\u8ba9\u4f60\u770b\u61c2\u6bcf\u4e2a\u6280\u80fd\u80cc\u540e\u7684\u539f\u7406\u3002",
+    "id": "ericthz/zebra",
+    "language": "Go",
+    "name": "ericthz/zebra",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:14:28Z",
+    "url": "https://github.com/ericthz/zebra"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-18T18:12:48Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Generative AI document analysis on Amazon Bedrock AgentCore: a Strands agent routes pages through 27 vision specialists ",
+    "id": "aws-samples/sample-badgers",
+    "language": "Python",
+    "name": "aws-samples/sample-badgers",
+    "stars": 18,
+    "updated_at": "2026-09-18T18:15:11Z",
+    "url": "https://github.com/aws-samples/sample-badgers"
+  },
+  {
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "id": "AgustiPuigserver/opus-prompt-architect",
+    "language": "HTML",
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "stars": 125,
+    "updated_at": "2026-09-18T18:12:36Z",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
+  },
+  {
+    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
+    "id": "blauwtje/exo",
+    "language": "JavaScript",
+    "name": "blauwtje/exo",
+    "stars": 1,
+    "updated_at": "2026-09-18T18:14:39Z",
+    "url": "https://github.com/blauwtje/exo"
+  },
+  {
+    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
+    "id": "heavenaruba/codified-prompt-rule-engine",
+    "language": "HTML",
+    "name": "heavenaruba/codified-prompt-rule-engine",
+    "stars": 123,
+    "updated_at": "2026-09-18T18:11:48Z",
+    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
+  },
+  {
+    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
+    "id": "repoprompt/repoprompt-ce",
+    "language": "Swift",
+    "name": "repoprompt/repoprompt-ce",
+    "stars": 936,
+    "updated_at": "2026-09-18T18:11:24Z",
+    "url": "https://github.com/repoprompt/repoprompt-ce"
+  },
+  {
+    "description": "A lightweight anti-hallucination wrapper for LLMs using Chain-of-Verification.",
+    "id": "Muhtasim-Munif-Fahim/self-correct-agent",
+    "language": "Python",
+    "name": "Muhtasim-Munif-Fahim/self-correct-agent",
+    "stars": 7,
+    "updated_at": "2026-09-18T18:09:07Z",
+    "url": "https://github.com/Muhtasim-Munif-Fahim/self-correct-agent"
+  },
+  {
+    "description": "Pick-and-copy AI engineering roles, rules, skills, safety gates, and MCP connectors for real software repositories.",
+    "id": "hakodev2k/AI-Engineering",
+    "language": "Python",
+    "name": "hakodev2k/AI-Engineering",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:08:57Z",
+    "url": "https://github.com/hakodev2k/AI-Engineering"
+  },
+  {
+    "description": "Best AI Research Agent GitHub 2026 - Automate Experimental Design Testing Refinement",
+    "id": "hysohail/agentic-experiment-designer",
+    "language": "HTML",
+    "name": "hysohail/agentic-experiment-designer",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:08:28Z",
+    "url": "https://github.com/hysohail/agentic-experiment-designer"
+  },
+  {
     "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
     "id": "Hefrock/agent-skills",
     "language": "Python",
     "name": "Hefrock/agent-skills",
     "stars": 0,
-    "updated_at": "2026-09-18T17:59:46Z",
+    "updated_at": "2026-09-18T18:07:17Z",
     "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "Multi-user job search app where every ranking shows its work: which skills matched, which are missing, and why the score",
+    "id": "ghalynho10/JobHunt",
+    "language": "TypeScript",
+    "name": "ghalynho10/JobHunt",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:07:12Z",
+    "url": "https://github.com/ghalynho10/JobHunt"
+  },
+  {
+    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
+    "id": "kaderkck/hewn-forge",
+    "language": "HTML",
+    "name": "kaderkck/hewn-forge",
+    "stars": 118,
+    "updated_at": "2026-09-18T18:07:01Z",
+    "url": "https://github.com/kaderkck/hewn-forge"
+  },
+  {
+    "description": "\ud83d\ude80 ODIN Reflector 2026 \u2013 Next-Gen Meta-Reflection Engine for Outline-Driven AI Development",
+    "id": "domaingitshub/odin-mirror-scribe",
+    "language": "HTML",
+    "name": "domaingitshub/odin-mirror-scribe",
+    "stars": 1,
+    "updated_at": "2026-09-18T18:04:21Z",
+    "url": "https://github.com/domaingitshub/odin-mirror-scribe"
+  },
+  {
+    "description": "Independent policy kernel for AI agents: judge before execute. F1\u2013F13 floors, VAULT999 receipts. Not a model. Not a chat",
+    "id": "ariffazil/arifOS",
+    "language": "Python",
+    "name": "ariffazil/arifOS",
+    "stars": 51,
+    "updated_at": "2026-09-18T18:04:19Z",
+    "url": "https://github.com/ariffazil/arifOS"
+  },
+  {
+    "description": "Proven 2026 Multi-Agent AI Review System \u2013 Verdict-Driven Quality Control",
+    "id": "vikashjeyaraman/opencouncil-contract-inspector",
+    "language": "HTML",
+    "name": "vikashjeyaraman/opencouncil-contract-inspector",
+    "stars": 122,
+    "updated_at": "2026-09-18T18:03:24Z",
+    "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  },
+  {
+    "description": "Production phone booking agent for dental clinics, with a 75-scenario simulated-patient test suite: 10/75 to 69/75 over ",
+    "id": "aliarmanmasoumi-byte/dental-voice-agent",
+    "language": "JavaScript",
+    "name": "aliarmanmasoumi-byte/dental-voice-agent",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:03:18Z",
+    "url": "https://github.com/aliarmanmasoumi-byte/dental-voice-agent"
+  },
+  {
+    "description": "A Claude Code plugin that automatically captures coding mistakes and injects relevant lessons before tool calls \u2014 preven",
+    "id": "joeblackwaslike/lessons-learned",
+    "language": "JavaScript",
+    "name": "joeblackwaslike/lessons-learned",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:03:16Z",
+    "url": "https://github.com/joeblackwaslike/lessons-learned"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-18T18:00:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Local-first PySide6 prompt manager with versions, boards, clipboard modes, JSON export and a read-only Web/PWA companion",
@@ -52,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-09-18T17:56:40Z",
     "url": "https://github.com/Gustaafvito/gprompt-studio"
-  },
-  {
-    "description": "Zebra \u662f AI Agent \u7684\u5168\u529f\u80fd\u6700\u5c0f\u5b9e\u73b0\uff0c\u5e2e\u52a9\u638c\u63e1 AI Agent \u539f\u7406\uff0c\u628a\u5404\u4e2a\u6280\u80fd\u3001\u5bf9\u8bdd\u4e0e\u63a8\u7406\u3001\u8bb0\u5fc6\u3001\u77e5\u8bc6\u3001\u5de5\u5177\u3001\u591a Agent\u3001\u8bc4\u6d4b\u3001\u5b89\u5168\u3001\u53ef\u89c2\u6d4b\u3001\u89c4\u6a21\u5316\uff0c\u7528\u6700\u5c0f\u53ef\u8bfb\u7684\u4ee3\u7801\u5b9e\u73b0\u51fa\u6765\uff0c\u8ba9\u4f60\u770b\u61c2\u6bcf\u4e2a\u6280\u80fd\u80cc\u540e\u7684\u539f\u7406\u3002",
-    "id": "ericthz/zebra",
-    "language": "Go",
-    "name": "ericthz/zebra",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:55:39Z",
-    "url": "https://github.com/ericthz/zebra"
   },
   {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
@@ -151,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T17:45:51Z",
     "url": "https://github.com/Sanderovich2/PromptWizard"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-18T17:45:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
@@ -304,149 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T17:28:28Z",
     "url": "https://github.com/ivie-clifford/email-triage-starter-kit"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:28:15Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Create polished presentations and clear owner briefs with Codex skills for visual decks, intent validation, and outcome ",
-    "id": "Yazanw6234/presentation-delivery-skills",
-    "language": "\u2014",
-    "name": "Yazanw6234/presentation-delivery-skills",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:28:05Z",
-    "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference.",
-    "id": "Ak863153/ChatGPT-Persona-Voice",
-    "language": "\u2014",
-    "name": "Ak863153/ChatGPT-Persona-Voice",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:27:08Z",
-    "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-18T17:26:43Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Give your AI coding assistant a cautious, meticulous Korean developer personality with this persona plugin for OpenAI Co",
-    "id": "partible-dicer700/SoDam-Persona-Codex",
-    "language": "JavaScript",
-    "name": "partible-dicer700/SoDam-Persona-Codex",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:25:57Z",
-    "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
-  },
-  {
-    "description": "Track and instantly rewind your SQLite database to any previous state during local development with a video-like scrubbe",
-    "id": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "language": "HTML",
-    "name": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:25:54Z",
-    "url": "https://github.com/nonliteral-fullhouse266/time-travel-sqlite-debugger"
-  },
-  {
-    "description": "Non-WSQ 2-day course (C439): build a traceable generative-AI content strategy, produce governed multimodal content, and ",
-    "id": "tertiarycourses/C439-Generative-AI-for-Content-Creation",
-    "language": "\u2014",
-    "name": "tertiarycourses/C439-Generative-AI-for-Content-Creation",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:24:35Z",
-    "url": "https://github.com/tertiarycourses/C439-Generative-AI-for-Content-Creation"
-  },
-  {
-    "description": "Manage and organize your AI prompts locally with this private, self-hosted prompt manager for ChatGPT, Claude, and Gemin",
-    "id": "conniving-catechist742/ai-prompt-studio",
-    "language": "Python",
-    "name": "conniving-catechist742/ai-prompt-studio",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:24:24Z",
-    "url": "https://github.com/conniving-catechist742/ai-prompt-studio"
-  },
-  {
-    "description": "Optimize prompts for any AI model using an automated agentic loop that analyzes, rewrites, and scores your instructions ",
-    "id": "householderbereavedperson505/promptloop",
-    "language": "\u2014",
-    "name": "householderbereavedperson505/promptloop",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:24:12Z",
-    "url": "https://github.com/householderbereavedperson505/promptloop"
-  },
-  {
-    "description": "Write human-quality copy that earns attention while stripping away all signs of AI generation using these portable Markd",
-    "id": "Caseinpainthindu889/ai-copywriter",
-    "language": "\u2014",
-    "name": "Caseinpainthindu889/ai-copywriter",
-    "stars": 1,
-    "updated_at": "2026-09-18T17:23:23Z",
-    "url": "https://github.com/Caseinpainthindu889/ai-copywriter"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:23:21Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Estudo de caso \u00b7 Infraestrutura, DevOps, SRE & Seguran\u00e7a \u00b7 set/2023 \u2013 ago/2026 \u2014 Reposit\u00f3rio open source com o curr\u00edculo",
-    "id": "jontimoteo-programmer/treinamento-corporativo-em-engenharia-de-prompt-e-arquitetura-rag-open",
-    "language": "\u2014",
-    "name": "jontimoteo-programmer/treinamento-corporativo-em-engenharia-de-prompt-e-arquitetura-rag-open",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:22:41Z",
-    "url": "https://github.com/jontimoteo-programmer/treinamento-corporativo-em-engenharia-de-prompt-e-arquitetura-rag-open"
-  },
-  {
-    "description": "Build cinematic scroll-driven 2.5D websites using a framework-agnostic prompt system for coding agents.",
-    "id": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "language": "\u2014",
-    "name": "nikolettalesstraveled780/cinematic-scroll-prompt-kit",
-    "stars": 2,
-    "updated_at": "2026-09-18T17:22:29Z",
-    "url": "https://github.com/nikolettalesstraveled780/cinematic-scroll-prompt-kit"
-  },
-  {
-    "description": "Break down screenplay scripts locally to generate scene reports and shot lists for LLMs without cloud accounts or API ke",
-    "id": "calabashspouter212/scriptbreak",
-    "language": "\u2014",
-    "name": "calabashspouter212/scriptbreak",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:22:29Z",
-    "url": "https://github.com/calabashspouter212/scriptbreak"
-  },
-  {
-    "description": "Monitor Claude usage, track token consumption, and optimize prompts to maximize your AI session capacity.",
-    "id": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "language": "Python",
-    "name": "jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:22:16Z",
-    "url": "https://github.com/jasmininvasive588/Claude-Usage-Optimizer-2026---AI-Powered-Limit-Management-Tool-for-Enhanced-Productivity"
-  },
-  {
-    "description": "Train your mindset with this browser game that turns daily discipline into a strategic challenge.",
-    "id": "kerasum2704/discipline-duel-v1",
-    "language": "HTML",
-    "name": "kerasum2704/discipline-duel-v1",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:22:05Z",
-    "url": "https://github.com/kerasum2704/discipline-duel-v1"
   }
 ]
