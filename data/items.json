@@ -1,12 +1,111 @@
 [
   {
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "Markdown",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 3,
+    "updated_at": "2026-09-18T09:57:26Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "A persistent, observable, and collaborative memory infrastructure",
+    "id": "lilhammerfun/clumsies",
+    "language": "Rust",
+    "name": "lilhammerfun/clumsies",
+    "stars": 18,
+    "updated_at": "2026-09-18T09:59:58Z",
+    "url": "https://github.com/lilhammerfun/clumsies"
+  },
+  {
+    "description": "Switch AIs without re-explaining everything.",
+    "id": "spidey889/context-generator",
+    "language": "JavaScript",
+    "name": "spidey889/context-generator",
+    "stars": 11,
+    "updated_at": "2026-09-18T09:55:43Z",
+    "url": "https://github.com/spidey889/context-generator"
+  },
+  {
+    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u7384\u5b66\u7b97\u547d\u5360\u535c\u5de5\u5177\u5305\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
+    "id": "Brhiza/mingyu",
+    "language": "TypeScript",
+    "name": "Brhiza/mingyu",
+    "stars": 430,
+    "updated_at": "2026-09-18T09:53:54Z",
+    "url": "https://github.com/Brhiza/mingyu"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 21,
+    "updated_at": "2026-09-18T09:51:25Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "Reusable prompt patterns for recon, implementation, review, handoff and documentation with Claude",
+    "id": "Yergaly-go/claude-prompt-library",
+    "language": "\u2014",
+    "name": "Yergaly-go/claude-prompt-library",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:50:57Z",
+    "url": "https://github.com/Yergaly-go/claude-prompt-library"
+  },
+  {
     "description": "Drift-prevention session-init convention card for fresh Claude Code sessions. Injects a self-contained card so a new ses",
     "id": "hermes-labs-ai/hermes-prime",
     "language": "Shell",
     "name": "hermes-labs-ai/hermes-prime",
     "stars": 1,
-    "updated_at": "2026-09-18T09:44:28Z",
+    "updated_at": "2026-09-18T09:50:23Z",
     "url": "https://github.com/hermes-labs-ai/hermes-prime"
+  },
+  {
+    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the met",
+    "id": "ericrisco/rsc-harness",
+    "language": "JavaScript",
+    "name": "ericrisco/rsc-harness",
+    "stars": 84,
+    "updated_at": "2026-09-18T09:50:00Z",
+    "url": "https://github.com/ericrisco/rsc-harness"
+  },
+  {
+    "description": "730 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a ",
+    "id": "kydlikebtc/awesome-grokbot",
+    "language": "Python",
+    "name": "kydlikebtc/awesome-grokbot",
+    "stars": 306,
+    "updated_at": "2026-09-18T09:48:47Z",
+    "url": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "description": "Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs.",
+    "id": "2148-wq/DLSS5-for-Nuke",
+    "language": "C++",
+    "name": "2148-wq/DLSS5-for-Nuke",
+    "stars": 1,
+    "updated_at": "2026-09-18T09:46:52Z",
+    "url": "https://github.com/2148-wq/DLSS5-for-Nuke"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u4e2a\u4eba\u6210\u957f\u8bb0\u5f55\u5e94\u7528\uff1a\u65e5\u8bb0\u00b7\u5de5\u4f5c\u00b7\u5b66\u4e60\u4e09\u5408\u4e00\uff0cAI \u590d\u76d8\u81ea\u52a8\u751f\u6210 Markdown \u77e5\u8bc6\u5e93\uff0c\u6570\u636e 100% \u7559\u5728\u672c\u673a\u3002",
+    "id": "YUDongLin1/MindFlow",
+    "language": "TypeScript",
+    "name": "YUDongLin1/MindFlow",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:47:02Z",
+    "url": "https://github.com/YUDongLin1/MindFlow"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-18T09:45:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Make the model you already use work more like a frontier model with better planning, persistent context, skills, hooks, ",
@@ -23,17 +122,17 @@
     "language": "JavaScript",
     "name": "rikilamadrid/pathfinder",
     "stars": 1,
-    "updated_at": "2026-09-18T09:43:48Z",
+    "updated_at": "2026-09-18T09:48:01Z",
     "url": "https://github.com/rikilamadrid/pathfinder"
   },
   {
-    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
-    "id": "JadeYingWah/gpt-series-reasoning-style",
-    "language": "Markdown",
-    "name": "JadeYingWah/gpt-series-reasoning-style",
-    "stars": 3,
-    "updated_at": "2026-09-18T09:43:45Z",
-    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34768,
+    "updated_at": "2026-09-18T09:50:50Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI \u52a9\u9500 Agent(\u9500\u552e\u519b\u5e08):\u5bf9\u8bdd\u5206\u6790/\u8bdd\u672f\u77e5\u8bc6\u5e93/\u8ddf\u8fdb\u4efb\u52a1/\u9500\u552e\u6f0f\u6597/\u8bd5\u9a7e\u56de\u8bbf/\u7ecf\u8425\u6d1e\u5bdf,\u4e1a\u52a1\u4e0e\u7cfb\u7edf\u53cc\u5c42\u5de5\u5177\u67b6\u6784,\u652f\u6301\u591a\u79df\u6237\u4e0e\u672c\u5730\u90e8\u7f72",
@@ -43,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T09:40:50Z",
     "url": "https://github.com/usernamermh/help-sale"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-18T09:40:22Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Questions \u2192 Research \u2192 Spec \u2192 Plan \u2192 Implement: a phase-gated Claude Code plugin that keeps a coding agent under 40% con",
@@ -79,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T09:39:42Z",
     "url": "https://github.com/hermes-labs-ai/plugins"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34767,
-    "updated_at": "2026-09-18T09:42:40Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -126,24 +207,6 @@
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
   },
   {
-    "description": "Switch AIs without re-explaining everything.",
-    "id": "spidey889/context-generator",
-    "language": "JavaScript",
-    "name": "spidey889/context-generator",
-    "stars": 11,
-    "updated_at": "2026-09-18T09:34:04Z",
-    "url": "https://github.com/spidey889/context-generator"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u4e2a\u4eba\u6210\u957f\u8bb0\u5f55\u5e94\u7528\uff1a\u65e5\u8bb0\u00b7\u5de5\u4f5c\u00b7\u5b66\u4e60\u4e09\u5408\u4e00\uff0cAI \u590d\u76d8\u81ea\u52a8\u751f\u6210 Markdown \u77e5\u8bc6\u5e93\uff0c\u6570\u636e 100% \u7559\u5728\u672c\u673a\u3002",
-    "id": "YUDongLin1/MindFlow",
-    "language": "TypeScript",
-    "name": "YUDongLin1/MindFlow",
-    "stars": 0,
-    "updated_at": "2026-09-18T09:32:44Z",
-    "url": "https://github.com/YUDongLin1/MindFlow"
-  },
-  {
     "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
     "id": "repoprompt/repoprompt-ce",
     "language": "Swift",
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22113,
-    "updated_at": "2026-09-18T09:45:03Z",
+    "updated_at": "2026-09-18T09:56:56Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -266,17 +329,8 @@
     "language": "TypeScript",
     "name": "mrwogu/promptscript",
     "stars": 395,
-    "updated_at": "2026-09-18T09:23:03Z",
+    "updated_at": "2026-09-18T09:59:06Z",
     "url": "https://github.com/mrwogu/promptscript"
-  },
-  {
-    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u7384\u5b66\u7b97\u547d\u5360\u535c\u5de5\u5177\u5305\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
-    "id": "Brhiza/mingyu",
-    "language": "TypeScript",
-    "name": "Brhiza/mingyu",
-    "stars": 430,
-    "updated_at": "2026-09-18T09:34:40Z",
-    "url": "https://github.com/Brhiza/mingyu"
   },
   {
     "description": "PatchPilot turns ChatGPT Web into a disciplined PR-only GitHub coding agent: inspect a repo, implement a focused change,",
@@ -378,7 +432,7 @@
     "url": "https://github.com/sou350121/Agent-Playbook"
   },
   {
-    "description": "Turns a brief request into a professional image-generation prompt and drives batch generation.",
+    "description": "Open-source Agent Skill: turns a brief request into a professional image-generation prompt and drives batch generation.",
     "id": "QYDION/ai-image-generator",
     "language": "\u2014",
     "name": "QYDION/ai-image-generator",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T09:01:21Z",
     "url": "https://github.com/hhakahhhaj-blip/WhisperDeck"
-  },
-  {
-    "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen",
-    "id": "simota/agent-skills",
-    "language": "Python",
-    "name": "simota/agent-skills",
-    "stars": 80,
-    "updated_at": "2026-09-18T09:01:12Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
-    "description": "Upscale Nuke renders with DLSS 5 neural rendering via an experimental native plug-in for Windows RTX GPUs.",
-    "id": "2148-wq/DLSS5-for-Nuke",
-    "language": "C++",
-    "name": "2148-wq/DLSS5-for-Nuke",
-    "stars": 1,
-    "updated_at": "2026-09-18T09:00:53Z",
-    "url": "https://github.com/2148-wq/DLSS5-for-Nuke"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-09-18T09:00:39Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Stop forcing LLMs to write Python & JSON. The native, token-efficient language & wire protocol for autonomous AI agents ",
-    "id": "GenSEAM/asl",
-    "language": "ASL",
-    "name": "GenSEAM/asl",
-    "stars": 3,
-    "updated_at": "2026-09-18T09:00:26Z",
-    "url": "https://github.com/GenSEAM/asl"
-  },
-  {
-    "description": "Create polished presentations and clear owner briefs with Codex skills for visual decks, intent validation, and outcome ",
-    "id": "Yazanw6234/presentation-delivery-skills",
-    "language": "\u2014",
-    "name": "Yazanw6234/presentation-delivery-skills",
-    "stars": 0,
-    "updated_at": "2026-09-18T08:59:55Z",
-    "url": "https://github.com/Yazanw6234/presentation-delivery-skills"
-  },
-  {
-    "description": "Replace ChatGPT and Codex assistant voices locally with near-real-time custom personas using Seed-VC inference.",
-    "id": "Ak863153/ChatGPT-Persona-Voice",
-    "language": "\u2014",
-    "name": "Ak863153/ChatGPT-Persona-Voice",
-    "stars": 0,
-    "updated_at": "2026-09-18T08:59:13Z",
-    "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
   }
 ]
