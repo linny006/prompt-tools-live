@@ -1,5 +1,140 @@
 [
   {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-09-18T18:44:53Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
+    "id": "AltairaLabs/PromptKit",
+    "language": "Go",
+    "name": "AltairaLabs/PromptKit",
+    "stars": 9,
+    "updated_at": "2026-09-18T18:43:33Z",
+    "url": "https://github.com/AltairaLabs/PromptKit"
+  },
+  {
+    "description": "Official JasoosLabs software releases. NovaInsert \u2014 Agentic AI simplified: a tool for structured AI-assisted coding, asy",
+    "id": "jasoos-labs/releases",
+    "language": "\u2014",
+    "name": "jasoos-labs/releases",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:43:10Z",
+    "url": "https://github.com/jasoos-labs/releases"
+  },
+  {
+    "description": "\ud83c\udf4c 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Ba",
+    "id": "YouMind-OpenLab/awesome-seedream-4.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-seedream-4.5",
+    "stars": 60,
+    "updated_at": "2026-09-18T18:42:45Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-seedream-4.5"
+  },
+  {
+    "description": "SKILL.md compatibility and execution written in rust",
+    "id": "tinyhumansai/tinyskills",
+    "language": "Rust",
+    "name": "tinyhumansai/tinyskills",
+    "stars": 1,
+    "updated_at": "2026-09-18T18:42:01Z",
+    "url": "https://github.com/tinyhumansai/tinyskills"
+  },
+  {
+    "description": "\ud83c\udfa8 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt",
+    "id": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "language": "TypeScript",
+    "name": "YouMind-OpenLab/awesome-gpt-image-1.5",
+    "stars": 25,
+    "updated_at": "2026-09-18T18:41:06Z",
+    "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5"
+  },
+  {
+    "description": "Open Markdown voice file that teaches any AI your tone of voice",
+    "id": "supervised-nl/doppelganger",
+    "language": "\u2014",
+    "name": "supervised-nl/doppelganger",
+    "stars": 0,
+    "updated_at": "2026-09-18T18:39:46Z",
+    "url": "https://github.com/supervised-nl/doppelganger"
+  },
+  {
+    "description": "ContextOps toolkit for production AI agents. Compile, govern, scan, visualize & optimize LLM context before every model ",
+    "id": "Kayariyan28/ctxbudgeter",
+    "language": "Python",
+    "name": "Kayariyan28/ctxbudgeter",
+    "stars": 2,
+    "updated_at": "2026-09-18T18:40:20Z",
+    "url": "https://github.com/Kayariyan28/ctxbudgeter"
+  },
+  {
+    "description": "Custom NotebookLM prompts for better learning outputs: reports, video, audio, flashcards, and quizzes. General topics; s",
+    "id": "hokwanhung/notebooklm-studio",
+    "language": "\u2014",
+    "name": "hokwanhung/notebooklm-studio",
+    "stars": 1,
+    "updated_at": "2026-09-18T18:39:31Z",
+    "url": "https://github.com/hokwanhung/notebooklm-studio"
+  },
+  {
+    "description": "Destroy the plastic \"AI look\". Deterministic optical compiler & biometric anti-drift engine for Flux.1, Imagen 3, Midjou",
+    "id": "FabioLousJay/optical-camera-compiler",
+    "language": "Python",
+    "name": "FabioLousJay/optical-camera-compiler",
+    "stars": 2,
+    "updated_at": "2026-09-18T18:39:16Z",
+    "url": "https://github.com/FabioLousJay/optical-camera-compiler"
+  },
+  {
+    "description": "ChatGPT \u4e0e Codex \u7684\u53ef\u9a8c\u8bc1\u5de5\u4f5c\u6d41\u3001\u65ad\u70b9\u4ea4\u63a5\u3001\u7f51\u9875\u589e\u5f3a\u548c\u672c\u5730\u5de5\u5177",
+    "id": "RongNianXin/ChatGPT-Workflows",
+    "language": "JavaScript",
+    "name": "RongNianXin/ChatGPT-Workflows",
+    "stars": 35,
+    "updated_at": "2026-09-18T18:37:24Z",
+    "url": "https://github.com/RongNianXin/ChatGPT-Workflows"
+  },
+  {
+    "description": "Harness-agnostic agentic ways of working: one canonical principles doc, per-tool adapters, skills, and hooks. Extracted ",
+    "id": "nino-chavez/agentic-ways-of-working",
+    "language": "Python",
+    "name": "nino-chavez/agentic-ways-of-working",
+    "stars": 2,
+    "updated_at": "2026-09-18T18:36:25Z",
+    "url": "https://github.com/nino-chavez/agentic-ways-of-working"
+  },
+  {
+    "description": "Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, choose its",
+    "id": "BOWLUNA/dsh-custom-mode",
+    "language": "JavaScript",
+    "name": "BOWLUNA/dsh-custom-mode",
+    "stars": 1,
+    "updated_at": "2026-09-18T18:32:11Z",
+    "url": "https://github.com/BOWLUNA/dsh-custom-mode"
+  },
+  {
+    "description": "Curated Agent Skills scene-packs for AI tools: 27 packs / 113 skills \u2014 AI media generation, research & writing, content ",
+    "id": "X33834/awesome-skillkit",
+    "language": "Python",
+    "name": "X33834/awesome-skillkit",
+    "stars": 3,
+    "updated_at": "2026-09-18T18:31:57Z",
+    "url": "https://github.com/X33834/awesome-skillkit"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-18T18:30:28Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
@@ -50,7 +185,7 @@
     "language": "Shell",
     "name": "rockerlabs/keel",
     "stars": 2,
-    "updated_at": "2026-09-18T18:25:22Z",
+    "updated_at": "2026-09-18T18:44:38Z",
     "url": "https://github.com/rockerlabs/keel"
   },
   {
@@ -90,24 +225,6 @@
     "url": "https://github.com/hraness/gobstopper"
   },
   {
-    "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
-    "id": "AltairaLabs/PromptKit",
-    "language": "Go",
-    "name": "AltairaLabs/PromptKit",
-    "stars": 9,
-    "updated_at": "2026-09-18T18:27:08Z",
-    "url": "https://github.com/AltairaLabs/PromptKit"
-  },
-  {
-    "description": "Harness-agnostic agentic ways of working: one canonical principles doc, per-tool adapters, skills, and hooks. Extracted ",
-    "id": "nino-chavez/agentic-ways-of-working",
-    "language": "Python",
-    "name": "nino-chavez/agentic-ways-of-working",
-    "stars": 2,
-    "updated_at": "2026-09-18T18:20:15Z",
-    "url": "https://github.com/nino-chavez/agentic-ways-of-working"
-  },
-  {
     "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
     "id": "blauwtje/exo",
     "language": "JavaScript",
@@ -144,24 +261,6 @@
     "url": "https://github.com/ericthz/zebra"
   },
   {
-    "description": "ContextOps toolkit for production AI agents. Compile, govern, scan, visualize & optimize LLM context before every model ",
-    "id": "Kayariyan28/ctxbudgeter",
-    "language": "Python",
-    "name": "Kayariyan28/ctxbudgeter",
-    "stars": 2,
-    "updated_at": "2026-09-18T18:18:00Z",
-    "url": "https://github.com/Kayariyan28/ctxbudgeter"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-09-18T18:29:47Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
     "id": "zohaamalik/ocds-procura-semantic-nexus",
     "language": "HTML",
@@ -169,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T18:16:38Z",
     "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-18T18:15:26Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -351,15 +441,6 @@
     "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
   },
   {
-    "description": "Open Markdown voice file that teaches any AI your tone of voice",
-    "id": "supervised-nl/doppelganger",
-    "language": "\u2014",
-    "name": "supervised-nl/doppelganger",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:57:00Z",
-    "url": "https://github.com/supervised-nl/doppelganger"
-  },
-  {
     "description": "Suite de ingenier\u00eda de prompts para IA generativa \u2014 271 modelos de imagen, v\u00eddeo y audio, cada uno con sus propias regla",
     "id": "Gustaafvito/gprompt-studio",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-18T17:56:40Z",
     "url": "https://github.com/Gustaafvito/gprompt-studio"
-  },
-  {
-    "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
-    "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "language": "HTML",
-    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
-    "stars": 142,
-    "updated_at": "2026-09-18T17:55:06Z",
-    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault"
-  },
-  {
-    "description": "Cheat sheets and printable PDFs for Python, SQL, Docker, TypeScript, React, LLMs, prompt engineering and more, plus Life",
-    "id": "CheatGrid-com/CheatGrid",
-    "language": "\u2014",
-    "name": "CheatGrid-com/CheatGrid",
-    "stars": 2,
-    "updated_at": "2026-09-18T17:54:34Z",
-    "url": "https://github.com/CheatGrid-com/CheatGrid"
-  },
-  {
-    "description": "Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, choose its",
-    "id": "BOWLUNA/dsh-custom-mode",
-    "language": "JavaScript",
-    "name": "BOWLUNA/dsh-custom-mode",
-    "stars": 1,
-    "updated_at": "2026-09-18T17:54:12Z",
-    "url": "https://github.com/BOWLUNA/dsh-custom-mode"
-  },
-  {
-    "description": "Hands-on labs and courseware for Generative AI for SEO (C11) \u2014 a two-day non-WSQ course with 10 progressive activities o",
-    "id": "tertiarycourses/C11-Generative-AI-for-SEO",
-    "language": "HTML",
-    "name": "tertiarycourses/C11-Generative-AI-for-SEO",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:53:18Z",
-    "url": "https://github.com/tertiarycourses/C11-Generative-AI-for-SEO"
-  },
-  {
-    "description": "LLM loop that reasons in a dense technical register \u2014 mechanical gates + adversarial judge + reverse-translation for hum",
-    "id": "Danreelkow/HDCS",
-    "language": "JavaScript",
-    "name": "Danreelkow/HDCS",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:52:58Z",
-    "url": "https://github.com/Danreelkow/HDCS"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34782,
-    "updated_at": "2026-09-18T17:51:39Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Official JasoosLabs software releases. NovaInsert \u2014 Agentic AI simplified: a tool for structured AI-assisted coding, asy",
-    "id": "jasoos-labs/releases",
-    "language": "\u2014",
-    "name": "jasoos-labs/releases",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:49:24Z",
-    "url": "https://github.com/jasoos-labs/releases"
-  },
-  {
-    "description": "Odin Codex 2026: Outline-Driven AI Agent Workflows for Codex CLI",
-    "id": "PablitoPJ/drifter-blueprint-vault",
-    "language": "HTML",
-    "name": "PablitoPJ/drifter-blueprint-vault",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:49:06Z",
-    "url": "https://github.com/PablitoPJ/drifter-blueprint-vault"
-  },
-  {
-    "description": "Enterprise AI engineering covering local inference, Azure OpenAI, RAG, agents, MCP, evaluation, security, and cost contr",
-    "id": "mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems",
-    "language": "JavaScript",
-    "name": "mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems",
-    "stars": 0,
-    "updated_at": "2026-09-18T17:46:23Z",
-    "url": "https://github.com/mohamedmahersaid/Enterprise-AI-and-Intelligent-Systems"
   }
 ]
