@@ -1,5 +1,113 @@
 [
   {
+    "description": "Privacy-first CLI that transforms Jira tickets into AI-ready briefs. 60\u201380% fewer tokens. No relay. Pipe-friendly.",
+    "id": "ralphmoran/ticket-lens",
+    "language": "JavaScript",
+    "name": "ralphmoran/ticket-lens",
+    "stars": 3,
+    "updated_at": "2026-09-18T23:47:05Z",
+    "url": "https://github.com/ralphmoran/ticket-lens"
+  },
+  {
+    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
+    "id": "imhamzakhan/context-flow-compressor",
+    "language": "HTML",
+    "name": "imhamzakhan/context-flow-compressor",
+    "stars": 1,
+    "updated_at": "2026-09-18T23:46:06Z",
+    "url": "https://github.com/imhamzakhan/context-flow-compressor"
+  },
+  {
+    "description": "Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, choose its",
+    "id": "BOWLUNA/dsh-custom-mode",
+    "language": "JavaScript",
+    "name": "BOWLUNA/dsh-custom-mode",
+    "stars": 1,
+    "updated_at": "2026-09-18T23:46:14Z",
+    "url": "https://github.com/BOWLUNA/dsh-custom-mode"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11538,
+    "updated_at": "2026-09-18T23:45:02Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Automatic context compaction for coding-agent sessions \u2014 Codex and Claude Code today, any JSONL-transcript agent tomorro",
+    "id": "hraness/gobstopper",
+    "language": "Rust",
+    "name": "hraness/gobstopper",
+    "stars": 1,
+    "updated_at": "2026-09-18T23:44:08Z",
+    "url": "https://github.com/hraness/gobstopper"
+  },
+  {
+    "description": "DSH \u84b8\u998f\u4e3b\u7ba1\uff1a\u628a\u4e00\u672c\u4e66\u84b8\u998f\u6210\u53ef\u6267\u884c Agent \u6280\u80fd\u7684\u5224\u6001\u5236\u5143\u6280\u80fd\uff08\u4e09\u95f8\u5224\u6001\u00b7\u96f6\ud83d\udd34\u95e8\u7981\uff09\uff5cV4.9.10 \u968f\u5305\u6e05\u5355\uff0b\u5b89\u88c5\u4fa7\u53cc\u5411\u6bd4\u5bf9\uff1a\u5305\u5185\u81ea\u5e26\u6210\u5458\u6e05\u5355\uff0c\u88c5\u5b8c\u53ef\u67e5\u300c\u7f3a\u4ef6\uff0f\u9648\u65e7\u4ef6\uff0f\u5185\u5bb9\u4e0d\u7b26\u300d\uff0c\u89e3\u51b3\u8986\u76d6\u5b89\u88c5\u4e0d\u5220\u65e7\u6587\u4ef6\uff1b\u53d1\u7248\u95f8 A/B/C/D/D",
+    "id": "winsonpong98-cloud/dsh-distillation-director",
+    "language": "Python",
+    "name": "winsonpong98-cloud/dsh-distillation-director",
+    "stars": 2,
+    "updated_at": "2026-09-18T23:43:39Z",
+    "url": "https://github.com/winsonpong98-cloud/dsh-distillation-director"
+  },
+  {
+    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
+    "id": "Nanako0129/sepia",
+    "language": "Python",
+    "name": "Nanako0129/sepia",
+    "stars": 2681,
+    "updated_at": "2026-09-18T23:43:20Z",
+    "url": "https://github.com/Nanako0129/sepia"
+  },
+  {
+    "description": "DSH Web \u63d2\u4ef6 \u00b7 \u63d0\u793a\u8bcd\u4f18\u5316\u5668\uff08SPEC v0.5 \u4f9d\u636e\u9a71\u52a8\u67b6\u6784\uff09\uff1a\u628a\u7528\u6237\u7684\u4e00\u53e5\u8bdd\u8865\u6210\u300e\u5e26\u4f9d\u636e\u7684\u6267\u884c\u6307\u4ee4\u300f\u2014\u2014\u4f9d\u636e\u53ea\u642c\u4e0d\u9020\uff08\u539f\u8bdd\uff0f\u4f1a\u8bdd\u4e0a\u4e0b\u6587\uff0f\u9879\u76ee\u6587\u4ef6\uff0c\u6bcf\u6761\u4e8b\u5b9e\u5e26\u51fa\u5904\uff09\uff0c\u53ea\u8865\u4e94\u7c7b\u7f3a\u53e3\uff08\u6307\u4ee3\u5b9a\u4f4d\uff0f\u9a8c\u6536\u5224\u636e\uff0f\u7ea6\u675f\u8fb9\u754c\uff0f\u9690\u542b\u51b3\u5b9a\uff0f\u5165\u53e3\u951a\u70b9",
+    "id": "WestFox-AwA/dsh-prompt-optimizer",
+    "language": "JavaScript",
+    "name": "WestFox-AwA/dsh-prompt-optimizer",
+    "stars": 63,
+    "updated_at": "2026-09-18T23:42:29Z",
+    "url": "https://github.com/WestFox-AwA/dsh-prompt-optimizer"
+  },
+  {
+    "description": "Curated Claude Code plugin marketplace and cross-platform generator for Claude, OpenCode, and Antigravity",
+    "id": "seankoji-com/claude-plugins",
+    "language": "Python",
+    "name": "seankoji-com/claude-plugins",
+    "stars": 1,
+    "updated_at": "2026-09-18T23:35:20Z",
+    "url": "https://github.com/seankoji-com/claude-plugins"
+  },
+  {
+    "description": "Rewrite rough prompts into clearer ones with Claude Haiku before they reach a stronger model (Claude Code proxy + hook +",
+    "id": "AnotherSamWithADream/prompt-preflight",
+    "language": "Python",
+    "name": "AnotherSamWithADream/prompt-preflight",
+    "stars": 0,
+    "updated_at": "2026-09-18T23:34:17Z",
+    "url": "https://github.com/AnotherSamWithADream/prompt-preflight"
+  },
+  {
+    "description": "320+ curated Claude Code skills, 9 agents, 39 commands, sanitized configs & a Codex bridge \u2014 auto-indexed from skills/.",
+    "id": "shengdabai/Tony-Claude-Code-Skills",
+    "language": "HTML",
+    "name": "shengdabai/Tony-Claude-Code-Skills",
+    "stars": 2,
+    "updated_at": "2026-09-18T23:34:06Z",
+    "url": "https://github.com/shengdabai/Tony-Claude-Code-Skills"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-18T23:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "Lint AGENTS.md, CLAUDE.md and .cursor/rules for the problems that make an AI coding agent ignore them: dead path referen",
     "id": "duke5am/agent-config-lint",
     "language": "Python",
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-18T23:27:19Z",
+    "updated_at": "2026-09-18T23:39:30Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -81,24 +189,6 @@
     "url": "https://github.com/Ak863153/ChatGPT-Persona-Voice"
   },
   {
-    "description": "Rewrite rough prompts into clearer ones with Claude Haiku before they reach a stronger model (Claude Code proxy + hook +",
-    "id": "AnotherSamWithADream/prompt-preflight",
-    "language": "Python",
-    "name": "AnotherSamWithADream/prompt-preflight",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:21:54Z",
-    "url": "https://github.com/AnotherSamWithADream/prompt-preflight"
-  },
-  {
-    "description": "DSH \u84b8\u998f\u4e3b\u7ba1\uff1a\u628a\u4e00\u672c\u4e66\u84b8\u998f\u6210\u53ef\u6267\u884c Agent \u6280\u80fd\u7684\u5224\u6001\u5236\u5143\u6280\u80fd\uff08\u4e09\u95f8\u5224\u6001\u00b7\u96f6\ud83d\udd34\u95e8\u7981\uff09\uff5cV4.9.9 \u53d1\u5e03\u9762\u7626\u8eab\uff1a\u5b8c\u6574\u5185\u90e8\u624b\u518c\u4e0e\u5386\u53f2\u624b\u518c\u4e0d\u518d\u968f\u5305\uff08\u53ea\u7559\u4f5c\u8005\u672c\u5730\uff09\uff0c\u968f\u5305\u6539\u4e3a\u96f6\u4e66\u8eab\u4efd\uff0f\u96f6\u73af\u5883\uff0f\u96f6\u91d1\u989d\u7684\u300a\u9632\u5751\u8981\u70b9-TOP20\u300b\uff1b\u53d1\u7248\u95f8 A/",
-    "id": "winsonpong98-cloud/dsh-distillation-director",
-    "language": "Python",
-    "name": "winsonpong98-cloud/dsh-distillation-director",
-    "stars": 2,
-    "updated_at": "2026-09-18T23:21:48Z",
-    "url": "https://github.com/winsonpong98-cloud/dsh-distillation-director"
-  },
-  {
     "description": "A futuristic AI-powered web application builder featuring a multi-agent workflow, live code streaming, Monaco Editor, Fi",
     "id": "Shashwatss10/PromithicAI",
     "language": "HTML",
@@ -126,21 +216,12 @@
     "url": "https://github.com/partible-dicer700/SoDam-Persona-Codex"
   },
   {
-    "description": "DSH Web \u63d2\u4ef6 \u00b7 \u63d0\u793a\u8bcd\u4f18\u5316\u5668\uff08SPEC v0.5 \u4f9d\u636e\u9a71\u52a8\u67b6\u6784\uff09\uff1a\u628a\u7528\u6237\u7684\u4e00\u53e5\u8bdd\u8865\u6210\u300e\u5e26\u4f9d\u636e\u7684\u6267\u884c\u6307\u4ee4\u300f\u2014\u2014\u4f9d\u636e\u53ea\u642c\u4e0d\u9020\uff08\u539f\u8bdd\uff0f\u4f1a\u8bdd\u4e0a\u4e0b\u6587\uff0f\u9879\u76ee\u6587\u4ef6\uff0c\u6bcf\u6761\u4e8b\u5b9e\u5e26\u51fa\u5904\uff09\uff0c\u53ea\u8865\u4e94\u7c7b\u7f3a\u53e3\uff08\u6307\u4ee3\u5b9a\u4f4d\uff0f\u9a8c\u6536\u5224\u636e\uff0f\u7ea6\u675f\u8fb9\u754c\uff0f\u9690\u542b\u51b3\u5b9a\uff0f\u5165\u53e3\u951a\u70b9",
-    "id": "WestFox-AwA/dsh-prompt-optimizer",
-    "language": "JavaScript",
-    "name": "WestFox-AwA/dsh-prompt-optimizer",
-    "stars": 63,
-    "updated_at": "2026-09-18T23:20:56Z",
-    "url": "https://github.com/WestFox-AwA/dsh-prompt-optimizer"
-  },
-  {
     "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
     "id": "bjcoombs/ai-native-toolkit",
     "language": "Python",
     "name": "bjcoombs/ai-native-toolkit",
     "stars": 30,
-    "updated_at": "2026-09-18T23:29:59Z",
+    "updated_at": "2026-09-18T23:46:15Z",
     "url": "https://github.com/bjcoombs/ai-native-toolkit"
   },
   {
@@ -234,15 +315,6 @@
     "url": "https://github.com/Despairing-taka262/xios-aim-assist-script"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-18T23:15:25Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
     "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
     "id": "juniorbaixista4/b2b-outreach-orchestrator",
     "language": "HTML",
@@ -304,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T23:12:53Z",
     "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Automatic context compaction for coding-agent sessions \u2014 Codex and Claude Code today, any JSONL-transcript agent tomorro",
-    "id": "hraness/gobstopper",
-    "language": "Rust",
-    "name": "hraness/gobstopper",
-    "stars": 1,
-    "updated_at": "2026-09-18T23:12:46Z",
-    "url": "https://github.com/hraness/gobstopper"
   },
   {
     "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T23:11:52Z",
     "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Nam-Cheol/namba-ai \u2192 AI Work Manager: Turn Vague Ideas into PR-Ready Specs & Evidence 2026",
-    "id": "dimitardamjan7-a11y/spec-flow-framework",
-    "language": "HTML",
-    "name": "dimitardamjan7-a11y/spec-flow-framework",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:11:39Z",
-    "url": "https://github.com/dimitardamjan7-a11y/spec-flow-framework"
-  },
-  {
-    "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
-    "id": "majoie02/agent-contract-nexus",
-    "language": "HTML",
-    "name": "majoie02/agent-contract-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:11:19Z",
-    "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "Manage AI memories with a lightweight, local-first SQLite binary. Replaces heavy dependencies with a fast, single-file t",
-    "id": "adaxial-lineofscrimmage6998/mempalace",
-    "language": "\u2014",
-    "name": "adaxial-lineofscrimmage6998/mempalace",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:11:18Z",
-    "url": "https://github.com/adaxial-lineofscrimmage6998/mempalace"
-  },
-  {
-    "description": "Optimize development performance by stripping away unnecessary abstractions and focusing on raw code execution.",
-    "id": "Ricarddefensive803/caveman-skill",
-    "language": "\u2014",
-    "name": "Ricarddefensive803/caveman-skill",
-    "stars": 2,
-    "updated_at": "2026-09-18T23:11:12Z",
-    "url": "https://github.com/Ricarddefensive803/caveman-skill"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:11:07Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Reduce AI token usage by 65 percent. This Claude Code skill trims filler and pleasantries while keeping technical conten",
-    "id": "salvageable-mutualfund57/caveman-distillate",
-    "language": "\u2014",
-    "name": "salvageable-mutualfund57/caveman-distillate",
-    "stars": 1,
-    "updated_at": "2026-09-18T23:11:02Z",
-    "url": "https://github.com/salvageable-mutualfund57/caveman-distillate"
-  },
-  {
-    "description": "Build 20 n8n AI prompts with model tips, cost estimates, and ready-to-use workflow guidance",
-    "id": "Michl4119/n8n-prompt-library",
-    "language": "\u2014",
-    "name": "Michl4119/n8n-prompt-library",
-    "stars": 2,
-    "updated_at": "2026-09-18T23:10:57Z",
-    "url": "https://github.com/Michl4119/n8n-prompt-library"
   }
 ]
