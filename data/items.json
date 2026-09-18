@@ -1,5 +1,95 @@
 [
   {
+    "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udcac \u8bed\u97f3\u8bc6\u522b\uff08\u8bf4\u5b8c\u81ea\u52a8\u505c\u00b7\u4e91\u7aef/\u672c\u5730\u53cc\u5f15\u64ce\uff09\u00b7 \u9644 \ud83d\udd01 \u670d\u52a1\u5f02\u5e38\u4e00\u952e\u91cd\u542f",
+    "id": "Fishsb/dsh-prompt-enhancer",
+    "language": "JavaScript",
+    "name": "Fishsb/dsh-prompt-enhancer",
+    "stars": 72,
+    "updated_at": "2026-09-18T20:27:31Z",
+    "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
+  },
+  {
+    "description": "vibestack is a portable skill pack for AI coding agents. Slash commands like /office-hours, /ship, /investigate, /tdd, /",
+    "id": "timurgaleev/vibestack",
+    "language": "TypeScript",
+    "name": "timurgaleev/vibestack",
+    "stars": 6,
+    "updated_at": "2026-09-18T20:26:01Z",
+    "url": "https://github.com/timurgaleev/vibestack"
+  },
+  {
+    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
+    "id": "bitranox/bitranox-skills",
+    "language": "Python",
+    "name": "bitranox/bitranox-skills",
+    "stars": 1,
+    "updated_at": "2026-09-18T20:25:49Z",
+    "url": "https://github.com/bitranox/bitranox-skills"
+  },
+  {
+    "description": "A planning skill for Claude or ChatGPT that asks before it plans. Three versions: claude.ai, engineers, and read-only fo",
+    "id": "marcosathanasoulis/prompt-it",
+    "language": "Python",
+    "name": "marcosathanasoulis/prompt-it",
+    "stars": 0,
+    "updated_at": "2026-09-18T20:26:50Z",
+    "url": "https://github.com/marcosathanasoulis/prompt-it"
+  },
+  {
+    "description": "A stack-agnostic blueprint for running Claude Code as an engineering teammate on a Jira/agile workflow \u2014 semantic code n",
+    "id": "konstantinos-malavazos/claude-code-playbook",
+    "language": "Shell",
+    "name": "konstantinos-malavazos/claude-code-playbook",
+    "stars": 2,
+    "updated_at": "2026-09-18T20:24:18Z",
+    "url": "https://github.com/konstantinos-malavazos/claude-code-playbook"
+  },
+  {
+    "description": "A thin, model-agnostic layer for what an AI agent loads, when, and how much \u2014 principles + plain-Bash tools.",
+    "id": "rockerlabs/keel",
+    "language": "Shell",
+    "name": "rockerlabs/keel",
+    "stars": 2,
+    "updated_at": "2026-09-18T20:23:51Z",
+    "url": "https://github.com/rockerlabs/keel"
+  },
+  {
+    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
+    "id": "jestersanjay/slim-tools-claude-harness",
+    "language": "HTML",
+    "name": "jestersanjay/slim-tools-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-09-18T20:22:21Z",
+    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-18T20:20:04Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
+    "id": "adrianwedd/cv",
+    "language": "JavaScript",
+    "name": "adrianwedd/cv",
+    "stars": 4,
+    "updated_at": "2026-09-18T20:16:29Z",
+    "url": "https://github.com/adrianwedd/cv"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-18T20:15:30Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "OMK \u2014 Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude",
     "id": "lizhiyao/oh-my-knowledge",
     "language": "TypeScript",
@@ -45,15 +135,6 @@
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
   },
   {
-    "description": "\ud83e\udd16 AI-Enhanced CV System: Intelligent resume optimization with Claude AI, automated GitHub integration, version-controlle",
-    "id": "adrianwedd/cv",
-    "language": "JavaScript",
-    "name": "adrianwedd/cv",
-    "stars": 4,
-    "updated_at": "2026-09-18T20:09:31Z",
-    "url": "https://github.com/adrianwedd/cv"
-  },
-  {
     "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0-",
     "id": "leeex1/Quillan-Ronin",
     "language": "HTML",
@@ -81,15 +162,6 @@
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts"
   },
   {
-    "description": "Claude Code plugin marketplace: the bitranox skill collection (82 skills) plus a self-improve Stop hook. Skills invoke a",
-    "id": "bitranox/bitranox-skills",
-    "language": "Python",
-    "name": "bitranox/bitranox-skills",
-    "stars": 1,
-    "updated_at": "2026-09-18T20:08:33Z",
-    "url": "https://github.com/bitranox/bitranox-skills"
-  },
-  {
     "description": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks",
     "id": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
     "language": "HTML",
@@ -115,15 +187,6 @@
     "stars": 51,
     "updated_at": "2026-09-18T20:00:32Z",
     "url": "https://github.com/ariffazil/arifOS"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-18T20:00:27Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Transcribe voice memos locally with trim, tag, and export tools\u2014no cloud uploads, ever.",
@@ -212,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11535,
-    "updated_at": "2026-09-18T20:05:57Z",
+    "updated_at": "2026-09-18T20:28:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -311,7 +374,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22125,
-    "updated_at": "2026-09-18T19:53:54Z",
+    "updated_at": "2026-09-18T20:22:14Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-18T19:49:29Z",
     "url": "https://github.com/glichtenthal/agent-skills"
-  },
-  {
-    "description": "Convert images into Ideogram 4 JSON prompts using Florence-2 with a local web interface for precise object, region, and ",
-    "id": "aesirsennamarilandica604/image-to-prompt",
-    "language": "JavaScript",
-    "name": "aesirsennamarilandica604/image-to-prompt",
-    "stars": 2,
-    "updated_at": "2026-09-18T19:49:28Z",
-    "url": "https://github.com/aesirsennamarilandica604/image-to-prompt"
-  },
-  {
-    "description": "The shortest complete answer: an agent skill",
-    "id": "agent-axiom/laconian",
-    "language": "Python",
-    "name": "agent-axiom/laconian",
-    "stars": 9,
-    "updated_at": "2026-09-18T19:49:26Z",
-    "url": "https://github.com/agent-axiom/laconian"
-  },
-  {
-    "description": "Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills",
-    "id": "micrometeoric-eye978/academic-research-skills",
-    "language": "\u2014",
-    "name": "micrometeoric-eye978/academic-research-skills",
-    "stars": 2,
-    "updated_at": "2026-09-18T19:49:12Z",
-    "url": "https://github.com/micrometeoric-eye978/academic-research-skills"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-09-18T19:48:56Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Roleplay with custom AI characters using local LLMs, group chats, and text-to-speech in a private, fully offline interfa",
-    "id": "sonu1611/sillytavern-ai-character-chat",
-    "language": "\u2014",
-    "name": "sonu1611/sillytavern-ai-character-chat",
-    "stars": 3,
-    "updated_at": "2026-09-18T19:48:48Z",
-    "url": "https://github.com/sonu1611/sillytavern-ai-character-chat"
-  },
-  {
-    "description": "Generate ATS-compatible bilingual resumes using AI agents to ensure your profile passes automated hiring filters.",
-    "id": "colortelevisiontubedavidhilbert296/filtrd",
-    "language": "\u2014",
-    "name": "colortelevisiontubedavidhilbert296/filtrd",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:47:39Z",
-    "url": "https://github.com/colortelevisiontubedavidhilbert296/filtrd"
-  },
-  {
-    "description": "Transform Pinyin input into custom text styles, professional jargon, or foreign languages using a Rime-based IME extensi",
-    "id": "syncretismdeposit560/TypeAnything",
-    "language": "PowerShell",
-    "name": "syncretismdeposit560/TypeAnything",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:47:28Z",
-    "url": "https://github.com/syncretismdeposit560/TypeAnything"
   }
 ]
