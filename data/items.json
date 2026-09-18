@@ -1,5 +1,203 @@
 [
   {
+    "description": "A decision-oriented LLM engineering knowledge base \u2014 from Attention to production. 291 cards, 36-card path: fundamentals",
+    "id": "weicyang/llm-eng-cards",
+    "language": "HTML",
+    "name": "weicyang/llm-eng-cards",
+    "stars": 3,
+    "updated_at": "2026-09-18T08:30:19Z",
+    "url": "https://github.com/weicyang/llm-eng-cards"
+  },
+  {
+    "description": "\ud83e\udd16 Simulate AI with go-llm, your unified Go SDK for various Large Language Models, enabling seamless application developm",
+    "id": "Tberke0/go-llm",
+    "language": "Go",
+    "name": "Tberke0/go-llm",
+    "stars": 1,
+    "updated_at": "2026-09-18T08:29:31Z",
+    "url": "https://github.com/Tberke0/go-llm"
+  },
+  {
+    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u7384\u5b66\u7b97\u547d\u5360\u535c\u5de5\u5177\u5305\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
+    "id": "Brhiza/mingyu",
+    "language": "TypeScript",
+    "name": "Brhiza/mingyu",
+    "stars": 430,
+    "updated_at": "2026-09-18T08:29:02Z",
+    "url": "https://github.com/Brhiza/mingyu"
+  },
+  {
+    "description": "\ud83d\udcbc Manage your investments with AsesorAIrrechisimo, an AI-driven portfolio manager featuring a witty Venezuelan financial",
+    "id": "ZaykorDev/AsesorAIrrechisimo",
+    "language": "Lua",
+    "name": "ZaykorDev/AsesorAIrrechisimo",
+    "stars": 0,
+    "updated_at": "2026-09-18T08:28:08Z",
+    "url": "https://github.com/ZaykorDev/AsesorAIrrechisimo"
+  },
+  {
+    "description": "zer0lint is a memory-extraction health diagnostic for mem0 configs and HTTP memory endpoints. It flags silent failure mo",
+    "id": "hermes-labs-ai/zer0lint",
+    "language": "Python",
+    "name": "hermes-labs-ai/zer0lint",
+    "stars": 0,
+    "updated_at": "2026-09-18T08:27:22Z",
+    "url": "https://github.com/hermes-labs-ai/zer0lint"
+  },
+  {
+    "description": "Agent context, cast from one roster. Change what a role may do and the evaluation that checks it moves with it, in the s",
+    "id": "coilyco-flight-deck/housecast",
+    "language": "Python",
+    "name": "coilyco-flight-deck/housecast",
+    "stars": 1,
+    "updated_at": "2026-09-18T08:26:01Z",
+    "url": "https://github.com/coilyco-flight-deck/housecast"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 34763,
+    "updated_at": "2026-09-18T08:30:01Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Recovers the original goal of a long Claude Code or Codex session from its first user turn, so you can restate it before",
+    "id": "hermes-labs-ai/hermes-blind",
+    "language": "Python",
+    "name": "hermes-labs-ai/hermes-blind",
+    "stars": 8,
+    "updated_at": "2026-09-18T08:25:21Z",
+    "url": "https://github.com/hermes-labs-ai/hermes-blind"
+  },
+  {
+    "description": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, ",
+    "id": "coilyco-flight-deck/agent-compose",
+    "language": "Go",
+    "name": "coilyco-flight-deck/agent-compose",
+    "stars": 1,
+    "updated_at": "2026-09-18T08:24:57Z",
+    "url": "https://github.com/coilyco-flight-deck/agent-compose"
+  },
+  {
+    "description": "DSH Web \u63d2\u4ef6 \u00b7 \u63d0\u793a\u8bcd\u4f18\u5316\u5668\uff1a\u628a\u7528\u6237\u7684\u4e00\u53e5\u8bdd\u8865\u5168\u6210\u5b8c\u6574\u5177\u4f53\u7684\u8981\u6c42\u8bf4\u660e\uff08\u9762\u5411 PTC \u6a21\u5f0f\uff09\u30020.4 = \u9700\u6c42\u8865\u5168\u5668\u2014\u2014\u53ea\u8865\u5185\u5bb9\uff0c\u4e0d\u5199\u6d41\u7a0b/\u6b65\u9aa4/\u9a8c\u6536\u6e05\u5355/\u9a8c\u8bc1\u7eaa\u5f8b/\u7981\u4ee4\u3002",
+    "id": "WestFox-AwA/dsh-prompt-optimizer",
+    "language": "JavaScript",
+    "name": "WestFox-AwA/dsh-prompt-optimizer",
+    "stars": 60,
+    "updated_at": "2026-09-18T08:24:04Z",
+    "url": "https://github.com/WestFox-AwA/dsh-prompt-optimizer"
+  },
+  {
+    "description": "AI Skills That Actually Do Things \u2014 \u4e2d\u6587\u512a\u5148\u7684 Claude Code / Codex agent skills \u5408\u96c6 \u00b7 Reusable bilingual skills for any LLM wo",
+    "id": "KerberosClaw/kc_ai_skills",
+    "language": "Python",
+    "name": "KerberosClaw/kc_ai_skills",
+    "stars": 79,
+    "updated_at": "2026-09-18T08:23:21Z",
+    "url": "https://github.com/KerberosClaw/kc_ai_skills"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze the mathematical reasoning abilities of the Mistral-7B model using diverse prompting techniques on multi-step ",
+    "id": "wolfenix/llm-math-reasoning-analysis",
+    "language": "HTML",
+    "name": "wolfenix/llm-math-reasoning-analysis",
+    "stars": 0,
+    "updated_at": "2026-09-18T08:22:25Z",
+    "url": "https://github.com/wolfenix/llm-math-reasoning-analysis"
+  },
+  {
+    "description": "quickthink is a local-first CLI and Python library that wraps Ollama-backed LLM calls with a compressed plan-then-answer",
+    "id": "hermes-labs-ai/quickthink",
+    "language": "Python",
+    "name": "hermes-labs-ai/quickthink",
+    "stars": 1,
+    "updated_at": "2026-09-18T08:22:23Z",
+    "url": "https://github.com/hermes-labs-ai/quickthink"
+  },
+  {
+    "description": "Static analyzer for AI system prompts: parses a prompt into normative rules and reports contradictions, coverage gaps, p",
+    "id": "hermes-labs-ai/rule-audit",
+    "language": "Python",
+    "name": "hermes-labs-ai/rule-audit",
+    "stars": 2,
+    "updated_at": "2026-09-18T08:22:06Z",
+    "url": "https://github.com/hermes-labs-ai/rule-audit"
+  },
+  {
+    "description": "Inspectable context compression for LLM conversations: turn older history into visible scaffold state, keep recent turns",
+    "id": "hermes-labs-ai/langstate",
+    "language": "Python",
+    "name": "hermes-labs-ai/langstate",
+    "stars": 0,
+    "updated_at": "2026-09-18T08:22:02Z",
+    "url": "https://github.com/hermes-labs-ai/langstate"
+  },
+  {
+    "description": "A persistent, observable, and collaborative memory infrastructure",
+    "id": "lilhammerfun/clumsies",
+    "language": "Rust",
+    "name": "lilhammerfun/clumsies",
+    "stars": 18,
+    "updated_at": "2026-09-18T08:21:44Z",
+    "url": "https://github.com/lilhammerfun/clumsies"
+  },
+  {
+    "description": "AI Paper Reviewer: LLM-based tool for academic paper review",
+    "id": "FanBroWell/AI-paper-reviewer",
+    "language": "Python",
+    "name": "FanBroWell/AI-paper-reviewer",
+    "stars": 38,
+    "updated_at": "2026-09-18T08:20:46Z",
+    "url": "https://github.com/FanBroWell/AI-paper-reviewer"
+  },
+  {
+    "description": "\u628a\u9898\u76ee\u4e22\u7ed9 AI\uff0c\u8ba9\u5b83\u7528\u5927\u767d\u8bdd\u3001\u751f\u6d3b\u4f8b\u5b50\u548c\u201c\u4e3a\u4ec0\u4e48\u201d\uff0c\u4e00\u76f4\u8bb2\u5230\u4f60\u61c2 | Simple & sustainable AI learning prompts",
+    "id": "FanBroWell/simple-learning-prompts",
+    "language": "Python",
+    "name": "FanBroWell/simple-learning-prompts",
+    "stars": 1,
+    "updated_at": "2026-09-18T08:18:35Z",
+    "url": "https://github.com/FanBroWell/simple-learning-prompts"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Elevate your coding with Supercharged AI Dev Tools, an open-source directory of AI-powered solutions to boost product",
+    "id": "SUASTELARA/Supercharged-AI-Dev-Tools",
+    "language": "\u2014",
+    "name": "SUASTELARA/Supercharged-AI-Dev-Tools",
+    "stars": 4,
+    "updated_at": "2026-09-18T08:18:09Z",
+    "url": "https://github.com/SUASTELARA/Supercharged-AI-Dev-Tools"
+  },
+  {
+    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
+    "id": "gthgomez/Babel",
+    "language": "TypeScript",
+    "name": "gthgomez/Babel",
+    "stars": 1,
+    "updated_at": "2026-09-18T08:18:06Z",
+    "url": "https://github.com/gthgomez/Babel"
+  },
+  {
+    "description": "A delivery-discipline behavior layer for AI agents \u2014 turns \u201cthe agent says it's done\u201d into \u201cthe agent proves it's done\u201d:",
+    "id": "JadeYingWah/gpt-series-reasoning-style",
+    "language": "Markdown",
+    "name": "JadeYingWah/gpt-series-reasoning-style",
+    "stars": 3,
+    "updated_at": "2026-09-18T08:16:50Z",
+    "url": "https://github.com/JadeYingWah/gpt-series-reasoning-style"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-18T08:15:27Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
     "description": "\ud83d\udd04 Enable seamless AI conversations with a universal file format that saves and transfers your chat history across platfo",
     "id": "AFRATUL1/AI-dropin-spec",
     "language": "\u2014",
@@ -14,7 +212,7 @@
     "language": "TypeScript",
     "name": "ghalynho10/JobHunt",
     "stars": 0,
-    "updated_at": "2026-09-18T08:14:08Z",
+    "updated_at": "2026-09-18T08:28:45Z",
     "url": "https://github.com/ghalynho10/JobHunt"
   },
   {
@@ -54,15 +252,6 @@
     "url": "https://github.com/KingFishyXMesa/fuzz2-producer-ai-angklungmann"
   },
   {
-    "description": "DSH Web \u63d2\u4ef6 \u00b7 \u63d0\u793a\u8bcd\u4f18\u5316\u5668\uff1a\u628a\u7528\u6237\u7684\u4e00\u53e5\u8bdd\u8865\u5168\u6210\u5b8c\u6574\u5177\u4f53\u7684\u8981\u6c42\u8bf4\u660e\uff08\u9762\u5411 PTC \u6a21\u5f0f\uff09\u30020.4 = \u9700\u6c42\u8865\u5168\u5668\u2014\u2014\u53ea\u8865\u5185\u5bb9\uff0c\u4e0d\u5199\u6d41\u7a0b/\u6b65\u9aa4/\u9a8c\u6536\u6e05\u5355/\u9a8c\u8bc1\u7eaa\u5f8b/\u7981\u4ee4\u3002",
-    "id": "WestFox-AwA/dsh-prompt-optimizer",
-    "language": "JavaScript",
-    "name": "WestFox-AwA/dsh-prompt-optimizer",
-    "stars": 60,
-    "updated_at": "2026-09-18T08:12:24Z",
-    "url": "https://github.com/WestFox-AwA/dsh-prompt-optimizer"
-  },
-  {
     "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
     "id": "imhamzakhan/context-flow-compressor",
     "language": "HTML",
@@ -72,20 +261,11 @@
     "url": "https://github.com/imhamzakhan/context-flow-compressor"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 34763,
-    "updated_at": "2026-09-18T08:15:23Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking l",
     "id": "JuliusBrussee/caveman",
     "language": "Go",
     "name": "JuliusBrussee/caveman",
-    "stars": 106395,
+    "stars": 106400,
     "updated_at": "2026-09-18T08:11:02Z",
     "url": "https://github.com/JuliusBrussee/caveman"
   },
@@ -131,7 +311,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22110,
-    "updated_at": "2026-09-18T08:03:35Z",
+    "updated_at": "2026-09-18T08:25:51Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -162,24 +342,6 @@
     "url": "https://github.com/BotShelfVampire/botshelf-ai-team-registry"
   },
   {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-18T08:00:30Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
-  },
-  {
-    "description": "Recovers the original goal of a long Claude Code or Codex session from its first user turn, so you can restate it before",
-    "id": "hermes-labs-ai/hermes-blind",
-    "language": "Python",
-    "name": "hermes-labs-ai/hermes-blind",
-    "stars": 8,
-    "updated_at": "2026-09-18T08:00:25Z",
-    "url": "https://github.com/hermes-labs-ai/hermes-blind"
-  },
-  {
     "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI i",
     "id": "kadevin/ilab-conjure",
     "language": "JavaScript",
@@ -189,13 +351,13 @@
     "url": "https://github.com/kadevin/ilab-conjure"
   },
   {
-    "description": "Open-source local coding-agent CLI with Chat, Plan, and a governed Deep mode\u2014plus inspectable prompts, permissions, work",
-    "id": "gthgomez/Babel",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
     "language": "TypeScript",
-    "name": "gthgomez/Babel",
-    "stars": 1,
-    "updated_at": "2026-09-18T08:00:18Z",
-    "url": "https://github.com/gthgomez/Babel"
+    "name": "promptfoo/promptfoo",
+    "stars": 25252,
+    "updated_at": "2026-09-18T07:59:45Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt pr",
@@ -279,24 +441,6 @@
     "url": "https://github.com/lowqualityloey/promptkit-os"
   },
   {
-    "description": "\u516b\u5b57\u3001\u7d2b\u5fae\u3001\u661f\u76d8\u3001\u516d\u723b\u3001\u6885\u82b1\u3001\u5947\u95e8\u3001\u5927\u516d\u58ec\u3001\u5c0f\u516d\u58ec\u3001\u5854\u7f57\u3001\u96f7\u8bfa\u66fc\u3001\u7075\u7b7e\u3001\u62e9\u65e5\u4e00\u7ad9\u5f0f\u7384\u5b66\u7b97\u547d\u5360\u535c\u5de5\u5177\u5305\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u63d0\u793a\u8bcd\u4e0e\u6570\u636e\u3002\u63d0\u4f9b\u516c\u5f00 API\u3001MCP Server \u4e0e skill\u3002",
-    "id": "Brhiza/mingyu",
-    "language": "TypeScript",
-    "name": "Brhiza/mingyu",
-    "stars": 430,
-    "updated_at": "2026-09-18T08:12:02Z",
-    "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
-    "description": "A decision-oriented LLM engineering knowledge base \u2014 from Attention to production. 291 cards, 36-card path: fundamentals",
-    "id": "weicyang/llm-eng-cards",
-    "language": "HTML",
-    "name": "weicyang/llm-eng-cards",
-    "stars": 3,
-    "updated_at": "2026-09-18T07:50:12Z",
-    "url": "https://github.com/weicyang/llm-eng-cards"
-  },
-  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -304,149 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T07:49:10Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-09-18T07:49:08Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Top AI Prompt Optimizer 2026 \u2013 Transform Vague Requests Into Structured Dev Specs",
-    "id": "tech-guru254/spec-weaver",
-    "language": "HTML",
-    "name": "tech-guru254/spec-weaver",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:48:30Z",
-    "url": "https://github.com/tech-guru254/spec-weaver"
-  },
-  {
-    "description": "Best Free Prompt Architect AI 2026 \u2013 Build Production Prompts with Claude's Interview Framework",
-    "id": "kodancrash-oss/prompt-weaver-framework",
-    "language": "HTML",
-    "name": "kodancrash-oss/prompt-weaver-framework",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:48:28Z",
-    "url": "https://github.com/kodancrash-oss/prompt-weaver-framework"
-  },
-  {
-    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
-    "id": "repoprompt/repoprompt-ce",
-    "language": "Swift",
-    "name": "repoprompt/repoprompt-ce",
-    "stars": 937,
-    "updated_at": "2026-09-18T07:48:19Z",
-    "url": "https://github.com/repoprompt/repoprompt-ce"
-  },
-  {
-    "description": "Meridian - A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversa",
-    "id": "MathisVerstrepen/Meridian",
-    "language": "Python",
-    "name": "MathisVerstrepen/Meridian",
-    "stars": 21,
-    "updated_at": "2026-09-18T07:48:09Z",
-    "url": "https://github.com/MathisVerstrepen/Meridian"
-  },
-  {
-    "description": "zer0lint is a memory-extraction health diagnostic for mem0 configs and HTTP memory endpoints. It flags silent failure mo",
-    "id": "hermes-labs-ai/zer0lint",
-    "language": "Python",
-    "name": "hermes-labs-ai/zer0lint",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:47:17Z",
-    "url": "https://github.com/hermes-labs-ai/zer0lint"
-  },
-  {
-    "description": "MCP & Agent \u5171\u4eab\u96c6\u7fa4\uff1aLLM \u7f51\u5173\uff08\u591a\u5382\u5546\u7edf\u4e00\u63a5\u5165 + \u590d\u6742\u5ea6\u8def\u7531\uff09/ RAG\uff08\u8bed\u4e49\u5207\u5206 + \u4e09\u540e\u7aef + \u6df7\u5408\u91cd\u6392\uff09/ \u8bb0\u5fc6 / Prompt \u6ce8\u518c\u4e2d\u5fc3 / MCP \u5de5\u5177\u534f\u8bae\u3002\u4f9b\u8de8\u5883\u7535\u5546 AI \u751f\u6001\u7684\u6240\u6709\u4e1a\u52a1 Agent \u590d\u7528\u3002",
-    "id": "rchzc/ecom-agent-shared",
-    "language": "Python",
-    "name": "rchzc/ecom-agent-shared",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:46:42Z",
-    "url": "https://github.com/rchzc/ecom-agent-shared"
-  },
-  {
-    "description": "AI Social Defense Toolkit 2026: Detect Manipulation & Counter Pickup Artist Tactics",
-    "id": "tubasa821004-hash/social-manipulation-radar",
-    "language": "HTML",
-    "name": "tubasa821004-hash/social-manipulation-radar",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:46:07Z",
-    "url": "https://github.com/tubasa821004-hash/social-manipulation-radar"
-  },
-  {
-    "description": "One-Click AI Dev Environment Setup 2026 \u2013 Outline-Driven CLI Instant Init",
-    "id": "Faudzan10/outline-driven-starter-kit",
-    "language": "HTML",
-    "name": "Faudzan10/outline-driven-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:45:50Z",
-    "url": "https://github.com/Faudzan10/outline-driven-starter-kit"
-  },
-  {
-    "description": "Unslop Your AI Output 2026 - Humanize Text Instantly, No AI Clich\u00e9s",
-    "id": "edsondviana8/ai-humanizer-core",
-    "language": "HTML",
-    "name": "edsondviana8/ai-humanizer-core",
-    "stars": 1,
-    "updated_at": "2026-09-18T07:45:17Z",
-    "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "Sourced GPT Image 2.5 (Flare/Sunburst) prompts with attribution \u2014 curated for hiAPI / API experiments",
-    "id": "xiaoYuan928/gpt-image-25-prompts",
-    "language": "\u2014",
-    "name": "xiaoYuan928/gpt-image-25-prompts",
-    "stars": 1,
-    "updated_at": "2026-09-18T07:41:26Z",
-    "url": "https://github.com/xiaoYuan928/gpt-image-25-prompts"
-  },
-  {
-    "description": "Portable engineering workflows for AI coding agents \u2014 35 playbooks for bug fixing, feature development, code review, tes",
-    "id": "chiragmangaldev3112/agent-playbooks",
-    "language": "Shell",
-    "name": "chiragmangaldev3112/agent-playbooks",
-    "stars": 2,
-    "updated_at": "2026-09-18T07:40:01Z",
-    "url": "https://github.com/chiragmangaldev3112/agent-playbooks"
-  },
-  {
-    "description": "\ud83c\udfaf Full-stack engineer & AI/ML enthusiast building production-grade web apps and LLM-powered systems | React \u00b7 Node.js \u00b7 ",
-    "id": "Aditya-dxt/Aditya-dxt",
-    "language": "\u2014",
-    "name": "Aditya-dxt/Aditya-dxt",
-    "stars": 2,
-    "updated_at": "2026-09-18T07:39:46Z",
-    "url": "https://github.com/Aditya-dxt/Aditya-dxt"
-  },
-  {
-    "description": "Did You Know - Web app otomatis yang menyajikan satu fakta menarik dan edukatif setiap harinya dalam Bahasa Indonesia.",
-    "id": "hilmifawwazsaad/DidYouKnow",
-    "language": "TypeScript",
-    "name": "hilmifawwazsaad/DidYouKnow",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:39:40Z",
-    "url": "https://github.com/hilmifawwazsaad/DidYouKnow"
-  },
-  {
-    "description": "AI \u77ed\u5267\u751f\u6210\u5e73\u53f0\uff5cAI Short-Drama Video Generator \u2014 \u4ece\u5267\u672c\u5230\u6210\u7247\u4e00\u7ad9\u5f0f\u751f\u4ea7\uff1aLLM \u5267\u672c\u89e3\u6790\u3001\u667a\u80fd\u5206\u955c\u3001@\u5f15\u7528\u63d0\u793a\u8bcd\u3001\u591a\u6a21\u578b\u89c6\u9891\u751f\u6210\uff08MiniMax-H3 r2va \u591a\u6a21\u6001\u53c2\u8003\uff09\u3001React-Flow \u8282\u70b9",
-    "id": "xxx-888/super_gen",
-    "language": "Python",
-    "name": "xxx-888/super_gen",
-    "stars": 12,
-    "updated_at": "2026-09-18T07:39:31Z",
-    "url": "https://github.com/xxx-888/super_gen"
-  },
-  {
-    "description": "gpt image2.5 API prompt gallery (GPT Image 2.5 / gpt-image-2.5 / gptimage2.5 / image2.5 api): 12 tested prompt recipes w",
-    "id": "apimart98ww/gpt-image2.5-api-prompt-gallery",
-    "language": "Python",
-    "name": "apimart98ww/gpt-image2.5-api-prompt-gallery",
-    "stars": 0,
-    "updated_at": "2026-09-18T07:38:33Z",
-    "url": "https://github.com/apimart98ww/gpt-image2.5-api-prompt-gallery"
   }
 ]
