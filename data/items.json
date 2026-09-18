@@ -1,12 +1,138 @@
 [
   {
+    "description": "Open framework for empirical AI visibility benchmarks, multi-model provider observation, and reproducible GEO research.",
+    "id": "tmolavi/geo-scope",
+    "language": "Python",
+    "name": "tmolavi/geo-scope",
+    "stars": 2,
+    "updated_at": "2026-09-18T21:45:01Z",
+    "url": "https://github.com/tmolavi/geo-scope"
+  },
+  {
+    "description": "Suite de ingenier\u00eda de prompts para IA generativa \u2014 271 modelos de imagen, v\u00eddeo y audio, cada uno con sus propias regla",
+    "id": "Gustaafvito/gprompt-studio",
+    "language": "Python",
+    "name": "Gustaafvito/gprompt-studio",
+    "stars": 2,
+    "updated_at": "2026-09-18T21:43:59Z",
+    "url": "https://github.com/Gustaafvito/gprompt-studio"
+  },
+  {
     "description": "DeepSeek Harness (DSH) \u63d2\u4ef6\uff1a\u2728 \u63d0\u793a\u8bcd\u4e00\u952e\u589e\u5f3a + \ud83d\udcac \u8bed\u97f3\u8bc6\u522b\uff08\u8bf4\u5b8c\u81ea\u52a8\u505c\u00b7\u4e91\u7aef/\u672c\u5730\u53cc\u5f15\u64ce\uff09\u00b7 \u9644 \ud83d\udd01 \u670d\u52a1\u5f02\u5e38\u4e00\u952e\u91cd\u542f",
     "id": "Fishsb/dsh-prompt-enhancer",
     "language": "JavaScript",
     "name": "Fishsb/dsh-prompt-enhancer",
     "stars": 72,
-    "updated_at": "2026-09-18T21:30:00Z",
+    "updated_at": "2026-09-18T21:43:09Z",
     "url": "https://github.com/Fishsb/dsh-prompt-enhancer"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11536,
+    "updated_at": "2026-09-18T21:43:31Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Agent orchestration kernel for Claude Code, Codex, Gemini CLI, Cursor & OpenCode \u2014 routing, WorkGraphs, state, skill sec",
+    "id": "AL-JANEF/janef-one",
+    "language": "Python",
+    "name": "AL-JANEF/janef-one",
+    "stars": 1,
+    "updated_at": "2026-09-18T21:41:05Z",
+    "url": "https://github.com/AL-JANEF/janef-one"
+  },
+  {
+    "description": "89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systemat",
+    "id": "LerianStudio/ring",
+    "language": "HTML",
+    "name": "LerianStudio/ring",
+    "stars": 215,
+    "updated_at": "2026-09-18T21:35:36Z",
+    "url": "https://github.com/LerianStudio/ring"
+  },
+  {
+    "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve ",
+    "id": "apoapostolov/humanizer",
+    "language": "JavaScript",
+    "name": "apoapostolov/humanizer",
+    "stars": 7,
+    "updated_at": "2026-09-18T21:32:36Z",
+    "url": "https://github.com/apoapostolov/humanizer"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-18T21:31:58Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, choose its",
+    "id": "BOWLUNA/dsh-custom-mode",
+    "language": "JavaScript",
+    "name": "BOWLUNA/dsh-custom-mode",
+    "stars": 1,
+    "updated_at": "2026-09-18T21:34:25Z",
+    "url": "https://github.com/BOWLUNA/dsh-custom-mode"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 23,
+    "updated_at": "2026-09-18T21:32:34Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "id": "AgustiPuigserver/opus-prompt-architect",
+    "language": "HTML",
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "stars": 125,
+    "updated_at": "2026-09-18T21:31:49Z",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect"
+  },
+  {
+    "description": "\u65e0\u6781\u519b\u56e2 3.0\uff1a\u9762\u5411 Codex \u7684\u667a\u80fd\u5de5\u4f5c\u4e2d\u67a2\u3002\u4ee5\u81ea\u7136\u8bed\u8a00\u7ec4\u7ec7 Skill\u3001\u63d2\u4ef6\u4e0e MCP\uff0c\u4fdd\u7559\u767d\u5e3d\u5224\u65ad\u3001\u6709\u754c\u6267\u884c\u4e0e\u8bc1\u636e\u9a71\u52a8\u8fdb\u5316\u3002\u516c\u5f00\u5f00\u53d1\u4e2d\u3002",
+    "id": "AI-wuji/wuji-legion-codex",
+    "language": "Go",
+    "name": "AI-wuji/wuji-legion-codex",
+    "stars": 2,
+    "updated_at": "2026-09-18T21:31:23Z",
+    "url": "https://github.com/AI-wuji/wuji-legion-codex"
+  },
+  {
+    "description": "Top 10 Claude Prompt Optimization Frameworks 2026",
+    "id": "heavenaruba/codified-prompt-rule-engine",
+    "language": "HTML",
+    "name": "heavenaruba/codified-prompt-rule-engine",
+    "stars": 123,
+    "updated_at": "2026-09-18T21:31:19Z",
+    "url": "https://github.com/heavenaruba/codified-prompt-rule-engine"
+  },
+  {
+    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
+    "id": "linny006/prompt-tools-live",
+    "language": "Python",
+    "name": "linny006/prompt-tools-live",
+    "stars": 10,
+    "updated_at": "2026-09-18T21:30:29Z",
+    "url": "https://github.com/linny006/prompt-tools-live"
+  },
+  {
+    "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
+    "id": "synaptiai/synapti-marketplace",
+    "language": "Shell",
+    "name": "synaptiai/synapti-marketplace",
+    "stars": 6,
+    "updated_at": "2026-09-18T21:43:37Z",
+    "url": "https://github.com/synaptiai/synapti-marketplace"
   },
   {
     "description": "Agent skills for making video from generated footage: pre-production, cost-gated generation, edit, audio, finish and QC",
@@ -41,17 +167,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4815,
-    "updated_at": "2026-09-18T21:29:42Z",
+    "updated_at": "2026-09-18T21:31:49Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Custom modes and custom prompts for DeepSeek Harness (dsh): edit a mode's system prompt in the settings page, choose its",
-    "id": "BOWLUNA/dsh-custom-mode",
-    "language": "JavaScript",
-    "name": "BOWLUNA/dsh-custom-mode",
-    "stars": 1,
-    "updated_at": "2026-09-18T21:26:52Z",
-    "url": "https://github.com/BOWLUNA/dsh-custom-mode"
   },
   {
     "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
@@ -90,30 +207,12 @@
     "url": "https://github.com/electricwolfemarshmallowhypertext/laconic-skill"
   },
   {
-    "description": "Open framework for empirical AI visibility benchmarks, multi-model provider observation, and reproducible GEO research.",
-    "id": "tmolavi/geo-scope",
-    "language": "Python",
-    "name": "tmolavi/geo-scope",
-    "stars": 2,
-    "updated_at": "2026-09-18T21:22:14Z",
-    "url": "https://github.com/tmolavi/geo-scope"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 23,
-    "updated_at": "2026-09-18T21:23:09Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
     "description": "Test, red-team, and deploy LLM applications with confidence. Multi-provider support (OpenAI, Anthropic, Gemini), MCP int",
     "id": "AltairaLabs/PromptKit",
     "language": "Go",
     "name": "AltairaLabs/PromptKit",
     "stars": 9,
-    "updated_at": "2026-09-18T21:20:06Z",
+    "updated_at": "2026-09-18T21:43:40Z",
     "url": "https://github.com/AltairaLabs/PromptKit"
   },
   {
@@ -135,15 +234,6 @@
     "url": "https://github.com/TomiToivio/LaclauGPT-Multimodal-Analysis"
   },
   {
-    "description": "Suite de ingenier\u00eda de prompts para IA generativa \u2014 271 modelos de imagen, v\u00eddeo y audio, cada uno con sus propias regla",
-    "id": "Gustaafvito/gprompt-studio",
-    "language": "Python",
-    "name": "Gustaafvito/gprompt-studio",
-    "stars": 2,
-    "updated_at": "2026-09-18T21:16:48Z",
-    "url": "https://github.com/Gustaafvito/gprompt-studio"
-  },
-  {
     "description": "XY.AI Workbench \u2013 Eclipse RCP solution for LLM-augmented workflows. Token-driven intelligence with tool orchestration, R",
     "id": "Nyanna/XY.AI.Workbench",
     "language": "Python",
@@ -151,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T21:16:16Z",
     "url": "https://github.com/Nyanna/XY.AI.Workbench"
-  },
-  {
-    "description": "Live-updating tracker of prompt engineering tools, libraries, and techniques \u2014 refreshed every 15 mi",
-    "id": "linny006/prompt-tools-live",
-    "language": "Python",
-    "name": "linny006/prompt-tools-live",
-    "stars": 10,
-    "updated_at": "2026-09-18T21:15:28Z",
-    "url": "https://github.com/linny006/prompt-tools-live"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -283,7 +364,7 @@
     "id": "github/awesome-copilot",
     "language": "JavaScript",
     "name": "github/awesome-copilot",
-    "stars": 39144,
+    "stars": 39145,
     "updated_at": "2026-09-18T20:53:10Z",
     "url": "https://github.com/github/awesome-copilot"
   },
@@ -329,7 +410,7 @@
     "language": "HTML",
     "name": "Shashwatss10/PromithicAI",
     "stars": 1,
-    "updated_at": "2026-09-18T20:47:00Z",
+    "updated_at": "2026-09-18T21:33:58Z",
     "url": "https://github.com/Shashwatss10/PromithicAI"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 430,
     "updated_at": "2026-09-18T20:55:06Z",
     "url": "https://github.com/Brhiza/mingyu"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11536,
-    "updated_at": "2026-09-18T21:28:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Claude Code plugin: one engineering process, skills that take turns, and agents that keep discovery off the main context",
-    "id": "blauwtje/exo",
-    "language": "JavaScript",
-    "name": "blauwtje/exo",
-    "stars": 1,
-    "updated_at": "2026-09-18T20:41:24Z",
-    "url": "https://github.com/blauwtje/exo"
-  },
-  {
-    "description": "[Emacs] Compose LLM prompts from building blocks.",
-    "id": "mrcnski/promptu.el",
-    "language": "Emacs Lisp",
-    "name": "mrcnski/promptu.el",
-    "stars": 1,
-    "updated_at": "2026-09-18T20:41:03Z",
-    "url": "https://github.com/mrcnski/promptu.el"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 1,
-    "updated_at": "2026-09-18T20:38:54Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Curated, verified Agent Skills powered by ModelStudio.",
-    "id": "modelstudioai/skills",
-    "language": "Python",
-    "name": "modelstudioai/skills",
-    "stars": 57,
-    "updated_at": "2026-09-18T20:35:28Z",
-    "url": "https://github.com/modelstudioai/skills"
-  },
-  {
-    "description": "Open study kit for Anthropic's Claude Certified Architect \u2013 Foundations (CCAR-F) exam: domain-by-domain guide, 28-day pl",
-    "id": "aloaguilar20/claude-certified-architect-foundations-prep",
-    "language": "HTML",
-    "name": "aloaguilar20/claude-certified-architect-foundations-prep",
-    "stars": 2,
-    "updated_at": "2026-09-18T20:33:13Z",
-    "url": "https://github.com/aloaguilar20/claude-certified-architect-foundations-prep"
-  },
-  {
-    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library \u2728",
-    "id": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "language": "HTML",
-    "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
-    "stars": 2,
-    "updated_at": "2026-09-18T20:31:41Z",
-    "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals"
-  },
-  {
-    "description": "Unlock 1000+ Universal Agentic AI Skills 2026 - Claude, Gemini, Cursor Scripts",
-    "id": "Atheerameer/agentic-cli-blueprint-library",
-    "language": "HTML",
-    "name": "Atheerameer/agentic-cli-blueprint-library",
-    "stars": 0,
-    "updated_at": "2026-09-18T20:30:39Z",
-    "url": "https://github.com/Atheerameer/agentic-cli-blueprint-library"
-  },
-  {
-    "description": "Ultimate AI Spellbook Workflows 2026 \u2013 Build Multi-Platform Skills & Automation",
-    "id": "SHENG5411/grimoire-of-tools",
-    "language": "HTML",
-    "name": "SHENG5411/grimoire-of-tools",
-    "stars": 2,
-    "updated_at": "2026-09-18T20:30:38Z",
-    "url": "https://github.com/SHENG5411/grimoire-of-tools"
   }
 ]
